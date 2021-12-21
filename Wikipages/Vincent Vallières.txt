@@ -1,0 +1,83 @@
+{{short description|Canadian singer from Sherbrooke (born 1978)}}
+{{Multiple issues|{{More footnotes|date=October 2021}}{{Lead too short|date=October 2021}}}}{{Infobox musical artist
+| name                = 
+| image               = Vincent Vallières04.JPG
+| alt                 = 
+| caption             = Vincent Vallières, in Jonquière, July 14, 2011
+| image_size          = 
+| landscape           = <!-- yes, if wide image, otherwise leave blank -->
+| background          = solo_singer
+| birth_name          = 
+| alias               = 
+| birth_date          = {{birth date and age|1978|8|8}}
+| birth_place         = [[Sherbrooke]], [[Quebec]], Canada
+| origin              = 
+| genre               = {{hlist|[[Rock music|Rock]]|[[Country music|country]]}}
+| occupation          = Singer
+| instrument          = {{hlist|Guitar|harmonica}}
+| years_active        = 1996-present
+| label               = 
+| associated_acts     = 
+| website             = {{URL|vincentvallieres.com}} 
+}}
+'''Vincent Vallières''' (born August 8, 1978) is a Canadian singer from [[Sherbrooke]].
+
+==Career==
+Vallières debut album, ''Trente Arpents'', was released in 1999, followed by ''Bordel Ambiant'' in 2001 . He became popular in Quebec in 2003 with the release of his third album, ''Chacun Dans Son Espace''. On August 29, 2006, his fourth album, ''Le Repère Tranquille'', was released, with the first single "Je pars à pied" immediately put into the regular rotations of many Québec radio stations. The second single from the latest album, "Un quart de piasse", is currently receiving airplay.
+
+== Discography ==
+
+===Albums===
+*''Trente arpents'', 1999
+*''Bordel ambiant'', 2001
+*''Chacun dans son espace'', 2003
+*''Le Repère tranquille'', 2006
+*''Le Monde tourne fort'', 2009, Gold ([[Music Canada]])<ref name=musiccanada>{{Cite web |url=https://musiccanada.com/GPSearchResult.aspx?st=&ica=False&sa=&sl=&smt=0&sat=-1&ssd=12%2F1%2F2011&ssb=Artist |title=musiccanada.com |access-date=2011-12-18 |archive-url=https://web.archive.org/web/20120502114458/http://musiccanada.com/GPSearchResult.aspx?st=&ica=False&sa=&sl=&smt=0&sat=-1&ssd=12%2F1%2F2011&ssb=Artist |archive-date=2012-05-02 |url-status=dead }}</ref>
+*''Fabriquer l'aube'', 2013, Gold (Music Canada)<ref name=musiccanada/>
+*''Le temps des vivants'', 2017<ref>[http://vincentvallieres.com/discographie/]</ref>
+*''Toute beauté n'est pas perdue'', 2021
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:18em;"| Single
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Canadian Hot 100|CAN]]
+|-
+| 2011
+! scope="row"| "On Va S'Aimer Encore"
+| 56
+| align="left"| ''Le Monde Tourne Fort''
+|-
+| colspan="4" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==Prizes and honors==
+* 2005: [[Prix Félix-Leclerc de la chanson]] (Québec)
+* 2007: [[Prix Gilles-Vigneault]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.answers.com/topic/vincent-vallieres Vincent Vallières] Biography at answers.com
+* [http://www.cbc.ca/apropos/features.html CBC Radio]
+* [http://www.forces.gc.ca/site/Community/mapleleaf/article_e.asp?id=2823 DND news article]
+* [http://www.vincentvallieres.com Vincent Vallières] Official site
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vallieres, Vincent}}
+[[Category:1978 births]]
+[[Category:Living people]]
+[[Category:French-language singers of Canada]]
+[[Category:French Quebecers]]
+[[Category:Musicians from Sherbrooke]]
+[[Category:Canadian male guitarists]]
+[[Category:21st-century Canadian guitarists]]
+[[Category:21st-century Canadian male singers]]
+[[Category:Félix Award winners]]

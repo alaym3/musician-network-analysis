@@ -1,0 +1,191 @@
+{{short description|Enclosed, cable-like bundle of axons in the peripheral nervous system}}
+{{About|nerves||Nerve (disambiguation)}}
+{{Infobox nerve
+| Name = Nerve
+| Latin = nervus
+| Image = Nerves of the left upper extremity.gif
+| Caption = Nerves (yellow) in the arm
+| System = [[Nervous system]]
+}}
+A '''nerve''' is an enclosed, cable-like bundle of fibers (called [[axon]]s) in the [[peripheral nervous system]]. 
+
+A nerve transmits electrical impulses. It is the basic unit of the peripheral nervous system. A nerve provides a common pathway for the [[electrochemical]] nerve impulses called [[action potential]]s that are transmitted along each of the [[axon]]s to peripheral organs or, in the case of [[sensory nerve]]s, from the periphery back to the [[central nervous system]]. Each axon, within the nerve, is an extension of an individual [[neuron]], along with other supportive cells such as some [[Schwann cell]]s that coat the axons in [[myelin]]. 
+
+Within a nerve, each axon is surrounded by a layer of connective tissue called the [[endoneurium]]. The axons are bundled together into groups called [[Nerve fascicle|fascicles]], and each fascicle is wrapped in a layer of connective tissue called the [[perineurium]]. Finally, the entire nerve is wrapped in a layer of connective tissue called the [[epineurium]]. Nerve cells are called neurons( neurons which could be sensory, mixed and motor neurons)
+
+In the [[central nervous system]], the analogous structures are known as [[nerve tract]]s.<ref name="Purves"/><ref name="Marieb">{{cite book |vauthors=Marieb EN, Hoehn K |title=Human Anatomy & Physiology |url=https://archive.org/details/humananatomyphys0000mari_r3o8 |url-access=registration |edition=7th |publisher=Pearson |pages=388–602 |year=2007 |isbn=978-0-8053-5909-1 }}</ref>
+
+==Structure==
+[[File:1319 Nerve StructureN.jpg|thumb|Cross-section of a nerve]]
+
+Each nerve is covered on the outside by a dense sheath of [[connective tissue]], the [[epineurium]]. Beneath this is a layer of fat cells, the [[perineurium]], which forms a complete sleeve around a bundle of axons. Perineurial septae extend into the nerve and subdivide it into several bundles of fibres. Surrounding each such fibre is the [[endoneurium]]. This forms an unbroken tube from the surface of the spinal cord to the level where the axon synapses with its muscle fibres, or ends in [[sensory receptor]]s. The endoneurium consists of an inner sleeve of material called the [[glycocalyx]] and an outer, delicate, meshwork of [[collagen]] fibres.<ref name="Marieb"/> Nerves are bundled and often travel along with [[blood vessels]], since the neurons of a nerve have fairly high energy requirements.
+
+Within the endoneurium, the individual nerve fibres are surrounded by a low-protein liquid called endoneurial fluid. This acts in a similar way to the [[cerebrospinal fluid]] in the [[central nervous system]] and constitutes a '''''blood-nerve barrier''''' similar to the [[blood-brain barrier]].<ref>{{cite journal|last1=Kanda|first1=T|title=Biology of the blood-nerve barrier and its alteration in immune mediated neuropathies|journal= Journal of Neurology, Neurosurgery & Psychiatry|date=Feb 2013|volume=84|issue=2|pages=208–212|pmid=23243216|doi=10.1136/jnnp-2012-302312|s2cid=207005110}}</ref> Molecules are thereby prevented from crossing the blood into the endoneurial fluid. During the development of nerve [[edema]] from nerve irritation (or injury), the amount of endoneurial fluid may increase at the site of irritation. This increase in fluid can be visualized using [[magnetic resonance neurography]], and thus MR neurography can identify nerve irritation and/or injury.
+
+===Categories===
+Nerves are categorized into three groups based on the direction that signals are conducted:
+
+* ''[[Afferent nerve fiber|Afferent nerve]]s'' conduct signals from [[sensory neuron]]s to the [[central nervous system]], for example from the [[mechanoreceptors]] in [[skin]].
+* ''[[Efferent nerve fiber|Efferent nerve]]s'' conduct signals from the central nervous system along [[motor neuron]]s to their target [[muscle]]s and [[gland]]s.
+* '''''Mixed nerves''''' contain both afferent and efferent axons, and thus conduct both incoming [[sense|sensory]] information and outgoing muscle commands in the same bundle. All spinal nerves are mixed nerves, and some of the cranial nerves are also mixed nerves.
+Nerves can be categorized into two groups based on where they connect to the central nervous system:
+* ''[[Spinal nerve]]s'' innervate (distribute to/stimulate) much of the body, and connect through the [[vertebral column]] to the [[spinal cord]] and thus to the [[central nervous system]]. They are given letter-number designations according to the [[vertebra]] through which they connect to the spinal column.
+* ''[[Cranial nerves]]'' innervate parts of the head, and connect directly to the [[brain]] (especially to the [[brainstem]]). They are typically assigned [[Roman numerals]] from 1 to 12, although [[cranial nerve zero]] is sometimes included. In addition, cranial nerves have descriptive names.
+
+===Terminology===
+{{Main|Anatomical terms of neuroanatomy}}
+Specific terms are used to describe nerves and their actions. A nerve that supplies information to the brain from an area of the body, or controls an action of the body is said to "innervate" that section of the body or organ. Other terms relate to whether the nerve affects the same side ("ipsilateral") or opposite side ("contralateral") of the body, to the part of the brain that supplies it.
+
+==Development==
+Nerve growth normally ends in adolescence, but can be re-stimulated with a molecular mechanism known as "[[Notch signaling]]".<ref>[https://www.sciencedaily.com/releases/1999/10/991022005127.htm Yale Study Shows Way To Re-Stimulate Brain Cell Growth ScienceDaily] {{webarchive|url=https://web.archive.org/web/20170707062502/https://www.sciencedaily.com/releases/1999/10/991022005127.htm |date=2017-07-07 }} (Oct. 22, 1999) — Results Could Boost Understanding Of Alzheimer's, Other Brain Disorders</ref>
+
+===Regeneration===
+If the axons of a [[neuron]] are damaged, as long as [[Soma (biology)|the cell body]] of the neuron is not damaged, the axons can regenerate and remake the synaptic connections with neurons with the help of [[guidepost cells]]. This is also referred to as [[neuroregeneration]].<ref>{{cite journal |last=Kunik |first=D |title=Laser-based single-axon transection for high-content axon injury and regeneration studies |journal=PLOS ONE |year=2011 |volume=6 |issue=11 |pages=e26832 |doi=10.1371/journal.pone.0026832 |pmid=22073205 |pmc=3206876|bibcode=2011PLoSO...626832K |doi-access=free }}</ref>
+
+The nerve begins the process by destroying the nerve [[distal]] to the site of injury allowing Schwann cells, basal lamina, and the neurilemma near the injury to begin producing a regeneration tube. Nerve growth factors are produced causing many nerve sprouts to bud.  When one of the growth processes finds the regeneration tube, it begins to grow rapidly towards its original destination guided the entire time by the regeneration tube. Nerve regeneration is very slow and can take up to several months to complete. While this process does repair some nerves, there will still be some functional deficit as the repairs are not perfect.<ref>{{cite web|url=http://www.medscape.com/viewarticle/480071_5|title=Pathophysiology of Peripheral Nerve Injury: A Brief Review: Nerve Regeneration|last1=Burnett |last2=Zager|first1=Mark |first2=Eric|publisher=Medscape|work=Medscape Article|access-date=2011-10-26|url-status=live|archive-url=https://web.archive.org/web/20111031061528/http://www.medscape.com/viewarticle/480071_5|archive-date=2011-10-31}}</ref>
+
+==Function==
+A nerve conveys information in the form of electrochemical impulses (as nerve impulses known as [[action potential]]s) carried by the individual neurons that make up the nerve. These impulses are extremely fast, with some [[myelinated]] neurons conducting at speeds up to 120&nbsp;m/s. The impulses travel from one neuron to another by crossing a [[synapse]], where the message is converted from [[Electrical synapse|electrical]] to [[Chemical synapse|chemical]] and then back to electrical.<ref name="Marieb" /><ref name="Purves" >{{cite book | last1 = Purves |first1=Dale|first2= George J.| last2=Augustine |first3=David |last3=Fitzpatrick|first4= William C. |last4=Hall|first5= Anthony-Samuel |last5=LaMantia|first6= James O.|last6= McNamara|first7= Leonard E. |last7=White | title = Neuroscience| url = https://archive.org/details/neuroscienceissu00purv | url-access = limited |edition=4 | publisher = Sinauer Associates | pages = [https://archive.org/details/neuroscienceissu00purv/page/n36 11]–20 | date = 2008 | isbn = 978-0-87893-697-7}}</ref>
+
+Nerves can be categorized into two groups based on function:
+* An [[afferent nerve fiber]] conducts sensory information from a [[sensory neuron]] to the central nervous system, where the information is then processed. Bundles of fibres or [[axon]]s, in the peripheral nervous system are called nerves, and bundles of afferent fibers are known as ''sensory nerves''.<ref name="Purves" /><ref name="Marieb" />
+* An [[efferent nerve fiber]] conducts signals from a [[motor neuron]] in the central nervous system to muscles. Bundles of these fibres  are known as ''efferent nerves''.
+
+===Nervous system===
+{{main|Nervous system}}
+
+The [[nervous system]] is the part of an [[animal]] that coordinates its actions by transmitting [[action potential|signals]] to and from different parts of its body.<ref>{{Cite book|title=Principles of Anatomy and Physiology (15th edition).|last=Tortora, G.J., Derrickson, B.|publisher=J. Wiley.|year=2016|isbn=978-1-119-34373-8}}</ref> In vertebrates it consists of two main parts, the [[central nervous system]] (CNS) and the [[peripheral nervous system]] (PNS). The CNS consists of the [[brain]] and [[spinal cord]]. The PNS consists mainly of nerves, which are enclosed bundles of the long fibers or [[axon]]s, that connect the CNS to every other part of the body.
+
+Nerves that transmit signals from the brain are called ''[[Motor nerve fibers|motor]]'' or ''[[Efferent nerve fiber|efferent]]'' nerves, while those nerves that transmit information from the body to the CNS are called ''sensory'' or ''afferent''. [[Spinal nerve]]s serve both functions and are called ''mixed'' nerves. The PNS is divided into three separate subsystems, the [[somatic nervous system|somatic]],  [[autonomic nervous system|autonomic]], and  [[enteric nervous system|enteric]] nervous systems. Somatic nerves mediate voluntary movement.
+
+The autonomic nervous system is further subdivided into the [[sympathetic nervous system|sympathetic]] and the [[parasympathetic nervous system|parasympathetic]] nervous systems. The sympathetic nervous system is activated in cases of emergencies to mobilize energy, while the parasympathetic nervous system is activated when organisms are in a relaxed state. The enteric nervous system functions to control the [[gastrointestinal]] system. Both autonomic and enteric nervous systems function involuntarily. Nerves that exit from the cranium are called [[cranial nerves]] while those exiting from the spinal cord are called [[spinal nerves]].
+
+==Clinical significance==
+[[Image:Prostatic adenocarcinoma with perineural invasion.JPG|thumb|right|[[Micrograph]] demonstrating [[perineural invasion]] of [[prostate cancer]]. [[H&E stain]].]]
+[[Cancer]] can spread by invading the spaces around nerves. This is particularly common in head and neck cancer, and prostate and colorectal cancer.
+
+Nerves can be damaged by physical injury as well conditions like [[carpal tunnel syndrome]] and [[repetitive strain injury]]. [[Autoimmune disease]]s such as [[Guillain–Barré syndrome]], [[neurodegenerative disease]]s, [[polyneuropathy]], infection, [[neuritis]], [[diabetes]], or failure of the blood vessels surrounding the nerve all cause nerve damage, which can vary in severity.
+
+[[Multiple sclerosis]] is a disease associated with extensive nerve damage. It occurs when the [[macrophage]]s of an individual's own immune system damage the myelin sheaths that insulate the axon of the nerve.
+
+A [[pinched nerve]] occurs when pressure is placed on a nerve, usually from swelling due to an injury, or pregnancy and can result in [[pain]], weakness, numbness or paralysis, an example being [[carpal tunnel syndrome]]. Symptoms can be felt in areas far from the actual site of damage, a phenomenon called [[referred pain]]. Referred pain can happen when the damage causes altered signalling to other areas.
+
+[[Neurology|Neurologists]] usually diagnose disorders of the nerves by a [[physical examination]], including the testing of [[reflex]]es, [[walking]] and other directed movements, [[muscle weakness]], [[proprioception]], and the sense of [[Somatosensory system|touch]]. This initial exam can be followed with tests such as [[nerve conduction study]], [[electromyography]] (EMG), and [[computed tomography]] (CT).<ref name="Weinberg">{{cite book | author = Weinberg |title=Normal computed tomography of the brain|page=109}}</ref>
+
+==Other animals==
+A neuron is called ''identified'' if it has properties that distinguish it from every other neuron in the same animal—properties such as location, neurotransmitter, gene expression pattern, and connectivity—and if every individual organism belonging to the same species has exactly one neuron with the same set of properties.<ref name=Hoyle>{{Cite book|title=Identified neurons and behavior of arthropods |publisher=Plenum Press |year=1977 |isbn=978-0-306-31001-0 |vauthors=Hoyle G, Wiersma CA }}</ref>  In vertebrate nervous systems, very few neurons are "identified" in this sense. Researchers believe humans have none—but in simpler nervous systems, some or all neurons may be thus unique.<ref name=Wormbook>{{Cite web |title=Wormbook: Specification of the nervous system |url=http://www.wormbook.org/chapters/www_specnervsys/specnervsys.html |url-status=live |archive-url=https://web.archive.org/web/20110717081646/http://www.wormbook.org/chapters/www_specnervsys/specnervsys.html |archive-date=2011-07-17 }}</ref>
+
+In vertebrates, the best known identified neurons are the gigantic [[Mauthner cell]]s of fish.<ref name=Stein>{{Cite book|title=Neurons, Networks, and Motor Behavior |last=Stein |first=PSG |publisher=MIT Press |date=1999 |isbn=978-0-262-69227-4}}</ref>{{rp|38–44}}  Every fish has two Mauthner cells, located in the bottom part of the brainstem, one on the left side and one on the right.  Each Mauthner cell has an axon that crosses over, innervating (stimulating) neurons at the same brain level and then travelling down through the spinal cord, making numerous connections as it goes.  The synapses generated by a Mauthner cell are so powerful that a single action potential gives rise to a major behavioral response:  within milliseconds the fish curves its body into a [[Mauthner cell#The C-start behavior|C-shape]], then straightens, thereby propelling itself rapidly forward.  Functionally this is a fast escape response, triggered most easily by a strong sound wave or pressure wave impinging on the lateral line organ of the fish.  Mauthner cells are not the only identified neurons in fish—there are about 20 more types, including pairs of "Mauthner cell analogs" in each spinal segmental nucleus.  Although a Mauthner cell is capable of bringing about an escape response all by itself, in the context of ordinary behavior other types of cells usually contribute to shaping the amplitude and direction of the response.
+
+Mauthner cells have been described as [[command neuron]]s.  A command neuron is a special type of identified neuron, defined as a neuron that is capable of driving a specific behavior all by itself.<ref name=Stein/>{{rp|112}}  Such neurons appear most commonly in the fast escape systems of various species—the [[squid giant axon]] and [[squid giant synapse]], used for pioneering experiments in neurophysiology because of their enormous size, both participate in the fast escape circuit of the squid.  The concept of a command neuron has, however, become controversial, because of studies showing that some neurons that initially appeared to fit the description were really only capable of evoking a response in a limited set of  circumstances.<ref name=Simmons43>{{Cite book|title=Nerve Cells and Animal Behaviour |url=https://archive.org/details/nervecellsanimal00simm_659 |url-access=limited |publisher=Cambridge University Press |year=1999 |isbn=978-0-521-62726-9 |page=[https://archive.org/details/nervecellsanimal00simm_659/page/n53 43] |vauthors=Simmons PJ, Young D }}</ref>
+
+In organisms of [[radial symmetry]], [[nerve net]]s serve for the nervous system. There is no brain or centralised head region, and instead there are interconnected neurons spread out in nerve nets. These are found in [[Cnidaria]], [[Ctenophora]] and [[Echinodermata]].
+
+==History==
+{{see|History of neurology and neurosurgery}}
+[[Herophilos]] 335–280 BC, described the [[optic nerve]] and the [[oculomotor nerve]] for sight and eye movement. Analysis of the nerves in the cranium allowed him to differentiate between blood vessels and nerves i.e. {{lang-grc|[[wiktionary:νεῦρον|νεῦρον (neûron)]]}}, ''“string (plant fiber), nerve”''.
+
+==See also==
+{{Portal|Biology}}
+<!-- Please keep entries in alphabetical order & add a short description [[WP:SEEALSO]] -->
+{{div col|colwidth=20em|small=yes}}
+* [[Connective tissue in the peripheral nervous system]]
+* [[Dermatome (anatomy)]]
+* [[List of nerves of the human body]]
+* [[Nerve injury]]
+* [[Nervous system]]
+* [[Neuropathy]]
+* [[Peripheral nerve injury]]
+* [[Peripheral nerve injury classification]]
+{{div col end}}
+<!-- please keep entries in alphabetical order -->
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{Refbegin|30em}}
+* [http://www.scholarpedia.org/article/Nervous_system Nervous system] William E. Skaggs, [[Scholarpedia]]
+* {{cite book
+| last = Bear
+| first = M. F.
+| author2 = B. W. Connors
+| author3 = M. A. Paradiso
+| title = Neuroscience: Exploring the Brain
+| location = Philadelphia
+| publisher = Lippincott
+| date = 2006
+| edition = 3rd
+| isbn = 0-7817-6003-8
+| url-access = registration
+| url = https://archive.org/details/neuroscienceexpl00mark
+}}
+* {{cite book
+| editor = Binder, Marc D.
+| editor2 = Hirokawa, Nobutaka
+| editor3 = Windhorst, Uwe
+| title = Encyclopedia of Neuroscience
+| publisher = Springer
+| date = 2009
+| isbn = 978-3-540-23735-8
+| url = https://www.springer.com/biomed/neuroscience/book/978-3-540-23735-8}}
+* {{cite book
+| author-link = Eric R. Kandel | last = Kandel | first = ER
+|author2=Schwartz JH |author3=Jessell TM
+ | title = Principles of Neural Science
+| title-link = Principles of Neural Science | edition = 5th
+| publisher = McGraw-Hill | location = New York
+| date = 2012
+| isbn = 978-0-8385-7701-1
+}}
+* Squire, L. ''et al.'' (2012). ''Fundamental Neuroscience, 4th edition''. [[Academic Press]]; {{ISBN|0-12-660303-0}}
+* {{cite book |last       = Andreasen
+ |first      = Nancy C.
+ |author-link = Nancy_C._Andreasen
+ |title      = Brave New Brain: Conquering Mental Illness in the Era of the Genome
+ |publisher  = Oxford University Press
+ |date       = March 4, 2004
+ |url        = https://archive.org/details/bravenewbraincon00andr
+ |isbn       = 978-0-19-514509-0
+}}
+* Damasio, A. R. (1994). ''Descartes' Error: Emotion, Reason, and the Human Brain. '' New York, [[Avon (publishers)|Avon Books]]. {{ISBN|0-399-13894-3}} (Hardcover) {{ISBN|0-380-72647-5}} (Paperback)
+* Gardner, H. (1976). ''The Shattered Mind: The Person After Brain Damage. '' New York, [[Random House|Vintage Books]], 1976 {{ISBN|0-394-71946-8}}
+* Goldstein, K. (2000). ''The Organism. '' New York, Zone Books. {{ISBN|0-942299-96-5}} (Hardcover) {{ISBN|0-942299-97-3}} (Paperback)
+* {{cite book
+| last =Lauwereyns
+| first =Jan
+| title =The Anatomy of Bias: How Neural Circuits Weigh the Options
+| publisher =The MIT Press
+|date=February 2010
+| location =Cambridge, Massachusetts
+| url =https://mitpress.mit.edu/9780262123105
+| isbn =978-0-262-12310-5 }}
+
+{{Refend}}
+
+==External links==
+{{Commons category|Nerves}}
+{{Library resources box 
+|by=no 
+|onlinebooks=no 
+|others=no 
+|about=yes 
+|label=Nerve}}
+* [https://web.archive.org/web/20100707093632/http://www.aanem.org/practiceissues/recPolicy/listofNerves.cfm List of nerves]
+*{{Wikibooks-inline|Human Physiology|The Nervous System}} (human)
+*{{Wikibooks-inline|Anatomy and Physiology of Animals|Nervous System}} (non-human)
+
+{{Organ systems}}
+{{Nerves}}
+{{Cranial nerves}}
+{{Cervical plexus}}
+{{Brachial plexus}}
+{{Autonomic}}
+{{Lumbosacral plexus}}
+
+{{Authority control}}
+
+[[Category:Nerves]]
+[[Category:Peripheral nervous system]]
+[[Category:Neuroanatomy]]
+[[Category:Soft tissue]]

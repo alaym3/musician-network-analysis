@@ -1,0 +1,58 @@
+{{short description|Container for holding arrows, bolts, darts, or javelins}}
+{{Other uses}}
+{{more citations needed|date=May 2013}}
+[[File:Wenceslas Hollar - Quivers and hunting horns.jpg|thumb|Three quivers.]]
+
+A '''quiver''' is a container for holding [[arrow]]s, [[Crossbow bolt|bolts]], [[Dart (missile)|darts]], or [[javelin]]s. It can be carried on an archer's body, the bow, or the ground, depending on the type of shooting and the archer's personal preference. Quivers were traditionally made of leather, wood, furs, and other natural materials, but are now often made of metal or plastic.
+
+==Etymology==
+The English word '''quiver''' has its origins in Old French, written as quivre, cuevre or coivre .{{sfn|Chisholm|1911|loc=''Quiver''}}
+
+==Types==
+{{CSS image crop|Image = Bayeux Tapestry scene51 Battle of Hastings Norman knights and archers.jpg|bSize = 1000|cWidth = 220|cHeight = 250|oTop = 50|oLeft = 735|Location = right|Description =Norman archers depicted in the [[Bayeux Tapestry]].  The top left archer was caught unprepared and has hastily thrown his belt quiver about his shoulders, as well as forgetting his helmet.}}
+
+===Belt quiver===
+The most common style of quiver is a flat or cylindrical container suspended from the belt.  They are found across many cultures from North America to China.  Many variations of this type exist, such as being canted forwards or backwards, and being carried on the dominant hand side, off-hand side, or the small of the back.  Some variants enclose almost the entire arrow, while minimalist "pocket quivers" consist of little more than a small stiff pouch that only covers the first few inches. The [[Bayeux Tapestry]] shows that most bowmen in medieval Europe used belt quivers.
+
+===Back quiver===
+[[File:7333 - Piraeus Arch. Museum, Athens - Artemis - Photo by Giovanni Dall'Orto, Nov 14 2009.jpg|thumb|A y-shaped harness for a back quiver features on this bronze statue of [[Artemis]], goddess of the hunt, mid-4th century BC.]]
+Back quivers are secured to the archer's back by leather straps, with the [[Nock (arrow)|nock]] ends protruding above the dominant hand's shoulder.  Arrows can be drawn over the shoulder rapidly by the nock.  This style of quiver was used by [[Indigenous peoples of the Americas|native peoples of North America]] and Africa, and was also commonly depicted in bas-reliefs from ancient [[Assyria]]. They were also used in Ancient Greece and often feature on sculptural representations of Artemis, goddess of the hunt. While popular in cinema and 20th century art for depictions of medieval European characters (such as [[Robin Hood]]), this style of quiver was rarely used in medieval Europe.<ref name="English Longbowman">{{cite book |author1=Gerry Embleton |author2=Clive Bartlett |title=English Longbowman 1330-1515Ad (Warrior, No 11) |publisher=Osprey Publishing (UK) |year=1995 |pages=28 |isbn=1-85532-491-1 }}</ref>
+
+===Ground quiver===
+A ground quiver is used for both target shooting or warfare when the archer is shooting from a fixed location.  They can be simply stakes in the ground with a ring at the top to hold the arrows, or more elaborate designs that hold the arrows within reach without the archer having to lean down to draw.
+
+===Bow quiver===
+A modern invention, the bow quiver attaches directly to the bow's limbs and holds the arrows steady with a clip of some kind.  They are popular with [[compound bow]] hunters as it allows one piece of equipment to be carried in the field without encumbering the hunter's body.
+
+===Arrow bag===
+A style used by medieval [[English longbow]]men and several other cultures, an arrow bag is a simple drawstring cloth sack with a leather spacer at the top to keep the arrows divided.  When not in use, the drawstring could be closed, completely covering the arrows so as to protect them from rain and dirt. Some had straps or rope sewn to them for carrying, but many either were tucked into the belt or set on the ground before battle to allow easier access.
+
+===Japanese quivers===
+
+[[Yebira]] refers to a variety of quiver designs. The [[Yazutsu]] is a different type, used in Kyudo. Arrows are removed from it before shooting, and held in the hand, so it is mainly used to transport and protect arrows.
+
+==Gallery==
+<gallery widths="200px" heights="200px">
+Image:OttomanHorseArcher.jpg|An [[Ottoman Turk]] with a rear-canted belt quiver designed for [[mounted archery]]
+File:Bågkoger med förgyllt silver, peridoter, små turkoser, rubiner och silverpärlor - Livrustkammaren - 91418.tif|Quiver from Turkey, 1620s.
+Image:Antique Japanese (samurai) yumi and yebira.jpg|Japanese archery equipment including a variety of quivers
+Image:Yoshitoshi Fujiwara no Hidesato.jpg|Fujiwara no Hidesato shooting the giant centipede ([[Tsukioka Yoshitoshi]], 1890)
+File:Detail. Royal guard carrying a quiver, member of the so-called Immortals (the 1000 special royal guards). Glazed brick. From the East Gate of the Palace at Susa, Iran. Achaemenid period, Reign of Darius I, 521-500 BCE. British Museum.jpg|thumb|Detail. Royal guard carrying a quiver, member of the so-called Immortals (the 1000 special royal guards). From Susa, Iran. 521-500 BCE. British Museum
+</gallery>
+
+==See also==
+*[[Gorytos]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{cite book |title=Archery |publisher=Boy Scouts of America |location=Irving, Texas |year=1986 |isbn=0-8395-3381-0 }}
+*{{cite EB1911|wstitle=Quiver|volume=22}}
+*{{cite book |author1=Glover, Daniel S. |author2=Grayson, Charles Jackson |author3=French, Mary |author4=O'Brien, Michael J. |title=Traditional archery from six continents: the Charles E. Grayson Collection |publisher=University of Missouri Press |location=Columbia |year=2007 |isbn=0-8262-1751-6 }}
+
+{{Archery}}
+{{Authority control}}
+
+[[Category:Archery]]
+[[Category:Hunting equipment]]

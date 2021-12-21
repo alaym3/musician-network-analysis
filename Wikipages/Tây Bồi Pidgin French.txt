@@ -1,0 +1,67 @@
+{{Multiple issues|
+{{refimprove|date=May 2015}}
+{{tone|date=May 2015}}
+}}
+
+{{Infobox language
+|name=Tây Bồi
+|states=[[Vietnam]]
+|extinct=by 1980
+|ref=e18
+|familycolor=Pidgin
+|fam1=[[French pidgin]]
+|iso3=tas
+|glotto=tayb1240
+|glottorefname=Tay Boi
+}}
+
+'''Tây Bồi''' ({{lang-vi|tiếng Tây bồi}}),<ref>{{cite web |url=https://vietbao.com/a188903/ong-ho-viet-tieng-tay |title=Ông Hồ viết tiếng Tây |last=Trần |first=Khải |date=23 May 2012 |website= Việt Báo Online |access-date=19 June 2016}}</ref> or '''Vietnamese Pidgin French''', was a [[pidgin]] spoken by non-French-educated [[Vietnamese people|Vietnamese]], typically those who worked as servants in [[French Third Republic|French]] households or [[Social environment|milieu]]x during the [[French colonial empire|colonial era]]. Literally, it means "French (Tây) [of- or spoken by] male servants (Bồi)". During the [[French Indochina|French colonization period]], the majority of household servants for the French were male. The term is used by Vietnamese themselves to indicate that the spoken [[French language]] is poor, incorrect and ungrammatical.
+
+{{lang|vi|Bồi}} is the Vietnamese phonetic spelling of the English word "boy", which referred to male household servants (it also means "to add" as a verb, which incidentally refers to how this pidgin worked).<ref>{{cite book|url=https://books.google.com/books?id=wG08AAAAIAAJ&q=tay+boi&pg=PA43|title=Pidginization and Creolization of Languages|author=John E. Reinecke|year=1971|publisher=Oxford University Press|pages=47}}</ref>
+
+The French government/colonizers or protectors opened French public schools (from pre-kindergarten through the Baccalaureat II) staffed by all native French speakers to take care of their compatriots/expatriates' children's education. Vietnamese children were admitted as well if they could pass the entrance examination tailored to their age and grade level. The Vietnamese elite class spoke French, and those with French Baccalaureat diplomas could attend French universities in France and in its colonies. After France's [[Geneva Conference (1954)|withdrawal from Indochina]] in 1954, Tây Bồi ceased to be used as a common language as standard French was used and is believed to have become extinct around the 1980s. Today standard French continues to be taught at schools and universities in Vietnam as a second language.
+
+==Examples==
+{| class="wikitable"
+|-
+! Tây Bồi !! Standard French !! Literal English !! Standard English
+|-
+| {{lang|tas|Moi faim}} || {{lang|fr|J'ai faim}} || Me hunger || I am  hungry
+|-
+| {{lang|tas|Moi tasse}} || Ma tasse || Me cup || My cup
+|-
+| {{lang|tas|Lui avoir permission repos}} || Il a la permission de se reposer || Him have permission rest [noun] || He has permission to rest
+|-
+| {{lang|tas|Demain moi retour campagne}} || Demain, je retourne à la campagne || Tomorrow me return [noun] countryside || Tomorrow, I return to the countryside
+|-
+| {{lang|tas|Vous pas argent moi stop travail}} || Si vous ne me payez pas, j'arrêterai de travailler || You not money, me stop work [noun] || If you don't pay me, I'll stop working
+|-
+| {{lang|tas|Monsieur content aller danser}} || Monsieur est content d'aller danser || Mister happy to go to dance || The gentleman is happy to go dance
+|-
+| {{lang|tas|Lui la frapper}} || Il la frappe || Him her to hit || He hits her
+|-
+| {{lang|tas|Bon pas aller}} || Bon, n'y va pas || Good, not to go || Good, don't go
+|-
+| {{lang|tas|Pas travail}} || Je ne travaillerai pas || Not work [noun] || I won't work
+|-
+| {{lang|tas|Assez, pas connaître}} || Assez, je n'en sais rien || Enough, not to know || Enough, I don't know
+|-
+| {{lang|tas|Moi compris toi parler}} || J'ai compris ce que tu as dit || Me understood you to speak || I've understood what you've said
+|}
+(Bickerton 1995: 163) [https://web.archive.org/web/20070227182750/http://perso.enst.fr/~jld/UCSD/Chapter8_excerpts.html]
+
+==See also==
+*[[French Indochina]]
+*[[French language]]
+*[[Vietnamese language]]
+
+==References==
+{{Reflist}}
+
+{{languages derived from French}}
+
+{{DEFAULTSORT:Tay Boi}}
+[[Category:French-based pidgins and creoles]]
+[[Category:Languages of Vietnam]]
+[[Category:Extinct languages of Asia]]
+[[Category:Languages extinct in the 1980s]]

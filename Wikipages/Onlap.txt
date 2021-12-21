@@ -1,0 +1,7 @@
+'''Onlap''' or ''overlap'' is the [[geological]] phenomenon of successively wedge-shaped younger rock [[Stratum|strata]] extending progressively further across an [[erosion surface]] cut in older rocks. It is generally associated with a [[marine transgression]]. It is a more general term than ''[[overstep]]'', in which the younger beds overlap onto successively older beds.<ref>{{cite book |editor1-last=Jackson |editor1-first=Julia A. |title=Glossary of geology. |date=1997 |publisher=American Geological Institute |location=Alexandria, Viriginia |isbn=0922152349 |edition=Fourth |chapter=onlap}}</ref> The opposite is '''offlap''', in which each younger rock bed [[pinches out]] short of the full extent of the underlying older bed, typically due to a [[marine regression]].{{sfn|Jackson|1997|loc="offlap"}}
+
+== References ==
+{{reflist}}
+
+[[Category:Stratigraphy]]
+{{Geology-stub}}

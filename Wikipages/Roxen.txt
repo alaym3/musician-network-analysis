@@ -1,0 +1,54 @@
+{{short description|Lake in Norrköping Municipality, Östergötland County, Sweden}}
+{{Other uses}}
+{{Infobox lake
+| name = Roxen
+| image = Gota_Scene_1.jpg
+| caption = Roxen at sunset
+| alt = Photograph
+| image_size = 250
+| pushpin_map = Sweden Östergötland # Sweden
+| pushpin_map_alt = Location of lake
+| image_bathymetry = 
+| caption_bathymetry = 
+| location = 
+| coords = {{coord|58|30|N|15|41|E|region:SE_type:waterbody|display=inline,title}}
+| type = 
+| inflow = [[Motala ström]], [[Svartån, Östergötland|Svartån]], [[Stångån]]
+| outflow = [[Motala ström]]
+| catchment = 
+| basin_countries = Sweden
+| length = 
+| width = 
+| area = {{convert|97|km2|abbr=on}}
+| depth = 
+| max-depth = {{convert|8|m|abbr=on}}
+| volume = 
+| residence_time = 
+| shore = 
+| elevation = {{convert|32|m|abbr=on}}
+| islands = 
+| cities = 
+| embedded = {{Designation list
+ | embed = yes
+ | designation1 = Ramsar
+ | designation1_offname = Västra Roxen
+ | designation1_date = 14 November 2001
+ | designation1_number = 1133<ref>{{Cite web|title=Västra Roxen|website=[[Ramsar Convention|Ramsar]] Sites Information Service|url=https://rsis.ramsar.org/ris/1133|access-date=25 April 2018 |date=7 November 2017}}</ref>
+ }}
+}}
+'''Roxen''' ({{IPA-sv|ˈrɔ̌ksɛn}})<ref>{{cite book|url=http://runeberg.org/ortnamn/0024.html|first1=Jöran |last1=Sahlgren|first2=Gösta |last2=Bergman|title=Svenska ortnamn med uttalsuppgifter|language=sv|year=1979|page=20}}</ref> is a medium-sized [[lake]] in south-central [[Sweden]], east of Lake [[Vättern]], part of the waterpath [[Motala ström]] and the [[Göta Canal]]. South of Lake Roxen is the city [[Linköping]].
+
+Roxen, especially the western parts, is very good for [[birdwatching]]. There are natural reserves at Kungsbro<ref>{{cite web |title=Kungsbro|url=http://www5.e.lst.se/reservat/lst/reservat.asp?id=32&sprak=eng |website=www5.e.lst.se |access-date=7 November 2017 |archive-url=https://web.archive.org/web/20070902155110/http://www5.e.lst.se/reservat/lst/reservat.asp?id=32&sprak=eng |archive-date=2 September 2007 |url-status=dead}}</ref> and Svartåmynningen.<ref>{{cite web |title=Svartåmynningen |url=http://www5.e.lst.se/reservat/lst/reservat.asp?id=26&sprak=eng |website=www5.e.lst.se |access-date=7 November 2017 |archive-url=https://web.archive.org/web/20070902155110/http://www5.e.lst.se/reservat/lst/reservat.asp?id=26&sprak=eng |archive-date=2 September 2007 |url-status=dead}}</ref>
+
+The lake develops in a [[graben]] depression.<ref>{{cite book |editor1-last=Mattsson |editor1-first=Jan O. |title=Terrängformer i Norden. |date=1984 |publisher=Nordiska ministerrådet |isbn=91-38-08241-1 |page=133 |url=https://www.researchgate.net/publication/263926981 |language=sv}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Lakes of Östergötland County]]
+[[Category:Motala ström basin]]
+[[Category:Rifts and grabens]]
+[[Category:Ramsar sites in Sweden]]
+
+
+{{Östergötland-geo-stub}}

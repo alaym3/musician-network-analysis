@@ -1,0 +1,55 @@
+{{short description|Age-related process of deterioration occurring on paper products}}
+{{about|age-related spots on old paper|the musical group Foxing|Foxing (band)}}
+[[Image:Comstock 1832 title page.jpg|thumb|Heavy foxing on the [[title page]] of an 1832 [[textbook]]]]
+
+'''Foxing''' is an age-related process of deterioration that causes spots and browning on old paper [[document]]s such as [[book]]s, [[postage stamp]]s, old [[paper money]] and [[wikt:certificate|certificate]]s. The name may derive from the [[red fox|fox]]-like reddish-brown color of the stains,<ref>{{cite web|url=http://www.conservation-wiki.com/w/index.php?title=Foxing_(PCC)|title=Foxing (PCC) - Wiki|website=www.conservation-wiki.com|access-date=1 February 2018|archive-date=9 January 2021|archive-url=https://web.archive.org/web/20210109100752/http://www.conservation-wiki.com/w/index.php?title=Foxing_%28PCC%29|url-status=live}}</ref> or the [[rust]] chemical [[ferric oxide]] which may be involved.  Paper so affected is said to be "foxed".
+
+Although unsightly and a negative factor in the value of the paper item for collectors, foxing does not affect the actual integrity of the paper.
+
+Foxing also occurs in biological study skins or [[Biological specimen|specimens]], as an effect of chemical reactions or [[Mold (fungus)|mold]] on [[melanin]].
+
+Foxing can also be intentionally added to clothing to give it an aged appearance.
+
+Aside from foxing, other types of age-related paper deterioration<ref>{{Cite web|title=The Deterioration and Preservation of Paper: Some Essential Facts - Collections Care - Resources (Preservation, Library of Congress)|url=https://www.loc.gov/preservation/care/deterioratebrochure.html|access-date=2020-11-25|website=www.loc.gov|archive-date=2015-01-20|archive-url=https://web.archive.org/web/20150120175215/http://www.loc.gov/preservation/care/deterioratebrochure.html|url-status=live}}</ref> include destruction of the [[lignin]] by [[sunlight]] and absorbed [[atmospheric pollution]], typically causing the paper to become brown and crumble at the edges, and [[acid]]-related damage to cheap paper such as [[newsprint]], which is manufactured without [[Acid-free paper|neutralizing acidic contaminants]].
+
+== Causes of foxing ==
+The causes of foxing are not well understood. One theory is that foxing is caused by a [[fungal]] growth<ref>{{Cite web|last=Arai|first=Hideo|date=October 2000|title=Foxing caused by Fungi: twenty-five years of study|url=https://www.researchgate.net/publication/248436693|url-status=live|archive-url=|archive-date=|access-date=November 24, 2020|website=Research Gate}}</ref> on the [[paper]]. Another theory is that foxing is caused by the effect on certain [[paper]]s of the [[oxidation]] of [[iron]], [[copper]], or other substances in the [[Wood pulp|pulp]] or [[Cloth|rag]] from which the paper was made. It is possible that multiple factors are involved. High [[humidity]] may contribute to foxing.
+
+== Repairing foxed documents ==
+
+Foxed documents can be repaired, with greater or lesser success, using [[sodium borohydride]],<ref>{{cite web|url=https://blog.bookstellyouwhy.com/bid/230209/how-to-prevent-and-reverse-foxing-in-rare-books|title=How to Prevent and Reverse Foxing in Rare Books|first=Kristin|last=Masters|publisher=|access-date=1 February 2018|archive-date=9 January 2021|archive-url=https://web.archive.org/web/20210109100754/https://blog.bookstellyouwhy.com/bid/230209/how-to-prevent-and-reverse-foxing-in-rare-books|url-status=live}}</ref> proprietary [[Bleach|bleaches]], dilute [[hydrogen peroxide]] or [[Laser|lasers]]. Each method risks side effects or damage to the paper or [[ink]]. 
+
+Another method is to [[Document scanning|scan]] the image and process that image using a high-level [[image processing]] program. This can usually remove the effects of foxing while leaving text and images intact.
+
+== In biological specimens ==
+It is generally not advisable to repair study specimens, except perhaps for mechanical damage. [[Type specimen]]s should – if at all possible – not be altered in any way. If foxing affects the study value of a specimen (e.g. in [[Bird skin|bird]] or mammal skins or in [[Insect|insects]], where it might affect diagnostic coloration), this might rather be remarked on the specimen label. Color standards{{sfn|Smithe|1974}} can provide a means of documenting coloration before or in the early stages of foxing.
+
+== Foxed clothing ==
+Foxing may also be applied to clothing through intentional [[scuffing]] of [[Shirt collar|shirt collars]], [[Cuff|cuffs]] and [[Shoe|shoes]], to make items of clothing appear older, used and well-worn.
+
+== See also ==
+*[[List of used book conditions]]
+
+== References ==
+{{Reflist}}
+
+{{refbegin}}
+*{{cite book|last=Smithe|first=Frank B. |title=Naturalist's Color Guide|url=https://books.google.com/books?id=o6gXAQAAIAAJ|year=1974|publisher=American Museum of Natural History|isbn=978-0-913424-04-9}}
+* Smithe, Frank B (1974): ''Naturalists' Color Guide Supplement''. American Museum of Natural History, NYC. {{ISBN|0-913424-04-8}}.
+* Smithe, Frank B (1975): ''Naturalist's Color Guide'' (2nd ed.{{Verify source|date=October 2007}}). American Museum of Natural History, NYC. {{ISBN|0-913424-03-X}}.
+* Smithe, Frank B (1981): ''Naturalist's Color Guide Part III''. American Museum of Natural History, NYC. {{ISBN|0-913424-05-6}}.
+* {{cite book|last1=Roberts|first1= Matt |last2=Etherington|first2= Don|title=Bookbinding and the Conservation of Books: A Dictionary of Descriptive Terminology|year=1981|publisher=Library of Congress|location=Washington DC|isbn=978-0844403663|url=https://books.google.com/books?id=iTU4rgEACAAJ}}
+{{refend}}
+
+==External links==
+{{commons category}}
+* [https://www.pbs.org/wgbh/roadshow/glossary/#foxing ''Antique Roadshow'': 'Antiques Speak']
+* [https://www.loc.gov/preserv/care/paper.html The Library of Congress: 'Preserving Works on Paper']
+* [http://mywingsbooks.com/coll-terms/fxt_.shtml Foxing]<!-- https://web.archive.org/web/20170704082955/http://mywingsbooks.com/coll-terms/fxt_.shtml -->
+
+{{Paper}}
+
+[[Category:Book collecting]]
+[[Category:Materials degradation]]
+[[Category:Papermaking]]
+[[Category:Philatelic terminology]]

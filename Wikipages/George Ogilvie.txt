@@ -1,0 +1,69 @@
+{{for|the footballer|George Ogilvie (footballer)}}
+{{Use Australian English|date=June 2020}}
+{{short description|Australian theatre director and actor}}
+{{Infobox person
+| image        = 
+| name         = George Ogilvie
+| honorific_suffix = {{post-nominals|country=AUS|size=100|AM}}
+| imagesize    = 
+| caption      = 
+| birth_date   = {{Birth date|df=yes|1931|03|05}}
+| birth_place  = [[Goulburn]], [[New South Wales]], Australia
+| birth_name   = George Buchan Ogilvie
+| death_date = {{Death date and age|df=yes|2020|4|5|1931|03|05}}
+| death_place = [[Braidwood, New South Wales|Braidwood]], [[New South Wales]], Australia
+| other_names  = 
+| nationality = Australian 
+| education = 
+| alma_mater = 
+| occupation = {{hlist|Theatre, film and TV director|actor|screenwriter|drama teacher}}
+| years_active = 1945–2014
+| notable_works = 
+| spouse       = 
+| website      = 
+}}
+'''George Buchan Ogilvie''' {{post-nominals|country=AUS|AM}} (5 March 1931 – 5 April 2020) was a prolific [[Australia]]n [[theatre director]] and actor, who also worked as a director and actor within film and television.
+
+== Life and career ==
+George Ogilvie began as an actor at the Canberra Repertory Theatre, and eventually moved to the United Kingdom where he trained, taught and acted. In 1965, he returned to Australia to take up the position of associate director with the [[Melbourne Theatre Company]], where he stayed for six years. He then worked as artistic director at the [[State Theatre Company of South Australia|South Australian Theatre Company]] for four years, followed by 12 years as part of the subsidised theatre network. In 1988 he became a freelance director, working with the [[Opera Australia|Australian Opera]], the [[The Australian Ballet|Australian Ballet]] and various theatre companies.<ref name=ACA>[http://www.actorscentre.com.au/george-ogilvie/ Actors Centre Australia: George Ogilvie biography] {{Webarchive|url=https://web.archive.org/web/20111027225307/http://www.actorscentre.com.au/george-ogilvie/ |date=27 October 2011 }} Retrieved 2013-03-09</ref>
+
+His television credits include the 1983 miniseries ''[[The Dismissal (TV miniseries)|The Dismissal]]'' (where he played the Labor Senator [[Jim McClelland]]), the miniseries ''[[Bodyline (miniseries)|Bodyline]]'' (1984) (where he was one of the writers and also directed three of the seven episodes), and direction of the TV films ''[[The Shiralee (1987 film)|The Shiralee]]'' (1987), ''[[Touch the Sun (Australian TV series)|Touch the Sun: Princess Kate]]'' (1988), ''[[The Battlers]]'' (1994), two episodes of the miniseries ''[[The Feds (miniseries)|The Feds]]'' (1994), and 11 episodes of the long-running police series ''[[Blue Heelers]]'' between 2002 and 2006.
+
+His film credits include ''[[Mad Max Beyond Thunderdome]]'' (1985), which he directed together with [[George Miller (producer)|George Miller]], ''[[Short Changed]]'' (1985), the much awarded ''[[The Place at the Coast]]'' (1987), and ''[[The Crossing (1990 film)|The Crossing]]'' (1990), where [[Russell Crowe]] was first seen on the screen.
+
+George Ogilvie regularly taught and directed at [[National Institute of Dramatic Art|NIDA]] and [[Actors Centre Australia]]. In 1983 he was appointed a [[Member of the Order of Australia]] (AM) in the 1983 Queen's Birthday Honours for his services to the theatre and the performing arts.
+
+In 2006, the Australian performing arts association [[Currency House]] published his autobiography: ''Simple Gifts – a life in the theatre''.<ref>[http://www.currencyhouse.org.au/node/135 Currency House: ''Simple Gifts – a life in the theatre''] Retrieved 2013-03-09</ref>
+
+He died, aged 89, on 5 April 2020.<ref name="tvtonight">{{cite web|url=https://tvtonight.com.au/2020/04/vale-george-ogilvie.html|title=Vale:George Ogilve}}</ref>
+
+==Books==
+* {{Cite book | author =  George Ogilvie| title = ''Simple Gifts – A Life in the Theatre'' | publisher = Sydney: Currency House| year = 2006| isbn = 9780975730171}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20111027225307/http://www.actorscentre.com.au/george-ogilvie/ Actors Centre Australia: George Ogilvie biography] Retrieved 2013-03-09
+*{{IMDb name|id=0644695|name=George Ogilvie }}
+*[http://trove.nla.gov.au/work/163604115?versionId=178370006 National Library of Australia: ''Papers of George Ogilvie, 1943–2006''] Retrieved 2013-03-09
+
+{{George Ogilvie}}
+
+{{Authority control}}
+
+{{Use dmy dates|date=June 2019}}
+
+{{DEFAULTSORT:Ogilvie, George}}
+[[Category:1931 births]]
+[[Category:2020 deaths]]
+[[Category:Australian film directors]]
+[[Category:Australian television directors]]
+[[Category:Australian theatre directors]]
+[[Category:Australian male film actors]]
+[[Category:Australian male television actors]]
+[[Category:Australian male stage actors]]
+[[Category:Members of the Order of Australia]]
+
+
+{{Australia-film-director-stub}}

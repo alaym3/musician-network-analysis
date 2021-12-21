@@ -1,0 +1,126 @@
+{{for|the musician|Lingua Ignota (musician)}}
+{{Infobox language
+|name          = Lingua ignota
+|pronunciation = {{IPA|[ˈlinɡʷa iŋˈnoːta]}}
+|image         = Hildegard von bingen - litterae ignotae.jpg
+|imageheader   = 
+|imagesize     = 250px
+|imagecaption  = St. Hildegard's 23 ''litterae ignotae''.
+|creator       = [[Hildegard of Bingen]]
+|created       = 12th century
+|setting       = 
+|speakers      = 
+|date          = 1078-1179
+|ref           = 
+|speakers2     = 
+|fam2          = [[artistic language]]
+|posteriori    = 
+|ancestor      = 
+|dialects      = 
+|agency        = 
+|script        = 
+|iso3          = none
+|lingua        = 
+|linglist      = 
+|glotto        = none
+|glottorefname = 
+|ietf = [https://www.kreativekorp.com/clcr/ art-x-ignota]
+|notice        = IPA
+}}
+{{Christian mysticism}}
+A '''''lingua ignota''''' (Latin for "unknown language") was  described by the 12th century [[abbess]] of Rupertsberg, [[Hildegard of Bingen|St. Hildegard of Bingen, OSB]], who apparently used it for mystical purposes. It consists of vocabulary with no known grammar; the only known text is individual words embedded in Latin. To write it, Hildegard used an alphabet of 23 letters denominated ''litterae ignotae''.<ref>{{cite book|last1=Bingensis|first1=Hildegardis|title=Riesencodex|date=1175–1190|pages=934, 464v|url=http://dfg-viewer.de/show/?tx_dlf%5Bid%5D=http%3A%2F%2Fdokumentserver.hlb-wiesbaden.de%2FHS_2%2Fmets17.xml&tx_dlf%5Bpage%5D=934&tx_dlf%5Bdouble%5D=0&cHash=16dea2091d5605fe4f100c3fd07fdab5|access-date=2014-08-26|archive-url=https://web.archive.org/web/20141220122843/http://dfg-viewer.de/show/?tx_dlf%5Bid%5D=http%3A%2F%2Fdokumentserver.hlb-wiesbaden.de%2FHS_2%2Fmets17.xml&tx_dlf%5Bpage%5D=934&tx_dlf%5Bdouble%5D=0&cHash=16dea2091d5605fe4f100c3fd07fdab5|archive-date=2014-12-20|url-status=dead}}</ref>
+
+== History ==
+
+St. Hildegard partially described the language in a work titled ''Ignota lingua per simplicem hominem Hildegardem prolata'', which survived in two manuscripts, both dating to ca. 1200, the [[Wiesbaden Codex]] and a Berlin MS (Lat. Quart. 4º 674), previously Codex Cheltenhamensis 9303, collected by Sir [[Thomas Phillipps]].<ref>Steinmayer E; Sievers, E. (1895). [https://archive.org/stream/diealthochdeutsc03steiuoft#page/390/mode/2up ''Sachlich geordnete Glossare'']. Die Althochdeutschen Glossen, Vol. III. pp. 390-404.</ref> The text is a [[glossary]] of 1011 words in Lingua ignota, with [[Gloss (transliteration)|gloss]]es mostly in [[Latin]], sometimes in [[Middle High German]]; the words appear to be [[A priori (Languages)|a priori]] [[Neologism|coinages]], mostly nouns with a few adjectives. Grammatically it appears to be a partial [[relexification]] of Latin, that is, a language formed by substituting new vocabulary into an existing grammar.<ref>Barbara Jean Jeskalian, ''Hildegard of Bingen: the creative dimensions of a Medieval personality."  Graduate Theological Union</ref>
+
+The purpose of Lingua ignota is unknown, and it is not known who, besides its creator, was familiar with it. In the 19th century some{{who|date=July 2018}} believed that Hildegard intended her language to be an ideal, [[universal language]]. However, nowadays{{when|reason= starting when?|date=July 2018}} it is generally{{according to whom|reason=If you don't mean that in the implausible sense of "by everyone", then by whom?|date=July 2018}} assumed that Lingua ignota was devised as a secret language; like Hildegard's "unheard music", she would have attributed it to [[divine inspiration]]. To the extent that the language was constructed by Hildegard, it may be considered one of the earliest known [[constructed language]]s.
+
+In a letter to Hildegard, her friend and provost Wolmarus, fearing that Hildegard would soon die, asks ''[[ubi sunt|ubi]] tunc vox inauditae melodiae? et vox inauditae linguae?'' (Descemet, p.&nbsp;346; "where, then, the voice of the unheard melody? And the voice of the unheard language?"), suggesting that the existence of Hildegard's language was known, but there were no initiates who would have preserved its knowledge after her death.
+
+==Sample text==
+The only extant text in the language is the following short passage:
+:''O '''orzchis''' Ecclesia, armis divinis praecincta, et hyacinto ornata, tu es '''caldemia''' stigmatum '''loifolum''' et urbs scienciarum. O, o tu es etiam '''crizanta''' in alto sono, et es '''chorzta''' gemma.''
+These two sentences are written mostly in Latin with five key words in Lingua ignota; as only one of these is unambiguously found in the glossary (''loifol'' "people"), it is clear that the vocabulary was larger than 1011 words.  (Higley 2007 finds probable correspondences for two other words.)
+
+:"O ''orzchis'' [[Catholic Church|Ecclesia]], girded with divine arms, and adorned with hyacinth, you are the ''caldemia'' of the wounds of the ''loifols'', and the city of sciences. O, o, and you are the ''crizanta'' in high sound, and you are the ''chorzta'' gem."
+''Loifol'' "people" is apparently inflected as a third-declension Latin noun, yielding the genitive plural ''loifolum'' "of the peoples".
+
+Newman (1987) conjectures the translation
+:"O ''measureless'' Church, / girded with divine arms / and adorned with jacinth, / you are the ''fragrance'' of the wounds of ''nations'' / and the city of sciences. / O, o, and you are ''anointed'' / amid-noble sound, / and you are a ''sparkling'' gem."
+
+==The glossary==
+The glossary is in a hierarchical order, first giving terms for God and angels, followed by terms for human beings and terms for family relationships, followed by terms for body-parts, illnesses, religious and worldly ranks, craftsmen, days, months, clothing, household implements, plants, and a few birds and insects. Terms for mammals are lacking (except for the [[bat]], Ualueria, listed among birds, and the [[Griffin|gryphon]], Argumzio, a half-mammal, also listed among the birds).
+
+The first 30 entries are (after Roth 1880):
+* Aigonz: ''deus'' (God)
+* Aieganz: ''angelus'' (angel)
+* Zuuenz: ''sanctus'' (saint)
+* Liuionz: ''salvator'' (saviour)
+* Diueliz: ''diabolus'' (devil)
+* Ispariz: ''spiritus''
+* Inimois: ''homo'' (human being)
+* Jur: ''vir'' (man)
+* Vanix: ''femina'' (woman)
+* Peuearrez: ''patriarcha''
+* Korzinthio: ''propheta''
+* Falschin: ''[[vates]]''
+* Sonziz: ''apostolus''
+* Linschiol: ''martir''
+* Zanziuer: ''confessor''
+* Vrizoil: ''virgo'' (virgin)
+* Jugiza: ''vidua'' (widow)
+* Pangizo: ''penitens''
+* Kulzphazur: ''attavus'' (great-great-great-grandfather)
+* Phazur: ''avus'' (grandfather)
+* Peueriz: ''pater'' (father)
+* Maiz: ''maler'' (sic, for ''mater'', mother)
+* Hilzpeueriz: ''nutricus'' (stepfather)
+* Hilzmaiz: ''noverca'' (stepmother)
+* Scirizin: ''filius (son)
+* Hilzscifriz: ''privignus'' (stepson)
+* Limzkil: ''infans'' (infant)
+* Zains: ''puer'' (boy)
+* Zunzial: ''iuvenis'' (youth)
+* Bischiniz: ''adolescens'' (adolescent)
+
+Nominal composition may be observed in ''peueriz'' "father" : ''hilz-peueriz'' "stepfather", ''maiz'' "mother" : ''hilz-maiz'' "stepmother", and ''scirizin'' "son" : ''hilz-scifriz'' "stepson", as well as ''phazur'' : ''kulz-phazur''. Suffixal derivation in ''peueriz'' "father", ''peuearrez'' "patriarch".
+
+==Editions==
+*[[Wilhelm Grimm]] (1848), listing only the 291 glosses with German translations
+*Roth (1880), consisting of the 1011 glosses.
+*[https://archive.org/stream/analectasacrasp04pitrgoog#page/n536/mode/2up ''Descemet, Analecta of Pitra (1882)''], listing only the 181 glosses giving the names of plants
+*Portmann and Odermatt (1986)
+*[https://books.google.com/books?id=GkuK53bU4_UC ''Hildegard of Bingen's Unknown Language: An Edition, Translation, and Discussion''], ed. Sarah Higley (2007) [the entire Riesencodex glossary, with additions from the Berlin MS, translations into English, and extensive commentary]
+
+==See also==
+*[[Glossolalia]]
+*[[Artistic language]]
+*[[Philosophical language]]
+
+==Literature==
+*Traude Bollig / Ingrid Richter, ''Hildegard von Bingen, Heilwerden mit der Kraft ihrer Symbole'', Aurum Verlag, {{ISBN|3-89901-006-X}} (an esoteric claim of decipherment of the ''litterae''[http://heilende-symbole.de/symbole/index.html])
+*[[Jakob Grimm]] in: Haupt, ''Zeitschrift für deutsches Alterthum'', VI, 321.
+* ''Hildegard of Bingen's Unknown Language: An Edition, Translation and Discussion'' by Sarah L. Higley. (Palgrave Macmillan, 2007)
+*Laurence Moulinier, "Un lexique trilingue du XIIe siècle : la lingua ignota de Hildegarde de Bingen", dans Lexiques bilingues dans les domaines philosophique et scientifique (Moyen Âge-Renaissance), Actes du colloque international organisé par l’Ecole Pratique des Hautes Etudes-Ive Section et l’Institut Supérieur de Philosophie de l’Université Catholique de Louvain, Paris, 12-14 juin 1997, éd. J. Hamesse, D. Jacquart, Turnhout, Brepols, 2001, p. 89-111. {{ISBN|2-503-51176-7}}
+*Jonathan P. Green, « A new gloss on Hildegard of Bingen's Lingua ignota », Viator, 36, 2005, p. 217-234.
+*[[Barbara Newman]], ''Sister of Wisdom: St. Hildegard's Theology of the Feminine'' (Berkeley: University of California Press, 1987).
+*Marie-Louise Portmann and Alois Odermatt (eds.), ''Wörterbuch der unbekannten Sprache'', Basel: Verlag Basler Hildegard-Gesellschaft (1986). {{ISBN|3-905143-18-6}}
+*{{cite book |first=Friedrich Wilhelm Emil |last=Roth |chapter=Glossae Hildegardis |editor1=Steinmeyer, Elias |editor2=Sievers Eduard |title=Die Althochdeutschen Glossen, vol. III |place=Berlin |publisher=Weidmannscher Buchhandlung |year=1895 |pages=390–404 |chapter-url=https://archive.org/stream/diealthochdeutsc03steiuoft#page/390/mode/2up}}
+*[[Jeffrey Schnapp]], "Virgin's words: Hildegard of Bingen's Lingua Ignota and the Development of Imaginary Languages Ancient to Modern", [[Exemplaria]], III, 2, 1991, pp.&nbsp;267–298.
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [http://scholastic.us.to/Hildegard.html Transliterate text to St. Hildegard's ''litteræ ignotæ'' alphabet.]
+* [https://web.archive.org/web/20051110160747/http://www.langmaker.com/db/mdl_linguaignota.htm Langmaker profile of Lingua Ignota]
+* [http://www.unmasqued.com/eclecticify/ignota.php Eclecticify: Lingua Ignota]: a partial English glossary of the Lingua Ignota by an amateur translator.
+
+{{Hildegard of Bingen}}
+{{Constructed languages}}
+
+[[Category:Constructed languages]]
+[[Category:Language and mysticism]]
+[[Category:Medieval literature]]
+[[Category:Benedictine literature]]

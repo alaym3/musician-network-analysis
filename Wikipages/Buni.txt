@@ -1,0 +1,160 @@
+{{Infobox settlement
+| name                    = Buni
+| native_name             = بونی
+| native_name_lang        = ur
+| other_name              = Booni
+| settlement_type         = Town
+| image_skyline           = Booni Spring.jpg
+| image_alt               = 
+| image_caption           = Buni at [[Kunar River]]
+| nickname                = 
+| image_map               = 
+| map_alt                 = 
+| map_caption             = 
+| pushpin_map             = Khyber Pakhtunkhwa#Pakistan
+| pushpin_label_position  = 
+| pushpin_map_alt         = 
+| pushpin_map_caption     = Location in Khyber Pakhtunkhwa, Pakistan 
+| coordinates             = {{coord|36|16|22|N|72|15|35|E|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Pakistan}}
+| subdivision_type1       = [[Administrative units of Pakistan|Province]]
+| subdivision_name1       = {{flag|Khyber Pakhtunkhwa}}
+| subdivision_type2       = [[List of districts of Pakistan|District]]
+| subdivision_name2       = [[Upper Chitral District|Upper Chitral]]
+| subdivision_type3       = [[Tehsil]]
+| subdivision_name3       = [[Mastuj Tehsil|Mastuj]]
+| established_title       = 
+| established_date        = 
+| founder                 = 
+| named_for               = 
+| government_type         = 
+| governing_body          =
+| leader_title            = 
+| leader_name             =  
+| leader_title2           = 
+| leader_name2            =
+| unit_pref               = 
+| area_footnotes          = 
+| area_rank               = 
+| area_total_km2          = 151.51
+| elevation_footnotes     = 
+| elevation_m             = 1880
+| population_total        = 19,421
+| population_as_of        = 2003
+| population_rank         = 
+| population_density_km2  = auto
+| population_demonym      =  
+| population_footnotes    = 
+| demographics_type1      =
+| demographics1_title1    = 
+| demographics1_info1     = 
+| timezone1               = [[Pakistan Standard Time|PST]]
+| utc_offset1             = +5
+| postal_code_type        = [[Postal Index Number]]
+| postal_code             = 17050 - 0xx
+| area_code_type          = [[Telephone code]] 
+| area_code               = +943 - 7
+| registration_plate      = 
+| blank1_name_sec1        =  
+| blank1_info_sec1        =
+| website                 = {{URL|https://www.boonichitral.com/|Official Website}}
+| footnotes               = 
+}}
+'''Buni''' ({{lang-ur|بونی}}; also spelled '''Booni''') is a town and the headquarters of [[Upper Chitral District]] in [[Khyber Pakhtunkhwa]], [[Pakistan]].
+
+==Demography==
+The residents of Buni are [[Kho people|Khos]], and they speak [[Khowar language|Khowar]] which is spoken and understood throughout Chitral valley.
+[[Urdu]], the national language of Pakistan, is also spoken and understood.
+
+==Climate==
+The climate is considered to be a local [[Mediterranean climate]]. During the year there is abundant rainfall. This climate is considered to be [[Mediterranean climate|Csa]] to the [[Köppen-Geiger]] climate classification. The average annual temperature in Buni is 15.6&nbsp;°C. About 418&nbsp;mm of precipitation falls annually.
+
+{{Weather box
+|width = auto
+|location = Buni
+|single line = Y
+|metric first = Y
+|Jan mean C = 4.1
+|Feb mean C = 5.0
+|Mar mean C = 9.8
+|Apr mean C = 15.3
+|May mean C = 19.4
+|Jun mean C = 24.9
+|Jul mean C = 26.1
+|Aug mean C = 25.4
+|Sep mean C = 21.9
+|Oct mean C = 17.0
+|Nov mean C = 11.5
+|Dec mean C = 6.5
+|year mean C = 26.1
+|Jan high C = 8.3
+|Feb high C = 9.5
+|Mar high C = 14.9
+|Apr high C = 21.0
+|May high C = 25.6
+|Jun high C = 31.8
+|Jul high C = 32.8
+|Aug high C = 32.0
+|Sep high C = 28.7
+|Oct high C = 23.7
+|Nov high C = 17.4
+|Dec high C = 10.9
+|year high C = 32.8
+|Jan low C = -1.1
+|Feb low C = -0.6
+|Mar low C = 4.8
+|Apr low C = 9.7
+|May low C = 13.3
+|Jun low C = 18.0
+|Jul low C = 19.5
+|Aug low C = 18.8
+|Sep low C = 15.2
+|Oct low C = 10.3
+|Nov low C = 5.6
+|Dec low C = 2.1
+|year low C = 11.4
+|precipitation colour=green
+|Jan precipitation mm = 69
+|Feb precipitation mm = 99
+|Mar precipitation mm = 146
+|Apr precipitation mm = 139
+|May precipitation mm = 69
+|Jun precipitation mm = 22
+|Jul precipitation mm = 52
+|Aug precipitation mm = 56
+|Sep precipitation mm = 40
+|Oct precipitation mm = 31
+|Nov precipitation mm = 26
+|Dec precipitation mm = 51
+|source 1 =Climate-Data.org <ref>{{Cite web|title=Climate:Chitral|publisher=Climate-Data.org
+|url=http://en.climate-data.org/location/28799/}}</ref>
+}}
+
+==Educational institutions==
+There's a number of educational institution in Buni.
+
+* Aga Khan High School Buni 
+*Govt Degree College Buni
+*Govt High School Buni 
+*Govt Girls Degree College Buni
+*Pamir School & College Buni
+*Space Era Model School Buni
+*Oxford Public School Buni
+*Pearl College Buni
+
+==See also==
+*[[Buni Zom]]
+*[[Mastuj]]
+
+==References==
+<references/>
+
+<!--==External links==
+-->{{commonscat inline|Booni}}
+{{Chitral-Union-Councils}}
+
+{{DEFAULTSORT:Buni}}
+[[Category:Populated places in Chitral District]]
+[[Category:Hill stations in Pakistan]]
+[[Category:Populated places along the Silk Road]]

@@ -1,0 +1,193 @@
+{{about|the Canadian rock band TWRP|the custom recovery image for Android-based devices|TWRP (software)}}
+{{Use dmy dates|date=May 2018}}
+{{Infobox musical artist
+| name            = TWRP
+| image           = File:TWRP performing in Tampa, Florida, March 2020 (cropped).jpg
+| landscape       = yes
+| caption         = TWRP performing in [[Tampa]] in March 2020. From left to right: Commander Meouch, Havve Hogan, Doctor Sung and Lord Phobos.
+| alias           = Tupper Ware Remix Party
+| origin          = [[Halifax, Nova Scotia|Halifax]], [[Nova Scotia]], Canada
+| genre           = {{flatlist|
+* [[Electronic rock]]
+* [[synth-pop]]
+* [[electro (music)|electro-funk]]
+* [[funk rock]]
+}}
+| years_active    = 2007–present
+| associated_acts = {{flatlist|
+* [[Ninja Sex Party]]
+* [[Starbomb]]
+* [[The Protomen]]
+* Lydia Persaud
+* Planet Booty
+* [[Electric Six]] 
+* Rich Aucoin 
+}}
+| website         = {{URL|twrpband.com/}}
+| current_members = * Doctor Sung
+* Havve Hogan
+* Lord Phobos
+* Commander Meouch
+| past_members    = * Stone LaChismo
+* Bombustron
+* Atomicawk Startrotter
+}}
+
+'''TWRP''' (pronounced ''twerp''), formerly known as '''Tupper Ware Remix Party''', is a Canadian [[Rock music|rock]] band originally from [[Halifax, Nova Scotia]]. Initially founded in 2007,<ref name=":0" /> the band moved to [[Toronto]] in 2011 with a change in members and musical direction. Their lineup consists of keyboardist and vocalist Doctor Sung, guitarist Lord Phobos, bassist Commander Meouch, and drummer Havve Hogan.
+
+The band always performs in full costume, with their faces and real names unknown; they also have a fictional band history, involving Doctor Sung finding his bandmates through space and time.<ref name=":0">{{Cite news|url=https://noisey.vice.com/en_ca/article/6xzqg7/tupper-ware-remix-party-told-us-about-the-future-of-music|title=Tupper Ware Remix Party Told Us What the Future is Going to Be Like|date=2015-01-19|work=Noisey|access-date=2018-07-16|language=en-ca}}</ref><ref>{{Cite web|url=http://www.scope-mag.com/2015/08/tupper-ware-remix-partys-epic-quest-to-annihilate-boredom/|title=Tupper Ware Remix Party's Epic Quest to Annihilate Boredom {{!}} SCOPE|website=www.scope-mag.com|language=en-US|access-date=2018-06-11}}</ref> TWRP released their first album, ''Poised to Dominate'', in 2010. It was followed by
+''ladyworld'' (2017), ''Together Through Time'' (2018), ''Return to Wherever'' (2019), ''Over the Top'' (2020),<ref>{{cite tweet|number=1299014052606246912|user=TWRPband|title=OVER THE TOPA new album from TWRPReleasing September 25th, 2020<!-- full text of tweet that Twitter returned to the bot (excluding links) added by TweetCiteBot. This may be better truncated or may need expanding (TW limits responses to 140 characters) or case changes. --> |date=27 August 2020}}</ref> and ''New & Improved'' (2021). They have also released six [[Extended play|EP]]s.
+
+They are also known for their collaborations with [[Ninja Sex Party]], having become their [[opening act]] and [[backup band|backing band]] in 2015 on both live performances and studio releases, starting with the album ''[[Under the Covers (Ninja Sex Party album)|Under the Covers]]''.<ref name="UnderCoversII">{{cite web|url=https://www.facebook.com/tupperwareremixparty/posts/10154920680600805|title=Ninja Sex Party released the official track list to Under The Covers 2!|publisher=Tupper Ware Remix Party's official Facebook|accessdate=9 September 2017|date=2 July 2017}}</ref> They are also the backing band on ''[[The TryForce]]'', the third album of [[Starbomb]], another band featuring the members of Ninja Sex Party.<ref name="Starbomb">{{Cite news|url=https://twitter.com/ninjasexparty/status/993914342415495168|title=Ninja Sex Party on Twitter|work=Twitter|access-date=2018-05-18|language=en}}</ref>
+
+On September 17, 2018, TWRP appeared on ''[[Conan (talk show)|Conan]]'' as the backing band for Ninja Sex Party, in a clean version of "[[Danny Don't You Know]]".<ref>{{Cite web|title=Ninja Sex Party Delivers Eccentric 'Danny Don't You Know' Performance On 'Conan': Watch|url=https://www.billboard.com/articles/news/television/8475752/ninja-sex-party-conan-performance-video|access-date=2021-07-03|website=Billboard|language=en}}</ref>
+
+== Members ==
+[[File:TWRP Dallas Bomb Factory 2018.jpg|thumb|215px|right|TWRP performing in [[Dallas]] in August 2018. From left to right: Doctor Sung, Commander Meouch and Lord Phobos.]]
+'''Band members'''
+* Doctor Sung&nbsp;– [[keytar]], [[keyboard instrument|keyboards]], [[talk box]] & vocals, [[percussion]] <small>(2007–present)</small> 
+* Havve Hogan&nbsp;– [[drum kit|drums]], [[percussion instrument|electronic percussion]] <small>(2007–present)</small>
+* Lord Phobos&nbsp;– [[lead guitar]], [[acoustic guitar]] <small>(2011–present)</small>
+* Commander Meouch{{efn|originally known as DJ slumbercat}}– [[bass guitar|bass]], [[Backing vocalist|backing vocals]] <small>(2011, 2012–present)</small>, keyboards, talk box <small>(2012)</small>
+
+'''Former members'''
+* Stone LaChismo&nbsp;– bass <small>(2007–2011)</small>
+* Bombustron&nbsp;– guitar, vocals, [[tambourine]], electronic percussion, keyboard <small>(2007–2011, 2011, 2012–2014)</small>
+* Atomicawk Startrotter&nbsp;– bass <small>(2011–2012)</small>
+
+===Timeline===
+{{#tag:timeline|
+ImageSize  = width:900 height:auto barincrement:20
+PlotArea   = left:110 bottom:90 top:5 right:10
+Alignbars  = justify
+DateFormat = dd/mm/yyyy
+Period     = from:01/01/2007 till:{{#time:d/m/Y}}
+TimeAxis   = orientation:horizontal format:yyyy
+Legend     = orientation:vertical position:bottom columns:3
+ScaleMinor = increment:2 start:2008
+ScaleMajor = increment:2 start:2007
+Colors =
+  id:Talkbox value:lavender legend:Talk_box
+  id:Vocals  value:red      legend:Vocals
+  id:Bvocals value:pink     legend:Backing_vocals
+  id:Guitar  value:green    legend:Guitar
+  id:Keys    value:purple   legend:Keyboards
+  id:Bass    value:blue     legend:Bass
+  id:Drums   value:orange   legend:Drums
+  id:Perc    value:claret   legend:Percussion
+  id:Lines   value:black    legend:Studio_release
+  id:bars    value:gray(0.95)
+
+BackgroundColors = bars:bars
+
+LineData =
+  at:01/06/2007 color:black layer:back
+  at:01/01/2010 color:black layer:back
+  at:25/09/2012 color:black layer:back
+  at:23/01/2015 color:black layer:back
+  at:12/09/2015 color:black layer:back
+  at:23/04/2016 color:black layer:back
+  at:04/01/2017 color:black layer:back
+  at:18/05/2018 color:black layer:back
+  at:11/07/2019 color:black layer:back
+  at:25/09/2020 color:black layer:back
+
+BarData =
+  bar:Bombustron  text:"Bombustron"
+  bar:Phobos      text:"Lord Phobos"
+  bar:Sung        text:"Doctor Sung"
+  bar:Meouch      text:"Commander Meouch"
+  bar:LaChismo    text:"Stone LaChismo"
+  bar:Startrotter text:"Atomicawk Startrotter"
+  bar:Hogan       text:"Havve Hogan"
+ 
+PlotData=
+  width:11 textcolor:black align:left anchor:from shift:(10,-4)
+  bar:Bombustron   from:01/01/2007 till:01/01/2014  color:Guitar
+  bar:Bombustron   from:01/01/2007 till:01/01/2014  color:Perc width:7
+  bar:Bombustron   from:01/01/2007 till:01/01/2014  color:Vocals width: 3
+  bar:Phobos       from:01/01/2011 till:end         color:Guitar
+  bar:LaChismo     from:01/01/2007 till:01/01/2011  color:Bass
+  bar:Startrotter  from:01/01/2011 till:01/06/2012  color:Bass
+  bar:Meouch       from:01/01/2012 till:01/06/2012  color:Keys
+  bar:Meouch       from:01/01/2012 till:01/06/2012  color:Talkbox width: 3
+  bar:Meouch       from:01/06/2012 till:end         color:Bass
+  bar:Meouch       from:01/06/2012 till:end         color:Bvocals width:3
+  bar:Sung         from:01/01/2007 till:end         color:Keys
+  bar:Sung         from:01/01/2007 till:end         color:Perc width:7
+  bar:Sung         from:01/01/2007 till:end         color:Talkbox width: 3
+  bar:Hogan        from:01/01/2007 till:end         color:Drums
+  bar:Hogan        from:01/01/2007 till:end         color:Perc width:3
+}}
+
+== Discography ==
+=== Studio albums ===
+
+* ''Poised to Dominate'' (2010)
+* ''Ladyworld'' (2017)
+*''Together Through Time'' (2018)
+* ''Return to Wherever'' (2019)
+* ''Over The Top'' (2020)
+* ''New & Improved'' (2021)
+
+=== EPs ===
+* ''Sex is a Machine That Likes to Dance'' (2007)
+* ''The Device'' (2012)
+* ''2nite'' (2015)
+* ''Believe in Your Dreams'' (2015)
+* ''Guardians of the Zone'' (2016)
+* ''Ladyworld'' (2017)
+
+=== Singles ===
+* "LazerHorse" (2011)
+* "Only The Best" (2020)
+* "Need Each Other" (2020) 
+* "Bright Blue Sky" (2021)<ref>{{Citation|title=TWRP - Bright Blue Sky (Official Video)|url=https://www.youtube.com/watch?v=8AFmTwwZOjU|language=en|access-date=2021-11-13}}</ref> 
+* "Found Your Love" (2021) 
+* "Polygon" (2021)
+
+=== Compilations ===
+* ''Omnibus'' (2017)
+* ''Welcome to TWRP'' (2018){{efn|Japanese exclusive release}}<ref>{{Cite news|url=https://tower.jp/item/4756161/%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%AB%E3%83%A0%E3%83%BB%E3%83%88%E3%82%A5%E3%83%BB%E3%82%BF%E3%83%83%E3%83%91%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%BB%E3%83%AA%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC|title=TWRP/ウェルカム・トゥ・タッパーウェア・リミックス・パーティー – TOWER RECORDS ONLINE|access-date=2018-10-15}}</ref>
+* ''Lil' Shiny Tunes Vol. 1'' (2021) {{efn|bandcamp exclusive release}}
+
+=== As Ninja Sex Party's backing band ===
+
+* ''[[Under the Covers (Ninja Sex Party album)|Under the Covers]]'' (2016)
+* ''[[Under the Covers, Vol. II]]'' (2017)<ref name="UnderCoversII"/>
+* ''[[Cool Patrol]]'' (2018)
+* ''[[Under the Covers, Vol. III]]'' (2019)<ref name="Vol. III recording">{{cite tweet|number=993914342415495168|user=ninjasexparty|title=tentative album schedule:August 2018: Cool Patrol December 2018: @starbomb 3mid-2019: UTC 3all w/ @TWRPband fuck<!-- full text of tweet that Twitter returned to the bot (excluding links) added by TweetCiteBot. This may be better truncated or may need expanding (TW limits responses to 140 characters) or case changes. --> |accessdate=July 2, 2018|date=May 8, 2018}}</ref>
+* ''[[The Prophecy (Ninja Sex Party album)|The Prophecy]]'' (2020)
+* ''Level Up'' (2021)
+
+=== As Starbomb's backing band ===
+* ''[[The TryForce]]'' (2019)<ref name="Starbomb"/>
+=== As a guest === 
+* ''Planet Booty - "Only if you say yes" '' (2021)
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist|30em}}
+
+== External links ==
+* {{official website|http://www.twrpband.com/}}
+
+{{Ninja Sex Party}}
+{{Starbomb}}
+
+{{Authority control}}
+
+[[Category:Musical quartets]]
+[[Category:Synthwave groups]]
+[[Category:Canadian electronic rock musical groups]]
+[[Category:Canadian synthpop groups]]
+[[Category:Canadian alternative rock groups]]
+[[Category:Musical groups established in 2006]]
+[[Category:Musical groups from Halifax, Nova Scotia]]
+[[Category:Musical groups from Toronto]]
+[[Category:Masked musicians]]
+[[Category:Bands with fictional stage personas]] 
+[[Category:Ninja Sex Party]]
+[[Category:2006 establishments in Nova Scotia]]

@@ -1,0 +1,118 @@
+{{short description|Belgian singer|bot=PearBOT 5}}
+{{Infobox musical artist
+| name            = Emma Bale
+| image           = Emma Bale.jpg
+| caption         = Emma Bale in 2014
+| birth_name      = Emma Balemans
+| alias           = Emma Bale
+| birth_date      = {{Birth date and age|df=yes|1999|8|2}}
+| birth_place     = [[Belgium]]
+| origin          =
+| instrument      = Vocals
+| genre           = [[Pop music|Pop]]
+| occupation      = Singer
+| years_active    = 2014–present
+| label           =
+| associated_acts = {{Flatlist|
+*[[Milow]]}}
+| website         = [http://www.emmabale.be/bio emmabale.be]
+}}
+
+'''Emma Bale''' (born '''Emma Balemans''',<ref>{{Cite web|url=http://www.hln.be/regio/nieuws-uit-sint-katelijne-waver/emma-15-bestormt-hitlijsten-a2150180/|title=Emma (15) bestormt hitlijsten|date=12 December 2014|accessdate=11 March 2016|language=Dutch}}</ref> 2 August 1999<ref>{{Cite web|url=http://www.top40.nl/top40-artiesten/emma-bale|title=Top 40-artiest: Emma Bale|accessdate=11 March 2016|language=Dutch}}</ref>) is a Belgian singer, who is most notable for her cover of "[[All I Want (Kodaline song)|All I Want]]" by [[Kodaline]] and her number-one song in Flanders, "Fortune Cookie".
+
+In September 2015, Bale, alongside producer Hans Francken released an [[Extended play|EP]] titled, ''My Untouched World'', with six songs, including Bale's charted songs. "Run" was also remixed by [[Lost Frequencies]].
+
+Bale competed in Flanders' version of ''The Voice Kids'', failing to advance to the finals after losing out in the sing-off.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions
+! scope="col" rowspan="2" style="width:10em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Details
+! scope="col" colspan="1"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Ultratop|BEL<br>(FL)]]<br/><ref>{{cite web|url=http://www.ultratop.be/nl/showinterpret.asp?interpret=Emma+Bale|title=Discografie Emma Bale|publisher=[[Ultratop]]|access-date=9 April 2021}}</ref>
+|-
+! scope="row"| ''Retrospect''
+|
+* Released: 2 April 2021
+* Label: [[Sony Music]]
+* Format: [[Music download|Digital download]], [[Streaming media|streaming]]
+| 3
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" colspan="3"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.2em; font-size:90%;"| [[Ultratop|BEL (Fl)]]<br /><ref name="BEL Fl">{{Cite web|title=Emma Bale|url=http://www.ultratop.be/nl/showperson.asp?name=Emma+Balemans|accessdate=11 March 2016|language=Dutch}}</ref>
+! scope="col" style="width:2.2em; font-size:90%;"| [[Ultratop|BEL (Wa)]]<br /><ref name="BEL Wa">{{Cite web|title=Emma Bale|url=http://www.ultratop.be/fr/showperson.asp?name=Emma+Balemans|accessdate=11 March 2016 |language=French}}</ref>
+! scope="col" style="width:2.2em; font-size:90%;"| [[Dutch Top 40|NED]]<br />
+|-
+| rowspan="3"|2015
+! scope="row"| "[[All I Want (Kodaline song)|All I Want]]" <small>([[Kodaline]] cover)</small>
+| 3 || 67 || —
+| rowspan="2"| ''My World Untouched''
+|-
+! scope="row"| "[[Run (Emma Bale song)|Run]]"
+| 2 || 41 || —
+|-
+! scope="row"| "[[Fortune Cookie (Emma Bale song)|Fortune Cookie]]"<br /><small>(featuring [[Milow]])</small>
+| 1 || 20 || 14
+| rowspan="5" {{N/A|Non-album singles}}
+|-
+| 2016
+! scope="row"| "Worth It"
+| 16 || 67 || —
+|-
+| 2017
+! scope="row"| "Curaçao"
+| 25 || — || —
+|-
+| 2018
+! scope="row"| "Cut Loose"
+| 20 || 29 || —
+|-
+| 2019
+! scope="row"| "Joan"
+| 79 || — || —
+|-
+| 2020
+! scope="row"| "Greedy"
+| 52 || — || —
+| rowspan="5"| ''Retrospect''
+|-
+| rowspan="4"| 2021
+! scope="row"| "Mind Games"
+| — || — || —
+|-
+! scope="row"| "Boy Bye"
+| 62 || — || —
+|-
+! scope="row"| "[[The Time Is Now (Moloko song)|The Time Is Now]]"
+| 73 || — || —
+|-
+! scope="row"| "Amsterdam"
+| 52 || — || —
+|}
+
+==References==
+{{Reflist}}
+{{MTV Europe Music Award for Best Belgian Act}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bale, Emma}}
+[[Category:1999 births]]
+[[Category:Belgian women pop singers]]
+[[Category:Belgian child singers]]
+[[Category:Living people]]
+[[Category:21st-century Belgian  women singers]]
+
+
+{{Belgium-singer-stub}}

@@ -1,0 +1,823 @@
+{{short description|American video editor, musician, singer and songwriter}}
+{{Distinguish|Kurt Schneider}}
+{{infobox person
+| name               = Kurt Hugo Schneider
+| image              = Kurt Hugo Schneider in 2017.png
+| caption            = Schneider in 2017
+| birth_name         = 
+| birth_place        = [[Baltimore]], [[Maryland]], U.S.
+| birth_date         = {{Birth date and age|1988|09|07}}
+| alma_mater         = [[Yale University]]
+| occupation         = Director, producer, singer, songwriter, composer
+| years_active       = 2007–present<ref>{{cite web|url=https://www.youtube.com/user/KurtHugoSchneider/about| title=Kurt's YouTube history| date=2016-04-30| publisher=YouTube}}</ref><ref>{{cite web|url=http://www.ivygateblog.com/tag/yale/page/44/| title=Another catchy tune promoting something you don't actually do, but maybe would, if life were more like a music video.| date=2007-12-19| publisher=Maureen O'Connor, Ivygateblog}}</ref>
+| spouse             = Patty Ho (m.2021) 
+| module             = {{Infobox musical artist
+| embed           = yes<!-- See Wikipedia:WikiProject Musicians -->
+| origin          = {{nowrap|[[Blue Bell, Pennsylvania]], U.S.}}
+| instrument      = {{Flatlist|
+* Piano
+* guitar
+* percussion
+* vocals}}
+| genre           = {{Flatlist|
+* [[Pop music|Pop]]
+* [[Acoustic music|acoustic]]
+* [[synthpop]]}}
+| label           = {{Flatlist|
+* Mud Hut Digital
+* NoodleHouse
+* [[Sh-K-Boom Records|Sh-K-Boom]]}}
+{{Collapsed infobox section begin|Associated acts}}
+| associated_acts = {{Flatlist|
+* [[Sam Tsui]], [[Tiffany Alvord]]
+* [[Megan Nicole]]
+* [[Christina Grimmie]]
+* [[Matisse (singer)|Matisse]]
+* [[Husky (commentator)|Husky]]
+* [[Victoria Justice]]
+* [[Max Schneider]]
+* [[Keke Palmer]]
+* [[Alex Goot]]
+* [[Shirley Setia]]
+* [[Against the Current (band)|Against the Current]]
+* [[Tyler Ward]]
+* [[Alyson Stoner]]
+* [[Zendaya]]
+* [[Kina Grannis]]
+* [[Jason Mraz]]
+* [[Hunter Hayes]]
+* [[Lindsey Stirling]]
+* [[Macy Kate]]
+* [[Bethany Mota]]
+* Mitchell Rose
+* [[Vidya Iyer]]
+* The Overtunes
+* Aaron Encinas
+* Ni/Co
+* T.B.C.
+* [[Nataly Dawn]]}}
+{{collapsed infobox section end}}
+}}
+| module2            = {{infobox YouTube personality|embed=yes
+| channel_name     = KurtHugoSchneider
+| subscribers      = 13.4 million
+| views            = 3.4 billion
+| silver_button    = yes
+| gold_button      = yes
+| diamond_button   = yes
+| stats_update     = June, 2021
+}}
+}}
+'''Kurt Hugo Schneider''' (born September 7, 1988),<ref name="starscoop">{{cite web|url=http://www.thestarscoop.com/music/sam-tsui-and-kurt-schneider-interview/| title=Sam Tsui and Kurt Schneider Interview| date=2010-11-21| publisher=The Star Scoop|access-date=2011-02-15}}</ref> sometimes referred to by his initials '''KHS''', is an American video editor, producer, musician, singer and songwriter, whose primary medium is [[YouTube]] [[music videos]]. He has  produced music videos for various YouTube musicians, such as [[Sam Tsui]].<ref name="ABS">{{cite web|url=http://www.abs-cbnnews.com/entertainment/09/12/10/sam-tsuis-one-man-choir-hits-youtube|title=Sam Tsui's one-man choir hits YouTube|date=2010-09-12|publisher=[[ABS-CBN News and Current Affairs]]|access-date=2010-09-14}}</ref><ref name=":0">{{cite news|last=Fletcher|first=Dan|date=2009-11-23|title=YouTube Effect: Making Money from Viral Videos|work=[[Time (magazine)|Time]]|publisher=[[Time Inc]]|url=http://www.time.com/time/magazine/article/0,9171,1938731,00.html|url-status=dead|access-date=2010-12-02|archive-url=https://web.archive.org/web/20091117090212/http://www.time.com/time/magazine/article/0,9171,1938731,00.html|archive-date=November 17, 2009}}</ref>
+
+== Early life ==
+Kurt Hugo Schneider was born in [[Baltimore]] to Laurie S. Auth, a [[visual artist]], and Michael Schneider, a [[mathematician]].<ref>{{cite web|title=Visual Artist Laurie S. Auth's Artworks|url=http://www.lsauth.com/index.html|date=2014-10-18|publisher=[[lsauth]]|url-status=dead|archive-url=https://web.archive.org/web/20141016235108/http://lsauth.com/index.html|archive-date=2014-10-16|access-date=2014-10-18}}</ref><ref>{{cite web|title=New Haven Asset Management, Management Team|url=http://www.newhavenllc.com/the-team|date=2014-10-18|publisher=[[newhavenllc]]|url-status=dead|archive-url=https://web.archive.org/web/20141021133137/http://newhavenllc.com/the-team|archive-date=2014-10-21|access-date=2014-10-18}}</ref> He grew up in [[Blue Bell, Pennsylvania]], a suburb of [[Philadelphia]], where he lived just a street away from [[Sam Tsui]], whom he met while attending middle school. They both later attended [[Wissahickon High School]].<ref name="shkboom">{{cite web|title=Sam Tsui & Kurt Schneider: The Covers|url=http://www.sh-k-boom.com/thecovers.shtml|publisher=[[Sh-K-Boom Records]]|url-status=dead|archive-url=https://web.archive.org/web/20100217041831/http://www.sh-k-boom.com/thecovers.shtml|archive-date=2010-02-17|access-date=2009-09-14}}</ref> He graduated class [[valedictorian]].<ref name="chess">{{cite web|title=Talking YouTube with Kurt Hugo Schneider|url=http://www.philly.com/philly/entertainment/20141116_Talking_YouTube_with_Kurt_Hugo_Schneider.html?c=r|last=Hiltbrand|first=David|date=November 16, 2014|website=The Philadelphia Inquirer|publisher=[[Philadelphia Media Network]]|access-date=2014-12-26}}</ref>
+
+Schneider attended [[Yale University]], where he got his start producing videos when he worked at Yale's Digital Media Center for the Arts.<ref>{{Cite news|last=Pierce|first=David|date=2016-06-02|title=Kurt Schneider: The Chessmaster Who Turned Into the King of YouTube Music|work=Wired|url=https://www.wired.com/2016/06/youtube-superproducer-kurt-hugo-schneider/|access-date=2020-03-09|issn=1059-1028}}</ref> He graduated [[magna cum laude]] in 2010 with a degree in [[mathematics]] and was inducted into [[Phi Beta Kappa Society|Phi Beta Kappa]].<ref name="starscoop" /><ref>{{cite web|title=Senior Year Inductees|url=http://www.yale.edu/pbk/seniorinductees.html|publisher=Yale.edu|access-date=2013-10-18}}</ref>
+
+==Career==
+
+===Collaboration with Sam Tsui===
+
+Schneider began collaborating with [[Sam Tsui]] while they were both students at Wissahickon High School.<ref name="redefines">{{cite web|url=http://yaleherald.com/featured/kurt-schneider-redefines-formula-for-youtube-success/|title=Kurt Schneider re(de)fines formula for YouTube success|date=2010-01-29|work=[[The Yale Herald]]|publisher=[[Yale University]]|access-date=2010-09-14|url-status=dead|archive-url=https://web.archive.org/web/20100905153053/http://yaleherald.com/featured/kurt-schneider-redefines-formula-for-youtube-success/|archive-date=2010-09-05}}</ref>
+
+Schneider and Jake Bruene created the musical [[web series]] ''College Musical'' fall semester 2008 at Yale. Schneider composed the songs and cast the project from Yale's music community, which included Sam Tsui and [[Allison Williams (actress)|Allison Williams]]. The first episode aired on YouTube in January 2009.<ref name="redefines" /> They shot an independent film based upon their online musical series, ''[[College Musical: The Movie]],'' summer of 2010 and released online it on September 3, 2014.<ref name="filmwrap">{{cite news|last=Zhang|first=Baobao|date=2010-09-03|title=The stacks are alive ... with the sound of "College Musical"|work=[[Yale Daily News]]|publisher=The Yale Daily News Publishing Company|url=http://www.yaledailynews.com/news/2010/sep/03/stacks-are-alive-sound-college-musical/|url-status=dead|access-date=2011-02-17|archive-url=https://web.archive.org/web/20101124204007/http://www.yaledailynews.com/news/2010/sep/03/stacks-are-alive-sound-college-musical/|archive-date=2010-11-24}}</ref> A series of behind-the-scenes videos for the movie, filmed and narrated by Nick Uhas, has been released on YouTube.<ref name="moviebts">{{cite web|title=Ep. 01 of The Making of College Musical The Movie|url=https://www.youtube.com/watch?v=wXHUhRxATxo|date=2010-08-12|publisher=[[YouTube]]|access-date=2011-02-15}}</ref>
+
+He produced videos of Tsui singing [[Cover version|covers]] and [[Medley (music)|medleys]].
+
+They garnered wide media attention with a video of a [[Michael Jackson]] medley.<ref name="ABS" /> This video remains the 9th most viewed (more than 34 million) on Schneider's [[YouTube]] channel ''KurtHugoSchneider''.<ref name="Channel">{{cite web|url=https://www.youtube.com/user/KurtHugoSchneider|title=KurtHugoSchneider's Channel|author=As at December 2011. Schneider, Kurt Hugo|publisher=[[YouTube]]|access-date=2011-12-26}}</ref> This medley is one of several in which Schneider, using [[video editing]], creates the illusion of a one-man a cappella choir, with Tsui covering [[Lead vocalist|lead]] and [[Backing vocalist|backing vocals]], playing multiple versions of himself.<ref name="ABS" /><ref name="detroit">{{Cite news|url=http://www.freep.com/article/20091003/BLOG36/91002074/1001/NEWS/Michael-Jackson-medley-a-Web-hit|title=Michael Jackson medley video a Web hit|date=2009-10-03|first=Mark W.|last=Smith|work=[[Detroit Free Press]]|publisher=[[Gannett Company|Gannett Company, Inc]]|access-date=2010-10-11}}</ref> Their medley videos have been described by ''[[Time (magazine)|Time]]'' as a combination of ''[[Glee (TV series)|Glee]]'' and ''[[Star Wars: Episode II – Attack of the Clones|Attack of the Clones]]''.<ref name=":0" /> The viral videos led to a few appearances on national television, including ''[[The Oprah Winfrey Show]]'' and ''[[The Ellen DeGeneres Show]]''.<ref name="Oprah">{{cite web|url=http://www.oprah.com/oprahshow/Incredible-Feats/6|title=Incredible Feats|work=[[The Oprah Winfrey Show]]|publisher=[[Harpo Productions]]|access-date=2010-09-14}}</ref><ref>{{cite web|url=http://yaleherald.com/thebullblog/bullblog-breaking-news-sam-tsui-to-be-on-oprah/|title=Bullblog breaking news: Sam Tsui to be on Oprah|author=Miranda|date=2010-02-16|work=[[The Yale Herald]]|publisher=[[Yale University]]|access-date=2010-09-14}}</ref><ref>{{Cite news|url=http://www.yaledailynews.com/news/2010/dec/02/tsui-11-and-schneider-10-ellen/|title=Tsui '11 and Schneider '10 on 'Ellen'|date=2010-12-02|first=Esther|last=Zuckerman|work=[[Yale Daily News]]|publisher=The Yale Daily News Publishing Company|access-date=2010-12-02|archive-url=https://web.archive.org/web/20110222145129/http://www.yaledailynews.com/news/2010/dec/02/tsui-11-and-schneider-10-ellen/|archive-date=2011-02-22|url-status=dead}}</ref><ref>{{cite web|url=http://ellen.warnerbros.com/2010/12/youtube_sensation_sam_tsui_performs_1202.php|title=YouTube Sensation Sam Tsui Performs!|date=December 2, 2010|publisher=Ellen.WarnerBros.com. [[Warner Bros.]]|access-date=2010-12-02|archive-url=https://web.archive.org/web/20101206031602/http://ellen.warnerbros.com/2010/12/youtube_sensation_sam_tsui_performs_1202.php|archive-date=December 6, 2010|url-status=dead}}</ref> On February 3, 2011, Schneider's video of Tsui covering ''[[Hold It Against Me]]'', in which Tsui sang and played the piano with Schneider on percussion, was featured on [[Britney Spears]]' official website.<ref name="britney">{{cite web|url=http://www.britneyspears.com/2011/02/sam-tsui-covers-britneys-hold-it-against-me.php|title=Sam Tsui Covers Britney's "Hold It Against Me"|publisher=britneyspears.com|date=2011-02-03|access-date=2011-02-16|archive-url=https://web.archive.org/web/20110222151819/http://www.britneyspears.com/2011/02/sam-tsui-covers-britneys-hold-it-against-me.php|archive-date=2011-02-22|url-status=dead}}</ref><ref>{{cite web |url=https://www.twitter.com/SamuelTsui/statuses/33295678578892800 | title=My "Hold it Against Me" cover was just posted on @britneyspears official website!! Ahhh! :-D|publisher=[[Twitter]] |date=2011-02-04 |access-date=2011-02-06}}</ref>
+
+The popularity of their videos has encouraged the duo to branch out to other projects.<ref name="redefines" /> Since September 2010, Schneider and Tsui have also begun to release videos of original songs<ref name="starscoop" /><ref name="1storig">{{cite web|url=https://www.youtube.com/watch?v=n1p74Isbcgc|title=Sam Tsui - Don't Want An Ending|publisher=[[YouTube]]|date=2010-09-04|access-date=2011-02-16}}</ref> and in May 2013, [[Sam Tsui]]'s debut original album, ''Make It Up'', was released.<ref>{{cite web|url=https://www.youtube.com/watch?v=UvyVqm-WJtA|title=Preorder "Make It Up" on iTunes"|date=2013-05-04|access-date=2013-05-12}}</ref>
+
+===Other works===
+
+Schneider has also made music videos in collaboration with other artists. Popular videos include a [[Miley Cyrus]] medley sung by [[Christina Grimmie]],<ref>{{cite web |url=https://www.youtube.com/watch?v=Ua4EESKuCAs | title=Miley Cyrus Medley (ft. Christina Grimmie) |publisher=[[YouTube]] |date=2010-05-02 |access-date=2011-02-15}}</ref> a [[duet]] between Tsui and Grimmie singing ''[[Just a Dream (Nelly song)|Just a Dream]]'' (the most viewed video on 'KurtHugoSchneider', with over a hundred and forty million views),<ref>{{cite web |url=https://www.youtube.com/watch?v=a2RA0vsZXf8 | title='Just A Dream' by Nelly - Sam Tsui & Christina Grimmie  |publisher=[[YouTube]] |date=2010-11-20 |access-date=2011-02-15}}</ref> and a ''[[Starcraft 2|Starcraft]]''-themed parody video, with [[Husky (commentator)|Husky]], of "[[Baby (Justin Bieber song)|Baby]]".<ref>{{cite web |url=https://www.youtube.com/watch?v=fzMhh8zhTiY | title=NERD ALERT - Banelings - (Justin Bieber - Baby PARODY) ft HuskyStarcraft / KurtHugoSchneider   |publisher=[[YouTube]] |date=2010-11-20 |access-date=2011-02-15}}</ref> He has also parodied the infamous "Friday" by Rebecca Black with his variation being known as "Void Rays". He has collaborated with [[Tiffany Alvord]] on a [[Taylor Swift]] medley<ref>{{cite web|url=https://www.youtube.com/watch?v=tQq0rUn03K4 |title=YouTube |publisher=YouTube |access-date=2013-10-18}}</ref> and [[Matisse (singer)|Matisse]] on a medley of [[Rihanna]] songs.<ref>{{cite web|url=https://www.youtube.com/watch?v=h7djo7Xu9JU |title=Rihanna Medley!! (ft. Matisse) |publisher=YouTube |date=2011-07-28 |access-date=2013-10-18}}</ref> Some of his earlier videos include collaborations with now-actress [[Allison Williams (actress)|Allison Williams]]. He has also collaborated with [[Max Schneider]] (no relation) on a number of occasions: for example he directed a [[Bruno Mars]] medley for Schneider and [[Victoria Justice]], a Maroon 5 medley and a Christmas medley.<ref>{{cite web|url=https://www.youtube.com/watch?v=WKcVt1Cn5BI |title=Breakeven - The Script (ft. Max Schneider) |publisher=YouTube |date=2012-01-08 |access-date=2013-10-18}}</ref> Schneider also co-wrote 'Standing In China' with Schneider for [[Cody Simpson]]'s album ''[[Paradise (Cody Simpson album)|Paradise]]''. Schneider was also an associate producer for a musical admissions video for Yale, which features a cast consisting of [[Sam Tsui|Tsui]] and fellow Yale students.<ref name="redefines" /><ref>{{cite web |url=https://www.youtube.com/watch?v=tGn3-RW8Ajk | title=That's Why I Chose Yale |publisher=[[YouTube]] |date=2010-01-14 |access-date=2011-02-15}}</ref>
+
+He has also performed a cover of "Beauty and the Beat" by Justin Bieber with [[Alex Goot]] and [[Chrissy Costanza]] from Against the Current<ref>{{cite web |url=https://www.youtube.com/watch?v=n-BXNXvTvV4 | title=''Beauty and the Beat'' Cover|publisher=[[YouTube]] |date=2013-01-05 |access-date=2014-04-11}}</ref> as well as a cover of "Counting Stars" by OneRepublic,<ref>{{cite web |url=https://www.youtube.com/watch?v=vbYB4rddM-8 | title=''Counting Stars'' Cover|publisher=[[YouTube]] |date=2014-01-25 |access-date=2014-04-11}}</ref> a cover of "[[Can't Hold Us]]" by [[Macklemore and Ryan Lewis]],<ref>{{cite web |url=https://www.youtube.com/watch?v=-rndLomIbVY | title= ''Can't Hold Us'' Cover|publisher=[[YouTube]]}}</ref> and a cover of "Heart Attack" by Demi Lovato with Halocene.<ref>{{cite web |url=https://www.youtube.com/watch?v=-aaYNrqqmCg| title=''Heart Attack'' Cover|publisher=[[YouTube]] |date=2018-01-09}}</ref>
+
+===Collaboration with Coca-Cola===
+In 2013, Schneider and [[Coca-Cola]] created music videos featuring creative covers of two 2011 singles: [[Calvin Harris]]' "[[Feel So Close]]" and [[Of Monsters and Men]]'s "[[Little Talks]]" for a campaign called "The Sounds of AHH". Commercial edits of the singles premiered on the inaugural episode of [[American Idol (season 13)|season 13]] of ''[[American Idol]]'' on January 14, 2014, on [[Fox Broadcasting Company|FOX]].
+
+In the two new versions, recreated by Schneider, he is shown making the track playing only Coca-Cola bottles, glasses and cans. In addition, "Feels So Close" features the vocals of [[Sam Tsui]] whereas on the track "Little Talks", he is accompanied musically by beatboxing cellist [[Kevin Olusola]].<ref>{{cite web|url=http://www.coca-colacompany.com/stories/behind-the-bottles-5-questions-with-kurt-hugo-schneider|title=Behind the Bottles: 5 Questions With Kurt Hugo Schneider}}</ref>
+
+==Chess and puzzles==
+Schneider played for Yale's chess team.<ref name="chess" /> He currently holds a [[United States Chess Federation|USCF]] Elo rating of 2235, holding the title of [[Chess title#United States|master]],<ref name="chess1">{{cite web|url=http://main.uschess.org/content/view/10191/581/|title=The United States Chess Federation - Chess Master Appeared on Oprah|publisher=[[United States Chess Federation]]|access-date=2011-04-01}}</ref> and has held a blindfolded [[simultaneous exhibition]] for the comedy series [[The Try Guys]].<ref>{{cite web|url=https://www.youtube.com/watch?v=SG6TPTBBz7g|title=Can 4 Guys Beat A Blindfolded Chess Master? • The Try Guys: 4 Vs. 1 |publisher=[[YouTube]]|access-date=2020-02-22}}</ref> He has also featured at the [[CES 2014]] in the HRM Chess Tournament, hosted by [[Nordic Semiconductor]] in [[Las Vegas]], while playing against [[Magnus Carlsen]].<ref>{{cite web|url=https://www.youtube.com/watch?v=_qWLbkN4kM4|title=Nordic Semi @ CES 2014 - HRM Chess Tournament starring Magnus Carlsen |publisher=[[YouTube]]|access-date=2014-02-03}}</ref>
+
+In February 2020, Schneider created a [[sudoku]]-based puzzle for [[Cracking the Cryptic]].<ref>{{cite web|url=https://www.youtube.com/watch?v=O4haLHzdtqg|title=World-Famous YouTuber Creates Genius Sudoku|publisher=[[YouTube]]|access-date=2020-07-24}}</ref>
+
+==Personal life==
+He is of German and Austrian descent on his father's side.<ref name="Austria2">{{cite web|title=my dad's family is all german and austrian|url=https://www.twitter.com/KurtHSchneider/status/35026456178335744|date=2011-02-08|publisher=[[Twitter]]|access-date=2011-02-15}}</ref> Schneider has an older sister who is a classical pianist.<ref name="sister1">{{cite web|title=older sister!|url=https://www.twitter.com/KurtHSchneider/status/35030546195292160|date=2011-02-08|publisher=[[Twitter]]|access-date=2011-02-08}}</ref>
+
+In August 2019 Schneider got engaged to his girlfriend of 5 years, Patty Ho. They were married in September 2021. <ref>{{Cite video|url=https://www.youtube.com/watch?v=hj41byzzTqs|title=I PROPOSED in an ESCAPE ROOM.|date=August 10, 2019|type=YouTube video|language=en|publisher=Kurt Hugo Schneider}}</ref>
+
+==Discography==
+{{Main|Sam Tsui discography}}
+The following is a list of singles released digitally to [[iTunes Store]] and recorded with artists other than [[Sam Tsui]].
+
+;Covers
+{| class="wikitable"
+|-
+! Year
+! Title
+! Artists
+! Original artists
+|-
+| rowspan="2"| 2010
+| "[[Chopsticks (music)|Chopsticks!]]"
+| Andrew Johnson
+| [[Euphemia Allen]]
+|-
+| "[[Iris (Goo Goo Dolls song)|Iris]]"
+| Kurt Hugo Schneider, Jake Bruene
+| [[Goo Goo Dolls]]
+|-
+| 2011
+| "[[Hold My Hand (Michael Jackson song)|Hold My Hand]]"
+| J Rice, Kurt Hugo Schneider
+| [[Michael Jackson]] ft. [[Akon]]
+|}
+
+==Filmography==
+
+===Film===
+{| class="wikitable"
+|-
+! Year
+! Title
+! Credits
+! Notes
+|-
+| rowspan="2"|2010
+| ''That's Why I Chose Yale''
+| Associate producer, music producer, <br>sound editor, vocalist, actor
+| Video (17 min) produced<br> in collaboration with<br> the Yale admissions office
+|-
+| ''Nothing Left Unsaid''
+|  rowspan="2"|Director
+| Short (13 min) starring<br> Daniel Amerman, Julie Shain and Jay Frisby
+|-
+| 2014
+| ''College Musical: The Movie''
+| Short film
+|}
+
+===Music videos===
+
+This list covers only music videos made for solo works, Sam Tsui originals and collaborations with other artists not listed in the discography for Sam Tsui.
+{| class="wikitable"
+|-
+! Year
+! Title
+! Artists
+! Original artists or work
+! Notes
+|-
+| rowspan="34"| 2010
+|-
+| "[[Can I Have This Dance]]"
+| [[Sam Tsui]], Kurt Hugo Schneider
+| [[High School Musical]]
+| rowspan="6"| Cover version
+|-
+| "[[Circus (song)|Circus]]"
+| [[Jake Bruene]], Kurt Hugo Schneider
+| [[Britney Spears]]
+|-
+| "[[Run (Snow Patrol song)|Run]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Snow Patrol]]
+|-
+| "[[Thinking of You (Katy Perry song)|Thinking of You]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Katy Perry]]
+|-
+| "[[Don't Stop Believin']]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Journey (band)|Journey]]
+|-
+| "[[You and I Both]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Jason Mraz]]
+|-
+| "[[Michael Jackson]] Medley"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Michael Jackson]]
+| Medley of songs by [[Michael Jackson]]
+|-
+| "[[Down (Jay Sean song)|Down]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Jay Sean]]
+| rowspan="11"| Cover version
+|-
+| "[[Breaking Free]]"
+| Sam Tsui, [[Allison Williams (actress)|Allison Williams]]
+| [[High School Musical]]
+|-
+| "[[Keep Holding On]]"
+| Kurt Hugo Schneider
+| [[Avril Lavigne]]
+|-
+| "[[All I Want for Christmas Is You|All I Want For Christmas Is You]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Mariah Carey]]
+|-
+| "[[Tik Tok (song)|Tik Tok]]"
+| [[Allison Williams (actress)|Allison Williams]], Kurt Hugo Schneider
+| [[Kesha]]
+|-
+| "[[Replay (Iyaz song)|Replay]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Iyaz]]
+|-
+| "[[Fireflies (Owl City song)|Fireflies]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Owl City]]
+|-
+| "[[Need You Now (Lady Antebellum song)|Need You Now]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Lady Antebellum]]
+|-
+| "[[Break Your Heart]]"
+| [[Jake Bruene]], [[Frank Sacramone]], Kurt Hugo Schneider
+| [[Taio Cruz]]
+|-
+| "[[Only Hope]]"
+| [[Tiffany Alvord]], Kurt Hugo Schneider
+| [[Mandy Moore]] [[Switchfoot]]
+|-
+| "[[Nothin' on You|Nothin' On You]]", "[[Hey, Soul Sister]]"
+| Sam Tsui, [[Ahmir]], Kurt Hugo Schneider
+| [[B.o.B]], [[Bruno Mars]], [[Train (band)|Train]]
+|-
+| "[[Miley Cyrus]] medley"
+| [[Christina Grimmie]]
+| [[Miley Cyrus]]
+| Medley of songs by [[Miley Cyrus]]
+|-
+| "[[Heaven (Bryan Adams song)|Heaven]]"
+| Sam Tsui
+| [[Bryan Adams]]
+| rowspan="2"| Cover version
+|-
+| "[[Unwell]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Matchbox Twenty]]
+|-
+| "[[For Good]]"
+| Sam Tsui ft. Nick Pitera
+| ''[[Wicked (musical)|Wicked]]''
+| Cover version of musical number from ''[[Wicked (musical)|Wicked]]''
+|-
+| "Don't Want An Ending"
+| colspan="2"|Sam Tsui
+| Original video featuring Amanda Glassman
+|-
+| "Love The Way You Lie Mashup"
+| Sam Tsui
+| [[Rihanna]]
+| Mashup of the songs "[[Dynamite (Taio Cruz Song)|Dynamite]]", "[[Love The Way You Lie]]", and "[[Teenage Dream (Katy Perry song)|Teenage Dream]]"
+|-
+| "[[If I Die Young]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[The Band Perry]]
+| rowspan="6"| Cover version
+|-
+| "[[Just the Way You Are (Bruno Mars song)|Just The Way You Are]]"
+| Sam Tsui
+| [[Bruno Mars]]
+|-
+| "[[DJ Got Us Falling In Love]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Usher (entertainer)|Usher]] ft. [[Pitbull (entertainer)|Pitbull]]
+|-
+| "[[The Only Exception]]"
+| Sam Tsui
+| [[Paramore]]
+|-
+| "[[I Will Follow You Into The Dark]]"
+| Kurt Hugo Schneider
+| [[Death Cab for Cutie]]
+|-
+| "[[Just a Dream (Nelly song)|Just a Dream]]"
+| Sam Tsui, Christina Grimmie
+| [[Nelly]]
+|-
+| "[[Dynamite (Taio Cruz song)|Dynamite]], [[Firework (song)|Firework]] & [[Grenade (song)|Grenade]]"
+| Sam Tsui
+| [[Katy Perry]], [[Bruno Mars]], [[Taio Cruz]]
+| Mashup version of [[Taio Cruz]]'s "Dynamite", [[Katy Perry]]'s "Firework" and [[Bruno Mars]]' "Grenade"
+|-
+| "Banelings"
+| [[HuskyStarcraft|Husky]], Kurt Hugo Schneider
+| [[Justin Bieber]]
+| Parody version of ''[[Baby (Justin Bieber song)|Baby]]''
+|-
+| "[[Iris (song)|Iris]]"
+| Kurt Hugo Schneider
+| [[Goo Goo Dolls]]
+| Cover version
+|-
+| rowspan="20"| 2011
+| "[[Imagine (John Lennon song)|Imagine]]"
+| Sam Tsui, AHMIR
+| [[John Lennon]]
+| Cover version; dedicated to the victims of the [[2011 Tucson shooting]]
+|-
+| "[[Hold My Hand (Michael Jackson and Akon song)|Hold My Hand]]"
+| [[J Rice]], Kurt Hugo Schneider
+| [[Michael Jackson]] ft. Akon
+| Cover version
+|-
+| "Pretty Eyes"
+|colspan="2"|Alex Goot
+| Original song featuring Julie Shain
+|-
+| "[[Hold It Against Me]]"
+| Sam Tsui
+| [[Britney Spears]]
+| Cover version
+|-
+| "Start Again"
+|colspan="2"|Sam Tsui
+| Original song featuring [[Veronica Ballestrini]] and Nick Uhas
+|-
+| "[[Jar of Hearts]]"
+| Sam Tsui
+| [[Christina Perri]]
+| Cover version
+|-
+| "You've Been on my Mind"
+| colspan="2"|[[Dave Days]]
+| Original song
+|-
+| "Void Rays"
+| Husky, Kurt Hugo Schneider
+| [[Rebecca Black]]
+| Parody version of "[[Friday (Rebecca Black song)|Friday]]"
+|-
+| "Go Screw Yourself"
+|colspan="2"|Avery
+| Original song
+|-
+| "B-e-a-utiful"
+|colspan="2"| [[Megan Nicole]]
+| Original song featuring Michael Jimenez
+|-
+| "[[Rolling in the Deep]]"
+| Sam Tsui, [[Tyler Ward]]
+| [[Adele]]
+| Cover version
+|-
+| "[[Rihanna]] Medley"
+| [[Matisse (singer)|Matisse]]
+| [[Rihanna]]
+| Medley of songs by Rihanna
+|-
+| "[[Skyscraper (song)|Skyscraper]]"
+| Olivia Noelle
+| [[Demi Lovato]]
+| rowspan="2"|Cover version
+|-
+| "[[How to Love]]"
+| Sam Tsui
+| [[Lil Wayne]]
+|-
+| "Katy Perry Medley"
+| Olivia Noelle
+| [[Katy Perry]]
+| Medley of songs by Katy Perry
+|-
+| "Happy Birthday"
+|colspan="2"|Andrew Johnson
+| Original piano arrangement
+|-
+| "The Hardest Thing"
+|colspan="2"|[[Tyler Ward]]
+|Original song
+|-
+| "[[Moves Like Jagger]]"
+| Sam Tsui
+| [[Maroon 5]]
+| rowspan="5"|Cover version
+|-
+| "[[Right Here Waiting]]"
+| Kurt Hugo Schneider
+| [[Richard Marx]]
+|-
+| "[[How to Save a Life (song)|How To Save A Life]]"
+| Alex Goot
+| [[The Fray]]
+|-
+| rowspan="38"| 2012
+| "[[Breakeven (song)|Breakeven]]"
+| Max Schneider
+| [[The Script]]
+|-
+| "[[It Will Rain]]"
+| Max Schneider, Olivia Noelle
+| Bruno Mars
+|-
+| "Nerdy and I Know It"
+| Husky, Kurt Hugo Schneider
+| [[LMFAO (group)|LMFAO]]
+| Parody version of "[[Sexy and I Know It]]"
+|-
+| "[[Without You (David Guetta song)|Without You]]"
+| [[Max Schneider]]
+| [[David Guetta]] ft. [[Sia Furler|Sia]]
+| rowspan="4"| Cover version
+|-
+| "[[Stronger (What Doesn't Kill You)|Stronger]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Kelly Clarkson]]
+|-
+| "[[We Are Young]]"
+| Sam Tsui
+|[[Fun (band)|fun]]
+|-
+| "[[Not Over You]]"
+| [[Max Schneider]]
+| [[Gavin DeGraw]]
+|-
+| "[[OneRepublic]] Medley"
+| Kurt Hugo Schneider
+| [[OneRepublic]]
+| Medley of songs by [[OneRepublic]]
+|-
+| "[[Drops of Jupiter (Tell Me)|Drops of Jupiter]]"
+| [[Alex Goot]], Kurt Hugo Schneider
+| [[Train (band)|Train]]
+| rowspan="4"| Cover version
+|-
+| "[[Somebody That I Used to Know]]"
+| Max Schneider, Kurt Hugo Schneider
+| [[Gotye]]
+|-
+| "[[A Thousand Years (Christina Perri song)|A Thousand Years]]"
+| Aimée Proal, [[Lindsey Stirling]], Kurt Hugo Schneider
+| Christina Perri
+|-
+| "[[Safe & Sound (Taylor Swift song)|Safe and Sound]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Taylor Swift]]
+|-
+| "Lightning"
+| colspan="2"|Alex Goot
+| Original video
+|-
+| "Bruno Mars Medley"
+| [[Victoria Justice]], Max Schneider, Kurt Hugo Schneider
+| [[Bruno Mars]]
+| Medley of songs by [[Bruno Mars]]
+|-
+| "Pop Medley 2011"
+| Sam Tsui, Kurt Hugo Schneider
+| Various
+| Medley of pop songs from 2011
+|-
+| "Lady Gaga Medley"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Lady Gaga]]
+| Medley of songs by [[Lady Gaga]]
+|-
+| "Lighters / Super Bass Mashup"
+| Aimée Proal, Kurt Hugo Schneider
+| [[Bad Meets Evil]], [[Bruno Mars]], [[Nicki Minaj]]
+| Mashup of the songs "[[Lighters (song)|Lighters]]" and "[[Super Bass]]"
+|-
+| "[[Somewhere Only We Know]]"
+| [[Elizabeth Gillies]], [[Max Schneider]], Kurt Hugo Schneider
+| [[Keane (band)|Keane]]
+| rowspan="5" |Cover version
+|-
+| "[[Born This Way (song)|Born This Way]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Lady Gaga]]
+|-
+| "[[Rocketeer (song)|Rocketeer]]"
+| Jake Bruene, Kurt Hugo Schneider
+| [[Far East Movement]]
+|-
+| "[[Hold My Hand (Michael Jackson song)|Hold My Hand]]"
+| [[J Rice]], Kurt Hugo Schneider
+| [[Michael Jackson]], [[Akon]]
+|-
+| "[[King of Anything]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Sara Bareilles]]
+|-
+| "Maroon 5 Medley"
+| [[Victoria Justice]], [[Max Schneider]], Kurt Hugo Schneider
+| [[Maroon 5]]
+| Medley of songs by [[Maroon 5]]
+|-
+| "Call Me Maybe/Payphone Mashup"
+| James Alan ft. [[Jessica Jarrell]]
+| [[Carly Rae Jepsen]], [[Maroon 5]]
+| Mashup of the songs "[[Call Me Maybe]]" and "[[Payphone]]"
+|-
+| "[[Titanium (song)|Titanium"]]
+| Sam Tsui, Kurt Hugo Schneider
+| [[David Guetta]] ft. [[Sia Furler|Sia]]
+| rowspan="3"| Cover version
+|-
+| "[[Hey There Delilah]]"
+| Kurt Hugo Schneider
+| [[Plain White T's]]
+|-
+| "[[So Sick]]"
+| Sam Tsui, [[Max Schneider]], Kurt Hugo Schneider
+| [[Ne-Yo]]
+|-
+| "Run To Me"
+|colspan="2"|Kurt Hugo Schneider
+| Original song
+|-
+| "[[One More Night (Maroon 5 song)|One More Night]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Maroon 5]]
+| Cover version; live recording
+|-
+| "[[Skyfall (Adele song)|Skyfall]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Adele]]
+| rowspan="4" | Cover version
+|-
+| "[[The A Team (Ed Sheeran song)|The A Team]]"
+| Kurt Hugo Schneider
+| [[Ed Sheeran]]
+|-
+| "[[Diamonds (Rihanna song)|Diamonds]]"
+| [[Kim Viera]], Kurt Hugo Schneider
+| [[Rihanna]]
+|-
+| "[[Home (Phillip Phillips song)|Home]]"
+| [[James Alan]], Kurt Hugo Schneider
+| [[Phillip Phillips]]
+|-
+| "Locked Out of Heaven"
+| Megan Nicole, Sam Tsui, Kurt Hugo Schneider
+| [[Bruno Mars]] (original version) <br> [[Alex Clare]], Justin Bieber, Taylor Swift, Kesha (mashup songs)
+| Mashup cover
+|-
+| "[[Little Things (One Direction song)|Little Things]]"
+| Sam Tsui & Kurt Hugo Schneider
+| [[One Direction]]
+| Cover version
+|-
+| "Holiday Medley"
+| Victoria Justice, Max Schneider, Kurt Hugo Schneider
+| Various
+| Medley of Christmas songs
+|-
+| "[[I Knew You Were Trouble]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Taylor Swift]]
+| Cover version
+|-
+| "2012 Remix"
+|colspan="2"|Various
+|Mashup of songs recorded in 2012
+|-
+| rowspan="29" | 2013
+| "[[Beauty and a Beat]]"
+| [[Alex Goot]], Chrissy Costanza & Kurt Hugo Schneider
+| [[Justin Bieber]] ft. [[Nicki Minaj]]
+|rowspan="7"| Cover version
+|-
+| "[[Don't You Worry Child]]"
+| Sam Tsui & Kurt Hugo Schneider
+| [[Swedish House Mafia]] ft. [[John Martin (singer)|John Martin]]
+|-
+| "[[Kiss You (One Direction song)|Kiss You]]"
+| Sam Tsui, Kurt Hugo Schneider, [[Tyler Ward]], [[Dave Days]],
+[[Chester See]] (Not Another Boyband)
+| [[One Direction]]
+|-
+| "[[Give Me Love (Ed Sheeran song)|Give Me Love]]"
+| [[Max Schneider]]
+| [[Ed Sheeran]]
+|-
+| "Brave"
+|colspan="2"|[[Action Item]]
+|-
+|"[[When I Was Your Man]]"
+| [[Max Schneider]]
+| [[Bruno Mars]]
+|-
+|"[[She Wolf (Falling to Pieces)]]"
+| [[Kim Viera]], Kurt Hugo Schneider
+| [[David Guetta]] ft. [[Sia Furler|Sia]]
+|-
+| "Pink Medley"
+| [[Macy Kate]], Kurt Hugo Schneider
+| [[Pink (singer)|Pink]]
+| Medley of songs by [[Pink (singer)|Pink]]
+|-
+|"[[Mirrors (Justin Timberlake song)|Mirrors]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Justin Timberlake]]
+| rowspan="2"| Cover version
+|-
+|"[[Clarity (Zedd song)|Clarity]]"
+| Sam Tsui, Kurt Hugo Schneider
+| [[Zedd (musician)|Zedd]]
+|-
+|"Me Without You"
+|Sam Tsui, Kurt Hugo Schneider
+|Sam Tsui
+|Original song, debut single from ''Make It Up''
+|-
+|"[[Heart Attack (Demi Lovato song)|Heart Attack]]"
+| Sam Tsui, [[Chrissy Costanza]] of [[Against the Current (band)|ATC]]
+| [[Demi Lovato]]
+|Cover version
+|-
+|"Make It Up"
+|Sam Tsui, Kurt Hugo Schneider
+|Sam Tsui
+|Original song, second single from ''Make It Up''
+|-
+|"[[Just Give Me a Reason]]"
+|Sam Tsui, [[Kylee]]
+|[[P!nk]]
+|rowspan="4"|Cover version
+|-
+|"[[Let Her Go (Passenger song)|Let Her Go]]"
+|[[Tyler Ward]], Kurt Hugo Schneider
+|[[Passenger (singer)|Passenger]]
+|-
+|"[[Can't Hold Us]]"
+|[[Max Schneider]], Kurt Hugo Schneider
+|[[Macklemore]]
+|-
+|"22"
+|[[Alex Goot]], [[Chrissy Costanza]], Sam Tsui, [[King the Kid]], Kurt Hugo Schneider
+|Taylor Swift
+|-
+|"Shadow"
+|Sam Tsui, Kurt Hugo Schneider
+|Sam Tsui
+|Original song
+|-
+|"[[The Other Side (Jason Derulo song)|The Other Side]]"
+|[[Max Schneider]], [[Keke Palmer]], [[Jason Derulo]], Kurt Hugo Schneider
+|[[Jason Derulo]]
+| rowspan="3"| Cover version
+|-
+|"[[Come & Get It (Selena Gomez song)|Come & Get It]]"
+|Sam Tsui, Kurt Hugo Schneider
+|[[Selena Gomez]]
+|-
+|"[[Cups (song)|Cups]]"
+|Sam Tsui, [[Kina Grannis]], Alex G, Kurt Hugo Schneider
+|[[Anna Kendrick]]
+|-
+|"Here's To Summer"
+|Jessica Jarrel, Kurt Hugo Schneider
+|Jessica Jarrel
+|Original song
+|-
+|"[[Radioactive (Imagine Dragons song)|Radioactive]]"
+|Macy Kate, Kurt Hugo Schneider
+|[[Imagine Dragons]]
+|Cover version
+|-
+|"[[Demi Lovato]] medley"
+|[[Sara Skinner]], Kurt Hugo Schneider
+|[[Demi Lovato]]
+|Medley of songs by [[Demi Lovato]]
+|-
+|"[[Blurred Lines (song)|Blurred Lines]]"
+|Max Schneider, Kurt Hugo Schneider
+|[[Robin Thicke]]
+|Cover version
+|-
+|"Bring Me The Night"
+|Sam Tsui, [[Kina Grannis]], Kurt Hugo Schneider
+|Sam Tsui ft. [[Kina Grannis]]
+|Original song
+|-
+|"Treasure/Get Lucky Mashup"
+|Sam Tsui, Kurt Hugo Schneider
+|[[Bruno Mars]], [[Daft Punk]]
+|Mashups of songs "[[Get Lucky (Daft Punk song)|Get Lucky]]" and "[[Treasure (Bruno Mars song)|Treasure]]"
+|-
+|"Worth It"
+|colspan="2"|Sam Tsui
+|Original song
+|-
+|[[Wrecking Ball (Miley Cyrus song)|Wrecking Ball]]
+|Sam Tsui, Kylee, Kurt Hugo Schneider
+|[[Miley Cyrus]]
+|rowspan="6"|Cover version
+|-
+| rowspan="8" | 2014
+|"[[Unconditionally]]"
+|Sam Tsui, Kurt Hugo Schneider
+|[[Katy Perry]]
+|-
+|"[[Problem (Ariana Grande song)|Problem]]"
+|[[Max Schneider]], Kurt Hugo Schneider
+|[[Ariana Grande]]
+|-
+|"[[Story of My Life (One Direction song)|Story of My Life]]"
+|Tyler Ward, Macy Kate, Kurt Hugo Schneider
+|[[One Direction]]
+|-
+|″[[Team (Lorde song)|Team]]″
+|Macy Kate, Kurt Hugo Schneider
+|[[Lorde]]
+|-
+|"[[Maps (Maroon 5 song)|Maps]]"
+|[[Max Schneider|MAX]], [[Alyson Stoner]], Kurt Hugo Schneider
+|[[Maroon 5]]
+|-
+|"I H8 That"
+|colspan="2"|Macy Kate
+|Original song
+|-
+|"[[Sweater Weather]]"
+|[[Max Schneider]], [[Alyson Stoner]]
+|[[The Neighbourhood]]
+| rowspan="2" |Cover version
+|-
+|"[[Counting Stars]]"
+|Chrissy Costanza, Alex Goot, Kurt Hugo Schneider
+|OneRepublic
+|-
+| rowspan="8" |2015
+|"2015 MASHUP"
+|
+|Various
+|Every hit song in 4 minutes
+|-
+|"[[Same Old Love]]"
+|Sam Tsui, Alyson Stoner, Kurt Hugo Schneider
+|Selena Gomez
+| rowspan="6" |Cover version
+|-
+|"[[Sorry (Justin Bieber song)|Sorry]]"
+|Against The Current, Alex Goot, Kurt Hugo Schneider
+|Justin Bieber
+|-
+|"[[I Really Like You]]"
+|MAX, Against The Current
+|Carly Rae Jepsen
+|-
+|"[[Love Yourself]]"
+|Sam Tsui, Kurt Hugo Schneider
+|Justin Bieber
+|-
+|"[[All I Want for Christmas Is You]]"
+|Chase Holfelder, Kurt Hugo Schneider
+|Mariah Carey
+|-
+|"[[Bad Blood (Taylor Swift song)|Bad Blood]]"
+|Macy Kate & Ben Kheng
+|Taylor Swift
+|-
+|"Chaiyya Chaiyya / Don't Stop Mashup"<ref>{{YouTube|yHA9lxVhNdo|Chaiyya Chaiyya / Don't Stop MASHUP!! - INDIA EDITION ft Sam Tsui, Shankar Tucker, Vidya}}</ref>
+|Kurt Hugo Schneider, Sam Tsui, [[Shankar Tucker]], [[Vidya Vox]]
+|[[A. R. Rahman]], [[Michael Jackson]]
+|Mashup of the songs "[[Chaiyya Chaiyya]]" and "[[Don't Stop 'Til You Get Enough]]"
+|-
+|2017
+|"[[Waving Through a Window]]"
+|[[VoicePlay]], Kurt Hugo Schneider
+|[[Dear Evan Hansen]], [[Ben Platt]]
+|Cover version of musical number from ''Dear Evan Hansen''
+|-
+|rowspan=2|2021
+|"[[Drivers License (song)|Drivers License]]"
+|Kurt Hugo Schneider, [[Madilyn Bailey]]
+|[[Olivia Rodrigo]]
+|rowspan=2|Cover version
+|}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{YouTube|u=KurtHugoSchneider|Kurt Hugo Schneider}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Schneider, Kurt Hugo}}
+[[Category:1988 births]]
+[[Category:American chess players]]
+[[Category:American people of Austrian descent]]
+[[Category:American people of German descent]]
+[[Category:Record producers from Pennsylvania]]
+[[Category:Living people]]
+[[Category:Musicians from Baltimore]]
+[[Category:Musicians from Pennsylvania]]
+[[Category:People from Montgomery County, Pennsylvania]]
+[[Category:Yale University alumni]]
+[[Category:American YouTubers]]
+[[Category:Male YouTubers]]
+[[Category:American male pianists]]
+[[Category:21st-century American pianists]]
+[[Category:21st-century American male musicians]]
+[[Category:Music YouTubers]]
+[[Category:Shorty Award winners]]

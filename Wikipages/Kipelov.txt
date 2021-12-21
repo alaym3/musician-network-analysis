@@ -1,0 +1,171 @@
+{{refimprove|date=August 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Kipelov<br>Кипелов
+| image               = Группа Кипелов на фестивале Moscow Metal Meeting 2014.jpg
+| caption             = Kipelov performing in 2014
+| image_size          = 255
+| background          = group_or_band
+| alias               = 
+| origin              = [[Moscow]], Russia
+| genre               = [[Heavy metal music|Heavy metal]], [[symphonic metal]]
+| years_active        = 2002–present
+| label               = {{flatlist|
+Русский Хит
+* Moroz Records
+* CD-Maximum
+* Мистерия Рекордс
+* Navigator
+}}
+| associated_acts     = [[Aria (band)|Aria]], [[Sergey Mavrin]], [[Victor Smolski]], [[Rage (German band)|Rage]]
+| current_members     = [[Valery Kipelov]]<br/>Andrey Golovanov<br/>Vyacheslav Molchanov<br/>Alexander Maniakin<br/>Alexey Harkov
+| past_members        = 
+
+| website             = {{URL|kipelov.ru}}
+}}
+'''Kipelov''' ({{lang-rus|Кипе́лов}}) is a Russian [[Heavy metal music|heavy metal]] band formed and led by former [[Aria (band)|Aria]] vocalist [[Valery Kipelov]].
+
+==Origins==
+In 2002, dissension in the heavy metal band [[Aria (band)|Aria]] led to Aria members [[Valery Kipelov]] (vocals), Sergey Terentyev (guitar), and Alexander Maniakin (drums) leaving the band and joining with former Aria member [[Sergey Mavrin]] and bassist Alexey Harkov of Mavrik to form Kipelov. The band was named to make use of the fame of its best-known member, singer Valery Kipelov. Since Kipelov was, essentially, just a revision of Aria, they were able to begin performing immediately.
+
+In the fall of 2002, Kipelov toured through Russia, Ukraine, and Belarus, including a sold-out concert in Moscow at the end of November at the legendary [[Gorbunov Palace of Culture]].
+
+In May 2003, after a brief hiatus from touring, the group performed a concert in the open-air Voel Amphitheatre in [[Tel Aviv]], [[Israel]]. On May 24, 2003, as part of a cultural program dedicated to the 300th anniversary of [[Saint Petersburg]], the band performed a concert in [[Saint Petersburg Stadium]]. Video and audio versions of this concert were released.
+
+==New members, venues, and material==
+On October 4, 2003, Kipelov unveiled a new set list featuring the song "Babylon" at a concert at [[Luzhniki Stadium]] in Moscow which was attended by over 10,000 people.{{Citation needed|date=February 2007}} "Babylon" soon rose to a high position on the Heath chart. Valery Kipelov described this concert as the most memorable event of his creative life: ''"It was very important for us, since only a few had believed that, after the breakup of Aria, we would again become big stars."''
+
+Sergey Terentyev left the band shortly after this concert, and later founded his own bandm, Arteriya. He was replaced by former Strike and Legion guitarist Andrey Golovanov. The new lineup immediately resumed touring. In December 2003, a four-song CD with "Babylon", "Time of Troubles", and studio and live versions of "I am Free" was released through Moroz Records.
+
+On March 6, 2004, a concert at [[Gorbunov Palace of Culture]] showcased the new line-up to Muscovites. The group continued active work at clubs and, in May, appeared again at newly renovated [[Saint Petersburg Stadium]] as part of the city's anniversary celebration.
+
+=={{nobold|"}}Babylon{{nobold|"}} and {{nobold|"}}The Rivers of Time{{nobold|"}}==
+In September 2005, Kipelov released a video of "Babylon" directed by Vitaly Mukhametzyanov, who had previously directed videos for [[Linda (musician)|Linda]], T.O.T.A.L., and others. This video achieved a high ranking on the [[MTV Russia]] charts, and the band received the "Most Promising Band of 2004" award at MTV Russia's Russian Music Awards.
+
+In October 2004, Kipelov began another tour in Belarus, Ukraine, and Russia, after which Sergey Mavrin left the band to pursue a solo career. He was replaced by [[Victor Smolski]] from the German group [[Rage (German band)|Rage]], and the band began working on a new studio album, ''The Rivers of Time''.
+
+The band worked on ''The Rivers of Time'' through the late winter, spring, and early summer of 2005, after which the album was mastered at Gernhart Studios in Germany. With the album mostly completed, Kipelov toured Belarus and Russia showcasing the new material, tour highlights including an appearances at LDS in Saint Petersburg and at [[Luzhniki Palace of Sports]] in Moscow, each concert attracting over 11,000 fans.<ref>{{cite web |url=http://kipelov.ru/band.html |title=Archived copy |accessdate=2007-02-14 |url-status=dead |archiveurl=https://web.archive.org/web/20070212204410/http://kipelov.ru/band.html |archivedate=2007-02-12 }}</ref>
+
+In December 2005, ''The Rivers of Time'' was released through CD-Maximum Records. In support of the release, Kipelov again toured in Russia, Ukraine, Belarus, and Israel. The ballad "Ya Zdes" ("I am Here") from the new album ranked high in radio charts. Vladimir Yankovskiy shot the video for this song at his Minsk studios. Yankovskiy, who has directed videos for Rage, cast [[Victor Smolski]] in the main role in this video.
+
+The band released a new single, ''Na Grani'', in March 2009.
+
+==Band members==
+<gallery>
+Валерий Кипелов на фестивале Moscow Metal Meeting 2014 03.jpg|Valery Kipelov
+Alexey Kharkov.jpg|Alexey Harkov
+Александр Манякин.jpg|Alexander Maniakin
+Andrew Golovanov.jpg|Andrey Golovanov
+Vyacheslav Molchanov.jpg|Vyacheslav Molchanov
+</gallery>
+
+{{#tag:timeline|
+ImageSize = width:800 height:auto barincrement:20
+PlotArea = left:140 bottom:80 top:10 right:30
+Alignbars = justify
+DateFormat = mm/dd/yyyy
+Period = from:09/01/2002 till:{{#time: m/d/Y }}
+TimeAxis = orientation:horizontal format:yyyy
+
+Colors =
+ id:vocals     value:red          legend:Vocals
+ id:guitars    value:green        legend:Guitars
+ id:bass       value:blue         legend:Bass
+ id:drums      value:orange       legend:Drums
+ id:studio     value:black        legend:Studio_album
+ id:other      value:gray(0.75)   legend:Other_release
+
+Legend = orientation:vertical position:bottom columns:3
+
+ScaleMajor = increment:2 start:2003
+ScaleMinor = increment:1 start:2004
+
+LineData =
+ layer:back
+ at:10/06/2005 color:studio
+ at:03/01/2011 color:studio
+ at:09/29/2017 color:studio
+ at:05/23/2003 color:other
+ at:03/01/2004 color:other
+ at:11/09/2006 color:other
+ at:07/10/2008 color:other
+ at:02/19/2009 color:other
+ at:04/08/2013 color:other
+ at:12/13/2013 color:other
+ at:10/20/2015 color:other
+
+BarData =
+ bar:Kipelov    text:Valery Kipelov
+ bar:Mavrin     text:Sergey Mavrin
+ bar:Smolskiy   text:Victor Smolski
+ bar:Molchanov  text:Vyacheslav Molchanov
+ bar:Terentev   text:Sergey Terentyev
+ bar:Golovanov  text:Andrey Golovanov
+ bar:Harkov     text:Alexey Harkov
+ bar:Manyakin   text:Alexander Maniakin
+
+PlotData=
+ width:10 textcolor:black align:left anchor:from shift:(10,-4)
+ bar:Kipelov    from: start        till: end         color:vocals
+ bar:Mavrin     from: start        till: 11/01/2004  color:guitars
+ bar:Smolskiy   from: 12/01/2004   till: 02/01/2006  color:guitars
+ bar:Molchanov  from: 02/01/2006   till: end         color:guitars
+ bar:Terentev   from: start        till: 10/05/2003  color:guitars
+ bar:Golovanov  from: 11/01/2003   till: end         color:guitars
+ bar:Harkov     from: start        till: end         color:bass
+ bar:Manyakin   from: start        till: end         color:drums
+}}
+
+==Chronology==
+{{unsourced|section|date=August 2020}}
+*September 1, 2002 - Band formed.
+*September 9, 2002 - kipelov.ru goes live.
+*September 11, 2002 - first concert (St. Petersburg).
+*October–December 2002 - 40-city tour.
+*February 2003 - the group releases a re-make of the song "I Am Free", which reaches No.&nbsp;1 on the Heath chart and remains there several months.
+*May 24, 2003 - Video of St. Petersburg concert released.
+*August 2003 - First album (''The Way Up'') released.
+*October 4, 2003 - Appearance at Luzhniki, premiere of new song "Babylon".
+*October 5, 2003 - Guitarist Sergey Terentyev quits.
+*November 2003 - Andrey Golovanov replaces Terentyev.
+*December 2003 - song "Babylon" reaches No.&nbsp;1 on the Heath chart.
+*February 2004 - Moroz Records releases a single of "Babylon".
+*March 2004 - Concert debut of Golovanov in DK of Gorbunov .
+*September 2004 - Video of "Babylon" is released.
+*October 2004 - Group wins "Most Promising Band of 2004" at the MTV Russia Russian Music Awards.
+*November 2004 - guitarist [[Sergey Mavrin]] quits.
+*December 2004 - Victor Smolsky of the German band Rage joins a temporary replacement for Mavrin.
+*2005 - The album "Reki Vremen" ("Rivers of Time") is released.
+*October 18, 2007 - 5-year anniversary concert at DS Luzhniki in Moscow. Premiere of new song "Monolog" ("Monologue").
+
+==Discography==
+{{unsourced|section|date=August 2020}}
+===Official releases===
+* ''Put' Naverkh'' (рус. Путь наверх, Way Up) live album (2003)
+* ''Vavilon''  (рус. Вавилон, Babylon) single (2004)
+* ''Reki Vremyon'' (рус. Реки Времён, The Rivers of Time) debut album (2005) CD-Maximum
+* ''Moskva 2005'' (рус. Москва 2005, Moscow 2005) live album (2006)
+* ''5 Let'' (рус. 5 Лет, 5 Years) live album (2007)
+* ''Na grani'' (рус. На грани, On The Edge) single (2009)
+* ''Zhit' Vopreki'' (рус. Жить Вопреки, Living In Defiance) second album (2011), Misteria Records
+* ''Otrazhenie'' (рус. Отражение, Reflection) EP (2013), Navigator Records
+* ''Nepokorenniy'' (рус. Непокорённый, Unconquered) single (2015), Navigator Records
+* ''Zvezdy i kresty'' (рус. Звёзды и кресты, Stars and Crosses) album (2017), Navigator Records
+
+===Other releases===
+* ''[[Smutnoye Vremia]]'' (рус. Смутное Время, Time of Troubles, 1997) - officially not considered a "Kipelov" release, but as a collaborative album by [[Valery Kipelov]] and [[Sergey Mavrin]].
+* ''Noch' v Iyule'' (рус. Ночь в Июле, Night in July, 2001) - a pirate bootleg.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.kipelov.ru Official Kipelov website] {{in lang|ru}}
+* {{YouTube|u=Kipelov|{{PAGENAMEBASE}}}}
+
+{{Kipelov}}
+{{Aria (band)}}
+
+{{Authority control}}
+
+[[Category:Musical groups from Moscow]]
+[[Category:Russian heavy metal musical groups]]

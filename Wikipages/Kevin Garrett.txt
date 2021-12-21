@@ -1,0 +1,129 @@
+{{About||the musician|Kevin Garrett (musician)}}
+{{Infobox NFL biography
+| name                = Kevin Garrett
+| image               =
+| image_size          = 
+| alt                 = 
+| caption             = 
+| number              = 21
+| position            = [[Cornerback]]
+| birth_date          = {{Birth date and age|mf=yes|1980|7|29}}
+| birth_place         = [[San Benito, Texas]]
+| death_date          = 
+| death_place         = 
+| height_ft           = 5
+| height_in           = 9
+| weight_lbs          = 194
+| high_school          = [[Sweeny High School (Texas)|Brazoria (TX) Sweeny]]
+| college             = [[SMU Mustangs football|Southern Methodist]]
+| draftyear           = 2003
+| draftround          = 5
+| draftpick           = 172
+| pastteams           = 
+* [[St. Louis Rams]] ({{NFL Year|2003}}–{{NFL Year|2004}})
+* [[Kansas City Chiefs]] ({{NFL Year|2005}})
+* [[Houston Texans]] ({{NFL Year|2006}}–{{NFL Year|2007}})
+* [[Amsterdam Admirals]] ({{NFLE Year|2007}})
+* [[Calgary Stampeders]] ({{CFL Year|2007}})
+* [[Carolina Panthers]] ({{NFL Year|2007}})
+* [[Saskatchewan Roughriders]] ({{CFL Year|2008}})
+* [[Winnipeg Blue Bombers]] ({{CFL Year|2008}})
+| highlights          = 
+| nfl                 = GAR479924
+| pfr                 = 
+| cfl-archive         = https://web.archive.org/web/20120518060610/http://www.cfl.ca/roster/show/id/3141
+}}
+
+'''Kevin Rashard Garrett''' (born July 29, 1980) is a former professional [[American football]] player. Garrett attended [[Southern Methodist University]] and was drafted in the [[2003 NFL Draft]] by the [[St. Louis Rams]]. He has previously played football with the St. Louis Rams, [[Houston Texans]] and the [[Carolina Panthers]].
+
+==College career==
+He started 42 games at Southern Methodist and totaled 265 tackles, seven interceptions, 36 passes defensed, four forced fumbles and one fumble recovery in addition to blocking six kicks. In 2002 as a senior he made nine starts and registered 48 tackles, two interceptions, six passes defensed, one forced fumble, one fumble recovery and one blocked kick. The year before, in 2001,
+he started all 11 games and was an honorable mention All-[[Western Athletic Conference]] selection. He Collected 62 tackles, three interceptions with one return for a touchdown, 14 passes defensed and one blocked kick. In 2000, he started all 12 game and ranked second on the Mustangs with 74 tackles, one interception, 12 passes defensed, two forced fumbles and two
+blocked kicks. In 1999, he was named Western Athletic Conference Freshman of the Year by the
+[[Fort Worth Star-Telegram]]. He made 10 starts and had a career-high 81 tackles, one interception, four passes defensed, one forced fumble and two blocked kicks. In 1998 Garrett redshirted as a true freshman.
+
+===Track and field===
+Garrett was also a track star at the [[Southern Methodist University]], where he specialized in the [[60 meters]], [[100 meters]] and [[200 meters]], but also participated in the [[55 metres]], posting a personal best of 6.41 seconds.
+
+Garrett ran a 10.29 wind-aided in the [[100 meters]] at Fresno, California.
+
+====Personal bests====
+{| class="wikitable"
+|-
+!Event
+!Time (seconds)
+!Venue
+!Date
+|-
+|[[55 metres]]
+|6.41
+|Reno, Nevada
+|February 22, 2002
+|-
+|[[60 meters]]
+|6.81
+|Nampa, Idaho
+|February 28, 2003
+|-
+|[[100 meters]]
+|10.35
+|Fresno, California
+|May 19, 2001
+|-
+|[[200 meters]]
+|20.98
+|Fresno, California
+|May 19, 2001
+|}
+
+==Professional career==
+===Pre-draft===
+{{NFL predraft
+| height ft    = 5
+| height in    = 9{{frac|3|8}}
+| weight       = 194
+| arm span     = 31{{frac|3|8}}
+| hand span    = 8{{frac|3|4}}
+| dash         = 4.35
+| ten split    = 1.57
+| twenty split = 2.52
+| shuttle      = 3.96
+| cone drill   = 6.90
+| vertical     = 35
+| broad ft     = 10
+| broad in     = 9
+| bench        = 
+| wonderlic    = 
+| note         = Arm and hand spans from Pro Day, all other values from [[NFL Combine]].<ref>{{cite web |title=Kevin Garrett, DS #17 CB, Southern Methodist |url=http://draftscout.com/dsprofile.php?PlayerId=643&DraftYear=2003 |website=DraftScout.com |access-date=March 3, 2021}}</ref>
+}}
+
+===St. Louis Rams===
+Garrett was selected in the fifth round (172nd overall) of the NFL Draft by the [[St. Louis Rams]]. He played in nine games, primarily on special teams, and was inactive for seven contests due to an injury suffered during the preseason. He posted eight special teams tackles. In 2004, he played in 14 games with one start, making 10 tackles, four passes defensed and 12 special teams stops. The next season, he went to training camp with St. Louis but was waived by the Rams in the final roster cutdown on September 3, 2005.
+
+===Houston Texans===
+Signed as a free agent by Kansas City (1/10/06) then waived by Kansas City (7/25/06) after which he was signed as a free agent by Houston (8/1/06) and then waived by Houston (9/3/06). Re-signed as a free agent by Houston (9/12/06) but waived by Houston eight days later after suffering a hamstring injury versus the Indianapolis Colts (9/20/06). He was signed as a free agent by Carolina (1/2/07).
+
+===Carolina Panthers===
+Garrett played the 2007 season with the Panthers.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.justsportsstats.com/footballstatsindex.php?player_id=garrekev001&defensesort=6 Just Sports Stats]
+
+{{Rams2003DraftPicks}}
+{{Authority control}}
+
+{{DEFAULTSORT:Garrett, Kevin}}
+[[Category:Living people]]
+[[Category:1980 births]]
+[[Category:People from San Benito, Texas]]
+[[Category:American football cornerbacks]]
+[[Category:SMU Mustangs football players]]
+[[Category:Houston Texans players]]
+[[Category:Amsterdam Admirals players]]
+[[Category:St. Louis Rams players]]
+[[Category:Carolina Panthers players]]
+[[Category:Saskatchewan Roughriders players]]
+[[Category:American players of Canadian football]]

@@ -1,0 +1,55 @@
+{{Short description|Chinese singer}}
+{{Use mdy dates|date=January 2020}}
+{{Infobox musical artist| <!-- See Wikipedia:WikiProject Musicians -->
+| name                = Xiang Xiang<br/>香香
+| image                 =
+| caption            =
+| image_size            = <!-- Only for images smaller than 220 pixels -->
+| background          = solo_singer
+| birth_name          = 王瑾玫 <small>({{zh|p=Wáng Jǐnméi}})</small>
+| alias               =
+| birth_date                = {{Birth date and age|1984|6|14}}
+| origin              = [[Hunan]], China
+| instrument          =
+| genre               = Pop
+| occupation          = Singer
+| years_active        = 2004–present
+| label               =
+| website                 = [http://www.xxmusic.net/ www.xxmusic.net]
+}}
+
+'''Xiang Xiang''' ({{lang-zh|c=香香|p=Xiāng Xiāng}}; born June 14, 1984) is a Chinese singer. She was reportedly the most popular internet celebrity in China in 2005.<ref>{{Cite news| first = Nick | last = Mackie | title = Chinese pop idol thrives online | url = http://news.bbc.co.uk/2/hi/technology/4230846.stm | publisher = [[BBC]] | date = September 13, 2005 | access-date = May 31, 2007}}</ref> Her birth name is '''Wang Jinmei''' ({{zh|c=王瑾玫|p=Wáng Jǐnméi}}).
+
+She is perhaps most famous for her song "[[Song of Pig]]" ({{lang|zh|猪之歌}}), the title track of her first solo album.
+
+Xiang Xiang is also known for remaking the song, ''[[Mice Love Rice]]'' (老鼠爱大米; Lao Shu Ai Da Mi; by [[Yang Chengang]]), turning it into a hit on the Internet.
+
+==Discography==
+=== Albums ===
+* ''Song of Pig'', February 2005
+* ''Xiang Xiang Wang Lu Xiao Gong Zhu Ai Yo Ai Yo Dui Bu Qi'', October 2005
+* ''Sorry'', October 2005
+* ''Gong Zhu Ri Ji'', December 2005
+* ''Healthy Happy Action'', May 2006
+* ''Seam Love'', June 2006
+* ''Fate New + Best Selection''
+
+==References==
+{{Reflist}}
+
+==External links==
+<!-- site under construction, no content *{{in lang|zh}} [http://www.xxmusic.net/ Xiang Xiang official website] -->
+*{{in lang|zh}} [https://web.archive.org/web/20060627190918/http://ok.21cn.com/zhuanti/xiangxiang.html Profile at 21cn.com]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Xiang, Xiang}}
+[[Category:1984 births]]
+[[Category:Living people]]
+[[Category:People from Changde]]
+[[Category:Chinese Mandopop singers]]
+[[Category:Singers from Hunan]]
+[[Category:21st-century Chinese women singers]]
+
+
+{{China-singer-stub}}

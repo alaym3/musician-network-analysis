@@ -1,0 +1,182 @@
+{{Use dmy dates|date=March 2021}}
+{{expand German|date=March 2021}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name                = Pur
+| image               = Pur (band) 38 cropped.jpg
+| image_upright       = 1.2
+| caption             = L-R: Hartmut Engler, Ingo Reidl, Rudi Buttas, Joe Crawford (2009)
+| background          = group_or_band
+| origin              = [[Bietigheim-Bissingen]], Germany
+| genre               = [[Pop music|Pop]], [[pop rock]]
+| years_active        = 1975–present
+| label               = 
+| website             = 
+| current_members     = Hartmut Engler (vocals)<br />Ingo Riedl (keyboards)<br />Joe Crawford (bass)<br />Rudi Buttas (guitar)<br />Martin Ansel (guitar, keyboards)<br />Frank Dapper (percussion)<br />Cherry Gehring (keyboards)
+| past_members        = Roland Bless (percussion)<br />Martin Stoeck (percussion)
+| 
+}}
+
+'''Pur''' is a German [[Pop music|pop]] band from [[Bietigheim-Bissingen]].
+
+==History==
+The group was initially founded in 1975 under the name ''Crusade'' by Roland Bless and Ingo Reidl. Their first releases came out under the name Opus, but after [[Opus (Austrian band)|an Austrian band with the same name]] had a huge hit single in Germany in 1985, they switched to the name Pur. Pur's first hit single in Germany was "Lena", released in 1990. In the 1990s and 2000s they had a string of number 1 albums in Germany. The producer of Pur is [[Dieter Falk]]. The [[ThyssenKrupp]] commercials use a song named ''Abenteuerland'', with a slogan named ''Developing the future''.
+
+==Discography==
+
+{| class="wikitable"
+! rowspan="2"| Year
+! rowspan="2"| Title
+! colspan="1"| Chart Positions
+! rowspan="2"| Sales
+! rowspan="2"| [[IFPI]] Certifications<ref name=Germany>{{Certification Cite|region=Germany|artist=Pur|type=album}}</ref>
+|-
+! width="40"| <small>[[Germany|GER]]<ref>[https://www.offiziellecharts.de/suche?artist_search=Pur&do_search=do Pur – Charts] retrieved at offiziellecharts.de on 28 September 2018</ref></small>
+|-
+|1983
+|''Opus''
+|align="center"|
+|
+|
+|- 
+|1985
+|''Vorsicht zerbrechlich''
+|align="center"|
+|
+|
+|- 
+|1987
+|''PUR''
+|align="center"|
+|
+|
+|-
+|1988
+|''Wie im Film''
+|align="center"|
+|
+|
+|-
+|1990
+|''Unendlich mehr''
+|align="center"|45
+|250.000+
+|DE: Gold
+|-
+|1991
+|''Nichts ohne Grund''
+|align="center"|13
+|250.000+
+|DE: Gold
+|-
+|1992
+|''PUR Live''  
+|align="center"|7
+|1.000.000+
+|DE: 2x Platinum
+|-
+|1993
+|''Seiltänzertraum''
+|align="center"|2
+|1.500.000+
+|DE: 3x Platinum
+|-
+|1995
+|''Abenteuerland''
+|align="center"|1
+|2.075.000+
+|DE: 3x Platinum
+|-
+|1996
+|''Pur Live – Die Zweite''
+|align="center"|1
+|500.000+
+|DE: Platinum
+|-
+|1998
+|''Mächtig viel Theater''
+|align="center"|1
+|1.100.000+
+|DE: 3x Platinum
+|-
+|2000
+|''Mittendrin''
+|align="center"|1
+|625.000+
+|DE: 2x Platinum
+|-
+|2001
+|''Hits PUR – 20 Jahre eine Band''
+|align="center"|1
+|470.000+
+|DE: 3x Gold
+|-
+|2003
+|''Was ist passiert?''
+|align="center"|1
+|400.000+
+|DE: 2x Platinum
+|-
+|2005
+|''PUR Klassisch''
+|align="center"|2
+|200.000+
+|DE: Platinum
+|-
+|2006
+|''Es ist wie es ist''
+|align="center"|1
+|300.000+
+|DE: 3x Gold
+|-
+|2009
+|''Wünsche''
+|align="center"|1
+| 200.000+
+| DE: Platinum
+|-
+|2010
+|''PUR Live – Die Dritte – Akustisch''
+|align="center"|6
+| n/a
+| DE: n/a
+|-
+|2012
+|''Schein & Sein''
+|align="center"|2
+| 200.000+
+| DE: Platinum
+|-
+|2013
+|''Schein & Sein – Live aus Berlin''
+|align="center"|
+| n/a
+| DE: n/a
+|-
+|2015
+|''Achtung''
+|align="center"|1
+| 200.000+
+| DE: Platinum
+|-
+|2018
+|''Zwischen den Welten''
+|align="center"|2
+| n/a
+| DE: n/a
+|}
+
+==Further reading==
+*Larmann, Ralph, Pur: Unsere Geschichte in Fotografien & Texten. te Neues Buchverlag, Kempen 2001, {{ISBN|3-8238-5481-X}}. (in German)
+*Larmann, Ralph: Pur - Das ist passiert! Der Bildband zur Tournee 2003. Schwarzkopf & Schwarzkopf, Berlin 2003, {{ISBN|3-89602-481-7}}. (in German)
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commonscat|Pur (band)|Pur}}
+*[http://www.pur.de Official website] {{in lang|de}}
+
+{{Authority control}}
+{{DEFAULTSORT:Pur}}
+[[Category:German musical groups]]
+[[Category:World Music Awards winners]]

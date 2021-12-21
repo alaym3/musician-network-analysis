@@ -1,0 +1,47 @@
+{{Use mdy dates|date=May 2017}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Vector
+| image                 = 
+| caption            = 
+| image_size            = 
+| background          = group_or_band
+| alias               = 
+| origin              = [[Sacramento, California|Sacramento]], [[California]], U.S.
+| instrument          = 
+| genre               = [[Christian rock]],<ref name="Powell_Fe" /> [[New wave music|new wave]]<ref name="Powell_Fe" />
+| occupation          = 
+| years_active        = 1983&ndash;1995, 2020–present
+| label               = {{hlist|[[Exit Records|Exit]]|GaGa|Liquid Disc|Mezzo}}
+| associated_acts     = [[The 77s]]
+| website             = 
+| current_members     = Steve Griffith<br/>[[Jimmy Abegg]]<br/>[[Bruce Spencer]]
+| past_members        = [[Charlie Peacock]]<br/>[[Aaron Smith (musician)|Aaron Smith]]
+}}
+'''Vector''' was a [[rock music|rock]] band formed in [[Sacramento, California]] in the early 1980s by [[Jimmy Abegg]], Steve Griffith and [[Charlie Peacock]].<ref>{{cite web|url=http://www.allmusic.com/artist/vector-mn0000317267/biography|title=Vector - Biography & History - AllMusic|website=AllMusic|access-date=May 10, 2017}}</ref> The band had several drummers over the years, including [[Aaron Smith (musician)|Aaron Smith]] and [[Bruce Spencer]], both of whom also played drums for [[the 77s]].
+
+Although the lyrics of Vector's music did not always contain the overt lyrics of [[contemporary Christian music]] with which the band was sometimes associated, Vector's albums were released under Christian labels, and were an example of [[Christian rock]].<ref name="Powell_Fe">{{cite book |last=Powell |first=Mark Allan |title=Encyclopedia of Contemporary Christian Music |year=2002 |publisher=Hendrickson Publishers |location=[[Peabody, Massachusetts|Peabody]], [[Massachusetts]] |isbn=1-56563-679-1 |edition=First printing |chapter=Vector |pages=[https://archive.org/details/encyclopediaofco00mark/page/987 987–989] |url-access=registration |url=https://archive.org/details/encyclopediaofco00mark/page/987 }}</ref>
+
+After a lengthy hiatus, Vector released a new album, ''Vital'', in August 2021.
+
+==Discography==
+===Albums===
+* ''Mannequin Virtue'' (1983)<ref>{{cite web|url=http://www.allmusic.com/album/mannequin-virtue-mw0000879701|title=Mannequin Virtue - AllMusic|website=AllMusic|access-date=May 10, 2017}}</ref>
+* ''Please Stand By'' (1985)<ref>{{cite web|url=http://www.allmusic.com/album/please-stand-by-mw0000853136|title=Please Stand By - Reviews, Credits - AllMusic|website=AllMusic|access-date=May 10, 2017}}</ref>
+* ''Simple Experience'' (1989)<ref>{{cite web|url=http://www.allmusic.com/album/simple-experience-mw0000921158|title=Simple Experience - AllMusic|website=AllMusic|access-date=May 10, 2017}}</ref>
+* ''Temptation'' (1995)<ref>{{cite web|url=http://www.allmusic.com/album/temptation-mw0000644986|title=Temptation - Vector - Reviews, Credits - AllMusic|website=AllMusic|access-date=May 10, 2017}}</ref>
+* ''Vital'' (2021)<ref>{{cite web|url=https://mezzomusicltd.com/album/1977572/vital|title=Vital|website=Mezzo Music Ltd|access-date=August 16, 2021}}</ref>
+
+=== Compilations ===
+* ''Mannequin Virtue / Please Stand By'' (album) (1990) This Gaga Records CD contains Vector's first two albums: ''Mannequin Virtue'' and ''Please Stand By''.
+* ''Time Flies'' (album) (1995) This Liquid Disc Records two-disc box set contains all of Vector's first three albums: ''Mannequin Virtue'', ''Please Stand By'' and ''Simple Experience'', with five previously unavailable bonus tracks
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vector}}
+[[Category:American new wave musical groups]]
+[[Category:Christian rock groups from California]]
+[[Category:Musical groups established in 1983]]
+[[Category:Musical groups from Sacramento, California]]

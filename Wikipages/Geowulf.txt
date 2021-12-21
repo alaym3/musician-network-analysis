@@ -1,0 +1,100 @@
+{{Infobox musical artist
+| name            = Geowulf
+| image           = GeowulfManchester.jpg
+| caption         = Geowulf performing "Saltwater" at the Deaf Institute in [[Manchester]], England, 2019
+| origin          = [[Sunshine Coast, Queensland]], Australia
+| genre           = {{flatlist|
+*[[Dream pop]]
+*[[indie pop]]
+*[[Lo-fi music|lo-fi]]
+}}
+| years_active    = 2016–present
+| label           = {{flatlist|
+*37 Adventures
+*[[PIAS Recordings|PIAS]]
+}}
+| associated_acts =
+| website         =
+| current_members = {{plainlist|
+*Star Kendrick
+*Toma Banjanin
+}}
+| past_members    = 
+}}
+'''Geowulf''' are an Australian [[dream pop]] duo formed in [[Sunshine Coast, Queensland]] in 2016. Their debut [[Album#Studio|studio album]], ''Great Big Blue'', was released in 2018, and their second album, ''My Resignation'', was released on October 25, 2019.<ref name="paste">{{cite news |last1=Thapliyal |first1=Substitute |title=Geowulf Announce New Album, Channel the Dark Side of '60s Girl Group Pop in "He's 31" |url=https://www.pastemagazine.com/articles/2019/07/geowulf-channels-the-dark-side-of-60s-girl-group-p.html |accessdate=12 September 2019 |publisher=Paste |date=8 July 2019}}</ref>
+
+==History==
+In 2017, Geowulf released their debut [[Extended play|EP]], ''Relapse'', containing four songs including "Saltwater", their first single.<ref>{{cite news |last1=Day |first1=Laurence |title=Track By Track: Geowulf on the Relapse EP |url=https://www.thelineofbestfit.com/features/track-by-track/track-by-track-geowulf-on-the-relapse-ep |accessdate=16 September 2019 |publisher=The Line of Best Fit |date=1 June 2017}}</ref><ref>{{cite news |last1=Aikins |first1=Gabriel |title=Listen to “Get You,” a fantastic new track from Geowulf |url=https://substreammagazine.com/2017/05/get-you-geowulf/ |accessdate=16 September 2019 |publisher=Substream Magazine |date=30 May 2017}}</ref> "Saltwater" was originally released as a single in 2016, and was a part of the 37 Adventures [[compilation album]] ''Odd Numbers Volume 1''.<ref>{{cite news |last1=Hackett |first1=Andrew |title=Song of the Day: Geowulf - Saltwater |url=https://www.kexp.org/read/2016/10/10/song-of-the-day-geowulf-saltwater/ |accessdate=16 September 2019 |publisher=KEXP.org |date=10 October 2016}}</ref>
+
+Geowulf's debut studio album, ''Great Big Blue'', was released on February 16, 2018.<ref>{{cite news |last1=Yung |first1=Ben |title=Geowulf – ‘Great Big Blue’ (album review) |url=https://therevue.ca/2018/02/20/geowulf-great-big-blue/ |accessdate=16 September 2019 |publisher=The Revue |date=20 February 2018}}</ref> Their second album, ''My Resignation'', was released on October 25, 2019. The singles "I See Red", "He's 31", "Lonely" and "My Resignation" were all released in advance of the album.<ref name="paste"/><ref>{{cite news |title=Premiere: Geowulf - "Lonely" |url=https://www.wonderlandmagazine.com/2019/09/02/premiere-geowulf-lonely/ |accessdate=20 September 2019 |publisher=Wonderland |date=2 September 2019}}</ref><ref>{{cite news |last1=Lowe |first1=Nick |title=Geowulf - My Resignation |url=https://www.clashmusic.com/reviews/geowulf-my-resignation |accessdate=28 October 2019 |publisher=Clash Music |date=25 October 2019}}</ref>
+
+They are currently based in [[London]], England.<ref name="wonderland">{{cite news |title=New Noise: Geowulf |url=https://www.wonderlandmagazine.com/2017/09/06/new-noise-geowulf/ |accessdate=12 September 2019 |publisher=Wonderland |date=6 September 2017}}</ref>
+
+==Members==
+*Star Kendrick
+*Toma Banjanin
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+! scope="col" style="width:10em;"| Title
+! scope="col" style="width:18em;"| Release details
+|-
+! scope="row"| ''Great Big Blue''
+|
+* Release date: February 16, 2018
+* Label: [[PIAS Recordings|PIAS]]
+* Formats: [[CD]], [[Gramophone record|LP]], [[Streaming media|streaming]], [[Music download|digital download]]
+|-
+! scope="row"| ''My Resignation''
+|
+* Release date: October 25, 2019
+* Label: PIAS
+* Formats: CD, LP, streaming, digital download
+|}
+
+===EPs===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+! scope="col" style="width:10em;"| Title
+! scope="col" style="width:18em;"| Release details
+|-
+! scope="row"| ''Relapse''
+|
+* Release date: June 2, 2017
+* Label: 37 Adventures
+* Formats: Digital download
+|}
+
+===Singles===
+* "Saltwater" (2016)
+* "Don't Talk About You" (2017)
+* "Won't Look Back" (2017)
+* "Get You" (2017)
+* "Drink Too Much" (2017)
+* "Hideaway" (2017)
+* "Sunday" (2018)
+* "Teardrops" (2018)
+* "I See Red" (2019)
+* "He's 31" (2019)
+* "Lonely" (2019)
+* "My Resignation" (2019)
+
+== References ==
+<!--- See http://en.wikipedia.org/wiki/Wikipedia:Footnotes on how to create references using <ref></ref> tags, these references will then appear here automatically -->
+{{Reflist}}
+
+==External links==
+* {{AllMusic|class=artist|id=mn0003528919}}
+* {{discogs artist}}
+
+<!--- Categories --->
+[[Category:Australian musical duos]]
+[[Category:Pop music duos]]
+[[Category:Musical groups established in 2016]]
+[[Category:Dream pop musical groups]]
+[[Category:Australian indie pop groups]]
+[[Category:Lo-fi music groups]]
+[[Category:PIAS Recordings artists]]
+[[Category:2016 establishments in Australia]]

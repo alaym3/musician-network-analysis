@@ -1,0 +1,144 @@
+{{Use dmy dates|date=October 2020}}
+{{Use Australian English|date=October 2020}}
+{{Infobox musical artist
+| name            = Yours Truly
+| image           = 
+| image_size      = 
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             = 
+| caption         = 
+| background      = group_or_band
+| alias           = 
+| origin          = Sydney, Australia
+| genre           = [[Pop-punk]]<ref>{{cite web |last1=Shutler |first1=Ali |title=10 bands reinventing pop-punk for 2021 |url=https://www.loudersound.com/features/10-pop-punk-bands-pushing-the-genre-forward |website=[[Louder Sound]] |access-date=9 March 2021}}</ref>
+| years_active    = {{start date|2016}}–present
+| label           = [[UNFD]]
+| associated_acts = 
+| website         = <!-- {{URL|example.com}} -->
+| current_members = 
+| past_members    = 
+}}
+
+'''Yours Truly''' are an Australian [[pop-punk]] band formed in 2016. The group released their debut studio album in 2020, which peaked at number 19 on the ARIA Charts.
+
+==History==
+Yours Truly were formed in 2016 and self-released their debut EP ''Too Late for Apologies'' in March 2017. The group's debut singles "Winter" and "Strangers" received airplay on [[Triple J]].<ref name="Unearthed">{{cite web|url=https://www.triplejunearthed.com/artist/yours-truly-2|title=Yours Truly 2|website=Triple J Unearthed|access-date=21 October 2020}}</ref>
+
+"High Hopes" was released in January 2018. The group released their debut studio album in September 2020, which peaked at number 19 on the ARIA Charts.<ref>{{cite web|url=http://www.noise11.com/news/australian-charts-keith-urban-the-speed-of-now-part-1-debuts-at-no-1-20200928|title=Australian Charts: Keith Urban ''The Speed of Now Part 1'' Debuts At No 1|website=noise11|date=28 September 2020|access-date=21 October 2020}}</ref>
+
+On 9 July 2021, the band released "Walk Over My Grave", their first new music since their 2020 album ''Self Care''.<ref name="Walk Grave"/>
+
+==Discography ==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of studio albums, with Australian positions 
+! scope="col" rowspan="2" | Title
+! scope="col" rowspan="2" | Details
+! scope="col" colspan="1"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[ARIA Charts|AUS]]<br><ref name=aus>{{cite web|url=https://australian-charts.com/showitem.asp?interpret=Yours+Truly&titel=Self+Care&cat=a|title=Yours Truly on Australian Charts|website=australian-charts.com|access-date=21 October 2020}}</ref>
+|-
+! scope="row" | ''[[Self Care (album)|Self Care]]''
+|
+* Released: 18 September 2020<ref>{{cite web|url=https://music.apple.com/au/album/self-care/1518785548|title=Self Care DD|website=Apple Music|access-date=21 October 2020}}</ref>
+* Label: [[UNFD]] (UNFD138CD)
+* Formats: [[Compact Disc|CD]], [[Vinyl record|LP]], [[Music download|DD]], [[Media streaming|streaming]]
+| align="center" | 19
+|}
+
+===EPs===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of extended plays
+! scope="col" rowspan="1" | Title
+! scope="col" rowspan="1" | EP Details
+|-
+! scope="row"| ''Too Late for Apologies''
+|
+* Released: 31 March 2017<ref>{{cite web|url=https://music.apple.com/au/album/too-late-for-apologies-ep/1214020817|title= Too Late for Apologies DD|website=Apple Music|access-date=21 October 2020}}</ref>
+* Label: Yours Truly
+* Formats: DD, streaming
+|-
+! scope="row"| ''Afterglow''
+|
+* Released: 12 April 2019<ref>{{cite web|url=https://music.apple.com/au/album/afterglow-ep/1445840197|title=Afterglow  DD|website=Apple Music|access-date=21 October 2020}}</ref>
+* Label: Unified (UNFD124CD)
+* Formats: CD, DD, streaming
+|-
+! scope="row"| ''Yours Truly on Audiotree Live''
+|
+* Released: 12 April 2019<ref>{{cite web|url=https://music.apple.com/au/album/yours-truly-on-audiotree-live-ep/1480914829|title=Yours Truly on AudioTree Live  DD|website=Apple Music|access-date=21 October 2020}}</ref>
+* Label: Audiotree Music
+* Formats: DD, streaming
+|}
+
+==Singles==
+{| class="wikitable" style="text-align:center;"
+|-
+! Year
+! Title
+! Album
+|-
+|rowspan="2" | 2017
+| style="text-align:left;"| "Winter"<ref name="Unearthed"/>
+|rowspan="2" | ''Too Late for Apologies''
+|-
+| style="text-align:left;"| "Strangers"<ref name="Unearthed"/>
+|-
+| 2018
+| style="text-align:left;"| "High Hopes"<ref>{{cite web|url=https://music.apple.com/au/album/high-hopes-single/1443989859|title=High Hopes (single)|website=Apple Music|date=January 2018|access-date=21 October 2020}}</ref>
+|rowspan="3" | ''Afterglow''
+|-
+|rowspan="2" | 2019
+| style="text-align:left;"| "Circles"<ref>{{cite web|url=https://www.youtube.com/watch?v=-TPKTn6qd5c|title=Yours Truly - Circles (OFFICIAL MUSIC VIDEO)|website=YouTube|date=January 2019|access-date=21 October 2020}}</ref>
+|-
+| style="text-align:left;"| "I Can't Feel"<ref>{{cite web|url=https://www.youtube.com/watch?v=hxRDfVFSD3M|title=Yours Truly - I Can't Feel (OFFICIAL MUSIC VIDEO)|website=YouTube|date=20 March 2019|access-date=21 October 2020}}</ref>
+|-
+|rowspan="4" | 2020
+| style="text-align:left;"| "Composure"<ref>{{cite web|url=https://music.apple.com/au/album/composure-single/1504630606|title=Composure (single)|website=Apple Music|date=April 2020|access-date=21 October 2020}}</ref>
+|rowspan="4" | ''Self Care''
+|-
+| style="text-align:left;"| "Together"<ref>{{cite web|url=https://www.youtube.com/watch?v=aKKcfS8Rreo|title=Yours Truly - Together [Official Music Video]|website=YouTube|date=22 July 2020|access-date=21 October 2020}}</ref>
+|-
+| style="text-align:left;"| "Undersize"<ref>{{cite web|url=https://www.youtube.com/watch?v=TS4lqAjdg7k|title=Undersize - Funeral Home [Official Music Video]|website=YouTube|date=4 August 2020|access-date=21 October 2020}}</ref>
+|-
+| style="text-align:left;"| "Funeral Home"<ref>{{cite web|url=https://www.youtube.com/watch?v=3zXFwrk1irw|title=Yours Truly - Funeral Home [Official Music Video]|website=YouTube|date=3 September 2020|access-date=21 October 2020}}</ref>
+|-
+|rowspan="2" | 2021
+| style="text-align:left;"| "Walk Over My Grave"<ref name="Walk Grave">{{cite web|url=https://www.broadwayworld.com/bwwmusic/article/Yours-Truly-Unleashes-New-Single-Walk-Over-My-Grave-20210708|title=Yours Truly Unleashes New Single "Walk Over My Grave"|website=broadwayworld|date=9 July 2021|access-date=10 July 2021}}</ref>
+| {{tba}}
+|-
+| style="text-align:left;"| "Go to Hell"<br>{{small|(with Between You and Me)}}<ref name="GotoHell">{{cite web|url=https://www.nme.com/en_au/news/music/between-you-and-me-join-forces-with-yours-truly-for-biting-new-single-go-to-hell-3098225|title=Between You And Me join forces with Yours Truly for biting new single "Go to Hell"|website=[[NME Australia]]|date=18 November 2021|access-date=20 November 2021}}</ref>
+| ''Armageddon''
+|-
+|}
+
+==Awards and nominations==
+===ARIA Music Awards===
+The [[ARIA Music Awards]] is an annual ceremony presented by [[Australian Recording Industry Association]] (ARIA), which recognise excellence, innovation, and achievement across all genres of the [[music of Australia]]. They commenced in 1987.
+{{Awards table}}
+! {{Abbr|Ref.|Reference}}
+|-
+| [[2021 ARIA Music Awards|2021]]|| ''Self Care'' || [[ARIA Award for Best Hard Rock or Heavy Metal Album]] || {{nom}}
+| <ref>{{cite web |url=https://themusicnetwork.com/2021-aria-awards-nominees/ |title=ARIA Awards nominees revealed: Amy Shark & Genesis Owusu lead the charge |work=[[The Music Network]] |date=20 October 2021 |access-date=24 October 2021 |author=Kelly, Vivienne |archive-url=https://web.archive.org/web/20211020000045/https://themusicnetwork.com/2021-aria-awards-nominees/ |archive-date=20 October 2021 |url-status=live}}</ref>
+|-
+{{end}}
+
+===J Awards===
+The [[J Awards]] are an annual series of Australian music awards that were established by the [[Australian Broadcasting Corporation]]'s youth-focused radio station [[Triple J]]. They commenced in 2005.
+{{awards table}}
+|-
+| [[J Awards of 2020]]<ref name="2020nomsJ">{{cite web|title = Here are your nominees for the 2020 J Awards!|url = https://www.abc.net.au/triplej/news/musicnews/j-awards-2020-announcement/12831878|publisher= [[Australian Broadcasting Corporation]]|date=2 November 2020|access-date =3 November 2020}}</ref><ref>{{cite web |url=https://www.nme.com/en_au/news/music/2020-j-awards-winners-2820006/ |title=Lime Cordiale take home Australian Album of the Year at the 2020 J Awards |work=[[NME Australia]] |date=19 November 2020 |access-date=19 November 2020 |author=Triscari, Caleb}}</ref>
+| themselves
+| Unearthed Artist of the Year
+| {{nom}}
+|-
+{{end}}
+
+==References==
+{{reflist}}
+{{Authority control}}
+
+[[Category:Musical groups established in 2016]]
+[[Category:Australian punk rock groups]]
+[[Category:Year of birth missing (living people)]]
+[[Category:2016 establishments in Australia]]

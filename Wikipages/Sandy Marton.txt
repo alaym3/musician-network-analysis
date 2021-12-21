@@ -1,0 +1,93 @@
+{{Short description|Croatian singer and songwriter}}
+{{BLP sources|date=December 2010}}
+{{Infobox person
+| name               = Sandy Marton
+| honorific_suffix   = 
+| image              =
+| alt                = 
+| caption            = Photograph of Sandy Marton, circa 1986
+| birth_name         = Aleksandar Marton
+| birth_date         = {{Birth date and age|1959|10|4|df=yes}}
+| birth_place        = [[Zagreb]], [[SR Croatia]], [[Yugoslavia]]
+| death_date         = 
+| death_place        = 
+| death_cause        = 
+| resting_place      = 
+| other_names        = 
+| occupation         = {{flatlist|
+* Singer
+* songwriter
+}}
+| years_active       = 1983–present
+| spouse             = 
+| partner            = 
+| children           = 
+| parents            = 
+| module             = {{Infobox musical artist
+| embed           = yes
+| genre           = {{flatlist|
+* [[Italo disco]]
+* [[Pop music|pop]]
+* [[disco]]
+}}
+| instrument      = {{flatlist|
+* Vocals
+* [[Keytar]]
+}}
+| label           = 
+| associated_acts = 
+}}
+| website            = 
+| signature          = 
+}}
+'''Aleksandar Marton''' (born 4 October 1959), known by his stage name '''Sandy Marton''', is a Croatian singer and songwriter. He is famous for songs such as "[[People from Ibiza (song)|People from Ibiza]]", "Exotic & Erotic", and "Camel by Camel".
+
+==Early life==
+Sandy Marton was born Aleksandar Marton in [[Zagreb]], Yugoslavia on 4 October 1959. He moved to [[Milan]] in the 1970s.<ref>{{cite web|url=https://massimoemanuelli.com/2018/06/26/sandy-marton/|title=Sandy Marton|work=massimoemanuelli.com|access-date=7 August 2021}}</ref>
+
+==Discography==
+===Albums===
+* ''Modern Lover'' (1986)
+* ''Erase Una Vez'' (1994)
+
+===Singles===
+* 1983 - "Ok. Run" (as M-Basic) 
+* 1984 - "[[People from Ibiza (song)|People from Ibiza]]" [#1 Italy, #10 Germany, #38 Netherlands, #7 Switzerland, #4 Norway, #14 Austria]
+* 1984 - "People from Ibiza" (Ibiza Remix)
+* 1985 - "Camel by Camel" [#4 Italy]
+* 1985 - "Exotic & Erotic" [#17 France, #11 Italy, #41 Germany #19 Australia]{{sfn|Kent|1993|p=1933}}
+* 1986 - "Modern Lover" [#5 Italy]
+* 1986 - "Merry Merry Christmas & a Happy New Year" [#40 Italy]
+* 1986 - "White Storm in the Jungle"
+* 1987 - "Love Synchronicity" [#42 Italy]
+* 1989 - "La Paloma Blanca"
+* 2006 - "Caminando Por La Calle"
+* 2008 - " Sound Of Ibiza" (The Bootstraps Feat. Sandy Marton)
+
+==References==
+
+{{Reflist}}
+
+==Sources==
+
+{{Refbegin|25em}}
+* {{cite book |last=Kent |first=David |author-link=David Kent (historian) |year=1993 |title=Australian Chart Book 1970–1992 (illustrated ed.) |publisher=N.S.W.: Australian Chart Book |location=St Ives |isbn=0-646-11917-6|page=193}}
+{{Refend}}
+
+==External links==
+
+* {{discogs artist}}
+* {{IMDb name|id=2343870|name=Sandy Marton}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Marton, Sandy}}
+[[Category:1959 births]]
+[[Category:20th-century Croatian male singers]]
+[[Category:21st-century Croatian male singers]]
+[[Category:Living people]]
+[[Category:Musicians from Zagreb]]
+[[Category:Croatian people of American descent]]
+[[Category:English-language singers from Croatia]]
+[[Category:Italo disco musicians]]
+{{croatia-singer-stub}}

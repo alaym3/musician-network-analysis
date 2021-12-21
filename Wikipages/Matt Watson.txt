@@ -1,0 +1,87 @@
+{{short description|American baseball player}}
+{{other people}}
+{{Infobox baseball biography
+|name=Matt Watson
+|position=[[Outfielder]]
+|birth_date={{Birth date and age|1978|9|5}}
+|birth_place=[[Lancaster, Pennsylvania]]
+|bats=Left
+|throws=Right
+|debutleague = MLB
+|debutdate=September 12
+|debutyear=2003
+|debutteam=New York Mets
+|debut2league = KBO
+|debut2date=April 4
+|debut2year=2009
+|debut2team=Doosan Bears
+|finalleague = KBO
+|finaldate=April 17
+|finalyear=2009
+|finalteam=Doosan Bears
+|final2league = MLB
+|final2date=August 7
+|final2year=2010
+|final2team=Oakland Athletics
+|statleague = MLB
+|stat1label=[[Batting average (baseball)|Batting average]]
+|stat1value=.188
+|stat2label=[[Home run]]s
+|stat2value=1
+|stat3label=[[Run batted in|Runs batted in]]
+|stat3value=11
+|stat2league = KBO
+|stat21label=Batting average
+|stat21value=.184
+|stat22label=Home runs
+|stat22value=2
+|stat23label=Runs batted in
+|stat23value=6
+|teams=
+* [[New York Mets]] ({{by|2003}})
+* [[Oakland Athletics]] ({{by|2005}})
+* [[Chiba Lotte Marines]] ({{by|2006}}–{{by|2007}})
+* [[Doosan Bears]] ({{by|2009}})
+* [[Oakland Athletics]] ({{by|2010}})
+}}
+'''Matthew Kyle Watson''' (born September 5, 1978 in [[Lancaster, Pennsylvania]]) is a former [[Major League Baseball]] [[outfielder]].
+
+Watson attended [[Xavier University]], and in 1998 he played [[collegiate summer baseball]] with the [[Wareham Gatemen]] of the [[Cape Cod Baseball League]].<ref>{{cite web|author= |url=http://capecodbaseball.org.ismmedia.com/ISM3/std-content/repos/Top/2012website/archives/Current%20Year/All_Time_MLB_CCBL_Alumni.pdf |title=Major League Baseball Players From the Cape Cod League |publisher=capecodbaseball.org |date= |accessdate=September 25, 2019}}</ref> He was drafted by the [[Montreal Expos]] in the 16th round of the [[1999 Major League Baseball draft]].
+
+In 2002, Watson was traded with [[Phil Seibel]] and [[Scott Strickland]] to the New York Mets for [[Bruce Chen]], [[Luis Figueroa]], [[Dicky Gonzalez]] and a [[player to be named later]], who would be [[Saúl Rivera]].  Watson made his major league debut with the Mets in 2003. Following the 2003 season, Watson was selected off waivers by the [[Oakland Athletics]].  He spent 2004 in the minors, and played for the Athletics in 2005. The [[Chiba Lotte Marines]] purchased Watson from the A's after the 2005 season.  Watson spent the next two seasons in Japan.
+
+In {{Baseball year|2008}}, he played for the Triple-A [[Syracuse Chiefs]] in the [[Toronto Blue Jays]] organization. In 76 games, he [[Batting average (baseball)|batted]] .290. He signed with the [[Doosan Bears]] in South Korea in January {{Baseball year|2009}}, but was released in May 2009.  He joined his hometown [[Lancaster Barnstormers]] in July 2009 after a brief stint in the [[New York Mets]] system.
+
+He rejoined the Athletics organization in 2010, and was again promoted to the major leagues. On July 21, 2010 he hit his first career home run off of [[Clay Buchholz]] of the [[Boston Red Sox]]. He last played with the [[Lancaster Barnstormers]] of the [[Atlantic League of Professional Baseball]] in 2011.
+
+==References==
+{{reflist}}
+
+==External links==
+{{Baseballstats |mlb=420673 |espn=7244 |br=w/watsoma02 |fangraphs=1846 |brm=watson002mat}}
+*[http://eng.koreabaseball.com/Teams/Playerinfohitter/summary.aspx?pcode=79225 Career statistics and player information] from [[Korea Baseball Organization]]
+
+{{DEFAULTSORT:Watson, Matt}}
+[[Category:1978 births]]
+[[Category:Living people]]
+[[Category:Major League Baseball outfielders]]
+[[Category:Baseball players from Pennsylvania]]
+[[Category:New York Mets players]]
+[[Category:Oakland Athletics players]]
+[[Category:American expatriate baseball players in Japan]]
+[[Category:KBO League outfielders]]
+[[Category:American expatriate baseball players in South Korea]]
+[[Category:Vermont Expos players]]
+[[Category:Jupiter Hammerheads players]]
+[[Category:Binghamton Mets players]]
+[[Category:Harrisburg Senators players]]
+[[Category:St. Lucie Mets players]]
+[[Category:Norfolk Tides players]]
+[[Category:Brooklyn Cyclones players]]
+[[Category:Sacramento River Cats players]]
+[[Category:Chiba Lotte Marines players]]
+[[Category:Syracuse Chiefs players]]
+[[Category:Buffalo Bisons (minor league) players]]
+[[Category:Doosan Bears players]]
+[[Category:Lancaster Barnstormers players]]
+[[Category:Wareham Gatemen players]]

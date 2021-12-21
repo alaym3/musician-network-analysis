@@ -1,0 +1,95 @@
+{{short description|American politician}}
+{{Use mdy dates|date=November 2016}}
+{{Infobox officeholder
+| name = Garrett Davis
+| nationality = American
+| image name = Hon. Garrett Davis, Ky - NARA - 528757.jpg
+| jr/sr1 = Junior
+| state1 = [[Kentucky]]
+| party = [[Whig Party (United States)|Whig]], [[Unionist Party (United States)|Unionist]], [[Democratic Party (United States)|Democrat]]
+| term1 = December 10, 1861 – September 22, 1872
+| predecessor1 = [[John C. Breckinridge]]
+| successor1 = [[Willis B. Machen]]
+| state2 = [[Kentucky]]
+| district2 = [[Kentucky's 8th congressional district|8th]]
+| term_start2 = March 4, 1843
+| term_end2 = March 3, 1847
+| predecessor2 = [[James Sprigg]]
+| successor2 = [[Charles S. Morehead]]
+| state3 = [[Kentucky]]
+| district3 = [[Kentucky's 12th congressional district|12th]]
+| term_start3 = March 4, 1839
+| term_end3 = March 3, 1843
+| predecessor3 = [[John Chambers (politician)|John Chambers]]
+| successor3 = ''District eliminated''
+| office4 = Member of the [[Kentucky House of Representatives]]
+| term4 = 1833–1835
+| birth_date = {{birth date|1801|9|10}}
+| birth_place = [[Mount Sterling, Kentucky]]
+| death_date = {{death date and age|1872|9|22|1801|9|10}}
+| death_place = [[Paris, Kentucky]]
+| resting_place = [[Paris Cemetery]], Paris, Kentucky
+|spouse        = {{unbulleted list
+ |{{marriage|Rebecca Trimble|1826|1844|end=her death}}
+ |{{marriage|Eliza Jane Morrow|1845|1868|end=her death}}
+ }}
+| profession = Politician, lawyer
+}}
+
+'''Garrett Davis''' (September 10, 1801 – September 22, 1872) was a [[United States Senate|U.S. Senator]] and [[United States House of Representatives|Representative]] from [[Kentucky]].
+
+==Early life==
+Born in [[Mount Sterling, Kentucky]], Garrett Davis was the brother of [[Amos Davis]]. After completing preparatory studies, Davis was employed in the office of the [[county clerk]] of [[Montgomery County, Kentucky]], and afterward of [[Bourbon County, Kentucky]]. He studied law, and, after being admitted to the [[bar (law)|bar]] in 1823, pursued the private practice of law in [[Paris, Kentucky]].
+
+==Political career==
+Davis served in the [[Kentucky House of Representatives]] from 1833 to 1835. Afterward, he was elected as a [[Whig Party (United States)|Whig]] to the [[United States House of Representatives]], serving from March 4, 1839, to March 3, 1847. There he was chairman of the [[U.S. House Committee on Territories|Committee on Territories]].
+
+Davis declined to be a candidate for reelection in 1846, but instead resumed the practice of law and also engaged in agricultural pursuits. He refused to reenter politics the next fifteen years. Davis declined the nomination for [[Lieutenant Governor of Kentucky]] in 1848 and declined the [[Know Nothing|American Party]] nomination for [[Governor of Kentucky|Governor]] in 1855 and for the presidency in 1856.
+
+Davis was opposed to [[American Civil War|secession]], however, and supported the [[Constitutional Union Party (United States)|Constitutional Union Party]] ticket of [[John Bell (Tennessee politician)|John Bell]] and [[Edward Everett]] in the [[1860 United States presidential election|1860 presidential election]]. This convinced him to reenter politics, and he was elected to the U.S. Senate as a [[Unionist Party (United States)|Unionist]] by the [[Kentucky General Assembly]] in a [[1860 and 1861 United States Senate elections|December 1861 special election]] to fill the vacancy caused by the expulsion of [[John C. Breckinridge]] for supporting the Confederacy. He was reelected as a [[Democratic Party (United States)|Democrat]] in [[1860 and 1861 United States Senate elections|1867]]. At the time of his death he was chairman of the [[U.S. Senate Committee on Private Land Claims|Committee on Private Land Claims]] (during the [[42nd United States Congress|42nd Congress]]).
+
+==Personal life==
+Davis was married twice, first to Rebecca Trimble, the daughter of [[Associate Justice of the Supreme Court of the United States|Associate Justice]] [[Robert Trimble]], and then to Eliza J. Elliott. He was the father of four children: Rebecca, Robert, Carrie and Garrett.<ref name=Paris-Bourbon>{{cite web| title=Garrett Davis| url=https://www.hopewellmuseum.org/learn/historic-preservation/bourbon-county-historical-markers/garrett-davis/| website=hopewellmuseum.org| publisher=Hopewell Museum| location=Paris, Kentucky| access-date=September 10, 2019}}</ref>
+ 
+==Death and legacy==
+Davis died in office on September 22, 1872. He is interred at [[Paris Cemetery]], Paris, Kentucky.<ref>{{Find a Grave|7773367|access-date=September 10, 2019}}</ref> Davis' home, called ''Woodhome'', was afterward sold to [[George Edgar (academic)|George Edgar]] who used it for a military academy.<ref name=Paris-Bourbon/>
+
+Davis is the namesake of [[Davis County, Iowa]].<ref>{{cite book | url=https://archive.org/details/bub_gb_9V1IAAAAMAAJ | title=The Origin of Certain Place Names in the United States | publisher=Govt. Print. Off. | author=Gannett, Henry | year=1905 | pages=[https://archive.org/details/bub_gb_9V1IAAAAMAAJ/page/n100 101]}}</ref>
+
+==See also==
+*[[List of United States Congress members who died in office (1790–1899)]]
+
+==References==
+{{Reflist}}
+
+==Sources==
+* {{Biographical Directory of Congress|D000099}}
+* American National Biography, Dictionary of American Biography, United States Congress.
+* Memorial Addresses for Garrett Davis. 42nd Cong., 3rd sess. from 1872 to 1873. Washington, D.C.: Government Printing Office, 1873
+
+{{s-start}}
+{{s-par|us-hs}}
+{{US House succession box | state=Kentucky | district=12 | before=[[John Chambers (politician)|John Chambers]] | after=Seat lost to redistricting | years=1839–1843 (obsolete district)}}
+{{US House succession box | state=Kentucky | district=8 | before=[[James Sprigg]] | after=[[Charles Morehead]] | years=1843–1847}}
+{{s-par|us-sen}}
+{{U.S. Senator box|state=Kentucky|class=3|before=[[John C. Breckinridge]]|after=[[Willis Benson Machen|Willis B. Machen]]|alongside=[[Lazarus W. Powell]], [[James Guthrie (Kentucky politician)|James Guthrie]], [[Thomas C. McCreery]], [[John W. Stevenson]]|years=1861–1872}}
+{{s-end}}
+
+{{USSenKY}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Davis, Garrett}}
+[[Category:1801 births]]
+[[Category:1872 deaths]]
+[[Category:People from Mount Sterling, Kentucky]]
+[[Category:Whig Party members of the United States House of Representatives from Kentucky]]
+[[Category:Unionist Party United States senators from Kentucky]]
+[[Category:Democratic Party United States senators from Kentucky]]
+[[Category:Kentucky Democrats]]
+[[Category:Kentucky Unionists]]
+[[Category:Kentucky Whigs]]
+[[Category:Members of the Kentucky House of Representatives]]
+[[Category:Kentucky state senators]]
+[[Category:Kentucky lawyers]]
+[[Category:19th-century American lawyers]]

@@ -1,0 +1,40 @@
+{{Use dmy dates|date=January 2015}}
+{{for|the plasma device|plasma torch}}
+The '''Plasmatron''', or technically '''plasma addressed liquid crystal''' ('''PALC'''), is a [[color television]] display technology developed by [[Tektronix]] and [[Sony]] in the 1990s. PALC displays combine rows formed from [[liquid crystal display|liquid crystals]] with columns formed from [[plasma display|plasma cells]], the latter replacing the transistorized switching in a conventional LCD.<ref>Dennis Normile, "Liquid crystals meet plasma", ''Popular Science'','''Vol. 247''', No. 4, page 50, Oct 1995, Bonnier Corporation ISSN 0161-7370, [https://books.google.com/books?id=EzktJTiKxFIC&pg=PA50&dq=plasmatron+TV&lr=&ei=VSy8SbysO5b0ygSC28GaCw retrieved 14 March 2009].</ref>  Although PALC was successfully developed,  [[thin-film transistor]] based LCD devices were improved which offset PALC's advantages. PALC development has been largely abandoned since the early 2000s.
+
+==History==
+PALC was originally developed by Thomas Buzak, who worked at [[Tektronix]] in the U.S. Through the late 1980s and early 1990s he developed and patented a number of concepts that used [[plasma (physics)|plasma]] to provide a switching element for a variety of uses. When the project he was working on was canceled, he turned his attention to using the plasma elements as LCD switches, and the PALC system was born.<ref>''Discover'', July 1996.</ref>
+
+In 1993 Tektronix licensed the technology to [[Sony]], and together they started development of the Plasmatron televisions. In October 1996 Sony entered a three-year arrangement with [[Sharp Electronics]] to share development, with Sharp's role being to help improve the effective display angles. In July 1997 the group was joined by [[Philips Electronics]] to improve the resolution of the devices, reduce power consumption and increase brightness.<ref>''PALC''</ref> Sony and Sharp both produced [[high-definition television]] prototypes using the PALC technology, but these never made it to production.
+
+PALC was offset by the rapid introduction of [[thin-film transistor]]s, which allowed individual cells of the LCD to be addressed directly. A grid of rows and columns allows the transistors to be turned on or off just like the plasma cells, but without the need for high voltages or resetting pulse. At first these devices were difficult to produce, but as processes improved the printing methods developed from the semiconductor industry replaced the mechanical complexity of the PALC cell. PALC is no longer being actively developed.<ref>''PALC''</ref>
+
+==Description==
+{{unreferenced|section|date=March 2009}}
+A conventional LCD consists of a grid of individual LCD "cells" with red, green or blue (RGB) colored filters in front of them. A back light source, typically a [[fluorescent lamp]] or [[LED]] in modern systems, shines white light through the cells. By changing the opacity of the cells, differing quantities of RGB light are produced at any one triplet of cells, producing a single color as seen by the eye. The main problem with producing such a display is the need to individually address the enormous number of cells; in a modern [[high-definition television]] with a 1080p display, this requires 1080 rows of 1920 triplet cells per row, or 6,220,800 individual LCD cells.
+
+PALC displays attempted to address this problem by introducing an intermediate area between the backlight and the LCD on top that used plasma techniques as a "switch". Instead of using individual cells, the display was arranged as a series of rows of LCDs, arranged in an RGB pattern. Beneath the LCD, and above the backlight, was a plasma display consisting of columns of anodes. A clear conductive cathode was positioned above every LCD row.
+
+To produce a display, the system powered each row of the cathodes in turn, along with lit anodes in the plasma layer. This produced a field between the anodes in the columns and cathodes on the rows, producing individually addressed cells. A small amount of ionized gas is pushed towards the LCD in the cells that are powered, creating a small charged spot just below the LCD layer. This switches the LCD, and the amount of power controls the resulting opacity. Cells had to be "erased" to re-draw, by passing a high negative voltage through the cell to push the gas off the LCD layer.
+
+==References==
+===Notes===
+{{reflist}}
+===Bibliography===
+{{refbegin}}
+* Thomas S. Buzak, "Switching pixels with gas", ''Information Display'', Volume 6 Number 10 (October 1990), pp. 7-9
+* Itou Fukusaburou (et all), [http://sharp-world.com/corporate/info/rd/tj2/pdf/8.pdf "Plasma Addressed Liquid Crystal Display"], ''Sharp Technical Journal'', Volume 74 (28 May 1999), pp. 35-40
+* [http://www.meko.co.uk/palc.shtml "PALC"], ''Displays Glossary'', Meko Ltd.
+* [http://discovermagazine.com/1996/jul/1996discoverawar813 "TV's a Gas"], 1996 Discover Awards: Sight ''Discover!'', 1 July 1996
+{{refend}}
+===Patents===
+{{refbegin}}
+* [http://www.google.com/patents?id=TyMuAAAAEBAJ U.S. Patent 4,864,538], "Method and apparatus for addressing optical data storage locations", Thomas Buzak/Tektronix, filed 5 May 1988, issued 5 September 1989
+* [http://www.google.com/patents?id=RuUlAAAAEBAJ U.S. Patent 5,036,317], "Flat panel apparatus for addressing optical data storage locations", Thomas Buzak/Tektronix, filed 22 August 1988, issued 30 July 1991
+{{refend}}
+==Further reading==
+* Thomas S. Buzak, "A New Active-Matrix Technique Using Plasma Addressing", ''Journal of the Society for Information Display'', 1990, pp. 420-423
+* Thomas S. Buzak, "Plasma Addressed Liquid Crystal (PALC), A New Flat Panel Technology for Full-Color Video", Tektronix Inc, Paper 9-036, AES 9th International Conference (February 1991)
+
+[[Category:History of television]]
+[[Category:Television technology]]

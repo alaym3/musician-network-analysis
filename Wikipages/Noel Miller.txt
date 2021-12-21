@@ -1,0 +1,46 @@
+{{for|the Canadian comedian|Noel Miller (YouTuber)}}
+{{short description|Australian cricketer}}
+{{Use dmy dates|date=February 2020}}
+{{use Australian English|date=January 2017}}
+{{Infobox cricketer
+|                name = Noel Keith Miller
+|               image = Noel Miller.png
+|             country = 
+|            fullname = 
+|          birth_date = {{birth date|1913|7|1|df=yes}}
+|         birth_place = [[Wyong, New South Wales]], Australia
+|          death_date = {{death date and age|2007|11|26|1913|7|1|df=yes}}
+|         death_place = Sydney, Australia
+|             batting = 
+|             bowling = 
+|                role = 
+
+|               club1 = 
+|               year1 = 
+|         clubnumber1 = 
+|               club2 = 
+|               year2 = 
+|         clubnumber2 =
+
+|                date = 8 January 2017
+|              source = http://www.espncricinfo.com/ci/content/player/6616.html Cricinfo
+}}
+'''Noel Keith Miller''' (1 July 1913 &ndash; 26 November 2007) was an Australian [[cricket]]er.<ref name="Bio">{{Cite web|url=http://www.espncricinfo.com/ci/content/player/6616.html |title=Noel Miller |access-date=8 January 2017 |work=ESPN Cricinfo}}</ref> He played one [[first-class cricket|first-class]] match for [[New South Wales cricket team|New South Wales]] in 1935/36.<ref name="CA">{{Cite web|url=https://cricketarchive.com/Archive/Players/6/6001/6001.html |title=Noel Miller |access-date=8 January 2017 |work=Cricket Archive}}</ref>
+
+==See also==
+* [[List of New South Wales representative cricketers]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{cricinfo|id=6616}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Miller, Noel}}
+[[Category:1913 births]]
+[[Category:2007 deaths]]
+[[Category:Australian cricketers]]
+[[Category:New South Wales cricketers]]
+{{Australia-cricket-bio-1910s-stub}}

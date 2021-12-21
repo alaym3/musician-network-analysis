@@ -1,0 +1,50 @@
+{{Infobox body of water
+ | name = Arctic Lake
+ | image = 
+ | caption = 
+ | image_bathymetry = 
+ | caption_bathymetry = 
+ | location = [[Broome County, New York|Broome County]], [[New York (state)|New York]], [[United States]]
+ | coords = {{Coord|42|10|46|N|75|25|32|W|region:US_type:waterbody|display=inline,title}}
+ | type = [[Lake]]
+ | inflow = [[Oquaga Creek]]
+ | outflow = [[Oquaga Creek]]
+ | catchment = 
+ | basin_countries = United States
+ | length =
+ | width = 
+ | area = {{convert|60|acre|km2}}
+ | depth = {{convert|10|ft}}
+ | max-depth = {{convert|33|ft|abbr=on}}
+ | volume = 
+ | residence_time = 
+ | shore =
+ | elevation = {{convert|1560|ft|abbr=on}}<ref>{{cite web
+    | url         = http://www.dec.ny.gov/outdoor/61672.html
+    | title       = Arctic Lake 
+    | date        = 1998
+    | website     = dec.ny.gov
+    | publisher   = NYSDEC
+    | access-date = 4 May 2017
+    }}</ref> 
+ | islands = 
+ | cities = [[Sanford, New York#Communities and locations in Sanford|North Sanford, New York]]
+<!--      Map      -->
+| pushpin_map             = New York#USA
+| pushpin_label_position  = 
+| pushpin_map_alt         = Location of Arctic Lake in New York, USA.
+| pushpin_map_caption     = 
+<!--   Below       -->  
+| website            = 
+| reference          = 
+}}
+
+'''Arctic Lake''' is a man-made [[lake]] located by [[Sanford, New York#Communities and locations in Sanford|North Sanford, New York]]. Fish species present in the lake include [[pumpkinseed sunfish]], [[black bullhead]], [[rainbow trout]], and [[black bass]]. There is carry down access located in the park on the northwest corner.<ref>{{Citation|author=Sportsman's Connection (Firm)|title=Western Adirondacks New York fishing map guide: includes lakes & streams for the following counties: Allegany, Broome, Cattaraugus, Cayuga, Chautauqua, Chemung, Cortland, Erie, Livingston, Madison, Monroe, Niagara, Onondaga, Ontario, Orleans, Oswego, Schuyler, Seneca, Steuben, Tioga, Tompkins, Wayne, Wyoming, and Yates.|date=2011-01-01|oclc=986498446 |publisher=Sportsman's Connection|language=English|isbn=978-1-885010-63-6 }}</ref>
+
+==References==
+{{Reflist}}
+
+{{authority control}}
+
+[[Category:Lakes of New York (state)]]
+[[Category:Lakes of Broome County, New York]]

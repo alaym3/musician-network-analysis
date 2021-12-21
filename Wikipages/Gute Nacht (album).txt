@@ -1,0 +1,80 @@
+{{Missing information|basic release details and its track listing|date=May 2017}}
+{{Infobox album
+| name       = Gute Nacht
+| type       = studio
+| artist     = Kontra K
+| cover      = Kontra K - Gute Nacht.png
+| alt        =
+| released   = 28 April 2017<ref>{{cite web |url=http://rap.de/news/100294-kontra-k-tracklist-mit-features-zu-gute-nacht/ |title=Kontra K: Tracklist mit Features zu "Gute Nacht" |work=rap.de |language=German |date=20 February 2017 |accessdate=6 May 2017 |author=Marquart, Oliver}}</ref>
+| recorded   =
+| studio     =
+| genre      =
+| length     = 174:05
+| label      = [[BMG Rights Management|BMG]]
+| producer   =
+| prev_title = Labyrinth
+| prev_year  = 2016
+| next_title = Erde & Knochen
+| next_year  = 2018
+| misc       = {{Singles
+ | name        = Gute Nacht
+ | type        = studio
+ | single1     = [[Diamanten (song)|Diamanten]]
+ | single1date = 17 February 2017
+ | single2     = Mehr als ein Job
+ | single2date = 17 March 2017
+ | single3     = Plem Plem
+ | single3date = 7 April 2017
+ | single4     = Gift
+ | single4date = 20 April 2017
+}}
+}}
+
+'''''Gute Nacht''''' is the sixth [[studio album]] by German rapper Kontra K. It was released on 28 April 2017 through [[BMG Rights Management]]. "Diamanten" was released as the album's lead single on 17 February 2017.
+
+The album debuted at number one in Germany.<ref name="Germany"/>
+
+==Charts==
+{{col-start}}
+{{col-2}}
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2017)
+! scope="col"| Peak<br /> position
+|-
+{{album chart|Austria|2|artist=Kontra K|album=Gute Nacht|rowheader=true|accessdate=11 May 2017}}
+|-
+{{album chart|Germany4|1|id=327940|artist=Kontra K|album=Gute Nacht|rowheader=true|accessdate=10 May 2017|refname=Germany}}
+|-
+{{album chart|Switzerland|7|artist=Kontra K|album=Gute Nacht|rowheader=true|accessdate=10 May 2017}}
+|}
+
+===Year-end charts===
+{| class="wikitable plainrowheaders sortable" style="text-align:center"
+|-
+! scope="col"| Chart (2017)
+! scope="col"| Position
+|-
+! scope="row"| German Albums (Offizielle Top 100)<ref>{{cite web|url=https://www.offiziellecharts.de/charts/album-jahr/for-date-2017|title=Top 100 Album-Jahrescharts|language=German|work=[[GfK Entertainment]]|publisher=offiziellecharts.de|accessdate=29 December 2017}}</ref>
+| 27
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Germany|artist=Kontra K|title=Gute Nacht|type=album|award=Gold|relyear=2017|certyear=2017|accessdate=14 November 2017}}
+{{Certification Table Bottom|nosales=true | noshipments=true | streaming=true}}
+
+==References==
+{{reflist}}
+
+==External links==
+* https://www.offiziellecharts.de/album-details-327940
+
+
+{{Authority control}}
+
+[[Category:2017 albums]]
+
+
+{{2010s-album-stub}}

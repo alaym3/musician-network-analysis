@@ -1,0 +1,36 @@
+{{Short description|Suburb of Carlisle in the City of Carlisle district, in the county of Cumbria, England}}
+{{Other uses}}
+{{Use dmy dates|date=February 2017}}
+{{Use British English|date=February 2017}}
+{{Infobox UK place
+| country                  = England
+| static_image             =
+| static_image_caption     = 
+| coordinates              = {{coord|54.90|-02.95|display=inline,title}}
+| official_name            = Belah
+| population               = 6,149
+| population_ref           = (2011.Ward)<ref>{{cite web|url=http://www.neighbourhood.statistics.gov.uk/dissemination/LeadKeyFigures.do?a=7&b=13691159&c=Belah&d=14&e=62&g=6411459&i=1001x1003x1032x1004&m=0&r=1&s=1435066446315&enc=1|title=Carlisle ward population 2011|accessdate=23 June 2015}}</ref>
+| shire_district           = 
+| shire_county             = [[Cumbria]]
+| region                   = North West England
+| constituency_westminster = 
+| post_town                = 
+| postcode_district        = 
+| postcode_area            = 
+| dial_code                = 
+| os_grid_reference        = NY3957
+| pushpin_map              = United Kingdom City of Carlisle
+| pushpin_map_caption      = Location in the [[City of Carlisle]] district, [[Cumbria]]
+| label_position           =  
+}}
+'''Belah''' is a [[suburb]] of [[Carlisle, Cumbria|Carlisle]] in the [[City of Carlisle]] district, in the county of [[Cumbria]], [[England]].
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:Areas of Carlisle, Cumbria]]
+
+
+{{Cumbria-geo-stub}}

@@ -1,0 +1,67 @@
+<!-- PLEASE DO NOT add information about or pictures of the leekspin cartoon to this page; there is a link to the song "Ievan polkka", which has the section on the leekspin cartoon. The leekspin image has been removed because its copyright status is unknown. -->
+{{about|the band|the song|Ievan polkka|the animation|Loituma Girl}}
+{{Infobox musical artist
+| name             = Loituma
+| image            = 
+| caption          = 
+| background       = group_or_band
+| alias            = Jäykkä Leipä
+| origin           = [[Helsinki]], [[Finland]]
+| genre            = [[Folk music|Folk]], [[a cappella]]
+| years_active     = 1989–present
+| label            = [[NorthSide]]
+| website          = 
+| current_members  = Anita Lehtola-Tollin<br />[[Hanni Autere|Hanni-Mari Autere]]<br />Sari Kauranen<br />Timo Väänänen
+| past_members     = [[Sanna Kurki-Suonio]]<br />[[Tellu Turkka]]
+}}
+'''Loituma''' is a [[Finland|Finnish]] [[quartet]] whose members combine the Finnish vocal tradition with the sounds of the [[kantele]]. Loituma were selected Ensemble of the Year at the 1997 [[Kaustinen Folk Music Festival]].
+
+==History==
+Loituma’s initial incarnation was in the autumn of 1989 as a septet called ''Jäykkä Leipä'' ("Stiff Bread"), born in the [[Sibelius Academy]]’s Folk music department. The original lineup included singers [[Sanna Kurki-Suonio]] and [[Tellu Turkka|Tellu Paulasto]], who later left for [[Sweden]] to join [[Hedningarna]].
+
+Over the years, the group has persistently followed its own musical path, incorporating diverse influences into its music. One of the cornerstones of Finnish [[folk music]] is the art of singing, through which the stories and feelings which comprise aspects of the Finnish heritage are conveyed, aided by backing musicians Martti Pokela and Toivo Alaspää. Another cornerstone of Loituma's art is a Finnish folk instrument called the [[kantele]], which is featured in varied ways in their recordings.
+
+Loituma members compose or arrange the tunes themselves, but often use [[improvisation]]. Lyrics come from many sources, including two main traditional sources: the [[Kalevala]], the national epic of Finland; and the [[Kanteletar]] ([[Elias Lönnrot|Lönnrot]]'s collection of Finnish folk poetry). The lyrics are in [[Finnish language|Finnish]].
+
+Loituma gained great popularity<ref>{{cite web |url=https://www.google.com/trends/explore#q=Loituma%2C%20folk%20music |website=Google Trends |title=Web Search interest: Loituma, folk music - Worldwide, 2004 - present |accessdate=26 June 2016}}</ref> in 2006 when the [[Loituma Girl]] (also known as Leekspin), a looped [[Flash animation]] of an [[anime]] girl [[Orihime Inoue]] from the ''[[Bleach (manga)|Bleach]]'' series twirling a leek, set to a [[scat singing]] section of "[[Ievan polkka]]" from Loituma's 1995 debut album ''[[Things of Beauty]]'',<ref name="PRI">{{cite web |url=http://www.theworld.org/?q=node/3625 |title=Global Hit |first=Marco |last=Werman |date=18 August 2006 |format=radio |work=[[The World (radio program)|The World]] |publisher=[[Public Radio International]] |accessdate =18 August 2006 |archive-url=https://web.archive.org/web/20061001164915/http://www.theworld.org/?q=node/3625 |archive-date=2006-10-01}}</ref> was posted in Russian [[LiveJournal]]. The animation instantly became an [[List of Internet phenomena#Animation and comics|Internet phenomenon]] and the song clip soon enjoyed overwhelming popularity as a [[ringtone]], with most of the young urban population aware of the "Yak zup zop" lyrics.<ref>[http://lurkmore.to/%D0%AF%D0%BA_%D1%86%D1%83%D0%BF_%D1%86%D0%BE%D0%BF Russian meme and cultural phenomena wiki Lurkmore - Yak Zup Zop article]</ref>
+
+==Band members==
+* Anita Lehtola-Tollin — vocals, 5-string kantele
+* [[Hanni-Mari Autere]] — vocals, [[fiddle]], 5-string kantele, alto [[Recorder (musical instrument)|recorder]], [[double bass]], Lapin [[drum]]
+* Sari Kauranen — kanteles, vocals
+* Timo Väänänen — kanteles, vocals
+
+==Discography==
+=== Albums ===
+* ''Loituma'' (released in Finland in 1995) / ''[[Things of Beauty]]'' (released in the [[United States]] in 1998)
+* ''Kuutamolla'' (released in Finland in 1998) / ''In the Moonlight'' (released in United States in 1999)
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles with chart positions and album name
+! scope="col" rowspan="2" | Title
+! scope="col" rowspan="2" | Year
+! scope="col"| Peak chart positions
+! scope="col" rowspan="2" | Album
+|-
+! style="width:2.5em; font-size:85%"| [[GfK Entertainment charts|GER]]<br /><ref>{{cite web | url = https://www.offiziellecharts.de/suche?artistId=Loituma | title = Discographie von – Loituma | website = Offizielle Deutsche Charts | accessdate = 5 December 2020 | language = de | trans-title = Loituma – Discography}}</ref>
+|-
+!scope="row"|"[[Ievan polkka|Ieva's polka]]"
+| 2007
+| 48
+|''[[Things of Beauty|Loituma]]''
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://myspace.com/loitumamusiikki Loituma on MySpace]
+<!--PLEASE DO NOT add information about or pictures of the leekspin cartoon to this page; there is a link to the song "Ievan polkka", which has the section on the leekspin cartoon. The leekspin image has been removed because its copyright status is unknown.-->
+
+{{Authority control}}
+[[Category:Finnish folk musical groups]]
+[[Category:Musical groups established in 1989]]
+[[Category:Musical quartets]]
+[[Category:A cappella musical groups]]

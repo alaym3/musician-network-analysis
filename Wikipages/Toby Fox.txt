@@ -1,0 +1,145 @@
+{{short description|American video game designer and composer}}
+{{Use American English|date = September 2019}}
+{{Use mdy dates|date=April 2016}}
+{{Infobox person
+| name               = Toby Fox
+| image              = 
+| caption            = 
+| birth_name         = Robert F. Fox<ref name="Union Leader">{{cite web |url=https://www.unionleader.com/voices/city_matters/city-matters-secretive-nh-game-designer-created-undertale-video-game/article_ef527592-4b1a-5402-8393-944173180028.html |title=City Matters: Secretive NH game designer created Undertale video game |date=December 6, 2020 |access-date=June 22, 2021 |archive-date=June 22, 2021 |archive-url=https://web.archive.org/web/20210622105128/https://www.unionleader.com/voices/city_matters/city-matters-secretive-nh-game-designer-created-undertale-video-game/article_ef527592-4b1a-5402-8393-944173180028.html |url-status=live}}</ref><ref>{{cite web |title=WebVoyage Titles |url=https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?v1=2&ti=1,2&Search%5FArg=undertale&Search%5FCode=TALL&CNT=10&PID=W8oULsjJ3_h_bhkRBpiNZLL1qsb |access-date=2021-09-21 |website=cocatalog.loc.gov}}</ref>
+| birth_date         = {{birth date and age|1991|10|11}}<ref>{{cite tweet |last=Fox |first=Toby |user=tobyfox |number=918137771595829250 |date=October 11, 2017 |title=It's my 26th birthday. |archive-url=https://web.archive.org/web/20180831161836/https://twitter.com/tobyfox/status/918137771595829250 |archive-date=2018-08-31 |url-status=live}}</ref>
+| birth_place        = [[Manchester, New Hampshire]], U.S.<ref name="Union Leader" />
+| years active       = 2009–present
+| alma_mater         = [[Northeastern University]]
+| known_for          = [[Music of Homestuck|''Homestuck'' music]]<br />''[[Undertale]]''<br />''[[Deltarune]]''
+| website            = {{URL|https://web.archive.org/web/20151119075030/http://tobyfox.net/|tobyfox.net}} archived at [[Wayback Machine]]
+}}
+
+'''Robert F. Fox''' (born October 11, 1991), known professionally as '''Toby Fox''', and previously as '''Toby "Radiation" Fox''',<ref>{{cite web |title=Web archive – "Alternia" from Homestuck |url=https://web.archive.org/web/20160224153958/https://homestuck.bandcamp.com/album/alternia |access-date=16 November 2021}}</ref> is an American [[video game developer]] and [[video game composer]]. Best known for developing the role playing games ''[[Undertale]]'' and ''[[Deltarune]]'', he began his career as a composer for the [[webcomic]] ''[[Homestuck]]''. Fox also has composed for a number of other [[independent video game]]s, and has contributed to the soundtracks of [[Pokémon Sword and Shield|''Pokémon Sword'' and ''Shield'']] and ''[[Super Smash Bros. Ultimate]]''.
+
+== Career ==
+Toby Fox started composing a variety of music for [[Andrew Hussie]]'s 2009 webcomic ''[[Homestuck]]'' during his senior year of [[high school]]. Though he did not initially respond when Hussie started a "[[Music of Homestuck|Music Contribution Team]]" in April 2009 and put up a news post asking composers to participate, Hussie took note of his work when Fox started uploading piano covers of the webcomic's music on the ''[[MS Paint Adventures]]'' forums.<ref name="Polygon">{{cite web |url=http://www.polygon.com/2013/1/24/3780850/land-of-memes-and-trolls-the-epic-and-ridiculous-self-aware-world-of |website=[[Polygon (website)|Polygon]] |publisher=[[Vox Media]] |title=Land of Memes and Trolls: The Epic and Ridiculous Self-Aware World of Homestuck |last=Funk |first=John |date=October 15, 2012 |url-status=live |archive-url=https://web.archive.org/web/20160520212927/http://www.polygon.com/2013/1/24/3780850/land-of-memes-and-trolls-the-epic-and-ridiculous-self-aware-world-of |archive-date=May 20, 2016 |df=mdy-all}}</ref> Fox has composed music for the 2017 ''[[Homestuck]]'' video game ''[[Hiveswap]]'',<ref name="Sword&Shield Polygon" /> ''Undertale'' artist Temmie Chang's short narrative game ''[[Escaped Chasm]]'',<ref>{{cite web |url=https://www.rockpapershotgun.com/2019/04/02/escaped-chasm-is-a-free-short-from-undertales-temie-chang/ |work=Rock Paper Shotgun |title=Escaped Chasm is a short, sad, free story by Undertale's artist |last=Tarason |first=Dominic |date=2019-04-02 |access-date=2019-05-02 |df=mdy-all |archive-url=https://web.archive.org/web/20190405232954/https://www.rockpapershotgun.com/2019/04/02/escaped-chasm-is-a-free-short-from-undertales-temie-chang/ |archive-date=April 5, 2019 |url-status=live}}</ref> and [[Game Freak]]'s 2019 RPG ''[[Little Town Hero]]'', the last of which was arranged by ''[[Pokémon]]'' composer Hitomi Sato.<ref name="Sword&Shield Polygon" /> He also composed a track for [[Pokémon Sword and Shield|''Pokémon Sword'' and ''Shield'']]<ref name="Sword&Shield Polygon">{{cite web |last=Goslin |first=Austen |url=https://www.polygon.com/2019/11/1/20943435 |title=Undertale developer is composing a song for Pokémon Sword and Shield |work=[[Polygon (website)|Polygon]] |date=November 1, 2019 |access-date=October 10, 2020 |language=en |archive-date=March 28, 2021 |archive-url=https://web.archive.org/web/20210328084339/https://www.polygon.com/2019/11/1/20943435/undertale-developer-music-toby-fox-pokemon-sword-and-shield |url-status=live}}</ref> and a vocal song for Itoki Hana's ''PRAY'' album.<ref>{{cite tweet |last=Fox |first=Toby |user=tobyfox |number=1026500164217962498 |date=August 6, 2018 |title=I composed a vocal song for my friend @1t0lc1 (Itoki Hana's) new album, PRAY.}}</ref>
+
+=== ''Undertale'' ===
+{{main|Undertale}}
+Fox's most well-known work is the 2015 [[role-playing video game]] ''[[Undertale]]'', which he also composed the soundtrack for.<ref name="Union Leader" /> The game sold more than 1 million copies,<ref name="GamesBeat">{{cite web |url=https://venturebeat.com/2016/04/13/stardew-valley-is-one-of-the-best-selling-pc-games-of-the-year-as-it-surpasses-1m-copies-sold/ |title=Stardew Valley is one of the best-selling PC games of the year as it surpasses 1M copies sold |last=Grubb |first=Jeff |website=[[GamesBeat]] |publisher=[[VentureBeat]] |date=April 13, 2016 |access-date=April 22, 2016 |archive-url=https://www.webcitation.org/6gxueCuye?url=http://venturebeat.com/2016/04/13/stardew-valley-is-one-of-the-best-selling-pc-games-of-the-year-as-it-surpasses-1m-copies-sold/ |archive-date=April 22, 2016 |url-status=live |df=mdy-all}}</ref> becoming a "breakout hit" and "[[Popular culture|pop-culture]] phenomenon".<ref name="CliQuist">{{cite web |url=http://cliqist.com/2015/09/29/undertale-new-cult-hit-making/ |title=Undertale: A New Cult Hit in the Making |last=Levine |first=Laguna |website=CliQist |date=September 29, 2015 |access-date=June 10, 2016 |archive-url=https://web.archive.org/web/20191223171643/http://cliqist.com/2015/09/29/undertale-new-cult-hit-making/ |archive-date=December 23, 2019 |url-status=dead}}</ref><ref name="Remeshed">{{cite web |url=http://remeshed.com/2015/undertale-won-internet/ |title=Why Undertale Won the Internet |last=McDonald |first=Mariko |website=Remeshed.com |date=December 22, 2015 |access-date=June 10, 2016 |archive-date=October 23, 2017 |archive-url=https://web.archive.org/web/20171023063211/http://remeshed.com/2015/undertale-won-internet/ |url-status=dead}}</ref><ref name="LeMonde">{{cite news |url=http://www.lemonde.fr/pixels/article/2015/12/17/undertale-elu-meilleur-jeu-video-de-l-histoire-a-la-surprise-generale_4833951_4408996.html |title=Undertale, élu " meilleur jeu vidéo de l'histoire " à la surprise générale |last=Audureau |first=William |newspaper=[[Le Monde|LeMonde.fr]] |date=December 17, 2015 |access-date=June 10, 2016 |archive-date=August 12, 2016 |archive-url=https://web.archive.org/web/20160812222314/http://www.lemonde.fr/pixels/article/2015/12/17/undertale-elu-meilleur-jeu-video-de-l-histoire-a-la-surprise-generale_4833951_4408996.html |url-status=live}}</ref><ref name="CGR">{{cite web |url=http://completegamereviews.com/will-define-undertales-legacy/ |title=How Will We Define Undertale's Legacy? |last=Abbott |first=Josh |website=Complete Game Reviews |date=February 21, 2016 |access-date=June 10, 2016 |archive-url=https://web.archive.org/web/20180612142104/http://completegamereviews.com/will-define-undertales-legacy/ |archive-date=June 12, 2018 |url-status=dead}}</ref><ref name="DesignTrend">{{cite web |url=http://www.designntrend.com/articles/66980/20151219/legend-of-zelda-ocarina-of-time-undertale-best-game-ever-mad.htm |title='The Legend Of Zelda: Ocarina Of Time' Falls To 'Undertale' As Best Game Ever, Gamers Get Mad! |last=Groux |first=Christopher |website=Design & Trend |date=December 19, 2015 |access-date=June 10, 2016 |archive-url=https://web.archive.org/web/20160823190433/http://www.designntrend.com/articles/66980/20151219/legend-of-zelda-ocarina-of-time-undertale-best-game-ever-mad.htm |archive-date=August 23, 2016 |url-status=dead}}</ref><ref>{{cite news |url=https://www.dualshockers.com/toby-foxs-cult-classic-undertale-coming-nintendo-switch/ |title=Toby Fox's Cult Classic Undertale Coming to Nintendo Switch |date=2018-03-08 |work=DualShockers |access-date=2018-11-06 |language=en-US |archive-date=March 28, 2019 |archive-url=https://web.archive.org/web/20190328120448/https://www.dualshockers.com/toby-foxs-cult-classic-undertale-coming-nintendo-switch/ |url-status=live}}</ref><ref>{{cite news |url=https://www.theverge.com/2018/10/31/18047410/undertale-spinoff-sequel-deltarune-toby-fox |title=Cult RPG Undertale gets a surprise spinoff for Halloween |work=The Verge |access-date=2018-11-06 |archive-date=October 31, 2018 |archive-url=https://web.archive.org/web/20181031151031/https://www.theverge.com/2018/10/31/18047410/undertale-spinoff-sequel-deltarune-toby-fox |url-status=live}}</ref><ref>{{cite news |url=http://www.gamasutra.com/view/news/281395/Undertale_dev_reflects_on_what_its_like_to_have_your_game_become_a_phenomenon.php |work=[[Gamasutra]] |title=Undertale dev reflects on what it's like to have your game become a phenomenon |last=Wawro |first=Alex |access-date=2017-08-02 |language=en |url-status=live |archive-url=https://web.archive.org/web/20170803052141/http://www.gamasutra.com/view/news/281395/Undertale_dev_reflects_on_what_its_like_to_have_your_game_become_a_phenomenon.php |archive-date=August 3, 2017 |df=mdy-all}}</ref> Fox worked on the entire game independently, besides the art assets—which he asked Temmie (Tuyoki) Chang to help with—to avoid relying on others.<ref name="Game Informer">{{cite magazine |url=http://www.gameinformer.com/b/podcasts/archive/2015/10/15/gi-show-_1320_-yoshis-woolly-world_2c00_-star-wars_3a00_-battlefront_2c00_-undertale-toby-fox.aspx |title=GI Show – Yoshi's Woolly World, Star Wars: Battlefront, Undertale's Toby Fox |last=Turi |first=Tim |magazine=[[Game Informer]] |publisher=[[GameStop]] |date=October 15, 2015 |access-date=January 20, 2016 |archive-url=https://www.webcitation.org/6efj9NfZh?url=http://www.gameinformer.com/b/podcasts/archive/2015/10/15/gi-show-_1320_-yoshis-woolly-world_2c00_-star-wars_3a00_-battlefront_2c00_-undertale-toby-fox.aspx |archive-date=January 20, 2016 |url-status=dead |df=mdy-all}}</ref> He had some experience in game development before ''Undertale'', using [[RPG Maker 2000]] with his three brothers to make role-playing games and ''[[EarthBound]]'' [[ROM hack]]s in high school,<ref name="seagaia">{{cite interview |url=https://meloshantani.wordpress.com/2013/05/25/toby-foxs-undertale-dev-2-dev-interview-1/ |title=Toby Fox's Undertale – DEV 2 DEV INTERVIEW #1 |last=Han-Tani |first=Melos |website=ambient-melodic |date=May 25, 2013 |access-date=January 20, 2016 |archive-date=August 8, 2020 |archive-url=https://web.archive.org/web/20200808085010/https://meloshantani.wordpress.com/2013/05/25/toby-foxs-undertale-dev-2-dev-interview-1/ |url-status=live}}</ref><ref>{{cite magazine |url=https://www.pcgamer.com/the-making-of-undertale/ |title=The making of Undertale |date=May 5, 2018 |access-date=October 12, 2020 |magazine=[[PC Gamer]] |last=Schilling |first=Chris |archive-date=March 27, 2019 |archive-url=https://web.archive.org/web/20190327090348/https://www.pcgamer.com/the-making-of-undertale/ |url-status=live}}</ref> the most notable of which was ''Earthbound: The Halloween Hack''.<ref>{{cite web |url=http://www.hardcoregaming101.net/earthbound-the-halloween-hack/ |title=Earthbound (The Halloween Hack) – Hardcore Gaming 101 |website=www.hardcoregaming101.net |language=en-US |access-date=2018-11-04 |archive-date=November 5, 2018 |archive-url=https://web.archive.org/web/20181105061806/http://www.hardcoregaming101.net/earthbound-the-halloween-hack/ |url-status=live}}</ref> He thought of the character designs and ideas for ''Undertale'' while in college, where he drew them in his notebook.<ref>{{cite news |url=http://kotaku.com/undertale-creator-shares-notebook-full-of-early-concept-1790978697 |title=Undertale Creator Shares Notebook Full Of Early Concepts And Art |last=Alexandra |first=Heather |work=Kotaku |access-date=2017-08-02 |language=en-US |url-status=live |archive-url=https://web.archive.org/web/20170803085421/http://kotaku.com/undertale-creator-shares-notebook-full-of-early-concept-1790978697 |archive-date=August 3, 2017 |df=mdy-all}}</ref>
+
+Following its release, ''Undertale'' garnered an extensive fanbase.<ref name="RockPaperShotgun" /><ref name=":0">{{cite news |url=http://steamed.kotaku.com/undertale-creator-its-ok-if-people-dislike-the-game-1751013241 |title=Undertale Creator: It's OK If People Dislike The Game |last=Grayson |first=Nathan |work=Steamed |access-date=2017-08-02 |language=en-US |url-status=live |archive-url=https://web.archive.org/web/20170803085710/http://steamed.kotaku.com/undertale-creator-its-ok-if-people-dislike-the-game-1751013241 |archive-date=August 3, 2017 |df=mdy-all}}</ref> Fox commented that he did not mind if people stated that they did not like the game, saying that it was "not for everyone".<ref name=":0" /> Despite ''Undertale''{{'}}s awards and widespread acclaim, Fox wrote that his personal opinion was that the game was still "niche" and deserved an "8/10" review score.<ref name="RockPaperShotgun">{{cite web |url=https://www.rockpapershotgun.com/2016/09/15/undertale-launched-a-year-ago-today/ |title=8/10: Undertale Dev Reflects On Unexpected Popularity |last=O'Connor |first=Alice |date=2016-09-15 |website=Rock, Paper, Shotgun |language=en-US |access-date=2017-08-02 |url-status=live |archive-url=https://web.archive.org/web/20170803045451/https://www.rockpapershotgun.com/2016/09/15/undertale-launched-a-year-ago-today/ |archive-date=August 3, 2017 |df=mdy-all}}</ref>
+
+In 2016, Fox released a number of unused musical tracks from ''Undertale''.<ref>{{cite web |url=http://www.ign.com/articles/2016/09/16/undertale-creator-releases-unused-music-to-celebrate-1-year-anniversary |title=Undertale Creator Releases Unused Music to Celebrate 1-Year Anniversary |last=O'Brien |first=Lucy |date=2016-09-15 |website=IGN |language=en-US |access-date=2017-08-02 |url-status=live |archive-url=https://web.archive.org/web/20170803051641/http://www.ign.com/articles/2016/09/16/undertale-creator-releases-unused-music-to-celebrate-1-year-anniversary |archive-date=August 3, 2017 |df=mdy-all}}</ref> He also became a contributor to the ''A Profound Waste of Time'' magazine.<ref>{{cite web |url=https://www.destructoid.com/ashly-burch-toby-fox-and-mike-z-join-the-profound-waste-of-time-team-404852.phtml |title=Ashly Burch, Toby Fox and Mike Z join the Profound Waste of Time team |website=Destructoid |language=en |access-date=2017-08-02 |url-status=live |archive-url=https://web.archive.org/web/20170527074841/https://www.destructoid.com/ashly-burch-toby-fox-and-mike-z-join-the-profound-waste-of-time-team-404852.phtml |archive-date=May 27, 2017 |df=mdy-all}}</ref> Fox was then chosen to be part of the 2018 Games [[Forbes 30 Under 30|''Forbes'' 30 Under 30]] list for his role in creating ''Undertale''.<ref>{{cite web |url=https://www.forbes.com/profile/toby-fox/ |title=Toby Fox |website=[[Forbes]] |language=en |access-date=2017-12-03 |df=mdy-all |archive-date=December 3, 2017 |archive-url=https://web.archive.org/web/20171203153955/https://www.forbes.com/profile/toby-fox/ |url-status=live}}</ref>
+
+The success of ''Undertale'', especially in Japan, afforded Fox the opportunity to visit ''[[Super Smash Bros.]]'' creator [[Masahiro Sakurai]] at his home, where they discussed the series and played ''[[Super Smash Bros. Ultimate]]'' against each other. [[Sans (Undertale)|Sans]], a character from ''Undertale'', was later included in ''Super Smash Bros. Ultimate'' as a Mii costume available through [[downloadable content]], along with his instrumental composition "MEGALOVANIA", for which Fox provided a new arrangement.<ref>{{cite web |url=https://www.youtube.com/watch?v=DPh3HM6ofWU&t=21m16s |title=Super Smash Bros. Ultimate – Mr. Sakurai Presents "Banjo & Kazooie" |work=YouTube |access-date=2019-09-14 |language=en |archive-date=September 1, 2020 |archive-url=https://web.archive.org/web/20200901173651/https://www.youtube.com/watch?v=DPh3HM6ofWU&t=21m16s |url-status=live}}</ref><ref>{{cite web |url=https://kotaku.com/undertales-sans-joins-smash-bros-as-a-mii-fighter-cost-1837885342 |title=Undertale's Sans Joins Smash Bros. As A Mii Fighter Costume |last=Walker |first=Ian |access-date=2019-09-04 |archive-date=September 5, 2019 |archive-url=https://archive.today/20190905050610/https://kotaku.com/undertales-sans-joins-smash-bros-as-a-mii-fighter-cost-1837885342 |url-status=live}}</ref><ref>{{cite web |url=https://twitter.com/tobyfox/status/1169387070529429504 |title=tobyfox on Twitter |work=Twitter |access-date=2019-09-14 |language=en |archive-date=September 18, 2019 |archive-url=https://web.archive.org/web/20190918084327/https://twitter.com/tobyfox/status/1169387070529429504 |url-status=live}}</ref>
+
+=== ''Deltarune'' ===
+{{main|Deltarune}}
+On October 30, 2018, Fox tweeted a request for fans of ''Undertale'' to check the game's official Twitter account in 24 hours. The following day, Fox released the first chapter of the followup to ''Undertale,'' named ''Deltarune'', for free under the guise of a "survey"''.''<ref>{{cite news |url=https://www.polygon.com/2018/10/31/18044640/deltarune-free-download-undertale-game |title=Undertale creator's new game is Deltarune, a mysterious surprise |work=Polygon |access-date=2018-11-01 |archive-date=November 1, 2018 |archive-url=https://web.archive.org/web/20181101015346/https://www.polygon.com/2018/10/31/18044640/deltarune-free-download-undertale-game |url-status=live}}</ref><ref>{{cite news |url=https://www.rockpapershotgun.com/2018/11/01/deltarune-chapter-1-undertale-sequel/ |title=Deltarune Chapter 1 is the free and surprising start of a new Undertale saga |work=Rock Paper Shotgun |access-date=2018-11-01 |language=en-US |archive-date=May 2, 2019 |archive-url=https://web.archive.org/web/20190502154830/https://www.rockpapershotgun.com/2018/11/01/deltarune-chapter-1-undertale-sequel/ |url-status=live}}</ref> On November 1, Fox shared more details regarding the game, including that the rest of the chapters were expected to release simultaneously, but work had not yet started, and there was no estimated timeframe for completion.<ref name=":1">{{cite news |url=https://apptrigger.com/2018/11/01/deltarune-toby-fox-full-release-plans/ |title=Deltarune creator Toby Fox talks full release plans, upscaling |date=2018-11-01 |work=App Trigger |access-date=2018-11-13 |language=en-US |archive-date=November 13, 2018 |archive-url=https://web.archive.org/web/20181113165754/https://apptrigger.com/2018/11/01/deltarune-toby-fox-full-release-plans/ |url-status=live}}</ref> Fox also stated that he had been working on the project since 2012, and that the idea for ''Undertale'' developed from ''Deltarune'' during production.<ref name=":1" /><ref>{{cite news |url=https://twitter.com/tobyfox/status/1058382742260498433 |title=tobyfox on Twitter |work=Twitter |access-date=2018-11-13 |language=en |archive-date=December 27, 2018 |archive-url=https://web.archive.org/web/20181227034243/https://twitter.com/tobyfox/status/1058382742260498433 |url-status=live}}</ref> On June 12, 2019, as only the first chapter of ''Deltarune'' had been playable for several months, Fox expressed on his Twitter account he had hope he would complete the rest of ''Deltarune'', saying: "Slowly I'm writing and drawing it all out."<ref>{{cite news |url=https://twitter.com/tobyfox/status/1138835212425682945 |title=Deltarune update from creator's Twitter counter |work=Twitter |access-date=2019-06-12 |archive-date=December 14, 2019 |archive-url=https://web.archive.org/web/20191214183924/https://twitter.com/tobyfox/status/1138835212425682945 |url-status=live}}</ref> He stated that he has written "about 50 songs past Chapter 1".<ref>{{cite news |url=https://twitter.com/tobyfox/status/1138825844728709123 |title=Deltarune update from creator's Twitter counter |work=Twitter |access-date=2019-06-12 |archive-date=June 15, 2019 |archive-url=https://web.archive.org/web/20190615031127/https://twitter.com/tobyfox/status/1138825844728709123 |url-status=live}}</ref>
+
+On September 17, 2021, Fox released the second chapter of ''Deltarune'' for free since "the world has been really tough for everybody recently", referring to the struggles of the [[COVID-19 pandemic]]. He plans to release the next three chapters simultaneously with a price greater than ''Undertale'', but without any projected release date.<ref>{{cite news |url=https://deltarune.com/update-092021 |title=DELTARUNE Status Update Sept 2021 |work=Deltarune |access-date=2021-09-18}}</ref>
+
+== Personal life ==
+A native of [[Manchester, New Hampshire]], Fox studied environmental science at [[Northeastern University]].<ref name="Union Leader" /> He suffers from [[Chronic pain|chronic wrist and hand pain]] that regularly disables him from programming and composing; Fox cited a flareup of this pain as a factor in the delayed development of ''Deltarune''{{'s}} second chapter.<ref>{{cite web |url=https://undertale.com/deltarune-update-092020/ |title=DELTARUNE Status Update – September 2020 |date=September 15, 2020 |access-date=January 20, 2021 |archive-date=January 20, 2021 |archive-url=https://web.archive.org/web/20210120033544/https://undertale.com/deltarune-update-092020/ |url-status=live}}</ref>
+
+== Works ==
+{| class="wikitable sortable"
+! scope="col" | Year
+! scope="col" | Media title
+! scope="col" | Role
+|-
+|2006–2008
+|''[[EarthBound|Earthbound]]'' Hacks<br />(''Segment: Arn's Winter Quest: Gway Edition'', and ''Halloween Hack: Bad Fur Day Edition'')
+|Writer, composer, director, designer, programmer
+|-
+|2009–2016
+|''[[Homestuck]]''
+|Composer
+|-
+|2010
+|''The Baby is You''
+|Writer, composer
+|-
+|2012
+|I Miss You – EarthBound 2012
+|Composer
+|-
+| rowspan="2" |2015
+|''[[Undertale]]''
+|Writer, composer, director, designer, programmer
+|-
+|''Potion Shop''
+|Composer
+|-
+|2016
+|''Rose of Winter''
+|Composer
+|-
+|2017
+|''[[Hiveswap]]: Act 1''
+|Composer
+|-
+| rowspan="2" |2018
+|''[[Deltarune|Deltarune: Chapter 1]]''
+|Writer, composer, director, designer, programmer
+|-
+|''Hiveswap Friendsim''
+|Guest composer
+|-
+| rowspan="6" |2019
+|''[[Escaped Chasm]]''<ref>{{cite magazine |title=Escaped Chasm is a free game about loneliness from Undertale's artist |url=https://www.pcgamer.com/escaped-chasm-is-a-free-game-about-loneliness-from-undertales-artist/ |last=Brown |first=Fraser |date=2019-04-03 |magazine=PC Gamer |language=en-US |access-date=2020-05-18 |archive-date=June 5, 2020 |archive-url=https://web.archive.org/web/20200605013503/https://www.pcgamer.com/escaped-chasm-is-a-free-game-about-loneliness-from-undertales-artist/ |url-status=live}}</ref>||Composer
+|-
+|''[[YIIK: A Postmodern RPG]]''
+|Guest composer
+|-
+|''[[Super Smash Bros. Ultimate]]''
+|Guest composer
+|-
+|''[[Little Town Hero]]''
+|Composer
+|-
+|''[[Pokémon Sword and Shield]]''
+|Guest composer
+|-
+|''Pesterquest''
+|Guest composer
+|-
+| rowspan="5" |2020
+|''[[Dweller's Empty Path]]''
+|Composer
+|-
+|''Hiveswap: Act 2''
+|Composer
+|-
+|''[[Omori (video game)|Omori]]''
+|Guest composer
+|-
+|Hobonichi Mother Project
+|Illustrator
+|-
+|[[Hirokazu Tanaka|Chip Tanaka]]/Hammerhead Shark Song
+|Animator
+|-
+| rowspan="1" |2021
+|''[[Deltarune|Deltarune: Chapter 2]]''
+|Writer, composer, director, designer, programmer
+|-
+|}
+
+== References ==
+{{reflist}}
+
+{{MSPA}}
+{{UNDERTALE}}
+{{Authority control}}
+
+{{DEFAULTSORT:Fox, Toby}}
+[[Category:Living people]]
+[[Category:1991 births]]
+[[Category:American electronic musicians]]
+[[Category:American male composers]]
+[[Category:American video game designers]]
+[[Category:Independent video game developers]]
+[[Category:Northeastern University alumni]]
+[[Category:Musicians with physical disabilities]]
+[[Category:People from Massachusetts]]
+[[Category:Video game composers]]
+[[Category:Video game directors]]
+[[Category:Video game writers]]
+[[Category:Undertale]]

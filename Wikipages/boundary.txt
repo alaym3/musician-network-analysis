@@ -1,0 +1,61 @@
+{{wiktionary}}
+'''Boundary''' or '''Boundaries''' may refer to:
+{{TOC right}}
+
+* [[Border]], in political geography
+
+==Entertainment==
+*[[Boundaries (2016 film)|''Boundaries'' (2016 film)]], a 2016 Canadian film
+*[[Boundaries (2018 film)|''Boundaries'' (2018 film)]], a 2018 American-Canadian road trip film
+
+==Mathematics and physics==
+*[[Boundary (topology)]], the closure minus the interior of a subset of a topological space; an edge in the topology of manifolds, as in the case of a 'manifold with boundary'
+*[[Boundary (graph theory)]], the vertices of edges between a subgraph and the rest of a graph
+*[[Boundary (chain complex)]], its abstractization in chain complexes
+*[[Boundary value problem]], a differential equation together with a set of additional restraints called the boundary conditions
+*[[Boundary (thermodynamic)|Boundary (thermodynamics)]], the edge of a thermodynamic system across which heat, mass, or work can flow
+
+==Psychology and sociology==
+*[[Personal boundaries]], a life skill for protecting against having personal values compromised or violated
+*[[Boundaries of the mind]], the degree of separateness between fantasy and reality
+*[[Professional boundaries]], relationship between any professional and their client
+*[[Symbolic boundaries]], a theory of how people form social groups proposed by cultural sociologists
+*[[Boundary-work]], sociology of divisions between fields of knowledge
+
+==Places==
+*[[Boundary, Derbyshire]], a civil parish and hamlet in South Derbyshire, England
+*[[Boundary, Leicestershire]], a village in Leicestershire, England
+*[[Boundary, Staffordshire]], a village in Staffordshire, England
+*[[Boundary Ranges]], also known as the Boundary Range, a mountain range in British Columbia, Canada and Alaska, United States
+*[[Boundary County, ID]], the northernmost county in Idaho
+*[[Boundary Country]], a region of southern British Columbia, Canada
+**[[Kootenay Boundary Regional District]], a regional district in British Columbia
+**[[West Kootenay-Boundary]], a provincial electoral district in British Columbia
+**[[Okanagan-Boundary]], a former provincial electoral district in British Columbia
+**[[Boundary-Similkameen]], a former provincial electoral district in British Columbia
+*[[Boundary Falls, British Columbia]], also known as Boundary, a former railway town in the Boundary Country of British Columbia
+*[[Boundary Waters]], a region on the boundary between Ontario and Minnesota
+*[[Stikine, British Columbia]], called Boundary from 1930 to 1964, a former customs post on the Stikine River at the Alaska–British Columbia border
+*[[Boundary City, Indiana]], a community in the United States
+
+==Sports==
+
+*[[Boundary (cricket)]], the edge of the playing field, or a scoring shot where the ball is hit to or beyond that point
+*[[Boundary (sports)]], the sidelines of a field
+
+==Other uses==
+*{{MV|Boundary}}, a number of ships with this name
+*[[Boundaries in landscape history]], the divide between areas of differing land used
+*[[Boundary (real estate)]], the legal boundary between units of real property
+*[[Boundary (company)]], an American application performance management company
+*[[Boundary critique]], a concept about the meaning and validity of propositions
+*[[Communication privacy management theory|Boundary turbulence]], a break in expectation of how private information is held within a group of knowledge owners
+*Boundary Ale, a beer made by [[Moosehead Breweries]]
+*Geological boundary, a boundary between different [[geological unit]]s
+
+==See also==
+* [[Boundary representation]]
+* [[Bound (disambiguation)]]
+* [[The Boundary (disambiguation)]]
+
+{{disambiguation|geo}}

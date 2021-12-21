@@ -1,0 +1,181 @@
+{{expand language|topic=|langcode=IT|otherarticle=Blanco (cantante)|date=September 2021}}
+{{Infobox musical artist
+| name            = Blanco
+| image           = 
+| caption         =
+| birth_name      = Riccardo Fabbriconi
+| birth_date      = 10 February 2003
+| birth_place     = [[Calvagese della Riviera]], [[Lombardy]], Italy
+| genre           = {{hlist|[[Hip hop music|Hip hop]]|[[Trap music|trap]]|[[rapcore]]}}
+| occupation      = {{hlist|Singer|rapper|songwriter}}
+| years_active    = 2020–present
+| label           = [[Universal Music Group|Universal]]
+| associated_acts =
+| instrument      =
+| website         = 
+}}
+'''Riccardo Fabbriconi''', known professionally as '''Blanco''' (born 10 February 2003) is an Italian singer and rapper.<ref>{{Cite web|url=https://www.redbull.com/it-it/chi-e-blanco|title= Chi è Blanco: la vita del cantante de La Canzone Nostra|first=Claudio|last=Biazzetti|work=[[Red Bull]]|date=19 May 2021|access-date=29 September 2021}}</ref>
+
+He debuted with the [[studio album]] ''Blu celeste'' in Septembre 2021, which peaked at number one of [[Federazione Industria Musicale Italiana|FIMI]]'s album chart.<ref>{{Cite web|url=https://www.rollingstone.it/musica/interviste-musica/ma-sei-normale-blanco/581916/|title=Ma sei normale, Blanco?|first=Claudio|last=Todesco|work=[[Rolling Stone]]|date=10 September 2021|access-date=29 September 2021}}</ref> His most successful song, "[[Mi fai impazzire]]", topped the Italian single chart for eight weeks and was certified quintuple platinum in Italy.<ref>{{Cite web|url=https://tg24.sky.it/spettacolo/musica/2021/06/18/blanco-sfera-ebbasta-mi-fai-impazzire-testo|title=Blanco e Sfera Ebbasta, il testo di Mi fai impazzire il nuovo singolo|work=[[Sky TG24]]|date=18 June 2021|access-date=29 September 2021}}</ref><ref>{{Cite web|url=https://4quartimagazine.it/classifiche-mi-fai-impazzire-singolo-piu-venduto/|title=Classifiche: "Mi fai impazzire" è il singolo più venduto in Italia|first=Andrea|last=Picariello|work=4Quarti Magazine|date=26 July 2021|access-date=29 September 2021}}</ref>
+
+== Discography ==
+=== Studio albums ===
+{|class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with chart positions and certifications
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:20em;"| Album details
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2"| Certifications
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Federazione Industria Musicale Italiana|ITA]]<br/><ref name="Italian Albums Chart">{{cite web|url=https://italiancharts.com/search.asp?cat=a&search=Blanco|publisher=Italiancharts.com. Hung Medien|accessdate=29 September 2021|title=Italian Charts - Blanco - Albums}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Swiss Hitparade|SWI]]<br/><ref name="SWI">{{cite web|url=https://hitparade.ch/showinterpret.asp?interpret=Blanco|title=Discographie Blanco|website=swisscharts.com|accessdate=29 September 2021}}</ref>
+|-
+!scope="row"|''Blu celeste''
+|
+*Released: 10 September 2021
+*Label: [[Universal Music Group|Universal]]
+*Format: CD, LP, digital download, streaming
+| 1 || 11
+|
+*[[Federazione Industria Musicale Italiana|FIMI]]: 2× Platinum<ref>{{Cite web|url=https://www.fimi.it/top-of-the-music/certification-form.kl#/certificationform/9265|title=Blu celeste|work=FIMI|access-date=2 November 2021}}</ref>
+|-
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+|+List of singles as lead artist, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Federazione Industria Musicale Italiana|ITA]]<br/><ref name="Italy">{{Cite web|url=http://italiancharts.com/search.asp?cat=s&search=Blanco|publisher=Italiancharts.com. Hung Medien|accessdate=29 September 2021| title=Italian Charts – Blanco – Singles}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Swiss Hitparade|SWI]]<br/><ref>{{cite web|url=http://swisscharts.com/artist/Blanco#charts|title=Blanco Charts|website=swisscharts.com|accessdate=29 September 2021}}</ref>
+
+|-
+! scope="row"| "Belladonna (Adieu)"
+| rowspan="3"| 2020
+| — || — 
+|
+| {{n/a|Non-album single}}
+|-
+! scope="row"| "Notti in bianco"
+| 2 || — 
+|
+* [[Federation of the Italian Music Industry|FIMI]]: 5× Platinum
+| rowspan="2"| ''Blu celeste''
+|-
+! scope="row"| "Ladro di fiori"
+| 16 || — 
+|
+* FIMI: Platinum
+|-
+! scope="row"| "La canzone nostra"<br/>{{small|(with Mace and [[Salmo (rapper)|Salmo]])}}
+| rowspan="4"| 2021
+| 1 || — 
+|
+* FIMI: 5× Platinum
+| {{n/a|Non-album single}}
+|-
+! scope="row"| "Paraocchi"
+| 3 || — 
+|
+* FIMI: 3× Platinum
+| ''Blu celeste''
+|-
+! scope="row"| "[[Mi fai impazzire]]"<br/>{{small|(with [[Sfera Ebbasta]])}}
+| 1 || 56
+|
+* FIMI: 5× Platinum
+| {{n/a|Non-album single}}
+|-
+! scope="row"| "Blu celeste"
+| 1 || — 
+|
+* FIMI: 2× Platinum
+| ''Blu celeste''
+|-
+| colspan="20" style="text-align:center; font-size:85%;"| "—" denotes a single that did not chart or was not released.
+|}
+
+===Guest appearances===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+|+ List of non-single appearances on compilation albums or other artists' albums, with chart positions, album name and certifications
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Federazione Industria Musicale Italiana|ITA]]<br/><ref name="Italy"/>
+|-
+! scope="row"| "Tutti muoiono"<br>{{small|([[Madame (rapper)|Madame]] featuring Blanco)}}
+| 2021
+| 28 
+|
+| ''[[Madame (album)|Madame]]''
+|}
+
+===Other charted songs===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+|+List of charting songs that were never released as singles, showing year released and album name
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Federazione Industria Musicale Italiana|ITA]]<br/><ref name="Italy"/>
+|-
+! scope="row"| "Sai cosa c'è"
+| rowspan="8"| 2021
+| 4 
+|
+* FIMI: Gold
+| rowspan=8|''Blu celeste''
+|-
+! scope="row"| "Lucciole"
+| 5 
+|
+* FIMI: Gold
+|-
+! scope="row"| "Mezz'ora di sole"
+| 6 
+|
+|-
+! scope="row"| "Figli di puttana"
+| 8 
+|
+|-
+! scope="row"| "Finché non mi seppelliscono"
+| 9 
+|
+|-
+! scope="row"| "Pornografia (Bianco paradiso)"
+| 10 
+|
+|-
+! scope="row"| "Afrodite"
+| 15 
+|
+|-
+! scope="row"| "David"
+| 19 
+|
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:Italian rappers]]
+[[Category:Living people]]
+[[Category:21st-century Italian male  singers]]
+[[Category:2003 births]]
+
+{{Italy-singer-stub}}

@@ -1,0 +1,54 @@
+{{Infobox musical artist
+| name            = Trey Lewis
+| image           =
+| image_upright   =
+| image_size      =
+| landscape       =
+| alt             =
+| caption         =
+| birth_name      =
+| birth_date      = {{Birth based on age as of date|33|2020|12|11}}<ref name="stefano">{{cite web | url=https://tasteofcountry.com/who-is-trey-lewis/ | title=Trey Lewis' story is so much deeper than his TikTok hit | publisher=Taste of Country | date=December 11, 2020 | accessdate=December 16, 2020 | author=Angela Stefano}}</ref>
+| birth_place     = [[Birmingham, Alabama]], U.S.<ref name="stefano"/>
+| origin          =
+| genre           = [[Country music|Country]]
+| occupation      = Singer-songwriter
+| instrument      = Vocals
+| years_active    = 2020–present
+| label           = Trey Lewis
+| associated_acts = 
+}}
+'''Trey Lewis''' (born ca. 1987) is an American [[country music]] singer. Lewis first gained attention in 2020 for his self-released single "[[Dicked Down in Dallas]]".
+
+==Biography==
+Trey Lewis was born in [[Birmingham, Alabama]] around 1987. He aspired to be a country music singer since childhood, citing [[Garth Brooks]] as an influence. Lewis stated that he had never played guitar until after completing [[drug rehabilitation|rehabilitation]] for an alcohol addiction, at which point he began playing guitar while holding a job at a smoothie shop. From this, he moved to [[Nashville, Tennessee]] to begin performing at bars and writing songs. He met songwriters Brent Gafford, Drew Trosclair, and Matt McKinney, who provided him with a song idea they had called "Gone Back to Dallas". The writers then decided to add references to sex acts in the lyrics and thus rename the song "Dicked Down in Dallas";<ref>{{cite web | url=https://www.rollingstone.com/music/music-country/dicked-down-in-dallas-song-trey-lewis-1102458/ | title=How a Country Song About Getting Drilled Became a Viral NSFW Hit | publisher=Rolling Stone Country | date=December 11, 2020 | accessdate=December 16, 2020 | author=Jon Freeman}}</ref> they did this to appeal the song to Lewis, whom they knew liked to insert profanity into his cover songs in concert. When the song proved successful in concert, he recorded a studio version which was produced by Alex Maxwell and Grady Saxman. The song gained further attention in 2020 when fans began recording [[TikTok]] videos using it.<ref name="stefano"/> By December 2020, "Dicked Down in Dallas" had entered the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] chart at No. 12.<ref name="billboard"/> The ''[[Los Angeles Times]]'' included "Dicked Down in Dallas" on its list of the worst songs of 2020, criticizing its [[slut-shaming]] lyrics.<ref>{{Cite web|url=https://www.latimes.com/entertainment-arts/music/story/2020-12-21/worst-music-2020-gal-gadot-imagine-david-guetta|title=The worst music of 2020: 10 miserable songs from the miserablest year|work=[[Los Angeles Times]]|date=December 21, 2020|first1=August|last1=Brown|first2=Suzy|last2=Exposito| first3=Randall|last3=Roberts|first4=Mikael|last4=Wood|access-date=January 6, 2021}}</ref> Lewis also recorded and released the remix version of "Dicked Down in Dallas", which features guest vocals from [[country rap]] artist Rvshvd, on April 13, 2021.<ref>{{Cite web|url=https://music.apple.com/us/album/dicked-down-in-dallas-with-rvshvd-single/1560021214|title=Dicked Down in Dallas (With RVSHVD) - Single by Trey Lewis & RVSHVD|date=13 April 2021}}</ref>
+
+==Discography==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Single
+! colspan="3"| Peak chart<br />positions
+|- style="font-size:smaller;"
+! width=45| [[Billboard Hot 100|US]]<br /><ref>{{cite web|url= https://www.billboard.com/charts/hot-100/2020-12-12|title=Billboard Hot 100 - Week of December 12, 2020|work=[[Billboard (magazine)|Billboard]]|accessdate=January 2, 2021}}</ref>
+! width="45"| [[Hot Country Songs|US<br/>Country]]<br/><ref name="billboard">{{cite web|url=https://bulletins.billboard.com/country/country_update_1214.pdf|title=Country Update|work=Billboard|accessdate=December 16, 2020}}</ref>
+
+! width="45"| [[Hot Canadian Digital Songs|CAN<br />Digital]]<br /><ref name="Canada Digital">{{cite web|url=https://www.billboard.com/charts/hot-canada-digital-song-sales/2020-12-12|title=Hot Canadian Digital Song Sales - Week of December 12, 2020|work=[[Billboard (magazine)|Billboard]]}}</ref>
+|-
+| 2020
+! scope="row"| "[[Dicked Down in Dallas]]"
+| 65
+| 12
+| 2
+|}
+
+==References==
+{{Reflist}}
+
+
+{{DEFAULTSORT:Lewis, Trey}}
+[[Category:1980s births]]
+[[Category:American country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Alabama]]
+[[Category:Living people]]
+[[Category:People from Birmingham, Alabama]]

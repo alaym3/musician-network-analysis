@@ -1,0 +1,718 @@
+{{Short description|English musician, producer, entrepreneur and teacher}}
+{{about|the musician|the filmmaker|Tom Dolby|the inventor of the noise reduction system|Ray Dolby}}
+{{Use British English|date=August 2014}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox musical artist
+| name             = Thomas Dolby
+| background       = solo_singer
+| image            = Thomas_Dolby_2018.jpg
+| caption          = Dolby performing in 2018
+| landscape        = yes
+| birth_name       = Thomas Morgan Robertson
+| birth_date       = {{Birth date and age|df=yes|1958|10|14}}
+| birth_place      = [[London]], England
+| genre            = [[New wave music|New wave]], [[synthpop]]
+| occupation       = Singer-songwriter, musician, record producer, composer, entrepreneur, teacher, musical director
+| years_active     = 1979–present
+| instrument       = Keyboards, vocals
+| label            = [[Capitol Records|Capitol]]/[[EMI|EMI Records]], [[Giant Records (1990)|Giant]]/[[Warner Bros. Records]], [[Invisible Hands Music]], [[The Echo Label|Echo]], [[BMG Records]] UK
+| associated_acts  = [[Foreigner (band)|Foreigner]], [[David Bowie]], [[Roger Waters]], [[Joni Mitchell]], [[Prefab Sprout]], [[Whodini]], [[Def Leppard]], [[George Clinton (funk musician)|George Clinton]]
+| website          = {{url|thomasdolby.com}}
+}}
+
+'''Thomas Morgan Robertson''' (born 14 October 1958), known by the stage name '''Thomas Dolby''', is an English musician, producer, composer, entrepreneur and teacher. 
+
+Dolby came to prominence in the 1980s, releasing hit singles including "[[She Blinded Me with Science]]" (1982) and "[[Hyperactive!]]" (1984). He has also worked as a producer and as a [[session musician]]. 
+
+In the 1990s, Dolby founded Beatnik, a [[Silicon Valley]] software company whose technology was used to play internet music and later polyphonic ringtones, including the [[Nokia tune]]. He was also the music director for the [[TED (conference)|TED Conference]]. On faculty at the [[Peabody Institute]] at [[Johns Hopkins University]] since 2014, Dolby leads Peabody's Music for New Media program, which enrolled its first students in the fall of 2018.
+
+==Early life==
+Dolby was born Thomas Morgan Robertson in [[London]], England, to (Theodosia) Cecil, ''née'' Spring Rice (1921–1984) and [[Martin Robertson]] (1911–2004),<ref>{{Cite ODNB| url= http://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-94618 |title= Robertson, (Charles) Martin (1911–2004), archaeologist and poet|last=Boardman|first= John|date= 2008-01-03|volume=1|language=en|doi=10.1093/ref:odnb/94618}}</ref> an internationally distinguished professor of classical Greek art and archaeology at the [[University of London]], [[Oxford University]], and [[Trinity College, Cambridge]]. In at least one interview in the 1980s, Dolby claimed, "I was born in Cairo, because my father is an archeologist"<ref>{{cite web| url= http://articles.chicagotribune.com/1985-06-23/entertainment/8502100079_1_stations-music-etruscan| title=Seriously, Folks, Thomas Dolby's Actually A Typical Englishman--loony| work= [[Chicago Tribune]]| date=23 June 1985}}</ref> — many subsequent articles have republished or reprinted this spurious claim.
+
+In his youth, Dolby lived or worked in France, Italy, and [[Greece]].<ref>"Thomas Dolby, Intuition and Motion", Freff, musician, May 1984, p. 43</ref> He attended [[Abingdon School]] from 1975 to 1976, where he completed his [[A Levels]].<ref>{{cite web |url=http://blog.thomasdolby.com/?p=532 |title=More Radiohead... and Shane MacGowan |access-date=21 April 2008 |website= Blog.thomasdolby.com |url-status=dead |archive-url= https://web.archive.org/web/20110717051615/http://blog.thomasdolby.com/?p=532 |archive-date=17 July 2011}}</ref> One of his first jobs was a part-time position at a fruit and vegetable shop.<ref name="fruit"/>
+
+Dolby spoke of his early musical experiences in a 2012 interview:
+{{Quote|I sang in a choir when I was 10 or 11, and learned to sightread single lines, but other than that I don't have a formal education. I picked up the guitar initially, playing folk tunes—Dylan—then I graduated to piano when I got interested in jazz, listening to people like [[Oscar Peterson]], [[Dave Brubeck]], [[Bill Evans]], [[Thelonious Monk]], and so on. The first electronic instruments started to become accessible in the mid-70s, and I got my hands on a kit built synthesizer and never looked back.<ref>{{cite web| url= http://onedublin.org/2012/04/14/thomas-dolby-on-music-education-and-the-evolution-of-the-music-industry/| title=Thomas Dolby on Music Education and the Evolution of the Music Industry|date=14 April 2012 |website=OneDublin.org}}</ref>}}
+
+==Stage name==
+The stage name Thomas Dolby originated from a nickname that he picked up in the early 1970s, when he was "always messing around with keyboards and tapes."<ref name="RBMARFireside">{{cite AV media|people=Thomas Dolby|url=http://www.rbmaradio.com/shows/thomas-dolby-fireside-chat|access-date=27 April 2013|format=webcast audio|title=Thomas Dolby|time=01:50|publisher=Red Bull Music Academy Radio}}</ref> His friends nicknamed him "Dolby", from the name of the [[Dolby noise-reduction system|audio noise-reduction]] process of [[Dolby Laboratories]] used for audio recording and playback. He adopted the stage name "Thomas Dolby" to avoid confusion with British singer [[Tom Robinson]], who was popular when he began his career. Early publicity implied that "Dolby" was a middle name, and that the artist's full name was Thomas Morgan Dolby Robertson;<ref>{{cite journal|last=Cohn|first=Stuart |title=Thomas Dolby: A Techno-Geek Aims for 'An Emotional Event'|journal=Record|date=June 1983|volume=2|issue=8|page=4}}</ref> this is legally incorrect, but he does sometimes informally go by the initials TMDR.<ref name="fruit"/>
+
+After the release of "She Blinded Me with Science," Dolby Laboratories expressed concern regarding the musician's stage name. Dolby's record label refused to make him change his name, and Dolby Labs did not raise the issue again until later. After a lengthy legal battle, the court decided that Dolby Labs had no right to restrict the musician from using the name. It was agreed that the musician would not release any electronic equipment using the name.<ref name="Michael Davis 2008, p. 38">{{cite book | editor-first= Ernie | editor-last = Rideout | title=Keyboard Presents The Best of The '80s|publisher=Backbeat Books|year=2008|page=38}}</ref> Inventor/founder Dr. [[Ray Dolby]] had a son named [[Tom Dolby|Thomas]], now a novelist and filmmaker professionally known as Tom Dolby.<ref name="fruit"/>
+
+==Solo music career==
+Dolby is associated with the [[New wave music|new wave]] movement of the early 1980s, a form of pop music incorporating [[electronic instrument]]s, but Dolby's work covers a wide range of [[musical style]]s and moods distinct from the high-energy pop sound of his few, better-known commercial successes.<ref name="fruit"/>
+
+===''The Golden Age of Wireless''===
+Originally released in the UK and US including the songs "[[Europa and the Pirate Twins]]," "Airwaves," and "Radio Silence," the first releases of Dolby's first solo album, ''[[The Golden Age of Wireless]]'' (Harvest, 1982) did not include the album's signature hit, "[[She Blinded Me with Science]]." After the five-song EP ''[[Blinded by Science]]'' introduced the catchy single, ''The Golden Age of Wireless'' was re-released with the single that, combined with its accompanying video, became Dolby's most commercially successful single, reaching No.&nbsp;5 on the [[Billboard Hot 100|''Billboard'' Hot 100]].<ref>{{cite web|last=Raggett |first=Ned |url=http://www.allmusic.com/album/the-golden-age-of-wireless-mw0000189796 |title=The Golden Age of Wireless – Thomas Dolby : Songs, Reviews, Credits, Awards |publisher=[[AllMusic]] |access-date=5 February 2013}}</ref> The album was released a total of five times, each with changes in song order and included songs, or even including a different version of "Radio Silence" or extended remix of "She Blinded Me with Science."<ref name="fruit"/>
+
+Dolby's debut album peaked at No.&nbsp;13 on the [[Billboard 200|''Billboard'' album chart]].<ref>{{cite web| url= http://www.allmusic.com/album/the-golden-age-of-wireless-mw0000189796/awards |title=The Golden Age of Wireless – Thomas Dolby : Awards |publisher=[[AllMusic]] |access-date=5 February 2013}}</ref> It juxtaposed themes of radio technology, aircraft, and naval submarines with those of relationships and nostalgia.<ref>{{cite web |last=Stannard |first=Joseph |url=http://drownedinsound.com/in_depth/4137962-thomas-dolby--reflections-on-the-golden-age-of-wireless-and-the-flat-earth |title=Thomas Dolby: reflections on The Golden Age of Wireless and The Flat Earth / In Depth |website=Drowned in Sound |date=28 September 2009 |access-date=5 February 2013 |archive-date=15 February 2013 |archive-url=https://web.archive.org/web/20130215065235/http://drownedinsound.com/in_depth/4137962-thomas-dolby--reflections-on-the-golden-age-of-wireless-and-the-flat-earth |url-status=dead }}</ref> While much of the album's instrumentation is synthesizers and samplers, the album credits a long list of guest musicians as well, with instruments ranging from harmonica and violin to guitar and percussion.<ref name="fruit"/>
+
+===Dolby's Cube===
+Beginning in 1983, Dolby collaborated with a number of artists in an occasional studio-bound project called Dolby's Cube. The project had no set line-up, and was essentially a forum for Dolby to release material that was more dance-oriented. Dolby's Cube released a single in 1983 ("Get Out of My Mix"), another in 1985 ("May the Cube Be with You"), and performed soundtrack work for the film ''[[Howard the Duck (film)|Howard the Duck]]'' in 1986. Collaborators in Dolby's Cube at various junctures included [[Lene Lovich]], [[George Clinton (funk musician)|George Clinton]] of [[Parliament-Funkadelic]], [[Francois Kevorkian]], and [[Lea Thompson]].
+
+===''The Flat Earth''===
+In 1984, Dolby released his second LP, ''[[The Flat Earth]]'' (Capitol), which peaked at No.&nbsp;14 on the [[UK Albums Chart]] and at No.&nbsp;35 on the ''Billboard'' album chart in the US. Utilizing a wide range of influences ranging from nostalgic jazz, funk-tinged Motown R&B, and [[world music]] along with a strong electronic element<ref>{{cite web|last=Swan |first=Glenn |url=http://www.allmusic.com/album/the-flat-earth-mw0000650083 |title=The Flat Earth – Thomas Dolby : Songs, Reviews, Credits, Awards |publisher= AllMusic |date=4 December 2010 |access-date=5 February 2013}}</ref> and featuring a slew of guest musicians, including longtime Dolby collaborator [[Matthew Seligman]] on bass, Kevin Armstrong on guitar, and Clif Brigden on percussion, and guest vocals from [[Robyn Hitchcock]], [[Bruce Woolley]] and others, ''The Flat Earth'' further established Dolby's wide range of talents as musician, songwriter, and producer. The album also included a cover of the [[Dan Hicks (singer)|Dan Hicks]] song "I Scare Myself."
+
+"Hyperactive!"<ref name="fruit"/> was the first and most successful single from the album, peaking at No.&nbsp;17 on the [[UK Singles Chart]], making it Dolby's highest-charting single in his home country.
+
+===''Aliens Ate My Buick''===
+In contrast to the overall introverted nature of ''The Flat Earth'', Dolby described his next release, ''[[Aliens Ate My Buick]]'' (1988):
+{{quote|I think it's very bold. Some people who've known my stuff from the beginning find it a bit hard to stomach. They think it's a bit brash. It's certainly unsubtle in a lot of ways. It goes for the jugular. There was always a side to the stuff that I did that was very extroverted and wacky. The flip side of the coin was the more atmospheric, moody stuff. There was always room for both of them. But this album, with the exception of maybe one song ["Budapest by Blimp"], is all on the extrovert side.<ref name="Michael Davis 2008, p. 38"/>}}
+
+''Aliens Ate My Buick'' was strongly funk and dance influenced. The first single was "Airhead", a satirical song about a stereotypical young-and-rich Californian woman, which peaked at No.&nbsp;53. The second single, "Hot Sauce", a [[cover version]] of a [[George Clinton (funk musician)|George Clinton]] song, peaked at No.&nbsp;80. Another single, "My Brain Is Like A Sieve," peaked at No.&nbsp;89 on the UK Singles Chart.<ref>{{cite web|last=Ruhlmann |first=William |url= http://www.allmusic.com/album/aliens-ate-my-buick-mw0000196285 |title=Aliens Ate My Buick – Thomas Dolby : Songs, Reviews, Credits, Awards |publisher=[[AllMusic]] |access-date=5 February 2013}}</ref> The album was co-produced by [[Bill Bottrell]], and featured Terry Jackson on bass guitar.
+
+===''Astronauts & Heretics''===
+For ''[[Astronauts & Heretics]]'' (Virgin UK), Dolby expanded even further stylistically, starting the songwriting process at the piano, then again collaborating with a variety of guest musicians. Both [[Bob Weir]] and [[Jerry Garcia]] played guitar on "The Beauty of a Dream". [[Eddie Van Halen]] plays on "Eastern Bloc" and "Close but No Cigar." Other collaborators included [[Jimmy Z]] on sax, [[Budgie (drummer)|Budgie]] on drums and [[Leland Sklar]] on bass guitar. Terry Jackson also contributed bass guitar on four songs before his 1991 death in a plane accident with seven other members of [[Reba McEntire]]'s support band for her "For My Broken Heart" tour. <!-- The Funk/Guaracha rhythm guitar on "That's Why People Fall in Love" was delivered by Acid Latin creator Thomas Guzman-Sanchez of Rhythm Tribe (VRL MUZIC) -->
+
+The highest-charting song off this album was "Close but No Cigar," which reached No.&nbsp;22 on the UK charts. Two other songs on the album, "I Love You Goodbye," and "Silk Pyjamas" employed [[Zydeco]] influences, courtesy of [[Crowley, Louisiana]] and guest musicians [[Michael Doucet]] of [[BeauSoleil]] on violin, [[Wayne Toups]] on accordion, and Al Tharp on banjo. Even though some recording for the album was done in remote locations, the bulk of ''Astronauts & Heretics'' was recorded at [[NRG Recording Studios]] with input from trusted Dolby co-producer Bill Bottrell, and mixed down at Smoke Tree Studios in [[Chatsworth, California]].<ref name=":0" />
+
+===''The Sole Inhabitant''===
+[[File:Thomas Dolby.jpg|right|thumbnail|upright|Dolby performing in 2006]]
+Following his involvement in Beatnik Inc, Dolby returned to his musical career in 2006. He performed his first solo public show in 15 years at the Red Devil Lounge in [[San Francisco]], California, on 21 January 2006, surprising the crowd who were there to see local band Notorious. He then launched an American tour, the Sole Inhabitant Tour, on 12 April, comprising a string of small dates in California, a science education benefit in [[Boulder, Colorado]], and gigs across America before receptive crowds.
+
+The United States leg of the "Sole Inhabitant Tour 2006" was captured on a "live" CD and DVD. The CD represents a recording of two gigs played by Dolby at Martyrs in Chicago, while the DVD was filmed at the Berklee Performance Center at [[Berklee College of Music]]. The DVD also includes a 30-minute interview and a lecture by Dolby at the college. Both the CD and DVD were released in November 2006. Dolby autographed and numbered the first 1,000 copies of the CD and DVD.
+
+A show at the 800 capacity [[Scala (club)|Scala]] club in London was booked for 3 July 2006 as a warm-up for Dolby's Hyde Park set opening for [[Depeche Mode]]. The show sold out in a matter of days and prompted Dolby to reprioritise the UK, resulting in him moving with his family from California back to England, and a nine-date Sole Inhabitant tour of the UK in October 2007, coinciding with the release of a lavish box set of the Sole Inhabitant CD and DVD by UK independent label [[Invisible Hands Music]].
+
+Thomas toured throughout the months of November and December 2006 with electronic musician [[Brian Transeau|BT]]. This tour included a version of "Airwaves" that BT added his own technique to, which was the opening song on the UK leg of the Sole Inhabitant tour (''sans'' BT).
+
+Thomas Dolby's performance of 15 March 2007 at the [[SxSW]] festival<ref>Zahlaway, Jon. [https://archive.today/20071024164332/http://www.livedaily.com/news/11743.html SXSW Review: Thomas Dolby at Elysium], [[LiveDaily]] 2007-03-15. Retrieved 5 May 2009</ref> was released as the live EP ''Thomas Dolby & The Jazz Mafia Horns, Live at SxSW'' (with musicians from San Francisco's [[Jazz Mafia]] collective).
+
+The 2007 UK Sole Inhabitant tour included three new songs previously played on the US tour, one called "Your Karma Hit My Dogma" another called "Jealous Thing" and a cover version of [[the Special AKA]]'s "What I Like Most About You Is Your Girlfriend." "Your Karma Hit My Dogma" was inspired by [[Kevin Federline]]'s unauthorised use of a sample from [[Mobb Deep]]'s "[[Got It Twisted]]," which in turn had used an authorised sample of "She Blinded Me with Science." The tag line from that story became the title of the song. The wording was lifted by Thomas from a bumper sticker on a car that he saw whilst living in the San Francisco Bay area. In a move close to performance art, Dolby tried to post a 'cease and desist' legal letter on Kevin Federline's MySpace page when other attempts to contact him proved fruitless.<ref name="autogenerated2006">{{cite web|last=Moss |first=Corey |url=http://www.mtv.com/news/articles/1527947/20060405/federline_kevin.jhtml |title=Thomas Dolby Won't Turn Blind Eye To Kevin Federline Sample – Music, Celebrity, Artist News |publisher=MTV |date=5 April 2006 |access-date=5 February 2013}}</ref><ref>{{cite news|author=Jeff Stratton |url=http://www.miaminewtimes.com/2006-12-14/music/before-and-after-science |title=Before and After Science – Page 1 – Music – Miami |newspaper=Miami New Times |date=14 December 2006 |access-date=5 February 2013}}</ref> The song is on the ''Live at SxSW'' EP.
+
+The second new song, "Jealous Thing" was performed at least at The Graduate in Cambridge and London's Islington Academy on the UK tour in Summer 2007 and features a Bossa-Nova type rhythm.
+
+===2009 reissues===
+A CD + DVD set entitled ''The Singular Thomas Dolby'' was released by [[EMI]] on 18 May 2009. As the name suggests it is a digitally remastered compilation of previously released singles. The DVD contains all the video singles which were available on the original VHS/BETA/LASERDISC release of ''The Golden Age of Video'', as well as the videos for the songs "Silk Pyjamas", "I Love You Goodbye", and "Close but No Cigar". These three missing videos are for the singles taken from the 1992 album ''Astronauts & Heretics'', which received critical acclaim but garnered unimpressive sales.
+
+''The Golden Age of Wireless'' and ''The Flat Earth'' were reissued and remastered later that year with numerous previously unreleased bonus tracks. The former was a two disc set including a DVD of the complete "Live Wireless" video.
+
+===''A Map of the Floating City''===
+In 2010 Dolby began work on a new studio album entitled ''[[A Map of the Floating City]]''.<ref name=pluginMay2010>{{cite web|url=http://www.pluginmusic.com/news/article/thomas-dolby-prepares-first-new-album-in-20-years|title=Thomas Dolby Prepares First New Album in 20 Years|date=9 May 2010|website=Pluginmusic.com}}</ref> The album is divided into three parts, with the first two parts initially made available to members of The Flat Earth Community Forum, Dolby's online community.<ref>{{cite web|url = http://www.thomasdolby.com/wp-content/uploads/2012/01/motfcpress.html|title = Thomas Dolby – Press Release|date = 28 November 2010|publisher = thomasdolby.com}}</ref> Each of the three digital EPs takes its name from one of the three sections of the full-length album that later followed. The first EP, ''Amerikana'', was released digitally on 16 June 2010. The second EP is entitled ''Oceanea'', and was released on 29 November 2010. Due to favourable reviews and radio airplay, ''Oceanea'' was released commercially on 28 March 2011. The third section of the album, entitled ''Urbanoia'',<ref>{{cite web|url=http://www.huffingtonpost.com/mike-ragogna/emted-solar-power-windpow_b_769720.html |author= Mike Ragogna|title= TED, Solar Power, Windpower, and All Things Amerikana: A Conversation with Thomas Dolby|website=Huffingpost.com|date= 20 October 2010|access-date=5 February 2013}}</ref> was not released as a download or physical CD, but the songs were premiered online as part of the Floating City game (see below).
+
+Contributors to the album include [[Kevin Armstrong (guitarist)|Kevin Armstrong]], [[Matthew Seligman]] (both had played together with him on ''The Flat Earth'' and as part of David Bowie's [[Live Aid]] appearance), [[Bruce Woolley]], drummer [[Liam Genockey]], guitarist [[Mark Knopfler]] of Dire Straits, [[Regina Spektor]], [[Natalie MacMaster]], [[Eddi Reader]] and [[Imogen Heap]].
+
+In a 2010 press release he was quoted as saying:
+{{Quote|I marvel at the new landscape of the music business&nbsp;– distribution via the Internet and recording technologies I barely dreamed of when I started out," he continues. "But this album does not sound electronic at all. I have zero desire to add to the myriad of machine-based, synth-driven grooves out there. The Net has made a music career approachable for thousands of bands&nbsp;– but I hear too few single-minded voices among them. What I do best is write songs, tell stories."
+
+"The new songs are organic and very personal. This album is a travelogue across three imaginary continents. In Amerikana I'm reflecting with affection on the years I spent living in the USA, and my fascination with its roots music. Urbanoia is a dark place, a little unsettling&nbsp;... I'm not a city person. And in Oceanea I return to my natural home on the windswept coastline.<ref name=pluginMay2010/>|sign=|source=}}
+
+''A Map of the Floating City'' was recorded in the "Nutmeg of Consolation", Dolby's recording studio built within a 1930s lifeboat and powered entirely by renewable energy, which is located in the garden of Dolby's beach house on England's North Sea coast.<ref name=pluginMay2010/>
+
+===Map of the Floating City game===
+In June 2011 Dolby announced the ''Map of the Floating City'' game, a multiplayer online game that shares a title with the full-length album release planned to follow after the game's conclusion. In Dolby's own words, "The Floating City is set against a dystopian vision of the 1940s that might have existed had WWII turned out a lot differently." Survivors explore a fictional Google map, forming tribes and trading relics amidst a bizarre sea-going barter society. As they struggle to unravel the enigma that is The Floating City, players can haggle over merchandise and music downloads, including brand new songs from ''A Map of the Floating City'', Dolby's first album in 20 years, scheduled to be released following the climax of the game. The game was played from June through August 2011, and included elements of trading, mystery, competition, and co-operation. Players earned free song downloads, and the winning team or "tribe" was awarded a private performance from Dolby.
+
+==Studio and live performance collaborations==
+=== Professional music career beginnings ===
+Early in his career, Dolby played keyboards with [[Bruce Woolley]] and the Camera Club and is credited on their debut album. The instrumental track "WW9" in the album ''English Garden'' is the first recorded example of Thomas' writing. He also wrote [[Lene Lovich]]'s hit single "New Toy" and played keyboard as part of the backing band for her tour.<ref>"Thomas Dolby, Intition And Motion", Freff, musician, May 1984, p. 45</ref> Dolby played some synthesizer parts on the [[Thompson Twins]] album ''[[Set (Thompson Twins album)|Set]]'' and co-wrote "Magic's Wand" with [[Whodini]], and played keyboards on one track ("Love") on [[Robyn Hitchcock]]'s first solo album, 1981's ''[[Black Snake Diamond Role]]''. Dolby played synthesizer on two tracks on the album [[Pleasure (Girls at Our Best! album)|''Pleasure'']] by the band [[Girls at Our Best!]] Around this time, he also formed a short-lived band called [[the Fallout Club]].
+
+By far the most significant session relationship for Thomas in the early days was when he contributed the signature synthesizer sound on the track "[[Urgent (song)|Urgent]]" on [[Foreigner (band)|Foreigner]]'s 1981 album ''[[4 (Foreigner album)|4]]''. On the same album he played the atmospheric synthesizer intro to the mega-hit "[[Waiting for a Girl Like You]]." The fees from this work, including tour dates, bankrolled the studio time for the recording of the 1980s benchmark album ''[[The Golden Age of Wireless]]'' from which his solo career began.
+
+In October 1981 Dolby made an appearance in the video for the [[Dave Stewart (keyboardist)|Dave Stewart]] and [[Barbara Gaskin]] British number one cover of "It's My Party," playing the part of Johnny in the "Judy and Johnny just walked through the door" section of the song. The video made its first [[Top of the Pops]] appearance on 29 October 1981.
+
+Dolby also worked as session keyboard player on [[Def Leppard]]'s 1983 ''[[Pyromania (album)|Pyromania]]'' album. Dolby appeared on ''Pyromania'' using the [[pseudonym|alias]] Booker T. Boffin,<ref>{{cite web|author=Jim Allen |url=http://www.mtvhive.com/2011/05/31/interview-thomas-dolby-talks-tech-and-plays-word-association/ |title=Q&A: Thomas Dolby Talks Tech, Plays Word Association |publisher=MTV Hive |access-date=6 August 2014}}</ref> as his affiliation with another record label restricted the use of his real name.
+
+==Film and video games==
+{{BLP sources section|date=February 2018}}
+
+===Scores for film and video games===
+1985: Scored the Richard Brooks film ''[[Fever Pitch (1985 film)|Fever Pitch]]''. Re-used the main theme from ''[[Fever Pitch (1985 film)|Fever Pitch]]'' in "The Key to her Ferrari."
+
+1986: Composed the songs for the [[George Lucas]] film ''[[Howard the Duck (film)|Howard the Duck]]'' and chose the members of the film's fictional band, Cherry Bomb.<ref name="emusician.com">{{cite web|url=http://emusician.com/em_spotlight/dolby_spotlight_oct07/|title=Musician in Transition: Thomas Dolby|date=12 September 2007|website=Emusician.com|access-date=5 February 2013}}</ref>
+
+1986: Scored the Ken Russell film ''[[Gothic (film)|Gothic]]''.<ref>{{cite web|url=https://www.imdb.com/title/tt0091142/fullcredits|title=Gothic (1986)|publisher=IMDb|access-date=13 October 2019}}</ref> The Devil is an Englishman" was a single from ''[[Gothic (film)|Gothic]]'' featuring [[Timothy Spall]] on vocals.<ref>{{cite web|url=https://www.allmusic.com/album/gothic-music-from-the-film-mw0000860199|title=Gothic [Music From the Film] - Thomas Dolby - Songs, Reviews, Credits - AllMusic|publisher=[[AllMusic]]|access-date=22 March 2018}}</ref> The instrumental solo appears on an early demo "Therapy/ Growth."<ref>{{cite web|url=https://www.allmusic.com/album/the-golden-age-of-wireless-mw0000189796|title=The Golden Age of Wireless - Thomas Dolby - Songs, Reviews, Credits - AllMusic|publisher=[[AllMusic]]|access-date=22 March 2018}}</ref> The rhythm and bass track was re-used in "Budapest by Blimp."<ref>{{cite web|url=https://www.allmusic.com/album/aliens-ate-my-buick-mw0000196285|title=Aliens Ate My Buick - Thomas Dolby - Songs, Reviews, Credits - AllMusic|publisher=[[AllMusic]]|access-date=22 March 2018}}</ref>
+
+In 1990 Dolby played the role of the villain Stanley in the movie ''[[Rockula]]'' as well as contributing the songs "Stanley's Death Park" and "Budapest by Blimp."
+
+1992: Composed and produced three pieces for the soundtrack of the animated movie ''[[FernGully: The Last Rainforest]]''.
+
+1992: Co-wrote and performed "The Mirror Song" with [[Robin Williams]] and [[Joan Cusack]] for ''[[Toys (film)|Toys]]'' alongside [[Trevor Horn]] and [[Bruce Woolley]].
+
+1993: Scored the [[interactive movie]] ''[[Double Switch (video game)|Double Switch]]''.<ref>{{cite magazine|title=ProReview: Double Switch|magazine=[[GamePro]]|issue=66|publisher=[[International Data Group|IDG]]|date=March 1994|page=62}}</ref>
+
+1994: Composed music for the third instalment of the CGI collection, [[Mind's Eye (series)|Mind's Eye]].
+
+2015: "She Blinded Me with Science" is featured as a collectable cassette that can be played back as desired in the [[video game]] ''[[Metal Gear Solid V: The Phantom Pain]]''.
+
+===''The Invisible Lighthouse''===
+In 2012, Dolby learned of the decommissioning of the [[Orfordness Lighthouse]] near his Suffolk home, and proceeded to film a documentary, ''The Invisible Lighthouse'',<ref>{{Cite web|url=http://www.imdb.com/title/tt2693354/|title=The Invisible Lighthouse|publisher=IMDb|access-date=13 October 2019}}</ref> to chronicle the shutdown of the lighthouse as well as his childhood growing up in the area. Dolby took this film on the road through the US and UK in the Autumn of 2013, accompanying the film with live music, narration, and sound effects by [[Blake Leyh]]. The film won the DIY Film Festival award for Best Picture.<ref>{{Cite web|url=http://diyconvention.com/?_nozc_=1|title=Diyconvention.com|website=Diyconvention.com|access-date=13 October 2019}}</ref>
+
+==Virtual reality==
+Dolby's first experiment with [[virtual reality]] took place in the fall of 1992, when he was invited by the [[Guggenheim Museum in New York|Guggenheim Museum]], New York<ref>{{Cite web|url=https://peabody.jhu.edu/faculty/thomas-dolby/|title=Thomas Dolby |publisher=Peabody Institute}}</ref> to design and install a sonic VR experience. This led to The Virtual String Quartet programmed by Eric Gullichsen, and sponsored by [[Intel|Intel Corp]]. The experience ran on an IBM 386 processor with a Convolvatron 4-channel audio card. Users wore a head-mounted display and found themselves in the midst of a [[computer-generated holography|computer-generated]] [[string quartet]] playing [[Mozart]]. The sound was fully spatialized as the user moved around the physical space. Tickling a player with the joystick resulted in that musician switching to improvisation in a '[[Dixieland|hot jazz]]' or Appalachian bluegrass style.
+
+At his software company Headspace Inc in the early 1990s, Dolby developed a set of interactive virtual musical instruments called Glyphs enabling users to jam together over the Internet. In the Fall of 2018, Dolby created a New Media workshop at The Peabody Institute of [[Johns Hopkins University]]<ref>{{Cite web|url=https://peabody.jhu.edu/academics/instruments-areas-of-study/music-for-new-media/|title=Music for New Media |publisher=Peabody Institute}}</ref> with VR equipment donated by HTC Vive. Students in his course are learning to compose music for VR and AR.
+
+On 4 Oct 2018 Dolby performed a live score for the High Fidelity VR event 'Escape from Zombie Island.'<ref>{{Cite web|url=https://tockify.com/hifieventscalendar/detail/353/1538697600000|title=Escape Zombie Island: A Pop-Up VR Arcade|website=Tockify.com}}</ref> He appeared 'in-world' as his own avatar, where he triggered and played real-time horror film music. He also performed his first ever full VR concert at the Futvrelands Festival<ref>{{Cite web|url=https://www.youtube.com/watch?v=7hD-fF2qn9A| url-status=live | archive-url=https://ghostarchive.org/varchive/youtube/20211031/7hD-fF2qn9A| archive-date=2021-10-31|title=Thomas Dolby at FutVReLands festival Nov 17th 2018|via=[[YouTube]]|access-date=13 October 2019}}{{cbignore}}</ref> on 17 November 2018, in front of over 250 other avatars.
+
+==Other endeavours==
+===1985 Grammy Awards and Live Aid===
+In 1985, Dolby appeared at the [[Grammy Award]]s, which were televised, along with [[Stevie Wonder]], [[Herbie Hancock]], and [[Howard Jones (musician)|Howard Jones]]. All four musicians were successful in the mid-1980s music scene, and they were also all keyboard and synthesizer experts. That same year, Dolby performed at the [[Live Aid]] concert in London as part of [[David Bowie]]'s band.<ref>{{cite web|url=https://www.cnn.com/2015/07/10/entertainment/live-aid-concerts-30th-anniversary-thomas-dolby/index.html|title=Thomas Dolby: I feared I'd 'screw up' Live Aid|date=10 July 2015|publisher=CNN|access-date=24 January 2019}}</ref>
+
+===Headspace and Beatnik===
+In 1993, Dolby established the Headspace company. Headspace developed a new downloadable file format designed specifically for Internet usage called Rich Music Format with the [[Rich Music Format|RMF]] file extension.<ref>Bruce Orwall, "Sound On; Thomas Dolby Robertson Has A Complaint About The Web: It's Too Quiet", ''The Wall Street Journal'', 1997</ref> It had the advantage of small file size like [[MIDI]] but allowed recorded sampled sounds to be included at a higher bitrate for better overall reproduction. RMF music files could be played in a browser using the free Beatnik Player plug-in. Later versions of RMF permitted artists to place an encrypted watermark in their files that were supposed to prevent unauthorised duplication. In 1999, Headspace, Inc. was renamed Beatnik, Inc., and specialised in software synthesizers for [[mobile phones]], which it licensed to mobile phone manufacturers including [[Nokia]]. Beatnik is no longer in business.<ref>{{cite web|url=https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=25461|title=Beatnik, Inc.: Private Company Information - Businessweek|access-date=24 March 2016}}</ref>
+
+While remaining on the Beatnik board, Dolby stepped down from his position as CEO to pursue other technology interests, such as founding Retro Ringtones LLC in 2002, which produces the RetroFolio ringtone asset management software suite for companies involved in the mobile phone ringtone business. At the second annual Mobile Music Awards, [[Miami, Florida]], in 2004 RetroFolio won "Best of Show" and "Best New Technology" awards.<ref name="fruit"/>
+
+Dolby created hundreds of [[Digital data|digital]] polyphonic ringtones on mobile phones. He is often a speaker at technology conferences such as [[Comdex]], [[Websphere]], and Nokia.<ref name="fruit"/>
+
+===TED Conference===
+{{Main|TED (conference)}}
+From 2001 to 2012, Dolby was musical director of the [[TED (conference)|TED Conference]], an annual event held, first, in [[Monterey, California|Monterey]], California, and subsequently in [[Long Beach, California|Long Beach]], California. He provided live musical introductions to sessions, sometimes with a TED house band, and helped secure guest musicians and entertainers. Onstage, he played with singers and performers such as Eddi Reader, Natalie MacMaster, Rachelle Garniez and [[David Byrne]], and premiered his own song "Love Is a Loaded Pistol" onstage at TEDGlobal 2010.<ref>{{cite web |last1=Dolby |first1=Thomas |title="Love Is a Loaded Pistol" premiere |url=https://www.ted.com/talks/pistol |website=TED.com}}</ref> He stood down from the position in September 2012<ref>{{cite web |last1=Dolby |first1=Thomas |title=Thomas Dolby retires as musical director of TED Conferences |url=https://blog.ted.com/thomas-dolby-retires-as-musical-director-of-ted-conferences/ |website=TED Blog|date=19 September 2012 }}</ref> to pursue music.
+
+In March 2012, Dolby spoke at the DESIGN West conference in San Jose, California at the McEnery Convention Center, produced by UBM Electronics.<ref>{{cite web|title=DESIGN West Keynotes|url=http://www.ubmdesign.com/conference/keynotes|publisher=UBM Electronics|access-date=5 February 2013|url-status=dead|archive-url=https://web.archive.org/web/20121126181331/http://www.ubmdesign.com/conference/keynotes|archive-date=26 November 2012}}</ref>
+
+===Academic career===
+In March 2014, Dolby was named Homewood Professor of the Arts at [[Baltimore]]'s [[Johns Hopkins University]].<ref>{{cite news|url=https://www.washingtonpost.com/blogs/reliable-source/wp/2014/03/06/she-blinded-me-with-science-singer-thomas-dolby-to-be-hopkins-professor/ |title=She Blinded Me With Science' singer Thomas Dolby to be Hopkins professor |date=6 March 2014 |newspaper=[[The Washington Post]]}}</ref> In March 2017, the [[Peabody Institute]] announced that Dolby would lead a new four-year undergraduate degree program, ''Music for New Media'', and the first cohort would commence in the fall of 2018.<ref>{{cite web |url=https://hub.jhu.edu/2017/03/16/thomas-dolby-new-music-program-peabody/ |title=Thomas Dolby to lead Music for New Media program at Peabody Institute |date=16 March 2017 |work=Hub (Johns Hopkins University)}}</ref>
+
+==Equipment==
+Dolby said he became interested in electronic music because "I'm not a very proficient keyboard player, so the computer became my musical instrument ... None of the equipment is essential, though. In a way, I was happier when I just had one monophonic synthesizer and a two-track tape deck".<ref name="adams199403">{{Cite magazine |last=Adams |first=Ellen Snell |date=March 1994 |title=Good Heavens, Miss America! You're Virtual! |url=http://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=116 |magazine=Computer Gaming World |pages=54, 56}}</ref> His first instrument, found in [[Electronic Music Studios|EMS]]'s garbage dumpster at 277 Putney Bridge Road,<ref name="fruit">{{cite book |last=Dolby |first=Thomas |date=11 October 2016 |title=The Speed of Sound: Breaking the Barriers Between Music and Technology: A Memoir |publisher=Flatiron Books|location=New York |isbn=978-1-250-07184-2 |oclc=940280931 |edition=First |chapter=The Winter of Discontent |quote=On the way home I took a shortcut along the river and swung by the back of the EMS shop. There was a garbage dumpster outside in the street. No one was around, so I heaved myself up and had a gander inside. A bunch of flattened cardboard boxes, an old fridge, and ... hold on: a black metal box with lots of knobs. The guts were hanging out of it, but I could see the words TRANSCENDENT 2000 printed on the front.}}</ref><ref>{{Cite web|url=http://www.phutney.com/EMSMods.html|title=EMS - My Memories of EMS|website=Phutney.com|access-date=17 June 2021}}</ref><ref>{{cite web |last1=Mulligan |first1=Jesse |title=Thomas Dolby on music, technology and creativity |url=https://www.rnz.co.nz/national/programmes/afternoons/audio/201822236/thomas-dolby-on-music-technology-and-creativity |website=[[RNZ]] |access-date=16 November 2020 |language=en-nz |date=2 November 2016}}</ref> was the [[Powertran]] [[Transcendent 2000]]<ref>{{cite web |last1=James |first1=Ben |title=Powertran Transcendent 2000 |url=https://vst4free.com/plugin/1754/ |website=VST 4 FREE |access-date=11 November 2020 |language=en}}</ref><ref>{{cite web |title=Powertran Transcendent 2000 |url=https://electro-music.com/forum/topic-53461.html |website=electro-music.com |access-date=11 November 2020}}</ref><ref>{{cite web |title=Powertran Transcendent 2000 |url=https://www.cykong.com/Synths/Transcendent2000/Transcendent2000.htm |website=cykong.com |access-date=11 November 2020}}</ref><ref>{{cite web |title=Transcendent Powertran 2000 [PCB Schematic] |url=https://midierror.word-press.com/2015/01/07/transcendent-powertran-2000-pcb-schematic/ |website=Midierror.word-press.com |access-date=11 November 2020 |language=en |date=7 January 2015}}</ref><ref>{{cite web |last1=Crane |first1=Larry |title=Thomas Dolby: Breaking the Barriers |url=https://tapeop.com/interviews/119/thomas-dolby/ |website=Tapeop.com |access-date=11 November 2020 |language=en}}</ref><ref>{{cite web|url=https://www.americanradiohistory.com/hd2/IDX-UK/Technology/Technology-Modern/Archive-Practical-Electronics-IDX/IDX/80s/PE-1982-04-OCR-Page-0002.pdf|title=Precision by Powertran : Practical Electronics|page=2|website=Americanradiohistory.com|access-date=17 June 2021}}</ref><ref>{{cite web|url=https://www.epanorama.net/sff/Audio/Musical/Circuits/Transcendent%202000%20Synthesizer.pdf|title=Powertran Transcendent 2000|archive-url=https://web.archive.org/web/20201111033218/https://www.epanorama.net/sff/Audio/Musical/Circuits/Transcendent%202000%20Synthesizer.pdf|access-date=17 June 2021|archive-date=11 November 2020}}</ref><ref>{{cite web |title=Thomas Dolby on music, technology and creativity |url=https://www.rnz.co.nz/national/programmes/afternoons/audio/201822236/thomas-dolby-on-music-technology-and-creativity |website=RNZ |access-date=11 November 2020 |language=en-nz |date=2 November 2016}}</ref><ref>{{cite web |title=Powertran Transcendent 2000 , by Chris Wareham|url=http://www.vintagesynth.com/misc/transcendent2000.php |website=Vintage Synth Explorer |access-date=11 November 2020}}</ref> [[synthesiser]]
+
+The following is a list of notable instruments and the electronic equipment that Dolby has used on his recordings:
+[[File:PPG WAVE 2.2.jpg|right|thumbnail|400px|PPG WAVE 2.2]]
+* [[Palm Products GmbH|PPG]] 360–380 Wave Computer & Sequencer
+* PPG Wave 2.2 synthesizer
+* [[Fairlight CMI]] Series III sampler{{r|adams199403}}
+* [[Moog Micromoog]] synthesizer
+* [[Roland D-50]] synthesizer
+* Roland MKS-20 digital piano rack
+* [[Roland JX-10#MKS-70|Roland MKS-70 Super JX]] rackmount synthesizer
+* [[Opcode Systems|Opcode]] Studio Vision sequencing software
+* [[Apple Inc.|Apple]] [[Macintosh Quadra 840AV]] computer{{r|adams199403}}
+* [[Roland Jupiter-4]]
+*[[Roland Jupiter-8]]<ref>{{Cite web|url=https://equipboard.com/pros/thomas-dolby|title=Thomas Dolby's Equipboard|website=Equipboard.com|language=en|access-date=2019-10-08}}</ref>
+* [[Korg M1]] rackmount synthesizer
+* [[E-mu Systems|E-MU]] SP-12 sampling drum sequencer
+* [[Linn 9000]] sampling drum sequencer
+* [[Simmons (electronic drum company)|Simmons]] electronic drums
+* [[Yamaha DX7]]
+* [[Yamaha]] REV-1 digital reverb processor<ref name=":0">Greg Rule, "Thomas Dolby: Astronauts + Heretics = Hard Disk Meltdown", Keyboard, Jan 1992, p. 42-43</ref><ref name="emusician.com"/>
+
+== Personal life ==
+Dolby married actress [[Kathleen Beller]] in 1988; they have three children.<ref name="fruit" /> His brother is information retrieval researcher [[Stephen Robertson (computer scientist)|Stephen Robertson]].{{citation needed|date=May 2019}}
+
+==Awards and nominations==
+In July 1998, Dolby received a "Lifetime Achievement in Internet Music" award from ''[[Yahoo! Internet Life]]''. In 2012 he performed at [[Moogfest]] and was the recipient of The Moog Innovation Award, which celebrates "pioneering artists whose genre-defying work exemplifies the bold, innovative spirit of Bob Moog".<ref>{{cite web|url=http://www.moogmusic.com/news/talking-thomas-dolby-2012-moog-innovation-award-winner |title=Talking with Thomas Dolby: 2012 Moog Innovation Award Winner &#124; Moog Music Inc |website=Moogmusic.com |access-date=6 August 2014}}</ref> In February 2018, Dolby was awarded the Roland Lifetime Achievement Award.<ref>{{cite web|url=https://www.rolandus.com/blog/2018/02/26/roland-and-boss-present-lifetime-achievement-awards-to-thomas-dolby-and-steve-vai/ |title=Roland and BOSS Present Lifetime Achievement Awards to Thomas Dolby and Steve Vai |website=Rolandus.com |date=26 February 2018 |access-date=24 January 2019}}</ref> Dolby has received four [[Grammy Award|Grammy]] nominations, two each in 1984 and 1988.<ref>{{cite web|url=https://www.grammy.com/grammys/artists/thomas-dolby |title=GRAMMY Award Results for Thomas Dolby |date=23 November 2020 |publisher=Recording Academy}}</ref>
+
+==Discography==
+===Albums===
+{{Col-begin|width=100%}}
+{{Col-break}}
+
+====Studio albums====
+{| class="wikitable"
+|-
+! Year
+! Album
+! style="width:40px;"| <small>[[UK albums chart|UK]]</small><br><ref name="Chart Stats">{{cite web|url=https://www.officialcharts.com/artists/|title=The Official Charts Company – Thomas Dolby|publisher=[[Official Charts Company]]|access-date=22 April 2016}}</ref>
+! style="width:40px;"| <small>[[Kent Music Report|AUS]]<ref name=aus>{{cite book|last=Kent|first=David|author-link=David Kent (historian)|title=Australian Chart Book 1970–1992|edition=illustrated|publisher=Australian Chart Book|location=St Ives, N.S.W.|year=1993|isbn=0-646-11917-6|page=91}}</ref>
+! style="width:40px;"| <small>[[Billboard Hot 200|US]]</small><br><ref name="Allmusic albums">{{cite web|url={{AllMusic|class=artist|id=thomas-dolby-p4112/charts-awards/billboard-albums|pure_url=yes}}|title=Allmusic ((( Thomas Dolby > Charts & Awards > Billboard Albums )))|publisher=[[AllMusic]]|access-date=17 October 2010}}</ref>
+! style="width:40px;"| <small>[[Top R&B/Hip-Hop Albums|US R&B]]</small><br><ref name="Allmusic albums" />
+|-
+| 1982
+| ''[[The Golden Age of Wireless]]''
+| style="text-align:center;"|65
+| style="text-align:center;"|72
+| style="text-align:center;"|13
+| style="text-align:center;"|45
+|-
+| 1984
+| ''[[The Flat Earth]]''
+| style="text-align:center;"|14
+| style="text-align:center;"|71
+| style="text-align:center;"|35
+| style="text-align:center;"|—
+|-
+| 1988
+| ''[[Aliens Ate My Buick]]''
+| style="text-align:center;"|30
+| style="text-align:center;"| 74
+| style="text-align:center;"|70
+| style="text-align:center;"|—
+|-
+| 1992
+| ''[[Astronauts & Heretics]]''
+| style="text-align:center;"|35
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|-
+| 2011
+| ''[[A Map of the Floating City]]''
+| style="text-align:center;"|171
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|-
+| colspan="10" style="text-align:center; font-size:8pt;"| "—" denotes releases that did not chart or not released to that country
+|}
+{{Col-break}}
+
+====EPs====
+{| class="wikitable"
+|-
+! Year
+! Album
+! style="width:40px;"| <small>[[UK albums chart|UK]]</small><br><ref name="Chart Stats"/>
+! style="width:40px;"| <small>[[Billboard Hot 200|US]]</small><br><ref name="Allmusic albums"/>
+! style="width:40px;"| <small>[[Top R&B/Hip-Hop Albums|US R&B]]</small><br><ref name="Allmusic albums" />
+|-
+| 1983
+| ''[[Blinded by Science]]''
+| style="text-align:center;"|—
+| style="text-align:center;"|20
+| style="text-align:center;"|—
+|-
+| 2010
+| ''Amerikana''
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|-
+| 2011
+| ''Oceanea''
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|}
+{{Col-end}}
+
+====Compilation albums====
+{| class="wikitable"
+|-
+! Year
+! Album
+! Notes
+|-
+| 1994
+| ''Retrospectacle: The Best of Thomas Dolby''
+|
+|-
+| rowspan="3"|1999
+| ''12 x 12 Original Remixes''
+|
+|-
+| ''Headspace Music Library V1: Reverie''
+| All tracks except two
+|-
+| ''Headspace Music Library V6: Backyard Sunset''
+| "Sunlane" (with Brian Salter)
+|-
+| 2009
+| ''The Singular Thomas Dolby''
+| EMI singles compilation with DVD of videos
+|-
+| 2013
+| ''The Invisible Lighthouse''
+| tour-only compilation, accompanying ''The Invisible Lighthouse'' film tour
+|}
+
+====Live albums====
+{| class="wikitable"
+|-
+! Year
+! Album
+|-
+| 2001
+| ''[[Forty (album)|Forty]]''
+|-
+| 2006
+| ''The Sole Inhabitant''
+|-
+| 2012
+| ''Live in Tokyo 2012''
+|}
+
+====Soundtracks====
+*''[[Howard the Duck (film)|Howard the Duck]]'' (1986) – split LP, one side by Dolby (as Dolby's Cube), the other by [[John Barry (composer)|John Barry]]
+*''Music from the Film [[Gothic (film)|Gothic]]'' (1987)
+*''[[Mind's_Eye_(film_series)#Films|The Gate to the Mind's Eye]]'' (1994) – featuring vocals by [[Fiorella Terenzi|Dr. Fiorella Terenzi]]
+*''[[The Dark Eye (video game)|The Dark Eye]]'' (video game) (1995)
+*''[[Obsidian (1997 video game)|Obsidian]]'' (video game) (1997) - with Paul Sebastien, Blake Leyh and Kim Cascone
+
+===As session musician===
+* [[Robyn Hitchcock]] – ''[[Black Snake Diamond Röle]]'' (1981)
+* [[Foreigner (band)|Foreigner]] – ''[[4 (Foreigner album)|4]]'' (1981)
+* [[Joan Armatrading]] – ''[[Walk Under Ladders]]'' (1981)
+* [[Thompson Twins]] – ''[[Set (Thompson Twins album)|Set]]'' (1982)
+* [[Def Leppard]] – ''[[Pyromania (album)|Pyromania]]'' (1983) (as Booker T. Boffin)
+* [[Malcolm McLaren]] – ''[[Duck Rock]]'' (1983)
+* [[Belinda Carlisle]] – ''[[Heaven on Earth (Belinda Carlisle album)|Heaven on Earth]]'' (1987)
+
+===As producer===
+* [[Whodini]] – "Magic's Wand", from [[Whodini (album)|their self-titled album]] (1983)
+* [[Prefab Sprout]] – ''[[Steve McQueen (album)|Steve McQueen]]'' (1985), ''[[Jordan: The Comeback]]'' (1990) and four tracks on ''[[From Langley Park to Memphis]]'' (1988) 
+* [[Joni Mitchell]] – co-producer on ''[[Dog Eat Dog (Joni Mitchell album)|Dog Eat Dog]]'' (1985)<ref>{{cite magazine |url=https://www.rollingstone.com/music/music-album-reviews/dog-eat-dog-255504/ |title=Dog Eat Dog |author=Rob Tannenbaum |magazine=[[Rolling Stone]] |date=16 January 1986 |access-date=27 April 2020}}</ref>
+* [[George Clinton (funk musician)|George Clinton]] – two tracks on ''[[Some of My Best Jokes Are Friends]]'' (1985)<ref>{{cite web |url=https://www.discogs.com/George-Clinton-Some-Of-My-Best-Jokes-Are-Friends/release/213252 |title= George Clinton – Some of My Best Jokes Are Friends |publisher=[[discogs]] |access-date=27 April 2020}}</ref><ref>{{cite magazine|author=Parke Puterbaugh |url=https://www.rollingstone.com/music/music-album-reviews/some-of-my-best-jokes-are-friends-203204/ |title=Some of My Best Jokes Are Friends &#124; Album Reviews |magazine=[[Rolling Stone]] |date=29 August 1985 |access-date=5 February 2013}}</ref>
+* [[Ofra Haza]] – two tracks on ''[[Desert Wind (album)|Desert Wind]]'' (1989)
+
+===Singles===
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Artist Credit
+! rowspan="2"| Single
+! colspan="8"| Peak chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:35px;"| [[UK Singles Chart|UK]]<br><ref name="Chart Stats" />
+! style="width:35px;"| [[RPM (magazine)|CA]]<br><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.6230&type=1&interval=50&PHPSESSID=6n7o2tcs6s8deq7ufc2jeqdn16 |title=Item Display – RPM – Library and Archives Canada |website=Collectionscanada.gc.ca |access-date=10 May 2012}}</ref><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.6261&type=1&interval=50&PHPSESSID=6n7o2tcs6s8deq7ufc2jeqdn16 |title=Item Display – RPM – Library and Archives Canada |website=Collectionscanada.gc.ca |access-date=10 May 2012}}</ref><ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.6319&type=1&interval=50&PHPSESSID=6n7o2tcs6s8deq7ufc2jeqdn16 |title=Item Display – RPM – Library and Archives Canada |website=Collectionscanada.gc.ca |access-date=10 May 2012}}</ref>
+! style="width:35px;"| [[Official New Zealand Music Chart|NZ]]<br /><ref>{{cite web|author=Steffen Hung |url=https://charts.nz/search.asp?search=dolby&cat=s |title=New Zealand charts portal |website=Charts.nz |access-date=10 May 2012}}</ref>
+! style="width:35px;"| [[Billboard Hot 100|US]]<br><ref name="Allmusic singles">{{cite web|url={{AllMusic|class=artist|id=thomas-dolby-p4112/charts-awards/billboard-singles|pure_url=yes}}|title=Allmusic ((( Thomas Dolby > Charts & Awards > Billboard Singles )))|publisher=[[AllMusic]]|access-date=17 October 2010}}</ref>
+! style="width:35px;"| [[Hot Dance Club Songs|US<br />Dance]]<br><ref name="Allmusic singles" />
+! style="width:35px;"| [[Hot Mainstream Rock Tracks|US<br />Main]]<br><ref name="Allmusic singles" />
+! style="width:35px;"| [[Hot R&B/Hip-Hop Songs|US<br />R&B]]<br><ref name="Allmusic singles" />
+! style="width:35px;"| [[Kent Music Report|AU]]<ref name=aus/>
+|-
+| rowspan="2"| 1981
+| rowspan="6"| Thomas Dolby
+| style="text-align:left;"| "Urges"/"Leipzig"
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| style="text-align:left;"| Originally a non-album release.<br>Both tracks later included on original US pressings of ''The Golden Age of Wireless''
+|-
+| style="text-align:left;" | "[[Europa and the Pirate Twins]]"
+| 48
+| 45<sup>A</sup>
+| —
+| 67<sup>A</sup>
+| —
+| 37
+| —
+| —
+| style="text-align:left;" rowspan="3"| ''The Golden Age of Wireless''
+|-
+| rowspan="4"| 1982
+| style="text-align:left;"| "Airwaves"
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+|-
+| style="text-align:left;"| "Windpower"
+| 31
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+|-
+| style="text-align:left;"| "[[She Blinded Me with Science]]"
+| 49
+| 1
+| 7
+| 5
+| 3
+| 6
+| 49
+| 19
+| style="text-align:left;" rowspan="2"| Originally non-album releases. <br>Tracks later added to all reissues of <br>''The Golden Age of Wireless''
+|-
+| style="text-align:left;"| "[[One of our Submarines]]"
+| —
+| —
+| —
+| —
+| —
+| 17
+| —
+| —
+|-
+|| 1983
+|| Dolby's Cube
+| style="text-align:left;"| "Get Out of My Mix"
+| 80
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| style="text-align:left;"| Non-album release
+|-
+| rowspan="3"| 1984
+| rowspan="3"| Thomas Dolby
+| style="text-align:left;"| "[[Hyperactive!]]"
+| 17
+| 16
+| 41
+| 62
+| —
+| 39
+| —
+| 26
+| style="text-align:left;" rowspan="3"| ''The Flat Earth''
+|-
+| style="text-align:left;"| "I Scare Myself"
+| 46
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+|-
+| style="text-align:left;"| "Dissidents"
+| 90
+| —
+| —
+| —
+| 17
+| —
+| —
+| —
+|-
+|| 1985
+|| Dolby's Cube
+| style="text-align:left;"| "May the Cube Be with You"
+| 82
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| style="text-align:left;"| ''Aliens Ate My Buick'' (CD Version)
+|-
+| rowspan="2"| 1986
+|| Dolby's Cube <br>featuring Cherry Bomb
+| style="text-align:left;"| "Howard the Duck"
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| style="text-align:left;"| ''Howard the Duck'' soundtrack
+|-
+||[[Ryuichi Sakamoto]] <br>featuring Thomas Dolby
+| style="text-align:left;"| "Field Work"
+| 98
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| style="text-align:left;"|''Illustrated Musical Encyclopedia'' <br> (Ryuichi Sakamoto album)
+|-
+|| 1987
+||Screamin' Lord Byron <br>featuring Thomas Dolby <br>and [[Timothy Spall]]
+| style="text-align:left;"| "The Devil Is an Englishman"
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| style="text-align:left;"| ''Gothic'' soundtrack
+|-
+| 1988
+| rowspan="9"| Thomas Dolby
+| style="text-align:left;"| "Airhead"
+| 53
+| —
+| —
+| —
+| 6
+| —
+| —
+| 63
+| style="text-align:left;" rowspan="3"| ''Aliens Ate My Buick''
+|-
+| rowspan="2"| 1989
+| style="text-align:left;"| "Hot Sauce"
+| 80
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+|-
+| style="text-align:left;"| "My Brain Is Like a Sieve"
+| 89
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+|-
+| rowspan="3"| 1992
+| style="text-align:left;"| "Close but No Cigar"
+| 22
+| —
+| 14
+| —
+| —
+| —
+| —
+| —
+| style="text-align:left;" rowspan="3"| ''Astronauts & Heretics''
+|-
+| style="text-align:left;"| "[[I Love You Goodbye]]"
+| 36
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+|-
+| style="text-align:left;"| "Silk Pyjamas"
+| 62
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+|-
+| 1994
+| style="text-align:left;"| "Hyperactive" <small>(re-release)</small>
+| 23
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| style="text-align:left;"| ''Retrospectacle''
+|-
+| rowspan="2"| 2011
+| style="text-align:left;"| "Oceanea"
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| style="text-align:left;" rowspan="2"| ''A Map of the Floating City''
+|-
+| style="text-align:left;"| "Spice Train"
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+|-
+| colspan="12" style="font-size:8pt"| "—" denotes releases that did not chart or not released to that country
+|}
+
+*<sup>A</sup> Track did not chart in the United States and Canada until 1983, after the success of "She Blinded Me with Science".
+
+===Other collaborations and connections===
+{{more citations needed|section|date=May 2018}}
+Thomas Dolby has worked with the following artists:
+{{Div col|colwidth=18em}}
+* [[Akiko Yano]]
+* [[Adele Bertei]]<ref>{{cite web|url=http://www.discogs.com/artist/Adele+Bertei |title=Adele Bertei Discography at Discogs |publisher=discogs |access-date=5 February 2013}}</ref> – Duet on "Hyperactive"
+* [[Aleks Syntek]]<ref>{{cite web|url=https://www.facebook.com/syntekoficial/photos/a.531981796873325/1977529958985161/?type=1&theater |title=Aleks Syntek|via=Facebook |access-date=24 January 2019}}{{Primary source inline|date=December 2020}}</ref>
+* [[Andy Partridge]]
+* [[Bob Weir]] – guitar on Dolby's album ''Astronauts & Heretics''
+* [[Budgie (musician)|Budgie]] – drums on Dolby's album ''Astronauts & Heretics''
+* Brian Salter
+* [[Brian Transeau]] – Dolby and BT co-headlined a tour together in 2006
+* [[Bruce Woolley]] – Dolby was a member of Bruce Woolley and the Camera Club, and Woolley contributed guest vocals on Dolby's albums ''The Golden Age of Wireless'' and ''The Flat Earth''
+* [[Chris Braide]]
+* Clif Brigden
+* [[Chucho Merchán]] – Guitarist on the Dolby's Flat Earth Tour
+* [[David Bowie]] – Dolby played in Bowie's backup band at [[Live Aid]]
+* [[David Byrne]] – Dolby played keyboards with Byrne as part of the [[Ted (conference)|TED]] 2010 house band
+* [[Eddi Reader]]
+* [[Eddie Van Halen]]
+* [[Ethel (string quartet)|Ethel]] – Dolby played keyboards with Ethel as part of the TED 2010 house band
+* [[François Kevorkian]]
+* [[George Clinton (funk musician)|George Clinton]] – Clinton appeared on Dolby's Cube's "May the Cube Be with You" and in the music video for the song, and also wrote the song "Hot Sauce" on Dolby's ''[[Aliens Ate My Buick]]'' album
+* [[Herbie Hancock]] – Dolby was part of the [[27th Annual Grammy Awards]] performance in 1985
+* [[Howard Jones (musician)|Howard Jones]] – part of the 27th Annual Grammy Awards performance
+* [[Imogen Heap]] – guest musician/vocalist on ''A Map of the Floating City''
+* [[Jerry Garcia]] – guitar on Dolby's album ''Astronauts & Heretics''
+* Jimmy Breaux
+* [[Joe Walsh]]
+* John E. Love
+* [[Lene Lovich]] – Dolby wrote Lovich's hit single "[[New Toy]]" and played keyboards on both the track and subsequent tour
+* [[Little Richard]]
+* [[M (band)|M]]
+* Mark Beer
+* [[Mecano]]
+* [[Michael Doucet]]
+* [[Natalie MacMaster]]
+* [[Peter Gabriel]]
+* [[Robyn Hitchcock]] – Hitchcock contributed guest vocals on Dolby's album ''The Flat Earth'' 
+* [[Roger Waters]] – Dolby played keyboards in the 1990 Berlin concert of Pink Floyd's ''The Wall'' and portrayed the Schoolmaster in "The Trial"
+* [[Ryuichi Sakamoto]] – Dolby collaborated with Sakamoto on the single "Field Work"
+* [[Stevie Wonder]] – part of the 27th Annual Grammy Awards performance
+* Tata Vega
+* [[Tim Curry]]
+* Thomas Guz Sanchez
+* [[Trevor Horn]]
+{{Div col end}}
+
+==See also==
+* [[List of Old Abingdonians]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+* {{Official website|1=http://thomasdolby.com}}
+* {{IMDb name|0230884}}
+* {{Discogs artist|Thomas Dolby}}
+* [https://www.namm.org/library/oral-history/thomas-dolby Thomas Dolby Interview] NAMM Oral History Library (2019)
+* {{TED speaker}}
+
+{{Thomas Dolby}}
+{{Authority control}}
+
+{{DEFAULTSORT:Dolby, Thomas}}
+[[Category:1958 births]]
+[[Category:Living people]]
+[[Category:English male singers]]
+[[Category:English songwriters]]
+[[Category:Video game composers]]
+[[Category:English bloggers]]
+[[Category:People educated at Westminster School, London]]
+[[Category:Keytarists]]
+[[Category:Steampunk music]]
+[[Category:Capitol Records artists]]
+[[Category:Giant Records (Warner) artists]]
+[[Category:English new wave musicians]]
+[[Category:British synth-pop new wave musicians]]
+[[Category:Harvest Records artists]]
+[[Category:People educated at Abingdon School]]
+[[Category:Male new wave singers]]
+[[Category:Synth-pop singers]]
+[[Category:British male bloggers]]
+[[Category:English composers]]

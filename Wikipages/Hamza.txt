@@ -1,0 +1,357 @@
+{{About|the letter|other uses|Hamza (disambiguation)|the name transcribed by the same spelling|Hamza (name)}}
+{{distinguish|text={{lang|ar|[[ع]]}} ({{transl|ar|ALA|‘ayn}}), which has a similar looking initial form}}
+{{short description|Mark used in Arabic-based orthographies}}
+{{Infobox grapheme
+|name=Hamza<br>{{lang|ar|همزة}}
+|letter=ء
+|variations=
+|image=File:Hamzah-individua-cropt.svg
+|imagesize=200
+|imagealt=
+|script=[[Arabic script]]
+|type=[[Abjad]]
+|typedesc=
+|language=[[Arabic language]]
+|phonemes={{IPAslink|ʔ}}
+|unicode=U+0621 {{sc|ARABIC LETTER HAMZA}}
+|alphanumber=
+|number=
+|usageperiod=
+|children=
+|equivalents=
+|associates=
+|direction=Right-to-left
+}}
+{{Arabic alphabet}}
+
+'''Hamza''' ({{lang-ar|همزة}}, ''{{transl|ar|ALA|hamzah}}'') ({{lang|ar|[[wikt:ء|ء]]}}) is a letter in the [[Arabic alphabet]], representing the [[glottal stop]] {{IPAblink|ʔ}}. Hamza is not one of the 28 "full" letters and owes its existence to historical inconsistencies in the [[orthography|standard writing system]]. It is derived from the Arabic letter ''[[Ayin|ʿAyn]]'' ({{lang|ar|[[ع]]}}). In the [[Phoenician alphabet|Phoenician]] and [[Aramaic alphabet|Aramaic]] alphabets, from which the Arabic alphabet is descended, the glottal stop was expressed by ''[[aleph|alif]]'' ({{lang|phn|𐤀}}), continued by ''Alif'' (&nbsp;{{lang|ar|ا}}&nbsp;) in the Arabic alphabet. However, Alif was used to express both a glottal stop and also a long vowel {{IPA|/aː/}}. In order to indicate that a glottal stop is used, and not a mere vowel, it was added to Alif [[diacritic]]ally. In modern orthography,  hamza may also appear on the line, under certain circumstances as though it were a full letter, independent of an Alif.
+
+== Etymology ==
+''Hamza'' is derived from the verb ''{{transl|ar|ALA|hamaza}}'' ({{lang-ar|هَمَزَ}}) meaning 'to prick, goad, drive' or 'to provide (a letter or word) with hamzah'.<ref>{{cite book|last=Wehr|first= Hans|editor-last= Cowan|editor-first= J. M.|title= The Hans Wehr Dictionary of Modern Arabic|publisher= Otto Harrassowitz KG|year= 1994|chapter= همز ''hamaza''|isbn=978-0-87950-003-0|edition=4th}}</ref>
+
+== Hamzat al-waṣl (<big style="font-size:200%;" >ٱ</big>)==
+{{see also|Arabic definite article|sun and moon letters}}
+
+The letter hamza (<big>ء</big>) on its own always represents ''{{transl|ar|ALA|hamzat al-qaṭ‘}}'' (<big>{{lang|ar|هَمْزَة الْقَطْع}}</big>, "the ''hamzah'' which breaks, ceases or halts", i.e. the broken, cessation, halting"), that is, a phonemic glottal stop unlike the ''{{transl|ar|ALA|hamzat al-waṣl|}}'' (<big>{{lang|ar|هَمْزَة الوَصْل}}</big>, "the ''hamzah'' which attaches, connects or joins", i.e. the attachment, connection, joining"), a non-phonemic glottal stop produced automatically only if at the beginning of an utterance, otherwise assimilated. Although it can be written as an [[aleph|alif]] carrying a ''{{transl|ar|ALA|[[wasla|waṣlah]]}}'' sign <big>{{script/Arabic|ٱ}}</big> (only in the [[Quran]]), it is normally indicated by a plain alif without a hamza.<ref>{{Cite book|last=Wright, W. Smith, W. Robertson. Goeje, M. J. de.|url=http://worldcat.org/oclc/484549376|title=A grammar of the Arabic language|date=1996|publisher=At the Univ. Press|oclc=484549376}}</ref>
+
+{{drop|ٱ}}&nbsp;&nbsp;&nbsp;occurs in:
+<br /><br />
+* the definite article ''{{transl|ar|ALA|[[al-]]}}''
+* some short words with two of their three-consonant roots apparent: ''ism'' <big>اسْم</big>, ''ibn'' <big>ابْن</big>, ''imru''' <big>امْرُؤ</big> (fem. ''imra'ah'' <big>امْرَأَة</big>), ''ithnāni'' <big>اثْنَانِ</big> (fem. ''ithnatāni'' <big>اثْنَتَانِ</big>)
+* the imperative verbs of forms I and VII to X
+* the perfective aspect of verb forms VII to X and their verbal nouns
+* some borrowed words that start with consonant clusters such as ''{{transl|ar|ALA|istūdiyū}}''
+
+It is not pronounced following a vowel ({{lang|ar|البَيْتُ الكَبِير}}, ''{{transl|ar|ALA|al-baytu l-kabīru}}''). This event occurs in the [[definite article]] or at the beginning of a noun following a [[preposition]] or a verb following a [[relative pronoun]]. If the definite article ''al-'' is followed by a [[Sun and moon letters|sun letter]], -''l-'' also gives way for the next letter for ''lām'' is assimilated.
+
+== Orthography ==
+The Hamza can be written either alone, as if it were a [[Arabic alphabet|letter]], or with a carrier, when it becomes a [[Arabic diacritics|diacritic]]:
+
+* {{anchor|Low hamza}}Alone: (only one isolated form):
+<div style="margin-left:4em">
+{{Arabic alphabet shapes|ء}}
+</div>
+* {{anchor|High Hamza}}By itself, as a ''high Hamza'' (not used in Arabic language; only one isolated form, but actually used in medial and final positions where it will be non joining), after any Arabic letter (if that letter has an initial or medial form, these forms will be changed to isolated or final forms respectively):
+<div style="margin-left:4em">
+{{Arabic alphabet shapes|ٴ}}
+</div>
+* Combined with a letter:
+<div style="margin-left:2em">
+* {{anchor|Alif Hamza}}Above or below an {{transl|ar|ALA|Alif}}:
+<div style="margin-left:2em">
+{{Arabic alphabet shapes|أ}}
+{{Arabic alphabet shapes|إ}}
+</div>
+* {{anchor|Waw Hamza}}Above a {{transl|ar|ALA|Wāw}}:
+<div style="margin-left:2em">
+{{Arabic alphabet shapes|ؤ}}
+</div>
+* {{anchor|Ya Hamza}}Above a dotless {{transl|ar|ALA|Yāʾ}}, also called 
+{{lang|ar|  همزة على نبرة }} ''{{transl|ar|ALA|Hamza ʿAlā Nabrah / Yāʾ Hamza}}''. Joined medially and finally in Arabic, other languages written in [[Arabic script|Arabic-based script]] may have it initially as well (or it may take its isolated or initial shape, even in Arabic, after a non-joining letter in the same word):
+<div style="margin-left:2em">
+{{Arabic alphabet shapes|ئ}}
+</div>
+* {{anchor|Ya Hamza}}Above {{transl|ar|ALA|Hāʾ}}. In the [[Persian alphabet]], not used in Arabic:
+<div style="margin-left:2em">
+{{Arabic alphabet shapes|هٔ}}
+</div>
+* {{anchor|Ya Hamza}}Above {{transl|ar|ALA|Ḥāʾ}}. In the [[Pashto alphabet]], not used in Arabic:
+<div style="margin-left:2em">
+{{Arabic alphabet shapes|ځ}}
+</div>
+* {{anchor|Ya Hamza}}Above {{transl|ar|ALA|Rāʾ}}. In the [[Khowar alphabet]], not used in Arabic:
+<div style="margin-left:2em">
+{{Arabic alphabet shapes|ݬ}}
+</div>
+
+</div>
+
+== Arabic "seat" rules ==
+
+The rules for writing hamza differ somewhat between languages even if the writing is based on the [[Arabic abjad]]. The following addresses Arabic specifically.
+
+=== Summary ===
+* '''Initial hamza''' is always placed over (أ for {{transl|ar|ALA|ʾa-}} or {{transl|ar|ALA|ʾu-}}) or under (إ for {{transl|ar|ALA|ʾi-}}) an alif.
+* '''Medial hamza''' will have a seat or be written alone:
+** Surrounding vowels determine the seat of the hamza with preceding long vowels and diphthongs (such as {{transl|ar|ALA|aw}} or {{transl|ar|ALA|ay}}) being ignored.
+** ''{{transl|ar|ALA|i-}}'' (ئ) over ''{{transl|ar|ALA|u-}}'' (ؤ) over ''{{transl|ar|ALA|a-}}'' (أ) if there are two conflicting vowels that count; on the line (ء) if there are none.
+** As a special case, ''{{transl|ar|ALA|āʾa, ūʾa}}'' and ''{{transl|ar|ALA|awʾa}}'' require hamza on the line, instead of over an alif as one would expect. (See III.1b below.)
+* '''Final hamza''' will have a seat or be written alone:
+** Alone on the line when preceded by a long vowel or final consonant.
+** Has a seat matching the final short vowel for words ending in a short vowel.
+* ''Two adjacent alifs are never allowed.'' If the rules call for this, replace the combination by a single [[Aleph#Alif maddah: آ|alif maddah]].
+
+=== Detailed description ===
+*Logically, hamza is just like any other letter, but it may be written in different ways.  It has no effect on the way other letters are written.  In particular, surrounding long vowels are written just as they always are, regardless of the "seat" of the hamza—even if this results in the appearance of two consecutive wāws or yāʾs.
+*Hamza can be written in five ways: on its own ("on the line"), under an alif, or over an alif, wāw, or yāʾ, called the "seat" of the hamza. When written over yāʾ, the dots that would normally be written underneath are omitted.
+*When according to the rules below, a hamza with an alif seat would occur before an alif which represents the vowel ''ā'', a single alif is instead written with the maddah symbol over it.
+*The rules for hamza depend on whether it occurs as the initial, middle, or final letter (not sound) in a word. (Thus, final short inflectional vowels do not count, but ''{{transl|ar|ALA|-an}}'' is written as alif + [[nunation]], counts, and the hamza is considered medial.)
+
+I. If the hamza is initial:
+
+*If the following letter is a short vowel, ''{{transl|ar|ALA|[[Arabic diacritics|fatḥah]]}}'' (a) (as in <big>{{lang|ar|أَفْرَاد}}</big> ''{{transl|ar|ALA|ʾafrād}}'') or ''{{transl|ar|ALA|ḍammah}}'' (u) (as in <big>{{lang|ar|أُصُول}}</big> ''{{transl|ar|ALA|ʾuṣūl}}''), the hamza is written over a place-holding alif; ''{{transl|ar|ALA|kasrah}}'' (i) (as in <big>{{lang|ar|إِسْلَام}}</big> ''{{transl|ar|ALA|ʾislām}}'') the hamza is written under a place-holding alif and is called "hamza on a wall."
+*If the letter following the hamza is an alif itself: (as in <big>{{lang|ar|آكُل}}</big> ''{{transl|ar|ALA|ʾākul}}'') alif maddah will occur.
+
+II. If the hamza is final:
+
+*If a short vowel precedes, the hamza is written over the letter (''{{transl|ar|ALA|alif, wāw,}}'' or ''{{transl|ar|ALA|yāʾ}}'') corresponding to the short vowel.
+*Otherwise, the hamza is written on the line (as in <big>{{lang|ar|شَيْء}}</big> ''{{transl|ar|ALA|shayʾ&nbsp;}}'' "thing").
+
+III. If the hamza is medial:
+
+*If a long vowel or diphthong precedes, the seat of the hamza is determined mostly by what follows:
+
+:*If ''{{transl|ar|ALA|i}}'' or ''{{transl|ar|ALA|u}}'' follows, the hamza is written over ''{{transl|ar|ALA|yāʾ}}'' or {{transl|ar|ALA|wāw}}, accordingly.
+:*Otherwise, the hamza would be written on the line. If a ''{{transl|ar|ALA|yāʾ}}'' precedes, however, that would conflict with the stroke joining the ''{{transl|ar|ALA|yāʾ}}'' to the following letter, so the hamza is written over ''{{transl|ar|ALA|yāʾ}}.'' (as in <big>{{lang|ar|جِئَت}}</big>)
+*Otherwise, both preceding and following vowels have an effect on the hamza.
+
+:*If there is only one vowel (or two of the same kind), that vowel determines the seat (''{{transl|ar|ALA|alif, wāw,}}'' or ''{{transl|ar|ALA|yāʾ}}'').
+:*If there are two conflicting vowels, ''{{transl|ar|ALA|i}}'' takes precedence over ''{{transl|ar|ALA|u}}'', ''{{transl|ar|ALA|u}}'' over ''{{transl|ar|ALA|a}}'' so ''{{transl|ar|ALA|miʾah}}'' 'hundred' is written <big>{{lang|ar|مِئَة}}</big>, with hamza over the ''{{transl|ar|ALA|yāʾ}}.''
+:*''Alif-maddah'' occurs if appropriate.
+
+Not surprisingly, the complexity of the rules causes some disagreement.
+*Barron’s ''201 Arabic Verbs'' follows the rules exactly (but the sequence ''{{transl|ar|ALA|ūʾū}}'' does not occur; see below).
+*John Mace’s ''Teach Yourself Arabic Verbs and Essential Grammar'' presents alternative forms in almost all cases when hamza is followed by a long ''{{transl|ar|ALA|ū}}''. The motivation appears to be to avoid two ''{{transl|ar|ALA|wāw}}''s in a row. Generally, the choice is between the form following the rules here or an alternative form using hamza over yāʾ in all cases. Example forms are ''masʾūl'' (<big>مَسْئُول</big>, [adj: responsible, in charge, accountable]; [noun: official, functionary]), ''yajīʾūna'' (<big>يَجِيؤُونَ</big>, verb: ''jāʾa'' <big>جَاءَ</big> "to come"), ''yashāʾūna'' (<big>يَشَاؤُونَ</big>, verb: ''shāʾa'' <big>شَاءَ</big> "to will, to want, to intend, to wish").  Exceptions:
+
+:*In the sequence ''{{transl|ar|ALA|ūʾū}}'' (''{{transl|ar|ALA|yasūʾūna}}'', <big>يَسُوؤُون</big>, verb: ''sawwā'' سَاءَ "to act badly, be bad") the alternatives are hamza on the line, or hamza over ''{{transl|ar|ALA|yāʾ}},'' when the rules here would call for hamza over ''{{transl|ar|ALA|wāw}}''. Perhaps, the resulting sequence of three wāws would be especially repugnant.
+:*In the sequence ''{{transl|ar|ALA|yaqraʾūna}}'' (<big>يَقْرَأُونَ</big>, verb: ''qaraʾa'' <big>قَرَأَ</big> "to read, to recite, to review/ study") the alternative form has hamza over alif, not ''{{transl|ar|ALA|yāʾ}}.''
+:*The forms ''yabṭuʾūna'' (<big>يَبْطُؤُونَ</big>, verb: ''baṭuʾa'' <big>بَطُؤَ</big> "to be or become slow, late or backward, "to come late", "to move slowly") and ''yaʾūbu'' (<big>يَؤُوبُ</big>, verb: <big>آبَ</big> "move to the back", "to return  to come back", "to repent") have no alternative form. (Note ''{{transl|ar|ALA|yaqraʾūna}}'' with the same sequence of vowels.)
+*Haywood and Nahmad’s ''A new Arabic Grammar of the Written Language'' does not write the paradigms out in full, but in general agrees with John Mace’s book, including the alternative forms and sometimes lists a third alternative with the entire sequence ''{{transl|ar|ALA|ʾū}}'' written as a single hamza over ''{{transl|ar|ALA|wāw}}'' instead of as two letters.
+* ''Al-Kitāb fī Taʿallum...'' presents paradigms with hamza written the same way throughout, regardless of the rules above. Thus ''{{transl|ar|ALA|yabdaʾūna}}'' with hamza only over alif, ''{{transl|ar|ALA|yajīʾūna}}'' with hamza only over ''{{transl|ar|ALA|yāʾ}},'' ''{{transl|ar|ALA|yaqraʾīna}}'' with hamza only over alif, but that is not allowed in any of the previous three books. (It appears to be an overgeneralization on the part of the ''al-Kitāb'' writers.)
+
+===Overview tables===
+
+The letter {{rtl-lang|ar| ط }} (''ṭ'') stands here for any consonant.
+:'''Note''': The table shows only potential combinations and their graphic representations according to the spelling rules; not every possible combination exists in Arabic.
+
+{| class="wikitable" style="background:white;text-align:center;"
+|+ Intervocalic
+
+!rowspan="2"| first||colspan="6"|second
+|-
+! ʾiṭ||ʾuṭ||ʾaṭ||ʾīṭ||ʾūṭ||ʾāṭ
+|-
+!rowspan="2" scope="row"| ṭiʾ
+|ṭiʾiṭ||ṭiʾuṭ||ṭiʾaṭ||ṭiʾīṭ||ṭiʾūṭ||ṭiʾāṭ
+|- style="font-size:180%;"
+|style="background:MistyRose;"|{{rtl-lang|ar| طِئِط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طِئُط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طِئَط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طِئِيط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طِئُوط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طِئَاط }}
+|-
+!rowspan="2" scope="row"| ṭuʾ
+|ṭuʾiṭ||ṭuʾuṭ||ṭuʾaṭ||ṭuʾīṭ||ṭuʾūṭ{{efn |name=two-w}}||ṭuʾāṭ
+|- style="font-size:180%;"
+|style="background:MistyRose;"|{{rtl-lang|ar| طُئِط }}
+|style="background:LightCyan;"|{{rtl-lang|ar| طُؤُط }}
+|style="background:LightCyan;"|{{rtl-lang|ar| طُؤَط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طُئِيط }}
+|style="background:LightCyan;"|{{rtl-lang|ar| طُؤُوط }}
+|style="background:LightCyan;"|{{rtl-lang|ar| طُؤَاط }}
+|-
+!rowspan="2" scope="row"| ṭaʾ
+|ṭaʾiṭ||ṭaʾuṭ||ṭaʾaṭ||ṭaʾīṭ||ṭaʾūṭ{{efn |name=two-w}}||ṭaʾāṭ
+|- style="font-size:180%;"
+|style="background:MistyRose;"|{{rtl-lang|ar| طَئِط }}
+|style="background:LightCyan;"|{{rtl-lang|ar| طَؤُط }}
+|style="background:Honeydew;"|{{rtl-lang|ar| طَأَط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طَئِيط }}
+|style="background:LightCyan;"|{{rtl-lang|ar| طَؤُوط }}
+|style="background:Honeydew;"|{{rtl-lang|ar| طَآط }}
+|-
+|
+|-
+!rowspan="2" scope="row"| ṭīʾ
+|ṭīʾiṭ||ṭīʾuṭ||ṭīʾaṭ||ṭīʾīṭ||ṭīʾūṭ||ṭīʾāṭ
+|- style="font-size:180%;"
+|style="background:MistyRose;"|{{rtl-lang|ar| طِيئِط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طِيئُط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طِيئَط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طِيئِيط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طِيئُوط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طِيئَاط }}
+|-
+!rowspan="2" scope="row"| ṭayʾ
+|ṭayʾiṭ||ṭayʾuṭ||ṭayʾaṭ||ṭayʾīṭ||ṭayʾūṭ||ṭayʾāṭ
+
+|- style="font-size:180%;"
+|style="background:MistyRose;"|{{rtl-lang|ar| طَيْئِط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طَيْئُط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طَيْئَط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طَيْئِيط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طَيْئُوط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طَيْئَاط }}
+|-
+!rowspan="2" scope="row"| ṭūʾ
+|ṭūʾiṭ||ṭūʾuṭ||ṭūʾaṭ||ṭūʾīṭ||ṭūʾūṭ||ṭūʾāṭ
+
+|- style="font-size:180%;"
+|style="background:Lavender;"|{{rtl-lang|ar| طُوءِط }}
+|style="background:Lavender;"|{{rtl-lang|ar| طُوءُط }}
+|style="background:Lavender;"|{{rtl-lang|ar| طُوءَط }}
+|style="background:Lavender;"|{{rtl-lang|ar| طُوءِيط }}
+|style="background:Lavender;"|{{rtl-lang|ar| طُوءُوط }}
+|style="background:Lavender;"|{{rtl-lang|ar| طُوءَاط }}
+|- 
+!rowspan="3" scope="row"| ṭawʾ
+|ṭawʾiṭ||ṭawʾuṭ||ṭawʾaṭ||ṭawʾīṭ||ṭawʾūṭ||ṭawʾāṭ
+
+|- style="font-size:180%;"
+|style="background:Lavender;"|{{rtl-lang|ar| طَوْءِط }}
+|style="background:Lavender;"|{{rtl-lang|ar| طَوْءُط }}
+|style="background:Lavender;"|{{rtl-lang|ar| طَوْءَط }}
+|style="background:Lavender;"|{{rtl-lang|ar| طَوْءِيط }}
+|rowspan="2" style="background:Lavender;"|{{rtl-lang|ar| طَوْءُوط }}
+|style="background:Lavender;"|{{rtl-lang|ar| طَوْءَاط }}
+|- style="font-size:180%;"
+|style="background:MistyRose;"|{{rtl-lang|ar| طَوْئِط }}
+|style="background:LightCyan;"|{{rtl-lang|ar| طَوْؤُط }}
+|style="background:Honeydew;"|{{rtl-lang|ar| طَوْأَط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طَوْئِيط }}
+|style="background:Honeydew;"|{{rtl-lang|ar| طَوْآط }}
+|-
+!rowspan="2" scope="row"| ṭāʾ
+|ṭāʾiṭ||ṭāʾuṭ||ṭāʾaṭ||ṭāʾīṭ||ṭāʾūṭ||ṭāʾāṭ
+
+|- style="font-size:180%;"
+|style="background:MistyRose;"|{{rtl-lang|ar| طَائِط }}
+|style="background:LightCyan;"|{{rtl-lang|ar| طَاؤُط }}
+|style="background:Lavender;"|{{rtl-lang|ar| طَاءَط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طَائِيط }}
+|style="background:Lavender;"|{{rtl-lang|ar| طَاءُوط }}
+|style="background:Lavender;"|{{rtl-lang|ar| طَاءَاط }}
+|}
+{| class="wikitable" style="background:white;text-align:center;"
+|+ Other cases
+!rowspan="2"|condition||colspan="6"|vowel
+|-
+! i||u||a||ī||ū||ā
+|-
+!rowspan="2" scope="row"| #_VC
+| ʾiṭ||ʾuṭ||ʾaṭ||ʾīṭ||ʾūṭ||ʾāṭ
+|- style="font-size:180%;"
+|style="background:Honeydew;"|{{rtl-lang|ar| إِط }}
+|style="background:Honeydew;"|{{rtl-lang|ar| أُط }}
+|style="background:Honeydew;"|{{rtl-lang|ar| أَط }}
+|style="background:Honeydew;"|{{rtl-lang|ar| إِيط }}
+|style="background:Honeydew;"|{{rtl-lang|ar| أُوط }}
+|style="background:Honeydew;"|{{rtl-lang|ar| آط }}
+|-
+!rowspan="2" scope="row"| C_VC
+| ṭʾiṭ||ṭʾuṭ||ṭʾaṭ||ṭʾīṭ||ṭʾūṭ||ṭʾāṭ
+|- style="font-size:180%;"
+|style="background:MistyRose;"|{{rtl-lang|ar| طْئِط }}
+|style="background:LightCyan;"|{{rtl-lang|ar| طْؤُط }}
+|style="background:Honeydew;"|{{rtl-lang|ar| طْأَط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طْئِيط }}
+|style="background:Lavender;"|{{rtl-lang|ar| طْءُوط }}
+|style="background:Honeydew;"|{{rtl-lang|ar| طْآط }}
+|-
+!rowspan="2" scope="row"| CV_C
+| ṭiʾṭ||ṭuʾṭ||ṭaʾṭ||ṭīʾṭ||ṭūʾṭ||ṭāʾṭ
+|- style="font-size:180%;"
+|style="background:MistyRose;"|{{rtl-lang|ar| طِئْط }}
+|style="background:LightCyan;"|{{rtl-lang|ar| طُؤْط }}
+|style="background:Honeydew;"|{{rtl-lang|ar| طَأْط }}
+|style="background:MistyRose;"|{{rtl-lang|ar| طِيئْط }}
+|style="background:Lavender;"|{{rtl-lang|ar| طُوءْط }}
+|style="background:Lavender;"|{{rtl-lang|ar| طَاءْط }}
+|-
+!rowspan="3" scope="row"| CV_#
+| ṭiʾ||ṭuʾ||ṭaʾ||ṭīʾ||ṭūʾ||ṭāʾ
+|- style="font-size:180%;"
+|style="background:MistyRose;"|{{rtl-lang|ar| طِئ }}
+|style="background:LightCyan;"|{{rtl-lang|ar| طُؤ }}
+|style="background:Honeydew;"|{{rtl-lang|ar| طَأ }}
+|rowspan="2" style="background:Lavender;"|{{rtl-lang|ar| طِيء }}
+|rowspan="2" style="background:Lavender;"|{{rtl-lang|ar| طُوء }}
+|rowspan="2" style="background:Lavender;"|{{rtl-lang|ar| طَاء }}
+|- style="font-size:180%;"
+|style="background:Lavender;"|{{rtl-lang|ar| طِء }}
+|style="background:Lavender;"|{{rtl-lang|ar| طُء }}
+|style="background:Lavender;"|{{rtl-lang|ar| طَء }}
+|}
+''Colours'':
+{{legend|MistyRose|The hamza is written over 
+''yāʾ'' {{rtl-lang|ar| ئ }}}}
+{{legend|LightCyan|The hamza is written over ''wāw'' {{rtl-lang|ar| ؤ }}}}
+{{legend|Honeydew|The hamza is written over or under ''alif'' {{rtl-lang|ar| أ }}, {{rtl-lang|ar| آ }}, {{rtl-lang|ar| إ }}}}
+{{legend|Lavender|The hamza is written on the line {{rtl-lang|ar| ء }}}}
+
+''Notes'':
+{{notelist|refs=
+{{efn|name=two-w|Arabic writing has tried to avoid two consecutive ''wāw''s, however, in Modern Arabic this rule is less applicable, thus modern {{lang|ar|رُؤُوس}} ''ruʾūs'' "heads" corresponds to {{lang|ar|رُءُوس}} in the Quran.}}
+}}
+
+== Hamza in other Arabic-based scripts ==
+
+=== Urdu/Shahmukhi script ===
+In [[Urdu]] script, hamza does not occur at the initial position over alif since alif is not used as a glottal stop in Urdu. In the middle position, if hamza is surrounded by vowels, it indicates a [[diphthong]] between the two vowels. In the middle position, if hamza is surrounded by only one vowel, it takes the sound of that vowel. In the final position hamza is silent or produces a glottal sound, as in Arabic.
+
+In Urdu, hamza usually represents a diphthong between two vowels. It rarely acts like the Arabic hamza except in a few loanwords from Arabic.
+
+Hamza is also added at the last letter of the first word of [[ezāfe]] compound to represent -e- if the first word ends with [[Yodh|yeh]] or with [[He (letter)|he]] or over [[Yodh|bari yeh]] if it is added at the end of the first word of the ezāfe compound.
+
+Hamza is always written on the line in the middle position unless in [[Waw (letter)|waw]] if that letter is preceded by a non-joiner letter; then, it is seated above waw. Hamza is also seated when written above bari yeh. In the final form, Hamza is written in its full form. In ezāfe, hamza is seated above he, yeh or bari yeh of the first word to represent the -e- of ezāfe compound.
+
+=== Uyghur script ===
+In the [[Uyghur Arabic alphabet]] the hamza is not a distinct letter and is not generally used to denote the glottal stop, but rather to indicate vowels. The hamza is only depicted with vowels in their initial or isolated forms, and only then when the vowel starts a word. It is also occasionally used when a word has two vowels in a row.<ref>{{cite book |last1=Nazarova |first1=Gulnisa |last2=Niyaz |first2=Kurban |title=Uyghur: An Elementary Textbook |date=December 2013 |publisher=Georgetown University Press |location=Washington D.C. |isbn=9781589016842 |pages=5–8 |edition=Bilingual}}</ref>
+
+== Latin representations ==
+There are different ways to represent hamza in Latin transliteration:
+
+* In the [[International Phonetic Alphabet]] (IPA), the sound of the [[glottal stop]] is represented by the letter [[Glottal stop (letter)|ʔ]], resembling a dotless question mark.
+* There is a tradition of using <big>'</big>, the simple apostrophe; and a [[`|grave accent]] ‹<big>`</big>› represents `ayn ({{lang|ar|[[ع]]}}).
+* Some [[Arabic transliteration|standard transliterations]], such as [[DIN 31635]], transliterate it with a [[modifier letter right half ring]] <span title="Modifier letter right half ring" style="font-size: 170%;">ʾ</span> and others such as [[ALA-LC]] with the [[modifier letter apostrophe]] <span title="Modifier letter apostrophe" style="font-size: 160%;">ʼ</span> and sometimes substituted with the Right Single Quotation Mark <span title="Modifier letter apostrophe" style="font-size: 160%;">’</span>.
+* Different unstandardized symbols exist such as ''[[2 (number)|2]]'' in [[Arabic chat alphabet]].
+
+== See also ==
+<!---♦♦♦ Please respect alphabetical order by ♦♦♦--->
+* [[ʼ]] and [[ʾ]]
+* [[ʻOkina]]
+* [[Aleph]]
+* [[Arabic alphabet]]
+* [[Arabic phonology]]
+* [[Dagger alif]]
+* [[Glottal stop (letter)]]
+* [[Hamza (name)]]
+* [[Harakat]]
+* [[Help:IPA/Arabic]]
+* [[Romanization of Arabic]]
+* [[Varieties of Arabic]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{commonscatinline}}
+* [http://www.salaamarabic.com/lesson/plan/1494/glottal_stop Interactive lesson for learning hamza]
+
+{{Arabic language}}
+
+[[Category:Arabic letters]]
+[[Category:Arabic diacritics]]
+[[Category:Spelling]]
+[[Category:Graphemes]]

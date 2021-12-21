@@ -1,0 +1,66 @@
+{{For|the Hokianga community|Waimā}}
+{{Use dmy dates|date=August 2015}}
+{{Use New Zealand English|date=August 2015}}
+{{More sources|date=July 2019}}
+{{Infobox New Zealand suburbs
+| name           = Waima
+| image          =
+| caption1       =
+| map           =  {{infobox mapframe|zoom=13}}
+| city1          = [[Auckland Council]]
+| city2          =
+| ward           = [[Waitākere Ward]]
+| established    =
+| area           =
+| population     = 2682
+| popdate        = 2018
+| trainstations  =
+| ferryterminals =
+| airports       =
+| hospitals      =
+| north          = [[Glen Eden, New Zealand|Glen Eden]]
+| northeast      = [[Konini]]
+| east           = [[Titirangi]]
+| southeast      = 
+| south          = 
+| southwest      = [[Woodlands Park]]
+| west           = 
+| northwest      = 
+| location_map   =
+| coordinates    = 
+| caption2       =
+}}
+
+'''Waima''' is an [[Auckland]] [[suburb]].
+
+It is under the local governance of the [[Auckland Council]].
+
+The majority of the modest population is clustered around the comparatively prominent Waima [[superette]], situated just off the main arterial road Woodlands Park Road, on such streets as Waima Crescent, Hollywood Avenue, Boylan Road and Rimutaka Place. The central "hub" could be considered Waima reserve, which consists of various public amenities such as a playground, basketball court, toilets and a sport field.
+
+To the North West, Waima is bordered by popular walking track and Lower Nihotipu Reservoir pipeline route "Exhibition Drive". Two water treatment stations and holding tanks service Auckland city's water supply from locations on Woodlands Park Road. Waima extends East to Tainui Road and the Auckland Centennial Memorial Park and the cul de sac of Rimutaka place represents Waima's Southernmost point.
+
+==Demographics==
+{{Historical populations|2006|2,463|2013|2,526|2018|2,682|percentages=pagr|source=<ref name="Census 2018"/>}}
+The statistical area of Waima-Woodlands Park had a population of 2,682 at the [[2018 New Zealand census]], an increase of 156 people (6.2%) since the [[2013 New Zealand census|2013 census]], and an increase of 219 people (8.9%) since the [[2006 New Zealand census|2006 census]]. There were 882 households. There were 1,308 males and 1,374 females, giving a sex ratio of 0.95 males per female. The median age was 38.9 years, with 666 people (24.8%) aged under 15 years, 390 (14.5%) aged 15 to 29, 1,410 (52.6%) aged 30 to 64, and 213 (7.9%) aged 65 or older.
+
+Ethnicities were 90.2% European/Pākehā, 7.7% Māori, 2.7% Pacific peoples, 9.1% Asian, and 2.6% other ethnicities (totals add to more than 100% since people could identify with multiple ethnicities).
+
+The proportion of people born overseas was 30.2%, compared with 27.1% nationally.
+
+Although some people objected to giving their religion, 65.3% had no religion, 21.7% were Christian, and 4.7% had other religions.
+
+Of those at least 15 years old, 750 (37.2%) people had a bachelor or higher degree, and 186 (9.2%) people had no formal qualifications. The median income was $50,300. The employment status of those at least 15 was that 1,194 (59.2%) people were employed full-time, 324 (16.1%) were part-time, and 42 (2.1%) were unemployed.<ref name="Census 2018">{{NZ census 2018|Waima-Woodlands Park (134600)|waima-woodlands-park|Waima-Woodlands Park}}</ref>
+
+==Education==
+Most young residents attend nearby [[Woodlands Park Primary School]] or Titirangi Primary School and [[Glen Eden Intermediate school]]. The local State secondary schools are [[Green Bay High School (New Zealand)|Green Bay High School]], [[Kelston Boys High School]] and Kelston Girls High School. Catholic students usually commute by bus, or train from [[Glen Eden, New Zealand|Glen Eden]] or [[New Lynn]] to [[Marist College, New Zealand|Marist College]] (girls) or [[St Peter's College, Auckland|St Peter's College]] (boys).
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://kura.aucklandlibraries.govt.nz/digital/collection/photos/search/searchterm/Waima/field/title/ Photographs of Waima] held in [[Auckland Libraries|Auckland Libraries']] heritage collections.
+{{coord|36|56|28|S|174|38|10|E|display=title|region:NZ_type:city_source:GNS-enwiki}}
+
+[[Category:Suburbs of Auckland]]
+[[Category:Waitakere City]]
+[[Category:Waitākere Ranges]]

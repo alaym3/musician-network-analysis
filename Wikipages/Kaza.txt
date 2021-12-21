@@ -1,0 +1,51 @@
+{{About|a type of administrative unit in the Near East}}
+
+A '''kaza''' ({{Lang-ar|قضاء}}, ''qaḍāʾ'', {{IPA-ar|qɑˈd̪ˤɑːʔ|pron}}, plural: {{lang|ar|أقضية}}, ''aqḍiyah'', {{IPA-ar|ˈɑqd̪ˤijɑ|pron}}; {{lang-ota|kazâ}}<ref name=Somel151/>{{#tag:ref|[[Languages of the Ottoman Empire|Some translations in languages used by ethnic minorities]]:<ref name=Straussp4144>{{cite book |last=Strauss |first=Johann|url=https://menadoc.bibliothek.uni-halle.de/menalib/download/pdf/2734659?originalFilename=true |year=2010 |chapter=A Constitution for a Multilingual Empire: Translations of the ''Kanun-ı Esasi'' and Other Official Texts into Minority Languages | editor=Herzog, Christoph|editor2=Malek Sharif|title= The First Ottoman Experiment in Democracy|publisher=[[Orient-Institut Istanbul]] |publication-place= [[Würzburg]]|page= 21-51 }} ([http://menadoc.bibliothek.uni-halle.de/urn/urn:nbn:de:gbv:3:5-91645 info page on book] at [[Martin Luther University]]) // CITED: p. 41-44 (PDF p. 43-46/338).</ref>
+* [[Armenian language|Armenian]]: աւան (''awan''; meaning "borough")<ref name=Straussp4144/>
+* [[Bulgarian language|Bulgarian]]: околия (''okoliya''; meaning "district");<ref name=Straussp4144/> also Кааза
+* {{lang-el|υποδιοίκησις}} (''hypodioikēsis'') or δήμος (''dēmos'', which means "borough" or "municipality");<ref name=Straussp4144/> also Καζάς
+* {{lang-lad|kaza}}<ref name=Straussp4144/>
+|group=note}}) is an [[administrative division]] historically used in the [[Ottoman Empire]] and currently used in several of its successor states. The term is from [[Ottoman Turkish language|Ottoman Turkish]] and means "jurisdiction"; it is often translated "district",<ref name=Faroqhi/> "sub-district"<ref name=Quataert/> (though this also applies to a [[nahiye]]), or "juridical district".<ref name=Rogan/>
+
+==Ottoman Empire==
+In the Ottoman Empire, a kaza was originally a "geographical area subject to the legal and administrative jurisdiction of a ''[[kadı]]''.<ref name=Somel151/> With the first [[Tanzimat]] reforms of 1839, the administrative duties of the ''kadı'' were transferred to a governor ''([[kaymakam]])'', with the ''kadıs'' acting as judges of [[Sharia|Islamic law]].<ref name=Somel144/> In the Tanzimat era, the kaza became an administrative district with the 1864 Provincial Reform Law, which was implemented over the following decade.<ref name=Rogan/> A kaza unified the jurisdiction of a governor ''(kaymakam)'' appointed by the [[Interior ministry|Ministry of the Interior]],<ref name=Cetinsaya/> a treasurer (chief finance officer), and a judge ''(kadı)'' in a single administrative unit.<ref name=Rogan/> It was part of efforts of the [[Sublime Porte|Porte]] to establish uniform, rational administration across the empire.<ref name=Rogan/>
+
+The kaza was a subdivision of a [[sanjak]]<ref name=Somel151/> and corresponded roughly to a city with its surrounding villages. Kazas, in turn, were divided into [[Nahiyah|nahiyes]] (governed by ''müdürs'' and ''[[mütesellim]]s'') and villages (''karye'', governed by ''[[Muhtar (title)|muhtars]]'').<ref name=Cetinsaya/> The 1871 revisions to the administrative law established the nahiye (still governing a ''müdür''), as an intermediate level between the kaza and the village.<ref name=Cetinsaya/>
+
+==Turkey==
+The early [[Turkey|Republic of Turkey]] continued to use the term ''kaza'' until it renamed them [[List of districts in Turkey|ilçe]] in the 1920s.
+
+==Arab countries==
+The kaza was also formerly a second-level administrative division in [[Syria]], but it is now called a [[mintaqah]].
+
+The kaza or '''qadaa''' is used to refer to the following:
+
+* [[districts of Iraq]] (second-level, below the governorate)
+* [[districts of Lebanon]] (second-level, below the governorate)
+* [[Jordan#Administrative divisions|Sub-districts]] (third-level, below the governorate and the district)
+* [[Districts of Mandatory Palestine|subdistricts of Mandatory Palestine]]
+* [[Districts of Israel|Counties of Israel]]
+
+== See also ==
+* [[Alcalde]]
+* [[Qadi]]
+
+== Notes ==
+{{reflist|group=note}}
+
+==References==
+{{reflist|refs=
+<ref name=Cetinsaya>Gökhan Çetinsaya. ''The Ottoman Administration of Iraq, 1890-1908.'' SOAS/Routledge Studies on the Middle East. Routledge, 2006. p. 8-9. {{ISBN|9780203481325}}</ref>
+<ref name=Faroqhi>Suraiya Faroqhi. ''Approaching Ottoman History: An Introduction to the Sources.'' Cambridge University Press, 1999. p. 88. {{ISBN|9780521666480}}</ref>
+<ref name=Quataert>Donald Quataert. ''The Ottoman Empire, 1700-1922.'' 2nd Ed. Volume 34 of New Approaches to European History. Cambridge University Press, 2005. p. 108. {{ISBN|9781139445917}}</ref>
+<ref name=Rogan>Eugene L. Rogan. ''Frontiers of the State in the Late Ottoman Empire: Transjordan, 1850-1921.'' Volume 12 of Cambridge Middle East Studies. Cambridge University Press, 2002. p. 12. {{ISBN|9780521892230}}</ref>
+<ref name=Somel144>Selçuk Akşin Somel. "Kadı". ''The A to Z of the Ottoman Empire''. Volume 152 of A to Z Guides. Rowman & Littlefield, 2010. p. 144-145. {{ISBN|9780810875791}}</ref>
+<ref name=Somel151>Selçuk Akşin Somel. "Kazâ". ''The A to Z of the Ottoman Empire''. Volume 152 of A to Z Guides. Rowman & Littlefield, 2010. p. 151. {{ISBN|9780810875791}}</ref>
+}}
+
+{{Arabic terms for country subdivisions}}
+{{Turkish terms for country subdivisions}}
+
+[[Category:Subdivisions of the Ottoman Empire]]
+[[Category:Types of administrative division]]
+[[Category:Arabic words and phrases]]

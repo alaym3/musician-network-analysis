@@ -1,0 +1,20 @@
+{{short description|Irish musician, producer and visual artist}}
+{{Use dmy dates|date=May 2019}}
+{{Use British English|date=May 2019}}
+{{Infobox musical artist
+| name            = For Those I Love
+| birth_name      = David Balfe
+
+| origin          = [[Dublin]], Ireland
+| genre           = {{hlist|[[Electronic music|Electronic]]}}
+| occupation      = {{hlist|Musician|record producer}}
+| years_active    = 2020–present
+| label           = {{hlist|[[September Recordings (record label)|September Recordings]]}}
+| website          = {{URL|forthosei.love}}
+}}
+'''For Those I Love''' is the musical project of David Balfe from Dublin,<ref name="nme_interview">{{cite web |last1=Pilley |first1=Max |title=For Those I Love: Dublin artist tackles grief and politics with the respect they deserve |url=https://www.nme.com/blogs/nme-radar/for-those-i-love-the-dublin-interview-2895005 |website=[[NME]] |access-date=6 April 2021 |date=8 March 2021}}</ref> whose 2021 debut album ''For Those I Love'' was met with critical acclaim.<ref name="metacritic">{{cite web |title=Critic Reviews for For Those I Love |url=https://www.metacritic.com/music/for-those-i-love/for-those-i-love/critic-reviews |website=[[Metacritic]] |access-date=6 April 2021}}</ref> He is a former band member of [https://theblindhc.bandcamp.com/ The Blind] and [https://durtyface.tumblr.com/post/102188304145/mothers-fathers-discography Mothers & Fathers] with Pamela Connolly of [[Pillow Queens]]. In December 2020, For Those I Love performed the project's [https://www.hotpress.com/music/for-those-i-love-releases-full-other-voices-set-to-mark-30th-birthday-22857377 first extended live performance] as part of the Irish music festival and TV show [[Other Voices (Irish TV series)|Other Voices]].   
+
+==References==
+{{reflist}}
+[[Category:Irish electronic musicians]]
+{{Electronic-musician-stub}}

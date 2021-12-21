@@ -1,0 +1,115 @@
+{{Infobox musical artist
+| name            = Off On Off
+| image           =
+| landscape       =
+| caption         =
+| alias           =
+| origin          = [[Seoul]], [[South Korea]]
+| genre           = {{hlist|[[Contemporary R&B]]|[[electronica]]}}
+| years_active    = {{start date|2016}}–present
+| label           = [[YG Entertainment|HIGHGRND]]
+| associated_acts =
+| website         =
+| current_members = * [[Colde]]
+* 0Channel
+}}
+
+'''Off On Off''' ([[Hangul]]: 오프온오프, stylized as '''offonoff''') is a [[South Korea]]n duo under [[YG Entertainment|HIGHGRND]] in [[Seoul]], [[South Korea]].<ref>{{cite web|url=http://people.search.naver.com/search.naver?where=nexearch&sm=tab_ppn&query=offonoff&os=4309527&ie=utf8&key=PeopleService|title=오프온오프 프로필|publisher=Naver|language=ko}}</ref> They debuted on September 21, 2016, with "Bath".<ref>{{cite web|url=http://tenasia.hankyung.com/archives/1259900|title=오프온오프, 정규 1집 오늘(24일) 발매|publisher=Ten Asia|language=ko}}</ref>
+
+==Members==
+*[[Colde]] – vocalist
+*0Channel – producer, DJ（New Stage Name – EOH）
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" rowspan="2" | Title
+! scope="col" rowspan="2" | Album details
+! scope="col" colspan="1" style="width:5em;" | Peak chart positions
+! scope="col" rowspan="2" | Sales
+|-
+! <small>[[Gaon Music Chart|KOR]]</small><br><ref name="gaon_album_chart">{{cite web|url=http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T|title=Gaon Album Chart|publisher=Gaon Music Chart}}</ref>
+|-
+! scope="row" | ''Boy.''
+|
+*Released: July 24, 2017
+*Label: [[YG Entertainment|HIGHGRND]], [[KT Music]]
+*Formats: [[Compact disc|CD]], [[Music download|digital download]]
+{{hidden|Track listing|
+# in the car
+# '''Cigarette''' <small>(feat. Tablo, MISO)</small>
+# gold <small>(feat. Dean)</small>
+# Good2me <small>(feat. PUNCHNELLO)</small>
+# Boy
+# Photograph
+# Film Roll
+# Dance <small>(춤)</small>
+# Midnight
+# Moon, 12:04am
+# homeless door <small>(feat. Rad Museum)</small>
+# '''Overthinking'''
+}}
+| 27
+| 
+*KOR: 2,196<ref>{{cite web|url=http://gaonchart.co.kr/main/section/chart/album.gaon?serviceGbn=ALBUM&termGbn=month&hitYear=2017&targetTime=08&nationGbn=T|title=2017년 08월 Album Chart}}</ref>
+|-
+|}
+
+===Single albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" rowspan="2" | Title
+! scope="col" rowspan="2" | Album details
+! scope="col" colspan="1" style="width:5em;" | Peak chart positions
+! scope="col" rowspan="2" | Sales
+|-
+! <small>[[Gaon Music Chart|KOR]]</small><br><ref name="gaon_album_chart"/>
+|-
+! scope="row" | ''Photograph''
+|
+*Released: November 8, 2016
+*Label: HIGHGRND, KT Music
+*Formats: CD, digital download
+| 88
+| {{N/A}}
+|-
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" rowspan="2" | Title
+! scope="col" rowspan="2" | Year
+! scope="col" colspan="1" | Peak chart <br> positions
+! scope="col" rowspan="2" | Sales <small>([[Music download|DL]])</small>
+! scope="col" rowspan="2" | Album
+|-
+! <small>[[Gaon Music Chart|KOR]]</small><br><ref name="gaon_digital_chart">{{cite web|url=http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL|title=Gaon Digital Chart|publisher=Gaon Music Chart}}</ref>
+|-
+! scope="row" | "Bath"
+| rowspan="2" | 2016
+| —
+| rowspan="4" {{N/A}}
+| {{N/A|Non-album single}}
+|-
+! scope="row" | "Photograph"
+| —
+| rowspan="3" | ''Boy.''
+|-
+! scope="row" | "Boy"
+| rowspan="2" | 2017
+| —
+|-
+! scope="row" | "Dance" (춤)
+| —
+|-
+|colspan="5" align="center"|<small>"—" denotes releases that did not chart.</small>
+|}
+
+==References==
+{{reflist|30em}}
+
+{{Authority control}}
+
+[[Category:Musical groups from Seoul]]
+[[Category:Musical groups established in 2016]]
+[[Category:2016 establishments in South Korea]]
+[[Category:South Korean musical duos]]

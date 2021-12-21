@@ -1,0 +1,241 @@
+{{short description|American writer and poet}}
+{{For|the darts player|Ray Carver}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Raymond Carver
+|birth_name=Raymond Clevie Carver Jr.
+| image       = Raymond Carver.jpg
+| imagesize   = 
+| caption     =
+| pseudonym   =
+| birth_date  = {{birth date|1938|5|25}}
+| birth_place = [[Clatskanie, Oregon|Clatskanie]], [[Oregon]], U.S.
+| death_date  = {{death date and age|1988|8|2|1938|5|25}}
+| death_place = {{nowrap|[[Port Angeles, Washington|Port Angeles]], [[Washington (state)|Washington]], U.S.}}
+| occupation  = Writer
+| nationality = [[United States|American]]
+| period      = 1958–1988
+| genre       = Short story, poetry
+| subject     =
+| movement    = [[Minimalism#Literary minimalism|Minimalism]], [[dirty realism]]
+<!--Deprecated parameters; | influences  = [[John Gardner (novelist)|John Gardner]], [[Anton Chekhov]], [[Ernest Hemingway]], [[William Carlos Williams]], [[Flannery O'Connor]], [[Richard Yates (novelist)|Richard Yates]], [[James Salter]], [[Isaac Babel]], [[Frank O'Connor]], [[Antonio Machado]], [[VS Pritchett]]
+| influenced  = [[Jay McInerney]], [[Robert Altman]], [[Richard Ford]], [[Per Petterson]], [[Tobias Wolff]], [[Jayne Anne Phillips]], [[Tess Gallagher]], [[Mona Simpson]], [[K.J. Stevens]], [[Haruki Murakami]], [[Tom Perrotta]], [[J. Jill Robinson]], [[Mostafa Azizi]] -->
+| spouse = {{unbulleted list | {{marriage|Maryann Burk|June 1957|1982|end=div}} | {{marriage|[[Tess Gallagher]]|1988}}}}
+| website     =
+}}
+
+'''Raymond Clevie Carver Jr.''' (May 25, 1938 – August 2, 1988) was an American [[short story]] writer and [[poet]]. He contributed to the revitalization of the American short story during the 1980s.
+
+==Early life==
+Carver was born in [[Clatskanie, Oregon]], a mill town on the [[Columbia River]], and grew up in [[Yakima, Washington]], the son of Ella Beatrice (born Casey) and Clevie Raymond Carver.<ref>{{Cite news|url=https://www.nytimes.com/1988/08/03/obituaries/raymond-carver-writer-and-poet-of-the-working-poor-dies-at-50.html|title=Raymond Carver, Writer and Poet Of the Working Poor, Dies at 50|last=Kellerman|first=Stewart|access-date=2018-03-13}}</ref> His father, a [[sawmill]] worker from [[Arkansas]], was a fisherman and a heavy drinker. Carver's mother worked on and off as a waitress and a retail clerk. His brother, James Franklin Carver, was born in 1943.
+
+Carver was educated at local schools in Yakima. In his spare time, he read mostly novels by [[Mickey Spillane]] or publications such as ''[[Sports Afield]]'' and ''[[Outdoor Life]]'', and hunted and fished with friends and family.
+
+After graduating from [[Davis High School (Washington)|Yakima High School]] in 1956, Carver worked with his father at a sawmill in California. In June 1957, at age 19, he married 16-year-old Maryann Burk, who had just graduated from a private [[Episcopal Church in the United States of America|Episcopal]] school for girls. Their daughter, Christine La Rae, was born in December 1957. Their second child, a boy named Vance Lindsay, was born a year later. Carver worked as a delivery man, janitor, [[library]] assistant, and sawmill laborer, while Maryann worked as an administrative assistant, high school English teacher, salesperson, and waitress.<ref name="ReferenceA">{{cite book|author=Sklenicka, Carol|title=Raymond Carver: A Writer's Life|url=https://archive.org/details/raymondcarverwri00skle|url-access=registration|location= New York|publisher= Scribner|date= 2009|isbn=9780743262453}}</ref>{{page needed|date=August 2018}}
+
+==Writing career==
+Carver moved to [[Paradise, California]] with his family to be close to his mother-in-law.{{when|date=August 2018}} He became interested in writing while attending [[California State University, Chico|Chico State College]], and enrolled in a [[creative writing]] course taught by the novelist [[John Gardner (novelist)|John Gardner]], then a recent doctoral graduate of the [[Iowa Writers' Workshop]], who became a mentor and had a major influence on Carver's life and career. In 1961, Carver's first published story, "The Furious Seasons", appeared. More florid than his later work, the story strongly bore the influence of [[William Faulkner]]. "Furious Seasons" was later used as a title for a collection of stories published by Capra Press, and is part of the collection, ''No Heroics, Please''<ref>{{cite news|work=Los Angeles Times|title=''A Dirty Realist : NO HEROICS, PLEASE'': Uncollected Writings By Raymond Carver, (Vintage Books: $10; 239 pp.)|date=July 19, 1992|author=Reid, David | url=http://articles.latimes.com/1992-07-19/books/bk-4367_1_raymond-carver}}</ref> and ''Call If You Need Me''.<ref>{{cite news|work=Kirkus Reviews| url=https://www.kirkusreviews.com/book-reviews/raymond-carver/call-if-you-need-me/|title= ''CALL IF YOU NEED ME'': The Uncollected Fiction and Other Prose by Raymond Carver|editor= William L. Stull| date=June 20, 2010}}</ref>
+
+Carver continued his studies {{when|date=August 2018}} under the short story writer Richard Cortez Day (like Gardner, a recent [[Ph.D.]] alumnus of the Iowa program) at [[Humboldt State University|Humboldt State College]] in [[Arcata, California]]. He chose not to take the foreign language courses required by the English program and received a [[B.A.]] in [[Bachelor of General Studies|general studies]] in 1963. During this period he was first published and served as editor for ''Toyon,'' the college's literary magazine, in which he published several of his own pieces under his own name as well as the pseudonym John Vale.<ref>{{Cite journal|title = Toyon|date = Spring 1963|journal = Toyon|volume = 9|issue = 1}}</ref>
+
+With his B- average, exacerbated by his penchant to forsake coursework for literary endeavors, ballasted by a sterling recommendation from Day, Carver was accepted into the Iowa Writers' Workshop on a $1,000 fellowship for the 1963–1964 academic year. Homesick for California and unable to fully acclimatize to the program's [[upper middle class]] milieu, he only completed 12 credits out of the 30 required for a M.A. degree or 60 for the M.F.A. degree. Although program director [[Paul Engle]] awarded him a fellowship for a second year of study after Maryann Carver personally interceded and compared her husband's plight to [[Tennessee Williams]]' deleterious experience in the program three decades earlier, Carver decided to leave the [[University of Iowa]] at the end of the semester. According to biographer [[Carol Sklenicka]], Carver falsely claimed to have received an M.F.A. from Iowa in 1966 on later [[curricula vitae]].<ref name="ReferenceA" /> Maryann, who postponed completing her education to support her husband's educational and literary endeavors, eventually graduated from [[San Jose State College]] in 1970 and taught English at Los Altos High School until 1977. After completing graduate work at Stanford, she briefly enrolled in the [[University of California, Santa Barbara]]'s English doctoral program when Carver taught at the institution as a visiting lecturer in 1974.{{citation needed|date=August 2018}}
+
+In the mid-1960s, Carver and his family resided in [[Sacramento, California]], where he briefly worked at a bookstore before taking a position as a night custodian at Mercy Hospital.{{citation needed|date=August 2018}} He did all of the janitorial work in the first hour and then wrote through the rest of his shift. He audited classes at what was then [[California State University, Sacramento|Sacramento State College]], including workshops with poet [[Dennis Schmitz]]. Carver and Schmitz soon became friends, and Carver wrote and published his first book of poems, ''Near Klamath'', under Schmitz's guidance.{{citation needed|date=August 2018}}
+
+1967 was a landmark year for Carver with the appearance of "Will You Please Be Quiet, Please?" in [[Martha Foley]]'s annual ''[[Best American Short Stories]]'' anthology and the impending publication of ''Near Klamath'' by the English Club of Sacramento State College. He briefly enrolled in the [[library science]] graduate program at the University of Iowa that summer but returned to California following the death of his father. Shortly thereafter, the Carvers relocated to [[Palo Alto, California]], so he could take his first [[white-collar job]], at [[Science Research Associates]], a subsidiary of [[IBM]] in nearby [[Menlo Park, California]], where he worked intermittently as a textbook editor and public relations director through 1970.{{citation needed|date=August 2018}}
+
+Following a 1968 sojourn to [[Israel]], the Carvers relocated to [[San Jose, California]]; as Maryann finished her undergraduate degree, he continued his graduate studies in library science at San Jose State through the end of 1969 before failing once again to take a degree. During this period, he established vital literary connections with [[Gordon Lish]], who worked across the street from Carver as director of linguistic research at Behavioral Research Laboratories, and the poet/publisher [[George Hitchcock (poet)|George Hitchcock]].{{citation needed|date=August 2018}}
+
+After the publication of "Neighbors" in the June 1971 issue of ''[[Esquire (magazine)|Esquire]]'' at the instigation of Lish (by now ensconced as the magazine's fiction editor), Carver began to teach at the [[University of California, Santa Cruz]] at the behest of provost James B. Hall, an Iowa alumnus and early mentor to [[Ken Kesey]] at the [[University of Oregon]], commuting from his new home in [[Sunnyvale, California]].
+
+Having endured a succession of failed applications to the [[Stegner Fellowship]], Carver was admitted to the prestigious non-degree [[Stanford University]] graduate creative writing program for the 1972–1973 term, where he cultivated friendships with Kesey-era luminaries [[Ed McClanahan]] and [[Gurney Norman]] in addition to contemporaneous fellows [[Chuck Kinder]], Max Crawford, and [[William Kittredge]]. The $4,000 stipend enabled the Carvers to buy a house in [[Cupertino, California]]. He also took on another teaching job at the [[University of California, Berkeley]] that year and briefly rented a pied-à-terre in the city; this development was precipitated by his initiation of an extramarital affair with Diane Cecily, a [[University of Montana]] administrator and mutual friend of Kittredge who would subsequently marry Kinder.{{citation needed|date=August 2018}}
+
+During his years of working at miscellaneous jobs, rearing children, and trying to write, Carver started [[alcohol abuse|abusing alcohol]].<ref name="ReferenceA"/> By his own admission, he gave up writing and took to full-time drinking. In the fall semester of 1973, Carver was a visiting lecturer in the Iowa Writers' Workshop with [[John Cheever]], but Carver stated that they did less teaching than drinking and almost no writing. With the assistance of Kinder and Kittredge, he attempted to simultaneously commute to Berkeley and maintain his lectureship at Santa Cruz; after missing all but a handful of classes due to the inherent logistical hurdles of this arrangement and various alcohol-related illnesses, Hall gently enjoined Carver to resign his position. The next year, after leaving Iowa City, Carver went to a treatment center to attempt to overcome his [[alcoholism]], but continued drinking for another three years.{{citation needed|date=August 2018}}
+
+His first short story collection, ''[[Will You Please Be Quiet, Please?]]'', was published in 1976. The collection itself was shortlisted for the [[National Book Award]], though it sold fewer than 5,000 copies that year.<ref>{{Cite web|url=http://nbafictionfinalists.squarespace.com/blog/2012/6/9/1977.html|title=1977 - All Exhibition Pages - National Book Award Fiction Finalists|website=nbafictionfinalists.squarespace.com|access-date=2018-03-13}}</ref>
+
+==Personal life and death==
+
+===Decline of first marriage===
+The following excerpt from Scott Driscoll's review<ref>{{cite news|journal=Seattle PI|title=A life spent in love with Raymond Carver is captured in memoir's intimate moments|author= SCOTT DRISCOLL, SPECIAL TO THE P-I|date= July 20, 2006|url=http://www.seattlepi.com/ae/books/article/A-life-spent-in-love-with-Raymond-Carver-is-1209433.php }}</ref> of Maryann Burk Carver's 2006 memoir<ref>{{cite book | last =Carver | first =Maryann Burk | title =What It Used to Be Like; A Portrait of My Marriage to Raymond Carver | publisher =St. Martin's Press | year =2006 | isbn =0-312-33258-0 | url =https://archive.org/details/whatitusedtobeli00carv }}</ref> describes the decline of Maryann's and Raymond's marriage.
+
+{{quote|The fall began with Ray's trip to Missoula, Mont., in '72 to fish with friend and literary helpmate Bill Kittredge. That summer Ray fell in love with Diane Cecily, an editor at the University of Montana, whom he met at Kittredge's birthday party. "That's when the serious drinking began. It broke my heart and hurt the children. It changed everything."
+
+"By fall of '74", writes Carver, "he was more dead than alive. I had to drop out of the Ph.D. program so I could get him cleaned up and drive him to his classes". Over the next several years, Maryann's husband physically abused her. Friends urged her to leave Raymond.
+
+"But I couldn't. I really wanted to hang in there for the long haul. I thought I could outlast the drinking. I'd do anything it took. I loved Ray, first, last and always."
+
+Carver describes, without a trace of rancor, what finally put her over the edge. In the fall of '78, with a new teaching position at the [[University of Texas at El Paso]], Ray started seeing [[Tess Gallagher]], a writer from [[Port Angeles, Washington|Port Angeles]], who would become his muse and wife near the end of his life. "It was like a contretemps. He tried to call me to talk about where we were. I missed the calls. He knew he was about to invite Tess to Thanksgiving." So he wrote a letter instead.
+
+"I thought, I've gone through all those years fighting to keep it all balanced. Here it was, coming at me again, the same thing. I had to get on with my own life. But I never fell out of love with him."}}
+
+After being hospitalized three times between June 1976 and February or March 1977, Carver began his "second life" and stopped drinking on June 2, 1977, with the help of [[Alcoholics Anonymous]].<ref name="ReferenceA"/> While he continued to regularly smoke [[marijuana]] and later experimented with [[cocaine]] at the behest of [[Jay McInerney]] during a 1980 visit to [[New York City]], Carver believed he would have died of alcoholism at the age of 40 had he not overcome his drinking.<ref name= "ebert">{{cite news | last = Ebert | first = Roger | title = ''Short Cuts'' | newspaper = [[Chicago Sun-Times]] | date = October 22, 1993 | url = http://rogerebert.suntimes.com/apps/pbcs.dll/classifieds?category=REVIEWS01&TITLESearch=Short%20Cuts&ToDate=20101231 | access-date = 2010-01-05 }}</ref>
+
+===Second marriage===
+In November 1977 Carver met the poet [[Tess Gallagher]] at a writers' conference in [[Dallas, Texas]]. Gallagher later remembered feeling “as if my life until then had simply been a rehearsal for meeting him.”<ref>{{cite web|title=When Tess and Ray Talked About Love|url= https://www.theattic.space/home-page-blogs/2019/10/31/what-tess-and-ray-talked-about-when-they-talked-about-love |website=The Attic|access-date=5 November 2019}}</ref> Beginning in January 1979, Carver and Gallagher lived together in [[El Paso, Texas]], in a borrowed cabin near [[Port Angeles, Washington]], and in [[Tucson, Arizona]]. 
+In 1980, the two moved to [[Syracuse, New York]], where Gallagher had been appointed the coordinator of the creative writing program at [[Syracuse University]]; Carver taught as a professor in the English department. He and Gallagher jointly purchased a house in Syracuse, at 832 Maryland Avenue. In ensuing years, the house became so popular that the couple had to hang a sign outside that read "Writers At Work" in order to be left alone. 
+In 1982, he and his first wife, Maryann, were divorced.<ref>{{cite book|title=What It Used To Be Like: A Portrait of My Marriage to Raymond Carver|url=https://archive.org/details/whatitusedtobeli00carv|url-access=registration|publisher=St. Martin's Press |date=July 11, 2006|author=Carver, Maryann|isbn=9780312332587}}</ref>
+
+In 1988, six weeks prior to his death, Carver and Gallagher married in [[Reno, Nevada]].
+
+===Death===
+On August 2, 1988, Carver died in [[Port Angeles, Washington]], from [[lung cancer]] at the age of 50. In the same year, he was inducted into the [[American Academy of Arts and Letters]].<ref name="Academy Members">{{Cite web |url=http://artsandletters.org/academy-members/ |title=Academy Members |date=2019-06-01 |website=American Academy of Arts and Letters |access-date=2019-06-01}}</ref> He is buried at Ocean View Cemetery in Port Angeles, Washington. The inscription on his tombstone reads:<ref name="raymond carver’s tombstone inscription">{{Cite web |url=https://harrisrichard.com/tag/raymond-carvers-tombstone-inscription/ |title=raymond carver's tombstone inscription |last=harrisrh |date=2019-06-01 |website=Richard H. Harris |access-date=2019-06-01}}</ref>
+
+<blockquote><poem>
+LATE FRAGMENT
+And did you get what
+you wanted from this life, even so?
+I did.
+And what did you want?
+To call myself beloved, to feel myself
+beloved on the earth.
+</poem></blockquote>
+
+His poem "Gravy" is also inscribed.
+
+As Carver's will directed, Tess Gallagher assumed the management of his [[literary estate]].<ref name="ReferenceA"/>
+
+==Awards and memorials==
+[[File:Carvermemorial.jpg|thumb|Raymond Carver Memorial in Clatskanie, Oregon]]
+Carver was nominated for the National Book Award for his first major-press collection, "Will You Please Be Quiet, Please" in 1977 and the [[Pulitzer Prize for Fiction]] for his third major-press collection, ''Cathedral'' (1984), the volume generally perceived as his best. Included in the latter collection are the award-winning stories "A Small, Good Thing", and "Where I'm Calling From". [[John Updike]] selected the latter for inclusion in ''The Best American Short Stories of the Century.'' For his part, Carver perceived ''Cathedral'' as a watershed in his career for its shift toward a more optimistic and confidently poetic style amid the diminution of Lish's literary influence.<ref>{{cite web| url=http://sun.iwu.edu/~jplath/carver.html |title=Prose as Architecture: Two Interviews with Raymond Carver |access-date=2013-07-16}}</ref>
+Carver won five O. Henry Awards with "Are These Actual Miles" (originally titled "What Is It?") (1972), "Put Yourself in My Shoes" (1974), "Are You A Doctor?" (1975), "A Small, Good Thing" (1983), and "Errand" (1988).{{citation needed|date=June 2014}}
+
+In Carver's birth town of Clatskanie, Oregon, a memorial park and statue are at the corner of Lillich and Nehalem Streets, across from the library. A block away is the building where Carver was born.{{citation needed|date=December 2012}}
+
+==Legacy and posthumous publications==
+In December 2006, Gallagher published an essay in ''[[The Sun (magazine)|The Sun magazine]]'', titled "Instead of Dying", about alcoholism and Carver's having maintained his sobriety.<ref>{{cite news|journal=Sun Magazine|author=Tess Gallagher|issue=372|title=Instead of Dying|date=December 2006|url=http://www.thesunmagazine.org/issues/372}}</ref> The essay is an adaptation of a talk she initially delivered at the Welsh Academy's Academi Intoxication Conference in 2006. The first lines read: "Instead of dying from alcohol, Raymond Carver chose to live. I would meet him five months after this choice, so I never knew the Ray who drank, except by report and through the characters and actions of his stories and poems."<ref>{{cite web|url=http://www.literaturewales.org/lectures/i/124022/|publisher=Academi Intoxication Conference|title=Instead of Dying|author=Tess Gallagher by Tim Crosby|year=2006|url-status=dead|archive-url=https://web.archive.org/web/20140222233213/http://www.literaturewales.org/lectures/i/124022/|archive-date=2014-02-22}}</ref>
+
+Chuck Kinder's ''Honeymooners: A Cautionary Tale'' (2001) is a [[roman à clef]] about his friendship with Carver in the 1970s. Carver's high school sweetheart<ref name="Wiegand, David Wiegand">{{cite news|author=Wiegand, David| title=Serendipitous stay led writer to Raymond Carver| work=San Francisco Chronicle| date= December 19, 2009| url=http://www.sfgate.com/entertainment/article/Serendipitous-stay-led-writer-to-Raymond-Carver-3278150.php}}</ref> and first wife, Maryann Burk Carver, wrote a memoir of her years with Carver, ''What it Used to be Like: A Portrait of My Marriage to Raymond Carver'' (2006).
+
+In 2009, ''The New York Times Book Review'' and ''San Francisco Chronicle'' named Carol Sklenicka's unauthorized biography, ''Raymond Carver: A Writer's Life'' (2009), published by Scribner, one of the Best Ten Books of that year;<ref name="Wiegand, David Wiegand"/><ref>{{cite news|author=King, Steven| title=Raymond Carver's Life and Stories| work=The New York Times|date= Nov 19, 2009}}</ref> and the ''San Francisco Chronicle'' deemed it: "exhaustively researched and definitive biography". Carver's widow, Tess Gallagher, refused to engage with Sklenicka.<ref name="Wiegand, David">{{cite news|author=Wiegand, David | title=Serendipitous stay led writer to Raymond Carver| work=San Francisco Chronicle| date= December 19, 2009| url=http://www.sfgate.com/entertainment/article/Serendipitous-stay-led-writer-to-Raymond-Carver-3278150.php}}</ref>
+
+His final (incomplete) collection of seven stories, titled ''Elephant'' in Britain (included in "Where I'm Calling From") was composed in the five years before his death. The nature of these stories, especially "Errand", have led to some speculation that Carver was preparing to write a novel.{{Citation needed|date=August 2012}} Only one piece of this work has survived – the fragment "The Augustine Notebooks", first printed in ''No Heroics, Please''.{{Citation needed|date=March 2011}}
+
+Tess Gallagher fought with Knopf for permission to republish the stories in ''[[What We Talk About When We Talk About Love]]'' as they were originally written by Carver, as opposed to the heavily edited and altered versions that appeared in 1981 under the editorship of Gordon Lish.<ref>{{cite news| url=https://www.nytimes.com/2007/10/17/books/17carver.html?ex=1193198400&en=ef2288f85b950c2d&ei=5070&emc=eta1| title= The Real Carver: Expansive or Minimal?| work=New York Times | date=October 17, 2007}}</ref><ref>For further details of the extent of the original editing, see Blake Morrison, [https://www.theguardian.com/books/2009/oct/17/raymond-carver-beginners-blake-morrison raymond-carver-beginners-blake-morrison] The Guardian 2009/oct/17 and  James Ley, [http://www.theaustralian.com.au/news/arts/carved-up-or-kindly-cut/story-e6frg8nf-1225835733233 'Carved up, or kindly cut?'] The Australian</ref> On October 1, 2009 the book, entitled ''[[Beginners (Raymond Carver)|Beginners]]'',<ref>and re-edited by William Stull and Maureen Carroll</ref> was released in hardback in Great Britain,<ref>{{cite book|author=Carver, James|title=Beginners|location= London|publisher= Jonathan Cape|date= 2009}}</ref> followed by its publication in the [[Library of America]] edition which collected all of Carver's short fiction in a single volume.<ref>{{cite web|url=http://www.loa.org/volume.jsp?RequestID=307|title=Raymond Carver: Collected Stories (The Library of America)|work=loa.org|access-date=11 May 2015}}</ref>
+
+The Raymond Carver Reading Series at [[Syracuse University]] is a [[reading series]] program which annually brings 12 to 14 prominent writers to the campus. It is presented by the ''Creative Writing Program'' in SU's [[Syracuse University College of Arts and Sciences|College of Arts and Sciences]].<ref>{{cite web |title=Raymond Carver Reading Series |url=https://surface.syr.edu/carver/ |website=surface.syr.edu |publisher=[[Syracuse University]] |access-date=4 August 2021}}</ref>
+
+==Literary characteristics==
+Carver's career was dedicated to short stories and poetry. He described himself as "inclined toward brevity and intensity" and "hooked on writing short stories" (in the foreword of ''[[Where I'm Calling From]]'', a collection published in 1988 and a recipient of an honorable mention in the 2006 ''[[New York Times]]'' article citing the best works of fiction of the previous 25 years). Another stated reason for his brevity was "that the story [or poem] can be written and read in one sitting." This was not simply a preference but, particularly at the beginning of his career, a practical consideration as he juggled writing with work. His subject matter was often focused on [[blue-collar]] experience, and was clearly reflective of his own life.{{Citation needed|date=March 2011}}
+
+Characteristics of [[Minimalism#Literary minimalism|minimalism]] are generally seen as one of the hallmarks of Carver's work, although, as reviewer [[David Wiegand]] notes:<ref name="Wiegand, David"/>
+
+<blockquote>Carver never thought of himself as a minimalist or in any category, for that matter.</blockquote>
+
+<blockquote>"He rejected categories generally," Sklenicka says. "I don't think he had an abstract mind at all. He just wasn't built that way, which is why he's so good at picking the right details that will stand for many things."</blockquote>
+
+Carver's editor at ''[[Esquire magazine|Esquire]]'', [[Gordon Lish]], was instrumental in shaping his prose in this direction – where his earlier tutor John Gardner had advised Carver to use fifteen words instead of twenty-five, Lish instructed Carver to use five in place of fifteen. Objecting to the "surgical amputation and transplantation" of Lish's heavy editing, Carver eventually broke with him.<ref>[http://donswaim.com/nytimes.carverchronicles.html The Carver Chronicles] For more on Lish's editing of Carver at ''Esquire'', see Carol Polsgrove, ''It Wasn't Pretty, Folks, But Didn't We Have Fun? Esquire in the Sixties (1995), pp. 241–243.</ref> During this time, Carver also submitted poetry to [[James Dickey]], then poetry editor of ''Esquire''.
+
+Carver's style has also been described as [[dirty realism]], which connected him with a group of writers in the 1970s and 1980s that included [[Richard Ford]] and [[Tobias Wolff]] with both of whom Carver was closely acquainted, as well as others such as [[Ann Beattie]], [[Frederick Barthelme]], and [[Jayne Anne Phillips]]. With the exception of Beattie, who wrote about upper-middle-class people, these were writers who focused on sadness and loss in the everyday lives of ordinary people—often lower-middle class or isolated and marginalized people.{{citation needed|date=June 2014}}
+
+In his essay "On Influence", Carver states that, while he was an admirer of [[Ernest Hemingway]]'s fiction, he never saw him as an influence, citing instead the work of [[Lawrence Durrell]].{{Citation needed|date=April 2017}}
+
+==Works==
+{{see also|Raymond Carver bibliography}}
+{{Lacking ISBN|date=August 2020}}
+
+===Fiction===
+
+====Collections====
+*''[[Will You Please Be Quiet, Please?]]'' (first published 1976)
+*''Furious Seasons and other stories'' (1977)
+*''[[What We Talk About When We Talk About Love]]'' (1981)
+*''[[Cathedral (short story collection)|Cathedral]]'' (1983)
+*''[[Elephant (short story collection)|Elephant]]'' (1988) – this title only published in Great Britain; included as a section of ''Where I'm Calling From: New & Selected Stories'' in the U.S.
+
+====Compilations====
+*''[[Where I'm Calling From: New & Selected Stories]]'' (1988)
+*''Short Cuts: Selected Stories'' (1993) – published to accompany the Robert Altman film ''[[Short Cuts]]''
+*''Collected Stories'' (2009) – complete short fiction including ''[[Beginners (Raymond Carver)|Beginners]]''
+
+===Poetry===
+
+====Collections====
+*''Near Klamath'' (1968)
+*''Winter Insomnia'' (1970)
+*''At Night The Salmon Move'' (1976)
+*''Fires'' (1983)
+*''Where Water Comes Together With Other Water'' (1985)
+*''Ultramarine'' (1986)
+*''A New Path To The Waterfall'' (1989)
+*''Gravy'' (Unknown year)
+
+====Compilations====
+*''In a Marine Light: Selected Poems'' (1988)
+*''All of Us: The Collected Poems'' (1996)
+
+===Screenplays===
+*''Dostoevsky'' (1985, with Tess Gallagher)
+
+==Films and theatre adaptations==
+*''[[Short Cuts]]'' directed by [[Robert Altman]] (1993), based on nine Carver short stories and a poem
+*''[[Everything Goes (film)|Everything Goes]]'' directed by Andrew Kotatko (2004), starring [[Hugo Weaving]], [[Abbie Cornish]] and [[Sullivan Stapleton]] based on Carver's short story "Why Don't You Dance?"
+*''[[Whoever Was Using This Bed]]'', also directed by Andrew Kotatko (2016), starring [[Jean-Marc Barr]], [[Radha Mitchell]] and [[Jane Birkin]], based on Carver's short story of the same name
+*''[[Jindabyne (film)|Jindabyne]]'' directed by [[Ray Lawrence (film director)|Ray Lawrence]] (2006), based on Carver's short story "So Much Water So Close to Home"
+*''[[Everything Must Go (film)|Everything Must Go]]'' directed by Dan Rush (2010), and starring [[Will Ferrell]], based on Carver's short story "Why Don't You Dance?"
+*''[[Birdman (film)|Birdman or (The Unexpected Virtue of Ignorance)]]'', directed by [[Alejandro González Iñárritu|Alejandro G. Iñárritu]], depicts the mounting of a Broadway production of "What We Talk About When We Talk About Love" as its central storyline. The film's main character, Riggan Thomson, attributes his choice of acting as a profession to a complimentary note he once received from Raymond Carver written on a cocktail napkin. The film also preludes with Carver's poem "Late Fragment." In February 2015, ''Birdman'' won four Oscars, including the [[Academy Award for Best Picture]].
+
+==References==
+{{reflist}}
+
+==Further reading==
+
+*Amir, Ayala (2010). ''The Visual Poetics of Raymond Carver''. Lexington Books. {{ISBN|978-0-7391-3922-6}}
+*{{cite book | last =Carver | first =Maryann Burk | title =What It Used to Be Like: A Portrait of My Marriage to Raymond Carver | publisher =St. Martin's Press | year =2006 | isbn =0-312-33258-0 | url =https://archive.org/details/whatitusedtobeli00carv }}
+**{{cite news | last  = Yardley | first = Jonathan | author-link = Jonathan Yardley | title = Raymond Carver's first wife remembers the influential American writer. | url = https://www.washingtonpost.com/wp-dyn/content/article/2006/07/13/AR2006071301020.html | work=The Washington Post | date=July 16, 2006}} A review.
+*{{cite book | author = Halpert, Sam | title =Raymond Carver: An Oral Biography | url = https://archive.org/details/raymondcarverora0000halp | url-access = registration | publisher =University of Iowa Press | year =1995 | isbn = 0-87745-502-3}}
+*{{cite book | editor = Kleppe, Sandra Lee | editor2 = Miltner, Robert | title =New Paths to Raymond Carver; Critical Essays on His Life, Fiction, and Poetry | publisher =University of South Carolina Press | year =2008 | isbn = 978-1-57003-724-5}}
+*{{cite news |author= McGrath, Charles | title= I, <s>Editor</s> Author| date= October 28, 2007 | url = https://www.nytimes.com/2007/10/28/weekinreview/28mcgrath.html| work = The New York Times | agency =Week in Review | access-date = 2007-10-28}}
+* Miceli, Barbara. "Rivers, Memories and Reflections in Raymond Carver's ''Where Water Comes Together with Other Water"'' in ''Comparative American Studies'''' (2021), pp.&nbsp;1–9.
+*{{cite book | author = Michaka, Stéphane | title =Scissors: a novel | publisher =Doubleday | year =2013 | isbn = 978-0-3855-3749-0}}
+*{{cite book | first = Kirk | last = Nesset | title =Stories Of Raymond Carver: A Critical Study | publisher =Ohio University Press | year =1995 | isbn = 0-8214-1100-4}}
+*{{cite book | author = Pieters, Jesús | title =El silencio de lo real: sentido, comprensión e interpretación en la narrativa de Raymond Carver | publisher =Monte Ávila Editores Latinoamericana | year =2004 | isbn = 978-980-01-1219-9}}
+*{{cite book | author = Runyon, Randolph Paul | title =Reading Raymond Carver | publisher =[[Syracuse University Press]] | year =1994 | isbn = 978-0-8156-2631-2}}
+*{{cite book | author =Sklenicka, Carol | title =Raymond Carver: A Writer's Life | publisher =Scribner | date =Nov 2009 | isbn =978-0-7432-6245-3 | url =https://archive.org/details/raymondcarverwri00skle }}
+*{{cite book | editor =Stull, William L. | editor2 =Carroll, Maureen P. | title =Remembering Ray: A Composite Biography of Raymond Carver | publisher =Capra Press | year =1993 | isbn =0-88496-370-5 | url =https://archive.org/details/rememberingrayco00stul }}
+*{{cite book | editor = Stull, William L. | editor2 = Gentry, Marshall Bruce | title =Conversations With Raymond Carver (Literary Conversations Series) | publisher =University Press of Mississippi | year =1990 | isbn = 0-87805-449-9}}
+
+==External links==
+* [https://library.osu.edu/finding-aids/rarebooks/carver.php Raymond Carver Papers] at The Ohio State University's Rare Books & Manuscripts Library
+* {{Oregon Encyclopedia|carver_raymond_1938_1988_|author=Gies, Martha}}
+* {{cite news|author=Gura, David |url=https://www.npr.org/templates/story/story.php?storyId=17910720 |title=Rights Battle Brews over Un-Edited Carver Stories|work= All Things Considered|date= January 7, 2008}}
+* {{cite news | last  = Hansen | first = Ron | title = Ron Hansen reviews the biography and short stories of Raymond Carver |url = https://www.washingtonpost.com/wp-dyn/content/article/2009/12/11/AR2009121101707.html | work=The Washington Post | date=December 13, 2009}} A review of ''Raymond Carver A Writer's Life'' by Carol Sklenicka and of ''Raymond Carver Collected Stories'' edited by William L. Stull and Maureen P. Carroll
+* {{cite web|author=Haslam, Dave|url=http://www.davehaslam.com/#/raymond-carver-interview-may-1985/ |date=1985|title=An indepth interview }} Carver talks about his father, his early writing, his characters, and the "dark humour" in some of his stories.
+* {{cite news|author=Hird, Laura|url=http://www.laurahird.com/newreview/tellitall.html|website=Tell it All|title=Review of the posthumously published ''Tell it All''|url-status=dead|archive-url=https://web.archive.org/web/20071026012727/http://www.laurahird.com/newreview/tellitall.html|archive-date=2007-10-26}} Provides numerous links to Carver sites on the web and links to his work
+* {{cite web|author=Ho, Oliver|date= August 4, 2009|url=http://www.popmatters.com/pm/feature/109054-manga-and-minimalism-the-shared-visions-of-yoshihiro-tatsumi-and-ray/ |title=Manga and Minimalism: The Shared Visions of Yoshihiro Tatsumi and Raymond Carver|website=Pop Matters}}
+* {{cite web|url=http://www.raymondcarverreview.org/the-organization/|title=Home page|website= IRCS website|author=International Raymond Carver Society}}
+* {{cite web|website=Kent State University|url=http://dept.kent.edu/english/RCR/index.html|title= Welcome: ''The Raymond Carver Review''|author=International Raymond Carver Society}}
+* {{cite news | last  = King | first = Stephen | author-link = Stephen King | title = Raymond Carver's Life and Stories | url = https://www.nytimes.com/2009/11/22/books/review/King-t.html?_r=1 | work=The New York Times | date=November 22, 2009}} A review of ''Raymond Carver: A Writer's Life'' by Carol Sklenicka and ''Raymond Carver Collected Stories'' edited by William L. Stull and Maureen P. Carroll
+* {{cite web |last = Koehne |first = David |title = Echoes of Our Own Lives: An interview with Raymond Carver |year = 1978 |url = http://www.sophieswoods.com/carver.html|url-status = dead |archive-url = https://web.archive.org/web/20051130235318/http://www.sophieswoods.com/carver.html |archive-date = 2005-11-30}}
+* {{cite web |last  = Myers |first = D. G. |title = Between Stories: A Memoir of Raymond Carver |year  = 1998 |url   = http://www.english.tamu.edu/pers/fac/myers/between_stories.htm |work  = [[Philosophy and Literature]]}}{{dead link|date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes}}
+* {{cite web | last = Polsgrove | first = Carol | title = A Conversation on Raymond Carver | year = 2009 | url = http://carolpolsgrove.com/interview/}} Historian Carol Polsgrove interviews Carver biographer Carol Sklenicka
+* {{cite journal| url=http://www.theparisreview.org/interviews/3059/the-art-of-fiction-no-76-raymond-carver| title=Raymond Carver, The Art of Fiction No. 76| journal=Paris Review| date=Summer 1983| authors=Simpson, Mona Simpson & Buzbee, Lewis| volume=Summer 1983| issue=88}}
+* {{cite web|url=http://beyondthemargins.com/2010/08/carver-country/|website= Beyond the Margins|author=Smith, Dell |title=Dell Smith's experiences adapting Carver's story "Why Don't You Dance" into a student film in mid-'80s}}
+* {{cite news| url=https://www.theguardian.com/books/2009/sep/27/raymond-carver-editor-influence | title=Raymond Carver: the kindest cut| work=The Observer| author=Wood, Gaby| date=27 September 2009}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Carver, Raymond}}
+[[Category:Raymond Carver| ]]
+[[Category:1938 births]]
+[[Category:1988 deaths]]
+[[Category:20th-century American poets]]
+[[Category:American male short story writers]]
+[[Category:20th-century American short story writers]]
+[[Category:California State University, Chico alumni]]
+[[Category:Deaths from cancer in Washington (state)]]
+[[Category:Deaths from lung cancer]]
+[[Category:Iowa Writers' Workshop alumni]]
+[[Category:Minimalist writers]]
+[[Category:O. Henry Award winners]]
+[[Category:People from Clatskanie, Oregon]]
+[[Category:People from Cupertino, California]]
+[[Category:People from Yakima, Washington]]
+[[Category:Stegner Fellows]]
+[[Category:Syracuse University faculty]]
+[[Category:Writers from California]]
+[[Category:Writers from Oregon]]
+[[Category:Writers from Port Angeles, Washington]]
+[[Category:Writers from Washington (state)]]
+[[Category:People from Paradise, California]]
+[[Category:Alcohol abuse]]
+[[Category:20th-century American male writers]]

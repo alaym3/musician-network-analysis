@@ -1,0 +1,116 @@
+{{Infobox musical artist
+| name            = Xeno & Oaklander
+| image           = {{CSS image crop
+|Image = Xeno and Oaklander in April 2010.jpg
+|bSize = 560
+|cWidth = 290
+|cHeight = 160
+|oTop = 55
+|oLeft = 130
+}}
+| image_size      =
+| image_upright   =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         = Xeno & Oaklander in 2010
+| alias           = Xeno and Oaklander
+| origin          = [[Brooklyn]], [[New York (state)|New York]], U.S.
+| genre           = {{flatlist|
+*[[Minimal wave|Minimal synth]]
+*[[synth-pop]]
+*[[cold wave (music)|cold wave]]
+*[[dark wave]]
+}}
+| years_active    = {{Start date|2004}}–present
+| label           = {{flatlist|
+*Xanten
+*[[Wierd Records|Wierd]]
+*[[Ghostly International]]
+*Electric Voice
+*Girouette
+*[[Dais Records|Dais]]
+}}
+| associated_acts =
+| website         = {{URL|xenoandoaklander.bandcamp.com}}
+| current_members = *Sean McBride 
+*Liz Wendelbo
+| past_members    = 
+}}
+
+'''Xeno & Oaklander''' is an American [[electronic music]] group formed in 2004, consisting of musicians Sean McBride and Liz Wendelbo. Originating from [[Brooklyn]], [[New York (state)|New York]], the band is considered to be among the [[cold wave (music)|cold wave]] revival scene of the 2000s and 2010s.<ref name="allmusic-bio"/>
+
+==History==
+[[Maryland]]-native Sean McBride and French-Norwegian conceptual artist Liz Wendelbo met in 2003; the former was involved in solo projects such as Moravagine and Martial Canterel, which were based on [[modular synthesizer]]s, [[Music sequencer|sequencer]]s and [[drum machine]]s. The duo started recording music in an abandoned factory building near the [[East River]]; its debut album, ''Vigils'', recorded in a single take, was released in 2006. The band then signed to [[Wierd Records]], which released 2009's ''Sentinelle''. Following its 2011 record ''Sets & Lights'', which was also released on Wierd and showcased elements from [[darkwave]], [[Italo disco]] and [[techno]], the duo issued the single "Sheen" for Electric Voice and collaborated with Fabian Marti, composing a soundtrack for the Swiss artist.<ref name="allmusic-bio"/>
+
+Xeno & Oaklander signed to [[Ghostly International]] for 2014's ''Par Avion'', which featured [[Serge synthesizer]] and was inspired by [[synesthesia]].<ref name="allmusic-bio"/><ref name="exclaim-ghostly"/> Sessions for ''Par Avion'' produced 2015's ''Movements'', a 35-piece commissioned by National Center for the Arts, Grenoble and Ecole du Magasin.<ref name="allmusic-bio"/> Following 2016's ''Topiary'' on Ghostly International, the duo released ''Movements II'', which was only available on their tour that May; in October, the bossa nova-tinged single "Moonlight" appeared on a split 7" released by the UK magazine Electronic Sound.<ref name="allmusic-bio"/> Shortly thereafter the duo signed to [[Dais Records]], which issued the album ''Hypnos'' in 2019.<ref name="fact-dais"/>
+
+==Musical style==
+Labeled as a [[minimal wave|minimal synth]],<ref name="exclaim-sheen"/> [[synth-pop]]<ref name="allmusic-bio"/><ref name="fact-dais"/> and [[darkwave]] act,<ref name="essaiepas-guardian-newband"/> Xeno & Oaklander is considered to be among the key acts that revive and update the sounds of 70s and 80s' [[cold wave (music)|cold wave]] and [[minimal wave|minimal electronic]] bands, combining "crisp [[Analog synthesizer|analog synths]] with poetic songwriting and vocals."<ref name="allmusic-bio"/> [[Pitchfork (website)|Pitchfork]] critic Larry Fitzmaurice has described the band's cold wave-inspired music as "deadpan [[Do it yourself|D.I.Y.]] [[post-punk]] filtered through brutal drum machines and synth lines so brittle and thin you could practically snap them over your knee."<ref name="p4k-set-lights"/> Preferring to use analog gear and no post-processing,<ref name="tmt-interview"/> the band used [[Monophony|monophonic]] synthesizers during the ''Topiary'' era, while ''Hypnos'' signalled the reintroduction of [[Polyphony|polyphonic]] synthesizers and Wendelbo taking on sole vocal duties.<ref name="allmusic-hypnos"/><ref name="quietus-hypnos"/>
+
+==Discography==
+[[File:Xeno & Oaklander in 2011.jpg|thumb|200px|Xeno & Oaklander performing live in 2011]]
+;Studio albums
+* ''Vigils'' (2006)
+* ''Sentinelle'' (2009)
+* ''Sets & Lights'' (2011)
+* ''Par Avion'' (2014)
+* ''Topiary'' (2016)
+* ''Movements II'' (2017)
+* ''Hypnos'' (2019)
+* ''Vi/deo'' (2021)
+
+;EPs
+* ''Exposition 3'' (2015; split with Philippe Laurent)
+* ''Movements'' (2015)
+
+;Singles
+* "Saracen" (2009
+* "Sets & Lights" (2011)
+* "The Staircase" (2011)
+* "Par Avion" (2013)
+* "Sheen" (2013)
+* "Interface" (2014)
+* "Marble" (2016)
+* "Moonlight" (2017)
+* "Angélique" (2019)
+
+==References==
+{{Reflist|refs=
+<ref name="allmusic-bio">{{cite web |url=https://www.allmusic.com/artist/xeno-oaklander-mn0002370861/biography |title= Xeno & Oaklander biography |last= Phares |first= Heather |date= |website=allmusic.com |publisher=[[AllMusic]] |access-date=March 20, 2020 |quote=}}</ref>
+
+<ref name="allmusic-hypnos">{{cite web |url=https://www.allmusic.com/album/hypnos-mw0003250842 |title=Xeno & Oaklander - Hypnos|last= Phares |first= Heather |date= |website=allmusic.com |publisher=[[AllMusic]] |access-date=March 20, 2020}}</ref>
+
+<ref name="essaiepas-guardian-newband">{{cite web |url=https://www.theguardian.com/music/2016/jan/22/new-band-of-the-week-essaie-pas-no-87 |title= New band of the week: Essaie Pas (No 87) |last=Lester |first=Paul |date=January 22, 2016 |website= theguardian.com |publisher=[[The Guardian]] |access-date=March 20, 2020}}</ref>
+
+<ref name="exclaim-ghostly">{{cite web |url=https://exclaim.ca/music/article/xeno_oaklander_sign_to_ghostly_international_for_par_avion |title=Xeno & Oaklander Sign to Ghostly International for 'Par Avion' |last=Adams |first=Gregory |date= April 15, 2014 |website= exclaim.ca |publisher=[[Exclaim!]] |access-date= March 20, 2020 |quote=}}</ref>
+
+<ref name="exclaim-sheen">{{cite web |url=https://exclaim.ca/music/article/xeno_oaklander-sheen |title= Xeno & Oaklander "Sheen" |last=Hudson |first=Alex |date= May 15, 2013 |website= exclaim.ca |publisher=[[Exclaim!]] |access-date= March 20, 2020 |quote=}}</ref>
+
+<ref name="fact-dais">{{cite web |url=https://www.factmag.com/2019/01/10/xeno-oaklander-dais-hypnos/ |title=Xeno & Oaklander debut on Dais with new album Hypnos |last=Bruce-Jones |first=Henry |date=January 10, 2019 |website= factmag.com |publisher=[[Fact (UK magazine)|Fact]] |access-date=March 20, 2020 |quote=}}</ref>
+
+<ref name="p4k-set-lights">{{cite web |url=https://pitchfork.com/reviews/albums/15927-sets-and-lights/ |title=Xeno & Oaklander: Sets & Lights |last= Fitzmaurice |first=Larry |date=October 13, 2011 |website=pitchfork.com |publisher=[[Pitchfork (website)|Pitchfork]] |access-date= March 20, 2020 |quote=}}</ref>
+
+<ref name="quietus-hypnos">{{cite web |url=https://thequietus.com/articles/26181-xeno-oaklander-hypnos-review |title=Review: Xeno & Oaklander - Hypnos |last= Ghezawi |first=Kareem |date=March 12, 2019 |website= thequietus.com |publisher=[[The Quietus]] |access-date= March 20, 2020 |quote=}}</ref>
+
+<ref name="tmt-interview">{{cite web |url=https://www.tinymixtapes.com/features/xeno-oaklander |title=Features: Xeno & Oaklander |last=Crowell |first=John |date= September 8, 2014 |website=tinymixtapes.com |publisher=[[Tiny Mix Tapes]] |access-date= March 20, 2020 |quote=}}</ref>
+
+<!-- <ref name="">{{cite web |url= |title= |last= |first= |date= |website= |publisher= |access-date= |quote=}}</ref> -->
+}}
+
+==External links==
+{{Commons|Xeno & Oaklander}}
+* {{official website|xenoandoaklander.bandcamp.com}}
+{{Authority control}}
+
+{{DEFAULTSORT:Xeno and Oaklander}}
+[[Category:Musical groups established in 2004]]
+[[Category:American synth-pop groups]]
+[[Category:Musical groups from Brooklyn]]
+[[Category:Electronic music groups from New York (state)]]
+[[Category:Cold wave groups]]
+[[Category:Minimal wave groups]]
+[[Category:American dark wave musical groups]]
+[[Category:Electronic music duos]]
+[[Category:American musical duos]]
+[[Category:2004 establishments in New York (state)]]
+[[Category:Ghostly International artists]]

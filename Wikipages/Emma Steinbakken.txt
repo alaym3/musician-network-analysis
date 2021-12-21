@@ -1,0 +1,36 @@
+{{short description|Norwegian singer (born 2003)}}
+'''Emma Steinbakken''' (born 2003) is a Norwegian singer. She has released the songs "Not Gonna Cry" (2018) and "Without You".<ref>{{Cite web|url=https://arenan.yle.fi/1-50156533|title=Skavlan &#124; Avsnitt 8: Skådespelaren Malin Åkerman och hotellkungen Petter Stordalen bland gästerna|date=8 November 2019|accessdate=19 February 2021|via=arenan.yle.fi}}</ref> She performed on Swedish and Norwegian teleivison as a guest on [[Fredrik Skavlan]]'s talk show ''[[Skavlan]]'' in 2019.<ref>{{Cite web|url=https://stadsevent.se/nyheter/16-%C3%A5riga-popkometen-emma-steinbakken-g%C3%A4star-skavlan-ikv%C3%A4ll/|title=16-Åriga Popkometen Emma Steinbakken Gästar Skavlan Ikväll|first=Digital sun|website=StadsEvent.se|accessdate=19 February 2021}}</ref>
+
+==Discography==
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[VG-lista|NOR]]
+|-
+! scope="row"| "Jeg glemmer deg aldri"
+| rowspan="2"| 2021
+| 1
+| rowspan="2" {{n/a|Non-album singles}}
+|-
+! scope="row"| "Sorry"
+| 36<br /><ref>{{cite web|url=https://www.vglista.no/topplister/topp-20-single-2021-37/|title=VG-lista – Topp 20 Single 2021-37|publisher=[[VG-lista]]|access-date=17 September 2021}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Steinbakken, Emma}}
+[[Category:Living people]]
+[[Category:2003 births]]
+[[Category:21st-century Norwegian women singers]]
+
+{{Norway-singer-stub}}
+{{Norway-bio-stub}}

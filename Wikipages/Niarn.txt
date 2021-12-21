@@ -1,0 +1,97 @@
+{{Use dmy dates|date=January 2016}}
+{{expand Danish|Niarn|date=October 2014}}
+{{Infobox musical artist
+|background = solo_singer
+|name = Niarn
+|image = Niarn 2.jpg
+|Birth name =
+|alias = 
+|origin = [[Denmark]]
+| birth_date = {{birth date and age|df=yes|1979|9|9}}
+| birth_place = [[:da:Gug|Gug]], [[Aalborg]], [[Denmark]]
+|death_date = 
+|genre = [[Rap]]
+|occupation = [[Rapping|Rapper]]
+|years_active = 1994–2014
+|label = [[Copenhagen Records]]
+|associated_acts = 
+||website = https://www.nielsroos.dk/
+}}
+'''Niels Roos''' (born 9 September 1979 in [[Gug, Aalborg|Gug]] near [[Aalborg]]),<ref>{{cite news|first=Sara |last=Krog |title=Niarn levede et vildt liv og døde: I dag er Niels Roos ædru |url=https://politiken.dk/kultur/art6672128/I-dag-er-Niels-Roos-ædru |newspaper= [[Politiken]] |language=Danish |date=23 August 2018|accessdate=8 August 2019}}</ref><ref>{{cite web |last=Port |first=Lykke |author2= |title=10 skarpe til Niarn |url=http://www.metroxpress.dk/dk/article/2009/03/12/09/3837-83/index.xml |date=12 March 2009 |work= |publisher=[[Metro International|MetroXpress]] |language=Danish |accessdate=24 August 2009 }}{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> better known as '''Niarn''', is a Danish [[rapper]]. Signed to [[Copenhagen Records]], he has released five albums including the Danish chart-topping album ''Antihelt''
+
+== Discography ==
+=== Studio albums ===
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="160"|Album
+!align="center" colspan="1" width="20"|Peak positions
+!align="center" rowspan="2" width="70"|Certification
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Tracklisten|DEN]]<br><ref name="den">{{cite web | url=https://danishcharts.dk/showinterpret.asp?interpret=Niarn | title=Niarn discography | publisher=Hung Medien | work=danishcharts.dk |accessdate=5 October 2014}}</ref>
+|-
+| style="text-align:center;"|2002
+|''Glenn Francisco''
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2004
+|''Årgang '79''
+| style="text-align:center;"|17
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2006
+|''Antihelt''
+| style="text-align:center;"|1
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2009
+|''Rød Aalborg''
+| style="text-align:center;"|7
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2014
+|''Kommer aldrig igen''
+| style="text-align:center;"|17
+| style="text-align:center;"|
+|-
+|}
+
+==Singles==
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="160"|Single
+!align="center" colspan="1" width="20"|Peak positions
+!align="center" rowspan="2" width="120"|Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Tracklisten|DEN]]<br><ref name="den"/>
+|-
+| style="text-align:center;"|2006
+|"Glenn Francisco"
+| style="text-align:center;"|3
+| style="text-align:center;"|''Glenn Francisco''
+|-
+| style="text-align:center;"|2008
+|"Undskyld (Jeg var fuld)"
+| style="text-align:center;"|28
+| style="text-align:center;"|''Rød Aalborg''
+|-
+| style="text-align:center;"|2014
+|"Ingen tårer ingen ord"<br><small>(feat. Pia Cohn & Bifrost))</small>
+| style="text-align:center;"|28
+| style="text-align:center;"|''Kommer aldrig igen''
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+[[Category:Danish rappers]]
+[[Category:People from Aalborg]]
+[[Category:Living people]]
+[[Category:1979 births]]
+
+
+{{Denmark-musician-stub}}
+{{hiphop-bio-stub}}

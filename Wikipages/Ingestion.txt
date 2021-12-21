@@ -1,0 +1,40 @@
+{{Redirect|Ingested|the British death metal band|Ingested (band)}}
+{{short description|Consumption of a substance by an organism}}
+'''Ingestion'''  is the consumption of a substance by an [[organism]]. In [[animal]]s, it normally is accomplished by taking in a substance through the [[mouth]] into the [[gastrointestinal tract]], such as through [[eating]] or [[drinking]]. In [[single-celled organism]]s ingestion takes place by absorbing a substance through the [[cell membrane]].
+
+Besides [[nutrition]]al items, substances that may be ingested include [[medication]] (where ingestion is termed [[oral administration]]), [[Recreational drug use|recreational drugs]], and substances considered inedible, such as [[Foreign body|foreign bodies]] or [[excretion|excrement]]. Ingestion is a common route taken by [[pathogen]]ic [[organism]]s and [[poison]]s entering the body.
+
+Ingestion can also refer to a mechanism picking up something and making it enter an internal hollow of that mechanism, e.g. "''a [[grille]] was fitted to prevent the pump from ingesting [[driftwood]]''".
+
+==Pathogens==
+Some [[pathogen]]s are [[transmission (medicine)|transmitted]] via ingestion, including [[virus]]es, [[bacteria]], and [[parasite]]s. Most commonly, this takes place via the [[faecal-oral route]]. An intermediate step is often involved, such as [[drinking water]] contaminated by [[faeces]] or [[food]] prepared by workers who fail to practice adequate [[hand-washing]], and is more common in regions where [[Sewage treatment|untreated]] [[sewage]] is common. [[Disease]]s transmitted via the fecal-oral route include [[hepatitis A]], [[polio]], and [[cholera]].
+
+Some pathogenic organisms are typically ingested by other routes. 
+* [[Larva]]e of the parasite ''[[Trichinella]]'' [[cyst|encyst]] within [[muscle]]s and are transmitted when a new [[Host (biology)|host]] eats the infected flesh of a former host animal.<ref>{{cite web | title = Trichinellosis | url = http://www.dpd.cdc.gov/dpdx/HTML/Trichinellosis.htm | publisher = Centers for Disease Control & Prevention | year = 2004 | access-date = 2007-04-17 }}</ref>
+* The parasite ''[[Dracunculus (animal)|Dracunculus]]'' is ingested in [[drinking water]], which is contaminated with larvae released as the parasite emerges from the host's skin.<ref>{{cite web | url = http://www.dpd.cdc.gov/dpdx/HTML/Dracunculiasis.htm | title = Dracunculiasis | publisher = Centers for Disease Control & Prevention | year = 2005 | access-date = 2007-04-17 }}</ref>
+* The bacterium ''[[Salmonella]]'' most commonly infects humans via consumption of undercooked [[Egg (food)|eggs]].<ref>{{cite journal | journal = Emerging Infectious Diseases | volume = 11 | issue = 1 | year= 2005 | last = Schroeder | first = Carl M. | display-authors = etal | doi = 10.3201/eid1101.040401 | pmid = 15705332 | pmc = 3294346 | title = Estimate of Illnesses from ''Salmonella'' Enteritidis in Eggs, United States, 2000 | pages = 113–115 }}</ref>
+
+==Foreign objects==
+[[File:Foreign body in esophagus.jpg|thumb|Foreign body in esophagus]]
+[[Watch battery|Disk batteries]], also called button cells, are often mistakenly ingested, particularly by [[child]]ren and the [[elderly]]. They may be mistaken for a [[medication]] [[Pill (pharmacy)|pill]] because of their size and shape, or they may be swallowed after being held in the mouth while the battery is being changed. Battery ingestion can cause medical problems including blocked [[airway]], [[vomiting]], [[irritability]], persistent [[drooling]], and [[rash]] (due to [[nickel]] metal [[allergy]]).<ref>{{ cite web | title = Battery Ingestion | url = http://www.emedicinehealth.com/battery_ingestion/article_em.htm | publisher = eMedicineHealth.com | date = August 10, 2005 | access-date = 2007-04-15 }}</ref>
+
+==Abnormal ingestion==
+[[Pica (disorder)|Pica]] is an abnormal appetite for non-[[nutrition|nutritive]] objects or for food items in a form not normally eaten, such as [[flour]]. [[Coprophagia]] is the consumption of [[feces]], an [[List of abnormal behaviours in animals|abnormal ingestive behavior]] common in some animals.
+
+==References==
+{{reflist}}
+
+<!-- Further references for expansion:
+General:
+http://www.tiscali.co.uk/reference/encyclopaedia/hutchinson/m0035265.html
+http://www.ilpi.com/msds/ref/ingestion.html
+Foreign bodies:
+http://www.emedicinehealth.com/battery_ingestion/article_em.htm
+http://www.emedicine.com/emerg/topic379.htm
+-->
+
+{{Ethology}}
+
+[[Category:Digestive system]]
+[[Category:Ethology]]
+[[Category:Mouth]]

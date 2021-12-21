@@ -1,0 +1,75 @@
+{{chembox
+| Watchedfields = changed
+| verifiedrevid = 430919861
+| Name = Dimethyl acetylenedicarboxylate
+| ImageFile = DMAD.png
+| ImageName = Chemical structure of DMADuak
+| ImageFile1 = Dimethyl-acetylenedicarboxylate-3D-balls.png
+| ImageSize1 = 220px
+| ImageName1 = Ball-and-stick model
+| PIN = Dimethyl but-2-ynedioate
+| OtherNames = DMAD<br />Acetylenedicarboxylic<br />acid dimethyl ester
+|Section1={{Chembox Identifiers
+| SMILES = COC(=O)C#CC(=O)OC
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 12440
+| InChI = 1/C6H6O4/c1-9-5(7)3-4-6(8)10-2/h1-2H3
+| InChIKey = VHILMKFSCRWWIJ-UHFFFAOYAX
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C6H6O4/c1-9-5(7)3-4-6(8)10-2/h1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = VHILMKFSCRWWIJ-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 762-42-5
+| RTECS = ES0175000
+| PubChem = 12980
+| EC_number = 212-098-4
+| UNII = 7HZA2PL15F
+| ChEMBL = 3248452
+  }}
+|Section2={{Chembox Properties
+| Formula = C<sub>6</sub>H<sub>6</sub>O<sub>4</sub>
+| MolarMass = 142.11 g/mol
+| Appearance = Colorless liquid
+| Density = 1.1564 g/cm<sup>3</sup>
+| Solubility = Insoluble
+| Solvent = other solvents
+| SolubleOther = Soluble in most<br />organic solvents
+| MeltingPt =-18°C
+| BoilingPtC = 195 to 198
+| BoilingPt_notes = (96–98° at 8 mm Hg)
+| RefractIndex = 1.447
+  }}
+|Section3={{Chembox Structure
+| Dipole = 0 [[Debye|D]]
+  }}
+|Section7={{Chembox Hazards
+| ExternalSDS =
+| MainHazards = Toxic gas
+| FlashPtC = 187
+| GHSPictograms = {{GHS05}}{{GHS07}}
+| GHSSignalWord = Danger
+| HPhrases = {{H-phrases|302|314}}
+| PPhrases = {{P-phrases|260|264|270|280|301+312|301+330+331|303+361+353|304+340|305+351+338|310|321|330|363|405|501}}
+  }}
+|Section8={{Chembox Related
+| OtherCompounds = [[Methyl propiolate]],<br />[[Hexafluoro-2-butyne]],<br />[[Acetylene]]
+  }}
+}}
+
+'''Dimethyl acetylenedicarboxylate''' (DMAD) is an [[organic compound]] with the formula CH<sub>3</sub>O<sub>2</sub>CC<sub>2</sub>CO<sub>2</sub>CH<sub>3</sub>. It is a di-[[ester]] in which the ester groups are conjugated with a C-C triple bond.  As such, the molecule is highly [[electrophilic]], and is widely employed as a [[dienophile]] in cycloaddition reactions, such as the [[Diels-Alder reaction]].  It is also a potent [[Michael acceptor]].<ref>Stelmach, J. E.; Winkler, J. D. "Dimethyl Acetylenedicarboxylate"in Encyclopedia of Reagents for Organic Synthesis (Ed: L. Paquette) 2004, J. Wiley & Sons, New York. {{doi|10.1002/047084289X}}.</ref><ref>{{cite journal | last1 = Sahoo | first1 = Manoj | title = Dimethyl Acetylene Dicarboxylate | journal = Synlett | volume = 2007 | issue = 13 | pages = 2142–2143 | year = 2007 | doi = 10.1055/s-2007-984894| doi-access = free }}</ref> This compound exists as a colorless liquid at room temperature. This compound was used in the preparation of [[nedocromil]].
+
+==Preparation==
+Although inexpensively available, DMAD is prepared today as it was originally. [[Maleic acid]] is [[bromination|brominated]] and the resulting dibromo[[succinic acid]] is [[dehydrohalogenation|dehydrohalogenated]] with [[potassium hydroxide]] yielding [[acetylenedicarboxylic acid]].<ref>{{cite journal | last1 = Bandrowski | first1 = E. | title = Ueber Acetylendicarbonsäure | journal = Berichte der Deutschen Chemischen Gesellschaft | volume = 10 | pages = 838–842 | year = 1877 | doi = 10.1002/cber.187701001231| url = https://zenodo.org/record/1425134 }}</ref><ref>{{OrgSynth | author = Abbott, T. W. | author2 = Arnold, R. T. | author3 = Thompson, R. B. | title = Acetylenedicarboxylic acid | collvol = 2 | collvolpages = 10 | prep = cv2p0010}}</ref>  The acid is then [[esterification|esterified]] with [[methanol]] and [[sulfuric acid]] as a catalyst:<ref>{{OrgSynth | author = Huntress, E. H. | author2 = Lesslie, T. E. | author3 = Bornstein, J. | title = Dimethyl Acetylenedicarboxylate | collvol = 4 | collvolpages = 329 | prep = cv4p0329}}</ref>
+
+:[[File:Preparation_of_dimethyl_acetylenedicarboxylate.png|450px]]
+
+==Safety==
+DMAD is a [[lachrymator]] and a [[vesicant]].
+
+==References==
+{{Reflist}}
+
+[[Category:Alkynes]]
+[[Category:Methyl esters]]
+[[Category:Carboxylate esters]]

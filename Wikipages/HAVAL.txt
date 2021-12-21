@@ -1,0 +1,37 @@
+{{Short description|computer algorithm system}}'''HAVAL''' is a [[cryptographic hash function]]. Unlike [[MD5]], but like most modern cryptographic hash functions, HAVAL can produce hashes of different lengths – 128 bits, 160 bits, 192 bits, 224 bits, and 256 bits. HAVAL also allows users to specify the number of rounds (3, 4, or 5) to be used to generate the hash. HAVAL was broken in 2004.<ref>{{cite web|url=http://valerieaurora.org/hash.html|title=Lifetimes of cryptographic hash functions}}</ref>
+
+HAVAL was invented by [[Yuliang Zheng]], [[Josef Pieprzyk]], and [[Jennifer Seberry]] in 1992.
+
+==HAVAL hashes==
+The HAVAL hashes (also termed ''fingerprints'') are typically represented as 32-, 40-, 48-, 56- or 64-digit [[hexadecimal]] numbers. The following demonstrates a 43-byte [[ASCII]] input and the corresponding HAVAL hash (256 bits, 5 passes):
+
+ HAVAL("The quick brown fox jumps over the lazy {{Background color|#87CEEB|d}}og", 256, 5) =
+ b89c551cdfe2e06dbd4cea2be1bc7d557416c58ebb4d07cbc94e49f710c55be4
+
+Even a small change in the message will (with overwhelming probability) result in a completely different hash, e.g. changing the letter {{mono|d}} to a {{mono|c}} produces the following hash value:
+
+ HAVAL("The quick brown fox jumps over the lazy {{Background color|#87CEEB|c}}og", 256, 5) =
+ 60983bb8c8f49ad3bea29899b78cd741f4c96e911bbc272e5550a4f195a4077e
+
+The hash of a zero-length string is:
+
+ HAVAL("", 256, 5) =
+ be417bb4dd5cfb76c7126f4f8eeb1553a449039307b1a3cd451dbfdc0fbbe330
+
+==Security==
+Research has uncovered weaknesses which make further use of HAVAL (at least the variant with 128 bits and 3 passes with 2<sup>6</sup> operations) questionable. On 17 August 2004, [[hash collision|collision]]s for HAVAL (128 bits, 3 passes) were announced by [[Xiaoyun Wang]], Dengguo Feng, [[Xuejia Lai]], and Hongbo Yu.<ref>[http://eprint.iacr.org/2004/199.pdf Collisions for Hash Functions MD4, MD5, HAVAL-128 and RIPEMD]</ref>
+
+== See also ==
+* [[Hash function security summary]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20150111210116/http://labs.calyptix.com/haval.php HAVAL] (the official HAVAL page with the research paper on HAVAL, the latest C source code and HAVAL OIDs)
+
+{{Cryptography navbox | hash}}
+
+[[Category:Cryptographic hash functions]]
+
+{{crypto-stub}}

@@ -1,0 +1,37 @@
+{{short description|Philips Semiconductors-branded, Motorola 68000-based 16/32-bit processor produced under license}}
+[[Image:SCC68070.JPG|thumb|SCC68070]]
+The '''SCC68070''' is a [[NXP Semiconductors|Philips Semiconductors]]-branded, [[Motorola 68000]]-based 16/32-bit processor produced under license.  While marketed externally as a high-performance [[microcontroller]], it has been almost exclusively used combined with the Philips SCC66470 VSC (Video- and Systems Controller) in the [[Philips CD-i]] interactive entertainment product line.
+
+Additions to the [[Motorola 68000]] core include:
+
+* Operation from 4 - 17.5 MHz
+* Inclusion of a minimal, segmented [[Memory management unit|MMU]] supporting up to 16 MB of memory
+* Built-in [[Direct Memory Access|DMA]] controller
+* [[I²C]] bus controller 
+* [[Universal asynchronous receiver/transmitter|UART]]
+* 16-bit counter/[[Programmable interval timer|timer]] unit
+* 2 match/count/[[Input capture|capture]]<!--correct?--> registers allowing the implementation of a pulse generator, event counter or reference timer
+* Clock generator
+
+Differences from the [[Motorola 68000]] core include these:
+
+* Instruction execution timing is completely different
+* Interrupt handling has been simplified
+* The '''SCC68070''' has [[Motorola 68010|MC68010]] style bus-error recovery.  They are not compatible, so exception error processing is different.
+* The '''SCC68070''' lacks a dedicated [[address generation unit]] (AGU), so operations requiring address calculation run slower due to contention with the shared ALU.  This means that most instructions take more cycles to execute, for some instructions significantly more, than a 68000.
+* The MMU is not compatible with the [[Motorola 68451]] or any other "standard" [[Motorola]] [[Memory management unit|MMU]], so operating system code dealing with memory protection and address translation is not generally portable.  Enabling the [[Memory management unit|MMU]] also costs a wait state on each memory access.
+
+While the '''SCC68070''' is mostly [[binary compatible]] with the [[Motorola 68000]], there is no equivalent chip in the [[Motorola]] [[Motorola 68000 family|680x0 series]].  In particular, the '''SCC68070''' is not a follow-on to the [[Motorola 68060]].
+
+Even though the '''SCC68070''' is a 32-bit processor internally, it has a 24-bit [[address bus]], giving it a theoretical 16MB maximum [[random-access memory|RAM]]. However, this is not possible, as all of the on-board peripherals are mapped internally.
+
+== External links ==
+*[http://www.xs4all.nl/~ganswijk/chipdir/reg/68070.txt xs4all.nl/~ganswijk/chipdir/reg/68070.txt]
+
+[[Category:68k microprocessors]]
+
+{{compu-hardware-stub}}
+
+[[Category:Microcontrollers]]
+[[Category:Freescale Semiconductor]]
+[[Category:Philips products]]

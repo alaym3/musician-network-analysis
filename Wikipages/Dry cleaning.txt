@@ -1,0 +1,140 @@
+{{short description|Cleaning of fabrics in non-aqueous solvents}}
+{{hatnote group|
+{{For|the British band|Dry Cleaning (band)}}
+{{For|the French film|Dry Cleaning (film)}}
+}}
+'''Dry cleaning''' is any cleaning process for [[clothing]] and [[textile]]s using a [[solvent]] other than [[water]]. 
+
+Dry cleaning still involves liquid, but clothes are instead soaked in a water-free liquid solvent, [[tetrachloroethylene]] (perchloroethylene), known in the industry as "perc", which is the most widely used solvent.  Alternative solvents are [[1-bromopropane]] and petroleum spirits.<ref name=Ullmann>David C. Tirsell "Dry Cleaning" in Ullmann's Encyclopedia of Industrial Chemistry, Wiley-VCH, Weinheim, 2000. {{DOI|10.1002/14356007.a09_049}}</ref> 
+
+Most natural fibers can be washed in water but some synthetics (e.g., [[viscose]], [[lyocell]], [[Rayon#Modal|modal]], and [[Cuprammonium rayon|cupro]]) react poorly with water and must be dry-cleaned.<ref>{{cite news |last1=Hunter |first1=Jennifer |title=Dry Cleaning Your Wool Sweaters? Don't Bother. |url=https://www.nytimes.com/2019/05/22/smarter-living/wirecutter/dry-cleaning-your-wool-sweaters-dont-bother.html |access-date=30 May 2019 |work=[[The New York Times]] |date=22 May 2019}}</ref>
+
+==History==
+Dry cleaning originated<ref>{{Cite web|last=Johnson|first=Shontavia|title=America's always had black inventors – even when the patent system explicitly excluded them|url=http://theconversation.com/americas-always-had-black-inventors-even-when-the-patent-system-explicitly-excluded-them-72619|access-date=2021-06-19|website=The Conversation|language=en}}</ref> with American entrepreneur [[Thomas L. Jennings]]. Jennings referred to his method as “dry scouring”.
+
+French dye-works operator Jean Baptiste Jolly<ref name="Ogunseitan2011">{{cite book|author=Oladele Ogunseitan|url=https://books.google.com/books?id=eCt1AwAAQBAJ&pg=PA135|title=Green Health: An A-to-Z Guide|date=3 May 2011|publisher=SAGE Publications|isbn=978-1-4522-6621-3|pages=135–}}</ref>{{efn|In some sources incorrectly<ref name="Prince1965">{{cite book|author=Ancliffe Prince|url=https://books.google.com/books?id=oy1BAAAAYAAJ|title=Laundering and Cleaning: Yesterday, To-day, and To-morrow|publisher=Iliffe Technical Publications|year=1965|quote=In Britain America the discovery was for long attributed to a supposed Paris tailor by name of Jolly-Belin [...] Actually the discoverer of drycleaning was not named Jolly-Belin but Jean-Baptiste Jell}}</ref> referred to as "Jolly-Belin"}} developed his own method using [[kerosene]] and [[gasoline]] to clean fabrics.<ref name="Ogunseitan2011" /> He opened the first dry-cleaners in Paris in 1845.<ref name="Information1986">{{cite book|author=Reed Business Information|url=https://books.google.com/books?id=Gu6wFrdExO4C&pg=PA33|title=New Scientist|date=13 February 1986|publisher=Reed Business Information|pages=33–|issn=02624079}}</ref>
+
+Flammability concerns led William Joseph Stoddard, a dry cleaner from [[Atlanta]], to develop [[Stoddard solvent]] (white spirit) as a slightly less [[flammable]] alternative to gasoline-based solvents. The use of highly flammable petroleum solvents caused many fires and explosions, resulting in government regulation of dry cleaners. After [[World War&nbsp;I]], dry cleaners began using [[organochloride|chlorinated]] solvents. These solvents were much less flammable than petroleum solvents and had improved cleaning power.{{Citation needed|date=January 2018}}
+
+===Shift to tetrachloroethylene===
+By the mid-1930s, the dry cleaning industry had adopted [[tetrachloroethylene]] (perchloroethylene), or PCE for short, as the solvent. It has excellent cleaning power and is nonflammable and compatible with most garments.  Because it is stable, tetrachloroethylene is readily recycled.<ref name="Ullmann"/>
+
+===Infrastructure===
+Dry cleaning businesses, from the perspective of the customer, are either ''plants'' or ''drop shops''.<ref name=":0">{{Cite web|url=https://theoutline.com/post/8026/korean-american-drycleaners-apps|title=The uncertain future of your neighborhood dry cleaner|last=Lee|first=Sunny|date=1 October 2019|website=The Outline|language=en|access-date=2019-10-11}}</ref>  A ''plant'' does on-site cleaning.<ref name=":0" />  A drop shop receives garments from customers, sends them to a large plant, and then has the cleaned garment returned to the shop for collection by the customer.<ref name=":0" />  The turnaround time is longer for a drop shop than for a local plant.<ref name=":0" />  However, running a plant requires more work for the business owner.<ref name=":0" />  Since 2010, in some markets, web apps have been used to schedule low-cost home delivery for dry cleaning.<ref name=":0" />
+
+This cycle  minimized the risk of fire or dangerous fumes created by the cleaning process. At this time, dry cleaning was carried out in two different machines—one for the cleaning process, and the second to remove the solvent from the garments.
+
+Machines of this era were described as ''vented''; their drying exhausts were expelled to the atmosphere, the same as many modern tumble-dryer exhausts. This not only contributed to environmental contamination but also much potentially reusable PCE was lost to the atmosphere. Much stricter controls on solvent emissions have ensured that all dry cleaning machines in the Western world are now fully enclosed, and no solvent fumes are vented to the atmosphere. {{Citation needed|date=May 2014}} In enclosed machines, solvent recovered during the drying process is returned condensed and distilled, so it can be reused to clean further loads or safely disposed of. The majority of modern enclosed machines also incorporate a computer-controlled drying sensor, which automatically senses when all detectable traces of PCE have been removed. This system ensures that only small amounts of PCE fumes are released at the end of the cycle.
+
+== Mechanism ==
+[[image:Cellulose Sessel.svg|thumb|left|220 px|Structure of cellulose, the main constituent of cotton.  The many OH [[functional group|groups]] bind water, leading to swelling of the fabric and leading to wrinkling, which is minimized when these materials are treated with tetrachloroethylene and other dry cleaning solvents.]]
+In terms of mechanism, dry cleaning selectively solubilizes stains on the article.  The [[solvent]]s are non-polar and tend to selectively extract compounds that cause stains. These stains would otherwise only dissolve in aqueous detergents mixtures at high temperatures, potentially damaging delicate fabrics.
+
+Non-polar solvents are also good for some fabrics, especially natural fabrics, as the solvent does not interact with any polar groups within the fabric. Water binds to these polar groups which results in the swelling and stretching of proteins within fibers during laundering. Also, the binding of water molecules interferes with weak attractions within the fiber, resulting in the loss of the fiber's original shape. After the laundry cycle, water molecules will dry off. However, the original shape of the fibers has already been distorted and this commonly results in shrinkage. Non-polar solvents prevent this interaction, protecting more delicate fabrics.
+
+The usage of an effective solvent coupled with mechanical friction from tumbling effectively removes stains.
+
+==Process==
+[[File:EazyClean EC124 dry cleaning machine.jpg|thumb|A modern dry cleaning machine with touchscreen and SPS control, manufacturer EazyClean, type EC124, photo taken prior to installation|150x150px]]
+[[File:Drycleanmachine.JPG|thumb|Series 3 Dry cleaning machine with PLC control, manufacturer, BÖWE Textile cleaning Germany|189x189px]]
+A dry-cleaning machine is similar to a combination of a domestic washing machine and clothes dryer. Garments are placed in the washing or extraction chamber (referred to as the 'basket' or 'drum'), which constitutes the core of the machine. The washing chamber contains a horizontal, perforated drum that rotates within an outer shell. The shell holds the solvent while the rotating drum holds the garment load. The basket capacity is between about 10 and 40&nbsp;kg (22 to 88&nbsp;lb).{{Citation needed|date=July 2012}}
+
+During the wash cycle, the chamber is filled approximately one-third full of solvent and begins to rotate, agitating the clothing. The solvent temperature is maintained at 30&nbsp;degrees Celsius (86&nbsp;degrees Fahrenheit), as a higher temperature may damage it. During the wash cycle, the solvent in the chamber (commonly known as the 'cage' or 'tackle box') is passed through a filtration chamber and then fed back into the 'cage'. This is known as the cycle and is continued for the wash duration. The solvent is then removed and sent to a [[distillation]] unit consisting of a [[boiler]] and [[Condenser (heat transfer)|condenser]]. The condensed solvent is fed into a separator unit where any remaining water is separated from the solvent and then fed into the 'clean solvent' tank. The ideal flow rate is roughly 8 liters of solvent per kilogram of garments per minute, depending on the size of the machine.
+
+Garments are also checked for foreign objects. Items such as [[plastic]] pens may dissolve in the solvent bath, damaging the textiles. Some textile [[dye]]s are "loose" and will shed dye during solvent immersion. Fragile items, such as feather bedspreads or tasseled rugs or hangings, may be enclosed in a loose mesh bag. The [[density]] of perchloroethylene is around 1.7 g/cm<sup>3</sup> at room temperature (70% heavier than water), and the sheer weight of absorbed solvent may cause the textile to fail under normal force during the extraction cycle unless the mesh bag provides mechanical support.
+
+Not all [[stain]]s can be removed by dry cleaning. Some need to be treated with spotting solvents — sometimes by steam jet or by soaking in special stain-remover liquids — before garments are washed or dry cleaned. Also, garments stored in soiled condition for a long time are difficult to bring back to their original color and texture.
+
+A typical wash cycle lasts for 8–15 minutes depending on the type of garments and degree of soiling. During the first three minutes, solvent-soluble soils dissolve into the perchloroethylene and loose, insoluble soil comes off. It takes 10–12 minutes after the loose soil has come off to remove the ground-in insoluble soil from garments. Machines using hydrocarbon solvents require a wash cycle of at least 25&nbsp;minutes because of the much slower rate of solvation of solvent-soluble soils. A dry cleaning [[surfactant]] "soap" may also be added.
+
+At the end of the wash cycle, the machine starts a rinse cycle where the garment load is rinsed with freshly distilled solvent dispensed from the solvent tank. This pure solvent rinse prevents discoloration caused by soil particles being absorbed back onto the garment surface from the 'dirty' working solvent.
+
+After the rinse cycle, the machine begins the extraction process, which recovers the solvent for reuse. Modern machines recover approximately 99.99% of the solvent employed. The extraction cycle begins by draining the solvent from the washing chamber and accelerating the basket to 350–450&nbsp;[[Revolutions per minute|rpm]], causing much of the solvent to spin free of the fabric. Until this time, the cleaning is done in normal temperature, as the solvent is never heated in dry cleaning process. When no more solvent can be spun out, the machine starts the drying cycle.
+
+During the drying cycle, the garments are tumbled in a stream of warm air (60–63&nbsp;°C/140–145&nbsp;°F) that circulates through the basket, evaporating traces of solvent left after the spin cycle. The air temperature is controlled to prevent heat damage to the garments. The exhausted warm air from the machine then passes through a chiller unit where solvent vapors are condensed and returned to the distilled solvent tank. Modern dry cleaning machines use a closed-loop system in which the chilled air is reheated and recirculated. This results in high solvent recovery rates and reduced air pollution. In the early days of dry cleaning, large amounts of perchloroethylene were vented to the atmosphere because it was regarded as cheap and believed to be harmless.
+
+[[File:Dry clean rack.jpg|thumbnail|Many dry cleaners place cleaned clothes inside thin clear plastic garment bags]]
+After the drying cycle is complete, a deodorizing ([[aeration]]) cycle cools the garments and removes further traces of solvent, by circulating cool outside air over the garments and then through a vapor recovery filter made from [[activated carbon]] and polymer resins. After the aeration cycle, the garments are clean and ready for pressing and finishing.
+
+==Solvent processing==
+[[File:Saver40.jpg|thumb|440x440px|A Firbimatic Saver Series. This machine uses activated clay filtration instead of distillation. It uses much less energy than conventional methods.]]
+Working solvent from the washing chamber passes through several [[filtration]] steps before it is returned to the washing chamber. The first step is a button trap, which prevents small objects such as lint, fasteners, buttons, and coins from entering the solvent pump.
+
+Over time, a thin layer of [[filter cake]] (called "muck") accumulates on the lint filter. The muck is removed regularly (commonly once per day) and then processed to recover solvent trapped in the muck. Many machines use "spin [[disk filter]]s", which remove the muck from the filter by [[centrifugal force]] while it is back washed with solvent.
+
+After the lint filter, the solvent passes through an [[Absorption (chemistry)|absorptive]] cartridge filter. This filter, which contains activated clays and charcoal, removes fine insoluble soil and non-volatile residues, along with dyes from the solvent. Finally, the solvent passes through a polishing filter, which removes any soil not previously removed. The clean solvent is then returned to the working solvent tank. Cooked powder residue is the name for the waste material generated by cooking down or distilling muck. It will contain solvent, powdered filter material (diatomite), carbon, non-volatile residues, lint, dyes, grease, soils, and water.  The waste sludge or solid residue from the still contains solvent, water, soils, carbon, and other non-volatile residues. Used filters are another form of waste as is waste water.
+
+To enhance cleaning power, small amounts of [[detergent]] (0.5–1.5%) are added to the working solvent and are essential to its functionality. These detergents emulsify [[hydrophobic]] soils and keep soil from redepositing on garments. Depending on the machine's design, either an anionic or a cationic detergent is used.
+
+==Symbols==
+The international [[GINETEX]] [[laundry symbol]] for dry cleaning is a circle. It may have the letter P inside it to indicate perchloroethylene solvent, or the letter F to indicate a flammable solvent (Feuergefährliches Schwerbenzin). A bar underneath the circle indicates that only mild cleaning processes is recommended. A crossed-out empty circle indicates that an item should not be dry cleaned.<ref>{{cite web |url=http://www.sartex.ch/en/textilkennzeichnung/pflegekennzeichnung/pflegesymbole/textilpflege/ |title=Professional textile care symbols |publisher=GINETEX - Swiss Association for Textile Labelling |access-date=2013-07-18 |url-status=dead |archive-url=https://web.archive.org/web/20130528201142/http://www.sartex.ch/en/textilkennzeichnung/pflegekennzeichnung/pflegesymbole/textilpflege/ |archive-date=2013-05-28 }}</ref>
+
+<gallery perrow="4">
+File:Professionelle reinigung.svg|Professional cleaning symbol
+File:Professionelle reinigung (F).svg|Dry clean, hydrocarbon solvent only (HCS)
+File:Professionelle reinigung (F)s.svg|Gentle cleaning with hydrocarbon solvents
+File:Professionelle reinigung (F)ss.svg|Very gentle cleaning with hydrocarbon solvents
+File:Professionelle reinigung (P).svg|Dry clean, [[tetrachloroethylene]] (PCE) only
+File:Professionelle reinigung (P)s.svg|Gentle cleaning with PCE
+File:Professionelle reinigung (P)ss.svg|Very gentle cleaning with PCE
+File:Nicht chemisch reinigen.svg|Do not dry clean
+</gallery>
+
+==Solvents used==
+===Perchloroethylene===
+[[Image:Tetrachloroethylene.svg|thumb|160 px|[[Perchloroethylene]] is the main solvent used in dry cleaning.]]
+[[Perchloroethylene]] (PCE, or tetrachloroethylene) has been in use since the 1930s. PCE is the most common solvent, the "standard" for cleaning performance. It is a highly effective cleaning solvent.  It is thermally stable, recyclable, and has low toxicity.  It can, however, cause color bleeding/loss, especially at higher temperatures.  In some cases it may damage special trims, buttons, and beads on some garments. It is better for oil-based stains (which account for about 10% of stains) than more common water-soluble stains (coffee, wine, blood, etc.).  The toxicity of tetrachloroethylene "is moderate to low" and "Reports of human injury are uncommon despite its wide usage in dry cleaning and degreasing".<ref>{{cite book | author = E.-L. Dreher | author2 = T. R. Torkelson | author3 = K. K. Beutel | chapter = Chlorethanes and Chloroethylenes | title = Ullmann's Encyclopedia of Industrial Chemistry | year = 2011 | publisher = Wiley-VCH | location = Weinheim | doi = 10.1002/14356007.o06_o01| isbn = 978-3527306732 }}</ref>
+
+=== Hydrocarbons ===
+[[Hydrocarbon]]s are represented by products such as [[Exxon-Mobil]]'s DF-2000 or [[Chevron Phillips]]' EcoSolv, and Pure Dry. These [[petroleum]]-based solvents are less aggressive but also less effective than PCE.  Although combustible, risk of fire or explosion can be minimized when used properly. Hydrocarbons are however pollutants.  Hydrocarbons retain about 10-12% of the market.
+
+[[File:Union K Series Dry Cleaning Machine.jpg|thumb|right|upright|A modern dry cleaning machine for use with various solvents]]
+
+=== Trichloroethylene===
+[[Trichloroethylene]] is more aggressive than PCE but is very rarely used. With superior degreasing properties, it was often used for industrial workwear/overalls cleaning in the past.  TCE is classified as carcinogenic to humans by the [[United States Environmental Protection Agency]].<ref>EPA Releases Final Health Assessment for TCE [http://yosemite.epa.gov/opa/admpress.nsf/0/B8D0E4D8489AD991852579190058D6C3] September 2011. Accessed 2011-09-28.</ref>
+
+===Supercritical CO<sub>2</sub>===
+[[Supercritical CO2|Supercritical CO<sub>2</sub>]] is an alternative to PCE; however, it is inferior in removing some forms of grime.<ref>{{cite web |url=http://resource.wur.nl/en/wetenschap/detail/dry-cleaning_with_co2_wins_award/ |title=Dry-cleaning with CO2 wins award [Science&#93; Resource |publisher=Resource.wur.nl |date=2010-10-12 |access-date=2013-03-14 |url-status=dead |archive-url=https://web.archive.org/web/20120312013535/http://resource.wur.nl/en/wetenschap/detail/dry-cleaning_with_co2_wins_award/ |archive-date=2012-03-12 }}</ref> Additive surfactants improve the efficacy of CO<sub>2.</sub><ref>{{Cite web|url=https://www.academia.edu/1074194|title=How can we use carbon dioxide as a solvent?|location=Contemporary topics in school science|access-date=2016-08-29}}</ref>
+Carbon dioxide is almost entirely nontoxic.  The greenhouse gas potential is also lower than that of many organic solvents.
+
+The dry cleaning process involves charging a sealed chamber which is loaded with clothes using gaseous carbon dioxide from a storage vessel to approximately 200  to 300 psi. This step in the process is initiated as a precaution to avoid thermal shock to the cleaning chamber. Liquid carbon dioxide is then pumped into the cleaning chamber from a separate storage vessel by a hydraulic, or electrically driven pump (which preferably has dual pistons). The pump increases the pressure of the liquid carbon dioxide to approximately 900 to 1500 psi. A separate sub-cooler reduces the temperature of the carbon dioxide by 2 to 3 degrees Celsius below the boiling point in an effort to prevent cavitation which could lead to premature degradation of the pump. <ref>{{cite web |url=https://patents.google.com/patent/US5412958A/en |title=Liquid/supercritical carbon dioxide/dry cleaning system |date=1993-12-06 |access-date=2021-01-02 }}</ref>
+
+''[[Consumer Reports]]'' rated supercritical CO<sub>2</sub> superior to conventional methods, but the Drycleaning and Laundry Institute commented on its "fairly low cleaning ability" in a 2007 report.<ref>Drycleaning and Laundry Institute. "The DLI White Paper: Key Information on Industry Solvents." ''The Western Cleaner & Launderer'', August 2007.</ref> Supercritical CO<sub>2</sub> is, overall, a mild solvent which lowers its ability to aggressively attack stains.
+
+One deficiency with supercritical CO<sub>2</sub> is that its electrical conductivity is low. As mentioned in the Mechanisms section, dry cleaning utilizes both chemical and mechanical properties to remove stains. When solvent interacts with the fabric's surface, the friction dislocates dirt. At the same time, the friction also builds up an electrical charge. Fabrics are very poor conductors and so usually, this build-up is discharged through the solvent. This discharge does not occur in liquid carbon dioxide and the build-up of an electrical charge on the surface of the fabric attracts the dirt back on to the surface, which diminishes its cleaning efficiency. To compensate for the poor solubility and conductivity of supercritical carbon dioxide, research has focused on additives. For increased solubility, 2-propanol has shown increased cleaning effects for liquid carbon dioxide as it increases the ability of the solvent to dissolve polar compounds.<ref>{{cite patent|title=Liquid carbon dioxide cleaning system employing a static dissipating fluid|country=US|number=5784905|pubdate=1998-07-28|url=http://www.google.ch/patents/US5784905|inventor1-last=Townsend|inventor2-last=Chao|inventor3-last=Purer|inventor1-first=Carl W.|inventor2-first=Sidney C.|inventor3-first=Edna M.}}</ref>
+
+Machinery for use of supercritical CO<sub>2</sub> is expensive—up to $90,000 more than a PCE machine, making affordability difficult for small businesses. Some cleaners with these machines keep traditional machines on-site for more heavily soiled textiles, but others find plant enzymes to be equally effective and more environmentally sustainable.
+
+===Other solvents: niche, emerging, etc.===
+For decades, efforts have been made to replace PCE.  These alternatives have not proven economical thus far:
+* [[Stoddard solvent]] – flammable and explosive, 100&nbsp;°F/38&nbsp;°C [[flash point]]
+* [[CFC-113]] (Freon-113), a [[Chlorofluorocarbon|CFC]]. Now banned as ozone-unfriendly.
+*[[Decamethylcyclopentasiloxane]] ("liquid silicone"), called D5 for short. It was popularized by GreenEarth Cleaning.<ref>{{cite web|url=https://gizmodo.com/theres-a-better-way-to-dry-clean-your-clothes-1634895806|title=There's a Better Way to Dry Clean Your Clothes|last=Tarantola|first=Andrew|website=[[Gizmodo]]|language=en-US|access-date=2016-08-29}}</ref> It is more expensive than PCE. It degrades within days in the environment.
+*[[Dibutoxymethane]] (SolvonK4) is a bipolar solvent that removes water-based stains and oil-based stains.<ref>{{cite journal|title=Occupational exposures to new dry cleaning solvents: High-flashpoint hydrocarbons and butylal|authors=Ceballos, Diana M.; Whittaker, Stephen G.; Lee, Eun Gyung; Roberts, Jennifer; Streicher, Robert; Nourian, Fariba; Gong, Wei; Broadwater, Kendra|journal=Journal of Occupational and Environmental Hygiene|year=2016|volume=13|issue=10|pages=759–769|doi=10.1080/15459624.2016.1177648|pmid=27105306|pmc=5511734}}</ref>
+*Brominated solvents ([[n-propyl bromide]], Fabrisolv, DrySolv) are solvents with higher [[Kauri-butanol value|KB-value]]s than PCE. This allows faster cleaning, but can damage some synthetic beads and sequins if not used correctly. Healthwise, there are reported risks associated with nPB such as numbness of nerves.<ref>[http://www.cdph.ca.gov/programs/hesis/Documents/bpropane.pdf "HAZARD EVALUATION 1-Bromopropane"] {{webarchive|url=https://web.archive.org/web/20131106024756/http://www.cdph.ca.gov/programs/hesis/Documents/bpropane.pdf |date=2013-11-06 }} July 2003. Accessed 2014-Jan-22</ref> The exposure to the solvents in a typical dry cleaner is considered far below the levels required to cause any risk.<ref>{{cite journal | pmid = 19367044| year = 2009| last1 = Azimi Pirsaraei| first1 = S. R.| title = Occupational exposure to perchloroethylene in dry-cleaning shops in Tehran, Iran| journal = Industrial Health| volume = 47| issue = 2| pages = 155–9| last2 = Khavanin| first2 = A| last3 = Asilian| first3 = H| last4 = Soleimanian| first4 = A| doi = 10.2486/indhealth.47.155| doi-access = free}}</ref> Environmentally, it is approved by the U.S. EPA. It is among the more expensive solvents, but it is faster cleaning, lower temperatures, and quick dry times.
+
+==See also==
+
+* [[Fabric restoration]]
+* [[List of laundry topics]]
+* [[Wet cleaning]]
+
+== Notes ==
+{{notelist}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [https://web.archive.org/web/20041107232825/http://epa.gov/ttn/atw/hlthef/tet-ethy.html Hazard Summary] provided by the [[United States Environmental Protection Agency]].
+* [https://www.cdc.gov/niosh/topics/dryclean/ NIOSH Safety and Health Topic: Drycleaning]
+
+{{Laundry navbox}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dry Cleaning}}
+[[Category:Dry cleaning| ]]
+[[Category:Clothing industry]]
+[[Category:Occupational safety and health]]
+[[Category:Cleaning methods]]

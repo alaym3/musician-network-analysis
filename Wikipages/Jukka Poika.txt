@@ -1,0 +1,157 @@
+{{short description|Finnish reggae musician}}
+{{More citations needed|date=May 2021}}
+{{Infobox musical artist
+| name            = Jukka Poika
+| image           = Jukka Poika 2011 2.jpg
+| caption         = Jukka Poika in August 2011
+| birth_name      = Jukka Rousu
+| birth_date      = {{birth date and age|df=yes|1980|7|19}}
+| birth_place     = [[Haukipudas]]
+| origin          = [[Raseborg]], [[Finland]]
+| genre           = [[Reggae]]
+| associated_acts =
+| occupation      =
+| years_active    =
+| label           = [[Suomen Musiikki|KHY Suomen Musiikki Oy]]
+| website         = 
+}}
+
+'''Jukka Rousu''' (born 19 July 1980), better known by his stage name '''Jukka Poika''', is a Finnish [[reggae]] artist.<ref>{{cite web |url= http://lansivayla.lehtiyhtymadev.asiakas.org/Kulttuuri/Ihmiset/Tyoelama-on-vampyyri |title= Työelämä on vampyyri |author= Nikkilä, Arja-Riikka |date= 30 November 2008 |work= lansivayla.fi |publisher= Länsiväylä |language= Finnish |accessdate= 9 July 2011 }}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==Discography==
+===Albums===
+{|class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|-
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="1"| Peak chart position
+|-
+!width="20"|<small>[[Finland|FIN]]</small><br>{{r|Musiikkituottajat}}
+|-
+! scope="row" | ''Äänipää''
+|
+*Released: 2007
+*Label: [[Suomen Musiikki|Suomen Musiikki Oy]]
+*Format: [[Compact Disc|CD]], [[Music download|Digital download]]
+| 7
+|-
+! scope="row" | ''Laulajan testamentti''
+|
+*Released: 25 August 2008
+*Label: Suomen Musiikki Oy
+*Format: [[Compact Disc|CD]], [[Music download|Digital download]]
+| 25
+|-
+! scope="row" | ''Kylmästä lämpimään''
+|
+*Released: 7 June 2010
+*Label: Suomen Musiikki Oy
+*Format: [[Compact Disc|CD]], [[Music download|Digital download]], [[LP record|LP]]
+| 2
+|-
+! scope="row" | ''Yhdestä puusta''
+|
+*Released: 14 March 2012
+*Label: Suomen Musiikki Oy 
+*Format: [[Compact Disc|CD]], [[Music download|Digital download]], [[LP record|LP]]
+| 1
+|-
+! scope="row" | ''Kokoelma''
+|
+*Released: 4 October 2013
+*Label:  KHY Suomen Musiikki Oy / Warner Music
+*Format: [[Compact Disc|CD]], [[Music download|Digital download]]
+| 6
+|-
+! scope="row" | ''Elämäntyyli''
+|
+*Released: 24 April 2015
+*Label:  KHY Suomen Musiikki Oy & Jukka Poika Musiikki Oy
+*Format: [[Compact Disc|CD]], [[Music download|Digital download]]
+| 8
+|-
+|}
+
+== Singles ==
+{| class="wikitable"
+!align="center" rowspan="2"|Year
+!align="center" rowspan="2" width="180"|Title
+!align="center" colspan="1"|Peak position
+!align="center" rowspan="2" width="180"|Album
+|-
+!width="20"|<small>[[Finland|FIN]]</small><br>{{r|Musiikkituottajat}}
+|-
+|align="center" rowspan="1"|2004
+|"Ei kilpailuu"
+|align="center"|–
+|align="center" rowspan="1"|–
+|-
+|align="center" rowspan="1"|2008
+|"Matalaenergiamies"
+|align="center"|–
+|align="center" rowspan="1"|''Äänipää''
+|-
+|align="center" rowspan="2"|2010
+|"[[Mielihyvää]]"
+|align="center"|10
+|align="center" rowspan="3"|''Kylmästä lämpimään''
+|-
+|"Ikirouta"
+|align="center"|–
+|-
+|align="center" rowspan="2"|2011
+|"Kylmästä lämpimään"
+|align="center"|–
+|-
+|"[[Silkkii]]"
+|align="center"|1
+|align="center" rowspan="4"|''Yhdestä puusta''
+|-
+|align="center" rowspan="3"|2012
+|"Älä tyri nyt"
+|align="center"|1
+|-
+|"Siideripissis"
+|align="center"|–
+|-
+|"Potentiaalii"
+|align="center"|–
+|-
+|align="center" rowspan="1"|2013
+|"Laineet"
+|align="center"|–
+|align="center" rowspan="1"|''Kokoelma''
+|-
+|align="center" rowspan="2"|2014
+|"Brand New ihanuus"
+|align="center"|–
+|align="center" rowspan="3"|''Elämäntyyli''
+|-
+|"Crazybailaaja"
+|align="center"|–
+|-
+|align="center" rowspan="1"|2015
+|"Isot laivat"
+|align="center"|–
+|-
+|}
+
+==References==
+{{reflist|refs=
+<ref name="Musiikkituottajat">{{cite web | url=http://www.ifpi.fi/tilastot/virallinen-lista/artistit/jukka+poika | title=Jukka Poika | publisher=IFPI Finland | accessdate=8 May 2015}}</ref>
+}}
+
+== External links ==
+{{Commons category}}
+* [https://myspace.com/jukkapoika Jukka Poika] on [[Myspace]]
+
+{{Jukka Poika}}
+
+{{Authority control}}
+{{DEFAULTSORT:Jukka Poika}}<!-- Don't change this to "Poika, Jukka" -- "Jukka Poika" is a stage name, and "Poika" (Finnish for "Boy") isn't the artist's last name. -->
+[[Category:Finnish reggae musicians]]
+[[Category:People from Haukipudas]]
+[[Category:1980 births]]
+[[Category:Living people]]
+
+{{Finland-musician-stub}}

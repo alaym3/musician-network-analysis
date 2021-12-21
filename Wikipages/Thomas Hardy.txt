@@ -1,0 +1,400 @@
+{{Short description|English novelist and poet (1840–1928)}}
+{{other people}}
+{{Use British English|date=November 2015}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name          = Thomas Hardy
+| honorific_suffix = {{post-nominals|country=GBR|size=100%|OM}}
+| image         = Thomas Hardy's Portrait.jpg
+| caption       = [[Photograph]] of Thomas Hardy 
+| birth_date    = {{birth date|df=yes|1840|6|2}}
+| birth_place   = [[Stinsford]], [[Dorset]], England
+| death_date    = {{death date and age|df=yes |1928|1|11|1840|6|2}}
+| death_place   = [[Dorchester, Dorset|Dorchester]], Dorset, England
+| resting_place = {{unbulleted list | Stinsford parish church (heart) | [[Poets' Corner]], [[Westminster Abbey]] (ashes) }}
+| occupation    = [[Novelist]], poet, and short story writer
+| alma_mater    = [[King's College London]]
+| genre         =
+| movement      = [[Naturalism (literature)|Naturalism]], [[Victorian literature]]
+| notableworks  = ''[[Tess of the d'Urbervilles]]''<br />''[[Far from the Madding Crowd]]''<br />''[[The Mayor of Casterbridge]]''<br />''Collected Poems''<br />''[[Jude the Obscure]]''
+| spouse        = {{unbulleted list |{{marriage|[[Emma Gifford]]|1874|1912|end=her death}}| {{marriage|[[Florence Dugdale]]|1914}}}}
+| signature     = Thomas Hardy signature.svg
+}}
+'''Thomas Hardy''' {{post-nominals|country=GBR|OM}} (2 June 1840 – 11 January 1928) was an English novelist and poet. A [[Literary realism|Victorian realist]] in the tradition of [[George Eliot]], he was influenced both in his novels and in his poetry by [[Romanticism]], including the poetry of [[William Wordsworth]].<ref>{{Citation |first=Dennis |last=Taylor |title=Hardy and Wordsworth |journal=Victorian Poetry |volume=24 |number=4 |date=Winter 1986}}.</ref> He was highly critical of much in [[Victorian era|Victorian]] society, especially on the declining status of rural people in Britain, such as those from his native [[South West England]].
+
+While Hardy wrote poetry throughout his life and regarded himself primarily as a poet, his first collection was not published until 1898. Initially, he gained fame as the author of novels such as ''[[Far from the Madding Crowd]]'' (1874), ''[[The Mayor of Casterbridge]]'' (1886), ''[[Tess of the d'Urbervilles]]'' (1891), and ''[[Jude the Obscure]]'' (1895). During his lifetime, Hardy's poetry was acclaimed by younger poets (particularly the [[Georgian Poetry|Georgians]]) who viewed him as a mentor. After his death his poems were lauded by [[Ezra Pound]], [[W. H. Auden]] and [[Philip Larkin]].<ref>{{cite book|last1=Watts|first1=Cedric|title=Thomas Hardy: 'Tess of the d'Urbervilles'|date=2007|publisher=Humanities-Ebooks|pages=13, 14}}</ref>
+
+Many of his novels concern tragic characters struggling against their passions and social circumstances, and they are often set in the semi-fictional region of [[Wessex]]; initially based on the medieval Anglo-Saxon kingdom, [[Thomas Hardy's Wessex|Hardy's Wessex]] eventually came to include the counties of Dorset, Wiltshire, Somerset, Devon, Hampshire and much of Berkshire, in southwest and south central England. Two of his novels, ''Tess of the d'Urbervilles'' and ''Far from the Madding Crowd'', were listed in the top 50 on the [[BBC]]'s survey [[The Big Read]].<ref>[https://www.bbc.co.uk/arts/bigread/top100.shtml "BBC – The Big Read"]. BBC. April 2003, Retrieved 16 December 2016</ref>
+
+==Life and career==
+=== Early life ===
+[[File:2780theHardyTreeOldStPancrasChurchyard.jpg|thumb|"The Hardy Tree", a [[Great Trees of London|Great Tree of London]] in [[St Pancras Old Church|Old St Pancras]] churchyard in London, growing between gravestones moved while Hardy was working there]]
+Thomas Hardy was born on 2 June 1840 in Higher Bockhampton (then Upper Bockhampton), a hamlet in the parish of [[Stinsford]] to the east of [[Dorchester, Dorset|Dorchester]] in Dorset, England, where his father Thomas (1811–1892) worked as a stonemason and local builder, and married his mother Jemima (née Hand;<ref>{{cite web |url=https://www.theguardian.com/books/2006/oct/13/thomashardy |title=Thomas Hardy: The Time-Torn Man |work=The Guardian|date=13 October 2006 }}</ref> 1813–1904) in Beaminster, towards the end of 1839.<ref name="freebmd.org.uk">{{cite web|url=http://www.freebmd.org.uk/|title=FreeBMD Home Page|website=www.freebmd.org.uk}}</ref> Jemima was well-read, and she educated Thomas until he went to his first school at Bockhampton at the age of eight. For several years he attended Mr. Last's Academy for Young Gentlemen in Dorchester, where he learned Latin and demonstrated academic potential.<ref>{{Citation |first=Claire |last=Tomalin |title=Thomas Hardy: the Time-torn Man |publisher=Penguin |year=2007 |pages=30, 36}}.</ref> Because Hardy's family lacked the means for a university education, his formal education ended at the age of sixteen, when he became apprenticed to James Hicks, a local architect.<ref>{{Citation |last=Walsh |first=Lauren |contribution=Introduction |title=The Return of the Native, by Thomas Hardy |place=New York |publisher=Barnes & Noble |series=Classics |year=2005 |type=print}}.</ref>
+
+Hardy trained as an architect in Dorchester before moving to London in 1862; there he enrolled as a student at [[King's College London]]. He won prizes from the [[Royal Institute of British Architects]] and the [[Architectural Association School of Architecture|Architectural Association]]. He joined [[Arthur Blomfield]]'s practice as assistant architect in April 1862 and worked with Blomfield on All Saints' parish church in [[Windsor, Berkshire]], in 1862–64. A [[reredos]], possibly designed by Hardy, was discovered behind panelling at All Saints' in August 2016.<ref>{{cite news|last1=Flood|first1=Alison|title=Thomas Hardy altarpiece discovered in Windsor church|url=https://www.theguardian.com/books/2016/aug/16/thomas-hardy-altarpiece-discovered-in-windsor-church|access-date=17 August 2016|work=The Guardian|date=16 August 2016}}</ref><ref>{{cite web|url=http://www.windsorobserver.co.uk/news/14679029.Legendary_author_Thomas_Hardy_s_lost_contribution_to_Windsor_church_uncovered/|title=Legendary author Thomas Hardy's lost contribution to Windsor church uncovered|website=Royal Borough Observer}}</ref> In the mid-1860s, Hardy was in charge of the excavation of part of the graveyard of [[St Pancras Old Church]] prior to its destruction when the [[Midland Railway]] was extended to a new terminus at [[St Pancras railway station|St Pancras]].<ref name="cornerstone">{{cite journal |last=Burley |first=Peter |year=2012 |title=When steam railroaded history |journal=Cornerstone |volume=33 |issue=1 |page=9 }}</ref>
+
+Hardy never felt at home in London, because he was acutely conscious of class divisions and his social inferiority. During this time he became interested in social reform and the works of [[John Stuart Mill]]. He was introduced by his Dorset friend [[Horatio Mosley Moule|Horace Moule]] to the works of [[Charles Fourier]] and [[Auguste Comte]]. Mill's essay ''[[On Liberty]]'' was one of Hardy's cures for despair, and in 1924 he declared that "my pages show harmony of view with" Mill.<ref>{{cite book |last1=Wilson |first1=Keith |title=A Companion to Thomas Hardy |date=2009 |publisher=John Wiley & Sons |page=55}}</ref> He was also attracted to [[Matthew Arnold]]'s and [[Leslie Stephen]]'s ideal of the urbane liberal freethinker.<ref>{{cite book |last1=Widdowson |first1=Peter |title=Thomas Hardy and Contemporary Literary Studies |date=2004 |publisher=Springer |page=132}}</ref>
+
+After five years, concerned about his health, he returned to Dorset, settling in [[Weymouth, Dorset|Weymouth]], and decided to dedicate himself to writing.
+
+=== Marriage and novel writing ===
+[[File:Max Gate.jpg|thumb|Max Gate in 2015]]
+In 1870, while on an architectural mission to restore the [[St Julitta's Church, St Juliot|parish church of St Juliot]] in Cornwall,<ref>Gibson, James (ed.) (1975) Chosen Poems of Thomas Hardy, London: Macmillan Education; p.9.</ref> Hardy met and fell in love with [[Emma Gifford]], whom he married in Kensington in late 1874.<ref name="freebmd.org.uk"/><ref>Hardy, Emma (1961) Some Recollections by Emma Hardy; with some relevant poems by Thomas Hardy; ed. by Evelyn Hardy & R. Gittings. London: Oxford University Press</ref><ref>"Thomas Hardy – the Time-Torn Man" (a reading of [[Claire Tomalin]]'s book of the same name), [[BBC Radio 4]], 23 October 2006</ref> renting St David's Villa, Southborough (now [[Surbiton]]) for a year.  In 1885 Thomas and his wife moved into [[Max Gate]], a house designed by Hardy and built by his brother. Although they later became estranged, Emma's subsequent death in 1912 had a traumatic effect on him and after her death, Hardy made a trip to Cornwall to revisit places linked with their courtship; his ''[[Poems 1912–13]]'' reflect upon her death. In 1914, Hardy married his secretary [[Florence Dugdale|Florence Emily Dugdale]], who was 39 years his junior. He remained preoccupied with his first wife's death and tried to overcome his remorse by writing poetry. In his later years, he kept a [[Wire Fox Terrier]] named Wessex, who was notoriously ill-tempered. Wessex's grave stone can be found on the Max Gate grounds.<ref>[https://www.theguardian.com/books/2006/sep/30/biography.thomashardy “At home with the wizard”]. The Guardian, Retrieved 10 July 2019</ref><ref name="BBC100304">{{cite web |url=https://www.bbc.co.uk/wiltshire/entertainment/days_out/thomas_hardy_stourhead.shtml |title=Wiltshire Days Out – Thomas Hardy at Stourhead |publisher=BBC |access-date=19 May 2014}}</ref> In 1910, Hardy had been appointed a Member of the [[Order of Merit]] and was also for the first time nominated for the [[Nobel Prize in Literature]]. He was nominated again for the prize 11 years later.<ref>{{London Gazette |issue=28393 |date=8 July 1910 |page=4857}}</ref><ref>{{cite web |url=https://www.nobelprize.org/nomination/archive/show_people.php?id=3892 |title=Nomination Database |date=April 2020 }}</ref>
+
+=== Hardy and the theatre ===
+Hardy's interest in the theatre dated from the 1860s. He corresponded with various would-be adapters over the years, including [[Robert Louis Stevenson]] in 1886 and [[Jack Grein]] and Charles Jarvis in the same decade.<ref>{{Cite book|title=Thomas Hardy on Stage|last=Wilson|first=Keith|publisher=The Macmillan Press|year=1995|isbn=9780333598856|pages=29}}</ref> Neither adaptation came to fruition, but Hardy showed he was potentially enthusiastic about such a project. One play that was performed, however, caused him a certain amount of pain. His experience of the controversy and lukewarm critical reception that had surrounded his and [[J. Comyns Carr|Comyns Carr's]] adaptation of ''[[Far from the Madding Crowd|Far From the Madding Crowd]]'' in 1882 left him wary of the damage that adaptations could do to his literary reputation. So it is notable that, in 1908, he so readily and enthusiastically became involved with a local amateur group, at the time known as the Dorchester Dramatic and Debating Society, but that would become the [[The Hardy Players|Hardy Players]]. His reservations about adaptations of his novels meant he was initially at some pains initially to disguise his involvement in the play.<ref>Wilson, Keith (1995). ''Thomas Hardy on Stage''. The Macmillan Press. p. 60. [[ISBN (identifier)|ISBN]] [[Special:BookSources/9780333598856|<bdi>9780333598856</bdi>]]</ref> However, the international success<ref>Evans, Harold (1908). "A Souvenir of the Performances of the Play adapted from Mr. Thos. Hardy's Novel 'The Trumpet Major'". The Dorchester Debating and Dramatic Society.</ref> of the play, ''[[The Trumpet-Major|The Trumpet Major]]'', led to a long and successful collaboration between Hardy and the Players over the remaining years of his life. Indeed, his play ''The Famous Tragedy of the Queen of Cornwall at [[Tintagel]] in [[Lyonnesse]]'' (1923) was written to be performed by the Hardy Players.<ref>{{Cite journal|last=Dean|first=Andrew R|date=February 1993|title=The Sources of The Famous Tragedy of the Queen of Cornwall|url=https://www.jstor.org/stable/45274094|journal=Thomas Hardy Journal, the|volume=9|issue=1|pages=76–89|jstor=45274094|via=JSTOR}}</ref>
+
+=== Final years ===
+[[File:Florence Hardy at the seaside 1915.jpg|thumb|Florence Hardy at the seashore, 1915]]
+
+Hardy was horrified by the destruction caused by the  [[First World War]], pondering that "I do not think a world in which such fiendishness is possible to be worth the saving" and "better to let western 'civilization' perish, and let the black and yellow races have a chance."<ref name="Sherman">{{cite book |last1=Sherman |first1=George William |title=The Pessimism of Thomas Hardy |date=1976 |publisher=Fairleigh Dickinson Univ Press |page=447}}</ref> He wrote to [[John Galsworthy]] that "the exchange of international thought is the only possible salvation for the world."<ref name="Sherman" />
+
+Hardy became ill with [[pleurisy]] in December 1927 and died at [[Max Gate]] just after 9&nbsp;pm on 11 January 1928, having dictated his final poem to his wife on his deathbed; the cause of death was cited, on his death certificate, as "cardiac syncope", with "old age" given as a contributory factor. His funeral was on 16 January at [[Westminster Abbey]], and it proved a controversial occasion because Hardy had wished for his body to be interred at Stinsford in the same grave as his first wife, Emma. His family and friends concurred; however, his executor, Sir [[Sydney Carlyle Cockerell]], insisted that he be placed in the abbey's famous [[Poets' Corner]]. A compromise was reached whereby his heart was buried at Stinsford with Emma, and his ashes in Poets' Corner.<ref>{{cite book |author=Bradford, Charles Angell |author-link=Charles Angell Bradford |title=Heart Burial |year=1933 |publisher=Allen & Unwin |location=London |isbn=978-1-162-77181-6 |page=246}}</ref> Hardy's estate at death was valued at [[Pound sterling|£]]95,418 ({{inflation|UK|95418|1928|fmt=eq|cursign=£|r=-5}}).<ref>From Probate Index for 1928: "Hardy O. M. Thomas of Max Gate Dorchester Dorsetshire died 11 January 1928 Probate London 22 February to Lloyds Bank Limited Effects £90707 14s 3d Resworn £95418 3s 1d."</ref>
+
+Shortly after Hardy's death, the executors of his estate burnt his letters and notebooks, but twelve notebooks survived, one of them containing notes and extracts of newspaper stories from the 1820s, and research into these has provided insight into how Hardy used them in his works.<ref name="BBC200803">{{cite web |url=https://www.bbc.co.uk/homeground/archive/2003/thomas_hardy.shtml |title=Homeground: Dead man talking |date=20 August 2003 |work=BBC Online |access-date=2006-08-12 |url-status=dead |archive-url=https://web.archive.org/web/20040831225219/http://www.bbc.co.uk/homeground/archive/2003/thomas_hardy.shtml |archive-date=31 August 2004}}</ref> In the year of his death Mrs Hardy published ''The Early Life of Thomas Hardy, 1841–1891'', compiled largely from contemporary notes, letters, diaries, and biographical memoranda, as well as from oral information in conversations extending over many years.
+
+Hardy's work was admired by many younger writers, including [[D. H. Lawrence]],<ref>{{Citation |title=Study of Thomas Hardy and other essays |orig-year=1914 |editor-first=Bruce |editor-last=Steele |publisher=Cambridge University Press |year=1985 |isbn=0-521-25252-0 |chapter=Literary criticism and metaphysics}}.</ref> [[John Cowper Powys]], and [[Virginia Woolf]].<ref>"The Novels of Thomas Hardy", ''The Common Reader'', 2nd series.</ref> In his autobiography ''[[Goodbye to All That]]'' (1929), [[Robert Graves]] recalls meeting Hardy in Dorset in the early 1920s and how Hardy received him and his new wife warmly, and was encouraging about his work.
+
+Hardy's [[Thomas Hardy's Cottage|birthplace in Bockhampton]] and his house [[Max Gate]], both in Dorchester, are owned by the [[National Trust for Places of Historic Interest or Natural Beauty|National Trust]].
+
+==Novels==
+[[File:Thomas Hardy's Cottage, Bockhampton, Dorset.jpg|thumb|Thomas Hardy's [[Thomas Hardy's Cottage|birthplace and cottage]] at Higher Bockhampton, where ''[[Under the Greenwood Tree]]'' and ''[[Far from the Madding Crowd]]'' were written]]
+[[File:Thomas Hardy Locations, Tess of the Durbervilles (1) - geograph.org.uk - 707277.jpg|thumb|View of the [[River Frome, Dorset|River Frome]] from the bridge at [[Lower Bockhampton]]. In ''[[Tess of the d'Urbervilles]]'' the lowland vale of the river is described as the Vale of the Great Dairies, in comparison to Tess's home, the fertile [[Vale of Blackmore]], which is the Vale of Little Dairies.]]
+
+Hardy's first novel, ''[[The Poor Man and the Lady]]'', finished by 1867, failed to find a publisher. He then showed it to his mentor and friend, the Victorian poet and novelist [[George Meredith]], who felt that ''The Poor Man and the Lady'' would be too politically controversial and might damage Hardy's ability to publish in the future. So Hardy followed his advice and he did not try further to publish it. He subsequently destroyed the manuscript, but used some of the ideas in his later work.<ref name="Bullen2013">{{cite book|author=J. B. Bullen|title=Thomas Hardy: The World of his Novels|url=https://books.google.com/books?id=8aX0AgAAQBAJ&pg=PT143|date=24 June 2013|publisher=Frances Lincoln|isbn=978-1-78101-122-5|page=143}}</ref> In his recollections in ''Life and Work'', Hardy described the book as "socialistic, not to say revolutionary; yet not argumentatively so."<ref>{{cite book |last1=Widdowson |first1=Peter |title=Thomas Hardy |date=2018 |publisher=Oxford University Press |page=27}}</ref>
+
+After he abandoned his first novel, Hardy wrote two new ones that he hoped would have more commercial appeal, ''[[Desperate Remedies]]'' (1871) and ''[[Under the Greenwood Tree]]'' (1872), both of which were published anonymously; it was while working on the latter that he met Emma Gifford, who would become his wife.<ref name="Bullen2013"/> In 1873 ''[[A Pair of Blue Eyes]]'', a novel drawing on Hardy's courtship of Emma, was published under his own name. A plot device popularised by [[Charles Dickens]], the term "[[cliffhanger]]" is considered to have originated with the serialised version of ''A Pair of Blue Eyes'' (published in ''[[William Tinsley (publisher)|Tinsley's Magazine]]'' between September 1872 and July 1873) in which Henry Knight, one of the protagonists, is left literally hanging off a cliff.<ref name="Hardy2013">{{cite book|author=Thomas Hardy|title=Delphi Complete Works of Thomas Hardy (Illustrated)|url=https://books.google.com/books?id=N1EbAgAAQBAJ&pg=PT570|date=17 November 2013|publisher=Delphi Classics|isbn=978-1-908909-17-6|pages=570–}}</ref><ref>{{cite magazine|title=The curious staying power of the cliffhanger.|url=https://www.newyorker.com/magazine/2012/07/30/tune-in-next-week|magazine=The New Yorker|date=10 July 2019}}</ref> Elements of Hardy's fiction reflect the influence of the commercially successful sensation fiction of the 1860s, particularly the legal complications in novels such as ''Desperate Remedies'' (1871), ''Far from the Madding Crowd'' (1874) and ''Two on a Tower'' (1882).<ref>Trish Ferguson, ''Thomas Hardy's Legal Fictions'', Edinburgh University Press, 2013.</ref>
+
+In ''[[Far from the Madding Crowd]]'', Hardy first introduced the idea of calling the region in the west of England, where his novels are set, [[Thomas Hardy's Wessex|Wessex]]. Wessex had been the name of an early [[Saxon]] kingdom, in approximately the same part of England. ''Far from the Madding Crowd'' was successful enough for Hardy to give up architectural work and pursue a literary career. Over the next 25 years, Hardy produced 10 more novels.
+
+Subsequently, the Hardys moved from London to [[Yeovil]], and then to [[Sturminster Newton]], where he wrote ''[[The Return of the Native]]'' (1878).<ref>{{cite web|url=http://www.dorsetlife.co.uk/2013/06/curiosities-of-sturminster-newton/|title=Curiosities of Sturminster Newton – Dorset Life – The Dorset Magazine|website=www.dorsetlife.co.uk|access-date=9 November 2017}}</ref> In 1880, Hardy published his only historical novel, ''[[The Trumpet-Major]]''. A further move to Wimborne saw Hardy write ''[[Two on a Tower]]'', published in 1882, a romance story set in the world of astronomy. Then in 1885, they moved for the last time, to [[Max Gate]], a house outside Dorchester designed by Hardy and built by his brother. There he wrote ''[[The Mayor of Casterbridge]]'' (1886), ''[[The Woodlanders]]'' (1887), and ''[[Tess of the d'Urbervilles]]'' (1891), the last of which attracted criticism for its sympathetic portrayal of a "fallen woman", and initially it was refused publication. Its subtitle, ''A Pure Woman: Faithfully Presented'', was intended to raise the eyebrows of the Victorian middle classes.
+[[File:Thomas Hardy Locations, Return of the Native - geograph.org.uk - 786542.jpg|thumb|A major location of ''[[The Return of the Native]]'' as part of Hardy's fictional [[Egdon Heath]].]]
+
+''[[Jude the Obscure]]'', published in 1895, met with an even stronger negative response from the Victorian public because of its controversial treatment of sex, religion and marriage. Its apparent attack on the institution of marriage caused strain on Hardy's already difficult marriage because Emma Hardy was concerned that ''Jude the Obscure'' would be read as autobiographical. Some booksellers sold the novel in brown paper bags, and [[Walsham How]], the [[Bishop of Wakefield (diocese)|Bishop of Wakefield]], is reputed to have burnt his copy.<ref name="BBC200803"/> In his postscript of 1912, Hardy humorously referred to this incident as part of the career of the book: "After these [hostile] verdicts from the press its next misfortune was to be burnt by a bishop – probably in his despair at not being able to burn me".<ref>{{cite book |title= Jude the Obscure |last= Hardy |first= Thomas |year= 1998 |publisher=Penguin Classics |isbn= 0-14-043538-7 |page= 466 |url=https://books.google.com/books?id=txZevBW0iX0C }}</ref> Despite this, Hardy had become a celebrity by the 1900s, but some argue that he gave up writing novels because of the criticism of both ''Tess of the D'Urbervilles'' and ''Jude the Obscure''.<ref name="English Literature 2000">"Thomas Hardy", ''The Norton Anthology of English Literature'', 7th edition, vol. 2. New York: W.W. Norton, 2000, p.1916.</ref> ''[[The Well-Beloved]]'', first serialised in 1892, was published in 1897.
+[[File:Thomas Hardy by William Strang 1893.jpg|thumb|left|upright|Hardy painted by [[William Strang]], 1893]]
+
+==Literary themes==
+Considered a Victorian realist, Hardy examines the social constraints on the lives of those living in [[Victorian England]], and criticises those beliefs, especially those relating to marriage, education and religion, that limited people's lives and caused unhappiness. Such unhappiness, and the suffering it brings, is seen by poet [[Philip Larkin]] as central in Hardy's works:
+
+{{quote|What is the intensely maturing experience of which Hardy's modern man is most sensible?  In my view it is suffering, or sadness, and extended consideration of the centrality of suffering in Hardy's work should be the first duty of the true critic for which the work is still waiting [. . .] Any approach to his work, as to any writer's work, must seek first of all to determine what element is peculiarly his, which imaginative note he strikes most plangently, and to deny that in this case it is the sometimes gentle, sometimes ironic, sometimes bitter but always passive apprehension of suffering is, I think, wrong-headed.<ref>Larkin, Philip 1983, "Wanted: Good Hardy Critic" in ''Required Writing'', London: [[Faber and Faber]].</ref>}}
+
+In ''Two on a Tower'', for example, Hardy takes a stand against these rules of society with a story of love that crosses the boundaries of class. The reader is forced to reconsider the conventions set up by society for the relationships between women and men. Nineteenth-century society had conventions, which were enforced. In this novel Swithin St Cleeve's idealism pits him against such contemporary social constraints.
+
+{{quote|In a novel structured around contrasts, the main opposition is between Swithin St Cleeve and Lady Viviette Constantine, who are presented as binary figures in a series of ways: aristocratic and lower class, youthful and mature, single and married, fair and dark, religious and agnostic...she [Lady Viviette Constantine] is also deeply conventional, absurdly wishing to conceal their marriage until Swithin has achieved social status through his scientific work, which gives rise to uncontrolled ironies and tragic-comic misunderstandings.<ref>Geoffrey Harvey, ''Thomas Hardy: The Complete Critical Guide to Thomas Hardy.'' New York: Routledge, 2003, p.108.</ref>}}
+
+Fate or chance is another important theme. Hardy's characters often encounter crossroads on a journey, a junction that offers alternative physical destinations but which is also symbolic of a point of opportunity and transition, further suggesting that fate is at work. ''Far from the Madding Crowd'' is an example of a novel in which chance has a major role: "Had Bathsheba not sent the valentine, had Fanny not missed her wedding, for example, the story would have taken an entirely different path."<ref>{{cite web |url=http://www.enotes.com/twentieth-century-criticism/far-from-madding-crowd-thomas-hardy |title=Far from the Madding Crowd, Thomas Hardy – Introduction (Twentieth-Century Literary Criticism. Ed. Linda Pavlovski. Vol. 153. Gale Group, Inc.,) |publisher=Enotes.com |access-date= 7 September 2009}}</ref> Indeed, Hardy's main characters often seem to be held in fate's overwhelming grip.
+==Poetry==
+[[File:Thomas Hardy by Walter William Ouless.jpg|thumb|upright|Thomas Hardy by [[Walter William Ouless]], 1922]]
+In 1898, Hardy published his first volume of poetry, ''[[Wessex Poems]]'', a collection of poems written over 30 years. While some suggest that Hardy gave up writing novels following the harsh criticism of ''Jude the Obscure'' in 1896, the poet [[C. H. Sisson]] calls this "hypothesis" "superficial and absurd".<ref name="English Literature 2000"/><ref>"Introduction" to the Penguin edition of ''Jude the Obscure'' (1978). Harmondsworth: Penguin Books, 1984, p.13.</ref> In the twentieth century Hardy published only poetry.
+
+Thomas Hardy wrote in a great variety of poetic forms, including [[lyric poetry|lyrics]], [[ballad]]s, satire, [[dramatic monologue]]s, and dialogue, as well as a three-volume epic closet drama ''[[The Dynasts]]'' (1904–08),<ref name="britannica1">{{cite encyclopedia|url=http://www.britannica.com/EBchecked/topic/255167/Thomas-Hardy |title=Thomas Hardy (British writer) – Encyclopædia Britannica |encyclopedia=Britannica.com |date=6 November 2013 |access-date=19 May 2014}}</ref> and though in some ways a very traditional poet, because he was influenced by folksong and ballads,<ref>"Thomas Hardy", ''The Bloomsbury Guide to English Literature'', ed. Marion Wynne Davies. New York: Prentice Hall, 1990, p.583.</ref> he "was never conventional," and "persistently experiment[ed] with different, often invented, stanza forms and metres,<ref>''The Bloomsbury Guide'', p. 583.</ref> and made use of "rough-hewn rhythms and colloquial diction".<ref name="poets1">{{cite web|url=http://www.poets.org/poet.php/prmPID/110#sthash.STdc5gsw.dpuf |title=Thomas Hardy &#124; Academy of American Poets |publisher=Poets.org |date=11 January 1928 |access-date=19 May 2014}}</ref>
+
+Hardy wrote a number of significant war poems that relate to both the [[Boer War]]s and [[World War I]], including "Drummer Hodge", "In Time of 'The Breaking of Nations'", and "[[The Man He Killed]]"; his work had a profound influence on other war poets such as [[Rupert Brooke]] and [[Siegfried Sassoon]].<ref name="Axelrod">{{cite web|last=Axelrod |first=Jeremy |url=http://www.poetryfoundation.org/bio/thomas-hardy |title=Thomas Hardy |publisher=The Poetry Foundation |access-date=19 May 2014}}</ref> Hardy in these poems often used the viewpoint of ordinary soldiers and their colloquial speech.<ref name="Axelrod"/> A theme in the ''[[Wessex Poems]]'' is the long shadow that the [[Napoleonic Wars]] cast over the 19th century, as seen, for example, in "The Sergeant's Song" and "Leipzig".<ref name="Katherine Kearney Maynard 1991, pp. 8">Katherine Kearney Maynard, ''Thomas Hardy's Tragic Poetry: The Lyrics and The Dynasts''. Iowa City: University of Iowa Press, 1991, pp. 8–12.</ref> The Napoleonic War is the subject of ''The Dynasts''.
+
+Some of Hardy's more famous poems are from "Poems of 1912–13", part of ''Satires of Circumstance'' (1914), written following the death of his wife Emma in 1912. They had been estranged for 20 years, and these lyric poems express deeply felt "regret and remorse".<ref name="Axelrod"/> Poems like "After a Journey", "The Voice", and others from this collection "are by general consent regarded as the peak of his poetic achievement".<ref name="britannica1"/> In a recent biography on Hardy, [[Claire Tomalin]] argues that Hardy became a truly great English poet after the death of his first wife Emma, beginning with these elegies, which she describes as among "the finest and strangest celebrations of the dead in English poetry."<ref>Tomalin, Claire. "Thomas Hardy." New York: Penguin, 2007.</ref>
+
+[[File:Thomas Hardy (1923 portrait).jpg|thumb|left|upright|A portrait of Thomas Hardy in 1923 by [[Reginald Eves]]]]
+Many of Hardy's poems deal with themes of disappointment in love and life, and "the perversity of fate", but the best of them present these themes with "a carefully controlled elegiac feeling".<ref>"The Norton Anthology of English Literature'', 7th edition, vol. 2, p. 1916.</ref> [[Irony]] is an important element in a number of Hardy's poems, including "The Man He Killed" and "Are You Digging on My Grave".<ref name="Katherine Kearney Maynard 1991, pp. 8"/> A few of Hardy's poems, such as "[[The Blinded Bird]]", a melancholy polemic against the sport of {{lang|nl|[[Vinkensport|vinkenzetting]]}}, reflect his firm stance against animal cruelty, exhibited in his [[Vivisection|antivivisectionist]] views and his membership in The [[Royal Society for the Prevention of Cruelty to Animals]].<ref>{{cite book| url=https://archive.org/details/wakinggiantspres00schn_0
+| url-access=registration
+| page=[https://archive.org/details/wakinggiantspres00schn_0/page/35 35]
+| quote=the blinded bird.
+|title=Waking Giants: The Presence of the Past in Modernism| year=1991
+| publisher=Oxford University Press
+|author=Herbert N. Schneidau| isbn=978-0-19-506862-7
+|access-date=16 April 2008 }} (Google Books)</ref>
+
+A number of notable English composers, including [[Gerald Finzi]],<ref>Song cycle ''[[Earth and Air and Rain]]'' (1936)</ref><ref>{{cite web|url=http://www.geraldfinzi.com/biography/ |title=Biography " Gerald Finzi Official Site |publisher=Geraldfinzi.com |date=27 September 1956 |access-date=19 May 2014}}</ref> [[Benjamin Britten]],<ref>Song cycle ''[[Winter Words (song cycle)|Winter Words]]'' (1953)</ref> [[Ralph Vaughan Williams]],<ref>Cantata ''[[Hodie#VII:_Song|Hodie]]'' (1954)</ref> and [[Gustav Holst]],<ref>{{cite web |url=http://www.lieder.net/get_settings.html?ComposerId=1237 |title=Gustav Holst (Vocal Texts and Translations for Composer Gustav Holst) |publisher=LiederNet Archive |access-date=19 May 2014 }}</ref> set poems by Hardy to music. Holst also wrote the orchestral tone poem ''[[Egdon Heath (Holst)|Egdon Heath: A Homage to Thomas Hardy]]'' in 1927.
+
+Although his poems were initially not as well received as his novels had been, Hardy is now recognised as one of the great poets of the 20th century, and his verse had a profound influence on later writers, including [[Robert Frost]], [[W. H. Auden]], [[Dylan Thomas]], and [[Philip Larkin]].<ref name="poets1"/> Larkin included 27 poems by Hardy compared with only nine by [[T. S. Eliot]] in his edition of the ''Oxford Book of Twentieth Century English Verse'' in 1973.<ref>{{cite web|url=http://www.poets.org/poet.php/prmPID/110 |title=Poetry.org |publisher=Poets.org |date=11 January 1928 |access-date=19 May 2014}}</ref> There were fewer poems by [[W. B. Yeats]].<ref>"Thomas Hardy", ''The Norton Anthology of English Literature'', 7th edition, vol.2, p. 1916.</ref>
+
+==Religious beliefs==
+[[File:Thomas Hardy aged 70, by William Strang.jpg|thumb|upright|Thomas Hardy aged 70, by [[William Strang]]]]
+Hardy's family was [[Anglican]], but not especially devout. He was baptised at the age of five weeks and attended church, where his father and uncle contributed to music. He did not attend the local [[Church of England]] school, instead being sent to Mr Last's school, three miles away. As a young adult, he befriended [[Henry R. Bastow]] (a [[Plymouth Brethren]] man), who also worked as a pupil architect, and who was preparing for [[adult baptism]] in the [[Baptist Church]]. Hardy flirted with conversion, but decided against it.<ref>Claire Tomalin, Thomas Hardy, The Time Torn Man(Penguin, 2007), pp. 46–47.</ref> Bastow went to Australia and maintained a long correspondence with Hardy, but eventually Hardy tired of these exchanges and the correspondence ceased. This concluded Hardy's links with the Baptists.
+
+The irony and struggles of life, coupled with his naturally curious mind, led him to question the traditional Christian view of God: 
+{{quote|The Christian God&nbsp;– the external personality&nbsp;– has been replaced by the intelligence of the First Cause...the replacement of the old concept of God as all-powerful by a new concept of universal consciousness. The 'tribal god, man-shaped, fiery-faced and tyrannous' is replaced by the 'unconscious will of the Universe' which progressively grows aware of itself and 'ultimately, it is to be hoped, sympathetic'.<ref>Wotton, G. (1985), ''Thomas Hardy: Towards A Materialist Criticism'', Lanham: [[Rowman & Littlefield]], p.36</ref>}}
+
+Scholars have debated Hardy's religious leanings for years, often unable to reach a consensus. Once, when asked in correspondence by a clergyman, Dr. A.B. Grosart, about the question of reconciling the horrors of human and animal life with "the absolute goodness and non-limitation of God",<ref>Florence Emily Hardy, ''The Early Life of Thomas Hardy, 1840–1891'', p. 269</ref> Hardy replied,
+{{quote|Mr. Hardy regrets that he is unable to offer any hypothesis which would reconcile the existence of such evils as [[Alexander Grosart|Dr. Grosart]] describes with the idea of omnipotent goodness. Perhaps Dr. Grosart might be helped to a provisional view of the universe by the recently published ''Life of Darwin'' and the works of [[Herbert Spencer]] and other agnostics.<ref name=norton/>}}
+
+Hardy frequently conceived of, and wrote about, supernatural forces, particularly those that control the universe through indifference or caprice, a force he called The Immanent Will. He also showed in his writing some degree of fascination with ghosts and spirits.<ref name=norton>Ellman, Richard, & O'
+Clair, Robert (eds.) 1988. "Thomas Hardy" in ''The Norton Anthology of Modern Poetry'', Norton, New York.</ref> Even so, he retained a strong emotional attachment to the Christian liturgy and church rituals, particularly as manifested in rural communities, that had been such a formative influence in his early years, and Biblical references can be found woven throughout many of Hardy's novels. 
+Hardy's friends during his apprenticeship to John Hicks included [[Horatio Mosley Moule|Horace Moule]] (one of the eight sons of [[Henry Moule]]), and the poet [[William Barnes]], both ministers of religion. Moule remained a close friend of Hardy's for the rest of his life, and introduced him to new scientific findings that cast doubt on literal interpretations of the Bible,<ref>{{cite web|title=Pearson Literature: Biography: Thomas Hardy|url=http://wps.ablongman.com/long_kennedy_lfpd_9/0,9130,1489987-,00.html}}{{webarchive |url=https://web.archive.org/web/20130622162641/http://wps.ablongman.com/long_kennedy_lfpd_9/0,9130,1489987-,00.html |date=22 June 2013 }}</ref> such as those of [[Gideon Mantell]]. Moule gave Hardy a copy of Mantell's book ''The Wonders of Geology'' (1848) in 1858, and Adelene Buckland has suggested that there are "compelling similarities" between the "cliffhanger" section from ''A Pair of Blue Eyes'' and Mantell's geological descriptions. It has also been suggested that the character of Henry Knight in ''A Pair of Blue Eyes'' was based on Horace Moule.<ref>{{cite web|url=http://www.19.bbk.ac.uk/index.php/19/article/viewFile/469/329 |title=Adelene Buckland: ''Thomas Hardy, Provincial Geology and the Material Imagination'' |access-date=10 December 2011}}</ref>
+[[File:Thomas Hardy's heart.JPG|thumb|upright|Grave of Thomas Hardy's heart at [[Stinsford]] parish church]]
+
+Throughout his life, Hardy sought a rationale for believing in an afterlife or a timeless existence, turning first to spiritualists, such as Henri Bergson, and then to Albert Einstein and J. M. E. McTaggart, considering their philosophy on time and space in relation to immortality.<ref>Trish Ferguson, '"Time’s Renewal": Death and Immortality in Thomas Hardy’s 'Emma poems'', ''Literature and Modern Time: Technological Modernity, Glimpses of Eternity, Experiments with Time'', Palgrave, 2020.</ref>
+
+==Locations in novels==
+Sites associated with Hardy's own life and which inspired the settings of his novels continue to attract literary tourists and casual visitors. For locations in Hardy's novels see: [[Thomas Hardy's Wessex]], and the Thomas Hardy's Wessex<ref>{{cite web|url=http://www.st-andrews.ac.uk/~bp10/wessex/index.shtml |title=Thomas Hardy's Wessex |publisher=St-andrews.ac.uk |access-date=19 May 2014}}</ref> research site, which includes maps.<ref>{{cite web |url=http://www.st-andrews.ac.uk/~bp10/wessex/evolution/maps/index.shtml |title=Thomas Hardy's Wessex: The Evolution of Wessex |publisher=St-andrews.ac.uk |access-date=19 May 2014 |url-status=dead |archive-url=https://web.archive.org/web/20130502070810/http://www.st-andrews.ac.uk/~bp10/wessex/evolution/maps/index.shtml |archive-date=2 May 2013}}</ref>
+
+==Influence==
+Hardy corresponded with and visited [[Charles George Milnes Gaskell|Lady Catherine Milnes Gaskell]] at [[Wenlock Abbey]] and many of Lady Catherine's books are inspired by Hardy, who was very fond of her.<ref>Gamble, Cynthia, 2015 Wenlock Abbey 1857–1919: A Shropshire Country House and the Milnes Gaskell Family, Ellingham Press.</ref>
+
+[[D. H. Lawrence]]'s ''Study of Thomas Hardy'' (1936) indicates the importance of Hardy for him, even though this work is a platform for Lawrence's own developing philosophy rather than a more standard literary study. The influence of Hardy's treatment of character, and Lawrence's own response to the central [[metaphysic]] behind many of Hardy's novels, helped significantly in the development of ''[[The Rainbow]]'' (1915) and ''[[Women in Love]]'' (1920).<ref>Terry R. Wright, "Hardy's Heirs: D. H. Lawrence and John Cowper Powys" in ''A Companion to Thomas Hardy''. Chichester, Sussex: John Wiley, 2012.[https://books.google.com/books?id=xLP3sa-bnkoC&pg=PA1925]</ref>
+
+''Wood and Stone'' (1915), the first novel by [[John Cowper Powys]], who was a contemporary of Lawrence, was "Dedicated with devoted admiration to the greatest poet and novelist of our age Thomas Hardy".<ref>Terry R. Wright, "Hardy's Heirs: D. H. Lawrence and John Cowper Powys"</ref> Powys's later novel ''[[Maiden Castle (novel)|Maiden Castle]]'' (1936) is set in [[Dorchester, Dorset|Dorchester]], Hardy's [[Casterbridge]], and was intended by Powys to be a "rival" to Hardy's ''[[The Mayor of Casterbridge]]''.<ref>Morine Krissdottir, ''Descents of Memory: The Life of John Cowper Powys''. (New York: Overlook Duckworth, 2007), p. 312.</ref> ''Maiden Castle'' is the last of Powys's so-called Wessex novels, ''[[Wolf Solent]]'' (1929), ''[[A Glastonbury Romance]]'' (1932), and ''[[Weymouth Sands]]'' (1934), which are set in Somerset and Dorset.<ref>Herbert Williams, ''John Cowper Powys''. (Bridgend, Wales: Seren, 1997), p. 94.</ref>
+
+Hardy was clearly the starting point for the character of the novelist Edward Driffield in [[W. Somerset Maugham]]'s novel ''[[Cakes and Ale]]'' (1930).<ref>{{cite encyclopedia|title=Cakes and Ale|encyclopedia= Encyclopædia Britannica. Encyclopædia Britannica Online Academic Edition. Encyclopædia Britannica Inc.|year= 2015|access-date= 26 April 2015|url= http://academic.eb.com/EBchecked/topic/88658/Cakes-and-Ale}}</ref> Thomas Hardy's works also feature prominently in the American playwright [[Christopher Durang]]'s ''The Marriage of Bette and Boo'' (1985), in which a graduate thesis analysing ''[[Tess of the d'Urbervilles]]'' is interspersed with analysis of Matt's family's neuroses.<ref>Christopher Durang ''The Marriage of Bette and Boo''. New York: Grove Press, 1987.[https://books.google.com/books?id=-z-ns9m7hTIC&pg=PA18]</ref>
+
+The [[symphonic poem]]s ''[[Mai-Dun]]'' by [[John Ireland (composer)|John Ireland]] (1921) and ''[[Egdon Heath (Holst)|Egdon Heath]]'' by [[Gustav Holst]] (1927) evoke the landscape of Hardy's novels.
+
+Hardy has been a significant influence on Nigel Blackwell, frontman of the [[post-punk]] British rock band [[Half Man Half Biscuit]], who has often incorporated phrases (some obscure) by or about Hardy into his song lyrics.<ref>{{cite news |url=https://www.theguardian.com/theguardian/2001/jul/21/weekend7.weekend6 |title=Taking the biscuit |first=Kevin |last=Sampson |author-link=Kevin Sampson (writer) |newspaper=[[The Guardian]] |date=21 July 2001 |access-date=27 December 2019}}</ref><ref>See for example the song title "[[Thy Damnation Slumbereth Not]]", which is a quotation from Thomas Hardy's novel ''[[Tess of the d'Urbervilles]]'',{{cite book|url=http://www.victorianlondon.org/etexts/hardy/tess-0012.shtml|last=Hardy|first=Thomas|title=Tess of the d'Urbervilles|at=Chapter 12|year=1891
+|access-date=21 February 2015 }} which is itself an adaptation of the [[Second Epistle of Peter]] at [[s:Bible (King James)/2 Peter#Chapter 2|2:3]]: "Their damnation slumbereth not".
+</ref>
+
+==Works==
+[[File:Far-From-The-Madding-Crowd-1874-Title-Page.jpg|thumb|upright|The title page from a [[first edition]] of ''[[Far from the Madding Crowd]]'' (1874)]]
+
+===Prose===
+Hardy divided his novels and collected short stories into three classes:{{citation needed|date=May 2015}}
+
+====Novels of character and environment====
+* ''[[The Poor Man and the Lady]]'' (1867, unpublished and lost)
+* ''[[Under the Greenwood Tree]]: A Rural Painting of the Dutch School'' (1872)
+* ''[[Far from the Madding Crowd]]'' (1874)
+* ''[[The Return of the Native]]'' (1878)
+* ''[[The Mayor of Casterbridge]]: The Life and Death of a Man of Character'' (1886)
+* ''[[The Woodlanders]]'' (1887)
+* ''[[Wessex Tales]]'' (1888, a collection of short stories)
+* ''[[Tess of the d'Urbervilles]]: A Pure Woman Faithfully Presented'' (1891)
+* ''[[Life's Little Ironies]]'' (1894, a collection of short stories)
+* ''[[Jude the Obscure]]'' (1895)
+
+====Romances and fantasies====
+{{See|Romance (literary fiction)}}
+
+* ''[[A Pair of Blue Eyes]]: A Novel'' (1873)
+* ''[[The Trumpet-Major]]'' (1880)
+* ''[[Two on a Tower]]: A Romance'' (1882)
+* ''[[A Group of Noble Dames]]'' (1891, a collection of short stories)
+* ''[[The Well-Beloved]]: A Sketch of a Temperament'' (1897) (first published as a serial from 1892)
+
+====Novels of ingenuity====
+* ''[[Desperate Remedies]]: A Novel'' (1871)
+* ''[[The Hand of Ethelberta]]: A Comedy in Chapters'' (1876)
+* ''[[A Laodicean]]: A Story of To-day'' (1881)
+
+====Other====
+Hardy also produced minor tales; one story, ''The Spectre of the Real'' (1894) was written in collaboration with [[Florence Henniker]].<ref>{{cite journal|title=Thomas Hardy And Florence Henniker: The Writing Of "The Spectre of the Real|first=Richard |last=Purdy|journal=Colby Library Quarterly  |volume=1 |issue=8  |date= October 1944|pages=122–6|url=http://digitalcommons.colby.edu/cq/vol1/iss8/4/}}</ref> An additional short-story collection, beyond the ones mentioned above, is ''[[A Changed Man and Other Tales]]'' (1913). His works have been collected as the 24-volume Wessex Edition (1912–13) and the 37-volume Mellstock Edition (1919–20). His largely self-written biography appears under his second wife's name in two volumes from 1928 to 1930, as ''The Early Life of Thomas Hardy, 1840–91'' and ''The Later Years of Thomas Hardy, 1892–1928'', now published in a critical one-volume edition as ''The Life and Work of Thomas Hardy'', edited by Michael Millgate (1984).
+
+====Short stories====
+(with date of first publication)
+* "How I Built Myself a House" (1865)
+* "Destiny and a Blue Cloak" (1874)
+* "The Thieves Who Couldn't Stop Sneezing" (1877)
+* "The Duchess of Hamptonshire" (1878) (collected in ''A Group of Noble Dames'')
+* "The Distracted Preacher" (1879) (collected in ''Wessex Tales'')
+* "Fellow-Townsmen" (1880) (collected in ''Wessex Tales'')
+* "The Honourable Laura" (1881) (collected in ''A Group of Noble Dames'')
+* "What the Shepherd Saw" (1881) (collected in ''A Changed Man and Other Stories'')
+* "A Tradition of Eighteen Hundred and Four" (1882) (collected in ''Life's Little Ironies'')
+* "[[The Three Strangers]]" (1883) (collected in ''Wessex Tales'')
+* "The Romantic Adventures of a Milkmaid" (1883) (collected in ''A Changed Man and Other Stories'')
+* "Interlopers at the Knap" (1884) (collected in ''Wessex Tales'')
+* "[[A Mere Interlude]]" (1885) (collected in ''A Changed Man and Other Stories'')
+* "A Tryst at an Ancient Earthwork" (1885) (collected in ''A Changed Man and Other Stories'')
+* "[[Alicia's Diary]]" (1887) (collected in ''A Changed Man and Other Stories'')
+* "The Waiting Supper" (1887–88) (collected in ''A Changed Man and Other Stories'')
+* "The Withered Arm" (1888) (collected in ''Wessex Tales'')
+* "[[A Tragedy of Two Ambitions]]" (1888) (collected in ''Life's Little Ironies'')
+* "The First Countess of Wessex" (1889) (collected in ''A Group of Noble Dames'')
+* "Anna, Lady Baxby" (1890) (collected in ''A Group of Noble Dames'')
+* "The Lady Icenway" (1890) (collected in ''A Group of Noble Dames'')
+* "Lady Mottisfont" (1890) (collected in ''A Group of Noble Dames'')
+* "The Lady Penelope" (1890) (collected in ''A Group of Noble Dames'')
+* "The Marchioness of Stonehenge" (1890) (collected in ''A Group of Noble Dames'')
+* "Squire Petrick's Lady" (1890) (collected in ''A Group of Noble Dames'')
+* "Barbara of the House of Grebe" (1890) (collected in ''A Group of Noble Dames'')
+* "The Melancholy Hussar of The German Legion" (1890) (collected in ''Life's Little Ironies'')
+* "Absent-Mindedness in a Parish Choir" (1891) (collected in ''Life's Little Ironies'')
+* "The Winters and the Palmleys" (1891) (collected in ''Life's Little Ironies'')
+* "For Conscience' Sake" (1891) (collected in ''Life's Little Ironies'')
+* "Incident in the Life of Mr. George Crookhill" (1891) (collected in ''Life's Little Ironies'')
+* "The Doctor's Legend" (1891)
+* "Andrey Satchel and the Parson and Clerk" (1891) (collected in ''Life's Little Ironies'')
+* "The History of the Hardcomes" (1891) (collected in ''Life's Little Ironies'')
+* "Netty Sargent's Copyhold" (1891) (collected in ''Life's Little Ironies'')
+* "On the Western Circuit" (1891) (collected in ''Life's Little Ironies'')
+* "A Few Crusted Characters: Introduction" (1891) (collected in ''Life's Little Ironies'')
+* "The Superstitious Man's Story" (1891) (collected in ''Life's Little Ironies'')
+* "Tony Kytes, the Arch-Deceiver" (1891) (collected in ''Life's Little Ironies'')
+* "To Please His Wife" (1891) (collected in ''Life's Little Ironies'')
+* "The Son's Veto" (1891) (collected in ''Life's Little Ironies'')
+* "Old Andrey's Experience as a Musician" (1891) (collected in ''Life's Little Ironies'')
+* "[[Our Exploits At West Poley]]" (1892–93)
+* "Master John Horseleigh, Knight" (1893) (collected in ''A Changed Man and Other Stories'')
+* "[[The Fiddler of the Reels]]" (1893) (collected in ''Life's Little Ironies'')
+* "An Imaginative Woman" (1894) (collected in ''Wessex Tales'', 1896 edition)
+* "The Spectre of the Real" (1894)
+* "A Committee-Man of 'The Terror'" (1896) (collected in ''A Changed Man and Other Stories'')
+* "The Duke's Reappearance" (1896) (collected in ''A Changed Man and Other Stories'')
+* "The Grave by the Handpost" (1897) (collected in ''A Changed Man and Other Stories'')
+* "A Changed Man" (1900) (collected in ''A Changed Man and Other Stories'')
+* "Enter a Dragoon" (1900) (collected in ''A Changed Man and Other Stories'')
+* "Blue Jimmy: The Horse Stealer" (1911)
+* "Old Mrs. Chundle" (1929)
+* "[[The Unconquerable]]"(1992)
+
+===Poetry collections===
+* ''[[Wessex Poems and Other Verses]]'' (1898)
+* ''[[Poems of the Past and the Present]]'' (1901)
+* ''[[Time's Laughingstocks and Other Verses]]'' (1909)
+* ''[[Satires of Circumstance]]'' (1914)
+* ''[[Moments of Vision]]'' (1917) 
+* ''Collected Poems'' (1919) 
+* ''[[Late Lyrics and Earlier with Many Other Verses]]'' (1922)
+* ''[[Human Shows, Far Phantasies, Songs and Trifles]]'' (1925)
+* ''[[Winter Words in Various Moods and Metres]]'' (1928)
+* ''The Complete Poems'' (Macmillan, 1976)
+* ''Selected Poems'' (Edited by Harry Thomas, Penguin, 1993)
+* ''Hardy: Poems'' (Everyman's Library Pocket Poets, 1995)
+* ''Thomas Hardy: Selected Poetry and Nonfictional Prose'' ([[St. Martin's Press]], 1996)
+* ''Selected Poems'' (Edited by Robert Mezey, Penguin, 1998)
+* ''Thomas Hardy: The Complete Poems'' (Edited by James Gibson, Palgrave, 2001)
+Online poems: Poems by Thomas Hardy<ref>{{cite web|last=Axelrod |first=Jeremy |url=http://www.poetryfoundation.org/archive/poet.html?id=2926 |title=Thomas Hardy |publisher=The Poetry Foundation |access-date=19 May 2014}}</ref> at [[Poetry Foundation]] and Poems by Thomas Hardy at poemhunter.com<ref>[http://www.poemhunter.com/i/ebooks/pdf/thomas_hardy_2004_9.pdf “Thomas Hardy poems”].</ref>
+
+===Drama===
+* ''[[The Dynasts]]: An Epic-Drama of the War with Napoleon'' (verse drama)
+** ''The Dynasts, Part 1'' (1904)
+** ''The Dynasts, Part 2'' (1906)
+** ''The Dynasts, Part 3'' (1908)
+* ''The Famous Tragedy of the Queen of Cornwall at [[Tintagel]] in Lyonnesse'' (1923) (one-act play)
+
+==References==
+{{Reflist|30em}}
+
+==Biographies and criticism==
+{{Refbegin|35em}}
+* Armstrong, Tim. "Player Piano: Poetry and Sonic Modernity" in ''Modernism/Modernity'' 14.1 (January 2007), 1–19.
+* Beatty, Claudius J.P. ''Thomas Hardy: Conservation Architect. His Work for the Society for the Protection of Ancient Buildings''. Dorset Natural History and Archaeological Society 1995. {{ISBN|0-900341-44-0}}
+* Blunden, Edmund. ''Thomas Hardy.'' New York: St. Martin's, 1942.
+* Brady, Kristen. ''The Short Stories of Thomas Hardy.'' London:  Macmillan, 1982.
+* Boumelha, Penny. ''Thomas Hardy and Women.'' New Jersey: Barnes and Noble, 1982.
+* Brennecke, Jr., Ernest. ''The Life of Thomas Hardy.'' New York: Greenberg, 1925.
+* Cecil, Lord David. ''Hardy the Novelist.''  London: Constable, 1943.
+* D'Agnillo, Renzo, "Music and Metaphor in ''Under the Greenwood Tree'', in ''The Thomas Hardy Journal'', 9, 2 (May 1993), pp.39–50.
+* D'Agnillo, Renzo, "Between Belief and Non-Belief: Thomas Hardy’s 'The Shadow on the Stone'”, in Thomas Hardy, Francesco Marroni and Norman Page (eds), Pescara, Edizioni Tracce, 1995, pp.&nbsp;197–222.
+* Deacon, Lois and Terry Coleman. ''Providence and Mr. Hardy.'' London: Hutchinson, 1966.
+* Draper, Jo. ''Thomas Hardy:  A Life in Pictures.'' Wimborne, Dorset: The Dovecote Press.
+* Ellman, Richard & O'Clair, Robert (eds.) 1988. "Thomas Hardy" in ''The Norton Anthology of Modern Poetry'', Norton, New York.
+* Gatrell, Simon. ''Hardy the Creator: A Textual Biography.'' Oxford: Clarendon, 1988.
+* Gibson, James. ''Thomas Hardy: A Literary Life.'' London: Macmillan, 1996.
+* Gibson, James. ''Thomas Hardy: Interviews and Recollections.''  London: Macmillan, 1999; New York: St Martin's Press, 1999.
+* Gittings, Robert. ''Thomas Hardy's Later Years.'' Boston : Little, Brown, 1978.
+* Gittings, Robert. ''Young Thomas Hardy.'' Boston : Little, Brown, 1975.
+* Gittings, Robert and Jo Manton. ''The Second Mrs Hardy.'' London: Heinemann, 1979.
+* Gossin, P. ''Thomas Hardy's Novel Universe: Astronomy, Cosmology, and Gender in the Post-Darwinian World''. Aldershot, Ashgate, 2007 (The Nineteenth Century Series).
+* [[F. E. Halliday|Halliday, F. E.]] ''Thomas Hardy: His Life and Work.'' Bath: Adams & Dart, 1972.
+* Hands, Timothy. ''Thomas Hardy : Distracted Preacher? : Hardy's religious biography and its influence on his novels.'' New York: St. Martin's Press, 1989.
+* Hardy, Evelyn. ''Thomas Hardy: A Critical Biography.'' London: Hogarth Press, 1954.
+* Hardy, Florence Emily. ''The Early Life of Thomas Hardy, 1840–1891.'' London: Macmillan, 1928.
+* Hardy, Florence Emily. ''The Later Years of Thomas Hardy, 1892–1928'' London: Macmillan, 1930.
+* Harvey, Geoffrey. ''Thomas Hardy: The Complete Critical Guide to Thomas Hardy.'' New York: Routledge (Taylor & Francis Group), 2003.
+* Hedgcock, F. A., ''Thomas Hardy: penseur et artiste.'' Paris: Librairie Hachette, 1911.
+* Holland, Clive. ''Thomas Hardy O.M.: The Man, His Works and the Land of Wessex.'' London: Herbert Jenkins, 1933.
+* Jedrzejewski, Jan. ''Thomas Hardy and the Church.'' London: Macmillan, 1996.
+* Johnson, Lionel Pigot. ''The art of Thomas Hardy (London: E. Mathews, 1894).
+* Kay-Robinson, Denys. ''The First Mrs Thomas Hardy.'' London: Macmillan, 1979.
+* [[Robert Langbaum|Langbaum, Robert]].  "Thomas Hardy in Our Time." New York: St. Martin's Press, 1995, London: Macmillan, 1997.
+* Marroni, Francesco, "The Negation of Eros in 'Barbara of the House of Grebe' ", in "Thomas Hardy Journal", 10, 1 (February 1994) pp.&nbsp;33–41
+* Marroni, Francesco and Norman Page (eds.), ''Thomas Hardy''. Pescara: Edizioni Tracce, 1995.
+* Marroni, Francesco, ''La poesia di Thomas Hardy''. Bari: Adriatica Editrice, 1997.
+* Marroni, Francesco, "The Poetry of Ornithology in Keats, Leopardi, and Hardy: A Dialogic Analysis", in "Thomas Hardy Journal", 14, 2 (May 1998) pp.&nbsp;35–44
+* Millgate, Michael (ed.). ''The Life and Work of Thomas Hardy by Thomas Hardy.'' London: Macmillan, 1984.
+* Millgate, Michael. ''Thomas Hardy: A Biography.'' New York: Random House, 1982.
+* Millgate, Michael. ''Thomas Hardy: A Biography Revisited.'' Oxford: [[Oxford University Press]], 2004.
+* Morgan, Rosemarie, (ed) The Ashgate Research Companion to Thomas Hardy, (Ashgate publishing), 2010.
+* Morgan, Rosemarie, (ed) The Hardy Review,(Maney Publishing), 1999–.
+* Morgan, Rosemarie, Student Companion to Thomas Hardy (Greenwood Press), 2006.
+* Morgan, Rosemarie, Cancelled Words: Rediscovering Thomas Hardy (Routledge, Chapman &  Hall),1992
+* Morgan, Rosemarie, Women and Sexuality in the Novels of Thomas Hardy (Routledge & Kegan Paul), 1988; paperback: 1990.
+* [[David Musselwhite|Musselwhite, David]], Social Transformations in Hardy's Tragic Novels: Megamachines and Phantasms, Palgrave Macmillan, 2003.
+* Norman, Andrew. ''Behind the Mask'', History Press, 2011. {{ISBN|978-0-7524-5630-0}}
+* O'Sullivan, Timothy. ''Thomas Hardy: An Illustrated Biography.'' London: Macmillan, 1975.
+* Orel, Harold. ''The Final Years of Thomas Hardy, 1912–1928.'' Lawrence: [[University Press of Kansas]], 1976.
+* Orel, Harold. ''The Unknown Thomas Hardy.'' New York: St. Martin's, 1987.
+* Page, Norman, ed. ''Thomas Hardy Annual.''  No.1: 1982; No.2: 1984; No.3: 1985; No.4:1986; No.5; 1987.  London: Macmillan, 1982–1987.
+* Phelps, Kenneth. ''The Wormwood Cup: Thomas Hardy in Cornwall.'' Padstow: Lodenek Press, 1975.
+* Pinion, F. B. ''Thomas Hardy: His Life and Friends.'' London: Palgrave, 1992.
+* Pite, Ralph. ''Thomas Hardy: The Guarded Life.'' London: Picador, 2006.
+* Saxelby, F. Outwin. ''A Thomas Hardy dictionary : the characters and scenes of the novels and poems alphabetically arranged and described'' (London: G. Routledge, 1911).
+* Seymour-Smith, Martin. ''Hardy.'' London: Bloomsbury, 1994.
+* Stevens-Cox, J. ''Thomas Hardy: Materials for a Study of his Life, Times, and Works.'' St. Peter Port, Guernsey: Toucan Press, 1968.
+* Stevens-Cox, J. ''Thomas Hardy: More Materials for a Study of his Life, Times, and Works.'' St. Peter Port, Guernsey: Toucan Press, 1971.
+* Stewart, J. I. M. ''Thomas Hardy: A Critical Biography.'' New York: Dodd, Mead & Co., 1971.
+* Taylor, Richard H. ''The Neglected Hardy:  Thomas Hardy's Lesser Novels.'' London: Macmillan; New York: St Martin's Press, 1982.
+* Taylor, Richard H., ed. ''The Personal Notebooks of Thomas Hardy.'' London: Macmillan, 1979.
+* Tomalin, Claire. ''Thomas Hardy.'' New York: Penguin Press, 2006.
+* Turner, Paul. ''The Life of Thomas Hardy: A Critical Biography.'' Oxford: Blackwell, 1998.
+* Weber, Carl J. ''Hardy of Wessex, his Life and Literary Career.'' New York: [[Columbia University Press]], 1940.
+* Wilson, Keith. ''Thomas Hardy on Stage.'' London: Macmillan, 1995.
+* Wilson, Keith, ed. ''Thomas Hardy Reappraised: Essays in Honour of Michael Millgate.'' Toronto: [[University of Toronto Press]], 2006.
+* Wilson, Keith, ed. ''A Companion to Thomas Hardy.'' Wiley-Blackwell, 2009.
+* Wotton, George. Thomas Hardy: Towards A Materialist Criticism. Lanham: Rowman & Littlefield, 1985.
+{{refend}}
+
+==External links==
+{{Library resources box}}
+{{Wikiquote}}
+{{wikisource author}}
+{{Wikisource1911Enc|Hardy, Thomas}}
+{{Commons category}}
+;Digital collections
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/thomas-hardy}}
+* {{Gutenberg author |id=Hardy,+Thomas | name=Thomas Hardy}}
+* {{Internet Archive author |sname=Thomas Hardy}}
+* {{Librivox author |id=92}}
+* [https://www.poetryfoundation.org/poets/thomas-hardy Thomas Hardy] at the [[Poetry Foundation]]
+* [http://victorian-studies.net/concordance/hardy/ A Hyper-Concordance to the Works of Thomas Hardy] at the Victorian Literary Studies Archive, Nagoya University, Japan
+
+;Physical collections
+* [http://www.dorsetcountymuseum.org/ Dorset County Museum], Dorchester, Dorset, contains the largest Hardy collections in the world, donated directly to the Museum by the Hardy family and inscribed on the UNESCO Memory of the World register for the United Kingdom.
+* [http://www.hrc.utexas.edu/research/fa/lfhardy.html Hardy Collection] at the [[Harry Ransom Center]] at the [[University of Texas at Austin]]
+* [http://www.bl.uk/people/thomas-hardy Thomas Hardy] at the British Library
+* [http://thethomashardyassociation.org/images/maps/windle.htm Letter from Hardy to Bertram Windle, transcribed by Birgit Plietzsch, from ''Collected Letters'', vol 2, pp.131–133]. Retrieved 25 May 2015.
+
+;Biographical information
+* [https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/relationships/collections1/1968-theatre-censorship/1909-censorship-committee/ Thomas Hardy & 1909 Theatre Censorship Committee - UK Parliament Living Heritage]
+
+;Geographic information
+* [http://www.nationaltrust.org.uk/hardys-cottage/ Hardy's Cottage] National Trust visitor information for Hardy's birthplace.
+* [http://www.hardycountry.org/ Hardy Country] A visitor guide for 'Hardy Country' in Dorset (sites of interest).
+* [http://www.nationaltrust.org.uk/max-gate/ Max Gate] National Trust visitor information for Max Gate (the home Hardy designed, lived and died in).
+
+;Other links
+* [http://thethomashardyassociation.org/ The Thomas Hardy Association] (TTHA)
+* [http://www.hardysociety.org/ The Thomas Hardy Society]
+* [http://hardyonline.org The New Hardy Players] Theatrical group specialising in the works of Thomas Hardy.
+* {{PM20|FID=pe/007130}}
+* {{Curlie|Arts/Literature/Authors/H/Hardy,_Thomas}}
+* [https://www.greatwartheatre.org.uk/db/person/128/ ''The Dynasts'' on Great War Theatre]
+
+{{Thomas Hardy|state=expanded}}
+{{Far from the Madding Crowd}}
+{{Tess of the d'Urbervilles}}
+{{The Mayor of Casterbridge}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hardy, Thomas}}
+[[Category:Thomas Hardy| ]]
+[[Category:1840 births]]
+[[Category:1928 deaths]]
+[[Category:19th-century British short story writers]]
+[[Category:19th-century English novelists]]
+[[Category:19th-century English poets]]
+[[Category:20th-century English writers]]
+[[Category:Alumni of King's College London]]
+[[Category:Anti-vivisectionists]]
+[[Category:British male poets]]
+[[Category:Burials at Westminster Abbey]]
+[[Category:English male novelists]]
+[[Category:English male short story writers]]
+[[Category:English short story writers]]
+[[Category:Fellows of the Royal Society of Literature]]
+[[Category:Members of the Order of Merit]]
+[[Category:Pantheists]]
+[[Category:People from Dorchester, Dorset]]
+[[Category:Philosophical pessimists]]
+[[Category:Victorian novelists]]
+[[Category:Victorian poets]]

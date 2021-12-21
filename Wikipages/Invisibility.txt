@@ -1,0 +1,88 @@
+{{short description|State of an object that cannot be seen}}
+{{Redirect|Invisible}}
+{{original research|date=September 2011}}
+[[Image:INVIS MIRROR.png|thumb]]
+
+'''Invisibility''' is  the state of an object that cannot be [[Visual perception|seen]]. An object in this state is said to be ''invisible'' (literally, "not visible"). The phenomenon is studied by [[physics]] and [[perceptual psychology]].
+
+Since objects can be seen by light in the [[visible spectrum]] from a source reflecting off their surfaces and hitting the viewer's [[Human eye|eye]], the most natural form of invisibility (whether real or fictional) is an object that neither reflects nor absorbs light (that is, it allows light to pass through it). This is known as 
+[[Transparency and translucency|transparency]], and is seen in many naturally occurring materials (although no naturally occurring material is 100% transparent).
+
+Invisibility perception depends on several optical and visual factors.<ref>{{cite journal|last1 = Moreno|first1 = Ivan|last2 = Jauregui-Sánchez|first2 = Y.|last3 = Avendaño-Alejo|first3 = Maximino|year = 2014|title = Invisibility assessment: a visual perception approach|url = http://fisica.uaz.edu.mx/~imoreno/Publicaciones/JOSA2014.pdf|journal = Journal of the Optical Society of America A|volume = 31|issue = 10|pages = 2244–2248|doi = 10.1364/josaa.31.002244|pmid = 25401251|bibcode = 2014JOSAA..31.2244M|access-date = 2016-01-24|archive-url = https://web.archive.org/web/20170808173026/http://fisica.uaz.edu.mx/~imoreno/Publicaciones/JOSA2014.pdf|archive-date = 2017-08-08|url-status = dead}}</ref> For example, invisibility depends on the [[Human eye|eye]]s of the observer and/or the instruments used. Thus an object can be classified as "invisible to" a person, animal, instrument, etc. In research on sensorial [[perception]] it has been shown that invisibility is perceived in cycles.<ref>{{cite journal | last1 = Craig | first1 = Eugene A. | last2 = Lichtenstein | first2 = M. | year = 1953 | title = Visibility-Invisibility Cycles as a Function of Stimulus-Orientation | jstor=1418951 | journal = The American Journal of Psychology | volume = 66 | issue = 4| pages = 554–563 | doi=10.2307/1418951| pmid = 13124563 }}</ref>
+
+Invisibility is often considered to be the supreme form of [[camouflage]], as it does not reveal to the viewer any kind of [[vital signs]], [[visual]] effects, or any  frequencies of the [[electromagnetic spectrum]] detectable to the human eye, instead making use of [[radio]], [[infrared]] or [[ultraviolet]] wavelengths.
+
+In [[illusion optics]], invisibility is a special case of illusion effects: the illusion of free space.
+
+The term is often used in [[fantasy]] and [[science fiction]], where objects cannot be seen by means of [[Magic (paranormal)|magic]] or [[hypothetical technology]].
+
+== Practical efforts ==
+{{main|Cloak of Invisibility}}
+
+Technology can be used theoretically or practically to render real-world objects invisible.
+
+Making use of a real-time image displayed on a wearable display, it is possible to create a see-through effect. This is known as [[active camouflage]]. Though [[stealth technology]] is declared to be invisible to [[radar]], all officially disclosed applications of the technology can only ''reduce'' the size and/or clarity of the signature detected by radar. 
+
+In 2003 the Chilean scientist [[Gunther Uhlmann]] postulates the first mathematical equations to create invisible materials.<ref name="Alonso, 2013">{{cite web |last=Alonso |first=N. |url=http://www.quepasa.cl/articulo/ciencia/2013/03/3-11386-9-un-genio-invisible.shtml/ |title=Un genio invisible |language=es |trans-title=An invisible genius |website=Qué Pasa |date=March 21, 2013}}</ref>{{better source needed |date=March 2020 |reason=Secondary source would be better}}
+In 2006, a team effort of researchers from Britain and the US announced the development of a real [[Cloak of invisibility#Cloaks of invisibility in science|cloak of invisibility]], though it is only in its first stages.<ref>{{cite web |url=http://www.nbcnews.com/id/15329396 |title=Cloak of invisibility: Fact or fiction? |website=NBC News }}</ref>
+
+In [[filmmaking]], people, objects, or backgrounds can be made to look invisible on camera through a process known as [[chroma key]]ing. An artificially made [[meta material]] that is invisible to the microwave spectrum.
+
+Engineers and scientists have performed various kinds of research to investigate the possibility of finding ways to create real optical invisibility (cloaks) for objects. Methods are typically based on implementing the theoretical techniques of [[transformation optics]], which have given rise to several [[theories of cloaking]].
+
+Currently, a practical cloaking device does not exist.<ref>{{cite journal | last = Nachman | first = Adrian I. |date=November 1988 | title = Reconstructions From Boundary Measurements | journal = Annals of Mathematics | volume = 128 | issue = 3 | pages = 531–576 | doi = 10.2307/1971435 | jstor = 1971435 }}</ref><ref>{{cite journal | last = Wolf | first = Emil |author2=Tarek Habashy |date=May 1993 | title = Invisible Bodies and Uniqueness of the Inverse Scattering Problem | journal = Journal of Modern Optics | volume = 40 | issue = 5 | pages = 785–792  | doi = 10.1080/09500349314550821|bibcode = 1993JMOp...40..785W }}</ref> A 2006 theoretical work predicts that the imperfections are minor, and [[metamaterial]]s may make real-life "cloaking devices" practical.<ref>{{cite journal | last = Pendry | first = J. B. |author2=D. Schurig |author3=D. R. Smith  |date=June 2006 | title = Controlling Electromagnetic Fields | journal = Science | volume = 312 | pages = 1780–1782 | doi = 10.1126/science.1125907 | pmid = 16728597 | issue = 5781 | bibcode=2006Sci...312.1780P| s2cid = 7967675 }}</ref><ref>{{cite journal | last = Leonhardt | first = Ulf |date=June 2006 | title = Optical Conformal Mapping | journal = Science | volume = 312 | pages = 1777–1780 | doi = 10.1126/science.1126493 | pmid = 16728596 | issue = 5781 | bibcode=2006Sci...312.1777L| s2cid = 8334444 }}</ref> The technique is predicted to be applied to [[radio frequency|radio waves]] within five years, and the distortion of visible light is an eventual possibility. The theory that light waves can be acted upon the same way as radio waves is now a popular idea among scientists. The agent can be compared to a stone in a river, around which water passes, but slightly down-stream leaves no trace of the stone. Comparing light waves to the water, and whatever object that is being "cloaked" to the stone, the goal is to have light waves pass around that object, leaving no visible aspects of it, possibly not even a shadow.<ref>{{cite news | first = Adrian | last = Cho | url = http://www.sciencemag.org/cgi/content/summary/312/5777/1120a | title = High-Tech Materials Could Render Objects Invisible | work = Science | page = 1120 |date=2006-05-26 | access-date = 2006-08-01}}</ref> This is the technique depicted in the 2000 television portrayal of [[The Invisible Man (2000 TV series)|The Invisible Man]].
+
+Two teams of scientists worked separately to create two "Invisibility Cloaks" from '[[metamaterials]]' engineered at the [[Nanoscopic scale|nanoscale]] level. They demonstrated for the first time the possibility of cloaking three-dimensional (3-D) objects with artificially engineered materials that redirect radar, light or other waves around an object. While one uses a type of fishnet of metal layers to reverse the direction of light, the other uses tiny silver wires. Xiang Zhang, of the [[University of California]], [[Berkeley, California|Berkeley]] said: "In the case of invisibility cloaks or shields, the material would need to curve light waves completely around the object like a river flowing around a rock. An observer looking at the cloaked object would then see light from behind it, making it seem to disappear."
+
+[[UC Berkeley]] researcher Jason Valentine's team made a material that affects light near the visible spectrum, in a region used in fibre optics: 'Instead of the fish appearing to be slightly ahead of where it is in the water, it would actually appear to be above the water's surface. It's kind of weird. For a metamaterial to produce negative refraction, it must have a structural array smaller than the wavelength of the electromagnetic radiation being used." Valentine's team created their 'fishnet' material by stacking silver and metal dielectric layers on top of each other and then punching holes through them. The other team used an oxide template and grew silver nanowires inside porous aluminum oxide at tiny distances apart, smaller than the wavelength of visible light. This material refracts visible light.
+
+The [[Imperial College London]] research team achieved results with [[microwaves]]. An invisibility cloak layout of a copper cylinder was produced in May, 2008, by physicist Professor Sir [[John Pendry]]. Scientists working with him at [[Duke University]] in the US put the idea into practice.<ref>{{cite web |url=http://www.themoneytimes.com/articles/20080811/scientists_turn_fiction_into_reality_closer_to_make_objects_invisible-id-1032139.html |website=themoneytimes.com |title=Scientists Turn Fiction Into Reality, Closer to Make Objects "Invisible" |url-status=dead |archive-url=https://web.archive.org/web/20080816035413/http://www.themoneytimes.com/articles/20080811/scientists_turn_fiction_into_reality_closer_to_make_objects_invisible-id-1032139.html |archive-date=2008-08-16 }}</ref><ref>{{cite web |url=https://www.mirror.co.uk/news/top-stories/2008/08/11/secrets-of-invisibility-discovered-115875-20692852/ |website=mirror.co.uk |title=Secrets of invisibility discovered}}</ref>
+
+Pendry, who theorized the invisibility cloak "as a joke" to illustrate the potential of metamaterials, said in an interview in August 2011 that grand, theatrical manifestations of his idea are probably overblown: "I think it’s pretty sure that any cloak that Harry Potter would recognize is not on the table. You could dream up some theory, but the very practicality of making it would be so impossible. But can you hide things from light? Yes. Can you hide things which are a few centimeters across? Yes. Is the cloak really flexible and flappy? No. Will it ever be? No. So you can do quite a lot of things, but there are limitations. There are going to be some disappointed kids around, but there might be a few people in industry who are very grateful for it."<ref name="PendryVideo">{{cite journal |url=http://spie.org/x57588.xml |author=John Pendry |title=video: The birth and promise of metamaterials |website=SPIE |date=18 October 2011 |doi=10.1117/2.3201110.02}}</ref>
+
+In Turkey in 2009, Bilkent University  Search Center Of Nanotechnology researches explained and published in ''[[New Journal of Physics]]'' that they achieved to make invisibility real in practice using nanotechnology making an object invisible with no shadows etc. next to perfect transparent scene by producing nanotechnologic material that can also be produced like a suit anyone can wear.
+
+In 2019, [[HyperStealth Biotechnology Corporation|Hyperstealth Biotechnology]] has patented the technology behind a material that bends light to make people and objects near invisible to the naked eye. The material, called Quantum Stealth, is currently still in the prototyping stage, but was developed by the company's CEO Guy Cramer primarily for military purposes, to conceal agents and equipment such as tanks and jets in the field. Unlike traditional camouflage materials, which are limited to specific conditions such as forests or deserts, according to Cramer this "invisibility cloak" works in any environment or season, at any time of day.<ref>{{Cite web|url=https://www.dezeen.com/2019/11/07/hyperstealth-biotechnology-quantum-stealth-invisibility-cloak/|title=Hyperstealth Biotechnology's "invisibility cloak" can conceal people and buildings|date=2019-11-07|website=Dezeen|language=en|access-date=2019-11-16}}</ref>
+
+== Psychological ==
+A person can be described as invisible if others refuse to see him or routinely overlook him. The term was used in this manner in the title of the book ''[[Invisible Man]]'', by [[Ralph Ellison]], in reference to the protagonist, likely modeled after the author, being overlooked on account of his status as an [[African American]]. This is supported by the quote taken from the Prologue, "I am invisible, understand, simply because people refuse to see me." (Prologue.1)<ref>{{cite book |last1=Ellison |first1=Ralph |title=Invisible man |date=1947 |publisher=Modern Library/Random House |location=New York |isbn=9780679601395 }}</ref>
+
+== Fictional use ==
+{{unreferenced section|date=March 2013}}
+{{main|Invisibility in fiction}}
+[[File:Illustration to Richard Wagner's "Das Rheingold".jpg|thumb|upright=.85|[[Alberich]] puts on the [[Tarnhelm]] and vanishes; illustration by [[Arthur Rackham]] to [[Richard Wagner]]'s ''[[Das Rheingold]]'']]
+In fiction, people or objects can be rendered completely invisible by several means:
+
+* Magical objects such as [[Finger ring|ring]]s, [[cloak]]s and [[amulet]]s can be worn to grant the wearer permanent invisibility (or temporary invisibility until the object is taken off).
+* Magical [[potion]]s can be consumed to grant temporary or permanent invisibility.
+* Magic spells can be cast on people or objects, usually giving temporary invisibility.
+* Some mythical [[Legendary creature|creatures]] can make themselves invisible at will, such as in some tales in which [[leprechaun]]s or [[Chinese dragon]]s can shrink so much that humans cannot see them.
+* In science fiction, the idea of a "[[cloaking device]]".
+
+In some works, the power of magic creates an effective means of invisibility by distracting anyone who might notice the character. But since the character is not truly invisible, the effect could be betrayed by mirrors or other reflective surfaces.
+
+Where [[Magic (paranormal)|magical]] invisibility is concerned, the issue may arise of whether the [[clothing]] worn by and any items carried by the invisible being are also rendered invisible. In general they are also regarded as being invisible, but in some instances clothing remains visible and must be removed for the full invisibility effect.
+
+== See also ==
+
+* [[Ambiguity]]
+* [[Covert operation]]
+* [[Social invisibility]]
+
+== References ==
+
+{{reflist|30em}}
+
+== External links ==
+{{commons}}
+{{wikiquote}}
+* [http://www.lix.polytechnique.fr/~nielsen/2007-DigitalChameleon-CGA.pdf The Digital Chameleon Principle: Computing Invisibility by Rendering Transparency]
+* [http://physicsworld.com/cws/download/jul2011 Physics World special issue on invisibility science - July 2011]
+* [https://www.nytimes.com/2007/06/12/science/12invis.html?ex=1182744000&en=5897f9ee231f8457&ei=5070 Light Fantastic: Flirting With Invisibility - The New York Times]
+* [https://web.archive.org/web/20120127094253/https://webspace.utexas.edu/cokerwr/www/index.html/science11.html Invisibility in the real world] Interesting picture of a test tube's bottom half invisible in cooking oil.
+* [http://www.straightdope.com/mailbag/mvisiblelight.html Brief piece on why visible light is visible - Straight Dope]
+* [http://www.cnn.com/2006/TECH/science/08/09/feature.invisibility/index.html?iref=allsearch CNN.com - Science reveals secrets of invisibility - Aug 9, 2006]
+* [http://www.hurriyet.com.tr/teknoloji/12186788.asp - Next to perfect Invisibility achieved using nanotechnologic material In Turkey - July 2009]
+
+[[Category:Invisibility| ]]
+[[Category:Optics]]

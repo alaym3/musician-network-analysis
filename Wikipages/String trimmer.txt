@@ -1,0 +1,84 @@
+{{short description|Garden tool for trimming grass or groundcover with a flexible line instead of a blade}}
+{{redirect|Weedeater|the American heavy metal group|Weedeater (band)|herbaceous consumption|herbivore}}
+{{multiple issues|
+{{refimprove|date=November 2012}}
+{{Original research|date=April 2017}}
+{{Clarity|date=October 2018}}
+}}
+
+[[File:Men_working_on_lawns_at_Ciudad_Universitaria,_Mexico_City.jpg|thumb|A man using a gasoline-powered string trimmer]]
+
+A '''string trimmer''', also called a '''weed eater''', '''weed whacker''', '''weedwacker''', '''weed whip''', '''line trimmer''', '''brush cutter''', '''whipper snipper''' (in Australia, Canada, and South Africa) or '''strimmer''' (in the UK and Ireland), is a [[garden tool]] for cutting grass, small weeds, and [[groundcover]]. It uses a whirling [[monofilament line]] instead of a blade, which protrudes from a rotating spindle at the end of a long shaft topped by a [[gasoline engine]] or [[electric motor]].
+
+String trimmers are commonly used for cutting low foliage near obstacles or on steep or irregular terrain.
+
+== History ==
+The first brush cutter was produced in Japan in 1960 by Echo. The U.S. string trimmer was invented in the early-1970s by [[George Ballas]] of [[Houston]], [[Texas]],<ref name="Ballas WSJ">{{Cite news |url=https://www.wsj.com/articles/SB10001424052702303763404576416121846117348 |title=George Ballas, Weed Eater's Inventor, Dies at 85 |last=Miller |first=Stephen |work=[[The Wall Street Journal]] |access-date=9 May 2017 |date=30 June 2011}}</ref> who conceived the idea while watching the revolving action of the cleaning brushes in an automatic car wash. His first trimmer was made by attaching pieces of heavy-duty fishing line to a tin can bolted to an [[edger]]. Ballas developed this into what he called the "Weed Whacker", since it chewed up the grass and weeds around trees.
+
+The word "strimmer" is correctly a [[trade name]] for a particular make of string trimmer, but it is often used as a generic for any string trimmer. From it has been [[Back-formation|backformed]] the colloquial verb "to [[wikt:strim|strim]]".
+
+== Design ==
+[[File:Rasentrimmer String trimmer IMG 5522.JPG|alt=|thumb|A bump feed style string trimmer head]]
+
+A string trimmer works on the principle that a line spun fast enough on its center stiffens by [[centrifugal force]]; the faster the hub turns, the more rigid the line. Even round-section nylon line is able to cut grass and slight, [[woody plant]]s quite well. Some monofilament lines designed for more powerful cutters have an extruded shape, like a star, that helps the line slash the material being cut; the line is thus able to cut quite large woody plants (small shrubs) or at least [[girdling|girdle]] them effectively. These lines make solid disks less necessary for tough jobs.
+
+The line is hand-wound onto a reel before the job is started, leaving both ends extending from the reel housing. The motor turns the reel and the line extends horizontally while the operator swings the trimmer about where the plants are to be trimmed. The operator controls the height at which cutting takes place and can trim down to ground level quite easily. 
+
+{{anchor|bump feed}}
+As the line is worn, or breaks off, a bump feed string trimmer the operator knocks the reel on the ground so a release mechanism allows some of the line in the reel to replace the spent portion. Newer models "auto-feed", where a small cutter ensures the exposed length does not exceed what can be swung efficiently. Newly extended line operates more efficiently because of its heavier weight and surface effects. The speed of the spinning hub is controlled by a trigger activated [[throttle]]<ref>{{Cite web|url=https://homeguides.sfgate.com/adjust-idle-weed-eater-85202.html|title=How to Adjust the Idle on a Weed Eater}}</ref> on the handle.
+
+[[File:String_trimmer_head-insert_style.jpg|alt=|thumb|A fixed line style string trimmer head]]
+
+A fixed line string trimmer has a trimmer head that takes pre-cut line inserts.  There is no wound spool of line in the trimmer head, the user instead feeds the pre-cut line in to the appropriate slots, making the trimmer easier to feed line into and troubleshoot than a bump feed system.
+
+For vertical cutting the whole machine can be tilted or some trimmers allow the head to be adjusted at different angles.
+
+String trimmers powered by an [[internal combustion engine]] have the engine on the opposite end of the shaft from the cutting head, while electric string trimmers typically have an electric motor in the cutting head, but there are other arrangements such as where the trimmer is connected to heavy machinery and powered by a [[hydraulic motor]].
+
+The head contains a safety shield on the user side and a rotating hub which may also be called a head or spool. Disadvantages of a gasoline-powered string trimmer include its greater weight, the need to refuel, and the significant vibration that carries throughout the device, both of which interfere with its maneuverability and contribute to muscle fatigue. Advantages include complete mobility and higher maximum power.
+
+Large trimmers, used for cutting thick roadside grass and weeds in large areas, are both heavier and more powerful.  Some are fitted with a harness to spread weight onto the shoulders. Often referred to as brush cutters, these often mount straight or circular metal blades instead of  monofilament line.
+
+== Accessories ==
+
+Many string trimmers allow the hub, the head or the lower part of the shaft to be replaced with accessories. Common accessories include:
+* metal or plastic blades
+* a small [[chain saw]]
+* a toothed [[hedge trimmer]]
+* a [[cultivator]]
+
+Quick-release shafts are offered on many newer models which do not require any tools to switch in accessories.
+
+== Power and emissions ==
+[[File:Weed whacker - kanagawa - may 11 2021.webm|thumb|A man using a weed whacker in [[Kanagawa prefecture|Kanagawa]], [[Japan]]]]
+
+[[Gasoline]]-engine powered trimmers usually have a minimum of {{cvt|21|cc|cm3 cuin}} displacement motors. At this size they can easily turn {{convert|2|mm|adj=on}} line and some have nylon blades as accessories to the line-reel. A {{cvt|32|cc|cm3 cuin}} engine can swing a {{convert|2.75|mm|abbr=on}} line and often has metal-blade accessories. Most trimmers use [[two stroke engine]]s and require gasoline mixed with oil. Due to pollution laws [[four stroke engine]]s are becoming more popular, particularly in the commercial market. Manufacturers include [[Honda]], [[MTD Products|MTD]] and [[Craftsman (tools)|Craftsman]]. Companies such as [[John Deere]] carry low-emission two-stroke engine trimmers. [[Stihl]] manufactures a hybrid four stroke engine trimmer that still requires oil to be pre-mixed into the fuel.
+
+Electric edge trimmers have the advantage of being very light, easy to maneuver and easy-to-operate. However, both the power cord and total cord length limit them.  Typically less powerful and robust than gasoline-powered units, they are normally are limited to {{convert|2.5|mm|abbr=on}} maximum diameter nylon because of their lower power output (400 to about 1200 watts). Recharge time for a battery model using small or large sealed lead acid, nickel metal hydride, or lithium ion batteries is typically several hours; some models offer a quick-charge option of as little as half an hour, or a removable battery pack.
+
+
+Propane-powered string trimmers were also manufactured by Lehr.<ref>{{cite web|url= https://www.popularmechanics.com/home/tools/reviews/a4561/4332413/ |last=Plueddeman |first=Charles  |date=1 October 2009|website=popularmechanics.com |title= 10 Most Brilliant Products of 2009: Lehr Propane Trimmer|access-date=15 May 2020}}</ref><ref>{{cite web|url= https://www.grit.com/tools/lehr-propane-powered-eco-trimmer-clean-green-and-mean |last=Will |first=Hank  |date=24 August 2009|website=grit.com |title= LEHR Propane Powered Eco Trimmer: Clean, Green and Mean|access-date=15 May 2020}}</ref><ref>{{cite web|url= https://www.latimes.com/home/la-hm-majordomo2-2009may02-story.html |last=Neil |first=Dan  |date=2 May 2009|website=[[Los Angeles Times]] |title= Yard work cleaned up|access-date=15 May 2020}}</ref>
+
+== Plastic pollution  ==
+''[[Earth Island Journal]]'' criticised string trimmers as a source of [[plastic pollution]] due to the string being shredded while in use.<ref>{{cite journal |last1=Quinn |first1=John |title=Strung Out |journal=Earth Island Journal |date=1 November 2013 |url=http://www.earthisland.org/journal/index.php/articles/entry/strung_out/ |access-date=1 November 2019}}</ref>
+
+== Safety concerns ==
+String trimmers can send [[debris]] flying randomly at high speed. It is typical for the user to wear either [[safety glasses]] or a suitable [[visor]] to protect their eyes, but passersby are still at risk. The debris can even damage cars and buildings, with a particularly high risk of broken glass.
+
+Chain-link flail rotors, and any other trimmer head with linked metal parts, were prohibited from sale in the EU after a fatal accident in 2010.<ref>{{Cite web|url=http://www.hse.gov.uk/safetybulletins/brush-cutters.htm|title=Use of chain flail/non standard cutting attachments on brush cutters|website=www.hse.gov.uk|access-date=25 July 2016}}</ref><ref>{{Cite web|url=https://www.bbc.co.uk/news/uk-england-cumbria-17346121|title=Anthony Robinson death: Firm fined over strimmer accident|publisher=BBC News|access-date=25 July 2016}}</ref>
+
+==See also==
+* [[Brushcutter (garden tool)]], a heavy duty tool which may take a line trimmer head or various other blades
+* [[Leaf blower]]
+
+== References ==
+{{commonscat|String trimmers}}
+{{wikt|strimmer|strim}}
+{{reflist}}
+
+{{Garden tools}}
+
+[[Category:Gardening tools]]
+[[Category:Lawn care]]
+[[Category:Habitat management equipment and methods]]
+[[Category:American inventions]]

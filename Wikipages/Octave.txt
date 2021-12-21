@@ -1,0 +1,261 @@
+{{Short description|Interval between one musical pitch and another with double its frequency}}
+{{Other uses}}
+{{Image frame|content=<score lang="lilypond"> {
+\override Score.TimeSignature#'stencil = ##f
+\relative c' {
+   \clef treble 
+   \time 4/4
+   \key c \major
+   <c c'>1
+} }
+</score>|width=120|caption=A perfect octave between two C's}}
+
+{{Infobox Interval
+| main_interval_name = Perfect octave
+| inverse = [[unison]]
+| complement = octave
+| other_names = -
+| abbreviation = P8
+| semitones = 12
+| interval_class = 0
+| just_interval = 2:1<ref name="Duffin" />
+| cents_equal_temperament = 1200<ref name="Duffin">{{cite book|last1=Duffin|first1=Ross W.|title=How equal temperament ruined harmony : (and why you should care)|date=2008|publisher=W. W. Norton|location=New York|isbn=978-0-393-33420-3|page=163|edition=First published as a Norton paperback.|url=https://books.google.com/books?id=i5LC7Csnw7UC&q=how+equal+temperament+ruined+harmony|access-date=28 June 2017|language=en|url-status=live|archive-url=https://web.archive.org/web/20171205150905/https://books.google.com/books?id=i5LC7Csnw7UC&printsec=frontcover&dq=how+equal+temperament+ruined+harmony&hl=en&sa=X&ved=0ahUKEwiHl-v79eDUAhVOID4KHVp8D4cQ6AEIJjAA#v=onepage&q&f=false|archive-date=5 December 2017}}</ref>
+| cents_24T_equal_temperament = 
+| cents_just_intonation = 1200<ref name="Duffin" />
+}}
+In [[music]], an '''octave''' ({{lang-la|octavus}}: eighth) or '''perfect octave''' (sometimes called the [[Pythagorean interval|'''diapason''']])<ref>{{cite book|url=https://books.google.com/books?id=1LIPFk6oFVkC&q=diatessaron+diapason+diapente+fourth+fifth&pg=PA550|title=A Dictionary of Christian Antiquities|author=William Smith|author2=Samuel Cheetham|publisher=London: John Murray|year=1875|isbn=9780790582290|archive-url=https://web.archive.org/web/20160430185327/https://books.google.com/books?id=1LIPFk6oFVkC&pg=PA550&dq=diatessaron+diapason+diapente+fourth+fifth|archive-date=2016-04-30|url-status=live|name-list-style=amp}}</ref> is the [[interval (music)|interval]] between one musical [[Pitch (music)|pitch]] and another with double its [[frequency]]. The octave relationship is a natural phenomenon that has been referred to as the "basic miracle of music," the use of which is "common in most musical systems."<ref>Cooper, Paul (1973). ''Perspectives in Music Theory: An Historical-Analytical Approach'', p. 16. {{ISBN|0-396-06752-2}}.</ref> The interval between the first and second harmonics of the [[Harmonic series (music)|harmonic series]] is an octave.
+
+In Western music notation, notes separated by an octave (or multiple octaves) have the same [[Musical note#Written notes|letter name]] and are of the same [[pitch class]].
+
+To emphasize that it is one of the [[interval (music)#Perfect|perfect intervals]] (including [[unison]], [[perfect fourth]], and [[perfect fifth]]), the octave is designated P8. Other [[Interval quality|interval qualities]] are also possible, though rare. The octave above or below an indicated [[musical note|note]] is sometimes abbreviated ''8<sup>a</sup>'' or ''8<sup>va</sup>'' ({{lang-it|all'ottava}}), ''8<sup>va</sup> bassa'' ({{lang-it|all'ottava bassa}}, sometimes also ''8<sup>vb</sup>''), or simply ''8'' for the octave in the direction indicated by placing this mark above or below the staff.
+
+==Explanation and definition==
+For example, if one note has a frequency of 440&nbsp;[[Hertz|Hz]], the note one octave above is at 880&nbsp;Hz, and the note one octave below is at 220&nbsp;Hz. The ratio of frequencies of two notes an octave apart is therefore 2:1. Further octaves of a note occur at <math>2^n</math> times the frequency of that note (where ''n'' is an integer), such as 2, 4, 8, 16, etc. and the reciprocal of that series. For example, 55&nbsp;Hz and 440&nbsp;Hz are one and two octaves away from 110&nbsp;Hz because they are {{Frac||1|2}} (or <math>2^{-1}</math>) and 4 (or <math>2^{2}</math>) times the frequency, respectively.
+
+The number of octaves between two frequencies is given by the formula:
+
+: <math>\text{Number of octaves} = \log_2\left(\frac{f_2}{f_1}\right)</math>
+
+== Music theory ==
+Most [[scale (music)|musical scale]]s are written so that they begin and end on notes that are an octave apart. For example, the C major scale is typically written {{nowrap|C D E F G A B C}} (shown below), the initial and final C's being an octave apart.
+
+{{block indent|<score sound="1">  {
+
+\override Score.TimeSignature #'stencil = ##f
+\relative c' {
+  \clef treble \key c \major \time 8/4 
+  \once \override NoteHead.color = #red c4 d e f g a b \once \override NoteHead.color = #red c
+} }
+</score>}}
+Because of octave equivalence, notes in a chord that are one or more octaves apart are said to be ''[[Voicing (music)#Doubling|doubled]]'' (even if there are ''more'' than two notes in different octaves) in the chord. The word is also used to describe melodies played in [[Contrapuntal motion#Parallel motion|parallel]] in more than multiple octaves.
+
+While octaves commonly refer to the perfect octave (P8), the interval of an octave in music theory encompasses chromatic alterations within the pitch class, meaning that G{{music|natural}} to G{{music|sharp}} (13 semitones higher) is an [[Augmented octave]] (A8), and G{{music|natural}} to G{{music|flat}} (11 semitones higher) is a [[diminished octave]] (d8). The use of such intervals is rare, as there is frequently a preferable [[enharmonic]]ally-equivalent notation available ([[minor ninth]] and [[major seventh]] respectively), but these categories of octaves must be acknowledged in any full understanding of the role and meaning of octaves more generally in music.
+
+==Notation==
+<!-- This section is linked from [[Coll'ottava]] -->
+
+=== Octave of a pitch ===
+Octaves are identified with various naming systems. Among the most common are the [[Scientific pitch notation|scientific]], [[Helmholtz pitch notation|Helmholtz]], organ pipe, MIDI{{Citation needed|date=July 2020|reason=the MIDI norm does not appear to specify registers from -5 to 5 as indicated in the table below}}, and MIDI note systems. In scientific pitch notation, a specific octave is indicated by a numerical subscript number after note name. In this notation, [[middle C]] is C<sub>4</sub>, because of the note's position as the fourth C key on a standard 88-key piano keyboard, while the C an octave higher is C<sub>5</sub>.
+
+[[File:Piano Frequencies.svg|frame|alt=Piano Keyboard|An 88-key piano, with the octaves numbered and [[C (musical note)#Middle C|Middle C]] (cyan) and [[A440 (pitch standard)|A440]] (yellow) highlighted]]
+
+:{| style="border-spacing: 2px; border: 1px solid darkgray;"
+! style="text-align: right" colspan="13" | <score lang="lilypond"> {
+\override Score.SpacingSpanner.strict-note-spacing = ##t
+\set Score.proportionalNotationDuration = #(ly:make-moment 1/32)
+\override Score.TimeSignature #'stencil = ##f
+\relative c,,,, {
+   \clef bass 
+   \time 11/1
+   \key c \major
+   c1 c' c' c' c'
+   \clef treble
+   c' c' c' c' c' c'
+} }
+</score>
+|-
+! style="text-align: right" | '''Scientific'''
+| style="text-align: center; width: 67px;" | C<sub>−1</sub>
+| style="text-align: center; width: 67px;" | C<sub>0</sub>
+| style="text-align: center; width: 67px;" | C<sub>1</sub>
+| style="text-align: center; width: 52px;" | C<sub>2</sub>
+| style="text-align: center; width: 52px;" | C<sub>3</sub>
+| style="text-align: center; width: 55px;" | C<sub>4</sub>
+| style="text-align: center; width: 55px;" | C<sub>5</sub>
+| style="text-align: center; width: 55px;" | C<sub>6</sub>
+| style="text-align: center; width: 67px;" | C<sub>7</sub>
+| style="text-align: center; width: 67px;" | C<sub>8</sub>
+| style="text-align: center; width: 67px;" | C<sub>9</sub>
+| style="text-align: center; width: 25px;" | 
+|-
+! style="text-align: right" | '''Helmholtz'''
+| style="text-align: center" | C,,,
+| style="text-align: center" | C,,
+| style="text-align: center" | C,
+| style="text-align: center" | C
+| style="text-align: center" | c
+| style="text-align: center" | c'
+| style="text-align: center" | c<nowiki>''</nowiki>
+| style="text-align: center" | c<nowiki>'''</nowiki>
+| style="text-align: center" | c<nowiki>''''</nowiki>
+| style="text-align: center" | c<nowiki>'''''</nowiki>
+| style="text-align: center" | c<nowiki>''''''</nowiki>
+|
+|-
+! style="text-align: right" | '''Organ'''
+| style="text-align: center" | 64 Foot
+| style="text-align: center" | 32 Foot
+| style="text-align: center" | 16 Foot
+| style="text-align: center" | 8 Foot
+| style="text-align: center" | 4 Foot
+| style="text-align: center" | 2 Foot
+| style="text-align: center" | 1 Foot
+| style="text-align: center" | 3 Line
+| style="text-align: center" | 4 Line
+| style="text-align: center" | 5 Line
+| style="text-align: center" | 6 Line
+|
+|-
+! style="text-align: right" | '''Name'''
+| style="text-align: center" | <small>Dbl Contra</small>
+| style="text-align: center" | <small>Sub Contra</small>
+| style="text-align: center" | Contra
+| style="text-align: center" | Great
+| style="text-align: center" | Small
+| style="text-align: center" | 1 Line
+| style="text-align: center" | 2 Line
+| style="text-align: center" | 3 Line
+| style="text-align: center" | 4 Line
+| style="text-align: center" | 5 Line
+| style="text-align: center" | 6 Line
+|
+|-
+! style="text-align: right" | '''MIDI'''
+| style="text-align: center" | −5
+| style="text-align: center" | −4
+| style="text-align: center" | −3
+| style="text-align: center" | −2
+| style="text-align: center" | −1
+| style="text-align: center" | 0
+| style="text-align: center" | 1
+| style="text-align: center" | 2
+| style="text-align: center" | 3
+| style="text-align: center" | 4
+| style="text-align: center" | 5
+|
+|-
+! style="text-align: right" | '''MIDI Note'''
+| style="text-align: center" | 0
+| style="text-align: center" | 12
+| style="text-align: center" | 24
+| style="text-align: center" | 36
+| style="text-align: center" | 48
+| style="text-align: center" | 60
+| style="text-align: center" | 72
+| style="text-align: center" | 84
+| style="text-align: center" | 96
+| style="text-align: center" | 108
+| style="text-align: center" | 120
+|
+|}
+
+=== ''Ottava alta'' and ''bassa'' ===
+{{Image frame|content=<score lang="lilypond"> {
+\relative c''' {
+   \clef treble 
+   \time 4/4
+   \key c \major
+   c4 e g2
+   \ottava #1 c,4 e g2
+   \ottava #2 c,4 e g2
+} }
+</score>|width=310|caption=Example of the same three notes expressed in three ways: (1) regularly, (2) in an ''8<sup>va</sup>'' bracket, and (3) in a ''15<sup>ma</sup>'' bracket}}
+
+{{Image frame|content=<score lang="lilypond"> {
+
+\relative c' {
+   \clef treble 
+   \time 4/4
+   \key c \major
+   c4 e g2
+   \ottava #-1 c,4 e g2
+   \ottava #-2 c,4 e g2
+} }
+</score>|width=310|caption=Similar example with ''8<sup>vb</sup>'' and ''15<sup>mb</sup>''}}
+{{anchor|ottava_e_quindicesima}}
+The notation ''8<sup>a</sup>'' or ''8<sup>va</sup>'' is sometimes seen in [[sheet music]], meaning "play this an octave higher than written" (''all' ottava'': "at the octave" or ''all' 8<sup>va</sup>''). ''8<sup>a</sup>'' or ''8<sup>va</sup>'' stands for ''ottava'', the [[Italian language|Italian]] word for octave (or "eighth"); the octave above may be specified as ''ottava alta'' or ''ottava sopra''). Sometimes ''8<sup>va</sup>'' is used to tell the musician to play a passage an octave ''lower'' (when placed under rather than over the staff), though the similar notation ''8<sup>vb</sup>'' (''ottava bassa'' or ''ottava sotto'') is also used. Similarly, ''[[fifteenth|15<sup>ma</sup>]]'' (''quindicesima'') means "play two octaves higher than written" and ''15<sup>mb</sup>'' (''quindicesima bassa'') means "play two octaves lower than written."
+
+The abbreviations ''col 8'', ''coll' 8'', and ''c. 8<sup>va</sup>'' stand for ''coll'ottava'', meaning "with the octave", i.e. to play the notes in the passage together with the notes in the notated octaves. Any of these directions can be cancelled with the word ''loco'', but often a dashed line or bracket indicates the extent of the music affected.<ref>{{Cite Grove |last=Prout |first=Ebenezer |last2=Fallows |first2=David |title=All'ottava|name-list-style=amp}}</ref>
+{{Clear}}
+
+== Equivalence ==
+{{anchor|Equivalency|Equivalent}}<!--[[Octave equivalence]] redirects directly to this section.-->
+{{Image frame|content=<score sound="1"> {
+\relative c' {
+   \clef treble 
+   \time 4/4
+   \key c \major
+   <c c'>4^\markup { "(1) Parallel octaves (doubled)" } <c c'> <g' g'> <g g'> <a a'> <a a'> <g g'>2 
+   <f f'>4 <f f'> <e e'> <e e'> <d d'> <d d'> <c c'>2
+} }
+</score>
+
+<score sound="1"> {
+\relative c' {
+   \clef treble 
+   \time 4/4
+   \key c \major
+   <c g'>4^\markup { "(2) Parallel fifths" } <c g'> <g' d'> <g d'> <a e'> <a e'> <g d'>2 
+   <f c'>4 <f c'> <e b'> <e b'> <d a'> <d a'> <c g'>2
+} }
+</score>
+
+<score sound="1"> {
+\relative c' {
+   \clef treble 
+   \time 4/4
+   \key c \major
+   <c d>4^\markup { "(3) Parallel seconds" } <c d> <g' a> <g a> <a b> <a b> <g a>2 
+   <f g>4 <f g> <e f> <e f> <d e> <d e> <c d>2
+} }
+</score>|width=420|caption=Demonstration of octave equivalence. The melody to "[[Twinkle, Twinkle, Little Star]]" with [[parallel harmony]]. The melody is paralleled in three ways: (1) in octaves ([[Consonance and dissonance|consonant]] and equivalent); (2) in [[Perfect fifth|fifths]] (fairly consonant but not equivalent); and (3) in [[second (interval)|seconds]] (neither consonant nor equivalent).}}
+
+After the [[unison]], the octave is the simplest interval in music. The human ear tends to hear both notes as being essentially "the same", due to closely related harmonics. Notes separated by an octave "ring" together, adding a pleasing sound to music. The interval is so natural to humans that when men and women are asked to sing in unison, they typically sing in octave.<ref>{{Cite episode|title=Music|url=https://www.netflix.com/watch/80243768?trackId=14277283&tctx=0,0,6408cfd3-9144-40c3-b5e9-38b6e4738eaa-17692375,,|access-date=2018-11-01|series=[[Vox (website)|Vox]] Explained|time=12:50|quote=When you ask men and women to sing in unison, what typically happens is they actually sing an octave apart.}}</ref>
+
+For this reason, notes an octave apart are given the same note name in the Western system of [[music notation]]—the name of a note an octave above A is also A. This is called ''octave equivalence'', the assumption that pitches one or more octaves apart are musically [[Equivalence class (music)|equivalent]] in many ways, leading to the convention "that [[scale (music)|scales]] are uniquely defined by specifying the intervals within an octave".<ref name="Burns">{{cite book|last=Burns|first=Edward M.|year=1999|chapter=Intervals, Scales, and Tuning|title=The Psychology of Music|editor=[[Diana Deutsch]]|edition=2nd|page=252|location=San Diego|publisher=Academic Press|id={{ISBN|0-12-213564-4|9780122135644}}}}</ref> The conceptualization of pitch as having two dimensions, pitch height (absolute frequency) and pitch class (relative position within the octave), inherently include octave circularity.<ref name="Burns" /> Thus all C{{music|#}}s, or all 1s (if C&nbsp;=&nbsp;0), in any octave are part of the same [[pitch class]].
+
+Octave equivalence is a part of most advanced musical cultures, but is far from universal in "primitive" and [[early music]].<ref>e.g., Nettl,{{clarify|date=August 2021|reason=Bruno Nettl?}} 1956;{{incomplete short citation|date=August 2021}} Sachs, C[urt]. and Kunst, J[aap]. (1962). In ''The Wellsprings of Music'', ed. Kunst, J. The Hague: Marinus Nijhoff.{{incomplete short citation|date=August 2021}}</ref>{{Failed verification|date=June 2020|reason=This is not exactly what Sachs says in ''The Wellsprings of Music'' }}<ref>e.g., Nettl, 1956;{{incomplete short citation|date=August 2021}} Sachs, C. and Kunst, J. (1962).{{incomplete short citation|date=August 2021}} Cited in {{harvnb|Burns|1999|p=217}}.</ref>{{clarify|date=June 2020|reason=Burns says that, but it is not fully verified in the books cited.}} The languages in which the oldest extant written documents on tuning are written, [[Sumerian language|Sumerian]] and [[Akkadian language|Akkadian]], have no known word for "octave". However, it is believed that a set of [[cuneiform]] tablets that collectively describe the tuning of a nine-stringed instrument, believed to be a Babylonian [[lyre]], describe tunings for seven of the strings, with indications to tune the remaining two strings an octave from two of the seven tuned strings.<ref name="Meso_Flutes">{{cite web |url=http://Flutopedia.com/mesopotamian_flutes.htm |title=Flutes of Gilgamesh and Ancient Mesopotamia |author=Clint Goss |year=2012 |work=Flutopedia |access-date=2012-01-08 |url-status=live |archive-url=https://web.archive.org/web/20120628142037/http://www.flutopedia.com/mesopotamian_flutes.htm |archive-date=2012-06-28 }}</ref> Leon Crickmore recently proposed that "The octave may not have been thought of as a unit in its own right, but rather by analogy like the first day of a new seven-day week".<ref>{{cite journal |author=Leon Crickmore|title=New Light on the Babylonian Tonal System|journal=ICONEA 2008: Proceedings of the International Conference of Near Eastern Archaeomusicology, Held at the British Museum, December 4–6, 2008 |volume=24 |year=2008 |pages=11–22}}</ref>
+
+Monkeys experience octave equivalence, and its biological basis apparently is an octave mapping of neurons in the auditory [[thalamus]] of the mammalian [[brain]].<ref>"[http://www.neuroscience-of-music.se/eng7.htm The mechanism of octave circularity in the auditory brain] {{webarchive|url=https://web.archive.org/web/20100401145359/http://www.neuroscience-of-music.se/eng7.htm |date=2010-04-01 }}", ''Neuroscience of Music''.</ref> Studies have also shown the perception of octave equivalence in rats,{{sfn|Blackwell & Schlosberg|1943}} human infants,{{sfn|Demany & Armand|1984}} and musicians{{sfn|Allen|1967}} but not starlings,{{sfn|Cynx|1993}} 4–9 year old children,{{sfn|Sergeant|1983}} or nonmusicians.{{sfn|Allen|1967}}<ref name="Burns" />
+
+==See also==
+*[[Blind octave]]
+*[[Decade (log scale)|Decade]]
+*[[Eight-foot pitch]]
+*[[Octave band]]
+*[[Octave species]]
+*[[Pitch circularity]]
+*[[Pseudo-octave]]
+*[[Pythagorean interval]]
+*[[Short octave]]
+*[[Solfège]]
+
+==References==
+{{Reflist}}
+'''Sources'''
+*{{wikicite|ref={{harvid|Allen|1967}}|reference=Allen, David. 1967. "Octave Discriminability of Musical and Non-Musical Subjects". ''Psychonomic Science'' 7:421–22.}}
+*{{wikicite|ref={{harvid|Blackwell & Schlosberg|1943}}|reference=Blackwell, H. R., & H. Schlosberg. 1943. "Octave Generalization, Pitch Discrimination, and Loudness Thresholds in the White Rat". ''[[Journal of Experimental Psychology]]'' 33:407–419.}}
+*{{wikicite|ref={{harvid|Cynx|1993}}|reference=Cynx, Jeffrey. 1996. "Neuroethological Studies on How Birds Discriminate Song". In ''Neuroethology of Cognitive and Perceptual Processes'', edited by C. F. Moss and S. J. Shuttleworth, 63. Boulder: Westview Press.}}
+*{{wikicite|ref={{harvid|Demany & Armand|1984}}|reference=Demany, Laurent, and Françoise Armand. 1984. "The Perceptual Reality of Tone Chroma in Early Infancy". ''[[Journal of the Acoustical Society of America]]'' 76:57–66.}}
+*{{wikicite|ref={{harvid|Sergeant|1983}}|reference=Sergeant, Desmond. 1983. "The Octave: Percept or Concept?" ''[[Psychology of Music (journal)|Psychology of Music]]'' 11, no. 1:3–18.}}
+
+==External links==
+*[http://www.kylegann.com/Octave.html Anatomy of an Octave] by [[Kyle Gann]]
+
+{{Intervals}}
+{{Voicing (music)}}
+{{Authority control}}
+[[Category:Octaves| ]]
+[[Category:Perfect intervals]]
+[[Category:Superparticular intervals|0002:0001]]
+[[Category:Musical notes]]

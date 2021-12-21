@@ -1,0 +1,128 @@
+{{short description|American theatre composer}}
+{{Infobox musical artist
+| name            = Jerry Bock
+| image           = Jerry Bock.jpg
+| caption         = 
+| image_size      = 
+| background      = non_performing_personnel
+| birth_name      = Jerrold Lewis Bock
+| birth_date      = {{birth date|mf=y|1928|11|23}}
+| birth_place     = [[New Haven, Connecticut]], [[United States|U.S.]]
+| death_date      = {{death date and age|mf=y|2010|11|03|1928|11|23}}
+| death_place     = [[Mount Kisco, New York]], [[United States|U.S.]]
+| genre           = [[Musical theater]]
+| occupation      = [[Composer]], [[lyricist]]
+| years_active    = 1955–2010
+}}
+
+'''Jerrold Lewis Bock''' (November 23, 1928{{spaced ndash}}November 3, 2010) was an American [[musical theater]] [[composer]]. He received the [[Tony Award for Best Musical]] and the [[Pulitzer Prize for Drama]] with [[Sheldon Harnick]] for their 1959 musical ''[[Fiorello!]]'' and the Tony Award for Best Composer and Lyricist for the 1964 musical ''[[Fiddler on the Roof]]'' with Sheldon Harnick.
+
+==Biography==
+Born in [[New Haven, Connecticut]], and raised in [[Flushing, Queens]], [[New York (state)|New York]], Bock studied the [[piano]] as a child. While a student at the [[University of Wisconsin–Madison]], he wrote the musical ''Big As Life'', which toured the state and enjoyed a run in [[Chicago]]. After graduation, he spent three summers at the Tamiment Playhouse in the [[Pocono Mountains|Poconos]] and wrote for early [[television]] revues with lyricist [[Larry Holofcener]]. One of their songs, the three-part "The Story of Alice," was performed by the [[Chad Mitchell Trio]] on their ''[[Blowin' in the Wind]]'' album of 1962.<ref>Ginell, Cary, AllMusic Review of the Chad Mitchell Trio's ''Blowin' in the Wind,'' ''AllMusic'', https://www.allmusic.com/album/blowin-in-the-wind-mw0000595778</ref>
+
+===Career===
+Bock made his [[Broadway theatre|Broadway]] debut in 1955 when he and [[Lawrence Holofcener]] contributed songs to ''Catch a Star''. The following year the duo collaborated on the musical ''[[Mr. Wonderful (musical)|Mr. Wonderful]]'', designed for [[Sammy Davis Jr.]], after which they worked on ''Ziegfeld Follies of 1956'', which closed out-of-town.<ref>[http://digilib.nypl.org/dynaweb/ead/music/musbock/@Generic__BookView Guide to the Jerry Bock Papers, 1945-2004]</ref>
+
+Shortly after, Bock met lyricist [[Sheldon Harnick]], with whom he forged a successful partnership. Although their first joint venture, ''[[The Body Beautiful]]'', failed to charm the critics, its score caught the attention of director [[George Abbott]] and producer [[Harold Prince|Hal Prince]].  They hired the team to compose a musical biography of former [[New York City]] mayor [[Fiorello La Guardia]]. ''[[Fiorello!]]'' (1959) earned Bock and Harnick the [[New York Drama Critics' Circle|New York Drama Critics' Circle Award]] for Best Musical, Tony Award for Best Musical (tied with the team from ''[[The Sound of Music]]'') and the [[Pulitzer Prize for Drama]].
+
+Bock's additional collaborations with Harnick include ''[[Tenderloin (musical)|Tenderloin]]'' (1960), ''Man in the Moon'' (1963), ''[[She Loves Me]]'' (1963), ''[[Fiddler on the Roof]]'' (1964), ''[[The Apple Tree]]'' (1966), and ''[[The Rothschilds (musical)|The Rothschilds]]'' (1970), as well as contributions to ''[[Never Too Late (play)|Never Too Late]]'' (1962), ''[[Baker Street (musical)|Baker Street]]'' (1965), ''[[Her First Roman]]'' (1968), and ''[[The Madwoman of Central Park West]]'' (1979). ''Fiddler on the Roof'' included the hit song "[[If I Were a Rich Man (song)|If I Were a Rich Man]]".
+
+Established in 1997, the Jerry Bock Award for Excellence in Musical Theater is an annual grant presented to the composer and lyricist of a project developed in the [[BMI Lehman Engel Musical Theater Workshop]].<ref>[http://www.bmifoundation.org/pages/JBock.asp Bock listing] bmifoundation.org</ref>
+
+Bock spoke at the funeral of 98-year-old Fiddler playwright [[Joseph Stein]] just 10 days before his own death, from heart failure at 81, less than three weeks before his 82nd birthday.<ref name="death">{{cite web|title=FIDDLER Composer Jerry Bock Dies at 81|url=http://broadwayworld.com/article/FIDDLER_Composer_Jerry_Bock_Dies_at_81_20101103|publisher=broadwayworld.com|access-date=3 November 2010}}</ref>
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+!Year
+!Award 
+!Category
+!Work
+!Result
+|-
+| rowspan="3"|1960
+| [[New York Drama Critics' Circle|New York Drama Critics' Circle Award]]
+| [[New York Drama Critics' Circle#Best Musical|Best Musical]]
+| rowspan="3”|''[[Fiorello!]]''
+| {{won}}
+|-
+| [[Tony Award]] 
+| [[Tony Award for Best Musical|Best Musical]]
+| {{won}}
+|-
+| [[Pulitzer Prize]] 
+| [[Pulitzer Prize for Drama|Drama]]
+| {{won}}
+|-
+| 1964
+| [[Grammy Award]]
+| Best Score from an Original Cast Show Album
+| ''[[She Loves Me]]''
+| {{won}}
+|-
+| rowspan="2"|1965
+| [[Tony Award]]
+| [[Tony Award for Best Original Score|Best Composer and Lyricist]]
+| rowspan="2"|''[[Fiddler on the Roof]]''
+| {{won}}
+|-
+| [[New York Drama Critics' Circle|New York Drama Critics' Circle Award]]
+| Best Musical
+| {{won}}
+|-
+| 1967
+| rowspan="2"|[[Tony Award]]
+| [[Tony Award for Best Original Score|Best Composer and Lyricist]]
+| ''[[The Apple Tree]]''
+| {{nom}}
+|-
+| 1971
+| [[Tony Award for Best Original Score|Best Original Score]]
+| ''[[The Rothschilds (musical)|The Rothschilds]]''
+| {{nom}}
+|-
+| 2010
+| [[Daytime Emmy Award]]
+| Outstanding Original Song - Children's and Animation
+| ''[[Wonder Pets!]]''
+| {{won}}
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IBDB name}}
+*{{iobdb name|11434}}
+* {{IMDb name|0090656}}
+*[https://web.archive.org/web/20070712202830/http://www.nypl.org/research/lpa/mus/pdf/MUSBOCK.pdf Jerry Bock papers] in the [http://www.nypl.org/musicdiv Music Division] of [https://web.archive.org/web/20091016095314/http://www.nypl.org/research/lpa/lpa.html The New York Public Library for the Performing Arts].
+*[https://www.pbs.org/wnet/broadway/stars/jerry-block-and-sheldon-harnick/ PBS biography]
+*[https://web.archive.org/web/20061001185602/http://www.songwritershalloffame.org/exhibit_bio.asp?exhibitId=327 Songwriters Hall of Fame biography]
+*[https://web.archive.org/web/20070423055643/http://www.tonyawards.com/en_US/interactive/video/index.html#c#b#b TonyAwards.com Interview with Jerry Bock]
+
+{{Bock and Harnick}}
+{{Navboxes
+| title = Awards for Jerry Bock
+| list =
+{{PulitzerPrize DramaAuthors 1951-1975}}
+{{TonyAward MusicalScore 1947–1975}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bock, Jerry}}
+[[Category:1928 births]]
+[[Category:2010 deaths]]
+[[Category:American musical theatre composers]]
+[[Category:Broadway composers and lyricists]]
+[[Category:Flushing High School alumni]]
+[[Category:Pulitzer Prize for Drama winners]]
+[[Category:Jewish American composers]]
+[[Category:Jewish American songwriters]]
+[[Category:University of Wisconsin–Madison alumni]]
+[[Category:Grammy Award winners]]
+[[Category:Musicians from New Rochelle, New York]]
+[[Category:Emmy Award winners]]
+[[Category:Tony Award winners]]
+[[Category:Songwriters from New York (state)]]
+[[Category:21st-century American Jews]]

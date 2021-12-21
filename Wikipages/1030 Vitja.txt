@@ -1,0 +1,308 @@
+{{Use dmy dates|date=June 2020}}
+{{Infobox planet
+ | minorplanet     = yes
+ | name            = 1030 Vitja
+ | background      = #D6D6D6
+ | image           = 001030-asteroid shape model (1030) Vitja.png
+ | image_size      = 250
+ | caption         = Modelled shape of ''Vitja'' from its [[lightcurve]]
+ | discovery_ref   = <ref name="MPC-object" />
+ | discoverer      = [[Vladimir Albitsky|V. Albitzkij]]
+ | discovery_site  = [[Simeiz Observatory|Simeiz Obs.]]
+ | discovered      = 25 May 1924
+ | mpc_name        = (1030) Vitja
+ | alt_names       = 1924 RQ{{·}}1961 AF<br />1964 TB
+ | pronounced      = 
+ | named_after     = Viktor Zaslavskij<ref name="springer" /><br />{{small|(discoverer's relative)}}
+ | mp_category     = {{nowrap|[[main-belt]]<ref name="MPC-object" /><ref name="jpldata" />{{·}}{{small|([[Kirkwood gap|outer]])}}<ref name="lcdb" />}}<br />[[Background asteroid|background]]<ref name="Ferret" />
+ | orbit_ref       = <ref name="jpldata" />
+ | epoch           = 23 March 2018 ([[Julian day|JD]] 2458200.5)
+ | uncertainty     = 0
+ | observation_arc = 93.01 [[Julian year (astronomy)|yr]] (33,972 d)
+ | aphelion        = 3.5067 [[Astronomical unit|AU]]
+ | perihelion      = 2.7357 AU
+ | semimajor       = 3.1212 AU
+ | eccentricity    = 0.1235
+ | period          = 5.51 yr (2,014 d)
+ | mean_anomaly    = 38.994[[Degree (angle)|°]]
+ | mean_motion     = {{Deg2DMS|0.1787|sup=ms}} / day
+ | inclination     = 14.780°
+ | asc_node        = 187.86°
+ | arg_peri        = 6.2246°
+ | mean_diameter   = {{val|52.72|14.29|ul=km}}<ref name="Nugent-2016" /><br />{{val|58.38|0.79|u=km}}<ref name="AKARI" /><br />{{val|59.717|0.226|u=km}}<ref name="Masiero-2014" /><br />{{val|64.13|2.0|u=km}}<ref name="SIMPS" /><br />{{val|65.94|0.68|u=km}}<ref name="Masiero-2012" /><br />{{val|69.139|1.074|u=km}}<ref name="WISE" />
+ | rotation        = {{val|5.7014|0.0003|ul=h}}<ref name="geneva-obs" /><br />{{val|6.332|0.001|u=h}}<ref name="Ferrero-2014a" />
+ | albedo          = {{val|0.0280|0.0121}}<ref name="WISE" /><br />{{val|0.031|0.005}}<ref name="Masiero-2012" /><br />{{val|0.0326|0.002}}<ref name="SIMPS" /><br />{{val|0.040|0.001}}<ref name="AKARI" /><br />{{val|0.05|0.06}}<ref name="Nugent-2016" />
+ | spectral_type   = [[P-type asteroid|P]]<ref name="WISE" />{{·}}[[C-type asteroid|C]]<ref name="Veres-2015" /><br />[[C-type asteroid|C]] {{small|(assumed)}}<ref name="lcdb" />
+ | abs_magnitude   = {{val|10.14|0.24}}<ref name="Veres-2015" /><br />10.30<ref name="jpldata" /><ref name="lcdb" /><ref name="AKARI" /><ref name="SIMPS" /><ref name="Masiero-2012" /><ref name="WISE" /><br />10.37<ref name="Nugent-2016" />
+}}
+
+'''1030 Vitja''', provisional designation {{mp|1924 RQ}}, is a dark [[background asteroid]] from the outer regions of the [[asteroid belt]], approximately {{convert|60|km|mi|abbr=off|sigfig=|sp=us}} in diameter. It was discovered on 25 May 1924, by Soviet–Russian astronomer [[Vladimir Albitsky]] at the [[Simeiz Observatory]] on the Crimean peninsula.<ref name="MPC-object" /> The asteroid was named in honor of Viktor Zaslavskij (1925–1944), a relative of the discoverer.<ref name="springer" />
+
+== Orbit and classification ==
+
+''Vitja'' is a non-[[Asteroid family|family]] asteroid from the main belt's [[Background asteroid|background population]].<ref name="Ferret" /> It orbits the Sun in the [[Kirkwood gap|outer]] asteroid belt at a distance of 2.7–3.5&nbsp;[[Astronomical unit|AU]] once every 5 years and 6 months (2,014 days; [[semi-major axis]] of 3.12&nbsp;AU). Its orbit has an [[orbital eccentricity|eccentricity]] of 0.12 and an [[orbital inclination|inclination]] of 15[[Degree (angle)|°]] with respect to the [[ecliptic]].<ref name="jpldata" /> The asteroid's first recorded observation was made a week after its official discovery at [[Heidelberg Observatory]] in June 1924, while its [[observation arc]] begins more than seven years later at [[Lowell Observatory]] in October 1931.<ref name="MPC-object" />
+
+== Naming ==
+
+This [[minor planet]] was named by the discoverer after his relative Viktor "Vitja" Viktorovich Zaslavskij (1925–1944), who died during [[Eastern Front (World War II)|World War II]]. He was the nephew of Spiridon Zaslavskij, the brother-in-law of the discoverer, after whom the asteroid [[1330&nbsp;Spiridonia]] was later named.<ref name="springer" /> No accurate naming citation was given for this asteroid in ''[[The Names of the Minor Planets]]''. The author of the ''Dictionary of Minor Planets'', [[Lutz Schmadel]], researched the naming circumstances himself ({{small|LDS}}).<ref name="springer" /><ref name="DoMP" />
+
+== Physical characteristics ==
+
+''Vitja'' has been characterized as a primitive [[P-type asteroid|P-type]] and carbonaceous [[C-type asteroid]] by the [[Wide-field Infrared Survey Explorer]] (WISE) and [[Pan-STARRS]] photometric survey, respectively.<ref name="WISE" /><ref name="Veres-2015" /> The ''Collaborative Asteroid Lightcurve Link'' (CALL) assumes it to be a very dark C-type asteroid.<ref name="lcdb" />
+
+=== Rotation period ===
+
+In July 2007, a rotational [[lightcurve]] of ''Vitja'' was obtained from photometric observations by French amateur astronomer [[René Roy (astronomer)|René Roy]]. Lightcurve analysis gave a [[rotation period]] of 5.7014 hours and a brightness variation of 0.18 [[Magnitude (astronomy)|magnitude]] ({{small|[[LCDB quality code|U=3-]]}}).<ref name="geneva-obs" /> Another observation by Andrea Ferrero at the Bigmuskie Observatory {{Obscode|B88}} in Italy showed a period of 6.332 with an amplitude of 0.21 ({{small|[[LCDB quality code|U=2]]}}).<ref name="Ferrero-2014a" />
+
+=== Diameter and albedo ===
+
+According to the surveys carried out by the Infrared Astronomical Satellite [[IRAS]], the Japanese [[Akari (satellite)|Akari satellite]] and the [[NEOWISE]] mission of NASA's WISE telescope, ''Vitja'' measures between  {{Convert|52.72 and 69.139|km|mi|abbr=|sp=us}} in diameter and its surface has an [[astronomical albedo|albedo]] between 0.0280 and 0.05.<ref name="Nugent-2016" /><ref name="AKARI" /><ref name="Masiero-2014" /><ref name="SIMPS" /><ref name="Masiero-2012" /><ref name="WISE" />
+
+CALL adopts the results obtained by IRAS, that is, an albedo of 0.0326 and a diameter of {{Convert|64.13|km|mi|abbr=|sp=us}} based on an [[absolute magnitude]] of 10.3.<ref name="lcdb" />
+
+Between 2007 and 2021, 1030 Vitja has been observed to [[occultation|occult]] four stars.
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name="jpldata">{{cite web
+  |type       = 2017-06-05 last obs.
+  |title      = JPL Small-Body Database Browser: 1030 Vitja (1924 RQ)
+  |url        = https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2001030
+  |publisher  = [[Jet Propulsion Laboratory]]
+  |accessdate = 19 March 2018}}</ref>
+
+<ref name="springer">{{cite book
+  |title      = Dictionary of Minor Planet Names – (1030) Vitja
+  |last       = Schmadel | first = Lutz D.
+  |publisher  = Springer Berlin Heidelberg
+  |page       = 88
+  |date       = 2007
+  |isbn       = 978-3-540-00238-3
+  |doi       = 10.1007/978-3-540-29925-7_1031 |chapter       = (1030) Vitja }}</ref>
+
+<ref name="DoMP">{{cite book
+  |title      = Dictionary of Minor Planet Names – Introduction, Source of Information
+  |last       = Schmadel |first=Lutz D.
+  |publisher  = Springer Berlin Heidelberg
+  |page       = 16
+  |date       = 1997
+  |url        = https://books.google.com/books?id=eHv1CAAAQBAJ&pg=PA16#v=onepage&q&f=false
+  |isbn       = 978-3-662-06617-1
+}}</ref>
+
+<ref name="MPC-object">{{cite web
+  |title      = 1030 Vitja (1924 RQ)
+  |work       = Minor Planet Center
+  |url        = https://www.minorplanetcenter.net/db_search/show_object?object_id=1030
+  |accessdate = 19 March 2018}}</ref>
+
+<ref name="geneva-obs">{{cite web
+  |title      = Asteroids and comets rotation curves – (1030) Vitja
+  |last       = Behrend |first = Raoul
+  |publisher  = Geneva Observatory
+  |url        = http://obswww.unige.ch/~behrend/page3cou.html#001030
+  |accessdate = 19 March 2018}}</ref>
+
+<ref name="Masiero-2014">{{cite journal
+  |display-authors = 6
+  |first1     = Joseph R. |last1 = Masiero
+  |first2     = T. |last2 = Grav
+  |first3     = A. K. |last3 = Mainzer
+  |first4     = C. R. |last4 = Nugent
+  |first5     = J. M. |last5 = Bauer
+  |first6     = R. |last6 = Stevenson
+  |first7     = S. |last7 = Sonnett
+  |date       = August 2014
+  |title      = Main-belt Asteroids with WISE/NEOWISE: Near-infrared Albedos
+  |journal    = The Astrophysical Journal
+  |volume     = 791
+  |issue      = 2
+  |page       = 11
+  |bibcode    = 2014ApJ...791..121M
+  |doi        = 10.1088/0004-637X/791/2/121
+  |arxiv      = 1406.6645}}</ref>
+
+<ref name="Ferret">{{cite web
+  |title      = Asteroid 1030 Vitja – Nesvorny HCM Asteroid Families V3.0
+  |work       = Small Bodies Data Ferret
+  |url        = https://sbntools.psi.edu/ferret/SimpleSearch/results.action?targetName=1030+Vitja
+  |accessdate = 24 October 2019}}</ref>
+
+<ref name="lcdb">{{cite web
+  |title      = LCDB Data for (1030) Vitja
+  |publisher  = Asteroid Lightcurve Database (LCDB)
+  |url        = http://www.minorplanet.info/PHP/generateOneAsteroidInfo.php?AstInfo=1030%7CVitja
+  |accessdate = 19 March 2018}}</ref>
+
+<ref name="Masiero-2012">{{cite journal
+  |display-authors = 6
+  |first1     = Joseph R. |last1 = Masiero
+  |first2     = A. K. |last2 = Mainzer
+  |first3     = T. |last3 = Grav
+  |first4     = J. M. |last4 = Bauer
+  |first5     = R. M. |last5 = Cutri
+  |first6     = C. |last6 = Nugent
+  |first7     = M. S. |last7 = Cabrera
+  |date       = November 2012
+  |title      = Preliminary Analysis of WISE/NEOWISE 3-Band Cryogenic and Post-cryogenic Observations of Main Belt Asteroids
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2012ApJ...759L...8M
+  |journal    = The Astrophysical Journal Letters
+  |volume     = 759
+  |issue      = 1
+  |page       = 5
+  |bibcode    = 2012ApJ...759L...8M
+  |doi        = 10.1088/2041-8205/759/1/L8
+  |arxiv      = 1209.5794
+  |access-date= 19 March 2018}}</ref>
+
+<ref name="SIMPS">{{cite journal
+  |first1     = E. F. |last1 = Tedesco
+  |first2     = P. V. |last2 = Noah
+  |first3     = M. |last3 = Noah
+  |first4     = S. D. |last4 = Price
+  |date       = October 2004
+  |title      = IRAS Minor Planet Survey V6.0
+  |url        = https://sbnarchive.psi.edu/pds3/iras/IRAS_A_FPA_3_RDR_IMPS_V6_0/data/diamalb.tab
+  |journal    = NASA Planetary Data System
+  |volume     = 12
+  |pages      = IRAS-A-FPA-3-RDR-IMPS-V6.0
+  |bibcode    = 2004PDSS...12.....T
+  |accessdate = 22 October 2019}}</ref>
+
+<ref name="WISE">{{cite journal
+  |display-authors = 6
+  |first1     = A. |last1 = Mainzer
+  |first2     = T. |last2 = Grav
+  |first3     = J. |last3 = Masiero
+  |first4     = E. |last4 = Hand
+  |first5     = J. |last5 = Bauer
+  |first6     = D. |last6 = Tholen
+  |first7     = R. S. |last7 = McMillan
+  |first8     = T. |last8 = Spahr
+  |first9     = R. M. |last9 = Cutri
+  |first10    = E. |last10 = Wright
+  |first11    = J. |last11 = Watkins
+  |first12    = W. |last12 = Mo
+  |first13    = C. |last13 = Maleszewski
+  |date       = November 2011
+  |title      = NEOWISE Studies of Spectrophotometrically Classified Asteroids: Preliminary Results
+  |journal    = The Astrophysical Journal
+  |volume     = 741
+  |issue      = 2
+  |page       = 25
+  |bibcode    = 2011ApJ...741...90M
+  |doi        = 10.1088/0004-637X/741/2/90
+  |arxiv      = 1109.6407}}</ref>
+
+<ref name="AKARI">{{cite journal
+  |display-authors = 6
+  |first1     = Fumihiko |last1 = Usui
+  |first2     = Daisuke |last2 = Kuroda
+  |first3     = Thomas G. |last3 = Müller
+  |first4     = Sunao |last4 = Hasegawa
+  |first5     = Masateru |last5 = Ishiguro
+  |first6     = Takafumi |last6 = Ootsubo
+  |first7     = Daisuke |last7 = Ishihara
+  |first8     = Hirokazu |last8 = Kataza
+  |first9     = Satoshi |last9 = Takita
+  |first10    = Shinki |last10 = Oyabu
+  |first11    = Munetaka |last11 = Ueno
+  |first12    = Hideo |last12 = Matsuhara
+  |first13    = Takashi |last13 = Onaka
+  |date       = October 2011
+  |title      = Asteroid Catalog Using Akari: AKARI/IRC Mid-Infrared Asteroid Survey
+  |journal    = Publications of the Astronomical Society of Japan
+  |volume     = 63
+  |issue      = 5
+  |pages      = 1117–1138
+  |bibcode    = 2011PASJ...63.1117U
+  |doi        = 10.1093/pasj/63.5.1117
+  |doi-access= free
+  }} ([http://vizier.cfa.harvard.edu/viz-bin/VizieR-5?-source=J/PASJ/63/1117/acua_v1&Num=1030 online], [https://core.ac.uk/download/pdf/43545172.pdf AcuA catalog p. 153])</ref>
+
+<ref name="Nugent-2016">{{cite journal
+  |display-authors = 6
+  |first1     = C. R. |last1 = Nugent
+  |first2     = A. |last2 = Mainzer
+  |first3     = J. |last3 = Bauer
+  |first4     = R. M. |last4 = Cutri
+  |first5     = E. A. |last5 = Kramer
+  |first6     = T. |last6 = Grav
+  |first7     = J. |last7 = Masiero
+  |first8     = S. |last8 = Sonnett
+  |first9     = E. L. |last9 = Wright
+  |date       = September 2016
+  |title      = NEOWISE Reactivation Mission Year Two: Asteroid Diameters and Albedos
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2016AJ....152...63N
+  |journal    = The Astronomical Journal
+  |volume     = 152
+  |issue      = 3
+  |page       = 12
+  |bibcode    = 2016AJ....152...63N
+  |doi        = 10.3847/0004-6256/152/3/63
+  |arxiv      = 1606.08923
+  |access-date= 19 March 2018}}</ref>
+
+<ref name="Ferrero-2014a">{{Cite journal
+  |author     = Ferrero, Andrea
+  |date       = January 2014
+  |title      = Period Determination of Four Main-belt Asteroids in Mid-2013
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2014MPBu...41...24F
+  |journal    = The Minor Planet Bulletin
+  |volume     = 41
+  |issue      = 1
+  |pages      = 24–25
+  |issn       = 1052-8091
+  |bibcode    = 2014MPBu...41...24F
+  |access-date= 19 March 2018}}</ref>
+
+<ref name="Veres-2015">{{cite journal
+  |display-authors = 6
+  |first1     = Peter |last1 = Veres
+  |first2     = Robert |last2 = Jedicke
+  |first3     = Alan |last3 = Fitzsimmons
+  |first4     = Larry |last4 = Denneau
+  |first5     = Mikael |last5 = Granvik
+  |first6     = Bryce |last6 = Bolin
+  |first7     = Serge |last7 = Chastel
+  |first8     = Richard J. |last8 = Wainscoat
+  |first9     = William S. |last9 = Burgett
+  |first10    = Kenneth C. |last10 = Chambers
+  |first11    = Heather |last11 = Flewelling
+  |first12    = Nick |last12 = Kaiser
+  |first13    = Eugen A. |last13 = Magnier
+  |first14    = Jeff S. |last14 = Morgan
+  |first15    = Paul A. |last15 = Price
+  |first16    = John L. |last16 = Tonry
+  |first17    = Christopher |last17 = Waters
+  |date       = November 2015
+  |title      = Absolute magnitudes and slope parameters for 250,000 asteroids observed by Pan-STARRS PS1 - Preliminary results
+  |url        = http://adsabs.harvard.edu/cgi-bin/bib_query?bibcode=2015Icar..261...34V
+  |journal    = Icarus
+  |volume     = 261
+  |pages      = 34–47
+  |bibcode    = 2015Icar..261...34V
+  |doi        = 10.1016/j.icarus.2015.08.007
+  |arxiv      = 1506.00762
+  |access-date= 19 March 2018}}</ref>
+
+}} <!-- end of reflist -->
+
+== External links ==
+* [http://www.minorplanet.info/PHP/OneAsteroidInfo.php Lightcurve Database Query] (LCDB), at ''www.minorplanet.info''
+* [https://books.google.com/books?id=aeAg1X7afOoC&pg Dictionary of Minor Planet Names], Google books
+* [http://obswww.unige.ch/~behrend/page_cou.html Asteroids and comets rotation curves, CdR] – ''Geneva Observatory'', [[Raoul Behrend]]
+* [https://www.minorplanetcenter.net/iau/lists/NumberedMPs000001.html Discovery Circumstances: Numbered Minor Planets (1)-(5000)] – Minor Planet Center
+* {{AstDys|1030}}
+* {{JPL small body}}
+
+{{Minor planets navigator |1029 La Plata |number=1030 |1031 Arctica}}
+{{Small Solar System bodies}}
+
+{{DEFAULTSORT:Vitja}}
+[[Category:Background asteroids|001030]]
+[[Category:Discoveries by Vladimir Albitsky]]
+[[Category:Minor planets named for people]]
+[[Category:Named minor planets]]
+[[Category:Astronomical objects discovered in 1924|19240525]]

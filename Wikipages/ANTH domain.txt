@@ -1,0 +1,40 @@
+{{Pfam_box
+| Symbol = ANTH
+| Name = ANTH domain
+| image =1hfa_opm.png
+| width =
+| caption = Clathrin assembly lymphoid myeloid leukemia ([[AP180|CALM]]) protein
+| Pfam= PF07651
+| InterPro= IPR011417
+| SMART=
+| Prosite =
+| SCOP =
+| TCDB =
+| OPM family= 38
+| OPM protein= 1hfa
+| CDD = cd03564
+| PDB=
+}}
+
+The '''ANTH domain''' is a membrane binding domain that shows weak specificity for [[PtdIns(4,5)P2]]. It was found in [[AP180]] (homologous to CALM<ref>{{Cite web|url=http://www.endocytosis.org/AP180/Clathrin.html|archive-url = https://web.archive.org/web/20070311024540/http://www.endocytosis.org/AP180/Clathrin.html|archive-date = 2007-03-11|title = Clathrin and its interactions with AP180}}</ref>) endocytotic accessory protein that has been implicated in the formation of clathrin-coated pits. The domain is involved in phosphatidylinositol 4,5-bisphosphate binding and is a universal adaptor for nucleation of clathrin coats.<ref>{{cite journal |vauthors=de Camilli P, McMahon HT, Peter BJ, Stahelin RV, Cho W, Long F, Murray D |title=Contrasting membrane interaction mechanisms of AP180 N-terminal homology (ANTH) and epsin N-terminal homology (ENTH) domains |journal=J. Biol. Chem. |volume=278 |issue=31 |pages=28993–9 |year=2003 |pmid=12740367 |doi=10.1074/jbc.M302865200|doi-access=free }}</ref><ref>{{cite journal |vauthors=Payne GS, Duncan MC |title=ENTH/ANTH domains expand to the Golgi |journal=Trends Cell Biol. |volume=13 |issue=5 |pages=211–5 |year=2003 
+|pmid=12742163 |doi=10.1016/S0962-8924(03)00076-X}}</ref>
+
+Its structure is a solenoid of 9 helices. The PtdIns(4,5)P2 binding residues are spread over several helices at the tip of the structure. The PtdIns(4,5)P2 binding sequence is Kx9Kx(K/R)(H/Y).
+
+An ANTH domain is also found in [[HIP1]] and [[HIP1R]], and the PtdIns(4,5)P2 binding sequence is conserved. More information is found on [https://web.archive.org/web/20070313235047/http://www.endocytosis.org/AP180/AP180.html endocytosis.org].
+
+==Human proteins containing this domain ==
+[[HIP1]];      [[HIP1R]];     [[PICALM]];    [[SNAP91]];
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite journal |vauthors=Ford MG, Pearse BM, Higgins MK |title=Simultaneous binding of PtdIns(4,5)P2 and clathrin by AP180 in the nucleation of clathrin lattices on membranes |journal=Science |volume=291 |issue=5506 |pages=1051–5 |date=February 2001 |pmid=11161218 |doi=10.1126/science.291.5506.1051 |display-authors=etal|citeseerx=10.1.1.407.6006 }}
+
+==External links==
+* {{UMichOPM|protein|pdbid|1hfa}} - Calculated spatial position of ANTH domain of CALM protein in membrane
+
+{{DEFAULTSORT:Anth Domain}}
+[[Category:Protein domains]]
+[[Category:Peripheral membrane proteins]]

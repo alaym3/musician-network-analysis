@@ -1,0 +1,63 @@
+{{Short description|American hip hop duo}}
+{{Infobox musical artist
+| name            = PRhyme
+| image           =
+| caption         =
+| alias           =
+| origin          = [[Detroit]], [[Michigan]], U.S.<br>[[Brooklyn]], [[New York City|New York]], U.S.
+| genre           = [[Hip hop music|Hip hop]]
+| years_active    = 2014&ndash;present
+| label           = {{hlist|PRhyme|[[INgrooves]]}}
+| website         = {{URL|prhymemusic.com}}
+| current_members = [[Royce da 5'9"]]<br />[[DJ Premier]]
+| past_members    = 
+}}
+
+'''PRhyme''' is an American [[hip hop music|hip hop]] duo composed of [[Detroit]]-based [[Rapping|rapper]] [[Royce da 5'9"]] and [[New York City|New York]]-based [[record producer]] [[DJ Premier]]. They created their own record label PRhyme Records and released their first album, ''[[PRhyme (album)|PRhyme]]'', on December 9, 2014, and its follow-up, ''[[PRhyme 2]]'', on March 16, 2018.<ref name=npr2>{{cite web|url=https://www.npr.org/2018/03/08/591203534/first-listen-prhyme-prhyme-2 |title=First Listen: PRhyme 2 |last=Carmichael |first=Rodney |work=[[NPR Music]] |date=March 8, 2018 |accessdate=March 9, 2018}}</ref> The production of each album is based on sampling a single artist's compositions: [[Adrian Younge]] for ''[[PRhyme (album)|PRhyme]]'' and AntMan Wonder for ''[[PRhyme 2]]''.<ref name=npr2/><ref name=xxl>{{cite web |url=http://www.xxlmag.com/news/2014/09/prhyme-album-tracklist/ |title=Prhyme Announce Collaboration LP That Features Jay Electronica, Common, ScHoolboy Q And More |last=Diep |first=Eric |work=XXL |date=September 24, 2014 |accessdate=March 9, 2018}}</ref>  When the concept was originally pitched to Premier, he viewed it as a challenge since he recognized that he was previously known for his beats from obscure samples from many different sources, and this project forced him to find what he needed from a single catalogue of work.<ref name=fader>{{cite web|url=http://www.thefader.com/2018/03/16/dj-premier-royce-da-5-9-prhyme-interview |title=DJ Premier and Royce da 5’9” are having fun on their hip-hop victory lap |last=Hussein |first=Wandara |work=Fader |date=March 16, 2019 |accessdate=April 18, 2018}}</ref>  For ''PRhyme 2'', Royce described the process of receiving compositions to work off of directly from AntMan Wonder as being "like sampling from Mozart but Mozart is actually giving you the music".<ref name=fader/> The duo also appeared on the [[Southpaw (soundtrack)|''Southpaw'' soundtrack]].
+
+==Discography==
+'''Studio albums'''
+{| class="wikitable"
+! rowspan="2" style="width:33px;" |Year
+! rowspan="2" style="width:225px;" |Title
+! colspan="3" |Peak chart positions
+! rowspan="2" style="width:325px;" |Notes
+|-
+! style="width:3em;font-size:75%;" |[[Billboard 200|''Billboard'' 200]]<br><ref>{{cite web | url=https://www.billboard.com/music/prhyme/chart-history/billboard-200 | title=PRhyme – Chart History: Billboard 200 | work=[[Billboard (magazine)|Billboard]] | accessdate=March 27, 2018}}</ref>
+! style="width:3em;font-size:75%;" |[[Top R&B/Hip-Hop Albums]]<br><ref>{{cite web | url=https://www.billboard.com/music/prhyme/chart-history/r-b-hip-hop-albums | title=PRhyme – Chart History: R&B/Hip-Hop Albums | work=Billboard | accessdate=March 27, 2018}}</ref>
+! style="width:3em;font-size:75%;" |[[Independent Albums]]<br><ref>{{cite web | url=https://www.billboard.com/music/prhyme/chart-history/independent-albums | title=PRhyme – Chart History: Independent Albums | work=Billboard | accessdate=March 27, 2018}}</ref>
+|-
+|2014
+|''[[PRhyme (album)|PRhyme]]''
+* Release date: December 9, 2014
+* Label: PRhyme, INgrooves
+| style="text-align:center;"| 59
+| style="text-align:center;"| 7
+| style="text-align:center;"| 6
+|<small>Featured artists: [[Ab-Soul]], [[Black Thought]], [[Common (rapper)|Common]], [[Dwele]], [[Jay Electronica]], [[Joey Badass|Joey Bada$$]], [[Killer Mike]], [[Logic (rapper)|Logic]], [[Mac Miller]], [[MF Doom]], [[Phonte]], [[Schoolboy Q]], [[Slaughterhouse (group)|Slaughterhouse]]</small>
+|-
+|2018
+|''[[PRhyme 2]]''
+* Release date: March 16, 2018
+* Label: PRhyme, INgrooves
+| style="text-align:center;"| 40
+| style="text-align:center;"| 23
+| style="text-align:center;"| 3
+|<small>Featured artists: [[2 Chainz]], [[Big K.R.I.T.]], [[Brady Watt (producer)|Brady Watt]], [[Cee-Lo Green]], Chavis Chandler, [[Dave East]], [[Denaun Porter]], [[Novel (musician)|Novel]], [[Rapsody]], [[Roc Marciano]], [[Yelawolf]]</small>
+|}
+
+==References==
+{{Reflist}}
+
+{{Royce da 5'9"}}
+{{DJ Premier}}
+
+{{Authority control}}
+[[Category:Hip hop duos]]
+[[Category:American musical duos]]
+[[Category:American hip hop groups]]
+[[Category:African-American musical groups]]
+[[Category:Musical groups established in 2014]]
+[[Category:2014 establishments in the United States]]
+
+{{US-hiphop-band-stub}}

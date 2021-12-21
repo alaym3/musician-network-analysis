@@ -1,0 +1,250 @@
+{{Infobox musical artist
+| name            = Mosaic MSC
+| image           =
+| image_size      =
+| image_upright   =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Los Angeles]], California, US
+| genre           = {{hlist| [[Contemporary worship music|Contemporary worship]] | [[contemporary Christian music|CCM]] | [[Christian rock]] | [[Christian electronic dance music|CEDM]]}}
+| years_active    = {{Start date|2014}}–present
+| label           = {{hlist | [[Provident Label Group]] | [[Capitol Christian Music Group]]}}
+| associated_acts =
+| website         = {{Official website}}
+| current_members = * Mariah McManus (Goss)
+* Jake Clifford Goss
+* Andres Figueroa
+* Brooke Figueroa
+* Carlos Pimentel
+* Colin Dennard
+* Robert Aholoka
+* Aaron Weits
+| past_members    = * Chris Franz
+* Matthew Grabe
+* Kameron Waters
+* James David
+* Lucas Taffo
+* Brian Chandler
+* Ryan Gilmore
+}}
+
+'''Mosaic MSC'''  is a [[contemporary worship music]] band from [[Mosaic (church)|Mosaic Church]] in [[Los Angeles]], California. The band is led by Worship Pastor Mariah McManus.<ref>{{cite web |url= https://www.foxnews.com/entertainment/hollywood-worship-band-that-started-in-a-nightclub-worship-can-be-fun-too |title= Hollywood worship band that started in a nightclub: 'Worship can be fun, too' |last= Parke |first= Caleb |date= February 27, 2019 |website= Fox News |access-date= May 15, 2019}}</ref> The band have released three live albums and three [[extended plays]].
+
+==History==
+Mosaic MSC recorded its first worship album, ''MSC (Live from LA)'' on May 24, 2014 at the historic [[Pellissier Building and Wiltern Theatre|Wiltern Theater]].<ref>{{Cite web|url=https://www.christianpost.com/news/erwin-mcmanus-ushers-in-new-chapter-with-msc-live-worship-recording-at-historic-wiltern-theater.html|title=Erwin McManus Ushers in New Chapter With MSC, Live Worship Recording at Historic Wiltern Theater|website=The Christian Post|access-date=May 15, 2019}}</ref> After it was released in 2015,<ref>{{Cite web|url=https://itunes.apple.com/us/album/msc-live-in-la/id981478527|title=MSC (Live in LA) by Mosaic MSC|publisher=iTunes Store|accessdate=April 21, 2015}}</ref> it peaked at number 21 on the Christian Albums chart.<ref name="Billboard Christian Albums" /> Mosaic MSC has several charting singles. The song "Nvr Stp" peaked at number 49 on the Billboard Hot Christian Songs in 2015 and their song "Tremble" peaked at number 19 on the chart in March 2018.<ref name="BillboardHotChristian">{{cite web |title=Hot Christian Songs |url=https://www.billboard.com/music/mosaic-msc |work=Billboard |accessdate=July 21, 2018}}</ref>
+
+Their second album ''Glory & Wonder'' peaked at number 16 in 2016.<ref name="Billboard Christian Albums" />
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of albums, with selected chart positions
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:20em;"| Album details
+! scope="col" colspan="2"| Peak chart positions
+|-
+! width="45"| [[Top Christian Albums Chart|US<br />Christ.]]<br><ref name="Billboard Christian Albums">{{cite web|title = Mosaic MSC - Chart history {{!}} Billboard|url = https://www.billboard.com/music/mosaic-msc/chart-history/christian-albums|website = Billboard|accessdate = July 21, 2018}}</ref>
+! width="45"| [[Top Christian Albums Chart|US<br />Heat.]]<br><ref name="Billboard Heatseekers Albums">{{cite web|title = Mosaic MSC - Chart history {{!}} Billboard|url = https://www.billboard.com/music/mosaic-msc/chart-history/heatseekers-albums|website = Billboard|accessdate = July 21, 2018}}</ref>
+|-
+! scope="row" |''MSC (Live from LA)''
+|
+* Released: April 21, 2015
+* Label: Mosaic MSC
+* Format: CD, digital download, streaming
+| 21 || 10
+|-
+! scope="row" |''Glory & Wonder''
+|
+* Released: September 16, 2016
+* Label: [[Provident Label Group]]
+* Format: CD, digital download, streaming
+| 16 || 11
+|-
+! scope="row" |''Human''
+|
+* Released: May 15, 2020
+* Label: [[Capitol Christian Music Group]]
+* Format: CD, digital download, streaming
+| 45 || —
+|-
+! scope="row" |''Ser Humano''
+|
+* Released: May 28, 2021
+* Label: [[Capitol Christian Music Group]]
+* Format: CD, digital download, streaming
+| — || —
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of EPs, with selected chart positions
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:20em;"| EP details
+! scope="col" colspan="2"| Peak chart positions
+|-
+! width="45"| [[Top Christian Albums Chart|US<br />Christ.]]<br><ref name="Billboard Christian Albums" />
+! width="45"| [[Top Christian Albums Chart|US<br />Heat.]]<br><ref name="Billboard Heatseekers Albums" />
+|-
+! scope="row" | ''Unknown''
+|
+* Released: September 29, 2017
+* Label: [[Provident Label Group]]
+* Format: CD, digital download, streaming
+| — || —
+|-
+! scope="row" | ''Tiembla''
+|
+* First Spanish-language EP
+* Released: November 24, 2017
+* Label: [[Provident Label Group]]
+* Format: CD, digital download, streaming
+| — || —
+|-
+! scope="row" | ''Heaven''
+|
+* Released: September 14, 2018
+* Label: [[Provident Label Group]]
+* Format: CD, digital download, streaming
+| 32 || 21
+|-
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! rowspan="2" style="text-align:center; width:10px;" |Year
+! rowspan="2" style="text-align:center; width:200px;" |Singles
+! colspan="4" style="text-align:center;" |Peak positions
+! rowspan="2" style="text-align:center;" |Album
+! rowspan="2" style="text-align:center;" |Certifications
+|- style="font-size:smaller;"
+! width="40" |[[Hot Christian Songs|US<br>Christ.<br>Songs]]<br><ref name="Billboard Hot Christian">{{cite web|title = Mosaic MSC - Chart history {{!}} Billboard|url = https://www.billboard.com/music/mosaic-msc/chart-history/christian-songs|website = Billboard|accessdate = July 21, 2018}}</ref>
+! width="40" |[[Christian Airplay|US<br>Christ.<br>Airplay]]<br><ref name="Billboard Christian Airplay">{{cite web|title = Mosaic MSC - Chart history {{!}} Billboard|url = https://www.billboard.com/music/mosaic-msc/chart-history/christian-airplay|website = Billboard|accessdate = July 21, 2018}}</ref>
+! width="40" |[[Christian Digital Songs|US<br>Christ.<br>Digital]]<br><ref name="Billboard Christian Digital Song Sales">{{cite web|title = Mosaic MSC - Chart history {{!}} Billboard|url = https://www.billboard.com/music/mosaic-msc/chart-history/christian-digital-song-sales|website = Billboard|accessdate = July 21, 2018}}</ref>
+! width="40" |[[Christian Digital Songs|US<br>Christ.<br>Streaming]]<br><ref name="Billboard Christian Streaming Songs">{{cite web|title = Mosaic MSC - Chart history {{!}} Billboard|url = https://www.billboard.com/music/mosaic-msc/chart-history/christian-streaming-songs|website = Billboard|accessdate = July 21, 2018}}</ref>
+|-
+|2015
+|"Nvr Stp"
+| style="text-align:center;" | 49
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+|''MSC (Live in LA)''
+|
+|-
+| rowspan="4" |2016
+|"Glory & Wonder"
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| rowspan="3" |''Glory & Wonder''
+|
+|-
+|"Across the Universe"
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+|
+|-
+|"Heartbeat"
+| style="text-align:center;" | —
+| style="text-align:center;" | 36
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+|
+|-
+|"Splendor of the Son"
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| non-album single
+|
+|-
+| 2017
+|"Tremble"
+| style="text-align:center;" | 19
+| style="text-align:center;" | 20
+| style="text-align:center;" | 11
+| style="text-align:center;" | 23
+|''Glory & Wonder''
+|
+*[[RIAA]]: Gold<ref>{{cite web|title=Tremble - Mosaic MSC |accessdate=July 31, 2020|url=https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=&ti=&lab=&genre=&format=Single&date_option=release&from=&to=&award=G&type=&category=&adv=SEARCH#search_section}}</ref>
+|-
+| rowspan="3" |2018
+|"Miracle"<ref>{{cite web|url=https://www.newreleasetoday.com/albumdetail.php?album_id=19748|title=Miracle (Single) by Mosaic MSC|website=New Release Tuesday|accessdate=June 8, 2019}}</ref>
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| non-album single
+|
+|-
+|"Maker of the Heavens"
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| rowspan="3" |''Heaven EP''
+|
+|-
+|"Never Let Me Down"
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+|
+|-
+|2019
+| "Eyes on You"
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+|
+|-
+|2020
+|"Fountain (I Am Good)"
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| style="text-align:center;" | —
+| ''Human''
+|
+|}
+
+==Awards==
+===GMA Dove Awards===
+{{awards table}}
+|-
+|rowspan="3"| [[49th GMA Dove Awards|2018]]
+| "Tremble"
+| Worship Song of the Year
+| {{Nominated}}
+|-
+| Mosaic MSC
+| New Artist of the Year
+| {{Nominated}}
+|-
+| "Tremble"
+| Worship Recorded Song of the Year
+| {{Nominated}}
+{{end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website}}
+
+{{Authority control}}
+
+[[Category:Musical groups established in 2014]]
+[[Category:Musical groups from California]]
+[[Category:Performers of contemporary worship music]]
+[[Category:Performers of contemporary Christian music]]
+[[Category:2014 establishments in California]]

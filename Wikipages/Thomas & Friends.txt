@@ -1,0 +1,434 @@
+{{About|the television series|the franchise|Thomas & Friends (franchise)}}
+{{pp-vandalism|small=yes}}
+{{short description|British children's television series}}
+{{Use British English|date=May 2017}}
+{{Use dmy dates|date=May 2021}}
+{{Infobox television
+| name                     = Thomas & Friends
+| image                    = Thomas the Tank Engine & Friends title card.png
+| alt_name                 = {{Plainlist|
+*''Thomas the Tank Engine & Friends'' (original title; series 1–6)
+*''Thomas & Friends'' (series 7–21)
+*''Thomas & Friends: Big World! Big Adventures!'' (series 22–24)<ref name="independent"/>
+}}
+| genre                    = [[Animated series]]
+| creator                  = [[Britt Allcroft]]
+| based_on                 = {{based on|''[[The Railway Series]]''|{{Plainlist|
+*[[Wilbert Awdry|Rev. W. Awdry]]
+*[[Christopher Awdry]]
+}}}}
+| director                 = {{Plainlist|
+* [[David Mitton]] (1984–2003)
+* Steve Asquith (2002, 2004–2008)
+* [[Greg Tiernan]] (2008–2012)
+* [[David Baas]] (2013–2014)
+* [[David Stoten]] (2014–2018)
+* Rob Silvestri (feature length specials 2013–14)
+* Don Spencer (2014–2015)
+* Dianna Basso (2015–2021)
+}}
+| voices                   = See [[List of Thomas & Friends voice actors|List of ''Thomas & Friends'' voice actors]]
+| narrated                 = {{Plainlist|
+* [[Ringo Starr]]
+* [[Michael Angelis]]<ref>{{Cite web|last=Haring|first=Bruce|date=31 May 2020|title=Michael Angelis Dies: Voice Of 'Thomas The Tank Engine' Was 76|url=https://deadline.com/2020/05/michael-angelis-obituary-voice-thomas-the-tank-engine-1202947847/|access-date=5 June 2020|website=Deadline|language=en}}</ref>
+* [[George Carlin]]<ref name=LAT>{{cite web|last=Allcroft |first=Britt |url=https://www.latimes.com/news/opinion/sunday/commentary/la-oew-allcroft26-2008jun26,0,3849505.story |title=Los Angeles Times – "The George Carlin I knew" |work=Los Angeles Times |date=June 26, 2008 |access-date=May 5, 2012}}</ref>
+* [[Alec Baldwin]]
+* [[Michael Brandon]]
+* [[Pierce Brosnan]]
+* [[Mark Moraghan]]<ref>{{cite news| url=https://www.theguardian.com/tv-and-radio/2013/may/17/voice-thomas-tank-engine-brookside-mark-moraghan| title=Former Brookside actor to be Thomas the Tank Engine narrator| work=The Guardian| date=17 May 2013| accessdate=26 May 2015}}</ref>
+* [[John Hasler]]
+* [[Joseph May]]
+}}
+| composer                 = {{Plainlist|
+* Mike O'Donnell and [[Junior Campbell]] (1984–2003)
+* Robert Hartshorne (2004–2016)
+* [[Ed Welch]] (2004–2008)
+* Peter Hartshorne (2011–2016)
+* Chris Renshaw (2016–2020)
+* [[Oliver Davis (composer)|Oliver Davis]] (2016–2017)
+}}
+| country                  = United Kingdom
+| num_episodes             = 584 + 14 films and 6 double-length specials
+| list_episodes            = List of Thomas & Friends episodes
+| executive_producer       = {{Plain list|
+* Britt Allcroft (1984–1986, 2002)
+* [[Angus Wright (producer)|Angus Wright]] (1991–1998)
+* Peter Urie (2002–2003)
+* [[Jocelyn Stevenson]] (2003–2006)
+* Christopher Skala (2007–2011)
+* Marion Edwards (2009–2015)
+* Lenora Hume (2009–2010)
+* Karen Barnes (2011–2013)
+* Kallan Kagan (2013–2017)
+* Jeff Young (2013–2015)
+* Steven Hecht (2013–2015)
+* [[Michael Carrington (television executive)|Michael Carrington]] (2013–2014)
+* Christopher Keenan (2014–2021)
+* Edward Catchpole (2015)
+* Marianne Culbert (2016)
+* Kyle MacDougall (2016–2020)
+* Jamie LeClaire (2016–2020)
+* Phil LaFrance (2016–2020)
+}}
+| producer                 = {{Plainlist|
+* [[David Mitton]] (1984–1998)
+* [[Robert D. Cardona]] (1984–1986)
+* [[Britt Allcroft]] (1991–1998)
+* Phil Fehrle (2002–2003)
+* Simon Spencer (2004–2008)
+* Nicole Stinn (2008–2012)
+* Ian McCue (2011–2017)
+* Halim Jabbour (2013)
+* Robert Anderson (2013; 2015–2017)
+* Brian Lynch (2013–2015)
+* Jennifer Hill (2014–2015)
+* Lynda Craigmyle (2016)
+* Jane Sobol (2016)
+* Tracy Blagdon (2016–2020)
+* Micaela Winter (2016–2018)
+}}
+| location                 = {{Plainlist|
+* [[Clapham Junction]] (1984)
+* Clearwater Studios Battersea (1984)
+* [[Shepperton Studios]] (1986–2008)
+* [[Nitrogen Studios]] (2008–2012)
+* Arc Productions (2013–2016)
+* [[Jam Filled Toronto]] (2016–2020)
+}}
+| runtime                  = {{Plainlist|
+* 5 minutes, 30 seconds (Series 1–7)
+* 10 minutes{{efn|These series also aired in a half-hour format.}} (Series 8–12)
+* 11 minutes{{efn|Until Series 20, these series also aired in a half-hour format. As of series 22, the episodes themselves only run for 7 minutes, with the remainder of the episodes being used for educational segments.}} (Series 13–24)
+}}
+| company                  = {{Plainlist|
+* [[Clearwater Features]] (1984–1986)
+* [[The Britt Allcroft Company|Britt Allcroft Ltd./Britt Allcroft (Thomas) Ltd.]] (1984–1986)
+* [[Gullane Entertainment|The Britt Allcroft Company/Gullane Entertainment]] (1991–2003)
+* [[HIT Entertainment]] (2003–2017)
+* [[Mattel Creations|Mattel Television]] (2017–2021)
+}}
+| distributor              = [[Mattel Television]]
+| network                  = {{Plain list|
+* [[ITV (TV network)|ITV/ITV1]] (Series 1–3){{efn|The first half of series 3 was released straight-to-video before airing on TV. ITV also rebroadcast series 6–8 after the Nick Jr. airings.}}
+* [[Direct-to-video]] (Series 4–5){{efn|These series were later broadcast on TV through [[Cartoon Network (British and Irish TV channel)|Cartoon Network]], but they were first released to VHS in the United Kingdom.}}
+* [[Nick Jr. (British and Irish TV channel)|Nick Jr.]] (Series 6–11){{efn|Series 6–8 were rerun on CITV, while series 9-11 were rerun on Channel 5.}}
+* [[Channel 5 (British TV channel)|Channel 5]] (Series 12–24)
+<!-- Per Template:Infobox television, Channel parameter is for the original broadcast channel, not international rebroadcast, NO AMERICAN CHANNELS-->
+}}
+| picture_format           = {{Plain list|
+* [[PAL]] (filmed) (Series 1–7)
+* [[PAL]] (video) (Series 8–10)
+* [[HDTV]] [[1080i]] (video) (Series 11–12)
+* [[HDTV]] [[1080p]] ([[Computer-generated imagery|CGI]]) (Series 12–24)
+}}
+| audio_format             = {{Plain list|
+* Mono (1984-1992)
+* Stereo (1995-2017)
+* [[Dolby Digital]] 5.1 (2018–2021)}}
+| first_aired              = {{start date|df=y|1984|10|9}}
+| last_aired               = {{end date|df=y|2021|1|20}}
+| related                  = 
+| website                  = http://www.thomasandfriends.com/
+| num_series               = 24
+| image_alt                = 
+| channel                  = 
+| first_run                = 
+| released                 = 
+| followed_by              = ''[[Thomas & Friends: All Engines Go]]''
+}}
+
+'''''Thomas & Friends''''' (originally known as '''''Thomas the Tank Engine & Friends''''' or simply '''''Thomas the Tank Engine''''' until series 7; later called '''''Thomas & Friends: Big World! Big Adventures!''''') is a long-running British children's television series created by [[Britt Allcroft]]. Based on ''[[The Railway Series]]'' by [[Wilbert Awdry|the Reverend W. Awdry]] and later his son [[Christopher Awdry|Christopher]], it follows the adventures of [[Thomas the Tank Engine|Thomas]], an anthropomorphised [[Tank locomotive|tank engine]], on the fictional [[Sodor (fictional island)|Island of Sodor]] with fellow engines Edward, Henry, Gordon, James, Percy, and several other anthropomorphised vehicles. Thomas usually gets into trouble by doing jobs best left to bigger and more sensible engines, but never gives up on being a "Really Useful Engine".
+
+In the United Kingdom, it had its first broadcast on the [[ITV (TV network)|ITV]] network in 1984. In the United States, it had its first broadcasting with the spin-off series ''[[Shining Time Station]]'' on PBS in 1989. The series aired from 9 October 1984 and ended on 20 January 2021.
+
+The rights to the series are currently owned by [[HIT Entertainment]] (a subsidiary of [[Mattel]]), having acquired [[Gullane Entertainment]] in July 2002.
+
+Mattel has announced a 2D-animated reboot, ''[[Thomas & Friends: All Engines Go]]'', which premiered on September 13, 2021. Originally announced as a continuation of the original series,<ref>{{Cite web|url=https://corporate.mattel.com/news/mattel-television-greenlights-104-new-thomas-friendsR-television-episodes-and-2-specials|title=Mattel Television Greenlights 104 New "Thomas & Friends®" Television Episodes and 2 Specials |website=Mattel, Inc.}}</ref> it was later designated a new series altogether by Mattel.<ref>{{Cite web|url=https://corporate.mattel.com/news/mattel-television-announces-thomas-friends-all-engines-goand-unveils-new-creative-approach-to-thomas-content|title=Mattel Television Announces "Thomas & Friends: All Engines Go"and Unveils New Creative Approach to Thomas Content|website=Mattel, Inc.}}</ref>
+
+==History==
+
+===Predecessors===
+Before the airing of the first episode of ''Thomas & Friends'' in 1984, previous attempts had been made to adapt Awdry's stories for television.<ref name="SIFhistory">{{cite web|title=The TV Series – A History of Thomas on Screen|url=http://www.sodor-island.net/thetvserieshistory.html|url-status=dead|archive-url=https://web.archive.org/web/20131203134128/http://www.sodor-island.net/thetvserieshistory.html|archive-date=3 December 2013|access-date=17 February 2014|work=Sodor Island}}</ref> The first was in 1953, when the editor of the ''Railway Series'' books, Eric Marriott, was approached by the [[BBC]], who wished to use live-action model trains to re-create two stories from Awdry's first book, ''[[The Three Railway Engines]]''.<ref name="SIFhistory" />
+
+The engines were portrayed by [[00 gauge]] [[Hornby Dublo]] models and driven on authentic sets in the style of the original illustrations. The first episode, based on "The Sad Story of Henry", was broadcast live on the evening of Sunday 14 June 1953 from [[Lime Grove Studios]].<ref name="SIFhistory" /><ref name="TLC">{{cite web|last1=Mallory|first1=Michael|last2=Whitlock|first2=Natalie|title=Thomas the Tank Engine and TV|url=http://tlc.howstuffworks.com/family/how-thomas-the-tank-engine-works1.htm|url-status=live|archive-url=https://web.archive.org/web/20131030195850/http://tlc.howstuffworks.com/family/how-thomas-the-tank-engine-works1.htm|archive-date=30 October 2013|access-date=17 February 2014|work=Ultimate Guide to Thomas the Tank Engine|date=6 November 2006|publisher=[[TLC (TV network)|TLC]]}}</ref><ref name="Clarkjournal">{{cite news|url=http://www.thefreelibrary.com/Still+building+steam+at+60.-a0132549630|title=Still Building Steam at 60|last=Clark|first=Rhodri|date=19 May 2005|work=[[The Journal (newspaper)|The Journal]]|access-date=17 February 2014|location=[[Newcastle-upon-Tyne]]}}</ref> The live broadcast did not fare well. Reportedly, a failure to switch the points caused the model of [[Henry the Green Engine|Henry]] to derail and viewers of the live broadcast witnessed a human hand, said to be one of a crew member, picking him up and placing him back on the rails. Models moved jerkily, and all effects and music had to be superimposed.<ref name="SIFhistory" /><ref name="TLC" /><ref name="Clarkjournal" />
+
+By 23 June, news of the broadcast hit the front pages of ''[[The Daily Telegraph]]'' and the ''[[Daily Mail]]''. Awdry himself branded the episode as "unprofessional", and the point-switching debacle as an "elementary mistake".<ref name="SIFhistory" /><ref name="TLC" /><ref name="Clarkjournal" /> As a result, the second episode scheduled for 28 June 1953 was put on hold, and then later cancelled.<ref name="SIFhistory" /><ref name="TLC" /><ref name="Clarkjournal" /> After the "Sad Story of Henry" fiasco, the BBC did attempt to rescue the project by offering to give Awdry and the ''Railway Series'' publishers greater creative control over the production of the episodes, but the publishers declined the offer, preferring to focus on publishing new books for the series.<ref name="SIFhistory" />
+
+Nearly twenty years later, the BBC featured Awdry's stories in the television story-telling show ''[[Jackanory]]''. Fourteen years before ''Thomas and Friends'' was aired, [[Ted Ray (comedian)|Ted Ray]], sitting in a [[stationmaster]]'s office, read out five ''Railway Series'' books in episodes that aired between 20 September to 2 October 1970.<ref name="SIFhistory" /><ref name="StorytellersSIF">{{cite web|title=The Storytellers|url=http://www.sodor-island.net/storytellers.html|url-status=dead|archive-url=https://web.archive.org/web/20131203133928/http://www.sodor-island.net/storytellers.html|archive-date=3 December 2013|access-date=17 February 2014|publisher=Sodor Island}}</ref>
+
+In 1973, [[Andrew Lloyd Webber]], who had read ''The Railway Series'' as a child, approached publisher [[Heinemann (publisher)|Kaye & Ward]] with a proposal for his own musical television series, with songs from himself and lyricist Peter Reeves.<ref>{{Cite book|title=Unmasked|last=Lloyd Webber|first=Andrew|pages=Chapter 16: Syd}}</ref> However, the publishers and the author refused to give Lloyd Webber's company "control of almost everything", which Lloyd Webber's lawyers argued was necessary in order to "secure the investment money from America which would be needed to pay for the animation and the film-making." The status of the project seemed uncertain, and while Stanley Pickard, Kaye & Ward's managing director at the time, told Awdry that he was "maintaining personal contact with Andrew and still had a slight hope that there might be a way out", Wilbert remained apprehensive, saying that "Once the Americans get hold of it the whole series would be vulgarized and ruined." Eventually, an agreement was reached and Awdry received an advanced payment of £500. A pilot episode was commissioned from [[ITV Granada|Granada]], which would feature 2D cutouts of the engines moving along a background in a style reminiscent of ''[[Ivor the Engine]]'', with involvement from animator [[Brian Cosgrove]]. The cutouts and backgrounds would be based upon illustrations from ''The Railway Series''. The pilot episode was completed by early 1976, but Granada ultimately decided not to produce a full series, as they feared that at the time Awdry's stories were not popular enough outside the UK to justify investing the time and money needed to make the series.<ref>{{Cite book|title=Unmasked|last=Lloyd Webber|first=Andrew|pages=Chapter 20: The Song That Cleared the Dance Floors}}</ref> Andrew Lloyd Webber later established the [[Really Useful Group]] in 1977, a name derived from the phrase "Really Useful Engine". He would go on to work on a musical loosely inspired by ''The Railway Series'', called ''[[Starlight Express]]'', which premiered in 1984, and became one of his most well-known works.
+
+===Early years and the series' success===
+In 1979, British television producer [[Britt Allcroft]] was producing a documentary on the [[Bluebell Railway]],<ref name="SIFhistory" /><ref name="TLC" /> a [[heritage railway]] in Sussex which featured in the ''Railway Series'' book ''[[List of Railway Series books#Stepney the ''Bluebell'' Engine|Stepney the ''Bluebell'' Engine]]''.<ref name="bluebellfaq">{{cite web|title=Bluebell Railway – FAQ|url=http://www.bluebell-railway.co.uk/bluebell/faq.html|url-status=live|archive-url=https://web.archive.org/web/20140213051218/http://www.bluebell-railway.co.uk/bluebell/faq.html|archive-date=13 February 2014|access-date=19 February 2014|publisher=[[Bluebell Railway]]}}</ref> As part of her research before filming, Allcroft read some books in ''The Railway Series'' and was highly entertained and impressed with the stories which Awdry had written, later remarking that "there was something in the stories that I felt I could develop that would connect with children. I saw a strong emotional content that would carry with little children's experiences with life."<ref name="TLC" />
+
+Allcroft worked to convince Awdry that she could, with funding, convert the stories into a successful television show. Her efforts were successful, and she purchased the television rights from the publishers of ''The Railway Series'' at a cost of what was then £50,000 ($74,000 in U.S. dollars at the time).<ref name="SIFhistory" /><ref name="TLC" /> Allcroft still had to work to raise the money to finance production and, despite showing a keen interest, wanted a level of creative control which she did not want to forego. In the end, after several years of searching and having to place a second mortgage on her home, Allcroft raised sufficient funding from her local bank manager.<ref name="SIFhistory" /><ref name="TLC" /><ref name="1billionmirror">{{cite news|url=https://www.mirror.co.uk/3am/celebrity-news/thomas-the-1billion-tank-engine-196858|title=Thomas the £1billion Tank Engine|date=23 January 2010|work=[[Daily Mirror]]|access-date=19 February 2014}}</ref><ref name="60minsdoc">{{cite AV media| year =1995| title =Thomas & Friends|medium = Television production| url =https://www.youtube.com/watch?v=cTyMpUBc0XU| access-date =19 February 2014| time = 2:50| publisher = [[60 Minutes (Australian TV program)|60 Minutes]]}}</ref> <!-- https://www.webcitation.org/6NVJaNJVM?url=https://www.youtube.com/watch?v=cTyMpUBc0XU might work need to check. Could be presented by [[Charles Wooley]] but I'm not sure. -->
+
+By 1981, Allcroft had secured the finances to produce the show, she started to assemble the crew, including producer and director [[David Mitton]], also the founder of Clearwater Features Ltd.; crew member Steve Asquith; American-born producer [[Robert D. Cardona]]; and composers and songwriters Mike O'Donnell and [[Junior Campbell]], who are also musicians.
+
+The series started production in 1984 by [[Clearwater Features]] Ltd. (Mitton and Cardona's company) and [[ITV (TV network)|ITV]]'s [[Central Independent Television]] region.<ref>{{cite web|url=http://ftvdb.bfi.org.uk/sift/series/16269 |archive-url=https://webarchive.nationalarchives.gov.uk/20100121165848/http://ftvdb.bfi.org.uk/sift/series/16269 |url-status=dead |archive-date=21 January 2010 |title=Bfi &#124; Film & Tv Database &#124; Thomas The Tank Engine And Friends |publisher=Ftvdb.bfi.org.uk |access-date=5 May 2014}}</ref> The series was originally shot and produced with live action models at the Clearwater in house studio in Battersea, a suburb of London, for Series 1. It later relocated to [[Shepperton Studios]], Middlesex, southwest of London for subsequent series. The use of moving models was seen at the time of the series' conception as an effective method of animating the stories. Locomotives and other vehicles were operated by radio controls, while humans and animals were static figures. [[Stop-motion]] was occasionally employed for instances in which a human or animal character would move. [[Traditional animation|Hand-drawn animation]] was used in [[Thomas & Friends (series 3)|Series 3]] to create [[bee]]s (as seen in the episode "Buzz Buzz").
+
+The first series (1984) used stories from the first eight books, along with one specially written by the [[Wilbert Vere Awdry|Rev. W. Awdry]], ''Thomas's Christmas Party''. The second series (1986) used stories from Book No.9 ([[List of Railway Series Books#Edward the Blue Engine|''Edward the Blue Engine'']]) to Book No.30 ([[List of Railway Series Books#More About Thomas the Tank Engine|''More About Thomas the Tank Engine'']]). The latter book was unusual, as it was written specifically by [[Christopher Awdry]] to be adapted by the show. At that time, it was a contractual obligation that the series could only adapt stories that appeared in print. The series also used a story from a Thomas Annual, "Thomas and Trevor", and a specially written stand-alone story, [[List of Railway Series Books#Thomas and the Missing Christmas Tree|''Thomas and the Missing Christmas Tree'']]. One episode ("[[The Missing Coach]]") was in the process of being filmed, but was cancelled mid-way through filming as Allcroft decided it was too confusing for young viewers. The production team went on to use "Better Late Than Never" instead.<ref>{{cite web|title=The Case for the Missing Coach|url=http://www.sodor-island.net/sodorislandessayannex/themissingcoachessay.html|url-status=dead|archive-url=https://web.archive.org/web/20110724073230/http://www.sodor-island.net/sodorislandessayannex/themissingcoachessay.html|archive-date=24 July 2011|access-date=28 November 2010}}</ref> The story "Gordon Goes Foreign" from the ''Railway Series'' book ''The Eight Famous Engines'' was also planned to be adapted but was scrapped due to budgetary limitations.
+
+In between production of the second and third series, the production team were focused in producing two other television series: ''[[Tugs (TV series)|Tugs]]'', which ran for one series in 1989 for [[Television South]] (TVS);<ref name="thomas success">{{cite web|title=Who Drove Thomas To Success?|url=http://www.sodor-island.net/success.html|url-status=dead|archive-url=https://web.archive.org/web/20101129160955/http://www.sodor-island.net/success.html|archive-date=29 November 2010|access-date=17 June 2010|publisher=sodor-island.net}}</ref> and the American television series ''[[Shining Time Station]]'', which repackaged ''Thomas the Tank Engine & Friends'' for the American television market from 1989 to 1996.
+
+Just before production of series three, Clearwater closed on 31 December 1990, with The Britt Allcroft Company becoming the sole producer. Series three was broadcast in 1992 on [[CITV]]. It was made at a cost of £1.3&nbsp;million (approximately $9.3.million in U.S. dollars at the time).<ref name=sibley>{{cite book|last=Sibley|first=Brian|author-link=Brian Sibley|title=The Thomas the Tank Engine Man| publisher=Heinemann|year=1995|page=318|isbn=0-434-96909-5}}</ref>{{Verify source|date=April 2016}} The series was a combination of episodes derived from ''The Railway Series'', stories in the ''Thomas the Tank Engine and Friends'' magazine (written by Andrew Brenner, who would later become the show's head writer starting in Series 16), and a couple of original stories by Allcroft and Mitton.<ref name=sibley />
+
+One of the primary reasons for diverging from the original books was that many of the stories not yet used featured large numbers of new characters, which would be expensive to produce. Another reason was that the producers wanted more stories about [[Thomas the Tank Engine|Thomas]], the nominal main character. Awdry complained that the new stories would be unrealistic (see [[Henry the Green Engine]] for more details).<ref name=sibley /> [[Robert D. Cardona]] left as producer, while [[Britt Allcroft]] joined [[David Mitton]] as co-producer. [[Angus Wright (producer)|Angus Wright]] took over as executive producer.
+
+Series four was first released directly to video between 1994 and 1995 before its broadcast debut on [[ITV (TV network)|ITV]]. The producers planned to introduce some new female characters, including motor car [[Non-rail vehicles (Thomas & Friends)#Caroline|Caroline]], [[People and animals (Thomas the Tank Engine and Friends)#Nancy|Nancy]], and [[People and animals (Thomas the Tank Engine and Friends)#The Refreshment Lady|The Refreshment Lady]].<ref name=sibley2>Sibley, p. 320</ref> Some commentators took this as a response to accusations of [[sexism]] levelled against the series two years earlier.<ref name=sibley3>Sibley, p. 309</ref> In reality, these were not "new" characters, but creations of Awdry from the original ''Railway Series'' books. Series four was almost entirely based on ''The Railway Series''. The [[narrow gauge railway|narrow gauge]] engines were introduced, and were the focus of a number of episodes. Only one original story ("Rusty to the Rescue", written by Allcroft and Mitton) was used, but this took certain elements of plot and dialogue from [[List of Railway Series Books#Stepney the "Bluebell" Engine|''Stepney the "Bluebell" Engine'']].
+
+The fifth series (1998), also first released directly to video before its TV airings on [[Cartoon Network (British and Irish TV channel)|Cartoon Network]], was a radical shift, as all episodes were written by Allcroft and Mitton with no further stories being adapted from the ''Railway Series''. This series saw the introduction of new characters, such as [[Cranky the Crane|Cranky]], [[The Horrid Lorries]] and Old Slow Coach. It also focused on more dramatic and action-oriented plot-lines, with more severe accidents, than in the earlier series.{{citation needed|date=November 2017}} After series 5, Angus Wright stepped down as executive producer. It was also the final series broadcast on Cartoon Network, as [[Nickelodeon (British and Irish TV channel)|Nickelodeon UK]] would eventually acquire the broadcast rights to the show for it to air on their newly created [[Nick Jr. (UK and Ireland)|Nick Jr.]] channel in 1999. CN continued to air older series until their broadcast rights fully expired in 2001.
+
+''[[Thomas and the Magic Railroad]]'' was released in July 2000 in the UK, US, and Canada. It featured new characters created by Allcroft, along with characters from the show that introduced ''Thomas'' to the U.S., ''[[Shining Time Station]]''. Despite high production values and the popularity of the show, the film was criticised by British reviewers who were unfamiliar with ''Shining Time Station''. The movie was well received by young children on both sides of the Atlantic, but made only $19.7&nbsp;million at the box office,<ref name=BOMT&Fgross>{{cite web|url=https://www.boxofficemojo.com/movies/?id=thomasandthemagicrailroad.htm|title=Thomas and the Magic Railroad (2000) – Box Office Mojo|access-date=31 January 2017}}</ref> against a cost of {{cn span|$19&nbsp;million to produce.|date=December 2015}} The film was broadcast on BBC1 on 1 January 2004 and again on 29 December 2008.<ref>{{Cite web | url=https://genome.ch.bbc.co.uk/1fcfa25055254971953bc81c85c9f784| title=Thomas and the Magic Railroad| date=1 January 2004| work=BBC| archive-url=https://web.archive.org/web/20141018005945/http://genome.ch.bbc.co.uk/1fcfa25055254971953bc81c85c9f784| archive-date=18 October 2014| access-date=11 August 2019}}</ref><ref>{{Cite web | url=https://www.bbc.co.uk/programmes/b007c5d1| title=Thomas and the Magic Railroad| date=29 December 2008| work=BBC| archive-url=https://web.archive.org/web/20090105235805/https://www.bbc.co.uk/programmes/b007c5d1| archive-date=5 January 2009| access-date=11 August 2019}}</ref>
+
+===Later years===
+The Britt Allcroft Company (which changed its name to [[Gullane Entertainment]] in 2000) was purchased by [[HiT Entertainment]] in September 2002,<ref>{{cite web|url=http://www.investegate.co.uk/gullane-ent--plc--gul-/rns/offer-by-hit-entertainment/200207050700112286Y/ |title=FE Investegate &#124;Gullane Ent. PLC Announcements &#124; Gullane Ent. PLC: Offer by HIT Entertainment |publisher=Investegate.co.uk |access-date=5 May 2014}}</ref><ref>{{cite web|url=http://www.broadcastnow.co.uk/hit-takes-over-gullane/1154829.article |title=HIT TAKES OVER GULLANE. &#124; Broadcast |publisher=Broadcastnow.co.uk |date=5 September 2002 |access-date=5 May 2014}}</ref> a company specialising in children's entertainment.
+
+The sixth and seventh series continued to introduce action-packed storylines and new characters, and saw the introduction of a writing staff. The sixth series in 2002 was an attempt to create a spin-off based on the successful ''[[Bob the Builder]]'' series. Two episodes introduced a group of construction machine characters known as "The Pack". The spin-off did not materialise for some time. Eventually, in 2006, thirteen episodes were released straight to DVD in two collections: ''On Site with Thomas'' and ''Thomas' Trusty Friends''. It was the first series broadcast on ITV since series 3.
+
+The fact that older sets were used and the episodes were shot on 35mm camera (as opposed to the digital camera used at the time of the episodes' release) suggest it was filmed some time before Series 8. In Series 7 (2003) the programme title was officially shortened to ''Thomas & Friends'', this name having been used on merchandise and video covers for three years previously. Phil Fehrle replaced Allcroft and Mitton as producer, though Mitton remained as the director. Executive producer [[Angus Wright (producer)|Angus Wright]] was replaced by Peter Urie and Allcroft as executive producers for Series 6.
+
+In 2003, Allcroft stepped down as executive producer, making Urie the sole executive producer for [[Gullane Entertainment]], and Jocelyn Stevenson was the executive producer for [[HiT Entertainment]].{{Citation needed|date=June 2018}}
+
+The eighth series (2004) was the first released directly to VHS and DVD as four episodes in the US and six in the UK were released before airing on television on [[Nick Jr. (UK and Ireland)|Nick Jr.]] in the UK and [[PBS]] in the US. It introduced a number of significant changes to the show. Many of the original founding team involved in the original show since 1984 left the production, including Britt Allcroft, director and writer David Mitton, and original composers Mike O'Donnell and [[Junior Campbell]]. The latter two had been embroiled in a protracted legal dispute with HiT before their departure.<ref>{{Cite web|url=https://www.blackstonechambers.com/barristers/barbara-dohmann-qc/|title=Barbara Dohmann QC|website=Blackstonechambers.com|access-date=16 October 2019}}</ref><ref>{{Cite web|url=https://www.blackstonechambers.com/barristers/tom-hickman-/|title=Tom Hickman QC|website=Blackstonechambers.com|access-date=16 October 2019}}</ref> Asquith, who was part of the original production team since 1984, took over as director, while Simon Spencer replaced Phil Fehrle as producer.
+
+A new theme song and incidental music were composed by [[Ed Welch]] and Robert Hartshorne, respectively. Episode runtime was increased to seven minutes. The series was produced using digital video camera, creating a somewhat different look for the show. Other changes included the additions of CGI educational sequences and transitions between stories. Executive producer Peter Urie also left, while Jocelyn Stevenson remained in her role as executive producer. Sam Barlow became the story executive, while Abi Grant and Paul Larson served as script editors. This series saw the adoption of a centralised cast, including [[Thomas the Tank Engine|Thomas]], Edward, [[Henry the Green Engine|Henry]], [[Gordon the Big Engine|Gordon]], [[James the Red Engine|James]], [[Percy the Small Engine|Percy]], [[Toby the Tram Engine|Toby]] and [[Emily (Thomas the Tank Engine)|Emily]].
+
+HiT Entertainment was itself then acquired by [[Apax Partners]], a private equity company, in March 2005.<ref>{{cite web|url=http://www.broadcastnow.co.uk/apax-buys-hit-for-490m/1021616.article |title=Apax buys Hit for £490m &#124; Broadcast |publisher=Broadcastnow.co.uk |date=21 March 2005 |access-date=5 May 2014}}</ref>
+
+A straight-to-video film, ''Calling All Engines!'', was released shortly before Series 9 in 2005. While featuring characters from ''Thomas and the Magic Railroad'', it was not a direct sequel. It proved successful, which resulted in more direct-to-video specials being produced.<ref name=Brosnan>{{cite press release|title=Pierce Brosnan Announced As New Narrator For Thomas & Friends|publisher=HIT Entertainment|date=19 July 2007|url=http://www.hitnewsonline.com/releases/detail/pierce_brosnan_new_narrator_for_thomas_friends/thomas_friends|access-date=29 October 2007|url-status=dead|archive-url=https://web.archive.org/web/20070928181954/http://www.hitnewsonline.com/releases/detail/pierce_brosnan_new_narrator_for_thomas_friends/thomas_friends|archive-date=28 September 2007}}</ref>
+
+Series 9 (2005) and 10 (2006) saw the expansion of the supporting cast with new and old characters. From Series 9 the narrator would call out the episodes' names and from Series 11 the theme song was sung starting with the sound of a [[train whistle]]. Series 10 aired with twenty-eight episodes rather than the twenty-six of previous years. The eleventh series (2007) was filmed in [[high-definition television|high definition]] format. Twenty episodes aired in the original broadcast, while six were released directed to DVD as Engines and Escapades. Jocelyn Stevenson had stepped down as executive producer after Series 10, with Christopher Skala taking her place as executive producer for Series 11. Sharon Miller became the script editor from Series 9 to 11.
+
+Series 12 (2008) saw the introduction of CGI effects (provided by HiT Entertainment's subsidiary [[Hot Animation]]), with the intent of producing the show entirely in CGI the following year.<ref>{{cite web|title=Thomas & Friends and Bob the Builder Move to CGI Animation in 2009 Broadcast Season|url=http://www.hitentertainment.com/PRPDFs/Thomas_and_Bob_CGI_FINAL_6908.pdf|url-status=dead|archive-url=https://web.archive.org/web/20080820071958/http://www.hitentertainment.com/PRPDFs/Thomas_and_Bob_CGI_FINAL_6908.pdf|archive-date=20 August 2008|access-date=1 October 2011}}</ref> The traditional models and sets were still used, but with computer animated faces superimposed on the models to allow for changing facial expressions. Humans and animals were fully computer animated to allow for walking movement. Only twenty episodes were produced and broadcast (the U.S. broadcast featured six additional episodes from ''Engines and Escapades''). Sharon Miller became the head writer, starting with Series 12.
+
+HiT announced multiple changes to the show beginning in 2009. One new aspect was the introduction of live-action host segments to ''Thomas''{{'}} home video releases. The host took the form of a character who worked on The Fat Controller's (Sir Topham Hatt's) railway, who would instruct viewers in craft projects. For the final 2 DVDs released for series 12 in 2009, the host was named Mr. Arkwright, played by Robert Slate. In 2010, beginning with the DVD "Splish Splash Splosh", the host was named Mr. Perkins, played by Ben Forster, and has remained host until Forster died in 2017 after a battle with cancer and was replaced by Mark Moraghan, who played "Mr Evans" in the web series.
+
+For budgetary reasons, the other major changes were a move to production in CGI, rather than using physical models, and the addition of a voice cast to support the established narrator. The DVD feature, ''[[Hero of the Rails]]'', was the first ''Thomas & Friends'' production to showcase these changes, and Series 13 was the first television series in the new format. The CGI animation for the series was provided by Nitrogen Studios of [[Vancouver]].
+
+In September 2010, Apax was preparing to sell off HiT Entertainment and its franchises, including Thomas – regarded as the single most valuable asset – in order to help clear HiT's debts,<ref>{{cite web|url=https://www.deadline.com/2010/09/thomas-the-tank-engine-going-cheap/ |title=Thomas The Tank Engine' For Sale Cheap |date=20 September 2010 |publisher=Deadline London |access-date=5 May 2012}}</ref> and in February 2012, sold the company, along with the Thomas properties, to "US toy giant", [[Mattel]].<ref name="bbcmattel">{{cite web|date=24 October 2011|title=Barbie maker Mattel to buy Thomas the Tank Engine owner|url=https://www.bbc.co.uk/news/business-15430842|url-status=live|archive-url=https://web.archive.org/web/20131027102929/http://www.bbc.co.uk/news/business-15430842|archive-date=27 October 2013|access-date=13 February 2014|work=BBC News|publisher=[[BBC]]}}</ref>
+
+During production of Series 16 (2012), Sharon Miller stepped down as head writer, and Andrew Brenner, who had written some ''Thomas'' stories in the third series, assumed the role after serving as script editor for "Blue Mountain Mystery". Additionally, Sam Barlow stepped down as story executive after the sixteenth series, and the production of the CGI animation was moved from Nitrogen Studios (of Vancouver) to [[Arc Productions]] (of [[Toronto]]).<ref name="torontohitannoucement">{{cite web|url=http://www.hitentertainment.com/corporate/newsdetail.aspx?nid=99|title=Arc Productions Comes on Board As Animation Studio For HIT Entertainment's Thomas & Friends|date=6 February 2012|publisher=[[Hit Entertainment]]|archive-url=https://web.archive.org/web/20140226114651/http://www.hitentertainment.com//corporate/newsdetail.aspx?nid=99|archive-date=26 February 2014|access-date=13 February 2014|url-status=dead}}</ref> ''[[King of the Railway]]'' and Series 17, both released during 2013, serve as the first special and series developed by the new animation and production teams respectively.
+
+2014 saw ''[[Tale of the Brave]]'' and Series 18, the second special and series animated by Arc, respectively. 2015 saw ''[[Thomas & Friends: The Adventure Begins|The Adventure Begins]]'', a special coinciding with the 70th anniversary of the franchise, and ''[[Sodor's Legend of the Lost Treasure]]''; Series 19 began airing that same year. 2016 saw some changes; longtime composers Robert and Peter Hartshorne, father and son team, left the series and Chris Renshaw and Oliver Davis took over. 2016 also saw ''[[Thomas & Friends: The Great Race]]'' and Series 20 began airing the same year. Series 20 was the last series of the show to air on PBS Kids; when Series 21 began airing in 2017, the American broadcast of the show was moved to [[Nick Jr.]], ending a period of almost 28 years of ''Thomas & Friends'' on American public television. 2017 also saw [[Thomas & Friends: Journey Beyond Sodor|''Journey Beyond Sodor'']].<ref>{{Cite press release|title=KUED Bids Farewell to Thomas the Tank Engine|url=https://www.kued.org/pressroom/kued-bids-farewell-to-thomas-the-tank-engine|work=[[KUED]]|date=8 November 2017|access-date=11 August 2019| archive-url=https://web.archive.org/web/20190811143716/https://www.kued.org/pressroom/kued-bids-farewell-to-thomas-the-tank-engine|archive-date=11 August 2019}}</ref> The show was pulled away from Nick Jr. at the end of 2019.<ref name="KidsScreen">{{Cite web | url=https://kidscreen.com/2020/02/13/netflix-picks-up-thomas-and-friends-in-the-us/| title=Netflix picks up Thomas and Friends in the US| last=Whyte| first=Alexandra| date=13 February 2020| work=Kidscreen| archive-url=https://web.archive.org/web/20200214011131/https://kidscreen.com/2020/02/13/netflix-picks-up-thomas-and-friends-in-the-us/| archive-date=14 February 2020| access-date=14 February 2020}}</ref>
+
+A twenty-second series of ''Thomas and Friends'' was announced consisting of 26 episodes with, among many other changes, such as Edward, Henry and Toby being removed from the Steam Team to make room for two new female steam engines named Nia (Africa) and Rebecca (UK),<ref>{{Cite web | url=https://variety.com/2017/tv/features/thomas-the-tank-engine-mipcom-mattel-1202584356/| title=Mattel Sets Thomas The Tank Engine Makeover With Eye on Global Appeal| last=Clarke| first=Stewart| date=14 October 2017| work=[[Variety (magazine)|Variety]]| archive-url=https://web.archive.org/web/20180713021022/https://variety.com/2017/tv/features/thomas-the-tank-engine-mipcom-mattel-1202584356/| archive-date=13 July 2018| access-date=20 July 2019}}</ref> and the narrator has been replaced with Thomas talking to the audience (however, Mark Moraghan, the previous narrator has said that he will still work on the series). Series 22 is set after ''Big World! Big Adventures!'',<ref>{{Cite web | url=https://www.pastemagazine.com/articles/2018/10/thomas-the-tank-engine-thomas-friends-girls.html| title=At Last, Thomas & Friends Discovers a Key Demographic: Girls| last=Amatangelo| first=Amy| date=3 October 2018| work=[[Paste (magazine)|Paste]]| archive-url=https://web.archive.org/web/20190720180927/https://www.pastemagazine.com/articles/2018/10/thomas-the-tank-engine-thomas-friends-girls.html| archive-date=20 July 2019| access-date=20 July 2019}}</ref> which came out on 20 July 2018.<ref>{{Cite web | url=https://fetch.fm/national-amusements/national-amusements-thomas-friendstm-big-world-big-adventures-the-movie/| title=Thomas & Friends™ Big World! Big Adventures! The Movie| date=20 July 2018| publisher=Fetch Publicity| archive-url=https://web.archive.org/web/20190720182227/https://fetch.fm/national-amusements/national-amusements-thomas-friendstm-big-world-big-adventures-the-movie/| archive-date=20 July 2019| access-date=20 July 2019}}</ref> It introduced gender-balanced and multicultural characters, and features a new theme tune.<ref name="independent">{{cite news |url=https://www.independent.co.uk/life-style/thomas-tank-engine-gender-balanced-female-trains-characters-steam-team-revamp-multicultural-a8517981.html|title=Thomas the Tank Engine launches gender-balanced, multi-cultural Steam Team|publisher=The Independent. 1 September 2018 | access-date=2 September 2018}}</ref> The series is split into two-halves; the first half sees Thomas travelling around the world and visiting India, Australia, and China, while the second half takes place back on the Island of Sodor.<ref name="independent"/> The series was released on Netflix, Amazon and [[Hulu]] in the late half of 2018.<ref>{{Cite web | url=https://inews.co.uk/culture/television/thomas-friends-changes-tracks-to-nickelodeon-as-show-pushes-to-become-more-inclusive-meaningful-and-entertaining/| title=Thomas & Friends moves to Nick Jr. as show pushes to become 'more inclusive and entertaining'| last=Bloodworth| first=Adam| date=24 January 2018| work=[[i (newspaper)|i News]]| archive-url=https://web.archive.org/web/20190811014216/https://inews.co.uk/culture/television/thomas-friends-changes-tracks-to-nickelodeon-as-show-pushes-to-become-more-inclusive-meaningful-and-entertaining/| archive-date=11 August 2019| access-date=11 August 2019}}</ref>
+
+''Thomas & Friends'' was renewed for a 23rd series which debuted in 2019.<ref>{{Cite web | url=https://www.usatoday.com/story/life/allthemoms/2019/05/17/exclusive-clip-thomas-friends-premiere-episode/3682301002/| title=Exclusive sneak peek: 'Thomas & Friends' pulls into station with season debut| last=Haller| first=Sonja| date=17 May 2019| work=[[USA Today]]| archive-url=https://web.archive.org/web/20190517102803/https://www.usatoday.com/story/life/allthemoms/2019/05/17/exclusive-clip-thomas-friends-premiere-episode/3682301002/| archive-date=17 May 2019| access-date=17 May 2019}}</ref>
+
+The 24th series was released in September 2020. The series was also the final series animated by [[Jam Filled Entertainment|Jam Filled Toronto]].
+
+A second live-action/animated ''Thomas & Friends'' film is in development at [[Mattel]] with [[Marc Forster]] serving as director.<ref name="2020 Forster">{{cite web|url=https://deadline.com/2020/10/thomas-friends-new-movie-in-the-works-from-mattel-films-marc-forsters-2dux%c2%b2-1234591950/|title=''Thomas & Friends'' New Movie In The Works From Mattel Films & Marc Forster's 2Dux²|work=[[Deadline Hollywood]]|author=Anthony D'Alessandro|date=6 October 2020|access-date=6 October 2020}}</ref>
+
+===Reboot===
+{{See also|Thomas & Friends: All Engines Go}}
+On 12 October 2020, it was announced by Mattel that the series would be rebooted with ''[[Thomas & Friends: All Engines Go]]'' and that [[Nelvana]] would co-produce and animate the series. The deal consists of 104 11-minute episodes and 2 60-minute specials, and that the animation would transition from 3D full CGI animation to 2D animation since its transition to full CGI in 2009, with new refreshed redesigns for Thomas and his Friends.<ref>{{cite press-release|url=https://www.businesswire.com/news/home/20201011005058/en/Mattel-Television-Greenlights-104-New-%E2%80%9CThomas-Friends%C2%AE%E2%80%9D-Television-Episodes-and-2-Specials|title=Mattel Television Greenlights 104 New 'Thomas & Friends' Television Episodes and 2 Specials|date=12 October 2020|access-date=25 October 2020|work=[[Mattel]]|location=El Segundo|agency=[[BusinessWire]]}}</ref> On 5 February 2021, it was announced that [[Cartoon Network]] and Netflix had jointly picked up the broadcast and streaming rights to the series in the United States, respectively.<ref>{{Cite web|last=Whyte|first=Alexandra |date=5 February 2021 |title=Cartoon Network, Netflix snap up new 2D Thomas|url=https://kidscreen.com/2021/02/05/cartoon-network-netflix-snap-up-new-2d-thomas/|access-date=5 February 2021|website=Kidscreen}}</ref>
+
+==Cast==
+{{Main|List of Thomas & Friends voice actors}}
+Originally, [[narrating]] was used as the only voice in the series until 2008. Britt Allcroft thought it essential to convey the episode as a story that would be read from a book at home. Individual voice-over actors were given to both the UK and US dubs of the series, following the switch to full CGI animation in 2009.
+
+==List of productions==
+
+===Television series===
+{{Main|List of Thomas & Friends episodes}}
+{{:List of Thomas & Friends episodes}}
+
+===Films, specials, and miniseries===
+{{Main|Thomas & Friends (franchise)#Direct-to-video specials}}
+
+===Home video history===
+{{Main|Thomas and Friends video releases}}
+Over the history of the programme, the TV episodes and specials have been released for home viewing in a variety of compilations, formats and languages, by a variety of publishing houses.
+<!--Please do NOT list videos here -- there are too many of them.-->
+
+==Production==
+
+===Characters===
+{{see only|List of Thomas & Friends characters}}
+
+===Storytelling===
+Up until series 12, narration and dialogue were performed by a single storyteller. Starting from series 22 up until series 24, Thomas the Tank Engine himself takes over as the narrator.
+
+===Models===
+The original live action models were filmed on an extensive [[model railway]] layout built at the studios. The models were built to the 1:32 scale, known in model railway circles as "[[Gauge 1]]". From Series 1 to 3, the locomotives used chassis made by [[Märklin]] with specially made bodies. Along with the moving-eye and eyelid mechanisms and resin faces, these bodies also included smoke generators. Coaches and trucks were made using Tenmille kits. Later models were constructed entirely from scratch. Some of the models from the sister television series ''[[Tugs (TV series)|Tugs]]'' were reused in later episodes of the series.
+
+From Series 5 to 12, some larger-scale models were used for the [[Skarloey Railway|narrow gauge]] characters, to more easily fit the complex mechanisms into them while retaining a sufficient level of detail. In Series 6, the characters known as "the Pack" (construction machines) were also constructed on a large scale, and larger models of [[Thomas the Tank Engine|Thomas]] and [[Percy the Small Engine|Percy]] were made to interact with them. In the ninth series, another larger Thomas model was built to the same scale as the narrow gauge engines to provide greater possibilities for interaction. It was joined by a large version of [[James the Red Engine|James]] in the tenth series. In 2009, some of these models were put on display in a special exhibit at [[Drayton Manor Theme Park]]'s [[Thomas Land (Drayton Manor)|Thomas Land]].<ref>{{cite web |url=http://www.thomaslanduk.co.uk/Visit/ |title=Thomas Land exhibit |publisher=Thomaslanduk.co.uk |access-date=1 October 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110924185706/http://www.thomaslanduk.co.uk/Visit/ |archive-date=24 September 2011 }}</ref> Nitrogen Studios, who provided the animation for the series from series 12 to 16, also had some of the original models on display.
+
+===Face movements===
+At the show's conception in 1984, live action model animation could not utilise [[lip sync]], but show co-creator [[Britt Allcroft]] and model director [[David Mitton]] did not see this as an inhibition. About 20 years later however, with advancement in technology, the show saw the introduction of [[Computer-generated imagery|CGI]] by HIT Entertainment's subsidiary HOT Animation.<ref>{{cite web|last=Mallory |first=Michael |url=http://entertainment.howstuffworks.com/how-thomas-the-tank-engine-works2.htm |title=How Thomas the Tank Engine Works |publisher=Entertainment.howstuffworks.com |date=6 November 2006 |access-date=1 October 2011}}</ref> At first this was used to generate smoke and other effects, but later, [[HIT Entertainment|HIT]] (then current owners of ''Thomas'') announced its intent to introduce a fully CGI series in 2009.<ref name=newlook>{{cite web|title=Hit reveals new look for Bob and Thomas|work=(Press Release)|publisher=Licensing.biz|date=9 June 2008|url=http://www.licensing.biz/news/1323/NEW-YORK-08-Hit-reveals-new-look-for-Bob-and-Thomas|access-date=9 June 2008|archive-url=https://web.archive.org/web/20080930162911/http://www.licensing.biz/news/1323/NEW-YORK-08-Hit-reveals-new-look-for-Bob-and-Thomas|archive-date=30 September 2008|url-status=dead}}</ref> With Series 12, CGI by Nitrogen Studios was used to animate characters' faces and to make people and animals mobile within the stories. The following series (the show's 13th) saw a transition to full CGI animation.
+
+===Music===
+Mike O'Donnell and [[Junior Campbell]] composed the show's original main title theme, incidental music and songs, which were used for series 1–7 comprising 182 episodes between 1984 and 2003. The instruments for series 1–2 was the [[Roland Jupiter-6]] and instrumentals for series 3–7 was the [[E-mu Proteus]] sound module.<ref>{{cite web |title=Mike O' Donnell |url=https://www.sodor-island.com/mike-o-donnell |website=Sodor Island Fansite|access-date=12 May 2021}}</ref>
+
+In 2004, Robert Hartshorne took O'Donnell and Campbell's place as composer, while [[Ed Welch]] became the show's songwriter from Series 8 to ''[[The Great Discovery]]'', and Welch left after ''The Great Discovery''. Hartshorne took his place as songwriter from Series 12 and onwards. From ''[[Day of the Diesels]]''/2011-2016, Robert's son Peter Hartshorne helped him with the music.
+
+In 2016, the Hartshornes left the series and Chris Renshaw and Oliver Davis took their places.
+
+===Head writer===
+{{more citations needed section|date=April 2017}}
+Since series 12, there has been a [[head writer]] for the series. Prior to the introduction of a head writer, the [[script editor]] performed similar duties. Sharon Miller served as head writer from series 12–16 and stepped down after series 16 and was replaced by Andrew Brenner, who had written many "Thomas" stories for various magazines as well as his own original stories, several of which were later adapted for television episodes for [[Thomas and Friends (series 3)|Series 3]] and [[Thomas and Friends (series 5)|Series 5]], for which he had remained uncredited. Brenner had been a writer of several other children's animated series, such as ''[[Angelina Ballerina (TV series)|Angelina Ballerina]]'', ''[[Tractor Tom]]'', ''[[Fireman Sam]]'', ''[[Spot (franchise)|Spot]]'', ''[[Poppy Cat]]'', and ''[[Binka]]'', as well as being the creator of ''[[Caribou Kitchen]]'', and ''[[Humf]]'' and writer for several magazines featuring children's characters such as ''[[The Real Ghostbusters]]'', ''Fireman Sam'', and Thomas's sister series ''[[Tugs (TV series)|Tugs]]'' and has written scripts and took over as head writer for Thomas for ''[[King of the Railway]]'' until the twenty-third series. [[David Stoten]] succeeded him as head writer for the twenty-fourth series. Sharon Miller has also been the voice director since the second CGI animated film ''[[Misty Island Rescue]]'', and continues to work on the series in this capacity.
+
+;'''Script editors'''
+* Abi Grant (series 6)
+* Jan Page (series 7)
+* Abi Grant and Paul Larson (series 8)
+* Sharon Miller (series 9-11)
+* Becky Evans (series 16, last few episodes)
+
+;'''Head writer'''
+* Sharon Miller (series 12–16)
+* Andrew Brenner (series 17–23)
+* [[David Stoten]] (series 24)
+
+==Broadcast==
+In the United Kingdom, ''Thomas & Friends'' was originally broadcast on [[ITV (TV network)|ITV]] until 2006. Since then it has been broadcast on [[Channel 5 (UK)|Channel 5]]'s [[Milkshake!]] strand.
+
+In the United States, the series had first appeared only as sequences on ''[[Shining Time Station]]'' during the program's run from 1989 to 1995 on [[PBS]]. The sequences of the series later aired in 1996 on ''[[Mr. Conductor's Thomas Tales]]''. The series aired as ''[[Storytime with Thomas]]'' on Fox Family (now [[Freeform (TV channel)|Freeform]]) from 1999 to 2001. When ''Thomas & Friends'' returned as a stand-alone half-hour program on [[PBS Kids]], it was first distributed from 2004 to 2007 by [[Connecticut Public Television]], and then by [[WNET]] from 2008 to 2017. It also aired on [[Universal Kids|Sprout]] from 2005 to 2015. The rights to broadcast the series through [[PBS]] expired in December 2017,<ref>{{cite web|url=https://www.facebook.com/ThomasandFriendsUS/photos/a.206122079555.129293.160515869555/10155911570659556/?type=3&theater|title=Celebrate the holidays with Thomas & Friends! New on Nick starting tomorrow, Friday 12/15!|work=Thomas and Friends Facebook page|publisher=Hit Entertainment}}{{Primary source inline|date=July 2019}}</ref> thus ending a period of almost 30 years of programming related to ''Thomas & Friends'' on American public television. In 2018 and 2019, [[Nickelodeon]] held exclusive rights to the series in the United States. In 2020, the streaming rights were sold to [[Netflix]], with traditional television rights (if any) left unresolved.<ref>{{Cite web|url=https://kidscreen.com/2020/02/13/netflix-picks-up-thomas-and-friends-in-the-us/|title=Netflix picks up Thomas & Friends in the US|access-date=17 February 2020}}</ref> It also airs on [[Kabillion]].<ref>{{cite web|url=https://www.kabillion.com/thomas-and-friends|title=Thomas and Friends|publisher=Kabillion|access-date=15 January 2021}}</ref>
+
+The program airs in Australia on [[ABC Kids (Australia)|ABC Kids]] and on [[Four (New Zealand)|Four]] in New Zealand. In France and Spain, it plays on [[Disney Junior]]. In Canada, it formerly aired on [[TVOKids]], [[Family Jr.]] and the [[Knowledge Network]] as a part of its Knowledge Kids block, and currently airs on [[Treehouse TV]]. In the Middle East, the show airs on [[MBC 3]] and [[Spacetoon]], and in the United Arab Emirates on [[e-Junior]].
+
+===Other dubs===
+{| class="wikitable"
+!Language
+!Title
+!Channel
+!Notes
+!Country
+|-
+|[[Mandarin Chinese]]
+|{{lang|zh-Hans|托马斯和朋友}}/{{lang|zh-Hant|湯瑪士小火車}}
+|[[China Central Television|CCTV]] (China)/[[Momo Kids]] (Taiwan)
+|The series is known in China as {{lang|zh-Hans|托马斯和朋友}} and in Taiwan as {{lang|zh-Hant|湯瑪士小火車}}, and is dubbed in Mandarin Chinese with Simplified and Traditional Chinese subtitles. The series is narrated by [[Jiang Guangtao]] in China and Guan Zhihong in Taiwan.
+|[[China]] and [[Taiwan]]
+|-
+|[[Japanese language|Japanese]]
+|きかんしゃトーマスとなかまたち
+|[[NHK Educational TV]]
+|The series in Japan is known as {{Nihongo||きかんしゃトーマスとなかまたち|Thomas the Tank Engine and Friends}}, and is dubbed in Japanese.<ref>{{Cite web|title=きかんしゃトーマスとなかまたち|trans-title=Thomas The Tank Engine And Friends|url=https://www6.nhk.or.jp/anime/program/detail.html?i=thomas|url-status=live|access-date=4 March 2021|website=nhk.or.jp}}</ref>
+|[[Japan]]
+|-
+|[[Brazilian Portuguese]]
+|Thomas e Seus Amigos
+|[[Discovery Kids (Latin American TV channel)|Discovery Kids (Brazil)]]
+|The series in Brazil is known as ''Thomas e Seus Amigos'', and is dubbed in Brazilian Portuguese.{{citation needed|date=June 2018}} It even has an official YouTube channel known as Thomas e Seus Amigos.<ref>{{cite web|title=Thomas e Seus Amigos|url=https://www.youtube.com/user/ThomaseSeusAmigos/videos|access-date=11 June 2018|website=[[YouTube]]}}</ref>
+|[[Brazil]]
+|-
+|[[Latin American Spanish]]
+|Thomas y Sus Amigos
+|[[Discovery Kids (Latin American TV channel)|Discovery Kids]]
+|The series in Spanish-speaking countries in Latin America, is known as ''Thomas y Sus Amigos'', also known as its English title as of individual episodes from the [[Thomas & Friends (series 13)|thirteenth season]], and is dubbed into Latin American Spanish. It even has an official YouTube channel known as Thomas & Friends Latinoamérica.<ref>{{cite web|title=Thomas & Friends Latinoamérica|url=https://www.youtube.com/user/ThomasFriendsLATAM/videos|access-date=21 February 2021|website=[[YouTube]]}}</ref>
+|[[Mexico]], [[Argentina]], [[Bolivia]], [[Chile]], [[Colombia]], [[Ecuador]], [[Paraguay]], [[Peru]], [[Uruguay]] and [[Venezuela]]
+|-
+|[[Azerbaijani language|Azerbaijani]]
+|Tomas və Dostları
+|[[ANS TV]]
+|The series in Azerbaijan is known as ''Tomas və Dostları'', and is dubbed with audio in Azerbaijani.
+|[[Azerbaijan]]
+|-
+|[[European Portuguese]]
+|Thomas e os Seus Amigos
+|[[Canal Panda]]/[[Zig Zag (RTP)|RTP2 ZigZag]]
+|The series in Portugal is known as ''Thomas e os Seus Amigos'', and is dubbed into European Portuguese.
+|[[Portugal]]
+|-
+|[[European Spanish]]
+|Thomas y Sus Amigos
+|RTVE [[Clan (TV channel)|Clan]]
+|The series in Spain, is known as ''Thomas y Sus Amigos'', and is dubbed into European Spanish.
+|[[Spain]]
+|-
+|[[Catalan language|Catalan]]
+|En Thomas i els Seus Amics
+|[[YouTube TV]]
+|The series in Catalonia, Spain is known as ''En Thomas i els Seus Amics'', and is dubbed in Catalan.
+|[[Catalonia]] (Spain)
+|-
+|[[Romanian language|Romanian]]
+|Thomas şi Prietenii Săi
+|[[Minimax (TV channel)|Minimax TV]]
+|The series in Romania is known as ''Thomas şi Prietenii Săi'', or ''Locomotiva Thomas şi Prietenii Săi'', and is dubbed in Romanian.
+|[[Romania]]
+|-
+|[[Hebrew language|Hebrew]]
+|תומס הקטר<br>תומס הקטר וחברים
+|[[Hop! Channel]]<br>[[Israeli Educational Television]]
+|The series in Israel is known as תומס הקטר and תומס הקטר וחברים, and is dubbed in Hebrew.
+|[[Israel]]
+|}
+
+==Reception==
+
+===Critical response===
+[[Common Sense Media]] rated the show a 4 out of 5 stars stating: {{Quote|Parents can be assured that this series has educational aspects as well as behavioural modelling. The Thomas the Tank Engine stories were conceived by a young British boy early in the 20th century, who would listen to the trains as they chuffed through the countryside. The stories he told his son – who has consequently passed them on to his own son – have been documented in books and toy train models. Since the series was introduced to television viewers in the 1980s, Thomas & Friends has seen a healthy fan base sprout worldwide.<ref>{{cite web|url=https://www.commonsensemedia.org/tv-reviews/thomas-friends|title=Thomas & Friends – TV Review|date=14 June 2007|access-date=31 January 2017}}</ref>}}
+
+Jessica Roake wrote in ''[[Slate (magazine)|Slate]]'' that the series reflects "true “[[white man’s burden]]” style [[British imperialism]]", and in regards to Hatt, "One suspects that Sir Topham Hatt spent some time in colonial India."<ref name=Roake>{{cite web|last=Roake|first=Jessica|url=https://slate.com/culture/2011/07/thomas-the-tank-engine-the-popular-children-s-show-is-sadly-nostalgic-for-british-imperialism.html|title=Thomas the Imperialist Tank Engine|work=[[Slate (magazine)|Slate]]|date=2011-07-26|accessdate=2021-07-13}}</ref> Roake acknowledged that the show since 2003 had more diverse characters.<ref name=Roake/> Jia Tolentino in ''[[The New Yorker]]'' acknowledged that as a girl she did not "take in anything that was actually happening", but after reviewing the show and internet posts about it as an adult, criticised what she saw as the "show’s repressive, authoritarian soul."<ref>{{cite web|last=Tolentino|first=Jia|url=https://www.newyorker.com/culture/rabbit-holes/the-repressive-authoritarian-soul-of-thomas-the-tank-engine-and-friends|title=The Repressive, Authoritarian Soul of "Thomas the Tank Engine & Friends"|work=[[The New Yorker]]|date=2017-09-28|accessdate=2021-07-13}}</ref>
+
+[[University of Alberta]] professor Shauna Wilton wrote "A Very Useful Engine: The Politics of Thomas and Friends". Wilton, who justified her study by arguing that socialization of children is an important aspect, wrote that she received "a combination of outrage, disbelief, and condescending dismissal" when she announced she was going to study the politicization of the series, although some people gave her thanks.<ref>Wilton, p. [https://books.google.com/books?id=CsnMCQAAQBAJ&pg=PA20 20].</ref> She stated that despite the inclusion of female characters by the 2000s, in the era after major social revolutions in real life the series was "largely unchanged" from when it was "created in a context of rigid social hierarchies, male dominance in the public sphere, and a strong social culture of good behavior, respecting authority, and following the rules."<ref>Wilton, p. [https://books.google.com/books?id=CsnMCQAAQBAJ&pg=PA21 21]-[https://books.google.com/books?id=CsnMCQAAQBAJ&pg=PA22 22].</ref>
+
+===Internet popularity===
+In the 2010s, ''Thomas & Friends'' became the subject of several [[internet meme]]s such as "Thomas' [[O-face]]" and "[[The Fat Controller]] Laughed"<ref>{{cite web|title=22 Funniest Things The Internet Has Ever Done With Thomas The Tank Engine|url=http://www.smosh.com/smosh-pit/memes/24-funniest-things-internet-has-ever-done-thomas-tank-engine|url-status=dead|archive-url=https://web.archive.org/web/20160116023801/http://www.smosh.com/smosh-pit/memes/24-funniest-things-internet-has-ever-done-thomas-tank-engine|archive-date=16 January 2016|access-date=26 August 2018|publisher=[[smosh]]}}</ref> and was even the centrepiece of an article for ''[[The New Yorker]]'',<ref>{{cite magazine|url=https://www.newyorker.com/culture/rabbit-holes/the-repressive-authoritarian-soul-of-thomas-the-tank-engine-and-friends|title=The Repressive Authoritarian Soul of Thomas the Tank Engine|magazine=[[The New Yorker]]|access-date=24 October 2017}}</ref> which explored supposedly [[authoritarian]] [[subtext]]s present in the show.
+
+==Notes==
+{{notelist}}
+
+==References==
+* {{cite book|last=Wilton|first=Shauna|chapter=A Very Useful Engine: The Politics of ''Thomas and Friends''|editor=Nieguth, Tim|title=The Politics of Popular Culture: Negotiating Power, Identity, and Place|publisher=[[McGill-Queen's Press]]|date=2015-01-01|isbn=<!--Old: 0773596860-->9780773596863|pages=[https://books.google.com/books?id=CsnMCQAAQBAJ&pg=PA19 19]-}}
+
+===Notes===
+{{Reflist}}
+
+<!--spacing-->
+
+==External links==
+{{Commons category|Thomas the Tank Engine and Friends|Thomas and Friends}}
+{{Wikiquote|Thomas and Friends}}
+
+===Official websites===
+* {{official website|1=http://www.thomasandfriends.com/}}
+* [https://web.archive.org/web/20120513085958/http://www.awdry.family.name/index.htm Awdry Family Site]
+
+===Other sites===
+* {{IMDb title|0086815|Thomas the Tank Engine and Friends}}
+
+{{Thomas}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Thomas And Friends}}
+[[Category:Thomas & Friends| ]]
+[[Category:The Railway Series]]
+[[Category:1984 British television series debuts]]
+[[Category:2021 British television series endings]]
+[[Category:1980s British animated television series]]
+[[Category:1980s British children's television series]]
+[[Category:1990s British animated television series]]
+[[Category:1990s British children's television series]]
+[[Category:2000s British animated television series]]
+[[Category:2000s British children's television series]]
+[[Category:2010s British animated television series]]
+[[Category:2010s British children's television series]]
+[[Category:2020s British animated television series]]
+[[Category:2020s British children's television series]]
+[[Category:British children's animated adventure television series]]
+[[Category:British children's animated comedy television series]]
+[[Category:British children's animated fantasy television series]]
+[[Category:British computer-animated television series]]
+[[Category:English-language television shows]]
+[[Category:Channel 5 (British TV channel) original programming]]
+[[Category:George Carlin]]
+[[Category:ITV children's television shows]]
+[[Category:Direct-to-video television series]]
+[[Category:Nick Jr. original programming]]
+[[Category:Film and television memes]]
+[[Category:Internet memes]]
+[[Category:British preschool education television series]]
+[[Category:Fiction about rail transport]]
+[[Category:British television shows based on children's books]]
+[[Category:Television series by Mattel Creations]]
+[[Category:Television series by WNET]]
+[[Category:Television series created by Britt Allcroft]]
+[[Category:Television series set on fictional islands]]
+[[Category:British television series revived after cancellation]]
+[[Category:Trains in fiction]]
+[[Category:Gullane Entertainment]]

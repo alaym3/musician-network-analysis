@@ -1,0 +1,66 @@
+{{Drugbox
+| verifiedrevid = 470630451
+| IUPAC_name = methyl (5''S'',7''S'',9''S'')- 9-[(2β,3β,4β,5α,12β,19α)- 3-(aminocarbonyl)- 3,4-dihydroxy- 16-methoxy- 1-methyl- 6,7-didehydroaspidospermidin- 15-yl]- 5-ethyl- 5-hydroxy- 1,4,5,6,7,8,9,10-octahydro- 2''H''- 3,7-methanoazacycloundecino[5,4-''b'']indole- 9-carboxylate
+| image = Vindesin.svg
+| image2 = Vindesine ball-and-stick animation.gif
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|vindesine}}
+| pregnancy_AU = D
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 65-75%
+| metabolism = [[Liver|Hepatic]] ([[CYP3A4]]-mediated)
+| elimination_half-life = 24 hours
+| excretion = Biliary and [[Kidney|renal]]
+
+<!--Identifiers-->
+| index2_label = as salt
+| CAS_number2_Ref = {{cascite|correct|CAS}}
+| CAS_number2 = 59917-39-4
+| UNII2_Ref = {{fdacite|correct|FDA}}
+| UNII2 = CPH2U7DNDY
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 53643-48-4
+| ATC_prefix = L01
+| ATC_suffix = CA03
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 219146
+| PubChem = 40839
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00309
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 37302
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RSA8KO39WH
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01769
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 36373
+
+<!--Chemical data-->
+| C=43 | H=55 | N=5 | O=7 
+| smiles = O=C(OC)[C@]4(c2c(c1ccccc1[nH]2)CCN3C[C@](O)(CC)C[C@@H](C3)C4)c5c(OC)cc6c(c5)[C@@]89[C@@H](N6C)[C@@](O)(C(=O)N)[C@H](O)[C@@]7(/C=C\CN([C@@H]78)CC9)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C43H55N5O7/c1-6-39(52)21-25-22-42(38(51)55-5,33-27(13-17-47(23-25)24-39)26-11-8-9-12-30(26)45-33)29-19-28-31(20-32(29)54-4)46(3)35-41(28)15-18-48-16-10-14-40(7-2,34(41)48)36(49)43(35,53)37(44)50/h8-12,14,19-20,25,34-36,45,49,52-53H,6-7,13,15-18,21-24H2,1-5H3,(H2,44,50)/t25-,34+,35-,36-,39+,40-,41-,42+,43+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HHJUWIANJFBDHT-KOTLKJBCSA-N
+}}
+
+'''Vindesine''', also termed Eldisine, is a [[Semisynthesis|semisynthetic]] [[vinca alkaloid]] derived from the flowering plant ''[[Catharanthus roseus]].''<ref name="pmid31228447">{{cite journal | vauthors = Mondal A, Gandhi A, Fimognari C, Atanasov AG, Bishayee A | title = Alkaloids for cancer prevention and therapy: Current progress and future perspectives | journal = European Journal of Pharmacology | volume = 858 | pages = 172472 | date = September 2019 | pmid = 31228447 | doi = 10.1016/j.ejphar.2019.172472 | s2cid = 195298770 }}</ref> Like the natural (e.g. [[vinblastine]] and [[vincristine]]) and semisynthetic vinca alkaloids (e.g. [[vinorelbine]] and [[vinflunine]]) derived from this plant, vindesine is an [[mitotic inhibitor|inhibitor of mitosis]] that is used as a [[chemotherapy]] drug.<ref name="pmid30122223">{{cite journal | vauthors = Martino E, Casamassima G, Castiglione S, Cellupica E, Pantalone S, Papagni F, Rui M, Siciliano AM, Collina S | title = Vinca alkaloids and analogues as anti-cancer agents: Looking back, peering ahead | journal = Bioorganic & Medicinal Chemistry Letters | volume = 28 | issue = 17 | pages = 2816–2826 | date = September 2018 | pmid = 30122223 | doi = 10.1016/j.bmcl.2018.06.044 | s2cid = 52039135 }}</ref> By inhibiting [[mitosis]], vinedsine blocks the proliferation of cells, particularly the rapidly proliferation cells of certain types of cancer. It is used, generally in combination with other chemotherapeutic drugs, in the treatment of various malignancies such as [[leukaemia]], [[lymphoma]], [[melanoma]], [[breast cancer]], and [[lung cancer]].<ref>https://www.cancerresearchuk.org/about-cancer/cancer-in-general/treatment/cancer-drugs/drugs/vindesine</ref>
+
+== References ==
+{{Reflist}}
+
+{{Chemotherapeutic agents}}
+
+[[Category:Vinca alkaloids]]
+[[Category:Mitotic inhibitors]]
+
+{{antineoplastic-drug-stub}}

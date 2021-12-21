@@ -1,0 +1,2726 @@
+{{short description|Bohemian writer from Prague (1883–1924)}}
+{{redirect|Kafka}}
+{{pp-pc|small=yes}}
+{{Use dmy dates|date=November 2021}}
+{{Infobox person
+| image              = Kafka.jpg
+| caption            = Kafka in 1923
+| alt                = Black-and-white photograph of Kafka as a young man with dark hair in a formal suit
+| birth_date         = {{birth date|1883|7|3|df=y}}
+| birth_place        = [[Prague]], [[Kingdom of Bohemia]], [[Cisleithania|Austria-Hungary]]
+| death_date         = {{death date and age|1924|6|3|1883|7|3|df=y}}
+| death_place        = Kierling, part of [[Klosterneuburg]], [[Lower Austria]], [[First Austrian Republic|Austria]]
+| resting_place      = [[New Jewish Cemetery, Prague|New Jewish Cemetery]], [[Žižkov|Prague-Žižkov]]
+| occupation         = {{flatlist|
+* [[Novelist]]
+* short story writer
+* insurance officer
+}}
+| alma_mater         = [[German Charles-Ferdinand University]], Prague
+| citizenship        = {{flatlist|
+* born with General [[Austria]]n citizenship based on [[Austro-Hungarian]] [[Austrian nationality law|nationality law]] of 1867
+* [[Czechoslovakia]] (1918–1924){{sfn|Koelb|2010|p=12}}{{sfn|Czech Embassy|2012}}
+}}
+| parents            = {{plainlist|
+* Hermann Kafka
+* Julie Kafka ([[née]] Löwy)
+}}
+| notable_works      = {{plainlist|
+*  ''[[The Metamorphosis]]''
+* ''[[The Trial]]''
+* "[[The Judgment]]"
+* ''[[The Castle (novel)|The Castle]]''
+* ''[[Contemplation (Kafka)|Contemplation]]''
+* ''[[A Hunger Artist (collection)|A Hunger Artist]]''
+* ''[[Letters to Felice]]''
+}}
+| style              = [[Modernist literature|Modernism]]
+| signature          = Franz Kafka's signature.svg
+}}
+'''Franz Kafka'''{{efn|{{IPAc-en|UK|ˈ|k|æ|f|k|ə}}, {{IPAc-en|US|ˈ|k|ɑː|f|-}};<ref>[http://dictionary.reference.com/browse/kafka "Kafka"] {{Webarchive|url=https://web.archive.org/web/20141226161214/http://dictionary.reference.com/browse/kafka |date=26 December 2014 }}, ''[[Random House Webster's Unabridged Dictionary]]''</ref> {{IPA-de|ˈkafkaː|lang}}; {{IPA-cs|ˈkafka|lang}}; in Czech he was sometimes called '''František Kafka'''.}} (3 July 1883&nbsp;– 3 June 1924) was a [[German-speaking]] [[Bohemia]]n novelist and short-story writer, widely regarded as one of the major figures of [[20th century in literature|20th-century literature]]. His work fuses elements of [[literary realism|realism]] and the [[fantastic]].<ref>{{cite journal|last=Spindler|first=William|title=Magical Realism: A Typology|year=1993|doi=10.1093/fmls/XXIX.1.75|journal=Forum for Modern Language Studies|volume=XXIX|issue=1|pages=90–93}}</ref>  It typically features isolated protagonists facing bizarre or surrealistic predicaments and incomprehensible socio-[[bureaucratic]] powers.  It has been interpreted as exploring themes of [[social alienation|alienation]], [[existential anxiety]], [[guilt (emotion)|guilt]], and [[absurdity]].<ref name="Britannica">{{Britannica|309545}}</ref> His best known works include the short story "[[The Metamorphosis]]"<!-- stories are in quotation marks while novels and story collections are italic, please don't change --> and novels ''[[The Trial]]'' and ''[[The Castle (novel)|The Castle]]''. The term ''[[:en:wikt:Kafkaesque|Kafkaesque]]'' has entered English to describe situations like those found in his writing.{{sfn|Steinhauer|1983|pp = 390–408}}
+
+Kafka was born into a middle-class German-speaking Jewish family in [[Prague]], the capital of the [[Kingdom of Bohemia]], then part of the [[Austro-Hungarian Empire]], today the capital of the [[Czech Republic]].<ref>{{Cite web|url=https://dbs.bh.org.il/luminary/kafka-franz|title=Heroes – Trailblazers of the Jewish People|website=Beit Hatfutsot|access-date=14 November 2019|archive-date=31 July 2020|archive-url=https://web.archive.org/web/20200731194725/https://dbs.bh.org.il/luminary/kafka-franz|url-status=live}}</ref> He trained as a lawyer and after completing his legal education was employed full-time by an insurance company, forcing him to relegate writing to his spare time. Over the course of his life, Kafka wrote hundreds of letters to family and close friends, including his father, with whom he had a strained and formal relationship. He became engaged to several women but never married. He died in 1924 at the age of 40 from [[tuberculosis]].
+
+Few of Kafka's works were published during his lifetime: the story collections ''[[Contemplation (Kafka)|Contemplation]]'' and ''[[A Country Doctor (collection)|A Country Doctor]]'', and individual stories (such as "The Metamorphosis") were published in literary magazines but received little public attention. In his will, Kafka instructed his executor and friend [[Max Brod]] to destroy his unfinished works, including his novels ''The Trial'', ''The Castle'' and {{lang|de|[[Amerika (novel)|Amerika]]}}, but Brod ignored these instructions. His work has influenced a vast range of writers, critics, artists, and philosophers during the 20th and 21st centuries.
+
+== Life ==
+=== Early life ===
+[[File:Kafka's parents c1913.jpg|thumb|Hermann and Julie Kafka]]
+[[File:Kafka-sisters.jpg|thumb|Franz Kafka's sisters, from the left  Valli, Elli, Ottla]]
+
+Kafka was born near the [[Old Town Square (Prague)|Old Town Square]] in [[Prague]],<!-- next to the Church of St Nicholas --> then part of the [[Austro-Hungarian Empire]]. His family were German-speaking middle-class [[Ashkenazi Jews]]. His father, Hermann Kafka (1854–1931), was the fourth child of Jakob Kafka,{{sfn|Gilman|2005|pp=20–21}}{{sfn|Northey|1997|pp=8–10}} a {{lang|he-Latn|shochet}} or [[Shechita|ritual slaughterer]] in [[Osek (Strakonice District)|Osek]], a Czech village with a large Jewish population located near [[Strakonice]] in southern Bohemia.{{sfn|Kohoutikriz|2011}} Hermann brought the Kafka family to Prague. After working as a travelling sales representative, he eventually became a fashion retailer who employed up to 15 people and used the image of a [[Western Jackdaw|jackdaw]] ({{lang|cs|kavka}} in Czech, pronounced and colloquially written as ''kafka'') as his business logo.{{sfn|Brod|1960|pp = 3–5}} Kafka's mother, Julie (1856–1934), was the daughter of Jakob Löwy, a prosperous retail merchant in [[Poděbrady]],{{sfn|Northey|1997|p = 92}} and was better educated than her husband.{{sfn|Gilman|2005|pp = 20–21}}
+
+Kafka's parents probably spoke German, influenced by [[Yiddish]], that was sometimes pejoratively called [[Mauscheldeutsch]], but, as German was considered the vehicle of social mobility, they probably encouraged their children to speak [[Standard German]].{{sfn|Gray|2005|pp = 147–148}} Hermann and Julie had six children, of whom Franz was the eldest.{{sfn|Hamalian|1974|p = 3}} Franz's two brothers, Georg and Heinrich, died in infancy before Franz was seven; his three sisters were Gabriele ("Ellie") (1889–1944), [[Valli Kafka|Valerie]] ("Valli") (1890–1942) and [[Ottla Kafka|Ottilie]] ("Ottla") (1892–1943). All three were murdered in the [[Holocaust]] of World War II. Valli was deported to the [[Łódź Ghetto]] in occupied Poland in 1942, but that is the last documentation of her. Ottilie was Kafka's favourite sister.<ref>{{Cite book|title=The Metamorphosis|last=Kafka|first=Franz|publisher=Simon and Schuster Paperbacks|year=2009|isbn=978-1-4165-9968-5|location=New York|page=ix|ref=none}}</ref>
+
+Hermann is described by the biographer Stanley Corngold as a "huge, selfish, overbearing businessman"{{sfn|Corngold|1972|pp = xii, 11}} and by Franz Kafka as "a true Kafka in strength, health, appetite, loudness of voice, eloquence, self-satisfaction, worldly dominance, endurance, presence of mind, [and] knowledge of human nature".{{sfn|Kafka-Franz, Father|2012}} On business days, both parents were absent from the home, with Julie Kafka working as many as 12&nbsp;hours each day helping to manage the family business. Consequently, Kafka's childhood was somewhat lonely,{{sfn|Brod|1960|p = 9}} and the children were reared largely by a series of governesses and servants. Kafka's troubled relationship<!-- abrupt shift to troubled relationship here; suggest moving down later b/c more to do with later life --><!-- - the father issues have roots in early life, which is why it was put here - --> with his father is evident in his {{lang|de|[[Letter to His Father|Brief an den Vater]]}} (''Letter to His Father'') of more than 100&nbsp;pages, in which he complains of being profoundly affected by his father's authoritarian and demanding character;{{sfn|Brod|1960|pp = 15–16}} his mother, in contrast, was quiet and shy.{{sfn|Brod|1960|pp = 19–20}} The dominating figure of Kafka's father had a significant influence on Kafka's writing.{{sfn|Brod|1960|pp = 15, 17, 22–23}}
+
+The Kafka family had a servant girl living with them in a cramped apartment. Franz's room was often cold. In November 1913 the family moved into a bigger apartment, although Ellie and Valli had married and moved out of the first apartment. In early August 1914, just after World War I began, the sisters did not know where their husbands were in the military and moved back in with the family in this larger apartment. Both Ellie and Valli also had children. Franz at age 31 moved into Valli's former apartment, quiet by contrast, and lived by himself for the first time.{{sfn|Stach|2005|pp = 390–391, 462–463}}
+
+=== Education ===
+
+From 1889 to 1893, Kafka attended the {{lang|de|Deutsche Knabenschule|italic=no}} German boys' elementary school at the {{lang|cs|Masný trh/Fleischmarkt}} (meat market), now known as Masná Street. His Jewish education ended with his ''[[Bar and Bat Mitzvah|bar mitzvah]]'' celebration at the age of 13. Kafka never enjoyed attending the synagogue and went with his father only on four high holidays a year.{{sfn|Kafka-Franz, Father|2012}}{{sfn|Stach|2005|p = 13}}{{sfn|Brod|1960|pp = 26–27}}
+
+[[File:Prague Palace Kinsky PC.jpg|thumb|[[Kinský Palace (Prague)|Kinský Palace]] where Kafka attended [[Gymnasium (Germany)|gymnasium]] and his father owned a shop|alt=An ornate four-storey palatial building]]
+
+After leaving elementary school in 1893, Kafka was admitted to the rigorous classics-oriented state [[Gymnasium (Germany)|gymnasium]], {{lang|de|Altstädter Deutsches Gymnasium|italic=no}}, an academic secondary school at Old Town Square, within the [[Kinský Palace (Prague)|Kinský Palace]]. German was the language of instruction, but Kafka also spoke and wrote in Czech.{{sfn|Hawes|2008|p = 29}}{{sfn|Sayer|1996|pp = 164–210}} He studied the latter at the gymnasium for eight years, achieving good grades.{{sfn|Kempf|2005|pp = 159–160}} Although Kafka received compliments for his Czech, he never considered himself fluent in the language, though he spoke German with a Czech accent.{{sfn|Koelb|2010|p = 12}}{{sfn|Sayer|1996|pp = 164–210}} He completed his [[Matura]] exams in 1901.{{sfn|Corngold|2004|p = xii}}
+
+Admitted to the {{lang|de|[[German Charles-Ferdinand University|Deutsche Karl-Ferdinands-Universität]]|italic=no}} of Prague in 1901, Kafka began studying chemistry but switched to law after two weeks.{{sfn|Diamant|2003|pp = 36–38}} Although this field did not excite him, it offered a range of career possibilities which pleased his father. In addition, law required a longer course of study, giving Kafka time to take classes in German studies and art history.{{sfn|Brod|1960|pp = 40–41}} He also joined a student club, {{lang|de|Lese- und Redehalle der Deutschen Studenten|italic=no}} (Reading and Lecture Hall of the German students), which organised literary events, readings and other activities.{{sfn|Gray|2005|p = 179}} Among Kafka's friends were the journalist [[Felix Weltsch]], who studied philosophy, the actor [[Yitzchak Lowy]] who came from an orthodox [[Hasidic Judaism|Hasidic]] Warsaw family, and the writers [[Ludwig Winder]], [[Oskar Baum]] and [[Franz Werfel]].{{sfn|Stach|2005|pp = 43–70}}
+
+At the end of his first year of studies, Kafka met [[Max Brod]], a fellow law student who became a close friend for life.{{sfn|Gray|2005|p = 179}} Brod soon noticed that, although Kafka was shy and seldom spoke, what he said was usually profound.{{sfn|Brod|1960|p = 40}} Kafka was an avid reader throughout his life;{{sfn|Brod|1960|p = 14}} together he and Brod read Plato's ''[[Protagoras (dialogue)|Protagoras]]'' in the original [[Ancient Greek|Greek]], on Brod's initiative, and [[Flaubert]]'s {{lang|fr|[[Sentimental Education|L'éducation sentimentale]]}} and {{lang|fr|[[The Temptation of Saint Anthony (Flaubert)|La Tentation de St. Antoine]]}} (''The Temptation of Saint Anthony'') in French, at his own suggestion.{{sfn|Brod|1966|pp = 53–54}} Kafka considered [[Fyodor Dostoyevsky]], [[Gustav Flaubert]], [[Nikolai Gogol]], [[Franz Grillparzer]],{{sfn|Stach|2005|p = 362}} and [[Heinrich von Kleist]] to be his "true [[blood brother]]s".{{sfn|Gray|2005|pp = 74, 273}} Besides these, he took an interest in [[Czech literature]]{{sfn|Hawes|2008|p = 29}}{{sfn|Sayer|1996|pp = 164–210}} and was also very fond of the works of [[Johann Wolfgang von Goethe|Goethe]].{{sfn|Brod|1960|pp = 51, 122–124}}{{sfn|Stach|2005|pp = 80–83}} Kafka was awarded the degree of Doctor of Law on 18 July 1906{{efn|Some sources list June (Murray) as Kafka's graduation month and some list July (Brod).{{sfn|Murray|2004|p=62}}{{sfn|Brod|1960|p=78}}}} and performed an obligatory year of unpaid service as law clerk for the civil and criminal courts.{{sfn|Steinhauer|1983|pp = 390–408}}
+
+=== Employment ===
+
+[[File:Na Porici 7, Prague.JPG|thumb|upright|Former home of the Worker's Accident Insurance Institute]]
+
+On 1 November 1907, Kafka was hired at the {{lang|it|[[Assicurazioni Generali]]|italic=no}}, an insurance company, where he worked for nearly a year. His correspondence during that period indicates that he was unhappy with a work schedule—from 08:00 until 18:00{{sfn|Karl|1991|p = 210}}{{sfn|Glen|2007|pp = 23–66}}—that made it extremely difficult to concentrate on writing, which was assuming increasing importance to him. On 15 July 1908, he resigned. Two weeks later, he found employment more amenable to writing when he joined the [[Workers' compensation|Worker's Accident Insurance Institute]] for the [[Kingdom of Bohemia]]. The job involved investigating and assessing compensation for [[personal injury]] to industrial workers; accidents such as lost fingers or limbs were commonplace, owing to poor [[work safety]] policies at the time. It was especially true of factories fitted with [[machine]] [[lathe]]s, [[drill]]s, [[planing machine]]s and [[rotary saw]]s, which were rarely fitted with safety guards.{{sfn|Corngold et al.|2009|p = 28}}
+
+The management professor [[Peter Drucker]] credits Kafka with developing the first civilian [[hard hat]] while employed at the Worker's Accident Insurance Institute, but this is not supported by any document from his employer.{{sfn|Drucker|2002|p = 24}}{{sfn|Corngold et al.|2009|pp = 250–254}} His father often referred to his son's job as an insurance officer as a {{lang|de|Brotberuf}}, literally "bread job", a job done only to pay the bills; Kafka often claimed to despise it. Kafka was rapidly promoted and his duties included processing and investigating compensation claims, writing reports, and handling appeals from businessmen who thought their firms had been placed in too high a risk category, which cost them more in insurance premiums.{{sfn|Stach|2005|pp = 26–30}} He would compile and compose the [[annual report]] on the insurance institute for the several years he worked there. The reports were well received by his superiors.{{sfn|Brod|1960|pp = 81–84}} Kafka usually got off work at 2 P.M., so that he had time to spend on his literary work, to which he was committed.{{sfn|Stach|2005|pp = 23–25}} Kafka's father also expected him to help out at and take over the family fancy goods store.{{sfn|Stach|2005|pp = 25–27}} In his later years, Kafka's illness often prevented him from working at the insurance bureau and at his writing. Years later, Brod coined the term {{lang|de|Der enge Prager Kreis}} ("The Close Prague Circle") to describe the group of writers, which included Kafka, Felix Weltsch and him.{{sfn|Spector|2000|p = 17}}{{sfn|Keren|1993|p = 3}}
+
+In late 1911, Elli's husband Karl Hermann and Kafka became partners in the first [[asbestos]] factory in Prague, known as Prager Asbestwerke Hermann & Co., having used [[dowry]] money from Hermann Kafka. Kafka showed a positive attitude at first, dedicating much of his free time to the business, but he later resented the encroachment of this work on his writing time.{{sfn|Stach|2005|pp = 34–39}} During that period, he also found interest and entertainment in the performances of [[Yiddish theatre]]. After seeing a Yiddish theatre troupe perform in October 1911, for the next six months Kafka "immersed himself in Yiddish language and in Yiddish literature".{{sfn|Koelb|2010|p = 32}} This interest also served as a starting point for his growing exploration of Judaism.{{sfn|Stach|2005|pp = 56–58}} It was at about this time that Kafka became a vegetarian.{{sfn|Brod|1960|pp = 29, 73–75, 109–110, 206}} Around 1915, Kafka received his draft notice for military service in World War{{nbsp}}I, but his employers at the insurance institute arranged for a deferment because his work was considered essential government service. He later attempted to join the military but was prevented from doing so by medical problems associated with [[tuberculosis]],{{sfn|Brod|1960|p = 154}} with which he was diagnosed in 1917.{{sfn|Corngold|2011|pp = 339–343}} In 1918, the Worker's Accident Insurance Institute put Kafka on a pension due to his illness, for which there was no cure at the time, and he spent most of the rest of his life in [[sanatorium]]s.{{sfn|Steinhauer|1983|pp = 390–408}}
+
+=== Private life ===
+Kafka never married. According to Brod, Kafka was "tortured" by sexual desire,{{sfn|Hawes|2008|p = 186}} and Kafka's biographer [[Reiner Stach]] states that his life was full of "incessant womanising" and that he was filled with a fear of "sexual failure".{{sfn|Stach|2005|pp = 44, 207}} Kafka visited brothels for most of his adult life,{{sfn|Hawes|2008|pp = 186, 191}}{{sfn|European Graduate School|2012}}{{sfn|Stach|2005|p = 43}} and was interested in pornography.{{sfn|Hawes|2008|p = 186}} In addition, he had close relationships with several women during his lifetime. On 13 August 1912, Kafka met [[Felice Bauer]], a relative of Brod, who worked in Berlin as a representative of a [[dictaphone]] company. A week after the meeting at Brod's home, Kafka wrote in his diary:
+
+{{blockquote|Miss FB. When I arrived at Brod's on 13 August, she was sitting at the table. I was not at all curious about who she was, but rather took her for granted at once. Bony, empty face that wore its emptiness openly. Bare throat. A blouse thrown on. Looked very domestic in her dress although, as it turned out, she by no means was. (I alienate myself from her a little by inspecting her so closely&nbsp;...) Almost broken nose. Blonde, somewhat straight, unattractive hair, strong chin. As I was taking my seat I looked at her closely for the first time, by the time I was seated I already had an unshakeable opinion.{{sfn|Banville|2011}}{{sfn|Köhler|2012}}}}
+
+Shortly after this meeting, Kafka wrote the story "{{lang|de|[[The Judgment|Das Urteil]]|italic=no}}" ("The Judgment") in only one night and worked in a productive period on {{lang|de|[[Amerika (novel)|Der Verschollene]]}} (''The Man Who Disappeared'') and "[[The Metamorphosis|Die Verwandlung]]" ("The Metamorphosis"). Kafka and Felice Bauer communicated mostly through letters over the next five years, met occasionally, and were engaged twice.{{sfn|Stach|2005|p = 1}} Kafka's extant letters to Bauer were published as {{lang|de|[[Letters to Felice|Briefe an Felice]]}} (''Letters to Felice''); her letters do not survive.{{sfn|Banville|2011}}{{sfn|Seubert|2012}}{{sfn|Brod|1960|pp = 196–197}} According to the biographers Stach and [[James Hawes (author)|James Hawes]], Kafka became engaged a third time around 1920, to Julie Wohryzek, a poor and uneducated hotel chambermaid.{{sfn|Stach|2005|p = 1}}{{sfn|Hawes|2008|pp = 129, 198–199}} Although the two rented a flat and set a wedding date, the marriage never took place. During this time, Kafka began a draft of ''[[Letter to His Father]]'', who objected to Julie because of her [[Zionism|Zionist]] beliefs. Before the date of the intended marriage, he took up with yet another woman.{{sfn|Murray|2004|pp = 276–279}} While he needed women and sex in his life, he had low self-confidence, felt sex was dirty, and was cripplingly shy—especially about his body.{{sfn|Steinhauer|1983|pp = 390–408}}
+
+Stach and Brod state that during the time that Kafka knew Felice Bauer, he had an affair with a friend of hers, Margarethe "Grete" Bloch,{{sfn|Stach|2005|pp = 379–389}} a Jewish woman from Berlin. Brod says that Bloch gave birth to Kafka's son, although Kafka never knew about the child. The boy, whose name is not known, was born in 1914 or 1915 and died in Munich in 1921.{{sfn|Brod|1960|pp = 240–242}}{{sfn|S. Fischer|2012}} However, Kafka's biographer Peter-André Alt says that, while Bloch had a son, Kafka was not the father as the pair were never intimate.{{sfn|Alt|2005|p = 303}}{{sfn|Hawes|2008|pp = 180–181}} Stach points out that there is a great deal of contradictory evidence around the claim that Kafka was the father.{{sfn|Stach|2005|pp = 1, 379–389, 434–436}}
+
+Kafka was diagnosed with tuberculosis in August 1917 and moved for a few months to the [[Bohemia]]n village of Zürau (Siřem in [[Czech language|Czech]]), where his sister Ottla worked on the farm of her brother-in-law Karl Hermann. He felt comfortable there and later described this time as perhaps the best period of his life, probably because he had no responsibilities. He kept diaries and {{lang|de|Oktavhefte}} ([[octavo]]). From the notes in these books, Kafka extracted 109 numbered pieces of text on ''Zettel'', single pieces of paper in no given order. They were later published as {{lang|de|[[The Zürau Aphorisms|Die Zürauer Aphorismen]] oder Betrachtungen über Sünde, Hoffnung, Leid und den wahren Weg}} (The Zürau Aphorisms or Reflections on Sin, Hope, Suffering, and the True Way).{{sfn|Apel|2012|p = 28}}
+
+In 1920, Kafka began an intense relationship with [[Milena Jesenská]], a Czech journalist and writer. His letters to her were later published as {{lang|de|[[Letters to Milena|Briefe an Milena]]}}.{{sfn|Brod|1966|p=389}} During a vacation in July 1923 to [[Graal-Müritz]] on the [[Baltic Sea]], Kafka met [[Dora Diamant]], a 25-year-old kindergarten teacher from an orthodox Jewish family. Kafka, hoping to escape the influence of his family to concentrate on his writing, moved briefly to Berlin (September 1923-March 1924) and lived with Diamant. She became his lover and sparked his interest in the [[Talmud]].{{sfn|Hempel|2002}} He worked on four stories, all of which were intended for publication, including {{lang|de|[[A Hunger Artist (collection)|Ein Hungerkünstler]]}} (''A Hunger Artist'').{{sfn|Brod|1966|p=389}}
+
+=== Personality ===
+Kafka had a lifelong suspicion that people found him mentally and physically repulsive. However, many of those who met him invariably found him to possess a quiet and cool demeanour, obvious intelligence, and a dry sense of humour; they also found him boyishly handsome, although of austere appearance.{{sfn|Janouch|1971|pp = 14, 17}}{{sfn|Fichter|1987|pp = 367–377}}{{sfn|Repertory|2005}}
+
+[[File:Kafka1906 cropped.jpg|thumb|upright|Kafka in 1906]]
+Brod compared Kafka to [[Heinrich von Kleist]], noting that both writers had the ability to describe a situation realistically with precise details.{{sfn|Brod|1966|p = 41}} Brod thought Kafka was one of the most entertaining people he had met; Kafka enjoyed sharing humour with his friends, but also helped them in difficult situations with good advice.{{sfn|Brod|1966|p = 42}} According to Brod, he was a passionate reciter, able to phrase his speech as though it were music.{{sfn|Brod|1966|p = 97}} Brod felt that two of Kafka's most distinguishing traits were "absolute truthfulness" ({{lang|de|absolute Wahrhaftigkeit|italic=no}}) and "precise conscientiousness" ({{lang|de|präzise Gewissenhaftigkeit|italic=no}}).{{sfn|Brod|1966|p = 49}}{{sfn|Brod|1960|p = 47}} He explored details, the inconspicuous, in depth and with such love and precision that things surfaced that were unforeseen, seemingly strange, but absolutely true ({{lang|de|nichts als wahr|italic=no}}).{{sfn|Brod|1966|p = 52}}
+
+Although Kafka showed little interest in exercise as a child, he later developed a passion for games and physical activity,{{sfn|Brod|1960|p = 14}} and was an accomplished rider, swimmer, and rower.{{sfn|Brod|1966|p = 49}} On weekends, he and his friends embarked on long hikes, often planned by Kafka himself.{{sfn|Brod|1966|p = 90}} His other interests included [[Naturopathy|alternative medicine]], modern education systems such as [[Montessori education|Montessori]],{{sfn|Brod|1966|p = 49}} and technological novelties such as airplanes and film.{{sfn|Brod|1966|p = 92}} Writing was vitally important to Kafka; he considered it a "form of prayer".{{sfn|Brod|1960|p = 214}} He was highly sensitive to noise and preferred absolute quiet when writing.{{sfn|Brod|1960|p = 156}}
+
+Pérez-Álvarez has claimed that Kafka may have possessed a [[schizoid personality disorder]].{{sfn|Pérez-Álvarez|2003|pp = 181–194}} His style, it is claimed, not only in "Die Verwandlung" ("The Metamorphosis"), but in various other writings, appears to show low to medium-level schizoid traits, which Pérez-Álvarez claims to have influenced much of his work.{{sfn|Miller|1984|pp = 242–306}} His anguish can be seen in this diary entry from 21 June 1913:{{sfn|McElroy|1985|pp = 217–232}}
+
+{{blockquote|Die ungeheure Welt, die ich im Kopfe habe. Aber wie mich befreien und sie befreien, ohne zu zerreißen. Und tausendmal lieber zerreißen, als in mir sie zurückhalten oder begraben. Dazu bin ich ja hier, das ist mir ganz klar.{{sfn|Sokel|2001|pp = 67–68}}}}
+
+{{blockquote|The tremendous world I have inside my head, but how to free myself and free it without being torn to pieces. And a thousand times rather be torn to pieces than retain it in me or bury it. That, indeed, is why I am here, that is quite clear to me.{{sfn|Kafka|Brod|1988|p = 222}}}}
+
+and in Zürau Aphorism number 50:
+
+{{blockquote|Man cannot live without a permanent trust in something indestructible within himself, though both that indestructible something and his own trust in it may remain permanently concealed from him.{{sfn|Gray|1973|p = 196}}}}
+
+Alessia Coralli and Antonio Perciaccante of San Giovanni di Dio Hospital have posited that Kafka may have had [[borderline personality disorder]] with co-occurring psychophysiological [[insomnia]].<ref>{{cite journal|title=Franz Kafka: An emblematic case of co-occurrence of sleep and psychiatryc disorders|journal = Sleep Science|volume = 9|issue = 1|pages = 5–6|first1=Alessia|last1=Coralli|first2=Antonio|last2=Perciaccante|date=12 April 2016|publisher=Sleep Sci|pmc = 4866976|pmid = 27217905|doi = 10.1016/j.slsci.2016.02.177}}</ref> [[Joan Lachkar]] interpreted ''Die Verwandlung'' as "a vivid depiction of the borderline personality" and described the story as "model for Kafka's own abandonment fears, anxiety, depression, and parasitic dependency needs. Kafka illuminated the borderline's general confusion of normal and healthy desires, wishes, and needs with something ugly and disdainful."{{sfn|Lachkar|1992|p = 30}}
+
+Though Kafka never married, he held marriage and children in high esteem. He had several girlfriends and lovers across his life.{{sfn|Brod|1960|pp = 139–140}} He may have suffered from an eating disorder. Doctor Manfred M. Fichter of the Psychiatric Clinic, [[University of Munich]], presented "evidence for the hypothesis that the writer Franz Kafka had suffered from an atypical [[anorexia nervosa]]",{{sfn|Fichter|1988|pp = 231–238}} and that Kafka was not just lonely and depressed but also "occasionally suicidal".{{sfn|Fichter|1987|pp = 367–377}} In his 1995 book ''Franz Kafka, the Jewish Patient'', [[Sander Gilman]] investigated "why a Jew might have been considered '[[hypochondriacal]]' or 'homosexual' and how Kafka incorporates aspects of these ways of understanding the Jewish male into his own self-image and writing".{{sfn|Gilman|1995|pp = 63ff, 160–163 }} Kafka considered suicide at least once, in late 1912.{{sfn|Brod|1960|p = 128}}
+
+=== Political views ===
+
+Prior to World War&nbsp;I,{{sfn|Brod|1960|p = 86}} Kafka attended several meetings of the ''Klub mladých'', a Czech anarchist, [[Antimilitarism|anti-militarist]], and [[Anti-clericalism|anti-clerical]] organization.{{sfn|Lib.com|2008}} [[Hugo Bergmann]], who attended the same elementary and high schools as Kafka, fell out with Kafka during their last academic year (1900–1901) because "[Kafka's] socialism and my [[Zionism]] were much too strident".{{sfn|Bergman|1969|p = 8}}{{sfn|Bruce|2007|p = 17}} "Franz became a socialist, I became a Zionist in 1898. The synthesis of Zionism and socialism did not yet exist".{{sfn|Bruce|2007|p = 17}} Bergmann claims that Kafka wore a red carnation to school to show his support for socialism.{{sfn|Bruce|2007|p = 17}} In one diary entry, Kafka made reference to the influential anarchist philosopher [[Peter Kropotkin]]: "Don't forget Kropotkin!"{{sfn|Preece|2001|p = 131}}<!-- He later stated, regarding the Czech anarchists: "They all sought thanklessly to realize human happiness. I understood them. But&nbsp;... I was unable to continue marching alongside them for long".{{sfn|Janouch|1998|pp=118–119}}{{failed verification|date=February 2013}} -->
+
+During the communist era, the legacy of Kafka's work for Eastern bloc socialism was hotly debated. Opinions ranged from the notion that he satirised the bureaucratic bungling of a crumbling [[Austria-Hungary|Austro-Hungarian Empire]], to the belief that he embodied the rise of socialism.{{sfn|Hughes|1986|pp = 248–249}} A further key point was [[Marx's theory of alienation]]. While the orthodox position was that Kafka's depictions of alienation were no longer relevant for a society that had supposedly eliminated alienation, a 1963 conference held in [[Liblice]], Czechoslovakia, on the eightieth anniversary of his birth, reassessed the importance of Kafka's portrayal of bureaucracy.{{sfn|Bathrick|1995|pp = 67–70}} Whether or not Kafka was a political writer is still an issue of debate.{{sfn|Socialist Worker|2007}}
+
+=== Judaism and Zionism ===
+{{further|Franz Kafka and Judaism}}
+
+[[File:Franz Kafka 1910.jpg|thumb|upright|Kafka in 1910]]
+
+Kafka grew up in Prague as a German-speaking Jew.{{sfn|History Guide|2006|p=}} He was deeply fascinated by the Jews of Eastern Europe, who he thought possessed an intensity of spiritual life that was absent from Jews in the West. His diary contains many references to [[Yiddish literature|Yiddish writers]].{{sfn|Haaretz|2008|p=}} Yet he was at times alienated from Judaism and Jewish life. On 8 January 1914, he wrote in his diary:{{blockquote|''Was habe ich mit Juden gemeinsam? Ich habe kaum etwas mit mir gemeinsam und sollte mich ganz still, zufrieden damit daß ich atmen kann in einen Winkel stellen.''{{sfn|Alt|2005|p = 430}}
+
+(What have I in common with Jews? I have hardly anything in common with myself and should stand very quietly in a corner, content that I can breathe.){{sfn|Kafka|Brod|1988|p = 252}}{{sfn|Kafka-Franz|2012}} |sign=|source=}}
+
+In his adolescent years, Kafka declared himself an [[atheist]].{{sfn|Gilman|2005|p = 31}}
+
+Hawes suggests that Kafka, though very aware of his own [[Jewish peoplehood|Jewishness]], did not incorporate it into his work, which, according to Hawes, lacks Jewish characters, scenes or themes.{{sfn|Connolly|2008}}{{sfn|Harper's|2008}}{{sfn|Hawes|2008|pp = 119–126}} In the opinion of literary critic [[Harold Bloom]], although Kafka was uneasy with his Jewish heritage, he was the quintessential Jewish writer.{{sfn|Bloom|1994|p = 428}} Lothar Kahn is likewise unequivocal: "The presence of Jewishness in Kafka's {{lang|fr|oeuvre}} is no longer subject to doubt".{{sfn|Kahn|Hook|1993|p = 191}} [[Pavel Eisner]], one of Kafka's first translators, interprets {{lang|de|Der Process}} (''The Trial'') as the embodiment of the "triple dimension of Jewish existence in Prague{{nbsp}}... his protagonist Josef K. is (symbolically) arrested by a German (Rabensteiner), a Czech (Kullich), and a Jew (Kaminer). He stands for the 'guiltless guilt' that imbues the Jew in the modern world, although there is no evidence that he himself is a Jew".{{sfn|Rothkirchen|2005|p = 23}}
+
+In his essay ''Sadness in Palestine?!'', [[Dan Miron]] explores Kafka's connection to Zionism: "It seems that those who claim that there was such a connection and that Zionism played a central role in his life and literary work, and those who deny the connection altogether or dismiss its importance, are both wrong. The truth lies in some very elusive place between these two simplistic poles."{{sfn|Haaretz|2008}} Kafka considered moving to [[Mandatory Palestine|Palestine]] with Felice Bauer, and later with Dora Diamant. He studied [[Hebrew]] while living in Berlin, hiring a friend of Brod's from Palestine, Pua Bat-Tovim, to tutor him{{sfn|Haaretz|2008}} and attending Rabbi Julius Grünthal<ref>Tal, Josef. Tonspur – Auf Der Suche Nach Dem Klang Des Lebens. Berlin: Henschel, 2005. pp. 43–44</ref> and Rabbi [[Julius Guttmann]]'s classes in the Berlin {{lang|de|[[Hochschule für die Wissenschaft des Judentums]]|italic=no}} (College for the Study of Judaism).{{sfn|Brod|1960|p = 196}}
+
+Livia Rothkirchen calls Kafka the "symbolic figure of his era".{{sfn|Rothkirchen|2005|p = 23}} His contemporaries included numerous Jewish, Czech, and German writers who were sensitive to Jewish, Czech, and German culture. According to Rothkirchen, "This situation lent their writings a broad cosmopolitan outlook and a quality of exaltation bordering on transcendental metaphysical contemplation. An illustrious example is Franz Kafka".{{sfn|Rothkirchen|2005|p = 23}}
+
+Towards the end of his life Kafka sent a postcard to his friend Hugo Bergmann in Tel Aviv, announcing his intention to emigrate to Palestine. Bergmann refused to host Kafka because he had young children and was afraid that Kafka would infect them with tuberculosis.{{sfn|Bloom|2011}}
+
+==Death==
+
+[[File:Grave of Kafka.JPG|thumb|upright|Franz Kafka's grave in Prague-Žižkov designed by Leopold Ehrmann|alt=A tapering six-sided stone structure lists the names of three deceased persons: Franz, Hermann, and Julie Kafka. Each name has a passage in Hebrew below it.]]
+
+Kafka's [[Larynx|laryngeal]] [[tuberculosis]] worsened and in March 1924 he returned from Berlin to Prague,{{sfn|Stach|2005|p = 1}} where members of his family, principally his sister Ottla and Dora Diamant, took care of him. He went to Dr. Hoffmann's sanatorium in [[Klosterneuburg|Kierling]] just outside [[Vienna]] for treatment on 10 April,{{sfn|Brod|1966|p = 389}} and died there on 3 June 1924. The cause of death seemed to be starvation: the condition of Kafka's throat made eating too painful for him, and since [[parenteral nutrition]] had not yet been developed, there was no way to feed him.{{sfn|Believer|2006}}{{sfn|Brod|1960|pp = 209–211}} Kafka was editing "A Hunger Artist" on his deathbed, a story whose composition he had begun before his throat closed to the point that he could not take any nourishment.{{sfn|Brod|1960|p = 211}} His body was brought back to Prague where he was buried on 11 June 1924, in the [[New Jewish Cemetery, Prague|New Jewish Cemetery]] in [[Žižkov|Prague-Žižkov]].{{sfn|European Graduate School|2012}} Kafka was virtually unknown during his own lifetime, but he did not consider fame important. He rose to fame rapidly after his death,{{sfn|Brod|1960|p = 214}} particularly after World War II. The Kafka tombstone was designed by architect [[Leopold Ehrmann]].<ref>F. Kafka, ''New Jewish Cemetery'', Prague: Marsyas 1991, p. 56</ref>
+{{clear left}}
+
+== Works ==
+{{further|Franz Kafka bibliography}}
+
+[[File:De Kafka Brief an den Vater 001.jpg|thumb|upright|First page of Kafka's [[Letter to His Father]]|alt=an old letter with text written in German]]
+
+All of Kafka's published works, except some letters he wrote in Czech to Milena Jesenská, were written in German. What little was published during his lifetime attracted scant public attention.
+
+Kafka finished none of his full-length novels and burned around 90 per cent of his work,{{sfn|''New York Times''|2010}}{{sfn|Stach|2005|p = 2}} much of it during the period he lived in Berlin with Diamant, who helped him burn the drafts.{{sfn|Murray|2004|pp = 367}} In his early years as a writer he was influenced by von Kleist, whose work he described in a letter to Bauer as frightening and whom he considered closer than his own family.{{sfn|Furst|1992|p = 84}}
+
+=== Stories ===
+
+<!-- Kafka was a prolific writer of short stories. Some of his published texts were named {{lang|de|Erzählung}} (literally: [[narrative]]), others {{lang|de|Geschichte}} (literally: story). Some stories are relatively long; others are a single paragraph. His oldest surviving story is "Der Unredliche in seinem Herzen" ("The Impure in His Heart"), translated as "[[Shamefaced Lanky and Impure in Heart]]". It was not published but was part of a [[Letters to Family, Friends, and Editors (Franz Kafka)|letter to his friend]] [[Oskar Pollak]] in 1902. -->Kafka's earliest published works were eight stories which appeared in 1908 in the first issue of the literary journal ''[[Hyperion (journal)|Hyperion]]'' under the title {{lang|de|[[Contemplation (Kafka)|Betrachtung]]}} (''Contemplation''). He wrote the story "{{lang|de|[[Description of a Struggle|Beschreibung eines Kampfes]]|italic=no}}" ("Description of a Struggle"){{efn|"{{lang|de|Kampf|italic=no}}" also translates to "fight".}} in 1904; he showed it to Brod in 1905 who advised him to continue writing and convinced him to submit it to ''Hyperion''. Kafka published a fragment in 1908{{sfn|Pawel|1985|pp = 160–163}} and two sections in the spring of 1909, all in Munich.{{sfn|Brod|1966|p = 388}}
+
+In a creative outburst on the night of 22 September 1912, Kafka wrote the story "Das Urteil" ("The Judgment", literally: "The Verdict") and dedicated it to Felice Bauer. Brod noted the similarity in names of the main character and his fictional fiancée, Georg Bendemann and Frieda Brandenfeld, to Franz Kafka and Felice Bauer.{{sfn|Brod|1966|ps = 114f}} The story is often considered Kafka's breakthrough work. It deals with the troubled relationship of a son and his dominant father, facing a new situation after the son's engagement.{{sfn|Ernst|2010}}{{sfn|Hawes|2008|pp = 159, 192}} Kafka later described writing it as "a complete opening of body and soul",{{sfn|Stach|2005|p = 113}} a story that "evolved as a true birth, covered with filth and slime".{{sfn|Brod|1960|p = 129}} The story was first published in Leipzig in 1912 and dedicated "to Miss Felice Bauer", and in subsequent editions "for F."{{sfn|Brod|1966|p = 389}}
+
+In 1912, Kafka wrote "Die Verwandlung" ("[[The Metamorphosis]]", or "The Transformation"),{{sfn|Brod|1966|p = 113}} published in 1915 in Leipzig. The story begins with a travelling salesman waking to find himself transformed into an {{lang|de|ungeheures Ungeziefer|italic=yes}}, a monstrous [[vermin]], {{lang|de|Ungeziefer|italic=yes}} being a general term for unwanted and unclean animals. Critics regard the work as one of the seminal works of fiction of the 20th century.{{sfn|Sokel|1956|pp = 203–214}}{{sfn|Luke|1951|pp = 232–245}}{{sfn|Dodd|1994|pp = 165–168}} The story "[[In the Penal Colony|In der Strafkolonie]]" ("In the Penal Colony"), dealing with an elaborate [[torture]] and execution device, was written in October 1914,{{sfn|Brod|1966|p = 389}} revised in 1918, and published in Leipzig during October 1919. The story "[[A Hunger Artist|Ein Hungerkünstler]]" ("A Hunger Artist"), published in the periodical {{lang|de|[[Neue Rundschau|Die neue Rundschau]]}} in 1924, describes a victimized protagonist who experiences a decline in the appreciation of his strange craft of [[hunger artist|starving himself for extended periods]].{{sfn|Gray|2005|p = 131}} His last story, "[[Josephine the Singer, or the Mouse Folk|Josefine, die Sängerin oder Das Volk der Mäuse]]" ("Josephine the Singer, or the Mouse Folk"), also deals with the relationship between an artist and his audience.{{sfn|Horstkotte|2009}}
+[[File:Kafka's notebook.JPG|alt=Franz Kafka Notebook with words in German and Hebrew. from the Collection of the National Library of Israel.|thumb|Franz Kafka Notebook with words in German and Hebrew.  from the Collection of the [[National Library of Israel|National Library]] of Israel.]]
+
+=== Novels ===
+
+Kafka began his first novel in 1912;{{sfn|Brod|1960|p = 113}} its first chapter is the story "[[The Stoker|Der Heizer]]" ("The Stoker"). He called the work, which remained unfinished, {{lang|de|Der Verschollene}} (''The Man Who Disappeared'' or ''The Missing Man''), but when Brod published it after Kafka's death he named it ''[[Amerika (novel)|Amerika]]''.{{sfn|Brod|1960|pp = 128, 135, 218}} The inspiration for the novel was the time spent in the audience of Yiddish theatre the previous year, bringing him to a new awareness of his heritage, which led to the thought that an innate appreciation for one's heritage lives deep within each person.{{sfn|Koelb|2010|p = 34}} More explicitly humorous and slightly more realistic than most of Kafka's works, the novel shares the [[Motif (narrative)|motif]] of an oppressive and intangible system putting the protagonist repeatedly in bizarre situations.{{sfn|Sussman|1979|pp = 72–94}} It uses many details of experiences of his relatives who had emigrated to America{{sfn|Stach|2005|p = 79}} and is the only work for which Kafka considered an optimistic ending.{{sfn|Brod|1960|p = 137}}
+
+In 1914 Kafka began the novel {{lang|de|[[The Trial|Der Process]]}} (''The Trial''),{{sfn|Brod|1966|p = 388}} the story of a man arrested and prosecuted by a remote, inaccessible authority, with the nature of his crime revealed neither to him nor to the reader. He did not complete the novel, although he finished the final chapter. According to [[List of Nobel laureates in Literature|Nobel Prize winner]] and Kafka scholar [[Elias Canetti]], Felice is central to the plot of ''Der Process'' and Kafka said it was "her story".{{sfn|Stach|2005|pp = 108–115, 147, 139, 232}}{{sfn|Kakutani|1988}} Canetti titled his book on Kafka's letters to Felice ''Kafka's Other Trial'', in recognition of the relationship between the letters and the novel.{{sfn|Kakutani|1988}} Michiko Kakutani notes in a review for ''[[The New York Times]]'' that Kafka's letters have the "earmarks of his fiction: the same nervous attention to minute particulars; the same paranoid awareness of shifting balances of power; the same atmosphere of emotional suffocation—combined, surprisingly enough, with moments of boyish ardour and delight."{{sfn|Kakutani|1988}}
+
+According to his diary, Kafka was already planning his novel {{lang|de|[[The Castle (novel)|Das Schloss]]}} (''The Castle''), by 11 June 1914; however, he did not begin writing it until 27 January 1922.{{sfn|Brod|1966|p = 388}} The protagonist is the {{lang|de|Landvermesser|italic=no}} (land surveyor) named K., who struggles for unknown reasons to gain access to the mysterious authorities of a castle who govern the village. Kafka's intent was that the castle's authorities notify K. on his deathbed that his "legal claim to live in the village was not valid, yet, taking certain auxiliary circumstances into account, he was to be permitted to live and work there".{{sfn|Boyd|2004|p = 139}} Dark and at times [[Surrealism|surreal]], the novel is focused on [[Social alienation|alienation]], [[bureaucracy]], the seemingly endless frustrations of man's attempts to stand against the system, and the futile and hopeless pursuit of an unattainable goal. Hartmut M. Rastalsky noted in his thesis: "Like dreams, his texts combine precise 'realistic' detail with absurdity, careful observation and reasoning on the part of the protagonists with inexplicable obliviousness and carelessness."{{sfn|Rastalsky|1997|p = 1}}
+
+=== Publishing history ===
+
+[[File:Kafka Betrachtung 1912.jpg|thumb|upright|First edition of {{lang|de|[[Contemplation (Kafka)|Betrachtung]]}}, 1912|alt=A simple book cover displays the name of the book and the author]]
+
+Kafka's stories were initially published in literary periodicals. His first eight were printed in 1908 in the first issue of the bi-monthly ''Hyperion''.{{sfn|Itk|2008}} [[Franz Blei]] published two dialogues in 1909 which became part of "Beschreibung eines Kampfes" ("Description of a Struggle").{{sfn|Itk|2008}} A fragment of the story "[[The Aeroplanes At Brescia|Die Aeroplane in Brescia]]" ("The Aeroplanes at Brescia"), written on a trip to Italy with Brod, appeared in the daily ''[[Bohemia (newspaper)|Bohemia]]'' on 28 September 1909.{{sfn|Itk|2008}}{{sfn|Brod|1966|p = 94}} On 27 March 1910, several stories that later became part of the book {{lang|de|[[Contemplation (Kafka)|Betrachtung]]}} were published in the Easter edition of ''Bohemia''.{{sfn|Itk|2008}}{{sfn|Brod|1966|p = 61}} In Leipzig during 1913, Brod and publisher [[Kurt Wolff (publisher)|Kurt Wolff]] included "{{lang|de|Das Urteil. Eine Geschichte von Franz Kafka.|italic=no}}" ("The Judgment. A Story by Franz Kafka.") in their literary yearbook for the art poetry ''Arkadia''. In the same year, Wolff published "[[The Stoker|Der Heizer]]" ("The Stoker") in the Jüngste Tag series, where it enjoyed three printings.{{sfn|Stach|2005|p = 343}} The story "{{lang|de|[[Before the Law|Vor dem Gesetz]]|italic=no}}" ("Before the Law") was published in the 1915 New Year's edition of the independent Jewish weekly {{lang|de|Selbstwehr}}; it was reprinted in 1919 as part of the story collection {{lang|de|[[A Country Doctor (collection)|Ein Landarzt]]}} (''A Country Doctor'') and became part of the novel {{lang|de|Der Process}}. Other stories were published in various publications, including [[Martin Buber]]'s ''[[Der Jude (magazine)|Der Jude]]'', the paper {{lang|cs|[[Prager Tagblatt]]}}, and the periodicals {{lang|de|[[Die neue Rundschau]]}}, ''[[Genius (magazine)|Genius]]'', and ''[[Prager Presse]]''.{{sfn|Itk|2008}}
+
+Kafka's first published book, {{lang|de|Betrachtung}} (''Contemplation'', or ''Meditation''), was a collection of 18{{nbsp}}stories written between 1904 and 1912. On a summer trip to [[Weimar]], Brod initiated a meeting between Kafka and Kurt Wolff;{{sfn|Brod|1966|p = 110}} Wolff published {{lang|de|Betrachtung}} in the {{lang|de|[[Rowohlt Verlag]]}} at the end of 1912 (with the year given as 1913).{{sfn|European Graduate School, Articles|2012}} Kafka dedicated it to Brod, "{{lang|de|Für M.B.|italic=no}}", and added in the personal copy given to his friend "{{lang|de|So wie es hier schon gedruckt ist, für meinen liebsten Max{{nsmdns}}Franz K.|italic=no}}" ("As it is already printed here, for my dearest Max").{{sfn|Brod|1966|p = 115}}
+
+Kafka's story "Die Verwandlung" ("The Metamorphosis") was first printed in the October 1915 issue of {{lang|de|[[Die Weißen Blätter]]}}, a monthly edition of [[expressionism|expressionist]] literature, edited by [[René Schickele]].{{sfn|European Graduate School, Articles|2012}} Another story collection, {{lang|de|Ein Landarzt}} (''A Country Doctor''), was published by Kurt Wolff in 1919,{{sfn|European Graduate School, Articles|2012}} dedicated to Kafka's father.{{sfn|Leiter|1958|pp = 337–347}} Kafka prepared a final collection of four stories for print, {{lang|de|Ein Hungerkünstler}} ''(A Hunger Artist)'', which appeared in 1924 after his death, in {{lang|de|[[Verlag Die Schmiede]]}}. On 20 April 1924, the {{lang|de|[[Berliner Börsen-Courier]]}} published Kafka's essay on [[Adalbert Stifter]].{{sfn|Krolop|1994|p = 103}}
+
+==== Max Brod ====
+[[File:Kafka Der Prozess 1925.jpg|thumb|upright|First edition of {{lang|de|[[The Trial|Der Prozess]]}}, 1925|alt=A simple book cover in green displays the name of the author and the book]]
+
+Kafka left his work, both published and unpublished, to his friend and [[literary executor]] [[Max Brod]] with explicit instructions that it should be destroyed on Kafka's death; Kafka wrote: "Dearest Max, my last request: Everything I leave behind me{{nbsp}}... in the way of diaries, manuscripts, letters (my own and others'), sketches, and so on, [is] to be burned unread."{{sfn|Kafka|1988|loc = publisher's notes}}{{sfn|McCarthy|2009}} Brod ignored this request and published the novels and collected works between 1925 and 1935. He took many papers, which remain unpublished, with him in suitcases to Palestine when he fled there in 1939.{{sfn|Butler|2011|pp = 3–8}} Kafka's last lover, [[Dora Diamant]] (later, Dymant-Lask), also ignored his wishes, secretly keeping 20{{nbsp}}notebooks and 35{{nbsp}}letters. These were confiscated by the [[Gestapo]] in 1933, but scholars continue to search for them.{{sfn|Kafka Project SDSU|2012}}
+
+As Brod published the bulk of the writings in his possession,{{sfn|Contijoch|2000}} Kafka's work began to attract wider attention and critical acclaim. Brod found it difficult to arrange Kafka's notebooks in chronological order. One problem was that Kafka often began writing in different parts of the book; sometimes in the middle, sometimes working backwards from the end.{{sfn|Kafka|2009|p = xxvii}}{{sfn|Diamant|2003|p = 144}} Brod finished many of Kafka's incomplete works for publication. For example, Kafka left {{lang|de|Der Process}} with unnumbered and incomplete chapters and {{lang|de|Das Schloss}} with incomplete sentences and ambiguous content;{{sfn|Diamant|2003|p = 144}} Brod rearranged chapters, copy-edited the text, and changed the punctuation. {{lang|de|Der Process}} appeared in 1925 in {{lang|de|Verlag Die Schmiede}}. Kurt Wolff published two other novels, {{lang|de|Das Schloss}} in 1926 and ''Amerika'' in 1927. In 1931, Brod edited a collection of prose and unpublished stories as {{lang|de|[[The Great Wall of China (collection)|Beim Bau der Chinesischen Mauer]]}} ''(The Great Wall of China)'', including the [[The Great Wall of China (short story)|story of the same name]]. The book appeared in the {{lang|de|[[Gustav Kiepenheuer Verlag]]}}. Brod's sets are usually called the "Definitive Editions".{{sfn|Classe|2000|p = 749}}
+
+==== Modern editions ====
+In 1961 [[Malcolm Pasley]] acquired for the [[University of Oxford|Oxford]] [[Bodleian Library]] most of Kafka's original handwritten works.{{sfn|Jewish Heritage|2012}}{{sfn|Kafka|1998|loc = publisher's notes}} The text for {{lang|de|Der Process}} was later purchased through auction and is stored at the German Literary Archives in [[Marbach am Neckar]], Germany.{{sfn|Kafka|1998|loc = publisher's notes}}{{sfn|O'Neill|2004|p = 681}} Subsequently, Pasley headed a team (including [[Gerhard Neumann]], Jost Schillemeit and Jürgen Born) which reconstructed the German novels; {{lang|de|[[S. Fischer Verlag]]|italic=no}} republished them.{{sfn|Adler|1995}} Pasley was the editor for {{lang|de|Das Schloss}}, published in 1982, and {{lang|de|Der Process}} (''The Trial''), published in 1990. Jost Schillemeit was the editor of {{lang|de|Der Verschollene}} ({{lang|de|Amerika}}) published in 1983. These are called the "Critical Editions" or the "Fischer Editions".{{sfn|Oxford Kafka Research Centre|2012}}
+
+==== Unpublished papers ====
+When Brod died in 1968, he left Kafka's unpublished papers, which are believed to number in the thousands, to his secretary [[Esther Hoffe]].{{sfn|''Guardian''|2010}} She released or sold some, but left most to her daughters, Eva and Ruth, who also refused to release the papers. A court battle began in 2008 between the sisters and the [[National Library of Israel]], which claimed these works became the property of the nation of Israel when Brod emigrated to [[Mandatory Palestine|British Palestine]] in 1939. Esther Hoffe sold the original manuscript of {{lang|de|Der Process}} for US$2&nbsp;million in 1988 to the German Literary Archive [[Museum of Modern Literature]] in Marbach am Neckar.{{sfn|''New York Times''|2010}}{{sfn|Buehrer|2011}} A ruling by a Tel Aviv family court in 2010 held that the papers must be released and a few were, including a previously unknown story, but the legal battle continued.{{sfn|Lerman|2010}} The Hoffes claim the papers are their personal property, while the National Library of Israel argues they are "cultural assets belonging to the Jewish people".{{sfn|Lerman|2010}} The National Library also suggests that Brod bequeathed the papers to them in his will.{{sfn|Rudoren|Noveck|2012}} The Tel Aviv Family Court ruled in October 2012, six months after Ruth's death, that the papers were the property of the National Library. The Israeli Supreme Court upheld the decision in December 2016.{{sfn|Glazer|2017}}
+
+==Critical response==
+=== Critical interpretations ===
+The poet [[W. H. Auden]] called Kafka "the [[Dante]] of the twentieth century";{{sfn|Bloom|2002|p = 206}} the novelist [[Vladimir Nabokov]] placed him among the greatest writers of the 20th century.{{sfn|Durantaye|2007|pp = 315–317}} [[Gabriel García Márquez]] noted the reading of Kafka's "The Metamorphosis" showed him "that it was possible to write in a different way".{{sfn|Kafka-Franz|2012}}{{sfn|Paris Review|2012}} A prominent theme of Kafka's work, first established in the short story "Das Urteil",{{sfn|Gale Research|1979|pp = 288–311}} is father–son conflict: the guilt induced in the son is resolved through suffering and atonement.{{sfn|Brod|1960|pp = 15–16}}{{sfn|Gale Research|1979|pp = 288–311}} Other prominent themes and archetypes include alienation, physical and psychological brutality, characters on a terrifying quest, and mystical transformation.{{sfn|Bossy|2001|p = 100}}
+
+Kafka's style has been compared to that of Kleist as early as 1916, in a review of "Die Verwandlung" and "Der Heizer" by Oscar Walzel in ''Berliner Beiträge''.{{sfn|Furst|1992|p = 83}} The nature of Kafka's prose allows for varied interpretations and critics have placed his writing into a variety of literary schools.{{sfn|Socialist Worker|2007}} [[Marxism|Marxists]], for example, have sharply disagreed over how to interpret Kafka's works.{{sfn|Lib.com|2008}}{{sfn|Socialist Worker|2007}} Some accused him of distorting reality whereas others claimed he was critiquing capitalism.{{sfn|Socialist Worker|2007}} The hopelessness and absurdity common to his works are seen as emblematic of [[existentialism]].{{sfn|Sokel|2001|pp = 102–109}} Some of Kafka's books are influenced by the [[expressionism|expressionist]] movement, though the majority of his literary output was associated with the experimental [[modernism|modernist]] genre. Kafka also touches on the theme of human conflict with bureaucracy. William Burrows claims that such work is centred on the concepts of struggle, pain, solitude, and the need for relationships.{{sfn|Burrows|2011}} Others, such as [[Thomas Mann]], see Kafka's work as allegorical: a quest, metaphysical in nature, for God.{{sfn|Panichas|2004|pp = 83–107}}{{sfn|Gray|1973|p = 3}}<!-- -{{sfn|Mann|Heller|1981|p={{page needed | date = August 2012 }}}} uncomment when page ref found- -->
+
+According to [[Gilles Deleuze]] and [[Félix Guattari]], the themes of alienation and persecution, although present in Kafka's work, have been over-emphasised by critics. They argue Kafka's work is more deliberate and subversive—and more joyful—than may first appear. They point out that reading the Kafka work while focusing on the futility of his characters' struggles reveals Kafka's play of humour; he is not necessarily commenting on his own problems, but rather pointing out how people tend to invent problems. In his work, Kafka often created malevolent, absurd worlds.{{sfn|Kavanagh|1972|pp = 242–253}}{{sfn|Rahn|2011}} Kafka read drafts of his works to his friends, typically concentrating on his humorous prose. The writer [[Milan Kundera]] suggests that Kafka's [[surreal humour|surrealist humour]] may have been an inversion of Dostoyevsky's presentation of characters who are punished for a crime. In Kafka's work, a character is punished although a crime has not been committed. Kundera believes that Kafka's inspirations for his characteristic situations came both from growing up in a patriarchal family and living in a totalitarian state.{{sfn|Kundera|1988|pp = 82–99}}
+
+Attempts have been made to identify the influence of Kafka's legal background and the role of law in his fiction.{{sfn|Glen|2007}}{{sfn|Banakar|2010}} Most interpretations identify aspects of law and legality as important in his work,{{sfn|Glen|2011|pp = 47–94}} in which the legal system is often oppressive.{{sfn|Hawes|2008|pp = 216–218}} The law in Kafka's works, rather than being representative of any particular legal or political entity, is usually interpreted to represent a collection of anonymous, incomprehensible forces. These are hidden from the individual but control the lives of the people, who are innocent victims of systems beyond their control.{{sfn|Glen|2011|pp = 47–94}} Critics who support this [[absurdism|absurdist]] interpretation cite instances where Kafka describes himself in conflict with an absurd universe, such as the following entry from his diary:
+
+{{blockquote|Enclosed in my own four walls, I found myself as an immigrant imprisoned in a foreign country;... I saw my family as strange aliens whose foreign customs, rites, and very language defied comprehension;... though I did not want it, they forced me to participate in their bizarre rituals;... I could not resist.{{sfn|Preece|2001|pp = 15–31}}}}
+
+However, James Hawes argues many of Kafka's descriptions of the legal proceedings in {{lang|de|Der Process}}—metaphysical, absurd, bewildering and nightmarish as they might appear—are based on accurate and informed descriptions of German and Austrian criminal proceedings of the time, which were [[Inquisitorial system|inquisitorial]] rather than [[Adversarial system|adversarial]].{{sfn|Hawes|2008|pp = 212–214}} Although he worked in insurance, as a trained lawyer Kafka was "keenly aware of the legal debates of his day".{{sfn|Banakar|2010}}{{sfn|Ziolkowski|2003|p = 224}} In an early 21st-century publication that uses Kafka's office writings as its point of departure,{{sfn|Corngold et al.|2009|pp = xi, 169, 188, 388}} Pothik Ghosh states that with Kafka, law "has no meaning outside its fact of being a pure force of domination and determination".{{sfn|Ghosh|2009}}
+
+=== Translations ===
+
+The first instance of Kafka being translated into English was in 1925, when William A. Drake published "A Report for an Academy" in'' The New York Herald Tribune''.<ref>{{Cite news|last=Drake|first=William A.|date=1 November 1925|title=A Report for an Academy|page=SM7|work=New York Herald Tribune}}</ref> Eugene Jolas translated Kafka's "The Judgment" for the modernist journal ''transition'' in 1928.<ref>{{Cite web|title=Franz Kafka {{!}} Modernist Archives Publishing Project|url=http://www.modernistarchives.com/person/franz-kafka|access-date=8 April 2021|website=www.modernistarchives.com|archive-date=25 April 2021|archive-url=https://web.archive.org/web/20210425225943/http://www.modernistarchives.com/person/franz-kafka|url-status=live}}</ref> In 1930, [[Edwin Muir|Edwin]] and [[Willa Muir]] 1930 translated the first German edition of {{lang|de|Das Schloss}}. This was published as ''The Castle'' by [[Secker & Warburg]] in England and [[Alfred A. Knopf]] in the United States.{{sfn|''Guardian''|1930}} A 1941 edition, including a homage by Thomas Mann, spurred a surge in Kafka's popularity in the United States during the late 1940s.{{sfn|Koelb|2010|p = 69}} The Muirs translated all shorter works that Kafka had seen fit to print; they were published by [[Schocken Books]] in 1948 as ''[[The Penal Colony: Stories and Short Pieces]]'',{{sfn|Kafka|1948|pp = 3–4}} including additionally ''The First Long Train Journey'', written by Kafka and Brod, Kafka's "A Novel about Youth", a review of Felix Sternheim's ''Die Geschichte des jungen Oswald'', his essay on Kleist's "Anecdotes", his review of the literary magazine ''[[Hyperion (magazine)|Hyperion]]'', and an epilogue by Brod.
+
+Later editions, notably those of 1954 (''[[Dearest Father. Stories and Other Writings]]''), included text, translated by Eithne Wilkins and [[Ernst Kaiser (author)|Ernst Kaiser]],{{sfn|Kafka|1954|loc = publisher's notes}} which had been deleted by earlier publishers.{{sfn|Adler|1995}} Known as "Definitive Editions", they include translations of ''The Trial, Definitive'', ''[[The Castle, Definitive Edition, Muir Translation|The Castle, Definitive]]'', and other writings. These translations are generally accepted to have a number of biases and are considered to be dated in interpretation.{{sfn|Sokel|2001|p = 63}} Published in 1961 by Schocken Books, ''[[Parables and Paradoxes]]'' presented in a bilingual edition by [[Nahum N. Glatzer]] selected writings,{{sfn|Preece|2001|p = 167}} drawn from notebooks, diaries, letters, short fictional works and the novel ''Der Process''.
+
+New translations were completed and published based on the recompiled German text of Pasley and Schillemeit{{nsmdns}}''[[The Castle, Critical Edition, Harman Translation|The Castle, Critical]]'' by [[Mark Harman (translator)|Mark Harman]] ([[Schocken Books]], 1998),{{sfn|Kafka|1998|loc = publisher's notes}} ''The Trial, Critical'' by [[Breon Mitchell]] (Schocken Books, 1998),{{sfn|Preece|2001|pp = xv, 225}} and ''Amerika: The Man Who Disappeared'' by [[Michael Hofmann]] ([[New Directions Publishing]], 2004).{{sfn|Kirsch|2009}}
+
+==== Translation problems to English ====
+{{further|Franz Kafka bibliography#English translations}}
+
+Kafka often made extensive use of a characteristic particular to German, which permits long sentences that sometimes can span an entire page. Kafka's sentences then deliver an unexpected impact just before the full stop—this being the finalizing meaning and focus. This is due to the construction of [[subordinate clauses in German]], which require that the verb be at the end of the sentence. Such constructions are difficult to duplicate in English, so it is up to the translator to provide the reader with the same (or at least equivalent) effect as the original text.{{sfn|Kafka|1996|p = xi}} German's more flexible word order and [[Syntactic ambiguity|syntactical]] differences provide for multiple ways in which the same German writing can be translated into English.{{sfn|Newmark|1991|pp = 63–64}} An example is the first sentence of Kafka's "[[The Metamorphosis#Lost in translation|The Metamorphosis]]", which is crucial to the setting and understanding of the entire story:{{sfn|Bloom|2003|pp = 23–26}}
+
+{{Verse translation|Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheuren Ungeziefer verwandelt.|As Gregor Samsa one morning from restless dreams awoke, found he himself in his bed into a monstrous vermin transformed.|lang=de|attr1=original|attr2=literal word-for-word translation{{sfn|Prinsky|2002}}}}
+
+The sentence above also exemplifies an instance of another difficult problem facing translators: dealing with the author's intentional use of ambiguous [[idiom]]s and words that have several meanings, which results in phrasing that is difficult to translate precisely.{{sfn|Lawson|1960|pp = 216–219}}{{sfn|Rhine|1989|pp = 447–458}} English translators often render the word {{lang|de|Ungeziefer|italic=}} as 'insect'; in Middle German, however, {{lang|de|Ungeziefer|italic=}} literally means 'an animal unclean for sacrifice';"{{sfn|Corngold|1973|p = 10}} in today's German, it means 'vermin'. <!-- Brod referred to it as Insekt, though.{{sfn|Brod|1960|p=? will add when source is found again}} --> It is sometimes used colloquially to mean 'bug'—a very general term, unlike the scientific 'insect'. Kafka had no intention of labeling Gregor, the protagonist of the story, as any specific thing but instead wanted to convey Gregor's disgust at his transformation.{{sfn|Sokel|1956|pp = 203–214}}{{sfn|Luke|1951|pp = 232–245}} Another example of this can be found in the final sentence of "[[Das Urteil]]" ("The Judgement"), with Kafka's use of the German noun {{lang|de|[[wikt:Verkehr|Verkehr]]|italic=}}. Literally, {{lang|de|Verkehr|italic=}} means 'intercourse' and, as in English, can have either a sexual or a non-sexual meaning. The word is additionally used to mean 'transport' or 'traffic', therefore the sentence can also be translated as: "At that moment an unending stream of traffic crossed over the bridge."{{sfn|Kafka|1996|p = 75}} The double meaning of ''Verkehr'' is given added weight by Kafka's confession to Brod that when he wrote that final line he was thinking of "a violent ejaculation."{{sfn|Brod|1960|p = 129}}{{sfn|Hawes|2008|p = 50}}
+
+== Legacy ==
+=== Literary and cultural influence ===
+[[File:Kafka statue Prague.jpg|thumb|upright=.6|[[Jaroslav Róna]]'s bronze ''[[Statue of Franz Kafka]]'' in Prague|alt=The statue is a man with no head or arms, with another man sitting on his shoulders]]
+Unlike many famous writers, Kafka is rarely quoted by others. Instead, he is noted more for his visions and perspective.{{sfn|Hawes|2008|p = 4}} Shimon Sandbank, a professor, literary critic, and writer, identifies Kafka as having influenced [[Jorge Luis Borges]], [[Albert Camus]], [[Eugène Ionesco]], [[J. M. Coetzee]] and [[Jean-Paul Sartre]].{{sfn|Sandbank|1992|pp = 441–443}} Kafka had a strong influence on [[Gabriel García Márquez]]<ref>Hannelore Hahn ''The Influence of Franz Kafka on Three Novels by Gabriel García Márquez'', P.Lang 1993</ref> and the novel ''[[The Palace of Dreams]]'' by [[Ismail Kadare]].<ref>Peter Morgan ''Ismail Kadare: The Writer and the Dictatorship 1957-1990'' Routledge 2017, p.229</ref> A ''Financial Times'' literary critic credits Kafka with influencing [[José Saramago]],{{sfn|''Financial Times''|2009}} and Al Silverman, a writer and editor, states that [[J. D. Salinger]] loved to read Kafka's works.{{sfn|Silverman|1986|pp = 129–130}} Kafka is an influence on the Japanese writer [[Haruki Murakami]], who paid hommage to Kafka in one of his major novels titled ''[[Kafka on the Shore]]'' with the namesake teenage protagonist.<ref>Masaki Mori
+''Haruki Murakami and His Early Work: The Loneliness of the Long-Distance Running Artist'', Rowman & Littlefield 2021</ref>
+
+In 1999 a committee of 99 authors, scholars, and literary critics ranked {{lang|de|Der Process}} and {{lang|de|Das Schloss}} the second and ninth [[Best German Novels of the Twentieth Century|most significant German-language novels of the 20th century]].{{sfn|LiteraturHaus|1999}} [[Harold Bloom]] said "when he is most himself, Kafka gives us a continuous inventiveness and originality that rivals [[Dante]] and truly challenges [[Marcel Proust|Proust]] and [[James Joyce|Joyce]] as that of the dominant Western author of our century".<ref>Harold Bloom ''Franz Kafka'', Infobase Publishing 2010, p.8</ref> Sandbank argues that despite Kafka's pervasiveness, his enigmatic style has yet to be emulated.{{sfn|Sandbank|1992|pp = 441–443}} Neil Christian Pages, a professor of German Studies and Comparative Literature at [[Binghamton University]] who specialises in Kafka's works, says Kafka's influence transcends literature and literary scholarship; it impacts visual arts, music, and popular culture.{{sfn|Coker|2012}} Harry Steinhauer, a professor of German and Jewish literature, says that Kafka "has made a more powerful impact on literate society than any other writer of the twentieth century".{{sfn|Steinhauer|1983|pp = 390–408}} Brod said that the 20th century will one day be known as the "century of Kafka".{{sfn|Steinhauer|1983|pp = 390–408}}
+
+Michel-André Bossy writes that Kafka created a rigidly inflexible and sterile bureaucratic universe. Kafka wrote in an aloof manner full of legal and scientific terms. Yet his serious universe also had insightful humour, all highlighting the "irrationality at the roots of a supposedly rational world".{{sfn|Bossy|2001|p = 100}} His characters are trapped, confused, full of guilt, frustrated, and lacking understanding of their surreal world. Much of the post-Kafka fiction, especially science fiction, follow the themes and precepts of Kafka's universe. This can be seen in the works of authors such as [[George Orwell]] and [[Ray Bradbury]].{{sfn|Bossy|2001|p = 100}}
+
+The following are examples of works across a range of dramatic, literary, and musical genres which demonstrate the extent of Kafka's cultural influence:
+
+{| class="wikitable plainrowheaders sortable" style="text-align: center; margin-right: 0;"
+|-
+! scope="col" | Title
+! scope="col" | Year
+! scope="col" | Medium
+! scope="col" class="unsortable" | Remarks
+! scope="col" class="unsortable" | Ref
+|-
+| [[Ein Landarzt (opera)|''Ein Landarzt'']]
+| 1951
+| opera
+| style="text-align: left;" | by [[Hans Werner Henze]], based on Kafka's story
+| {{sfn|Henze|1951}}
+|-
+| "A Friend of Kafka"
+| 1962
+| short story
+| style="text-align: left;" | by Nobel Prize winner [[Isaac Bashevis Singer]], about a Yiddish actor called Jacques Kohn who said he knew Franz Kafka; in this story, according to Jacques Kohn, Kafka believed in the [[Golem]], a legendary creature from [[Jewish folklore]]
+| {{sfn|Singer|1970|p = 311}}
+|-
+| ''[[The Trial (1962 film)|The Trial]]''
+| 1962
+| film
+| style="text-align: left;" | the film's director, [[Orson Welles]], said, "Say what you like, but The Trial is my greatest work, even greater than [[Citizen Kane]]"
+| {{sfn|Adams|2002|pp = 140–157}}{{sfn|Welles Net|1962}}
+<!-- -|-
+| ''The Chrome Plated Megaphone of Destiny''
+| 1968
+| music
+| style="text-align: left;" | composer [[Frank Zappa]], in the liner notes of the [[Mothers of Invention]] album [[We're Only in It for the Money]], suggests reading the short story [[In the Penal Colony]] before listening to this track.
+| <ref>Mothers of Invention, We're only in it for the money.</ref> – -->
+|-
+| ''[[Watermelon Man (film)|Watermelon Man]]''
+| 1970
+| film
+| style="text-align: left;" | partly inspired by "[[The Metamorphosis]]", where a white bigot wakes up as a black man
+| {{sfn|Elsaesser|2004|p = 117}}
+|-
+| ''[[Klassenverhältnisse]]''
+| 1984
+| film
+| style="text-align: left;" | film adaptation of ''[[Amerika (novel)|Amerika]]'' directed by [[Straub-Huillet]]
+|-
+| ''Kafka-Fragmente, Op.&nbsp;24''
+| 1985
+| music
+| style="text-align: left;" | by Hungarian composer [[György Kurtág]] for soprano and violin, using fragments of Kafka's diary and letters
+| {{sfn|Opera Today|2010}}
+|-
+| ''[[A Letter to Elise]]''
+| 1992
+| music
+| style="text-align: left;" | by English rock band [[The Cure]], was heavily influenced by [[Letters to Felice]] by Kafka
+| <ref>{{Cite web|date=31 March 2021|title=Robert Smith's Reading List|url=https://radicalreads.com/robert-smith-favorite-books/|access-date=30 June 2021|website=Radical Reads|language=en-US|archive-date=9 July 2021|archive-url=https://web.archive.org/web/20210709181709/https://radicalreads.com/robert-smith-favorite-books/|url-status=live}}</ref>
+|-
+| ''[[Kafka's Dick]]''
+| 1986
+| play
+| style="text-align: left;" | by [[Alan Bennett]], in which the ghosts of Kafka, his father Hermann and Brod arrive at the home of an English insurance clerk (and Kafka aficionado) and his wife
+| {{sfn|Times Literary Supplement|2005}}
+|-
+| ''Better Morphosis''
+| 1991
+| short story
+| style="text-align: left;" | parodic short story by [[Brian W. Aldiss]], where a cockroach wakes up one morning to find out that it has turned into Franz Kafka
+| <ref>Aldiss, Brian W. (1991). ''Better Morphosis'', in ''[[The Magazine of Fantasy and Science Fiction]]'', June 1991. Subsequently reprinted in the Aldiss collections ''Bodily Functions'' and ''A Tupolev Too Far and Other Stories''.</ref>
+|-
+| ''[[Northern Exposure]]''
+| 1992
+| television series episode
+| style="text-align: left;" | in the season 3 episode "Cicely", Kafka finds himself in "The Paris of the North" to break his [[writer's block]]. He was invited to town by his letter correspondences' Roslyn and Cicely, who founded the town. In this story, it is claimed that he had thought of the premise of ''The Metamorphosis'' here.
+|
+|-
+| ''Kafka's Hell-Paradise''
+| 2006
+| play
+| style="text-align: left;" | by [[Milan Richter]], in which Kafka re-tells his engagement stories with Felice Bauer and Julie Wohryzek, while all 5 persons use his aphorisms and Kafka tells his dreams; venues: Berlin, Marianske Lazne and Tatranske Matliary
+|
+|-
+| ''Kafka's Second Life''
+| 2007
+| play
+| style="text-align: left;" | by [[Milan Richter]], in which Kafka's life is prolonged by 41 years and Kafka experiences a happy life in Argentina, eventually to return to his Prague on the eve of WWII, with his fiancé and a servant
+|- -->
+|-
+| ''[[Kafka (film)|Kafka]]''
+| 1991
+| film
+| style="text-align: left;" | stars [[Jeremy Irons]] as the [[eponym]]ous author; written by [[Lem Dobbs]] and directed by [[Steven Soderbergh]], the movie mixes his life and fiction providing a semi-biographical presentation of Kafka's life and works; Kafka investigates the disappearance of one of his colleagues, taking Kafka through many of the writer's own works, most notably ''[[The Castle (novel)|The Castle]]'' and ''[[The Trial]]''
+| {{sfn|Writer's Institute|1992}}
+|-
+| ''[[Das Schloß (opera)|Das Schloß]]''
+| 1992
+| opera
+| style="text-align: left;" | German-language opera by [[Aribert Reimann]] who wrote his own [[libretto]] based on [[The Castle (novel)|Kafka's novel]] and its dramatization by Max Brod, premiered on 2 September 1992 at the [[Deutsche Oper Berlin]], staged by [[Willy Decker]] and conducted by [[Michael Boder]].
+| {{sfn|Herbort|1992}}
+|-
+| ''The Metamorphosis of Franz Kafka''
+| 1993
+| film
+| style="text-align: left;" | film adaptation directed by [[Carlos Atanes]].
+|-
+| ''[[Franz Kafka's It's a Wonderful Life]]''
+| 1993
+| film
+| style="text-align: left;" | short comedy film made for [[BBC Scotland]], won an [[Academy Awards|Oscar]], was written and directed by [[Peter Capaldi]], and starred [[Richard E. Grant]] as Kafka
+| {{sfn|''New York Times''|1993}}
+|-
+| ''[[Bad Mojo]]''
+| 1996
+| computer game
+| style="text-align: left;" | loosely based on ''The Metamorphosis'', with characters named Franz and Roger Samms, alluding to [[Gregor Samsa]]
+| {{sfn|Dembo|1996|p = 106}}
+|-
+| ''[[In the Penal Colony (opera)|In the Penal Colony]]''
+| 2000
+| opera
+| style="text-align: left;" | by [[Philip Glass]]
+| {{sfn|Akalaitis|2001}}
+|-
+<!--| ''[[In the Penal Colony (film)|In the Penal Colony]]''
+| 2006
+| film
+| style="text-align: left;" | award-winning short film by [[Sibel Guvenc]]
+| {{sfn|Kybele Films|2006}}
+|- no reference-->
+| ''[[Kafka on the Shore]]''
+| 2002
+| novel
+| style="text-align: left;" | by Japanese writer [[Haruki Murakami]], on ''[[The New York Times]]'' 10 Best Books of 2005 list, [[World Fantasy Award]] recipient
+| {{sfn|Updike|2005}}
+|-
+| ''[[Statue of Franz Kafka]]''
+| 2003
+| sculpture
+| style="text-align: left;" | an outdoor sculpture on Vězeňská street in the Jewish Quarter of Prague, by artist [[Jaroslav Róna]]
+| <ref>{{cite journal |last1=Thomas |first1=Alfred |title=Kafka's Statue : Memory and Forgetting in Postsocialist Prague |journal=Revue des Études Slaves |date=2015 |volume=86 |issue=1/2 |pages=157–169 |jstor=43493528 |doi=10.4000/res.677 |doi-access=free }}</ref>
+|-
+| ''Kafka's Trial''
+| 2005
+| opera
+| style="text-align: left;" | by Danish composer [[Poul Ruders]], based on the novel and parts of Kafka's life; first performed in 2005, released on CD
+| {{sfn|Ruders|2005}}
+|-
+| ''[[Kafka's Soup]]''
+| 2005
+| book
+| style="text-align: left;" | by [[Mark Crick]], is a literary [[Genre parodies|pastiche]] in the form of a [[cookbook]], with recipes written in the style of a famous author
+| {{sfn|Milner|2005}}
+|-
+| ''[[Introducing Kafka]]''
+| 2007
+| graphic novel
+| style="text-align: left;" | by [[Robert Crumb]] and [[David Zane Mairowitz]], contains text and illustrations introducing Kafka's life and work
+|
+|-
+| ''[[A Country Doctor (film)|A Country Doctor]]''
+| 2007
+| short film
+| style="text-align: left;" | by [[Kōji Yamamura]]
+|-
+| "[[Kafkaesque (Breaking Bad)|Kafkaesque]]"
+| 2010
+| TV series
+| style="text-align: left;" | ''[[Breaking Bad]]'' Season 3 episode written by Peter Gould & George Mastras. [[Jesse Pinkman]], at a group therapy meeting, describes his new workplace as a dreary, "totally corporate" laundromat mired in bureaucracy. He complains about his boss and that he's not worthy to meet the owner, whom everyone fears. "Sounds kind of Kafkaesque," responds the group leader.
+|
+|-
+| ''Kafka the Musical''
+| 2011
+| radio play
+| style="text-align: left;" |  by [[BBC Radio 3]] produced as part of their ''Play of the Week'' programme. Franz Kafka was played by [[David Tennant]]
+| {{sfn|BBC|2012}}
+|-
+| ''Sound Interpretations{{snds}}Dedication To Franz Kafka''
+| 2012
+| music
+| style="text-align: left;" | HAZE Netlabel released musical compilation ''Sound Interpretations&nbsp;– Dedication To Franz Kafka''. In this release musicians rethink the literary heritage of Kafka
+| {{sfn|HAZE|2012}}
+|-
+| [[Google logo#Google Doodles|Google Doodle]]
+| 2013
+| internet culture
+| style="text-align: left;" | Google had a [[List of Google Doodles in 2013|sepia-toned doodle]] of a roach in a hat opening a door, honoring Kafka's 130th birthday
+| {{sfn|Bury|2013}}
+|-
+| ''The Metamorphosis''
+| 2013
+| dance
+| style="text-align: left;" | Royal Ballet production of ''The Metamorphosis'' with [[Edward Watson (dancer)|Edward Watson]]
+| {{sfn|Rizzulo|2013}}
+|-
+| ''Café Kafka''
+| 2014
+| opera
+| style="text-align: left;" | by Spanish composer Francisco Coll on a text by Meredith Oakes, built from texts and fragments by Franz Kafka; Commissioned by [[Aldeburgh Music]], [[Opera North]] and [[Royal Opera House|Royal Opera Covent Garden]]
+| {{sfn|Jeal|2014}}
+|-
+| ''[[Head of Franz Kafka]]''
+| 2014
+| sculpture
+| style="text-align: left;" | an outdoor sculpture in [[Prague]] by [[David Černý]]
+| <ref>{{cite web |url=http://www.prague.eu/en/object/places/1886/statue-of-kafka |title=Statue of Kafka |website=Prague.eu |date=2 March 2017 |access-date=5 April 2017 |archive-date=6 April 2017 |archive-url=https://web.archive.org/web/20170406110733/http://www.prague.eu/en/object/places/1886/statue-of-kafka |url-status=live }}</ref>
+|-
+| ''VRwandlung''
+| 2018
+| virtual reality
+| style="text-align: left;" | a virtual reality experience of the first part of [[The Metamorphosis]] directed by [[Mika Johnson]]
+| <ref>{{cite news |url=https://www.economist.com/books-and-arts/2018/03/08/is-literature-next-in-line-for-virtual-reality-treatment |title=Is literature next in line for virtual-reality treatment? |newspaper=The Economist |date=8 March 2018 |access-date=24 June 2020 |archive-date=8 March 2021 |archive-url=https://web.archive.org/web/20210308031515/https://www.economist.com/books-and-arts/2018/03/08/is-literature-next-in-line-for-virtual-reality-treatment |url-status=live }}</ref>
+|}
+
+=== "Kafkaesque" ===
+{{Redirect|Kafkaesque|the Breaking Bad episode|Kafkaesque (Breaking Bad)}}
+The term "'''Kafkaesque'''" is used to describe concepts and situations reminiscent of Kafka's work, particularly {{lang|de|Der Process}} (''[[The Trial]]'') and ''Die Verwandlung'' (''[[The Metamorphosis]]'').<ref>“[[mwod:Kafkaesque|Kafkaesque]].” ''Merriam-Webster.com Dictionary''. Retrieved 1 March 2021.</ref> Examples include instances in which bureaucracies overpower people, often in a [[Surrealism|surreal]], nightmarish milieu that evokes feelings of senselessness, disorientation, and helplessness. Characters in a Kafkaesque setting often lack a clear course of action to escape a [[labyrinthine]] situation. Kafkaesque elements often appear in [[Existentialism#Influence outside philosophy|existential works]], but the term has transcended the literary realm to apply to real-life occurrences and situations that are incomprehensibly complex, bizarre, or illogical.{{sfn|Steinhauer|1983|pp = 390–408}}{{sfn|Adams|2002|pp = 140–157}}{{sfn|Aizenberg|1986|pp = 11–19}}{{sfn|Strelka|1984|pp = 434–444}}
+
+Numerous films and television works have been described as Kafkaesque, and the style is particularly prominent in dystopian science fiction. Works in this genre that have been thus described include [[Patrick Bokanowski]]'s film ''[[The Angel (1982 film)|The Angel]]'' (1982), Terry Gilliam's film ''[[Brazil (1985 film)|Brazil]]'' (1985), and [[Alex Proyas]]' science fiction [[film noir]], ''[[Dark City (1998 film)|Dark City]]'' (1998). Films from other genres which have been similarly described include [[Roman Polanski]]'s ''[[The Tenant]]'' (1976) and the [[Coen brothers]]' ''[[Barton Fink]]'' (1991).{{sfn|Palmer|2004|pp = 159–192}} The television series ''[[The Prisoner]]'' and ''[[The Twilight Zone]]'' are also frequently described as Kafkaesque.{{sfn|O'Connor|1987}}{{sfn|''Los Angeles Times''|2009}}
+
+However, with common usage, the term has become so ubiquitous that Kafka scholars note it is often misused.<ref>{{cite news|url=https://www.nytimes.com/1991/12/29/nyregion/the-essence-of-kafkaesque.html|title=The Essence of 'Kafkaesque'|date=29 December 1991|work=The New York Times|access-date=8 February 2017|archive-date=18 April 2018|archive-url=https://web.archive.org/web/20180418032108/https://www.nytimes.com/1991/12/29/nyregion/the-essence-of-kafkaesque.html|url-status=live}}</ref> More accurately then, according to author [[Ben Marcus]], paraphrased in "What it Means to be Kafkaesque" by Joe Fassler in ''The Atlantic'', "Kafka's quintessential qualities are affecting use of language, a setting that straddles fantasy and reality, and a sense of striving even in the face of bleakness—hopelessly and full of hope."<ref>{{cite news|url=https://www.theatlantic.com/entertainment/archive/2014/01/what-it-really-means-to-be-kafkaesque/283096/|title=What It Really Means to Be 'Kafkaesque'|first=Joe|last=Fassler|date=January 2014|work=The Atlantic|access-date=7 March 2017|archive-date=29 January 2018|archive-url=https://web.archive.org/web/20180129194710/https://www.theatlantic.com/entertainment/archive/2014/01/what-it-really-means-to-be-kafkaesque/283096/|url-status=live}}</ref>
+
+=== Commemorations ===
+[[File:Czech-2013-Prague-Plaque (birthplace of Franz Kafka).jpg|thumb|Plaque marking the birthplace of Franz Kafka in Prague, designed by Karel Hladík and Jan Kaplický, 1966]]
+[[3412 Kafka]] is an [[asteroid]] from the inner regions of the [[asteroid belt]], approximately 6 kilometers in diameter. It was discovered on 10 January 1983 by American astronomers [[Randolph L. Kirk|Randolph Kirk]] and [[Donald James Rudy|Donald Rudy]] at [[Palomar Observatory]] in California, United States,<ref>{{cite news|author=Schmadel, Lutz D. |date=2003 |title=(3412) Kafka |work=Dictionary of Minor Planet Names |publisher=Springer Berlin Heidelberg |page=284 |isbn=978-3-540-00238-3 |doi=10.1007/978-3-540-29925-7_3412}}</ref> and named after Kafka by them.<ref>{{cite web|title=3412 Kafka|date=1983|website=Minor Planet Center|access-date=5 December 2016|url=http://www.minorplanetcenter.net/db_search/show_object?object_id=3412|archive-date=4 March 2016|archive-url=https://web.archive.org/web/20160304001328/http://www.minorplanetcenter.net/db_search/show_object?object_id=3412|url-status=live}}</ref>
+
+[[Apache Kafka]], an [[Open source software|open-source]] [[stream processing]] platform originally released in January 2011, is named after Kafka.<ref>{{cite web |title=What is the relation between Kafka, the writer, and Apache Kafka, the distributed messaging system?|website=[[Quora]] | url=https://www.quora.com/What-is-the-relation-between-Kafka-the-writer-and-Apache-Kafka-the-distributed-messaging-system|access-date=12 June 2017}}</ref>
+
+The [[Franz Kafka Museum]] in [[Prague]] is dedicated to Kafka and his work. A major component of the museum is an exhibit, ''The City of K. Franz Kafka and Prague'', which was first shown in [[Barcelona]] in 1999, moved to the [[Jewish Museum (New York)|Jewish Museum]] in [[New York City]], and finally established in Prague in [[Malá Strana]] (Lesser Town), along the [[Vltava|Moldau]], in 2005. The Franz Kafka Museum calls its display of original photos and documents ''Město K. Franz Kafka a Praha'' ("City K. Kafka and Prague") and aims to immerse the visitor into the world in which Kafka lived and about which he wrote.{{sfn|Kafka Museum|2005}}
+
+The [[Franz Kafka Prize]], established in 2001, is an annual literary award of the [[Franz Kafka Society]] and the City of Prague. It recognizes the merits of literature as "humanistic character and contribution to cultural, national, language and religious tolerance, its existential, timeless character, its generally human validity, and its ability to hand over a testimony about our times".{{sfn|Kafka Society|2011}} The selection committee and recipients come from all over the world, but are limited to living authors who have had at least one work published in Czech.{{sfn|Kafka Society|2011}} The recipient receives $10,000, a diploma, and a bronze statuette at a presentation in [[Old Town (Prague)|Prague's Old Town Hall]], on the Czech State Holiday in late October.{{sfn|Kafka Society|2011}}
+
+[[San Diego State University]] operates the [[Kafka Project]], which began in 1998 as the official international search for Kafka's last writings.{{sfn|Kafka Project SDSU|2012}}
+
+Kafka Dome is an off-axis [[oceanic core complex]] in the central Atlantic named after Kafka.<ref name="ShinevarMark2019">{{cite journal|last1=Shinevar|first1=William J.|last2=Mark|first2=Hannah F.|last3=Clerc|first3=Fiona|last4=Codillo|first4=Emmanuel A.|last5=Gong|first5=Jianhua|last6=Olive|first6=Jean‐Arthur|last7=Brown|first7=Stephanie M.|last8=Smalls|first8=Paris T.|last9=Liao|first9=Yang|last10=Le Roux|first10=Véronique|last11=Behn|first11=Mark D.|url=https://hal.archives-ouvertes.fr/hal-02395011/document|format=PDF|title=Causes of oceanic crustal thickness oscillations along a 74‐Myr Mid‐Atlantic Ridge flow line|journal=Geochemistry, Geophysics, Geosystems|year=2019|volume=20|issue=12|pages=6123–6139|issn=1525-2027|doi=10.1029/2019GC008711|bibcode=2019GGG....20.6123S|hdl=1912/25465|s2cid=212819022|hdl-access=free|access-date=9 February 2020|archive-date=10 May 2020|archive-url=https://web.archive.org/web/20200510053139/https://hal.archives-ouvertes.fr/hal-02395011/document|url-status=live}}</ref>
+
+== See also ==
+* [[Literary modernism|Modernist literature]]
+
+== Notes ==
+{{notes}}
+
+== References ==
+=== Citations ===
+{{reflist|20em}}
+
+=== Sources ===
+{{refbegin|30em}}
+* {{cite book
+  | last = Alt
+  | first = Peter-André
+  | year = 2005
+  | language = de
+  | title = Franz Kafka: Der ewige Sohn. Eine Biographie
+  | publisher = Verlag C.H. Beck
+  | location = München
+  | isbn = 978-3-406-53441-6
+  }}
+* {{cite book
+  | last = Bathrick
+  | first = David
+  | title = The Powers of Speech: The Politics of Culture in the GDR
+  | url = https://archive.org/details/powersofspeechpo0000bath
+  | url-access = registration
+  | year = 1995
+  | publisher = University of Nebraska Press
+  | location = Lincoln
+  | isbn = 9780803212589
+ }}
+* {{cite book
+  | last = Bergman
+  | first = Hugo
+  | title = Memories of Franz Kafka in Franz Kafka Exhibition (Catalogue)
+  | year = 1969
+  | publisher = The [[National Library of Israel|Jewish National and University Library]]
+  | via = The Anarchist Library
+  | url = http://theanarchistlibrary.org/library/michael-lowy-franz-kafka-and-libertarian-socialism.a4.pdf
+  | access-date = 19 August 2012
+  | archive-date = 16 March 2019
+  | archive-url = https://web.archive.org/web/20190316150401/https://theanarchistlibrary.org/library/michael-lowy-franz-kafka-and-libertarian-socialism.a4.pdf
+  | url-status = live
+  }}
+* {{cite book
+  | last = Bloom
+  | first = Harold
+  | author-link = Harold Bloom
+  | title = Franz Kafka
+  | work = Bloom's Major Short Story Writers
+  | year = 2003
+  | publisher = Chelsea House Publishers
+  | location = New York
+  | isbn = 978-0-7910-6822-9
+  | url-access = registration
+  | url = https://archive.org/details/franzkafkacompre0000unse
+  }}
+* {{cite journal
+  | last = Bloom
+  | first = Harold
+  | title = Franz Kafka's Zionism
+  | date =Spring 2011
+  | journal = Midstream
+  | volume = 57
+  | issue = 2
+  }}-left
+* {{cite book
+  | last = Bloom
+  | first = Harold
+  | title = Genius: A Mosaic of One Hundred Exemplary Creative Minds
+  | year = 2002
+  | publisher = Warner Books
+  | location = New York
+  | isbn = 978-0-446-52717-0
+  | url = https://archive.org/details/geniusmosaicof1000bloo_0
+  }}
+* {{cite book
+  | last = Bloom
+  | first = Harold
+  | title = The Western Canon: The Books and School of the Ages
+  | year = 1994
+  | publisher = Riverhead Books, Penguin Group
+  | location = New York
+  | isbn = 978-1-57322-514-4
+  | url = https://archive.org/details/westerncanonbook00bloo
+  }}
+* {{cite book
+  | last = Bossy
+  | first = Michel-André-left
+  | title = Artists, Writers, and Musicians: An Encyclopedia of People Who Changed the World
+  | year = 2001
+  | publisher = Oryx Press
+  | location = Westport, Connecticut
+  | isbn = 978-1-57356-154-9
+  | url-access = registration
+  | url = https://archive.org/details/artistswritersmu0000unse
+  }}
+* {{cite book
+  | last = Boyd
+  | first = Ian R.
+  | title = Dogmatics Among the Ruins: German Expressionism and the Enlightenment
+  | year = 2004
+  | publisher = Peter Lang AG
+  | location = Bern
+  | isbn = 978-3-03910-147-4
+  }}
+* {{cite book
+  | last = Brod
+  | first = Max
+  | author-link = Max Brod
+  | title = Franz Kafka: A Biography
+  | url = https://archive.org/details/franzkafkabiogra00brod
+  | url-access = registration
+  | year = 1960
+  | publisher = Schocken Books
+  | location = New York
+  | isbn = 978-0-8052-0047-8
+  }}
+* {{cite book
+  | last = Brod
+  | first = Max
+  | title = Über Franz Kafka
+  | year = 1966
+  | publisher = S. Fischer Verlag
+  | location = Hamburg
+  | language = de
+  }}
+* {{cite book
+  | last = Bruce
+  | first = Iris
+  | title = Kafka and Cultural Zionism&nbsp;– Dates in Palestine
+  | year = 2007
+  | publisher = University of Wisconsin Press
+  | location = Madison, Wisconsin
+  | isbn = 978-0-299-22190-4
+  }}
+* {{cite book
+  | last = Classe
+  | first = Olive
+  | title = Encyclopedia of Literary Translation into English, Vol. 1
+  | year = 2000
+  | publisher = Fitzroy Dearborn Publishers
+  | location = Chicago
+  | isbn = 978-1-884964-36-7
+  }}
+* {{cite book
+  | last = Contijoch
+  | first = Francesc Miralles
+  | language = es
+  | title = Franz Kafka
+  | year = 2000
+  | publisher = Oceano Grupo Editorial, S.A.
+  | location = Barcelona
+  | isbn = 978-84-494-1811-2
+  | url-access = registration
+  | url = https://archive.org/details/ellectordefranzk0000mira
+  }}
+* {{cite book
+  | last = Corngold
+  | first = Stanley
+  | title = Introduction to The Metamorphosis
+  | year = 1972
+  | publisher = Bantam Classics
+  | location = New York
+  | isbn = 978-0-553-21369-0
+  | url = https://archive.org/details/metamorphosis00kafk_0
+  }}
+* {{cite book
+  | last = Corngold
+  | first = Stanley
+  | title = The Commentator's Despair
+  | year = 1973
+  | publisher = Kennikat Press
+  | location = Port Washington, New York
+  | isbn = 978-0-8046-9017-1
+  | url-access = registration
+  | url = https://archive.org/details/commentatorsdesp0000corn
+  }}
+* {{cite book
+  | last = Corngold
+  | first = Stanley
+  | title = Lambent Traces: Franz Kafka
+  | url = https://archive.org/details/lambenttracesfra00stan
+  | url-access = registration
+  | year = 2004
+  | publisher = Princeton University Press
+  | location = Princeton, New Jersey
+  | isbn = 978-0-691-11816-1
+  }}
+* {{cite book
+  | last = Corngold
+  | first = Stanley
+  | title = Franz Kafka: The Office Writings
+  | year = 2009
+  | publisher = Princeton University Press
+  | location = Princeton, New Jersey
+  | isbn = 978-0-691-12680-7
+  | ref = {{sfnRef|Corngold et al.|2009}}
+  }}
+* {{cite book
+  | last = Diamant
+  | first = Kathi
+  | title = Kafka's Last Love: The Mystery of Dora Diamant
+  | year = 2003
+  | publisher = Basic Books
+  | location = New York
+  | isbn = 978-0-465-01551-1
+  }}
+* Duttlinger, Carolin (2007). ''Kafka and Photography''. Oxford: Oxford University Press. {{ISBN|978-0-19-921945-2}}.
+* Duttlinger, Carolin (2013). ''The Cambridge Introduction to Franz Kafka''. Cambridge: Cambridge University Press. {{ISBN|978-0-521-75771-3}}.
+* {{cite book
+  | last1 = Drucker
+  | first1 = Peter
+  | title = Managing in the Next Society
+  | year = 2002
+  | edition = 2007
+  | publisher = Elsevier
+  | location = Oxford
+  | isbn = 978-0-7506-8505-4
+  }}
+* {{cite book
+  | last = Elsaesser
+  | first = Thomas
+  | title = The Last Great American Picture Show
+  | year = 2004
+  | publisher = Amsterdam University Press
+  | location = Amsterdam
+  | isbn = 978-90-5356-493-6
+  }}
+* {{cite book
+  | last = Furst
+  | first = Lillian R.
+  | year = 1992
+  | url = https://books.google.com/books?id=0HmgYaAEHHYC&pg=PA83
+  | title = Through the Lens of the Reader: Explorations of European Narrative
+  | publisher = SUNY Press
+  | isbn = 978-0-7914-0808-7
+  | access-date = 16 November 2015
+  | archive-date = 4 December 2020
+  | archive-url = https://web.archive.org/web/20201204150730/https://books.google.com/books?id=0HmgYaAEHHYC&pg=PA83
+  | url-status = live
+  }}
+* {{cite book
+  | last = Gale Research
+  | author-link = Gale (publisher)
+  | title = Twentieth-Century Literary Criticism: Excerpts from Criticism of the Works of Novelists, Poets, Playwrights, Short Story Writers, & Other Creative Writers Who Died Between 1900 & 1999
+  | year = 1979 <!-- see http://www.enotes.com/franz-kafka-judgment-criticism/judgment-franz-kafka -->
+  | publisher = Gale Cengage Learning
+  | location = Farmington Hills, Michigan
+  | isbn = 978-0-8103-0176-4
+  | url = https://archive.org/details/twentiethcentury02rile
+  }}
+* {{cite book
+  | last = Gilman
+  | first = Sander
+  | author-link = Sander Gilman
+  | title = Franz Kafka, the Jewish Patient
+  | year = 1995
+  | publisher = Routledge
+  | location = New York
+  | isbn = 978-0-415-91391-1
+  | url = https://archive.org/details/franzkafkajewish00sand
+  }}
+* {{cite book
+  | last = Gilman
+  | first = Sander
+  | title = Franz Kafka
+  | year = 2005
+  | publisher = Reaktion Books
+  | location = London
+  | isbn = 978-1-881872-64-1
+   }}
+* {{cite book
+  | last = Gray
+  | first = Richard T.
+  | title = A Franz Kafka Encyclopedia
+  | year = 2005
+  | publisher = Greenwood Press
+  | location = Westport, Connecticut
+  | isbn = 978-0-313-30375-3
+  }}
+* {{cite book
+  | last = Gray
+  | first = Ronald
+  | title = Franz Kafka
+  | url = https://archive.org/details/franzkafka00gray
+  | url-access = registration
+  | year = 1973
+  | publisher = Cambridge University Press
+  | location = Cambridge
+  | isbn = 978-0-521-20007-3
+  }}
+* {{cite book
+  | last = Hamalian
+  | first = Leo
+  | title = Franz Kafka: A Collection of Criticism
+  | year = 1974
+  | publisher = McGraw-Hill
+  | location = New York
+  | isbn = 978-0-07-025702-3
+  | url = https://archive.org/details/franzkafkacollec00hama
+  }}
+* {{cite book
+  | last = Hawes
+  | first = James
+  | author-link = James Hawes (author)
+  | title = Why You Should Read Kafka Before You Waste Your Life
+  | url = https://archive.org/details/whyyoushouldread0000hawe
+  | url-access = registration
+  | year = 2008
+  | publisher = St. Martin's Press
+  | location = New York
+  | isbn = 978-0-312-37651-2
+  }}<!--
+* {{cite book
+  | last = Janouch
+  | first = Gustav
+  | language = French
+  | title = Conversations avec Kafka
+  | year = 1998
+  | publisher = Maurice Nadeau
+  | location = Paris
+  | isbn = 978-2-86231-111-1
+  }} -->
+* {{cite book
+  | last = Janouch
+  | first = Gustav
+  | url = https://archive.org/details/conversationswit0000jano
+  | url-access = registration
+  | page = [https://archive.org/details/conversationswit0000jano/page/17 17]
+  | title = Conversations with Kafka
+  | year = 1971
+  | edition = 2
+  | publisher = New Directions Books
+  | location = New York
+  | isbn = 978-0-8112-0071-4
+  | access-date = 16 November 2015
+  }}
+* {{cite book
+  | last = Kafka
+  | first = Franz
+  | title = The Penal Colony: Stories and Short Pieces
+  | year = 1948
+  | edition = 1987
+  | publisher = Schocken Books
+  | location = New York
+  | isbn = 978-0-8052-3198-4
+  }}
+* {{cite book
+  | last = Kafka
+  | first = Franz
+  | title = Dearest Father: Stories and Other Writings
+  | url = https://archive.org/details/dearestfathersto00kafk
+  | url-access = registration
+  | year = 1954
+  | publisher = Schocken Books
+  | location = New York
+  }}
+* {{cite book
+  | last = Kafka
+  | first = Franz
+  | title = The Castle
+  | year = 1988
+  | publisher = Schocken Books
+  | location = New York
+  | isbn = 978-0-8052-0872-6
+  | url = https://archive.org/details/castle00kafk_2
+  }}
+* {{cite book
+  | last = Kafka
+  | first = Franz
+  | title = The Metamorphosis and Other Stories
+  | year = 1996
+  | publisher = Barnes & Noble
+  | location = New York
+  | isbn = 978-1-56619-969-8
+  | url-access = registration
+  | url = https://archive.org/details/metamorphosisoth0000kafk
+  }}
+* {{cite book
+  | last = Kafka
+  | first = Franz
+  | title = The Trial
+  | year = 1998
+  | publisher = Schocken Books
+  | location = New York
+  | isbn = 978-0-8052-0999-0
+  | url = https://archive.org/details/trial00kafk_1
+  }}
+* {{cite book
+  | last = Kafka
+  | first = Franz
+  | title = The Trial
+  | year = 2009
+  | publisher = Oxford University Press
+  | location = Oxford
+  | isbn = 978-0-19-923829-3
+  }}
+* {{cite book
+  | last1 = Kafka
+  | first1 = Franz
+  | author-link1 = Franz Kafka
+  | editor-last = Brod
+  | editor-first = Max
+  | editor-link = Max Brod
+  | title = The Diaries: 1910–1923
+  | year = 1988
+  | publisher = Schocken Books
+  | location = New York
+  | isbn = 978-0-8052-0906-8
+  | ref = {{sfnref|Kafka|Brod|1988}}
+  }}
+* {{cite book
+  | last1 = Kahn
+  | first1 = Lothar
+  | last2 = Hook
+  | first2 = Donald D.
+  | title = Between Two Worlds: A Cultural History of German-Jewish Writers
+  | year = 1993
+  | publisher = Iowa State University Press
+  | location = Ames, Iowa
+  | isbn = 978-0-8138-1233-5
+  | url = https://archive.org/details/betweentwoworlds00kahn
+  }}
+* {{cite book
+  | last = Karl
+  | first = Frederick R.
+  | title = Franz Kafka: Representative Man
+  | year = 1991
+  | location = Boston
+  | publisher = Ticknor & Fields
+  | isbn = 978-0-395-56143-0
+  | url = https://archive.org/details/franzkafkarepres00karl
+  }}
+* {{cite book
+  | last = Koelb
+  | first = Clayton
+  | title = Kafka: A Guide for the Perplexed
+  | year = 2010
+  | location = Chippenham, Wiltshire
+  | publisher = Continuum International Publishing Group
+  | isbn = 978-0-8264-9579-2
+  }}
+* {{cite book
+  | last = Krolop
+  | first = Kurt
+  | language = de
+  | title = Kafka und Prag
+  | publisher = Goethe-Institut
+  | year = 1994
+  | location = Prague
+  | isbn = 978-3-11-014062-0
+  }}
+* {{cite book
+  | last = Lachkar
+  | first = Joan
+  | language = en
+  | title = The Narcissistic/Borderline Couple
+  | publisher = Brunner/Mazel
+  | year = 1992
+  | location = Philadelphia
+  | isbn = 978-0-87630-634-5
+  }}
+<!-- * {{cite book
+  | last1 = Mann
+  | first1 = Thomas
+  | last2 = Heller
+  | first2 = E.
+  | title = Thomas Mann: The Ironic German
+  | year = 1981
+  | publisher = Cambridge University Press Archive
+  | location = Cambridge
+  | isbn = 978-0-521-23546-4
+  }} uncomment when page ref found -->
+* {{cite book
+  | last = Miller
+  | first = Alice
+  | title = Thou Shalt Not Be Aware: Society's Betrayal of the Child
+  | url = https://archive.org/details/thoushaltnotbeaw00millrich
+  | url-access = registration
+  | year = 1984
+  | publisher = Farrar, Straus, Giroux
+  | location = New York
+  | isbn = 978-0-9567982-1-3
+  }}
+* {{cite book
+  | last = Murray
+  | first = Nicholas
+  | author-link = Nicholas Murray (historian)
+  | title = Kafka
+  | year = 2004
+  | publisher = Yale University Press
+  | location = New Haven, Connecticut
+  | isbn = 978-0-300-10631-2
+  | url = https://archive.org/details/kafka00murr
+  }}
+* {{cite book
+  | last = Newmark
+  | first = Peter
+  | title = About Translation
+  | year = 1991
+  | publisher = Cromwell Press
+  | location = Wiltshire, England
+  | isbn = 978-1-85359-117-4
+  }}
+* {{cite book
+  | last = Northey
+  | first = Anthony
+  | title = Mišpoche Franze Kafky
+  | language = cs
+  | year = 1997
+  | publisher = Nakladatelství Primus
+  | location = Prague
+  | isbn = 978-80-85625-45-5
+  }}
+* {{cite book
+  | last = O'Neill
+  | first = Patrick M.
+  | title = Great World Writers: Twentieth Century
+  | year = 2004
+  | publisher = Marshal Cavendish
+  | location = Tarrytown, New York
+  | isbn = 978-0-7614-7477-7
+  }}
+* {{cite book
+  | last = Palmer
+  | first = R. Barton
+  | title = Joel and Ethan Coen
+  | year = 2004
+  | publisher = University of Illinois Press
+  | location = Urbana, Illinois
+  | isbn = 978-0-252-07185-0
+  }}
+* {{cite book
+  | last = Pawel
+  | first = Ernst
+  | title = The Nightmare of Reason: A Life of Franz Kafka
+  | url = https://archive.org/details/nightmareofreaso00pawe
+  | url-access = registration
+  | year = 1985
+  | publisher = Vintage Books
+  | location = New York
+  | isbn = 978-0-374-52335-0
+  }}
+* {{cite book
+  | last = Preece
+  | first = Julian
+  | title = The Cambridge Companion to Kafka
+  | year = 2001
+  | publisher = Cambridge University Press
+  | location = Cambridge
+  | isbn = 978-0-521-66391-5
+  | url-access = registration
+  | url = https://archive.org/details/cambridgecompani0000unse_p1o5
+  }}
+* {{cite book
+  | last = Rothkirchen
+  | first = Livia
+  | title = The Jews of Bohemia and Moravia: Facing the Holocaust
+  | year = 2005
+  | publisher = University of Nebraska Press
+  | location = Lincoln, Nebraska
+  | isbn = 978-0-8032-3952-4
+  }}
+* {{cite book
+  | editor-last = Silverman
+  | editor-first = Al
+  | title = The Book of the Month: Sixty Years of Books in American Life
+  | publisher = Little, Brown
+  | year = 1986
+  | location = Boston
+  | isbn = 978-0-316-10119-6
+  | url = https://archive.org/details/bookofmonths00silv
+  }}
+* {{cite book
+  | last = Singer
+  | first = Isaac Bashevis
+  | author-link = Isaac Bashevis Singer
+  | title = A Friend of Kafka, and Other Stories
+  | url = https://archive.org/details/friendofkafkaoth00sing
+  | url-access = registration
+  | publisher = Farrar, Straus and Giroux
+  | year = 1970
+  | location = New York
+  | isbn = 978-0-374-15880-4
+  }}
+* {{cite book
+  | last = Sokel
+  | first = Walter H.
+  | title = The Myth of Power and the Self: Essays on Franz Kafka
+  | publisher = Wayne State University Press
+  | year = 2001
+  | location = Detroit
+  | isbn = 978-0-8143-2608-4
+  }}
+* {{cite book
+  | last = Spector
+  | first = Scott
+  | title = Prague Territories: National Conflict and Cultural Innovation in Franz Kafka's Fin de Siècle
+  | publisher = University of California Press
+  | year=2000
+  | location = Berkeley
+  | isbn = 978-0-520-23692-9
+  }}
+* {{cite book
+  | last = Stach
+  | first = Reiner
+  | author-link = Reiner Stach
+  | title = Kafka: The Decisive Years
+  | publisher = Harcourt
+  | year = 2005
+  | location = New York
+  | isbn = 978-0-15-100752-3
+  | url = https://archive.org/details/kafkadecisiveyea00stac
+  }}
+* {{cite book
+  | last = Sussman
+  | first = Henry
+  | title = Franz Kafka: Geometrician of Metaphor
+  | url = https://archive.org/details/franzkafkageomet0000suss
+  | url-access = registration
+  | year = 1979
+  | publisher = Coda Press
+  | location = Madison, Wisconsin
+  | isbn = 978-0-930956-02-8
+  }}
+* {{cite book
+  | last = Ziolkowski
+  | first = Theodore
+  | author-link = Theodore Ziolkowski
+  | title = The Mirror of Justice: Literary Reflections of Legal Crisis
+  | year = 2003
+  | publisher = Princeton University Press
+  | location = Princeton, New Jersey
+  | isbn = 978-0-691-11470-5
+  }}
+
+;Journals
+* {{cite journal
+  | last = Adams
+  | first = Jeffrey
+  | title = Orson Welles's ''The Trial'': Film Noir and the Kafkaesque
+  | url = https://www.thefreelibrary.com/Orson+Welles's+'The+Trial'%3a+Film+Noir+and+the+Kafkaesque.-a092049123
+  | jstor = 25112662
+  | date = Summer 2002
+  | volume = 29
+  | issue = 3
+  | pages = 140–157
+  | journal = College Literature, Literature and the Visual Arts
+  | location = West Chester, Pennsylvania
+  | access-date = 13 November 2021
+  | archive-date = 6 August 2020
+  | archive-url = https://web.archive.org/web/20200806200802/https://www.thefreelibrary.com/Orson+Welles%27s+%27The+Trial%27%3a+Film+Noir+and+the+Kafkaesque.-a092049123
+  | url-status = live
+  }} [https://sporastudios.org/mark/courses/articles/adams_the_trial.pdf PDF Version] {{Webarchive|url=https://web.archive.org/web/20200209174449/https://sporastudios.org/mark/courses/articles/adams_the_trial.pdf |date=9 February 2020 }}
+* {{cite journal
+  | last = Aizenberg
+  | first = Edna
+  | title = Kafkaesque Strategy and Anti-Peronist Ideology Martinez Estrada's Stories as Socially Symbolic Acts
+  | jstor = 20119426
+  | date = July–December 1986
+  | volume = 14
+  | issue = 28
+  | pages = 11–19
+  | journal = Latin American Literary Review
+  | location = Chicago
+  }}
+* {{cite journal
+  | last = Banakar
+  | first = Reza
+  | author-link = Reza Banakar
+  | title = In Search of Heimat: A Note on Franz Kafka's Concept of Law
+  | ssrn = 1574870
+  | date =Fall 2010
+  | volume = 22
+  | issue = 2
+  | journal = Law and Literature
+  | location = Berkeley, California
+  | doi = 10.2139/ssrn.1574870
+  }}
+* {{cite journal
+  | last = Butler
+  | first = Judith
+  | title = Who Owns Kafka
+  | url = https://www.lrb.co.uk/the-paper/v33/n05/judith-butler/who-owns-kafka
+  | date = 3 March 2011
+  | volume = 33
+  | issue = 5
+  | location = London
+  | journal = London Review of Books
+  | access-date = 1 August 2012
+  | archive-date = 3 December 2019
+  | archive-url = https://web.archive.org/web/20191203080442/https://www.lrb.co.uk/v33/n05/judith-butler/who-owns-kafka
+  | url-status = live
+  }}
+* {{cite journal
+  | last = Corngold
+  | first = Stanley
+  | title = Kafkas Spätstil/Kafka's Late Style: Introduction
+  | location = Madison, Wisconsin
+  | journal = Monatshefte
+  | volume = 103
+  | issue = 3
+  | pages = 339–343
+  | date =Fall 2011
+  | doi = 10.1353/mon.2011.0069
+  | s2cid = 219195741
+ }}
+* {{cite magazine
+  | last = Dembo
+  | first = Arinn
+  | title = Twilight of the Cockroach: Bad Mojo Evokes Kafka So Well It'll Turn Your Stomach
+  | url = http://www.cgwmuseum.org/galleries/issues/cgw_143.pdf#page=110
+  | date = June 1996
+  | issue = 143
+  | location = New York
+  | magazine = Computer Gaming World
+  | access-date = 9 February 2020
+  | archive-date = 2 October 2014
+  | archive-url = https://web.archive.org/web/20141002223215/http://www.cgwmuseum.org/galleries/issues/cgw_143.pdf#page=110
+  | url-status = live
+  }}
+* {{cite journal
+  | last = Dodd
+  | first = W. J.
+  | title = Kafka and Dostoyevsky: The Shaping of Influence
+  | year = 1994
+  | jstor = 40246931
+  | journal = Comparative Literature Studies
+  | location = State College, Pennsylvania
+  | volume = 31
+  | issue = 2
+  | pages = 165–168
+  }}
+* {{cite journal
+  | last = Durantaye
+  | first = Leland de la
+  | author-link = Leland de la Durantaye
+  | title = Kafka's Reality and Nabokov's Fantasy: On Dwarves, Saints, Beetles, Symbolism and Genius
+  | journal = Comparative Literature
+  | year = 2007
+  | volume = 59
+  | issue = 4
+  | url = https://dash.harvard.edu/bitstream/handle/1/3374612/deladurantaye_kafka.pdf
+  | doi = 10.1215/-59-4-315
+  | page = 315
+  | archive-url = https://web.archive.org/web/20100525025619/http://www.people.fas.harvard.edu/~deladur/kafka.pdf
+  | archive-date = 25 May 2010
+  }}
+* {{cite journal
+  | last = Fichter
+  | first = Manfred M.
+  | title = The Anorexia Nervosa of Franz Kafka
+  | date = May 1987
+  | volume = 6
+  | issue = 3
+  | location = Washington, D.C.
+  | journal = International Journal of Eating Disorders
+  | doi = 10.1002/1098-108X(198705)6:3<367::AID-EAT2260060306>3.0.CO;2-W
+  | page = 367
+  }}
+* {{cite journal
+  | last = Fichter
+  | first = Manfred M.
+  | language = de
+  | title = Franz Kafka's anorexia nervosa
+  | date = July 1988
+  | volume = 56
+  | issue = 7
+  | doi = 10.1055/s-2007-1001787
+  | pmid = 3061914
+  | location = Munich
+  | journal = Fortschritte der Neurologie · Psychiatrie
+  | pages = 231–238
+  }}
+* {{cite journal
+  | last = Fort
+  | first = Jeff
+  | url = https://believermag.com/the-man-who-could-not-disappear/
+  | title = The Man Who Could Not Disappear
+  | date = March 2006
+  | journal = The Believer
+  | access-date = 7 August 2012
+  | ref = {{sfnRef|Believer|2006}}
+  | archive-date = 7 April 2020
+  | archive-url = https://web.archive.org/web/20200407115000/https://believermag.com/the-man-who-could-not-disappear/
+  | url-status = live
+  }}
+<!-- * {{cite journal
+  | last = Gerhardt
+  | first = Christina
+  | title = The Ethics of Animals in Adorno and Kafka
+  | url = http://ngc.dukejournals.org/content/33/1_97.toc
+  | year = 2006
+  | volume = 97
+  | pages = 159–178
+  | location = Durham
+  | publisher = Duke
+  | journal = New German Critique
+  | access-date = 7 August 2014
+| doi=10.1215/0094033x-2005-009
+  }} we have here only books and journals that are used for referencing -->
+* {{cite journal
+  | last = Glen
+  | first = Patrick J.
+  | title = The Deconstruction and Reification of Law in Franz Kafka's ''Before the Law'' and ''The Trial''
+  | url = http://www-bcf.usc.edu/~idjlaw/PDF/17-1/17-1%20Glen.pdf
+  | year = 2007
+  | volume = 17
+  | issue = 23
+  | location = Los Angeles
+  | journal = Southern California Interdisciplinary Law Journal
+  | access-date = 3 August 2012
+  | archive-url = https://wayback.archive-it.org/all/20120916114919/http://www-bcf.usc.edu/~idjlaw/PDF/17-1/17-1%20Glen.pdf
+  | archive-date = 16 September 2012
+  | url-status = dead
+  }}
+* {{cite journal
+  | last = Glen
+  | first = Patrick J.
+  | title = Franz Kafka, Lawrence Joseph, and the Possibilities of Jurisprudential Literature
+  | url = http://scholarship.law.georgetown.edu/facpub/967/
+  | format = PDF
+  | year = 2011
+  | volume = 21
+  | issue = 47
+  | location = Los Angeles
+  | journal = Southern California Interdisciplinary Law Journal
+  | access-date = 21 September 2012
+  | archive-date = 12 November 2019
+  | archive-url = https://web.archive.org/web/20191112201538/https://scholarship.law.georgetown.edu/facpub/967/
+  | url-status = live
+  }}
+* {{cite journal
+  | last = Horton
+  | first = Scott
+  | url = http://harpers.org/archive/2008/08/hbc-90003426
+  | title = In Pursuit of Kafka's Porn Cache: Six Questions for James Hawes
+  | date = 19 August 2008
+  | journal = Harper's Magazine
+  | access-date = 3 August 2012
+  | ref = {{sfnRef|Harper's|2008}}
+  | archive-date = 19 October 2012
+  | archive-url = https://web.archive.org/web/20121019170227/http://harpers.org/archive/2008/08/hbc-90003426
+  | url-status = live
+  }}
+* {{cite journal
+  | last = Hughes
+  | first = Kenneth
+  | title = Franz Kafka: An Anthology of Marxist Criticism
+  | location = Madison, Wisconsin
+  | journal = Monatshefte
+  | volume = 78
+  | issue = 2
+  | pages = 247–250
+  | date =Summer 1986
+  | jstor = 30159253
+  }}
+* {{cite journal
+  | last = Kavanagh
+  | first = Thomas M.
+  | title = Kafka's ''The Trial'': The Semiotics of the Absurd
+  | location = Durham, North Carolina
+  | journal = Novel: A Forum on Fiction
+  | date =Spring 1972
+  | volume = 5
+  | issue = 3
+  | pages = 242–253
+  | doi = 10.2307/1345282
+  | jstor = 1345282
+  }}
+* {{cite journal
+  | last = Kempf
+  | first = Franz R.
+  | title = Franz Kafkas Sprachen: '...&nbsp;in einem Stockwerk des innern babylonischen Turmes. ..'
+  | journal = Shofar: An Interdisciplinary Journal of Jewish Studies
+  | date =Summer 2005
+  | volume = 23
+  | issue = 4
+  | location = West Lafayette, Indiana
+  | doi = 10.1353/sho.2005.0155
+  | page = 159
+  | s2cid = 170581064
+ }}
+* {{cite journal
+  | last = Keren
+  | first = Michael
+  | title = The 'Prague Circle' and the Challenge of Nationalism
+  | location = Oxford
+  | journal = History of European Ideas
+  | year = 1993
+  | doi = 10.1016/S0191-6599(05)80096-8
+  | volume = 16
+  | issue = 1–3
+  | page = 3
+  }}
+* {{cite journal
+  | last = Kundera
+  | first = Milan
+  | title = Kafka's World
+  | location = Washington, D.C.
+  | journal = The Wilson Quarterly
+  | date =Winter 1988
+  | jstor = 40257735
+  | volume = 12
+  | issue = 5
+  | pages = 88–99
+  }}
+* {{cite journal
+  | last = Lawson
+  | first = Richard H.
+  | title = Ungeheueres Ungeziefer in Kafka's "Die Verwandlung"
+  | location = Cherry Hill, New Jersey
+  | journal = The German Quarterly
+  | date = May 1960
+  | jstor= 402242
+  | volume = 33
+  | issue = 3
+  | pages = 216–219
+  | doi = 10.2307/402242
+  }}
+* {{cite journal
+  | last = Leiter
+  | first = Louis H.
+  | title = A Problem in Analysis: Franz Kafka's 'A Country Doctor'
+  | location = Philadelphia
+  | journal = The Journal of Aesthetics and Art Criticism
+  | year = 1958
+  | doi = 10.2307/427381
+  | volume = 16
+  | issue = 3
+  | pages = 337–347
+  | jstor = 427381
+  }}
+* {{cite journal
+  | last = Luke
+  | first = F. D.
+  | title = Kafka's 'Die Verwandlung'
+  | date = April 1951
+  | jstor = 3718565
+  | journal = The Modern Language Review
+  | location = Cambridge
+  | volume = 46
+  | issue = 2
+  | pages = 232–245
+  | doi = 10.2307/3718565
+  }}
+* {{cite journal
+  | last = McElroy
+  | first = Bernard
+  | title = The Art of Projective Thinking: Franz Kafka and the Paranoid Vision
+  | date =Summer 1985
+  | doi = 10.1353/mfs.0.0042
+  | journal = Modern Fiction Studies
+  | location = Cambridge
+  | volume = 31
+  | issue = 2
+   | page = 217
+  | s2cid = 170564041
+ }}
+* {{cite journal
+  | last = Panichas
+  | first = George A.
+  | title = Kafka's Afflicted Vision: A Literary-Theological Critique
+  | url = http://www.nhinet.org/panichas17-1&2.pdf
+  | date = 2004
+  | journal = Humanitas
+  | location = Bowie, Maryland
+  | volume = 17
+  | issue = 1–2
+  | access-date = 13 November 2021
+  | archive-date = 16 February 2021
+  | archive-url = https://web.archive.org/web/20210216162803/http://www.nhinet.org/panichas17-1%262.pdf
+  | url-status = live
+  }}
+* {{cite journal
+  | last = Pérez-Álvarez
+  | first = Marino
+  | title = The Schizoid Personality of Our Time
+  | url = https://www.ijpsy.com/volumen3/num2/63/the-schizoid-personality-of-our-time-la-EN.pdf
+  | year = 2003
+  | journal = International Journal of Psychology and Psychological Therapy
+  | location = Almería, Spain
+  | volume = 3
+  | issue = 2
+  | access-date = 9 February 2020
+  | archive-date = 23 September 2020
+  | archive-url = https://web.archive.org/web/20200923150400/https://www.ijpsy.com/volumen3/num2/63/the-schizoid-personality-of-our-time-la-EN.pdf
+  | url-status = live
+  }}
+* {{cite journal
+  | last = Rhine
+  | first = Marjorie E.
+  | title = Untangling Kafka's Knotty Texts: The Translator's Prerogative?
+  | location = Madison, Wisconsin
+  | journal = Monatshefte
+  | volume = 81
+  | issue = 4
+  | pages = 447–458
+  | date =Winter 1989
+  | jstor= 30166262
+  }}
+* {{cite journal
+  | last = Sayer
+  | first = Derek
+  | title = The Language of Nationality and the Nationality of Language: Prague 1780–1920
+  | url = https://wslide.com/the-language-of-nationality-and-the-nationality-of-language-prague-1780-1920
+  | year = 1996
+  | journal = Past and Present
+  | location = Oxford
+  | doi = 10.1093/past/153.1.164
+  | oclc = 394557
+  | volume = 153
+  | issue = 1
+  | page = 164
+  | access-date = 9 February 2020
+  | archive-date = 7 April 2020
+  | archive-url = https://web.archive.org/web/20200407115003/https://wslide.com/the-language-of-nationality-and-the-nationality-of-language-prague-1780-1920
+  | url-status = live
+  }}
+* {{cite journal
+  | last = Sandbank
+  | first = Shimon
+  | title = After Kafka: The Influence of Kafka's Fiction
+  | year = 1992
+  | jstor = 40246852
+  | journal =  Comparative Literature Studies
+  | location = Oxford
+  | volume = 29
+  | issue = 4
+  | pages = 441–443
+  }}
+* {{cite journal
+  | last = Sokel
+  | first = Walter H.
+  | title = Kafka's 'Metamorphosis': Rebellion and Punishment
+  | url = http://msmitchellsaplit12.weebly.com/uploads/4/6/7/4/4674576/12_kafkas_metamorphosis_-_rebellion_and_punishment.pdf
+  | date = April–May 1956
+  | jstor = 30166165
+  | journal = Monatshefte
+  | location = Madison, Wisconsin
+  | volume = 48
+  | issue = 4
+  | pages = 203–214
+  | archive-url = https://web.archive.org/web/20200209183704/http://msmitchellsaplit12.weebly.com/uploads/4/6/7/4/4674576/12_kafkas_metamorphosis_-_rebellion_and_punishment.pdf
+  | archive-date = 9 February 2020
+  }}
+* {{cite journal
+  | last = Steinhauer
+  | first = Harry
+  | title = Franz Kafka: A World Built on a Lie
+  | date =Autumn 1983
+  | jstor = 4611280
+  | journal = The Antioch Review
+  | location = Yellow Springs, Ohio
+  | volume = 41
+  | issue = 4
+  | pages = 390–408
+  | doi = 10.2307/4611280
+  }}
+* {{cite journal
+  | last = Strelka
+  | first = Joseph P.
+  | title = Kafkaesque Elements in Kafka's Novels and in Contemporary Narrative Prose
+  | date =Winter 1984
+  | jstor = 40246504
+  | journal = Comparative Literature Studies
+  | publisher = Pennsylvania State College
+  | volume = 21
+  | issue = 4
+  | pages = 434–444
+  }}
+* {{cite journal
+  | last = Updike
+  | first = John
+  | author-link = John Updike
+  | url = https://www.newyorker.com/magazine/2005/01/24/subconscious-tunnels
+  | title = Subconscious Tunnels: Haruki Murakami's Dreamlike New Novel
+  | newspaper = The New Yorker
+  | date = 24 January 2005
+  | access-date = 22 September 2012
+  | archive-date = 19 August 2014
+  | archive-url = https://web.archive.org/web/20140819192236/http://www.newyorker.com/magazine/2005/01/24/subconscious-tunnels
+  | url-status = live
+  }}
+
+;Newspapers
+* {{cite news
+  | last = Adler
+  | first = Jeremy
+  | url = http://www.textkritik.de/rezensionen/kafka/einl_04.htm
+  | url-access = subscription
+  | date = 13 October 1995
+  | work = [[The New York Times]] Literary Supplement
+  | title = Stepping into Kafka's Head
+  | access-date = 4 August 2012
+  | archive-date = 21 February 2009
+  | archive-url = https://web.archive.org/web/20090221080410/http://www.textkritik.de/rezensionen/kafka/einl_04.htm
+  | url-status = live
+  }}
+* {{cite news
+  | last = Akalaitis
+  | first = JoAnne
+  | author-link = JoAnne Akalaitis
+  | url = https://www.nytimes.com/2001/06/10/arts/theater-adapting-the-horrors-of-a-kafka-story-to-suit-glass-s-music.html?pagewanted=print&src=pm
+  | url-access = limited
+  | title = Adapting the Horrors of a Kafka Story To Suit Glass's Music
+  | date = 10 June 2001
+  | newspaper = The New York Times
+  | access-date = 17 June 2013
+  | archive-date = 23 August 2019
+  | archive-url = https://web.archive.org/web/20190823200102/https://www.nytimes.com/2001/06/10/arts/theater-adapting-the-horrors-of-a-kafka-story-to-suit-glass-s-music.html?pagewanted=print
+  | url-status = live
+  }}
+* {{cite news
+  | last = Apel
+  | first = Friedman
+  | date = 28 August 2012
+| language = de
+  | title = Der Weg in die Ewigkeit führt abwärts / Roland Reuß kramt in Kafkas Zürauer Zetteln
+  | newspaper = Frankfurter Allgemeine Zeitung
+  }}
+* {{cite news
+  | last = Banville
+  | first = John
+  | url = https://www.theguardian.com/books/2011/jan/15/john-banville-kafka-trial-rereading
+  | title = Franz Kafka's Other Trial / An Allegory of the Fallen Man's Predicament, or an Expression of Guilt at a Tormented Love Affair?
+  | date = 14 January 2011
+  | newspaper = The Guardian
+  | access-date = 1 August 2012
+  | location = London
+  | archive-date = 4 July 2019
+  | archive-url = https://web.archive.org/web/20190704184425/https://www.theguardian.com/books/2011/jan/15/john-banville-kafka-trial-rereading
+  | url-status = live
+  }}
+* {{cite news
+  | last = Batuman
+  | first = Elif
+  | url = https://www.nytimes.com/2010/09/26/magazine/26kafka-t.html
+  | url-access = limited
+  | date = 22 September 2010
+  | newspaper = The New York Times
+  | title = Kafka's Last Trial
+  | access-date = 3 August 2012
+  | ref = {{sfnRef|''New York Times''|2010}}
+  | archive-date = 5 July 2019
+  | archive-url = https://web.archive.org/web/20190705202826/https://www.nytimes.com/2010/09/26/magazine/26kafka-t.html
+  | url-status = live
+  }}
+* {{cite news
+  | last = Buehrer
+  | first = Jack
+  | url = http://www.praguepost.com/news/7768-battle-for-kafka-legacy-drags-on.html
+  | archive-url = https://web.archive.org/web/20110615064737/http://www.praguepost.com/news/7768-battle-for-kafka-legacy-drags-on.html
+  | archive-date = 15 June 2011
+  | title = Battle for Kafka Legacy Drags On
+  | date = 9 March 2011
+  | newspaper = The Prague Post
+  | access-date = 29 August 2012
+  }}
+* {{cite news
+  | last = Burrows
+  | first = William
+  | url = https://www.theguardian.com/books/2011/dec/22/franz-kafka-winter-reads
+  | title = Winter Read: The Castle by Franz Kafka
+  | date = 22 December 2011
+  | newspaper = The Guardian
+  | access-date = 27 August 2012
+  | location = London
+  | archive-date = 19 August 2019
+  | archive-url = https://web.archive.org/web/20190819034536/https://www.theguardian.com/books/2011/dec/22/franz-kafka-winter-reads
+  | url-status = live
+  }}
+* {{cite news
+  | last = Connolly
+  | first = Kate
+  | url = https://www.theguardian.com/books/2008/aug/15/franzkafka.germany
+  | title = Porn Claims Outrage German Kafka Scholars
+  | date = 14 August 2008
+  | newspaper = The Guardian
+  | access-date = 3 August 2012
+  | location = London
+  | archive-date = 4 July 2019
+  | archive-url = https://web.archive.org/web/20190704184424/https://www.theguardian.com/books/2008/aug/15/franzkafka.germany
+  | url-status = live
+  }}
+* {{cite news|last=Glazer|first=Hilo|date=18 February 2017|title=A Final Note From Kafka, a Trove of Manuscripts, and a Trial That Left an Israeli Heiress 'Destitute'|url=https://www.haaretz.com/israel-news/.premium.MAGAZINE-a-note-from-kafka-a-trial-and-a-destitute-heiress-1.5436733|work=Haaretz|access-date=10 October 2021|archive-date=10 October 2021|archive-url=https://web.archive.org/web/20211010082849/https://www.haaretz.com/israel-news/.premium.MAGAZINE-a-note-from-kafka-a-trial-and-a-destitute-heiress-1.5436733|url-status=live}}
+* {{cite news
+  | last = Herbort
+  | first = Heinz Josef
+  | url = http://www.zeit.de/1992/38/rundtanz-um-den-tabernakel-der-buerokratie/komplettansicht
+  | title = Franz Kafkas Roman "Das Schloß" als Musiktheater: Aribert Reimanns sechste Oper in Berlin uraufgeführt: Rundtanz um den Tabernakel der Bürokratie
+  | newspaper = [[Die Zeit]]
+  | date = 11 September 1992
+  | page = 23
+  | language = de
+  | access-date = 4 August 2017
+  | archive-date = 30 July 2019
+  | archive-url = https://web.archive.org/web/20190730121544/https://www.zeit.de/1992/38/rundtanz-um-den-tabernakel-der-buerokratie/komplettansicht
+  | url-status = live
+  }}
+* {{cite news
+  | last = Jeal
+  | first = Erica
+  | url = https://www.theguardian.com/music/2014/mar/18/the-commission-cafe-kafka-royal-opera-and-opera-north
+  | title = The Commission/Café Kafka, Royal Opera/Opera North/Aldeburgh Music&nbsp;– Review
+  | date = 18 March 2014
+  | newspaper = The Guardian
+  | access-date = 20 April 2015
+  | location = London
+  | archive-date = 4 July 2019
+  | archive-url = https://web.archive.org/web/20190704184422/https://www.theguardian.com/music/2014/mar/18/the-commission-cafe-kafka-royal-opera-and-opera-north
+  | url-status = live
+  }}
+* {{cite news
+  | last = Kakutani
+  | first = Michiko
+  | url = https://www.nytimes.com/1988/04/02/books/books-of-the-times-kafka-s-kafkaesque-love-letters.html?pagewanted=all&src=pm
+  | title = Books of the Times; Kafka's Kafkaesque Love Letters
+  | date = 2 April 1988
+  | newspaper = The New York Times
+  | access-date = 8 August 2012
+  | archive-date = 23 August 2019
+  | archive-url = https://web.archive.org/web/20190823200056/https://www.nytimes.com/1988/04/02/books/books-of-the-times-kafka-s-kafkaesque-love-letters.html?pagewanted=all
+  | url-status = live
+  }}
+* {{cite news
+  | last = Kenley-Letts
+  | first = Ruth
+  | url = https://movies.nytimes.com/movie/239041/Franz-Kafka-s-It-s-a-Wonderful-Life-/details
+  | year = 1993
+  | title = Franz Kafka's "It's a Wonderful Life" (1993)
+  | archive-url = https://web.archive.org/web/20120929120443/https://movies.nytimes.com/movie/239041/Franz-Kafka-s-It-s-a-Wonderful-Life-/details
+  | archive-date = 29 September 2012
+  | access-date = 4 August 2012
+  | url-status = dead
+  | department = Movies & TV Dept.
+  | work = [[The New York Times]]
+  | ref = {{sfnRef|''New York Times''|1993}}
+  }}
+* {{cite news
+  | last = Kirsch
+  | first = Adam
+  | url = https://www.nytimes.com/2009/01/04/books/review/Kirsch-t.html?pagewanted=all&_moc.semityn.www
+  | url-access = limited
+  | date = 2 January 2009
+  | newspaper = The New York Times
+  | title = America, 'Amerika'
+  | access-date = 25 September 2012
+  | archive-date = 3 March 2020
+  | archive-url = https://web.archive.org/web/20200303003815/https://www.nytimes.com/2009/01/04/books/review/Kirsch-t.html?pagewanted=all&_moc.semityn.www
+  | url-status = live
+  }}
+* {{cite news
+  | last = Lerman
+  | first = Antony
+  | url = https://www.theguardian.com/commentisfree/2010/jul/22/kafka-legacy-israel
+  | date = 22 July 2010
+  | newspaper = The Guardian
+  | title = The Kafka legacy: Who Owns Jewish Heritage?
+  | access-date = 29 August 2012
+  | location = London
+  | archive-date = 4 July 2019
+  | archive-url = https://web.archive.org/web/20190704184424/https://www.theguardian.com/commentisfree/2010/jul/22/kafka-legacy-israel
+  | url-status = live
+  }}
+* {{cite news
+  | last = McCarthy
+  | first = Rory
+  | url = https://www.theguardian.com/world/2009/oct/25/israel-library-franz-kafka-trial
+  | title = Israel's National Library Adds a Final Twist to Franz Kafka's Trial
+  | date = 24 October 2009
+  | newspaper = The Guardian
+  | access-date = 3 August 2012
+  | location = London
+  | archive-date = 4 July 2019
+  | archive-url = https://web.archive.org/web/20190704184424/https://www.theguardian.com/world/2009/oct/25/israel-library-franz-kafka-trial
+  | url-status = live
+  }}
+* {{cite news
+  | last = McLellan
+  | first = Dennis
+  | url = http://www.latimes.com/news/obituaries/la-me-patrick-mcgoohan15-2009jan15,0,3951859.story
+  | title = Patrick McGoohan Dies at 80; TV's 'Secret Agent' and 'Prisoner'
+  | date = 15 January 2009
+  | newspaper = Los Angeles Times
+  | access-date = 17 June 2013
+  | ref = {{sfnRef|''Los Angeles Times''|2009}}
+  | archive-date = 18 December 2013
+  | archive-url = https://web.archive.org/web/20131218024734/http://www.latimes.com/news/obituaries/la-me-patrick-mcgoohan15-2009jan15,0,3951859.story
+  | url-status = live
+  }}
+* {{cite news
+  | last = Metcalfe
+  | first = Anna
+  | url = http://www.ft.com/cms/s/2/bfaf51ba-e05a-11de-8494-00144feab49a.html#axzz1L3wH1OFW
+  | url-access = subscription
+  | date = 5 December 2009
+  | newspaper = Financial Times
+  | title = Small Talk: José Saramago
+  | access-date = 1 August 2012
+  | ref = {{sfnRef|''Financial Times''|2009}}
+  | archive-date = 31 October 2011
+  | archive-url = https://web.archive.org/web/20111031010256/http://www.ft.com/cms/s/2/bfaf51ba-e05a-11de-8494-00144feab49a.html#axzz1L3wH1OFW
+  | url-status = live
+  }}
+* {{cite news
+  | last = O'Connor
+  | first = John J.
+  | url = https://www.nytimes.com/1987/06/04/arts/mcgoohan-a-spy-on-31.html
+  | date = 4 June 1987
+  | newspaper = The New York Times
+  | title = McGoohan a Spy on 31
+  | access-date = 16 June 2013
+  | archive-date = 4 July 2019
+  | archive-url = https://web.archive.org/web/20190704184424/https://www.nytimes.com/1987/06/04/arts/mcgoohan-a-spy-on-31.html
+  | url-status = live
+  }}
+* {{cite news
+  | last1 = Rizzulo
+  | first1 = Rachel
+  | url = http://bachtrack.com/review-nyc-joyce-theater-royal-ballet-metamorphosis
+  | date = 23 September 2013
+  | newspaper = bachtrack
+  | title = The Royal Ballet's Production of ''The Metamorphosis'' with Edward Watson in New York
+  | access-date = 23 January 2014
+  | archive-date = 24 April 2015
+  | archive-url = https://web.archive.org/web/20150424180318/http://bachtrack.com/review-nyc-joyce-theater-royal-ballet-metamorphosis
+  | url-status = live
+  }}
+* {{cite news
+  | last1 = Rudoren
+  | first1 = Jodi
+  | last2 = Noveck
+  | first2 = Myra
+  | url = https://www.nytimes.com/2012/10/15/world/middleeast/woman-must-relinquish-kafka-papers-judge-says.html
+  | url-access = limited
+  | date = 14 October 2012
+  | newspaper = The New York Times
+  | title = Woman Must Relinquish Kafka Papers, Judge Says
+  | access-date = 15 October 2012
+  | archive-date = 4 July 2019
+  | archive-url = https://web.archive.org/web/20190704184420/https://www.nytimes.com/2012/10/15/world/middleeast/woman-must-relinquish-kafka-papers-judge-says.html
+  | url-status = live
+  }}
+* {{cite news
+  | url = https://www.theguardian.com/books/2010/jul/19/lawyers-open-unpublished-kafka-manuscripts
+  | date = 19 July 2010
+  | newspaper = The Guardian
+  | title = Lawyers Open Cache of Unpublished Kafka Manuscripts
+  | access-date = 28 September 2012
+  | ref = {{sfnRef|''Guardian''|2010}}
+  | location = London
+  | first = Mark
+  | last = Tran
+  | archive-date = 21 February 2020
+  | archive-url = https://web.archive.org/web/20200221101517/https://www.theguardian.com/books/2010/jul/19/lawyers-open-unpublished-kafka-manuscripts
+  | url-status = live
+  }}
+
+;Online sources
+* {{cite news
+  | last = Bury
+  | first = Liz
+  | url = https://www.theguardian.com/books/2013/jul/03/franz-kafka-metamorphosis-google-doodle
+  | date = 3 July 2013
+  | work = The Guardian
+  | title = Franz Kafka's Metamorphosis Becomes Google Doodle
+  | access-date = 4 July 2013
+  | location = London
+  | archive-date = 4 July 2019
+  | archive-url = https://web.archive.org/web/20190704184423/https://www.theguardian.com/books/2013/jul/03/franz-kafka-metamorphosis-google-doodle
+  | url-status = live
+  }}
+* {{cite web
+  | last = Coker
+  | first = Rachel
+  | url = http://www.binghamton.edu/inside/index.php/inside/story/kafka-expert-links-teaching-research
+  | date = 4 January 2012
+  | publisher = State University of New York
+  | location = Binghamton
+  | title = Kafka Expert Links Teaching, Research
+  | access-date = 30 August 2012
+  | archive-date = 4 July 2019
+  | archive-url = https://web.archive.org/web/20190704184427/https://www.binghamton.edu/inside/index.php/inside/story/kafka-expert-links-teaching-research
+  | url-status = live
+  }}
+* {{cite web
+  | last = Ernst
+  | first = Nathan
+  | url = http://modernism.research.yale.edu/wiki/index.php/The_Judgment
+  | year = 2010
+  | publisher = Yale University
+  | work = The Modernismm Lab
+  | title = The Judgement
+  | access-date = 9 October 2012
+  | url-status = dead
+  | archive-url = https://web.archive.org/web/20130521162011/http://modernism.research.yale.edu/wiki/index.php/The_Judgment
+  | archive-date = 21 May 2013
+  }}
+* {{cite web
+  | last = Frenkel
+  | first = Sheera
+  | url = https://www.npr.org/2012/05/30/153985994/kafkas-final-absurdist-tale-plays-out-in-tel-aviv
+  | date = 30 May 2012
+  | publisher = NPR
+  | title = Kafka's Final Absurdist Tale Plays Out in Tel Aviv
+  | access-date = 28 September 2012
+  | ref = {{sfnRef|NPR|2012}}
+  | archive-date = 18 April 2018
+  | archive-url = https://web.archive.org/web/20180418031700/https://www.npr.org/2012/05/30/153985994/kafkas-final-absurdist-tale-plays-out-in-tel-aviv
+  | url-status = live
+  }}
+* {{cite web
+  | last = Ghosh
+  | first = Pothik
+  | title = A Note on Kafka and the Question of Revolutionary Subjectivity
+  | publisher = Hindu College&nbsp;– Delhi University
+  | date = 13 March 2009
+  | url = http://radicalnotes.com/content/view/92/39
+  | archive-url = https://web.archive.org/web/20101024091748/http://radicalnotes.com/content/view/92/39
+  | archive-date = 24 October 2010
+  | access-date = 6 August 2012
+  | via = Radical Notes
+  }}
+* {{cite web
+  | last = Horstkotte
+  | first = Silke
+  | title = Kunst und Künstlerverständnis in Kafkas 'Josefine, die Sängering oder Das Volk der Mäuse'
+  | publisher = University of Leipzig
+  | year = 2009
+  | language = de
+  | url = http://dokumente-online.com/kunst-und-kuenstlerverstaendnis-in-kafkas.html
+  | access-date = 31 August 2012
+  | archive-date = 22 November 2017
+  | archive-url = https://web.archive.org/web/20171122105538/https://dokumente-online.com/kunst-und-kuenstlerverstaendnis-in-kafkas.html
+  | url-status = live
+  }}
+* {{cite web
+  | last = Kafka
+  | first = Franz
+  | url = http://www.kafka-franz.com/KAFKA-letter.htm
+  | archive-url = https://web.archive.org/web/20110713133359/http://www.kafka-franz.com/KAFKA-letter.htm
+  | archive-date = 13 July 2011
+  | year = 2012
+  | publisher = Kafka-Franz
+  | title = Franz Kafka Letter to his Father
+  | access-date = 3 August 2012
+  | ref = {{sfnRef|Kafka-Franz, Father|2012}}
+  }}
+* {{cite web
+  | last = Keynes
+  | first = Laura
+  | url = http://www.onlinereviewlondon.com/index.php?option=com_content&view=article&id=215:kafkas-dick&catid=161:kafkas-dick&Itemid=243
+  | date = August 2005
+  | work = Times Literary Supplement
+  | title = Kafka's Dick
+  | access-date = 4 August 2012
+  | ref = {{sfnRef|Times Literary Supplement|2005}}
+  | url-status = dead
+  | archive-url = https://web.archive.org/web/20120219091140/http://www.onlinereviewlondon.com/index.php?option=com_content&view=article&id=215%3Akafkas-dick&catid=161%3Akafkas-dick&Itemid=243
+  | archive-date = 19 February 2012
+  }}
+* {{cite web
+  | last = Köhler
+  | first = Manfred
+  | language = de
+  | url = http://www.protemion.de/zettel/kafkafelice.htm
+  | year = 2012
+  | publisher = Protemion
+  | title = Franz Kafka und Felice Bauer
+  | access-date = 6 August 2012
+  | archive-date = 3 March 2016
+  | archive-url = https://web.archive.org/web/20160303213956/http://www.protemion.de/zettel/kafkafelice.htm
+  | url-status = live
+  }}
+* {{cite web
+  | last = Kreis
+  | first = Steven
+  | url = http://www.historyguide.org/europe/kafka.html
+  | date = 28 February 2006
+  | work = History Guide
+  | title = Franz Kafka, 1883–1924
+  | access-date = 5 August 2012
+  | ref = {{sfnRef|History Guide|2006}}
+  | archive-date = 25 September 2017
+  | archive-url = https://web.archive.org/web/20170925115802/http://www.historyguide.org/europe/kafka.html
+  | url-status = live
+  }}
+* {{cite news
+  | last = Milner
+  | first = Catherine
+  | url = https://www.telegraph.co.uk/foodanddrink/3321254/If-Kafka-made-the-dinner....html
+  | date = 27 August 2005
+  | newspaper = The Telegraph
+  | title = If Kafka Made the Dinner...
+  | access-date = 25 August 2012
+  | archive-date = 5 November 2014
+  | archive-url = https://web.archive.org/web/20141105221124/http://www.telegraph.co.uk/foodanddrink/3321254/If-Kafka-made-the-dinner....html
+  | url-status = live
+  }}
+* {{cite web
+  | last = Miron
+  | first = Dan
+  | url = http://www.haaretz.com/hasen/spages/1040561.html
+  | date = 24 November 2008
+  | work = Haaretz
+  | title = Sadness in Palestine
+  | access-date = 1 August 2012
+  | ref = {{sfnRef|Haaretz|2008}}
+  | archive-date = 20 December 2008
+  | archive-url = https://web.archive.org/web/20081220232543/http://www.haaretz.com/hasen/spages/1040561.html
+  | url-status = live
+  }}
+* {{cite web
+  | last = Ozorio
+  | first = Anne
+  | url = http://www.operatoday.com/content/2010/11/gyorgy_kurtag_-.php
+  | date = 18 November 2010
+  | work = Opera Today
+  | title = György Kurtág&nbsp;– Kafka Fragments, London
+  | access-date = 4 August 2012
+  | ref = {{sfnRef|Opera Today|2010}}
+  | archive-date = 24 June 2017
+  | archive-url = https://web.archive.org/web/20170624132822/http://www.operatoday.com/content/2010/11/gyorgy_kurtag_-.php
+  | url-status = live
+  }}
+* {{cite web
+  | last = Prinsky
+  | first = Norman
+  | url = http://www.aug.edu/~nprinsky/Humn2002/KafkaMetamorphNQ.htm
+  | year = 2002
+  | publisher = Augusta State University
+  | title = Humn. 2002: World Humanities II. Notes and Questions on Franz Kafka's "The Metamorphosis" / "The Transformation"
+  | access-date = 2 September 2012
+  | url-status = dead
+  | archive-url = https://web.archive.org/web/20121011030606/http://www.aug.edu/~nprinsky/Humn2002/KafkaMetamorphNQ.htm
+  | archive-date = 11 October 2012
+  }}
+* {{cite web
+  | last = Rahn
+  | first = Josh
+  | url = http://www.online-literature.com/periods/existentialism.php
+  | year = 2011
+  | publisher = Online Literature
+  | title = Existentialism
+  | access-date = 5 August 2012
+  | archive-date = 29 September 2017
+  | archive-url = https://web.archive.org/web/20170929022351/http://www.online-literature.com/periods/existentialism.php
+  | url-status = live
+  }}
+* {{cite web
+  | last = Rastalsky
+  | first = Hartmut M.
+  | url = http://www.lsa.umich.edu/german/hmr/dissertation/10kafka.doc
+  | publisher = University of Michigan
+  | title = The Referential Kafka
+  | year = 1997
+  | access-date = 22 August 2012
+  | archive-date = 22 June 2012
+  | archive-url = https://web.archive.org/web/20120622022057/http://www.lsa.umich.edu/german/hmr/dissertation/10kafka.doc
+  | url-status = live
+  }}
+* {{cite web
+  | last = Samuelson
+  | first = Arthur
+  | url = http://www.jhom.com/bookshelf/kafka/intro.html
+  | publisher = Jewish Heritage
+  | title = A Kafka for the 21st Century
+  | access-date = 2 August 2012
+  | ref = {{sfnRef|Jewish Heritage|2012}}
+  | url-status = dead
+  | archive-url = https://web.archive.org/web/20120505021933/http://jhom.com/bookshelf/kafka/intro.html
+  | archive-date = 5 May 2012
+  }}
+* {{cite web
+  | last = Seubert
+  | first = Harald
+  | url = http://kulturportal-west-ost.eu/biographies/bauer-felice-2/
+  | title = Bauer, Felice
+  | publisher = Kulturportal-west-ost.eu
+  | language = de
+  | quote = Knochiges leeres Gesicht, das seine Leere offen trug. Freier Hals. Überworfene Bluse&nbsp;... Fast zerbrochene Nase. Blondes, etwas steifes, reizloses Haar, starkes Kinn.
+  | access-date = 2 August 2012
+  | ref = {{sfnRef|Seubert|2012}}
+  | archive-date = 15 July 2014
+  | archive-url = https://web.archive.org/web/20140715070817/http://kulturportal-west-ost.eu/biographies/bauer-felice-2
+  | url-status = live
+  }}
+* {{cite journal
+  | last = Stone
+  | first = Peter H.
+  | url = http://www.theparisreview.org/interviews/3196/the-art-of-fiction-no-69-gabriel-garcia-marquez
+  | title = Gabriel Garcia Marquez, The Art of Fiction No. 69
+  | issue = 82
+  | journal = The Paris Review
+  | volume = Winter 1981
+  | access-date = 4 August 2012
+  | ref = {{sfnRef|Paris Review|2012}}
+  | year = 1981
+  | archive-url = https://web.archive.org/web/20140510185120/http://www.theparisreview.org/interviews/3196/the-art-of-fiction-no-69-gabriel-garcia-marquez
+  | archive-date = 10 May 2014
+  | url-status = dead
+  }}
+* {{cite news
+  | url = https://www.theguardian.com/books/1930/apr/04/classics.culture
+  | work = The Guardian
+  | title = Allegory
+  | access-date = 22 August 2012
+  | ref = {{sfnRef|''Guardian''|1930}}
+  | location = London
+  | date = 4 April 1930
+  | archive-date = 4 July 2019
+  | archive-url = https://web.archive.org/web/20190704184424/https://www.theguardian.com/books/1930/apr/04/classics.culture
+  | url-status = live
+  }}
+* {{cite web
+  | url = http://www.amrep.org/articles/3_3c/disappearing.html
+  | year = 2005
+  | publisher = American Repertory Theatre
+  | title = Disappearing Act
+  | access-date = 3 August 2012
+  | archive-url = https://web.archive.org/web/20080501080645/http://www.amrep.org/articles/3_3c/disappearing.html
+  | archive-date = 1 May 2008
+  | ref = {{sfnRef|Repertory|2005}}
+  }}
+* {{cite web
+  | url = http://www.bbc.co.uk/programmes/b010glpd
+  | year = 2012
+  | publisher = BBC
+  | title = Drama on BBC Radio 3, ''Kafka the Musical''
+  | access-date = 1 August 2012
+  | ref = {{sfnRef|BBC|2012}}
+  | archive-date = 14 April 2016
+  | archive-url = https://web.archive.org/web/20160414062511/http://www.bbc.co.uk/programmes/b010glpd
+  | url-status = live
+  }}
+* {{cite web
+  | url = http://www.kohoutikriz.org/priloha/kafka.php
+  | year = 2011
+  | language = cs
+  | publisher = The Research Library of South Bohemia in České Budějovice
+  | title = Franz Kafka
+  | access-date = 3 October 2012
+  | ref = {{sfnRef|Kohoutikriz|2011}}
+  | archive-date = 19 September 2017
+  | archive-url = https://web.archive.org/web/20170919195519/http://www.kohoutikriz.org/priloha/kafka.php
+  | url-status = live
+  }}
+* {{cite web
+  | url = http://www.egs.edu/library/franz-kafka/articles/
+  | archive-url = https://web.archive.org/web/20121027210534/http://www.egs.edu/library/franz-kafka/articles/
+  | archive-date = 27 October 2012
+  | year = 2012
+  | publisher = European Graduate School
+  | title = Franz Kafka&nbsp;– Articles
+  | access-date = 22 August 2012
+  | ref = {{sfnRef|European Graduate School, Articles|2012}}
+  }}
+* {{cite web
+  | url = http://www.egs.edu/library/franz-kafka/biography/
+  | archive-url = https://web.archive.org/web/20120915131636/http://www.egs.edu/library/franz-kafka/biography/
+  | archive-date = 15 September 2012
+  | year = 2012
+  | publisher = European Graduate School
+  | title = Franz Kafka&nbsp;– Biography
+  | access-date = 7 August 2012
+  | ref = {{sfnRef|European Graduate School|2012}}
+  }}
+* {{cite web
+  | url = http://www.hans-werner-henze-stiftung.de/hans-werner-henze/werkverzeichnis/detail/news/detail/News/ein-landarzt/
+  | publisher = Hans Werner Henze Stiftung
+  | title = Ein Landarzt Rundfunkoper auf die Erzählung von Franz Kafka
+  | language = de
+  | access-date = 6 February 2019
+  | ref = {{sfnRef|Henze|1951}}
+  | archive-date = 7 February 2019
+  | archive-url = https://web.archive.org/web/20190207014849/http://www.hans-werner-henze-stiftung.de/hans-werner-henze/werkverzeichnis/detail/news/detail/News/ein-landarzt/
+  | url-status = live
+  }}
+* {{cite web
+  | url = http://libcom.org/library/franz-kafka-libertarian-socialism
+  | date = 14 December 2008
+  | publisher = Libertarian-Socialism
+  | title = Franz Kafka and Libertarian Socialism
+  | access-date = 3 August 2012
+  | ref = {{sfnRef|Lib.com|2008}}
+  | archive-date = 12 October 2017
+  | archive-url = https://web.archive.org/web/20171012090102/http://libcom.org/library/franz-kafka-libertarian-socialism
+  | url-status = live
+  }}
+* {{cite web
+  | url = https://kafkamuseum.cz/en/
+  | year = 2005
+  | publisher = Franz Kafka Museum
+  | title = Franz Kafka Museum
+  | access-date = 7 August 2012
+  | ref = {{sfnRef|Kafka Museum|2005}}
+  | archive-date = 19 November 2018
+  | archive-url = https://web.archive.org/web/20181119133014/https://kafkamuseum.cz/en/
+  | url-status = live
+  }}
+* {{cite web
+  | url = http://www.franzkafka-soc.cz/cena-franze-kafky/
+  | year = 2011
+  | publisher = Franz Kafka Society
+  | title = The Franz Kafka Prize
+  | access-date = 1 August 2012
+  | ref = {{sfnRef|Kafka Society|2011}}
+  | archive-date = 13 January 2017
+  | archive-url = https://web.archive.org/web/20170113073540/http://www.franzkafka-soc.cz/cena-franze-kafky
+  | url-status = live
+  }}
+* {{cite web
+  | url = http://gutenberg.spiegel.de/buch/162/5
+  | publisher = Project Gutenberg&nbsp;– Spiegel Online
+  | title = Franz Kafka: Tagebücher 1910–1923&nbsp;– Kapitel 5
+  | work = Der Spiegel
+  | date = 21 June 1913
+  | language = de
+  | access-date = 29 August 2012
+  | quote = Die ungeheure Welt, die ich im Kopfe habe. Aber wie mich befreien und sie befreien, ohne zu zerreißen. Und tausendmal lieber zerreißen, als in mir sie zurückhalten oder begraben. Dazu bin ich ja hier, das ist mir ganz klar.
+  | ref = {{sfnRef|Project Gutenberg|2012}}
+  | archive-date = 6 January 2014
+  | archive-url = https://web.archive.org/web/20140106034453/http://gutenberg.spiegel.de/buch/162/5
+  | url-status = live
+  }}
+* {{cite web
+  | url = http://www.kafka-franz.com/franz-kafka-writing.htm
+  | archive-url = https://web.archive.org/web/20101220032453/http://kafka-franz.com/franz-kafka-writing.htm
+  | archive-date = 20 December 2010
+  | year = 2011
+  | publisher = Kafka-Franz
+  | title = Franz Kafka Writing
+  | access-date = 1 August 2012
+  | ref = {{sfnRef|Kafka-Franz|2012}}
+  }}
+* {{cite news
+  | url = http://www.socialistworker.co.uk/art.php?id=10923
+  | date = 17 March 2007
+  | publisher = Socialist Worker Online
+  | title = Franz Kafka: Writing of the System's Despair and Alienation
+  | newspaper = Socialist Worker (Britain)
+ | access-date = 6 August 2012
+  | ref = {{sfnRef|Socialist Worker|2007}}
+  | archive-date = 3 October 2015
+  | archive-url = https://web.archive.org/web/20151003174917/http://www.socialistworker.co.uk/art.php?id=10923
+  | url-status = live
+  }}
+* {{cite web
+  | url = http://www.textkritik.de/kafkazs/kafkadrucke.htm
+  | year = 2008
+  | publisher = ITK Institut für Textkritik
+  | title = Faksimiles der Kafka-Drucke zu Lebzeiten (Zeitschriften und Zeitungen)
+  | language = de
+  | access-date = 28 August 2012
+  | ref = {{sfnRef|Itk|2008}}
+  | archive-date = 24 September 2017
+  | archive-url = https://web.archive.org/web/20170924060014/http://www.textkritik.de/kafkazs/kafkadrucke.htm
+  | url-status = live
+  }}
+* {{cite web
+  | url = https://www.franzkafka.de/leben/frauen/grete-bloch
+  | publisher = S. Fischer Verlag
+  | title = Grete Bloch
+  | language = de
+  | access-date = 24 August 2012
+  | ref = {{sfnRef|S. Fischer|2012}}
+  | archive-date = 20 September 2020
+  | archive-url = https://web.archive.org/web/20200920234134/https://www.franzkafka.de/leben/frauen/grete-bloch
+  | url-status = live
+  }}
+* {{cite web
+  | url = http://www.albany.edu/writers-inst/webpages4/filmnotes/fnf01n6.html
+  | publisher = State University of New York
+  | work = New York State Writer's Institute
+  | title = Kafka
+  | access-date = 4 August 2012
+  | ref = {{sfnRef|Writer's Institute|1992}}
+  | archive-date = 23 January 2020
+  | archive-url = https://web.archive.org/web/20200123063220/https://www.albany.edu/writers-inst/webpages4/filmnotes/fnf01n6.html
+  | url-status = live
+  }}
+* {{cite web
+  | url = http://www.atlegerhardsen.com/pages/lothar_hempel/presse_eng_0802.htm
+  | year = 2002
+  | publisher = Atlegerhardsen
+  | title = Lothar Hempel
+  | access-date = 2 August 2012
+  | archive-url = https://web.archive.org/web/20050924095502/http://www.atlegerhardsen.com/pages/lothar_hempel/presse_eng_0802.htm
+  | archive-date = 24 September 2005
+  | ref = {{sfnRef|Hempel|2002}}
+  }}
+* {{cite web
+  | url = http://www.literaturhaus.at/headlines/1999/01/142/
+  | archive-url = https://web.archive.org/web/20010607003313/http://www.literaturhaus.at/headlines/1999/01/142/
+  | year = 1999
+  | publisher = LiteraturHaus
+  | language = de
+  | title = Musils 'Mann ohne Eigenschaften' ist 'wichtigster Roman des Jahrhunderts'
+  | access-date = 22 August 2012
+  | archive-date = 7 June 2001
+  | ref = {{sfnRef|LiteraturHaus|1999}}
+  }}
+* {{cite web
+  | url = http://www.wellesnet.com/trial%20bbc%20interview.htm
+  | year = 1962
+  | publisher = Welles Net
+  | title = Orson Welles on ''The Trial'' (BBC interview)
+  | access-date = 22 September 2012
+  | ref = {{sfnRef|Welles Net|1962}}
+  | archive-date = 17 November 2017
+  | archive-url = https://web.archive.org/web/20171117061211/http://www.wellesnet.com/trial%20bbc%20interview.htm
+  | url-status = live
+  }}
+* {{cite web
+  | url = http://www.kafka-research.ox.ac.uk/
+  | year = 2012
+  | publisher = University of Oxford
+  | title = Oxford Kafka Research Centre
+  | access-date = 8 October 2012
+  | ref = {{sfnRef|Oxford Kafka Research Centre|2012}}
+  | archive-date = 18 October 2017
+  | archive-url = https://web.archive.org/web/20171018182027/http://www.kafka-research.ox.ac.uk/
+  | url-status = live
+  }}
+* {{cite web
+  | url = http://www.poulruders.net/biography.htm
+  | archive-url = https://web.archive.org/web/20120204163258/http://www.poulruders.net/biography.htm
+  | archive-date = 4 February 2012
+  | date = June 2005
+  | publisher = Poul Ruders
+  | title = Poul Ruders Biography&nbsp;– 06/2005
+  | access-date = 4 August 2012
+  | ref = {{sfnRef|Ruders|2005}}
+  }}
+* {{cite web
+  | url = http://www.kafkaproject.com/
+  | year = 2012
+  | publisher = Kafka Project, San Diego State University
+  | title = Solving a Literary Mystery
+  | access-date = 25 August 2012
+  | ref = {{sfnRef|Kafka Project SDSU|2012}}
+  | archive-date = 19 March 2018
+  | archive-url = https://web.archive.org/web/20180319021509/http://kafkaproject.com/
+  | url-status = live
+  }}
+* {{cite web
+  | url = http://h-a-z-e.org/archives/1059
+  | year = 2012
+  | publisher = HAZE Netlabel
+  | title = Sound Interpretations&nbsp;– Dedication To Franz Kafka
+  | access-date = 4 October 2012
+  | ref = {{sfnRef|HAZE|2012}}
+  | url-status = dead
+  | archive-url = https://web.archive.org/web/20121009233821/http://h-a-z-e.org/archives/1059
+  | archive-date = 9 October 2012
+  }}
+* {{cite web
+  | url = http://www.mzv.cz/telaviv/en/visa_and_consular_services/citizenship/who_is_citizen_guide_to_czech.html
+  | date = 25 October 2012
+  | publisher = Embassy of the Czech Republic in Tel Aviv
+  | title = Who Is Citizen? Guide to Czech Citizenship in 1918–1949
+  | access-date = 17 June 2013
+  | ref = {{sfnRef|Czech Embassy|2012}}
+  | archive-date = 25 August 2017
+  | archive-url = https://web.archive.org/web/20170825105125/http://www.mzv.cz/telaviv/en/visa_and_consular_services/citizenship/who_is_citizen_guide_to_czech.html
+  | url-status = live
+  }}
+{{refend}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite book
+  | last = Gray
+  | first = Ronald
+  | author-link = Ronald Gray
+  | title = Kafka: A Collection of Critical Essays
+  | url = https://archive.org/details/kafkacollectiono00gray
+  | url-access = registration
+  | year = 1962
+  | publisher = Prentice-Hall
+  | location = Englewood Cliffs, New Jersey
+  | isbn = 978-1-199-77830-7
+  }}
+* {{cite book
+  | last = Greenberg
+  | first = Martin
+  | author-link = Martin Greenberg (poet)
+  | title = The Terror of Art: Kafka and Modern Literature
+  | year = 1968
+  | publisher = Basic Books
+  | location = New York
+  | isbn = 978-0-465-08415-9
+  }}
+* {{cite book
+  | last1 = Deleuze
+  | first1 = Gilles
+  | author-link1 = Gilles Deleuze
+  | last2 = Guattari
+  | first2 = Félix
+  | author-link2 = Félix Guattari
+  | title = Kafka: Toward a Minor Literature
+  | series = Theory and History of Literature
+  | volume = 30
+  | year = 1986
+  | publisher = University of Minnesota Press
+  | location = Minneapolis
+  | isbn = 978-0-8166-1515-5
+  }}
+* {{cite book
+  | last = Glatzer
+  | first = Nahum Norbert
+  | author-link = Nahum Norbert Glatzer
+  | title = The Loves of Franz Kafka
+  | year = 1986
+  | publisher = Schocken Books
+  | location = New York
+  | isbn = 978-0-8052-4001-6
+  | url = https://archive.org/details/lovesoffranzkafk00glat
+  }}
+* {{cite book
+  | last = Glasauer
+  | first = Willi
+  | author-link = Willi Glasauer
+  | title = Exposición Kafka & CIA.: Hitos y Mitos de la Cultura Dibujos
+  | language = es
+  | year = 1986
+  | publisher = Círculo de Lectores
+  | location = Barcelona
+  }}
+* {{cite book
+  | last = Glasauer
+  | first = Willi
+  | author-link = Willi Glasauer
+  | title = Kafka Gesamtwerk
+  | year = 1986
+  | publisher = Círculo de Lectores
+  | location = Barcelona
+  }}
+* {{cite book
+  | last = Citati
+  | first = Pietro
+  | author-link = Pietro Citati
+  | title = Kafka
+  | year = 1987
+  | publisher = Alfred A. Knopf
+  | location = New York
+  | isbn = 978-0-394-56840-9
+  | url-access = registration
+  | url = https://archive.org/details/kafka00cita
+  }}
+* {{cite book
+  | last1 = Montalbán
+  | first1 = Manuel Vázquez
+  | author-link1 = Manuel Vázquez Montalbán
+  | last2 = Glasauer
+  | first2 = Willi
+  | author-link2 = Willi Glasauer
+  | title = Escenas de la Literatura Universal y Retratos de Grandes Autores
+  | language = es
+  | year = 1988
+  | publisher = Círculo de Lectores
+  | location = Barcelona
+  }}
+* {{cite book
+  | last = Heller
+  | first = Paul
+  | author-link = Paul Heller
+  | title = Franz Kafka: Wissenschaft und Wissenschaftskritik
+  | year = 1989
+  | language = de
+  | publisher = Stauffenburg
+  | location = Tübingen
+  | isbn = 978-3-923721-40-5
+  }}
+* {{cite book
+  | last = Czech
+  | first = Danuta
+  | author-link = Danuta Czech
+  | title = Kalendarz wydarzeń w KL Auschwitz
+  | language = pl
+  | year = 1992
+  | publisher = Wydawn
+  | location = Oświęcim
+  }}
+* {{cite journal
+  | last = Kopić
+  | first = Mario
+  | author-link = Mario Kopić
+  | title = Franz Kafka and Nationalism
+  | location = Amsterdam
+  | journal = Erewhon: An International Quarterly
+  | year = 1995
+  | volume = 2
+  | issue = 2
+  }}
+* {{cite book
+  | last = Hayman
+  | first = Ronald
+  | author-link = Ronald Hayman
+  | title = K: A Biography of Kafka
+  | year = 2001
+  | publisher = Phoenix Press
+  | location = London
+  | isbn = 978-1-84212-415-4
+  }}
+* {{cite book
+  | last = Coots
+  | first = Steve
+  | title = Franz Kafka (Beginner's Guide)
+  | year = 2002
+  | publisher = Hodder & Stoughton
+  | location = London
+  | isbn = 978-0-340-84648-3
+  }}
+* {{cite book
+  | last = Calasso
+  | first = Roberto
+  | author-link = Roberto Calasso
+  | title = K.
+  | year = 2005
+  | publisher = Alfred A. Knopf
+  | location = New York
+  | isbn = 978-1-4000-4189-3
+  | url = https://archive.org/details/k00cala
+  }}
+* {{cite book
+  | last = Begley
+  | first = Louis
+  | author-link = Louis Begley
+  | title = The Tremendous World I Have Inside My Head, Franz Kafka: A Biographical Essay
+  | year = 2008
+  | publisher = Atlas & Co.
+  | location = New York
+  | isbn = 978-1-934633-06-9
+  | url = https://archive.org/details/tremendousworldi0000begl
+  }}
+* {{cite book
+  | last1 = Corngold
+  | first1 = Stanley
+  | last2 = Wagner
+  | first2 = Benno
+  | title = Franz Kafka: The Ghosts in the Machine
+  | location = Evanston, Illinois
+  | publisher = Northwestern University Press
+  | year = 2011
+  | isbn = 978-0-8101-2769-2
+  }}
+* {{cite book
+  | last1 = Corngold
+  | first1 = Stanley
+  | last2 = Gross
+  | first2 = Ruth V.
+  | title = Kafka for the Twenty-First Century
+  | year = 2011
+  | publisher = Camden House
+  | location = New York
+  | isbn = 978-1-57113-482-0
+  }}
+* {{cite book
+  | last = Lundberg
+  | first = Phillip
+  | title = Essential Kafka: Rendezvous with Otherness
+  | year = 2011
+  | publisher = Authorhouse
+  | isbn = 978-1-4389-9021-7
+  }}
+* {{cite book
+  | last = Major
+  | first = Michael
+  | title = Kafka&nbsp;... For Our Time
+  | year = 2011
+  | publisher = Harcourt Publishing
+  | location = San Diego, [California
+  | isbn = 978-0-9567982-1-3
+  }}
+* {{cite book
+  | last = Suchoff
+  | first = David
+  | title = Kafka's Jewish Languages: The Hidden Openness of Tradition
+  | year = 2012
+  | publisher = University of Pennsylvania Press
+  | location = Philadelphia
+  | isbn = 978-0-8122-4371-0
+  }}
+* {{cite book
+  | last = Thiher
+  | first = Allen
+  | title = Franz Kafka: A Study of the Short Fiction
+  | series = Twayne's Studies in Short Fiction
+  | volume = 12
+  | year = 2012
+  | publisher = University of Pennsylvania Press
+  | location = Philadelphia
+  | isbn = 978-0-8057-8323-0
+  }}
+* {{cite book
+  | last = Baruffi
+  | first = Alessandro
+  | title = The Tales of Franz Kafka: English Translation with Original Text in German
+  | year = 2016
+  | publisher = LiteraryJoint Press
+  | location = Philadelphia, Pennsylvania
+  | isbn = 978-1-329-82109-5
+  }}
+* [[Ritchie Robertson|Robertson, Ritchie]], ''Kafka: A Very Short Introduction'' (Oxford: OUP, 2004); illustrated edition titled ''Kafka: A Brief Insight'' (New York: Sterling Publishing Co., Inc., 2010)
+
+'''Journals'''
+* {{cite journal
+  | last = Ryan
+  | first = Michael P.
+  | s2cid = 59481029
+  | title = Samsa and Samsara: Suffering, Death and Rebirth in 'The Metamorphosis'
+  | year = 1999
+  | journal = German Quarterly
+  | location = Durham, North Carolina
+  | volume = 72
+  | issue = 2
+  | pages = 133–152
+  | doi = 10.2307/408369
+  | jstor = 408369
+  }}
+* {{cite web
+ |last         = Kopić
+ |first        = Mario
+ |author-link  = Mario Kopić
+ |year         = 2004
+ |url          = http://www.odjek.ba/eng/index.php?broj=02&id=06
+ |publisher    = Odjek
+ |title        = Kafka and Nationalism
+ |access-date  = 10 September 2013
+ |archive-url  = https://web.archive.org/web/20131012015421/http://www.odjek.ba/eng/index.php?broj=02&id=06
+ |archive-date = 12 October 2013
+ |url-status   = dead
+}}
+* {{cite journal
+  | last = Danta
+  | first = Chris
+  | title = Sarah's Laughter: Kafka's Abraham
+  | date = April 2008
+  | volume = 15
+  | issue = 2
+  | location = Baltimore, Maryland
+  | journal = Modernism/Modernity
+  | pages = 343–359
+  | doi = 10.1353/mod.2008.0048
+  | s2cid = 170492502
+ }}
+* {{cite journal
+  | last = Jirsa
+  | first = Tomáš
+  | title = Reading Kafka Visually: Gothic Ornament and the Motion of Writing in Kafka's ''Der Process''
+  | url = https://s3.amazonaws.com/academia.edu.documents/44708599/Reading_Kafka_Visually_Gothic_Ornament_and_the_Motion_of_Writing_in_Kafka_s_Der_Process.pdf?response-content-disposition=inline%3B%20filename%3DReading_Kafka_Visually_Gothic_Ornament_a.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200209T184401Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e4f053675f5c0365d9dd6f88807e51fd367f0c9578690b45886e993215525654
+  | year = 2015
+  | journal = Central Europe
+  | location = London
+  | volume = 13
+  | issue = 1–2
+  | pages = 36–50
+  | doi = 10.1080/14790963.2015.1107322
+  | s2cid = 159892429
+  | archive-url = https://web.archive.org/web/20200209184455/https://s3.amazonaws.com/academia.edu.documents/44708599/Reading_Kafka_Visually_Gothic_Ornament_and_the_Motion_of_Writing_in_Kafka_s_Der_Process.pdf?response-content-disposition=inline%3B%20filename%3DReading_Kafka_Visually_Gothic_Ornament_a.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200209T184401Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e4f053675f5c0365d9dd6f88807e51fd367f0c9578690b45886e993215525654
+  | archive-date = 9 February 2020
+  }}
+* {{cite web
+  | last = McGee
+  | first = Kyle
+  | url = http://www.kafka.org/index.php?id=185,290,0,0,1,0
+  | title = Fear and Trembling in the Penal Colony
+  | work = Kafka Project
+  | access-date = 26 April 2013
+  | archive-date = 28 June 2010
+  | archive-url = https://web.archive.org/web/20100628232215/http://www.kafka.org/index.php?id=185,290,0,0,1,0
+  | url-status = live
+  }}
+{{refend}}
+
+== External links ==
+<!-- Please do not add links here unless you are absolutely certain they conform to Wikipedia guidelines. See:[http://en.wikipedia.org/wiki/Wikipedia:External_links Wikipedia:External links - Wikipedia, the free encyclopedia] at en.wikipedia.org for more information. -->
+
+{{Sister project links|wikt=|mw=no|d=Q905|b=no|v=no|s=Author:Franz Kafka|voy=no|n=no}}
+{{wiktionary|Kafkaesque}}
+{{Wikisourcelang|de|Franz Kafka}}
+* {{DNB portal|118559230}}
+* {{Gutenberg author |id=Kafka,+Franz}}
+* {{Isfdb name|id=15578|name=Franz Kafka}}
+* {{Internet Archive author |sname=Kafka}}
+* {{IMDb name}}
+* {{Librivox author |id=100}}
+* [http://www.kafka-research.ox.ac.uk/ Oxford Kafka Research Centre]&nbsp;– information on ongoing international Kafka research
+* [https://wordandsilence.com/2016/09/26/kafkas-diaries/ Translated excerpts from Kafka's Diaries 1910–1923]
+* {{Curlie|Arts/Literature/Authors/K/Kafka%2C_Franz/}}
+* [http://www.gerard-bertrand.net/albumprem.htm The Album of Franz Kafka], Franz Kafka receives a tribute in this album of "recomposed photographs".
+* [http://www.franzkafka.info/ Journeys of Franz Kafka] Photographs of places where Kafka lived and worked
+* [https://www.bbc.com/news/in-pictures-57267874 Franz Kafka: Manuscripts, drawings and personal letters] [[BBC]]
+* [http://www.franzkafka-soc.cz/index.php?action=view&page=cnakladatelstvi Společnost Franze Kafky a nakladatelství Franze Kafky] Franz Kafka Society and Publishing House in Prague
+* [https://www.youtube.com/watch?v=wkPR4Rcf4ww What makes something "Kafkaesque"?] A Ted talk on Kafka, his works and his legacy, by Noah Tavlin
+
+{{Navboxes
+ |title = Franz Kafka
+ |titlestyle = background:#ccccff
+ |list =
+{{Kafka}}
+{{The Trial}}
+{{The Castle}}
+{{The Metamorphosis}}
+{{Kafka adaptations}} }}
+{{Navboxes
+ |list =
+{{Modernism}}
+{{Existentialism}}
+{{German literature}} }}
+
+{{Authority control}}
+{{featured article}}
+
+{{DEFAULTSORT:Kafka, Franz}}
+[[Category:Franz Kafka| ]]
+[[Category:1883 births]]
+[[Category:1924 deaths]]
+[[Category:Writers from Prague]]
+[[Category:People from the Kingdom of Bohemia]]
+[[Category:Czech Jews]]
+[[Category:Austro-Hungarian Jews]]
+[[Category:Czechoslovak Jews]]
+[[Category:19th-century Austrian people]]
+[[Category:20th-century Austrian novelists]]
+[[Category:20th-century Austrian writers]]
+[[Category:Aphorists]]
+[[Category:Austro-Hungarian writers]]
+[[Category:Austrian civil servants]]
+[[Category:Austrian male writers]]
+[[Category:Austrian socialists]]
+[[Category:Austrian surrealist writers]]
+[[Category:Czech surrealist writers]]
+[[Category:Czech writers in German]]
+[[Category:Czechoslovak writers]]
+[[Category:Czech diarists]]
+[[Category:Fabulists]]
+[[Category:Jewish atheists]]
+[[Category:Jewish existentialists]]
+[[Category:Jewish novelists]]
+[[Category:Jewish socialists]]
+[[Category:Jewish surrealist writers]]
+[[Category:Magic realism writers]]
+[[Category:Austrian male novelists]]
+[[Category:Modernist writers]]
+[[Category:Jewish writers]]
+[[Category:Weird fiction writers]]
+[[Category:Charles University alumni]]
+[[Category:Tuberculosis deaths in Austria]]
+[[Category:20th-century deaths from tuberculosis]]

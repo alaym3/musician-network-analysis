@@ -1,0 +1,238 @@
+{{short description|American science fiction author}}
+{{for|the politician|Frank Herbert (politician)}}
+{{Use mdy dates|date=May 2021}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| birth_name = {{Nowrap|Franklin Patrick Herbert Jr.}}<ref name="Google Books">{{cite book|url=https://books.google.com/books?id=EfqTPwAACAAJ|title=Google Books – Dune|isbn=9780881036367|quote=Frank Herbert was born Franklin Patrick Herbert Jr. in Tacoma, Washington on October 8, 1920.|access-date=January 21, 2018|last1=Herbert|first1=Frank|date=September 1990}}</ref>
+| image = Frank Herbert headshot.jpg
+| caption = Herbert in 1978
+| birth_date = {{Birth date|1920|10|08}}
+| birth_place = [[Tacoma, Washington]], U.S.
+| death_date = {{Death date and age|1986|02|11|1920|10|08}}
+| death_place = [[Madison, Wisconsin]], U.S.
+| occupation = Novelist
+| alma_mater = [[University of Washington]] (no degree)
+| period = 1945–1986
+| genre = Science fiction
+| movement = [[New Wave (science fiction)|New Wave]]
+| spouse = {{Ubl
+  |{{Marriage|Flora Lillian Parkinson|June 19, 1941|October 26, 1943|reason=div.}}<ref name="flpdivorce" />
+  |{{Marriage|Beverly Ann Stuart|June 23, 1946|February 7, 1983|reason=died}}<ref name="bahdeath" />
+  |{{Marriage|Theresa Diane Shackelford|May 18, 1985}}
+}}
+| children = 3; including [[Brian Herbert|Brian]]
+| signature = Frank Herbert signature.png
+}}
+'''Franklin Patrick Herbert Jr.''' (October 8, 1920{{Snd}}February 11, 1986) was an American [[science fiction]] author best known for the 1965 novel ''[[Dune (novel)|Dune]]'' and its five sequels. Though<!--Before?--> he became famous for his novels, he also wrote short stories and worked as a newspaper journalist, photographer, book reviewer, ecological consultant, and lecturer.
+
+The [[Dune (franchise)|''Dune'' saga]], set in the distant future, and taking place over millennia, explores complex themes, such as the long-term survival of the human species, human [[evolution]], [[planetary science]] and ecology, and the intersection of religion, politics, economics and [[power (sociology)|power]] in a future where humanity has long since developed interstellar travel and settled many thousands of worlds. ''Dune'' is the best-selling science fiction novel of all time,<ref name="RIF">{{cite web|date=March 18, 2003|title=SCI FI Channel Auction to Benefit Reading Is Fundamental|url=http://pnnonline.org/article.php?sid=4302|archive-url=https://web.archive.org/web/20070928005501/http://pnnonline.org/article.php?sid=4302|archive-date=September 28, 2007|access-date=September 28, 2007|publisher=PNNonline.org ([[Internet Archive]])|quote=Since its debut in 1965, Frank Herbert's ''Dune'' has sold over 12 million copies worldwide, making it the best-selling science fiction novel of all time ... Frank Herbert's ''Dune'' saga is one of the greatest 20th Century contributions to literature.}}</ref> and the entire series is considered to be among the classics of the [[genre]].
+
+==Biography==
+[[File:Fantastic 196002.jpg|thumb|right|Herbert's novella "[[The Priests of Psi]]" was the cover story for the February 1960 issue of ''[[Fantastic (magazine)|Fantastic]].'']]
+
+===Early life===
+Frank Patrick Herbert, Jr., was born on October 8, 1920, in [[Tacoma, Washington]],{{sfn|Touponce|1988|p=4}}<ref>{{Cite news|date=1986-02-13|title=Frank Herbert Is Dead at 65; Author of the 'Dune' Novels|language=en-US|work=[[The New York Times]]|agency=[[Associated Press]]|url=https://www.nytimes.com/1986/02/13/obituaries/frank-herbert-is-dead-at-65-author-of-the-dune-novels.html|access-date=2021-10-24|issn=0362-4331}}</ref> to Frank Patrick Herbert Sr. and Eileen ([[née]] McCarthy) Herbert. His country upbringing involved spending a lot of his youth on the [[Olympic Peninsula]] and [[Kitsap Peninsula]].<ref>{{Cite book|last=O'Reilly|first=Timothy|url=https://www.wikidata.org/wiki/Q107740264|title=Frank Herbert|date=1981-01-01|publisher=Frederick Ungar Publishing Company|pages=14}}</ref> He was fascinated by books and could read much of the newspaper before the age of five, and he had an excellent memory and learned things quickly.<ref name="Herbert">{{Cite book|last=Herbert|first=Brian|url=https://www.wikidata.org/wiki/Q5306564|title=Dreamer of Dune: The Biography of Frank Herbert|date=2003-01-01|language=English}}</ref> He had an early interest in photography, and bought a [[Brownie (camera)|Kodak box]] camera at age ten, a new folding camera in his early teens, and a color film camera in the mid-1930s.<ref name="Herbert"/> Because of a poor home environment, largely due to the [[Great Depression]], he ran away from home in 1938 to live with an aunt and uncle in [[Salem, Oregon]].<ref name="salem">[Herbert, Brian. Dreamer of Dune : The Biography of Frank Herbert. New York: Tor Books, 2003. {{ISBN|0-765-30646-8}}] Chapter 2.</ref> He enrolled in high school at Salem High School (now [[North Salem High School (Salem, Oregon)|North Salem High School]]), where he graduated the next year.<ref name="salem" /> In 1939 he lied about his age to get his first newspaper job at the ''Glendale Star''.<ref name="Post-Gazette Obit">{{cite news|date=February 13, 1986|title=Frank Herbert, author of sci-fi best sellers, dies|work=[[Pittsburgh Post-Gazette]]|url=https://news.google.com/newspapers?nid=1129&dat=19860213&id=gQQOAAAAIBAJ&pg=6996,3769073|access-date=July 27, 2009}}</ref> Herbert then returned to [[Salem, Oregon|Salem]] in 1940 where he worked for the ''Oregon Statesman'' newspaper (now ''[[Statesman Journal]]'') in a variety of positions, including photographer.<ref name="salem" />
+
+Herbert married Flora Lillian Parkinson in [[San Pedro, Los Angeles|San Pedro]], [[California]], in 1941. They had one daughter, Penelope (b. February 16, 1942), and divorced in 1943.<ref name="flpdivorce">Oregon Center For Health Statistics; Portland, Oregon, USA; ''Oregon, Divorce Records, 1925-1945''; Document no. 30939</ref> During 1942, after the U.S. entry into [[World War II]], he served in the Navy's [[Seabees]] for six months as a photographer, but suffered an accidental head injury and was given a medical discharge. Herbert subsequently moved to [[Portland, Oregon]] where he reported for ''[[The Oregon Journal]]''.<ref>{{Cite web|url=https://www.historylink.org/File/21248|work=[[HistoryLink]]|title=Herbert, Frank Patrick (1920-1986)|last=Beck|first=Katherine|date=June 9, 2021|archive-url=https://archive.today/wip/YiVwp|archive-date=September 5, 2021|url-status=live}}</ref>
+
+After the war, Herbert attended the [[University of Washington]], where he met Beverly Ann Stuart at a creative writing class in 1946. They were the only students who had sold any work for publication; Herbert had sold two [[pulp magazine|pulp]] adventure stories to magazines, the first to ''[[Esquire Magazine|Esquire]]'' in 1945, and Stuart had sold a story to ''Modern Romance'' magazine. They married in [[Seattle|Seattle, Washington]] on June 20, 1946, and had two sons, [[Brian Herbert|Brian Patrick Herbert]] (b. June 29, 1947, Seattle, Washington) and Bruce Calvin Herbert (b. June 26, 1951, [[Santa Rosa, California]] d. June 15, 1993, [[San Rafael, California]], a professional photographer and gay rights activist).<ref>{{cite web|title=Marin County: Newspaper Obituaries of AIDS Victims (1984–1994)|url=http://www.sfgenealogy.com/marin/aids/aidsobits.htm|access-date=March 26, 2011|work=[[Marin Independent Journal]]|archive-url=https://web.archive.org/web/20081024150121/http://www.sfgenealogy.com/marin/aids/aidsobits.htm|archive-date=October 24, 2008|url-status=dead}}</ref>
+
+In 1949 Herbert and his wife moved to California to work on the Santa Rosa ''[[Press-Democrat]]''. Here they befriended the psychologists Ralph and Irene Slattery. The Slatterys introduced Herbert to the work of several thinkers who would influence his writing, including [[Sigmund Freud|Freud]], [[Carl Jung|Jung]], [[Karl Jaspers|Jaspers]] and [[Martin Heidegger|Heidegger]]; they also familiarized Herbert with [[Zen Buddhism]].<ref>Irene Slattery had been a former student of Jung's in Zurich. See [[#CITEREFTouponce1988|Touponce 1988, pp. 9–10]].</ref>
+
+Herbert never graduated from the university. According to his son Brian, he wanted to study only what interested him and so did not complete the required curriculum. He returned to journalism and worked at the ''[[Seattle Star]]'' and the ''[[Oregon Statesman]]''. He was a writer and editor for the ''[[San Francisco Examiner]]''{{'s}} ''California Living'' magazine for a decade.
+
+In a 1973 interview, Herbert stated that he had been reading science fiction "about ten years" before he
+began writing in the genre, and he listed his favorite authors as [[H. G. Wells]], [[Robert A. Heinlein]], [[Poul Anderson]] and [[Jack Vance]].<ref name="vertex">"Well, I did read some Heinlein. I shouldn't really tie it down to ten years because I had read H. G. Wells. I'd read Vance, Jack Vance, and I became acquainted with Jack Vance about that time&nbsp;... I read Poul Anderson."{{cite web|title=Vertex Magazine Interview|url=http://members.multimania.co.uk/Fenrir/ctdinterviews.htm|url-status=bot: unknown|archive-url=https://web.archive.org/web/20121021031705/http://members.multimania.co.uk/Fenrir/ctdinterviews.htm|archive-date=October 21, 2012|access-date=October 21, 2012|df=mdy}} with Frank Herbert, by Paul Turner. October 1973 Volume 1, Issue 4.</ref>
+
+Herbert's first science fiction story, "Looking for Something", was published in the April 1952 issue of ''[[Startling Stories]]'', then a monthly edited by Samuel Mines. Three more of his stories appeared in 1954 issues of ''[[Astounding Science Fiction]]'' and ''[[Amazing Stories]]''.<ref name="isfdb" /> His career as a novelist began in 1955 with the serial publication of ''Under Pressure'' in ''Astounding'' from November 1955; afterward it was issued as a book by [[Doubleday (publisher)|Doubleday]], ''[[The Dragon in the Sea]]''.<ref name="isfdb" /> The story explored sanity and madness in the environment of a 21st-century submarine and predicted worldwide conflicts over [[petroleum|oil]] consumption and production.<ref name="gm">Gina Macdonald, "Herbert, Frank (Patrick)", in ''[[Twentieth-Century Science-Fiction Writers]]'' by Curtis C. Smith. St. James Press, 1986, {{ISBN|0-912289-27-9}} (p.&nbsp;331–334).</ref> It was a critical success but not a major commercial one. During this time Herbert also worked as a [[speechwriter]] for [[Republicanism in the United States|Republican]] senator [[Guy Cordon]].<ref>{{cite web|last1=Richards|first1=Linda L.|title=The Sons of Dune|url=http://www.januarymagazine.com/profiles/duneprofile.html|access-date=August 31, 2014|work=January Magazine}}</ref>
+
+=== ''Dune'' ===
+[[File:USA Oregon Dunes.jpg|thumb|275px|The [[Oregon Dunes National Recreation Area|Oregon Dunes]] near [[Florence, Oregon]], served as an inspiration for the ''Dune'' saga.]]
+Herbert began researching ''[[Dune (novel)|Dune]]'' in 1959. He was able to devote himself wholeheartedly to his writing career because his wife returned to work full-time as an advertising writer for department stores, becoming the breadwinner during the 1960s. The novel Dune was published in 1965, which spearheaded the [[Dune (franchise)|''Dune'' franchise]]. He later told [[Willis E. McNelly]] that the novel originated when he was assigned to write a magazine article about sand dunes in the [[Oregon Dunes National Recreation Area|Oregon Dunes]] near [[Florence, Oregon]]. He got overinvolved and ended up with far more raw material than needed for an article. The article was never written, but it planted the seed that led to ''Dune''. Another significant source of inspiration for Dune was Herbert's experiences with [[psilocybin]] and his hobby of cultivating mushrooms, according to [[Mycology|mycologist]] [[Paul Stamets]]'s account.<ref>{{Cite book|last=Stamets|first=Paul|url=https://books.google.com/books?id=qtsTH7ekvVYC&q=mycelium+running|title=Mycelium Running: How Mushrooms Can Help Save the World|date=March 9, 2011|publisher=Potter/Ten Speed/Harmony/Rodale|isbn=978-1-60774-124-4|language=en}}</ref>
+
+''Dune'' took six years of research and writing to complete and was much longer than other commercial science fiction of the time. ''[[Analog Science Fiction and Fact|Analog]]'' (the renamed ''Astounding'', still edited by [[John W. Campbell]]) published it in two parts comprising eight installments, "Dune World" from December 1963 and "Prophet of Dune" in 1965.<ref name="isfdb" /> It was then rejected by nearly twenty book publishers. One editor prophetically wrote, "I might be making the mistake of the decade, but..."<ref name=":0">{{Cite web|date=October 28, 2008|title=BBC – h2g2|url=http://www.bbc.co.uk/dna/place-london/A42130199|access-date=May 26, 2014|website=Edited guide entry, Frank Patrick Herbert, Jr. – Author|publisher=British Broadcasting Company}}</ref>
+
+[[Sterling E. Lanier]], an editor of [[Chilton Publishing Company|Chilton Book Company]] (known mainly for its auto-repair manuals) had read the Dune serials and offered a $7,500 advance plus future royalties for the rights to publish them as a hardcover book.<ref>{{cite web|title=Sandworms of Dune Blog|url=http://www.frankherbert.org/wormsblog/page051.html|url-status=dead|archive-url=https://web.archive.org/web/20130516124808/http://www.frankherbert.org/wormsblog/page051.html|archive-date=May 16, 2013|access-date=April 27, 2013|publisher=Frankherbert.org}}</ref> Herbert rewrote much of his text.<ref name="kirjasto">{{cite web|last=Liukkonen|first=Petri|title=Frank Herbert|url=http://www.kirjasto.sci.fi/fherbert.htm|url-status=dead|archive-url=https://web.archive.org/web/20140427010107/http://www.kirjasto.sci.fi/fherbert.htm|archive-date=April 27, 2014|website=Books and Writers (kirjasto.sci.fi)|publisher=[[Kuusankoski]] Public Library|location=Finland}}</ref> ''Dune'' was soon a critical success.<ref name=":0" /> It won the [[Nebula Award]] for Best Novel in 1965 and shared the [[Hugo Award]] in 1966 with ''[[...And Call Me Conrad]]'' by [[Roger Zelazny]].<ref name="SFAwards" />
+
+''Dune'' was not an immediate bestseller. By 1968 Herbert had made $20,000 from it, far more than most science fiction novels of the time were generating, but not enough to let him take up full-time writing. However, the publication of ''Dune'' did open doors for him. He was the ''[[Seattle Post-Intelligencer]]''{{'s}} education writer from 1969 to 1972 and lecturer in [[Bachelor of General Studies|general studies]] and [[integrative learning|interdisciplinary studies]] at the University of Washington (1970–1972). He worked in [[Vietnam]] and [[Pakistan]] as a social and ecological consultant in 1972. In 1973 he was director-photographer of the television show ''The Tillers''.<ref>Herbert, Brian. ''Dreamer of Dune : The Biography of Frank Herbert''. New York: Tor Books, 2003, p.&nbsp;257–258, {{ISBN|0-765-30646-8}} "[Frank Herbert completed] a half-hour documentary film based upon field work he had done with [[Roy Prosterman]] in Pakistan [and] Vietnam ... Entitled ''The Tillers'', it was written, filmed and directed by Frank Herbert. ... it appeared on King Television in Seattle and on the Public Broadcasting System."</ref>
+
+{{blockquote|I don't worry about inspiration, or anything like that.... later, coming back and reading what I have produced, I am unable to detect the difference between what came easily and when I had to sit down and say, "Well, now it's writing time and now I'll write."<ref>
+Herbert quoted in Murray, Donald Morison (Editor) ''Shoptalk: learning to write with writers'' (1990) Cook Publishers, 1990.</ref>|Frank Herbert}}
+
+By the end of 1972, Herbert had retired from newspaper writing and become a full-time fiction writer. During the 1970s and 1980s, he enjoyed considerable commercial success as an author. He divided his time between homes in [[Hawaii]] and [[Washington (state)|Washington]]'s [[Olympic Peninsula]]; his home in [[Port Townsend, Washington|Port Townsend]] on the peninsula was intended to be an "ecological demonstration project".
+{{Sfn|Touponce|1988}}{{Page needed|date=October 2021}} During this time he wrote numerous books and pushed ecological and philosophical ideas. He continued his [[Dune (franchise)|''Dune'' saga]] with ''[[Dune Messiah]]'' (1969), ''[[Children of Dune]]'' (1976), ''[[God Emperor of Dune]]'' (1981), ''[[Heretics of Dune]]'' (1984) and ''[[Chapterhouse: Dune]]'' (1985). Herbert planned to write a seventh novel to conclude the series, but his untimely death in 1986 left storylines unresolved.<ref name="NYT 2006">{{cite web|url=https://www.nytimes.com/2006/09/24/books/review/Itzkoff.t.html|title=Across the Universe: ''Dune'' Babies|last=Itzkoff|first=Dave|date=September 24, 2006|website=[[The New York Times]]|archive-url=https://web.archive.org/web/20151024031606/http://www.nytimes.com/2006/09/24/books/review/Itzkoff.t.html|archive-date=October 24, 2015|url-status=live|access-date=April 14, 2018}}</ref>
+
+Other works by Herbert include ''[[The Godmakers (novel)|The Godmakers]]'' (1972), ''[[The Dosadi Experiment]]'' (1977), ''[[The White Plague]]'' (1982) and the books he wrote in partnership with [[Bill Ransom]]: ''[[The Jesus Incident]]'' (1979), ''[[The Lazarus Effect (novel)|The Lazarus Effect]]'' (1983) and ''[[The Ascension Factor]]'' (1988), which were sequels to Herbert's 1966 novel ''[[Destination: Void]]''. He also helped launch the career of [[Terry Brooks]] with a very positive review of Brooks' first novel, ''[[The Sword of Shannara]]'', in 1977.<ref>{{Citation|author=Shawn Speakman|title=Website History|url=http://www.terrybrooks.net/bio/website-history/|archive-url=https://archive.today/20120914143839/http://www.terrybrooks.net/bio/website-history/|publisher=Terrybrooks.net|access-date=June 22, 2011|archive-date=September 14, 2012|url-status=dead}}.</ref>
+
+=== Success, family changes, and death ===
+Herbert's change in fortune was shadowed by tragedy. In 1974, Beverly underwent an operation for cancer. She lived ten more years, but her health was adversely affected by the surgery.<ref name="chapterhouse">{{cite book|author=Herbert, Frank P.|url=https://archive.org/details/chapterhousedune00herb|title=Chapterhouse: Dune|date=1987|publisher=The Berkley Publishing Group, [[Ace Books]]|isbn=0-441-10267-0|location=New York City|pages=[https://archive.org/details/chapterhousedune00herb/page/59 59], 436|quote=It was typical of her that she wanted me to call the radiologist whose treatment in 1974 was the proximate cause of her death and thank him...|url-access=registration|via=[[Internet Archive]]}}</ref> During this period, Herbert was the featured speaker at the Octocon II science fiction convention held at the El Rancho Tropicana in [[Santa Rosa, California|Santa Rosa]], California, in October 1978. In 1979, he met anthropologist James Funaro with whom he conceived the [[Contact Conference]]. Beverly Herbert died on February 7, 1983.<ref name="bahdeath">Washington State Archives; Olympia, Washington; ''Washington Death Index, 1940-1959, 1965-2017''; Certificate no. 090281.</ref> Herbert completed and published ''[[Heretics of Dune]]'' a year later. In his afterword to 1985's ''[[Chapterhouse: Dune]]'', Frank Herbert included a dedication to Beverly.
+
+In 1983, British [[heavy metal (music)|heavy metal]] band [[Iron Maiden (band)|Iron Maiden]] requested permission from Herbert's publisher to name a song on their album ''[[Piece of Mind]]'' after ''Dune'', but were told that the author had a strong distaste for their style of music. They instead titled the song "To Tame a Land".
+
+1984 was a tumultuous year in Herbert's life. During this same year of his wife's death, his career took off with the release of [[David Lynch]]'s film version of ''[[Dune (1984 film)|Dune]]''. Despite high expectations, a big-budget production design and an A-list cast, the movie drew mostly poor reviews in the United States. However, despite a disappointing response in the US, the film was a critical and commercial success in Europe and Japan.<ref name="kirjasto" />
+
+In 1985, after Beverly's death, Herbert married his former Putnam representative Theresa Shackleford. The same year he published ''Chapterhouse: Dune'', which tied up many of the saga's story threads. This would be Herbert's final single work (the collection ''[[Eye (short story collection)|Eye]]'' was published that year, and ''Man of Two Worlds'' was published in 1986). He died of a massive [[pulmonary embolism]] while recovering from surgery for [[pancreatic cancer]] on February 11, 1986, in [[Madison, Wisconsin]], age 65.<ref>{{Cite news|last=Eggleston|first=Richard|date=February 12, 1986|title=Sci-Fi Author of Best Seller 'Dune' Dead at 65|agency=[[Associated Press]]|url=https://apnews.com/article/8f7b70d6ca9cc86828cf571049583373|access-date=October 24, 2021}}</ref>{{sfn|Touponce|1988}}
+
+=== Criticism of government ===
+Herbert was a strong critic of the [[Soviet Union]]. He was a distant relative of the [[Republicanism in the United States|Republican]] senator [[Joseph McCarthy]], whom he referred to as "Cousin Joe". However, he was appalled to learn of McCarthy's blacklisting of suspected communists from working in certain careers and believed that he was endangering essential freedoms of citizens of the United States.<ref>{{cite book|last1=Herbert|first1=Brian|url=https://books.google.com/books?id=Hmg0YFP52XcC&q=frank+herbert+like+mccarthy&pg=PA91|title=Dreamer of Dune: The Biography of Frank Herbert|date=2003|publisher=MacMillan|isbn=9780765306463|page=91|access-date=February 13, 2015}}</ref> Herbert believed that governments lie to protect themselves and that, following the [[Watergate scandal]], President [[Richard Nixon]] had unwittingly taught an important lesson in not trusting government.<ref>{{cite book|last1=Herbert|first1=Brian|url=https://books.google.com/books?id=z3SF08iQGpEC&q=frank+herbert+richard+nixon+provided+proof&pg=PT164|title=Dreamer of Dune: The Biography of Frank Herbert|date=2003|publisher=MacMillan|isbn=9781429958448|access-date=February 13, 2015}}</ref><ref>https://vasil.ludost.net/dunegenesis.pdf</ref> Herbert also opposed [[Opposition to United States involvement in the Vietnam War|American involvement in the war in Vietnam]].<ref>"This was Frank Herbert, speaking from his own heart... It was a philosophy of [[non-violence]] that would ultimately lead to his involvement in the movement to stop the war in Vietnam." Herbert, Brian. (2003). ''Dreamer of Dune: The Biography of Frank Herbert''. MacMillan. Retrieved February 13, 2015 (p. 157).</ref>
+
+In ''Chapterhouse: Dune'', he wrote:
+{{blockquote|All governments suffer a recurring problem: Power attracts pathological personalities. It is not that power corrupts but that it is magnetic to the corruptible. Such people have a tendency to become drunk on violence, a condition to which they are quickly addicted. | Frank Herbert | ''Chapterhouse: Dune''<ref name="chapterhouse"/>{{rp|59}}}}
+
+==Ideas and themes==
+Frank Herbert used his science fiction novels to explore complex<ref>"With its blend (or sometimes clash) of complex intellectual discourse and Byzantine intrigue, ''Dune'' provided a template for FH's more significant later works. Sequels soon began to appear which carried on the arguments of the original in testingly <!-- ? --> various manners and with an intensity of discourse seldom encountered in the sf field. ''Dune Messiah'' (1969) elaborates the intrigue at the cost of other elements, but ''Children of Dune'' (1976) recaptures much of the strength of the original work and addresses another recurrent theme in FH's work – the evolution of Man, in this case into SUPERMAN;..." "Frank Herbert", ''The Encyclopedia of Science Fiction''.</ref> ideas involving philosophy, religion, psychology, politics and ecology. The underlying thrust of his work was a fascination with the question of human survival and evolution. Herbert has attracted a sometimes fanatical fan base, many of whom have tried to read everything he wrote, fiction or non-fiction, and see Herbert as something of an authority on the subject matters of his books. Indeed, such was the devotion of some of his readers that Herbert was at times asked if he was founding a [[cult]],<ref name="Genesis">{{cite web|last=Herbert|first=Frank|date=July 1980|title=''Dune'' Genesis|url=http://www.frankherbert.org/news/genesis.html|archive-url=https://web.archive.org/web/20120107220342/http://www.frankherbert.org/news/genesis.html|archive-date=January 7, 2012|access-date=February 14, 2014|work=[[Omni (magazine)|Omni]]|publisher=FrankHerbert.org}}</ref> something he was very much against.
+
+There are a number of key themes in Herbert's work:
+* A concern with leadership. He explored the human tendency to slavishly follow charismatic leaders. He delved into both the flaws and potentials of bureaucracy and government.<ref name="gm" />
+* Herbert was among the first science fiction authors to popularize ideas about ecology<ref>McNeilly, Willis E.
+"Herbert, Frank (Patrick)" in [[James Gunn (author)|Gunn, James]]. ''The New Encyclopedia of Science Fiction''.
+London, Viking, 1988. (pp. 222–24) {{ISBN|0-670-81041-X}} . "Herbert felt strongly about many
+causes, particularly ecology&nbsp;..."</ref> and [[systems thinking]]. He stressed the need for humans to think both systematically and long-term.<ref>"When I was quite young&nbsp;... I began to suspect there must be flaws in my sense of reality&nbsp;... But I had been produced to focus on objects (things) and not on systems (processes)." Frank Herbert,
+"Doll Factory, Gun Factory", (1973 Essay), reprinted in ''The Maker of Dune:Thoughts of a Science Fiction Master'' edited
+by Tim O'Reilly. [[Berkley Books]], 1987, {{ISBN|0425097854}}.</ref>
+* The relationship between religion, politics and [[power (sociology)|power]].<ref>"Frank Herbert's true stroke of
+genius consisted&nbsp;... in inviting a way of thinking about humanity, history, religion, and politics as complex and interdependent
+as ecosystems themselves". Jeffery Nicholas, ''Dune and Philosophy:Weirding Way of Mentat''. Open Court Publishing, 2011, {{ISBN|0812697154}}, (p. 149).</ref>
+* Human survival and evolution: Herbert writes of the [[Fremen]], the [[Sardaukar]], and the [[The Dosadi Experiment|Dosadi]], who are molded by their terrible living conditions into dangerous super races.<ref>{{Cite web|date=2015-07-03|title=Dune, 50 years on: how a science fiction novel changed the world|url=http://www.theguardian.com/books/2015/jul/03/dune-50-years-on-science-fiction-novel-world|access-date=2021-10-27|website=The Guardian|language=en}}</ref>
+* Human possibilities and potential: Herbert offered [[Mentat]]s, the [[Bene Gesserit]] and the [[Bene Tleilax]] as different visions of human potential.{{Citation needed|date=March 2012}}
+* The nature of [[sanity]] and [[Mental illness|madness]]. Frank Herbert was interested in the work of [[Thomas Szasz]] and the [[anti-psychiatry]] movement. Often, Herbert poses the question, "''What is sane?''", and while there are clearly insane behaviors and psychopathies as evinced by characters ([[Piter De Vries]] for instance), it is often suggested that normal and abnormal are relative terms which humans are sometimes ill-equipped to apply to one another, especially on the basis of statistical regularity.<ref name="gm" />
+* The possible effects and consequences of consciousness-altering chemicals, such as [[Melange (fictional drug)|the spice]] in the ''Dune'' saga, as well as the "Jaspers" fungus in ''[[The Santaroga Barrier]]'', and the [[Kelp]] in the [[Destination: Void universe#WorShip novels|Destination: Void]] sequence.<ref name="gm" />
+* How language shapes thought. More specifically, Herbert was influenced by [[Alfred Korzybski]]'s ''[[General Semantics]]''.<ref>O'Reilly, Tim. ''Frank Herbert''. New York, NY: Frederick Ungar Publishing Co., Inc. ,1981. (pp.59–60) {{ISBN|0-8044-2666-X}} .
+"Much of the Bene Gesserit technology of consciousness is based on the insights of general semantics, a philosophy and training method developed in the 1930s by [[Alfred Korzybski]]. Herbert had studied general semantics in San Francisco at about the time he was writing ''Dune''. (At one point, he worked as a ghostwriter for a nationally syndicated column by [[S. I. Hayakawa]], one of the foremost proponents of general semantics.)"</ref> [[Algis Budrys]] wrote that his knowledge of language and linguistics "is worth at least one PhD and the Chair of Philology at a good New England college".<ref name="budrys196604">{{Cite magazine|last=Budrys|first=Algis|date=April 1966|title=Galaxy Bookshelf|url=https://archive.org/stream/Galaxy_v24n04_1966-04#page/n33/mode/1up|magazine=Galaxy Science Fiction|pages=67–75}}</ref>
+* [[Learning]], teaching, and [[thinking]].<ref name="gm" />
+
+Frank Herbert refrained from offering his readers formulaic answers to many of the questions he explored.<ref name="gm" />
+
+==Status and influence on science fiction==
+''[[Dune (novel)|Dune]]'' and the [[Dune (franchise)|''Dune'' saga]] constitute one of the world's best-selling science fiction series and novels; ''Dune'' in particular has received widespread critical acclaim, winning the [[Nebula Award]] in 1965 and sharing the Hugo Award in 1966, and is frequently considered one of the best science fiction novels ever, if not the best.{{sfn|Touponce|1988|p=2|ps= "His dominant intellectual impulse was not to mystify or set himself up as a prophet, but the opposite – to turn what powers of analysis he had (and they were considerable) over to his audience. And this impulse is as manifest in ''Dune'', which many people consider the all-time best science fiction novel, as it is in his computer book, ''Without Me You're Nothing''."}} [[Locus (magazine)|Locus]]'' subscribers voted it the all-time best SF novel in 1975, again in 1987, and the best "before 1990" in 1998.<ref name="isfdb-dune" />
+
+''Dune'' is considered a landmark novel for a number of reasons:
+* ''Dune'' is a landmark of [[soft science fiction]]. Herbert deliberately suppressed technology in his ''Dune'' universe so that he could address the future of humanity, rather than the future of humanity's technology. ''Dune'' considers the way humans and their institutions might change over time.<ref>Building Sci-fi Moviescapes: The Science Behind the Fiction by Matt Hanson.</ref><ref>{{cite web|title=Frank Herbert Biography Author Page|url=http://bestsciencefictionbooks.com/authors/frank-herbert.html|work=bestsciencefictionbooks.com}}</ref>
+* Frank Herbert was a great popularizer of scientific ideas; many of his fans credit Frank Herbert for introducing them to philosophy and psychology. In ''Dune'', he helped popularize the term ''ecology''. Gerald Jonas explains in ''[[The New York Times Book Review]]'': "So completely did Mr. Herbert work out the interactions of man and beast and geography and climate that ''Dune'' became the standard for an emerging subgenre of 'ecological' science fiction."
+* ''Dune'' is considered an epic example of literary world-building. ''[[Library Journal|The Library Journal]]'' reports that "''Dune'' is to science fiction what ''[[The Lord of the Rings]]'' is to fantasy". [[Arthur C. Clarke]] is quoted as making a similar statement on the back cover of a paper edition of ''Dune''.<ref>{{cite book|last1=Herbert|first1=Frank|url=https://archive.org/details/isbn_0425080021|title=Dune|date=January 1977|publisher=Berkley Publishing Corp|isbn=0425-04376-2|edition=Berkley Medallion|location=USA|page=Back Cover|ref=berk|url-access=registration}}</ref> Frank Herbert imagined every facet of his creation. He lovingly included glossaries, quotes, documents, and histories, to bring his universe alive to his readers. No science fiction novel before it had so vividly realized life on another world.<ref name="gm" />
+
+Herbert never again equalled the critical acclaim he received for ''Dune''. Neither his sequels to ''Dune'' nor any of his other books won a Hugo or Nebula Award, although almost all of them were [[The New York Times Best Seller list|''New York Times'' Best Sellers]].<ref name="KJA">Speaking at the 2006 induction of Herbert in the Science Fiction Hall of Fame, Kevin J. Anderson stated that ''Children of Dune'' (1976) "was the first SF novel ever to hit the New York Times bestseller list." [http://www.frankherbert.org/dune7blog/page81.html Dune 7 Blog: Wednesday, June 21, 2006: The Science Fiction Hall of Fame] {{webarchive|url=https://web.archive.org/web/20110721074407/http://www.frankherbert.org/dune7blog/page81.html|date=July 21, 2011}}. By KJA. ''Dune: The Official Website''. Retrieved July 17, 2011. KJA spoke and presented the award to son Brian Herbert.</ref>
+
+[[Malcolm Edwards]] wrote, in the ''[[The Encyclopedia of Science Fiction|Encyclopedia of Science Fiction]]:<ref>Malcolm Edwards, "Herbert, Frank" in ''The Encyclopedia of Science Fiction'', edited by [[John Clute]] and [[Peter Nicholls (writer)|Peter Nicholls]]. London, Orbit, 1994. {{ISBN|1-85723-124-4}} (p. 558–560).</ref>
+
+{{Blockquote|text=Much of Herbert's work makes difficult reading. His ideas were genuinely developed concepts, not merely decorative notions, but they were sometimes embodied in excessively complicated plots and articulated in prose which did not always match the level of thinking [...] His best novels, however, were the work of a speculative intellect with few rivals in modern science fiction.}}
+
+The [[EMP Museum#Science Fiction and Fantasy Hall of Fame|Science Fiction Hall of Fame]] inducted Herbert in 2006.<ref name="KJA" /><ref name="sfhof2006" /><ref name="sfhof2006-b" />
+
+[[California State University, Fullerton]]'s Pollack Library has several of Herbert's draft manuscripts of ''Dune'' and other works, with the author's notes, in their Frank Herbert Archives.<ref>{{cite web|date=February 27, 2014|title=Remembering Science Fiction Author Frank Herbert: Highlighting His Archives In the Pollak Library|url=http://libraryblogs.fullerton.edu/2014/02/27/remembering-science-fiction-author-frank-herbert-highlighting-his-archives-in-the-pollak-library/|access-date=October 28, 2014|publisher=[[California State University, Fullerton]]}}</ref>
+
+[[File:Dune.peninsula.tacoma.wa.jpg|thumb|upright|right|The Dune Peninsula at [[Point Defiance Park]] in [[Tacoma, Washington]], with [[Mount Rainier]] in the distance]]
+[[Metro Parks Tacoma]] built Dune Peninsula and the Frank Herbert Trail at [[Point Defiance Park]] in July 2019 to honor the hometown writer.<ref>{{cite web|last=Krell|first=Alexis|date=July 6, 2019|title=The Dune Peninsula and Frank Herbert Trail — 'Tacoma's newest treasure' — are open|url=https://www.thenewstribune.com/news/local/article232329717.html|access-date=July 7, 2019|work=The Tacoma News-Tribune}}</ref>
+
+==Bibliography==
+{{main|Frank Herbert bibliography}}
+
+=== Posthumously published works ===
+Beginning in 2012, Herbert's estate and [[WordFire Press]] have released four previously unpublished novels in [[e-book]] and paperback formats: ''[[High-Opp]]'' (2012),<ref name="KJA High-Opp 2012-03">{{cite web|last=Anderson|first=Kevin J.|date=March 16, 2012|title=New, never-published Frank Herbert novel now available: ''HIGH-OPP''|url=http://kjablog.com/new-never-published-frank-herbert-novel-now-available-high-opp/|archive-url=https://web.archive.org/web/20150113235948/http://kjablog.com/new-never-published-frank-herbert-novel-now-available-high-opp/|archive-date=January 13, 2015|access-date=January 14, 2015|publisher=KJAblog.com}}</ref> ''[[Angels' Fall]]'' (2013),<ref name="KJA Angels 2013-05">{{cite web|last=Anderson|first=Kevin J.|date=May 22, 2013|title=New, Previously Unpublished Frank Herbert Novel, ''ANGELS' FALL''|url=http://kjablog.com/new-previously-unpublished-frank-herbert-novel-angels-fall/|archive-url=https://web.archive.org/web/20140916190202/http://kjablog.com/new-previously-unpublished-frank-herbert-novel-angels-fall/|archive-date=September 16, 2014|access-date=January 14, 2015|publisher=KJAblog.com}}</ref> ''[[A Game of Authors]]'' (2013),<ref name="KJA Authors 2013-05">{{cite web|last=Anderson|first=Kevin J.|date=July 9, 2013|title=''A GAME OF AUTHORS'' – another lost Frank Herbert novel|url=http://kjablog.com/a-game-of-authors-another-lost-frank-herbert-novel/|archive-url=https://web.archive.org/web/20140916190628/http://kjablog.com/a-game-of-authors-another-lost-frank-herbert-novel/|archive-date=September 16, 2014|access-date=January 14, 2015|publisher=KJAblog.com}}</ref> and ''[[A Thorn in the Bush]]'' (2014).<ref name="KJA Radar 2014-11">{{cite web|last=Anderson|first=Kevin J.|date=November 22, 2014|title=Off the Radar|url=http://kjablog.com/off-the-radar/|archive-url=https://web.archive.org/web/20141208095457/http://kjablog.com/off-the-radar/|archive-date=December 8, 2014|access-date=January 15, 2015|publisher=KJAblog.com}}</ref>
+
+In recent years, Frank Herbert's son [[Brian Herbert]] and author [[Kevin J. Anderson]] have added to the [[Dune (franchise)|''Dune'' franchise]], using notes left behind by Frank Herbert and discovered over a decade after his death. Brian Herbert and Anderson have written three prequel [[trilogy|trilogies]] (''[[Prelude to Dune]]'', ''[[Legends of Dune]]'' and ''[[Great Schools of Dune]]'') exploring the history of the ''Dune'' universe before the events of the original novel, two novels that take place between novels of the original ''Dune'' sequels (with plans for more), as well as two post-''Chapterhouse Dune'' novels that complete the original series (''[[Hunters of Dune]]'' and ''[[Sandworms of Dune]]'') based on Frank Herbert's own ''Dune 7'' outline.{{Herbert notes}}
+
+==See also==
+* [[Kevin J. Anderson]]
+* [[Brian Herbert]]
+
+==References==
+{{Reflist|refs=
+<ref name=isfdb>
+{{isfdb name |30}} (ISFDB). Retrieved April 24, 2013.</ref>
+<ref name=isfdb-dune>
+[http://www.isfdb.org/cgi-bin/title.cgi?2036 "Bibliography: Dune"]. ISFDB. Retrieved April 24, 2013.</ref>
+
+<!-- some awards refs -->
+<ref name=SFAwards>
+[http://www.locusmag.com/SFAwards/Db/NomLit60.html#2368 "Herbert, Frank"] {{webarchive|url=https://web.archive.org/web/20121016200438/http://locusmag.com/SFAwards/Db/NomLit60.html |date=October 16, 2012 }}. ''The Locus Index to SF Awards: Index of Literary Nominees''. [[Locus Publications]]. Retrieved April 18, 2013.</ref>
+<ref name=sfhof2006>
+{{cite web |url=http://www.sfhomeworld.org/make_contact/article.asp?articleID=239 |archive-url=https://archive.today/20060426115756/http://www.sfhomeworld.org/make_contact/article.asp?articleID=239 |archive-date=April 26, 2006 |title=Presenting the 2006 Hall of Fame Inductees |url-status=dead |access-date=August 19, 2016}}. Press release March 15, 2006. Science Fiction Museum (''sfhomeworld.org''). Archived April 26, 2006. Retrieved April 24, 2013.</ref>
+<ref name=sfhof2006-b>
+[http://cohenside.blogspot.com/2006/05/science-fiction-hall-of-fame.html "Science Fiction Hall of Fame"]. The Cohenside. May 15, 2006. Retrieved March 21, 2013.</ref>
+}}
+
+==Sources==
+* {{Cite book|last=Touponce|first=William F.|url=https://archive.org/details/frankherbert0000toup|url-access=registration|title=Frank Herbert|year=1988|publisher=[[Gale (publisher)|Twayne Publishers]]|isbn=0-8057-7514-5|oclc=16717899}}
+
+==Further reading==
+* Allen, L. David. ''Cliffs Notes on Herbert's Dune & Other Works''. Lincoln, NE: Cliffs Notes, 1975. {{ISBN|0-8220-1231-6}}
+* Clarke, Jason. ''SparkNotes: Dune, Frank Herbert''. New York: Spark Publishing, 2002. {{ISBN|1-58663-510-7}}
+* {{cite book|editor-first=Kevin R.|editor-last=Grazier|editor-link=Kevin Grazier |title=[[The Science of Dune]]: An Unauthorized Exploration into the Real Science Behind Frank Herbert's Fictional Universe |series=Psychology of Popular Culture |year=2008 |location=Dallas, TX |publisher=[[BenBella Books]] |isbn=978-1-933771-28-1}}
+* Herbert, Brian. ''[[Dreamer of Dune]] : The Biography of Frank Herbert''. New York: Tor Books, 2003. {{ISBN|0-765-30646-8}}
+* Levack, Daniel JH; Willard, Mark. ''Dune Master: A Frank Herbert Bibliography''. Westport, CT: Meckler, 1988. {{ISBN|0-88736-099-8}}
+* McNelly, Dr. Willis E. (ed.) ''[[The Dune Encyclopedia]]''. New York: Berkeley Publishing Group, 1984. {{ISBN|0-425-06813-7}}
+* Miller, David M. ''Starmont Reader's Guide 5: Frank Herbert''. Mercer Island, WA: Starmont, 1980. {{ISBN|0-916732-16-9}}
+* O'Reilly, Timothy. ''Frank Herbert''. New York: Frederick Ungar, 1980.
+* O'Reilly, Timothy (ed.) ''The Maker of Dune''. New York: Berkeley Publishing Group, 1987.
+
+==External links==
+{{Commons category|Frank Herbert}}
+{{wikiquote}}
+* [http://www.dunenovels.com Official website for Brian Herbert and Kevin Anderson]
+* [https://web.archive.org/web/20110721074407/http://www.frankherbert.org/dune7blog/page81.html Frank Herbert SF Hall of Fame induction] (Kevin Anderson report with his speech)
+* {{sfhof|939}}
+* {{cite web|url=http://members.lycos.co.uk/Fenrir/ctdinterviews.htm|title=Vertex Interviews Frank Herbert|author=Interviewer: Paul Turner|date=October 1973|publisher=Volume 1, Issue 4|access-date=April 16, 2005|archive-url=https://web.archive.org/web/20090519171219/http://members.lycos.co.uk/Fenrir/ctdinterviews.htm|archive-date=May 19, 2009|url-status=dead}}
+* 1984 interview with ''L. A. Reader'': [http://futurespast-editions.blogspot.com/2013/10/lost-interview-futuristic-meditations.html part 1], [http://futurespast-editions.blogspot.com/2013/11/lost-interview-futuristic-meditations.html 2], [http://futurespast-editions.blogspot.com/2013/11/lost-interview-futuristic-meditations_25.html 3]
+* [https://www.literature-map.com/frank+herbert Frank Herbert on the Literature Map]
+
+===Biography and criticism===
+* [http://www.sf-encyclopedia.com/entry/herbert_frank Frank Herbert] biography at the [http://www.sf-encyclopedia.com/ Encyclopedia of Science Fiction]
+* [http://baheyeldin.com/literature/arabic-and-islamic-themes-in-frank-herberts-dune.html Arabic and Islamic themes in Frank Herbert's ''Dune'' novels]
+* [http://tim.oreilly.com/herbert Study] by [[Tim O'Reilly]] of Frank Herbert's work up to the ''Jesus Incident''; one of the more in-depth studies of Frank Herbert's thoughts and ideas
+* [http://www.moongadget.com/origins/dune.html Article on the inspirations for ''Dune'']
+* [https://web.archive.org/web/20141201210538/http://www.thewaythefutureblogs.com/2010/06/frank-herbert-the-dune-man/ "Frank Herbert, the Dune Man"] -([[Frederik Pohl]])
+** [https://web.archive.org/web/20141201210558/http://www.thewaythefutureblogs.com/2010/06/frank-herbert-the-dune-man-part-2/ "Frank Herbert, the Dune Man, Part 2"]
+
+===Bibliography and works===
+* {{Gutenberg author | id=25754 | name=Frank Herbert}}
+* {{Internet Archive author |sname=Frank Herbert |sopt=t}}
+* {{Librivox author |id=50}}
+* {{isfdb name|30}}
+* {{IBList |type=author|id=51|name=Frank Herbert}}
+* {{ibdof name|id=50|name=Frank Herbert}}
+* {{OL author}}
+* {{LCAuth|n80044450|Frank Herbert|69|}}
+
+{{Frank Herbert}}
+{{Dune franchise}}
+{{Portal bar |Science fiction }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Herbert, Frank}}
+[[Category:20th-century American novelists]]
+[[Category:American environmentalists]]
+[[Category:American male novelists]]
+[[Category:United States Navy personnel of World War II]]
+[[Category:American science fiction writers]]
+[[Category:Converts to Buddhism from Christianity]]
+[[Category:American Zen Buddhists]]
+[[Category:Deaths from cancer in Wisconsin]]
+[[Category:Deaths from pancreatic cancer]]
+[[Category:Deaths from pulmonary embolism]]
+[[Category:Hugo Award-winning writers]]
+[[Category:Journalists from Oregon]]
+[[Category:Constructed language creators]]
+[[Category:Nebula Award winners]]
+[[Category:North Salem High School (Salem, Oregon) alumni]]
+[[Category:Science Fiction Hall of Fame inductees]]
+[[Category:University of Washington alumni]]
+[[Category:Writers from Port Townsend, Washington]]
+[[Category:Writers from Salem, Oregon]]
+[[Category:Writers from Seattle]]
+[[Category:Writers from Tacoma, Washington]]
+[[Category:1920 births]]
+[[Category:1986 deaths]]
+[[Category:San Francisco Examiner people]]
+[[Category:American male short story writers]]
+[[Category:20th-century American short story writers]]
+[[Category:Activists from California]]
+[[Category:20th-century American male writers]]
+[[Category:Novelists from Washington (state)]]
+[[Category:Novelists from Oregon]]
+[[Category:American male non-fiction writers]]
+[[Category:Seattle Post-Intelligencer people]]
+[[Category:Seabees]]
+[[Category:20th-century American journalists]]
+[[Category:American male journalists]]
+[[Category:American war photographers]]

@@ -1,0 +1,26 @@
+{{short description|Last stage in an insect's metamorphosis}}
+{{Other uses}}
+[[File:Cicada molting animated-2.gif|thumb|228px|Last [[Moulting|molting]] of a [[cicada]] giving rise to the winged imago]]
+In [[biology]], the '''imago''' ([[Latin]] for "image") is the last stage an [[insect]] attains during its [[metamorphosis]], its process of growth and development; it is also called the '''imaginal''' stage, the stage in which the insect attains maturity. It follows the final [[ecdysis]] of the immature [[instar]]s.<ref name= "CarpenterGH">Carpenter, Geo. H., The Life-Story of Insects. Cambridge University Press 1913. May be downloaded from: https://www.gutenberg.org/ebooks/16410 or https://archive.org/details/thelifestoryofin16410gut</ref>
+
+In a member of the [[Apterygota|Ametabola]] or [[Hemimetabolism|Hemimetabola]], in which metamorphosis is "incomplete", the final ecdysis follows the last immature or ''[[Nymph (biology)|nymphal]]'' stage.
+In members of the [[Endopterygota|Holometabola]], in which there is a pupal stage, the final ecdysis follows emergence from the [[pupa]], after which the metamorphosis is complete, although there is a prolonged period of maturation in some species.<ref name= "isbn0-412-61390-5">{{cite book |author1=Richards, O. W. |author2=Davies, R. G. |title=Imms' General Textbook of Entomology: Volume 1: Structure, Physiology and Development Volume 2: Classification and Biology |publisher=Springer |location=Berlin |year=1977 |isbn=0-412-61390-5 }}</ref>
+
+The imago is the only stage during which the insect is [[Sexual maturity|sexually mature]] and, if it is [[Insect wing|a winged]] species, has functional wings. The imago often is referred to as the '''adult''' stage.<ref name= "CarpenterGH"/>
+
+Members of the order [[Mayfly|Ephemeroptera]] (mayflies) do not have a pupal stage, but they briefly pass through an extra winged stage called the [[subimago]]. Insects at this stage have functional wings but are not yet sexually mature.<ref name="CarpenterGH"/> 
+
+The Latin plural of ''imago'' is '''''imagines''''', and this is the term generally used by [[Entomology|entomologists]]&nbsp;–
+however, ''imagoes'' is also acceptable.<ref>Gordh, Gordon; Headrick, David H. ''A Dictionary of Entomology''. Publisher: CABI 2010. {{ISBN|978-1845935429}}</ref>
+
+== See also ==
+* [[Imaginal disc]]
+
+==References==
+{{Wiktionary}}
+{{Reflist}}
+
+[[Category:Insect developmental biology]]
+
+
+{{Insect-stub}}

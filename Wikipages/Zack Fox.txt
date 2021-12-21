@@ -1,0 +1,102 @@
+{{short description|American stand-up comedian, rapper, writer, and illustrator}}
+{{Use mdy dates|date=September 2019}}
+{{Infobox comedian
+| name = Zack Fox
+| image = Zack Fox stand up (cropped).jpg
+| caption = Fox performing stand up in July 2019
+| birth_name = Zack Fox
+| birth_date = {{birth date and age|1990|12|6}}
+| birth_place = [[Atlanta]], Georgia, U.S.
+| alma_mater = [[Savannah College of Art and Design]]<ref>{{Cite web|url=https://creativeloafing.com/content-180298-bootymath-is-the-internet|title=Bootymath is the Internet|website=Creative Loafing Media|access-date=7 November 2021}}</ref>
+| medium = {{hlist|Stand up, [[hip hop|music]], television}}
+| active = 2013–present
+| notable_work =
+}}
+
+'''Zack Fox''' (born December 6, 1990) is an American stand-up comedian, rapper, writer, illustrator and [[Internet celebrity|internet personality]] from [[Atlanta|Atlanta, Georgia]].<ref name=":0">{{Cite web|url=https://www.complex.com/music/2018/10/square-up-zack-fox-interview|title=Zack Fox Wants to Make You Laugh, and He's Willing to Rap to Do It|website=Complex|access-date=5 August 2019}}</ref><ref>{{Cite web|url=https://www.gq.com/story/new-comedians-2019|title=The 7 Funny People Reshaping Comedy Right Now|website=GQ|access-date=6 August 2019}}</ref> He has collaborated with [[Kenny Beats]], [[Flying Lotus]], and [[Thundercat (musician)|Thundercat]].
+
+==Career==
+Fox got his start in 2013 on [[Twitter]], tweeting jokes and amassing tens of thousands of followers under the alias "Bootymath." In subsequent years, he dropped the alias and expanded into music, joining the [[Awful Records]] collective.<ref name=":0" /> In 2017, his publicity increased as he illustrated the album sleeve of [[Thundercat (musician)|Thundercat's]] album [[Drunk (Thundercat album)|''Drunk'']],<ref name=":0" /> while also acted in and writing for ''[[Kuso (film)|Kuso]],'' the 2017 horror comedy film directed by [[Flying Lotus]].<ref name=":1" />
+
+In October 2018, Fox released his first song, "Square Up" in collaboration with [[Hip hop music|hip hop]] producer [[Kenny Beats]].<ref name=":1">{{Cite web|url=https://www.thefader.com/2018/12/11/zack-fox-rap-square-up-family-function|title=I'm officially excited for Zack Fox's rap career|website=The FADER|access-date=6 August 2019}}</ref>
+
+In April 2019, Fox appeared on ''The Cave'', a [[YouTube]] series in which [[Kenny Beats]] invites different artists to freestyle in his studio. Kenny and Fox recorded "[[Jesus Is the One (I Got Depression)]]," in the episode, and the song reached the number one spot on [[Spotify]]'s U.S. viral chart on July 8, 2019.<ref name=":2">{{Cite web|url=https://www.rollingstone.com/music/music-features/zack-fox-kenny-beats-jesus-is-the-one-864720/|title=Comedian Zack Fox Trolled His Way to the Top of the Charts (and Hated It)|last=Leight|first=Elias|date=August 1, 2019|website=Rolling Stone|access-date=5 August 2019}}</ref> The two never intended to release the song commercially, but after its success they released an official version of it in June.<ref name=":2" />
+
+On October 15, 2021 Zack Fox released his debut studio album "shut the fuck up talking to me."<ref name="Pitchfork">{{cite web |title=Zack Fox: shut the fuck up talking to me |url=https://pitchfork.com/reviews/albums/zack-fox-shut-the-fuck-up-talking-to-me/ |website=Pitchfork |access-date=4 November 2021 |language=en}}</ref>
+
+Fox makes several appearances on the fictional radio station "Flylo Radio" in [[Grand Theft Auto V]].
+
+== Filmography ==
+{| class="wikitable"
+|+
+!Year
+!Title
+!Role
+!Notes
+|-
+|2017
+|''[[Kuso (film)|Kuso]]''
+|Manuel
+|Also co-writer
+|}
+
+== Discography ==
+
+=== Studio albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! style="width:12em;" | Title
+! style="width:19em;" | Details
+|-
+!scope="row"|''shut the fuck up talking to me''
+|
+*Released: October 15, 2021
+*Label: Parasang
+*Format: [[Music download|Digital download]], [[Streaming media|streaming]]
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" rowspan="1"| Title
+! scope="col" rowspan="1"| Year
+! scope="col" rowspan="1"| Album
+|-
+! scope="row"| "Square Up"<br />{{small|(with [[Kenny Beats]])}}
+| 2018
+| rowspan="7" {{N/A|non-album singles}}
+|-
+! scope="row"| "[[Jesus Is the One (I Got Depression)]]"<br />{{small|(with Kenny Beats)}}
+| rowspan="2"| 2019
+|-
+! scope="row"| "The Bean Kicked in"
+|-
+! scope="row"| "Stick!"<br />{{small|(featuring [[Fabo (rapper)|Fabo]])}}
+| rowspan="4"| 2020
+|-
+! scope="row"| "The Madness"<br />{{small|(with Working on Dying and Father}})
+|-
+! scope="row"| "IHY2LN"<ref name="IHY2LN + Marinate">{{cite web|url=https://kulturehub.com/zack-fox-creative-interview/amp/|title=Is Zack Fox the multi-hyphenate we want to be? A tribute to the creative of the year|last=Hoyt|first=Conrad|access-date=January 6, 2021|quote=...Zack Fox’s latest two singles: IHY2LN + Marinate.}}</ref>
+|-
+! scope="row"| "Marinate"<ref name="IHY2LN + Marinate"/>
+|-
+! scope="row"| "fafo"
+| 2021
+| ''shut the fuck up talking to me''
+|}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Fox, Zack}}
+[[Category:21st-century American comedians]]
+[[Category:21st-century American male actors]]
+[[Category:21st-century American rappers]]
+[[Category:American illustrators]]
+[[Category:American male comedians]]
+[[Category:American stand-up comedians]]
+[[Category:Comedians from Georgia (U.S. state)]]
+[[Category:Living people]]
+[[Category:Male actors from Atlanta]]
+[[Category:Rappers from Atlanta]]
+[[Category:1990 births]]

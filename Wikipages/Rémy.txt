@@ -1,0 +1,66 @@
+{{about||the saint called "Saint Rémi" or "Saint Rémy" in French|Saint Remigius|the name|Remy (name)|other uses|Remy (disambiguation)}}
+{{Infobox French commune
+|name                   = Rémy
+|commune status         = [[Communes of France|Commune]]
+|image                  = remy.jpg
+|caption                = The Sensée
+|image coat of arms     = Blason Rémy 62.svg
+|arrondissement         = Arras
+|canton                 = Brebières
+|INSEE                  = 62703
+|postal code            = 62156
+|mayor                  = Annick Danel<ref>{{cite web|title=Répertoire national des élus: les maires|url=https://www.data.gouv.fr/fr/datasets/r/2876a346-d50c-4911-934e-19ee07b0e503|website=data.gouv.fr, Plateforme ouverte des données publiques françaises|date=2 December 2020|language=fr}}</ref>
+|term                   = 2020&ndash;2026
+|intercommunality       = [[Communauté de communes Osartis Marquion|CC Osartis Marquion]]
+|coordinates            = {{coord|50.2544|2.9567|format=dms|display=inline,title}}
+|elevation m            = 45
+|elevation min m        = 42
+|elevation max m        = 71
+|area km2               = 3.59
+|population             = {{France metadata Wikidata|population_total}}
+|population date        = {{France metadata Wikidata|population_as_of}}
+|population footnotes   = {{France metadata Wikidata|population_footnotes}}
+}}
+
+'''Rémy''' is a [[Communes of France|commune]] in the [[Departments of France|department]] of [[Pas-de-Calais]] in the [[Hauts-de-France]] region of [[France]].
+
+==Geography==
+Rémy lies in the valley of the [[Sensée]] river, some {{Convert|10|mi|km|0}} southeast of Arras, on the D9 road.
+
+==Population==
+{{Historical populations
+| 1968|151
+| 1975|178
+| 1982|213
+| 1990|254
+| 1999|265
+| 2007|242
+| 2012|280
+| 2017|395
+| source = INSEE<ref>[https://www.insee.fr/fr/statistiques/4515315?geo=COM-62703#POP_T1 Population en historique depuis 1968], INSEE</ref>
+| percentages = pagr
+| align = none
+}}
+
+==Places of interest==
+* The church of [[Leodegar|St-Léger]], rebuilt, along with the rest of the village, after the [[First World War]].
+* A [[watermill]].
+
+==See also==
+*[[Communes of the Pas-de-Calais department]]
+
+==References==
+* [http://www.insee.fr/fr/methodes/nomenclatures/cog/fichecommunale.asp?codedep=62&codecom=703 INSEE commune file]
+{{Reflist}}
+
+{{commons category|Rémy (Pas-de-Calais)}}
+
+{{Pas-de-Calais communes}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Remy}}
+[[Category:Communes of Pas-de-Calais]]
+
+
+{{Arras-geo-stub}}

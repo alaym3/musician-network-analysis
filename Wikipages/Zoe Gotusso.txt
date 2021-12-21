@@ -1,0 +1,63 @@
+{{Infobox musical artist
+| name            = Zoe Gutusso
+| image           = 
+| caption         = 
+| birth_date      = 
+| origin          = [[Córdoba, Argentina|Córdoba]], [[Argentina]]
+| genre           = Pop
+| occupation      = Musician
+| years_active    = 2016-present
+| associated_acts = Salvapantallas
+| website         = 
+}}
+'''Zoe Gotusso''' is an [[Argentine]] singer and songwriter. She gained recognition as one of the members of the duo Salvapantallas and later as a solo artist, releasing her debut solo album ''Mi Primer Día Triste'' in 2020.
+
+==Career==
+Gotusso began her career as one of the members of the musical duo Salvapantallas alongside the musician Santi Celli, they formed the project in 2016 in [[Córdoba, Argentina|Córdoba]], [[Argentina]] and released their first album ''SMS'' in 2018, the album was recorded at El Mar, a studio in [[Buenos Aires]] and featured [[Jorge Drexler]] as a guest singer for one of the songs.<ref name="Salva">{{cite web|url=https://www.cmtv.com.ar/biografia/show.php?bnid=2559&banda=Salvapantallas|title=Salvapantallas|website=cmtv|accessdate=31 August 2021|language=es}}</ref> The duo received two nominations at the [[21st Annual Gardel Awards]], for Best New Artist and Best Pop Group Album.<ref name="Gardel19">{{cite web|title=Premios Gardel 2019: La lista completa de nominados|url=https://billboard.com.ar/premios-gardel-2019-la-lista-completa-de-nominados/|date=17 April 2019|work=[[Billboard (magazine)|Billboard]]|accessdate=31 August 2021|language=es}}</ref> In August 2019, Gotusso and Celli decided to end the project to pursue solo careers, they performed a series of shows as a final tour named "#HastaluegoSalvapantallas", performing their last show at the [[Teatro Opera]] in [[Buenos Aires]] on 2 November 2019.<ref name="Salva"/> 
+
+After releasing the songs "Una Bossa +", "Monoambiente en Capital" and "Calefón" during 2019, Gotusso released "Ganas" on 18 June 2020 as the first single from her first album, followed by "Cuarto Creciente" as the album's second single, released on 30 October of the same year. Her debut [[studio album]] ''Mi Primer Día Triste'' was released on 4 December 2020.<ref>{{cite web|url=https://www.cmtv.com.ar/biografia/show.php?bnid=2664&banda=Zoe_Gotusso|title=Zoe Gotusso|website=cmtv|accessdate=31 August 2021|language=es}}</ref> The album was recorded at [[Montevideo]] with production from [[Juan Campodónico]] and the participation of musicians such as Diego Mema, Alejandro Terán, [[Hugo Fattoruso]], Nicolás Ibarburu and the members of [[Bajofondo]], Javier Casalla and Gabriel Casacuberta.<ref>{{cite web|url=https://indiehoy.com/entrevistas/zoe-gotusso-ahora-que-sali-de-salvapantallas-para-estar-sola-me-toca-tomar-decisiones-y-ser-lider/|title=Zoe Gotusso: "Ahora que salí de Salvapantallas para estar sola, me toca tomar decisiones y ser líder"|first=Felipe|last=Boetto|date=5 December 2020|website=Indiehoy|accessdate=31 August 2021|language=es}}</ref> The record was accompanied by a documentary film named ''Retrato en Movimiento'', which shows the process of recording and production of the album.<ref>{{cite web|url=https://www.larata.cl/entrevistas/zoe-gotusso-ganas-entrevista/|title=Zoe Gotusso: "No me conquista el género, me conquistan las canciones"|first=Gerardo|last=Aliaga|date=19 August 2021|website=La Rata|accessdate=31 August 2021|language=es}}</ref> At the [[23rd Annual Gardel Awards]], Gotusso was nominated for Best New Artist, this time as a solo artist and won Best Pop Album.<ref name="Gardel21">{{cite web|url=https://billboard.com.ar/premios-gardel-2021-conoce-la-lista-completa-de-ganadores/|title=Premios Gardel 2021: Conocé la lista completa de ganadores|work=[[Billboard Argentina]]|language=Spanish|accessdate=31 August 2021|date=23 July 2021}}</ref>
+
+==Discography==
+===With Salvapantallas===
+* ''SMS'' (2018)
+
+===As a solo artist===
+* ''Mi Primer Día Triste'' (2020)
+
+==Awards and nominations==
+===Gardel Awards===
+{| class="wikitable" style="width:85%;"
+|-
+! width=5%|Year
+! style="width:40%;"| Category
+! style="width:40%;"| Nominated work
+! style="width:10%;"| Result 
+! style="width:5%;"| Ref.
+|-
+| rowspan="2" style="text-align:center;"| [[21st Annual Gardel Awards|2019]]
+| Best New Artist
+| rowspan="2"|''SMS'' <small>(with Salvapantallas)</small>
+| {{nom}}
+| rowspan="2"|<ref name="Gardel19"/>
+|-
+| Best Pop Group Album
+| {{nom}}
+|-
+| rowspan="2" style="text-align:center;"| [[23rd Annual Gardel Awards|2021]]
+| Best New Artist
+| rowspan="2"|''Mi Primer Día Triste''
+| {{nom}}
+| rowspan="2"|<ref name="Gardel21"/>
+|-
+| Best Pop Album
+| {{won}}
+|-
+|}
+
+==References==
+{{reflist|2}}
+
+[[Category:Argentine women singer-songwriters]]
+[[Category:Argentine singer-songwriters]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]

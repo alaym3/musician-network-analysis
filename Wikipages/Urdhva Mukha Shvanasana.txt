@@ -1,0 +1,33 @@
+{{short description|Reclining back-bending posture in modern yoga}}
+[[File:Upward-facing dog pose.jpg|thumb|Urdhva Mukha Shvanasana]]
+'''Urdhva Mukha Shvanasana''' ({{lang-sa|ऊर्ध्वमुखश्वानासन}} [[IAST]]: ''Urdhva mukha śvānāsana'') or '''Upward Facing Dog Pose''' is a back-bending [[asana]] in modern [[yoga as exercise]].<ref name="ashtangayoga.info">{{cite web | url=https://www.ashtangayoga.info/practice/surya-namaskara-a-sun-salutation/item/urdhva-mukha-shvanasana/ | title=Urdhva Mukha Shvanasana | website=AshtangaYoga.info | access-date=2011-04-11}}</ref><ref>{{cite web |url=http://www.yogajournal.com/poses/474 |title=Upward-Facing Dog &#124; Yoga Poses |publisher=Yoga Journal |access-date=2013-08-02}}</ref> It is commonly part of the widely-performed [[Surya Namaskar]] (Salute to the Sun) sequence,<ref name="Russo 2016">{{cite web |last1=Russo |first1=Tiffany |title=Back to Basics: Upward-Facing Dog Breakdown |url=https://www.yogajournal.com/practice/back-basics-upward-facing-dog-breakdown |publisher=Yoga Journal |access-date=21 November 2018 |date=11 January 2016}}</ref> though the similar [[Bhujangasana|Bhujangasana (cobra pose)]] may be used there instead.<ref>{{cite web |title=Bhujangasana (Cobra Pose) Steps and Benefits Video |url=https://www.sepalika.com/type-2-diabetes/cobra-pose-benefits/ |access-date=21 November 2018 |date=20 September 2017}}</ref>
+
+==Etymology and origins==
+
+The name of the pose is from the Sanskrit ऊर्ध्व ''Urdhva'', "upwards"; मुख ''Mukha'', "face"; and श्वान ''Shvana'', "dog".{{sfn|Mehta|1990|p=91}} The pose is one of those (along with [[Downward Dog Pose|Downward Dog]]) introduced by [[Krishnamacharya]] in the mid-20th century from [[Surya Namaskar]], not then considered to be yoga, and later taught by his pupils [[Pattabhi Jois]] and [[B. K. S. Iyengar]].{{sfn|Singleton|2010|pp=204-205}}<ref name="Singleton 2011">{{cite web |last=Singleton |first=Mark |author-link=Mark Singleton (yoga scholar) |title=The Ancient & Modern Roots of Yoga |url=https://www.yogajournal.com/yoga-101/yoga-s-greater-truth |publisher=[[Yoga Journal]] |date=4 February 2011}}</ref>
+
+==Description==
+
+The pose is entered with an inhalation from a prone position (or from a pose such as [[Chaturanga Dandasana]] or [[Ashtanga Namaskara]] in a Surya Namaskar cycle), taking the feet a little apart. The legs are stretched out straight, the toes out (not tucked under), and the weight of the body is supported on the hands with outstretched arms so the hips are off the ground. The gaze is directed straight upwards, so the neck and back are arched.{{sfn|Mehta|1990|p=91}}
+
+==Variations==
+
+[[Bhujangasana]], Cobra Pose, and its variations such as [[Yin Yoga]]'s Sphinx Pose, are somewhat similar reclining backbends which may be used if a less strenuous asana is required, for example in the [[Surya Namaskar]] cycle.<ref name="DLS 2011">{{cite web |title=Surya Namaskara |url=http://sivanandaonline.org/public_html/?cmd=displaysection&section_id=1233 |publisher=[[Divine Life Society]] |access-date=19 July 2019 |date=2011}}</ref>
+
+==References==
+{{reflist|30em}}
+
+==Sources==
+
+* {{cite book |last=Iyengar |first=B. K. S. |author-link=B. K. S. Iyengar |year=1979 |orig-year=1966 |title=[[Light on Yoga |Light on Yoga: Yoga Dipika]] |publisher=Unwin Paperbacks |isbn=978-1855381667 }}
+* {{cite book | last=Jain | first=Andrea |author-link=Andrea Jain | title=[[Selling Yoga]] : from Counterculture to Pop culture | publisher=Oxford University Press | year=2015 | isbn=978-0-19-939024-3 | oclc=878953765 }}
+* {{cite book |last1=Mehta |first1=Silva; Mehta, Mira; Mehta, Shyam |date=1990 |title=[[Yoga: The Iyengar Way]] |publisher=Dorling Kindersley}}
+* {{cite book |last=Newcombe |first=Suzanne |author-link=Suzanne Newcombe |year=2019 |title=Yoga in Britain: Stretching Spirituality and Educating Yogis |location=Bristol, England |publisher=Equinox Publishing |isbn=978-1-78179-661-0 }}
+* {{cite book | last=Singleton | first=Mark |author-link=Mark Singleton (yoga teacher) | title=[[Yoga Body|Yoga Body : the origins of modern posture practice]] | publisher=Oxford University Press | year=2010 | isbn=978-0-19-539534-1 | oclc=318191988 }}
+
+{{Asana}}
+{{Yoga as exercise}}
+
+[[Category:Backbend asanas]]
+[[Category:Surya Namaskar]]
+[[Category:Reclining asanas]]

@@ -1,0 +1,868 @@
+{{short description|Form of computer data storage}}
+{{Redirect|RAM|other uses|Ram (disambiguation){{!}}Ram}}
+{{Distinguish|Random Access Memories|Random-access machine}}
+{{pp-protected|small=yes}}
+{{Memory types}}
+[[File:Swissbit 2GB PC2-5300U-555.jpg|right|thumb|Example of [[read/write memory|writable]] [[volatile memory|volatile]] random-access memory: Synchronous [[Dynamic RAM]] [[DIMM|modules]], primarily used as main memory in [[personal computers]], [[workstation]]s, and [[Server (computing)|server]]s.]]
+[[File:Random Access Memory HyperX.jpg|thumb|8GB [[DDR3]] [[RAM]] stick with a white [[Heat sink|heatsink]]]]
+
+'''Random-access memory''' ('''RAM'''; {{IPAc-en|r|æ|m}}) is a form of [[computer memory]] that can be read and changed in any order, typically used to store working [[Data (computing)|data]] and [[machine code]].<ref>{{cite web |title=RAM |url=https://dictionary.cambridge.org/dictionary/english/ram |website=[[Cambridge English Dictionary]] |access-date=11 July 2019}}</ref><ref>{{cite web |title=RAM |url=https://www.oxfordlearnersdictionaries.com/definition/american_english/ram_2 |website=[[Oxford Advanced Learner's Dictionary]] |access-date=11 July 2019}}</ref> A [[Random access|random-access]] memory device allows [[data]] items to be [[read (computer)|read]] or written in almost the same amount of time irrespective of the physical location of data inside the memory, in contrast with other direct-access data storage media (such as [[hard disk]]s, [[CD-RW]]s, [[DVD-RW]]s and the older [[Magnetic tape data storage|magnetic tapes]] and [[drum memory]]), where the time required to read and write data items varies significantly depending on their physical locations on the recording medium, due to mechanical limitations such as media rotation speeds and arm movement.
+
+RAM contains [[multiplexer|multiplexing]] and [[demultiplexing]] circuitry, to connect the data lines to the addressed storage for reading or writing the entry. Usually more than one bit of storage is accessed by the same address, and RAM devices often have multiple data lines and are said to be "8-bit" or "16-bit", etc. devices.{{clarify|reason=entire paragraph, as written, does not make sense without any context or explanation of terms - it must either be rewritten, or, if impossible to explain that a layman would understand, scrapped entirely|date=March 2021}}
+
+In today's technology, random-access memory takes the form of [[integrated circuit]] (IC) chips with [[MOSFET|MOS]] (metal-oxide-semiconductor) [[Memory cell (computing)|memory cells]]. RAM is normally associated with [[Volatile memory|volatile]] types of memory (such as [[dynamic random-access memory]] (DRAM) [[DIMM|modules]]), where stored information is lost if power is removed, although non-volatile RAM has also been developed.<ref>{{cite magazine|last=Gallagher|first=Sean|title=Memory that never forgets: non-volatile DIMMs hit the market|url=https://arstechnica.com/information-technology/2013/04/memory-that-never-forgets-non-volatile-dimms-hit-the-market/|magazine=[[Ars Technica]]|url-status=live|archive-url=https://web.archive.org/web/20170708073138/https://arstechnica.com/information-technology/2013/04/memory-that-never-forgets-non-volatile-dimms-hit-the-market/|archive-date=July 8, 2017|date=April 4, 2013}}</ref> Other types of [[Non-volatile memory|non-volatile memories]] exist that allow random access for read operations, but either do not allow write operations or have other kinds of limitations on them. These include most types of [[read only memory|ROM]] and a type of [[flash memory]] called ''[[flash memory#NOR flash|NOR-Flash]]''.
+
+The two main types of volatile random-access [[semiconductor memory]] are [[static random-access memory]] (SRAM) and dynamic random-access memory (DRAM). Commercial uses of semiconductor RAM date back to 1965, when IBM introduced the SP95 SRAM chip for their [[IBM System/360|System/360 Model 95]] computer, and [[Toshiba]] used DRAM memory cells for its Toscal BC-1411 [[electronic calculator]], both based on [[bipolar transistor]]s. Commercial MOS memory, based on [[MOS transistor]]s, was developed in the late 1960s, and has since been the basis for all commercial semiconductor memory. The first commercial DRAM IC chip, the [[Intel 1103]], was introduced in October 1970. [[Synchronous dynamic random-access memory]] (SDRAM) later debuted with the [[Samsung Electronics|Samsung]] KM48SL2000 chip in 1992.
+
+==History==
+[[File:Early SSA accounting operations.jpg|thumb|These IBM [[tabulating machine]]s from the mid-1930s used [[mechanical counter]]s to store information]]
+[[File:Bundesarchiv Bild 183-1989-0406-022, VEB Carl Zeiss Jena, 1-Megabit-Chip.jpg|thumb|right|1-[[megabit]] (Mbit) chip, one of the last models developed by [[Carl Zeiss AG|VEB Carl Zeiss Jena]] in 1989]]
+
+Early computers used [[relay]]s, [[mechanical counter]]s<ref>{{cite web|url=http://www-03.ibm.com/ibm/history/reference/faq_0000000011.html|title=IBM Archives -- FAQ's for Products and Services|work=ibm.com|url-status=live|archive-url=https://web.archive.org/web/20121023184527/http://www-03.ibm.com/ibm/history/reference/faq_0000000011.html|archive-date=2012-10-23}}</ref> or [[Delay-line memory|delay lines]] for main memory functions. Ultrasonic delay lines were [[bit-serial architecture|serial device]]s which could only reproduce data in the order it was written. [[Drum memory]] could be expanded at relatively low cost but efficient retrieval of memory items required knowledge of the physical layout of the drum to optimize speed. Latches built out of [[vacuum tube]] [[triode]]s, and later, out of discrete [[transistor]]s, were used for smaller and faster memories such as registers. Such registers were relatively large and too costly to use for large amounts of data; generally only a few dozen or few hundred bits of such memory could be provided.
+
+The first practical form of random-access memory was the [[Williams tube]] starting in 1947.  It stored data as electrically charged spots on the face of a [[cathode-ray tube]]. Since the electron beam of the CRT could read and write the spots on the tube in any order, memory was random access. The capacity of the Williams tube was a few hundred to around a thousand bits, but it was much smaller, faster, and more power-efficient than using individual vacuum tube latches. Developed at the [[Victoria University of Manchester|University of Manchester]] in England, the Williams tube provided the medium on which the first electronically stored program was implemented in the [[Manchester Baby]] computer, which first successfully ran a program on 21 June 1948.<ref>{{Citation | last = Napper | first = Brian | title = Computer 50: The University of Manchester Celebrates the Birth of the Modern Computer | url = http://www.computer50.org/ | access-date = 26 May 2012 | url-status = dead | archive-url = https://web.archive.org/web/20120504133240/http://www.computer50.org/ | archive-date = 4 May 2012 }}</ref>  In fact, rather than the Williams tube memory being designed for the Baby, the Baby was a [[testbed]] to demonstrate the reliability of the memory.<ref>{{Citation |last1=Williams |first1=F. C. |last2=Kilburn |first2=T. |title=Electronic Digital Computers |journal=Nature |volume=162 |pages=487 |date=Sep 1948 |doi=10.1038/162487a0 |issue=4117 |postscript=. |bibcode=1948Natur.162..487W |s2cid=4110351}} Reprinted in ''The Origins of Digital Computers''.</ref><ref>{{Citation |last1=Williams |first1=F. C. |last2=Kilburn |first2=T. |last3=Tootill |first3=G. C. |title=Universal High-Speed Digital Computers: A Small-Scale Experimental Machine |url=http://www.computer50.org/kgill/mark1/ssem.html |journal=Proc. IEE |date=Feb 1951 |volume=98 |issue=61 |pages=13–28 |postscript=. |doi=10.1049/pi-2.1951.0004 |url-status=dead |archive-url=https://web.archive.org/web/20131117101730/http://www.computer50.org/kgill/mark1/ssem.html |archive-date=2013-11-17}}</ref>
+
+[[Magnetic-core memory]] was invented in 1947 and developed up until the mid-1970s. It became a widespread form of random-access memory, relying on an array of magnetized rings.  By changing the sense of each ring's magnetization, data could be stored with one bit stored per ring. Since every ring had a combination of address wires to select and read or write it, access to any memory location in any sequence was possible. Magnetic core memory was the standard form of [[computer memory]] system until displaced by [[solid-state electronics|solid-state]] [[MOSFET|MOS]] ([[metal–oxide–silicon]]) [[semiconductor memory]] in [[integrated circuit]]s (ICs) during the early 1970s.<ref name="computerhistory1970"/>
+
+Prior to the development of integrated [[read-only memory]] (ROM) circuits, ''permanent'' (or ''read-only'') random-access memory was often constructed using [[Diode matrix|diode matrices]] driven by [[address decoder]]s, or specially wound [[core rope memory]] planes.{{Citation needed|reason=This paragraph needs a citation.|date=December 2016}}
+
+[[Semiconductor memory]] began in the 1960s with bipolar memory, which used [[bipolar transistors]]. While it improved performance, it could not compete with the lower price of magnetic core memory.<ref name="computerhistory1966"/>
+
+===MOS RAM===
+The invention of the [[MOSFET]] (metal-oxide-semiconductor field-effect transistor), also known as the MOS transistor, by [[Mohamed M. Atalla]] and [[Dawon Kahng]] at [[Bell Labs]] in 1959,<ref name="computerhistory">{{cite journal |url=https://www.computerhistory.org/siliconengine/metal-oxide-semiconductor-mos-transistor-demonstrated/ |title=1960 – Metal Oxide Semiconductor (MOS) Transistor Demonstrated |journal=The Silicon Engine |publisher=[[Computer History Museum]]}}</ref> led to the development of [[metal-oxide-semiconductor]] (MOS) memory by John Schmidt at [[Fairchild Semiconductor]] in 1964.<ref name="computerhistory1970"/><ref>{{Cite book |url=https://books.google.com/books?id=kG4rAQAAIAAJ&q=John+Schmidt |title=Solid State Design – Vol. 6 |date=1965 |publisher=Horizon House}}</ref> In addition to higher performance, MOS [[semiconductor memory]] was cheaper and consumed less power than magnetic core memory.<ref name="computerhistory1970"/> The development of [[silicon-gate]] [[MOS integrated circuit]] (MOS IC) technology by [[Federico Faggin]] at Fairchild in 1968 enabled the production of MOS [[memory chip]]s.<ref>{{cite web |title=1968: Silicon Gate Technology Developed for ICs |url=https://www.computerhistory.org/siliconengine/silicon-gate-technology-developed-for-ics/ |website=[[Computer History Museum]] |access-date=10 August 2019}}</ref> MOS memory overtook magnetic core memory as the dominant memory technology in the early 1970s.<ref name="computerhistory1970"/>
+
+An integrated bipolar [[static random-access memory]] (SRAM) was invented by Robert H. Norman at [[Fairchild Semiconductor]] in 1963.<ref>{{cite patent
+| country	= US
+| number	= 3562721
+| status	= patent
+| title		= Solid State Switching and Memory Apparatus 
+| pubdate	= 9 February1971 
+| fdate		= 5 March 1963
+| pridate	= 5 March 1963
+| inventor	= Robert H. Norman
+| invent1	= Fairchild Camera and Instrument Corporation
+}}</ref> It was followed by the development of MOS SRAM by John Schmidt at Fairchild in 1964.<ref name="computerhistory1970"/> SRAM became an alternative to magnetic-core memory, but required six MOS transistors for each [[bit]] of data.<ref name="ibm100">{{cite web |title=DRAM |url=https://www.ibm.com/ibm/history/ibm100/us/en/icons/dram/ |website=IBM100 |publisher=[[IBM]] |access-date=20 September 2019 |date=9 August 2017}}</ref> Commercial use of SRAM began in 1965, when [[IBM]] introduced the SP95 memory chip for the [[IBM System/360|System/360 Model 95]].<ref name="computerhistory1966"/>
+
+[[Dynamic random-access memory]] (DRAM) allowed replacement of a 4 or 6-transistor latch circuit by a single transistor for each memory bit, greatly increasing memory density at the cost of volatility.  Data was stored in the tiny capacitance of each transistor, and had to be periodically refreshed every few milliseconds before the charge could leak away. [[Toshiba]]'s Toscal BC-1411 [[electronic calculator]], which was introduced in 1965,<ref>[http://collection.sciencemuseum.org.uk/objects/co8406093/toscal-bc-1411-calculator-with-electronic-calculator Toscal BC-1411 calculator]. {{webarchive|url=https://web.archive.org/web/20170729145228/http://collection.sciencemuseum.org.uk/objects/co8406093/toscal-bc-1411-calculator-with-electronic-calculator |date=2017-07-29 }}, [[Science Museum, London]].</ref><ref name="bc-spec"/><ref name="bc"/> used a form of capacitive bipolar DRAM, storing 180-bit data on discrete [[Memory cell (computing)|memory cells]], consisting of [[germanium]] bipolar transistors and capacitors.<ref name="bc-spec"/><ref name="bc"/> While it offered improved performance over magnetic-core memory, bipolar DRAM could not compete with the lower price of the then dominant magnetic-core memory.<ref>{{cite web |title=1966: Semiconductor RAMs Serve High-speed Storage Needs |url=https://www.computerhistory.org/siliconengine/semiconductor-rams-serve-high-speed-storage-needs/ |website=Computer History Museum}}</ref>
+
+MOS technology is the basis for modern DRAM. In 1966, Dr. [[Robert H. Dennard]] at the [[IBM Thomas J. Watson Research Center]] was working on MOS memory. While examining the characteristics of MOS technology, he found it was capable of building [[capacitors]], and that storing a charge or no charge on the MOS capacitor could represent the 1 and 0 of a bit, while the MOS transistor could control writing the charge to the capacitor. This led to his development of a single-transistor DRAM memory cell.<ref name="ibm100"/> In 1967, Dennard filed a patent under IBM for a single-transistor DRAM memory cell, based on MOS technology.<ref name="Robert Dennard"/> The first commercial DRAM IC chip was the [[Intel 1103]], which was [[Semiconductor manufacturing process|manufactured]] on an [[10 µm process|8{{nbsp}}µm]] MOS process with a capacity of 1{{nbsp}}[[Kilobit|kbit]], and was released in 1970.<ref name="computerhistory1970"/><ref name="Lojek-1103"/><ref>{{cite web |first=Mary |last=Bellis |url=http://inventors.about.com/library/weekly/aa100898.htm |title=The Invention of the Intel 1103}}</ref>
+
+[[Synchronous dynamic random-access memory]] (SDRAM) was developed by [[Samsung Electronics]]. The first commercial SDRAM chip was the Samsung KM48SL2000, which had a capacity of 16{{nbsp}}[[Megabit|Mbit]].<ref name="electronic-design">{{cite journal |title=Electronic Design |journal=[[Electronic Design]] |date=1993 |volume=41 |issue=15–21 |url=https://books.google.com/books?id=QmpJAQAAIAAJ |publisher=Hayden Publishing Company |quote=The first commercial synchronous DRAM, the Samsung 16-Mbit KM48SL2000, employs a single-bank architecture that lets system designers easily transition from asynchronous to synchronous systems.}}</ref> It was introduced by [[Samsung]] in 1992,<ref>{{cite web |title=KM48SL2000-7 Datasheet |url=https://www.datasheetarchive.com/KM48SL2000-7-datasheet.html |publisher=[[Samsung]] |access-date=19 June 2019 |date=August 1992}}</ref> and mass-produced in 1993.<ref name="electronic-design"/> The first commercial [[DDR SDRAM]] ([[double data rate]] SDRAM) memory chip was Samsung's 64{{nbsp}}Mbit DDR SDRAM chip, released in June 1998.<ref>{{cite news |title=Samsung Electronics Develops First 128Mb SDRAM with DDR/SDR Manufacturing Option |url=https://www.samsung.com/semiconductor/insights/news-events/samsung-electronics-develops-first-128mb-sdram-with-ddr-sdr-manufacturing-option/ |access-date=23 June 2019 |work=[[Samsung Electronics]] |publisher=[[Samsung]] |date=10 February 1999}}</ref> [[GDDR]] (graphics DDR) is a form of DDR [[SGRAM]] (synchronous graphics RAM), which was first released by Samsung as a 16{{nbsp}}Mbit memory chip in 1998.<ref>{{cite news |title=Samsung Electronics Comes Out with Super-Fast 16M DDR SGRAMs |url=https://www.samsung.com/semiconductor/insights/news-events/samsung-electronics-comes-out-with-super-fast-16m-ddr-sgrams/ |access-date=23 June 2019 |work=[[Samsung Electronics]] |publisher=[[Samsung]] |date=17 September 1998}}</ref>
+
+==Types==
+The two widely used forms of modern RAM are [[static random access memory|static RAM]] (SRAM) and [[dynamic random-access memory|dynamic RAM]] (DRAM).  In SRAM, a [[Bit|bit of data]] is stored using the state of a six-[[transistor]] [[Memory cell (computing)|memory cell]], typically using six [[MOSFET]]s (metal-oxide-semiconductor field-effect transistors). This form of RAM is more expensive to produce, but is generally faster and requires less dynamic power than DRAM. In modern computers, SRAM is often used as [[CPU cache|cache memory for the CPU]]. DRAM stores a bit of data using a transistor and [[capacitor]] pair (typically a MOSFET and [[MOS capacitor]], respectively),<ref>{{cite book |last1=Sze |first1=Simon M. |author1-link=Simon Sze |title=Semiconductor Devices: Physics and Technology |date=2002 |publisher=[[Wiley (publisher)|Wiley]] |isbn=0-471-33372-7 |page=214 |edition=2nd |url=http://www.fulviofrisone.com/attachments/article/453/Semiconductor.Devices_Physics.Technology_Sze.2ndEd_Wiley_2002.pdf}}</ref> which together comprise a DRAM cell. The capacitor holds a high or low charge (1 or 0, respectively), and the transistor acts as a switch that lets the control circuitry on the chip read the capacitor's state of charge or change it.  As this form of memory is less expensive to produce than static RAM, it is the predominant form of computer memory used in modern computers.
+
+Both static and dynamic RAM are considered ''volatile'', as their state is lost or reset when power is removed from the system.  By contrast, [[read-only memory]] (ROM) stores data by permanently enabling or disabling selected transistors, such that the memory cannot be altered.  Writeable variants of ROM (such as [[EEPROM]] and [[flash memory]]) share properties of both ROM and RAM, enabling data to [[Persistence (computer science)|persist]] without power and to be updated without requiring special equipment.  These persistent forms of semiconductor ROM include [[Universal serial bus|USB]] flash drives, memory cards for cameras and portable devices, and [[solid-state drives]]. 
+[[ECC memory]] (which can be either SRAM or DRAM) includes special circuitry to detect and/or correct random faults (memory errors) in the stored data, using [[parity bit]]s or [[Error detection and correction#Error-correcting code|error correction codes]].
+
+In general, the term ''RAM'' refers solely to solid-state memory devices (either DRAM or SRAM), and more specifically the main memory in most computers.  In optical storage, the term [[DVD-RAM]] is somewhat of a misnomer since, unlike [[CD-RW]] or [[DVD-RW]] it does not need to be erased before reuse.  Nevertheless, a DVD-RAM behaves much like a hard disc drive if somewhat slower.
+
+==Memory cell==
+{{main|Memory cell (computing)}}
+The memory cell is the fundamental building block of [[computer memory]]. The memory cell is an [[electronic circuit]] that stores one [[bit]] of binary information and it must be set to store a logic 1 (high voltage level) and reset to store a logic 0 (low voltage level). Its value is maintained/stored until it is changed by the set/reset process. The value in the memory cell can be accessed by reading it.
+
+In SRAM, the memory cell is a type of [[flip-flop (electronics)|flip-flop]] circuit, usually implemented using [[field effect transistor|FET]]s. This means that SRAM requires very low power when not being accessed, but it is expensive and has low storage density.
+
+A second type, DRAM, is based around a capacitor. Charging and discharging this capacitor can store a "1" or a "0" in the cell. However, the charge in this capacitor slowly leaks away, and must be refreshed periodically. Because of this refresh process, DRAM uses more power, but it can achieve greater storage densities and lower unit costs compared to SRAM.
+{| style="text-align:center; margin: 1em auto 1em auto"
+|[[File:SRAM Cell (6 Transistors).svg|thumb|SRAM Cell (6 Transistors)]]||[[File:DRAM Cell Structure (Model of Single Circuit Cell).PNG|thumb|DRAM Cell (1 Transistor and one capacitor)]]
+|}
+
+==Addressing==
+To be useful, memory cells must be readable and writeable. Within the RAM device, multiplexing and demultiplexing circuitry is used to select memory cells. Typically, a RAM device has a set of address lines A0... An, and for each combination of bits that may be applied to these lines, a set of memory cells are activated. Due to this addressing, RAM devices virtually always have a memory capacity that is a power of two.
+
+Usually several memory cells share the same address. For example, a 4 bit 'wide' RAM chip has 4 memory cells for each address. Often the width of the memory and that of the microprocessor are different, for a 32 bit microprocessor, eight 4 bit RAM chips would be needed.
+
+Often more addresses are needed than can be provided by a device. In that case, external multiplexors to the device are used to activate the correct device that is being accessed.
+
+==Memory hierarchy==
+{{main|Memory hierarchy}}
+One can read and over-write data in RAM. Many computer systems have a memory hierarchy consisting of [[processor register]]s, on-die [[Static random-access memory|SRAM]] caches, external [[CPU cache|caches]], [[DRAM]], [[paging]] systems and [[virtual memory]] or [[swap space]] on a hard drive. This entire pool of memory may be referred to as "RAM" by many developers, even though the various subsystems can have very different [[access time]]s, violating the original concept behind the ''random access'' term in RAM. Even within a hierarchy level such as DRAM, the specific row, column, bank, [[Memory rank|rank]], channel, or [[interleaved memory|interleave]] organization of the components make the access time variable, although not to the extent that access time to rotating [[storage media]] or a tape is variable. The overall goal of using a memory hierarchy is to obtain the highest possible average access performance while minimizing the total cost of the entire memory system (generally, the memory hierarchy follows the access time with the fast CPU registers at the top and the slow hard drive at the bottom).
+
+In many modern personal computers, the RAM comes in an easily upgraded form of modules called [[DIMM|memory module]]s or DRAM modules about the size of a few sticks of chewing gum. These can quickly be replaced should they become damaged or when changing needs demand more storage capacity. As suggested above, smaller amounts of RAM (mostly SRAM) are also integrated in the [[CPU]] and other [[Integrated circuit|ICs]] on the [[motherboard]], as well as in hard-drives, [[CD-ROM]]s, and several other parts of the computer system.
+
+==Other uses of RAM==
+[[File:Samsung-1GB-DDR2-Laptop-RAM.jpg|thumb|right|A [[SO-DIMM]] stick of laptop RAM, roughly half the size of [[DIMM|desktop RAM]].]]
+In addition to serving as temporary storage and working space for the operating system and applications, RAM is used in numerous other ways.
+
+===Virtual memory===
+{{main|Virtual memory}}
+Most modern operating systems employ a method of extending RAM capacity, known as "virtual memory".  A portion of the computer's [[hard drive]] is set aside for a ''paging file'' or a ''scratch partition'', and the combination of physical RAM and the paging file form the system's total memory.  (For example, if a computer has 2 GB (1024<sup>3</sup> B) of RAM and a 1 GB page file, the operating system has 3 GB total memory available to it.)  When the system runs low on physical memory, it can "[[paging|swap]]" portions of RAM to the paging file to make room for new data, as well as to read previously swapped information back into RAM.  Excessive use of this mechanism results in [[thrashing (computer science)|thrashing]] and generally hampers overall system performance, mainly because hard drives are far slower than RAM.
+
+===RAM disk===
+{{main|RAM drive}}
+Software can "partition" a portion of a computer's RAM, allowing it to act as a much faster hard drive that is called a [[RAM disk]]. A RAM disk loses the stored data when the computer is shut down, unless memory is arranged to have a standby battery source, or changes to the RAM disk are written out to a nonvolatile disk. The RAM disk is reloaded from the physical disk upon RAM disk initialization.
+
+===Shadow RAM===
+Sometimes, the contents of a relatively slow ROM chip are copied to read/write memory to allow for shorter access times. The ROM chip is then disabled while the initialized memory locations are switched in on the same block of addresses (often write-protected). This process, sometimes called ''shadowing'', is fairly common in both computers and [[embedded systems]].
+
+As a common example, the [[BIOS]] in typical personal computers often has an option called “use shadow BIOS” or similar. When enabled, functions that rely on data from the BIOS's ROM instead use DRAM locations (most can also toggle shadowing of video card ROM or other ROM sections). Depending on the system, this may not result in increased performance, and may cause incompatibilities.  For example, some hardware may be inaccessible to the [[operating system]] if shadow RAM is used. On some systems the benefit may be hypothetical because the BIOS is not used after booting in favor of direct hardware access. Free memory is reduced by the size of the shadowed ROMs.<ref>{{cite web|url=http://hardwarehell.com/articles/shadowram.htm|title=Shadow Ram|access-date=2007-07-24|url-status=live|archive-url=https://web.archive.org/web/20061029162135/http://hardwarehell.com/articles/shadowram.htm|archive-date=2006-10-29}}</ref>'''
+
+==Recent developments==
+Several new types of [[NVRAM|''non-volatile'' RAM]], which preserve data while powered down, are under development. The technologies used include [[carbon nanotube]]s and approaches utilizing [[Tunnel magnetoresistance]]. Amongst the 1st generation [[Magnetoresistive random-access memory|MRAM]], a 128 [[kilobit|kbit]] ({{nowrap|128 × 2<sup>10</sup>}} bytes) chip was manufactured with 0.18&nbsp;µm technology in the summer of 2003.{{citation needed|date=June 2015}} In June 2004, [[Infineon Technologies]] unveiled a 16&nbsp;[[Megabyte|MB]] (16&nbsp;×&nbsp;2<sup>20</sup> bytes) prototype again based on 0.18&nbsp;µm technology. There are two 2nd generation techniques currently in development: [[thermal-assisted switching]] (TAS)<ref>The Emergence of Practical MRAM {{cite web |url=http://www.crocus-technology.com/pdf/BH%20GSA%20Article.pdf |title=Crocus Technology &#124; Magnetic Sensors &#124; TMR Sensors |access-date=2009-07-20 |url-status=dead |archive-url=https://web.archive.org/web/20110427022729/http://www.crocus-technology.com/pdf/BH%20GSA%20Article.pdf |archive-date=2011-04-27 }}</ref> which is being developed by [[Crocus Technology]], and [[spin-transfer torque]] (STT) on which [[Crocus Technology|Crocus]], [[Hynix]], [[IBM]], and several other companies are working.<ref>{{cite web|url=http://www.eetimes.com/news/latest/showArticle.jhtml?articleID=218000269|title=Tower invests in Crocus, tips MRAM foundry deal|work=EETimes|url-status=live|archive-url=https://web.archive.org/web/20120119111746/http://www.eetimes.com/news/latest/showArticle.jhtml?articleID=218000269|archive-date=2012-01-19}}</ref> [[Nantero]] built a functioning carbon nanotube memory prototype 10&nbsp;[[Gigabyte|GB]] (10&nbsp;×&nbsp;2<sup>30</sup> bytes) array in 2004. Whether some of these technologies can eventually take significant market share from either DRAM, SRAM, or flash-memory technology, however, remains to be seen.
+
+Since 2006, "[[solid-state drive]]s" (based on flash memory) with capacities exceeding 256 gigabytes and performance far exceeding traditional disks have become available. This development has started to blur the definition between traditional random-access memory and "disks", dramatically reducing the difference in performance.
+
+Some kinds of random-access memory, such as "[[EcoRAM]]", are specifically designed for [[server farm]]s, where [[low-power electronics|low power consumption]] is more important than speed.<ref>
+[http://blogs.zdnet.com/green/?p=1165 "EcoRAM held up as less power-hungry option than DRAM for server farms"] {{webarchive|url=https://web.archive.org/web/20080630005455/http://blogs.zdnet.com/green/?p=1165 |date=2008-06-30 }}
+by Heather Clancy 2008
+</ref>
+
+==Memory wall==
+The "memory wall" is the growing disparity of speed between CPU and memory outside the CPU chip.  An important reason for this disparity is the limited communication bandwidth beyond chip boundaries, which is also referred to as ''bandwidth wall''. From 1986 to 2000, [[Central processing unit|CPU]] speed improved at an annual rate of 55% while memory speed only improved at 10%. Given these trends, it was expected that [[memory latency]] would become an overwhelming [[bottleneck (engineering)|bottleneck]] in computer performance.<ref>The term was coined in {{cite web |url=http://www.eecs.ucf.edu/~lboloni/Teaching/EEL5708_2006/slides/wulf94.pdf |title=Archived copy |access-date=2011-12-14 |url-status=live |archive-url=https://web.archive.org/web/20120406111104/http://www.eecs.ucf.edu/~lboloni/Teaching/EEL5708_2006/slides/wulf94.pdf |archive-date=2012-04-06 }}.</ref>
+
+CPU speed improvements slowed significantly partly due to major physical barriers and partly because current CPU designs have already hit the memory wall in some sense.  [[Intel Corporation|Intel]] summarized these causes in a 2005 document.<ref>{{Cite web |title= Platform 2015: Intel® Processor and Platform Evolution for the Next Decade |date= March 2, 2005 |url= http://epic.hpi.uni-potsdam.de/pub/Home/TrendsAndConceptsII2010/HW_Trends_borkar_2015.pdf |url-status= live |archive-url= https://web.archive.org/web/20110427072037/http://epic.hpi.uni-potsdam.de/pub/Home/TrendsAndConceptsII2010/HW_Trends_borkar_2015.pdf |archive-date= April 27, 2011 }}</ref>
+
+<blockquote>First of all, as chip geometries shrink and clock frequencies rise, the transistor [[Leakage (electronics)|leakage current]] increases, leading to excess power consumption and heat... Secondly, the advantages of higher clock speeds are in part negated by memory latency, since memory access times have not been able to keep pace with increasing clock frequencies. Third, for certain applications, traditional serial architectures are becoming less efficient as processors get faster (due to the so-called [[Von Neumann architecture#Von Neumann bottleneck|Von Neumann bottleneck]]), further undercutting any gains that frequency increases might otherwise buy. In addition, partly due to limitations in the means of producing inductance within solid state devices, [[RC time constant#Delay|resistance-capacitance]] (RC) delays in signal transmission are growing as feature sizes shrink, imposing an additional bottleneck that frequency increases don't address.</blockquote>
+
+The RC delays in signal transmission were also noted in "Clock Rate versus IPC: The End of the Road for Conventional Microarchitectures"<ref>{{Cite conference |first1=Vikas |last1=Agarwal |first2=M. S. |last2=Hrishikesh |first3=Stephen W. |last3=Keckler |first4=Doug |last4=Burger |title=Clock Rate versus IPC: The End of the Road for Conventional Microarchitectures |url=http://www.cs.utexas.edu/users/cart/trips/publications/isca00.pdf |conference=27th Annual International Symposium on Computer Architecture |conference-url=https://dl.acm.org/citation.cfm?id=339647 |book-title=Proceedings of the 27th Annual International Symposium on Computer Architecture |location=Vancouver, BC |date=June 10–14, 2000 |access-date=14 July 2018}}</ref> which projected a maximum of 12.5% average annual CPU performance improvement between 2000 and 2014.
+
+A different concept is the processor-memory performance gap, which can be addressed by [[Three-dimensional integrated circuit|3D integrated circuits]] that reduce the distance between the logic and memory aspects that are further apart in a 2D chip.<ref>{{cite book |page=790 |url=https://books.google.com/books?id=1PgYS7zDCM8C&q=processor-memory+performance+gap&pg=PA790 |access-date=March 31, 2014 |title=Nanoelectronics and Information Technology |author=Rainer Waser |publisher=John Wiley & Sons |year=2012 |url-status=live |archive-url=https://web.archive.org/web/20160801114150/https://books.google.com/books?id=1PgYS7zDCM8C&pg=PA790&dq=processor-memory+performance+gap&hl=en&sa=X&ei=jeM5U93YAqTr2QWc74A4&ved=0CDYQ6AEwAg#v=onepage&q=processor-memory%20performance%20gap&f=false |archive-date=August 1, 2016 |isbn = 9783527409273|author-link = Rainer Waser}}</ref> Memory subsystem design requires a focus on the gap, which is widening over time.<ref>{{cite book |url=https://books.google.com/books?id=0IY7LW5J4JgC&q=processor-memory+performance+gap&pg=PA109 |page=109 |access-date=March 31, 2014 |title=Advances in Computer Systems Architecture: 11th Asia-Pacific Conference, ACSAC 2006, Shanghai, China, September 6-8, 2006, Proceedings |author=Chris Jesshope and Colin Egan |publisher=Springer |date=2006 |url-status=live |archive-url=https://web.archive.org/web/20160801135254/https://books.google.com/books?id=0IY7LW5J4JgC&pg=PA109&dq=processor-memory+performance+gap&hl=en&sa=X&ei=jeM5U93YAqTr2QWc74A4&ved=0CEkQ6AEwBg#v=onepage&q=processor-memory%20performance%20gap&f=false |archive-date=August 1, 2016 |isbn=9783540400561 }}</ref> The main method of bridging the gap is the use of [[Cache (computing)|caches]]; small amounts of high-speed memory that houses recent operations and instructions nearby the processor, speeding up the execution of those operations or instructions in cases where they are called upon frequently. Multiple levels of caching have been developed to deal with the widening gap, and the performance of high-speed modern computers relies on evolving caching techniques.<ref>{{cite book |url=https://books.google.com/books?id=7i9Z69lrYBoC&q=processor-memory+performance+gap&pg=PA90 |pages=90–91 |access-date=March 31, 2014 |title=Multiprocessor Systems-on-chips |author=Ahmed Amine Jerraya and Wayne Wolf |publisher=Morgan Kaufmann |year=2005 |url-status=live |archive-url=https://web.archive.org/web/20160801105357/https://books.google.com/books?id=7i9Z69lrYBoC&pg=PA90&dq=processor-memory+performance+gap&hl=en&sa=X&ei=jeM5U93YAqTr2QWc74A4&ved=0CFMQ6AEwCA#v=onepage&q=processor-memory%20performance%20gap&f=false |archive-date=August 1, 2016 |isbn=9780123852519 }}</ref> There can be up to a 53% difference between the growth in speed of processor and the lagging speed of main memory access.<ref>{{cite book |url=https://books.google.com/books?id=f0pJYJQMlmoC&q=processor-memory+performance+gap&pg=PA529 |page=529 |access-date=March 31, 2014 |title=Experimental and Efficient Algorithms: Third International Workshop, WEA 2004, Angra Dos Reis, Brazil, May 25-28, 2004, Proceedings, Volume 3 |author=Celso C. Ribeiro and Simone L. Martins |publisher=Springer |year=2004 |url-status=live |archive-url=https://web.archive.org/web/20160801092734/https://books.google.com/books?id=f0pJYJQMlmoC&pg=PA529&dq=processor-memory+performance+gap&hl=en&sa=X&ei=1eM5U7veEaTx2QXM2oDYCw&ved=0CCwQ6AEwADgU#v=onepage&q=processor-memory%20performance%20gap&f=false |archive-date=August 1, 2016 |isbn=9783540220671 }}</ref>
+
+[[Solid-state drive|Solid-state hard drives]] have continued to increase in speed, from ~400 Mbit/s via [[Serial ATA|SATA3]] in 2012 up to ~3 GB/s via [[NVM Express|NVMe]]/[[PCI Express|PCIe]] in 2018, closing the gap between RAM and hard disk speeds, although RAM continues to be an order of magnitude faster, with single-lane [[DDR4 SDRAM|DDR4]] 3200 capable of 25 GB/s, and modern [[GDDR SDRAM|GDDR]] even faster. Fast, cheap, [[Non-volatile memory|non-volatile]] solid state drives have replaced some functions formerly performed by RAM, such as holding certain data for immediate availability in [[server farm]]s - 1 [[terabyte]] of SSD storage can be had for $200, while 1 TB of RAM would cost thousands of dollars.<ref>{{Cite web|url=https://www.minitool.com/news/ssd-prices-fall.html|title=SSD Prices Continue to Fall, Now Upgrade Your Hard Drive!|date=2018-09-03|website=MiniTool|language=en-us|access-date=2019-03-28}}</ref><ref>{{Cite web|url=https://www.digitaltrends.com/computing/ram-prices-are-increasing-until-third-quarter-2017/|title=If you're buying or upgrading your PC, expect to pay more for RAM|last=Coppock|first=Mark|date=31 January 2017|website=www.digitaltrends.com|access-date=2019-03-28}}</ref>
+
+==Timeline==
+{{See also|Flash memory#Timeline|Read-only memory#Timeline|Transistor count#Memory}}
+
+===SRAM===
+{| class="wikitable sortable" style="text-align:center"
+|+ [[Static random-access memory]] (SRAM)
+|-
+! Date of introduction
+! Chip name
+! Capacity ([[bit]]s)
+! [[Access time]]
+! SRAM type
+! Manufacturer(s)
+! data-sort-type="number" |[[Semiconductor device fabrication|Process]]
+! [[MOSFET]]
+! {{Abbr|Ref|Reference(s)}}
+|-
+|{{dts|1963|3}}
+|{{n/a}}
+|[[1-bit computing|1-bit]]
+|{{?}}
+|[[Bipolar junction transistor|Bipolar]] ([[Memory cell (computing)|cell]])
+|[[Fairchild Semiconductor|Fairchild]]
+|{{n/a}}
+|{{n/a}}
+| rowspan="2" |<ref name="computerhistory1966">{{cite web |title=1966: Semiconductor RAMs Serve High-speed Storage Needs |url=https://www.computerhistory.org/siliconengine/semiconductor-rams-serve-high-speed-storage-needs/ |website=[[Computer History Museum]] |access-date=19 June 2019}}</ref>
+|-
+| rowspan="3" |1965
+|{{?}}
+|[[8-bit]]
+|{{?}}
+|[[Bipolar junction transistor|Bipolar]]
+|[[IBM]]
+|{{?}}
+|{{n/a}}
+|-
+|SP95
+|[[16-bit]]
+|{{?}}
+|Bipolar
+|IBM
+|{{?}}
+|{{n/a}}
+|<ref>{{cite web |title=IBM first in IC memory |url=https://www.computerhistory.org/collections/catalog/102770626 |website=[[Computer History Museum]] |access-date=19 June 2019}}</ref>
+|-
+|{{?}}
+|[[64-bit]]
+|{{?}}
+|[[MOSFET]]
+|Fairchild
+|{{?}}
+|[[PMOS logic|PMOS]]
+|<ref name="Sah1303">{{cite journal |last=Sah |first=Chih-Tang |author-link=Chih-Tang Sah |title=Evolution of the MOS transistor-from conception to VLSI |journal=[[Proceedings of the IEEE]] |date=October 1988 |volume=76 |issue=10 |pages=1280–1326 (1303) |doi=10.1109/5.16328 |url=http://www.dejazzer.com/ece723/resources/Evolution_of_the_MOS_transistor.pdf |issn=0018-9219|bibcode=1988IEEEP..76.1280S }}</ref>
+|-
+| rowspan="2" |1966
+|TMC3162
+|16-bit
+|{{?}}
+|Bipolar ([[Transistor–transistor logic|TTL]])
+|[[Transitron]]
+|{{?}}
+|{{n/a}}
+|<ref name="computerhistory1970"/>
+|-
+|{{?}}
+|{{?}}
+|{{?}}
+|MOSFET
+|[[NEC]]
+|{{?}}
+|{{?}}
+|<ref name="shmj-mos"/>
+|-
+|rowspan="3" | 1968
+|rowspan="3" | {{?}}
+|64-bit
+|{{?}}
+|MOSFET
+|Fairchild
+|{{?}}
+|PMOS
+|rowspan="2" | <ref name="shmj-mos"/>
+|-
+|144-bit
+|{{?}}
+|MOSFET
+|NEC
+|{{?}}
+|[[NMOS logic|NMOS]]
+|-
+|[[512-bit]]
+|{{?}}
+|MOSFET
+|IBM
+|{{?}}
+|NMOS
+|<ref name="Sah1303"/>
+|-
+| rowspan="2" |1969
+|{{?}}
+|[[128-bit]]
+|{{?}}
+|Bipolar
+|IBM
+|{{?}}
+|{{n/a}}
+|<ref name="computerhistory1966"/>
+|-
+|1101
+|[[256-bit]]
+|850 [[Nanosecond|ns]]
+|MOSFET
+|[[Intel]]
+|12,000 [[Nanometre|nm]]
+|PMOS
+|<ref name="Intel-Product-Timeline"/><ref name="shmj-1970s-sram">{{cite web |title=1970s: SRAM evolution |url=http://www.shmj.or.jp/english/pdf/ic/exhibi724E.pdf |website=Semiconductor History Museum of Japan |access-date=27 June 2019}}</ref><ref name="Pimbley">{{cite book |last1=Pimbley |first1=J. |title=Advanced CMOS Process Technology |date=2012 |publisher=[[Elsevier]] |isbn=9780323156806 |page=7 |url=https://books.google.com/books?id=8EUWHSqevQoC&pg=PA7}}</ref><ref>{{Cite web|url=https://www.intel-vintage.info/intelmemory.htm|title=Intel Memory|website=Intel Vintage|access-date=2019-07-06|ref=intel-memory}}</ref>
+|-
+|1972
+|2102
+|1 [[Kilobit|kbit]]
+|{{?}}
+|MOSFET
+|Intel
+|{{?}}
+|NMOS
+|<ref name="Intel-Product-Timeline"/>
+|-
+| rowspan="2" |1974
+|5101
+|1 kbit
+|800 ns
+|MOSFET
+|Intel
+|{{?}}
+|[[CMOS]]
+|<ref name="Intel-Product-Timeline"/><ref name="Intel-1978-3">{{cite book |title=Component Data Catalog |date=1978 |publisher=[[Intel]] |page=3 |url=http://bitsavers.trailing-edge.com/components/intel/_dataBooks/1978_Intel_Component_Data_Catalog.pdf |access-date=27 June 2019}}</ref>
+|-
+|2102A
+|1 kbit
+|350 ns
+|MOSFET
+|Intel
+|{{?}}
+|NMOS ([[Depletion-load NMOS logic|depletion]])
+|<ref name="Intel-Product-Timeline"/><ref>{{cite web |title=Silicon Gate MOS 2102A |url=https://drive.google.com/file/d/0B9rh9tVI0J5mMmZlYWRlMDQtNDYzYS00OWJkLTg4YzYtZDYzMzc5Y2ZlYmVk/view |publisher=[[Intel]] |access-date=27 June 2019}}</ref>
+|-
+|1975
+|2114
+|4 kbit
+|450 ns
+|MOSFET
+|Intel
+|{{?}}
+|NMOS
+|<ref name="Intel-Product-Timeline"/><ref name="Intel-1978-3"/>
+|-
+| rowspan="2" |1976
+|2115
+|1 kbit
+|70 ns
+|MOSFET
+|Intel
+|{{?}}
+|NMOS ([[HMOS]])
+|<ref name="Intel-Product-Timeline"/><ref name="shmj-1970s-sram"/>
+|-
+|2147
+|4 kbit
+|55 ns
+|MOSFET
+|Intel
+|{{?}}
+|NMOS (HMOS)
+|<ref name="Intel-Product-Timeline"/><ref name="hitachi-cmos">{{cite web |title=1978: Double-well fast CMOS SRAM (Hitachi) |url=http://www.shmj.or.jp/english/pdf/ic/exhibi727E.pdf |website=Semiconductor History Museum of Japan |access-date=5 July 2019}}</ref>
+|-
+|1977
+|{{?}}
+|4 kbit
+|{{?}}
+|MOSFET
+|[[Toshiba]]
+|{{?}}
+|CMOS
+|<ref name="shmj-1970s-sram"/>
+|-
+| rowspan="2" |1978
+|HM6147
+|4 kbit
+|55 ns
+|MOSFET
+|[[Hitachi]]
+|[[3 µm process|3,000 nm]]
+|CMOS ([[CMOS|twin-well]])
+|<ref name="hitachi-cmos"/>
+|-
+|TMS4016
+|16 kbit
+|{{?}}
+|MOSFET
+|[[Texas Instruments]]
+|{{?}}
+|NMOS
+|<ref name="shmj-1970s-sram"/>
+|-
+|rowspan="2" | 1980
+|rowspan="2" | {{?}}
+|16 kbit
+|{{?}}
+|MOSFET
+|Hitachi, Toshiba
+|rowspan="2" | {{?}}
+|rowspan="2" | CMOS
+|rowspan="2" | <ref name="stol"/>
+|-
+|64 kbit
+|{{?}}
+|MOSFET
+|[[Panasonic|Matsushita]]
+|-
+|1981
+|{{?}}
+|16 kbit
+|{{?}}
+|MOSFET
+|Texas Instruments
+|2,500&nbsp;nm
+|NMOS
+|<ref name="stol"/>
+|-
+|{{dts|1981|10}}
+|{{?}}
+|4 kbit
+|18 ns
+|MOSFET
+|Matsushita, Toshiba
+|2,000&nbsp;nm
+|CMOS
+|<ref>{{cite journal |last1=Isobe |first1=Mitsuo |last2=Uchida |first2=Yukimasa |last3=Maeguchi |first3=Kenji |last4=Mochizuki |first4=T. |last5=Kimura |first5=M. |last6=Hatano |first6=H. |last7=Mizutani |first7=Y. |last8=Tango |first8=H. |title=An 18 ns CMOS/SOS 4K static RAM |journal=[[IEEE Journal of Solid-State Circuits]] |date=October 1981 |volume=16 |issue=5 |pages=460–465 |doi=10.1109/JSSC.1981.1051623|bibcode=1981IJSSC..16..460I }}</ref>
+|-
+|1982
+|{{?}}
+|64 kbit
+|{{?}}
+|MOSFET
+|Intel
+|[[1.5 µm process|1,500 nm]]
+|NMOS (HMOS)
+|<ref name="stol"/>
+|-
+|{{dts|1983|2}}
+|{{?}}
+|64 kbit
+|50 ns
+|MOSFET
+|[[Mitsubishi Electric|Mitsubishi]]
+|{{?}}
+|CMOS
+|<ref>{{cite journal |last1=Yoshimoto |first1=M. |last2=Anami |first2=K. |last3=Shinohara |first3=H. |last4=Yoshihara |first4=T. |last5=Takagi |first5=H. |last6=Nagao |first6=S. |last7=Kayano |first7=S. |last8=Nakano |first8=T. |title=A 64Kb full CMOS RAM with divided word line structure |journal=1983 IEEE International Solid-State Circuits Conference. Digest of Technical Papers |date=1983 |volume=XXVI |pages=58–59 |doi=10.1109/ISSCC.1983.1156503|s2cid=34837669 }}</ref>
+|-
+|1984
+|{{?}}
+|256 kbit
+|{{?}}
+|MOSFET
+|Toshiba
+|1,200&nbsp;nm
+|CMOS
+|<ref name="stol"/><ref name="Pimbley"/>
+|-
+|1987
+|{{?}}
+|1 [[megabit|Mbit]]
+|{{?}}
+|MOSFET
+|[[Sony]], Hitachi, [[Mitsubishi Electric|Mitsubishi]], Toshiba
+|{{?}}
+|CMOS
+|<ref name="stol"/>
+|-
+|{{dts|1987|12}}
+|{{?}}
+|256 kbit
+|10 ns
+|[[BiMOS]]
+|Texas Instruments
+|800&nbsp;nm
+|[[BiCMOS]]
+|<ref>{{cite journal |last1=Havemann |first1=Robert H. |last2=Eklund |first2=R. E. |last3=Tran |first3=Hiep V. |last4=Haken |first4=R. A. |last5=Scott |first5=D. B. |last6=Fung |first6=P. K. |last7=Ham |first7=T. E. |last8=Favreau |first8=D. P. |last9=Virkus |first9=R. L. |title=An 0.8 #181;m 256K BiCMOS SRAM technology |journal=1987 International Electron Devices Meeting |date=December 1987 |pages=841–843 |doi=10.1109/IEDM.1987.191564|s2cid=40375699 }}</ref>
+|-
+|1990
+|{{?}}
+|4 Mbit
+|15{{ndash}}23 ns
+|MOSFET
+|NEC, Toshiba, Hitachi, Mitsubishi
+|{{?}}
+|rowspan="2" | CMOS
+|rowspan="2" | <ref name="stol"/>
+|-
+|1992
+|{{?}}
+|16 Mbit
+|12{{ndash}}15 ns
+|MOSFET
+|[[Fujitsu]], NEC
+|400&nbsp;nm
+|-
+|{{dts|1994|12}}
+|{{?}}
+|512 kbit
+|2.5 ns
+|MOSFET
+|IBM
+|{{?}}
+|CMOS ([[Silicon on insulator|SOI]])
+|<ref>{{cite journal |last1=Shahidi |first1=Ghavam G. |author1-link=Ghavam Shahidi |last2=Davari |first2=Bijan |author2-link=Bijan Davari |last3=Dennard |first3=Robert H. |author3-link=Robert H. Dennard |last4=Anderson |first4=C. A. |last5=Chappell |first5=B. A. |last6=Chappell |first6=T. I. |last7=Comfort |first7=J. H. |last8=Franch |first8=R. L. |last9=McFarland |first9=P. A. |last10=Neely |first10=J. S. |last11=Ning |first11=T. H. |last12=Polcari |first12=M. R. |last13=Warnock |first13=J. D. |display-authors=5 |title=A room temperature 0.1 µm CMOS on SOI |journal=[[IEEE Transactions on Electron Devices]] |date=December 1994 |volume=41 |issue=12 |pages=2405–2412 |doi=10.1109/16.337456|bibcode=1994ITED...41.2405S }}</ref>
+|-
+| rowspan="2" |1995
+| rowspan="2" |{{?}}
+|4 Mbit
+|6 ns
+|[[Cache (computing)|Cache]] ([[Static random-access memory|SyncBurst]])
+|Hitachi
+|100&nbsp;nm
+|CMOS
+|<ref name="smithsonian-japan"/>
+|-
+|256 Mbit
+|{{?}}
+|MOSFET
+|[[SK Hynix|Hyundai]]
+|{{?}}
+|CMOS
+|<ref name="hynix90s">{{cite web |title=History: 1990s |url=https://www.skhynix.com/eng/about/history1990.jsp |website=[[SK Hynix]] |access-date=6 July 2019}}</ref>
+|}
+
+===DRAM===
+{| class="wikitable sortable" style="text-align:center"
+|+ [[Dynamic random-access memory]] (DRAM)
+|-
+! Date of introduction
+! Chip name
+! Capacity ([[bit]]s)
+! DRAM type
+! Manufacturer(s)
+! data-sort-type="number" |[[Semiconductor device fabrication|Process]]
+![[MOSFET]]
+! data-sort-type="number" | Area
+! {{Abbr|Ref|Reference(s)}}
+|-
+|1965
+|{{n/a}}
+|[[1 bit]]
+|DRAM ([[Memory cell (computing)|cell]])
+|[[Toshiba]]
+|{{n/a}}
+|{{n/a}}
+|{{n/a}}
+|<ref name="bc-spec">{{cite web|url=http://www.oldcalculatormuseum.com/s-toshbc1411.html|title=Spec Sheet for Toshiba "TOSCAL" BC-1411|website=Old Calculator Web Museum|access-date=8 May 2018|url-status=live|archive-url=https://web.archive.org/web/20170703071307/http://www.oldcalculatormuseum.com/s-toshbc1411.html|archive-date=3 July 2017}}</ref><ref name="bc">[http://www.oldcalculatormuseum.com/toshbc1411.html Toshiba "Toscal" BC-1411 Desktop Calculator] {{webarchive|url=https://web.archive.org/web/20070520202433/http://www.oldcalculatormuseum.com/toshbc1411.html |date=2007-05-20 }}</ref>
+|-
+|1967
+|{{n/a}}
+|1 bit
+|DRAM (cell)
+|[[IBM]]
+|{{n/a}}
+|[[MOSFET|MOS]]
+|{{n/a}}
+|<ref name="Robert Dennard">{{cite web |title=Robert Dennard |url=https://www.britannica.com/biography/Robert-Dennard |website=[[Encyclopedia Britannica]] |access-date=8 July 2019}}</ref><ref name="shmj-mos">{{cite web |title=Late 1960s: Beginnings of MOS memory |url=http://www.shmj.or.jp/english/pdf/ic/exhibi718E.pdf |website=Semiconductor History Museum of Japan |date=2019-01-23 |access-date=27 June 2019}}</ref>
+|-
+|1968
+|{{?}}
+|[[256 bit]]
+|DRAM ([[Integrated circuit|IC]])
+|[[Fairchild Semiconductor|Fairchild]]
+|{{?}}
+|[[PMOS logic|PMOS]]
+|{{?}}
+|<ref name="computerhistory1970">{{cite web |title=1970: Semiconductors compete with magnetic cores |url=https://www.computerhistory.org/storageengine/semiconductors-compete-with-magnetic-cores/ |website=[[Computer History Museum]] |access-date=19 June 2019}}</ref>
+|-
+|1969
+|{{n/a}}
+|1 bit
+|DRAM (cell)
+|[[Intel]]
+|{{n/a}}
+|PMOS
+|{{n/a}}
+|<ref name="shmj-mos"/>
+|-
+| rowspan="2" |1970
+|[[Intel 1102|1102]]
+|1 [[Kilobit|kbit]]
+|DRAM (IC)
+|Intel, [[Honeywell]]
+|{{?}}
+|PMOS
+|{{?}}
+|<ref name="shmj-mos"/>
+|-
+|[[Intel 1103|1103]]
+|1 kbit
+|DRAM
+|Intel
+|8,000 [[Nanometre|nm]]
+|PMOS
+|10&nbsp;mm²
+|<ref name="Intel2003">{{cite web |title=Intel: 35 Years of Innovation (1968–2003) |url=https://www.intel.com/Assets/PDF/General/35yrs.pdf |publisher=Intel |year=2003 |access-date=26 June 2019}}</ref><ref name="HC">[http://history-computer.com/ModernComputer/Basis/dram.html ''The DRAM memory of Robert Dennard''] history-computer.com</ref><ref name="Lojek-1103">{{cite book |last1=Lojek |first1=Bo |title=History of Semiconductor Engineering |date=2007 |publisher=[[Springer Science & Business Media]] |isbn=9783540342588 |pages=362–363 |url=https://books.google.com/books?id=2cu1Oh_COv8C&pg=PA362 |quote=The i1103 was manufactured on a 6-mask silicon-gate P-MOS process with 8 μm minimum features. The resulting product had a 2,400 µm² memory cell size, a die size just under 10 mm², and sold for around $21.}}</ref>
+|-
+| rowspan="2" |1971
+|μPD403
+|1 kbit
+|DRAM
+|[[NEC]]
+|{{?}}
+|[[NMOS logic|NMOS]]
+|{{?}}
+|<ref>{{cite web |title=Manufacturers in Japan enter the DRAM market and integration densities are improved |url=http://www.shmj.or.jp/english/pdf/ic/exhibi745E.pdf |website=Semiconductor History Museum of Japan |access-date=27 June 2019}}</ref>
+|-
+|{{?}}
+|2 kbit
+|DRAM
+|[[General Instrument]]
+|{{?}}
+|PMOS
+|13&nbsp;mm²
+|<ref name="Gealow">{{cite web |last1=Gealow |first1=Jeffrey Carl |title=Impact of Processing Technology on DRAM Sense Amplifier Design |url=https://core.ac.uk/download/pdf/4426308.pdf |publisher=[[Massachusetts Institute of Technology]] |website=[[COnnecting REpositories|CORE]] |date=10 August 1990 |pages=149–166 |access-date=25 June 2019}}</ref>
+|-
+|1972
+|2107
+|4 kbit
+|DRAM
+|Intel
+|{{?}}
+|NMOS
+|{{?}}
+|<ref name="Intel-Product-Timeline">{{cite web|url=http://download.intel.com/museum/research/arc_collect/timeline/TimelineDateSort7_05.pdf|title=A chronological list of Intel products. The products are sorted by date.|date=July 2005|work=Intel museum|publisher=Intel Corporation|archive-url=https://web.archive.org/web/20070809053720/http://download.intel.com/museum/research/arc_collect/timeline/TimelineDateSort7_05.pdf|archive-date=August 9, 2007|access-date=July 31, 2007}}</ref><ref>{{cite web |title=Silicon Gate MOS 2107A |url=https://drive.google.com/file/d/0B9rh9tVI0J5mMDJjOGZkNzUtNzMxMS00ZWM5LWIzNjEtZTg1MDZiNjM3ZDBm/view |publisher=[[Intel]] |access-date=27 June 2019}}</ref>
+|-
+|1973
+|{{?}}
+|8 kbit
+|DRAM
+|IBM
+|{{?}}
+|PMOS
+|19&nbsp;mm²
+|<ref name="Gealow"/>
+|-
+|1975
+|2116
+|16 kbit
+|DRAM
+|Intel
+|{{?}}
+|NMOS
+|{{?}}
+|<ref>{{cite web |title=One of the Most Successful 16K Dynamic RAMs: The 4116 |url=http://smithsonianchips.si.edu/augarten/p50.htm |website=[[National Museum of American History]] |publisher=[[Smithsonian Institution]] |access-date=20 June 2019}}</ref><ref name="computerhistory1970"/>
+|-
+|1977
+|{{?}}
+|64 kbit
+|DRAM
+|[[Nippon Telegraph and Telephone|NTT]]
+|{{?}}
+|NMOS
+|35&nbsp;mm²
+|<ref name="Gealow"/>
+|-
+| rowspan="2" |1979
+|MK4816
+|16 kbit
+|[[Pseudostatic RAM|PSRAM]]
+|[[Mostek]]
+|{{?}}
+|NMOS
+|{{?}}
+|<ref>{{cite book |title=Memory Data Book And Designers Guide |date=March 1979 |publisher=[[Mostek]] |pages=9 & 183 |url=http://www.bitsavers.org/components/mostek/_dataBooks/1979_Mostek_Memory_Data_Book_and_Designers_Guide_Mar79.pdf}}</ref>
+|-
+|{{?}}
+|64 kbit
+|DRAM
+|[[Siemens]]
+|{{?}}
+|[[VMOS]]
+|25&nbsp;mm²
+|<ref name="Gealow"/>
+|-
+|1980
+|{{?}}
+|256 kbit
+|DRAM
+|NEC, NTT
+|1,000{{ndash}}[[1.5 µm process|1,500 nm]]
+|NMOS
+|34{{ndash}}42&nbsp;mm²
+|<ref name="Gealow"/>
+|-
+|1981
+|{{?}}
+|288 kbit
+|DRAM
+|IBM
+|{{?}}
+|MOS
+|25&nbsp;mm²
+|<ref>{{cite web |title=The Cutting Edge of IC Technology: The First 294,912-Bit (288K) Dynamic RAM |url=http://smithsonianchips.si.edu/augarten/p66.htm |website=[[National Museum of American History]] |publisher=[[Smithsonian Institution]] |access-date=20 June 2019}}</ref>
+|-
+|rowspan="2" | 1983
+|rowspan="2" | {{?}}
+|64 kbit
+|DRAM
+|Intel
+|[[1.5 µm process|1,500 nm]]
+|[[CMOS]]
+|20&nbsp;mm²
+|rowspan="2" | <ref name="Gealow"/>
+|-
+|256 kbit
+|DRAM
+|NTT
+|{{?}}
+|CMOS
+|31&nbsp;mm²
+|-
+|{{sort|1984|January 5, 1984}}
+|{{?}}
+|8 [[Megabit|Mbit]]
+|DRAM
+|[[Hitachi]]
+|{{?}}
+|MOS
+|{{?}}
+|<ref>{{cite web |title=Computer History for 1984 |url=https://www.computerhope.com/history/1984.htm |website=Computer Hope |access-date=25 June 2019}}</ref><ref>{{cite journal |title=Japanese Technical Abstracts |journal=Japanese Technical Abstracts |date=1987 |volume=2 |issue=3–4 |page=161 |url=https://books.google.com/books?id=Fa0kAQAAIAAJ |publisher=University Microfilms |quote=The announcement of 1M DRAM in 1984 began the era of megabytes.}}</ref>
+|-
+| rowspan="2" |{{sort|1984|February 1984}}
+| rowspan="2" |{{?}}
+| rowspan="2" |1 Mbit
+| rowspan="2" |DRAM
+|Hitachi, NEC
+|[[1 µm process|1,000 nm]]
+|NMOS
+|74{{ndash}}76&nbsp;mm²
+|<ref name="Gealow"/><ref name="Robinson">{{cite journal |last1=Robinson |first1=Arthur L. |title=Experimental Memory Chips Reach 1 Megabit: As they become larger, memories become an increasingly important part of the integrated circuit business, technologically and economically |journal=[[Science (journal)|Science]] |date=11 May 1984 |volume=224 |issue=4649 |pages=590–592 |doi=10.1126/science.224.4649.590 |pmid=17838349 |issn=0036-8075}}</ref>
+|-
+|NTT
+|[[800 nanometer|800 nm]]
+|CMOS
+|53&nbsp;mm²
+|<ref name="Gealow"/><ref name="Robinson"/>
+|-
+|1984
+|TMS4161
+|64 kbit
+|[[Dual-ported RAM|DPRAM]] ([[Video RAM (dual-ported DRAM)|VRAM]])
+|[[Texas Instruments]]
+|{{?}}
+|NMOS
+|{{?}}
+|<ref name="ti1984">{{cite book |title=MOS Memory Data Book |url=http://bitsavers.trailing-edge.com/components/ti/_dataBooks/1984_TI_MOS_Memory_Data_Book.pdf |publisher=[[Texas Instruments]] |year=1984 |pages=4–15 |access-date=21 June 2019}}</ref><ref>{{cite web |title=Famous Graphics Chips: TI TMS34010 and VRAM |url=https://www.computer.org/publications/tech-news/chasing-pixels/Famous-Graphics-Chips-IBMs-professional-graphics-the-PGC-and-8514A/Famous-Graphics-Chips-TI-TMS34010-and-VRAM |website=[[IEEE Computer Society]] |access-date=29 June 2019}}</ref>
+|-
+|{{sort|1985|January 1985}}
+|μPD41264
+|256 kbit
+|DPRAM (VRAM)
+|NEC
+|{{?}}
+|NMOS
+|{{?}}
+|<ref>{{cite web |title=μPD41264 256K Dual Port Graphics Buffer |url=https://console5.com/techwiki/images/4/4b/UPD41264.pdf |publisher=[[NEC Electronics]] |access-date=21 June 2019}}</ref><ref>{{cite web |title=Sense amplifier circuit for switching plural inputs at low power |url=https://patents.google.com/patent/US4808857 |website=[[Google Patents]] |access-date=21 June 2019}}</ref>
+|-
+|{{sort|1986|June 1986}}
+|{{?}}
+|1 Mbit
+|PSRAM
+|Toshiba
+|{{?}}
+|CMOS
+|{{?}}
+|<ref>{{cite journal |title=Fine CMOS techniques create 1M VSRAM |journal=Japanese Technical Abstracts |date=1987 |volume=2 |issue=3–4 |page=161 |url=https://books.google.com/books?id=Fa0kAQAAIAAJ |publisher=University Microfilms}}</ref>
+|-
+|rowspan="2" | 1986
+|rowspan="2" | {{?}}
+|rowspan="2" | 4 Mbit
+|rowspan="2" | DRAM
+|NEC
+|800&nbsp;nm
+|NMOS
+|99&nbsp;mm²
+|rowspan="2" | <ref name="Gealow"/>
+|-
+|Texas Instruments, Toshiba
+|1,000&nbsp;nm
+|CMOS
+|100{{ndash}}137&nbsp;mm²
+|-
+|1987
+|{{?}}
+|16 Mbit
+|DRAM
+|NTT
+|700&nbsp;nm
+|CMOS
+|148&nbsp;mm²
+|<ref name="Gealow"/>
+|-
+|{{sort|1987|October 1988}}
+|{{?}}
+|512 kbit
+|HSDRAM
+|IBM
+|1,000&nbsp;nm
+|CMOS
+|78&nbsp;mm²
+|<ref>{{cite journal |last1=Hanafi |first1=Hussein I. |last2=Lu |first2=Nicky C. C. |last3=Chao |first3=H. H. |last4=Hwang |first4=Wei |last5=Henkels |first5=W. H. |last6=Rajeevakumar |first6=T. V. |last7=Terman |first7=L. M. |last8=Franch |first8=Robert L. |title=A 20-ns 128-kbit*4 high speed DRAM with 330-Mbit/s data rate |journal=[[IEEE Journal of Solid-State Circuits]] |date=October 1988 |volume=23 |issue=5 |pages=1140–1149 |doi=10.1109/4.5936|bibcode=1988IJSSC..23.1140L }}</ref>
+|-
+|1991
+|{{?}}
+|64 Mbit
+|DRAM
+|[[Panasonic|Matsushita]], [[Mitsubishi Electric|Mitsubishi]], [[Fujitsu]], Toshiba
+|400&nbsp;nm
+|CMOS
+|{{?}}
+| rowspan="2" |<ref name="stol">{{cite web|url=http://maltiel-consulting.com/Semiconductor_technology_memory.html|title=Memory|website=STOL (Semiconductor Technology Online)|access-date=25 June 2019}}</ref>
+|-
+|1993
+|{{?}}
+|256 Mbit
+|DRAM
+|Hitachi, NEC
+|[[250 nanometer|250 nm]]
+|CMOS
+|{{?}}
+|-
+|1995
+|{{?}}
+|4 Mbit
+|DPRAM (VRAM)
+|Hitachi
+|{{?}}
+|CMOS
+|{{?}}
+|<ref name="smithsonian-japan">{{cite web |title=Japanese Company Profiles |url=http://smithsonianchips.si.edu/ice/cd/PROF96/JAPAN.PDF |publisher=[[Smithsonian Institution]] |year=1996 |access-date=27 June 2019}}</ref>
+|-
+| rowspan="2" |{{sort|1995|January 9, 1995}}
+| rowspan="2" |{{?}}
+| rowspan="2" |1 [[Gigabit|Gbit]]
+| rowspan="2" |DRAM
+|NEC
+|250&nbsp;nm
+|CMOS
+|{{?}}
+|rowspan="2" |<ref name="HB19950109">[https://web.archive.org/web/20140827092848/http://business.highbeam.com/3591/article-1G1-16482653/breaking-gigabit-barrier-drams-isscc-portend-major ''Breaking the gigabit barrier, DRAMs at ISSCC portend major system-design impact. (dynamic random access memory; International Solid-State Circuits Conference; Hitachi Ltd. and NEC Corp. research and development)''] Highbeam Business, January 9, 1995</ref><ref name="smithsonian-japan"/>
+|-
+|Hitachi
+|160&nbsp;nm
+|CMOS
+|{{?}}
+|-
+|1996
+|{{?}}
+|4 Mbit
+|[[Ferroelectric RAM|FRAM]]
+|[[Samsung Electronics|Samsung]]
+|{{?}}
+|NMOS
+|{{?}}
+|<ref>{{cite book |last1=Scott |first1=J.F. |chapter=Nano-Ferroelectrics |editor-last1=Tsakalakos |editor-first1=Thomas |editor-last2=Ovid'ko |editor-first2=Ilya A. |editor-last3=Vasudevan |editor-first3=Asuri K. |title=Nanostructures: Synthesis, Functional Properties and Application |date=2003 |publisher=[[Springer Science & Business Media]] |isbn=9789400710191 |pages=584–600 (597) |chapter-url=https://books.google.com/books?id=z2ryCAAAQBAJ&pg=PA597}}</ref>
+|-
+|1997
+|{{?}}
+|4 Gbit
+|[[Quad-level cell|QLC]]
+|NEC
+|150&nbsp;nm
+|CMOS
+|{{?}}
+|<ref name="stol"/>
+|-
+|1998
+|{{?}}
+|4 Gbit
+|DRAM
+|Hyundai
+|{{?}}
+|CMOS
+|{{?}}
+|<ref name="hynix90s"/>
+|-
+|{{sort|2001|June 2001}}
+|TC51W3216XB
+|32 Mbit
+|PSRAM
+|[[Toshiba]]
+|{{?}}
+|CMOS
+|{{?}}
+|<ref>{{cite news |title=Toshiba's new 32 Mb Pseudo-SRAM is no fake |url=https://www.theengineer.co.uk/toshibas-new-32-mb-pseudo-sram-is-no-fake/ |access-date=29 June 2019 |work=The Engineer |date=24 June 2001 |language=en-UK}}</ref>
+|-
+|{{sort|2001|February 2001}}
+|{{?}}
+|4 Gbit
+
+|DRAM
+|Samsung
+|[[100 nm]]
+|CMOS
+|{{?}}
+|<ref name="stol"/><ref>{{cite web |title=A Study of the DRAM industry |url=https://dspace.mit.edu/bitstream/handle/1721.1/59138/659514510-MIT.pdf |publisher=[[MIT]] |date=8 June 2010 |access-date=29 June 2019}}</ref>
+|}
+
+===SDRAM===
+{{Transcluded section|Synchronous dynamic random-access memory|part=yes}}
+{{trim|{{#section::Synchronous dynamic random-access memory|SDRAM timeline}} }}
+
+==See also==
+{{Portal|Technology}}
+{{Columns-list|colwidth=30em|
+* [[CAS latency]] (CL)
+* [[Hybrid Memory Cube]]
+* [[Multi-channel memory architecture]]
+* [[Registered memory|Registered/buffered memory]]
+* [[RAM parity]]
+* [[List of device bit rates#Memory Interconnect.2FRAM buses|Memory Interconnect/RAM buses]]
+* [[Memory geometry]]
+* [[Chip creep]]
+* [[Read-mostly memory]] (RMM)
+* [[Electrochemical random-access memory]]
+}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*{{Commons-inline|RAM}}
+
+{{Basic computer components}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Random-Access Memory}}
+[[Category:American inventions]]
+[[Category:Computer architecture]]
+[[Category:Computer memory]]
+[[Category:Types of RAM|*]]

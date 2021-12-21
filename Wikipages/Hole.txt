@@ -1,0 +1,117 @@
+{{short description|Opening in the surface of an object}}
+{{other uses|Hole (disambiguation)}}
+{{more citations needed|date=April 2019}}
+[[File:Hole in wood.jpg|thumb|right|A hole through a dead tree.]]
+A '''hole''' is an opening in or through a particular medium, usually a solid body. Holes occur through natural and artificial processes, and may be useful for various purposes, or may represent a problem needing to be addressed in many fields of engineering. Depending on the material and the placement, a hole may be an indentation in a [[surface]] (such as a hole in the ground), or may pass completely through that surface (such as a hole created by a hole puncher in a piece of paper). In engineering, a hole may be blind or through if it is partial or complete depth.
+
+==Types of hole==
+
+[[File:Stamp US 1954 2c Jefferson coil pair.jpg|thumb|right|[[Perforation]] holes between a pair of postage stamps from a coil of stamps.]]
+Holes can occur for a number of reasons, including natural processes and intentional actions by humans or animals. Holes in the ground that are made intentionally, such as holes made while searching for food, for replanting trees, or [[posthole]]s made for securing an object, are usually made through the process of [[digging]]. Unintentional holes in an object are often a sign of [[damage]]. [[Pothole]]s and [[sinkhole]]s can damage human settlements.<ref>{{Cite news|url=https://www.economist.com/news/science-and-technology/21700370-researchers-are-inventing-new-ways-prevent-motoring-curse-hole-story|title=The hole story|newspaper=The Economist|access-date=2017-02-11|date=2016-06-11}}</ref>
+
+Holes can occur in a wide variety of materials, and at a wide range of scales. The smallest holes observable by humans include pinholes and [[perforation]]s, but the smallest phenomenon described as a hole is an [[electron hole]], which is a position in an [[atom]] or [[Crystal structure|atomic lattice]] where an [[electron]] is missing. The largest phenomenon described as a hole is a [[supermassive black hole]], an astronomical object which can be billions of times more massive than Earth's [[sun]].
+
+The deepest hole on Earth is the man-made [[Kola Superdeep Borehole]], with a true vertical drill-depth of more than 7.5 miles (12 kilometers), which is only a fraction of the nearly 4,000 mile (6,400 kilometer) distance to the center of the Earth.<ref>{{Cite web|url=http://www.iflscience.com/environment/deepest-hole-world/|title=What's At The Bottom Of The Deepest Hole On Earth?|access-date=2016-08-17}}</ref>
+
+===Mathematical and scientific senses===
+====Holes in mathematics====
+[[File:Mug and Torus morph.gif|thumb|left|In [[geometric topology]], the doughnut and the coffee cup are considered to fall into the same mathematical "genus" because each has one hole.]]
+In [[mathematics]], holes are examined in a number of ways. One of these is in [[Homology (mathematics)|homology]], which is a general way of associating certain algebraic objects to other mathematical objects such as [[topological space]]s. Homology groups were originally defined in [[algebraic topology]], and homology was originally a rigorous mathematical method for defining and categorizing holes in a mathematical object called a [[manifold (mathematics)|manifold]]. The initial motivation for defining homology groups was the observation that two shapes can be distinguished by examining their holes.<ref>[[David Richeson|Richeson, D.]]; ''[[Euler's Gem|Euler's Gem: The Polyhedron Formula and the Birth of Topology]]'', Princeton University (2008), p. 254.</ref> For instance, a circle is not a disk because the circle has a hole through it while the disk is solid,<ref>{{citation|title=Intuitive Concepts in Elementary Topology|series=Dover Books on Mathematics|first=B. H.|last=Arnold|publisher=Courier Dover Publications|year=2013|isbn=9780486275765|page=58|url=https://books.google.com/books?id=TsbDAgAAQBAJ&pg=PA58}}.</ref> and the ordinary sphere is not a circle because the sphere encloses a two-dimensional hole while the circle encloses a one-dimensional hole.  However, because a hole is "not there", it is not immediately obvious how to define a hole or how to distinguish different types of hole.
+
+In [[geometric topology]], however, holes are determined differently. In this field, the [[Genus (mathematics)|genus]] of a connected, [[orientability|orientable]] [[Surface (topology)|surface]] is an [[integer]] representing the maximum number of cuttings along non-intersecting closed simple [[curve]]s without rendering the resultant [[manifold]] disconnected.<ref>Munkres, James R. Topology. Vol. 2. Upper Saddle River: Prentice Hall, 2000.</ref> In layman's terms, it is the number of "holes" an object has ("holes" interpreted in the sense of doughnut holes; a hollow sphere would be considered as having zero holes in this sense). A doughnut, or torus, has 1 such hole. A sphere has 0.
+
+====Holes in physics====
+In physics, [[antimatter]] is pervasively described as a hole, a location that, when brought together with ordinary matter to fill the hole, results in both the hole and the matter cancelling each-other out. This is analogous to patching a pothole with asphalt, or filling a bubble below the surface of water with an equal amount of water to cancel it out. The most direct example is the [[electron hole]]; a fairly general theoretical description is provided by the [[Dirac sea]], which treats [[positron]]s (or [[anti-particle]]s in general) as holes.  Holes provide one of the two primary forms of conduction in a [[semi-conductor]], that is, the material from which [[transistor]]s are made; without holes, current could not flow, and transistors turn on and off by enabling or disabling the creation of holes.
+
+====Holes in biology====
+Animal bodies tend to contain specialized holes which serve various biological functions, such as the intake of oxygen or food, the excretion of waste, and the intake or expulsion of other fluids for reproductive purposes. In some simple animals, however, there is a single hole that serves all of these purposes.<ref name="Scitable">{{cite web|url=https://www.nature.com/scitable/blog/creature-cast/a_tale_of_two_holes|title=A tale of two holes – Creature Cast – Learn Science at Scitable|website=www.nature.com|first=Casey|last=Dunn|date=November 6, 2009}}</ref> The formation of holes is a significant event in the development of an animal:
+
+{{quote|All animals start out in development with one hole, the [[blastopore]]. If there are two holes, the second hole forms later. The blastopore can arise at the top or the bottom of the embryo.<ref name="Scitable"/>}}
+
+[[Gramicidin|Gramicidin A]], a [[Peptide|polypeptide]] with a helical shape, has been described as a portable hole. When it forms a [[Dimer (chemistry)|dimer]], it can embed itself in [[Lipid bilayer|cellular bilayer membranes]] and form a hole through which water molecules can pass.<ref>{{Cite book|last=Mouritsen|first=Ole G.|url=https://www.worldcat.org/title/life-as-a-matter-of-fat-the-emerging-science-of-lipidomics/oclc/1156049123|title=Life - As a Matter of Fat: The Emerging Science of Lipidomics|publisher=Springer|year=2005|isbn=9783540232483|pages=186|oclc=1156049123}}</ref>
+
+===Engineering senses===
+
+====Blind holes and through holes====
+[[File:Drill - Hole Types.png|thumb|Hole types in engineering: blind (left), through (middle), interrupted (right).]]
+In [[engineering]], [[machining]], and [[Machine tools|tooling]], a hole may be a '''blind hole''' or a  '''through hole''' (also called a '''thru-hole''' or '''clearance hole'''). A blind hole is a hole that is [[reamer|ream]]ed, [[drill]]ed, or [[Milling machine|milled]] to a specified depth without breaking through to the other side of the workpiece. A through hole is a hole that is made to go completely through the material of an object.  In other words, a through hole is a hole that goes all the way through something.  [[Tap and die|Tap]]s used for through holes are generally tapered since it will tap faster and the chips will be released when the tap exits the hole.
+
+The etymology of the ''blind'' hole is that it is not possible to see through it. It may also refer to any feature that is taken to a specific depth, more specifically referring to internally [[Screw thread|thread]]ed hole (tapped holes). Not considering the drill point, the depth of the blind hole, conventionally, may be slightly deeper than that of the threaded depth.
+
+There are three accepted methods of threading blind holes:
+# Conventional [[Taps and Dies|tapping]], especially with bottom taps
+# [[Threading (manufacturing)#Single-point threading|Single-point threading]], where the workpiece is rotated, and a pointed cutting tool is fed into the workpiece at the same rate as the pitch of the internal thread. Single-pointing inside a blind hole, like [[Boring (manufacturing)|boring]] inside one, is inherently more challenging than doing so in a through hole. This was especially true in the era when manual machining was the only method of control. Today, [[Numerical control|CNC]] makes these tasks less stressful, but nevertheless still more challenging than with through holes.
+# Helical interpolation, where the workpiece remains stationary and [[Computer Numerical Control]] (CNC) moves a [[milling cutter]] in the correct helical path for a given thread, milling the thread.
+
+At least two U.S. tool manufacturers have manufactured tools for [[Threading (manufacturing)#Thread milling|thread milling]] in blind holes: Ingersoll Cutting Tools of Rockford, Illinois, and Tooling Systems of Houston, Texas, who introduced the Thread Mill in 1977, a device that milled large internal threads in the blind holes of oil well [[blowout preventer]]s. Today many CNC milling machines can run such a thread milling cycle (see a video of such a cut in the "External links" section).
+
+One use of through holes in electronics is with [[through-hole technology]], a mounting scheme involving the use of [[lead (electronics)|lead]]s on the components that are inserted into holes drilled in [[printed circuit board]]s (PCB) and [[soldering|soldered]] to pads on the opposite side either by manual assembly (hand placement) or by the use of automated insertion mount machines.<ref name=MAT2001>''Electronic Packaging:Solder Mounting Technologies'' in K.H. Buschow et al (ed), ''Encyclopedia of Materials:Science and Technology'', Elsevier, 2001 {{ISBN|0-08-043152-6}}, pages 2708-2709</ref><ref name=AOE>{{cite book|title=The art of electronics|year=1989|publisher=Cambridge Univ. Press|location=Cambridge [u.a.]|isbn=9780521370950|edition=2nd|author1=Horowitz, Paul|author2=Hill, Winfield|url-access=registration|url=https://archive.org/details/artofelectronics00horo}}</ref>
+
+====Pinholes====
+{{Main|Pinhole (optics)}}
+A '''pinhole''' is a small hole, usually made by pressing a thin, pointed object such as a [[pin]] through an easily penetrated material such as a [[fabric]] or a very thin layer of [[metal]]. Similar holes made by other means are also often called pinholes. Pinholes may be intentionally made for various reasons. For example, in [[optics]] [[pinhole (optics)|pinhole]]s are used as [[aperture]]s to select certain rays of light. This is used in [[pinhole camera]]s to form an image without the use of a [[lens (optics)|lens]].<ref>[http://www.pinhole.cz/en/pinholecameras/whatis.html What is a Pinhole Camera?], ''pinhole.cz''.</ref> Pinholes on [[produce]] packaging have been used to control the atmosphere and relative humidity within the packaging.<ref>Enrique Ortega-Rivas, ''Processing Effects on Safety and Quality of Foods'' (2010)m p. 280.</ref>
+
+In many fields, however, pinholes are a harmful and unwanted side-effect of manufacturing processes. For example, in the assembly of [[microcircuit]]s, pinholes in the [[dielectric]] [[Insulator (electricity)|insulator]] layer coating the circuit can cause the circuit to fail. Therefore, "[t]o avoid pinholes that might protrude through the entire thickness of the dielectric layer, it is a common practice to screen several layers of dielectric with drying and firing after each screening", thereby preventing the pinholes from becoming continuous.<ref>James J. Licari, Leonard R. Enlow, ''Hybrid Microcircuit Technology Handbook, 2nd Edition'' (2008), p. 162.</ref>
+
+==Philosophy and psychology of holes==
+[[File:Pothole.jpg|thumb|right|Shallow [[pothole]]s in a road surface.]]
+[[File:Great Blue Hole.jpg|thumb|The [[Great Blue Hole]] near [[Ambergris Caye]], [[Belize]], is an underwater [[sinkhole]].]]
+It has been noted that holes occupy an unusual ontological position in human psychology, as people tend to refer to them as tangible and countable objects, when in fact they are the absence of something in another object.<ref name="Stanford">{{cite book|url=https://plato.stanford.edu/archives/spr2014/entries/holes/|title=The Stanford Encyclopedia of Philosophy|first1=Roberto|last1=Casati|first2=Achille|last2=Varzi|editor-first=Edward N.|editor-last=Zalta|date=18 December 2018|publisher=Metaphysics Research Lab, Stanford University|via=Stanford Encyclopedia of Philosophy}}</ref> An example of this reasoning can be found in the [[Beatles]] lyric from the song, "[[A Day in the Life]]", from their 1967 album ''[[Sgt. Pepper's Lonely Hearts Club Band]]'':
+
+{{quote|I read the news today, oh boy:<br>Four thousand holes in Blackburn Lancashire.<br>And though the holes were rather small,<br>They had to count them all,<br>Now they know how many holes it takes to fill the Albert Hall.<ref>"Photographic impressions of Beatle songs by Art Kane", ''[[Life Magazine|LIFE]], Vol. 65, No. 12 (September 20, 1968), p. 67.</ref>}}
+
+The reference to [[A Day in the Life#"4,000 holes"|4,000 holes]] was written by [[John Lennon]], and inspired by a ''Far & Near'' news brief from the same 17 January edition of the ''Daily Mail'', which had also provided inspiration for previous verses of the song. Under the headline "The holes in our roads", the brief stated: "There are 4,000 holes in the road in Blackburn, Lancashire, or one twenty-sixth of a hole per person, according to a council survey. If Blackburn is typical, there are two million holes in Britain's roads and 300,000 in London".<ref name="Daily Mail holes">{{Cite news |newspaper=[[The Daily Mail]]|title=Far & Near: The holes in our roads|date=17 January 1967|page=7|issue=21994}}</ref> Holes have also been described as [[ontological parasite]]s because they can only exist as aspects of another object.<ref name="Stanford"/> The psychological concept of a hole as a physical object is taken to its logical extreme in the fictional concept of a [[portable hole]], exemplified in [[role-playing game]]s and characterized as a "hole" that a person can carry with them, keep things in, and enter themselves as needed.<ref>David Zeb Cook, Jean Rabe, Warren Spector, ''Dungeon Master Guide for the AD&D Game'' (1995), p. 235.</ref>
+
+Some people have an aversion to the sight of irregular patterns or clusters of small holes, a condition called [[trypophobia]].<ref name="MAL">{{cite journal|last1=Martínez-Aguayo|first1=Juan Carlos|last2=Lanfranco|first2=Renzo C.|last3=Arancibia|first3=Marcelo|last4=Sepúlveda|first4=Elisa|last5=Madrid|first5=Eva|title=Trypophobia: What Do We Know So Far? A Case Report and Comprehensive Review of the Literature|journal=Frontiers in Psychiatry|volume=9|pages=15|year=2018|issn=1664-0640|doi=10.3389/fpsyt.2018.00015 |pmc=5811467|pmid=29479321|doi-access=free}}{{CC-notice|cc=by4|url=https://www.frontiersin.org/articles/10.3389/fpsyt.2018.00015/full|author(s)=Juan Carlos Martínez-Aguay, Renzo C. Lanfranco, Marcelo Arancibia, Elisa Sepúlveda and Eva Madrid}}</ref><ref name=le2015>{{cite journal |last1=Le |first1=An T. D. |last2=Cole |first2=Geoff G. |last3=Wilkins |first3=Arnold J. |s2cid=42086559 |title=Assessment of trypophobia and an analysis of its visual precipitation |journal=[[Quarterly Journal of Experimental Psychology]] |doi=10.1080/17470218.2015.1013970 |pmid=25635930 |date=January 30, 2015 |volume=68 |issue=11 |pages=2304–22}}</ref> Researchers hypothesize that this is the result of a biological revulsion that associates trypophobic shapes with danger or disease, and may therefore have an [[evolutionary]] basis.<ref name="Milosevic">{{cite book |author1=Milosevic, Irena |author2=McCabe, Randi E. |title=Phobias: The Psychology of Irrational Fear |publisher=[[ABC-CLIO]] |isbn=978-1610695763 |year=2015 |pages=401–402 |access-date=October 25, 2017 |url=https://books.google.com/books?id=1BfYBgAAQBAJ&q=trypophobia}}</ref><ref name="MAL"/>
+
+==Metaphorical holes==
+Holes can also be referenced metaphorically as existing in non-tangible things. For example, a person who provides an account of an event that lacks important details can be said to have "holes in their story", and a fictional work with unexplained narrative elements can be said to have [[plot hole]]s.<ref>{{Cite web|url=https://en.oxforddictionaries.com/definition/plot_hole|title=plot hole {{!}} Definition of plot hole in English by Oxford Dictionaries|website=Oxford Dictionaries {{!}} English|access-date=2017-09-07}}</ref> A person who has suffered loss is often referred to as having a "hole in their heart". The concept of a "God-shaped hole" occurs in religious discourse:
+
+{{quote|[H]umans are commonly said to have “a God-shaped hole” in our souls. If you are a religious person, you can explain the hole by saying that God put it there in order to make it easier for us to receive Him. If you are a naturalist or an atheist, you believe the God-shaped hole is in our minds, not our souls. You then look for reasons that the concept of God might have evolved in our species.<ref>Blakey Vermeule, ''Why Do We Care about Literary Characters?'' (2010), p. 10.</ref>}}
+
+=== Unicode ===
+{{Sidebar
+| style = 
+| name = 
+| pretitle = 
+| title = Hole Emoji
+| image = [[File:Twemoji2 1f573.svg|100px]]
+| headingstyle = 
+| contentstyle = 
+
+| above = 
+
+| heading1 = 
+| content1 =
+| below = [[Unicode]] symbol for HOLE, U+1F573 ( 🕳 )
+
+}}
+The [[Unicode]] symbol for HOLE, U+1F573, was approved in 2014 as part of the Miscellaneous Symbols and Pictographs chart in Unicode 7.0,<ref>{{Cite web | title = Unicode: Miscellaneous Symbols and Pictographs | url = https://www.unicode.org/charts/nameslist/c_1F300.html | access-date = 2018-08-20}}</ref> and was part of Emoji 1.0, published in 2015.<ref>{{Cite web | title = Emoji Version 1.0 | url = https://emojipedia.org/emoji-1.0/ | access-date = 2018-08-20}}</ref> As pictorial representations for emoji are platform-dependent, Emojipedia shows images of the hole symbol as depicted on various platforms.<ref>{{Cite web | title = Emojipedia: Hole | url = https://emojipedia.org/hole/ | access-date = 2018-08-20}}</ref>
+
+==Gallery of holes==
+<gallery widths="150px" heights="150px" perrow="4">
+LiščíNoraVsž1.JPG|Hole in the ground dug by a fox as its burrow.
+Bangalay-bird-hollow.jpg|Hole in a Eucalyptus tree used as a nest by Lorikeets.
+Two Arecaceae in the fields viewed through a hole in a tree trunk in Laos at sunrise.jpg|Trees visible through a large hole in a tree trunk in Laos.
+Trees and clouds with a hole, Karawanks, Slovenia.jpg|Hole in a cloud over Karawanks, Slovenia.
+靴下にデカい穴があいてた.jpg|Sock with a hole in it.
+BH LMC.png|Simulated view of a black hole in front of the Large Magellanic Cloud.
+Black hole - Messier 87 crop max res.jpg|First image of a black hole by the Event Horizon Telescope.
+Plated-through_holes_on_an_electronic_circuit_board.jpg|Close-up view of an electronic circuit board showing component lead holes (gold-plated) with through-hole plating.
+Ovation guitar sound holes horizontal.jpg|[[Sound hole]]s precisely carved into the surface of a [[guitar]] can facilitate a desired sound.
+Well, if you know of a better 'ole, go to it.jpg|[[First World War]] cartoon ''Well, if you knows of a better 'ole, go to it'' by [[Bruce Bairnsfather]], 1915.
+Hole in berlin wall.jpg|A hole in the [[Berlin wall]], 2019.
+Single-hole-punch.jpg|A [[Hole punch|handheld hole punch]], used to make holes in paper and similar materials.
+</gallery>
+
+==See also==
+*[[Annulus (mathematics)]]
+*[[Depression (geology)]]
+*[[Law of holes]]
+*[[Sinus (anatomy)|Sinus]]
+*[[Tunnel]]
+
+==References==
+{{reflist}}
+
+[[Category:Holes| ]]

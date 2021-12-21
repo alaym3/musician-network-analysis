@@ -1,0 +1,70 @@
+{{Short description|Small flute}}
+{{About|the instrument in the flute family}}
+{{Infobox Instrument
+|name=Piccolo
+|image=Piccolo.jpg
+|image_capt=
+|background=woodwind
+|classification=
+*[[Woodwind]]
+*[[Wind instrument|Wind]]
+*[[Aerophone]]
+|hornbostel_sachs=421.121.12-71
+|hornbostel_sachs_desc=[[Flute]]-like [[aerophone]] with [[key (instrument)|keys]]
+|range=[[File:Written range of piccolo.png|150px|center]]
+The piccolo sounds one [[octave]] higher than written.<br />
+Sounding:[[File:Sounding range of piccolo.png|150px|right]]
+|midi=072/073
+|related=
+* [[Flute]]
+* [[Alto flute]]
+* [[Bass flute]]
+}}
+The '''piccolo''' {{IPAc-en|ˈ|p|ɪ|k|ə|l|oʊ}} ({{IPA-it|ˈpikkolo}}; [[Italian language|Italian]] for "small")<ref name="auto">{{cite dictionary| url= http://www.merriam-webster.com/dictionary/piccolo|title=Piccolo|dictionary=Merriam-Webster|access-date=2012-05-26}}</ref><ref>{{Cite web|title=piccolo - Dictionary Definition|url=https://www.vocabulary.com/dictionary/piccolo|access-date=2021-01-25|website=Vocabulary.com}}</ref> is a half-size [[flute]], and a member of the [[woodwind]] family of musical instruments. The modern piccolo has most of the same fingerings as its larger sibling, the [[Western concert flute|standard transverse flute]],<ref>{{cite web| url=http://www.thefreedictionary.com/transverse+flute|title=Transverse flute|publisher=The Free Dictionary By Farlex|access-date=2012-05-26}}</ref> but the sound it produces is an octave higher than written. This has given rise to the name '''ottavino''' (Italian for "little octave"), by which the instrument is called in the scores of Italian composers.<ref>{{cite web| url= http://www.library.yale.edu/cataloging/music/instname.htm|title= The Names of Instruments and Voices in English, French, German, Italian, Russian1, and Spanish|publisher=Yale University Music Library|access-date=2012-05-26}}</ref> It is also called {{lang|it|flauto piccolo}} or {{lang|it|flautino}}.
+[[File:Piccolo in D-flat MET MUS1399A5.jpg|thumb|Early 19th-century French piccolo in D{{music|flat}}. ]]
+
+In the [[orchestra]]l setting, the piccolo player is often designated as "piccolo/flute III", or even "assistant principal". The larger orchestras have designated this position as a solo position due to the demands of the literature. Piccolos are often orchestrated to [[Voicing (music)#Doubling|double]] the violins or the flutes, adding sparkle and brilliance to the overall sound because of the aforementioned one-octave transposition upwards. In [[concert band]] settings, the piccolo is almost always used and a piccolo part is almost always available.
+
+== History ==
+Since the Middle Ages we had evidence of the use of octave transverse flutes as military instruments: their penetrating sound was in fact audible above the roar of battle. In cultured music, however, the first piccolo are used in some works by [[Jean Philippe Rameau]] in the first half of the eighteenth century, but the instrument begins to spread, and therefore to have a stable place in the orchestra, only at the beginning of 1800 A.D. During the Baroque period the indication "flautino" or also "flute piccolo" usually indicated a [[Recorder (musical instrument)|recorder]] of small size (soprano or sopranino), and in particular this is the case of the concerts that [[Antonio Vivaldi]] he wrote for ''flute''.<ref> Moreover, even the simple indication ''flute'' in the music of that period is to be understood as a recorder (contralto); the transverse flute was always explicitly requested with names such as '' transverse flute '' or '' flute traversiere ''. It is in fact only from the middle of the 18th century that the recorder begins a rapid decline which in the following decades will see the transverse flute become the only type of flute in cultured music.</ref>
+
+Until the end of the 19th century the piccolo maintained the same construction with more keys than the classical and romantic flute of the old system, and only at the end of the century it began to be built with the [[Theobald Boehm|Boehm]] mechanism, which in any case would become the standard only during the 1900s.
+
+In 2014, a festival was born entirely dedicated to piccolo,<ref> {{Cite web | url = https://www.ilpiccolo.gelocal.it/trieste/cronaca/2017/07/18/news/turismo-culturale-vincente-per-l-isola-1.15629362 | title = Il Piccolo (Trieste's main newspaper)}} </ref> the [[International Piccolo Festival]], which takes place annually in July in [[Grado (Italy)|Degree]] (GO).
+
+== Traditional use ==
+[[File:Joueuse de flûte à Château-Thierry.jpg|thumb|left|A piccolo being played]]
+
+Historically, the piccolo had no keys, but it should not be confused with the [[Fife (musical instrument)|fife]], which is traditionally one-piece, has a smaller, cylindrical bore and produces a more strident sound. 
+
+It is a myth that one of the earliest pieces to use the piccolo was [[Ludwig van Beethoven]]'s [[Symphony No. 5 (Beethoven)|Symphony No. 5 in C Minor]], premiered in [[1808 in music|December 1808]]. Although neither [[Joseph Haydn]] nor [[Wolfgang Amadeus Mozart]] used it in their symphonies, some of their contemporaries did, including [[Franz Anton Hoffmeister]], [[Franz Xaver Süssmayr]], and [[Michael Haydn]].<ref name="auto1">{{cite journal|last=Nourse|first=Nancy|title=The Symphonic Debutante Piccolo: Was it Really Beethoven's Fifth?|journal=Flute Focus|date=April 2008|issue=14|pages=26–29}}</ref> Also, Mozart used the piccolo in his opera ''[[Idomeneo#Instrumentation|Idomeneo]]''. Opera orchestras in Paris sometimes included small transverse flutes at the octave as early as 1735 as existing scores by [[Jean-Philippe Rameau]] show.<ref name="auto1"/>
+
+Piccolos are now mainly manufactured in the key of C. In the early 20th century, piccolos were manufactured in D{{Music|flat}} as they were an earlier model of the modern piccolo.<ref>{{cite thesis|doi=10.33915/etd.5756|id={{proquest|1947737021}}|type=Doctor of Musical Arts in Flute Performance|publisher=West Virginia University|title=The Piccolo in the 21st Century: History, Construction, and Modern Pedagogical Resources|year=2017|last1=Hanlon|first1=Keith D.|doi-access=free}}</ref> It was for this D{{music|flat}} piccolo that [[John Philip Sousa]] wrote the famous solo in the final repeat of the closing section (trio) of his march "[[The Stars and Stripes Forever]]".
+
+Although once made of wood, glass or ivory, piccolos today are made from plastic, resin, brass, nickel silver, silver, and a variety of hardwoods, most commonly [[Dalbergia melanoxylon|grenadilla]]. Finely made piccolos are often available with a variety of options similar to the [[flute]], such as the split-E mechanism. Most piccolos have a conical body with a cylindrical head, which is like the [[Western concert flute#Renaissance (1400–1600) and Baroque flutes (1600–1760)|Baroque flute]] and later flutes before the popularization of the [[Western concert flute#Boem flute|Boehm bore]] used in modern flutes. Unlike other woodwind instruments, in most wooden piccolos, the tenon joint that connects the head to the body has two [[interference fit]] points that surround both the cork and metal side of the piccolo body joint.{{Citation needed|date=October 2013}}
+
+== Repertoire ==
+[[File:Yamaha Piccolo YPC-82.png|thumb|A piccolo with a [[Ebony|grenadilla]] body and a silver headjoint.]]
+There are a number of pieces for piccolo alone, by such composers as [[Samuel Adler (composer)|Samuel Adler]], [[Miguel del Aguila]], [[Robert Dick (flautist)|Robert Dick]], [[Michael Isaacson]], [[David Loeb (composer)|David Loeb]], [[Stephen Hough]], [[Polly Moller]], [[Vincent Persichetti]], [[Karlheinz Stockhausen]], and [[Brian Ferneyhough]].
+
+Repertoire for piccolo and piano, many of which are [[sonata]]s have been composed by [[Miguel del Águila]],  [[Robert Baksa]], [[Robert Beaser]], [[Rob du Bois]], [[Howard J. Buss]], {{ill|Eugène Damaré|fr}}, [[Pierre Max Dubois]], [[Raymond Guiot]], [[Lowell Liebermann]], [[Peter Schickele]], [[Michael Daugherty]], and [[Gary Schocker]].
+
+[[Concerto]]s have been composed for piccolo, including those by [[Lowell Liebermann]], Sir [[Peter Maxwell Davies]], Todd Goodman,<ref>{{cite web|url=http://www.qsoa.org/Todd_Goodman.htm|title=Todd Goodman: Composer|publisher=Quincy Symphony Orchestra Association|access-date=2009-06-13|archive-url=https://web.archive.org/web/20090417025700/http://www.qsoa.org/Todd_Goodman.htm|archive-date=2009-04-17|url-status=dead}}</ref> Martin Amlin,<ref>[http://www.presser.com/composers/info.cfm?name=martinamlin Martin Amlin] {{webarchive|url=https://web.archive.org/web/20131215104120/http://www.presser.com/composers/info.cfm?Name=MARTINAMLIN |date=2013-12-15 }} page of Presser website.</ref> [[Will Gay Bottje]],<ref>{{Cite web|url=https://composers.com/will-gay-bottje|title=Will Gay Bottje|date=Feb 19, 2009|website=American Composers Alliance}}</ref> [[Bruce Broughton]], [[Valentino Bucchi]], [[Avner Dorman]],<ref>[http://www.cabrillomusic.org/2009/avner-dorman.html Avner Dorman] on the Cabrillo Music Festival website. {{webarchive |url=https://web.archive.org/web/20090724072133/http://www.cabrillomusic.org/2009/avner-dorman.html |date=July 24, 2009 }}</ref> Jean Doué, Michael Easton,<ref>[http://www.australianmusiccentre.com.au/work/easton-michael-concerto-for-piccolo-percussion-and-strings Concerto for Piccolo, Percussion and Strings], Australian Music Centre page.</ref> [[Egil Hovland]], [[Guus Janssen]], [[Daniel Pinkham]], and [[Jeff Manookian]].
+
+Additionally, there is now a selection of chamber music that uses the piccolo. One example is Stockhausen's ''[[Samstag aus Licht#Scene 3: Luzifers Tanz|Zungenspitzentanz]]'', for piccolo and two euphoniums (or one synthesizer), with optional percussionist and dancer. Another is [[George Crumb]]'s [[Madrigals, Book II]] for soprano, flute (doubling piccolo / alto flute), and percussion.  Other examples include a trio for piccolo, contrabassoon and piano 'Was mit den Tränen geschieht' by [[Stephen Hough]], the [[Piccolo Quintet|Quintet for Piccolo and String Quartet]] by [[Graham Waterhouse]] and ''Malambo'' for piccolo, double bass, and piano by [[Miguel del Aguila]]. Currently published trios for three piccolos include ''Quelque Chose canadienne'' (Something Canadian) by Nancy Nourse and ''Bird Tango'' by Crt Sojar Voglar for three piccolos with piano. ''Petrushka's Ghost'' for eight piccolos by Melvin Lauf, Jr. and ''Una piccolo sinfonia'' for nine piccolos by [[Matthew King (composer)|Matthew King]] are two more examples.
+
+== References ==
+{{reflist|2}}
+
+== Bibliography ==
+* Gippo, Jan (ed.). ''The Complete Piccolo: A Comprehensive Guide to Fingerings, Repertoire, and History'', second edition, foreword by Laurie Sokoloff; contributing editors, Therese Wacker, Morgan Williams, and Tammy Sue Kirk. Bryn Mawr: Theodore Presser Company, 2008. {{ISBN|978-1-59806-111-6}}
+
+== External links ==
+{{commonscatinline}}
+*[http://www.wfg.woodwind.org/flute/ The Woodwind Fingering Guide], with piccolo fingerings
+
+{{Western concert flutes}}
+
+{{Authority control}}
+
+[[Category:Side-blown flutes]]

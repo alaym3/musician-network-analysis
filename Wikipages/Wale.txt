@@ -1,0 +1,20 @@
+{{about|a type of plank|the rapper|Wale (rapper)|other uses|Wale (disambiguation)}}
+{{distinguish|Wales|Whale}}
+[[File:Frame Furring.png|thumb|Profile view of ship frames doubled by "ripping off the planks, and putting second timbers upon the first timbers, and upon them again other planks (Perrin 1929, 92)." The wale remains in situ, as a structural stringer.]]
+A '''wale''' is one of the [[Strake|strakes]] of [[Plank (wood)|wooden planking]] that forms the outer skin of the [[Hull (watercraft)|hull]] of a [[ship]], but substantially thicker than the other strakes. It provides extra stiffening and strength to the hull. It was a common feature of heavy wooden ship construction, particularly from mediaeval times to the early years of the 19th century, being a major constructional component of ships like {{USS|Constitution}}, {{HMS|Victory}} and many earlier vessels.<ref name="Ball and Simon 2018">{{cite book |last1=Ball |first1=Nick |last2=Stephens |first2=Simon |title=Navy Board Ship Models |date=2018 |chapter= Glossary|publisher=Seaforth Publishing |location=Barnsley |isbn=978-1-5267-0111-4}}</ref><ref name="Steffy 1994">{{cite book |last=Steffy |first=J. Richard |orig-year=1994|editor1-last=Catsambis |editor1-first=Alexis |title=The Oxford Handbook of Maritime Archaeology (Oxford Handbooks) |date=2013 |publisher=Oxford University Press |location=Oxford |isbn=978-0-19-537517-6|chapter-url=https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199336005.001.0001/oxfordhb-9780199336005-e-48 |chapter=Illustrated Glossary of Ship and Boat Terms}}</ref>
+
+A wale (or "waler") is a horizontal supporting member of a concrete forming system, vertically reinforced by a "strongback".
+
+A wale is also a horizontal member of a geotechnical [[Tieback (geotechnical)|tieback]] wall, which transmits the force from the tieback to the beams.{{Citation needed|date=October 2013}}{{Clarify|date=October 2013}}
+
+==See also==
+*[[Strake]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commonscat-inline|Wale (ship parts)}}
+*{{wiktionary-inline|wale}}
+
+[[Category:Shipbuilding]]

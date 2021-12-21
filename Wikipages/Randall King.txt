@@ -1,0 +1,42 @@
+{{Short description|American-born Hong Kong tennis player}}
+{{Infobox tennis biography
+| name = Randall King
+| image =
+| fullname =
+| country_represented = {{USA}}<br />{{flagicon|British Hong Kong}} [[Hong Kong]]
+| birth_date = {{birth date and age|1950|04|02}}
+| birth_place = [[Portland, Oregon]], U.S.
+| death_date =
+| death_place =
+| height =
+| plays = Right-handed
+| careerprizemoney =
+| singlesrecord = 0–2
+| highestsinglesranking = No. 269 (July 3, 1977)
+| doublesrecord = 0–3
+| highestdoublesranking = No. 727 (July 16, 1984)
+| USOpenDoublesresult = 1R ([[1977 US Open – Men's Doubles|1977]])
+}}
+
+'''Randall King''' (born April 2, 1950) is an American-born former professional [[tennis]] player. A native of [[Portland, Oregon]], King played [[Davis Cup]] tennis for Hong Kong during the 1980s.<ref name="HKTA">{{cite web |title=Hall of Fame Details Randall-King |url=http://www.tennishk.org/en/hall-of-fame-details-randall-king/ |website=Hong Kong Tennis Association}}</ref>
+
+King reached a career high singles ranking of 269 in the world while competing on the professional tour and featured in the men's doubles main draw of the [[1977 US Open (tennis)|1977 US Open]].
+
+From 1984 to 1986, by then based in Hong Kong, he represented the territory in five Davis Cup ties. In 1984 he won the doubles rubber in Hong Kong's historic 3-2 win over [[Chinese Taipei Davis Cup team|Taiwan]], which was their first ever victory in a Davis Cup tie.<ref name="HKTA"/><ref>{{cite news |title=Hong Kong netters lead Taiwan 2-1 |url=https://newspaperarchive.com/odessa-american-jan-15-1984-p-37 |work=[[Odessa American]] |date=January 15, 1984}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{ATP|<!-- randall-king/ -->k058}}
+* {{Davis Cup player|800176333}}
+* {{ITF|randall-king/800176333/hkg}}
+
+{{DEFAULTSORT:King, Randall}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:American male tennis players]]
+[[Category:Hong Kong male tennis players]]
+[[Category:Tennis people from Oregon]]
+[[Category:Sportspeople from Portland, Oregon]]
+[[Category:American emigrants to Hong Kong]]

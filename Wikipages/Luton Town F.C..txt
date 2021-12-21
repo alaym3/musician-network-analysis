@@ -1,0 +1,500 @@
+{{short description|English association football club}}
+{{Redirect|LTFC}}
+{{featured article}}
+{{Use British English|date=May 2012}}
+{{Use dmy dates|date=July 2018}}
+{{Infobox football club
+| clubname    = Luton Town
+| image       = LutonTownFC2009.png
+| upright     = .8
+| fullname    = Luton Town Football Club
+| nickname    = The Hatters
+| founded     = {{Start date and years ago|df=y|1885|4|11}}
+| ground      = [[Kenilworth Road]]
+| capacity    = 10,356<ref>{{cite journal |title=Luton Town's Official Matchday Programme |journal=Luton Town |publisher=Luton Town F.C. |date=14 April 2007}}</ref><ref>{{cite web |title=Saturday Ticket Update: 130 New Seats Installed! |url=http://www.lutontown.co.uk//news/article/ticket-news-for-saturday-update-1831507.aspx |publisher=Luton Town F.C. |date=15 August 2014 |access-date=15 December 2016}}</ref>
+| owner       = Luton Town Football Club 2020 Ltd<ref>{{cite web |title=Luton Town F.C. Club Contacts |url=http://www.lutontown.co.uk/club/contact_us/ |publisher=Luton Town F.C. |date=15 June 2015 |access-date=15 December 2016}}</ref>
+| chairman    = David Wilkinson
+| manager     = [[Nathan Jones (Welsh footballer)|Nathan Jones]]
+| league      = {{English football updater|LutonTow}}
+| season      = {{English football updater|LutonTow2}}
+| position    = {{English football updater|LutonTow3}}
+| website     = {{wikidata|property|P856}}
+| pattern_la1 = _luton2021h
+| pattern_b1  = _luton2021h
+| pattern_ra1 = _luton2021h
+| pattern_sh1 = _luton2021h
+| pattern_so1 = _ltfc2021h
+| leftarm1    = FF4000
+| body1       = FF4000
+| rightarm1   = FF4000
+| shorts1     = 002244
+| socks1      = FFFFFF
+| pattern_la2 = _luton2021a
+| pattern_b2  = _luton2021a
+| pattern_ra2 = _luton2021a
+| pattern_sh2 = _luton2021h
+| pattern_so2 = _ltfc2021a
+| leftarm2    = FFFFFF
+| body2       = FFFFFF
+| rightarm2   = FFFFFF
+| shorts2     = FF4000
+| socks2      = FFFFFF
+| pattern_la3 = _luton2021t
+| pattern_b3  = _luton2021t
+| pattern_ra3 = _luton2021t
+| pattern_sh3 = _luton2021t
+| pattern_so3 = _ltfc2021t
+| leftarm3    = 002244
+| body3       = 002244
+| rightarm3   = 002244
+| shorts3     = 002244
+| socks3      = 002244
+| current     = 2021–22 Luton Town F.C. season
+}}
+'''Luton Town Football Club''' ({{IPAc-en|ˈ|l|uː|t|ən}})<!-- NOTE! Per [[WP:ENGVAR]] and agreement at [[WP:FAC]], this article will refer to the club in the singular and the team in plural--> is a professional [[association football]] club based in the town of [[Luton]], Bedfordshire, England, that competes in the [[EFL Championship|Championship]], the second tier of the [[English football league system]]. Founded in 1885, it is nicknamed 'the Hatters' and affiliated to the [[Bedfordshire County Football Association]]. The team plays its home matches at [[Kenilworth Road]], where it has been based since 1905. The club's history includes major trophy wins, several financial crises, numerous [[Promotion and relegation|promotions and relegations]], and some spells of sustained success. It was perhaps most prominent between 1982 and 1992, when it was a member of English football's top division, at that time the [[Football League First Division|First Division]]; the team won its first major honour, the [[Football League Cup]], in 1988. Luton Town have a [[Luton Town F.C.–Watford F.C. rivalry|long-standing rivalry]] with nearby club [[Watford F.C.|Watford]].
+
+The club was the first in southern England to turn professional, making payments to players as early as 1890 and turning fully professional a year later. It joined [[English Football League|the Football League]] before the [[1897–98 Football League|1897–98 season]], left in 1900 because of financial problems, and rejoined in 1920. Luton reached the First Division in [[1955–56 in English football|1955–56]] and contested a major final for the first time when playing [[Nottingham Forest F.C.|Nottingham Forest]] in the [[1959 FA Cup Final]]. The team was then relegated from the top division in [[1959–60 in English football|1959–60]], and demoted twice more in the following five years, playing in the [[Football League Fourth Division|Fourth Division]] from the [[1965–66 in English football|1965–66 season]]. However, it was promoted back to the top level by [[1974–75 Luton Town F.C. season|1974–75]].
+
+Luton Town's most recent successful period began in [[1981–82 Football League|1981–82]], when the club won the [[Football League Second Division|Second Division]], and thereby gained promotion to the First. Luton defeated [[Arsenal F.C.|Arsenal]] 3–2 in the [[1988 Football League Cup Final]] and remained in the First Division until relegation at the end of the [[1991–92 Luton Town F.C. season|1991–92 season]]. Between 2007 and 2009, financial difficulties caused the club to fall from the second tier of English football to the fifth in successive seasons. The last of these relegations came during the [[2008–09 Luton Town F.C. season|2008–09 season]], when 30 points were docked from Luton's record for various financial irregularities. Luton thereafter spent five seasons in [[non-League football]] before winning the [[Conference Premier]] in [[2013–14 Luton Town F.C. season|2013–14]], securing promotion back into the Football League. More success soon followed, with Luton being promoted from League Two and One in successive seasons in 2017–18 and 2018–19, meaning Luton now play in the [[EFL Championship|Championship]], for the first time since [[2006–07 Luton Town F.C. season|2006–07]].
+
+==History==
+{{details|History of Luton Town F.C. (1885–1970)|History of Luton Town F.C. (1970–present)}}
+
+[[File:Luton Town F.C. (1898) (cropped).jpg|thumb|The Luton Town squad of 1897–98, which won the United League title|alt=A formative photograph of an association football team]]
+
+===Formation and election to the Southern League (1885–1890)===
+Luton Town Football Club was formed on 11 April 1885.<ref>{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1 |pages=1–2}}</ref><ref name=Hayes55>{{cite book |first=Dean P. |last=Hayes |title=Completely Top Hatters! |year=2002 |publisher=Book Castle Publishing |location=Dunstable |isbn=978-1-903747-27-8 |page=55}}</ref> Before this there were many clubs in the town, the most prominent of which were Luton Wanderers and Luton Excelsior. A Wanderers player, George Deacon, came up with the idea of a 'Town' club which would include all the best players in Luton. Wanderers secretary Herbert Spratley seized upon Deacon's idea and arranged a secret meeting on 13 January 1885 at the St Matthews school rooms in [[High Town, Luton|High Town]]. The Wanderers committee resolved to rename the club Luton Town—which was not well received by the wider community. The local newspapers referred to the club as 'Luton Town (late Wanderers)'. When George Deacon and John Charles Lomax then arranged a public meeting with the purpose of forming a 'Luton Town Football Club', Spratley protested, saying there was already a Luton Town club; and the atmosphere was tense when the meeting convened in the town hall on 11 April 1885. The meeting, attended by most football lovers in the town, heard about Spratley's secret January meeting and voted down his objections. The motion to form a 'Luton Town Football Club', put forward by G&nbsp;H Small and seconded by E&nbsp;H Lomax, was carried. A club committee was elected by ballot and the team colours were agreed to be pink and dark blue shirts and caps.<ref>{{cite web |title=Chapter Six – 11th April 1885 |url=http://thestrawplaiters.com/chapter-6-11th-april-1885/ |work=Straw Plaiters: Luton Town Football Club in the Victorian era |publisher=Brian Webb |access-date=24 November 2018}}</ref>
+
+Initially based at Excelsior's [[Dallow Lane]] ground,<ref name=Hayes55/> Luton Town began making payments to certain individual players in 1890. The following year, Luton became the first club in southern England to be fully professional.<ref name=TLTS3>{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1 |pages=3–4}}</ref> The club was a founder member of the [[Southern Football League]] in the 1894–95 season and finished as runners-up in its first two seasons. It then left to help form the [[United League (football)|United League]] and came second in that league's inaugural season before joining [[English Football League|the Football League]] (then based mostly in northern and central England{{ref label|SouthernClubs|A|}}) for [[1897–98 Football League|1897–98]],<ref name=FCHD>{{cite web |title=Luton Town |url=http://www.fchd.info/LUTONT.HTM |website=Football Club History Database |publisher=Richard Rundle |access-date=5 May 2019}}</ref> concurrently moving to a new ground at [[Dunstable Road]].<ref name=Hayes43>{{cite book |first=Dean P. |last=Hayes |title=Completely Top Hatters! |year=2002 |publisher=Book Castle Publishing |location=Dunstable |isbn=978-1-903747-27-8 |page=43}}</ref> The club continued to enter a team to the United League for two more seasons, and won the title in 1897–98.<ref name=FCHD/><ref name=TLTS11>{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1 |pages=11–13}}</ref> Poor attendance, high wages and the high travel and accommodation costs that resulted from Luton's distance from the northern heartlands of the Football League crippled the club financially,<ref name=TLTS11/> and made it too expensive to compete in that league.<ref name=TLTS11/> A return to the Southern League was therefore arranged for the [[1900–01 Southern Football League|1900–01 season]].<ref name=FCHD/><ref name=TLTS11/>
+
+===Early 20th century (1900–1950)===
+Eight years after arriving at Dunstable Road, Luton moved again, settling at their current ground, [[Kenilworth Road]], in 1905.<ref name=TLTS3/> [[Captain (association football)|Captain]] and [[Midfielder#Winger|left winger]] [[Robert Hawkes|Bob Hawkes]] became Luton's first international player when he was picked to play for [[England national football team|England]] against [[Ireland national football team (1882–1950)|Ireland]] on 16 February 1907.<ref name="England 1–0 Ireland">{{cite web |title=England 1–0 Ireland |url=http://englandstats.com/matches.php?mid=89 |publisher=England Stats |access-date=15 December 2016}}</ref> A poor [[1911–12 Southern Football League|1911–12 season]] saw Luton relegated to the Southern League's Second Division; the club won promotion back two years later.<ref name=FCHD/><ref name=Hayes156>{{cite book |first=Dean P. |last=Hayes |title=Completely Top Hatters! |year=2002 |publisher=Book Castle Publishing |location=Dunstable |isbn=978-1-903747-27-8 |page=156}}</ref> After the [[World War I|First World War]] broke out, Luton took part in [[The Football Combination|The London Combination]] during [[1915–16 in English football|1915–16]], and afterwards filled each season with [[Exhibition game|friendly matches]].<ref>{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1 |pages=22–26}}</ref><ref name=TDLTFC8>{{cite book |first1=Brian |last1=Ellis |first2=Alan |last2=Shury |first3=Steve |last3=Bailey |title=The Definitive Luton Town F.C. |year=1997 |publisher=Soccerdata |location=Nottingham |isbn=978-1-899468-10-2 |page=8}}</ref> A key player of the period was [[Ernie Simms]], a [[Forward (association football)|forward]]. Simms was invalided back to England after being wounded on the [[Italian Front (World War I)|Italian front]],<ref name=Hayes156/><ref name=TDLTFC8/> but recovered enough to regain his place in the Luton team and scored 40 goals during the [[1916–17 in English football|1916–17 season]].<ref name=Hayes156/>
+
+[[File:Paynevbristolrovers.jpg|thumb|left|1936: [[Joe Payne (footballer, born 1914)|Joe Payne]] ''(white shirt, left)'' scores one of his record-breaking 10 goals in one match|alt=A black-and-white newspaper photograph: taken from behind the goalkeeper's left-hand goalpost, a football is pictured on the right-hand side, in the foreground; an association football player in a white shirt and black shorts is seen on the left-hand side.]]
+
+The Luton side first played in the white and black colours which it has retained for much of its history during the [[1920–21 in English football|1920–21 season]], when the club rejoined the Football League;<ref>{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1 |pages=26–27}}</ref> the players had previously worn an assortment of colour combinations, most permanently [[sky blue]] shirts with white shorts and navy socks.<ref name=HFK>{{cite web |first=Dave |last=Moor |title=Luton Town |url=http://www.historicalkits.co.uk/Luton_Town/Luton_Town.htm |publisher=Historical Football Kits |access-date=26 April 2014}}</ref> Such was the quality of Luton's team at this time that despite playing in the third tier, a fixture between Ireland and England at [[Windsor Park]] on 22 October 1921 saw three Luton players on the pitch—[[Louis Bookman]] and [[Allan Mathieson]] for Ireland, and the club's top goalscorer, Simms, for England.<ref name="Ireland 1–1 England">{{cite web |title=Ireland 1–1 England |url=http://englandstats.com/matches.php?mid=127 |publisher=England Stats |access-date=15 December 2016}}</ref><ref name=TLTS27>{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1 |page=27}}</ref> However, after Luton finished fourth in the division, the squad was broken up as Simms, Bookman and Mathieson joined [[South Shields F.C. (1889)|South Shields]], [[Port Vale F.C.|Port Vale]] and [[Exeter City F.C.|Exeter City]] respectively.<ref name=TLTS27/><ref>{{cite book |first1=Brian |last1=Ellis |first2=Alan |last2=Shury |first3=Steve |last3=Bailey |title=The Definitive Luton Town F.C. |year=1997 |publisher=Soccerdata |location=Nottingham |isbn=978-1-899468-10-2 |pages=92–97}}</ref> Luton stayed in the [[Football League Third Division South|Third Division South]] until [[1936–37 in English football|1936–37]], when the team finished top and won promotion to the [[Football League Second Division|Second Division]], at that time the second tier of English football.<ref>{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1 |pages=46–50}}</ref> During the promotion season, [[Forward (association football)|striker]] [[Joe Payne (footballer, born 1914)|Joe Payne]] scored 55 goals in 39 games; during the previous season he had scored 10 in one match against [[Bristol Rovers F.C.|Bristol Rovers]], which remains a Football League record today.<ref name="10goalsinagame">{{cite news |first=Simon |last=Burnton |title=The forgotten story of&nbsp;... the Football League's record scoring trio |url=https://www.theguardian.com/sport/blog/2011/oct/18/forgotten-story-football-league-record |newspaper=The Guardian |location=London |date=18 October 2011 |access-date=14 February 2015}}</ref>
+
+===Success under Duncan and relegation (1950–1965)===
+During the early 1950s, one of Luton's greatest sides<ref>{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1 |pages=74–75}}</ref> emerged under manager [[Dally Duncan]].<ref>{{cite book |first=Dean P. |last=Hayes |title=Completely Top Hatters! |year=2002 |publisher=Book Castle Publishing |location=Dunstable |isbn=978-1-903747-27-8 |page=41}}</ref> The team included [[Gordon Turner]], who went on to become Luton's all-time top goalscorer,<ref>{{cite book |first=Dean P. |last=Hayes |title=Completely Top Hatters! |year=2002 |publisher=Book Castle Publishing |location=Dunstable |isbn=978-1-903747-27-8 |pages=176–177}}</ref> [[Bob Morton (footballer, born 1927)|Bob Morton]], who holds the record for the most club appearances,<ref>{{cite book |first=Dean P. |last=Hayes |title=Completely Top Hatters! |year=2002 |publisher=Book Castle Publishing |location=Dunstable |isbn=978-1-903747-27-8 |pages=114–115}}</ref> and [[Syd Owen]], an England international.<ref>{{cite book |first=Dean P. |last=Hayes |title=Completely Top Hatters! |year=2002 |publisher=Book Castle Publishing |location=Dunstable |isbn=978-1-903747-27-8 |page=130}}</ref> During this period, Luton sides also featured two England international goalkeepers, [[Ron Baynham]] and [[Bernard Streten]],<ref>{{cite book |first=Dean P. |last=Hayes |title=Completely Top Hatters! |year=2002 |publisher=Book Castle Publishing |location=Dunstable |isbn=978-1-903747-27-8 |pages=10–11}}</ref><ref>{{cite book |first=Dean P. |last=Hayes |title=Completely Top Hatters! |year=2002 |publisher=Book Castle Publishing |location=Dunstable |isbn=978-1-903747-27-8 |page=168}}</ref> as well as [[Republic of Ireland national football team|Irish internationals]] [[Seamus Dunne]],<ref>{{cite book |first=Dean P. |last=Hayes |title=Completely Top Hatters! |year=2002 |publisher=Book Castle Publishing |location=Dunstable |isbn=978-1-903747-27-8 |pages=41–42}}</ref> [[Tom Aherne]] and [[George Cummins (footballer)|George Cummins]].<ref>{{cite book |first=Dean P. |last=Hayes |title=Completely Top Hatters! |year=2002 |publisher=Book Castle Publishing |location=Dunstable |isbn=978-1-903747-27-8 |pages=1–2}}</ref><ref>{{cite book |first=Dean P. |last=Hayes |title=Completely Top Hatters! |year=2002 |publisher=Book Castle Publishing |location=Dunstable |isbn=978-1-903747-27-8 |page=31}}</ref> This team reached the [[Football League First Division|top flight]] for the first time in [[1955–56 in English football|1955–56]], after finishing the season in second place behind [[Birmingham City F.C.|Birmingham City]] on [[goal average]].<ref name=TLTS70>{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1 |pages=70–74}}</ref> A few years of success followed, including an [[FA Cup Final 1959|FA Cup Final appearance]] against [[Nottingham Forest F.C.|Nottingham Forest]] in [[1958–59 in English football|1958–59]];<ref>{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1 |pages=78–82}}</ref> at the end of the season, Owen was voted [[FWA Footballer of the Year]].<ref>{{cite web |title=England Player Honours&nbsp;– Football Writers' Association Footballers of the Year |url=http://www.englandfootballonline.com/TeamHons/HonsFWAFbYr.html |publisher=England Football Online |date=19 June 2007 |access-date=13 May 2009}}</ref> However, the club was relegated the following season and, by [[1964–65 in English football|1964–65]], was playing in the [[Football League Fourth Division|fourth tier]].<ref>{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1 |pages=95–98}}</ref>
+
+[[File:Oak Road End at Kenilworth Road, 1980.jpg|thumb|A home match at [[Kenilworth Road]] in 1980|alt=A professional football match in progress, viewed from behind one of the goals. One team is in white and the other is in yellow.]]
+
+===Back to the first tier and late century success (1965–1992)===
+In [[yo-yo club]] fashion, Luton were to return. A team including [[Bruce Rioch]], [[John Moore (footballer, born December 1943)|John Moore]] and [[Graham French]] won the Fourth Division championship in [[1967–68 in English football|1967–68]] under the leadership of former player [[Allan Brown (footballer, born 1926)|Allan Brown]];<ref name=FCHD/> two years later [[Malcolm Macdonald]]'s goals helped them to another promotion,<ref name=TLTS108>{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1 |pages=108–111}}</ref> while comedian [[Eric Morecambe]] became a director of the club.<ref name=TLTS108/> Luton Town won promotion back to the First Division in [[1973–74 Football League|1973–74]], but were relegated [[1974–75 Luton Town F.C. season|the following season]] by a solitary point.<ref name=FCHD/><ref>{{cite web |title=Luton Town 1974–1975 |url=http://www.statto.com/football/teams/luton-town/1974-1975 |publisher=Statto Organisation |archive-url=https://web.archive.org/web/20090901070948/http://www.statto.com/football/teams/luton-town/1974-1975 |archive-date=1 September 2009 |url-status=dead}}</ref> Former Luton player [[David Pleat]] was made manager in 1978, and by [[1982–83 in English football|1982–83]] the team was back in the top flight.<ref name=FCHD/> The team which Pleat assembled at Kenilworth Road was notable at the time for the number of [[black people|black]] players it included; during an era when many English squads were almost entirely white, Luton often fielded a mostly black team. Talented players such as [[Ricky Hill]], [[Brian Stein]] and [[Emeka Nwajiobi]] made key contributions to the club's success during this period,<ref>{{cite journal |title=Volume 114 |year=1985 |journal=The Listener |publisher=BBC Magazines |location=London |page=9 |quote=...&nbsp;Luton has an attractive team led by some of the finest black players in the country, such as Brian Stein, Ricky Hill and the exciting Nigerian Nwajobi. Sometimes half the Luton team has been black.}}</ref> causing it to accrue "a richer history of black stars than any in the country", in the words of journalist Gavin Willacy.<ref>{{cite web |first=Gavin |last=Willacy |title=Opportunity knocked |url=http://www.wsc.co.uk/wsc-daily/942-October-2008/1130-opportunity-knocked |journal=When Saturday Comes |location=London |date=23 October 2008 |access-date=15 December 2016 |quote=It is perhaps most alarming that Ramsey's bitterest experience of what he considered racism came at Luton Town, a club who have had probably more black players and a richer history of black stars than any in the country, but who maintain an almost exclusively white fan base. |archive-url=https://web.archive.org/web/20161220123118/http://www.wsc.co.uk/wsc-daily/942-October-2008/1130-opportunity-knocked |archive-date=20 December 2016 |url-status=dead |df=dmy-all}}</ref>
+
+On the last day of the 1982–83 season, the club's first back in the top tier, it narrowly escaped relegation: playing [[Manchester City F.C.|Manchester City]] at [[Maine Road]], Luton needed to win to stay up, while City could escape with a draw.<ref name="Classic matches at Maine Road">{{cite news |first=Chris |last=Bevan |title=Classic matches at Maine Road |url=http://news.bbc.co.uk/sport1/hi/football/teams/m/man_city/3011383.stm |work=BBC Sport |date=3 May 2003 |access-date=24 May 2009}}</ref> A late winner by [[Socialist Federal Republic of Yugoslavia|Yugoslavian]] substitute [[Radomir Antić|Raddy Antić]] saved the team and prompted Pleat to dance across the pitch performing a "jig of joy",<ref name="Classic matches at Maine Road"/> an image that has become [[icon]]ic.<ref>{{cite web |title=1974–1985 |url=http://www.lutontown.co.uk/club/history/ |publisher=Luton Town F.C. |date=2 August 2016 |access-date=15 December 2016 |quote=Visions of David Pleat skipping across the&nbsp;... turf&nbsp;... remain some of television's enduring images.}}</ref> The club achieved its highest ever league position, seventh, under [[John Moore (footballer, born December 1943)|John Moore]] in [[1986–87 Luton Town F.C. season|1986–87]],<ref>{{cite web |title=Luton Town 1986–1987 |url=http://www.statto.com/football/teams/luton-town/1986-1987 |publisher=Statto Organisation |archive-url=https://web.archive.org/web/20090327122705/http://www.statto.com/football/teams/luton-town/1986-1987 |archive-date=27 March 2009 |url-status=dead}}</ref> and, managed by [[Ray Harford]], won the [[Football League Cup]] a year later with a [[1988 Football League Cup Final|3–2 win]] over [[Arsenal F.C.|Arsenal]]. With ten minutes left on the clock and Arsenal 2–1 ahead, a penalty save from stand-in goalkeeper [[Andy Dibble]] sparked a late Luton rally: [[Danny Wilson (footballer, born 1960)|Danny Wilson]] equalised, before [[Brian Stein]] scored the winner with the last kick of the match.<ref name=FCHD/><ref>{{cite web |title=1985–1988 |url=http://www.lutontown.co.uk/club/history/ |publisher=Luton Town F.C. |date=2 August 2016 |access-date=15 December 2016 |quote=A last-minute strike from Brian Stein saw [Luton] Town finally overcome Arsenal 3–2 at Wembley in a see-saw thriller in which Arsenal, leading 2–1, were awarded a penalty, which was brilliantly saved by Andy Dibble, before [Luton] Town came storming back, leading to skipper Steve Foster lifting the Littlewoods Cup.}}</ref><ref>{{cite news |first=Tom |last=Lamont |title=Frozen in time |url=https://www.theguardian.com/football/2008/apr/06/newsstory.sport |newspaper=The Guardian |location=London |date=6 April 2008 |access-date=24 June 2009 |quote=Arsenal led 2–1 with 10 minutes left when Andy Dibble, Luton's reserve keeper, saved a Nigel Winterburn penalty&nbsp;... This equaliser was scrambled in [when] Brian [Stein] hit the ball across the face of the box. Danny Wilson nodded it in. In the final minute, Brian Stein's close-range volley snatched victory.}}</ref> The club reached the [[1989 Football League Cup Final|League Cup Final]] once more in [[1988–89 Luton Town F.C. season|1988–89]], but lost 3–1 to Nottingham Forest.<ref name=FCHD/>
+
+[[File:Luton Town lift Conference championship trophy 2014.jpg|thumb|left|Luton Town players and staff celebrate winning the [[2013–14 Football Conference|Conference Premier]] title in 2014|alt=A crowd of men, some wearing grey suits and some wearing white shirts, navy shorts and white socks, celebrate raucously on a podium. An open bottle of champagne is visible in front of them, spiralling through the air as if somebody has thrown it]]
+
+===Resurgence and fall to non-League (1992–2009)===
+The club was relegated from the top division at the end of the [[1991–92 Luton Town F.C. season|1991–92 season]],<ref name=FCHD/> and sank to the third tier [[1995–96 Luton Town F.C. season|four years later]].<ref name=FCHD/><ref>{{cite news |title=Winners and losers |url=https://www.independent.co.uk/sport/winners-and-losers-1345871.html |newspaper=The Independent |location=London |date=6 May 1996 |access-date=13 May 2009}}</ref> Luton stayed in the third-tier Second Division until relegation at the end of the [[2000–01 Luton Town F.C. season|2000–01 season]].<ref>{{cite news |first=Trevor |last=Haylett |title=Rotherham on the rise as Luton fall |url=http://infoweb.newsbank.com/resources/doc/nb/news/132A8CA49E603AD8?p=AWNB |newspaper=The Independent |location=London |format=reprint |via=NewsBank |date=25 April 2001 |access-date=15 December 2016}} {{registration required}}</ref> Under the management of [[Joe Kinnear]], who had arrived halfway through the previous season,<ref>{{cite news |title=Kinnear: I'm the boss |url=http://news.bbc.co.uk/sport1/hi/football/teams/l/luton_town/1160605.stm |work=BBC Sport |date=8 February 2001 |access-date=22 March 2012}}</ref> the team won promotion from the fourth tier at the first attempt.<ref name=FCHD/> "Controversial"<ref name="Trouble at the Top: Luton Kicks Off">{{cite web |title=Trouble at the Top: Luton Kicks Off |url=http://www.bbc.co.uk/threecounties/content/articles/2004/10/26/trouble_at_the_top_feature.shtml |publisher=BBC Three Counties |date=29 October 2004 |access-date=25 June 2009}}</ref> owner [[John Gurney (football chairman)|John Gurney]] unsettled the club in 2003,<ref name="Trouble at the Top: Luton Kicks Off"/> terminating Kinnear's contract on his arrival in May;<ref name="Trouble at the Top: Luton Kicks Off"/><ref>{{cite news |title=Luton ponder Dons merger |url=http://news.bbc.co.uk/sport1/hi/football/teams/l/luton_town/2974650.stm |work=BBC Sport |date=9 May 2003 |access-date=22 March 2012}}</ref> Gurney replaced Kinnear with [[Mike Newell (footballer)|Mike Newell]] before leaving Luton as the club entered [[Administration (law)|administration]].<ref name="Trouble at the Top: Luton Kicks Off"/><ref>{{cite news |title=Luton pick Newell |url=https://www.telegraph.co.uk/sport/2406488/Luton-pick-Newell.html |newspaper=The Daily Telegraph |location=London |date=23 June 2003 |access-date=13 May 2009}}</ref> Newell's team finished as champions of the rebranded third-tier [[Football League One]] in [[2004–05 Luton Town F.C. season|2004–05]].<ref name=FCHD/><ref>{{cite news |first=Geoff |last=Brown |title=Round-up : Coventry end with demolition Derby |url=https://www.independent.co.uk/sport/football/football-league/roundup--coventry-end-with-demolition-derby-489784.html |newspaper=The Independent |location=London |date=1 May 2005 |access-date=13 May 2009}}</ref>
+
+While Newell's place was taken first by [[Kevin Blackwell]] and later former player [[Mick Harford]],<ref>{{cite web |title=Luton Town appoint new manager |url=http://www.bbc.co.uk/threecounties/content/articles/2007/03/27/luton_town_new_manager_feature.shtml |publisher=BBC Three Counties |date=2 April 2007 |access-date=13 May 2009}}</ref><ref>{{cite news |first1=Vicki |last1=Hodges |first2=Charlie |last2=Caroe |title=Mick Harford replaces Kevin Blackwell at Luton |url=https://www.telegraph.co.uk/sport/football/2289140/Mick-Harford-replaces-Kevin-Blackwell-at-Luton.html |newspaper=The Daily Telegraph |location=London |date=16 January 2008 |access-date=29 April 2009}}</ref> the team was then relegated twice in a row, starting in [[2006–07 Luton Town F.C. season|2006–07]], and spent the latter part of the [[2007–08 Luton Town F.C. season|2007–08 season]] in administration, thus incurring a ten-point deduction from that season's total.<ref name=FCHD/><ref>{{cite web |title=Luton Town 2006–2007 |url=http://www.statto.com/football/teams/luton-town/2006-2007 |publisher=Statto Organisation |archive-url=https://web.archive.org/web/20090906075044/http://www.statto.com/football/teams/luton-town/2006-2007 |archive-date=6 September 2009 |url-status=dead}}</ref> The club then had a total of 30 points docked from its [[2008–09 Luton Town F.C. season|2008–09]] record by [[the Football Association]] and the Football League for financial irregularities dating back several years.<ref>{{cite news |title=Luton lose appeal against points deduction |url=https://www.theguardian.com/football/2008/jul/15/lutontown.leaguetwofootball |newspaper=The Guardian |location=London |date=15 July 2008 |access-date=22 March 2012}}</ref> These deductions proved to be too large an obstacle to overcome,<ref>{{cite news |title=Luton 0–0 Chesterfield |url=http://news.bbc.co.uk/sport1/hi/football/eng_div_3/7979729.stm |work=BBC Sport |date=13 April 2009 |access-date=13 April 2009}}</ref> but Luton came from behind in the final of the [[Football League Trophy]] to win the competition for the first time.<ref>{{cite news |first=Paul |last=Fletcher |title=Luton 3–2 Scunthorpe (aet) |url=http://news.bbc.co.uk/sport1/hi/football/7975143.stm |work=BBC Sport |date=5 April 2009 |access-date=6 April 2009}}</ref>
+
+===Non-League and subsequent promotions (2009–present)===
+Relegation meant that [[2009–10 Luton Town F.C. season|2009–10]] saw Luton playing in the [[Conference Premier]], a competition in which the club had never before participated. The club unsuccessfully contested the promotion play-offs three times in four seasons during their time as a non-League club, employing five different managers. In the [[2012–13 FA Cup]] fourth round, Luton won their [[Norwich City 0–1 Luton Town (2013)|away tie]] against [[Premier League]] club [[Norwich City F.C.|Norwich City]] 1–0 and, in doing so, became the first non-League team to beat a side from England's top division since 1989.<ref>{{cite news |first=Chris |last=Osborne |title=Norwich 0–1 Luton |url=https://www.bbc.co.uk/sport/football/21095990 |work=BBC Sport |date=26 January 2013 |access-date=15 December 2016}}</ref> In the [[2013–14 Luton Town F.C. season|2013–14 season]], under the management of [[John Still (footballer)|John Still]], Luton won the Conference Premier title with three games to spare, and thereby secured a return to the Football League from [[2014–15 Luton Town F.C. season|2014–15]].<ref>{{cite news |title=Luton Town win Conference Premier and Football League spot |url=https://www.bbc.co.uk/sport/football/26978690 |work=BBC Sport |date=15 April 2014 |access-date=15 December 2016}}</ref> After reaching the [[EFL League Two play-offs|League Two play-offs]] in [[2016–17 Luton Town F.C. season|2016–17]],<ref>{{cite news |first=Mike |last=Simmonds |title=Hatters hit four as they hammer Accrington |url=https://www.lutontoday.co.uk/sport/football/luton-town/hatters-hit-four-as-they-hammer-accrington-1-7939723 |newspaper=Luton Today |date=29 April 2017 |access-date=5 May 2019}}</ref> when they were beaten 6–5 [[Aggregate score|on aggregate]] by [[Blackpool F.C.|Blackpool]] in the semi-final,<ref>{{cite news |first=Brendon |last=Mitchell |title=Luton Town 3–3 Blackpool (agg: 5–6) |url=https://www.bbc.co.uk/sport/football/39879758 |work=BBC Sport |date=18 May 2017 |access-date=5 May 2019}}</ref> Luton were promoted back to [[EFL League One|League One]] the [[2017–18 Luton Town F.C. season|following season]] as runners-up.<ref>{{cite news |first=Mike |last=Simmonds |title=Luton seal promotion to League One with Carlisle draw |url=https://www.lutontoday.co.uk/sport/football/luton-town/luton-seal-promotion-to-league-one-with-carlisle-draw-1-8470404 |newspaper=Luton Today |date=21 April 2018 |access-date=5 May 2019}}</ref><ref>{{cite news |title=Luton Town 3–1 Forest Green Rovers |url=https://www.bbc.co.uk/sport/football/43846878 |work=BBC Sport |date=28 April 2018 |access-date=5 May 2019}}</ref> Luton achieved a second successive promotion in [[2018–19 Luton Town F.C. season|2018–19]], after they won the League One title, marking the club's return to the [[EFL Championship|Championship]] after a 12-year absence.<ref>{{cite news |title=League One promotion: Luton Town and Barnsley return to Championship for 2019–20 |url=https://www.bbc.co.uk/sport/football/48114557 |work=BBC Sport |date=30 April 2019 |access-date=5 May 2019}}</ref><ref>{{cite news |title=League One roundup: Luton seal title as Plymouth go down on goal difference |url=https://www.theguardian.com/football/2019/may/04/league-one-roundup-luton-title-plymouth-goal-difference |newspaper=The Guardian |location=London |date=4 May 2019 |access-date=5 May 2019}}</ref>
+
+==Club identity==
+{{Football kit box
+ | align      = right
+ | pattern_la =
+ | pattern_b  = _vneckwhite
+ | pattern_ra =
+ | pattern_sh = _white_stripes
+ | pattern_so = _twostripes
+ | leftarm    = FFFFFF
+ | body       = FFFFFF
+ | rightarm   = FFFFFF
+ | shorts     = 000000
+ | socks      = FFFFFF
+ | title      = Luton first wore white and black between 1920 and 1973.
+}}
+[[File:LutonTownFCBadge1973-1987.png|thumb|upright|Luton Town badge, {{nobreak|1973–87}}|alt=See accompanying text]]
+
+The club's nickname, "the Hatters", reflects Luton's historical connection with the [[Hatmaking|hat making]] trade, which has been prominent there since the 17th century.<ref>{{cite web |title=A history hat making in Luton |url=http://www.galaxy.bedfordshire.gov.uk/webingres/luton/0.local/hat_plaiting.htm |work=Plaiting and Straw Hat Making |publisher=Luton Libraries |archive-url=https://web.archive.org/web/20130527182358/http://www.galaxy.bedfordshire.gov.uk/webingres/luton/0.local/hat_plaiting.htm |archive-date=27 May 2013}}</ref><ref>{{cite web |title=The Origins of Luton's Hat Industry |url=http://www.galaxy.bedfordshire.gov.uk/webingres/luton/0.local/hat_origins_industry.htm |work=Plaiting and Straw Hat Making |publisher=Luton Libraries |archive-url=https://web.archive.org/web/20120222030446/http://www.galaxy.bedfordshire.gov.uk/webingres/luton/0.local/hat_origins_industry.htm |archive-date=22 February 2012}}</ref> The nickname was originally a variant on the now rarely seen straw-plaiters. Supporters of the club are also called Hatters.<ref>{{cite book |first=Dean P. |last=Hayes |title=Completely Top Hatters! |year=2002 |publisher=Book Castle Publishing |location=Dunstable |isbn=978-1-903747-27-8 |page=123}}</ref>
+
+The club is associated with two very different colour schemes—white and black (first permanently adopted in 1920), and orange, navy and white (first used in 1973, and worn by the team as of the [[2015–16 Luton Town F.C. season|2015–16 season]]). Luton mainly wore a combination of light blue and white before 1920, when white shirts and black shorts were first adopted. These colours were retained for over half a century, with the colour of the socks varying between white and black, until Luton changed to orange, navy and white at the start of the [[1973–74 in English football|1973–74 season]]. Luton began playing in white shirts, shorts and socks in 1979, with the orange and navy motif reduced to trim; navy shorts were adopted in 1984. This palette was retained until the [[1999–2000 Luton Town F.C. season|1999–2000 season]], when the team played in orange shirts and blue shorts. From 2000 to 2008, Luton returned to white shirts and black shorts; orange was included as trim until 2007. The white, navy and orange palette favoured in the 1980s was brought back in 2008, following the results of a club poll,<ref>{{cite web |title=One Day to Go!! |url=http://www.lutontown.co.uk/page/NewsDetail/0,,10372~1372290,00.html |publisher=Luton Town F.C. |date=22 August 2008 |archive-url=https://web.archive.org/web/20120319081740/http://www.lutontown.co.uk/page/NewsDetail/0%2C%2C10372~1372290%2C00.html |archive-date=19 March 2012 |url-status=dead}}</ref> but a year later the colours were changed yet again, this time to a predominantly orange strip with white shorts.<ref>{{cite web |title=Luton Town F.C. Home/Away |url=http://www.lutontown.co.uk/staticFiles/3d/3b/0,,10372~146237,00.pdf |publisher=Luton Town F.C. |format=PDF |date=27 July 2009 |archive-url=https://web.archive.org/web/20120319072839/http://www.lutontown.co.uk/staticFiles/3d/3b/0%2C%2C10372~146237%2C00.pdf |archive-date=19 March 2012 |url-status=dead}}</ref> Navy shorts were readopted in 2011. Luton wore orange shirts, navy shorts and white socks during the [[2015–16 Luton Town F.C. season|2015–16 season]].<ref name=HFK/>
+
+Luton Town have traditionally used the town's crest as its own in a manner similar to many other teams. The club's first badge was a white eight-pointed star, which was emblazoned across the team's shirts (then a deep [[cochineal]] red) in 1892. Four years later a crest comprising the club's initials intertwined was briefly adopted. The shirts were thereafter plain until 1933, when Luton first adopted a badge depicting a straw boater, which appeared on Luton shirts. The letters "LTFC" were added in 1935, and this basic design remained until 1947. The club then played without a badge until 1970, when the club began to wear the town crest regularly, having first done so in the 1959 FA Cup Final.<ref name=papbadge>{{cite book |title=The Hatters: Passion and Pride since 1885 |chapter=The Badge |year=2011 |publisher=Luton Town F.C. |location=Luton |page=112}}</ref>
+
+In 1973, concurrently with the club's switch to the orange kit, a new badge was introduced featuring the new colours. The new emblem depicted a stylised orange football, bearing the letters "Lt", surrounded by the club's name in navy blue text.<ref name=papbadge/> In 1987, the club switched back to a derivative of the town emblem, with the shield portion of the heraldic crest becoming the team's badge; the only similarity with the previous design was the inclusion of the club name around the shield in navy blue. The "rainbow" badge, introduced in 1994, featured the town crest below an orange and blue bow which curved around to meet two footballs, positioned on either side of the shield, with the club name underneath.<ref name=papbadge/> This badge was used until 2005, when a replacement very similar to the 1987 version was adopted, featuring black text rather than blue and a straw boater in place of the outstretched arm depicted in the older design. The club's founding year, 1885, was added in 2008.<ref name=HFK/> The badge was altered once more during the [[2009–10 Luton Town F.C. season|2009–10]] pre-season, with the red of the town crest being replaced with orange to better reflect the club colours.<ref name=kit2011>{{cite web |title=Revealed: The New Crest |url=http://www.lutontown.co.uk/page/NewsDetail/0,,10372~1735608,00.html |publisher=Luton Town F.C. |date=28 July 2009 |archive-url=https://web.archive.org/web/20120301145328/http://www.lutontown.co.uk/page/NewsDetail/0%2C%2C10372~1735608%2C00.html |archive-date=1 March 2012 |url-status=dead}}</ref>
+
+The first sponsor to appear on a Luton Town shirt was Tricentrol, a local motor company based in [[Dunstable]], who sponsored the club from March 1980 to 1982; the deal was worth £50,000.<ref>{{cite journal |title=Luton sign £50,000 deal |journal=Luton Town |publisher=Luton Town F.C. |date=1 March 1980}}</ref> Subsequent sponsors have been [[Bedford Vehicles|Bedford Trucks]] (1982 to 1990), [[Vauxhall Motors|Vauxhall]] (1990 to 1991), Universal Salvage Auctions (1991 to 1999), [[SKF]] (1999 to 2003), Travel Extras (2003 to 2005), [[Electrolux]] (2005 to 2008), [[Carbrini Sportswear]] (2008 to 2009),<ref name=HFK/> [[EasyJet]] and [[National Inspection Council for Electrical Installation Contracting|NICEIC]] (concurrently, 2009 to 2015),<ref name=kit2011/><ref>{{cite web |title=Revealed: The New Sponsors |url=http://www.lutontown.co.uk/page/NewsDetail/0,,10372~1735654,00.html |publisher=Luton Town F.C. |date=28 July 2009 |archive-url=https://web.archive.org/web/20120319055507/http://www.lutontown.co.uk/page/NewsDetail/0%2C%2C10372~1735654%2C00.html |archive-date=19 March 2012 |url-status=dead}}</ref><ref>{{cite web |title=Get the new look! |url=http://www.lutontown.co.uk/news/article/kit-launch-190713-931659.aspx |publisher=Luton Town F.C. |date=19 July 2013 |access-date=25 July 2013}}</ref><ref>{{cite web |title=EasyJet sponsorship + new kit for next season |url=http://www.lutontown.co.uk/news/article/luton-town-easyjet-sponsorship-new-kit-1676449.aspx |publisher=Luton Town F.C. |date=25 June 2014 |access-date=15 December 2016}}</ref><ref>{{cite web |title=Hatters continue NICEIC partnership |url=http://www.lutontown.co.uk/news/article/town-continue-niceic-partnership-1880610.aspx |publisher=Luton Town F.C. |date=28 August 2014 |access-date=15 December 2016}}</ref> and [[Barnfield College]] and NICEIC (concurrently, 2015 to 2016).<ref>{{cite web |title=Barnfield College named as new Luton shirt sponsor |url=http://www.lutontown.co.uk/news/article/barnfield-college-named-new-luton-town-shirt-sponsor-2584018.aspx |publisher=Luton Town F.C. |date=1 August 2015 |access-date=4 August 2015}}</ref><ref>{{cite web |title=Back of shirt and short sponsors meet the team! |url=http://www.lutontown.co.uk/news/article/back-of-shirt-and-short-sponsors-meet-the-team-2677793.aspx |publisher=Luton Town F.C. |date=9 September 2015 |access-date=15 December 2016}}</ref> For the [[2016–17 Luton Town F.C. season|2016–17]] and [[2017–18 Luton Town F.C. season|2017–18]] seasons the club's kit was sponsored by NICEIC and [[SsangYong Motor|SsangYong Motor UK]].<ref>{{cite web |title=New sponsors are SsangYong Motor UK Ltd |url=http://www.lutontown.co.uk/news/article/luton-town-ssangyong-motor-uk-ltd-puma-3153548.aspx |publisher=Luton Town F.C. |date=24 June 2016 |access-date=15 December 2016}}</ref>  The [[2018–19 Luton Town F.C. season|2018–19 season]] saw changes to the kits and sponsors, with Indigo Residential taking up the home shirt, Star Platforms sponsoring the away strip, and Northern Gas & Power sponsoring the third.<ref>{{Cite web |title=2018–19 KITS AND SPONSORS UNVEILED |url=https://www.lutontown.co.uk/news/2018/april/18-19-kit-launch/|access-date=2020-07-25 |website=www.lutontown.co.uk |language=en-gb}}</ref> In [[2019–20 Luton Town F.C. season|2019–20]], Ryebridge Construction took up the vacated role of sponsoring the third kit,<ref>{{Cite web |title=MAKE YOUR MARK ON THE CHAMPIONSHIP IN OUR 2019–20 KIT |url=https://www.lutontown.co.uk/news/2019/may/kit-launch-2019/|access-date=2020-07-25 |website=www.lutontown.co.uk |language=en-gb}}</ref> and for the [[2020–21 Luton Town F.C. season|2020–21]] season, JB Developments will sponsor the home kit, while Star Platforms and Ryebridge Construction continue to sponsor the away and third kits.<ref>{{Cite web |title=THREE NEW KITS FOR 2020–21. MADE FOR HEROES |url=https://www.lutontown.co.uk/news/2020/july/kit-launch-2020-21/|access-date=2020-07-25 |website=www.lutontown.co.uk |language=en-gb}}</ref>
+
+The club released the song "Hatters, Hatters", a collaboration between the Luton team and the Bedfordshire-based musical comedy group [[the Barron Knights]], in 1974.<ref>{{cite web |title=Miranda Hart after Eric Impersonators |url=http://www.lutontown.co.uk/news/article/miranda-hart-coming-to-kenilworth-road-531301.aspx |publisher=Luton Town F.C. |date=7 December 2012 |access-date=28 October 2014}}</ref> Eight years later another song featuring vocals by the Luton players, "We're Luton Town", was released to celebrate the club's promotion to the First Division.<ref>{{cite AV media notes |title=We're Luton Town |type=vinyl record |others=Luton Town Football Club |publisher=Artesian Records |year=1982 |id=ARC 314 A}}</ref>
+
+==Stadium==
+{{main article|Dallow Lane|Dunstable Road|Kenilworth Road}}
+
+[[File:Kenilworth Road.jpg|thumb|The view from the Kenilworth End in 2007. To the left is the Main Stand, and to the right is the Oak Road End.|alt=An old-fashioned association football stadium. On the left a large wooden grandstand is visible, filled with blue seats; straight ahead, a smaller stand is seen, also with blue seats. On the latter stand, the word "LUTON" is spelled out in white seats among the blue.]]
+
+[[File:LTFCattendancespostwar2017.png|thumb|Luton Town's average home league attendances at Kenilworth Road from [[1946–47 Football League|1946–47]] to [[2016–17 English Football League|2016–17]]. Attendances rose with Luton's promotion in 1955 before plummeting during the early 1960s as the club suffered three relegations. Spectators returned with the promotions of the late 1960s and mid 1970s, before seeing a decline with the introduction of an [[all-seater stadium]] in 1986.|alt=See accompanying text]]
+
+Luton Town's first ground was at [[Dallow Lane]], the former ground of Excelsior.<ref name=Hayes55/> The ground was next to the [[Dunstable Branch Lines|Dunstable to Luton railway line]], and players regularly claimed to have trouble seeing the ball because of smoke from the trains.<ref name=Hayes43/> A damaging financial loss during [[1896–97 in English football|1896–97]] forced Luton to sell the stadium to stay afloat and, as a result, the club moved across the tracks to a stadium between the railway and Dunstable Road.<ref name=Hayes43/> The [[Dunstable Road]] ground was opened by [[Herbrand Russell, 11th Duke of Bedford]], who also donated £50 towards the £800 building costs.<ref name=Hayes43/> When the site was sold for housing in 1905, the club was forced to move again at short notice,<ref name=Hayes43/> to its present [[Kenilworth Road]] site, in time for the start of the [[1905–06 in English football|1905–06 season]].<ref name=TLTS3/><ref name=Hayes43/>
+
+The stadium now has an all-seater capacity of 10,356 and is situated in the [[Bury Park]] area of [[Luton]]. It was named after the road that runs along one end of it, although the official address of the club is 1 Maple Road. Opposite the eponymous Kenilworth Stand is the Oak Road End, which has evolved from a stand first used exclusively by Luton supporters, then later by away supporters, and now used by both except in times of high ticket demand from away clubs. The Main Stand is flanked by the [[David Preece (footballer, born 1963)|David Preece]] Stand, and opposite them stands a row of executive boxes. These boxes replaced the Bobbers Stand in 1986, as the club sought to maximise income.<ref name=KenilworthStadium>{{cite web |title=Kenilworth Stadium |url=http://www.lutontown.co.uk/page/KenilworthStadium/0,,10372,00.html |publisher=Luton Town F.C. |date=21 May 2009 |archive-url=https://web.archive.org/web/20120319064227/http://www.lutontown.co.uk/page/KenilworthStadium/0%2C%2C10372%2C00.html |archive-date=19 March 2012 |url-status=dead}}</ref>
+
+The original Main Stand burnt down in 1921, and was replaced by the current stand before the [[1922–23 in English football|1922–23 season]]. The ground underwent extensive redevelopment during the 1930s, and the capacity by the start of the [[World War II|Second World War]] was 30,000. [[Floodlights (sport)|Floodlights]] were installed before the [[1953–54 in English football|1953–54 season]], but it was 20 years before any further modernisation was carried out. In 1973 the Bobbers Stand became all-seated, and in 1985 the grass pitch was replaced with an [[Artificial turf|artificial playing surface]]; it quickly became unpopular and was derided as "the plastic pitch".<ref name=TLTS27/><ref name=KenilworthStadium/><ref>{{cite news |first=Sean |last=McGuire |title=Unlucky Luton, a reminder of football's forgotten days |url=http://www.liverpooldailypost.co.uk/sport/liverpool-football/2009/04/17/sean-mcguire-unlucky-luton-a-reminder-of-football-s-forgotten-days-92534-23405017/ |newspaper=Liverpool Daily Post |date=17 April 2009 |archive-url=https://web.archive.org/web/20120325002307/http://www.liverpooldailypost.co.uk/sport/liverpool-football/2009/04/17/sean-mcguire-unlucky-luton-a-reminder-of-football-s-forgotten-days-92534-23405017/ |archive-date=25 March 2012}}</ref><ref>{{cite journal |first=Graham |last=Lawton |title=Pitch battle over artificial grass |url=https://www.newscientist.com/article/mg18625021-300-pitch-battle-over-artificial-grass/ |journal=New Scientist |issue=2502 |page=35 |date=1 June 2005 |access-date=15 December 2016}}</ref>
+
+A [[1985 Kenilworth Road riot|serious incident involving hooliganism]] before, during and after a match against [[Millwall F.C.|Millwall]] in 1985 caused the club's then chairman, [[Conservative Party (UK)|Conservative]] [[Member of Parliament (United Kingdom)|Member of Parliament]] (MP) [[David Evans (British politician)|David Evans]], to introduce a scheme effective from the start of [[1986–87 Luton Town F.C. season|1986–87]] banning all visiting supporters from the ground, and requiring home fans to carry membership cards when attending matches.<ref>{{cite news |first=Christopher |last=Davies |title=Millwall hopes to leave dark history behind in F.A. Cup final |url=http://www.japantimes.co.jp/sports/2004/05/21/sports/millwall-hopes-to-leave-dark-history-behind-in-f-a-cup-final/#.WFB3H_mLSM8 |newspaper=The Japan Times |date=21 May 2004 |access-date=26 March 2008}}</ref> Conversion to an all-seater ground also began in 1986.<ref name=KenilworthStadium/> Away fans returned for [[1990–91 Luton Town F.C. season|1990–91]],<ref>{{cite journal |title=Luton may end its ban on supporters |journal=The Times |publisher=Times Newspapers |date=24 May 1990}}</ref> and grass a year later.<ref>{{cite news |title=Uefa approves artificial pitches |url=http://news.bbc.co.uk/sport1/hi/football/europe/4000885.stm |work=BBC Sport |date=10 November 2004 |access-date=26 March 2008}}</ref> The David Preece Stand was erected in 1991, and the conversion of the Kenilworth Stand to an all-seater was completed in 2005.<ref name=KenilworthStadium/>
+
+===New stadium===
+The club first expressed an interest in building a new stadium away from Kenilworth Road in 1955, the year it won promotion to the First Division for the first time. Even then the ground was small compared to those of most First and Second Division clubs, and its location made significant redevelopment difficult. The team has since made several attempts to relocate.<ref name=TLTS70/> Leaving Luton for the nearby new town of [[Milton Keynes]] was unsuccessfully [[Relocation of Wimbledon F.C. to Milton Keynes#Luton Town—"MK Hatters" (1980s)|proposed]] several times, most notably in the 1980s.<ref>{{cite news |first=Neil |last=Rose |title=Luton Town 1 MK Dons 0 |url=http://www.wsc.co.uk/index.php?option=com_content&view=article&id=1623&Itemid=29 |journal=When Saturday Comes |date=20 June 2005 |access-date=11 April 2009}}</ref> The club sold Kenilworth Road to Luton Council in 1989, and has since leased it.<ref name="Luton Town FC in talks to buy back Kenilworth Road"/> A planning application for a new 20,000-seater indoor stadium, the "Kohlerdome" proposed by chairman [[David Kohler (developer)|David Kohler]] in 1995, was turned down by the [[Secretary of State (United Kingdom)|Secretary of State]] in 1998, and Kohler left soon after.<ref>{{cite journal |first=Mihir |last=Bose |title=Luton chairman ready for a stretch inside |journal=The Sunday Times |publisher=Times Newspapers |page=22 |date=23 October 1994}}; {{cite journal |title=Lawrence counts cost of progress |journal=The Sunday Times |publisher=Times Newspapers |page=5 (Sport) |date=29 November 1998}}; {{cite journal |title=Luton's proposed stadium blocked |journal=The Times |publisher=Times Newspapers |page=49 |date=23 February 1999}}</ref>
+
+In 2007, the club's then-owners proposed a controversial plan to relocate to a site near Junction 12 of the [[M1 motorway (England)|M1 motorway]], near [[Harlington, Bedfordshire|Harlington]] and [[Toddington, Bedfordshire|Toddington]].<ref>{{cite news |title=Luton stadium dream moves closer |url=http://news.bbc.co.uk/sport1/hi/football/teams/l/luton_town/6366125.stm |work=BBC Sport |date=15 February 2007 |access-date=15 May 2016}}</ref> A planning application was made on the club's behalf by former chairman Cliff Bassett, but the application was withdrawn almost immediately following the club's takeover in 2008.<ref>{{cite news |first=Keeley |last=Knowles |title=J12 stadium plans run into problems |url=http://www.bedfordshire-news.co.uk/j12-stadium-plans-run-problems/story-22982387-detail/story.html |newspaper=Bedfordshire on Sunday |date=30 March 2008 |access-date=15 December 2016}}</ref><ref>{{cite web |title=Junction 12 application withdrawn |url=http://www.lutontown.co.uk/page/Stadium/0,,10372~1381299,00.html |publisher=Luton Town F.C. |date=1 September 2008 |archive-url=https://web.archive.org/web/20090416034459/http://www.lutontown.co.uk/page/Stadium/0%2C%2C10372~1381299%2C00.html |archive-date=16 April 2009 |url-status=dead}}</ref> In 2009, the club began an independent feasibility study to determine a viable location to move to.<ref>{{cite news |title=Luton stadium plan 'unaffordable' |url=http://news.bbc.co.uk/sport1/hi/football/teams/l/luton_town/7905615.stm |work=BBC Sport |date=23 February 2009 |access-date=11 May 2009}}</ref><ref>{{cite web |title=Chapter 9 – Action Areas |url=http://www2.luton.gov.uk/localplan/written/cpt9.htm |publisher=Luton Borough Council |access-date=11 May 2009}}</ref> The club did not rule out redeveloping Kenilworth Road and, in October 2012, entered talks to buy the stadium back from Luton Borough Council.<ref name="Luton Town FC in talks to buy back Kenilworth Road">{{cite news |title=Luton Town FC in talks to buy back Kenilworth Road |url=https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-19784485 |work=BBC News |date=1 October 2012 |access-date=6 October 2012}}</ref> By 2015, these plans had been dropped in favour of a move to a new location, with managing director Gary Sweet confirming that the club was in a position to "buy land, secure the best possible professional advice&nbsp;... and to see the [planning] application process through to the receipt of consent."<ref>{{cite news |title=Hatters' new stadium location to be revealed soon |url=http://www.lutontoday.co.uk/sport/football/luton-town/hatters-new-stadium-location-to-be-revealed-soon-1-6697826 |newspaper=Luton Today |date=19 April 2015 |access-date=15 December 2016}}</ref>
+
+In April 2016, the club announced its intention to build and move into a [[Power Court Stadium Project|17,500-capacity stadium on the Power Court site]] in central Luton.<ref>{{cite news |title=Nathan Jones: Luton Town's new stadium at Power Court 'not just generic' |url=https://www.bbc.co.uk/sport/football/36112095 |work=BBC Sport |date=22 April 2016 |access-date=15 May 2016}}</ref> Outline planning permission for this ground, with potential to expand to 23,000 seats, was granted by Luton Borough Council on 16 January 2019.<ref>{{cite news |title=Power Court: Luton Town football stadium gains planning permission |url=https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-46898086 |work=BBC Sport |date=16 January 2019 |access-date=16 January 2019}}</ref> In March 2021 the club announced that it intended to make a number of changes to the initial scheme to reflect changes caused by the Covid-19 pandemic, but that the capacity of the new stadium was still to be 23,000 and had a target opening date of 2024.<ref>{{Cite web|title=Power Court and Newlands Park update|url=https://www.lutontown.co.uk/news/2021/march/power-court/|access-date=2021-06-26|website=www.lutontown.co.uk|language=en-gb}}</ref>
+
+==Supporters and rivalries==
+{{Main article|Luton Town F.C.–Watford F.C. rivalry}}
+
+[[File:Luton fans at Wembley 2012.png|thumb|Luton supporters at [[Wembley Stadium]], May 2012|alt=A three-tiered football stadium stand, the bottom two full of people clad mostly in white and orange. Several white and orange flags are visible.]]
+
+During the [[2014–15 Luton Town F.C. season|2014–15 season]], Luton Town had an average home league attendance of 8,702—the second highest in [[EFL League Two|League Two]] behind only [[Portsmouth F.C.|Portsmouth]].{{ref label|Attendance1|B|}} In the [[2013–14 Luton Town F.C. season|2013–14 season]], when the club were in the [[Conference Premier]], the club had significantly higher support than the other clubs in its league, with an average home attendance of 7,387; more than twice compared to the second highest of 3,568.{{ref label|Attendance2|C|}} Average attendances at Kenilworth Road fell with the installation of seats and the club's reduction in stature, dropping from 13,452 in [[1982–83 in English football|1982–83]] to their 2014–15 level—a slump of 35% over 32 years.<ref>{{cite book |first1=Brian |last1=Ellis |first2=Alan |last2=Shury |first3=Steve |last3=Bailey |title=The Definitive Luton Town F.C. |year=1997 |publisher=Soccerdata |location=Nottingham |isbn=978-1-899468-10-2 |page=70}}</ref> A [[supporters' trust]], [[Trust in Luton]], owns shares in the club and elects a representative to the club's board.<ref>{{cite web |title=Trust in Luton – Working with others |url=http://www.loyalluton.com/index.php?option=com_content&task=view&id=130&Itemid=102 |publisher=Loyal Luton Supporters Club |date=28 September 2007 |archive-url=https://web.archive.org/web/20120222211352/http://www.loyalluton.com/index.php?option=com_content&task=view&id=130&Itemid=102 |archive-date=22 February 2012}}</ref><ref>{{cite web |title=Trust in Luton |url=http://trustinluton.org/default.aspx |publisher=Trust in Luton |archive-url=https://web.archive.org/web/20080822063742/http://trustinluton.org/default.aspx |archive-date=22 August 2008 |url-status=dead}}</ref> The club's official supporters' group, Luton Town Supporters' Club, merged with Trust in Luton in 2014.<ref>{{cite web |title=Town fans get united! |url=http://www.trustinluton.org/index.php?view=article&catid=1:latest-news&id=130:town-fans-get-united&format=pdf |publisher=Trust in Luton |date=17 November 2014 |access-date=29 May 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150518090102/http://www.trustinluton.org/index.php?view=article&catid=1:latest-news&id=130:town-fans-get-united&format=pdf |archive-date=18 May 2015}}</ref> The club is associated with another supporters' group, the breakaway [[Loyal Luton Supporters Club]].<ref>{{cite web |title=Loyal Luton Supporters Club |url=http://www.loyalluton.com/index.php?option=com_content&task=view&id=13&Itemid=39 |publisher=Loyal Luton Supporters Club |date=10 October 2006 |archive-url=https://web.archive.org/web/20120210170653/http://www.loyalluton.com/index.php?option=com_content&task=view&id=13&Itemid=39 |archive-date=10 February 2012}}</ref> Trust in Luton has, since March 2014, held the legal right to veto any changes to the club's identity, including name, nickname, colours, club crest and mascot.<ref>{{cite web |title=Exclusive: Trusting in Luton |url=http://www.lutontown.co.uk/news/article/trust-in-luton-1303-1419534.aspx |publisher=Luton Town F.C. |date=13 March 2014 |access-date=14 March 2014}}</ref>
+
+Luton Town supporters maintain a bitter rivalry with [[Hertfordshire]]-based [[Watford F.C.|Watford]].<ref name=2003FFC>{{cite web |title=Rivalry uncovered! |url=http://www.footballfanscensus.com/issueresults/Club_Rivalries_Uncovered_Results.pdf |publisher=Football Fans Census |format=PDF |archive-url=https://web.archive.org/web/20131020074918/http://www.footballfanscensus.com/issueresults/Club_Rivalries_Uncovered_Results.pdf |archive-date=20 October 2013}}</ref><ref>{{cite web |title=Motorway madness |url=http://www.wsc.co.uk/index.php?option=com_content&view=article&id=1487/29 |journal=When Saturday Comes |date=November 2005 |access-date=15 December 2016}}</ref><ref>{{cite web |title=Herts rule Beds |url=http://www.wsc.co.uk/index.php?option=com_content&view=article&id=2944/29 |journal=When Saturday Comes |date=March 2002 |access-date=15 December 2016}}</ref> Watford have remained the higher ranked team at the end of every season since 1997. However, overall Luton still hold the superior record in the fixture between the two clubs; out of 119 competitive matches there have been 53 Luton victories and 37 for Watford, with 29 draws. The 2003 [[Football Fans Census]] showed that there was also animosity between Luton Town fans and those of west London club [[Queens Park Rangers F.C.|Queens Park Rangers]].<ref name=2003FFC/>
+
+The club produces an official match programme for home matches, entitled ''Our Town''.<ref>{{cite web |title=Get your copy of 'Our Town' this afternoon! |url=https://www.lutontown.co.uk/news/2019/october/our-town-programme-bristol-city/ |publisher=Luton Town F.C. |date=19 October 2019 |access-date=27 September 2020}}</ref> A character known as Happy Harry, a smiling man wearing a straw boater, serves as the team's mascot and appears on the Kenilworth Road pitch before matches.<ref>{{cite web |title=Harry Hatter is kidnapped |url=http://www.lutontown.co.uk/page/NewsDetail/0,,10372~1278911,00.html |publisher=Luton Town F.C. |date=1 April 2008 |archive-url=https://web.archive.org/web/20120319092227/http://www.lutontown.co.uk/page/NewsDetail/0%2C%2C10372~1278911%2C00.html |archive-date=19 March 2012 |url-status=dead}}</ref> In December 2014, after the seafront [[statue of Eric Morecambe]] in his birthplace [[Morecambe]] was restored, Luton and [[Morecambe F.C.]] jointly announced that the winners of future Luton–Morecambe fixtures would be awarded the "Eric Morecambe Trophy".<ref>{{cite web |title=The Eric Morecambe Trophy |url=http://www.morecambefc.com/news/article/eric-morecambe-trophy-2106748.aspx |publisher=Morecambe F.C. |date=27 November 2014 |access-date=11 December 2014}}</ref>
+
+==Records and statistics==
+{{main article|List of Luton Town F.C. records and statistics|Luton Town F.C. league record by opponent|List of Luton Town F.C. seasons}}
+
+[[File:Luton Town FC League Performance.svg|thumb|upright=2.0|Luton Town's yearly performance from the club's election into the Football League to the present.]]
+
+The record for the most appearances for Luton is held by [[Bob Morton (footballer, born 1927)|Bob Morton]], who turned out for Luton 562 times in all competitions.<ref name="Bob Morton">{{cite book |first1=Brian |last1=Ellis |first2=Alan |last2=Shury |first3=Steve |last3=Bailey |title=The Definitive Luton Town F.C. |year=1997 |publisher=Soccerdata |location=Nottingham |isbn=978-1-899468-10-2 |pages=6, 97}}</ref> Morton also holds the record for the most Football League appearances for the club, with 495.<ref name="Bob Morton"/> [[Fred Hawkes]] holds the record for the most league appearances for Luton, having played in 509 league matches.<ref>{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1 |pages=196–197}}</ref> Six players, [[Gordon Turner]], [[Andy Rennie (Scottish footballer)|Andy Rennie]], [[Brian Stein]], [[Ernie Simms]], [[Herbert Moody]] and [[Steve Howard]], have scored more than 100 goals for Luton.<ref>{{cite book |first1=Brian |last1=Ellis |first2=Alan |last2=Shury |first3=Steve |last3=Bailey |title=The Definitive Luton Town F.C. |year=1997 |publisher=Soccerdata |location=Nottingham |isbn=978-1-899468-10-2 |pages=6, 90–91, 97, 99–100}}</ref><ref>{{cite book |first=Dean P. |last=Hayes |title=Completely Top Hatters! |year=2002 |publisher=Book Castle Publishing |location=Dunstable |isbn=978-1-903747-27-8 |page=111}}</ref><ref>{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1 |pages=205, 312–313, 315–317}}</ref><ref>{{cite web |title=Steve Howard |url=http://www.soccerbase.com/players/player.sd?player_id=3653 |work=Soccerbase |publisher=Centurycomm |access-date=15 December 2016}}</ref>
+
+The first player to be [[Cap (sport)|capped]] while playing for Luton was left winger [[Robert Hawkes]], who took to the field for [[England national football team|England]] against [[Ireland national football team (1882–1950)|Ireland]] at [[Goodison Park]] on 16 February 1907.<ref name="England 1–0 Ireland"/> The most capped player is [[Mal Donaghy]], who earned 58 [[Northern Ireland national football team|Northern Ireland]] caps while at the club.<ref name="Luton Town all time records">{{cite web |title=Luton Town all time records |url=http://www.soccerbase.com/teams/team.sd?team_id=1628&teamTabs=records |work=Soccerbase |publisher=Centurycomm |access-date=15 December 2016}}</ref> The first player to score in an international match was [[Joe Payne (footballer, born 1914)|Joe Payne]], who scored twice in his only game for England against [[Finland national football team|Finland]] on 20 May 1937.<ref>{{cite web |title=Finland 0–8 England |url=http://www.englandstats.com/matchreport.php?mid=211 |publisher=England Stats |access-date=15 December 2016}}</ref> Payne also holds the Football League record for the most goals in a game—he hit 10 past [[Bristol Rovers F.C.|Bristol Rovers]] on 13 April 1936.<ref name=10goalsinagame/>
+
+The club's largest wins have been a 15–0 victory over [[Great Yarmouth Town F.C.|Great Yarmouth Town]] on 21 November 1914 in the [[FA Cup]]<ref>{{cite book |first1=Brian |last1=Ellis |first2=Alan |last2=Shury |first3=Steve |last3=Bailey |title=The Definitive Luton Town F.C. |year=1997 |publisher=Soccerdata |location=Nottingham |isbn=978-1-899468-10-2 |page=91}}</ref> and a 12–0 win over [[Bristol Rovers F.C.|Bristol Rovers]] in the [[Football League Third Division South|Third Division South]] on 13 April 1936.<ref name="Luton Town all time records"/> Luton's heaviest loss was a 9–0 defeat against [[Birmingham City F.C.|Small Heath]] in the [[Football League Second Division|Second Division]] on 12 November 1898.<ref name="Luton Town all time records"/>
+
+Luton's highest home attendances are 30,069 against [[Blackpool F.C.|Blackpool]] in the FA Cup on 4 March 1959<ref name="Luton Town all time records"/><ref>{{cite book |first1=Brian |last1=Ellis |first2=Alan |last2=Shury |first3=Steve |last3=Bailey |title=The Definitive Luton Town F.C. |year=1997 |publisher=Soccerdata |location=Nottingham |isbn=978-1-899468-10-2 |page=46}}</ref> and 27,911 against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] in the [[Football League First Division|First Division]] on 5 November 1955.<ref>{{cite book |first1=Brian |last1=Ellis |first2=Alan |last2=Shury |first3=Steve |last3=Bailey |title=The Definitive Luton Town F.C. |year=1997 |publisher=Soccerdata |location=Nottingham |isbn=978-1-899468-10-2 |page=43}}</ref>
+
+The highest transfer fee received for a Luton Town player is the fee [[Leicester City F.C.|Leicester City]] paid for Luton-born full-back [[James Justin]] on 28 June 2019.<ref>{{cite news |title=James Justin - Leicester’s Brendan Rodgers makes Luton full-back his first signing |url=https://www.bbc.co.uk/sport/football/48806418 |work=BBC Sport |date=28 June 2019 |access-date=3 August 2019}}</ref> The most expensive player Luton Town have ever bought was Croatian goalkeeper [[Simon Sluga]], who cost €1.5m from [[HNK Rijeka]] on 19 July 2019.<ref>{{cite news |title=Simon Sluga: Luton Town sign HNK Rijeka keeper for club-record fee |url=https://www.bbc.co.uk/sport/football/49043357 |work=BBC Sport |date=19 July 2019 |access-date=3 August 2019}}</ref>
+
+The youngest player to make a [[first team (association football)#F|first-team]] appearance for Luton Town is [[Connor Tomlinson]] at 15 years and 199 days old in the [[EFL Trophy]], replacing [[Zane Banton]] as a 92nd-minute [[Substitute (association football)|substitute]] in a 2–1 win over [[Gillingham F.C.|Gillingham]] on 30 August 2016, after the club were given permission for him to play from his headteacher.<ref>{{cite news |first=Jamie |last=May |title=Hatters youngsters take their chance as Gillingham are beaten in Checkatrade Trophy |url=http://www.lutontoday.co.uk/sport/football/local/hatters-youngsters-take-their-chance-as-gillingham-are-beaten-in-checkatrade-trophy-1-7551554 |newspaper=Luton Today |date=30 August 2016 |access-date=15 December 2016}}</ref>
+
+==Players==
+{{updated|24 September 2021}}<ref>{{cite web |url=https://www.lutontown.co.uk/teams/first-team/ |title=First team players & staff 2021/22 |publisher=Luton Town F.C. |access-date=2 October 2021}}</ref>
+
+===Current squad===
+{{fs start}}
+{{fs player |no=1  |nat=ENG |pos=GK |name=[[James Shea]]}}
+{{fs player |no=2  |nat=ENG |pos=DF |name=[[James Bree (footballer)|James Bree]]}}
+{{fs player |no=3  |nat=ENG |pos=DF |name=[[Dan Potts (footballer)|Dan Potts]]}}
+{{fs player |no=4  |nat=SCO |pos=MF |name=[[Kal Naismith]]}}
+{{fs player |no=5  |nat=ENG |pos=DF |name=[[Sonny Bradley]] |other=[[Captain (association football)|captain]]}}<ref>{{cite news |url=https://www.lutontoday.co.uk/sport/football/luton-town/luton-boss-insists-recruitment-was-spot-town-skipper-bradley-approaches-milestone-3012756 |title=Luton boss insists recruitment was spot on as Town skipper Bradley approaches milestone |first=Mike |last=Simmonds |website=Luton Today |publisher=JPIMedia Publishing |date=23 October 2020 |access-date=3 December 2020}}</ref>
+{{fs player |no=6  |nat=IRL |pos=MF |name=[[Glen Rea]]}}
+{{fs player |no=7  |nat=ENG |pos=FW |name=[[Harry Cornick]]}}
+{{fs player |no=8  |nat=ENG |pos=MF |name=[[Luke Berry]]}}
+{{fs player |no=9  |nat=ENG |pos=FW |name=[[Danny Hylton]]}}
+{{fs player |no=11 |nat=ENG |pos=FW |name=[[Elijah Adebayo]]}}
+{{fs player |no=12 |nat=CRO |pos=GK |name=[[Simon Sluga]]}}
+{{fs player |no=14 |nat=ESP |pos=FW |name=[[Carlos Mendes Gomes]]}}
+{{fs player |no=15 |nat=WAL |pos=DF |name=[[Tom Lockyer]]}}
+{{fs mid}}
+{{fs player |no=16 |nat=ENG |pos=DF |name=[[Reece Burke]]}}
+{{fs player |no=17 |nat=DRC |pos=MF |name=[[Pelly Ruddock Mpanzu]]}}
+{{fs player |no=18 |nat=ENG |pos=MF |name=[[Jordan Clark (English footballer)|Jordan Clark]]}}
+{{fs player |no=19 |nat=ENG |pos=MF |name=[[Dion Pereira]]}}
+{{fs player |no=21 |nat=ENG |pos=GK |name=[[Harry Isted]]}}
+{{fs player |no=22 |nat=SCO |pos=MF |name=[[Allan Campbell (footballer)|Allan Campbell]]}}
+{{fs player |no=23 |nat=ENG |pos=MF |name=[[Henri Lansbury]]}}
+{{fs player |no=24 |nat=NGA |pos=MF |name=[[Fred Onyedinma]]}}
+{{fs player |no=26 |nat=ZIM |pos=FW |name=[[Admiral Muskwe]]}}
+{{fs player |no=28 |nat=WAL |pos=MF |name=Elliot Thorpe}}
+{{fs player |no=29 |nat=JAM |pos=DF |name=[[Amari'i Bell]]}}
+{{fs player |no=32 |nat=ENG |pos=DF |name=[[Gabriel Osho]]}}
+{{fs player |no=35 |nat=ENG |pos=FW |name=[[Cameron Jerome]]}}
+{{fs end}}
+
+The club operates a Development Squad, made up of contracted senior players, youth team scholars and trialists, which plays in the Southern Division of [[The Central League]].<ref>{{cite news |first=Mike |last=Simmonds |title=Hatters to take part in Development League |url=http://www.lutontoday.co.uk/sport/football/luton-town/hatters-to-take-part-in-development-league-1-6113406 |newspaper=Luton Today |date=11 June 2014 |access-date=15 December 2016}}</ref> The club also fields an under-18 team in the [[Football League Youth Alliance]] South East Conference.<ref>{{cite web |title=Luton Town F.C. Under 18s |url=http://www.lutontown.co.uk/team/under_18s/ |publisher=Luton Town F.C. |access-date=15 December 2016}}</ref> Luton's youth set-up consists of ten Soccer Centres across [[Bedfordshire]] and [[Hertfordshire|North Hertfordshire]], two Centres of Excellence (one in [[Luton]], one in [[Dunstable]]), and an Academy in [[Baldock]] that caters for players in the under-9 to under-16 age groups.<ref>{{cite web |title=Luton Town Youth Development |url=http://www.ltyd.co.uk/ |publisher=Luton Town F.C. Youth Development |access-date=27 December 2013 |url-status=dead |archive-url=https://web.archive.org/web/20140105172356/http://www.ltyd.co.uk/ |archive-date=5 January 2014}}</ref>
+
+===Out on loan===
+{{fs start}}
+{{fs player |no=10 |nat=ENG |pos=FW |name=[[Elliot Lee]] |other=on loan at [[Charlton Athletic F.C.|Charlton Athletic]] for the 2021–22 season}}<ref>{{cite web |url=https://www.lutontown.co.uk/news/2021/august/lee-loan/ |title=Elliot Lee moves to Charlton on loan |publisher=Luton Town F.C. |date=26 August 2021 |access-date=26 August 2021}}</ref>
+{{fs player |no=20 |nat=IRL |pos=DF |name=[[Peter Kioso]] |other=on loan at [[Milton Keynes Dons F.C.|Milton Keynes Dons]] for the 2021–22 season}}<ref>{{cite web |url=https://www.lutontown.co.uk/news/2021/august/kioso/ |title=Peter Kioso heads out on loan |publisher=Luton Town F.C. |date=31 August 2021 |access-date=31 August 2021}}</ref>
+{{fs end}}
+
+===Notable former players===
+{{Main article|List of Luton Town F.C. players}}
+
+==Backroom staff==
+{{multiple image
+| align       = right
+| total_width = 350
+| image1      = Mick_Harford.png
+| alt1        = Mick Harford
+| caption1    = [[Mick Harford]], Luton's assistant manager, seen in 2009.
+
+| image2      = Nick Owen at Kenilworth Road, 21 April 2014.jpg
+| alt2        = A middle-aged grey-haired man in a dark business suit smiles and talks to people out of frame
+| caption2    = [[Nick Owen]], former Luton chairman and current vice president, talking to fans before a home game in 2014.
+}}
+:''As of 24 October 2021.''<ref>{{cite web |title=Who's who at Luton Town FC |url=https://www.lutontown.co.uk/club/whos-who-at-luton-town/ |publisher=Luton Town F.C. |access-date=24 October 2021}}</ref>
+
+===Shareholders===
+* Kailesh Karavadra
+* Luton Town Supporters' Trust
+
+===Directors===
+* Chairman: David Wilkinson
+* Chief executive officer: Gary Sweet
+* Directors: Paul Ballantyne, Stephen Browne, Bob Curson, Mike Herrick, Rob Stringer
+
+===Management===
+* Manager: [[Nathan Jones (Welsh footballer)|Nathan Jones]]
+* Assistant manager: [[Mick Harford]]
+* First team coaches: [[Paul Hart]], [[Chris Cohen]]
+* Head of goalkeeping: [[Kevin Dearden]]
+* Goalkeeper coach: [[Kevin Pilkington]]
+* Head of sports science: Jared Roberts-Smith
+* Head of performance development: James Redden
+* Head of scouting operations: [[Phil Chapple]]
+* Head of recruitment analysis: Jay Socik
+* Strength and conditioning coach: Elliott Plant
+* Performance analyst: Peter Booker
+* Head of medical: Simon Parsell
+* Physiotherapist: Chris Phillips
+* Therapist and kitman: Darren Cook
+* Academy and development manager: [[Andy Awford]]
+
+==Managers==
+{{main article|List of Luton Town F.C. managers}}
+
+[[File:Joe Kinnear Hull City v. Newcastle United 1.png|thumb|upright|[[Joe Kinnear]], seen in 2009, was Luton manager from 2001 to 2003.|alt=A grey-haired man in a black suit walks out of a building.]]
+
+[[File:Money, Richard.jpg|thumb|upright|[[Richard Money]] ''(2007 photograph)'', a player for Luton during the [[1982–83 Football League|1982–83 season]], managed the club from 2009 to 2011.|alt=A middle-aged, balding man in a dark suit looks at the camera with a neutral expression on his face.]]
+
+:''As of 9 January 2019. Only managers in charge for a minimum of 50 competitive matches are counted.''<ref>{{cite web |title=Luton Manager history |url=http://www.soccerbase.com/teams/team.sd?team_id=1628&teamTabs=managers |work=Soccerbase |publisher=Centurycomm |access-date=17 December 2016}}</ref><ref>{{cite book |first1=Brian |last1=Ellis |first2=Alan |last2=Shury |first3=Steve |last3=Bailey |title=The Definitive Luton Town F.C. |year=1997 |publisher=Soccerdata |location=Nottingham |isbn=978-1-899468-10-2 |pages=19–101}}</ref><ref>{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1 |pages=244–245}}</ref>
+:''Key: M = matches; W = matches won; D = matches drawn; L = matches lost''
+
+{| class="wikitable sortable plainrowheaders" style="text-align: center"
+|-
+!scope=col|Name
+!scope=col|Nation
+!scope=col|From
+!scope=col class="unsortable"|To
+!scope=col|M
+!scope=col|W
+!scope=col|D
+!scope=col|L
+!scope=col|Win %
+|-
+!align=left scope=row|{{sortname|John|McCartney|John McCartney (footballer, born 1866)}}
+|align=left|{{flag|Scotland}}
+|align=left|{{dts|format=dmy|1927|September|14}}
+|align=left|{{dts|format=dmy|1929|December|21}}
+{{WDL|151|57|38|56|decimals=1}}
+|-
+!align=left scope=row|{{sortname|George|Kay}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|1929|December|23}}
+|align=left|{{dts|format=dmy|1931|May|13}}
+{{WDL|71|29|16|26|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Harold|Wightman}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|1931|June|1}}
+|align=left|{{dts|format=dmy|1935|October|9}}
+{{WDL|198|85|49|64|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Ned|Liddell}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|1936|August|13}}
+|align=left|{{dts|format=dmy|1938|February|26}}
+{{WDL|79|42|11|26|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Dally|Duncan}}
+|align=left|{{flag|Scotland}}
+|align=left|{{dts|format=dmy|1947|June|13}}
+|align=left|{{dts|format=dmy|1958|October|16}}
+{{WDL|503|192|133|178|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Sam|Bartram}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|1960|July|18}}
+|align=left|{{dts|format=dmy|1962|June|14}}
+{{WDL|95|35|18|42|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Bill|Harvey|Bill Harvey (footballer, born 1920)}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|1962|July|24}}
+|align=left|{{dts|format=dmy|1964|November|21}}
+{{WDL|121|37|26|58|decimals=1}}
+|-
+!align=left scope=row|{{sortname|George|Martin|George Martin (Scottish footballer)}}
+|align=left|{{flag|Scotland}}
+|align=left|{{dts|format=dmy|1965|February|16}}
+|align=left|{{dts|format=dmy|1966|November|3}}
+{{WDL|82|34|16|32|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Allan|Brown|Allan Brown (footballer, born 1926)}}
+|align=left|{{flag|Scotland}}
+|align=left|{{dts|format=dmy|1966|November|4}}
+|align=left|{{dts|format=dmy|1968|December|17}}
+{{WDL|111|56|24|31|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Alec|Stock}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|1968|December|20}}
+|align=left|{{dts|format=dmy|1972|April|27}}
+{{WDL|172|71|56|45|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Harry|Haslam|Harry Haslam (footballer, born 1921)}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|1972|May|4}}
+|align=left|{{dts|format=dmy|1978|January|23}}
+{{WDL|275|110|69|96|decimals=1}}
+|-
+!align=left scope=row|{{sortname|David|Pleat}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|1978|January|24|}}
+|align=left|{{dts|format=dmy|1986|May|16}}
+{{WDL|393|158|108|127|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Ray|Harford}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|1987|June|16|}}
+|align=left|{{dts|format=dmy|1990|January|3}}
+{{WDL|133|51|34|48|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Jim|Ryan|Jimmy Ryan (footballer, born 1945)}}
+|align=left|{{flag|Scotland}}
+|align=left|{{dts|format=dmy|1990|January|11}}
+|align=left|{{dts|format=dmy|1991|May|13}}
+{{WDL|63|18|16|29|decimals=1}}
+|-
+!align=left scope=row|{{sortname|David|Pleat}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|1991|June|7}}
+|align=left|{{dts|format=dmy|1995|June|11}}
+{{WDL|207|55|70|82|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Lennie|Lawrence}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|1995|December|21}}
+|align=left|{{dts|format=dmy|2000|July|4}}
+{{WDL|250|90|66|94|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Joe|Kinnear}}
+|align=left|{{flag|Ireland}}
+|align=left|{{dts|format=dmy|2001|February|8}}
+|align=left|{{dts|format=dmy|2003|May|23}}
+{{WDL|122|56|28|38|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Mike|Newell|Mike Newell (footballer)}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|2003|June|23}}
+|align=left|{{dts|format=dmy|2007|March|15}}
+{{WDL|200|83|49|68|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Mick|Harford}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|2008|January|16}}
+|align=left|{{dts|format=dmy|2009|October|1}}
+{{WDL|91|25|29|37|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Richard|Money}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|2009|October|30}}
+|align=left|{{dts|format=dmy|2011|March|28}}
+{{WDL|83|45|21|17|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Gary|Brabin}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|2011|March|28}}
+|align=left|{{dts|format=dmy|2012|March|31}}
+{{WDL|62|29|22|11|decimals=1}}
+|-
+!align=left scope=row|{{sortname|John|Still|John Still (footballer)}}
+|align=left|{{flag|England}}
+|align=left|{{dts|format=dmy|2013|February|26}}
+|align=left|{{dts|format=dmy|2015|December|17}}
+{{WDL|148|69|38|41|decimals=1}}
+|-
+!align=left scope=row|{{sortname|Nathan|Jones|Nathan Jones (Welsh footballer)}}
+|align=left|{{flag|Wales}}
+|align=left|{{dts|format=dmy|2016|January|6}}
+|align=left|{{dts|format=dmy|2019|January|9}}
+{{WDL|170|87|46|37|decimals=1}}
+|}
+
+==Honours==
+:''Luton Town's major honours are detailed below; [[non-League football|non-League]] achievements are omitted. For a list of '''all''' club honours, including those won outside the Football League, see [[List of Luton Town F.C. records and statistics#Honours and achievements|List of Luton Town F.C. records and statistics : Honours and achievements]]''.<ref name=FCHD/>
+{| class="wikitable sortable plainrowheaders"
+!scope=col|Honour
+!scope=col|Years as winners
+!scope=col|Years as runners-up
+|-
+!scope=row|{{sort|cup1|[[FA Cup]]}}
+|{{center|–}}
+|[[1958–59 FA Cup|1958–59]]
+|-
+!scope=row|{{sort|cup2|[[Football League Cup]]}}
+|[[1988 Football League Cup Final|1987–88]]
+|[[1989 Football League Cup Final|1988–89]]
+|-
+!scope=row|{{sort|league2|[[List of teams promoted from the English Football League Championship and predecessors|Football League Second Division]]}}
+|[[1981–82 Football League|1981–82]]
+|[[1954–55 Football League|1954–55]], [[1973–74 Football League|1973–74]]
+|-
+!scope=row|{{sort|league3|[[List of winners of English Football League One and predecessors|Football League Third Division / Football League One / EFL League One]]{{ref label|CocaColaLeague|D|}}}}
+|[[1936–37 Football League|1936–37]] ([[Football League Third Division South|South]]), [[2004–05 Football League|2004–05]], [[2018–19 English Football League|2018–19]]
+|[[1935–36 Football League|1935–36]] (South), [[1969–70 Football League|1969–70]]
+|-
+!scope=row|{{sort|league4|[[List of teams promoted from English Football League Two and its predecessors|Football League Fourth Division / Football League Third Division / EFL League Two]]{{ref label|CocaColaLeague|D|}}{{ref label|PremierLeague|E|}}}}
+|[[1967–68 Football League|1967–68]]
+|[[2001–02 Football League|2001–02]], [[2017–18 English Football League|2017–18]]
+|-
+!scope=row|{{sort|trophy1|[[Full Members' Cup]]}}
+|{{center|–}}
+|[[1988 Full Members' Cup Final|1987–88]]
+|-
+!scope=row|{{sort|trophy2|[[Football League Trophy]]}}
+|[[2008–09 Football League Trophy|2008–09]]
+|{{center|–}}
+|}
+
+==Footnotes==
+{{refbegin}}
+:A.&nbsp;{{note|SouthernClubs}} The only other club from the south of England in the Football League at the time was [[Arsenal F.C.|Woolwich Arsenal]].
+:B.&nbsp;{{note|Attendance1}} Calculated by adding together all the home league attendances for the [[2014–15 Luton Town F.C. season|2014–15 season]] to calculate the total attendance (200,157) and then dividing by the number of home league matches (23) to reach an average of 8,702. Attendances taken from BBC report for match that day and Soccerbase statistics.<ref>{{cite web |title=Luton Town Results/Matches 2014–15 |url=http://www.soccerbase.com/teams/team.sd?team_id=1628&teamTabs=results&season_id=144 |work=Soccerbase |publisher=Centurycomm |access-date=15 December 2016}}</ref>
+:C.&nbsp;{{note|Attendance2}} Calculated by adding together all the home league attendances for the [[2013–14 Luton Town F.C. season|2013–14 season]] to calculate the total attendance (169,906) and then dividing by the number of home league matches (23) to reach an average of 7,387. Attendances taken from BBC report for match that day and Soccerbase statistics.<ref>{{cite web |title=Luton Town Results/Matches 2013–14 |url=http://www.soccerbase.com/teams/team.sd?team_id=1628&teamTabs=results&season_id=143 |work=Soccerbase |publisher=Centurycomm |access-date=15 December 2016}}</ref>
+:D.&nbsp;{{note|CocaColaLeague}} Before the start of the [[2004–05 Luton Town F.C. season|2004–05 season]], [[English Football League|Football League]] re-branding saw the [[Football League First Division|First Division]] become the [[Football League Championship]]. The [[Football League Second Division|Second]] and [[Football League Third Division|Third Divisions]] became [[Football League One|Leagues One]] and [[Football League Two|Two]], respectively.
+:E.&nbsp;{{note|PremierLeague}} On its formation for the [[1992–93 in English football|1992–93 season]], the [[Premier League|FA Premier League]] became the top tier of [[Football in England|English football]]; the [[Football League First Division|First]], [[Football League Second Division|Second]] and [[Football League Third Division|Third Divisions]] then became the second, third and fourth tiers, respectively.
+{{refend}}
+
+==References==
+{{reflist}}
+
+===Bibliography===
+{{refbegin}}
+*{{cite book |first1=Brian |last1=Ellis |first2=Alan |last2=Shury |first3=Steve |last3=Bailey |title=The Definitive Luton Town F.C. |year=1997 |publisher=Soccerdata |location=Nottingham |isbn=978-1-899468-10-2}}
+*{{cite book |first=Timothy |last=Collings |title=The Luton Town Story 1885–1985 |year=1985 |publisher=Luton Town F.C. |location=Luton |isbn=978-0-9510679-0-1}}
+*{{cite book |first=Dean P. |last=Hayes |title=Completely Top Hatters! |year=2002 |publisher=Book Castle Publishing |location=Dunstable |isbn=978-1-903747-27-8}}
+{{refend}}
+
+==External links==
+{{Commons category}}
+{{Spoken Wikipedia|Luton Town FC.ogg|date=2009-11-07}}
+*{{Official website}}
+*{{BBC Football Info|BBClinkname=luton-town}}
+*[https://www.lutontoday.co.uk/sport/football/luton-town Luton Today's Luton Town News Page]
+
+{{Luton Town F.C.}}
+{{EFL Championship}}
+{{EFL League One}}
+{{Luton}}
+{{authority control}}
+
+[[Category:Luton Town F.C.| ]]
+[[Category:Football clubs in England]]
+[[Category:Association football clubs established in 1885]]
+[[Category:Football clubs in Bedfordshire]]
+[[Category:Football clubs in Luton]]
+[[Category:English Football League clubs]]
+[[Category:EFL Cup winners]]
+[[Category:EFL Trophy winners]]
+[[Category:Southern Football League clubs]]
+[[Category:1885 establishments in England]]
+[[Category:National League (English football)]]

@@ -1,0 +1,61 @@
+{{For|oil of vitriol|Sulfuric acid}}
+
+'''Vitriol''' is the general [[chemistry|chemical]] name encompassing a class of [[chemical compound]] comprising [[sulfate]]s of certain metals{{snd}}originally, [[iron]] or [[copper]].  Those mineral substances were distinguished by their color, such as '''green vitriol''' for hydrated [[iron(II) sulfate]] and '''blue vitriol''' for hydrated [[copper(II) sulfate]].<ref name=ebrit.vitriol>"[https://www.britannica.com/science/vitriol Vitriol]" entry in the online Encyclopaedia Britannica. Accessed on 2020-08-28.</ref>
+
+These materials were originally found as crystals formed by evaporation of groundwater that percolated through [[sulfide]] minerals and collected in pools on the floor of old [[Mining|mine]]s. The word ''vitriol'' comes from the Latin word ''vitriolus'', meaning "small glass", as those crystals resembled pieces of colored glass. Also, from the alchemical motto V.I.T.R.I.O.L.:  Visita Interiora Terrae Rectificando Invenies Occultum Lapidem ("Visit the interior of the Earth; by rectification thou shalt find the hidden stone").
+
+'''Oil of vitriol''' was an old name for concentrated [[sulfuric acid]], which was historically obtained through the dry distillation ([[pyrolysis]]) of vitriols.  The name, shortened to '''vitriol''', continued to be used for this viscous liquid long after the minerals came to be called "sulfates".  The term ''vitriolic'' in the sense of "harshly condemnatory" is derived from the corrosive nature of this substance.
+
+{|class="wikitable sortable"
+!data-sort-type="text"|Vitriol!!data-sort-type="text"|Chemical!! scope="col" class="unsortable" data-sort-type="text"|Comment!!data-sort-type="text"|Formula
+!Image
+|-
+| Black vitriol ||  &nbsp;  ||  a mixture{{ref label|Comment|A|A}} ||[Cu,Mg,Fe,Mn,Co,Ni]SO<sub>4</sub>·7H<sub>2</sub>O{{ref label|Bloxam|B|B}}
+|
+|-
+| Blue vitriol/Vitriol of Cyprus/Roman vitriol<ref>[https://www.chembk.com/en/chem/roman%20vitriol Roman vitriol on Chembk CAS Database]</ref> ||[[copper(II) sulfate]] ||  pentahydrate  || CuSO<sub>4</sub>·5H<sub>2</sub>O
+|	[[File:Blue vitriol monocrystal.jpg|250px]]
+|-
+| Green vitriol/Copperas ||[[iron(II) sulfate]] ||  heptahydrate ||  FeSO<sub>4</sub>·7H<sub>2</sub>O
+|[[File:Iron(II)-sulfate-heptahydrate-sample.jpg|250px]]
+|-
+| Oil of vitriol/Spirit of vitriol ||  [[sulfuric acid]] || [[acid]] || H<sub>2</sub>SO<sub>4</sub>
+|[[File:Sulphuric acid 96 percent extra pure.jpg|250px]]
+|-
+| Red vitriol ||  [[cobalt(II) sulfate]] ||  heptahydrate  || CoSO<sub>4</sub>·7H<sub>2</sub>O
+|[[File:Cobaltsulfat.JPG|250px]]
+|-
+| Sweet oil of vitriol ||  [[diethyl ether]] || not a sulfate, but can be synthesized from sulfuric acid and ethanol<ref>{{Cite web|url=https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii/alcohols-and-ethers/synthesis-of-ethers|title=Synthesis of Ethers}}</ref>|| CH<sub>3</sub>-CH<sub>2</sub>-O-CH<sub>2</sub>-CH<sub>3</sub>
+|
+|-
+| Vitriol of argile/Vitriol of clay ||[[aluminium sulfate]] ||  alum|| Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>
+|[[File: Aluminium sulfate.jpg|250px]]
+|-
+| Vitriol of Mars ||  [[iron(III) sulfate]] || [[Ferric sulfate]] || Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> 
+|[[File: Síran železitý.JPG|250px]]
+|-
+| White vitriol ||  [[zinc sulfate]] ||  heptahydrate|| ZnSO<sub>4</sub>·7H<sub>2</sub>O
+|[[File:Zinc_Sulfate.jpg|250px]]
+|}
+{|
+|-
+|{{note label|Comment|A|A}} Many websites state "black vitriol is a mixture of iron sulfate and iron sulfite", but none gives a reference of any sort. The book, ''Chemistry, Inorganic & Organic, with Experiments'', by Bloxam<ref name="bloxam"/> is a published, reliable reference for the composition of ''black vitriol'', and it states on page 513, "The formula of black vitriol may be written [CuMgFeMnCoNi]SO<sub>4</sub>·7H<sub>2</sub>O, the six isomorphous metals being interchangeable without altering the general character of the salt."
+|-
+|{{note label|Bloxam|B|B}} "Any combination of these elements may be found in black vitriol."<ref name="bloxam">{{cite book|last1=Bloxam|first1=Charles Loudon|last2=Bloxam|first2=Arthur G.|last3=Lewis|first3=S. Judd|title=Chemistry, Inorganic & Organic, with Experiments|url=https://archive.org/details/cu31924002966764|date=1913|publisher=P. Blakiston's Son & Co|location=Philadelphia|page=[https://archive.org/details/cu31924002966764/page/n528 513]|edition=Tenth|language=English|chapter=Copper, Cu = 63.57|quote=The formula of black vitriol may be written [CuMgFeMnCoNi]SO<sub>4</sub>·7H<sub>2</sub>O, the six isomorphous metals being interchangeable without altering the general character of the salt.}}</ref>
+|} <!-- ''vitriol of lead'', [[Lead(II) sulfate|plumbous (lead(II)) sulfate.]]-->
+
+==History ==
+The study of vitriol began in [[classical antiquity|ancient times]]. [[Sumer]]ians had a list of types of vitriol that they classified according to the substances' color. Some of the earliest discussions on the origin and properties of vitriol is in the works of the Greek physician [[Dioscorides]] (first century AD) and the Roman naturalist [[Pliny the Elder]] (23–79 AD). [[Galen]] also discussed its medical use. Metallurgical uses for vitriolic substances were recorded in the Hellenistic alchemical works of [[Zosimos of Panopolis]], in the treatise ''Phisica et Mystica'', and the [[Leyden papyrus X]].<ref>{{Cite journal|last1=Karpenko|first1=Vladimír|last2=Norris|first2=John A.|year=2002|title=Vitriol in the History of Chemistry|journal=Chemické listy|volume=96|issue=12|pages=997–1005|url=http://www.chemicke-listy.cz/ojs3/index.php/chemicke-listy/article/view/2266}}</ref>
+
+[[Alchemy and chemistry in medieval Islam|Medieval Islamic chemists]] like [[Jabir ibn Hayyan|Jābir ibn Ḥayyān]] (died c. 806–816 AD, known in Latin as Geber), [[Muhammad ibn Zakariya al-Razi|Abū Bakr al-Rāzī]] (865–925 AD, known in Latin as Rhazes), [[Ibn Sina]] (980–1037 AD, known in Latin as Avicenna) included vitriol in their mineral classification lists.<ref>{{harvnb|Karpenko|Norris|2002|pp=999–1000}}.</ref>
+
+Sulfuric acid was called "oil of vitriol" by medieval European alchemists because it was prepared by roasting "green vitriol" ([[iron(II) sulfate]]) in an iron [[retort]]. The first vague allusions to it appear in the works of [[Vincent of Beauvais]], in the ''Compositum de Compositis'' ascribed to Saint [[Albertus Magnus]], and in [[pseudo-Geber]]'s ''Summa perfectionis'' (all thirteenth century AD).<ref>{{harvnb|Karpenko|Norris|2002|pp=1002–1004}}.</ref>
+
+==References==
+{{wikt|vitriol}}
+{{Reflist}}
+
+{{Chemistry index}}
+{{Authority control}}
+
+[[Category:Sulfuric acid]]

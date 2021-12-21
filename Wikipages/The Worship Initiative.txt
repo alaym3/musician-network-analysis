@@ -1,0 +1,168 @@
+{{Infobox album
+| name       = The Worship Initiative
+| type       = studio
+| artist     = [[Shane & Shane]]
+| cover      = The Worship Initiative by Shane & Shane.jpg
+| alt        =
+| released   = {{Start date|2015|4|28}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[contemporary worship music|Contemporary worship]]
+| length     = {{Duration|m=54|s=16}}
+| label      = [[Fair Trade Services|Fair Trade]]
+| producer   =
+| prev_title = [[Bring Your Nothing]]
+| prev_year  = 2013
+| next_title = [[Psalms II (Shane & Shane album)|Psalms II]]
+| next_year  = 2015
+}}
+'''''The Worship Initiative''''' is the ninth studio album by [[Shane & Shane]], released on April 28, 2015 through [[Fair Trade Services]]. The album was funded via a [[Kickstarter]] project.
+
+==Critical reception==
+{{Album ratings
+| rev1 = 365 Days of Inspiring Media
+| rev1Score = {{Rating|4|5}}<ref name="365DoIM">{{cite web |first=Joshua |last=Andre |title=Shane & Shane – The Worship Initiative |url=http://www.365daysofinspiringmedia.com/reviews/shane-shane-the-worship-initiative/ |publisher=365 Days of Inspiring Media |accessdate=May 5, 2015 |date=May 1, 2012}}</ref>
+| rev2 = ''[[CCM Magazine]]''
+| rev2Score = {{Rating|3|5}}<ref name="CCM">{{cite web |first=Grace S. |last=Aspinwall |title=Shane and Shane: The Worship Initiative |url=http://ht.salemweb.net/ccm/mediavault/digital/ccmmagazine/2015/may15/ |magazine=[[CCM Magazine]] |accessdate=May 16, 2015 |date=May 15, 2015 }}</ref>
+| rev3 = Christian Music Review
+| rev3Score = 4.7/5<ref name="CMR">{{cite web |first=Kelly |last=Meade |title=Shane & Shane 'The Worship Initiative' |url=http://christianmusicreview.org/shane-shane-the-worship-initiative/ |publisher=Christian Music Review |accessdate=May 5, 2015 |date=April 27, 2015}}</ref>
+| rev4 = Jesus Freak Hideout
+| rev4Score = {{Rating|3.5|5}}<ref name="JFH">{{cite web |first=Christopher |last=Smith |title=Shane & Shane, "The Worship Initiative" Review |url=http://www.jesusfreakhideout.com/cdreviews/TheWorshipInitiative.asp |publisher=Jesus Freak Hideout |accessdate=April 29, 2015 |date=April 26, 2015}}</ref>
+| rev5 = New Release Tuesday
+| rev5Score = {{Rating|4.5|5}}<ref name="NRT">{{cite web |first=Kevin |last=Davis |title=Passion and Praise |url=http://www.newreleasetuesday.com/userprofile_reviewssinglepost.php?review_id=23035&user_id=140 |publisher=New Release Tuesday |accessdate=April 29, 2015 |date=April 22, 2012}}</ref>
+| rev6 = ''[[Worship Leader (magazine)|Worship Leader]]''
+| rev6Score = {{Rating|4|5}}<ref name="WL">{{cite web |first=Jeremy |last=Armstrong |title=Shane & Shane: ''The Worship Initiative'' |url=http://media.worshipleader.com/lib/2015may/html5/index.html?page=64 |magazine=[[Worship Leader (magazine)|Worship Leader]] |accessdate=August 11, 2015 |issue=May/June 2015 |p=64}}</ref>
+}}
+
+Grace S. Aspinwall, awarding the album three stars at ''[[CCM Magazine]]'', writes, "Delivering a set of worship favorites can be tricky, as some will revert to favoring the original writer/performer. Shane and Shane, in their own way, cover this chosen batch with ease."<ref name="CCM"/> In a three and a half star review by Jesus Freak Hideout, Christopher Smith describes, "If the intention of ''The Worship Initiative'' was to simplify these songs to make them easier for a worship team to reproduce, then the duo accomplished this without sacrificing too much creativity."<ref name="JFH"/> Kevin Davis, writing in a four and a half star review from New Release Tuesday, replies, "the songs get deeper into the recesses of your heart with the challenging messages."<ref name="NRT"/> In a 4.7 out of five rated review at Christian Music Review, Kelly Meade says, "From start to finish, this album is full of well written, reflective lyrics calling our hearts to worship."<ref name="CMR"/> Joshua Andre, awarding the album four stars for 365 Days of Inspiring Media, writes, "A thoroughly enjoyable worship album, Shane & Shane's ''The Worship Initiative'' is one to enjoy if you want to hear a worship album full of recognizable old and new favourites."<ref name="365DoIM"/> In a four star review from ''[[Worship Leader (magazine)|Worship Leader]]'', Jeremy Armstrong says, "plied with the Shane & Shane artistry full of soaring melodies, pristine guitar work, and emotive musicality, these songs are given new breath with this outstanding collection."<ref name="WL"/>
+
+==Track listing==
+{{Track listing
+| collapsed       =
+| headline        =
+| extra_column    =
+| total_length    = 54:16
+
+| all_writing     =
+| all_lyrics      =
+| all_music       =
+
+| title1          = God of Ages Past
+| note1           =
+| writer1         =
+| lyrics1         =
+| music1          =
+| extra1          =
+| length1         = 4:25
+
+| title2          = Seas of Crimson
+| note2           =
+| writer2         =
+| lyrics2         =
+| music2          =
+| extra2          =
+| length2         = 5:01
+
+| title3          = This I Believe
+| note3           =
+| writer3         = 
+| lyrics3         =
+| music3          =
+| extra3          =
+| length3         = 4:12
+
+| title4          = Scandal of Grace
+| note4           =
+| writer4         =
+| lyrics4         =
+| music4          =
+| extra4          =
+| length4         = 3:55
+
+| title5          = Forever
+| note5           =
+| writer5         =
+| lyrics5         =
+| music5          =
+| extra5          =
+| length5         = 4:43
+
+| title6          = Jesus Loves Me
+| note6           =
+| writer6         =
+| lyrics6         =
+| music6          =
+| extra6          =
+| length6         = 3:35
+
+| title7          = Christ Be All Around Me
+| note7           =
+| writer7         = 
+| lyrics7         =
+| music7          =
+| extra7          =
+| length7         = 5:33
+
+| title8          = [[You Make Me Brave]]
+| note8           = 
+| writer8         = 
+| lyrics8         =
+| music8          =
+| extra8          =
+| length8         = 5:13
+
+| title9          = Great Are You Lord
+| note9           =
+| writer9         =
+| lyrics9         =
+| music9          =
+| extra9          =
+| length9         = 3:57
+
+| title10         = Man of Sorrows
+| note10          =
+| writer10        =
+| lyrics10        =
+| music10         =
+| extra10         =
+| length10        = 5:11
+
+| title11         = So I Can Love
+| note11          = Radio Version
+| writer11        =
+| lyrics11        =
+| music11         =
+| extra11         =
+| length11        = 3:58
+
+| title12         = All the Poor and Powerless
+| note12          = Radio Version
+| writer12        =
+| lyrics12        =
+| music12         =
+| extra12         =
+| length12        = 4:12
+
+}}
+
+==Charts==
+{|class="wikitable"
+!Chart (2015)
+!Peak<br>position
+|-
+{{Album chart|BillboardChristian|14|artist=Shane & Shane|accessdate=May 8, 2015}}
+|}
+
+==References==
+{{reflist}}
+
+{{Shane & Shane}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Worship Initiative}}
+[[Category:2015 albums]]
+[[Category:Fair Trade Services albums]]
+[[Category:Shane & Shane albums]]
+[[Category:Kickstarter-funded albums]]

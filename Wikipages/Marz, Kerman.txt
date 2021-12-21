@@ -1,0 +1,47 @@
+{{redirect|Ramz|the English rapper|Ramz (rapper)}}{{Infobox settlement
+|official_name =Marz
+|native_name =مرز
+|settlement_type        = village
+|pushpin_map            =Iran
+|mapsize                =150px
+|subdivision_type       = [[List of countries|Country]]
+|subdivision_name = {{flag|Iran}}
+|subdivision_type1 =[[Provinces of Iran|Province]]
+|subdivision_name1 =[[Kerman Province|Kerman]]
+|subdivision_type2 =[[Counties of Iran|County]]
+|subdivision_name2 = [[Manujan County|Manujan]]
+|subdivision_type3 =[[Bakhsh]]
+|subdivision_name3 =[[Central District (Manujan County)|Central]]
+|subdivision_type4 =[[Rural Districts of Iran|Rural District]]
+|subdivision_name4 =[[Geshmiran Rural District|Geshmiran]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         = 2006
+|population_total =247
+|population_density_km2   =auto
+|timezone               = [[Iran Standard Time|IRST]]
+|utc_offset             = +3:30
+|timezone_DST           = [[Iran Daylight Time|IRDT]]
+|utc_offset_DST         = +4:30
+|coordinates            = {{coord|27|06|28|N|57|31|44|E|region:IR|display=inline,title}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+|footnotes              =
+}}
+'''Marz''' ({{lang-fa|مرز}}; also known as '''Ramz''')<ref>{{GEOnet3|-3746794|Marz}}</ref> is a village in [[Geshmiran Rural District]], in the [[Central District (Manujan County)|Central District]] of [[Manujan County]], [[Kerman Province]], [[Iran]]. At the 2006 census, its population was 247, in 50 families.<ref>{{IranCensus2006|08}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Manujan County}}
+
+{{Portal|Iran}}
+
+[[Category:Populated places in Manujan County]]
+
+{{Manujan-geo-stub}}

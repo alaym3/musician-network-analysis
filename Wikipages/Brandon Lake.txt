@@ -1,0 +1,75 @@
+{{About|the lake in Douglas County, Minnesota|the American contemporary worship musician|Brandon Lake (musician)}}
+{{Infobox body of water
+| name               = Brandon Lake
+| native_name        = 
+| native_name_lang   = 
+| other_name         = 
+| image              = 
+| alt                = 
+| caption            = 
+| image_bathymetry   = 
+| alt_bathymetry     = 
+| caption_bathymetry = 
+| location           = [[Douglas County, Minnesota]]
+| group              = 
+| coordinates        = {{coord|45|51|21|N|95|36|1|W|region:US-MN_type:waterbody|display=title,inline}} <!-- {{coord|DD|MM|SS|N|DD|MM|SS|W|region:ZZ_type:waterbody|display =inline,title}} -->
+| type               = [[lake]]
+| etymology          = 
+| part_of            = 
+| inflow             = 
+| rivers             = 
+| outflow            = 
+| oceans             = 
+| catchment          = 
+| basin_countries    = 
+| agency             = 
+| designation        = 
+| date-built         = <!-- {{Start date|YYYY|MM|DD}} For man-made and other recent bodies of water -->
+| engineer           = 
+| date-flooded       = <!-- {{Start date|YYYY|MM|DD}} For man-made and other recent bodies of water -->
+| length             = 
+| width              = 
+| area               = 
+| depth              = 
+| max-depth          = 
+| volume             = 
+| residence_time     = 
+| salinity           = 
+| shore              = 
+| elevation          = {{convert|1371|ft|m}}
+| temperature_high   = 
+| temperature_low    = 
+| frozen             = 
+| islands            = 
+| islands_category   = 
+| sections           = 
+| trenches           = 
+| benches            = 
+| cities             = 
+<!--      Map      -->
+| pushpin_map             = Minnesota
+| pushpin_label_position  = 
+| pushpin_map_alt         = Location of Brandon Lake in Minnesota
+| pushpin_map_caption     = 
+<!--   Below       -->  
+| website            = 
+| reference          = 
+}}
+'''Brandon Lake''' is a lake in [[Douglas County, Minnesota|Douglas County]], in the [[U.S. state]] of [[Minnesota]].<ref>{{GNIS|640437}}</ref>
+
+Brandon Lake was named for John Brandon, a farmer who settled there.<ref>{{cite book|last=Upham|first=Warren|title=Minnesota Geographic Names: Their Origin and Historic Significance|url=https://archive.org/details/minnesotageogra00uphagoog|year=1920|publisher=Minnesota Historical Society|page=[https://archive.org/details/minnesotageogra00uphagoog/page/n200 181]}}</ref>
+
+==See also==
+*[[List of lakes in Minnesota]]
+
+==References==
+{{Reflist}}
+
+
+{{authority control}}
+
+[[Category:Lakes of Minnesota]]
+[[Category:Lakes of Douglas County, Minnesota]]
+
+
+{{DouglasCountyMN-geo-stub}}

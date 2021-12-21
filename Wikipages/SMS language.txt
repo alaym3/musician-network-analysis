@@ -1,0 +1,519 @@
+{{Short description|Abbreviated slang used in text messaging}}
+{{pp-move-vandalism|small=yes}}
+{{Use dmy dates|date=March 2020}}
+{{Update|talk=This article is horrendously out of date|date=October 2021}}
+'''SMS language''', '''textspeak''', or '''texting language'''<ref>also known as '''txt-speak''', '''txtese''', '''chatspeak''', '''txt''', '''txtspk''', '''txtk''', '''txto''',  '''texting language''', '''txt lingo''', '''SMSish''', '''txtslang''', '''txt talk''', '''text shorthand'''</ref> is the abbreviated language and [[slang]] commonly used with mobile phone text messaging, or other [[Internet]]-based communication such as email and instant messaging.<ref>{{Cite book |last=Silberstein |first=Sandra |title=The Oxford Handbook of Language Policy and Planning |date=2018 |publisher=Oxford University Press |isbn=978-0-19-045889-8 |editor-last=Tollefson |editor-first=James W |location=New York |pages=318–332 |language=en |chapter=Maintaining "Good Guys" and "Bad Guys": Implicit Language Policies in Media Coverage of International Crises |doi=10.1093/oxfordhb/9780190458898.013.18 |editor-last2=Pérez-Milans |editor-first2=Miguel}}</ref>
+
+Features of early mobile phone messaging encouraged users to use abbreviations. [[2G|2G technology]] made text entry difficult, requiring multiple key presses on a small keypad to generate each letter, and messages were generally limited to 160 characters (or 1120 [[bit]]s). Additionally, SMS language made text messages quicker to compose, while also avoiding additional charges from mobile network providers for lengthy messages exceeding 160 characters.
+
+Once it became popular, it was often used outside of texting, such as formal emails or letters.
+
+==History==
+[[SMS]] language is similar to telegraphs' language where charges were by the word. It seeks to use the fewest letters to produce ultra-concise words and sentiments<ref name="Lily Huang">{{Cite web |last=Huang |first=Lily |date=2008-08-01 |title=Technology: Textese May Be the Death of English |url=http://www.newsweek.com/id/150449 |access-date=2011-12-20 |website=Newsweek |language=en}}</ref> in dealing with the space, time, and cost constraints of [[text messaging]]. It follows from how early SMS permitted only 160 characters and that carriers began charging a small fee for each message sent (and sometimes received). Together with the difficulty and inefficiency in creating messages, it led the desire for a more economical language for the new medium.<ref>{{Cite web |date=16 November 2010 |title=History of Short Message Service (SMS) |url=http://www.besttextmarketing.com/sms-marketing/history-of-short-message-service-sms/ |access-date=18 March 2012 |website=Reviews and Ratings of SMS Marketing Services |publisher=Best Text Marketing}}</ref>
+
+It shares some characteristics with internet and [[Telex]] speak following from how its evolution is rather symbiotic to the evolution of use of shorthand in [[chat room]]s. Likewise, such a change sought to accommodate the small number of characters allowed per message, and to increase convenience for the time-consuming and often small [[computer keyboard|keyboard]]s on mobile phones. Similar [[Ellipsis|elliptical]] styles of writing can be traced to the days of [[telegraphese]] 120 years back, when telegraph operators were reported to use abbreviations similar to modern text when chatting amongst themselves in between the sending of official messages.<ref>{{Cite web |last=Radnedge |first=Aidan |date=2011-08-16 |title=The stripped-down form of writing that goes with texting has been with us for more than 120 years, research has uncovered |url=https://www.metro.co.uk/news/872560-stripped-down-text-speak-is-over-120-years-old-research-reveals |archive-url=https://web.archive.org/web/20110820085844/https://www.metro.co.uk/news/872560-stripped-down-text-speak-is-over-120-years-old-research-reveals |archive-date=20 August 2011 |access-date=2011-12-20 |publisher=metro.co.uk}}</ref> Faramerz Dabhoiwala wrote in ''[[The Guardian]]'' in 2016: "modern usages that horrify [[linguistic purism|linguistic purists]] in fact have deep historical roots. 'OMG' was used by a septuagenarian naval hero, admiral of the fleet Lord Fisher, in 1917".<ref name="Guardian 2 April 2016">{{Cite news |last=Dabhoiwala |first=Faramerz |date=2 April 2016 |title=How English Became English by Simon Horobin review – 'OMG' was first used 100 years ago |page=7 |work=[[The Guardian]] (Review section) |location=London |url=https://www.theguardian.com/books/2016/mar/31/how-english-became-english-simon-horobin-review |access-date=8 April 2016}}</ref><ref>{{Cite book |last=Fisher |first=John Arbuthnot |url=https://archive.org/stream/memoriesbyadmira00fishuoft#page/77/mode/1up |title=Memories |publisher=Hodder and Stoughton |year=1919 |location=London |page=78}}</ref>
+
+In general, SMS language thus permits the sender to type less and communicate more quickly than one could without such shortcuts. One example is the use of "tomoz" instead of "tomorrow". Nevertheless, there are no standard rules for the creation and use of SMS languages. Any word may be shortened (for example, "text" to "txt"). Words can also be combined with numbers to make them shorter (for example, "later" to "l8r"), using the numeral "8" for its [[Homophone|homophonic]] quality.<ref>{{Cite journal |last1=Beverly, Plester |last2=Wood, Clare |last3=Joshi, Puja |date=2009 |title=Exploring the relationship between children's knowledge of text message abbreviations and school literacy outcomes |journal=British Journal of Developmental Psychology |volume=27 |issue=1 |pages=145–161 |doi=10.1348/026151008X320507 |pmid=19972666}}</ref>
+
+===SMS language as a multilingual entity===
+[[File:Hitler-est-mechant.jpg|thumb|French comic featuring SMS language. The child's speech (in full French spelling, "Mais c'est vrai! T'es quoi, un Nazi?", translated as "But it's true! What are you, a Nazi?") is written in French SMS abbreviations.]]
+
+Some may view SMS language to be a nascent dialect of the [[English language]],<ref name="Lily Huang" /> that is a dialect strongly if not completely derivative of the English language. This may not be so. Such generalization may have risen from the fact that mobile phones had only been able to support a limited number of default languages in the early stages of its conception and distribution.<ref name="Shirali-Shahreza">{{Cite journal |last=Shirali-Shahreza |first=Mohammad |year=2007 |title=Multilingual SMS |url=http://www.igi-global.com/viewtitlesample.aspx?id=17153 |journal=Idea Group Inc. |series=Category: Mobile Phone |pages=666–668}}</ref>
+
+A [[mobile operating system]] (OS) such as [[Symbian]] and language packs enable the linguistic localization of products that are equipped with such interfaces, where the current Symbian release (Symbian Belle) supports the scripts and [[Orthography|orthographies]] of over 48 languages and dialects, though such provisions are by no means fully comprehensive as to the languages used by users all over the world. Researcher Mohammad Shirali-Shahreza (2007)<ref name="Shirali-Shahreza" /> further observes that mobile phone producers offer support "of local language of the country" within which their phone sets are to be distributed.
+
+Nevertheless, various factors contribute as additional constraints to the use of non-English languages and scripts in SMS. This motivates the [[anglicization]] of such languages, especially those using non-[[Latin spelling and pronunciation|Latin orthographies]] (i.e. not using Latin alphabets) following for instance, the even more limited message lengths involved when using for example, [[Cyrillic]] or [[Greek alphabet|Greek]] letters.<ref name="David Crystal">{{Cite book |last=Crystal |first=David |url=https://archive.org/details/isbn_9780199571338 |title=Txtng the gr8 db8 |publisher=Oxford University Press |year=2009 |location=New York |url-access=registration}}</ref> On the other side, researcher Gillian Perrett observes the de-anglicization<ref>{{Cite web |last=Perrett |first=Gillian |title=Globalization and the de-Anglicization of English |url=http://journal.teflin.org/index.php/teflin/article/viewFile/240/170 |access-date=18 March 2012 |publisher=Universiti Brunei Darussalum}}</ref> of the English language following its use and incorporation into non-English linguistic contexts.
+
+As such, on top of the measures taken to minimize space, time and cost constraints in SMS language, further constraints upon the varied nature and characteristics of languages worldwide add to the distinct properties and style of SMS language(s).
+
+==Linguistic properties and style==
+
+The primary motivation for the creation and use of SMS language was to convey a comprehensible message using the fewest characters possible. This was for two reasons: first of all, telecommunication companies limited the number of characters per SMS and charged the user per SMS sent. To keep costs down, users had to find a way of being concise while still communicating the desired message. Secondly, typing on a phone is normally slower than with a keyboard, and capitalization is even slower. As a result, punctuation, grammar, and capitalization are largely ignored.
+
+In many countries, people now have access to unlimited text options in their monthly plan, although this varies widely depending on country and operator. However, screens are still small and the input problem persists, so SMS language is still widely used for brevity.
+
+Observations and classifications as to the linguistic and stylistic properties of SMS language have been made and proposed by Crispin Thurlow,<ref name="Thurlow">{{Cite web |last=Thurlow |first=Crispin |title=Generation Txt? The sociolinguistics of young people's text messaging. |url=http://extra.shu.ac.uk/daol/articles/v1/n1/a3/thurlow2002003.html |publisher=Discourse Analysis Online (DAOL)}}</ref> López Rúa,<ref name="López-Rúa">{{Cite journal |last=López-Rúa |first=Paula |year=2007 |title=Teaching L2 vocabulary through SMS language: some didactic guidelines |journal=ELIA |issue=7 |pages=165–188}}</ref> and David Crystal.<ref name="David Crystal" /> Although they are by no means exhaustive, some of these properties involve the use of:
+
+*Initializations ([[Acronym and initialism|acronyms]] and [[abbreviation]]s composed of initials)
+*Reductions and shortenings, and omission of parts of speech
+:*[[Pragmatics]] and [[context (language use)|context]] in interpretation of ambiguous shortenings
+*Reactive tokens
+*[[Pictogram]]s and [[logogram]]s (rebus abbreviation)
+*[[Paralanguage|Paralinguistic]] and [[prosody (linguistics)|prosodic]] features
+:*[[Capitalization]]
+:*[[Emoticon]]s
+*Variations in spelling
+*[[Punctuation]], or lack thereof
+
+===Initializations (acronyms and abbreviations composed of initials)<ref name="López-Rúa" />===
+
+There are many examples of words or phrases that share the same abbreviations (e.g., ''lol'' could mean ''laugh out loud'', ''lots of love'', or ''little old lady'', and ''cryn'' could mean ''crayon'' or ''cryin(g)'').
+
+===Reductions and shortenings,<ref name="Thurlow" /> and omission of parts of speech<ref name="Freudenberg">{{Cite web |last=Freudenberg |first=Kristy |title=Investigating the impact of SMS speak on the written work of English first language and English second language high school learners |url=http://scholar.sun.ac.za/bitstream/handle/10019.1/2052/Freudenberg,%20K.pdf?sequence=1 |access-date=19 March 2012 |website=MA Thesis: Philosophy Stellenbosch University}}</ref>===
+
+For words that have no common abbreviation, users most commonly remove the vowels from a word, and the reader is required to interpret a string of consonants by re-adding the vowels (e.g., ''dictionary'' becomes ''dctnry'' and ''keyboard'' becomes ''kybrd''). Omission of words, especially function words (e.g., determiners like "a" and "the") are also employed as part of the effort to overcome time and space constraints.<ref name="Freudenberg" />
+
+The advent of [[predictive text]] input and [[smartphone]]s featuring full [[QWERTY|QWERTY keyboards]] may contribute to a reduction in the use of shortenings in SMS language.{{citation needed|date=November 2015}}
+
+====Pragmatics and context in interpretation of ambiguous shortenings====
+Recipients may have to interpret the abbreviated words depending on the context in which they are being used. For instance, should someone use ''ttyl, lol'' they may mean ''talk to you later, lots of love'' as opposed to ''talk to you later, laugh out loud''. In another instance, if someone were to use ''omg, lol'' they may mean ''oh my god, laugh out loud'' as opposed to ''oh my god, lots of love''.
+
+Therefore, context is crucial when interpreting {{Wikt-lang|en|textese}}, and it is precisely this shortfall that critics cite as a reason not to use it (although the English language in general, like many other [[language]]s, has many words that have different meanings in different contexts).
+
+SMS language does not always obey or follow standard [[grammar]], and additionally the words used are not usually found in standard dictionaries or recognized by [[List of language regulators|language academies]].
+
+===Reactive tokens===
+The feature of "reactive tokens" that is ubiquitous in [[Internet Relay Chat]] (IRC), is also commonly found in SMS language. Reactive tokens include phrases or words like "yeah I know", which signifies a reaction to a previous message. In SMS language, however, the difference is that many words are shortened unlike in spoken speech.<ref name="TESOL" />
+
+===Pictograms and logograms (rebus abbreviation)<ref name="David Crystal" />===
+
+Some tokens of the SMS language can be likened to a [[rebus]], using pictures and single letters or numbers to represent whole words (e.g., "i <3 u", which uses the pictogram of a heart for ''love'', and the letter ''u'' replaces ''you'').
+
+The dialect has a few [[hieroglyph]]s (codes comprehensible to initiates) and a range of face symbols.<ref>{{Cite magazine |last=Walters |first=Guy |title=New Statesman |url=http://www.newstatesman.com/society/2008/07/gr8-db8-crystal-texting-txtng |magazine=New Statesman |access-date=2011-12-20}}</ref>
+
+===Paralinguistic and prosodic features===
+Prosodic features in SMS language aim to provide added semantic and syntactic information and context from which recipients can use to deduce a more contextually relevant and accurate interpretation. These may aim to convey the textual equivalent of verbal prosodic features such as facial expression and tone of voice.<ref name="Walt">{{Cite journal |last=Watt |first=Helen J. |year=2010 |title=How Does the Use of Modern Communication Technology Influence Language and Literacy Development? - A Review |url=http://www.nsslha.org/uploadedFiles/NSSLHA/publications/cicsd/2010F-Use-of-Modern-Communication-Technology.pdf |journal=Contemporary Issues in Communication Science and Disorders |volume=37 |pages=141–148 |doi=10.1044/cicsd_36_F_141}}</ref><ref name="Syntactic Aspects in Text Messaging">{{Cite journal |last1=Nancy Anashia Ong'onda |last2=Peter Maina Matu |last3=Pamela Anyango Oloo |year=2011 |title=Syntactic Aspects in Text Messaging |journal=World Journal of English Language |volume=1 |issue=1}}</ref> Indeed, even though SMS language exists in the format of written text, it closely resembles normal speech in that it does not have a complicated structure and that its meaning is greatly contextualised.
+
+====Capitalization====
+In the case of capitalization in SMS language, there are three scenarios:<ref name="Ling 2005">Ling, Richard. 2005. "The socio-linguistics of SMS: An analysis of SMS use by a random sample of Norwegians" in ''Mobile communications: Renegotiation of the social sphere'', edited by R. Ling and P. Pedersen. London: Springer.</ref>
+*No capitalization
+*Capitalization of only the first word
+*Full capitalization as appropriate that conforms to all grammatical rules
+
+Most SMS messages have done away with capitalization. Use of capitalizations on the first word of a message may in fact, not be intentional, and may likely be due to the default capitalization setting of devices. Capitalization too may encode prosodic elements, where copious use may signify the textual equivalent of raised voice to indicate heightened emotion.<ref name="Walt" />
+
+====Emoji, asterisk emoting, and emoticons====
+{{Main|Emoji}}
+{{Main|List of emoticons}}
+
+Just as body language and facial expressions can alter how speech is perceived, emoji and emoticons can alter the meaning of a text message, the difference being that the real tone of the SMS sender is less easily discerned merely by the emoticon. Using a smiling face can be perceived as being sarcastic rather than happy, thus the reader has to decide which it is by looking at the whole message.<ref name="Nurulah, Sabreena, Subarna">{{Cite journal |last1=Ahmed, Sabreena |last2=Nurullah, Abu Sadat |last3=Sakar, Subarna |year=2010 |title=The Use of SMS and Language Transformation in Bangladesh}}</ref>
+
+Use of punctuation and capitalization to form emoticons distracts from the more traditional function of such features and symbols. Nevertheless, uses do differ across individuals and cultures. For example, overpunctuation may simply be used to communicate paralinguistic aspects of communication without the need to create an emotion from it like so: "Hello!!!!".<ref name="Freudenberg" />
+
+===Punctuation, or lack thereof===
+While vowels and punctuation of words in SMS language are generally omitted, [[David Crystal]] observes that apostrophes occur unusually frequently. He cites an American study of 544 messages, where the occurrence of apostrophes in SMS language is approximately 35 percent.<ref name="David Crystal" /> This is unexpected, seeing that it is a hassle to input an apostrophe in a text message with the multiple steps involved. The use of apostrophes cannot be attributed to users attempting to disambiguate words that might otherwise be misunderstood without it.
+
+There are few cases in English where leaving out the apostrophe causes misunderstanding of the message. For example, "we're" without the apostrophe could be misread as "were". Even so, these are mostly understood correctly despite being ambiguous, as readers can rely on other cues such as part of sentence and context where the word appears to decide what the word should be. For many other words like "Im" and "Shes", there is no ambiguity. Since users don't need to use apostrophes to ensure that their message is understood accurately, this phenomenon may in part be attributed to texters wanting to maintain clarity so that the message can be more easily understood in a shorter amount of time.<ref name="David Crystal" /> The widespread mobile phone auto-correct feature contributes to the frequency of the apostrophe in SMS messages, since, even without user awareness, it will insert an apostrophe in many common words, such as "I'm", "I'll", and "I'd".
+
+===Tone===
+<!--
+
+  Emoji, Emoticons, Punctuation, Periods. TODO
+
+-->
+
+===Variations in spelling===
+Users may also use spellings that reflect their illocutionary force and intention rather than using the standard spelling. For example, the use of "haha" to signify "standard" laughter, and "muahaha" to encode perhaps more raucous or evil sound of laughter.<ref name="TESOL">{{Cite web |last=Muhammad, Shaban Rafi |title=SMS text analysis: Language, gender and current practices |url=https://www.tesol-france.org/Documents/Colloque07/SMS%20Text%20Analysis%20Language%20Gender%20and%20Current%20Practice%20_1_.pdf |archive-url=https://web.archive.org/web/20101011010548/https://www.tesol-france.org/Documents/Colloque07/SMS%20Text%20Analysis%20Language%20Gender%20and%20Current%20Practice%20_1_.pdf |archive-date=11 October 2010 |access-date=2012-02-27}}</ref>
+
+In this, regional variations in spelling can also be observed. As such, SMS language, with its intergroup variations, also serves as an identity marker.<ref name="Syntactic Aspects in Text Messaging" />
+
+==Conventional examples and vocabulary==
+{{Globalize|section|date=July 2021}}
+<!--
+
+  Only notable and highly popular abbreviations should be included in this list.
+  See the talk page for details.
+
+-->
+
+===SMS dictionaries===
+SMS language has yet to be accepted as a conventional and stable form, either as a dialect or as a language. As a result, (as much as it is also a consequence), notable [[Lexicography|lexicographical]] efforts and publications (e.g., dictionaries) dealing specifically with SMS language have yet to emerge.<ref name="Mphahlele " /> Some experts have suggested that the usage of "ungrammatical" text message slang has enabled SMS to become a part of "normal language" for many children.{{citation needed|date=September 2015}}
+
+Many informal attempts at documenting SMS have been done. For example, service provider [[Vodacom]] provides its clients with an SMS dictionary as a supplement to their cell phone purchase.<ref name="Mphahlele " /> Vodacom provides lists of abbreviations and acronyms with their meanings in its web site.<ref name="vodacom">{{Cite web |title=SMS Dictionary |url=https://www.vodacommessaging.co.za/dictionary.asp? |access-date=16 March 2012 |publisher=Vodacom Messaging}}</ref><ref name="Mphahlele">{{Cite book |last1=Mphahlele |first1=Mampa Lorna |title=Proceedings of the IADIS International Conference Mobile Learning 2005 |last2=Mashamaite |first2=Kwena |date=2005 |publisher=International Association for Development of the Information Society |isbn=972-8939-02-7 |editor-last=Isaías |editor-first=Pedro |pages=161–168 |chapter=The Impact of Short Message Service (SMS) Language on Language Proficiency of Learners and the SMS Dictionaries: A Challenge for Educators and Lexicographers |access-date=2012-02-27 |editor-last2=Borg |editor-first2=Carmel |editor-last3=Kommers |editor-first3=Piet |editor-last4=Bonanno |editor-first4=Philip |chapter-url=http://www.iadis.net/dl/final_uploads/200506L022.pdf |archive-url=https://web.archive.org/web/20101226200852/http://www.iadis.net/dl/final_uploads/200506L022.pdf |archive-date=2010-12-26 |url-status=dead}}</ref>
+
+Many other efforts have been made to provide SMS dictionaries on the Internet. Usually an alphabetical list of "words" used in SMS language is provided, along with their intended meanings.<ref>{{Cite web |date=11 September 2019 |title=Text Abbreviations Used in SMS Messaging |url=https://sendsms.global/blog/text-abbreviations/ |access-date=11 September 2019}}</ref><ref name="Lingo2word1">{{Cite web |title=Text Message Translator, Online Text Message Dictionary |url=http://www.lingo2word.com/ |access-date=22 March 2012}}</ref> Text messages can also be "translated" to standard language on certain web sites as well, although the "translations" are not always universally accepted.<ref name="Lingo2word2">{{Cite web |title=Translate your txt messages |url=http://www.lingo2word.com/translate.php |access-date=22 March 2012}}</ref>
+
+=== Whole word or phrase abbreviation ===
+Many people are likely to use these abbreviations in lower case letters.
+{| class="wikitable sortable"
+|+
+List of abbreviations
+! Words in full !! Abbreviations or SMS language
+ |-
+ | Am I Right || AIR or Amirite <ref name="ENDR3637">{{Citation |last=Renard |first=Erika |title=short text |date=31 December 2017}}</ref>
+ |-
+ | As Far As I Know || AFAIK<ref name=vodacom />
+ |-
+ | As Soon As Possible || ASAP<ref name=vodacom />
+ |-
+ | At || @<ref name=vodacom />
+ |-
+ | At The Moment || ATM<ref name=vodacom />
+ |- 
+ | ...as fuck || AF<ref name="Peng">{{Cite web |last=Peng |first=Chelsea |date=2015-11-03 |title=15 Reasons "AF" Should Just Become an Official Unit of Measurement Already |url=http://marieclaire.com/culture/news/a16745/af-usages/ |access-date=24 August 2016 |website=Marie Claire |publisher=Hearst Communications}}</ref>
+ |- 
+ | Away From Keyboard || AFK<ref name=vodacom />
+ |-
+ | Be Right Back || BRB<ref>{{Cite web |title=BRB / Meaning in the Cambridge English Dictionary |url=https://dictionary.cambridge.org/dictionary/english/brb |access-date=2021-01-26 |website=Cambridge Dictionary |publisher=Cambridge University Press}}</ref>
+ |-
+ | Because || B/C or BCS or BC<ref name=SEC />
+ |-
+ | Best Friend<br/>Boyfriend || BF<ref name=SEC />
+ |-
+ | Best Friend Forever<br/>Boyfriend Forever || BFF<ref name=SEC />
+ |-
+ | Broken Heart || </3{{Citation needed|date=October 2021}}
+ |-
+ | By The Way || BTW<ref name=vodacom />
+ |-
+ | Bye For Now || BFN<ref name=SEC />
+ |-
+ | Chicks || CHX<ref name=vodacom />
+ |-
+ | Christmas or Christmas day || xmas<ref>[[Xmas]]</ref>{{Circular reference|date=February 2020}}
+ |-
+ | For Real || FR
+ |-
+ | For The Win || FTW<ref name=vodacom />
+ |-
+ | For Your Information || FYI<ref name=SEC />
+ |-
+ | Get The Fuck Out || GTFO<ref name=SEC />
+ |-
+ | Girlfriend || GF<ref name=SEC />
+ |-
+ | Good Game || GG<ref>{{Cite web |title=Gg definition and meaning |url=https://www.collinsdictionary.com/dictionary/english/gg |access-date=2021-01-26 |website=Collins Dictionary |publisher=HarperCollins Publishers}}</ref>
+ |-
+ | Good night/Good morning || GN<ref name="Katz Aakhus 2002 p. 184">{{Cite book |last1=Katz |first1=J.E. |url=https://books.google.com/books?id=Wt5AsHEgUh0C&pg=PA184 |title=Perpetual Contact: Mobile Communication, Private Talk, Public Performance |last2=Aakhus |first2=M. |publisher=Cambridge University Press |year=2002 |isbn=978-0-521-00266-0 |page=184 |access-date=2021-01-26}}</ref>/GM<ref name="Plant 2001 p. ">{{Cite book |last=Plant |first=S. |title=On the Mobile: The Effects of Mobile Telephones on Social and Individual Life |publisher=Motorola |year=2001 |page=81 |quote="Telegraph operators had their own acronyms, greeting each other with GM instead of good morning"}}</ref><ref name="Eriksson-Zetterquist Kalling Styhre 2011 p. 144">{{Cite book |last1=Eriksson-Zetterquist |first1=U. |url=https://books.google.com/books?id=jNicr_9wj3UC&pg=PA144 |title=Organizing Technologies |last2=Kalling |first2=T. |last3=Styhre |first3=A. |publisher=Liber |year=2011 |isbn=978-87-630-0239-4 |page=144 |language=it |access-date=2021-01-26}}</ref>
+ |-
+ | Haha || hh<ref name=vodacom />
+ |-
+ | Have A Nice Day || HAND<ref name=vodacom />
+ |-
+ | How I feel when || HIFW<ref name="Gowers 2016 p. 145">{{Cite book |last=Gowers |first=R. |url=https://books.google.com/books?id=wsalCgAAQBAJ&pg=PT145 |title=Horrible Words: A Guide to the Misuse of English |publisher=Penguin Books Limited |year=2016 |isbn=978-1-84614-852-1 |page=145 |quote="There is also youthful crowing over those who write 'HIFW when'. HIFW is short for 'how I feel when'...." |access-date=2021-01-26}}</ref>
+ |-
+ | Hugs And Kisses || HAK or XOXO<ref name=vodacom />
+ |-
+ | I ain't coming back || IACB {{citation needed| date= December 2019}}
+ |-
+ | I don't care || IDC<ref name=vodacom />
+ |-
+ | I Don't Know || IDK<ref name=SEC />
+ |-
+ | I Feel Your Pain || IFYP{{Citation needed|date=February 2020}}
+ |-
+ | I Hate You || IH8U<ref name=SEC />
+ |-
+ | I have no idea || IHNI<ref name=vodacom />
+ |-
+ | I Know, Right? || IKR<ref>{{Cite web |title=IKR - Meaning in the Cambridge English Dictionary |url=https://dictionary.cambridge.org/dictionary/english/ikr |access-date=2021-01-26 |website=Cambridge Dictionary |publisher=Cambridge University Press}}</ref>
+ |-
+ | I Love You || ILU or ILY<ref name=SEC />
+ |-
+ | I Miss You || IMY<ref>{{Cite web |last=Finch |first=Joshalynne |title=What Does "IMY" Mean, and How Do You Use It? |url=https://www.howtogeek.com/672361/what-does-imy-mean-and-how-do-you-use-it/ |access-date=2021-02-26 |website=How-To Geek |language=en-US}}</ref>
+ |-
+ | In Real Life || IRL<ref name=vodacom />
+ |-
+ | If I Remember Correctly || IIRC<ref>{{Cite web |title=IIUC |url=https://acronyms.thefreedictionary.com/IIUC |via=The Free Dictionary}}</ref>
+ |-
+ | In My Humble/Honest Opinion || IMHO<ref name=SEC />
+ |-
+ | In My Opinion || IMO<ref name=SEC />
+ |-
+ | Not || !=
+ |-
+ | Just Kidding || JK<ref name=SEC />
+ |-
+ | Just so you know || JSYK<ref name=vodacom />
+ |-
+ | Keep It Simple, Stupid || KISS<ref name=vodacom />
+ |-
+ | Keeping parents clueless || KPS{{Citation needed|date=February 2020}}
+ |-
+ |- Kill yourself || KYS{{Citation needed|date=February 2020}}
+ |-
+ | Later (often as a valediction) || l8r<ref>https://www.allacronyms.com/L8R/sms</ref>
+ |-
+ | Laugh(ing) My Ass Off || LMAO<ref name="emotionalexpression">{{Cite journal |last1=Provine |first1=Robert R. |last2=Spencer |first2=Robert J. |last3=Mandell |first3=Darcy L. |date=2007 |title=Emotional Expression Online |url=https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.951.3579&rep=rep1&type=pdf |journal=Journal of Language and Social Psychology |volume=26 |issue=3 |pages=299–307 |doi=10.1177/0261927x06303481 |citeseerx=10.1.1.951.3579 |s2cid=144254798 |access-date=2021-10-02}}</ref>
+ |-
+ | Laugh(ing) Out Loud || LOL<ref name=emotionalexpression />
+ |-
+ | Love || <3<ref name=vodacom />
+ |- 
+ | Loving The Weather Today || LTWT or LWT or LW<ref name=vodacom />
+ |-
+ | My face when || MFW{{Citation needed|date=February 2020}}
+ |-
+ | My reaction when || MRW{{Citation needed|date=February 2020}}
+ |-
+ | Message || MSG<ref name="SEC">[http://speakenglishcenter.com/en/english-test-your-internet-english-skills-exercise-included/ Test your smartphone English skills], [http://speakenglishcenter.com/en/blog/ Speak English Center blog], 2014</ref>
+ |-
+ | Nevermind/No Worries Mate || NVM
+ |-
+ | No problem || NP<ref name=vodacom />
+ |-
+ | Not a Number || NaN<ref name="web.archive.org">{{Cite web |date=15 March 2019 |title=50 Popular Texting Abbreviations & Internet Acronyms — Explained |url=https://smart-words.org/abbreviations/text.html |archive-url=https://web.archive.org/web/20190315151433/https://smart-words.org/abbreviations/text.html |archive-date=15 March 2019}}</ref><ref>This abbreviation is used in the Free and Open Source (FOSS) community referring to software made by Microsoft</ref>
+ |-
+ | Oh My Gosh/God/Goodness || OMG<ref name=vodacom />
+ |-
+ | On The Way || OTW<ref name=SEC />
+ |-
+ | Original Poster, Overpowered|| OP<ref>{{Cite web |title=What Does OP Mean? &#124; Slang by Dictionary.com |url=https://www.dictionary.com/e/slang/op/}}</ref>
+ |-
+ | Parent at home || PAH{{Citation needed|date=February 2020}}
+ |-
+ | Parent behind back || PBB{{Citation needed|date=February 2020}}
+ |-
+ | Parent in the room || PITR{{Citation needed|date=February 2020}}
+ |-
+ | Parent over my shoulder || POMS{{Citation needed|date=February 2020}}
+ |-
+ | Parents are watching || PAW{{Citation needed|date=February 2020}}
+ |-
+ | Profile picture || PFP{{Citation needed|date=September 2020}}
+ |-
+ | Please || PLZ or PLS<ref name=SEC />
+ |-
+ | Read the fucking manual || RTFM{{Citation needed|date=August 2020}}
+ |-  
+ | Really || RLY {{citation needed| date= December 2019}}
+ |-
+ | Rolling on the Floor Laughing || ROFL or ROTFL<ref name=vodacom />
+ |-
+ | Sealed With a Kiss || SWAK<ref name=vodacom />
+ |-
+ | See You || CU<ref name=vodacom />
+ |-
+ | See You Later || CUL8R<ref name=SEC />
+ |-
+ | Shaking My Head (disapproval/frustration) || SMH<ref name=SEC />
+ |-
+ | Shut The Fuck Up || STFU<ref name=SEC />
+ |-
+ | Significant Other || SO<ref name=SEC />
+ |-
+ | Sleeping, Bored, Tired || ZZZ{{Citation needed|date=February 2020}}
+ |-
+ | So Much || SM {{citation needed| date= December 2019}}
+ |-
+ | So What's Your Problem? || SWYP<ref name=vodacom />
+ |-
+ | Stop What You're Doing || SWYD<ref name=vodacom />
+ |-
+ | Such A Laugh || SAL<ref name=vodacom />
+ |-
+ | Talk To You Later || TTYL<ref name=SEC />
+ |-
+ | Tears in My Eyes || TIME<ref name=vodacom />
+ |-
+ | Thank You so Much || TYSM {{citation needed| date= December 2019}}
+ |-
+ | Thanks || THNX or THX<ref name=vodacom />
+ |-
+ | Thanks, Thank you || THX or TU or TY<ref name=SEC /><ref>{{Cite web |title=List of Commonly Used Abbreviations |url=https://abbreviations.yourdictionary.com/articles/list-of-commonly-used-abbreviations.html |website=abbreviations.yourdictionary.com}}</ref>
+ |-
+ | That Feeling When || TFW{{Citation needed|date=February 2020}}
+ |-
+ | That Makes Sense || TMS{{citation needed|date=December 2016}}
+ |-
+ | Thinking of You || TOU{{citation needed|date=December 2016}}
+ |-
+ |Tonight or See you tonight
+ |2NYT or 2nite{{citation needed|date=December 2016}}
+ |-
+ | To Be Announced || TBA<ref>{{Cite web |title=50 Popular Texting Abbreviations & Internet Acronyms — Explained |url=https://www.smart-words.org/abbreviations/text.html |website=www.smart-words.org}}</ref>
+ |-
+ | To Be Honest || TBH {{citation needed|date=March 2021}}
+ |- 
+ | Too Long; Didn't Read || TL;DR, TLDR or TL DR<ref>{{Cite web |title=tldr Meaning in the Cambridge English Dictionary |url=https://dictionary.cambridge.org/dictionary/english/tldr |access-date=2018-09-04 |website=dictionary.cambridge.org |language=en}}</ref>
+ |-
+ |Too Much Information
+ |TMI<ref>{{Cite web |last1=Gil |first1=Paul Gil Writer Paul |last2=internet |first2=a former Lifewire writer who is also known for his dynamic |last3=Courses |first3=Database |last4=Gil |first4=has been active in technology fields for over two decades our editorial process Paul |title=Wondering What "TMI" Means? Here's the Answer |url=https://www.lifewire.com/what-is-tmi-2483634 |access-date=2020-06-09 |website=Lifewire |language=en}}</ref>
+ |-
+ | Trying Not To Laugh || TNTL{{Citation needed|date=February 2020}}
+ |-
+ | You Only Live Once || YOLO<ref name=vodacom />
+ |-
+ | You're on Your Own || YOYO<ref name=vodacom />
+ |-
+ | You're Welcome || YW{{citation needed|date=December 2016}}
+ |-
+ | Your || UR {{citation needed| date= December 2019}}
+ |-
+ | Very || HELLA{{citation needed|date=May 2020}}
+ |-
+ | What Are You Doing || WYD<ref name=vodacom />
+ |- 
+ | What Do You Mean || WDYM<ref name=vodacom />
+ |-
+ | What The Fuck || WTF<ref name=SEC />
+ |-
+ | What The Hell || WTH<ref name=SEC />
+ |-
+ | Whatever || Whatevs<ref name=vodacom />
+ |-
+ | Where Are You At || WYA<ref name=vodacom />
+ |-
+ | Wish You Were Here || WYWH{{Citation needed|date=February 2020}}
+ |-
+ | With || W/ or W {{citation needed| date= December 2019}}
+ |-
+ | Without || W/O or WO {{citation needed| date= December 2019}}
+ |-
+ | Works For Me || WFM<ref name="web.archive.org" />
+|}
+
+===A single letter or digit can replace a word, syllable, or phoneme===
+
+Entire sounds within words would often be replaced by a letter or digit that would produce a similar sound when read by itself:
+{| class="wikitable sortable"
+|+
+|-
+ ! Word/Syllable/Phoneme !! Letter/Digit !! Example Usage As Part of Word
+ |-
+ | ''be'' || b
+ |-
+ | ''see'' or ''sea'' || c
+ |-
+ | ''okay'' || k{{ref|2|‡}} (or kk{{ref|1|†}})
+ |-
+ | ''and'' or ''en'' || n || ''enjoy'' becomes ''njoy'' '''and''' ''end'' becomes ''nd''
+ |-
+ | ''oh'' || o
+ |-
+ | ''are'' || R || In a sentence ''HRU?'' meaning ''How are you?'' the ''R'' becomes ''are''
+ |-
+ | ''you'' || U || In a sentence ''?RU doing'' meaning ''What are you doing'' the ''U'' becomes ''you''
+ |-
+ | ''why'' || Y || In a sentence ''Y R U like this?'' meaning ''Why are you like this?'' the ''Y'' becomes ''Why''
+ |-
+ | ''won'' or ''one'' || 1{{ref|3|§}} || ''anyone'' becomes ''any1'' or ''ne1'' '''and''' ''no one'' becomes ''no1''
+ |-
+ | ''to'', ''too'' or ''two'' || 2{{ref|3|§}} || ''today'' becomes ''2day'' '''and''' ''tune'' becomes ''2ne''
+ |-
+ | ''for'' or ''four'' || 4{{ref|3|§}} ||  ''forget'' becomes ''4get'' '''and''' ''afford'' becomes ''a4d''
+ |-
+ | ''ate'' || 8{{ref|3|§}} || ''great'' becomes ''gr8'' '''and''' ''hate'' becomes ''h8''
+ |-
+ | ''What?'' or ''Huh'' or ''Question'' || ? || In a sentence ''?4U'' meaning ''Questions for you'' the ''?'' becomes ''Question''
+|}
+<small>
+{{note|2|‡|''k'' is sometimes considered passive aggressive}}<br>
+{{note|1|†|''kk'' can also signal the end of a conversation{{citation needed|date=December 2017}}}}<br>
+{{note|3|§|using numbers phonetically is often intended to be sarcastic{{citation needed|date=December 2017}}}}
+</small>
+
+Combinations can shorten single or multiple words:
+{|class="wikitable"
+ |-
+ ! Word(s) !! SMS
+ |-
+ | ''your'' || ur
+ |-
+ | ''you are'' || u r
+ |-
+ | ''wonderful'' || 1drfl{{ref|3|§}}
+ |-
+ | ''before'' || b4{{ref|3|§}}
+ |-
+ | ''easy'' || ez
+ |-
+ | ''someone'' || sum1{{ref|3|§}}
+ |-
+ | ''see you'' || cu or cya
+ |-
+ | ''for you'' || 4u{{ref|3|§}}
+ |-
+ | ''tomorrow'' || 2mro{{ref|3|§}}, 2mo{{ref|3|§}}, tmr, or tmrw
+|}
+
+==Overall observations and criticisms==
+
+===Frequency of use===
+In one American study, researchers found that less than 20% of messages used SMS language. Looking at his own texting history, the study's author, linguist [[David Crystal]], said that just 10% of his messages used SMS language.<ref name="2b">{{Cite news |last=Crystal |first=David |author-link=David Crystal |date=5 July 2008 |title=2b or not 2b? |work=The Guardian |url=https://www.theguardian.com/books/2008/jul/05/saturdayreviewsfeatres.guardianreview |access-date=25 March 2011}}</ref>
+
+===Positive===
+
+====Effect on verbal language use and literacy====
+According to research done by Dr. Nenagh Kemp of [[University of Tasmania]], the evolution of ''textese'' is inherently coupled to a strong grasp of grammar and phonetics.<ref>{{Cite web |title=Messaging 2.0 |url=http://www.mobilemessaging2.com/2008/12/12/textese-mobility-and-the-evolution-of-language/Mobile |access-date=2011-12-20 |publisher=Mobilemessaging2.com}}</ref>
+
+[[David Crystal]] has countered the claims that SMS has a deleterious effect on language with numerous scholarly studies. The findings are summarized in his book ''[[Txtng: the Gr8 Db8]]''.
+In his book, Crystal argues that: 
+*In a typical text message, words are not abbreviated as frequently as widely thought
+*Abbreviating has been in use for a long time, and thus is not a novel phenomenon only found in SMS language. Furthermore, some words such as "[[sonar]]" and "[[laser]]" that are accepted as standard words in the dictionary are originally acronyms.
+*Both children and adults use SMS language, so if adults do not display the errors seen in children's written work, they cannot be attributed to SMS language alone.
+*Use of abbreviations in written work and examinations is not that prevalent among students.
+*A prerequisite to using SMS language is the knowledge of spelling, so use of SMS language does not necessarily imply low literacy.
+ 
+He further observes that this is by no means a cause for bad spelling, where in fact, texting may lead to an improvement in the literacy of the user.<ref name="David Crystal" /><ref>{{Cite journal |last=Crystal |first=David |date=2008 |title=The joy of txt |journal=Spotlight |pages=16–21}}</ref>
+
+There are others who feel that the claims of SMS language being detrimental to English language proficiency are overrated. A study of the written work of 100 students by Freudenberg found that the actual amount of use of SMS language found in the written work was not very significant. Some features of SMS language such as the use of emoticons was not observed in any of the written work by the students. Of all the errors found, quite a substantial amount cannot be attributed to use of SMS language. These included errors that have already appeared even before the advent of SMS language.<ref name="Freudenberg" />
+
+There are also views that SMS language has little or no effect on grammar.<ref name="Solomon Ali Dansieh">{{Cite journal |last=Solomon Ali Dansieh |year=2011 |title=SMS Texting and Its Potential Impacts on Students' Written |journal=International Journal of English Linguistics |volume=1 |issue=2}}</ref> Proponents of this view feel that SMS language is merely another language, and since learning a new language does not affect students' proficiency in English grammar, it cannot be said that SMS language can affect their grammar. With proper instruction, students should be able to distinguish between slang, SMS language and correct English and use them in their appropriate contexts.<ref name="Solomon Ali Dansieh" />
+
+====Efficiency====
+According to a study, though SMS language is faster to write, more time is needed to read it compared to conventional English.<ref>{{Cite news |date=2008-12-10 |title=If u cn rd this quickly, gd 4 u |work=Reuters |publisher=Reuters.com |url=https://www.reuters.com/article/technologyNews/idUSTRE4B90YA20081210?rpc=64 |access-date=2011-12-20}}</ref>
+
+===Negative===
+
+====Effect on verbal language use and communication====
+Although various other research supports the use of SMS language, the popular notion that text messaging is damaging to the linguistic development of young people persists and many view it as a corruption of the standard form of language.<ref>{{Cite web |date=2007-07-10 |title=DCBLOG |url=http://david-crystal.blogspot.com/2008/07/on-txtng.html |access-date=2012-02-24 |publisher=Blog.oup.com}}</ref>
+
+Welsh journalist and television reporter [[John Humphrys]] has criticized SMS language as "wrecking our language". The author cites [[ambiguity]] as one problem posed, illustrating with examples such as "lol", which may either be interpreted to mean "laughing out loud", "lots of love", and "little old lady" depending on the context in which it is being used. Ambiguous words and statements have always been present within languages. In English for example, the word "duck" can have more than one meaning. It could be referring to either the bird or the action, and such words are usually disambiguated by looking at the context in which it was written.<ref>{{Cite web |last=Pullum |first=Geoffrey K. |author-link=Geoffrey K. Pullum |date=2012-01-15 |title=Waterstones |url=http://languagelog.ldc.upenn.edu/nll/?p=3705 |access-date=2012-03-18 |website=Language Log}}</ref>
+
+The proliferation of SMS language has been criticized for causing the deterioration of English language proficiency and its rich heritage. Opponents of SMS language feel that it undermines the properties of the English language that have lasted throughout its long history. Furthermore, words within the SMS language that are very similar to their English-language counterparts can be confused by young users as the actual English spelling and can therefore increase the prevalence of spelling mistakes.<ref name="Isabel Berman">{{Cite journal |last=Berman |first=Isabel |date=2006 |title=Email-"Inspired" Changes in Non-Native Legal Discourse |url=http://www.languageatinternet.org/about.journal_html |journal=Language@Internet |volume=3 |id={{urn|nbn|de:0009-7-3726}}}}</ref>
+
+====Use in schoolwork====
+Use of SMS language in schools tended to be seen as negative effects.{{Citation needed|date=May 2017}} There have been some reports in the media of children using SMS language for essays in school.<ref>{{Citation |title=Is txt mightier than the sword? |date=4 March 2003 |url=http://news.bbc.co.uk/2/hi/uk_news/2814235.stm |publisher=BBC News}}</ref> The [[New Zealand Qualifications Authority]] refuted press reports that they had authorized the use of text abbreviations in exam answers, with a spokesperson saying that "there had been no change to guidelines and there was no specific policy about text language."<ref>{{Cite news |last1=Trevett |first1=Claire |last2=Houlahan |first2=Mike |date=2006-11-10 |title=Text language risky move in NCEA examinations |work=The New Zealand Herald |url=http://www.nzherald.co.nz/students-study/news/article.cfm?c_id=329&objectid=10410066 |access-date=2012-03-15}}</ref>
+
+==SMS language and identity==
+According to Sean Ó Cadhain, abbreviations and acronyms elicits a sense of group identity as users must be familiar with the lingo of their group to be able to comprehend the SMS language used within the group.<ref name="Sean Ó Cadhain">{{Cite book |last=Cadhain |first=Sean |title=Teen txtuality and the txt flirt}}</ref> The ability to use and understand these language short forms that are unique to each group indicates that an individual is part of the group, forging a group identity that excludes outsiders. SMS language is thus thought to be the "secret code of the youth" by some.<ref name="Sean Ó Cadhain" /> The fact that sometimes, shortened forms are used for reasons other than space constraints can be seen as interlocutors trying to establish solidarity with each other.<ref name="Sean Ó Cadhain" />
+
+===Differences between male and female use of SMS language===
+According to Norwegian researcher [[Richard Ling]], there are differences in the SMS language of females and males.<ref name="Ling 2005" /> The lexical, morphological and syntactic choices between males and females SMS users<ref name="TESOL" /> suggested to Ling that women are more "adroit"<ref group=Note name=Note01/> and more "literary" texters.<ref name="David Crystal" /> 
+[[Richard Ling]] observes:
+*Women's messages tend to be "longer"
+*Women used more "complex structure" and grammar
+*Men's messages tend to comprise "one-sentence", "one-clause" or "one-thought" constructions (the latter is markedly observable among male users within the ages 16 to 19)
+*More greetings and words of parting were observed in women's messages
+*Women had messages with emotional and practical (e.g., arranging a meeting) content unlike men, who mostly used SMS language for practical content only.
+*Women and the younger users (across gender) tend to use more shortened forms and emoticons than men per se
+*While women observed conventional rules more than men, the difference is marginal. This involves the use of correct spelling, punctuation, capitalization, etc.
+
+==Use in advertisements==
+Circa 2005, advertisements have been increasingly influenced by SMS language. The longer the message in the advertisement, the less the impression it will leave. Hence, short messages that are more catchy, cost and space-saving are more commonly used.<ref name="Mphahlele" /> The visual effect elicited by SMS language also lends a feeling of novelty that helps to make the advertisement more memorable. For example, an advertisement of a book uses the SMS language: ''EAT RIGHT 4 YOUR TYPE''.<ref name="Mphahlele" />
+
+Companies focusing on the teen market have the tendency to make use of SMS language in their advertising to capture the attention of their target audience.<ref name="Marketers Try to Be ">{{Cite news |last=Vranica |first=Suzanne |date=April 3, 2008 |title=Marketers Try to Be 'Kewl' With Text-Message Lingo |work=The Wall Street Journal |url=https://www.wsj.com/articles/SB120719487786785755 |access-date=2012-02-27}}</ref> Since teenagers tend to be the ones using SMS language, they are able to relate to advertisements that use SMS language. 
+Unilever's advertisement for their novel range of deodorant for teenage girls uses the phrase "OMG! Moments." David Lang, president of the team who created the advertisement commented that they desired to bring across the impression that they identify with youth culture and discourse.<ref name="Marketers Try to Be " />
+
+Many other companies like McDonald's have also attempted to pursue the teenage market by using SMS language abbreviations in their commercials. McDonald's in Korea has an online video commercial which concludes with: "r u ready?".<ref name="Marketers Try to Be " />
+
+==See also==
+*[[LOL]]
+*[[Sexting]]
+*[[Newspeak]] (Fictional "impoverished" language featured in George Orwell's ''[[Nineteen Eighty-Four]]'')
+*[[Cupertino effect]] (Erroneous replacement of words by spellcheckers)
+*[[Jejemon]]
+*[[English language spelling reform]]
+*[[Tironian notes]], [[scribal abbreviation]]s and [[Typographic ligature|ligatures]] (Roman and medieval abbreviations used to save space in manuscripts and epigraphs)
+*[[Internet slang]]
+*[[Cyberculture]]
+*[[Leetspeak]]
+
+==References==
+{{reflist|30em}}
+
+===Notes===
+{{reflist|group=Note|refs=
+<ref name="Note01">Use of "adroit" in the adjectival sense as opposed to [[Adroitness (personality trait)|psychological term]]. In Ling, (2005)
+:"[Women's] messages are longer, have a more complex structure and retain more of the traditional conventions associated with other written forms than men...
+:This competence is also extended to telephonic communication...
+:The material here seems to suggest that women are also more adroit "texters".</ref>
+}}
+
+==External links==
+* [https://www.slanglang.net/abbreviations/ SlangLang Abbreviations] - Slang Words: 2,700 abbreviations and their meanings
+
+{{wiktionary|txt}}
+{{commons category}}
+
+{{Instant messaging}}
+{{Internet dialects}}
+{{Internet slang}}
+{{Mobile phones}}
+{{authority control}}
+
+[[Category:Internet slang]]
+[[Category:Mobile phone culture]]
+[[Category:Online chat]]
+[[Category:Text messaging]]

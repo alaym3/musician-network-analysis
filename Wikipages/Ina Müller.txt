@@ -1,0 +1,125 @@
+{{Use dmy dates|date=January 2021}}
+{{Infobox musical artist
+| name         = Ina Müller
+| image        = 2017 Ina Mueller - by 2eight - DSC8793.jpg
+| caption      = Müller in 2017
+| birth_date   = {{birth date and age|1965|07|25|df=y}}
+| origin       = [[Köhlen]], Germany
+| genre        = {{hlist|Pop|[[Chanson]]}}
+| occupation   = Singer-songwriter
+| years_active = 1994–present
+| label        =
+| website      = {{URL|inamueller.de}}
+}}
+
+'''Ina Müller''' (born 25 July 1965) is a German singer-songwriter, comedian, television host, and author.
+
+==Early life==
+Müller was born into a farming family in [[Köhlen]], Lower Saxony, [[West Germany]].<ref name="bild">{{cite web|url=https://www.bild.de/unterhaltung/leute/ina-mueller/ihre-kindheit-auf-dem-bauernhof-33194680.bild.html|title=SO haben Sie Ina Müller noch nie gesehen|website=[[Bild]]|accessdate=5 July 2018|language=German}}</ref> The fourth out of five sisters, she suffered from [[hospitalism]] until her teenage years.<ref name="bild"/> After her school graduation, Müller trained to be a [[pharmacy technician]].<ref name="bild"/> The next years she worked for a number of pharmacies in [[Bremen]], [[Munich]] and on [[Sylt]].<ref name="bild"/>
+
+==Career==
+In 1994, Müller and her friend Edda Schnittgard founded the comedy duo Queen Bee.<ref name="bild"/>
+
+From 2007, Müller has [[Television presenter|hosted]] the popular [[Late night television|late-night]] music and [[Variety show|variety]] [[television show]] ''Inas Nacht'' ''(Ina's Night)'', broadcast on [[Norddeutscher Rundfunk|NDR]] and originating from a [[pub]] in [[Hamburg]].<ref>[https://www.ndr.de/fernsehen/sendungen/inas_nacht/index.html ''Inas Nacht'' on NDR.de (German)]</ref>
+
+==Discography==
+===Studio albums===
+{|class="wikitable plainrowheaders" style="text-align:center;" border="1"
+! scope="col" rowspan="2" style="width:15em;"| Title
+! scope="col" rowspan="2" style="width:16em;"| Album details
+! scope="col" colspan="3"| Peak positions
+! scope="col" rowspan="2" style="width:14em;"| Certifications
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br /><ref name="ger">{{cite web | url=http://germancharts.de/showinterpret.asp?interpret=Ina+Mueller | title=Ina Müller discography | work=germancharts.com | publisher=Hung Medien |accessdate=4 August 2018}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Ö3 Austria Top 40|AUT]]<br /><ref name="aut">{{cite web | url=http://austriancharts.at/showinterpret.asp?interpret=Ina+Mueller | title=Ina Müller discography | work=austriancharts.at | publisher=Hung Medien |accessdate=4 August 2018}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Swiss Hitparade|SWI]]<br /><ref name="sui">{{cite web | url=http://hitparade.ch/showinterpret.asp?interpret=Ina+Mueller  | title=Ina Müller discography | work=hitparade.ch | publisher=Hung Medien |accessdate=4 August 2018}}</ref>
+|-
+! scope="row"| ''Das große Du''
+|
+* Released: 1 June 2004
+* Label: Tarumton
+* Formats: CD, digital download
+| – || – || —
+|
+|-
+! scope="row"| ''Weiblich, ledig, 40''
+|
+* Released: 13 October 2006
+* Label: 105 Music
+* Formats: CD, digital download
+| 26 || – || —
+|
+* [[Bundesverband Musikindustrie|BVMI]]: 3× Gold<ref name="BVMI">{{cite web|url=http://www.musikindustrie.de/no_cache/gold_platin_datenbank/ |title=Gold-/Platin-Datenbank |publisher=[[Bundesverband Musikindustrie]] |accessdate=4 August 2018 |format=To access, enter the search parameter "In Müller" and select "Suchen" |url-status=dead |archiveurl=https://web.archive.org/web/20151124171739/http://www.musikindustrie.de/no_cache/gold_platin_datenbank/ |archivedate=4 August 2018 }}</ref>
+|-
+! scope="row"| ''Liebe macht taub''
+|
+* Released: 28 March 2008
+* Label: 105 Music
+* Formats: CD, digital download
+| 6 || – || —
+|
+* BVMI: Platinum<ref name="BVMI"/>
+|-
+! scope="row"| ''Die Schallplatte – nied opleggt''
+|
+* Released: 30 October 2009
+* Label: 105 Music
+* Formats: CD, digital download
+| 13 || – || —
+|
+* BVMI: Gold<ref name="BVMI"/>
+|-
+! scope="row"| ''Das wär dein Lied gewesen''
+|
+* Released: 18 February 2011
+* Label: 105 Music
+* Formats: CD, digital download
+| 2 || 24 || 90
+|
+* BVMI: Platinum<ref name="BVMI"/>
+|-
+! scope="row"| ''48''
+|
+* Released: 25 October 2013
+* Label: 105 Music
+* Formats: CD, digital download
+| 3 || 22 || 52
+|
+* BVMI: Platinum<ref name="BVMI"/>
+|-
+! scope="row"| ''Ich bin die''
+|
+* Released: 28 October 2016
+* Label: [[Sony Music|Sony]]
+* Formats: CD, digital download
+| 4 || 21 || 41
+|
+* BVMI: Gold<ref name="BVMI"/>
+|-
+! scope="row"| ''55''
+|
+* Released: 20 November 2020
+* Label: [[Sony Music|Sony]]
+* Formats: CD, digital download
+| 2 || 17 || 23
+|
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Ina Müller}}
+* [http://www.inamueller.de Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Müller, Ina}}
+[[Category:1965 births]]
+[[Category:German television personalities]]
+[[Category:German television presenters]]
+[[Category:German women television presenters]]
+[[Category:German women singers]]
+[[Category:German singer-songwriters]]
+[[Category:Living people]]
+[[Category:Norddeutscher Rundfunk people]]

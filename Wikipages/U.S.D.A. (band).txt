@@ -1,0 +1,89 @@
+{{Unreferenced|date=April 2020}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name = U.S.D.A.
+|alias = United Street Dopeboyz of America
+| image =
+| caption =
+| background = group_or_band
+| origin = [[Atlanta, Georgia]], [[United States]]
+| instrument =  
+| genre =  [[Hip hop music|Hip hop]]
+| occupation = [[Rapping|Rappers]]
+| years_active = 2005&ndash;present 
+| label = [[Def Jam]], [[CTE World]]
+| associated_acts = 
+| website = [http://www.defjam.com/site/artist_home.php?artist_id=643 USDA's Official Def Jam Site]
+| current_members = [[Jeezy]]<br />Slick Pulla<br />
+| past_members = [[Blood Raw]]
+}}
+'''U.S.D.A.''' ('''United Street Dopeboyz of America''') is an American hip hop group from [[Atlanta, Georgia]], United States. The group's founder, Atlanta-based rapper [[Jeezy]] (formerly known as Young Jeezy), officially brought the group mainstream after his departure from [[Boyz n da Hood]]. The original group consisted of Young Jeezy, Slick Pulla and [[Blood Raw]]. Blood Raw has since left the group.
+
+==Albums==
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Album details
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! style="width:30px;"| [[Billboard 200|US]]
+! style="width:30px;"| [[Top R&B/Hip-Hop Albums|US R&B]]
+! style="width:30px;"| [[Top Rap Albums|US Rap]]
+|-
+| 2007
+| style="text-align:left;"| '''''[[Cold Summer (U.S.D.A. album)|Cold Summer]]'''''
+{{smalldiv|
+* First studio album
+* Release date: May 22, 2007
+* Label: Corporate Thugz, [[Def Jam Recordings|Def Jam]]}}
+| 4
+| 1
+| 1
+|-
+|}
+
+==Singles==
+{|class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Song
+!colspan="3"|Chart positions
+!rowspan="2"|Album
+|-
+!  style="text-align:center; width:40px;"|<small>[[Billboard Hot 100|U.S. Hot 100]]</small>
+!  style="text-align:center; width:40px;"|<small>[[Hot R&B/Hip-Hop Songs|U.S. R&B]]</small>
+!  style="text-align:center; width:40px;"|<small>[[Hot Rap Tracks|U.S. Rap]]</small>
+|-
+| style="text-align:center;" rowspan="2"|2007
+|align="left"|"[[White Girl (song)|White Girl]]"	
+| style="text-align:center;"|&mdash;
+| style="text-align:center;"|57	
+| style="text-align:center;"|&mdash;
+| style="text-align:left;" rowspan="2"|''Cold Summer (The Authorized Mixtape)''
+|-	
+|align="left"|"Corporate Thuggin'"
+| style="text-align:center;"|&mdash;
+| style="text-align:center;"|109	
+| style="text-align:center;"|&mdash;
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20070705201956/http://www.defjam.com/site/artist_home.php?artist_id=643 U.S.D.A's Official Def Jam Site]
+*[https://web.archive.org/web/20061029010953/http://www.youngjeezy.com/ YoungJeezy.com]
+*[https://web.archive.org/web/20070406082033/http://www.corporatethugzent.com/  Corporate Thugz Entertainment]
+
+{{Young Jeezy}}
+
+{{Authority control}}
+
+[[Category:American hip hop groups]]
+[[Category:Def Jam Recordings artists]]
+[[Category:Gangsta rap groups]]
+[[Category:Musical groups from Georgia (U.S. state)]]
+[[Category:Southern hip hop groups]]
+[[Category:Musical groups established in 2005]]
+[[Category:2005 establishments in Georgia (U.S. state)]]
+[[Category:Jeezy]]

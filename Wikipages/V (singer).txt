@@ -1,0 +1,495 @@
+<noinclude>{{User:RMCD bot/subject notice|1=V (Korean singer)|2=Talk:V (singer)#Requested move 29 November 2021}}
+</noinclude>{{Use mdy dates|date=March 2020}}
+{{pp-blp|small=yes}}
+{{short description|South Korean singer}}
+{{family name hatnote|Kim||lang=Korean}}
+{{Infobox person
+| name               = V <!-- DO NOT CHANGE. Name in infobox should reflect the name of the page.-->
+| image              = V x Samsung Galaxy August 2021.png
+| caption            = V in August 2021
+| image_size         = 240
+| alt                = 
+| birth_name         = Kim Tae-hyung
+| birth_date         = {{birth date and age|mf=yes|1995|12|30}}
+| occupation         = {{hlist|Singer|songwriter}} <!--He has credits as co-producer for only one song from 2017; he doesn't appear to produce regularly/often enough for record producer to be listed as an occupation. He had one minor role in 2016 and hasn't acted since, which is not enough to consider him an actor.-->
+| awards             = [[File:ROK_Order_of_Cultural_Merit_Hwa-gwan_(5th_Class)_ribbon.PNG|border|23px]] [[Order of Cultural Merit (South Korea)|Hwagwan Order of Cultural Merit]] (2018)
+| birth_place        = [[Seo District, Daegu|Seo District]], [[Daegu]], South Korea
+| module             = {{Infobox musical artist|embed=yes
+| genre              = {{hlist|[[Contemporary R&B|R&B]]|[[neo soul]]|[[indie pop]]|[[K-pop]]}}
+| instrument         = Vocals
+| years_active       = {{start date|2013}}–present
+| label              = [[Big Hit Music|Big Hit]]
+| associated_acts    = [[BTS]]}}
+| module2            = {{Infobox Korean name|child=yes
+| hangul             = {{linktext|김|태|형}}
+| hanja              = {{linktext|金|泰|亨}}
+| rr                 = Gim Tae-hyeong
+| mr                 = Kim T'aehyŏng
+| hangulstage        = {{linktext|뷔}}
+| hanjastage         = 
+| rrstage            = Bwi
+| mrstage            = Pwi
+}}
+| signature          = BTS' V Signature.svg
+}}
+
+'''Kim Tae-hyung''' ({{Korean|hangul=김태형}}; born December 30, 1995),<ref>{{cite web|url=http://people.search.naver.com/search.naver?where=nexearch&query=%EB%B7%94&sm=ppl_cts&ie=utf8&key=PeopleService&os=585552|script-title=ko:뷔 프로필|publisher=Naver People Search|language=ko|trans-title=V (Kim Tae-hyung, V) Singer|url-status=live|access-date=August 12, 2019|archive-date=July 31, 2019|archive-url=https://web.archive.org/web/20190731151145/https://people.search.naver.com/search.naver?where=nexearch&query=%EB%B7%94&sm=ppl_cts&ie=utf8&key=PeopleService&os=585552}}</ref> also known by his stage name '''V''', is a South Korean singer and songwriter. He is a vocalist of the [[Korean pop idol|South Korean boy group]] [[BTS]].<ref>{{cite web|url=http://www.billboard.com/articles/columns/k-town/7850225/bts-v-get-to-know|title=Get to Know BTS: V|last=Herman|first=Tamar|date=June 30, 2017|work=[[Billboard (magazine)|Billboard]]|url-status=live|access-date=August 12, 2019|archive-date=May 22, 2019|archive-url=https://web.archive.org/web/20190522084934/https://www.billboard.com/articles/columns/k-town/7850225/bts-v-get-to-know}}</ref>
+
+== Early life and education ==
+V was born Kim Tae-hyung on December 30, 1995, in the [[Seo District]] of [[Daegu]], South Korea,<ref>{{cite web|url=http://bts.ibighit.com/bts.php|title=BTS|publisher=[[Big Hit Music|Big Hit Entertainment]]|archive-url=https://web.archive.org/web/20151008024133/http://bts.ibighit.com/bts.php|archive-date=October 8, 2015|url-status=dead|access-date=July 23, 2013}}</ref><ref>{{cite web|url=https://insight.co.kr/news/264890|title=대구 토박이 '부심'들게 만드는 대구 출신 미모의 아이돌 6인|date=January 26, 2020|website=Insight|access-date=November 5, 2020|language=ko|archive-date=August 9, 2020|archive-url=https://web.archive.org/web/20200809084821/https://www.insight.co.kr/news/264890|url-status=live}}</ref> and grew up in [[Geochang County]].<ref>{{cite web|url=https://entertain.naver.com/read?oid=277&aid=0004141152|script-title=ko:[아.입.뽀] ⑥ 독보적 밀리언셀러, 방탄소년단 뷔 #이 비주얼, 이 실력 현실이냐?|last=Moon|first=Soo-bin|date=December 16, 2017|work=Economy Asia|language=ko|trans-title=[A.Ib.Ppo] ⑥ Unprecedented Million Seller, BTS V #Visual, is this real?|archive-url=https://web.archive.org/web/20180131171214/https://entertain.naver.com/read?oid=277&aid=0004141152|archive-date=January 31, 2018|url-status=live|access-date=July 9, 2020|via=[[Naver]]}}</ref> He is the eldest of three children, with a younger brother and sister.<ref name="thestar">{{cite web|url=http://thestar.chosun.com/site/data/html_dir/2015/04/30/2015043001676.html|script-title=ko:[더스타프로필] 방탄소년단 뷔, 비범한 '상남자' 서열 "그림으로 말해요"|last=Jang|first=Eun-kyung|date=April 30, 2015|work=The Star|language=ko|trans-title=[The Star Profile] BTS V, extraordinary 'Boy In Luv' ranking "Tell Me in Pictures"|archive-url=https://web.archive.org/web/20150503175648/http://thestar.chosun.com/site/data/html_dir/2015/04/30/2015043001676.html|archive-date=May 3, 2015|url-status=dead|access-date=July 9, 2020}}</ref> V first aspired to be a professional singer in elementary school.<ref name="AJ">{{cite web|url=https://www.ajunews.com/view/20181029171742495|script-title=ko:[방탄소년단 멤버해부] 방탄소년단, ‘뷔’ #얼굴천재#감성소년#연탄이 아빠|last=Jang|first=Yoon-jung|date=October 30, 2018|work=AJU News|language=ko|trans-title=[BTS Dissection] BTS, 'V' #Face Genius #Emotional Boy #Yeontan Dad|url-status=live|access-date=August 12, 2019|archive-date=May 24, 2019|archive-url=https://web.archive.org/web/20190524215356/https://www.ajunews.com/view/20181029171742495}}</ref> With his father's support,<ref>{{cite web|url=https://www.scmp.com/culture/music/article/2152882/who-v-bts-learn-about-k-pops-vivacious-music-lover-and-his-journey-fan|title=V from BTS – all about the K-pop group's vocalist and lead dancer|date=June 30, 2018|work=South China Morning Post|archive-url=https://web.archive.org/web/20180630140249/https://www.scmp.com/culture/music/article/2152882/who-v-bts-learn-about-k-pops-vivacious-music-lover-and-his-journey-fan|archive-date=June 30, 2018|url-status=live|access-date=July 9, 2020}}</ref> he began taking saxophone lessons in early middle school as a means of pursuing the career.<ref name="thestar"/><ref name="AJ"/> V eventually became a trainee for [[Big Hit Music|Big Hit Entertainment]] after passing an audition in [[Daegu]].<ref>{{cite web|url=https://www.etonline.com/bts-everything-you-need-know-about-k-pop-boy-band-ready-take-over-world-87709|title=BTS: Everything You Need to Know About the K-Pop Boy Band Ready to Take Over the World|last=Drysdale|first=Jennifer|date=September 20, 2017|work=[[Entertainment Tonight]]|archive-url=https://web.archive.org/web/20170921005813/https://www.etonline.com/bts-everything-you-need-know-about-k-pop-boy-band-ready-take-over-world-87709|archive-date=September 21, 2017|url-status=live|access-date=July 9, 2020}}</ref>
+
+After graduating from [[Korean Arts High School]] in 2014,<ref>{{cite web|url=https://star.mt.co.kr/stview.php?no=2014021408202750299|script-title=ko:방탄 뷔·지민-뉴이스트 렌, 오늘(14일) 한국예고 졸업|last=Lee|first=Ji-hyun|date=February 14, 2014|work=Star News|language=ko|trans-title=BTS V, Jimin and N'uest Ren graduated today (14th) from Korea Arts High School.|archive-url=https://archive.today/20200709042707/https://star.mt.co.kr/stview.php?no=2014021408202750299|archive-date=July 9, 2020|url-status=live|access-date=July 9, 2020}}</ref> V enrolled in Global Cyber University—he graduated in August 2020 with a major in Broadcasting and Entertainment.<ref>{{cite web|url=http://news.unn.net/news/articleView.html?idxno=505422|script-title=ko:글로벌사이버대, 온라인 학위수여식 개최…한류스타 수상 ‘관심’|trans-title=Global Cyber University holds online degree conferment ceremony... Hallyu Star Awarded 'Interest'|last=Hwang|first=Jeong-il|date=March 4, 2021|work=UNN|language=ko|archive-url=https://archive.today/20210304050148/http://news.unn.net/news/articleView.html?idxno=505422|archive-date=March 4, 2021|url-status=live|access-date=March 4, 2021}}</ref> As of 2021, he is enrolled at [[Hanyang Cyber University]], pursuing a [[Master of Business Administration]] in Advertising and Media.<ref>{{cite web|url=https://entertain.naver.com/read?oid=609&aid=0000298280|script-title=ko:방탄소년단 측 “RM·슈가·제이홉 지난해 대학원 입학, 지민·뷔 9월 입학 예정”(공식)|trans-title=BTS's "RM, Suga, and J-Hope enrolled in graduate school last year, Jimin and V will be enrolled in September" (Official)|last=Hwang|first=Hye-jin|date=July 7, 2020|work=Newsen|via=Naver|language=ko|archive-url=https://web.archive.org/web/20200707150601/https://entertain.naver.com/read?oid=609&aid=0000298280|archive-date=July 7, 2020|url-status=live|access-date=March 4, 2021}}</ref>
+
+== Career ==
+
+=== 2013–present: BTS ===
+{{Main|BTS}}
+Pre-debut, he was the "secret member" of BTS. Fans were unaware of his existence as his agency wished to keep him a surprise. He stated the concept had made him feel uneasy and lonely as he thought it was because he might get cut from the team.<ref>{{cite web |last1=Mamo |first1=Heran |title=V Recalls Journey From Breaking Out As BTS' 'Secret Member' to Prepping His Solo Mixtape |url=https://www.billboard.com/articles/columns/k-town/9575617/v-bts-secret-member-solo-mixtape/ |website=Billboard |access-date=October 29, 2021 |date=May 20, 2021}}</ref> On June 13, 2013, he made his debut as a member of [[BTS]] on [[Mnet (TV channel)|Mnet]]'s ''[[M Countdown]]'' with the track "No More Dream" from their debut single album, ''2 Cool 4 Skool''. He was first credited for music composition in ''[[The Most Beautiful Moment in Life, Part 1]]'' when he co-wrote and co-produced the song "Hold Me Tight". He also contributed to writing lyrics for the song "Fun Boyz", co-composed by bandmate Suga. For the song "Run", V's melody was used with [[Jungkook]]'s original lyrics for the next album ''[[The Most Beautiful Moment in Life, Part 2]]''. Furthermore, he contributed to music composition and lyrics for a solo song called "Stigma" from the album ''[[Wings (BTS album)|Wings]]''. V has also released, unofficially, a cover of "Hug Me" with bandmate [[J-Hope]] as well as a cover of "[[Someone Like You (Adele song)|Someone Like You]]" by [[Adele]].<ref>{{cite web|url=http://www.fnnews.com/news/201602231940513276|script-title=ko:방탄소년단 뷔 측 "'화랑' 출연 확정, 연기자 데뷔" (공식입장)|last=Yoon|first=Hyo-jin|date=February 23, 2016|work=FN News|language=ko|trans-title=BTS V "'Hwarang' appearance confirmed, Actor Debut" (Official Position)|url-status=live|access-date=August 12, 2019|archive-date=July 8, 2017|archive-url=https://web.archive.org/web/20170708022210/http://www.fnnews.com/news/201602231940513276}}</ref>
+
+In May 2018, his second solo song, "Singularity" was released as the trailer for BTS' then upcoming third LP, ''[[Love Yourself: Tear]]''. The track made its UK radio debut on BBC radio on October 25.<ref>{{cite web|url=https://m.entertain.naver.com/read?oid=022&aid=0003313269|script-title=ko:BTS 뷔의 '싱귤래리티', 英 BBC 라디오 첫 방송 "한국 아이돌 솔로곡 최초"|last=Chu|first=Young-joon|date=October 25, 2018|work=Segye|language=ko|trans-title=BTS V's Singularity, UK BBC Radio's Debut Broadcast "First Korean Idol Solo Song"|access-date=July 12, 2020|via=[[Naver]]|archive-date=April 4, 2019|archive-url=https://web.archive.org/web/20190404044055/https://m.entertain.naver.com/read?oid=022&aid=0003313269|url-status=live}}</ref> A month after its release, ''[[TheGuardian.com|The Guardian]]'' added "Singularity" to its "Top 50 songs for the month of June 2018" playlist<ref>{{cite web|url=https://www.theguardian.com/music/2018/jun/06/50-great-tracks-for-june-christine-queens-playboi-carti-the-1975|title=50 great tracks for June from Christine and the Queens, Playboi Carti, the 1975 and more|last1=Beaumont-Thomas|first1=Ben|last2=Snapes|first2=Laura|date=June 6, 2018|work=[[TheGuardian.com|The Guardian]]|url-status=live|access-date=August 12, 2019|archive-date=February 5, 2020|archive-url=https://web.archive.org/web/20200205002823/https://www.theguardian.com/music/2018/jun/06/50-great-tracks-for-june-christine-queens-playboi-carti-the-1975}}</ref> and [[Billboard (magazine)|''Billboard'']] included it in their Critics' list of the "Top 50 BTS songs" at number 28.<ref>{{cite web|url=https://www.billboard.com/articles/columns/k-town/8460287/bts-top-50-songs-fifth-anniversary|title=BTS' 50 Best Songs: Critics' Picks|author=<!--Not stated-->|date=June 12, 2018|work=[[Billboard (magazine)|Billboard]]|url-status=live|access-date=August 12, 2019|archive-date=June 10, 2020|archive-url=https://web.archive.org/web/20200610023040/https://www.billboard.com/articles/columns/k-town/8460287/bts-top-50-songs-fifth-anniversary}}</ref> Overall, "Singularity" was generally well received by critics and as a result was mentioned on several year end Critics' Choice lists. The ''[[The New York Times|New York Times]]'' ranked it twentieth on its list of "The 65 Best Songs of 2018" alongside "Fake Love",<ref>{{cite web|url=https://www.nytimes.com/2018/12/06/arts/music/best-songs.html#link-1093079|title=The 65 Best Songs of 2018|last1=Pareles|first1=Jon|last2=Caramica|first2=Jon|date=December 6, 1018|work=[[The New York Times]]|url-status=live|access-date=August 12, 2019|archive-date=December 7, 2018|archive-url=https://web.archive.org/web/20181207000409/https://www.nytimes.com/2018/12/06/arts/music/best-songs.html#link-1093079}}</ref> ''[[Los Angeles Times|LA Times]]'' Pop Music Critic Mikael Wood named it the fourth "best and most replay worthy song of 2018",<ref>{{cite web|url=https://www.latimes.com/entertainment/music/la-et-ms-best-of-2018-songs-20181224-story.html|title=Best of 2018: The 10 (or so) songs that demanded to be replayed, featuring Cardi B, Ariana Grande, John Mayer and Sophie|last=Wood|first=Mikael|date=December 24, 2018|work=[[Los Angeles Times]]|url-status=live|access-date=August 12, 2019|archive-date=December 31, 2019|archive-url=https://web.archive.org/web/20191231043619/https://www.latimes.com/entertainment/music/la-et-ms-best-of-2018-songs-20181224-story.html}}</ref> and ''Guardian '' Music Critic Laura Snapes included it as one of her favourite tracks in their “Best Music of 2018: Albums and Tracks" list.<ref>{{cite web|url=https://www.theguardian.com/music/2018/dec/21/the-best-albums-and-tracks-of-2018-how-our-writers-voted|title=The best albums and tracks of 2018: how our writers voted|work=[[TheGuardian.com|The Guardian]]|date=December 21, 2018|url-status=live|access-date=August 12, 2019|archive-date=May 1, 2020|archive-url=https://web.archive.org/web/20200501001230/https://www.theguardian.com/music/2018/dec/21/the-best-albums-and-tracks-of-2018-how-our-writers-voted}}</ref>
+
+On October 24, V became one of the youngest recipients of the prestigious fifth-class Hwagwan [[Order of Cultural Merit (Korea)|Order of Cultural Merit]] medal, awarded to him by the [[President of South Korea]] along with the other members of BTS for their role in the spread of culture.<ref>{{cite web|url=https://entertain.naver.com/ranking/read?oid=312&aid=0000354692|script-title=ko:'대중문화예술상' BTS, 문화훈장 화관 최연소 수훈...유재석부터 故 김주혁까지 '영광의 얼굴들' (종합)|last=Kim|first=Ji-won|date=October 24, 2018|work=Ten Asia|language=ko|trans-title=BTS, Order of Cultural Merit, the youngest person to win the grand prize. From Yoo Jae-suk to the late Kim Joo-hyuk, 'The faces of Yeonggwang' (Comprehensive)|url-status=live|access-date=August 12, 2019|via=[[Naver]]|archive-date=June 16, 2020|archive-url=https://web.archive.org/web/20200616023357/https://entertain.naver.com/ranking/read?oid=312&aid=0000354692}}</ref><ref>{{cite web|url=http://www.koreaherald.com/view.php?ud=20181024000878|title=BTS awarded with cultural medal for role in promoting Korean culture|author=<!--Not stated-->|date=October 24, 2018|work=[[Yonhap News Agency|Yonhap]]|url-status=live|access-date=August 12, 2019|via=[[The Korea Herald]]|archive-date=September 3, 2019|archive-url=https://web.archive.org/web/20190903230448/http://www.koreaherald.com/view.php?ud=20181024000878}}</ref>
+
+V, together with bandmate J-Hope, collaborated with Swedish singer [[Zara Larsson]] on a song called "[[A Brand New Day (BTS and Zara Larsson song)|A Brand New Day]]" for the soundtrack album of their mobile game [[BTS World]].<ref>{{cite web|url=https://www.billboard.com/articles/news/bts/8515949/bts-j-hope-v-usher-brand-new-day-collab-zara-larsson|title=BTS' J-Hope & V Usher In 'A Brand New Day' In Collab with Zara Larsson: Stream It Now|last=Herman|first=Tamar|date=June 14, 2019|work=[[Billboard (magazine)|Billboard]]|url-status=live|access-date=August 12, 2019|archive-date=June 23, 2020|archive-url=https://web.archive.org/web/20200623210513/https://www.billboard.com/articles/news/bts/8515949/bts-j-hope-v-usher-brand-new-day-collab-zara-larsson}}</ref> It was released on June 14, 2019 and debuted at number 1 on World Digital Song Sales Chart.<ref>{{cite web|url=https://www.billboard.com/articles/columns/chart-beat/8517450/bts-record-extending-13th-world-digital-song-sales-chart-topper|title=BTS Earns Record-Extending 13th World Digital Song Sales Chart No. 1 With 'A Brand New Day,' Feat. Zara Larsson|last=Zellner|first=Xander|date=June 24, 2019|work=[[Billboard (magazine)|Billboard]]|url-status=live|access-date=August 12, 2019|archive-date=October 22, 2019|archive-url=https://web.archive.org/web/20191022064820/https://www.billboard.com/articles/columns/chart-beat/8517450/bts-record-extending-13th-world-digital-song-sales-chart-topper}}</ref> Eight months later, he collaborated with bandmate Jimin for the song "Friends" and he also participated in the composition and writing of his solo song, "Inner Child" on their album [[Map of the Soul: 7]].<ref>{{cite web|url=https://www.elitedaily.com/p/what-do-bts-inner-child-lyrics-mean-in-english-v-sings-about-a-rough-time-21810827|title=What Do BTS' "Inner Child" Lyrics Mean In English? V Sings About A Rough Time|last=Mendez|first=Michele|date=February 21, 2020|work=[[Elite Daily]]|url-status=live|access-date=March 31, 2020|archive-date=March 23, 2020|archive-url=https://web.archive.org/web/20200323131538/https://www.elitedaily.com/p/what-do-bts-inner-child-lyrics-mean-in-english-v-sings-about-a-rough-time-21810827}}</ref>
+
+In July 2021, V was appointed [[Office of the President (South Korea)|Special Presidential Envoy for Future Generations and Culture]] by South Korean [[Moon Jae-in|President Moon Jae-in]], along with the other members of BTS, to help "lead the global agenda for future generations, such as sustainable growth" and "expand South Korea's diplomatic efforts and global standing" in the international community.<ref>{{cite web|url=https://www.upi.com/Top_News/World-News/2021/07/21/skorea-BTS-President-Moon-Jae-in-special-envoy/6491626854465/|title=BTS named special presidential envoy by South Korea|last=Maresca|first=Thomas|date=July 21, 2021|work=[[United Press International]]|archive-url=https://web.archive.org/web/20210721091025/https://www.upi.com/Top_News/World-News/2021/07/21/skorea-BTS-President-Moon-Jae-in-special-envoy/6491626854465/|archive-date=July 21, 2021|url-status=live|access-date=September 20, 2021}}</ref>
+
+=== 2016–present: Solo activities ===
+[[File:V (Kim Tae-hyung) at The Mood For Love Concert in Kobe in March 2016 03.jpg|thumb|200px|V in [[Kobe]], Japan during [[The Most Beautiful Moment in Life On Stage Tour]], March 23, 2016.|alt=V crosses his arms, his right hand holding a microphone, and looks left]]
+
+In 2016, V made his acting debut with a supporting role in [[KBS2]]'s [[Sageuk|historical drama]] ''[[Hwarang: The Poet Warrior Youth]]'' under his real name.<ref>{{cite web|url=http://star.mt.co.kr/view/stview.php?no=2016022908161965440&type=1&outlink=1|script-title=ko:방탄소년단 뷔, 본명으로 연기데뷔..'화랑:더비기닝' – 스타뉴스|last=Gil|first=Hye-sung|work=Star News|language=ko|trans-title=BTS' V, acting debut under his real name..'Hwarang: The Beginning'|url-status=live|access-date=August 13, 2019|archive-date=November 28, 2016|archive-url=https://web.archive.org/web/20161128133846/http://star.mt.co.kr/view/stview.php?no=2016022908161965440&type=1&outlink=1}}</ref> He also collaborated with bandmate [[Kim Seok-jin|Jin]] on a duet for its soundtrack entitled "It's Definitely You".<ref>{{cite web|url=http://m.newsen.com/news_view.php?uid=201611270949080410|script-title=ko:[단독]효린 양요섭 방탄 뷔X진 '화랑' OST 지원사격 '명품보컬 총출동'|last=Hwang|first=Hye-jin|date=November 27, 2016|work=Newsen|language=ko|trans-title=[Exclusive] Hyolyn, Yang Yoseob, BTS VxJin 'Hwarang' OST 'Showing master vocal support'|archive-url=https://web.archive.org/web/20170807021850/http://m.newsen.com/news_view.php?uid=201611270949080410|archive-date=August 7, 2017|url-status=live|access-date=August 13, 2019}}</ref> To celebrate BTS' fourth anniversary, V released "4 O'Clock" on June 8, 2017, a song he co-produced with bandmate [[RM (rapper)|RM]].<ref name=4oclock>{{cite web|url=https://www.billboard.com/articles/columns/k-town/7833899/bts-celebrates-4th-anniversary-three-new-songs|title=BTS Celebrates Anniversary With 3 New Songs|last=Herman|first=Tamar|date=June 16, 2017|work=[[Billboard (magazine)|Billboard]]|url-status=live|access-date=December 3, 2017|archive-date=December 21, 2017|archive-url=https://web.archive.org/web/20171221075422/https://www.billboard.com/articles/columns/k-town/7833899/bts-celebrates-4th-anniversary-three-new-songs}}</ref>
+
+V released his first full solo track outside of BTS, "Scenery", on January 30, 2019 through the group's [[SoundCloud]] page.<ref name=scenery>{{cite web|url=https://edition.cnn.com/2019/01/30/entertainment/bts-v-song-scenery/index.html|title=BTS' V drops solo single 'Scenery'|last=Melas|first=Chloe|date=January 30, 2019|work=[[CNN]]|url-status=live|access-date=August 13, 2019|archive-date=May 23, 2019|archive-url=https://web.archive.org/web/20190523065332/https://edition.cnn.com/2019/01/30/entertainment/bts-v-song-scenery/index.html}}</ref> The ballad was written and composed by V—he also photographed the cover artwork—and produced by Big Hit producer Docskim, with additional contributions from two other Big Hit producers, [[Pdogg]] and Hiss Noise.<ref>{{cite web|url=https://www.nme.com/news/music/bts-v-self-composed-track-scenery-2440675|title=Listen to BTS member V's new self-composed ballad 'Scenery'|last=Daly|first=Rhian|date=January 30, 2019|work=[[NME]]|url-status=live|access-date=August 13, 2019|archive-date=September 24, 2019|archive-url=https://web.archive.org/web/20190924110341/https://www.nme.com/news/music/bts-v-self-composed-track-scenery-2440675}}</ref> It broke SoundCloud records for reaching 100 million streams from 20 million in over fourteen days, the shortest time for the platform. Over the course of the two weeks following its release, "Scenery" broke the daily streaming record nine times. <ref>{{cite web|url=https://entertain.naver.com/read?oid=022&aid=0003340081|script-title=ko:방탄소년단 뷔 자작곡 '풍경' 최단기간 1억 스트리밍 돌파 "K팝 새역사"|last=Choo|first=Young-joon|date=February 14, 2019|work=Segye|language=ko|trans-title=BTS V's own song 'Scenery' breaks 100 million streams in the shortest period of time "New K-Pop History"|url-status=live|access-date=August 13, 2019|via=[[Naver]]|archive-date=July 31, 2019|archive-url=https://web.archive.org/web/20190731151132/https://entertain.naver.com/read?oid=022&aid=0003340081}}</ref> Seven months later, he released his second solo song and his first full English song entitled "Winter Bear" through SoundCloud, accompanied by a self-directed music video via BTS' [[YouTube]] channel on August 9. He co-produced the track together with [[RM (rapper)|RM]], Hiss Noise, and Adora. He also photographed the cover artwork using his pseudonym ''Vante''.<ref>{{cite web|url=https://www.elitedaily.com/p/bts-vs-winter-bear-music-video-is-so-unbelievably-beautiful-in-every-way-18563932|title=BTS' V's "Winter Bear" Music Video Is So Unbelievably Beautiful In Every Way|last=Devoe|first=Noelle|date=August 9, 2019|work=[[Elite Daily]]|url-status=live|access-date=August 13, 2019|archive-date=November 28, 2019|archive-url=https://web.archive.org/web/20191128195509/https://www.elitedaily.com/p/bts-vs-winter-bear-music-video-is-so-unbelievably-beautiful-in-every-way-18563932}}</ref><ref name="winter bear"/>
+
+In 2020, V participated in a song titled "Sweet Night" for the soundtrack of the [[JTBC]] drama ''[[Itaewon Class]]'' which was released on March 13, 2020.<ref>{{cite web|url=https://entertain.v.daum.net/v/20200306162040820|script-title=ko:[단독] 방탄소년단 뷔, '이태원 클라쓰' OST 참여|last=Park|first=Hyun-min|date=March 6, 2020|work=TV Report|language=ko|trans-title=BTS V, 'Itaewon Class' OST Participation|archive-url=https://web.archive.org/web/20200306120011/https://entertain.v.daum.net/v/20200306162040820|archive-date=March 6, 2020|url-status=live|access-date=March 6, 2020|via=[[Daum (web portal)|Daum]]}}</ref><ref>{{cite web|url=https://entertain.naver.com/read?oid=312&aid=0000439022|script-title=ko:방탄소년단 뷔, 직접 프로듀싱한 '이태원 클라쓰' OST 오늘(13일) 발매|last=Woo|first=Bin|date=March 13, 2020|work=[[Hankyung|Ten Asia]]|language=ko|trans-title=Bulletproof Boy Scouts V, 'Itaewon Class' OST produced by himself released today (13th)|url-status=live|access-date=March 13, 2020|via=[[Naver]]|archive-date=May 28, 2020|archive-url=https://web.archive.org/web/20200528094059/https://entertain.naver.com/read?oid=312&aid=0000439022%2F}}</ref> Produced, written and sung by V, the [[indie pop]] song is entirely in English.<ref>{{cite web|url=https://entertain.naver.com/read?oid=213&aid=0001157320&cid=1073788|script-title=ko:방탄소년단 뷔, 오늘(13일) '이태원 클라쓰' OST '스위트 나잇' 발매|last=Kim|first=Min-ju|date=March 13, 2020|work=TV Report|language=ko|trans-title=BTS V, releases 'Itaewon Class' OST 'Sweet Night' Today (13th)|url-status=live|access-date=March 13, 2020|via=[[Naver]]|archive-date=March 13, 2020|archive-url=https://web.archive.org/web/20200313054828/https://entertain.naver.com/read?oid=213&aid=0001157320&cid=1073788}}</ref><ref>{{cite web|url=https://time.com/5802653/bts-v-sweet-night-itaewon-class/|title=BTS Member V's 'Sweet Night' for Korean Drama Itaewon Class Is a Balm for a Bittersweet Story|last=Moon|first=Kat|date=March 13, 2020|work=[[Time (magazine)|Time]]|url-status=live|access-date=March 14, 2020|archive-date=May 13, 2020|archive-url=https://web.archive.org/web/20200513023856/https://time.com/5802653/bts-v-sweet-night-itaewon-class/}}</ref> The song received generally favourable reviews for its composition, vocal performance and warm lyrics, and debuted at number 2 on [[Billboard charts|''Billboard'']]'s U.S. Digital Song Sales chart, the highest debut for a Korean soloist in the chart's history.<ref>{{cite web|url=https://entertain.naver.com/read?oid=311&aid=0001123499|script-title=ko:美타임지, 방탄소년단 뷔 OST 'Sweet Night' 극찬…"가사가 매우 탁월해"|last=Choi|first=Ji-young|date=March 17, 2020|work=Xports News|language=ko|trans-title=American Times, BTS V OST 'Sweet Night' Praise… "The lyrics are very good"|archive-date=May 28, 2020|archive-url=https://web.archive.org/web/20200528094101/https://entertain.naver.com/read?oid=311&aid=0001123499%2F|url-status=live|access-date=March 17, 2020|via=[[Naver]]}}</ref><ref>{{Cite web|url=https://www.forbes.com/sites/hughmcintyre/2020/03/23/bts-member-v-scores-the-second-bestselling-song-in-the-us-with/|title=BTS Member V Scores The Second-Bestselling Song In The U.S. With 'Sweet Night'|last=McIntyre|first=Hugh|website=Forbes|language=en|access-date=March 30, 2020|archive-date=March 30, 2020|archive-url=https://web.archive.org/web/20200330235538/https://www.forbes.com/sites/hughmcintyre/2020/03/23/bts-member-v-scores-the-second-bestselling-song-in-the-us-with/|url-status=live}}</ref> On December 25, 2020, V released a solo track titled "Snow Flower" featuring [[Peakboy]].<ref name=snowflower>{{cite web|url=https://consequenceofsound.net/2020/12/bts-jimin-chirstmas-love-v-snow-flower-stream/|title=BTS' Jimin, V Gift ARMY with New Songs 'Christmas Love' and 'Snow Flower': Stream|last=Kaye|first=Ben|date=December 24, 2020|work=[[Consequence of Sound]]|access-date=December 25, 2020}}</ref>
+
+V will participate in the original soundtrack for the upcoming [[Studio N (company)|Studio N]] drama ''[[Our Beloved Summer]]'', set to premiere in December 2021.<ref>{{cite web|url=https://entertain.naver.com/read?oid=609&aid=0000515371|script-title=ko:방탄소년단 뷔 '그 해 우리는' OST 가창 참여, 절친 최우식 지원사격|last=Park|first=Soo-in|date=November 25, 2021|work=Newsen|language=ko|trans-title=|archive-url=https://web.archive.org/web/20211125024731/https://entertain.naver.com/read?oid=609&aid=0000515371|archive-date=November 25, 2021|url-status=live|access-date=November 24, 2021|via=[[Naver]]}}</ref>
+
+== Impact and influence ==
+V coined the phrase "I purple you" during BTS' fanmeeting in November 2016. Ever since then, purple has become a symbol of BTS and their fans. [[UNICEF]] also used the phrase for their anti-bullying campaign in collaboration with BTS.<ref>{{cite web|url=https://n.news.naver.com/entertain/article/022/0003388388|last=Choo|first=Young-joon|date=August 12, 2019|work=Segye|language=ko|script-title=ko:美 뉴스위크, 방탄소년단 뷔가 만든 '보라해' 1000일 맞아 전세계 영향력 심층보도|trans-title=US Newsweek, in-depth coverage of global influence to mark the 1,000th day of 'Borahae (I Purple You.)' created by BTS's V|url-status=live|access-date=August 12, 2019|via=[[Naver]]|archive-date=August 12, 2019|archive-url=https://web.archive.org/web/20190812065332/https://n.news.naver.com/entertain/article/022/0003388388}}</ref>
+
+In 2018, Eugene Investment & Securities Co., Ltd. conducted analytical research on Google search trends relating to the K-pop industry. "V" ranked first on the chart, meaning it was the number one most searched keyword for the past five years in South Korea.<ref>{{cite web|url=https://m.entertain.naver.com/read?oid=022&aid=0003328619|script-title=ko:방탄소년단 뷔, '구글트렌드 1위'로 증권가도 주목|last=Choo|first=Young-joon|date=December 24, 2018|work=Segye|language=ko|trans-title=BTS' V, Seoul's #1 on Google Trends, Stock Market Takes Note|url-status=live|access-date=August 13, 2019|via=[[Naver]]|archive-date=May 25, 2019|archive-url=https://web.archive.org/web/20190525140512/https://m.entertain.naver.com/read?oid=022&aid=0003328619}}</ref> In  a survey conducted by [[Gallup Korea]], V was chosen as the 4th most preferred idol of 2019; he was previously ranked 9th in 2018.<ref>{{cite web|url=https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1072|script-title=ko:2019년 올해를 빛낸 가수와 가요 – 최근 13년간 추이 포함|date=December 19, 2019|publisher=Gallup Korea|language=ko|trans-title=Gallup Report {{!}} Singers who shone this year in 2019-Includes trends in the last 13 years|url-status=live|access-date=July 9, 2020|archive-date=December 19, 2019|archive-url=https://web.archive.org/web/20191219052021/https://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=1072}}</ref><ref>{{cite web|url=https://gallupkorea.blogspot.com/2018/12/2018-12_18.html|script-title=ko:한국갤럽 데일리 오피니언, 매주 새로운 여론조사 결과를 전합니다.|date=December 18, 2018|publisher=Gallup Korea|language=ko|trans-title=K-pop Songs and Singers that have shone this year in 2018 - including trends over the past 12 years|url-status=live|access-date=August 13, 2019|archive-date=June 12, 2019|archive-url=https://web.archive.org/web/20190612150825/https://gallupkorea.blogspot.com/2018/12/2018-12_18.html}}</ref> In 2021, he ranked first for most popular Korean celebrities in Japan for twenty-eight weeks in a row.<ref>{{cite web |title=방탄소년단 뷔. 日 네한 인기 투표 28주 연속 1위...4차 한류열풍의 주역 |url=https://entertain.naver.com/now/read?oid=312&aid=0000505654 |website=Naver |access-date=15 October 2021 |language=Korean}}</ref>
+
+Various artists have cited him as an influence and role model, such as [[The Boyz (South Korean band)|The Boyz]]'s Younghoon and Hwall,<ref name="Role Model">References:
+*{{cite web|url=https://m.entertain.naver.com/read?oid=022&aid=0003344024|script-title=ko:방탄소년단 뷔 '중국 아이돌들의 아이돌'로 영향력 확대! "中 인기 고공행진"|last=Choo|first=Young-joon|date=March 3, 2019|work=Segye|language=ko|trans-title=BTS V, extends his influence as idol of Chinese Idols "High Popularity"|url-status=live|access-date=August 13, 2019|via=[[Naver]]|archive-date=March 6, 2019|archive-url=https://web.archive.org/web/20190306042826/https://m.entertain.naver.com/read?oid=022&aid=0003344024}}
+*{{cite web|url=https://entertain.naver.com/read?oid=408&aid=0000061147|script-title=ko:‘아이돌 라디오’ 더보이즈 영훈, “방탄소년단 뷔에 푹 빠졌다!” 음성편지로 ‘팬심’ 전해|last=Kim|first=Hye-yeong|date=November 3, 2018|work=[[iMBC]]|language=ko|trans-title='Idol Radio' The Boyz Younghoon, "I'm into BTS' V!" Sends video letter as a fan|url-status=live|access-date=August 13, 2019|via=[[Naver]]|archive-date=June 17, 2020|archive-url=https://web.archive.org/web/20200617010426/https://entertain.naver.com/read?oid=408&aid=0000061147}}</ref> [[Golden Child (band)|Golden Child]]'s Jaehyun<ref>{{cite web|url=https://entertain.naver.com/photo/read?oid=076&aid=0003281612&cid=846241|script-title=ko:골든차일드 재현 "방탄소년단 뷔, 스타일 롤 모델이다"[화보]|last=Jung|first=Yoo-na|date=July 6, 2016|work=[[Seoul Shinmun|Sports Seoul]]|language=ko|trans-title=Golden Child's second appearance, "BTS' V, Style Role Model" [Photoshoot]|url-status=live|access-date=August 13, 2019|via=[[Naver]]|archive-date=July 31, 2019|archive-url=https://web.archive.org/web/20190731151136/https://entertain.naver.com/photo/read?oid=076&aid=0003281612&cid=846241}}</ref> and Jangjun, [[MVP (South Korean band)|MVP]]'s Been,<ref>{{cite web|url=https://n.news.naver.com/entertain/article/022/0003323546|script-title=ko:BTS 뷔 "무대 장악력은 아이돌 우상"…롤모델로 꼽는 후배들 만남 화제|last=Choo|first=Young-joon|date=December 3, 2018|work=Segye|language=ko|trans-title=BTS V "his stage presence is Idols' Idol". Meeting with junior idols who mentioned V as their role model, became a hot issue."|url-status=live|access-date=August 9, 2019|via=[[Naver]]|archive-date=August 9, 2019|archive-url=https://web.archive.org/web/20190809095903/https://n.news.naver.com/entertain/article/022/0003323546}}</ref> [[Rainz (band)|Rainz]]'s Byun Hyun-min,<ref>{{cite web|url=https://m.insight.co.kr/news/206453|script-title=ko:“연예인의 연예인”···방탄 뷔 닮고 아이돌 후 배 5명싶다며 '롤모델'로 꼽은|author=<!--Not stated-->|date=February 6, 2019|work=Insight|language=ko|trans-title=BTS V, the "role model" of entertainers. 5 idol juniors who said they wanted to look like BTS V and chose V as their role model|url-status=live|access-date=August 13, 2019|archive-date=May 14, 2019|archive-url=https://web.archive.org/web/20190514164402/https://m.insight.co.kr/news/206453}}</ref> [[Cravity]]'s Serim,<ref>{{cite web|url=https://entertain.naver.com/now/read?oid=112&aid=0003290684|script-title=ko:'정희' 크래비티, 데뷔 7일차 풋풋 신인이 전한..#롤모델BTS뷔 #몬스타엑스미담[종합]|last=Park|first=Seo-yeon|date=April 21, 2020|work=[[Herald Corporation]]|language=ko|trans-title="Jung Hee" Cravity, 7th day of debut, from a rookie...#RoleModelBTSV #MONSTAX-Midam [Comprehensive]|access-date=July 9, 2020|via=[[Naver]]|archive-date=May 5, 2020|archive-url=https://web.archive.org/web/20200505143651/https://entertain.naver.com/now/read?oid=112&aid=0003290684|url-status=live}}</ref> [[Ateez]]'s Yeosang and Mingi, [[D-Crunch]]'s Jungseung and Dylan, Lucente's Bao,<ref name="Role Model" /> [[Newkidd]]'s Yunmin, [[Boy Story]]'s Hanyu, [[Tomorrow X Together|TXT]]'s Beomgyu, [[Produce X 101]] contestants Koo Jungmo,<ref>{{cite web|url=https://n.news.naver.com/entertain/article/022/0003387862|script-title=ko:“넘버원 아이돌 롤모델” 방탄소년단 뷔, 제 2의 ‘무대천재’ 꿈꾸는 후배들의 최애 고백|last=Choo|first=Young-joon|date=August 9, 2019|work=Segye|language=ko|trans-title=BTS V, "Number One Idol Role Model", younger trainees confession of BTS V as their favourite member, dream of becoming "the 2nd stage genius"|url-status=live|access-date=August 13, 2019|via=[[Naver]]|archive-date=August 9, 2019|archive-url=https://web.archive.org/web/20190809095902/https://n.news.naver.com/entertain/article/022/0003387862}}</ref> Lee Taeseung<ref>{{cite web|url=http://m.joynews24.com/view.php?g_serial=1196417#imadnews|script-title=ko:'프듀X' 이진우·이태승·이우진 밝힌 #이동욱 #인생연습생 #박지훈(인터뷰)|last1=Jung|first1=Ji-won|last2=Jeong|first2=So-hee|date=July 24, 2019|work=Joy News 24|language=ko|trans-title=(Interview) 'Produce X' Lee Jin-woo, Lee Tae-seung, and Lee Woo-jin revealed #LeeDongWook #Lifetrainee #JihoonPark|url-status=live|access-date=August 13, 2019|archive-date=October 1, 2019|archive-url=https://web.archive.org/web/20191001064836/http://m.joynews24.com/view.php?g_serial=1196417#imadnews}}</ref> and Mahiro Hidaka,<ref>{{cite web|url=https://entertain.v.daum.net/v/20191112111054390|script-title=ko:'프듀X101' 강석화 "100 노력해도 1만 방송될 때 아쉬움 느껴" [화보]|last=Cho|first=Yoon-sun|date=November 12, 2019|work=Sports Chosun|language=ko|trans-title='Produce X 101' Kang Seokhwa "I feel sad when only 1 is broadcast although I made 100 efforts."[pictorial]|url-status=live|access-date=November 13, 2019|via=[[Daum (web portal)|Daum]]|archive-date=December 14, 2019|archive-url=https://web.archive.org/web/20191214193719/https://entertain.v.daum.net/v/20191112111054390}}</ref> and former [[Wanna One]] member [[Park Ji-hoon]].<ref>{{cite web|url=https://entertain.naver.com/read?oid=416&aid=0000210639|script-title=ko:방탄소년단 뷔 "롤모델로 꼽아준 워너원 박지훈, 정말 감사"|last=Lee|first=Jung-ah|date=September 18, 2017|work=[[Seoul Broadcasting System|SBS funE]]|language=ko|trans-title=BTS' V "Wanna One Park Ji-hoon thank you very much for choosing me as your role model"|url-status=live|access-date=August 13, 2019|via=[[Naver]]|archive-date=June 14, 2020|archive-url=https://web.archive.org/web/20200614144217/https://entertain.naver.com/read?oid=416&aid=0000210639}}</ref>
+
+== Artistry ==
+V possesses a [[baritone]] singing voice that has received a generally positive critical reception, with particular praise for his vocal range and "husky" tone.<ref>{{cite news|title=BTS' V releases self-created solo song|url=https://en.yna.co.kr/view/AEN20190131004100315|access-date=November 1, 2020|work=[[Yonhap News Agency]]|date=January 31, 2019|archive-date=November 11, 2020|archive-url=https://web.archive.org/web/20201111014457/https://en.yna.co.kr/view/AEN20190131004100315|url-status=live}}</ref><ref>{{cite web|url=http://www.koreaherald.com/view.php?ud=20191030000717|title=BTS bids farewell to 'Love Yourself' era with triumphant, emotional homecoming|author=''Korea Herald'' Staff|date=October 20, 2019|url-status=live|access-date=March 17, 2020|archive-date=May 6, 2020|archive-url=https://web.archive.org/web/20200506011806/http://www.koreaherald.com/view.php?ud=20191030000717}}</ref> He gained wider vocal recognition for his performance of his solo song "Stigma", and was praised for his falsettos that showed off his vocal range and unique musicality.<ref>{{Cite web|url=https://www.sbs.com.au/popasia/blog/2017/05/29/review-bts-live-trilogy-episode-iii-wings-tour-sydney|title=REVIEW: BTS Live Trilogy Episode III: The Wings Tour in Sydney|website=SBS PopAsia|language=en|access-date=March 30, 2020|archive-date=December 6, 2019|archive-url=https://web.archive.org/web/20191206092736/https://www.sbs.com.au/popasia/blog/2017/05/29/review-bts-live-trilogy-episode-iii-wings-tour-sydney|url-status=live}}</ref> V's tonality on "[[Singularity (song)|Singularity]]", the opening track of BTS' ''[[Love Yourself: Tear]]'' (2018), was noted as a prominent "tone setter" on the album by music critic Blanca Méndez.<ref>{{cite web|url=https://www.spin.com/2018/05/bts-love-yourself-tear-album-review|title=BTS' Love Yourself: Tear Finds the Harmony in Genre-Hopping|author=Blanca Méndez|date=May 18, 2018|url-status=live|access-date=March 17, 2020|archive-date=February 1, 2020|archive-url=https://web.archive.org/web/20200201213206/https://www.spin.com/2018/05/bts-love-yourself-tear-album-review/}}</ref> Similarly, Katie Goh of ''[[Vice (magazine)|Vice]]'' deemed it as "one of V's best vocal performances."<ref>{{cite web|url=https://www.vice.com/en/article/3anqm3/the-guide-to-getting-into-bts-the-biggest-boy-band-on-earth|title=The Guide to Getting Into BTS, the Biggest Boy Band On Earth|last=Goh|first=Katie|date=November 16, 2020|work=[[Vice (magazine)|Vice]]|url-status=live|access-date=November 18, 2020|archive-date=November 17, 2020|archive-url=https://web.archive.org/web/20201117111719/https://www.vice.com/en/article/3anqm3/the-guide-to-getting-into-bts-the-biggest-boy-band-on-earth}}</ref> Karen Ruffini of [[Elite Daily]] stated in their article that "V... has no problem producing super soothing, low tones that are a key element in the overall sound for BTS,"<ref>{{cite web|url=https://www.elitedaily.com/p/who-is-v-from-bts-taehyung-has-the-voice-of-angel-thatll-make-your-heart-melt-11992088|title=Who is V From BTS?|last=Ruffini|first=Karen|date=September 20, 2018|work=[[Elite Daily]]|url-status=live|access-date=August 13, 2019|archive-date=May 7, 2019|archive-url=https://web.archive.org/web/20190507041641/https://www.elitedaily.com/p/who-is-v-from-bts-taehyung-has-the-voice-of-angel-thatll-make-your-heart-melt-11992088}}</ref> with Tamar Herman from ''[[Billboard (magazine)|Billboard]]'' also noting that V's lower range is a prominent piece of BTS' music.<ref>{{cite web|url=https://www.billboard.com/articles/columns/k-town/7850225/bts-v-get-to-know|title=Get to Know BTS: V|last=Herman|first=Tamar|date=June 30, 2017|work=[[Billboard (magazine)|Billboard]]|url-status=live|access-date=August 13, 2019|archive-date=March 29, 2019|archive-url=https://web.archive.org/web/20190329055557/https://www.billboard.com/articles/columns/k-town/7850225/bts-v-get-to-know}}</ref> V's musicality is heavily influenced by his love for jazz and classical music. [[Eric Benet]] and [[Ruben Studdard]] are among his inspirations.<ref>{{cite web|url=http://kpopherald.koreaherald.com/view.php?ud=201902141041021270461_2|title=50 facts about V of BTS|date=February 14, 2019|url-status=live|access-date=March 17, 2020|archive-date=February 18, 2019|archive-url=https://web.archive.org/web/20190218113958/http://kpopherald.koreaherald.com/view.php?ud=201902141041021270461_2}}</ref>
+
+As a performer, V's style is known for its "duality", or his ability to evoke various emotions on stage.<ref>{{cite web|url=https://www.billboard.com/amp/articles/business/touring/8512451/bts-metlife-stadium-concert-recap|title=At Metlife Stadium, BTS End U.S. Love Yourself: Speak Yourself Stadium Tour on Their Own Terms|last=Herman|first=Tamar|date=May 20, 2019|url-status=live|access-date=March 17, 2020|archive-date=June 24, 2019|archive-url=https://web.archive.org/web/20190624172141/https://www.billboard.com/amp/articles/business/touring/8512451/bts-metlife-stadium-concert-recap}}</ref> British journalist Rhian Daly, writing for ''[[NME]]'', particularly noted this when discussing V's performance of  "Singularity" during the [[Love_Yourself_World_Tour#Speak_Yourself_extension|Love Yourself: Speak Yourself World Tour]], describing his movements as "precise and deliberate".<ref>{{cite web|url=https://www.nme.com/reviews/bts-love-yourself-speak-yourself-final-seoul-olympic-stadium-review-2562442|title=BTS bring the 'Love Yourself' era to a close with powerful and moving homecoming show in Seoul|last=Daly|first=Rhian|date=October 29, 2019|url-status=live|access-date=March 17, 2020|archive-date=February 24, 2020|archive-url=https://web.archive.org/web/20200224215517/https://www.nme.com/reviews/bts-love-yourself-speak-yourself-final-seoul-olympic-stadium-review-2562442}}</ref> Crystal Bell from [[MTV]] noted V's performances often work with live cameras in concert venues, and how he utilizes them to create subtle expressions during performances.<ref>{{cite web|url=http://www.mtv.com/news/3101141/bts-love-yourself-tour-moments-citi-field|title=THE 10 MOST BEAUTIFUL MOMENTS OF BTS' LOVE YOURSELF TOUR|last=Bell|first=Crystal|url-status=live|access-date=March 17, 2020|archive-date=April 28, 2020|archive-url=https://web.archive.org/web/20200428170914/http://www.mtv.com/news/3101141/bts-love-yourself-tour-moments-citi-field/}}</ref>
+
+== Personal life ==
+In October 2018 during the [[Love Yourself World Tour]] concert in Paris, he had difficulty singing due to an illness and had to abstain from parts of his singing during the concert.<ref>{{cite web |title=BTS 뷔, 파리공연 중 '폭풍 눈물 인사'에 해외언론들 감동 특집기사로 다뤄 |url=https://m.segye.com/view/20181024000503 |website=Segye |access-date=24 October 2021 |language=Korean |date=24 October 2018}}</ref> In July 2019, he bought a luxury apartment worth USD $4.55 million.<ref>{{cite web |title=방탄소년단 뷔, 51억원 강남아파트 無대출 현금 매입 |url=https://theqoo.net/index.php?mid=hot&filter_mode=normal&document_srl=1238684691 |website=theqoo |access-date=24 October 2021 |language=Korean}}</ref> In October 2021 it was announced Taehyung would abstain from choreography during their "[[Permission to Dance on Stage]]" concerts due to a calf injury. Instead, he would remain seated while singing his parts.<ref>{{cite web |last1=Khan |first1=Afreen |title=ARMY trends #GetBetterSoonTae as BTS’ Kim Taehyung injures himself ahead of PTD online concert |url=https://www.sportskeeda.com/pop-culture/news-army-trends-getbettersoontae-bts-kim-taehyung-injures-ahead-ptd-offline-concert |website=[[Sportskeeda]] |access-date=24 October 2021 |date=24 October 2021}}</ref>
+
+Since 2018 he has lived in [[Hannam-dong]], [[Seoul]], South Korea with his bandmates.<ref>{{cite news|url=https://news.joins.com/article/22766833|script-title=ko:[라이프트렌드] 유명인이 반한 한남동, 최고급 주거지로 뜬 이유|trans-title=[Life trend] The reason why Hannam-dong, which celebrities fall in love with, has emerged as a luxury residence|language=ko|last=Han|first=Jin|date=July 3, 2018|website=[[Korea JoongAng Daily]]|via=Naver|url-status=dead|archive-url=https://web.archive.org/web/20190421121021/https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=025&aid=0002833392|archive-date=April 21, 2019|access-date=August 17, 2018}}</ref>
+
+== Discography ==
+{{For|V's works with BTS|BTS singles discography|BTS albums discography}}
+
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="3" | Title
+! scope="col" rowspan="3" | Year
+! scope="col" colspan="7" | Peak chart positions
+! scope="col" rowspan="3" | Sales
+! scope="col" rowspan="3" | Album
+|-
+! scope="col" colspan="2" | KOR
+! scope="col" rowspan="2" style="width:3.5em;font-size:90%;" | [[Billboard charts|US World]]<br><ref>Compiled US World sources:
+* "Stigma": {{cite web|url=http://www.billboard.com/biz/charts/2016-10-29/world-digital-songs|title=World Digital Songs (October 29, 2016)|work=Billboard|url-status=live|access-date=August 13, 2019|archive-date=May 17, 2017|archive-url=https://web.archive.org/web/20170517213323/http://www.billboard.com/biz/charts/2016-10-29/world-digital-songs}}
+* "It's Definitely You": {{cite web|url=https://www.billboard.com/articles/columns/k-town/7669823/clc-hobgoblin-world-digital-song-sales-albums-charts-first-appearance|title=CLC Debut on World Digital Song Sales & World Albums Charts Thanks to 'Hobgoblin'|last=Benjamin|first=Jeff|date=January 26, 2017|work=[[Billboard (magazine)|Billboard]]|url-status=live|access-date=June 2, 2018|archive-date=July 9, 2019|archive-url=https://web.archive.org/web/20190709225023/https://www.billboard.com/articles/columns/k-town/7669823/clc-hobgoblin-world-digital-song-sales-albums-charts-first-appearance}}
+* "Intro: Singularity": {{cite web|url=https://www.billboard.com/biz/charts/2018-06-02/world-digital-song-sales|title=World Digital Songs (June 1, 2018)|publisher=[[Billboard (magazine)|Billboard]]|url-status=live|access-date=August 13, 2019|archive-date=October 2, 2018|archive-url=https://web.archive.org/web/20181002180748/https://www.billboard.com/biz/charts/2018-06-02/world-digital-song-sales}}</ref>
+! scope="col" rowspan="2" style="width:3.5em;font-size:90%;" | [[Syndicat National de l'Édition Phonographique|FRA Dig.]]<br /><ref>Compiled FRA sources:
+* {{cite web|url=http://www.snepmusique.com/tops-semaine/top-singles-telecharges/?ye=2018&we=21|title=Le Top de la semaine : Top Singles Téléchargés – SNEP (Week 21, 2018)|publisher=[[Syndicat National de l'Édition Phonographique]]|language=fr|access-date=May 29, 2018}}{{Dead link|date=August 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+! scope="col" rowspan="2" style="width:3.5em;font-size:90%;" | [[Association of Hungarian Record Companies|HUN]]<br /><ref>Compiled HUN sources:
+* {{cite web|url=http://zene.slagerlistak.hu/single-track-top-40-lista/2018/21|title=Singularity|publisher=Slagerlistak|language=hu|url-status=live|access-date=September 28, 2018|archive-date=June 1, 2020|archive-url=https://web.archive.org/web/20200601055048/https://slagerlistak.hu/single-top-40-slagerlista/2018/21/}}
+* {{cite web|url=http://zene.slagerlistak.hu/single-track-top-40-lista/2020/9|title=Inner Child|publisher=[[Association of Hungarian Record Companies]]|date=March 6, 2020|access-date=March 5, 2020|archive-date=March 17, 2020|archive-url=https://web.archive.org/web/20200317050801/http://zene.slagerlistak.hu/single-track-top-40-lista/2020/9|url-status=live}}
+* {{cite web|url=http://zene.slagerlistak.hu/single-track-top-40-lista/2020/11|title=It's Definitely You|publisher=[[Association of Hungarian Record Companies]]|date=March 13, 2020|access-date=May 5, 2020|archive-date=March 19, 2020|archive-url=https://web.archive.org/web/20200319164554/http://zene.slagerlistak.hu/single-track-top-40-lista/2020/11|url-status=live}}
+* {{cite web|url=http://zene.slagerlistak.hu/single-track-top-40-lista/2020/12|title=Sweet Night|publisher=[[Association of Hungarian Record Companies]]|date=April 17, 2020|access-date=May 5, 2020|archive-date=June 1, 2020|archive-url=https://web.archive.org/web/20200601055055/https://slagerlistak.hu/single-top-40-slagerlista/2020/12/|url-status=live}}
+* {{cite web|url=http://zene.slagerlistak.hu/single-track-top-40-lista/2020/17|title=Stigma|publisher=[[Association of Hungarian Record Companies]]|date=March 5, 2020|access-date=May 5, 2020|archive-date=June 1, 2020|archive-url=https://web.archive.org/web/20200601055057/https://slagerlistak.hu/single-top-40-slagerlista/2020/17/|url-status=live}}</ref>
+! scope="col" rowspan="2" style="width:3.5em;font-size:90%;" | [[Billboard Japan#Billboard Japan charts|JPN<br>{{small|Hot 100}}]]<br><ref>Compiled JPN sources:
+* {{cite web|url=http://www.billboard-japan.com/charts/detail?a=hot_albums|title=Billboard Japan Hot Albums [ 2019/08/12 付け ]|publisher=Billboard Japan|language=ja|trans-title=Billboard Japan Hot Albums [As of August 12, 2019]|url-status=live|access-date=August 13, 2019|archive-date=June 1, 2019|archive-url=https://web.archive.org/web/20190601105232/http://www.billboard-japan.com/charts/detail/?a=hot_albums}}
+* {{cite web|url=http://www.billboard-japan.com/charts/detail?a=hot100&year=2018&month=05&day=21|title=Billboard Japan Hot 100 [ 2018/05/21 付け ]|publisher=[[Billboard Japan]]|language=ja|trans-title=Billboard Japan Hot 100 [May 21, 2018]|url-status=live|access-date=August 13, 2019|archive-date=May 8, 2020|archive-url=https://web.archive.org/web/20200508072819/http://www.billboard-japan.com/charts/detail?a=hot100}}</ref>
+! scope="col" rowspan="2" style="width:3.5em;font-size:90%;"|[[Official New Zealand Music Chart|NZ<br>{{small|Hot}}]]<br><ref>{{cite web|url=https://nztop40.co.nz/chart/hotsingles?chart=4836|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=March 23, 2020|access-date=March 21, 2020|archive-date=March 20, 2020|archive-url=https://web.archive.org/web/20200320211707/https://nztop40.co.nz/chart/hotsingles?chart=4836|url-status=live}}</ref>
+|-
+! scope="col" style="width:3.5em;font-size:90%;" | [[Gaon Digital Chart|Gaon]]<br><ref>Compiled KOR sources:
+* "Stigma": {{cite web|url=http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=42&hitYear=2016&termGbn=week|title=2016년 42주차 Digital Chart [2016.10.09~2016.10.15]|publisher=[[Gaon Music Chart]]|language=ko|url-status=live|access-date=August 13, 2019|archive-date=December 6, 2017|archive-url=https://web.archive.org/web/20171206140140/http://gaonchart.co.kr/main/section/chart/online.gaon?serviceGbn=ALL&termGbn=week&hitYear=2016&targetTime=42&nationGbn=T}}
+* "It's Definitely You": {{cite web|url=http://www.gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=52&hitYear=2016&termGbn=week|title=2016년 52주차 Digital Chart [2016.12.18~2016.12.24]|publisher=[[Gaon Music Chart]]|language=ko|url-status=live|access-date=August 13, 2019|archive-date=September 3, 2017|archive-url=https://web.archive.org/web/20170903121758/http://www.gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=52&hitYear=2016&termGbn=week}}
+* "Intro: Singularity": {{cite web|url=http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=21&hitYear=2018&termGbn=week|title=2018년 21주차 Digital Chart [2018.05.20~2018.05.26]|publisher=[[Gaon Music Chart]]|language=ko|url-status=live|access-date=August 13, 2019|archive-date=June 12, 2018|archive-url=https://web.archive.org/web/20180612142755/http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=21&hitYear=2018&termGbn=week}}
+* "Filter": {{cite web|url=http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=09&hitYear=2020&termGbn=week|title=2020년 9주차 Digital Chart [2020.02.23~2020.02.29]|publisher=[[Gaon Music Chart]]|language=ko|url-status=live|access-date=March 17, 2020|archive-date=May 29, 2020|archive-url=https://web.archive.org/web/20200529175000/http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=09&hitYear=2020&termGbn=week}}
+* "Sweet Night": {{cite web|url=http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=12&hitYear=2020&termGbn=week|title=2020년 12주차 Digital Chart [2020.03.15~2020.03.21]|publisher=Gaon Music Chart|language=ko|url-status=live|access-date=March 26, 2020|archive-date=June 1, 2020|archive-url=https://web.archive.org/web/20200601055100/http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=12&hitYear=2020&termGbn=week%2F}}</ref>
+! scope="col" style="width:3.5em;font-size:90%;"|[[K-pop Hot 100|Hot 100]]<br /><ref>Compiled K-Pop Hot 100 sources:
+* "Singularity": {{cite web|url=https://www.billboard.com/charts/k-pop-hot-100/2018-06-02|title=Singularity|publisher=Billboard Korea|language=ko|url-status=dead|access-date=August 13, 2019|archive-date=March 17, 2020|archive-url=https://web.archive.org/web/20200317063828/https://www.billboard.com/charts/k-pop-hot-100/2018-06-02}}
+* "Filter": {{cite web|url=https://www.billboard.com/charts/k-pop-hot-100/|title=Filter|publisher=[[K-pop Hot 100]]|date=March 10, 2020|access-date=March 13, 2020|archive-date=May 22, 2020|archive-url=https://web.archive.org/web/20200522005931/https://www.billboard.com/charts/k-pop-hot-100|url-status=live}}</ref>
+|-
+! colspan="11" | As lead artist
+|-
+! scope="row" | "Stigma"
+| 2016
+| 26
+| —
+| 10
+| 8
+| 8
+| —
+| —
+| 
+*KOR: 110,898<!--96,222 + 14,676--><ref>Cumulative sales of "Stigma":
+*{{cite web|url=http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=S1020&targetTime=10&hitYear=2016&termGbn=month|title=2016년 10월 Download Chart|publisher=[[Gaon Music Chart]]|language=ko|trans-title=Gaon Download Chart – October 2016|url-status=live|access-date=August 13, 2019|archive-date=September 6, 2017|archive-url=https://web.archive.org/web/20170906040233/http://gaonchart.co.kr/main/section/chart/online.gaon?serviceGbn=S1020&termGbn=month&hitYear=2016&targetTime=10&nationGbn=T}}
+*{{cite web|url=http://gaonchart.co.kr/main/section/chart/online.gaon?serviceGbn=S1020&termGbn=week&hitYear=2017&targetTime=07&nationGbn=K|title=2017년 07주차 Download Chart|publisher=[[Gaon Music Chart]]|language=ko|trans-title=Gaon Download Chart – July 2017|url-status=live|access-date=August 13, 2019|archive-date=August 13, 2017|archive-url=https://web.archive.org/web/20170813145516/http://gaonchart.co.kr/main/section/chart/online.gaon?serviceGbn=S1020&termGbn=week&hitYear=2017&targetTime=07&nationGbn=K}}</ref>
+| ''[[Wings (BTS album)|Wings]]''
+|-
+! scope="row" | "[[Singularity (song)|Intro: Singularity]]"
+| 2018
+| 54
+| 10
+| 3
+| 100
+| 23
+| 34
+| —
+| 
+*US: 10,000<ref>{{cite web|url=https://www.billboard.com/articles/columns/k-town/8473971/bts-most-simultaneous-hits-world-digital-song-sales|title=BTS Breaks Their Own Record for Most Simultaneous Hits on World Digital Song Sales Chart|last=Benjamin|first=Jeff|date=September 6, 2018|work=[[Billboard (magazine)|Billboard]]|url-status=live|access-date=August 13, 2019|archive-date=September 7, 2018|archive-url=https://web.archive.org/web/20180907135637/https://www.billboard.com/articles/columns/k-town/8473971/bts-most-simultaneous-hits-world-digital-song-sales}}</ref>
+| ''[[Love Yourself: Tear]]''
+|-
+! scope="row" | "Inner Child"
+| 2020
+| 24
+| 48
+| 6
+| {{N/A}}
+| 7
+| —
+| —
+| {{N/A}}
+| ''[[Map of the Soul: 7]]''
+|-
+! colspan="11" | Soundtrack appearances
+|-
+! scope="row" | "It's Definitely You" {{small|(죽어도 너야; ''Jugeodo neoya'')}} <br><small>(with [[Kim Seok-jin|Jin]])</small>
+| 2016
+| 34
+| —
+| 8
+| —
+| 15
+| —
+| —
+| 
+* KOR: 76,657<ref>{{cite web|url=http://www.gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=S1020&targetTime=12&hitYear=2016&termGbn=month|title=2016년 12월 Download Chart|publisher=[[Gaon Music Chart]]|language=ko|trans-title=Gaon Download Chart – December 2016|url-status=live|access-date=August 13, 2019|archive-date=November 15, 2017|archive-url=https://web.archive.org/web/20171115083038/http://www.gaonchart.co.kr/main/section/chart/online.gaon?serviceGbn=S1020&termGbn=month&hitYear=2016&targetTime=12&nationGbn=T}}</ref>
+| ''[[Hwarang: The Poet Warrior Youth#Original soundtrack|Hwarang: The Poet Warrior Youth Original Soundtrack]]''
+|-
+! scope="row" | "Sweet Night"
+| 2020
+| 14
+| —
+| —
+| — 
+| 1
+| —
+| 34
+| {{N/A}}
+| ''[[Itaewon Class#Original soundtrack|Itaewon Class Original Soundtrack]]''
+|-
+| colspan="11" | {{small|"—" denotes releases that did not chart or were not released in that region.}}
+|}
+
+=== Other songs ===
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! Title
+! Format
+! Other Notes
+|-
+| 2014
+| "95 Graduation"<ref name="auto">{{cite web|url=https://soundcloud.com/bangtan/95-graduation-by-jimin-v-of|title=95 graduation by Jimin & V of BTS|website=[[SoundCloud]]|url-status=live|access-date=October 19, 2018|archive-date=April 4, 2019|archive-url=https://web.archive.org/web/20190404005823/https://soundcloud.com/bangtan/95-graduation-by-jimin-v-of}}</ref>
+| rowspan="5"|[[music download|Digital download]], [[Streaming music|streaming]]
+| rowspan=1|
+*Original melody from [[Lupe Fiasco]]'s "[[Old School Love]]" ft. [[Ed Sheeran]]
+*with [[Jimin (singer, born 1995)|Jimin]]
+|-
+| 2017
+| "4 O'Clock"<ref name =4oclock/>
+| 
+*with [[RM (rapper)|RM]]
+|-
+| rowspan="2" |2019
+| "Scenery" {{small|(풍경)}}<ref name =scenery/>
+| rowspan="2"{{NA}}
+|-
+|"Winter Bear"<ref name = "winter bear">{{cite web|url=https://soundcloud.com/bangtan/kimv02|title=Winter Bear by V of BTS|website=[[SoundCloud]]|url-status=live|access-date=August 9, 2019|archive-date=January 16, 2020|archive-url=https://web.archive.org/web/20200116212430/https://soundcloud.com/bangtan/kimv02}}</ref>
+|-
+| 2020
+| "Snow Flower"<ref name=snowflower/>
+| 
+*with [[Peakboy]]
+|}
+
+=== Writing credits ===
+
+All song credits are adapted from the [[Korea Music Copyright Association]]'s database, unless otherwise noted.<ref name="KMCA">{{cite web|url=https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10005240|title=Songs Registered Under V (10005240)|publisher=[[Korea Music Copyright Association]]|archive-url=https://web.archive.org/web/20210518145545/https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10005240|archive-date=May 18, 201|url-status=live|access-date=June 6, 2021}}</ref>
+
+{| class="wikitable plainrowheaders"
+|-
+! style="width:1em;"|Year
+! style="width:10em;"|Artist
+! style="width:17em;"|Album
+! style="width:20em;"|Song
+|-
+| 2013
+| [[BTS (band)|BTS]]
+| ''[[2 Cool 4 Skool]]''
+| "Outro: Circle Room Cypher"
+|-
+| 2014
+| Jimin & V
+| {{n/a|Non-album release}}
+| "95 Graduation"
+|-
+| rowspan="3" | 2015
+| rowspan="7" | BTS
+| rowspan="2" | ''[[The Most Beautiful Moment in Life, Part 1]]''	
+| "Hold Me Tight"	
+|-		
+| "Boyz with Fun"	
+|-
+| ''[[The Most Beautiful Moment in Life, Part 2]]''	
+| "[[Run (BTS song)|Run]]" 
+|-
+| rowspan="4" | 2016
+| rowspan="2" | ''[[The Most Beautiful Moment in Life: Young Forever]]''	
+| "Run" {{small|(Ballad Mix)}}
+|-
+| "Run" {{small|(Alternative Mix)}}
+|-
+| ''[[Youth (BTS album)|Youth]]''
+| "Introduction: Youth"
+|-
+| ''[[Wings (BTS album)|Wings]]''
+| "Stigma"
+|-
+| 2017
+| [[RM (rapper)|RM]] & V	
+| rowspan="3" {{n/a|Non-album release}}
+| "4 O'Clock"
+|-
+| rowspan="2" | 2019
+| rowspan="2" |V	
+| "Scenery"
+|-
+| "Winter Bear"
+|-
+| rowspan="5"|2020
+| BTS
+| ''[[Map of the Soul: 7]]''
+| "Inner Child"
+|-
+| V
+| ''[[Itaewon Class#Original soundtrack|Itaewon Class Original Soundtrack]]''
+| "Sweet Night"<ref>{{cite news|url=https://entertain.v.daum.net/v/20200313100817298|script-title=ko:방탄소년단 뷔, 오늘(13일) '이태원 클라쓰' OST 'Sweet Night' 발매 "프로듀싱까지"|work=Newsen|via=[[Daum (web portal)|Daum]]|first=Hye-jin|last=Hwang|date=March 13, 2020|access-date=March 13, 2020|trans-title=BTS V Today (13th) to release 'Itaewon Class' OST 'Sweet Night'|archive-date=March 29, 2020|archive-url=https://web.archive.org/web/20200329065140/https://entertain.v.daum.net/v/20200313100817298|url-status=live}}</ref>
+|-
+| rowspan="2"| BTS
+| {{n/a|Non-album release}}
+| "In the Soop"
+|-
+| ''[[Be (BTS album)|Be]]''
+| "Blue & Grey"
+|-
+| V	& Peakboy
+| {{n/a|Non-album release}}
+| "Snow Flower"
+|}
+
+== Filmography ==
+[[File:1117 V (BTS) Dispatch Photo Shoot LA (4).png|thumb|upright|V in a photoshoot for ''D Icon'' magazine, November 2017.|alt=V holds his left pointer finger to his temple and leans against in front of the LA skyline]]
+{{See also|BTS videography}}
+=== Music videos ===
+{| class="wikitable"  
+|-
+! Year
+! Title   
+! Length   
+! Role         
+! {{Abbr|Ref.|Reference(s)}}
+|-
+| 2019
+| "Winter Bear"
+| 3:32
+| Director
+| <ref>{{cite web|url=https://www.billboard.com/articles/news/bts/8527034/bts-winter-bear-english-solo-song-music-video|title=BTS' V Drops Surprise 'Winter Bear' English Solo Song: Watch the Music Video|last=Herman|first=Tamar|date=August 9, 2018|work=[[Billboard (magazine)|Billboard]]|access-date=March 17, 2020|archive-date=May 12, 2020|archive-url=https://web.archive.org/web/20200512231704/https://www.billboard.com/articles/news/bts/8527034/bts-winter-bear-english-solo-song-music-video|url-status=live}}</ref>
+|}
+
+=== Television series ===
+{| class="wikitable" 
+! Year
+! Network
+! Title
+! Role
+! Note(s)
+! {{Abbr|Ref.|Reference(s)}}
+|-
+| 2016–2017
+| KBS2
+| ''[[Hwarang: The Poet Warrior Youth]]''
+| Seok Han-sung
+| Supporting role
+| <ref>{{cite web|url=http://entertain.naver.com/read?oid=112&aid=0002893962|script-title=ko:'화랑' 김태형 "첫 연기, 부담컸지만 행복했다" 하차 소감|last=Hwang|first=Soo-yeon|date=February 15, 2017|work=Herald POP|language=ko|trans-title="Hwarang" Kim Tae-hyung said, "First acting, I felt burdened but happy."|access-date=August 14, 2019|via=[[Naver]]|archive-date=December 13, 2017|archive-url=https://web.archive.org/web/20171213081815/http://entertain.naver.com/read?oid=112&aid=0002893962|url-status=live}}</ref>
+|-
+|}
+
+=== Variety show ===
+{| class="wikitable" 
+! Year
+! Network
+! Title
+! Role
+! Note(s)
+! {{Abbr|Ref.|Reference(s)}}
+|-
+| 2016 
+| [[Munhwa Broadcasting Corporation|MBig TV]]
+| ''[[Celebrity Bromance]]''
+| Himself
+| Season 1, episodes 1-4; with [[Kim Min-jae (actor, born 1996)|Kim Min-jae]]
+| <ref>{{cite av media|date=February 4, 2016|title=V(BTS) & Minjae, Celeb Bros S1 EP1 "It's the first time in 2 and half years..!"|medium=Online video|language=ko|url=https://www.youtube.com/watch?v=LJxbeO6MX-Y|location=South Korea|publisher=MBig TV (via [[YouTube]])|url-status=live|access-date=August 14, 2019|archive-date=February 14, 2017|archive-url=https://web.archive.org/web/20170214180706/https://www.youtube.com/watch?v=LJxbeO6MX-Y}}</ref>
+|-
+|}
+
+===  Hosting ===
+{| class="wikitable sortable" 
+! Year
+! Network
+! Title
+! Note(s)
+! {{Abbr|Ref.|Reference(s)}}
+|-
+| 2014
+| [[Munhwa Broadcasting Corporation|MBC]]
+| ''[[Show! Music Core]]'' 
+| with [[Kim So-hyun]]
+| <ref>{{cite web|url=http://tenasia.hankyung.com/archives/363535|script-title=ko:방탄소년단 뷔, ‘음악중심’ 스페셜 MC 출격|last=Choi|first=Jin-sil|date=November 8, 2014|work=TenAsia|language=ko|trans-title=BTS V 'Music Core' Special MC|url-status=live|access-date=August 14, 2019|archive-date=May 22, 2019|archive-url=https://web.archive.org/web/20190522074431/http://tenasia.hankyung.com/archives/363535}}</ref>
+|-
+| rowspan="2" | 2015
+| [[KBS2]]
+| ''[[Music Bank (TV series)|Music Bank]]''
+| with [[Park Bo-gum]] & Himchan ([[B.A.P (South Korean band)|BAP]])
+| <ref>{{cite web|url=http://stoo.asiae.co.kr/news/view.htm?sec=enter3&idxno=2015120417533576678|script-title=ko:'뮤직뱅크' 아이린 MC불참, 박보검·B.A.P 힘찬·방탄소년단 뷔 뭉쳤다|last=Kim|first=Eun-ae|date=December 4, 2015|work=Sports Today|language=ko|trans-title=Music Bank's MC Irene is absent, Park Bo-gum, B.A.P Himchan, BTS V come together|url-status=live|access-date=August 14, 2019|archive-date=July 31, 2019|archive-url=https://web.archive.org/web/20190731151134/http://stoo.asiae.co.kr/news/view.htm?sec=enter3&idxno=2015120417533576678}}</ref>
+|-
+| [[Munhwa Broadcasting Corporation|MBC]]
+| ''Show! Music Core''
+| with [[Zico (rapper)|Zico]] & Kim So-hyun
+| <ref>{{cite av media|date=January 7, 2015|title=[BANGTAN BOMB] Practicing for Show Music core 'special MC' - BTS (방탄소년단)|medium=Online video|language=ko|url=https://www.youtube.com/watch?v=j0fw1WEmhns|location=South Korea|publisher=Bangtan TV (via [[YouTube]]|access-date=October 14, 2018}}</ref>
+|-
+| rowspan="1" | 2016
+| [[Seoul Broadcasting System|SBS]]
+| ''[[Inkigayo]]''
+| with [[J-Hope]], [[Moonbyul]], & [[Wheein]]
+| <ref>{{cite av media|date=September 13, 2016|title=[BANGTAN BOMB] j-hope & V did Ingigayo Special MC!! - BTS (방탄소년단)|medium=Online video|language=ko|url=https://www.youtube.com/watch?v=VnN8Yi0-utk|location=South Korea|publisher=Bangtan TV (via [[YouTube]])|access-date=October 14, 2018}}</ref>
+|-
+| rowspan="2" | 2017
+| rowspan="1" | KBS2
+| ''Music Bank'' (Singapore Special)
+| with [[Park Bo-gum]] & [[Irene (singer)|Irene]]
+| <ref>{{cite web|url=https://ione.vnexpress.net/tin-tuc/sao/chau-a/hoi-ban-than-noi-tieng-cua-thanh-ngoai-giao-v-bts-3648204.html|title=Hội bạn thân nổi tiếng của 'thánh ngoại giao' V (BTS)|last=Nhi|first=Ahn|date=September 29, 2017|work=iONE|language=vi|trans-title=The famous best friends of 'diplomatic saint' V (BTS)|url-status=live|access-date=October 17, 2018|archive-date=July 13, 2018|archive-url=https://web.archive.org/web/20180713054821/http://ione.vnexpress.net/tin-tuc/sao/chau-a/hoi-ban-than-noi-tieng-cua-thanh-ngoai-giao-v-bts-3648204.html}}</ref>
+|-
+| [[Seoul Broadcasting System|SBS]]
+| ''Inkigayo'' Super Concert in Daejeon
+| with [[Jisoo (singer, born 1995)|Jisoo]] & [[Park Jin-young (entertainer, born 1994)|Jinyoung]]
+| <ref>{{cite web|url=http://newsen.com/news_view.php?uid=201710010842400410|script-title=ko:‘인기가요’ 측 “오늘(1일) ‘슈퍼콘서트’ 녹화 방송, 방탄소년단 뷔 스페셜MC”|last=Hwang|first=Hye-jin|date=October 1, 2017|work=Newsen|language=ko|trans-title='Inkigayo' Today 'Super Concert' recording broadcasting, BTS V Special MC|url-status=live|access-date=August 20, 2019|archive-date=February 13, 2018|archive-url=https://web.archive.org/web/20180213072019/http://www.newsen.com/news_view.php?uid=201710010842400410}}</ref>
+|}
+
+=== Trailers and short films ===
+{| class="wikitable sortable"  
+|-
+! Year
+! Title   
+! Length   
+! Director(s)          
+! {{Abbr|Ref.|Reference(s)}}
+|-
+| 2016
+| "Stigma #3"               
+| 3:18
+| rowspan="2" | Yong-seok Choi (Lumpens)
+| <ref>{{cite web|url=http://stoo.asiae.co.kr/news/view.htm?idxno=2016090811052002911|script-title=ko:방탄소년단 뷔, 연기자 눈빛은 달라..'WINGS' 세 번째 쇼트필름 공개|last=Han|first=Soo-jin|date=September 8, 2016|work=Sports Today|language=ko|trans-title=BTS V, actors' eyes are different ... 'WINGS' third short film released|url-status=live|access-date=August 20, 2019|archive-date=February 3, 2020|archive-url=https://web.archive.org/web/20200203163030/http://stoo.asiae.co.kr/news/view.htm?idxno=2016090811052002911}}</ref>
+|-
+| 2018
+| "[[Singularity (song)|Singularity]]"
+| 3:32
+| <ref>{{cite web|url=https://www.billboard.com/articles/columns/k-town/8454687/bts-v-singularity-video-love-yourself-tear|title=BTS' V Reveals Haunting New Song 'Singularity' Ahead of 'Love Yourself: Tear' Album Release: Watch|last=Herman|first=Tamar|date=May 6, 2018|work=[[Billboard (magazine)|Billboard]]|access-date=August 20, 2019|archive-date=May 11, 2018|archive-url=https://web.archive.org/web/20180511041129/https://www.billboard.com/articles/columns/k-town/8454687/bts-v-singularity-video-love-yourself-tear|url-status=live}}</ref>
+|-
+|}
+
+== Awards and nominations ==
+{{For|V's accolades with BTS|List of awards and nominations received by BTS}}
+
+{| class="wikitable sortable plainrowheaders" style="width: 100%;"
+|+Name of the award ceremony, year presented, nominee(s) of the award, award category, and the result of the nomination
+! scope="col" | Award ceremony
+! scope="col" | Year
+! scope="col" | Category
+! scope="col" | Nominee(s)/work(s)
+! scope="col" | Result
+! scope="col" class="unsortable" | {{Abbr|Ref.|Reference(s)}}
+|-
+! scope="row"|[[Melon Music Awards]]
+| [[2017 Melon Music Awards|2017]]
+| Best {{abbr|OST|original soundtrack}}
+| {{sort|It's Definitely You|"[[Hwarang: The Poet Warrior Youth|It's Definitely You]]"}}
+| {{nom}}
+| style="text-align:center;"|<ref>{{cite web|url=http://english.yonhapnews.co.kr/kwave/2016/11/19/16/3001000000AEN20161119003200315F.html|title=BTS, EXO, TWICE top 2016 Melon Music Awards|last=Chung|first=Joo-won|date=November 20, 2016|work=[[Yonhap News Agency|Yonhap News]]|url-status=live|access-date=August 20, 2019|archive-date=February 20, 2018|archive-url=https://web.archive.org/web/20180220103322/http://english.yonhapnews.co.kr/kwave/2016/11/19/16/3001000000AEN20161119003200315F.html}}</ref>
+|-
+! scope="row" rowspan="2"| [[Soompi|Soompi Awards]]
+| 2018
+| Best Idol Actor
+| V{{efn-ua|For the role Suk Han-sung in ''[[Hwarang: The Poet Warrior Youth]]''<ref name="soompiactor" />}}
+| {{Won}}
+| style="text-align:center;"|<ref name="soompiactor">{{cite news|url=https://www.teenvogue.com/story/bts-6-soompi-awards-new-record|title=BTS Took Home 6 Soompi Awards, a New Record|date=April 17, 2018|access-date=March 13, 2020|work=[[Teen Vogue]]|last=Gemmill|first=Allie|archive-date=July 29, 2019|archive-url=https://web.archive.org/web/20190729144516/https://www.teenvogue.com/story/bts-6-soompi-awards-new-record|url-status=live}}</ref>
+|-
+| 2019
+| Best Choreography
+| {{sort|Singularity|"[[Singularity (song)|Singularity]]"}}
+| {{Won}}
+| style="text-align:center;"|<ref>{{cite web|url=https://hollywoodlife.com/2019/05/31/soompi-awards-2019-winners-full-list/|title=Soompi Awards 2019 Winners: BTS, EXO & More Take Home Top Honors|last=Thompson|first=Avery|date=May 31, 2019|work=Hollywood Life|archive-url=https://web.archive.org/web/20190531135826/https://hollywoodlife.com/2019/05/31/soompi-awards-2019-winners-full-list/|archive-date=May 31, 2019|url-status=live|access-date=July 15, 2019}}</ref>
+|-
+! scope="row" | [[APAN Star Awards]]
+| [[7th APAN Star Awards|2020]]
+| Best {{abbr|OST|original soundtrack}}
+| {{sort|Sweet Night|"[[Itaewon Class#Original soundtrack|Sweet Night]]"}}
+| {{Won}}
+| style="text-align:center;"|<ref name="apanost">{{cite news|url=https://www.hankyung.com/entertainment/article/202011305587I|script-title=ko: 강다니엘·BTS·아이유·아이즈원…'2020 APAN Awards' 인기상 수상|trans-title=Kang Daniel · BTS · IU · Iz*One ... '2020 APAN Awards' Popularity Award|last=Lee|first=Joon-hyeon|date=November 30, 2020|work=[[Korea Economic Daily|Hankyung]]|language=ko|archive-url=https://web.archive.org/web/20201130031938/https://www.hankyung.com/entertainment/article/202011305587I|archive-date=November 30, 2020|url-status=live|access-date=December 5, 2020}}</ref>
+|-
+|}
+
+== Notes ==
+{{notelist-ua}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Commons cat inline|V (singer)|V}}
+
+{{BTS}}
+{{Big Hit Entertainment}}
+{{Authority control}}
+
+{{DEFAULTSORT:V}}
+[[Category:1995 births]]
+[[Category:K-pop singers]]
+[[Category:South Korean male singers]]
+[[Category:South Korean pop singers]]
+[[Category:21st-century South Korean male actors]]
+[[Category:South Korean male idols]]
+[[Category:Japanese-language singers of South Korea]]
+[[Category:English-language singers from South Korea]]
+[[Category:BTS members]]
+[[Category:Living people]]
+[[Category:People from Daegu]]
+[[Category:South Korean male television actors]]
+[[Category:21st-century South Korean singers]]
+[[Category:Recipients of the Order of Cultural Merit (Korea)]]
+[[Category:South Korean baritones]]
+[[Category:Hybe Corporation artists]]

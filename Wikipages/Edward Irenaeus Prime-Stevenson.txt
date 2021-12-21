@@ -1,0 +1,71 @@
+{{Use mdy dates|date=October 2011}}
+{{Infobox writer
+| name        = Edward Irenaeus Prime-Stevenson
+| image       = Eddie Stevenson1.jpg
+| imagesize   = 
+| caption     = 
+| pseudonym   = 
+| birth_date  = {{birth date|1858|01|29|mf=y}}
+| birth_place = [[Madison, New Jersey]]
+| death_date  = 1942
+| death_place = 
+| occupation  = [[Novelist]], [[Journalist]]
+| nationality = American 
+| period      = 
+| genre       = 
+| subject     = 
+| movement    = 
+| debut_works = 
+| influences  = 
+| signature   = 
+| website     = 
+| footnotes   = 
+}}
+
+'''Edward Irenaeus Prime-Stevenson''' (January 29, 1858 – July 23, 1942) was an American author.  He used the pseudonym '''Xavier Mayne'''.<ref name="Before Stonewall">Bullough, Vern L. [https://books.google.com/books?id=A7x_VnES2esC&pg=PA35&dq=Edward+Irenaeus+Prime-Stevenson&lr=&as_drrb_is=q&as_minm_is=0&as_miny_is=&as_maxm_is=0&as_maxy_is=&num=100&as_brr=3&cd=1#v=onepage&q=Edward%20Irenaeus%20Prime-Stevenson&f=false ''Before Stonewall: Activists for Gay and Lesbian Rights in Historical Context''], [[Haworth Press]] Inc, 2003, pp. 35–36.</ref>
+
+==Biography==
+Edward Prime Stevenson was born on January 29, 1858, in [[Madison, New Jersey]].<ref name="Before Stonewall"/> His father, Paul E. Stevenson, was a [[Presbyterian]] minister and a school principal; his mother, Cornelia, came from the Prime family of distinguished literary and academic figures.<ref name="Before Stonewall"/>
+
+After studying [[law]], Stevenson decided to become a writer and a journalist.<ref name="Before Stonewall"/> In 1901 he moved to Europe, living in Florence and Lausanne, where he died of a heart attack in 1942.
+
+In 1896 Stevenson published ''The Square of Sevens, and the Parallelogram: An Authoritative Method of Cartomancy with a Prefatory Note'' by Robert Antrobus that was supposedly written in 1735. However, it is believed that he was the author.
+
+In 1906, under the pseudonym Xavier Mayne, Stevenson published the homosexually themed novel ''[[Imre: A Memorandum]]'', and in 1908 a sexology study, ''[[The Intersexes]]'',<ref name="Before Stonewall"/> a defense of homosexuality from a scientific, legal, historical, and personal perspective.
+
+== Quotes ==
+{{Blockquote|text="Between a [[protozoa]]n and the most perfect development of the [[mammal]]ia, we trace a succession of dependent intersteps...A [[trilobite]] is at one end of Nature's workshop: a [[Baruch Spinoza|Spinoza]], a [[William Shakespeare|Shakespeare]], a [[Ludwig van Beethoven|Beethoven]] is at the other... gone on insisting that each specimen of [[Human sexuality|sex in humanity]] must... follow out [[Gender binary|two programmes only]], or else be [[Discrimination against non-binary people|thought amiss, imperfect, and degenerate]] [?] Why have we set up [[masculinity]] and [[femininity]] as processes that have not perfectly logical and respectable [[Gender variance|inter-steps]]?".|author=Xavier Mayne|source=[https://en.wikisource.org/wiki/The_Intersexes:_A_History_of_Similisexualism_as_a_Problem_in_Social_Life&#124; History of Similisexualism]<ref>{{Cite book|title=Gay Histories and Cultures|url=https://archive.org/details/encyclopedialesb00zimm_056|url-access=limited|last=Haggerty|first=George|publisher=Garland Publishing, Inc.|year=2000|pages=[https://archive.org/details/encyclopedialesb00zimm_056/page/n354 298]–299}}</ref>|title=}}
+
+==Bibliography==
+*{{citation |last=Prime-Stevenson |first=Edward |year=1887 |title=White cockades : an incident of the "forty-five" |last2=Sons |first2=Charles Scribner's |author3=Trow's Printing and Bookbinding Company |publisher=Charles Scribner's Sons |oclc=2163459}}
+*{{citation |last=Prime-Stevenson |first=Edward |year=1891 |title=Left to themselves: being the ordeal of Philip and Gerald |publisher=New York, Hunt & Eaton |oclc=9777119}}
+*{{citation |last=Prime-Stevenson |first=Edward |year=2003 |title=[[Imre: A Memorandum]]|publisher=Peterborough |series=Broadview literary texts |isbn=978-1-55111-358-6|orig-year=1906}}
+*{{citation |last=Prime-Stevenson |first=Edward Irenaeus |year=1975 |title=The intersexes : a history of similisexualism as a problem in social life |publisher=Arno Press |series=Homosexuality |isbn=978-0-405-07364-9|orig-year=1908}}
+*{{citation |last=Prime-Stevenson |first=Edward |year=1913 |title=Her enemy, some friends and other personages, stories and studies mostly of human hearts |publisher=G. & R. Obsner |oclc=458170986}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikisource author}}
+{{commons category|Edward Irenaeus Prime-Stevenson}}
+
+*{{cite web |url=http://www.glbtq.com/literature/stevenson_eip.html |title=Stevenson, Edward Irenaeus Prime- (1868-1942) |first=James J. |last=Gifford |publisher=[[glbtq.com]] |access-date=February 4, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150204040147/http://www.glbtq.com/literature/stevenson_eip.html |archive-date=February 4, 2015 |df=mdy-all }}
+* {{Gutenberg author | id=Prime-Stevenson,+Edward | name=Edward Prime-Stevenson}}
+* {{Librivox author |id=13412}}
+* {{Internet Archive author |sname=Edward Irenaeus Prime-Stevenson |sopt=t}}
+** [https://archive.org/details/LeftToThemselves ''Left to Themselves: Being the Ordeal of Philip and Gerald''] (Scanned copy of the novel)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Prime-Stevenson, Edward}}
+[[Category:1858 births]]
+[[Category:1942 deaths]]
+[[Category:20th-century American novelists]]
+[[Category:American male novelists]]
+[[Category:American gay writers]]
+[[Category:LGBT people from New Jersey]]
+[[Category:People from Madison, New Jersey]]
+[[Category:Novelists from New Jersey]]
+[[Category:American LGBT novelists]]
+[[Category:20th-century American male writers]]

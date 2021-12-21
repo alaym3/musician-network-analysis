@@ -1,0 +1,126 @@
+{{for|the album by Chemistry|Second to None (Chemistry album)}}
+{{for|the album by Elvis Presley|2nd to None}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = 2nd II None
+| image                 = 2nd II None 2014.jpg
+| caption            = 2nd II None in 2014
+| image_size            = 
+| alias               = 
+| origin              = [[Compton, California|Compton]], [[California]], [[United States|U.S.]]
+| instrument          = 
+| genre               = [[Hip hop music|Hip hop]]
+| occupation          = 
+| years_active        = 1987–present
+| label               = [[Profile Records|Profile]], [[Death Row Records|Death Row]], [[Arista Records|Arista]], 
+| associated_acts     = [[DJ Quik]], [[AMG (rapper)|AMG]], [[Hi-C (rapper)|Hi-C]], [[Penthouse Players Clique]]
+| website             = 
+| current_members     = BlaKKazz K.K.<br/>Gangsta D
+| past_members        = 
+}}
+
+'''2nd II None''' is a [[hip hop music|rap]] group from [[Compton, California|Compton]], [[California]]. It consists of cousins '''KK''' (born Kelton L. McDonald) and '''Gangsta D''' (born Deon Barnett). They were members of the [[Pirus|Elm Street Piru]] [[Bloods]].<ref>[http://unitedgangs.com/2013/09/22/2nd-ii-none/ 2nd II None]{{Dead link|date=March 2021 |bot=InternetArchiveBot |fix-attempted=yes }} UnitedGangs.com Retrieved. 2015-10-03</ref>
+
+== History ==
+
+=== Early years ===
+Their career started in 1990 after the release of "The Red Tape", they signed with [[Profile Records]]. They released their first album in 1991, the self-titled ''[[2nd II None (album)|2nd II None]]'' on [[Profile Records]]. Their second album, ''[[Classic 220]]'' on [[Arista Records]], released in 1999. Their albums were produced by 2nd II None and [[DJ Quik]]. In 2008, their 1994 unreleased album ''Tha Shit'' was leaked on the internet.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Title
+! rowspan="2"| Release
+! colspan="3"| Peak chart positions<ref>{{cite web|url={{Allmusic|class=artist|id=p50053/charts-awards|pure_url=yes}}|title=Albums chart positions|publisher=[[Allmusic]]|accessdate=2008-04-08}}</ref>
+|-
+! scope="col" style=font-size:90%;"| [[Billboard 200|US]]
+! scope="col" style=font-size:90%;"| [[Top R&B/Hip-Hop Albums|US<br/>R&B]]
+! scope="col" style=font-size:90%;"| [[Top Heatseekers|US<br/>Heat]]
+|-
+! scope="row"| ''[[2nd II None (album)|2nd II None]]''
+| 1991
+| style="text-align:center;"|83
+| style="text-align:center;"|26
+| style="text-align:center;"|3
+|-
+! scope="row"| ''[[Classic 220]]''
+| 1999
+| style="text-align:center;"|162
+| style="text-align:center;"|40
+| style="text-align:center;"|—
+|-
+! scope="row"| ''Compton Muzik''
+| 2014
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|}
+
+===Unreleased albums===
+*''[[The Shit (album)|The Shit]]'' (1994)
+
+===Compilation albums===
+*''Tha Kollective'' (2009)
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Title
+! rowspan="2"| Release
+! colspan="3"| Peak chart positions<ref>{{cite web|url={{Allmusic|class=artist|id=p50053/charts-awards/billboard-singles|pure_url=yes}}|title=Singles chart positions|publisher=[[Allmusic]]|accessdate=2008-04-15}}</ref>
+! rowspan="2"| Album
+|-
+! scope="col" style="width:2.9em;font-size:90%;"| [[Billboard Hot 100|US]]
+! scope="col" style="width:2.9em;font-size:90%;"| [[Hot R&B/Hip-Hop Songs|US<br />R&B]]
+! scope="col" style="width:2.9em;font-size:90%;"| [[Hot Rap Songs|US<br/>Rap]]
+|-
+! scope="row"| "Be True to Yourself"
+| 1991
+| style="text-align:center;"|78
+| style="text-align:center;"|54
+| style="text-align:center;"|9
+|rowspan="2"|''2nd II None''
+|-
+! scope="row"| "[[If You Want It (2nd II None song)|If You Want It]]"
+| 1992
+| style="text-align:center;"|64
+| style="text-align:center;"|33
+| style="text-align:center;"|13
+|-
+! scope="row"| "Didn't Mean to Turn You on"
+| 1994
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|[[Above the Rim (soundtrack)|''Above the Rim'' soundtrack]]
+|-
+! scope="row"| "Up n' da Club"
+| 1999
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|''Classic 220''
+|-
+| colspan="6"  style="text-align:center; font-size:90%;"| "—" denotes a recording that did not chart.
+|}
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:2nd Ii None}}
+[[Category:Hip hop groups from California]]
+[[Category:Musical groups established in 1987]]
+[[Category:Musical groups from Los Angeles]]
+[[Category:Profile Records artists]]
+[[Category:Musicians from Compton, California]]
+[[Category:Gangsta rap groups]]
+[[Category:1987 establishments in California]]
+[[Category:Hip hop duos]]
+[[Category:Family musical groups]]
+[[Category:American musical duos]]
+[[Category:African-American musical groups]]
+[[Category:Bloods]]
+[[Category:Death Row Records artists]]
+
+{{US-hiphop-band-stub}}

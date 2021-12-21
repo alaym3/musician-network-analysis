@@ -1,0 +1,98 @@
+{{short description|2016 song by Noriel}}
+{{Infobox song
+| name          = Cuatro Babys
+| cover         = CuatroBabysMaluma.jpg
+| alt           =
+| type          = single
+| artist        = [[Maluma (singer)|Maluma]] featuring [[Noriel (rapper)|Noriel]], [[Bryant Myers]] and Juhn
+| album         = Trap Capos: Season 1
+| language      = Spanish
+| English_title = "Four Babies"
+| released      = {{Start date|df=yes|2016|10|7}}
+| recorded      =
+| studio        =
+| genre         = [[Latin trap]]
+| length        = {{Duration|m=4|s=39}}
+| label         = [[Sony Music Latin|Sony Latin]]
+| writer        = * [[Maluma (singer)|Juan Luis Londoño]]
+* [[Bryant Myers|Bryan Rohena]]
+* Jorge J. Hernández
+* Jorge Fonseca
+* John Pérez
+* [[Noriel (rapper)|Noel Santos]]
+* Sharon Ramírez
+| producer      = {{flatlist|
+*Santana the Golden Boy
+*dannyebtracks}}
+| chronology    = Maluma
+| prev_title    = [[Vente Pa' Ca]]
+| prev_year     = 2016
+| next_title    = [[Sim ou Não|Sim ou Não / Sí o No]]
+| next_year     = 2016
+| misc          = {{External music video|{{YouTube|OXq-JP8w5H4|"Cuatro Babys"}}}}
+}}
+
+"'''Cuatro Babys'''" is a song by Colombian singer [[Maluma (singer)|Maluma]] featuring Puerto Rican rappers [[Noriel (rapper)|Noriel]], [[Bryant Myers]], and Juhn. The song is taken from the album ''Trap Capos: Season 1'' (2016). It was released as the album's first single on 7 October 2016 through [[Sony Music Latin]]. Maluma co-wrote the track with Bryant Myers, Noriel, Jorge J. Hernández, Jorge Fonseca, John Pérez and Sharon Ramírez. It was produced by Santana the Golden Boy.<ref>{{cite web|url=https://www.qobuz.com/ie-en/album/cuatro-babys-maluma/0886446165271|title=Cuatro Babys|website=[[Qobuz]]|accessdate=25 July 2019}}</ref> The song peaked at number 21 in Colombia and number 15 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Latin Songs]] chart.
+
+==Controversy==
+This song has received much controversy over its lyrics as they arguably appear to suggest direct violence towards women. A petition was posted on [[Change.org]] demanding for the removal of the song from digital platforms.<ref>{{Cite news|url=https://www.billboard.com/articles/columns/latin/7603779/maluma-cuatro-babys-petition-response|title=Maluma Responds to Online Petition Against His Song 'Cuatro Babys'|work=Billboard|access-date=16 April 2018}}</ref> Despite this controversy, the popularity of "Cuatro Babys" has only risen with the song having gone quadruple Platinum. Because of this, Latin trap has had a large, but primarily underground, following.
+
+==Music video==
+The music video for "Cuatro Babys" premiered on 14 October 2016 on Maluma's [[Vevo]] account on [[YouTube]]. The music video was directed by Jose Javy Ferrer and features Maluma, Noriel, Bryant Myers, and Juhn across multiple scenes surrounded by women who obey each of their commands. The music video has over 900 million views on YouTube.
+
+==Charts==
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders"
+|-
+! Chart (2016)
+! Peak<br />position
+|-
+! scope="row"| Colombia ([[National-Report]])<ref>{{cite web|url=http://national-report.com/nacionalColombia.php|title=National Report|language=Spanish|publisher=[[National-Report]]|accessdate=25 July 2019|archiveurl=https://web.archive.org/web/20161217040544/http://national-report.com/nacionalColombia.php|archivedate=17 December 2016}}</ref>
+| style="text-align:center;"|21
+|-
+{{single chart|Spain|55|artist=Maluma|song=Cuatro Babys|rowheader=true|accessdate=9 May 2018}}
+|-
+{{single chart|Billboardlatinsongs|15|artist=Maluma|rowheader=true|accessdate=29 May 2016}}
+|-
+{{single chart|Billboardlatinrhythm|23|artist=Maluma|rowheader=true|accessdate=17 September 2020}}
+|-
+|}
+
+===Year-end charts===
+{| class="wikitable plainrowheaders"
+|-
+! Chart (2017)
+! Position
+|-
+! scope="row"| US Hot Latin Songs (''Billboard'')<ref>{{cite web|url=https://www.billboard.com/charts/year-end/2017/hot-latin-songs|title=Hot Latin Songs – Year-End 2017|work=Billboard|accessdate=26 May 2021}}</ref>
+| style="text-align:center;"|38
+|}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Mexico|certyear=2021|relyear=2015|artist=Maluma|title=Cuatro Babys|award=Platinum+Gold|number=3|type=single|access-date=6 November 2021}}
+{{Certification Table Entry|region=Spain|certyear=2016|relyear=2015|artist=Maluma|title=Cuatro Babys|award=Gold|id=maluma-noriel-bryant-myers-and-jhun-cuatro-babys|type=single|access-date=November 19, 2021}}
+{{Certification Table Entry|region=United States|award=Platinum|number=12|type=single|artist=MALUMA FEAT. NORIEL, BRYANT MYERS, & JUHN|Spanish=yes|certyear=2017|title=Cuatro Babys|digital=true|access-date=8 May 2019|refname=RIAA}}
+{{Certification Table Bottom|nosales=true | noshipments=true | streaming=true}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{YouTube|3l9qaa7ulbg|Cuatro Babys (Audio)}}
+
+{{Maluma}}
+
+{{authority control}}
+
+[[Category:Latin trap songs]]
+[[Category:2016 singles]]
+[[Category:2016 songs]]
+[[Category:Maluma (singer) songs]]
+[[Category:Noriel songs]]
+[[Category:Sony Music Latin singles]]
+[[Category:Spanish-language songs]]
+[[Category:Sony Music Colombia singles]]
+[[Category:Songs written by Maluma (singer)]]
+[[Category:Obscenity controversies in music]]

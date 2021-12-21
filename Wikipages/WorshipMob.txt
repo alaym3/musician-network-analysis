@@ -1,0 +1,58 @@
+{{Infobox musical artist
+| name            = WorshipMob
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           = Worship Mob
+| origin          = [[Colorado Springs, Colorado]]
+| genre           = [[Contemporary worship music|worship]]
+| years_active    = {{start date|2011}}–present
+| associated_acts = Cross Worship
+| label           = [[Integrity Music]] (formerly), Watershed Music Group (current)
+| website         = {{URL|worshipmob.com/}}
+| current_members = Sean Mulholland<br>70-80 ministry leaders
+}}
+'''WorshipMob''' is an American [[contemporary worship music|worship music]] collective from [[Colorado Springs, Colorado]], and they were formed on March 15, 2011 by Sean Mulholland. They were signed to the [[Integrity Media|Integrity Music]] label, releasing their first [[studio album]], [[Carry the Fire (WorshipMob album)|''Carry the Fire'']], in 2015. This album was their breakthrough release upon the [[Billboard (magazine)|''Billboard'' magazine]] [[Christian Albums]] and [[Top Heatseekers|Heatseekers Albums]] charts.  
+
+Capturing both scripted and unscripted moments of heart-felt worship, WorshipMob shares their video recordings on YouTube to a global audience of millions.  WorshipMob shares extended uncut spontaneous worship sessions, as well as covers of songs from Bethel, All Sons & Daughters, Hillsong and more.  The WorshipMob model is spreading with local groups gathering in cities throughout the US along with WorshipMob startups in Australia, Africa and the Philippines.
+
+==Music history==
+The collective's music recording career commenced in 2015, with the [[studio album]], [[Carry the Fire (WorshipMob album)|''Carry the Fire'']], and it was released on March 3, 2015 by [[Integrity Media|Integrity Music]].<ref name="WL Review">{{cite web|title=Carry the Fire|url=http://worshipleader.com/albums/carry-the-fire/|journal=[[Worship Leader (magazine)|Worship Leader]]|first=Kristen|last=Gilles|accessdate=May 17, 2015|date=March 3, 2015}}</ref> This album was their breakthrough release upon the [[Billboard (magazine)|''Billboard'' magazine]] charts, where it placed on the [[Christian Albums]] chart at No. 33 and on the [[Top Heatseekers|Heatseekers Albums]] chart at No. 24.<ref name="chart search">[http://www.billboard.com/biz/search/charts?f%5b0%5d=ts_chart_artistname%3AWorshipMob&f%5b1%5d=ss_bb_type%3Achart_item&type=2&artist=WorshipMob Chart search for WorshipMob] at billboard.com/biz</ref><ref name="AM Awards">{{cite web|title=WorshipMob : Awards|url=http://www.allmusic.com/artist/worshipmob-mn0003348911/awards|author=[[Billboard (magazine)|''Billboard'']]|publisher=[[AllMusic]]|accessdate=May 17, 2015}}</ref>
+
+==Members==
+* Sean Mulholland
+* 70-80 ministry leaders from 30 local churches
+
+==Discography==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions
+! scope="col" rowspan="2" style="width:16em;" | Title
+! scope="col" rowspan="2" style="width:16em;" | Album details
+! scope="col" colspan="2" | Peak chart positions<ref name="chart search"/><ref name="AM Awards"/>
+|-
+!style="width:3em; font-size:90%"|[[Christian Albums|US<br>Chr]]
+!style="width:3em; font-size:90%"|[[Top Heatseekers|US<br>Heat]]
+|-
+!scope="row"|[[Carry The Fire (WorshipMob album)|''Carry The Fire'']]
+|
+* Released: March 3, 2015
+* {{nowrap|Label: [[Integrity Media|Integrity]]}}
+* cd, digital download
+| 33
+| 24
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://worshipmob.com/ Official website]
+* [https://www.joomag.com/magazine/christian-review-magazine-issue-4-april-2015/0967299001427838072 Christian Review Magazine article pages 36-39]
+
+{{DEFAULTSORT:WorshipMob}}
+[[Category:Musical groups established in 2011]]
+[[Category:Musical groups from Colorado]]
+[[Category:American Christian musical groups]]
+[[Category:2011 establishments in Colorado]]

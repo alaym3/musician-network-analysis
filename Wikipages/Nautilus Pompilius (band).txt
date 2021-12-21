@@ -1,0 +1,211 @@
+{{Multiple issues|
+{{More footnotes|date=October 2020}}
+{{Refimprove|date=October 2020}}}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Nautilus Pompilius
+| background          = group_or_band
+| image                 = File:Nau 80.jpg
+| image_size            = 200
+| caption            = Nautilus Pompilius in concert, late 1980s.
+| alias               = 
+| origin              = [[USSR]], [[Russia]]
+| genre               = [[Art rock]], [[post-punk]], [[New wave music|new wave]], [[gothic rock]], [[alternative rock]]
+| years_active        = 1982–1988,<br> 1990–1997,<br/> 2003–2004, <br/> 2013–2014
+| label               = 
+| associated_acts     = [[U-Piter]]
+| website             = 
+| current_members     = 
+| past_members        = [[Vyacheslav Butusov]]<br>Dmitry Umetsky<br>[[Ilya Kormiltsev]]†<br>Aleksey Mogilevsky<br>Nikolay Petrov†<br>Albert Potapkin<br>Andrey Sadnov<br>Igor Goncharov<br>Aleksandr Zarubin<br>Anastasiya Poleva<br>Viktor Komarov<br>Vladimir Nazimov<br>Aleksey Khomenko<br>Yegor Belkin<br>Vladimir Yelizarov<br>Igor Dzhavad-Zade<br>Aleksandr Belyayev
+}}
+
+'''Nautilus Pompilius''' ({{lang-ru|Наутилус Помпилиус}}), sometimes nicknamed '''Nau''' ({{lang-ru|Нау}}), was an influential [[Soviet Union|Soviet]], and later [[Russia]]n, [[rock band]]<ref>[https://books.google.com/books?id=tZHCAQAAQBAJ&pg=PA417&lpg=PA417#v=onepage&q&f=false Nautilus Pompilius] // Encyclopaedia of Contemporary Russian culture, 2013</ref> founded in [[Yekaterinburg|Sverdlovsk]] in 1982 by [[Vyacheslav Butusov]] and [[Dmitry Umetsky]]. Butusov disbanded the group in 1997, after multiple successful albums and several different line-ups of the band.
+
+== Name ==
+The band was originally named "Ali-Baba and the Forty Thieves" ({{lang-ru|"Али-Баба и сорок разбойников"}}). In 1983, at the suggestion of the band's sound director, Andrei Makarov, the band's name was changed to ''Nautilus''. In 1985, under the initiative of Ilya Kormiltsev, the name was lengthened to Nautilus Pompilius to avoid confusion with other Russian rock bands that were also named Nautilus at the time, such as the Moscow group led by [[Evgeny Margulis]].
+
+The band later elaborated on the name, saying "The band is named after the nudibranch mollusc, which is naturally beautiful and charming." {{citation needed|date=March 2019}} Nautilus pompilius is the scientific name of a species of [[cephalopod]] (mistakenly called a nudibranch by the band) commonly known as the [[Chambered Nautilus]].
+
+== History ==
+
+=== Founding ===
+Vyacheslav Butusov and Dmitry Umetsky took the first steps towards forming Nautilus in the late 70's. At first, the band performed at small events, covering songs by foreign performers and famous native performers like [[Mashina Vremeni]] and [[Voskreseniye]]. The band was formed by Butusov and Umetsky while the two were students in the Sverdlovsk Institute of Architecture (now called [[Urals Academy of Architecture]]).
+ 
+In 1982, the group made its first attempts to record its own songs. The band's first album, ''Pereyezd'' (Russian: Переезд),  was released in 1983. It included some songs which had been recorded in 1982, as well as new material. The album was strongly influenced by [[Led Zeppelin]].{{citation needed|date=March 2019}}
+
+=== Later ===
+The band was active in various incarnations from 1983 to 1997. Nautilus was an influential band in the [[post-punk]], [[New wave music|new wave]] wing of [[Russian rock]] music and also a landmark of the "Ural rock" style with their philosophical lyrics. Some of their early hits are popularly associated with the [[Perestroika]] period. 
+
+The band's music was prominently featured in the 1997 movie ''[[Brother (1997 film)|Brother]]'' (Russian: Брат). A version of their popular song, "Bound by One Chain" ("Скованные одной цепью") appeared in the 2008 film [[Stilyagi (film)|Stilyagi]]. The band hired English guitarist [[Bill Nelson (musician)|Bill Nelson]] to produce their 1997 album ''Yablokitay'' ({{lang-ru|Яблокитай}}), on which Nelson also plays the guitar. 
+
+Since the group disbanded, Vyacheslav Butusov has launched a successful solo career.
+
+Even though Butusov composed most of the band's songs and wrote some of their lyrics, poet [[Ilya Kormiltsev]] was a key contributor as a songwriter and producer.
+
+== Members ==
+{{#tag:timeline|
+ImageSize = width:820 height:auto barincrement:18
+PlotArea = left:120 bottom:80 top:10 right:0
+Alignbars = justify
+DateFormat = dd/mm/yyyy
+Period = from:01/01/1982 till:12/12/1997
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:horizontal position:bottom
+ScaleMajor = increment:2 start:1982
+ScaleMinor = Increment:2 start:1982
+Legend     = position:bottom  orientation:horizontal
+
+Colors =
+  id:Lead              value:red          legend:Vocals
+  id:Guitar            value:green         legend:Guitar
+  id:Bass              value:blue        legend:Bass
+  id:Sax            value:yellow       legend:Sax
+  id:Klavier           value:purple       legend:Klavier
+  id:Drums             value:orange       legend:Drums
+  id:Lines             value:black        legend:Albums
+
+LineData =
+ at:15/05/1983 color:black layer:back
+ at:29/08/1985 color:black layer:back
+ at:14/07/1986 color:black layer:back
+ at:08/04/1988 color:black layer:back
+ at:16/05/1991 color:black layer:back
+ at:21/11/1993 color:black layer:back
+ at:23/07/1994 color:black layer:back
+ at:15/04/1994 color:black layer:back
+ at:29/03/1995 color:black layer:back
+ at:03/10/1996 color:black layer:back
+ at:27/02/1997 color:black layer:back
+ at:12/07/1997 color:black layer:back
+
+BarData =
+  bar:Butusov      text:"Vyacheslav Butusov" 
+  bar:Poleva       text:"Anastasiya Poleva"
+  bar:Umeckiy      text:"Dmitriy Umetskiy"
+  bar:Kopilov      text:"Goga Kopylov"
+  bar:Komarov      text:"Viktor Komarov"
+  bar:Homenko      text:"Aleksey Khomenko"
+  bar:Mogilevckiy  text:"Aleksey Mogilevskiy"
+  bar:Sadnov       text:"Andrey Sadnov"  
+  bar:Elizarov     text:"Vladimir Yelizarov"  
+  bar:Belkin       text:"Yegor Belkin"
+  bar:Beliyaev     text:"Aleksandr Belyayev"
+  bar:Petrov       text:"Nikolay Petrov"
+  bar:Goncharov    text:"Igor Goncharov"
+  bar:Zarubin      text:"Aleksandr Zarubin"
+  bar:Nazimov      text:"Vladimir Nazimov"
+  bar:Dgavad-Zade  text:"Igor Dzhavad-Zade"
+  bar:Potapkin     text:"Albert Potapkin"
+
+PlotData=
+  width:10 textcolor:black align:left anchor:from shift:(10,-4)
+  bar:Butusov   from:start till:end color:Lead
+  bar:Butusov   from:start till:end color:Guitar width:3
+  bar:Poleva    from:26/04/1983 till:18/10/1983 color:Lead
+  bar:Sadnov  from:start till:25/02/1983 color:Guitar
+  bar:Elizarov  from:13/04/1988 till:18/10/1988 color:Guitar
+  bar:Elizarov  from:13/04/1988 till:18/10/1988 color:Bass width:3
+  bar:Belkin  from:01/01/1988 till:13/04/1988 color:Guitar
+  bar:Belkin  from:30/03/1990 till:28/08/1993 color:Guitar
+  bar:Beliyaev  from:15/07/1989 till:24/07/1993 color:Guitar
+  bar:Petrov  from:09/04/1994 till:end color:Guitar
+  bar:Umeckiy  from:start till:15/06/1989 color:Bass
+  bar:Kopilov   from:13/04/1990 till:end color:Bass
+  bar:Komarov  from:21/04/1985 till:24/07/1988 color:Klavier
+  bar:Homenko  from:20/09/1987 till:20/10/1988 color:Klavier
+  bar:Mogilevckiy   from:31/01/1986 till:15/09/1988 color:Klavier
+  bar:Mogilevckiy   from:31/01/1986 till:15/09/1988 color:Sax width:3
+  bar:Mogilevckiy   from:08/05/1994 till:end color:Klavier
+  bar:Mogilevckiy   from:08/05/1994 till:end color:Sax width:3
+  bar:Goncharov from:22/03/1982 till:01/11/1982 color:Drums
+  bar:Zarubin from:01/11/1982 till:26/06/1983 color:Drums
+  bar:Nazimov from:13/02/1987 till:19/04/1988 color:Drums
+  bar:Dgavad-Zade from:01/03/1989 till:13/08/1991 color:Drums
+  bar:Potapkin from:09/01/1986 till:13/02/1987 color:Drums
+  bar:Potapkin from:16/08/1994 till:23/07/1997 color:Drums
+
+}}
+
+== Discography ==
+{| class="wikitable"
+|-
+!width="10%"| Year
+!width="30%"| Russian name
+!width="30%"| English transliteration (translation)
+|-
+| 1983
+| '''Переезд'''
+| ''Pereyezd'' (Resettlement (or Highway Crossing))
+|-
+| 1985
+| '''Невидимка'''
+| ''Nevidimka'' (The Invisible One)
+|-
+| 1986
+| '''Разлука'''
+| ''Razluka'' (Separation), a name of a Russian folk song featuring in the album
+|-
+| 1987–1988
+| '''Ни Кому Ни Кабельность''' (LIVE)
+| ''Ni Komu Ni Kabel'nost{{'}}'' ([[pun]]; ''nekommunikabel'nost{{'}}'' means 'lack of sociability' (a loanword, from ''communicate'' and -''able''-) and ''nikomu ni'' means 'to nobody'
+|-
+| 1988
+| '''Князь Тишины'''
+| ''Knyaz' Tishiny'' (Prince of Silence), after a poem by [[Endre Ady]]
+|-
+| 1988
+| '''Отбой''' (LIVE)
+| ''Otboy'' (Lights-out)
+|-
+|1989
+|'''Человек без имени'''
+|''Chelovek Bez Imeni'' (Man With No Name)
+|-
+|1992
+|'''Чужая земля'''
+|''Chuzhaya Zemlya'' (Foreign Land)
+|-
+|1994
+|'''Титаник'''
+|''Titanic''
+|-
+|1994
+|'''Титаник-LIVE'''
+|''Titanic-LIVE''
+|-
+|1995
+|'''Крылья'''
+|''Kryl'ya'' (Wings)
+|-
+|1996
+|'''Лучшие Песни''' (LIVE)
+|''Luchshie Pesni'' (Best Songs)
+|-
+|1997
+|'''Яблокитай'''
+|''Yablokitay'' (China-apple, Dutch etymologization of Russian ''apel'sin'' 'orange fruit')
+|-
+|1997
+|'''Атлантида'''
+|''Atlantida (Atlantis)''
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [http://www.allmusic.com/artist/nautilus-pompilius-mn0000730888 Nautilus Pompilius' history] at [[Allmusic.com]]
+* [https://www.discogs.com/artist/1315517-Nautilus-Pompilius Nautilus Pompilius] at [[discogs.com]]
+* [http://russmus.net/band/18/ Discography with Lyrics and English translations]
+*[http://www.russia-ic.com/culture_art/music/381/#r11 About the band]
+*[http://nautilus.ru Nautilus Pompilius On-Line - Official web site] {{in lang|ru}}
+*[http://www.zvuki.ru/A/P/271/ Zvuki.ru - Nautilus pompilius] {{in lang|ru}}
+*[http://www.u-piter.ru/ Official Website of Butusov & U-Piter] Vyacheslav Butusov's current group (Nautilus Pompilius' front man) {{in lang|ru}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nautilus Pompilius (Band)}}
+[[Category:Russian rock music groups]]
+[[Category:Soviet rock music groups]]
+[[Category:Russian gothic rock groups]]
+[[Category:Russian new wave musical groups]]
+[[Category:Musical groups from Yekaterinburg]]

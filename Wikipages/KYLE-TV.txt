@@ -1,0 +1,101 @@
+{{short description|MyNetworkTV affiliate in Bryan, Texas}}
+{{redirect|KYLE||Kyle (disambiguation)}}
+{{distinguish|WYLE (TV)}}
+{{for|the public broadcaster in [[Finland]]|Yle}}
+{{Infobox television station
+| callsign               = KYLE-TV
+| city                   = Bryan, Texas
+| logo                   = Kyle-tv_y28.jpeg
+| logo_size              = 225px
+| branding               = Y28 or My28 KYLE
+| digital                = 29 ([[ultra high frequency|UHF]])
+| virtual                = 28
+| translators            = ''KWKT-DT 44.2 (UHF) Waco''
+| subchannels            =
+| affiliations           = '''28.1:''' [[MyNetworkTV]] (secondary 2006–2015)<br>'''[[KWKT-TV|28.2]]:''' [[Fox Broadcasting Company|Fox]]<br>'''28.3:''' [[Antenna TV]] ('''[[owned-and-operated station|O&O]]''')<br>'''28.4:''' [[Laff (TV network)|Laff]]
+| airdate                = {{start date and age|1994|10|31|p=y}}
+| last_airdate           = 
+| location               = [[Bryan, Texas|Bryan]]–[[College Station, Texas|College Station]]/<br>[[Waco, Texas|Waco]]/[[Temple, Texas]]
+| country                = United States
+| owner                  = [[Nexstar Media Group]]
+| licensee               = Nexstar Media Inc.
+| sister_stations        = KWKT-TV
+| callsign_meaning       = [[Kyle Field]] at [[Texas A&M University|Texas A&M]]
+| former_callsigns       = 
+| former_channel_numbers = '''Analog:'''<br>28 (UHF, 1994–2009)<br>'''Digital:'''<br>29 (UHF, 2006–2009)<br>28 (UHF, 2009–2020)
+| former_affiliations    = '''Primary:'''<br>[[Independent station (North America)|Independent]] (1994–1995)<br>[[The WB]] (1995–1996)<br>Fox (via KWKT-TV, 1996–2015)<br>'''Secondary:'''<br>The WB (via KWKT-TV, 2002–2006)<br>'''DT3:'''<br>[[Estrella TV]] (until 2021)
+| erp                    = 56.7 kW
+| haat                   = {{convert|209.7|m|ft|0|abbr=on}}
+| facility_id            = 60384
+| coordinates            = {{nowrap|{{coord|30|41|16.2|N|96|25|32.4|W|type:landmark_scale:2000|name=KYLE-TV}}}}
+| licensing_authority    = [[Federal Communications Commission|FCC]]
+| website                = {{URL|https://www.fox44news.com/}} 
+}}
+
+'''KYLE-TV''', [[virtual channel]] 28 ([[Ultra high frequency|UHF]] [[digital terrestrial television|digital]] channel 29), is a [[MyNetworkTV]]-[[network affiliate|affiliated]] [[television station]] [[city of license|licensed]] to [[Bryan, Texas]], United States and serving the [[Brazos Valley]]. The station is owned by [[Nexstar Media Group]], as part of a [[duopoly (broadcasting)|duopoly]] with [[Waco, Texas|Waco]]-licensed [[Fox Broadcasting Company|Fox]] affiliate [[KWKT-TV]] (channel 44).<ref>[http://www.nexstar.tv/stations-kyle KYLE - Nexstar Broadcasting Group]</ref> The two stations share studios on Woodway Drive in [[Woodway, Texas]] (using a Waco address); KYLE-TV operates a secondary studio on Broadmoor Drive in Bryan and transmitter facilities near [[Farm to Market Road 2818]] on the city's western outskirts.
+
+==History==
+===As a WB affiliate===
+KYLE first signed on the air on [[Halloween|October 31]], 1994, under the ownership of the Silent Minority Group.<ref name="by1995">{{cite book|title=Broadcasting & Cable Yearbook 1995|year=1995|page=C-72|url=https://www.americanradiohistory.com/Archive-BC-YB/1995/C-TV-YB-1995.pdf|format=PDF|access-date=September 28, 2018}}</ref> Initially an [[independent station (North America)|independent station]], it affiliated with [[The WB]] when the network launched in January 1995.<ref name="100kw-kylewb">{{cite web |title=Bryan/College Station TV Directory |url=http://100kwatts.tmi.net:80/tv/CLL.html |website=100000 Watts |access-date=September 27, 2018 |archive-url=https://web.archive.org/web/20030822084020/http://100kwatts.tmi.net/tv/CLL.html |archive-date=August 22, 2003 |url-status=live }}</ref> Later that year, the station was put up for sale, as KYLE had lost money every month of its existence.<ref name="fcc-saletocomcorp">{{cite web |title=Memorandum Opinion and Order |url=https://docs.fcc.gov/public/attachments/DA-96-1928A1.pdf |publisher=[[Federal Communications Commission]] |access-date=September 27, 2018 |format=PDF |date=November 19, 1996}}</ref>
+
+===As a primary Fox affiliate===
+Unable to find a buyer that would operate KYLE as a standalone station, in 1996 Silent Minority Group sold the station to the [[Lafayette, Louisiana]]-based [[Communications Corporation of America]] (ComCorp), after ComCorp was granted a satellite waiver by the [[Federal Communications Commission]] (FCC).<ref name="fcc-saletocomcorp"/> ComCorp already owned Fox affiliate KWKT,<ref name="fcc-saletocomcorp"/> whose signal was unable to reach across [[central Texas]] due to signal interference issues experienced by UHF stations operating in areas composed of rugged terrain. Before KYLE's launch, channel 28 had been used for a [[translator station]] in College Station, K28AK, that carried KWKT's programming;<ref name="vud-k28ak">{{cite news|last=Smith|first=Doug|title=TV News|url=https://www.wtfda.org/vud90s/1996/06-96vud.pdf|access-date=September 28, 2018|newspaper=VHF-UHF Digest|date=June 1996|page=12|format=PDF}}</ref> in most of the market, KWKT was only viewable on cable. Following the purchase, KYLE became a satellite of KWKT, while WB programming moved to a secondary clearance on [[UPN]] affiliate [[KAKW-DT|KAKW]] (channel 62).<ref name="vud-kwktonkyle1">{{cite news|last=Smith|first=Doug|title=TV News|url=https://www.wtfda.org/vud90s/1996/10-96vud.pdf|access-date=September 28, 2018|newspaper=VHF-UHF Digest|date=October 1996|page=18|format=PDF}}</ref><ref name="vud-kwktonkyle2">{{cite news|last=Smith|first=Doug|title=TV News|url=https://www.wtfda.org/vud90s/1996/11-96vud.pdf|access-date=September 28, 2018|newspaper=VHF-UHF Digest|date=November 1996|page=15|format=PDF}}</ref> KYLE served the eastern portion of the market, while KWKT served the western portion.
+
+Like its sister station did at the time, KYLE aired [[Fox Kids]] programming one hour earlier than many affiliates on weekday afternoons from 1:00 to 4:00&nbsp;p.m. until the weekday block was discontinued by the network in December 2001,<ref>{{cite news|title=Fox outgrows kids programs|url=https://www.variety.com/article/VR1117855508.html?categoryid=14&cs=1&query=|author=Michael Schneider|periodical=[[Variety (magazine)|Variety]]|publisher=[[Reed Business Information]]|date=November 7, 2001|access-date=August 13, 2009}}</ref> in addition to carrying its successor Saturday morning children's blocks known as [[4KidsTV|Fox Box]] and later [[4KidsTV]] until the latter block ended nationally in December 2008, when [[4Licensing Corporation|4Kids Entertainment]] and Fox parted ways due to a contract dispute.
+
+[[File:KYLE28.png|thumb|left|200px|Final KYLE logo as a Fox affiliate, used from 2008 to June 30, 2015.]]
+WB programming returned to KYLE in July 2002, when it and KWKT took on a secondary affiliation with the network; this was The WB's second station change in the market during that year, as its programming had aired on [[American Broadcasting Company|ABC]] affiliates [[KXXV]] (channel 25) and [[KRHD-CD|KRHD-LP]] (channel 34, now channel 40) after KAKW became a [[Univision]] station that January.<ref name="100kw-kylewb"/> With this, The WB's primetime schedule aired on KWKT/KYLE on a six-hour delay from 1:00 to 3:00&nbsp;a.m., with Fox network programming running in pattern from 7:00 to 9:00&nbsp;p.m. At this time, the station also added The WB's children's program block [[Kids' WB]] in the time slot formerly occupied by Fox Kids—which KWKT/KYLE replaced with syndicated programs following the discontinuance of the Fox Kids weekday block, lasting until Kids' WB's weekday block was replaced in January 2006 by the [[The CW Daytime|Daytime WB]] rerun block; the station also carried the block's Saturday morning lineup airing a day behind on Sunday mornings.
+
+On February 22, 2006, [[News Corporation (1980–2013)|News Corporation]] announced the launch of a new network called [[MyNetworkTV]], which would be operated by the Fox network's sister companies [[Fox Television Stations]] and [[Twentieth Television]]. MyNetworkTV was created to compete against another upstart network that would launch at the same time that September, [[The CW]] (an amalgamated network that originally consisted primarily of The WB and [[UPN]]'s higher-rated programs) as well as to give UPN and WB stations that were not named as CW charter affiliates another option besides converting to [[independent station (North America)|independent stations]].<ref>{{cite news|title=News Corp. to launch new mini-network for UPN stations|url=http://usatoday30.usatoday.com/life/television/news/2006-02-22-fox-my-network_x.htm|access-date=January 21, 2013|newspaper=[[USA Today]]|publisher=[[Gannett Company]]|date=February 22, 2006}}</ref><ref>{{cite news|title=News Corp. Unveils My Network TV|url=http://www.broadcastingcable.com/news/news-articles/news-corp-unveils-my-network-tv/78935|author=John Eggerton|periodical=Broadcasting & Cable|publisher=[[NewBay Media]]|date=February 22, 2006}}</ref> When MyNetworkTV launched on September 5, 2006, the station carried the programming service as a secondary affiliation from 10:00&nbsp;p.m. to 12:00&nbsp;a.m. each weeknight. As the block became part of The CW's programming schedule with that network's launch on September 18, Kids' WB programming moved to a CW-affiliated digital subchannel of [[CBS]] affiliate [[KWTX-TV]] (channel 10).
+
+On April 24, 2013, Communications Corporation of America announced the sale of its stations to [[Irving, Texas|Irving]]-based [[Nexstar Media Group|Nexstar Broadcasting Group]] for $270 million, in a deal that also included rights to the local marketing agreements involving stations owned by Comcorp partner company [[White Knight Broadcasting]].<ref>{{cite web|title=Nexstar, Mission Buy 19 Stations For $270M|url=http://www.tvnewscheck.com/article/67066/nexstar-mission-buy-19-stations-for-270m|website=TVNewsCheck|publisher=NewsCheck Media|date=April 24, 2013|access-date=July 18, 2015}}</ref> However, due to a later proposal by the FCC to restrict sharing agreements between two or more television stations within the same market, approval of the sale was delayed for 20 months—at which time Nexstar sold some of KWKT/KYLE's sister stations under Comcorp ownership to licensees run by female and [[Ethnic group|ethnic minority]] owners (all [[WEVV-TV|but one]] of which would end up operated by Nexstar through outsourcing agreements)—before finally being completed on January 1, 2015.<ref>{{cite web|title=Consummation Notice|url=http://licensing.fcc.gov/cgi-bin/ws.exe/prod/cdbs/forms/prod/prefill_and_display.pl?Application_id=1666908&Service=DT&Form_id=905&Facility_id=72041|website=CDBS Public Access|publisher=[[U.S. Federal Communications Commission]]|access-date=January 5, 2015}}</ref> The sale was completed on January 1, 2015.<ref>{{cite web|title=Consummation Notice|url=http://licensing.fcc.gov/cgi-bin/ws.exe/prod/cdbs/forms/prod/prefill_and_display.pl?Application_id=1667025&Service=DT&Form_id=905&Facility_id=60384|website=CDBS Public Access|publisher=Federal Communications Commission|access-date=January 6, 2015}}</ref>
+
+===As a MyNetworkTV affiliate===
+On May 7, 2015, Nexstar announced that it would convert KYLE into a separate station that would serve as the market's MyNetworkTV affiliate, with its own inventory of syndicated programming outside of the programming service's broadcast hours. When the conversion took effect on July 1, KYLE changed its on-air branding to "Y28," using a logo based on that originated in 2010 on sister station (and fellow MyNetworkTV affiliate) [[KARZ-TV]] in [[Little Rock, Arkansas]] (which has since been used by some of its sister MyNetworkTV affiliates and [[independent station (North America)|independent stations]], including [[WCIX]] in [[Springfield, Illinois]] and [[KOZL-TV]] in [[Springfield, Missouri]]). KWKT became the market's sole Fox affiliate; it also began simulcasting KYLE on its second digital subchannel to provide its programming to the entire Waco-Temple-Bryan market. KWKT is simulcast on KYLE's second subchannel for the same reason.<ref name=b&c-kylemy28>{{cite news|title=Nexstar First Quarter Revenue Up 52%|url=http://www.broadcastingcable.com/news/local-tv/nexstar-first-quarter-revenue-52/140632|author=Michael Malone|periodical=[[Broadcasting & Cable]]|publisher=[[NewBay Media]]|date=May 7, 2015|access-date=May 8, 2015}}</ref>
+
+==Digital television==
+
+===Digital channels===
+The station's digital signal is [[Multiplex (TV)|multiplexed]]:
+{| class="wikitable"
+|-
+! [[Digital subchannel#United States|Channel]]
+! [[Display resolution|Video]]
+! [[Aspect ratio (image)|Aspect]]
+! [[Program and System Information Protocol#What PSIP does|PSIP Short Name]]
+! Programming<ref>{{cite web|title=RabbitEars TV Query for KYLE|url=http://www.rabbitears.info/market.php?request=station_search&callsign=KYLE#station|website=[[RabbitEars]]|access-date=July 5, 2015}}</ref>
+|-
+| 28.1 || rowspan=2| [[720p]] || rowspan=2| [[16:9]] || rowspan="2"|KYLE-TV || Main KYLE-TV programming / [[MyNetworkTV]] 
+|-
+| [[KWKT-TV|28.2]] || Simulcast of [[KWKT-TV]] / [[Fox Broadcasting Company|Fox]]
+|-
+| 28.3 ||rowspan=2|[[480i]] || rowspan=2|[[4:3]] || KYLE-ES || [[Antenna TV]] 
+|-
+| 28.4 || || [[Laff (TV network)|Laff]] 
+|-
+|}
+
+===Analog-to-digital conversion===
+KYLE-TV shut down its analog signal, over [[UHF]] channel 28, on June 12, 2009, the official date in which full-power television stations in the United States [[Digital television transition in the United States|transitioned from analog to digital broadcasts]] under federal mandate. The station's digital signal relocated from its pre-transition UHF channel 29 to channel 28 for post-transition operations.<ref>{{cite web|title=DTV Tentative Channel Designations for the First and Second Rounds |url=http://hraunfoss.fcc.gov/edocs_public/attachmatch/DA-06-1082A2.pdf |format=PDF |publisher=[[U.S. Federal Communications Commission]] |access-date=March 24, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20130829004251/http://hraunfoss.fcc.gov/edocs_public/attachmatch/DA-06-1082A2.pdf |archive-date=August 29, 2013 }}</ref>
+
+==Programming==
+In addition to carrying the entire MyNetworkTV schedule, [[Broadcast syndication|syndicated]] programs broadcast on KYLE-TV ({{as of|July 2021|lc=y}}) include ''[[The Steve Wilkos Show]]'', ''[[Divorce Court]]'', ''[[TMZ on TV]]'', ''[[The Doctors (talk show)|The Doctors]]'', and ''[[Pawn Stars]]''.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|https://www.fox44news.com/}}
+*{{BIA|KYLE|TV|TV}}
+
+{{Waco TV}}
+{{MNTV Texas}}
+{{NXST TV}}
+
+[[Category:Television stations in Texas]]
+[[Category:MyNetworkTV affiliates]]
+[[Category:Antenna TV affiliates]]
+[[Category:Laff (TV network) affiliates]]
+[[Category:Television channels and stations established in 1994]]
+[[Category:1994 establishments in Texas]]
+[[Category:Nexstar Media Group]]

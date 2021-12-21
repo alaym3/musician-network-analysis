@@ -1,0 +1,91 @@
+{{about|the American quartet|the German band|Ideal (German band)}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name             = Ideal
+| image            = 
+| caption          = 
+| image_size       = 
+| background       = group_or_band
+| alias            = 
+| origin           = [[Houston, Texas]], [[United States]]
+| genre            = [[Contemporary R&B|R&B]]
+| years_active     = 1995–2004
+| label            = [[Virgin Records|Virgin]] <small>(1998–2001)</small><br>Neutral Ground/[[Universal Records|Universal]] <small>(2004)</small>
+| associated_acts  = 
+| website          = 
+| current_members  = 
+| past_members     = Maverick "Mav" Cotton<br>Cedrick "Swab" Cotton (deceased)<br>Wayne "PZ" Perry<br>Jay "J-Dante" Green
+}}
+
+'''Ideal''' was an American [[Contemporary R&B|R&B]] [[quartet]] from [[Houston, Texas]], [[United States]]. The group debuted in 1999 and was composed of brothers Maverick "Mav" and Cedrick "Swab" Cotton, their cousin Wayne "PZ" Perry, and high school friend Jay "J-Dante" Green, all graduates of Lamar High School in Houston. The group is best known for the hit songs "Creep Inn", "Get Gone", and "[[Whatever (Ideal song)|Whatever]]".
+
+==Career==
+Ideal's [[Ideal (album)|eponymous debut album]] was released by [[Virgin Records]] on August 24, 1999. The album sold 615,000 units in the U.S., according to [[Nielsen SoundScan]],<ref name="billboard">Mitchell, Gail. "'Ideal' Time To Get Back In The Studio." ''[[Billboard (magazine)|Billboard]]''. February 21, 2004: 25. Print.</ref> and was [[RIAA certification|certified]] Gold by the [[Recording Industry Association of America|RIAA]].<ref>[https://www.riaa.com/goldandplatinumdata.php?resultpage=1&table=SEARCH_RESULTS&action=&title=ideal&artist=ideal&format=ALBUM&debutLP=&category=GROUP&sex=&releaseDate=&requestNo=&type=ST&level=&label=virgin&company=&certificationDate=&awardDescription=&catalogNo=&aSex=&rec_id=&charField=&gold=&platinum=&multiPlat=&level2=&certDate=&album=&id=&after=&before=&startMonth=1&endMonth=1&startYear=1958&endYear=2008&sort=Artist&perPage=25 RIAA Gold and Platinum Searchable Database]</ref> [[Allmusic]]'s Heather Phares called Ideal's initial effort a "heartfelt first album" which showcased the "group's smooth, sensuous vocal styling and romantic songwriting".<ref>[{{Allmusic|class=album|id=r427376/review|pure_url=yes}} allmusic.com - ''Ideal'' - Review]</ref>
+
+In 2004, the group signed with Neutral Ground/[[Universal Records]] and began work on their sophomore album, tentatively titled ''From Now On''. Guest producers for the project were to include [[Bryan-Michael Cox]], [[Rockwilder]], [[Nisan Stewart]], [[Mike City]], and [[Battlecat (producer)|Battle Cat]]. The lead single was slated to be the [[Cee-Lo Green]]–featured "Makin' Time", however neither the single nor the album were released.<ref name="billboard"/>
+
+Cedrick "Swab" Cotton (born on May 31, 1974 in Houston, Texas)<ref name="tributearchive">{{cite web |url=https://www.tributearchive.com/obituaries/20008026/Cedrick-Dewayne-Cotton |title=Cedrick Dewayne Cotton|last=|first=|date=|accessdate=February 24, 2021|website=tributearchive.com}}</ref> was fatally stabbed at a convenience store in Houston on February 9, 2021. He was 46.<ref name="abc13">{{cite web |url=https://abc13.com/former-rb-member-stabbed-to-death-southwest-houston-stabbing-cedrick-cotton-group-ideal/10327926/ |title=Former member of R&B group 'Ideal' stabbed to death in SW Houston|last=Simon|first= Erica|date=February 11, 2021|accessdate=February 11, 2021|website=abc13.com}}</ref>
+
+==Discography and chart performance==
+
+===Albums===
+{|class="wikitable" 
+! Year
+! Statistics
+|-
+|1999
+|width=250 align=|'''''[[Ideal (album)|Ideal]]''''' 
+*Released: August 24, 1999
+*Label: [[Virgin Records|Virgin]]
+*Peak Chart Positions:<ref>[{{Allmusic|class=artist|id=p373833/charts-awards|pure_url=yes}} allmusic.com - Ideal - Charts & Awards - Billboard Albums]</ref><br>#83 <small>([[Billboard 200]])</small><br>#19 <small>([[Top R&B/Hip-Hop Albums]])</small>
+|}
+
+===Singles===
+{|class="wikitable"
+!rowspan="2"| Year
+!rowspan="2"| Single
+!colspan="2"| Chart positions 
+!rowspan="2"| Album
+|-
+!width="30"|<small>[[Billboard Hot 100|US]]</small>
+!width="30"|<small>[[Hot R&B/Hip-Hop Songs|US R&B]]</small>
+|-
+|rowspan="1"| 1996
+|"[[Inner City Blues (Make Me Wanna Holler)]]"<small> (featuring Lil' Bud & Tizone)</small>
+|align="center"| —
+|align="center"| 94
+|rowspan="1"| ''[[Original Gangstas (soundtrack)|Original Gangstas]]''
+|-
+|rowspan="2"| 1999
+|"Get Gone"
+|align="center"| 13
+|align="center"| 2
+|rowspan="3"| ''[[Ideal (album)|Ideal]]'' 
+|-
+|"Creep Inn"
+|align="center"| —
+|align="center"| 60
+|-
+|rowspan="1"| 2000
+|"[[Whatever (Ideal song)|Whatever]]" <small>(featuring [[Lil' Mo]])</small>
+|align="center"| 47
+|align="center"| 11
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External Links==
+* {{Discogs artist|Ideal (6)}}
+{{Authority control}}
+{{DEFAULTSORT:Ideal}}
+[[Category:1995 establishments in Texas]]
+[[Category:2004 disestablishments in Texas]]
+[[Category:American contemporary R&B musical groups]]
+[[Category:African-American musical groups]]
+[[Category:Musical groups from Houston]]
+[[Category:American boy bands]]
+[[Category:Virgin Records artists]]
+[[Category:Universal Records artists]]
+[[Category:Musical groups established in 1995]]
+[[Category:Musical groups disestablished in 2004]]

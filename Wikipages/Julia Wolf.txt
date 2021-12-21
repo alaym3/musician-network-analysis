@@ -1,0 +1,60 @@
+{{short description|British mathematician specialising in arithmetic combinatorics}}
+{{about|the mathematician|the fictional character|The Thin Man|the American composer|Julia Wolfe|the British composer|Julia Woolf}}
+'''Julia Wolf''' is a British mathematician specialising in [[arithmetic combinatorics]] who was the 2016 winner of the Anne Bennett Prize of the [[London Mathematical Society]].{{r|bennett|lms}} She is currently university lecturer in the Department of Pure Mathematics and Mathematical Statistics at the [[University of Cambridge]].{{r|cv}}
+
+==Education and career==
+Wolf writes that her childhood ambition was to become a [[carpenter]], and that she became attracted to science only after subscribing to ''[[Scientific American]]'' as a teenager.{{r|bristol}}
+
+She read mathematics at [[Clare College, Cambridge]], earning a bachelor's degree there in 2004 and completing the [[Mathematical Tripos]] in 2003.{{r|cv}}
+She remained at Cambridge for graduate study, and completed her PhD there in 2008. Her dissertation, ''Arithmetic Structure in Sets of Integers'', was supervised by [[Timothy Gowers]].{{r|cv|mgp}} She was also mentored in her doctoral studies by [[Ben Green (mathematician)|Ben Green]], whom she met when he was a postdoctoral researcher at Cambridge from 2001 to 2005.{{r|green}}
+
+Since earning her doctorate she has been a postdoctoral fellow at the [[Mathematical Sciences Research Institute]] in [[Berkeley, California]], Triennial assistant professor at [[Rutgers University]] in [[New Jersey]],
+Hadamard associate professor at the [[École Polytechnique]] in [[Paris]] (earning a [[habilitation]] at the [[University of Paris-Sud]] in 2012),
+and Heilbronn reader in combinatorics and number theory at the [[University of Bristol]].{{r|cv}} She returned to Cambridge as university lecturer in 2018,{{r|cv|reporter}} and is a Fellow of Clare College.{{r|flare}}
+
+==Recognition==
+In 2016 the [[London Mathematical Society]] gave Wolf their [[Anne Bennett Prize]] "in recognition of her outstanding contributions to additive number theory, combinatorics and harmonic analysis and to the mathematical community."{{r|bennett|lms}} The award citation particularly cited her work with Gowers on counting solutions to [[System of linear equations|systems of linear equations]] over [[abelian group]]s, and her work on quadratic analogues of the [[Hard-core predicate|Goldreich–Levin theorem]].{{r|lms}}
+
+==References==
+{{reflist|refs=
+
+<ref name=bennett>{{citation|url=http://www.bristol.ac.uk/maths/news/2016/julia-wolf---anne-bennett-prize.html|title=Dr Julia Wolf wins LMS Anne Bennett Prize|publisher=University of Bristol School of Mathematics|date=8 July 2016|accessdate=2018-09-09}}</ref>
+
+<ref name=bristol>{{citation|url=https://www.bristol247.com/news-and-features/features/leading-the-way-during-ada-lovelace-day/|title=Bristol women at the forefront of science|newspaper=[[Bristol24-7|Bristol 24/7]]|first=Pamela|last=Parkes|date=28 September 2015}}</ref>
+
+<ref name=cv>{{citation|url=http://www.juliawolf.org/cv.shtml|title=Curriculum vitae|accessdate=2018-09-09}}</ref>
+
+<ref name=flare>{{citation|url=http://www.clare.cam.ac.uk/Mathematics/|title=Mathematics|publisher=Clare College, Cambridge|accessdate=2018-09-09}}</ref>
+
+<ref name=green>{{citation|url=http://people.maths.ox.ac.uk/greenbj/students.html|title=Current and former students|first=Ben|last=Green|authorlink=Ben Green (mathematician)|accessdate=2018-09-09}}</ref>
+
+<ref name=lms>{{citation
+ | date = December 2016
+ | doi = 10.1112/blms/bdw065
+ | issue = 6
+ | journal = Bulletin of the London Mathematical Society
+ | pages = 1051–1058
+ | title = Prizewinners 2016
+ | volume = 48}}</ref>
+
+<ref name=mgp>{{mathgenealogy|id=123526}}</ref>
+
+<ref name=reporter>{{citation|url=http://www.admin.cam.ac.uk/reporter/2017-18/weekly/6509/section2.shtml|title=Elections, appointments, reappointments, and grant of title|journal=Cambridge University Reporter|volume=6509|date=6 June 2018}}</ref>
+
+}}
+
+==External links==
+*[http://www.juliawolf.org/ Home page]
+
+{{Authority control}}
+{{DEFAULTSORT:Wolf, Julia}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:British mathematicians]]
+[[Category:Women mathematicians]]
+[[Category:Alumni of Clare College, Cambridge]]
+[[Category:Rutgers University faculty]]
+[[Category:École Polytechnique faculty]]
+[[Category:Academics of the University of Bristol]]
+[[Category:Academics of the University of Cambridge]]
+[[Category:Fellows of Clare College, Cambridge]]

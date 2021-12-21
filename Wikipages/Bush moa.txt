@@ -1,0 +1,66 @@
+{{short description|Extinct genus of flightless birds}}
+{{Use dmy dates|date=July 2019}}
+{{speciesbox
+| status = EX
+| fossil_range = [[Pleistocene]]-[[Holocene]]
+| name = Bush moa
+| image = Anomalopteryx.jpg
+| image_caption = skeleton
+| genus = Anomalopteryx
+| parent_authority = [[Ludwig Reichenbach|Reichenbach]] 1852
+| species = didiformis
+| authority = ([[Richard Owen|Owen]] 1844) Reichenbach 1853<ref>Brands, S. (2008)</ref><ref>{{cite book |author1=B.J. Gill |author2=B.D. Bell |author3=G.K. Chambers |author4=D.G. Medway |author5=R.L. Palma |author6=R.P. Scofield |author7=A.J.D. Tennyson |author8=T.H. Worthy |name-list-style=amp |date=2010 |title=Checklist of the Birds of New Zealand, Norfolk and Macquarie Islands, and the Ross Dependency, Antarctica |edition=4th |publisher=Te Papa Press |location=Wellington, NZ |url=http://nzbirdsonline.org.nz/sites/all/files/checklist/Checklist-of-Birds.pdf | isbn=978-1-877385-59-9}}</ref>
+| synonyms = 
+* ''Dinornis didiformis'' <small>[[Richard Owen|Owen]], 1844</small>
+* ''Anomalopteryx didiformis'' <small>(Owen 1844) Lydekker 1891</small>
+* ''Anomalornis didiformis'' <small>(Owen 1844) Hutton 1897</small>
+* ''Dinornis dromioides'' <small>[[Richard Owen|Owen]], 1846 non Oliver 1930</small>
+* ''Anomalopteryx dromaeoides'' <small>(Owen 1846) Lydekker 1891</small>
+* ''Dinornis parvus'' <small>[[Richard Owen|Owen]], 1883</small>
+* ''Anomalopteryx parva'' <small>(Owen 1883) Lydekker 1891</small>
+* ''Dinornis oweni'' <small>[[Julius von Haast|Haast]], 1886</small>
+* ''Anomalornis owenii'' <small>(Haast 1886) Hutton 1897</small>
+* ''Pachyornis owenii'' <small>(Haast 1886) Archey 1941</small>
+* ''Anomalopteryx oweni'' <small>(Haast 1886) Oliver 1949</small>
+* ''Anomalopteryx antiquus''<small> [[Frederick Hutton (scientist)|Hutton]], 1892 (may be a valid predecessor species)</small>
+* ''Anomalopteryx fortis'' <small>Hutton, 1893</small>
+* ''Anomalornis gracilis'' <small>Hutton 1897 non Dinornis gracilis Owen 1854</small>
+* ''Anomalornis'' <small>(Hutton, 1897)</small>
+* ''Graya'' <small>(Bonaparte, 1956)</small>
+}}
+
+'''''Anomalopteryx didiformis''''' is an extinct [[flightless bird]] colloquially known as the '''lesser moa''', '''little bush moa''', or '''bush moa'''. It was the smallest known species of moa, only slightly taller than a [[Turkey (bird)|turkey]]. A slender bird, it weighed around {{convert|30|kg|lb}}.<ref name=":0">{{Cite web|title=Little bush moa {{!}} New Zealand Birds Online|url=http://nzbirdsonline.org.nz/species/little-bush-moa|access-date=2021-02-19|website=nzbirdsonline.org.nz}}</ref> It inhabited much of the [[North Island]] and small sections of the [[South Island]] of [[New Zealand]]. It [[habitat|habitated]] the dense lowland conifer, broad-leafed [[Nothofagus|Southern beech]] forests and [[Shrubland|scrubland]].<ref name=":0" /><ref name="Davies" />
+
+[[File:Anomalopteryx didiformis.jpg|thumb|left|upright|Skeleton]] 
+It possessed a sturdy, sharp-edged beak, suggesting that its diet was made up of [[Twig|twigs]] and other tough plant material.<ref name=":0" />
+
+Native predators included the [[Haast's eagle]] and [[Eyles's harrier|Eyles' harrier]].<ref name=":0" /> The species went extinct alongside other native New Zealand wildlife around 500-600 years ago, following the arrival and proliferation of the [[Maori people]] in [[New Zealand]], as well as the introduction of [[Polynesian Dog|Polynesian dogs]].<ref name=":0" />  
+
+As with all moa, they have with a [[sternum]] without a keel. They also have a distinctive [[palate]].<ref name="Davies">Davies, S. J. J. F. (2003)</ref> The most complete remains, a partially articulated skeleton with substantial mummified tissue and feathers were discovered in 1980 in Lake Echo Valley, east of [[Te Anau]], [[Southland, New Zealand|Southland]].<ref>{{cite journal |last=Forrest |first=R. M. |date=1987 |title=A partially mummified skeleton of ''Anomalopteryx didiformis'' from Southland. |url=https://books.google.com/books?id=MK84AAAAIAAJ&pg=PA399 |journal=Journal of the Royal Society of New Zealand |publisher=[[Royal Society of New Zealand]] |volume=17 |issue=4 |pages=399–408 |access-date=8 July 2015 |doi=10.1080/03036758.1987.10426481|doi-access=free }}</ref> It is now in the [[Southland Museum and Art Gallery]], in [[Invercargill]]. Anomalopteryx fossils made up the bulk of moa fossils discovered in a swamp in 1912 in [[Clevedon, New Zealand|Clevedon]].<ref>{{Cite journal| issn = 1174-9202| volume = 40| pages = 39–53| last = Gill| first = B.J.| title = HISTORICAL MOA BONE COLLECTIONS (AVES: DINORNITHIFORMES) AT AUCKLAND MUSEUM—CLEVEDON AND KIA ORA| journal = [[Auckland War Memorial Museum|Records of the Auckland Museum]]| date = 2003}}</ref>
+
+Scientists at [[Harvard University]] assembled the first nearly complete genome of the species from toe bones.<ref name=":1">{{Cite web|date=2018-02-27|title=Scientists reconstruct the genome of a moa, a bird extinct for 700 years|url=https://www.statnews.com/2018/02/27/moa-extinct-bird-genome/|access-date=2021-02-20|website=STAT|language=en-US}}</ref><ref>{{Cite web | url=https://www.ncbi.nlm.nih.gov/genome/124?genome_assembly_id=605838 |title = Anomalopteryx didiformis (ID 124) - Genome - NCBI}}</ref> Thus bringing the species a step closer to being "[[De-extinction|resurrected]]" in the future.<ref name=":1" />
+
+==Footnotes==
+{{Reflist}}
+
+==References==
+* {{cite web| url= http://www.taxonomy.nl/Main/Classification/51293.htm| title=Systema Naturae 2000 / Classification, Genus Anomalopteryx | accessdate=Feb 4, 2009  | last=Brands | first=Sheila | authorlink= | date=Aug 14, 2008 | work=Project: The Taxonomicon }}
+* {{cite encyclopedia |last=Davies |first=S.J.J.F.|editor=Hutchins, Michael |encyclopedia=Grzimek's Animal Life Encyclopedia |title=Moas |edition=2 |year=2003 |publisher=Gale Group |volume=8 Birds I Tinamous and Ratites to Hoatzins |location=Farmington Hills, MI|isbn=0-7876-5784-0 |pages=95–98}}
+
+==External links==
+* [http://collections.tepapa.govt.nz/objectdetails.aspx?oid=710921 ''Little Bush Moa. Anomalopteryx didiformis.''] by Paul Martinson. Artwork produced for the book ''Extinct Birds of New Zealand'' by Alan Tennyson, Te Papa Press, Wellington, 2006
+
+{{Portal|Paleontology}}
+{{Palaeognathae|N.}}
+{{Taxonbar|from=Q1131762}}
+
+[[Category:Anomalopteryginae]]
+[[Category:Extinct flightless birds]]
+[[Category:Extinct birds of New Zealand]]
+[[Category:Late Quaternary prehistoric birds]]
+[[Category:Ratites]]
+[[Category:Holocene extinctions]]
+
+
+{{paleo-bird-stub}}
+{{NewZealand-stub}}

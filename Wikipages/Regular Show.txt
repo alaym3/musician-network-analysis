@@ -1,0 +1,502 @@
+{{pp-semi-indef}}
+{{short description|American animated sitcom}}
+{{Tone|date=December 2020}}
+{{Use American English|date=September 2013}}
+{{Use mdy dates|date=September 2013}}
+{{Infobox television
+| name                     = Regular Show
+| image                    = Regular Show Logo.svg
+| caption                  = Title design
+| alt_name                 = ''[[Regular Show (season 8)|Regular Show in Space]]'' {{small|(S8)}}
+| genre                    = {{ubl|[[Animated sitcom]]|[[Surreal comedy]]|[[Urban fantasy]]|[[Science fiction]]|[[Adventure fiction|Adventure]]<ref name="amazon">{{cite web | url=https://www.amazon.com/gp/product/B00A6DRVLC/ref=dv_dp_ep9 | title=Amazon.com: Regular Show Season 2: Amazon Video | access-date=8 September 2015 | archive-url=https://web.archive.org/web/20160308102421/http://www.amazon.com/gp/product/B00A6DRVLC/ref=dv_dp_ep9 | archive-date=March 8, 2016 | url-status=live }}</ref><ref name="netflix">{{cite web | url=http://dvd.netflix.com/Movie/Regular-Show/70221402 | title=Regular Show for Rent on DVD - Netflix DVD | access-date=9 March 2015 | archive-url=https://web.archive.org/web/20150219182059/http://dvd.netflix.com/Movie/Regular-Show/70221402 | archive-date=February 19, 2015 | url-status=live }}</ref>}}
+<!-- Note: Please do not leave what should be source comments - like this text is - visible in article text. Also, the issue of this show's genre should be discussed on the article talk page, if there is unresolved disagreement about it. -->| creator                  = [[J. G. Quintel]]
+| director                 = 
+| creative_director        = 
+| voices                   = {{ubl|J. G. Quintel|[[William Salyers]]|Sam Marin|[[Mark Hamill]]|Janie Haddad Tompkins|Minty Lewis}}
+| theme_music_composer     = J. G. Quintel
+| composer                 = {{ubl|[[Mark Mothersbaugh]]|John Enroth|Albert Fox}}
+| country                  = United States
+| language                 = English
+| num_seasons              = 8
+| num_episodes             = 261{{#tag:ref|15 additional shorts (i.e., mini-episodes roughly two minutes in length) were also produced.|group="nb"}}
+| list_episodes            = List of Regular Show episodes
+| executive_producer       = Curtis Lelash<br />Jennifer Pelphrey<br />[[Brian A. Miller]]<br />[[Rob Sorcher]]<br />J. G. Quintel
+| producer                 = Janet Dimon {{small|(S1–3)}}<br />Ryan Slater {{small|(S3–8)}}
+| animator                 = 
+| runtime                  = 11 minutes<br />22 minutes {{small|(special)}}
+| company                  = [[Cartoon Network Studios]]
+| distributor              = [[Warner Bros. Television Distribution]]
+| network                  = [[Cartoon Network]]
+| picture_format           = [[1080i]] [[HDTV]]
+| audio_format             = [[Stereo]] {{small|(2010)}}<br />[[5.1 Surround Sound]] {{small|(2010–17)}}
+| first_run                = August 14, 2009
+| first_aired              = {{Start date|2010|9|6}}
+| last_aired               = {{End date|2017|1|16}}
+| related                  = 
+| website                  = 
+}}
+'''''Regular Show''''' (also known as '''''Regular Show in Space''''' during its eighth season<ref>{{cite web|url=http://tvweb.com/regular-show-season-8-series-finale-poster-clip/|title=Regular Show Will End with Season 8, First Clip & Poster Unveiled|date=September 13, 2016|access-date=January 21, 2017|archive-url=https://web.archive.org/web/20170109195525/http://tvweb.com/regular-show-season-8-series-finale-poster-clip/|archive-date=January 9, 2017|url-status=live}}</ref>) is an American [[animated sitcom]] created by [[J. G. Quintel]] for [[Cartoon Network]]. The series revolves around the lives of two [[working-class]] friends, a [[blue jay]] named Mordecai and a [[raccoon]] named Rigby{{mdash}}both employed as groundskeepers at a local park. They usually try to solve a simple problem that leads to a surreal, extreme, and often supernatural misadventure. During these misadventures, they interact with the show's other main characters: Benson, Pops, Skips, Muscle Man, and Hi-Five Ghost.<ref name="wired">{{cite magazine|date=April 3, 2012|title=''Regular Show'''s J.G. Quintel Is Just a Regular Guy|url=https://www.wired.com/geekdad/2012/04/j-gquintel/|magazine=[[Wired (magazine)|Wired]]|archive-url=https://web.archive.org/web/20170101173441/https://www.wired.com/2012/04/j-g-quintel/|archive-date=January 1, 2017|access-date=July 15, 2012}}</ref>
+
+Many of ''Regular Show''{{'s}} characters were loosely based on those developed for Quintel's student films at [[California Institute of the Arts]]: ''The Naïve Man from Lolliland'' and ''2 in the AM PM''.<ref name="films-youtube">[https://www.youtube.com/watch?v=56STDM667ds The Naive Man From Lolliland & 2 In The AM PM] {{Webarchive|url=https://web.archive.org/web/20120311043620/http://www.youtube.com/watch?v=56STDM667ds&gl=US&hl=en |date=March 11, 2012 }} (2006). Film done by JG Quintel during his time at the [[California Institute of the Arts]].</ref> The former was one of the winners of the 2005 [[Nicktoons Film Festival]] and received international attention after being broadcast on [[Nicktoons (TV channel)|Nicktoons Network]].<ref>{{cite news|url=http://www.awn.com/news/judges-set-3rd-annual-nicktoons-network-animation-festival|title=Judges Set for 3rd Annual Nicktoons Network Animation Festival|work=[[Animation World Network]]|last=Baisley|first=Sarah|date=May 23, 2006|access-date=April 9, 2017|archive-url=https://web.archive.org/web/20160416210256/http://www.awn.com/news/judges-set-3rd-annual-nicktoons-network-animation-festival|archive-date=April 16, 2016|url-status=live}}</ref> Quintel pitched ''Regular Show'' for Cartoon Network's [[The Cartoonstitute|Cartoonstitute]] project, in which the network allowed young artists to create pilots with no notes, which would possibly be optioned as shows. The project premiered on September 6, 2010 on Cartoon Network.
+
+As of May 2013, the program had been watched by approximately 2 to 2.5 million viewers each week. The series has received positive reviews from critics and has developed a following of all ages. ''Regular Show'' has been nominated for several awards, including seven [[Annie Award]]s, six [[Primetime Emmy Award]]s—one of which it won for the episode "Eggscellent" (season 3, episode 18)—and three [[British Academy Children's Awards]]. A film based on the series, titled ''[[Regular Show: The Movie]]'', premiered in 2015.<ref>{{cite web |url=https://itunes.apple.com/us/tv-season/regular-show-the-movie/id1025333882 |title=Regular Show, The Movie on iTunes |publisher=Itunes.apple.com |date=2015-09-01 |access-date=2016-04-05 |archive-url=https://web.archive.org/web/20181130202303/https://itunes.apple.com/us/tv-season/regular-show-the-movie/id1025333882 |archive-date=November 30, 2018 |url-status=live }}</ref>
+
+After eight seasons and 261 episodes, the series concluded on January 16, 2017, with the one-hour finale "[[A Regular Epic Final Battle]]".<ref>{{cite web|url=http://thegeekiary.com/steven-universe-returns/40358|title=Steven Universe Returns with a Bomb on Jan 30! Plus More Cartoon Network Premieres – The Geekiary|date=December 21, 2016|access-date=January 21, 2017|archive-url=https://web.archive.org/web/20161221234445/http://thegeekiary.com/steven-universe-returns/40358|archive-date=December 21, 2016|url-status=live}}</ref><ref name=broadwayworld>{{cite web|url=http://www.broadwayworld.com/bwwtv/article/Cartoon-Network-Rings-in-2017-with-Brand-New-Episodes-of-Fan-Favorite-Shows-20161221#|title=Cartoon Network Rings in 2017 with Brand New Episodes of Fan-Favorite Shows|first=TV News|last=Desk|access-date=January 21, 2017|archive-url=https://web.archive.org/web/20170113164538/http://www.broadwayworld.com/bwwtv/article/Cartoon-Network-Rings-in-2017-with-Brand-New-Episodes-of-Fan-Favorite-Shows-20161221|archive-date=January 13, 2017|url-status=live}}</ref>
+
+==Premise==
+{{main|List of Regular Show characters}}
+[[File:Regular Show.png|thumb|right|From left to right: Pops, Benson, Skips, Rigby, Mordecai, Muscle Man and Hi-Five Ghost]]
+The series revolves around the daily lives of two 23-year-old friends, Mordecai (a [[blue jay]]), and Rigby (a [[raccoon]]). They work as groundskeepers at a [[park]], and spend their days trying to avoid work and entertain themselves by any means.<ref>{{Cite episode |title=The Power |series=Regular Show |network=Cartoon Network |airdate=September 6, 2010 |season=1 |number=1 |quote='''Mordecai''': Dude, we're 23 years old, we shouldn't be busting holes in walls.}}</ref> This is much to the chagrin of their manager/boss Benson (a gumball machine) and their coworker Skips (a [[yeti]]), but to the delight of their (other) manager/boss Pops (a man with a lollipop-shaped head). Other coworkers include an overweight green male called Muscle Man, and a ghost called Hi-Five Ghost.
+
+==Creation==
+[[File:JoelQuintel.PNG|thumb|left|200px|[[J. G. Quintel]], creator of the show, and voice of Mordecai (and Hi-Five Ghost in seasons 2–8), based the show on his student films produced at CalArts]]
+''Regular Show'' largely grew out of creator J. G. Quintel's life and experiences in college. Quintel attended the California Institute of the Arts, and many of the characters on ''Regular Show'' are based on the characters developed for his student films ''[[The Naïve Man from Lolliland]]'' (2005) and ''[[2 in the AM PM]]'' (2006). Both originated as part of a game called "48-hour films", in which students put words into a hat, pulled out one word at midnight and spent a weekend developing ideas for a film. Quintel attended college with [[Thurop Van Orman]] and [[Pendleton Ward]], who both went on to work at [[Cartoon Network Studios]] with Quintel; Van Orman created  ''[[The Marvelous Misadventures of Flapjack]]'' and Ward created ''[[Adventure Time]]''. Quintel concurrently worked on ''[[Camp Lazlo]]'' and as creative director on  ''The Marvelous Misadventures of Flapjack'' while completing his degree. He was later invited to pitch for Cartoon Network's ''[[Cartoonstitute]]'', a project to showcase short films created without the interference of network executives and [[focus testing]].<ref>{{cite news |first=Aaron H. |last=Bynum |title=CN Upfront 2008: 'The Cartoonstitute' Announcement |url=http://www.animationinsider.net/article.php?articleID=1688 |archive-url=https://web.archive.org/web/20090105022346/http://www.animationinsider.net/article.php?articleID=1688 |url-status=dead |archive-date=January 5, 2009 |publisher=Animation Insider |date=April 3, 2008 |access-date=June 20, 2008 |df=mdy-all }}</ref><ref name=beat/>
+
+J. G. Quintel returned to the characters from his films, put them together with newer characters and created a pilot.<ref name=beat/> Quintel wanted to present a visual pitch rather than a verbal one, believing the idea would make little sense otherwise. He storyboarded the idea for the pilot, and [[Craig McCracken]] and [[Rob Renzetti]] liked his presentation.<ref name="animag1">{{cite magazine|author=Ramin Zahed|url=http://www.animationmagazine.net/people/the-sublime-madness-of-j-g-quintel/|title=The Sublime Madness of J.G. Quintel|date=April 17, 2012|access-date=July 15, 2012|magazine=[[Animation Magazine]]|archive-url=https://www.webcitation.org/6Gmc376rW?url=http://www.animationmagazine.net/people/the-sublime-madness-of-j-g-quintel/|archive-date=May 21, 2013|url-status=live}}</ref> ''Regular Show'' was one of two series from the project that were green-lit (the other show being ''[[Secret Mountain Fort Awesome]]'', based on the Cartoonstitute short ''[[Uncle Grandpa]]'', which in turn became its own series later on). The project was eventually scrapped and never premiered on television.<ref>{{cite web|url=http://news.turner.com/article_display.cfm?article_id=4597|title=Cartoon Network Announces Comedy Animation Greenlights|date=August 13, 2009|publisher=News.turner.com|archive-url=https://web.archive.org/web/20090818231649/http://news.turner.com/article_display.cfm?article_id=4597|archive-date=August 18, 2009|access-date=May 3, 2011}}</ref> The character of Mordecai embodies Quintel during his college years, specifically at CalArts; Quintel said, "That's that time when you're hanging out with your friends and getting into stupid situations, but you're also taking it seriously enough."<ref name="wired"/> The character of Rigby was randomly developed when Quintel drew a raccoon hula-hooping. He liked the design and developed the character of Rigby to be far less responsible than his companion.<ref name=mtv/>
+
+The show is inspired by some British television series and video games. Episodes are produced using storyboarding and hand-drawn animation, and each episode takes roughly nine months to create. Quintel recruited several independent comic book artists to draw the show's animated elements; their style matched closely with Quintel's ideas for the series. The show's soundtrack comprises original music composed by [[Mark Mothersbaugh]] as well as [[Licensed Property|licensed]] songs. While preparing for the beginning of the show, Quintel looked for young, independent comic artists to compose the show's storyboard artists; he thought that the style would closely match that of ''Regular Show''. He looked through blogs and convention panels for the "total package", which he said was the ability to write and draw; something that many independent comic book artists possess. In addition, Quintel attended many open shows at CalArts{{mdash}}an eight-hour festival of student animation.<ref name="beat">{{cite web|url=http://comicsbeat.com/interview-regular-show-creator-jg-quintel-on-indie-comics-and-cartoons/|title=Interview: ''Regular Show'' Creator JG Quintel on Indie Comics and Cartoons|first=Shannon|last=O'Leary|date=May 16, 2012|publisher=The Beat|access-date=July 15, 2012|archive-url=https://web.archive.org/web/20141006103735/http://comicsbeat.com/interview-regular-show-creator-jg-quintel-on-indie-comics-and-cartoons/|archive-date=October 6, 2014|url-status=live}}</ref> The style and sensibility of ''Regular Show'' was difficult to work with in the beginning; the artists struggled to create a natural, sitcom-like sound for the series.<ref name=animag1/>
+
+''Regular Show'' was inspired by ''[[The Simpsons]]'' and ''[[Beavis and Butt-Head]]'', and Quintel credited the stylistic elements of [[Joe Murray (animator)|Joe Murray]]'s ''[[Rocko's Modern Life]]'' and ''Camp Lazlo'' as working their way into his style.<ref name=animag1/> Video games ''[[Street Fighter]]'', ''[[Shadowrun]]'' and ''[[ToeJam & Earl]]''—which Quintel played when he was a child—inspired the series, as did some [[British television]] programs. Quintel's interest in British television was influenced by his British roommate at CalArts, who introduced him to ''[[The League of Gentlemen]]'', ''[[The IT Crowd]]'', ''[[Little Britain]]'', ''[[The Office (UK TV series)|The Office]]'' and ''[[The Mighty Boosh]]''; the latter was very influential to Quintel and would later influence the humor in ''Regular Show''.<ref name=beat/>
+
+==Production==
+
+===Writing===
+The plots of ''Regular Show'' episodes generally begin with a basic problem that the characters must overcome. While the protagonists work on their task, a magical, supernatural, or strange element appears and complicates the initially simple problem.<ref name="wired" /> The writers decided to follow this narrative structure to take advantage of the animation.<ref name="wired" />
+
+The series is rated [[TV Parental Guidelines|TV-PG-V]].<ref name="wired" /> Cartoon Network told Quintel early on that they wanted to "age it up from the TV-Y7 stuff we'd been doing in the past". This direction led the crew to use adult-oriented humor with innuendos and drug and alcohol references. One of the program's storyboard artists, Calvin Wong, said that he enjoys the limitations set by writing for the show since the adult-oriented jokes that are approved are satisfying.<ref name="mtv">{{cite web|author=Charles Webb|url=http://geek-news.mtv.com/2012/04/03/interview-regular-show-jg-quintel/|archive-url=https://web.archive.org/web/20120513054133/http://geek-news.mtv.com/2012/04/03/interview-regular-show-jg-quintel/|url-status=dead|archive-date=May 13, 2012|title=Interview: ''The Regular Show'' Creator J.G. Quintel|date=April 3, 2012|access-date=July 15, 2012|publisher=[[MTV News]]}}</ref>{{failed verification|date=November 2021}}
+
+The plots of the episodes were influenced by the writers' and Quintel's personal experiences, such as performing prank telephone calls or accepting an eating challenge from a restaurant. The show often references 1980s culture, using music and electronic devices from that era because many factors from the decade left a positive influence on Quintel.<ref name="wired" /> The show also makes references to modern social trends such as [[viral video|viral internet videos]].<ref name="wired" />
+
+===Voice cast===
+{{multiple image |total_width=400
+ | image1 = Mark_Hamill_2010.jpg
+ | image2 = Steve Blum at the Code Gaess Premiere2.jpg
+ | footer = The series employs the voice acting talents of [[Mark Hamill]] (''left'') and [[Steven Blum]] (''right''), among others}}
+
+The voice acting of the series is relatively low-key, and the intention was to make most of the characters sound natural and conversational.<ref name="wired"/> Quintel wanted to make the show listenable and given contrast to most other cartoons, which often are difficult for adults to listen to. The main cast consists of voice acting veterans [[Mark Hamill]], who portrays Skips and [[Roger Craig Smith]], who plays Thomas. [[William Salyers]] plays the voice of Rigby, Janie Haddad portrays Margaret and Quintel's former CalArts classmate Sam Marin voices Benson, Pops, and Muscle Man.<ref name="wired"/> Quintel portrays Mordecai and Hi-Five Ghost.<ref name="wired"/> Members of the production staff have voiced several characters throughout the series; these include Minty Lewis, Toby Jones, Andress Salaff, and Matt Price. The ''Regular Show'' cast recorded their lines together in group as opposed to individual recording sessions for each actor; this helped make the show's dialogue sound natural. The series regularly used guest voice actors for recurring characters; these guests include [[Steven Blum]], [[Courtenay Taylor]], [[David Ogden Stiers]], [[Robin Atkin Downes]], [[Jeff Bennett]], [[Jennifer Hale]], [[David Kaye (voice actor)|David Kaye]], [[Fred Tatasciore]], [[Matthew Yang King]], and [[Julian Holloway]].
+
+===Animation===
+Each episode of ''Regular Show'' took about nine months to complete. Quintel and his 35-member team developed each episode at [[Cartoon Network Studios]] in [[Burbank, California]].<ref name="Hanford">{{cite news|title=Hanford High's JG Quintel Has Cartoon Career|first=Rick|last=Bentley|newspaper=[[The Fresno Bee]]|date=October 30, 2011|access-date=March 13, 2012|url=http://callcenterinfo.tmcnet.com/news/2011/10/31/5895030.htm|archive-url=https://web.archive.org/web/20131012012439/http://callcenterinfo.tmcnet.com/news/2011/10/31/5895030.htm|archive-date=October 12, 2013|url-status=live}}</ref><ref>{{cite web |title=Cartoon Network Brings the Funny to WonderCon 2012 |date=March 8, 2012 |work=Action Figure Insider |publisher=actionfigureinsider.com |access-date=March 13, 2012 |url=http://www.actionfigureinsider.com/main/cartoon-network-brings-the-funny-to-wondercon-2012 |archive-url=https://web.archive.org/web/20120311213922/http://www.actionfigureinsider.com/main/cartoon-network-brings-the-funny-to-wondercon-2012 |archive-date=March 11, 2012 |url-status=live }}</ref> The script was illustrated in rough hand-drawn images, known as [[storyboard]]s.<ref name="animag2">{{cite magazine|url=http://www.animationmagazine.net/a-day-in-the-life/issue-209-j-g-quintel/|title=A Day in the Life of J.G.Quintel|date=August 2010|access-date=July 15, 2012|magazine=[[Animation Magazine]]|archive-url=https://web.archive.org/web/20111102132002/http://www.animationmagazine.net/a-day-in-the-life/issue-209-j-g-quintel/|archive-date=November 2, 2011|url-status=live}}</ref> The storyboards were then animated and mixed with the corresponding dialogue to create the [[animatic]], which was then sent to be approved by the network. The show's assets (backgrounds, character designs, props) were then assembled to be sent to [[Saerom Animation]] in South Korea, where the actual animation production of the episode was performed. When finished, the episode was sent to Sabre Media Studios back in California. Music and sound effects were created and the final episode is mixed and completed. The process allowed the production team to work concurrently on dozens of episodes at different stages of production.
+
+Although most modern animation had switched to [[Graphics tablet|hybrid methods]] such as the [[Wacom (company)|Cintiq]], ''Regular Show'' was described as "far more low-fi", and was animated traditionally by hand using paper which was then digitally composited and painted with [[digital ink and paint]]. Although Cintiqs were initially optioned to be used for the program, Quintel stated that he felt more comfortable working on paper, considering it to be more organic and more representative of each artist's individual style. Board artist Calvin Wong said, "the tools of the trade as being pencils, pens, white out and occasionally light boxes and electric erasers".<ref name=beat/>
+
+===Music===
+[[File:Devomark.jpg|thumb|left|250px|Musician [[Mark Mothersbaugh]] works as the main composer of the show]]
+
+''Regular Show'' has no regular theme music; instead, at the beginning of each episode, a blurred sound (provided by Quintel) followed by a ticking clock is heard over the title cards.{{citation needed|date=May 2015}} The main composer of the series is [[Mark Mothersbaugh]], one of the founding members of the band [[Devo]]. As Quintel was developing the pilot he considered asking Mothersbaugh to create the music for the show. The episode's animatic was sent to Mothersbaugh along with a request for him to join the show's staff and crew.
+
+''Regular Show'' occasionally made use of licensed songs{{mdash}}mostly from the 1980s; this began when Quintel and the staff writers started recording the animatics using copyrighted songs for the montage scenes. The network executives watched the animatic and asked the crew if they wanted to use some of the songs for the finished episodes.<ref name="wired"/> Quintel said that the songs are chosen for their suitability for the scene, whether they sound good and are affordable. Quintel enjoyed using the songs in the episodes because adult viewers might have remembered them and younger viewers might appreciate older music.<ref name="wired"/> Songs have included "[[You're the Best Around]]", "[[Mississippi Queen]]" and "[[A Holly Jolly Christmas]]".<ref name="wired"/> The show also used several songs not from the 80s, such as "[[Pale Blue Eyes]]" by [[The Velvet Underground]] from the movie and "[["Heroes" (David Bowie song)|Heroes]]" by [[David Bowie]] from the series finale. Another notable song used in the show is "Here Comes a Regular" by [[The Replacements (band)|The Replacements]], a band often considered as underground.
+
+The show also produceed original songs which were used in episodes. These are generally composed by Mothersbaugh and written by one of the staff's storyboard artists.<ref name="wired"/> "Summertime Loving, Loving in the Summer (Time)" was written by the staff member Sean Szeles and appeared in the episode "This Is My Jam" (season 2, episode 13).<ref name="wired"/>
+{{clear}}
+
+==Episodes==
+{{Main|List of Regular Show episodes}}
+
+Most episodes of ''Regular Show'' last 11 minutes; episodes are usually paired together to fill a half-hour program slot. 261 episodes in eight seasons have been completed and broadcast. The first season began on September 6, 2010, with the episode "The Power" and ended on November 22, 2010, with "Mordecai and the Rigbys".<ref>{{cite journal | url=https://www.tvguide.com/tvshows/regular-show/episodes-season-1/307239 | title=Regular Show Season 1 episodes | journal=[[TV Guide]] | access-date=May 21, 2013 | archive-url=https://www.webcitation.org/6GmmN4NyN?url=http://www.tvguide.com/tvshows/regular-show/episodes-season-1/307239 | archive-date=May 21, 2013 | url-status=live }}</ref> The second season began on November 29, 2010, with "Ello Gov'nor" and ended on August 1, 2011, with "Karaoke Video".<ref>{{cite journal | url=https://www.tvguide.com/tvshows/regular-show/episodes-season-2/307239 | title=Regular Show Season 2 episodes | journal=[[TV Guide]] | access-date=May 21, 2013 | archive-url=https://www.webcitation.org/6GmulcFoJ?url=http://www.tvguide.com/tvshows/regular-show/episodes-season-2/307239 | archive-date=May 21, 2013 | url-status=live }}</ref> The third season premiered on September 19, 2011, with the episode "Stick Hockey" and concluded on September 3, 2012, with "Bad Kiss".<ref>{{cite journal | url=https://www.tvguide.com/tvshows/regular-show/episodes-season-3/307239 | title=Regular Show Season 3 episodes | journal=[[TV Guide]] | access-date=May 21, 2013 | archive-url=https://web.archive.org/web/20130827062905/http://www.tvguide.com/tvshows/regular-show/episodes-season-3/307239 | archive-date=August 27, 2013 | url-status=live }}</ref> The fourth season premiered on October 1, 2012, with the half-hour special "Exit 9B" and concluded on August 12, 2013 with "Steak Me Amadeus".<ref>{{cite journal | url=https://www.tvguide.com/tvshows/regular-show/episodes-season-4/307239 | title=Regular Show Season 4 episodes | journal=[[TV Guide]] | access-date=May 21, 2013 | archive-url=https://web.archive.org/web/20130826231549/http://www.tvguide.com/tvshows/regular-show/episodes-season-4/307239 | archive-date=August 26, 2013 | url-status=live }}</ref> The fifth season premiered on September 2, 2013, with the episodes "Laundry Woes" and "Silver Dude" and concluded on August 14, 2014, with "Real Date".<ref>{{cite web | url=http://www.awn.com/news/cartoons/cartoon-network-announces-regular-show-season-5-premiere | title=Cartoon Network Announces Regular Show Season 5 Premiere | date=August 21, 2013 | access-date=August 22, 2013 | author=Wolfe, Jennifer | archive-url=https://web.archive.org/web/20130831121423/http://www.awn.com/news/cartoons/cartoon-network-announces-regular-show-season-5-premiere | archive-date=August 31, 2013 | url-status=live }}</ref><ref>{{cite web | url=https://www.deadline.com/2012/11/cartoon-network-renews-comedy-duo-adds-more-annoying-orange/ | title=Cartoon Network Renews Comedy Duo, Adds More 'Annoying Orange' | website=[[Deadline Hollywood]]. [[PMC (company)|PMC]] | date=November 1, 2012 | access-date=May 21, 2013 | author=Patten, Dominic | archive-url=https://web.archive.org/web/20130925175800/http://www.deadline.com/2012/11/cartoon-network-renews-comedy-duo-adds-more-annoying-orange/ | archive-date=September 25, 2013 | url-status=live }}</ref> The sixth season premiered on October 9, 2014, with "Maxin' and Relaxin'",<ref name="S6">{{cite web |url=http://www.broadwayworld.com/bwwtv/article/Cartoon-Network-to-Premiere-Season-Six-of-REGULAR-SHOW-109-20140919 |title=Cartoon Network to Premiere Season Six of REGULAR SHOW, 10/9 |website=Broadway World |date=September 19, 2014 |access-date=September 20, 2014 |archive-url=https://web.archive.org/web/20140922065101/http://www.broadwayworld.com/bwwtv/article/Cartoon-Network-to-Premiere-Season-Six-of-REGULAR-SHOW-109-20140919 |archive-date=September 22, 2014 |url-status=live }}</ref> and ended on June 25, 2015 with "Dumped at the Altar".<ref>{{cite web|url=http://kastorskorner.com/wp/2015/06/19/regular-show-returns-monday-june-22-week-premieres/|archive-url=https://web.archive.org/web/20150622153312/http://kastorskorner.com/wp/2015/06/19/regular-show-returns-monday-june-22-week-premieres/|url-status=dead|archive-date=2015-06-22|title=REGULAR SHOW RETURNS MONDAY, JUNE 22 WITH A WEEK OF PREMIERES|publisher=kastorskorner.com|access-date=2015-06-19}}</ref> The seventh season premiered with "Dumptown U.S.A." on June 26, 2015<ref>{{cite web|url=http://tobyjones.tumblr.com/post/122102496436/is-dumptown-usa-the-season-finale-i-thought |archive-url=https://web.archive.org/web/20150622220644/http://tobyjones.tumblr.com/post/122102496436/is-dumptown-usa-the-season-finale-i-thought |url-status=dead |archive-date=2015-06-22 |title=Toby Jones |publisher=Tobyjones.tumblr.com |access-date=2016-04-05}}</ref> and ended with the half-hour "Rigby's Graduation Day Special" on June 30, 2016. The eighth and final season, titled ''Regular Show in Space'', started on September 26, 2016 with "One Space Day at a Time" and ended on January 16, 2017 with "A Regular Epic Final Battle".<ref name="Barsanti">{{Citation|mode=cs1|last=Barsanti|first=Sam|date=September 13, 2016|url=https://www.avclub.com/article/regular-show-blast-itself-orbit-final-season-242500|title=''Regular Show'' to blast itself into orbit for final season|work=The A.V. Club|publisher=Onion|access-date=April 17, 2020|archive-url=https://web.archive.org/web/20170802044923/http://www.avclub.com/article/regular-show-blast-itself-orbit-final-season-242500|archive-date=August 2, 2017|url-status=live}}</ref>
+
+{{:List of Regular Show episodes}}
+
+===Crossovers===
+Mordecai and Rigby had cameo appearances on the ''[[Uncle Grandpa]]'' episode "Pizza Eve", along with other Cartoon Network characters from currently running and ended cartoons.<ref>{{cite web|url=https://www.youtube.com/watch?v=jm3DB-mfEuo|title=Cartoon Network Shows Cameo on Uncle Grandpa|last=Mordecai626 Alt|date=April 16, 2016|access-date=January 21, 2017|via=YouTube|archive-url=https://web.archive.org/web/20160416192543/https://www.youtube.com/watch?v=jm3DB-mfEuo|archive-date=April 16, 2016|url-status=live}}</ref> Mordecai, Rigby and High Five Ghost, make a small cameo in ''[[The Amazing World of Gumball]]'' episode "The Boredom", along with the titular characters from ''[[Uncle Grandpa]]'' and ''[[Clarence (2014 TV series)|Clarence]]''.<ref>{{cite web|url=https://www.youtube.com/watch?v=wKcEQOBdB5M|title=The Amazing World of Gumball – The Crossover|last=first last|date=September 15, 2016|access-date=January 21, 2017|via=YouTube|archive-url=https://web.archive.org/web/20190918214106/https://www.youtube.com/watch?v=wKcEQOBdB5M|archive-date=September 18, 2019|url-status=live}}</ref> Mordecai and High Five Ghost appear in the ''[[OK K.O.!: Let's Be Heroes]]'' special, "Crossover Nexus", along with many other Cartoon Network shows.{{citation needed|date=October 2019}}
+
+==Reception==
+
+===Ratings===
+''Regular Show'' became an instant hit. Its first and second seasons, broadcast on Monday nights, ranked number one in its time slot among all key boy demos across all of television according to [[Nielsen Media Research]].<ref name="animag3">{{cite magazine|author=Ramin Zahed|url=http://www.animationmagazine.net/tv/new-season-of-regular-show-arrives-monday/|title=New Season of ''Regular Show'' Arrives Monday|date=September 16, 2011|access-date=July 15, 2012|magazine=[[Animation Magazine]]|archive-url=https://www.webcitation.org/6GmdFh5gX?url=http://www.animationmagazine.net/tv/new-season-of-regular-show-arrives-monday/|archive-date=May 21, 2013|url-status=live}}</ref> The pilot's premiere was watched by 2.097 million viewers.<ref>{{cite web|url=http://tvbythenumbers.com/2010/09/08/monday-cable-ratings-boise-st-vs-va-tech-dominates-the-closer-rizzoli-isles-get-bigger-much-more/62631|archive-url=https://web.archive.org/web/20100911002431/http://tvbythenumbers.com/2010/09/08/monday-cable-ratings-boise-st-vs-va-tech-dominates-the-closer-rizzoli-isles-get-bigger-much-more/62631|url-status=dead|archive-date=September 11, 2010|title=Monday Cable Ratings : Boise St. Vs. Va. Tech Dominates; 'The Closer & 'Rizzoli & Isles' Get Bigger & Much More|last=Seidman|first=Robert|publisher=[[TV by the Numbers]]. [[Zap2it]]|date=September 8, 2010|access-date=March 19, 2011|df=mdy-all}}</ref> For the following episodes of the first season, viewership increased by over 10 percent from the time period of the previous year. For instance, the entry was viewed by 1.339 million children aged 2–11, a 65 percent increase from the previous year. It was also watched by 716,000 children aged 9–14; a 43 percent increase. The second-season premiere, "Ello Gov'nor", marked a decline from the first-season premiere's figures. It gained 2.067 million views, but it marked an increase from the first-season finale, which was watched by 2.028 million viewers.<ref>{{cite web | url=http://tvbythenumbers.zap2it.com/2010/12/01/monday-cable-ratings-monday-night-football-down-but-tops-all-tv-plus-wwe-raw-brew-masters-more/73982/ | title=Monday Cable Ratings: Monday Night Football Down, But Tops All TV; Plus WWE RAW, Brew Masters & More | publisher=[[TV by the Numbers]]. [[Zap2it]] | date=December 1, 2010 | access-date=May 22, 2013 | author=Gorman, Bill | archive-url=https://web.archive.org/web/20131104193538/http://tvbythenumbers.zap2it.com/2010/12/01/monday-cable-ratings-monday-night-football-down-but-tops-all-tv-plus-wwe-raw-brew-masters-more/73982/ | archive-date=November 4, 2013 | url-status=dead }}</ref><ref>{{cite web|url=http://tvbythenumbers.zap2it.com/2010/11/23/monday-cable-ratings-monday-night-football-down-but-coasts-to-victory-wwe-raw-much-more/73288|title=Monday Cable Ratings : Monday Night Football Down, But Coasts to Victory + WWE RAW & More|last=Seidman|first=Robert|publisher=[[TV by the Numbers]]. [[Zap2it]]|date=November 23, 2010|access-date=March 19, 2011|archive-url=https://web.archive.org/web/20110131143811/http://tvbythenumbers.zap2it.com/2010/11/23/monday-cable-ratings-monday-night-football-down-but-coasts-to-victory-wwe-raw-much-more/73288|archive-date=January 31, 2011}}</ref> The third-season premiere, "Stick Hockey", saw a bigger decline in viewers, recording 2 million views.<ref>{{cite web |url=http://www.thefutoncritic.com/ratings/2011/09/20/mondays-cable-ratings-mnf-holds-off-comedy-central-roast-of-charlie-sheen-64513/cable_20110919/ | title=Monday's Cable Ratings: 'MNF' Holds Off 'Comedy Central Roast of Charlie Sheen' | website=The Futon Critic | date=September 20, 2011 | access-date=May 21, 2013}}</ref> As the series continued its ratings grew; the fourth-season premiere, "Exit 9B", was watched by 3.047 million viewers{{mdash}}a significant increase from previous seasons.<ref>{{cite web |url=http://tvbythenumbers.zap2it.com/2012/10/02/monday-cable-ratings-monday-night-football-wins-night-major-crimes-warehouse-13-switched-at-birth-alphas-wwe-raw-more/150983/ |archive-url=https://web.archive.org/web/20121004233918/http://tvbythenumbers.zap2it.com/2012/10/02/monday-cable-ratings-monday-night-football-wins-night-major-crimes-warehouse-13-switched-at-birth-alphas-wwe-raw-more/150983/ |url-status=dead |archive-date=October 4, 2012 |title=Monday Cable Ratings: 'Monday Night Football' Wins Night, 'Major Crimes', 'Warehouse 13', 'Switched at Birth', 'Alphas', 'WWE Raw', & More |publisher=[[TV by the Numbers]]. [[Zap2it]] |date=October 2, 2012 |access-date=May 21, 2013 |author=Bibel, Sara |df=mdy-all }}</ref>
+
+===Critical reception===
+{{quotebox|quote="What I like best about ''Regular Show'' is that in the midst of a gaggle of memorable regular characters, zany recurring minor characters, and a fantastical animation style, it still manages to create motifs for its condensed themes."  |source= Kevin McFarland, ''[[The A.V. Club]]'' <ref name=av2>{{cite web|last=McFarland|first=Kevin|url=https://www.avclub.com/articles/quips,92202/|title=Regular Show: "Quips"|work=[[The A.V. Club]]|publisher=[[The Onion]]|date=February 19, 2013|access-date=August 7, 2013|archive-url=https://web.archive.org/web/20130621052723/http://www.avclub.com/articles/quips,92202/|archive-date=June 21, 2013|url-status=live}}</ref> |width =35%}}
+
+''Regular Show'' received critical acclaim. A reviewer from ''[[IGN]]'', R.L. Shaffer, called the show zany, absurd, bizarre, and hilarious. He praised the show's writing, and said that it included "snappy dialogue, odd characters, and clever stories{{mdash}}each more irrelevant than the last{{mdash}}''Regular Show'' never ceases to tickle the funny bone".<ref name="IGN"/> He finished his review by calling the show "a pretty awesome piece of refreshing off-the-wall comedy" and wrote that it's "humorously animated, brazenly silly and almost always funny".<ref name="IGN">{{cite web|author=R.L. Shaffer|url=https://www.ign.com/articles/2012/04/25/regular-show-slack-pack-dvd-review|title=Regular Show: Slack Pack DVD Review|access-date=July 20, 2013|work=IGN|archive-url=https://web.archive.org/web/20131008184019/http://www.ign.com/articles/2012/04/25/regular-show-slack-pack-dvd-review|archive-date=October 8, 2013|url-status=live}}</ref>
+
+''DVD Talk'''s Neil Lumbrad described the show as "offbeat sense of humor with a lot of randomness that makes its title both peculiar and hilarious" and compared it to the original ''[[Looney tunes|Looney Tunes]]'' shorts and other cartoons{{mdash}}including ''[[The Powerpuff Girls]]'', ''[[Dexter's Laboratory]]'', and ''[[Johnny Bravo]]''{{mdash}}which Cartoon Network has produced. He wrote that the network has found "animated gold with ''Regular Show'', which is too offbeat and unique to be called regular" and that it is a "comedic animated gem worthy of being discovered for years to come".<ref name=dvdtalk/> Lumbrad ended his review by recommending the show and calling it "one truly awesome cartoon with a lot of good humor to enjoy."<ref name=dvdtalk>{{cite web|url=https://www.dvdtalk.com/reviews/61279/regular-show-season-1-season-2/|title=Regular Show: Season 1 & Season 2 (Blu-ray)|author=Neil Lumbrad|date=July 16, 2013|work=DVD Talk|access-date=July 19, 2013|archive-url=https://web.archive.org/web/20130715182018/http://www.dvdtalk.com/reviews/61279/regular-show-season-1-season-2/|archive-date=July 15, 2013|url-status=live}}</ref>
+
+''[[The A.V. Club]]'''s critic, Alasdair Wilkins, said that compared to Cartoon Network's other animated comedy, ''[[Adventure Time]]'', he does not consider the series to be funny, and describing it as "more pleasingly weird".<ref name=av1>{{cite web|last=Wilkins|first=Alasdair|url=https://www.avclub.com/articles/regular-show-bad-kiss,84510/|title=Regular Show: "Bad Kiss"|work=[[The A.V. Club]]|publisher=[[The Onion]]|date=September 3, 2012|access-date=August 7, 2013|archive-url=https://web.archive.org/web/20130621013457/http://www.avclub.com/articles/regular-show-bad-kiss,84510/|archive-date=June 21, 2013|url-status=live}}</ref> He said that the episodes' plots can occasionally be too complex to explore completely in the show's 11 minutes, and also said that the usual story setup can make some stories feel structurally the same as others.<ref name=avclubpraise>{{cite web|last=Handlen|first=Zack|url=https://www.avclub.com/articles/goliad,79715/|title="Goliad" &#124; Adventure Time &#124; TV Club &#124; TV|work=[[The A.V. Club]]|publisher=[[The Onion]]|date=June 4, 2012|access-date=November 7, 2012|archive-url=https://web.archive.org/web/20121031135434/http://www.avclub.com/articles/goliad%2C79715/|archive-date=October 31, 2012|url-status=live}}</ref> Wilkins said that he considers that the show is at its best when it focuses on the jokes, the character moments and inventive ways to use animation. Kevin McFarland, also of ''The A.V. Club'', said that he considers the series a thrill to watch; he complemented the animation style, the characters, and the use of motifs.<ref name=av2/>
+
+===Awards and nominations===
+{| class="wikitable sortable"
+|-
+! Year
+! Award
+! Category
+! Nominee(s)
+! Result
+! {{Abbr|Ref.|References}}
+|-
+| rowspan="4"|2011
+| [[38th Annie Awards]]
+| Best Animated Television Production for Children
+| ''Regular Show''
+| {{nom}}
+| align=center| <ref name="2011 Annie">{{cite web|url=http://www.thestreet.com/story/10939356/nominations-announced-for-the-38th-annual-annie-awards.html|archive-url=https://web.archive.org/web/20110831153049/http://www.thestreet.com/story/10939356/nominations-announced-for-the-38th-annual-annie-awards.html|url-status=dead|archive-date=August 31, 2011|title=Nominations Announced for the 38th Annual Annie Awards|date=December 6, 2010|work=PR Newswire|access-date=May 27, 2013}}</ref>
+|-
+| [[63rd Primetime Creative Arts Emmy Awards]]
+| Outstanding Short-format Animated Program
+| "Mordecai and the Rigbys"
+| {{nom}}
+| align=center|
+|-
+| rowspan=2 | [[British Academy Children's Awards]]
+| Kids Vote Powered By Yahoo!&nbsp;– Top 10s&nbsp;– Television
+| ''Regular Show''
+| {{nom}}
+| align=center| <ref>{{cite web|title=2011 BAFTA Kids Vote Powered By Yahoo! – Television|url=http://awards.bafta.org/award/2011/childrens/bafta-kids-vote-powered-by-yahoo-top-10s-television|publisher=British Academy of Film and Television Arts|access-date=November 28, 2011|archive-url=https://web.archive.org/web/20160304193023/http://awards.bafta.org/award/2011/childrens/bafta-kids-vote-powered-by-yahoo-top-10s-television|archive-date=March 4, 2016|url-status=live}}</ref>
+|-
+| International
+| Janet Dimon, J. G. Quintel, and Mike Roth
+| {{nom}}
+| align=center| <ref>{{cite web|title=2011 Children's International|url=http://awards.bafta.org/award/2011/childrens/international|publisher=British Academy of Film and Television Arts|access-date=November 28, 2011|archive-url=https://web.archive.org/web/20160304192916/http://awards.bafta.org/award/2011/childrens/international|archive-date=March 4, 2016|url-status=live}}</ref>
+|-
+| rowspan="2"|2012
+| [[39th Annie Awards]]
+| Storyboarding in a Television Production
+| Benton Connor
+| {{nom}}
+| align=center|
+|-
+| [[64th Primetime Creative Arts Emmy Awards]]
+| Outstanding Short-format Animated Program
+| "Eggscellent"
+| {{won}}
+| align=center|
+|-
+| rowspan="4"|2013
+|[[British Academy Children's Awards]]
+|International
+|''Regular Show''
+|{{nom}}
+| align=center|
+|-
+| [[3rd Critics' Choice Television Awards]]
+| [[Critics' Choice Television Award for Best Animated Series|Best Animated Series]]
+| ''Regular Show''
+| {{nom}}
+| align=center|
+|-
+| rowspan="2"|[[65th Primetime Creative Arts Emmy Awards]]
+| Outstanding Short-format Animated Program
+| "A Bunch of Full-Grown Geese"
+| {{nom}}
+| align=center|
+|-
+| [[Primetime Emmy Award for Outstanding Animated Program|Outstanding Animated Program]]
+| "The Christmas Special"
+| {{nom}}
+| align=center|
+|-
+| rowspan="10"|2014
+| rowspan="4"|[[41st Annie Awards]]
+| Best Animated TV/Broadcast Production For Children's Audience
+| ''Regular Show''
+| {{nom}}
+| align=center|
+|-
+| Outstanding Achievement, Character Design in an Animated TV/Broadcast Production
+| Ben Adams
+| {{nom}}
+| align=center|
+|-
+| Outstanding Achievement, Voice Acting in an Animated TV/Broadcast Production
+| [[Mark Hamill]] as Skips and Walks
+| {{nom}}
+| align=center|
+|-
+| Outstanding Achievement, Writing in an Animated TV/Broadcast Production
+| Matt Price, John Infantino, Mike Roth, Michele Cavin, and Sean Szeles
+| {{nom}}
+| align=center|
+|-
+| [[66th Primetime Creative Arts Emmy Awards]]
+| [[Primetime Emmy Award for Short-format Animation|Outstanding Short-format Animated Program]]
+| "The Last LaserDisc Player"
+| {{nom}}
+| align=center| <ref>{{cite web | url=http://www.emmys.com/sites/default/files/Downloads/66th-nominations-list.pdf | title=66th Annual Primetime Emmy Award Nominations | access-date=10 July 2014 | archive-url=https://web.archive.org/web/20170109205025/http://www.emmys.com/sites/default/files/Downloads/66th-nominations-list.pdf | archive-date=January 9, 2017 | url-status=live }}</ref>
+|-
+| [[2014 Teen Choice Awards]]
+| [[Teen Choice Award for Choice Animated Series|Choice TV: Animated Show]]
+| ''Regular Show''
+| {{nom}}
+| align=center| <ref>{{cite web | url=http://www.teenchoiceawards.com/tcnews.aspx | archive-url=https://web.archive.org/web/20081121031638/http://www.teenchoiceawards.com/tcnews.aspx | url-status=dead | archive-date=21 November 2008 | title=FIRST WAVE OF "TEEN CHOICE 2014" NOMINEES ANNOUNCED | access-date=12 July 2014}}</ref>
+|-
+| [[Kids' Choice Awards Colombia]]
+| Favorite Animated Series
+| ''Regular Show''
+| {{nom}}
+| align=center| <ref>{{cite web | url=http://kidschoiceawardscolombia.mundonick.com/votacion/ | archive-url=https://web.archive.org/web/20140627040518/http://kidschoiceawardscolombia.mundonick.com/votacion/ | url-status=dead | archive-date=June 27, 2014 | title=Votacion – Kids Choice Awards Colombia | access-date=19 July 2014 | df=mdy-all }} Note: on page 10 of voting options {{in lang|es}}</ref>
+|-
+| [[Kids' Choice Awards Mexico]]
+| Favorite Animated Series
+| ''Regular Show''
+| {{nom}}
+| align=center| <ref>{{cite web | url=http://kidschoiceawardsmexico.mundonick.com/votacion/ | archive-url=https://web.archive.org/web/20110710123324/http://kidschoiceawardsmexico.mundonick.com/votacion/ | url-status=dead | archive-date=July 10, 2011 | title=Votacion – Kids Choice Awards Mexico | access-date=19 July 2014 | df=mdy-all }} Note: on page 4 of voting options {{in lang|es}}</ref>
+|-
+| [[British Academy Children's Awards]]
+| BAFTA Kid's Vote – Television
+| ''Regular Show''
+| {{nom}}
+| align=center| <ref>{{cite web|title=Children's in 2014|url=http://awards.bafta.org/award/2014/childrens|publisher=[[British Academy of Film and Television Arts]]|access-date=November 23, 2014|date=November 23, 2014|archive-url=https://web.archive.org/web/20141215070904/http://awards.bafta.org/award/2014/childrens|archive-date=December 15, 2014|url-status=live}}</ref>
+|-
+| [[Hall of Game Awards#2014|Hall of Game Awards]]
+| Most Valuable Cartoon
+| ''Regular Show''
+| {{nom}}
+| align=center|
+|-
+| rowspan="4"|2015
+| [[42nd Annie Awards]]
+| Best General Audience Animated TV/Broadcast Production
+| ''Regular Show''
+| {{nom}}
+| align=center|
+|-
+| [[British Academy Children's Awards]]
+| BAFTA Kid's Vote – Television
+|''Regular Show''
+|{{nom}}
+| align=center|
+|-
+| [[2015 Teen Choice Awards]]
+| Choice TV: Animated Show
+| ''Regular Show''
+| {{nom}}
+| align=center|
+|-
+| [[67th Primetime Creative Arts Emmy Awards]]
+| Outstanding Short-format Animated Program
+| "White Elephant Gift Exchange"
+| {{nom}}
+| align=center| <ref>{{cite web |url=https://twitter.com/JGQuintel/status/621733433660719104 |title=JG Quintel on Twitter: "RegularShow got nominated for an Emmy!!!" |publisher=Twitter.com |access-date=2016-04-05 |archive-url=https://web.archive.org/web/20160305234318/https://twitter.com/JGQuintel/status/621733433660719104 |archive-date=March 5, 2016 |url-status=live }}</ref>
+|}
+
+==Related media==
+
+===Comic books===
+In January 2013, [[Boom! Studios]] announced that it would develop a comic book series based on the show and that KC Green would be writing the script and Allison Strejlav would be in charge of the illustrations. The first issue officially was released on May 15, 2013.{{citation needed|date=September 2013}} A series of original graphic novels began publication in 2014. The first, titled ''Hydration'', was written by Rachel Connor and illustrated by Tessa Stone.<ref>{{cite book|title=Regular Show Original Graphic Novel Vol. 1: Hydration (9781608863396): Rachel Connor, Tessa Stone: Books|isbn=978-1608863396|last1=Connor|first1=Rachel|date=September 9, 2014|url-access=registration|url=https://archive.org/details/regularshow0000conn}}</ref> It was followed by ''Noir Means Noir, Buddy'' (2015),<ref>{{cite book|title=Regular Show Original Graphic Novel Vol. 2: Noir Means Noir, Buddy (9781608867127): Rachel Connor, Rob Luckett, Wook Jin Clark: Books|isbn=978-1608867127|last1=Connor|first1=Rachel|last2=Luckett|first2=Rob|date=August 11, 2015}}</ref> ''A Clash of Consoles'' (2016),<ref>{{cite book|title=Regular Show Original Graphic Novel Vol. 3: A Clash of Consoles (9781608868001): Rachel Connor, Robert Luckett, JG Quintel, Ze Burnay: Books|isbn=978-1608868001|last1=Connor|first1=Rachel|last2=Luckett|first2=Robert|last3=Quintel|first3=J. G.|date=May 31, 2016}}</ref> ''Wrasslesplosion'' (2017),<ref>{{cite book|title=Regular Show Original Graphic Novel Vol. 4: Wrasslesplosion (9781608869855): Ryan Ferrier, Laura Howell, Fred Stresing: Books|isbn=978-1608869855|last1=Ferrier|first1=Ryan|date=July 4, 2017}}</ref> ''The Meatening'' (2018),<ref>{{Cite book|title=Regular Show Original Graphic Novel Vol. 5: The Meatening: The Meatening|date=August 7, 2018|isbn = 978-1684151981|last1 = Quintel|first1 = J. G.|last2 = Andelfinger|first2 = Nicole}}</ref> and ''Comic Conned'' (2018).<ref>{{Cite book|isbn = 978-1684152803|title = Regular Show Original Graphic Novel Vol. 6: Comic Conned: Comic Conned|last1 = Quintel|first1 = J. G.|last2 = Andelfinger|first2 = Nicole|date = December 25, 2018}}</ref>
+
+===Video games===
+On November 9, 2011, a game called "Nightmare-Athon" was released in [[App Store (iOS)|App Store]] for [[iOS]].<ref>{{cite web | url=https://itunes.apple.com/us/app/regular-show-nightmare-athon/id470530779?mt=8 | title=Regular Show&nbsp;— Nightmare-athon for iPhone, iPod touch, and iPad on the iTunes App Store | publisher=Apple Inc. | access-date=November 24, 2012 | archive-url=https://web.archive.org/web/20121224131430/https://itunes.apple.com/us/app/regular-show-nightmare-athon/id470530779?mt=8 | archive-date=December 24, 2012 | url-status=live }}</ref> On January 24, 2013, a game called "Ride 'Em Rigby" was released in iOS.{{citation needed|date=October 2019}}
+
+On April 8, 2013, J. G. Quintel announced on his [[Twitter]] page that an official ''Regular Show'' video game was in development at the time, which is titled ''[[Regular Show: Mordecai and Rigby in 8-Bit Land]]''. It was developed by [[WayForward Technologies]] and published by [[D3 Publisher]] for [[Nintendo 3DS]]. The video game was released on October 29, 2013.<ref>{{cite web |url=https://twitter.com/JGQuintel/status/321355410923737089 |title=JG Quintel on Twitter: "Duuudes. A for real Regular Show video game is coming out this year! Like, for real for real. And It's gonna be awesome." |publisher=Twitter.com |access-date=2016-04-05 |archive-url=https://web.archive.org/web/20140326114342/https://twitter.com/JGQuintel/status/321355410923737089 |archive-date=March 26, 2014 |url-status=live }}</ref> Mordecai and Rigby became playable characters in a video game called ''[[Cartoon Network: Battle Crashers]]'' which was released for the [[Nintendo 3DS]], [[PlayStation 4]], [[Xbox One]] on November 8, 2016 and the [[Nintendo Switch]] on October 31, 2017.{{citation needed|date=October 2019}}
+
+===Other merchandise===
+Jazwares has produced an assortment of 2-,<ref>{{cite web |url=http://jazwares.com/products/toys/regular-show/2-inch-figures |archive-url=https://web.archive.org/web/20120918143450/http://jazwares.com/products/toys/regular-show/2-inch-figures |url-status=dead |archive-date=September 18, 2012 |title=2&nbsp;Inch Figures |publisher=Jazwares |access-date=November 24, 2012 |df=mdy-all }}</ref> 6-,<ref>{{cite web |url=http://jazwares.com/products/toys/regular-show/6-inch-figures |archive-url=https://web.archive.org/web/20120918143456/http://jazwares.com/products/toys/regular-show/6-inch-figures |url-status=dead |archive-date=September 18, 2012 |title=6&nbsp;Inch Figures |publisher=Jazwares |access-date=November 24, 2012 |df=mdy-all }}</ref> 7-,<ref>{{cite web |url=http://jazwares.com/products/toys/regular-show/7-inch-plush |archive-url=https://web.archive.org/web/20121013035817/http://www.jazwares.com/products/toys/regular-show/7-inch-plush |url-status=dead |archive-date=October 13, 2012 |title=7&nbsp;Inch Plush |publisher=Jazwares |access-date=November 24, 2012 |df=mdy-all }}</ref> and 10-inch licensed action figures and plush toys for the series.<ref>{{cite web |url=http://jazwares.com/products/toys/regular-show/10-inch-talking-plush |archive-url=https://web.archive.org/web/20121013035812/http://www.jazwares.com/products/toys/regular-show/10-inch-talking-plush |url-status=dead |archive-date=October 13, 2012 |title=10&nbsp;Inch Talking Plush |publisher=Jazwares |access-date=November 24, 2012 |df=mdy-all }}</ref> "Collectable Figures" have also been released<ref>{{cite web |url=http://jazwares.com/products/toys/regular-show/collectable-figures |archive-url=https://web.archive.org/web/20121113104234/http://www.jazwares.com/products/toys/regular-show/collectable-figures |url-status=dead |archive-date=November 13, 2012 |title=Collectable Figures |publisher=Jazwares |access-date=November 24, 2012 |df=mdy-all }}</ref> along with other themed merchandise, such as "80's Bobbleheads",<ref>{{cite web |url=http://jazwares.com/products/toys/regular-show/80s-bobbleheads |archive-url=https://web.archive.org/web/20121013035822/http://www.jazwares.com/products/toys/regular-show/80s-bobbleheads |url-status=dead |archive-date=October 13, 2012 |title=80's Bobbleheads |publisher=Jazwares |access-date=November 24, 2012 |df=mdy-all }}</ref> "Pullback Custom Cruisers"<ref>{{cite web |url=http://jazwares.com/products/toys/regular-show/pullback-custom-crusiers |archive-url=https://web.archive.org/web/20120918143541/http://jazwares.com/products/toys/regular-show/pullback-custom-crusiers |url-status=dead |archive-date=September 18, 2012 |title=Pullback Custom Cruisers |publisher=Jazwares |access-date=November 24, 2012 |df=mdy-all }}</ref> and "Wrestling Buddies".<ref>{{cite web |url=http://jazwares.com/products/toys/regular-show/wrestling-buddies |archive-url=https://web.archive.org/web/20121013035827/http://www.jazwares.com/products/toys/regular-show/wrestling-buddies |url-status=dead |archive-date=October 13, 2012 |title=Wrestling Buddies |publisher=Jazwares |access-date=November 24, 2012 |df=mdy-all }}</ref> There have been many graphic T-shirts officially licensed through clothing retailers [[Hot Topic]], We Love Fine, and [[Threadless]].{{citation needed|date=September 2013}} [[Looney Labs]] also released a ''Regular Show''-themed version of the card game ''[[Fluxx]]'' on July 25, 2014.<ref>{{cite web|url=http://www.looneylabs.com/regular-show-fluxx-product-announcement|title=Regular Show™ Fluxx Product Announcement – Looney Labs|date=May 6, 2014|access-date=January 21, 2017|archive-url=https://web.archive.org/web/20170924182648/http://www.looneylabs.com/regular-show-fluxx-product-announcement|archive-date=September 24, 2017|url-status=live}}</ref>
+
+==Film==
+{{Main|Regular Show: The Movie}}
+At the [[Cartoon Network]] 2015/2016 upfront, it was announced they were making ''Regular Show: The Movie''. After accidentally creating a "Timenado," slacker groundskeepers Mordecai and Rigby go back in time and battle an evil volleyball coach in order to save the universe — and their friendship.<ref>{{cite web |last=Deadline |first=The |url=https://deadline.com/2015/02/cartoon-network-upfront-powerpuff-girls-adventure-time-1201376480/ |title=Cartoon Network Unveils Upfront Slate For 2015–2016: 'Adventuretime', More |website=Deadline Hollywood |date=2015-02-19 |access-date=2016-04-05 |archive-url=https://web.archive.org/web/20150219173319/http://deadline.com/2015/02/cartoon-network-upfront-powerpuff-girls-adventure-time-1201376480/ |archive-date=February 19, 2015 |url-status=live }}</ref>
+
+It first screened at [[The Downtown Independent]] in LA on August 14, 2015. It was released to digital download on September 1, 2015, it was also released to DVD by [[Warner Home Video]] on October 13, 2015, and had its television premiere in November 2015. The movie also screened at select [[Alamo Drafthouse]] Cinemas across the United States<ref name="regularshow">{{cite web|url=http://regularshow.bpt.me/|title=Regular Show – The Movie|publisher=regularshow.bpt.me|access-date=7 September 2015}}</ref> and it had a select showtime at the SVA Theatre of New York and at the Cinema Montrereal CANADA during October 2015.
+
+==Home media==
+===Region 1===
+{| class="wikitable" style="text-align: center"
+|-
+!Region
+!Set title
+!Season(s)
+!Aspect ratio
+!Episode count
+!Time length
+!Release date
+|-
+| [[DVD region code|1]]
+| ''Slack Pack''<ref>{{cite web|url=https://www.ign.com/articles/2011/12/06/regular-shows-slack-pack-party|title=Regular Show's Slack Pack Party|first=David|last=McCutcheon|date=December 5, 2011|work=[[IGN]]|publisher=[[News Corporation (1980–2013)|News Corporation]]|access-date=May 28, 2013|archive-url=https://web.archive.org/web/20121022035103/http://www.ign.com/articles/2011/12/06/regular-shows-slack-pack-party|archive-date=October 22, 2012|url-status=live}}</ref>
+| 1, 2
+| 16:9
+| 12
+| 137 minutes
+| April 3, 2012
+|-
+| 1
+| ''The Best DVD in the World *At this Moment in Time''<ref>{{cite web|url=http://www.tvshowsondvd.com/news/Regular-Best-DVD-in-the-World/17346#ixzz22zaJ17p8|title=Regular Show DVD news: Announcement for The Best DVD in the World *At this Moment in Time - TVShowsOnDVD.com|access-date=January 21, 2017|url-status=dead|archive-url=https://web.archive.org/web/20170202011108/http://www.tvshowsondvd.com/news/Regular-Best-DVD-in-the-World/17346#ixzz22zaJ17p8|archive-date=February 2, 2017|df=mdy-all}}</ref>
+| 2, 3
+| 16:9
+| 16
+| 176 minutes
+| November 6, 2012
+|-
+| 1
+| ''Party Pack''
+| 1, 2, 3
+| 16:9
+| 16
+| 176 minutes
+| March 5, 2013
+|-
+| 1/[[Blu-ray#A|A]]
+| ''The Complete First and Second Seasons''
+| 1, 2
+| 16:9
+| 40
+| 440 minutes
+| July 16, 2013
+|-
+| 1
+| ''Fright Pack''<ref>{{cite web|url=http://www.tvshowsondvd.com/news/Regular-Volume-4/18531|title=Regular Show DVD news: Announcement for Regular Show – Vol. 4: Fright Pack|publisher=[[TVShowsOnDVD.com]]|date=June 5, 2013|access-date=June 29, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130710084453/http://tvshowsondvd.com/news/Regular-Volume-4/18531|archive-date=July 10, 2013|df=mdy-all}}</ref>
+| 1, 2, 3, 4
+| 16:9
+| 13
+| 176 minutes
+| September 3, 2013
+|-
+| 1
+| ''Mordecai & Margaret Pack''<ref>{{cite web|url=http://www.tvshowsondvd.com/news/Regular-Volume-5/19233|title=Regular Show DVD news: Announcement for Regular Show – Vol. 5: Mordecai & Margaret Pack|publisher=TVShowsOnDVD.com|access-date=January 28, 2014|url-status=dead|archive-url=https://web.archive.org/web/20140202092756/http://www.tvshowsondvd.com/news/Regular-Volume-5/19233|archive-date=February 2, 2014|df=mdy-all}}</ref>
+| 1, 2, 3, 4
+| 16:9
+| 16
+| 176 minutes
+| March 4, 2014
+|-
+| 1
+| ''The Complete Third Season''
+| 3
+| 16:9
+| 40
+| 440 minutes
+| June 17, 2014
+|-
+| 1
+| ''Rigby Pack''
+| 1, 2, 3, 4, 5
+| 16:9
+| 16
+| 176 minutes
+| September 9, 2014
+|-
+| 1
+| ''Mordecai Pack''<ref>{{cite web|url=http://www.tvshowsondvd.com/releases/Regular-Volume-Release/14977|title=Cartoon Network/Warner Announce 'Vol. 7: Mordecai Pack'|publisher=TVShowsOnDVD.com|access-date=October 21, 2014|url-status=dead|archive-url=https://web.archive.org/web/20150105105217/http://www.tvshowsondvd.com/releases/Regular-Volume-Release/14977|archive-date=January 5, 2015|df=mdy-all}}</ref><ref>{{cite web|url=https://www.amazon.com/dp/B00OA4YLCU|title=Cartoon Network: Regular Show – Mordecai Pack (V7)|access-date=October 21, 2014}}</ref>
+| 3, 4, 5, 6
+| 16:9
+| 16
+| 176 minutes
+| January 27, 2015
+|}
+
+===Region 4===
+{| class="wikitable" style="text-align: center"
+|-
+!Region
+!Set title
+!Season(s)
+!Aspect ratio
+!Episode count
+!Time length
+!Release date
+|-
+| [[DVD region code|4]]
+| ''The Complete First Season''<ref>{{cite web|url=https://www.madman.com.au/catalogue/view/20727/regular-show-season-1|title=Regular Show Season 1 – DVD|access-date=January 21, 2017|archive-url=https://web.archive.org/web/20170118222631/https://www.madman.com.au/catalogue/view/20727/regular-show-season-1|archive-date=January 18, 2017|url-status=live}}</ref>
+| 1
+| 16:9
+| 12
+| 132 minutes
+| October 2, 2013
+|-
+| 4
+| ''The Complete Second Season''<ref>{{cite web|url=https://www.madman.com.au/catalogue/view/20728/regular-show-season-2|title=Regular Show Season 2 – DVD|access-date=January 21, 2017|archive-url=https://web.archive.org/web/20170118221953/https://www.madman.com.au/catalogue/view/20728/regular-show-season-2|archive-date=January 18, 2017|url-status=live}}</ref>
+| 2
+| 16:9
+| 28
+| 308 minutes
+| November 6, 2013
+|-
+| 4
+| ''The Complete Third Season''<ref>{{cite web|url=https://www.madman.com.au/catalogue/view/23214/regular-show-season-3|title=Regular Show Season 3 – DVD|access-date=January 21, 2017|archive-url=https://web.archive.org/web/20170118221322/https://www.madman.com.au/catalogue/view/23214/regular-show-season-3|archive-date=January 18, 2017|url-status=live}}</ref>
+| 3
+| 16:9
+| 40
+| 440 minutes
+| July 9, 2014
+|-
+| 4
+| ''The Complete Fourth Season''<ref>{{cite web|url=https://www.madman.com.au/catalogue/view/35063/regular-show-season-4|title=Regular Show Season 4 – DVD|access-date=January 21, 2017|archive-url=https://web.archive.org/web/20170118221327/https://www.madman.com.au/catalogue/view/35063/regular-show-season-4|archive-date=January 18, 2017|url-status=live}}</ref>
+| 4
+| 16:9
+| 40
+| 440 minutes
+| February 3, 2016
+|-
+| 4
+| ''The Complete Seasons One – Four''<ref>{{cite web|url=https://www.madman.com.au/catalogue/view/35178/regular-show-season-1-4-boxset|title=Madman Entertainment|access-date=January 21, 2017|archive-url=https://web.archive.org/web/20170118215102/https://www.madman.com.au/catalogue/view/35178/regular-show-season-1-4-boxset|archive-date=January 18, 2017|url-status=live}}</ref>
+| 1, 2, 3, 4
+| 16:9
+| 120
+| 1320 minutes
+| February 3, 2016
+|-
+| 4
+| ''The Complete Fifth Season''<ref>{{cite web|url=https://www.madman.com.au/catalogue/view/37223/regular-show-season-5|title=Regular Show Season 5 – DVD|access-date=January 21, 2017|archive-url=https://web.archive.org/web/20170118221324/https://www.madman.com.au/catalogue/view/37223/regular-show-season-5|archive-date=January 18, 2017|url-status=live}}</ref>
+| 5
+| 16:9
+| 40
+| 440 minutes
+| September 7, 2016
+|-
+| 4
+| ''The Complete Sixth Season''<ref name="madman.com.au">{{cite web|url=https://www.madman.com.au/catalogue/view/38537/regular-show-season-6|title=Regular Show Season 6 – DVD|access-date=January 21, 2017|archive-url=https://web.archive.org/web/20170118215742/https://www.madman.com.au/catalogue/view/38537/regular-show-season-6|archive-date=January 18, 2017|url-status=live}}</ref>
+| 6
+| 16:9
+| 31
+| 341 minutes
+| March 8, 2017<ref name="madman.com.au"/>
+|-
+| 4
+| ''The Complete Seventh Season''
+| 7
+| 16:9
+| 39
+| 429 minutes
+| July 19, 2017
+|-
+| 4
+| ''The Complete Eighth Season''
+| 8
+| 16:9
+| 31
+| 341 minutes
+| November 22, 2017
+|}
+
+==Explanatory notes==
+{{reflist|group=nb}}
+
+==See also==
+* ''[[Adventure Time]]''
+* ''[[Camp Lazlo]]''
+* ''[[The Marvelous Misadventures of Flapjack]]''
+* ''[[Close Enough]]''
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Wikiquote}}
+*{{official}}
+* {{bcdb|Other_Studios/C/Cartoon_Network_Studios/Regular_Show/}}
+* {{IMDb title|1710308}}
+
+{{Regular Show|state=autocollapse}}
+{{EmmyAward Short-format Animation}}
+{{Former Cartoon Network original programming}}
+{{Portal bar|Cartoon Network|Animation|Cartoon|Television|United States}}
+
+[[Category:Regular Show| ]]
+[[Category:2010 American television series debuts]]
+[[Category:2010s American animated television series]]
+[[Category:2010s American science fiction television series]]
+[[Category:2010s American surreal comedy television series]]
+[[Category:2010s American workplace comedy television series]]
+[[Category:2017 American television series endings]]
+[[Category:American children's animated comedy television series]]
+[[Category:American children's animated science fantasy television series]]
+[[Category:American children's animated space adventure television series]]
+[[Category:Animated television series about birds]]
+[[Category:Boom! Studios titles]]
+[[Category:Cartoon Network Studios series]]
+[[Category:English-language television shows]]
+[[Category:Television series about raccoons]]
+[[Category:Television series created by J. G. Quintel]]
+[[Category:Television shows adapted into comics]]
+[[Category:Television shows adapted into video games]]
+[[Category:American comedy television series]]
+[[Category:Animated fantasy television series]]

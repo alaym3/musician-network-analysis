@@ -1,0 +1,47 @@
+{{for|the other village named Kalu in Varzaqan County|Gol Chul}}
+{{Infobox settlement
+|official_name =Kalu
+|native_name =كلو
+|settlement_type        = village
+|pushpin_map            =Iran
+|mapsize                =150px
+|subdivision_type       = [[List of countries|Country]]
+|subdivision_name = {{flag|Iran}}
+|subdivision_type1 =[[Provinces of Iran|Province]]
+|subdivision_name1 =[[East Azerbaijan Province|East Azerbaijan]]
+|subdivision_type2 =[[Counties of Iran|County]]
+|subdivision_name2 = [[Varzaqan County|Varzaqan]]
+|subdivision_type3 =[[Bakhsh]]
+|subdivision_name3 =[[Kharvana District|Kharvana]]
+|subdivision_type4 =[[Rural Districts of Iran|Rural District]]
+|subdivision_name4 =[[Dizmar-e Markazi Rural District|Dizmar-e Markazi]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         = 2006
+|population_total =77
+|population_density_km2   =auto
+|timezone               = [[Iran Standard Time|IRST]]
+|utc_offset             = +3:30
+|timezone_DST           = [[Iran Daylight Time|IRDT]]
+|utc_offset_DST         = +4:30
+|coordinates            = {{coord|38|42|04|N|46|18|32|E|region:IR|display=inline,title}}
+|elevation_m            = 
+|area_code              = 
+|website                = 
+|footnotes              =
+}}
+'''Kalu''' ({{lang-fa|كلو}}, also [[Romanize]]d as '''Kalū''', '''Kaloo''', and '''Kalow'''; also known as '''Chalow''', '''Chelou''', '''Chelow''', '''Chelū''', '''Chilov''', and '''Chīlowv''')<ref>{{GEOnet3|-3069222|Kalu}}</ref> is a village in [[Dizmar-e Markazi Rural District]], [[Kharvana District]], [[Varzaqan County]], [[East Azerbaijan Province]], [[Iran]]. At the 2006 census, its population was 77, in 24 families.<ref>{{IranCensus2006|03}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Varzaqan County}}
+
+{{Portal|Iran}}
+
+[[Category:Towns and villages in Varzaqan County]]
+{{Varzaqan-geo-stub}}

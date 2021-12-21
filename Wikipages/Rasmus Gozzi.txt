@@ -1,0 +1,55 @@
+'''Rasmus Gozzi''' is a Swedish singer and songwriter.<ref>{{Cite web|url=https://unt.se/kultur-noje/han-skriver-musik-at-varldsartister-4865727.aspx|title=Han skriver musik åt världsartister |first=Jenny|last=Högblad|date=12 January 2018|website=Uppsala Nya Tidning|accessdate=19 February 2021}}</ref> He started his music career in 2016, and has co-written songs with Louise Andersson Bodin. He has also worked with  [[Lazee]] and [[Sean Kingston]].<ref>{{Cite web|url=https://www.aftonbladet.se/a/KVgwM|title=Rasmus Gozzi gör låt med Sean Kingston och Lazee|website=Aftonbladet|accessdate=19 February 2021}}</ref>
+
+==Discography==
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Sverigetopplistan|SWE]]
+|-
+! scope="row"| "Strypsex i ditt garage"
+| rowspan="7"| 2021
+| 21
+| rowspan="7" {{n/a|Non-album singles}}
+|-
+! scope="row"| "Ingen Albatraóz i min raggarbil"
+| 91<br /><ref>{{cite web|url=https://www.sverigetopplistan.se/chart/41?dspy=2021&dspp=7|title=Veckolista Singlar, vecka 7|publisher=[[Sverigetopplistan]]|accessdate=20 February 2021}}</ref>
+|-
+! scope="row"| "Äckligt"
+| —{{efn|group=upper-alpha|"Äckligt" did not enter the [[Sverigetopplistan|Swedish Singellista Chart]], but peaked at number 11 on the Swedish Heatseeker Chart.<ref>{{cite web|url=https://www.sverigetopplistan.se/chart/215?dspy=2021&dspp=18|title=Veckolista Heatseeker, vecka 18|publisher=[[Sverigetopplistan]]|access-date=7 May 2021}}</ref>}}
+|-
+! scope="row"| "Fuck Off and Die"
+| —{{efn|group=upper-alpha|"Fuck Off and Die" did not enter the Swedish Singellista Chart, but peaked at number 13 on the Swedish Heatseeker Chart.<ref>{{cite web|url=https://www.sverigetopplistan.se/chart/215?dspy=2021&dspp=21|title=Veckolista Heatseeker, vecka 21|publisher=[[Sverigetopplistan]]|access-date=28 May 2021}}</ref>}}
+|-
+! scope="row"| "Daddy"<br />{{small|(with Lurifaks and Fröken Snusk)}}
+| —{{efn|group=upper-alpha|"Daddy" did not enter the Swedish Singellista Chart, but peaked at number 12 on the Swedish Heatseeker Chart.<ref>{{cite web|url=https://www.sverigetopplistan.se/chart/215?dspy=2021&dspp=22|title=Veckolista Heatseeker, vecka 22|publisher=[[Sverigetopplistan]]|access-date=4 June 2021}}</ref>}}
+|-
+! scope="row"| "Oskuld"<br />{{small|(with Fröken Snusk)}}
+| —{{efn|group=upper-alpha|"Oskuld" did not enter the Swedish Singellista Chart, but peaked at number eight on the Swedish Heatseeker Chart.<ref>{{cite web|url=https://www.sverigetopplistan.se/chart/215?dspy=2021&dspp=24|title=Veckolista Heatseeker, vecka 24|publisher=[[Sverigetopplistan]]|access-date=18 June 2021}}</ref>}}
+|-
+! scope="row"| "Fröken Snusk"<br />{{small|(with Fröken Snusk and Lurifaks)}}
+| —{{efn-ua|"Fröken Snusk" did not enter the [[Swedish Singles Chart]], but peaked at number nine on the Swedish Heatseeker chart.<ref>{{Cite web|url=https://www.sverigetopplistan.se/chart/215?dspy=2021&dspp=34|title=Veckolista Heatseeker, vecka 34|publisher=[[Sverigetopplistan]]|language=sv|access-date=29 August 2021}}</ref>}}
+|}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gozzi, Rasmus}}
+
+[[Category:Living people]]
+[[Category:1993 births]]
+[[Category:Swedish people]]
+[[Category:Swedish male singers]]
+
+{{Sweden-singer-stub}}
+{{Sweden-bio-stub}}

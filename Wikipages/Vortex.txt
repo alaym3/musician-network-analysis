@@ -1,0 +1,175 @@
+{{Short description|Fluid flow revolving around an axis of rotation}}
+{{Other uses}}
+[[Image:Airplane vortex edit.jpg|thumb|Vortex created by the passage of an [[wing|aircraft wing]], revealed by colored smoke]][[File:Milk vortices.jpg|thumb|Vortices formed by milk when poured into a cup of coffee]]
+[[File:Whirpool Clouds.jpg|thumb|right|250px|A [[Kármán vortex street]] is demonstrated in this photo, as winds from the west blow onto clouds that have formed over the mountains in the desert. This phenomenon observed from ground level is extremely rare, as most cloud-related Kármán vortex street activity is viewed from space]]
+
+In [[fluid dynamics]], a '''vortex''' (plural '''vortices'''/'''vortexes''')<ref>{{Cite web|url = https://www.oxforddictionaries.com/us/definition/american_english/vortex|title = vortex|access-date = 2015-08-29|website = Oxford Dictionaries Online (ODO)|publisher = Oxford University Press}}</ref><ref>{{Cite web|url = http://www.merriam-webster.com/dictionary/vortex|title = vortex|access-date = 2015-08-29|website = Merriam-Webster Online|publisher = Merriam-Webster, Inc.}}</ref> is a region in a fluid in which the flow revolves around an axis line, which may be straight or curved.<ref>{{cite book |last=Ting |first=L.|title=Viscous Vortical Flows|series=Lecture notes in physics|publisher=Springer-Verlag |year=1991|isbn=978-3-540-53713-7}}</ref><ref>{{cite conference|last=Kida|first=Shigeo|url=http://www.igf.fuw.edu.pl/IUTAM/ABSTRACTS/Kida.pdf |title=Life, Structure, and Dynamical Role of Vortical Motion in Turbulence|conference=IUTAMim Symposium on Tubes, Sheets and Singularities in Fluid Dynamics|year=2001|location=Zakopane, Poland}}</ref> Vortices form in stirred fluids, and may be observed in [[smoke ring]]s, [[whirlpool]]s in the [[wake]] of a boat, and the winds surrounding a [[tropical cyclone]], [[tornado]] or [[dust devil]]. 
+
+Vortices are a major component of [[turbulence|turbulent flow]]. The distribution of velocity, [[vorticity]] (the [[curl (mathematics)|curl]] of the flow velocity), as well as the concept of [[Circulation (fluid dynamics)|circulation]] are used to characterise vortices. In most vortices, the fluid flow velocity is greatest next to its axis and decreases in inverse proportion to the distance from the axis. 
+
+In the absence of external forces, [[viscosity|viscous friction]] within the fluid tends to organise the flow into a collection of irrotational vortices, possibly superimposed to larger-scale flows, including larger-scale vortices. Once formed, vortices can move, stretch, twist, and interact in complex ways.  A moving vortex carries some angular and linear momentum, energy, and mass, with it.
+
+==Properties==
+===Vorticity===
+[[Image:Crow instability contrail.JPG|thumb|The [[Crow instability]] of a jet aeroplane's [[contrail]] visually demonstrates the vortex created in the atmosphere (gas fluid medium) by the passage of the aircraft.]]
+A key concept in the dynamics of vortices is the [[vorticity]], a [[vector (geometry)|vector]] that describes the ''local'' rotary motion at a point in the fluid, as would be perceived by an observer that moves along with it. Conceptually, the vorticity could be observed by placing a tiny rough ball at the point in question, free to move with the fluid, and observing how it rotates about its center. The direction of the vorticity vector is defined to be the direction of the axis of rotation of this imaginary ball (according to the [[right-hand rule]]) while its length is twice the ball's [[angular velocity]]. Mathematically, the vorticity is defined as the curl (or rotational) of the [[velocity field]] of the fluid, usually denoted by <math>\vec \omega</math> and expressed by the [[vector analysis]] formula <math>\nabla \times \vec{\mathit{u}}</math>, where <math>\nabla</math> is the [[nabla operator]] and <math>\vec{\mathit{u}}</math> is the local flow velocity.<ref>{{cite book|url=http://www.princeton.edu/~gkv/geoturb/turbch.pdf|page=1|access-date=2012-09-26|year=1999|first=Geoffrey|last=Vallis|title=Geostrophic Turbulence: The Macroturbulence of the Atmosphere and Ocean Lecture Notes|series=Lecture notes|publisher=[[Princeton University]]|url-status=dead|archive-url=https://web.archive.org/web/20131228115711/http://www.princeton.edu/~gkv/geoturb/turbch.pdf|archive-date=2013-12-28}}</ref>
+
+The local rotation measured by the vorticity <math>\vec \omega</math> must not be confused with the angular velocity vector of that portion of the fluid with respect to the external environment or to any fixed axis. In a vortex, in particular, <math>\vec \omega</math> may be opposite to the mean angular velocity vector of the fluid relative to the vortex's axis.
+
+===Vortex types===
+In theory, the speed {{mvar|u}} of the particles (and, therefore, the vorticity) in a vortex may vary with the distance {{mvar|r}} from the axis in many ways.  There are two important special cases, however:
+[[File:Rotational vortex.gif|thumb|A rigid-body vortex]]
+*If the fluid rotates like a rigid body – that is, if the angular rotational velocity {{math|Ω}} is uniform, so that {{mvar|u}} increases proportionally to the distance {{mvar|r}} from the axis – a tiny ball carried by the flow would also rotate about its center as if it were part of that rigid body.  In such a flow, the vorticity is the same everywhere: its direction is parallel to the rotation axis, and its magnitude is equal to twice the uniform angular velocity {{math|Ω}} of the fluid around the center of rotation.
+*:<math>\vec{\Omega} = (0, 0, \Omega) , \quad \vec{r} = (x, y, 0) ,</math> 
+*:<math>\vec{u} = \vec{\Omega} \times \vec{r} = (-\Omega y, \Omega x, 0) ,</math>
+*:'''<math>\vec \omega = \nabla \times \vec{u} = (0, 0, 2\Omega) = 2\vec{\Omega} .</math>'''
+{{clear}}
+[[File:Irrotational vortex.gif|thumb|An irrotational vortex]]
+*If the particle speed {{mvar|u}} is inversely proportional to the distance {{mvar|r}} from the axis, then the imaginary test ball would not rotate over itself; it would maintain the same orientation while moving in a circle around the vortex axis. In this case the vorticity <math>\vec \omega</math> is zero at any point not on that axis, and the flow is said to be ''irrotational''.
+*:<math>\vec{\Omega} = (0, 0, \alpha r^{-2}) , \quad \vec{r} = (x, y, 0) ,</math> 
+*:<math>\vec{u} = \vec{\Omega} \times \vec{r} = (-\alpha y r^{-2}, \alpha x r^{-2}, 0) ,</math>
+*:<math>\vec{\omega} = \nabla \times \vec{u} = 0 .</math>
+{{clear}}
+
+====Irrotational vortices====
+[[File:IrrotationalVortexFlow-anim-frame0.png|thumb|upright|Pathlines of fluid particles around the axis (dashed line) of an ideal irrotational vortex. (See [[commons:File:IrrotationalVortexFlow-anim.gif|animation]]) ]]
+In the absence of external forces, a vortex usually evolves fairly quickly toward the irrotational flow pattern{{Citation needed|date=August 2015}}, where the flow velocity {{mvar|u}} is inversely proportional to the distance {{mvar|r}}. Irrotational vortices are also called ''free vortices''.
+
+For an irrotational vortex, the [[circulation (fluid dynamics)|circulation]] is zero along any closed contour that does not enclose the vortex axis; and has a fixed value, {{math|Γ}}, for any contour that does enclose the axis once.<ref name=LJC7.5>{{harvnb|Clancy|1975|loc=sub-section 7.5}}</ref> The tangential component of the particle velocity is then <math>u_{\theta} = \tfrac{\Gamma}{2 \pi r}</math>. The angular momentum per unit mass relative to the vortex axis is therefore constant, <math> r u_{\theta} = \tfrac{\Gamma}{2 \pi}</math>.
+
+The ideal irrotational vortex flow in free space is not physically realizable, since it would imply that the particle speed (and hence the force needed to keep particles in their circular paths) would grow without bound as one approaches the vortex axis. Indeed, in real vortices there is always a core region surrounding the axis where the particle velocity stops increasing and then decreases to zero as {{mvar|r}} goes to zero. Within that region, the flow is no longer irrotational: the vorticity <math>\vec \omega</math> becomes non-zero, with direction roughly parallel to the vortex axis. The [[Rankine vortex]] is a model that assumes a rigid-body rotational flow where {{mvar|r}} is less than a fixed distance {{mvar|r}}<sub>0</sub>, and irrotational flow outside that core regions.
+
+In a viscous fluid, irrotational flow contains viscous dissipation everywhere, yet there are no net viscous forces, only viscous stresses.<ref name="SirakovGreitzer2005">{{cite journal|last1=Sirakov|first1=B. T.|last2=Greitzer|first2=E. M.|last3=Tan|first3=C. S.|title=A note on irrotational viscous flow|journal=Physics of Fluids|volume=17|issue=10|year=2005|pages=108102–108102–3|issn=10706631|doi=10.1063/1.2104550|bibcode=2005PhFl...17j8102S}}</ref> Due to the dissipation, this means that sustaining an irrotational viscous vortex requires continuous input of work at the core (for example, by steadily turning a cylinder at the core). In free space there is no energy input at the core, and thus the compact vorticity held in the core will naturally diffuse outwards, converting the core to a gradually-slowing and gradually-growing rigid-body flow, surrounded by the original irrotational flow. Such a decaying irrotational vortex has an exact solution of the viscous [[Navier–Stokes equations]], known as a [[Lamb–Oseen vortex]].
+
+====Rotational vortices====
+[[File:Saturn north polar vortex 2012-11-27.jpg|thumb|[[Saturn|Saturn's]] north polar vortex]]
+A rotational vortex – a vortex that rotates in the same way as a rigid body – cannot exist indefinitely in that state except through the application of some extra force, that is not generated by the fluid motion itself. It has non-zero vorticity everywhere outside the core. Rotational vortices are also called rigid-body vortices or forced vortices.
+
+For example, if a water bucket is spun at constant angular speed {{mvar|w}} about its vertical axis, the water will eventually rotate in rigid-body fashion. The particles will then move along circles, with velocity {{mvar|u}} equal to {{mvar|wr}}.<ref name=LJC7.5/> In that case, the free surface of the water will assume a [[paraboloid|parabolic]] shape.
+
+In this situation, the rigid rotating enclosure provides an extra force, namely an extra pressure [[gradient]] in the water, directed inwards, that prevents transition of the rigid-body flow to the irrotational state.
+
+=== Vortex formation on boundaries ===
+Vortex structures are defined by their [[vorticity]]'','' the local rotation rate of fluid particles. They can be formed via the phenomenon known as [[boundary layer separation]] which can occur when a fluid moves over a surface and experiences a rapid acceleration from the fluid velocity to zero due to the [[no-slip condition]]. This rapid negative acceleration creates a [[boundary layer]] which causes a local rotation of fluid at the wall (i.e. [[vorticity]]) which is referred to as the wall shear rate. The thickness of this boundary layer is proportional to <math>\surd(vt)</math> (where v is the free stream fluid velocity and t is time).
+
+If the diameter or thickness of the vessel or fluid is less than the boundary layer thickness then the boundary layer will not separate and vortices will not form. However, when the boundary layer does grow beyond this critical boundary layer thickness then separation will occur which will generate vortices. 
+
+This boundary layer separation can also occur in the presence of combatting [[Pressure gradient|pressure gradients]] (i.e. a pressure that develops downstream). This is present in curved surfaces and general geometry changes like a convex surface. A unique example of severe geometric changes is at the [[trailing edge]] of a [[Drag coefficient|bluff body]] where the fluid flow deceleration, and therefore boundary layer and vortex formation, is located.
+
+Another form of vortex formation on a boundary is when fluid flows perpendicularly into a wall and creates a ''splash effect.'' The velocity streamlines are immediately deflected and decelerated so that the boundary layer separates and forms a [[Torus|toroidal]] vortex ring.<ref>{{Citation|last=Kheradvar|first=Arash|title=Vortex Dynamics|date=2012|url=http://link.springer.com/10.1007/978-1-4471-2288-3_2|work=Vortex Formation in the Cardiovascular System|pages=17–44|place=London|publisher=Springer London|language=en|doi=10.1007/978-1-4471-2288-3_2|isbn=978-1-4471-2287-6|access-date=2021-03-16|last2=Pedrizzetti|first2=Gianni}}</ref>
+
+===Vortex geometry===
+In a stationary vortex, the typical streamline (a line that is everywhere tangent to the flow velocity vector) is a closed loop surrounding the axis; and each [[vortex line]] (a line that is everywhere tangent to the vorticity vector) is roughly parallel to the axis. A surface that is everywhere tangent to both flow velocity and vorticity is called a '''vortex tube'''. In general, vortex tubes are nested around the axis of rotation.  The axis itself is one of the vortex lines, a limiting case of a vortex tube with zero diameter.
+
+According to [[Helmholtz's theorems]], a vortex line cannot start or end in the fluid – except momentarily, in non-steady flow, while the vortex is forming or dissipating. In general, vortex lines (in particular, the axis line) are either closed loops or end at the boundary of the fluid.  A whirlpool is an example of the latter, namely a vortex in a body of water whose axis ends at the free surface.  A vortex tube whose vortex lines are all closed will be a closed [[torus]]-like surface.
+
+A newly created vortex will promptly extend and bend so as to eliminate any open-ended vortex lines. For example, when an airplane engine is started, a vortex usually forms ahead of each [[propeller]], or the [[turbofan]] of each [[jet engine]]. One end of the vortex line is attached to the engine, while the other end usually stretches out and bends until it reaches the ground.
+
+When vortices are made visible by smoke or ink trails, they may seem to have spiral pathlines or streamlines.  However, this appearance is often an illusion and the fluid particles are moving in closed paths.  The spiral streaks that are taken to be streamlines are in fact clouds of the marker fluid that originally spanned several vortex tubes and were stretched into spiral shapes by the non-uniform flow velocity distribution.
+
+===Pressure in a vortex===
+[[File:Vortex in draining bottle of water.jpg|thumb|upright|A plughole vortex]]
+The fluid motion in a vortex creates a dynamic [[pressure]] (in addition to any [[hydrostatic]] pressure) that is lowest in the core region, closest to the axis, and increases as one moves away from it, in accordance with [[Bernoulli's principle]].  One can say that it is the gradient of this pressure that forces the fluid to follow a curved path around the axis.
+
+In a rigid-body vortex flow of a fluid with constant [[density]], the dynamic pressure is proportional to the square of the distance {{mvar|r}} from the axis. In a constant [[gravity]] field, the [[free surface]] of the liquid, if present, is a concave [[paraboloid]].
+
+In an irrotational vortex flow with constant fluid density and cylindrical symmetry, the dynamic pressure varies as {{math|''P''<sub>∞</sub> − {{sfrac|''K''|''r''<sup>2</sup>}}}}, where {{math|''P''<sub>∞</sub>}} is the limiting pressure infinitely far from the axis.  This formula provides another constraint for the extent of the core, since the pressure cannot be negative. The free surface (if present) dips sharply near the axis line, with depth inversely proportional to {{math|''r''<sup>2</sup>}}.  The shape formed by the free surface is called a [[hyperboloid]], or "[[Gabriel's Horn]]" (by [[Evangelista Torricelli]]).
+
+The core of a vortex in air is sometimes visible because water vapor [[condensation|condenses]] as the low pressure of the core causes [[adiabatic cooling]]; the funnel of a tornado is an example. When a vortex line ends at a boundary surface, the reduced pressure may also draw matter from that surface into the core. For example, a dust devil is a column of dust picked up by the core of an air vortex attached to the ground. A vortex that ends at the free surface of a body of water (like the whirlpool that often forms over a bathtub drain) may draw a column of air down the core. The forward vortex extending from a jet engine of a parked airplane can suck water and small stones into the core and then into the engine.
+
+===Evolution===
+
+Vortices need not be steady-state features; they can move and change shape. In a moving vortex, the particle paths are not closed, but are open, loopy curves like [[helix|helices]] and [[cycloid]]s. A vortex flow might also be combined with a radial or axial flow pattern. In that case the streamlines and pathlines are not closed curves but spirals or helices, respectively. This is the case in tornadoes and in drain whirlpools.  A vortex with helical streamlines is said to be [[solenoidal vector field|solenoidal]].
+
+As long as the effects of viscosity and diffusion are negligible, the fluid in a moving vortex is carried along with it. In particular, the fluid in the core (and matter trapped by it) tends to remain in the core as the vortex moves about. This is a consequence of [[Helmholtz's second theorem]]. Thus vortices (unlike [[surface wave]]s and [[Longitudinal wave|pressure wave]]s) can transport mass, energy and momentum over considerable distances compared to their size, with surprisingly little dispersion. This effect is demonstrated by smoke rings and exploited in vortex ring [[vortex ring toy|toys]] and [[vortex ring gun|guns]].
+
+Two or more vortices that are approximately parallel and circulating in the same direction will attract and eventually merge to form a single vortex, whose [[circulation (fluid dynamics)|circulation]] will equal the sum of the circulations of the constituent vortices. For example, an [[airplane wing]] that is developing [[lift (force)|lift]] will create a sheet of small vortices at its trailing edge. These small vortices merge to form a single [[wingtip vortices|wingtip vortex]], less than one [[chord (aircraft)|wing chord]] downstream of that edge.  This phenomenon also occurs with other active [[airfoil]]s, such as [[propeller]] blades.  On the other hand, two parallel vortices with opposite circulations (such as the two wingtip vortices of an airplane) tend to remain separate.
+
+Vortices contain substantial energy in the circular motion of the fluid. In an ideal fluid this energy can never be dissipated and the vortex would persist forever. However, real fluids exhibit [[viscosity]] and this dissipates energy very slowly from the core of the vortex. It is only through dissipation of a vortex due to viscosity that a vortex line can end in the fluid, rather than at the boundary of the fluid.
+
+==Further examples==
+[[File:C17 Reverse Thrust.JPG|thumb|The visible core of a vortex formed when a [[Boeing C-17 Globemaster III|C-17]] uses high engine power at slow speed on a wet runway.]]
+[[File:Vortices off Tristan da Cunha, Jul 14 2010 1100(UTC).jpg|thumb|[[Kármán vortex street]]s formed off the island of [[Tristan da Cunha]]]]
+*In the [[hydrodynamics|hydrodynamic]] interpretation of the behaviour of [[electromagnetic field]]s, the acceleration of electric fluid in a particular direction creates a positive vortex of magnetic fluid. This in turn creates around itself a corresponding negative vortex of electric fluid. Exact solutions to classical nonlinear magnetic equations include the [[Landau–Lifshitz model|Landau–Lifshitz equation]], the continuum [[Heisenberg model (classical)|Heisenberg model]], the [[Ishimori equation]], and the [[nonlinear Schrödinger equation]].
+*[[Vortex ring]]s are [[torus]]-shaped vortices where the axis of rotation is a continuous closed curve. [[Smoke ring]]s and [[bubble ring]]s are two well-known examples.
+*The [[lift-induced drag|lifting force]] of [[aircraft wings]], [[propeller]] blades, [[sail]]s, and other airfoils can be explained by the creation of a vortex superimposed on the flow of air past the wing.
+*[[Aerodynamic drag]] can be explained in large part by the formation of vortices in the surrounding fluid that carry away energy from the moving body.
+*Large whirlpools can be produced by ocean tides in certain [[strait]]s or [[bay]]s. Examples are [[Charybdis]] of classical [[mythology]] in the Straits of [[Messina]], Italy; the [[Naruto whirlpool]]s of [[Nankaido]], Japan; and the [[Whirlpool|Maelstrom]] at [[Lofoten]], Norway.
+*Vortices in the [[Earth's atmosphere]] are important phenomena for [[meteorology]]. They include [[mesocyclone]]s on the scale of a few miles, tornadoes, [[waterspout]]s, and hurricanes.  These vortices are often driven by temperature and humidity variations with altitude. The sense of rotation of hurricanes is influenced by the Earth's rotation. Another example is the [[Polar vortex]], a persistent, large-scale cyclone centered near the Earth's poles, in the middle and upper troposphere and the stratosphere.
+*Vortices are prominent features of the atmospheres of other [[planet]]s. They include the permanent [[Great Red Spot]] on [[Jupiter]], the intermittent [[Great Dark Spot]] on [[Neptune]], the polar vortices of [[Venus]], the [[Martian dust devil]]s and the [[Saturn's hexagon|North Polar Hexagon]] of [[Saturn]].
+*[[Sunspot]]s are dark regions on the Sun's visible surface ([[photosphere]]) marked by a lower temperature than its surroundings, and intense magnetic activity.
+*The [[accretion disk]]s of [[black hole]]s and other massive gravitational sources.
+*[[Taylor–Couette flow]] occurs in a fluid between two nested cylinders, one rotating, the other fixed.
+
+=== Summary ===
+In the dynamics of fluid, a vortex is fluid that revolves around the axis line. This fluid might be curved or straight. Vortices form from stirred fluids: they might be observed in [[smoke rings]], [[whirlpools]], in the wake of a boat or the winds around a [[tornado]] or [[dust devil]].
+
+Vortices are an important part of [[turbulent flow]]. Vortices can otherwise be known as a circular motion of a liquid. In the cases of the absence of forces, the liquid settles. This makes the water stay still instead of moving.
+
+When they are created, vortices can move, stretch, twist and interact in complicated ways. When a vortex is moving, sometimes, it can affect an angular position.
+
+For an example, if a water bucket is rotated or spun constantly, it will rotate around an invisible line called the axis line. The rotation moves around in circles. In this example the rotation of the bucket creates extra force.
+
+The reason that the vortices can change shape is the fact that they have open particle paths. This can create a moving vortex. Examples of this fact are the shapes of tornadoes and [[drain whirlpools]].
+
+When two or more vortices are close together they can merge to make a vortex. Vortices also hold energy in its rotation of the fluid. If the energy is never removed, it would consist of circular motion forever.
+
+==See also==
+{{Portal|Physics}}
+{{columns-list|colwidth=15em|
+*[[Artificial gravity]]
+*[[Batchelor vortex]]
+*[[Biot–Savart law]]
+*[[Coordinate rotation]]
+*[[Cyclonic separation]]
+*[[Eddy (fluid dynamics)|Eddy]]
+*[[Gyre]]
+*[[Helmholtz's theorems]]
+*[[History of fluid mechanics]]
+*[[Horseshoe vortex]]
+*[[Hurricane]]
+*[[Kármán vortex street]]
+*[[Kelvin–Helmholtz instability]]
+*[[Quantum vortex]]
+*[[Rankine vortex]]
+*[[Shower-curtain effect]]
+*[[Strouhal number]]
+*[[Vile vortex]]
+*[[Vortex engine]]
+*[[Vortex tube]]
+*[[Vortex tunnel]]
+*[[Vortex cooler]]
+*[[VORTEX projects]]
+*[[Vortex shedding]]
+*[[Vortex stretching]]
+*[[Vortex-induced vibration]]
+*[[Vorticity]]
+*[[Whirly tube]]
+*[[Wormhole]]
+}}
+
+==References==
+
+===Notes===
+{{reflist}}
+
+===Other===
+*{{cite report |last=Loper |first=David E. |title=An analysis of confined magnetohydrodynamic vortex flows |location=Washington |publisher=National Aeronautics and Space Administration |date=November 1966 |type=NASA contractor report NASA CR-646 |lccn=67060315 |url=https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19670004091_1967004091.pdf }}
+*{{cite book |author-link=George Batchelor |last=Batchelor |first=G.K. |year=1967 |title=An Introduction to Fluid Dynamics |publisher=Cambridge Univ. Press |isbn=9780521098175 |at=Ch. 7 et seq }}
+*{{cite book |last=Falkovich |first=G. |title=Fluid Mechanics, a short course for physicists |publisher=Cambridge University Press |year=2011 |isbn=978-1-107-00575-4 }}
+*{{cite book |last=Clancy |first=L.J. |year=1975 |title=Aerodynamics |publisher=Pitman Publishing Limited |location=London |isbn=978-0-273-01120-0}}
+*{{Cite journal | last1 = De La Fuente Marcos | first1 = C. | last2 = Barge | first2 = P. | doi = 10.1046/j.1365-8711.2001.04228.x | title = The effect of long-lived vortical circulation on the dynamics of dust particles in the mid-plane of a protoplanetary disc | journal = Monthly Notices of the Royal Astronomical Society | volume = 323 | issue = 3 | pages = 601–614 | year = 2001 |bibcode = 2001MNRAS.323..601D | doi-access = free }}
+
+==External links==
+{{Commons category|Vortices}}
+*[http://www.cse.salford.ac.uk/profiles/gsmcdonald/Solitons/Optical_Vortex_Solitons.php Optical Vortices]
+*[https://web.archive.org/web/20051209114554/http://www.eng.nus.edu.sg/mpelimtt/collision.mpg Video of two water vortex rings colliding] ([[MPEG]])
+*[https://web.archive.org/web/20060905192451/http://maxwell.ucdavis.edu/~cole/phy9b/notes/fluids_ch3.pdf Chapter 3 Rotational Flows: Circulation and Turbulence]
+* [http://mit.edu/vfrl/www/ Vortical Flow Research Lab] (MIT) – Study of flows found in nature and part of the Department of Ocean Engineering.
+
+{{Authority control}}
+
+[[Category:Vortices| ]]
+[[Category:Rotation]]
+[[Category:Aerodynamics]]
+[[Category:Fluid dynamics]]

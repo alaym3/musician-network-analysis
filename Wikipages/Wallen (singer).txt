@@ -1,0 +1,153 @@
+{{about|the singer|the red light district of Amsterdam|De Wallen}}
+{{BLP sources|date=December 2012}}
+{{Infobox musical artist
+| name                = Wallen
+| image               = 
+| image_size          = 
+| landscape           = <!-- yes, if wide image, otherwise leave blank -->
+| alt                 = 
+| caption             = 
+| background          = solo_singer
+| birth_name          = Nawell Azzouz
+| alias               = 
+| birth_date          = {{birth date and age|1978|1|23}}
+| birth_place         = [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France
+| origin              = 
+| death_date          = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place         = 
+| genre               = [[Rhythm and blues|R&B]]
+| occupation          = Singer
+| instrument          = 
+| years_active        = <!-- YYYY–YYYY (or –present) -->
+| label               = 
+| associated_acts     = [[Beni Snassen]]
+| website             = {{URL|http://www.wallen-lesite.com}}
+}}
+'''Nawell Azzouz''' better known as '''Wallen''' (born January 23, 1978) is a French [[Rhythm and blues|R&B]] singer.<ref>{{cite news |title=Une phrase peut bouleverser l'existence de quelqu'un |url=http://www.leparisien.fr/loisirs-et-spectacles/une-phrase-peut-bouleverser-l-existence-de-quelqu-un-11-04-2005-2005855561.php |newspaper=[[Le Parisien]] |accessdate=June 6, 2010}}</ref> Her stage name comes from the rearrangement of the letters of her first name.
+
+She was born in [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], [[France]], to [[Morocco|Moroccan]] parents from [[Berkane]]. As a child, she learned to play the [[violin]] and developed a passion for singing. She grew up listening to [[funk]], [[hip hop]], and R&B.
+
+Influenced by Aaliyah, Wallen made her recording debut with producer Sullee B Wax, and rapper Sté Strass. In 1998, she was featured on the French RnB compilation "24 Carats", with "Je ne pleurs pas" (I'm not crying).
+
+Her first hit came with "Celle Qui Dit Non" with the rapper [[Shurik'n]]. In 2004, she released the album ''Avoir La Vie Devant Soi'' which includes the singles "Bouge Cette Vie", "L'Olivier", and "Donna"'. She also sang with [[Usher (entertainer)|Usher]] on the [[French language|French]] version of "[[U Got It Bad]]".
+
+With [[Abd al Malik (rapper)|Abd al Malik]] and a few other rappers she created a group called [[Beni Snassen]], that recorded an album under that name.
+
+In 2008, she released her 3rd album ''Misericorde''.
+
+==Personal life==
+She is married to the French rapper [[Abd al Malik (rapper)|Abd al Malik]]. Wallen has one child and has stopped singing to concentrate on raising her child.
+
+==Discography==
+===Albums===
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="160"|Album
+!align="center" colspan="1" width="20"|Peak positions
+!align="center" rowspan="2" width="70"|Certification
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[SNEP|FR]]<br><ref name="fr">{{cite web | url=http://lescharts.com/showinterpret.asp?interpret=Wallen | title=Wallen discography | publisher=Hung Medien | work=lescharts.com |accessdate=14 October 2013}}</ref>
+|-
+| style="text-align:center;"|2001
+|''À force de vivre'' 
+| style="text-align:center;"|8
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2004
+|''Avoir la vie devant soi''  
+| style="text-align:center;"|12
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2008
+|''Miséricorde''  
+| style="text-align:center;"|25
+| style="text-align:center;"|
+|-
+|}
+
+===Singles===
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="160"|Album
+!align="center" colspan="3" width="20"|Peak positions
+!align="center" rowspan="2" width="120"|Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[SNEP|FR]]<br><ref name="fr"/>
+! scope="col" style="width:3em;font-size:90%;" | [[Ultratop|BEL<br>(Wa)]]
+! scope="col" style="width:3em;font-size:90%;" | [[Swiss Hitparade|SUI]]
+|-
+| style="text-align:center;" rowspan=2|2001
+| "Celle qui a dit non"
+| style="text-align:center;"|13
+| style="text-align:center;"|26<br><small>(Ultratop)</small>
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;" rowspan=2|''À force de vivre''
+|-
+| "Celle qui a dit non"
+| style="text-align:center;"|32
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|{{spaced ndash}}
+|-
+| style="text-align:center;" rowspan=2|2004
+| "Bouge cette vie"<br><small>(feat. Lord Kossity)</small>
+| style="text-align:center;"|35
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;" rowspan=2|''Avoir la vie devant soi''
+|-
+| "Donna"
+| style="text-align:center;"|10
+| style="text-align:center;"|33<br><small>(Ultratop)</small>
+| style="text-align:center;"|69
+|-
+| style="text-align:center;" rowspan=2|2005
+| "Charisme"<br><small>([[Rohff]] with Wallen)</small>
+| style="text-align:center;"|27
+| style="text-align:center;"|9<br><small>(Ultratip)</small>
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;" rowspan=1|<small>Rohff album</small><br>''La fierté des nôtres''
+|-
+| "L'olivier"
+| style="text-align:center;"|21
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;" rowspan=1|''Avoir la vie devant soi''
+|-
+|}
+
+;Featured in
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="160"|Album
+!align="center" colspan="2" width="20"|Peak positions
+!align="center" rowspan="2" width="120"|Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[SNEP|FR]]<br><ref name="fr"/>
+! scope="col" style="width:3em;font-size:90%;" | [[Ultratop|BEL<br>(Wa)]]
+|-
+| style="text-align:center;" rowspan=1|2011
+| "Mon amour"<br><small>([[Abd al Malik (rapper)|Abd al Malik]] feat. Wallen)</small>
+| style="text-align:center;"|67
+| style="text-align:center;"|2<br><small>(Ultratip)</small>
+| style="text-align:center;" rowspan=1|<small>Abd al malik album</small><br>''Château Rouge''
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20070109162505/http://www.wallen-lesite.com/ Official Website of Wallen]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wallen}}
+[[Category:1978 births]]
+[[Category:Living people]]
+[[Category:French women singers]]
+[[Category:French women rappers]]
+[[Category:French rhythm and blues singers]]
+[[Category:French people of Moroccan descent]]
+
+
+{{France-singer-stub}}

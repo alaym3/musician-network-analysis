@@ -1,0 +1,79 @@
+{{see also|Zu Zu (disambiguation){{!}}Zu Zu}}
+{{EngvarB|date=October 2017}}
+{{Use dmy dates|date=October 2017}}
+{{Infobox settlement
+|name              = Zuzu
+|type              = Ward
+|image_skyline     = 
+|imagesize         =
+|image_caption     =
+|image_blank_emblem=
+|blank_emblem_type = 
+|image_map         = 
+|map_caption       =
+|mapsize           = frameless
+|subdivision_type  = 
+|subdivision_name  = United Republic of Tanzania
+|subdivision_type1 = Tanganyika
+|subdivision_name1 = Tanzania
+|subdivision_type2 = [[Regions of Tanzania|Region]]
+|subdivision_name2 = 
+|subdivision_type3 = Administrative Wards
+|subdivision_name3 = Zuzu
+|subdivision_type4 =
+|subdivision_name4 =
+|seat_type         = 
+|seat              = Dodoma
+|government_type   = Dodoma District Council
+|leader_title      = [[Local government in Dodoma#Councillors and mayors|Leadership]]:
+|leader_name       = Leader & Cabinet
+|leader_title1     = MP
+|leader_name1      = [[Antony Mavunde]]
+|leader_title2     = Mayor
+|leader_name2      = [[Professor Davis G. Mwamfupe]]
+|leader_title3     = Councilor
+|leader_name3      = Abdalah Ajghuhum Awadhi
+|leader_title4     = Ward Executive Officer
+|leader_name4     = 
+|established_title = 
+|established_date  = 
+|extinct_title     = 
+|extinct_date      = 
+|founder           =
+|area_rank         =
+|area_total_km2    = 
+|latd= |latm= |lats= |latNS=
+|longd= |longm= |longs= |longEW=
+|population_as_of  = [[United Republic of Tanzania Census 2002|2002 Census]]
+|population_total  = 
+|population_rank   =
+|population_density_km2 = 
+|timezone          = [[Greenwich Mean Time]]
+|utc_offset        = +03
+|timezone_DST      = 
+|utc_offset_DST    = +03
+|postal_code_type  = Postcode
+|postal_code       = <!-- [[XX postcode area|XX]] -->
+|area_code         =
+|blank_name        = 
+|blank_info        = 
+|blank1_name       = 
+|blank1_info       = 
+|blank2_name       = 
+|blank2_info       = 
+|blank3_name       =
+|blank3_info       = 
+|blank4_name       = 
+|blank4_info       = 
+}}
+
+'''Zuzu''' is an administrative ward in the [[Dodoma Urban]] district of the [[Dodoma Region]] of [[Tanzania]]. According to the 2002 and 2012 census,<ref>https://www.nbs.go.tz/nbs/takwimu/majimbo/MAJIMBOApril_Kisw.pdf</ref> the ward has a total population of 7,048.<ref>{{cite web|url=http://www.tanzania.go.tz/census/census/districts/dodomaurban.htm|title=2002 Population and Housing Census General Report|publisher=Government of [[Tanzania]]|access-date=2008-08-22 |archive-url=https://web.archive.org/web/20060608223755/http://www.tanzania.go.tz/census/census/districts/dodomaurban.htm |archive-date=2006-06-08}}</ref>
+
+==References==
+{{Portal|Tanzania}}
+{{reflist}}
+
+{{coord|-6.1727724|35.7031096|format=dms|display=title}}
+
+[[Category:Wards of Dodoma Region]]
+{{Dodoma-geo-stub}}

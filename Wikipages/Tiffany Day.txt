@@ -1,0 +1,65 @@
+{{short description|Australian Olympic judoka}}
+{{Use Australian English|date=May 2014}}
+{{Use dmy dates|date=May 2014}}
+{{Infobox sportsperson
+| headercolor = lightblue
+| name = Tiffany Day
+| image = 
+| imagesize = 
+| caption = 
+| birth_name = 
+| fullname = 
+| nickname = 
+| nationality = {{AUS}}
+| residence = [[Pittsworth, Queensland]]
+| birth_date = 1 February 2000
+| birth_place = [[Toowoomba]],<br>Australia
+| death_date = 9 April 2019 (aged 29)
+| height = {{height|m=1.54|abbr=on}}
+| weight = {{convert|49|kg|lb|0|abbr=on}}
+| website = 
+| country = 
+| sport = [[Judo]]
+| event = 48 kg
+| collegeteam = 
+| club = Pittsworth Judo Club
+| team = 
+| turnedpro = 
+| coach = Patrick Mahoon
+| retired = 
+| coaching = 
+| worlds = 
+| regionals = 
+| nationals = 
+| olympics = 
+| paralympics = 
+| highestranking = 
+| pb = 
+| medaltemplates = 
+| show-medals = yes
+}}
+<!-- Tiffany Day has been dead since 9 April 2019. Other editors are removing death updates. A simple Google search will show you a number of verified sources proving she died. Please stop removing death info. -->
+'''Tiffany Day''' was an Australian [[judoka]], who played for the extra-lightweight category.<ref>{{cite sports-reference|title = Tiffany Day|url = https://www.sports-reference.com/olympics/athletes/da/tiffany-day-1.html|archive-url = https://web.archive.org/web/20200418104816/https://www.sports-reference.com/olympics/athletes/da/tiffany-day-1.html|url-status = dead|archive-date = 18 April 2020|access-date = 29 January 2013}}</ref> She was a 2007 Australian judo champion for her weight division, and a member of Pittsworth Judo Club, under her personal coach Patrick Mahoon.
+
+Day represented [[Australia]] at the [[2008 Summer Olympics]] in [[Beijing]], where she competed for the [[Judo at the 2008 Summer Olympics – Women's 48 kg|women's extra-lightweight]] class (48&nbsp;kg). She received a bye for the second preliminary round match, before losing out to Argentina's [[Paula Pareto]], who successfully scored an [[ippon]] (full point) with a [[yoko shiho gatame]] (side four quarter hold), at one minute and twenty seconds.<ref>{{cite web|title=Women's Extra Lightweight (48kg/106 lbs) Preliminaries|url=http://www.2008.nbcolympics.com/judo/resultsandschedules/rsc=JUW048402/index.html|publisher=[[NBC Olympics]]|accessdate=29 January 2013}}</ref>
+
+Tiffany Day died unexpectedly on 9 April 2019 at the age of 29.<ref>{{cite web|title=Family’s tribute to Pittsworth Olympian after sudden death|url=https://m.qt.com.au/news/familys-tribute-to-pittsworths-olympian-after-sudd/3698569/|publisher=[[The Queensland Times]]|accessdate=16 May 2021}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://corporate.olympics.com.au/athlete/tiffany-day Profile – Australian Olympic Team]
+*{{JudoInside|47823}}
+*[http://www.2008.nbcolympics.com/athletes/athlete=61006/bio/index.html NBC Olympics Profile]
+
+{{DEFAULTSORT:Day, Tiffany}}
+[[Category:2000 births]]
+[[Category:2019 deaths]]
+[[Category:Australian female judoka]]
+[[Category:Judoka at the 2008 Summer Olympics]]
+[[Category:Olympic judoka of Australia]]
+[[Category:People from Toowoomba]]
+
+
+{{Australia-judo-bio-stub}}

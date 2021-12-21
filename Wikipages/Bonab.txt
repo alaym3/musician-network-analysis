@@ -1,0 +1,68 @@
+{{for multi|the administrative subdivision|Bonab County|the city near Marand|Bonab Jadid|other uses|Bonab (disambiguation)}}
+{{Infobox settlement
+|official_name =Benab (Bonab)
+|native_name = بناب
+|settlement_type        = City
+|image_skyline =
+|imagesize = 
+|image_caption = 
+|pushpin_map            =Iran
+|mapsize                =150px
+|subdivision_type       = [[List of countries|Country]]
+|subdivision_name = {{flag|Iran}}
+|subdivision_type1 =[[Provinces of Iran|Province]]
+|subdivision_name1 =[[East Azerbaijan Province|East Azerbaijan]]
+|subdivision_type2 =[[Counties of Iran|County]]
+|subdivision_name2 =[[Bonab County|Bonab]]
+|subdivision_type3 =[[Bakhsh]]
+|subdivision_name3 =[[Central District (Bonab County)|Central]]
+|leader_title           = 
+|leader_name            = 
+|established_title      =
+|established_date       = 
+|area_total_km2           = 
+|area_footnotes           = 
+|population_as_of         = 2016 Census
+|population_total       = 89,259 <ref>https://www.amar.org.ir/english</ref>
+|population_density_km2   =auto
+|timezone               = [[Iran Standard Time|IRST]]
+|utc_offset             = +3:30
+|timezone_DST           = [[Iran Daylight Time|IRDT]]
+|utc_offset_DST         = +4:30
+|coordinates            = {{coord|37|20|25|N|46|03|22|E|region:IR|display=inline,title}}
+|elevation_m              = 
+|website                  = 
+|area_code =  
+|footnotes              =
+}}
+'''Bonab''' ({{lang-az|Binab}}, {{lang-fa|بناب}}; also [[Romanize]]d as '''Bonāb''' and '''Benāb'''; also known as '''Bināb''', '''Bunab''', '''Binov''', and '''Binev''')<ref>{{GEOnet3|-3055985}}</ref> is a city and capital of [[Bonab County]], [[East Azerbaijan Province]], [[Iran]]. Bonab is 120 km south of [[Tabriz]] (center of East Azerbaijan province), 21 km west of [[Maragheh]] on the outwash plain near [[Lake Urmia]]. According to the 2016 census, its population was 89,259.<ref>{{IranCensus2006|03}}</ref> The majority of the population of Bonab speak Azerbaijani language and they are ethnically Azerbaijanis. According to the 2016 census, its population was 89,259.[3]
+
+Bonab plays a major role in the economy of East Azerbaijan province as it is home to several steel factories and many other small and large manufacturing plants. Geographically, it plays a strategic role in connecting the cities of Tabriz, Maragheh, Urmia, Miandoab and Malekan. Bonab is also famous for its traditional Bonab kabab, which is a type of mixed ground beef and lamb Kabab.
+
+There are human-built remains from Urartu Civilization in the Savar Village near Bonab which dates back to 700 BC and Iron Age. Also, Bonab became very prosperous during the Safavid Dynasty and the traditional theme of architecture in Bonab pertains to this era.
+
+==National Kabab Festival==
+Bonab is famous for its big [[Kabab koobideh]]. Nowadays there are many restaurants around Iran started serving the same recipe of [[Bonab kababi|Bonab kabab]]. Bonab's Kabab was registered as [[National Intangible Cultural Heritage of Iran]] in 2015 and since then, every year in July [[Iran's National Kabab Festival]] is held in Bonab. <ref>https://www.iribnews.ir/00AVm9</ref>
+
+== Colleges and universities ==
+# [[Bonab Higher Education Complex]][http://www.bonabu.ac.ir] {{Webarchive|url=https://web.archive.org/web/20191002115557/http://bonabu.ac.ir/ |date=2019-10-02 }} 
+# [[Islamic Azad University of Bonab]][https://web.archive.org/web/20090416042238/]
+
+==Climate==
+Bonab has a cold semi-arid climate ([[Köppen climate classification]] ''BSk''), with an average annual temperature of 11.6°C. The warmest month, on average, is July with an average temperature of 77.2°F (25.1°C). The coolest month on average is January, with an average temperature of 26.8°F (-2.9°C).<ref>http://www.weatherbase.com/weather/weather-summary.php3?s=602610&cityname=Bonab%2C+East+Azerbaijan%2C+Iran&units=</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20080531101556/http://www.fallingrain.com/world/IR/1/Bonab.html "Bonab, Iran"], Falling Rain Genomics, Inc.
+* [http://www.maplandia.com/iran/east-azarbayejan/bonab-37-19-45-n-46-4-36-e/ "Bonab Map — Satellite Images of Bonab"], Maplandia
+
+{{East Azerbaijan Province}}
+{{Bonab County}}
+{{Portal|Iran}}
+[[Category:Populated places in Bonab County]]
+
+[[Category:Cities in East Azerbaijan Province]]
+
+{{Bonab-geo-stub}}

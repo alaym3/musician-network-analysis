@@ -1,0 +1,95 @@
+{{Infobox musical artist
+| name            = Vistas
+| image           =
+| landscape       =
+| caption         =
+| origin          = [[Edinburgh]], Scotland
+| genre           = {{hlist|Alternative|[[indie rock]]}}
+| years_active    = 2016–present
+| label           = {{hlist|Retrospect|[[LAB Records|LAB]]}}
+| current_members = Prentice Robertson<br/>Dylan Rush<br/>Jamie Law
+}}
+
+'''Vistas''' are a Scottish alternative, [[indie rock]] band from [[Edinburgh]], Scotland. They released their debut studio album ''[[Everything Changes in the End]]'' in May 2020. The group consists of Prentice Robertson, Dylan Rush and Jamie Law.
+
+==Career==
+The band formed at school and developed a tight bond.<ref>{{cite web|url=https://www.musicglue.com/vistas/about|title=About - Vistas|website=musicglue.com|accessdate=30 May 2020}}</ref> They released their debut single, "Calm" on 23 March 2018. They released the single "Retrospect" in May 2018. Their debut EP, ''Hello'' was released on 26 July 2019. They released "Teenage Blues" on 26 November 2019 as the lead single from their debut studio album. "Sucker" was released as second single from their debut studio album. ''Everything Changes in the End'' was released as their debut studio album on 29 May 2020. The album peaked at number two on the Scottish Albums Chart and number twenty-one on the [[UK Albums Chart]].
+
+==Members==
+* Prentice Robertson – vocals (2016–present)
+* Dylan Rush – guitar (2016–present)
+* Jamie Law – bassist (2016–present)
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2" style="width:17em;"| Details
+! scope="col" colspan="2"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Official Charts Company|SCO]]<br/><ref>Peaks in Scotland:
+* ''Everything Changes in the End'': {{Cite web|url=https://www.officialcharts.com/charts/scottish-albums-chart/20200605/40/|title=Official Scottish Albums Chart Top 100 {{!}} 5 June 2020 – 11 June 2020|website=[[Official Charts Company]]|date=5 June 2020|accessdate=5 June 2020}}
+* ''What Were You Hoping to Find?'': {{Cite web|url=https://www.officialcharts.com/charts/scottish-albums-chart/20210827/40/|title=Official Scottish Albums Chart Top 100 {{!}} 27 August 2021 – 2 September 2021|website=Official Charts Company|date=27 August 2021|accessdate=28 August 2021}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[UK Albums Chart|UK]]<br/><ref>{{Cite web|url=https://www.officialcharts.com/artist/57769/vistas/|title=VISTAS {{!}} full Official Chart History|website=[[Official Charts Company]]|accessdate=5 June 2020}}</ref>
+|-
+! scope="row"| ''[[Everything Changes in the End]]''
+|
+* Released: 29 May 2020<ref>{{cite web|url=https://music.apple.com/gb/album/everything-changes-in-the-end/1495986913|title=Everything Changes in the End by Vistas|publisher=[[Apple Music]]|accessdate=30 May 2020}}</ref>
+* Label: Retrospect
+* Format: Digital download, streaming, CD, LP
+| 2 || 21
+|-
+! scope="row"| ''What Were You Hoping to Find?''
+|
+* Released: 20 August 2021<ref>{{cite web|url=https://readdork.com/albums/vistas-what-were-you-hoping-to-find/|title=Vistas – What Were You Hoping To Find?|website=[[Dork (magazine)|Dork]]|last=MacMillan|first=Jamie|date=18 August 2021|access-date=24 August 2021}}</ref>
+* Label: Retrospect
+* Format: Digital download, streaming, CD, LP
+| 3 || 39
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" style="width:15em;"| Title
+! scope="col" style="width:20em;"| Details
+|-
+! scope="row"| ''Hello''
+|
+* Released: 26 July 2019<ref>{{cite web|url=https://music.apple.com/gb/album/hello-ep/1473579739|title=Hello - EP by Vistas|publisher=[[Apple Music]]|accessdate=30 May 2020}}</ref>
+* Label: [[LAB Records]]
+* Format: Digital download, streaming, CD
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" style="width:14em;"| Title
+! scope="col" style="width:1em;"| Year
+! scope="col"| Album
+|-
+! scope="row"| "Calm"<ref>{{cite web|url=https://music.apple.com/gb/album/calm-single/1349818702|title=Calm - Single by Vistas|publisher=[[Apple Music]]|accessdate=30 May 2020}}</ref>
+| rowspan="2"| 2018
+| rowspan="2" {{n/a|Non-album singles}}
+|-
+! scope="row"| "Retrospect"<ref>{{cite web|url=https://music.apple.com/gb/album/retrospect-single-version-single/1380751797|title=Retrospect (Single Version) - Single by Vistas|publisher=[[Apple Music]]|accessdate=30 May 2020}}</ref>
+|-
+! scope="row"| "Teenage Blues"<ref>{{cite web|url=https://music.apple.com/gb/album/teenage-blues-single/1486078893|title=Teenage Blues - Single by Vistas|publisher=[[Apple Music]]|accessdate=30 May 2020}}</ref>
+| 2019
+| rowspan="2"| ''Everything Changes in the End''
+|-
+! scope="row"| "Sucker"<ref>{{cite web|url=https://music.apple.com/gb/album/sucker-single/1491034483|title=Sucker - Single by Vistas|publisher=[[Apple Music]]|accessdate=30 May 2020}}</ref>
+| rowspan="3"| 2020
+|-
+! scope="row"| "Stranger"<ref>{{cite web|url=https://music.apple.com/gb/album/stranger-single/1525802647|title=Stranger - Single by Vistas|publisher=[[Apple Music]]|accessdate=11 December 2020}}</ref>
+| rowspan="2" {{n/a|Non-album singles}}
+|-
+! scope="row"| "Comfort"<ref>{{cite web|url=https://music.apple.com/gb/album/comfort-single/1530292430|title=Comfort - Single by Vistas|publisher=[[Apple Music]]|accessdate=11 December 2020}}</ref>
+|}
+
+==References==
+{{reflist}}
+
+[[Category:Scottish alternative rock groups]]
+[[Category:Scottish indie rock groups]]
+[[Category:Musicians from Edinburgh]]

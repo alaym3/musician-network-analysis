@@ -1,0 +1,342 @@
+{{short description|Currency of Iceland}}
+{{Redirect|ISK|other uses|ISK (disambiguation)}}
+{{Infobox currency
+| currency_name = Icelandic krona
+| currency_name_in_local = <span style="font-weight:normal;">In [[Icelandic language|Icelandic]]:</span> króna<span style="font-weight:normal;">; plural</span> krónur
+| image_1 = Iceland 500 Kronur banknote of 1928.jpg
+| image_title_1 = 500 krona (1928) of the first Icelandic krona (no longer in circulation)
+| iso_code = ISK
+| iso_number = 352
+| iso_exponent = 0
+| plural = krónur
+| symbol = kr
+| nickname = 
+| used_banknotes = 500, 1,000, 2,000, 5,000, 10,000 krona
+| used_coins = 1, 5, 10, 50, 100 krona
+| using_countries = {{flag|Iceland}}
+| issuing_authority = [[Central Bank of Iceland]]
+| printer = [[De La Rue]]
+| mint = 
+| inflation_rate = 
+| inflation_source_date = 
+| footnotes = 
+| subunit_ratio_1 = {{frac|100}}
+| subunit_name_1 = [[Øre|eyrir]]
+| plural_subunit_1 = aurar
+| symbol_subunit_1 = a
+}}
+
+The '''króna''' or '''krona''' (sometimes called '''Icelandic crown'''; [[currency sign|sign]]: '''kr'''; [[ISO 4217|code]]: '''ISK'''){{efn|In English the plural is usually "krona", some authors use "kronur". In [[Icelandic language|Icelandic]] the plural is "krónur".}} is the [[currency]] of [[Iceland]]. Iceland is the second smallest country by population, after the [[Seychelles]], to have its [[Seychellois rupee|own currency]] and monetary policy.<ref>{{Cite web |title=Krónuáhættan hefur magnast upp |author=Magnús Halldórsson |work=Kjarninn |date=23 January 2018 |access-date=22 February 2019 |url= https://kjarninn.is/skodun/2018-01-23-kronu-ahaettan-hefur-magnast-upp/ |language=is }}</ref>
+
+== Name ==
+Like the [[Nordic countries|Nordic]] currencies (such as the [[Danish krone]], [[Swedish krona]] and [[Norwegian krone]]) that participated in the historical [[Scandinavian Monetary Union]], the name ''króna'' (meaning ''crown'') comes from the [[Latin language|Latin]] word ''[[wiktionary:corona|corona]]'' ("crown").
+
+The name "Icelandic crown" is sometimes used alternatively, for example in the financial markets.
+
+==First krona, 1874–1981==
+The [[Danish krone]] was introduced to Iceland in 1874, replacing the earlier Danish currency, the [[Danish rigsdaler|rigsdaler]]. In 1885, Iceland began issuing its own banknotes.
+
+The Icelandic krona separated from the [[Danish krone]] after the dissolution of the [[Scandinavian Monetary Union]] at the start of [[World War I]] and Icelandic sovereignty from [[Denmark]] in 1918. The first coins were issued in 1922.
+
+Iceland was forced to devalue the Icelandic krona in 1922, by 23% against the Danish krone, which saw the beginning of an independent monetary policy in Iceland, and was to be the first of many subsequent devaluations of the krona.<ref name="Torhallsson">{{cite journal|last1=Torhallsson|first1=Baldur|last2=Joensen|first2=Tómas|title=Iceland's External Affairs from the Napoleonic Era to the occupation of Denmark: Danish and British Shelter|journal=Veftímaritið Stjórnmál og Stjórnsýsla|volume=11|issue=2|pages=187|doi=10.13177/irpa.a.2015.11.2.4|year=2015|doi-access=free}}</ref>
+
+In 1925 the krona was pegged to the [[British pound]] for the next 14 years until the spring of 1939.<ref name="Torhallsson"/><ref>{{cite journal|title=Optimal Exchange Rate Policy: The Case of Iceland|journal=Working Papers|url=http://cb.is/uploads/files/Wp8.PDF|access-date=25 November 2016|issn=1028-9445}}</ref> Later in 1939 the currency was pegged to the [[US Dollar]], which was maintained until 1949.<ref name="Torhallsson"/>
+
+===Coins===
+Iceland's first coins were 10- and 25-aurar pieces introduced in 1922. These were followed in 1925 by 1 krona and 2 krona pieces and in 1926 by 1-, 2- and 5-aurar pieces. In 1946, the coins' designs were altered to remove the royal monogram (CXR), following Icelandic independence from Denmark in 1944.
+
+Starting in 1967, new coins were introduced due to a considerable fall in the value of the krona. 10 krona coins were introduced in that year, followed by 50 aurar and 5 krona pieces in 1969 and 50 krona pieces in 1970.
+
+===Banknotes===
+The first notes issued in 1885 by the ''Landssjóður Íslands'' were in denominations of 5, 10 and 50 krona. In 1904, the Bank of Iceland (''Íslands Banki'') took over note production and introduced 100 krona notes. In 1921, the ''Ríkissjóður Íslands'' began issuing paper money, with notes for 1, 5, 10 and 50 krona.
+
+In 1928, another bank, the ''[[Landsbanki Íslands]]'', took over issuance of denominations of 5 krona and above, with the ''Ríkissjóður Íslands'' continuing to issue 1 krona notes until 1947. The Landsbanki Íslands introduced 500 krona notes in 1935, followed by 25- and 1000-krona notes in 1957.
+
+In 1961, the ''[[Central Bank of Iceland|Seðlabanki Íslands]]'' became the central bank of Iceland and started issuing paper money, in denominations of 10, 25, 100, and 500 krona. They were manufactured in [[England]] by [[De La Rue|De la Rue]].
+
+==Second krona, 1981–present==
+In 1981, the Icelandic krona was [[redenomination|revalued]], due to high inflation, with 100 old krona (ISJ) being worth 1 new krona (ISK) and a new 500 krona banknote was first put into circulation in 1981. The 1000 krona was put into circulation in 1984 and the 5000 krona in 1986. The 2000 krona banknote was put into circulation in 1995 but never became very popular. The 10,000 krona banknote was put into circulation in 2013.
+
+Coins of less than one krona have not circulated for many years. In September 2002, [[Davíð Oddsson]], the Icelandic [[Prime Minister of Iceland|Prime Minister]] at the time, signed two regulations decreeing that all monetary amounts on invoices and financial claims should be stated and paid in whole krona only and that coins with a value of less than one krona should be withdrawn from circulation.
+
+===Coins===
+In 1981, coins were introduced in denominations of 5, 10 and 50 aurar ''(cents)'', 1 krona and 5 krona. These were followed by 10 krona pieces in 1984, 50 krona in 1987 and 100 krona in 1995. Since 2003, Icelandic banks no longer accept any coins denominated in aurar ''(cents)''.<ref name="aurar">{{cite web|url=http://www.cb.is/publications/news/news/2003/08/15/Withdrawal-of-coin-denominated-in-aurar/|title=Withdrawal of coin denominated in aurar|date=15 August 2003|website=cb.is|publisher=[[Central Bank of Iceland]]|access-date=1 July 2020}}</ref>
+
+{| class="wikitable" style="font-size:90%;"
+|-
+!colspan="11"| Currently circulating coins<ref>{{Cite web|url=https://www.cb.is/financial-stability/oversight-of-financial-market-infrastructures/banknotes-and-coin/valid-coins-in-circulation/|title=Valid coins in circulation|publisher=[[Central Bank of Iceland]]|access-date=30 June 2020}}</ref>
+|-
+!colspan="2"| Image !!rowspan="2"| Value !!colspan="4"| Technical parameters !!colspan="3"| Description!!rowspan="2" | Issued since
+|-
+! Obverse !! Reverse !! Diameter !! Thickness !! Mass !! Composition !! Edge !! Obverse !! Reverse
+|- {{Coin-silver-color}}
+|
+|
+| 1&nbsp;kr.
+| 21.5&nbsp;mm
+| 
+| 4.5&nbsp;g (until 1989)<br/>4.0&nbsp;g (from 1989)
+| [[Cupronickel]]<br/>75%&nbsp;Cu,&nbsp;25%&nbsp;Ni (until 1989)<br/>Nickel-plated steel (from 1989)
+| rowspan="3"| Milled
+| [[Landvættir|Mountain giant]]
+| [[Atlantic cod]] (''Gadus morhua'')
+| rowspan="2"|1981
+|- {{Coin-silver-color}}
+| 
+| 
+| 5&nbsp;kr.
+| 24.5&nbsp;mm
+| 
+| 6.5&nbsp;g (until 1996)<br/>5.6&nbsp;g (from 1996)
+| rowspan="2"| [[Cupronickel]]<br/>75%&nbsp;Cu,&nbsp;25%&nbsp;Ni (until 1996)<br/>Nickel-plated steel (from 1996)
+| rowspan="2"| [[Landvættir|Land wights]]
+| Two [[short-beaked common dolphin]]s (''Delphinus delphis'')
+|- {{Coin-silver-color}}
+|
+|
+| 10&nbsp;kr.
+| 27.5&nbsp;mm
+| 1.78&nbsp;mm
+| 8.0&nbsp;g (until 1996)<br/>6.9&nbsp;g (from 1996)
+| Four [[capelin]] (''Mallotus villosus'')
+| 1984
+|- {{Coin-yellow-color}}
+|
+|
+| 50&nbsp;kr.
+| 23&nbsp;mm
+| 2.6&nbsp;mm
+| 8.25&nbsp;g
+| rowspan="2"|[[Nickel brass]]<br/>70%&nbsp;Cu,&nbsp;24.5%&nbsp;Zn,&nbsp;5.5% Ni
+| Milled
+| rowspan="2"| [[Landvættir|Land wights]]
+| [[Carcinus maenas|Shore crab]] (''Carcinus maenas'')
+| 1987
+|- {{Coin-yellow-color}}
+|
+|
+| 100&nbsp;kr.
+| 25.5&nbsp;mm
+| 2.25&nbsp;mm
+| 8.5&nbsp;g
+| Alternately plain and milled
+| [[Cyclopterus lumpus|Lumpfish]] (''Cyclopterus lumpus'')
+| 1995
+|-
+|colspan="11"|{{Standard coin table notice|BrE=Y}}
+|}
+{| class="wikitable" style="font-size:90%;"
+|-
+!colspan="12"| Former circulating coins<ref>{{Cite web|url=https://www.sedlabanki.is/uploads/files/opinbergjald220..pdf|title=Opinber gjaldmiðill á Íslandi: Útgáfa og auðkenni íslenskra seðla og myntar|publisher=[[Central Bank of Iceland]]|page=65|language=is|access-date=1 July 2020}}</ref>
+|-
+!colspan="2"| Image !!rowspan="2"| Value !!colspan="4"| Technical parameters !!colspan="3"| Description!!rowspan="2" | Issued since!!rowspan="2" | Date of lapse
+|-
+! Obverse !! Reverse !! Diameter !! Thickness !! Mass !! Composition !! Edge !! Obverse !! Reverse
+|- {{Coin-copper-color}}
+| 
+| 
+| 5&nbsp;a
+| 15&nbsp;mm
+| 
+| 1.5&nbsp;g
+| rowspan="2"| [[Bronze]]<br/>97%&nbsp;Cu,&nbsp;2.5%&nbsp;Zn,&nbsp;0.5%&nbsp;Sn
+| rowspan="3"| Plain
+| [[Landvættir|Bird]]
+| [[Common skate]] (''Raja batis'')
+| rowspan="3"| 1981
+| rowspan="3"| 1 October 2004<ref name="aurar"/>
+|- {{Coin-copper-color}}
+| 
+| 
+| 10&nbsp;a
+| 17&nbsp;mm
+| 
+| 2.0&nbsp;g
+| [[Landvættir|Bull]]
+| [[Squid]] ([[Cephalopoda]])
+|- {{Coin-copper-color}}
+| 
+| 
+| 50&nbsp;a
+| 19.5&nbsp;mm
+| 
+| 3&nbsp;g (1981)<br/>2.65&nbsp;g (1986)
+| [[Bronze]]<br/>97%&nbsp;Cu,&nbsp;2.5%&nbsp;Zn,&nbsp;0.5%&nbsp;Sn (1981)<br/>Copper-plated steel (1986)
+| [[Landvættir|Dragon]]
+| [[Pandalus borealis|Shrimp]] (''Pandalus borealis'')
+|-
+|colspan="12"|{{Standard coin table notice|BrE=Y}}
+|}
+
+===Banknotes===
+Icelandic banknotes are printed with the dates from which the legal basis of the currency derives. In 1981, notes were issued in denominations of 10, 50, 100 and 500 krona based on the law of 29 March 1961. 1000 krona notes were introduced in 1984, followed by 5000 krona notes in 1986 with the same law.
+
+100, 500, and 1000 krona notes were reissued in 1994 under the law of 5 May 1986. In the following year, a new denomination of 2000 krona was issued for the first time. The 2000 krona note is subtly different from the other notes. For example, the underprint pattern extends all the way upward and downward, while the other denominations had white margins on every side. The number ''2000'' is printed in multi color for 3 of the 4 occurrences. And the numeral ''2000'' on the lower left corner of reverse is vertical. The "shadow" of the numeral is printed with SÍ in [[microprint]].
+
+The 22 May 2001 series, saw substantial changes. The underprint and microprint features of the 2000 krona note were extended to other  denominations. The 1000- and 5000-krona notes also received metallic foils next to the portrait.
+
+In 2013, a new 10000 krona banknote was introduced. The face of natural scientist and poet [[Jónas Hallgrímsson]] appears on the bill, as well as the [[Eurasian golden plover]].<ref>Örlygur Hnefill Örlygsson. [http://www.goiceland.is/2013/09/the-golden-plover-on-new-10000-isk-banknote/ "The Golden Plover on new 10000 ISK banknote"] {{Webarchive|url=https://web.archive.org/web/20160729202203/http://www.goiceland.is/2013/09/the-golden-plover-on-new-10000-isk-banknote/ |date=2016-07-29 }}. [[goIceland]]. 26 September 2013.</ref> Notes of 100 krona or less are no longer in circulation, as they have been withdrawn by the central bank.
+
+{| class="wikitable" style="font-size: 90%"
+|-
+! colspan="7" |Law of 29 March 1961 Series<ref>[http://www.sedlabanki.is/?PageID=272 "Valid notes in Iceland"] {{webarchive|url=https://web.archive.org/web/20060624141257/http://www.sedlabanki.is/?pageid=272 |date=2006-06-24 }}. ''Central Bank of Iceland''.</ref>
+|-
+! rowspan="2" | Value !!rowspan=2| Dimensions !!rowspan=2| Main Colour !!colspan=3| Description !!rowspan=2| Date of issue
+|-
+! Front side !! Back side !! Watermark
+|-
+| 10 krona
+| 130 × 70&nbsp;mm
+| Blue
+| [[Arngrímur Jónsson|Arngrímur Jónsson the Learned]]
+| Old Icelandic household scene based on [[Auguste Mayer]]'s drawing
+|rowspan=6| [[Jón Sigurðsson]]
+|rowspan=4| 1981
+|-
+| 50 krona
+| 135 × 70&nbsp;mm
+| Brown
+| [[Guðbrandur Þorláksson]]
+| Printers at work in the 16th century
+|-
+| 100 krona
+| 140 × 70&nbsp;mm
+| Green
+| [[Árni Magnússon]]
+| Monastic scribe
+|-
+| 500 krona
+| 145 × 70&nbsp;mm
+| Red
+| [[Jón Sigurðsson]]
+| Jón at his writing desk
+|-
+| 1000 krona
+| 150 × 70&nbsp;mm
+| Purple
+| [[Brynjólfur Sveinsson]]
+| Brynjólfskirkja church (1650–1802) at [[Skálholt]]
+| 1984
+|-
+| 5000 krona
+| 155 × 70&nbsp;mm
+| Blue-green multicolour
+| [[Ragnheiður Jónsdóttir]]
+| Ragnheiður instructing two girls in embroidery
+| 1986
+|-
+! colspan="7" |Law of 5 May 1986 Series
+|-
+| 100 krona
+|colspan=5 rowspan=3| As previous
+|rowspan=3| 1994
+|-
+| 500 krona
+|-
+| 1000 krona
+|-
+| 2000 krona
+| 150 × 70&nbsp;mm
+| Multicolour
+| [[Jóhannes Kjarval]]
+| Kjarval's painting ''Yearning for Flight'' and his drawing ''Woman and Flowers''
+| [[Jón Sigurðsson]]
+| 1995
+|-
+! colspan="7" |Law of 22 May 2001 Series
+|-
+| 500 krona
+|colspan=5 rowspan=3| As previous, but the underprint design extends upward and downward to fill the margin
+| October 2005
+|-
+| 1000 krona
+| November 2004
+|-
+| 5000 krona
+| November 2003
+|-
+| 10,000 krona
+| 162 × 70&nbsp;mm
+| Blue
+| [[Jónas Hallgrímsson]]; outlines of mountains Háafjall and [[Hraundrangi]] formed from Icelandic words coined by Jónas; floral pattern from cover of periodical “Fjölnir;” Jónas’ handwritten poem “Ferðalok” (Journey's End); topographical outline of mountain Skjaldbreiður
+| A [[European golden plover|plover]] and Hallgrímsson's poem ''Skjaldbreiður Mountain''; topographical outline of mountain Skjaldbreiður; Jónas’ handwritten poem “Fjallið Skjaldbreiður;” scallop shell
+| [[Jón Sigurðsson]]
+| October 24, 2013
+|-
+|}
+
+==Issues affecting the Icelandic krona==
+Iceland is not a member of the [[European Union]] and does not use the [[euro]].
+The Icelandic currency is a low-volume world currency, strongly managed by its central bank. Its value in terms of other currencies has historically been swift to change, for example against the [[United States dollar|US]] and [[Canadian dollar]]s, and the other Nordic currencies ([[Swedish krona]], [[Norwegian krone]], [[Danish krone]]), and the euro. For example, during the first half of 2006, the Icelandic krona ranged between 50 and 80 per US dollar. Prior to the currency's collapse in October 2008, the krona was considered overvalued.
+
+In most shops electronic payment is accepted. Other currencies are very rarely accepted in Iceland. A notable exception is [[Keflavík International Airport]] (which has many transfer passengers), where the US dollar, euro and some other currencies are accepted by all merchants. Certain stores in central Reykjavík accept some foreign currencies.
+
+Iceland's per capita computer usage is among the highest in the world, [[List of Internet users by country|far higher than the UK or US]].<ref>{{cite web |url=http://www.itu.int/ITU-D/ict/statistics/material/excel/2010/InternetUsersPercentage00-10.xls |title=Internet users |publisher=[[International Telecommunication Union]] |access-date=14 November 2011 |format=XLS |url-status=dead |archive-url=https://web.archive.org/web/20111110061856/http://www.itu.int/ITU-D/ict/statistics/material/excel/2010/InternetUsersPercentage00-10.xls |archive-date=10 November 2011 }}</ref> The saturation of technology in Iceland has had ramifications in the monetary system: a very high proportion of payments in Iceland are made electronically, e.g. by debit or credit cards or online bank transfers. The largest denomination banknote, the 10000 krona note (around €83 in July 2017), has a relatively low value; therefore, most of Iceland's high value trades are done in electronic transfers and in other currencies.
+
+===2008 financial crisis===
+[[File:EUR against ISK 2000-2009.png|thumb|Exchange rate ISK per euro from 2000 to mid-2010]]
+{{Main|2008–2011 Icelandic financial crisis}}
+
+In October 2008, the [[financial crisis of 2007–2008]] brought about a collapse of the Icelandic banking sector. The value of the Icelandic krona dropped, and on 7 October 2008 the Icelandic Central Bank attempted to peg it at 131 against the euro.<ref>Mason, Rowena. [https://www.telegraph.co.uk/finance/newsbysector/banksandfinance/3154116/Financial-crisis-Iceland-nationalises-bank-and-seeks-Russian-loan.html "Financial crisis: Iceland nationalises bank and seeks Russian loan"]. ''[[The Daily Telegraph]]''. 8 October 2008.</ref> This peg was abandoned the next day.<ref>{{cite news| url=https://www.bloomberg.com/apps/news?pid=20601087&sid=ahAQVJ69AmOc&refer=home | work=Bloomberg | title=Iceland May Ask for IMF Loan as Well as Borrowing From Russia | date=8 October 2008}}</ref> The krona later dropped again and to 340 against the euro before trade in the currency was suspended<ref>Brogger, Tasneem; Einarsdottir, Helga Kristin. [https://www.bloomberg.com/apps/news?pid=20601087&sid=aVFtDRGwcc50&refer=home&refer=europe "Icelandic Shoppers Splurge as Currency Woes Reduce Food Imports"]. [[Bloomberg, L.P.]] 13 October 2008.</ref> (by comparison, the rate at the start of 2008 was about 90 krona to the euro<ref>[http://www.ecb.int/stats/exchange/eurofxref/html/eurofxref-graph-isk.en.html Historical EUR/ISK exchange rate graphs], European Central Bank</ref>). After a period of tentative, very low-volume international trading in the krona, activity had been expected to pick up again throughout November 2008, albeit still with low liquidity, as Iceland secured an [[International Monetary Fund]] loan.<ref>[https://www.theguardian.com/business/feedarticle/7993351 Iceland crown international trade seen restarting soon], ''Guardian''/Reuters, 6 November 2008</ref> However, as of January 2009 the krona was still not being traded regularly, with the [[European Central Bank]] (ECB) reference rate being set only intermittently, the last time on 3 December 2008 at 290 krona per euro.<ref>{{cite web|url=http://www.ecb.int/stats/exchange/eurofxref/html/index.en.html|title=Euro foreign exchange reference rates|first=European Central|last=Bank|website=European Central Bank|access-date=2 April 2018}}</ref>
+
+The Icelandic krona similarly fell in value against the US dollar, from around 50 to 80 per dollar to about 110–115 per dollar; by mid-November 2008 it had continued to lower to 135 to the dollar. As of 2 April 2009, the value hovered around 119 per dollar, roughly maintaining that value over the next two years with 23 March 2011, prices around 114 per dollar.<ref>{{cite web|url=https://finance.yahoo.com/quote/USDISK=X/|title=USDISK=X : Summary for USD/ISK - Yahoo Finance|website=yahoo.com|access-date=2 April 2018}}</ref> With this, the previously high costs for foreign traders and tourists dropped, which Iceland's trade and tourism industry undertook to exploit.<ref>{{Cite web |url=http://www.icelandtouristboard.com/dateline/jan09/email.html |title=Archived copy |access-date=2009-03-30 |archive-url=https://web.archive.org/web/20110203144002/http://www.icelandtouristboard.com/dateline/jan09/email.html |archive-date=2011-02-03 |url-status=dead }}</ref> In July 2008, a [[Big Mac Index|Big Mac]] cost the equivalent of nearly US$6, versus $3.57 in the US.<ref>{{cite news|url=https://www.economist.com/node/11793125|title=Sandwiched|date=2008-07-24|newspaper=The Economist|access-date=2 April 2018}}</ref>
+
+===Iceland and the euro===
+Theoretically the adoption of the euro could have several advantages. Adopting what is perceived by some as a historically stronger currency might help Iceland to "avoid the turbulence surrounding speculations in international financial markets".<ref name="Iceland's currency dilemma">http://www.ifo.de/pls/guestci/download/CESifo%20Forum%202006/CESifo%20Forum%202/2006/forum2-06-special.pdf</ref> In addition, Icelandic economists listed several arguments in favour of the Euro before the crisis. "In terms of growth potentials and welfare, the euro could be expected to bring lower long-term interest rates [...]. This would of course increase capital investment and labour productivity. The euro might lower consumer prices by facilitating a comparison with other euro countries."<ref name="Iceland's currency dilemma"/>
+Because of the volatility between the euro and the krona, former [[Minister for Foreign Affairs of Iceland|Foreign Minister]] [[Valgerður Sverrisdóttir]] considered the idea that Iceland might [[dollarize]] itself into the [[Eurozone]] without joining the European Union.{{Citation needed|reason=claimed to be from Norwegian news NRK|date=June 2009}}
+
+Opinion regarding the euro is mixed among Icelanders. An opinion poll about Iceland joining the European Union released on 11 September 2007 showed that 53% of respondents were in favour of adopting the euro, 37% opposed and 10% undecided.<ref>Olafsdottir, Audbjorg. [https://www.reuters.com/article/bondsNews/idUSL1111656420070911 "Euro support in Iceland hits five-year high"]. [[Reuters]]. 11 September 2007.</ref> Another poll produced for the Icelandic newspaper ''Fréttablaðið'' and released on 30 September 2007 showed 56% opposed to euro adoption and 44% in favour.<ref>[http://www.mbl.is/mm/frettir/innlent/frett.html?nid=1294123 "Meirihluti andvígur upptöku evru"] (Icelandic). ''[[Morgunblaðið]]''. 30 September 2007.</ref> In January 2008, a poll by the Icelandic Chamber of Commerce put support for Iceland to abandon the krona for another currency at 63%. A number of companies in Iceland, such as [[Össur]], have started to pay their employees in euros or US dollars, mainly due to the high inflation and high volatility.<ref>Furlong, Ray. [http://news.bbc.co.uk/1/hi/business/7651313.stm "Iceland's financial freeze"]. [[BBC]]. 3 October 2008.</ref>
+
+The financial crisis prompted further calls for Iceland to join the Eurozone. In January 2009, one senior Icelandic official stated that due to the crisis "the krona is dead. We need a new currency. The only serious option is the euro."<ref>[https://www.theguardian.com/world/2009/jan/30/iceland-join-eu Iceland to be fast-tracked into the EU], the Guardian</ref> In March 2009, a report by Iceland's Minister for Foreign Affairs, Össur Skarphédinsson, considered three options: retaining the krona, adopting the euro without joining the EU and adopting the euro through EU membership. The report recommended the third option.<ref>[http://www.icelandreview.com/icelandreview/daily_news/?cat_id=29314&ew_0_a_id=321992 "Could EU Application Save Billions for Iceland?"] {{Webarchive|url=https://web.archive.org/web/20120217172316/http://www.icelandreview.com/icelandreview/daily_news/?cat_id=29314&ew_0_a_id=321992 |date=2012-02-17 }}, Iceland Review Online, 27 March 2009</ref>
+
+An economic study of the impact of the adoption of the euro by Iceland found that the Icelandic krona acts both as a barrier and buffer to international trade, and that by joining the EU and adopting the euro, Icelandic international trade might be 60% higher.<ref>{{cite journal|url=https://rafhladan.is/handle/10802/4769|title=Out in the cold? Iceland's trade performance outside the European Union and European Monetary Union|first1=Francis|last1=Breedon|first2=Thórarinn G.|last2=Pétursson|date=1 September 2006|journal=Cambridge Journal of Economics|volume=30|issue=5|pages=723–736|access-date=2 April 2018|via=cje.oxfordjournals.org|doi=10.1093/cje/bei105}}</ref>
+
+In July 2009, the Alþingi (parliament) narrowly voted to apply for EU membership, but that application has been frozen since 2013 (see [[accession of Iceland to the European Union]]).
+
+In March 2015, Icelandic authorities announced by letter to the Presidency of the Council of the European Union that Iceland should not be seen as candidate state, and that there were no specific plans to continue any membership process.<ref>[http://www.mfa.is/news-and-publications/nr/8377 "Government considers Iceland no longer an EU candidate"] Ministry for Foreign Affairs</ref> Leaders of the ruling government parties have also stated that the krona will remain as Iceland's currency for at least the foreseeable future.
+
+===Iceland and unilateral adoption of another currency===
+Some small countries such as [[Salvadoran colón|El Salvador]], [[Currency of Ecuador|Ecuador]] and [[Montenegro and the euro|Montenegro]] have unilaterally adopted the use of a more stable foreign currency as a means of controlling inflation. The cost of this is generally very high, as the adopting country loses all control over monetary policy, and all the benefits of [[seignorage]]. A [[currency board]] is a second tier solution, where the exchange rate of the currency is [[Fixed exchange-rate system|fixed]] to that of another country, or a [[basket of currencies|"basket" of currencies]].{{citation needed|date = January 2019}}
+
+There was a discussion in 2012 about the feasibility of adopting a foreign currency. The idea of adopting the [[Canadian dollar]] was popular and the  Canadian ambassador to Iceland stated that Iceland could adopt the currency if it so wished.<ref>{{cite web|url=http://www.icenews.is/index.php/2012/03/02/canada-ready-to-discuss-letting-iceland-use-its-dollar/|title=Canada ready to discuss letting Iceland use its dollar|publisher=icenews.is|access-date=8 March 2012}}</ref> Canada was favoured due to its northern geography and similar resource based economy, in addition to its relative economic stability.<ref>{{cite news|last=McKenna|first=Barrie|title=Canadian envoy to Iceland sparks loonie controversy|url=https://www.theglobeandmail.com/report-on-business/economy/iceland-eyes-loonie-canada-ready-to-talk/article2356634/|access-date=3 March 2012|newspaper=The Globe and Mail|date=2 March 2012|location=Toronto}}</ref>
+
+Arnór Sighvatsson, Deputy Governor of the Central Bank of Iceland, at a meeting of the Icelandic Federation of Labour on 10 January 2012, said:
+
+::I am of the view that unilateral adoption of a foreign currency or a currency board could only be considered prudent if all of Iceland's largest banks were owned by a strong foreign bank with the financial strength to provide them with liquidity during times of distress. Second, unilateral adoption of another currency is a solution that is hardly worth considering unless EMU [[Economic and Monetary Union of the European Union]] membership has been ruled out for the foreseeable future, as it entails extra cost of purchase of new base money for the banking system (generally in the range of 70–100 billion krona in recent years) and larger precautionary foreign exchange reserves (particularly if the banks are not foreign-owned). It would be pointless to pay that price for a few years' benefit, plus the seigniorage that would revert permanently to the ECB [[European Central Bank]]. Currencies other than the euro have also been mentioned. But considering the characteristics required of such a currency, there is no other that comes close to being as beneficial for Iceland as the euro is.<ref>{{cite web|url=http://www.bis.org/review/r120117d.pdf?frames=0 |title=Arnór Sighvatsson: Iceland's future monetary and exchange rate regime }}</ref>
+
+{{As of|2018}}, Icelandic authorities had no plans to adopt a foreign currency.<ref>{{Cite news|url=http://www.ruv.is/frett/segir-engar-tofralausnir-i-gjaldmidli|title=There are no magical solutions in currency.|last=Hjaltadóttir|first=Jóhanna Vigdís|date=2018-10-18|work=[[RÚV]]|language=is|quote=This reevaluation of monetary policy is made with the assumption that the krona will be the Icelandic currency for the near future. [...] The parties in power support using the krona as the Icelandic currency.}}</ref>
+
+===Exchange rate===
+* As of 1 August 2021, 1 USD was worth 123.73 Icelandic krona.
+{{Exchange rate|ISK|INR|CNY|TWD}}
+
+==See also==
+* [[Economy of Iceland]]
+* [[Scandinavian Monetary Union]]
+* [[Auroracoin]]
+
+==References and sources==
+
+;References
+{{notelist}}
+{{Reflist|2}}
+
+;Sources
+{{Refbegin}}
+* {{numis cite SCWC | date=1991}}
+* {{numis cite SCWPM | date=1994}}
+{{Refend}}
+
+==External links==
+* [http://banknoter.com/s/iceland Banknotes of Iceland: Icelandic Krona catalog]
+* [http://www.bis-ans-ende-der-welt.net/Island-B-En.htm The current banknotes of Iceland]
+
+{{Iceland topics|state=autocollapse}}
+{{Krone}}
+{{Currencies of Europe}}
+{{Portal bar|Europe|Iceland|Money|Numismatics}}
+
+{{DEFAULTSORT:Icelandic Krona}}
+[[Category:Economy of Iceland|Krona, Icelandic]]
+[[Category:1874 introductions]]
+[[Category:1874 establishments in Iceland|Krona]]

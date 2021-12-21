@@ -1,0 +1,111 @@
+{{Short description|Family of snakes}}
+{{Redirect|Viper|other uses|Viper (disambiguation)}}
+{{Use dmy dates|date=June 2021}}
+{{Automatic taxobox
+| name = 
+| image = Benny Trapp Montivipera xanthina.jpg
+| image_caption = Ottoman viper, ''[[Vipera xanthina]]''
+| taxon = Viperidae
+| authority = [[Nicolaus Michael Oppel|Oppel]], 1811
+| synonyms = * Viperae—Laurenti, 1768
+* Viperini—Oppel, 1811
+* Viperidae—Gray, 1825
+<ref name="McD99">McDiarmid RW, Campbell JA, Touré T. 1999. Snake Species of the World: A Taxonomic and Geographic Reference, vol. 1. Herpetologists' League. {{ISBN|1-893777-00-6}} (series). {{ISBN|1-893777-01-4}} (volume).</ref>
+}}
+
+The '''Viperidae''' ('''vipers''') are a family of [[venomous snake]]s found in most parts of the world, with the exception of [[Antarctica]], Australia, [[Hawaii]], [[Madagascar]], as well as various other isolated islands, and north of the [[Arctic Circle]]. All have long (relative to non-vipers), hinged fangs that permit deep penetration and injection of [[snake venom]]. Four subfamilies are currently recognized.<ref name="ITIS">{{ITIS |id=174294 |taxon=Viperidae |access-date=10 August 2006}}</ref> They are also known as viperids. The name "viper" is derived from the Latin word ''vipera'', -''ae'', also meaning viper, possibly from vivus  ("living") and parere ("to beget"), referring to the trait [[viviparity]] (giving live birth) common in vipers but not in snakes at large.<ref>Gotch AF. 1986. Reptiles -- Their Latin Names Explained. Poole, UK: Blandford Press. 176 pp. {{ISBN|0-7137-1704-1}}.</ref>
+
+==Description==
+[[File:Crotalus skull.jpg|thumb|226px|A [[Crotalus|rattlesnake]] skull, showing the long fangs used to inject venom]]
+
+All viperids have a pair of relatively long [[Solenoglypha#Solenoglyph|solenoglyphous]] (hollow) fangs that are used to inject [[venom]] from glands located towards the rear of the upper jaws, just behind the eyes. Each of the two fangs is at the front of the mouth on a short [[maxilla]]ry bone that can rotate back and forth. When not in use, the fangs fold back against the roof of the mouth and are enclosed in a membranous sheath. This rotating mechanism allows for very long fangs to be contained in a relatively small mouth. The left and right fangs can be rotated together or independently. During a strike, the mouth can open nearly 180° and the [[maxilla]] rotates forward, erecting the fangs as late as possible so that the fangs do not become damaged, as they are brittle. The jaws close upon impact and the muscular sheaths encapsulating the venom glands contract, injecting the venom as the fangs penetrate the target. This action is very fast; in defensive strikes, it will be more a stab than a bite. Viperids use this mechanism primarily for immobilization and digestion of prey. Pre-digestion occurs as the venom contains [[protease]]s which degrade tissues. Secondarily, it is used for self-defense, though in cases with non-prey, such as humans, they may give a [[dry bite]] (not inject any venom). A dry bite allows the snake to conserve its precious reserve of venom, because once it has been depleted, it takes time to replenish, leaving the snake vulnerable. In addition to being able to deliver dry bites, vipers can inject larger quantities of venom into larger prey targets, and smaller amounts into small prey. This causes the ideal amount of predigestion for the lowest amount of venom.
+
+Almost all vipers have [[keeled scales]], a stocky build with a short tail, and due to the location of the venom glands, a triangle-shaped head distinct from the neck. The great majority have vertically elliptical, or slit-shaped, [[pupil]]s that can open wide to cover most of the eye or close almost completely, which helps them to see in a wide range of light levels. Typically, vipers are nocturnal and ambush their prey.
+
+Compared to many other snakes, vipers often appear rather sluggish. Most are [[Ovoviviparity|ovoviviparous]], holding eggs inside their bodies, where they hatch inside and emerge living. However, a few lay eggs in nests. Typically, the number of young in a clutch remains constant, but as the weight of the mother increases, larger eggs are produced, yielding larger young.
+
+==Geographic range==
+[[File:Vipera berus in Finland.jpg|thumb|right|''[[Vipera berus]]'' pictured in [[Laukaa|Laukaa, Finland]] in May 2020]]
+Viperid snakes are found in the Americas, Africa, Eurasia and South Asia. In the Americas, they are native from south of [[48th parallel north|48°N]], through the United States, Mexico, Central America, and Canada into South America. In the [[Old World]], viperids are located everywhere except [[Siberia]], Ireland, and north of the Arctic Circle in Norway and Sweden.<ref name="McD99"/> Wild viperids are not found in [[Australia]]. The [[Vipera berus|adder]], a viperid, is the only venomous snake found in [[Great Britain]].
+
+==Venom==
+Viperid venoms typically contain an abundance of [[protein]]-degrading enzymes, called [[protease]]s, that produce symptoms such as pain, strong local swelling and [[necrosis]], blood loss from cardiovascular damage complicated by [[coagulopathy]], and disruption of the blood-clotting system. Also being vasculotoxic in nature, viperine venom causes vascular endothelial damage and hemolysis. Death is usually caused by collapse in blood pressure. This is in contrast to [[elapid]] venoms that generally contain [[neurotoxin]]s that disable muscle contraction and cause paralysis. Death from elapid bites usually results from asphyxiation because the diaphragm can no longer contract. However, this rule does not always apply; some elapid bites include [[proteolytic]] symptoms typical of viperid bites, while some viperid bites produce neurotoxic symptoms.<ref>{{cite web|title=Viperids|website=Snakesuntamed.webr.ly|url=http://snakesuntamed.webr.ly/viperids}}</ref>
+
+Proteolytic venom is also dual-purpose: first, it is used for defense and to immobilize prey, as with neurotoxic venoms; secondly, many of the venom's enzymes have a digestive function, breaking down molecules in prey items, such as [[lipid]]s, [[nucleic acid]]s, and proteins.<ref name="Slo00">{{cite journal|author=Slowinski, Joe|date=2000|url=http://www.calacademy.org/calwild/2000spring/stories/venoms.html|title=Striking Beauties: Venomous Snakes|journal=California Wild|volume=53:2|archive-url=https://web.archive.org/web/20041013052652/http://www.calacademy.org/calwild/2000spring/stories/venoms.html |archive-date=13 October 2004}}</ref> This is an important adaptation, as many vipers have inefficient digestive systems.<ref name="Smi04">{{cite web|author=Smith, SA|date=2004|url=http://www.dnr.state.md.us/wildlife/ssss_snakes.asp|title=Did Someone Say... SSSSnakes?|publisher=Maryland Dept. of Natural Resources}}</ref>
+
+Due to the nature of proteolytic venom, a viperid bite is often a very painful experience and should always be taken seriously, though it may not necessarily prove fatal. Even with prompt and proper treatment, a bite can still result in a permanent scar, and in the worst cases, the affected limb may even have to be [[amputation|amputated]]. A victim's fate is impossible to predict, as this depends on many factors, including the species and size of the snake involved, how much venom was injected (if any), and the size and condition of the patient before being bitten. Viper bite victims may also be [[allergy|allergic]] to the venom and/or the [[antivenom]].
+
+===Behavior===
+These snakes can decide how much venom to inject depending on the circumstances. The most important determinant of venom expenditure is generally the size of the snake; larger specimens can deliver much more venom. The species is also important, since some are likely to inject more venom than others, may have more venom available, strike more accurately, or deliver a number of bites in a short time. In predatory bites, factors that influence the amount of venom injected include the size of the prey, the species of prey, and whether the prey item is held or released. The need to label prey for chemosensory relocation after a bite and release may also play a role. In defensive bites, the amount of venom injected may be determined by the size or species of the predator (or antagonist), as well as the assessed level of threat, although larger assailants and higher threat levels may not necessarily lead to larger amounts of venom being injected.<ref name="Hay02">Hayes WK, Herbert SS, Rehling GC, Gennaro JF. 2002. Factors that influence venom expenditure in viperids and other snake species during predatory and defensive contexts. ''In'' Schuett GW, Höggren M, Douglas ME, Greene HW. 2002. Biology of the Vipers. Eagle Mountain Publishing, LC. 580 pp. 16 plates. {{ISBN|0-9720154-0-X}}.</ref>
+
+===Prey tracking===
+[[File:Crotalus atrox diamantklapperschlange kopf.jpg|thumb|right|The western diamondback rattlesnake ''[[Crotalus atrox]]'', the venom of which contains proteins allowing the snake to track down bitten prey]]
+Hemotoxic venom takes more time than neurotoxic venom to immobilize prey, so viperid snakes need to  track down prey animals after they have been bitten,<ref name="Hay02"/> in a process known as "prey relocalization". Vipers are able to do this via certain proteins contained in their venom. This important adaptation allowed rattlesnakes to evolve the strike-and-release bite mechanism, which provided a huge benefit to snakes by minimizing contact with potentially dangerous prey animals.<ref name=Saviolaetal2013/> However, this adaptation then requires the snake to track down the bitten animal to eat it, in an environment full of other animals of the same species. Western diamondback rattlesnakes (''Crotalus atrox'') respond more actively to mouse carcasses that have been injected with crude rattlesnake venom. When the various components of the venom were separated out, the snakes responded to mice injected with two kinds of [[disintegrin]]s. These disintegrin proteins are responsible for allowing the snakes to track down their prey.<ref name=Saviolaetal2013>{{cite journal| last1 = Saviola| first1 = A.J.| last2 = Chiszar | first2 = D.| last3 = Busch| first3 = C. | last4 = Mackessy| first4 = S.P.| year = 2013| title = Molecular basis for prey relocation in viperid snakes| journal = BMC Biology| volume = 11 | pages = 20| doi =10.1186/1741-7007-11-20| pmid = 23452837| pmc = 3635877}}</ref>
+
+==Subfamilies==
+{| class="wikitable"
+! Subfamily<ref name="ITIS"/>
+! Taxon author<ref name="ITIS"/>
+! Genera<ref name="ITIS"/>
+! Common name
+! Geographic range<ref name="McD99"/>
+|-
+|[[Azemiopinae]]
+|Liem, Marx & Rabb, 1971
+|align="center"|1
+|Fea's vipers
+|style="width:40%"|[[Myanmar]], southeastern [[Tibet]] across southern China ([[Fujian]], [[Guangxi]], [[Jiangxi]], [[Kweichow]], [[Sichuan]], [[Yunnan]], [[Zhejiang]]) to northern [[Vietnam]]
+|-
+|[[Crotalinae]]
+|[[Nicolaus Michael Oppel|Oppel]], 1811
+|align="center"|22
+|[[Pit viper]]s
+|In the [[Old World]] from eastern Europe eastward through Asia to Japan, Taiwan, Indonesia, peninsular India and Sri Lanka; in the [[New World]] from southern Canada southward through Mexico and Central America to southern South America
+|-
+|[[Viperinae]]
+|[[Nicolaus Michael Oppel|Oppel]], 1811
+|align="center"|13
+|True or pitless vipers
+|Europe, Asia, and Africa
+|-
+|}
+[[Type genus]] = ''[[Vipera]]''—Laurenti, 1768<ref name="McD99"/>
+
+== Sensory organs ==
+
+=== Heat sensing pits ===
+[[Pit viper]]s have specialized sensory organs near the nostrils called heat sensing pits.<ref name=":0">{{Cite journal|last1=Bullock|first1=T.H.|last2=Diecke|first2=F.P.J.|date=1956|title=Properties of an Infrared Receptor|journal=Journal of Physiology|volume=134|issue=1|pages=47–87|doi=10.1113/jphysiol.1956.sp005624|pmid=13377311|pmc=1359182}}</ref> The location of this organ is unique to pit vipers. These pits have the ability to detect thermal radiation emitted by warm-blooded animals, helping them better understand their environment.<ref>{{Cite journal|last=Lynn|first=W. Gardner|date=1931|title=The Structure and Function of the Facial Pits of Pit Vipers|journal=American Journal of Anatomy|volume=49|pages=97–139|doi=10.1002/aja.1000490105}}</ref> Internally the organ forms a small pit lined with membranes, external and internal, attached to the trigeminal nerve.<ref name=":0" /><ref>{{Cite journal|last=Newman|first=Eric A.|date=1982|title=The Infrared "Vision" of Snakes|journal=Scientific American|volume=243|issue=3|pages=116–127|doi=10.1038/scientificamerican0382-116|bibcode=1982SciAm.246c.116N}}</ref> Infrared light signals the internal membranes, which in turn signal the trigeminal nerve and send the infrared signals to the brain where they are overlaid onto the visual image created by the eyes.<ref>{{Cite journal|last1=Gracheva|first1=Elena O.|last2=Ingolia|first2=Nicolas T.|last3=Kelly|first3=Yvonne M.|last4=Cordero-Morales|first4=Julio F.|last5=Hollopeter|first5=Gunther|last6=Chesler|first6=Alexander T.|last7=Sanchez|first7=Elda E.|last8=Perez|first8=John C.|last9=Weissman|first9=Johnathan S.|year=2010|title=Molecular Basis of Infrared Detection by Snakes|journal=Nature|volume=464|issue=7291|pages=1006–1011|doi=10.1038/nature08943|pmid=20228791|pmc=2855400|bibcode=2010Natur.464.1006G}}</ref>
+
+==Taxonomy==
+Whether family Viperidae is attributed to Oppel (1811), as opposed to Laurenti (1768) or Gray (1825), is subject to some interpretation. However, the consensus among leading experts is that Laurenti used ''viperae'' as the [[plural]] of ''vipera'' (Latin for "viper", "adder", or "snake") and did not intend for it to indicate a family group taxon. Rather, it is attributed to Oppel, based on his Viperini as a distinct family group name, despite the fact that Gray was the first to use the form Viperinae.<ref name="McD99"/>
+
+==See also==
+* [[List of snakes]], overview of all snake families and genera
+* [[Snakebite]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{Refbegin}}
+
+* Gray JE. 1825. A synopsis of the genera of reptiles and Amphibia, with a description of some new species. [[Annals of Philosophy]], new ser., 10: 193–217.
+* Laurenti JN. 1768. Specimen Medicum, Exhibens Synopsin Reptilium Emendatam cum Experimentis circa Venena et antidota reptilium Austriacorum. J.T. de Trattnern, Wien.
+* Oppel M. 1811. Mémoire sur la classification des reptiles. Ordre II. Reptiles à écailles. Section II. Ophidiens. Annales du Musée National d'Histoire Naturelle, Paris 16: 254–295, 376–393.
+
+{{Refend}}
+
+==External links==
+{{Commons|Viperidae}}
+* {{NRDB family|page=viperidae.php|family=Viperidae|date=3 November 2008}}
+* {{Cite AmCyc|wstitle=Viper}}
+* {{Cite NSRW|wstitle=Viper|short=x}}
+* [http://snake-facts.weebly.com/pit-vipers.html Pit vipers]
+
+{{Snake families}}
+{{Taxonbar|from=Q163656}}
+{{Authority control}}
+
+[[Category:Viperidae| ]]
+[[Category:Snake families]]
+[[Category:Taxa named by Nicolaus Michael Oppel]]

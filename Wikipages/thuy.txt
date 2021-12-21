@@ -1,0 +1,40 @@
+{{Infobox French commune
+|name                   = Thuy
+|commune status         = [[Communes of France|Commune]]
+|image coat of arms     = Blason ville fr Thuy (65).svg
+|arrondissement         = Tarbes
+|canton                 = Les Coteaux
+|INSEE                  = 65443
+|postal code            = 65350
+|mayor                  =
+|term                   =
+|intercommunality       = Coteaux du Val d'Arros
+|coordinates            = {{coord|43.2592|0.245|format=dms|display=inline,title}}
+|elevation m            = 250
+|elevation min m        = 218
+|elevation max m        = 282
+|area km2               = 0.5
+|population             = {{France metadata Wikidata|population_total}}
+|population date        = {{France metadata Wikidata|population_as_of}}
+|population footnotes   = {{France metadata Wikidata|population_footnotes}}
+}}
+
+''Thuy'' is a [[Communes of France|commune]] in the [[Hautes-Pyrénées]] [[Departments of France|department]] in south-western [[France]].
+
+==See also==
+*[[Communes of the Hautes-Pyrénées department]]
+
+==References==
+{{Reflist}}
+
+{{commons category}}
+
+{{Hautes-Pyrénées communes}}
+
+
+{{authority control}}
+
+[[Category:Communes of Hautes-Pyrénées]]
+
+
+{{HautesPyrénées-geo-stub}}

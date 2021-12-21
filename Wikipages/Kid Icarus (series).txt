@@ -1,0 +1,58 @@
+{{Multiple issues|
+{{notability|Products|date=September 2021}}
+{{Update|[[Kid Icarus: Uprising]]|date=June 2016}}
+}}
+
+{{Infobox video game series
+| title                  = Kid Icarus
+| image                  = Kid Icarus logo.png
+| caption                = 
+| platforms              = [[Nintendo Entertainment System]], [[Game Boy]], [[Nintendo 3DS]]
+| developer              = [[Nintendo R&D1]], [[Project Sora]]
+| publisher              = [[Nintendo]]
+| genre                  = [[Platform game|Platform]]
+| spinoffs               =
+| creator                =
+| artist                 =
+| writer                 =
+| composer               =
+| first release version  = ''[[Kid Icarus]]''
+| first release date     = December 19, 1986
+| latest release version = ''[[Kid Icarus: Uprising]]''
+| latest release date    = March 22, 2012
+}}
+
+'''''Kid Icarus'''''{{efn|{{nihongo|Known in Japan as '''''Light Mythology: Palutena's Mirror'''''|光神話 パルテナの鏡|Hikari Shinwa: Parutena no Kagami}}<!-- See [[WP:JFN]] -->}} is a media franchise of fantasy [[video game]]s by [[Nintendo]]. The games are set in a [[fantasy]] world based on [[classical antiquity]] and [[Greek mythology]], called "Angel Land". The [[gameplay]] consists of a mixture of [[action game|action]], [[adventure game|adventure]] and [[platform game|platform]] elements. The ''Kid Icarus'' franchise is known as a [[cult classic]] and a sibling series to the [[Metroid]] franchise.
+
+The first installment, ''[[Kid Icarus]]'', was released in 1986 for the [[Nintendo Entertainment System]] and was received to critical acclaim despite poor sales. A sequel, ''[[Kid Icarus: Of Myths and Monsters]]'' was later released for the [[Game Boy]]. After a 20-year hiatus, ''[[Kid Icarus: Uprising]]'' was released in 2012 for the [[Nintendo 3DS]] handheld.
+
+== History ==
+{{Video game timeline
+| compressempty = Yes
+| 1986 = ''[[Kid Icarus]]''
+| 1991 = ''[[Kid Icarus: Of Myths and Monsters]]''
+| 2012 = ''[[Kid Icarus: Uprising]]''
+}}
+
+After [[Nintendo]]'s release of commercially successful [[Platform game|platforming games]] in the 1980s, including ''[[Donkey Kong (video game)|Donkey Kong]]'', ''[[Ice Climber]]'', and ''[[Super Mario Bros.]]'', as well as the critically acclaimed [[adventure game]] ''[[The Legend of Zelda (video game)|The Legend of Zelda]]'', the company was interested in entering a different genre. They began work on an [[action game]]. The game was called ''[[Metroid]]''. Nintendo released ''Metroid'' for the [[Family Computer Disk System]] on August 6, 1986, and on the [[Nintendo Entertainment System]] one year later.<ref name="GT Retrospective Part 1">{{cite AV media |title=Metroid Retrospective Part 1 |url=https://www.youtube.com/watch?v=mSFsztIEIX4 |format=video |work=[[GameTrailers]] |publisher=[[Defy Media]] |access-date=May 19, 2016 }}</ref> One year later ''Kid Icarus'' was developed alongside as its sister game, it shares elements and programmers with ''Metroid''.<ref name= Yokoi>{{cite web |access-date=2009-02-21 |url=http://wii.ign.com/articles/770/770591p1.html |archive-url=https://web.archive.org/web/20070309123758/http://wii.ign.com/articles/770/770591p1.html |url-status=dead |archive-date=March 9, 2007 |title=Kid Icarus VC Review |publisher=IGN |date=2007-03-06 |author=Thomas, Lucas M. }}</ref> The game was produced by the same man who produced ''Metroid'', [[Gunpei Yokoi]], who previously produced ''Donkey Kong'', ''[[Donkey Kong Junior]]'' (1982) and the original ''[[Mario Bros.]]'' (1983), and it featured music written by [[Hirokazu Tanaka]], who also composed for ''[[Duck Hunt]]'' (1984).<ref name="GT Retrospective Part 1" />
+
+After the release of its handheld sequel, ''[[Kid Icarus: Of Myths and Monsters]]'', the series received no new installments for two decades. An installment for the [[Nintendo 64]] was rumored to be in development,<ref>{{cite magazine|title=Gaming Gossip |magazine=[[Electronic Gaming Monthly]]|issue=92|publisher=[[Ziff Davis]]|date=March 1997 |page=28}}</ref> but was never released. In 2006, Pit was revealed to appear in ''[[Super Smash Bros. Brawl]]'' with a new design. During their E3 event in 2010, Nintendo unveiled ''[[Kid Icarus: Uprising]]'' for the [[Nintendo 3DS]], the first game in the series since 1991. The game was released in March 2012 to positive reviews from critics.
+
+== Characters ==
+{{Main|Pit (Kid Icarus)|Eggplant Wizard}}
+The ''Kid Icarus'' series has a cast of recurring characters. The most common characters in the series are Pit, Palutena, Dark Pit, Poseidon, Medusa, Viridi, Arlon, Pyrrhon, Magnus, Phosphora, Cragalanche, Pandora, Dyntos, Thanatos, and Hades.
+
+{{Clear}}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist}}
+
+{{Kid Icarus}}
+{{Main franchises by Nintendo}}
+
+[[Category:Kid Icarus|*]]
+[[Category:Nintendo franchises]]
+[[Category:Video game franchises introduced in 1986]]

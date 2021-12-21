@@ -1,0 +1,421 @@
+{{short description|American writer and social activist}}
+{{Other uses}}
+{{pp-move-indef|small=yes}}
+{{pp-semi-indef|small=yes}}
+{{Use mdy dates|date=February 2021}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Langston Hughes
+| image = LangstonHughes crop.jpg
+| caption = 1936 photo by [[Carl Van Vechten]]
+| birth_name = James Mercer Langston Hughes
+| birth_date = {{birth date|1901|2|1|mf=y}}
+| birth_place = [[Joplin, Missouri]], U.S.
+| death_date = {{death date and age|1967|5|22|1901|2|1}}
+| death_place = [[New York City, New York]], U.S.
+| occupation = {{flatlist|
+* Poet
+* columnist
+* dramatist
+* essayist
+* novelist
+}}
+| education = [[Columbia University]]<br>[[Lincoln University (Pennsylvania)|Lincoln University]]
+| period = 1926–1964
+| relatives   = [[John Mercer Langston]]
+}}
+
+'''James Mercer Langston Hughes''' (February 1, 1901<ref>{{Cite news|url=https://www.nytimes.com/2018/08/09/arts/langston-hughes-birth-date.html|title=Langston Hughes Just Got a Year Older|last=Schuessler|first=Jennifer|work=The New York Times|access-date=August 9, 2018|language=en}}</ref> – May 22, 1967) was an American poet, social activist, novelist, playwright, and columnist from [[Joplin, Missouri]]. One of the earliest innovators of the literary art form called [[jazz poetry]], Hughes is best known as a leader of the [[Harlem Renaissance]]. He famously wrote about the period that "the Negro was in vogue", which was later paraphrased as "when Harlem was in vogue."<ref>Francis, Ted (2002). [https://books.google.com/books?id=82XIw4ykVAAC&pg=PA28 ''Realism in the Novels of the Harlem Renaissance''].</ref>
+
+Growing up in a series of [[Midwestern]] towns, Hughes became a prolific writer at an early age. He moved to New York City as a young man, where he made his career. He graduated from high school in [[Cleveland]], [[Ohio]], and soon began studies at [[Columbia University]] in New York City. Although he dropped out, he gained notice from New York publishers, first in ''[[The Crisis]]'' magazine, and then from book publishers and became known in the creative community in Harlem. He eventually graduated from [[Lincoln University (Pennsylvania)|Lincoln University]]. In addition to poetry, Hughes wrote plays, and short stories.  He also published several non-fiction works. From 1942 to 1962, as the [[civil rights movement]] was gaining traction, he wrote an in-depth weekly column in a leading black newspaper, ''[[The Chicago Defender]]''.
+
+== Biography ==
+
+=== Ancestry and childhood ===
+
+Like many African-Americans, Hughes had a complex ancestry. Both of Hughes' paternal great-grandmothers were enslaved Africans, and both of his paternal great-grandfathers were white slave owners in Kentucky. According to Hughes, one of these men was Sam Clay, a Scottish-American whiskey distiller of [[Henry County, Kentucky|Henry County]], said to be a relative of statesman [[Henry Clay]]. The other was Silas Cushenberry, a Jewish-American [[slave trader]] of [[Clark County, Kentucky|Clark County]].<ref name=TheBigSea>{{cite book|title= The Big Sea|author=Langston Hughes|year=1940|url=https://books.google.com/books?id=SsgPcfpjhBcC&pg=PA36|page=36|isbn=0-8262-1410-X<!--(v. 13)-->}}</ref><ref name=Berry>Faith Berry, [https://books.google.com/?id=4pibsBTGIssC&pg=PA3 ''Langston Hughes, Before and Beyond Harlem''], Westport, CT: Lawrence Hill & Co., 1983; reprint, Citadel Press, 1992, p. 1.</ref> Hughes's maternal grandmother Mary Patterson was of African-American, French, English and Native American descent. One of the first women to attend [[Oberlin College]], she married [[Lewis Sheridan Leary]], also of [[mixed race]], before her studies. Lewis Leary subsequently joined [[John Brown's raid on Harpers Ferry]] in West Virginia in 1859, where he was fatally wounded.<ref name=Berry/>
+
+Ten years later, in 1869, the widow Mary Patterson Leary married again, into the elite, politically active Langston family. (See [[The Talented Tenth]].) Her second husband was [[Charles Henry Langston]], of African-American, Euro-American and Native American ancestry.<ref name="kshs.org">Richard B. Sheridan, [http://www.kshs.org/publicat/history/1999winter_sheridan.pdf "Charles Henry Langston and the African American Struggle in Kansas"], ''Kansas State History'', Winter 1999. Retrieved December 15, 2008.</ref><ref>Laurie F. Leach, ''Langston Hughes: A Biography'', Greenwood Publishing Group, 2004, pp. 2–4. {{ISBN|9780313324970}},</ref> He and his younger brother [[John Mercer Langston]] worked for the [[Abolitionism in the United States|abolitionist cause]] and helped lead the [[Ohio Anti-Slavery Society]] in 1858.<ref>{{cite web|url=http://www.ohiohistorycentral.org/entry.php?rec=938|title=Ohio Anti-Slavery Society – Ohio History Central|work=ohiohistorycentral.org}}</ref>
+
+After their marriage, Charles Langston moved with his family to Kansas, where he was active as an educator and activist for voting and rights for African Americans.<ref name="kshs.org"/> His and Mary's daughter [[Carrie Langston Hughes|Caroline]] (known as [[Carrie Langston Hughes|Carrie]]) became a schoolteacher and married James Nathaniel Hughes (1871–1934). They had two children; the second was Langston Hughes, born in 1901 in [[Joplin, Missouri]].<ref name="scholar">{{cite web |url=http://redblackscholars.wearetheones.org/scholarship.html|title=African-Native American Scholars|access-date=July 30, 2008|year=2008|publisher=African-Native American Scholars}}</ref><ref>William and Aimee Lee Cheek, "John Mercer Langston: Principle and Politics", in [[Leon F. Litwack]] and August Meier (eds), ''Black Leaders of the Nineteenth Century'', University of Illinois Press, 1991, pp. 106–111.</ref>
+[[File:Langston Hughes 1902.jpg|thumb|upright|Hughes in 1902]]
+Langston Hughes grew up in a series of Midwestern small towns. His father left the family soon after the boy was born and later divorced Carrie. The senior Hughes traveled to Cuba and then Mexico, seeking to escape the enduring [[racism in the United States]].<ref>West, ''Encyclopedia of the Harlem Renaissance'', 2003, p. 160.</ref>
+
+After the separation, Hughes's mother traveled, seeking employment. Langston was raised mainly in [[Lawrence, Kansas]], by his maternal grandmother, Mary Patterson Langston. Through the black American [[oral tradition]] and drawing from the activist experiences of her generation, Mary Langston instilled in her grandson a lasting sense of racial pride.<ref>Hughes recalled his maternal grandmother's stories: "Through my grandmother's stories life always moved, moved heroically toward an end. Nobody ever cried in my grandmother's stories. They worked, schemed, or fought. But no crying." Rampersad, Arnold, & David Roessel (2002). ''The Collected Poems of Langston Hughes'', Knopf, p. 620.</ref><ref>The poem "Aunt Sues's Stories" (1921) is an oblique tribute to his grandmother and his loving "Auntie" Mary Reed, a close family friend. Rampersad, vol. 1, 1986, p. 43.</ref> Imbued by his grandmother with a duty to help his race, Hughes identified with neglected and downtrodden black people all his life, and glorified them in his work.<ref>[[Gwendolyn Brooks|Brooks, Gwendolyn]] (October 12, 1986), "The Darker Brother", ''The New York Times''.</ref> He lived most of his childhood in Lawrence.  In his 1940 autobiography ''The Big Sea'', he wrote: "I was unhappy for a long time, and very lonesome, living with my grandmother. Then it was that books began to happen to me, and I began to believe in nothing but books and the wonderful world in books—where if people suffered, they suffered in beautiful language, not in monosyllables, as we did in Kansas."<ref>Arnold Rampersad, [https://books.google.com/books?id=qclO9rdN1XIC&lpg=PA11 ''The Life of Langston Hughes: Volume II: 1914–1967, I Dream a World''], Oxford University Press, p. 11. {{ISBN|9780195146431}}</ref>
+
+After the death of his grandmother, Hughes went to live with family friends, James and Auntie Mary Reed, for two years. Later, Hughes lived again with his mother Carrie in [[Lincoln, Illinois]]. She had remarried when he was an adolescent. The family moved to the [[Fairfax, Cleveland|Fairfax]] [[Neighborhoods in Cleveland|neighborhood]] of [[Cleveland]], [[Ohio]], where he attended [[Central High School (Cleveland, Ohio)|Central High School]]<ref>{{cite web|url=https://catalog.hathitrust.org/Record/101680226|title=The Central High School monthly|first1=Ohio)|last1=Central High School (Cleveland|first2=Thomas H.|last2=Wirth|first3=Langston|last3=Hughes|last4=Thomas H. Wirth Collection (Emory University. MARBL)|date= February 1, 2019|publisher=Central High|access-date= February 1, 2019|via=Hathi Trust}}</ref> and was taught by [[Helen Maria Chesnutt]], whom he found inspiring.<ref>{{cite web|url=https://camws.org/meeting/2005/abstracts2005/ronnick.html|title=Ronnick: Within CAMWS Territory: Helen M. Chesnutt (1880-1969), Black Latinist|website=Camws.org|access-date= February 1, 2019}}</ref>
+
+His writing experiments began when he was young. While in [[grammar school]] in Lincoln, Hughes was elected class poet. He stated that in retrospect he thought it was because of the stereotype about African Americans having rhythm.<ref>''Langston Hughes Reads His Poetry'', with commentary, audiotape from [[Caedmon Audio]]</ref>
+
+<blockquote>I was a victim of a stereotype. There were only two of us Negro kids in the whole class and our English teacher was always stressing the importance of rhythm in poetry. Well, everyone knows, except us, that all Negroes have rhythm, so they elected me as class poet.<ref>{{cite news |title=Langston Hughes, Writer, 65, Dead |url=https://archive.nytimes.com/www.nytimes.com/books/01/04/22/specials/hughes-obit.html |work=The New York Times |date=23 May 1967 }}</ref></blockquote>
+
+During high school in Cleveland, Hughes wrote for the school newspaper, edited the yearbook, and began to write his first short stories, poetry,<ref>{{cite web|url=https://www.scholastic.com/teachers/authors/langston-hughes/|title=Langston Hughes {{!}} Scholastic|website=www.scholastic.com|access-date=June 20, 2017}}</ref> and dramatic plays. His first piece of jazz poetry, "When Sue Wears Red", was written while he was in high school.<ref>{{cite web|url=http://www.kansasheritage.org/crossingboundaries/page6e1.html|title=Langston Hughes biography: African-American history: Crossing Boundaries: Kansas Humanities Council|website=www.kansasheritage.org|access-date=June 20, 2017}}</ref>
+
+=== Relationship with father ===
+Hughes had a very poor relationship with his father, whom he seldom saw when a child. He lived briefly with his father in Mexico in 1919. Upon graduating from high school in June 1920, Hughes returned to Mexico to live with his father, hoping to convince him to support his plan to attend [[Columbia University]]. Hughes later said that, prior to arriving in Mexico, "I had been thinking about my father and his strange dislike of his own people. I didn't understand it, because I was a Negro, and I liked Negroes very much."<ref>Langston Hughes (1940). ''The Big Sea'', pp. 54–56.</ref><ref name="Brooks">{{cite news|first=Gwendolyn|last=Brooks|author-link=Gwendolyn Brooks|url=https://www.nytimes.com/1986/10/12/books/the-darker-brother.html|title=Review of ''The Darker Brother''|newspaper=The New York Times|location=New York City|date=October 12, 1986|quote=And the father, Hughes said, 'hated Negroes. I think he hated himself, too, for being a Negro. He disliked all of his family because they were Negroes.' James Hughes was tightfisted, uncharitable, cold.}}</ref> His father had hoped Hughes would choose to study at a university abroad, and train for a career in engineering. On these grounds, he was willing to provide financial assistance to his son, but did not support his desire to be a writer. Eventually, Hughes and his father came to a compromise: Hughes would study engineering, so long as he could attend Columbia. His tuition provided, Hughes left his father after more than a year.
+
+While at Columbia in 1921, Hughes managed to maintain a B+ grade average. He left in 1922 because of racial prejudice among students and teachers. He was attracted more to the African-American people and neighborhood of [[Harlem]] than to his studies, but he continued writing poetry.<ref>Rampersad, vol. 1, 1986, p. 56.</ref> Harlem was a center of vibrant cultural life.
+
+=== Adulthood ===
+Hughes worked at various odd jobs, before serving a brief tenure as a [[crewman]] aboard the S.S. ''Malone'' in 1923, spending six months traveling to West Africa and Europe.<ref>"Poem" or "To F.S." first appeared in ''The Crisis'' in May 1925, and was reprinted in ''The Weary Blues'' and ''The Dream Keeper''. Hughes never publicly identified "F.S.", but it is conjectured he was [[Ferdinand Smith]], a merchant seaman whom the poet first met in New York in the early 1920s. Nine years older than Hughes, Smith influenced the poet to go to sea. Born in [[Jamaica]] in 1893, Smith spent most of his life as a ship steward and political activist at sea—and later in New York as a resident of Harlem. Smith was deported in 1951 to Jamaica for alleged Communist activities and illegal alien status. Hughes corresponded with Smith up until the latter's death in 1961. Berry, p. 347.</ref> In Europe, Hughes left the S.S. ''Malone'' for a temporary stay in Paris.<ref>{{cite web|url=https://www.biography.com/people/langston-hughes-9346313|title=Langston Hughes|website=Biography.com|language=en-us|access-date=June 20, 2017}}</ref> There he met and had a romance with Anne Marie Coussey, a British-educated African from a well-to-do [[Gold Coast (British colony)|Gold Coast]] family; they subsequently corresponded but she eventually married [[Hugh Wooding]], a promising [[Trinidad and Tobago|Trinidadian]] lawyer.<ref>Leach, ''Langston Hughes: A Biography'' (2004), pp. xvi, 153.</ref><ref>Rampersad, Vol. 1, pp. 86–87, 89–90.</ref> Wooding later served as chancellor of the [[University of the West Indies]].<ref>{{cite web|url=http://www.hwls.edu.tt/history|title=History - Hugh Wooding Law School|website=Hwls.edu.tt}}</ref>
+
+During his time in England in the early 1920s, Hughes became part of [[Black British#Early 20th century|the black expatriate community]]. In November 1924, he returned to the U.S. to live with his mother in [[Washington, D.C.]] After assorted odd jobs, he gained [[white-collar worker|white-collar]] employment in 1925 as a [[personal assistant]] to historian [[Carter G. Woodson]] at the [[Association for the Study of African American Life and History]]. As the work demands limited his time for writing, Hughes quit the position to work as a busboy at the [[Wardman Park Hotel]]. Hughes's earlier work had been published in magazines and was about to be collected into his first book of poetry when he encountered poet [[Vachel Lindsay]], with whom he shared some poems. Impressed, Lindsay publicized his discovery of a new black poet.  
+[[File:Langston Hughes Lincoln University 1928.jpg|thumb|upright|Hughes at university in 1928]]
+
+The following year, Hughes enrolled in [[Lincoln University (Pennsylvania)|Lincoln University]], a [[historically black colleges and universities|historically black university]] in [[Chester County, Pennsylvania]]. He joined the [[Omega Psi Phi]] fraternity.<ref>In 1926, Amy Spingarn, wife of [[Joel Elias Spingarn]], who was president of the [[National Association for the Advancement of Colored People]] (NAACP), served as patron for Hughes and provided the funds ($300) for him to attend Lincoln University. Rampersad, vol. 1, 1986, pp. 122–23.</ref><ref>In November 1927, [[Charlotte Osgood Mason]] ("Godmother" as she liked to be called), became Hughes's major patron. Rampersad. vol. 1, 1986, p. 156.</ref> [[Thurgood Marshall]], who later became an attorney, judge, and [[Associate Justice of the Supreme Court of the United States]], was a classmate of Hughes during his undergraduate studies.
+
+After Hughes earned a [[Bachelor of Arts|B.A.]] degree from Lincoln University in 1929, he returned to New York. Except for travels to the [[Soviet Union]] and parts of the [[Caribbean]], he lived in Harlem as his primary home for the remainder of his life. During the 1930s, he became a resident of [[Westfield, New Jersey]] for a time, sponsored by his patron [[Charlotte Osgood Mason]].<ref>[http://www.encyclopedia.com/doc/1G1-74410616.html "Mule Bone: Langston Hughes and Zora Neale Hurston's Dream Deferred of an African-American Theatre of the Black Word."], ''[[African American Review]]'', March 22, 2001. Retrieved March 7, 2008. "In February 1930, Hurston headed north, settling in Westfield, New Jersey. Godmother Mason (Mrs. Rufus Osgood Mason, their white protector) had selected Westfield, safely removed from the distractions of New York City, as a suitable place for both Hurston and Hughes to work."</ref><ref>"J. L. Hughes Will Depart After Questioning as to Communism", ''The New York Times'', July 25, 1933.</ref>
+
+[[File:Langston Hughes Interment.jpg|thumb|Hughes's ashes are interred under a cosmogram medallion in the foyer of the Arthur Schomburg Center in Harlem]]
+
+===Sexuality===
+
+Some academics and biographers believe that Hughes was homosexual and included homosexual codes in many of his poems, as did [[Walt Whitman]], who, Hughes said, influenced his poetry. Hughes's story "Blessed Assurance" deals with a father's anger over his son's effeminacy and "queerness".<ref name="Nero">Nero, Charles I. (1997), "Re/Membering Langston", in Martin Duberman (ed.), ''Queer Representations: Reading Lives, Reading Cultures'', New York University Press, {{ISBN|978-0-81471-884-1}}</ref>{{rp|192}}<ref name="Nero"/>{{rp|161}}<ref name="YaleSymposium">Yale Symposium, ''Was Langston Gay?'' commemorating the 100th birthday of Hughes in 2002.</ref><ref name="Schwarz">Schwarz, pp. 68–88.</ref><ref>Although Hughes was extremely closeted, some of his poems may hint at homosexuality. These include: "Joy", "Desire", "Cafe: 3 A.M.", "Waterfront Streets", "Young Sailor", "Trumpet Player", "Tell Me", "F.S." and some poems in ''Montage of a Dream Deferred''. [http://www.iowapridenetwork.org/history.html LGBTQQ History] {{webarchive|url=https://web.archive.org/web/20130519151810/http://www.iowapridenetwork.org/history.html |date=May 19, 2013 }}, Iowa Pride Network. Retrieved June 23, 2014.</ref><ref>"Cafe 3 A.M." was against gay bashing by police, and "Poem for F.S." was about his friend Ferdinand Smith. Nero, Charles I. (1999), p. 500.</ref><ref>[[Jean Blackwell Hutson]], former chief of the Schomburg Center for Research in Black Culture, said: "He was always eluding marriage. He said marriage and career didn't work. ... It wasn't until his later years that I became convinced he was homosexual." Hutson & Nelson, ''Essence'', February 1992, p. 96.</ref><ref>{{cite book|quote="Though there were infrequent and half-hearted affairs with women, most people considered Hughes asexual, insistent on a skittish, carefree 'innocence.' In fact, he was a closeted homosexual."|author= McClatchy, J. D.|date= 2002|title=Langston Hughes: Voice of the Poet|page=12 |location= New York|publisher= Random House Audio|isbn= 978-0-55371-491-3}}</ref> The biographer Aldrich argues that, in order to retain the respect and support of [[black churches]] and organizations and avoid exacerbating his precarious financial situation, Hughes remained [[closeted]].<ref name="Aldrich">Aldrich (2001), p. 200.</ref>
+
+[[Arnold Rampersad]], the primary biographer of Hughes, determined that Hughes exhibited a preference for African-American men in his work and life.<ref>Referring to men of African descent, Rampersad writes: "... Hughes found some young men, especially dark-skinned men, appealing and sexually fascinating. (Both in his various artistic representations, in fiction especially, and in his life, he appears to have found young white men of little sexual appeal.) Virile young men of very dark complexion fascinated him." Rampersad, vol. 2, 1988, p. 336.</ref> But, in his biography Rampersad denies Hughes's homosexuality,<ref>"His fatalism was well placed. Under such pressure, Hughes's sexual desire, such as it was, became not so much sublimated as vaporized. He governed his sexual desires to an extent rare in a normal adult male; whether his appetite was normal and adult is impossible to say. He understood, however, that Cullen and Locke offered him nothing he wanted, or nothing that promised much for him or his poetry. If certain of his responses to Locke seemed like teasing (a habit Hughes would never quite lose with women, or, perhaps, men) they were not therefore necessarily signs of sexual desire; more likely, they showed the lack of it. Nor should one infer quickly that Hughes was held back by a greater fear of public exposure as a homosexual than his friends had; of the three men, he was the only one ready, indeed eager, to be perceived as disreputable." "Rampersad, ''The Life of Langston Hughes'', Vol. I, p. 69.</ref> and concludes that Hughes was probably [[asexuality|asexual]] and passive in his sexual relationships. Hughes did, however, show a respect and love for his fellow black man (and woman). Other scholars argue for his homosexuality: his love of black men is evidenced in a number of reported unpublished poems to an alleged black male lover.<ref>Sandra West states: Hughes's "apparent love for black men as evidenced through a series of unpublished poems he wrote to a black male lover named 'Beauty'." West, 2003, p. 162.</ref>
+
+=== Death ===
+On May 22, 1967, Hughes died in the [[Stuyvesant Polyclinic]] in [[New York City]] at the age of 66 from complications after abdominal surgery related to [[prostate cancer]]. His ashes are interred beneath a floor medallion in the middle of the foyer in the [[Schomburg Center for Research in Black Culture]] in Harlem.<ref>{{cite book|first=Scott|last=Wilson|title=Resting Places: The Burial Sites of More Than 14,000 Famous Persons|publisher=[[McFarland & Company]]|location=Jefferson, North Carolina|date=2016|isbn=978-0786479924|page=359}}</ref> It is the entrance to an auditorium named for him.<ref>Whitaker, Charles, "Langston Hughes: 100th birthday celebration of the poet of Black America", ''[[Ebony magazine|Ebony]]'', April 2002.</ref> The design on the floor is an African [[cosmogram]] entitled ''Rivers''. The title is taken from his poem "[[The Negro Speaks of Rivers]]". Within the center of the cosmogram is the line: "My soul has grown deep like the rivers".
+
+== Career ==
+
+{{quote box |width=365px |align=right |bgcolor=#FFFFF0 |salign=right
+|quote  =<poem>from "The Negro Speaks of Rivers" (1920)
+ ... 
+My soul has grown deep like the rivers.
+
+I bathed in the Euphrates when dawns were young.
+I built my hut near the Congo and it lulled me to sleep.
+I looked upon the Nile and raised the pyramids above it.
+I heard the singing of the Mississippi when Abe Lincoln
+        went down to New Orleans, and I've seen its muddy
+        bosom turn all golden in the sunset. ... 
+</poem>
+ |source = —in ''The Weary Blues'' (1926)<ref>[http://www.poets.org/viewmedia.php/prmMID/15722 "The Negro Speaks of Rivers"] {{Webarchive|url=https://web.archive.org/web/20100726105730/http://poets.org/viewmedia.php/prmMID/15722 |date=July 26, 2010 }}. Audio file, Hughes reading. Poem information from Poets.org.</ref>
+}}
+
+First published in 1921 in ''[[The Crisis]]'' — official magazine of the [[National Association for the Advancement of Colored People]] (NAACP) — "The Negro Speaks of Rivers" became Hughes's signature poem and was collected in his first book of poetry, ''The Weary Blues'' (1926).<ref>"The Negro Speaks of Rivers": first published in ''The Crisis'' (June 1921), p. 17. Included in ''The New Negro'' (1925), ''The Weary Blues'', ''Langston Hughes Reader'', and ''Selected Poems''. The poem is dedicated to W. E. B. Du Bois in ''The Weary Blues'', but it is printed without dedication in later versions. — Rampersad & Roessel (2002). In ''The Collected Poems of Langston Hughes'', pp. 23, 620.</ref> Hughes's first and last published poems appeared in ''The Crisis''; more of his poems were published in ''The Crisis'' than in any other journal.<ref>Rampersad & Roessel (2002), ''The Collected Poems of Langston Hughes'', pp. 23, 620.</ref> Hughes' life and work were enormously influential during the [[Harlem Renaissance]] of the 1920s, alongside those of his contemporaries, [[Zora Neale Hurston]],<ref>{{cite web |last1=Hoelscher |first1=Stephen |title=A Lost Work by Langston Hughes |website=Smithsonian |date=2019 |url=https://www.smithsonianmag.com/arts-culture/lost-work-langston-hughes-180972499/ |access-date=May 10, 2021}}</ref> [[Wallace Thurman]], [[Claude McKay]], [[Countee Cullen]], [[Richard Bruce Nugent]], and [[Aaron Douglas (artist)|Aaron Douglas]]. Except for McKay, they worked together also to create the short-lived magazine ''[[Fire!!|Fire!! Devoted to Younger Negro Artists]]''.
+
+Hughes and his contemporaries had different goals and aspirations than the [[African-American middle class|black middle class]]. Hughes and his fellows tried to depict the "low-life" in their art, that is, the real lives of blacks in the lower social-economic strata. They criticized the [[Discrimination based on skin color#United States|divisions and prejudices within the black community based on skin color]].<ref>Hughes "disdained the rigid class and color differences the 'best people' drew between themselves and Afro-Americans of darker complexion, of smaller means and lesser formal education." — Berry, 1983 & 1992, p. 60.</ref> Hughes wrote what would be considered their manifesto, "The Negro Artist and the Racial Mountain", published in ''[[The Nation]]'' in 1926:
+
+<blockquote>The younger Negro artists who create now intend to express our individual dark-skinned selves without fear or shame. If white people are pleased we are glad. If they are not, it doesn't matter. We know we are beautiful. And ugly, too. The [[Tom-tom drum|tom-tom]] cries, and the tom-tom laughs. If colored people are pleased we are glad. If they are not, their displeasure doesn't matter either. We build our temples for tomorrow, strong as we know how, and we stand on top of the mountain free within ourselves.<ref>"The Negro Artist and the Racial Mountain"  (June 1926), ''[[The Nation]]''.</ref></blockquote>
+
+His poetry and fiction portrayed the lives of the working-class blacks in America, lives he portrayed as full of struggle, joy, laughter, and music. Permeating his work is pride in the African-American identity and its diverse culture. "My seeking has been to explain and illuminate the Negro condition in America and obliquely that of all human kind",<ref>Rampersad, 1988, vol. 2, p. 418.</ref> Hughes is quoted as saying. He confronted racial stereotypes, protested social conditions, and expanded African America's image of itself; a "people's poet" who sought to reeducate both audience and artist by lifting the theory of the black aesthetic into reality.<ref>West, 2003, p. 162.</ref>
+
+{{quote box |width=285px |align=left |bgcolor=#FFFFF0 |salign=right
+|quote  =
+<poem>
+The night is beautiful,
+So the faces of my people.
+
+The stars are beautiful,
+So the eyes of my people
+
+Beautiful, also, is the sun.
+Beautiful, also, are the souls of my people.
+</poem>
+|source = —"My People" in ''The Crisis'' (October 1923)<ref>"My People" First published as "Poem" in ''The Crisis'' (October 1923), p. 162, and ''The Weary Blues'' (1926). The title poem "My People" was collected in ''The Dream Keeper'' (1932) and the ''Selected Poems of Langston Hughes'' (1959). Rampersad & Roessel (2002), ''The Collected Poems of Langston Hughes'', pp. 36, 623.</ref>
+}}
+
+Hughes stressed a racial consciousness and [[cultural nationalism]] devoid of self-hate. His thought united people of African descent and Africa across the globe to encourage pride in their diverse black [[folk culture]] and [[Black Arts Movement#The Black Aesthetic|black aesthetic]]. Hughes was one of the few prominent black writers to champion racial consciousness as a source of inspiration for black artists.<ref name="Rampersadvol">Rampersad. vol. 2, 1988, p. 297.</ref> His African-American race consciousness and cultural nationalism would influence many foreign black writers, including [[Jacques Roumain]], [[Nicolás Guillén]], [[Léopold Sédar Senghor]], and [[Aimé Césaire]]. Along with the works of Senghor, Césaire, and other [[African French|French-speaking writers of Africa]] and of African descent from the Caribbean, such as [[René Maran]] from [[Martinique]] and [[Léon Damas]] from [[French Guiana]] in South America, the works of Hughes helped to inspire the [[Négritude]] movement in France. A radical black self-examination was emphasized in the face of [[European colonialism]].<ref>Rampersad. vol. 1, 1986, p. 91.</ref><ref>[[Mercer Cook]], African-American scholar of French culture wrote: "His (Langston Hughes) work had a lot to do with the famous concept of ''Négritude'', of black soul and feeling, that they were beginning to develop." Rampersad, vol. 1, 1986, p. 343.</ref> In addition to his example in social attitudes, Hughes had an important technical influence by his emphasis on folk and jazz rhythms as the basis of his poetry of racial pride.<ref>Rampersad. vol. 1, 1986, p. 343.</ref>
+
+In 1930, his first novel, ''[[Not Without Laughter]]'', won the [[Harmon Gold Medal]] for literature. At a time before widespread arts grants, Hughes gained the support of private patrons and he was supported for two years prior to publishing this novel.<ref>Charlotte Mason generously supported Hughes for two years. She supervised his writing his first novel, ''Not Without Laughter'' (1930). Her patronage of Hughes ended about the time the novel appeared. Rampersad. "Langston Hughes", in ''The Concise Oxford Companion to African American Literature'', 2001, p. 207.</ref> The protagonist of the story is a boy named Sandy, whose family must deal with a variety of struggles due to their race and class, in addition to relating to one another.
+
+In 1931, Hughes helped form the "New York Suitcase Theater" with playwright Paul Peters, artist [[Jacob Burck]], and writer (soon-to-be underground spy) [[Whittaker Chambers]], an acquaintance from Columbia.<ref name="Tanenhaus 1997">{{cite book
+| last = Tanenhaus
+| first = Sam
+| title = Whittaker Chambers: A Biography
+| publisher = Random House
+| year = 1997
+| url = https://books.google.com/books?id=vzkFpiXCF8wC&lpg=PP1| isbn = 9780307789266
+}}</ref> In 1932, he was part of a board to produce a Soviet film on "Negro Life" with [[Malcolm Cowley]], [[Floyd Dell]], and Chambers.<ref name="Tanenhaus 1997"/>
+
+In 1931 [[Prentiss Taylor]] and Langston Hughes created the [[Golden Stair Press]], issuing broadsides and books featuring the artwork of Prentiss Taylor and the texts of Langston Hughes.  In 1932 they issued The Scottsboro Limited based on the trial of the [[Scottsboro Boys]].<ref>millersvillearchives [https://millersvillearchives.com/exhibits/show/harlem-renaissance--1917-1935/langston-hughes-and-prentiss-t Golden Stair Press]</ref>
+
+In 1932, Hughes and Ellen Winter wrote a pageant to [[Caroline Decker]] in an attempt to celebrate her work with the striking coal miners of the [[Harlan County War]], but it was never performed. It was judged to be a "long, artificial propaganda vehicle too complicated and too cumbersome to be performed."<ref name=loftis>Anne Loftis (1998), ''Witnesses to the Struggle'', p. 46, University of Nevada Press, {{ISBN|978-0-87417-305-5}}.</ref>
+
+[[Maxim Lieber]] became his literary agent, 1933–45 and 1949–50. (Chambers and Lieber worked in the underground together around 1934–35.)<ref name=Witness>
+  {{Cite book
+  | last = Chambers
+  | first = Whittaker
+  | title = Witness
+  | publisher = Random House
+  | year = 1952
+  | location = New York
+  | pages = 44–45 (includes description of Lieber), 203, 266fn, 355, 365, 366, 388, 376–377, 377fn, 394, 397, 401, 408, 410
+  |lccn = 52005149 }}</ref>
+
+[[File:Ways of white folks cover.jpg|thumb|upright|''[[The Ways of White Folks]]'', Hughes' first short story collection]]
+
+Hughes' first collection of short stories was published in 1934 with ''[[The Ways of White Folks]]''.  He finished the book at a [[Carmel, California]] cottage provided for a year by Noel Sullivan, another patron.<ref>Noel Sullivan, after working out an agreement with Hughes, became a patron for him in 1933. — Rampersad, vol. 1, 1986, p. 277.</ref><ref>Sullivan provided Hughes with the opportunity to complete ''The Ways of White Folks'' (1934) in Carmel, California. Hughes stayed a year in a cottage Sullivan provided. — Rampersad, "Langston Hughes". In ''The Concise Oxford Companion to African American Literature'', 2001, p. 207.</ref> These stories are a series of vignettes revealing the humorous and tragic interactions between whites and blacks. Overall, they are marked by a general pessimism about race relations, as well as a sardonic realism.<ref>Rampersad (2001) ''Langston Hughes'', p. 207.</ref>  He also became an advisory board member to the (then) newly formed [[San Francisco Workers' School]] (later the [[California Labor School]]).
+
+In 1935, Hughes received a [[Guggenheim Fellowship]]. The same year that Hughes established his theatre troupe in Los Angeles, he realized an ambition related to films by co-writing the screenplay for ''[[Way Down South (film)|Way Down South]]''.<ref>Co-written with [[Clarence Muse]], African-American Hollywood actor and musician. — Rampersad. vol. 1, 1986, pp. 366–69.</ref> Hughes believed his failure to gain more work in the lucrative movie trade was due to racial discrimination within the industry.
+
+In Chicago, Hughes founded ''The Skyloft Players'' in 1941, which sought to nurture black playwrights and offer theatre "from the black perspective."<ref name=CLHF>{{cite web | url=http://www.chicagoliteraryhof.org/PersonDetail.aspx?PersonID=78 | title=Langston Hughes | publisher=Chicago Writers Association | work=Chicago Literary Hall of Fame | access-date=June 11, 2013 | url-status=dead | archive-url=https://web.archive.org/web/20130908192301/http://chicagoliteraryhof.org/PersonDetail.aspx?PersonID=78 | archive-date=September 8, 2013 }}</ref> Soon thereafter, he was hired to write a column for the ''[[Chicago Defender]]'', in which he presented some of his "most powerful and relevant work", giving voice to black people. The column ran for twenty years.  In 1943, Hughes began publishing stories about a character he called Jesse B. Semple, often referred to and spelled "Simple", the everyday black man in Harlem who offered musings on topical issues of the day.<ref name = CLHF/>  Although Hughes seldom responded to requests to teach at colleges, in 1947 he taught at [[Atlanta University]]. In 1949, he spent three months at the [[University of Chicago Laboratory Schools]] as a visiting lecturer. Between 1942 and 1949, Hughes was a frequent writer and served on the editorial board of ''[[Common Ground (magazine)|Common Ground]]'', a literary magazine focused on cultural pluralism in the United States published by the Common Council for American Unity (CCAU).
+
+He wrote novels, short stories, plays, poetry, operas, essays, and works for children.  With the encouragement of his best friend and writer, [[Arna Bontemps]], and patron and friend, [[Carl Van Vechten]], he wrote two volumes of autobiography, ''The Big Sea'' and ''I Wonder as I Wander'', as well as translating several works of literature into English. With Bontemps, Hughes co-edited the 1949 anthology ''The Poetry of the Negro'', described by ''[[The New York Times]]'' as "a stimulating cross-section of the imaginative writing of the Negro" that demonstrates "talent to the point where one questions the necessity (other than for its social evidence) of the specialization of 'Negro' in the title".<ref>{{cite news|url=https://www.nytimes.com/1949/01/30/archives/two-rewarding-volumes-of-verse-oneway-ticket-by-langston-hughes.html|title=Two Rewarding Volumes of Verse; ONE-WAY TICKET. By Langston Hughes. Illustrated by Jacob Lawrence. 136 pp. New York: Alfred A. Knopf. $2.75. THE POETRY OF THE NEGRO: 1746-1949. Edited by Arna Bontemps and Langston Hughes. 429 pp. New York: Doubleday & Co. $5.
+|first=Hubert|last=Creekmore|newspaper=The New York Times|page=19|date=January 30, 1949}}</ref>
+
+[[File:Langston Hughes.jpg|thumb|left|Langston Hughes, 1943. Photo by [[Gordon Parks]]]]
+
+From the mid-1950s to the mid-1960s, Hughes' popularity among the younger generation of black writers varied even as his reputation increased worldwide. With the gradual advance toward [[racial integration]], many black writers considered his writings of black pride and its corresponding subject matter out of date. They considered him a racial chauvinist.<ref>Rampersad, 1988, vol. 2, p. 207.</ref> He found some new writers, among them [[James Baldwin]], lacking in such pride, over-intellectual in their work, and occasionally vulgar.<ref>Langston's misgivings about the new black writing were because of its emphasis on black criminality and frequent use of profanity. — Rampersad, vol. 2, p. 207.</ref><ref>Hughes said: "There are millions of blacks who never murder anyone, or rape or get raped or want to rape, who never lust after white bodies, or cringe before white stupidity, or Uncle Tom, or go crazy with race, or off-balance with frustration." — Rampersad, vol. 2, p. 119.</ref><ref>Langston eagerly looked to the day when the gifted young writers of his race would go beyond the clamor of civil rights and integration and take a genuine pride in being black ... he found this latter quality starkly absent in even the best of them. — Rampersad, vol. 2, p. 310.</ref>
+
+Hughes wanted young black writers to be objective about their race, but not to scorn it or flee it.<ref name="Rampersadvol" /> He understood the main points of the [[Black Power]] movement of the 1960s, but believed that some of the younger black writers who supported it were too angry in their work. Hughes's work ''Panther and the Lash'', posthumously published in 1967, was intended to show solidarity with these writers, but with more skill and devoid of the most virulent anger and racial chauvinism some showed toward whites.<ref>"As for whites in general, Hughes did not like them ... He felt he had been exploited and humiliated by them." — Rampersad, 1988, vol. 2, p. 338.</ref><ref>Hughes's advice on how to deal with racists was, {{"'}}Always be polite to them ... be over-polite. Kill them with kindness.' But, he insisted on recognizing that all whites are not racist, and definitely enjoyed the company of those who sought him out in friendship and with respect." — Rampersad, 1988, vol. 2, p. 368.</ref> Hughes continued to have admirers among the larger younger generation of black writers. He often helped writers by offering advice and introducing them to other influential persons in the literature and publishing communities. This latter group, including [[Alice Walker]], whom Hughes discovered, looked upon Hughes as a hero and an example to be emulated within their own work. One of these young black writers ([[Loften Mitchell]]) observed of Hughes:
+
+<blockquote>Langston set a tone, a standard of brotherhood and friendship and cooperation, for all of us to follow. You never got from him, 'I am ''the'' Negro writer,' but only 'I am ''a'' Negro writer.' He never stopped thinking about the rest of us.<ref name="Rampersad">Rampersad, 1988, vol. 2, p. 409.</ref></blockquote>
+
+== Political views ==
+Hughes was drawn to [[Communism]] as an alternative to a [[Racial segregation|segregated]] America.<ref>{{cite journal |last1=Fountain |first1=James |title=The notion of crusade in British and American literary responses to the Spanish Civil War |journal=Journal of Transatlantic Studies |date=June 2009 |volume=7 |issue=2 |pages=133–147 |doi=10.1080/14794010902868298 |s2cid=145749786 }}</ref> Many of his lesser-known political writings have been collected in two volumes published by the [[University of Missouri Press]] and reflect his attraction to Communism. An example is the poem "A New Song".<ref>The end of "A New Song" was substantially changed when it was included in ''A New Song'' (New York: International Workers Order, 1938).</ref>{{original research inline|date=September 2019}}
+
+In 1932, Hughes became part of a group of black people who went to the [[Soviet Union]] to make a film depicting the plight of African Americans in the United States. The film was never made, but Hughes was given the opportunity to travel extensively through the Soviet Union and to the Soviet-controlled regions in Central Asia, the latter parts usually closed to Westerners. While there, he met [[Robert Robinson (engineer)|Robert Robinson]], an African American living in [[Moscow]] and unable to leave. In [[Turkmenistan]], Hughes met and befriended the Hungarian author [[Arthur Koestler]], then a Communist who was given permission to travel there.<ref>{{Cite journal |last=Scammell|first=Michael|title=Langston Hughes in the USSR|journal=New York Review of Books|language=en|url=https://www.nybooks.com/articles/1989/06/29/langston-hughes-in-the-ussr/|access-date=2021-02-20|issn=0028-7504}}</ref>
+
+As later noted in Koestler's autobiography, Hughes, together with some forty other Black Americans, had originally been invited to the Soviet Union to produce a Soviet film on "Negro Life",<ref>
+{{cite book
+| last = Tanenhaus
+| first = Sam
+| title = Whittaker Chambers: A Biography
+| publisher = Random House
+| year = 1997
+| url = https://books.google.com/books?id=vzkFpiXCF8wC&lpg=PP1| isbn = 9780307789266
+}}
+[[Malcolm Cowley]], [[Floyd Dell]], and Chambers were also involved in this intended film.
+</ref> but the Soviets dropped the film idea because of their 1933 success in getting the US to recognize the Soviet Union and establish an embassy in Moscow. This entailed a toning down of Soviet propaganda on racial segregation in America. Hughes and his fellow Blacks were not informed of the reasons for the cancelling, but he and Koestler worked it out for themselves.<ref>Arthur Koestler, "The Invisible Writing", Ch. 10.</ref>
+
+Hughes also managed to travel to [[China]] and [[Japan]] before returning to the States.{{citation needed|date=September 2019}}
+
+Hughes's poetry was frequently published in the [[Communist Party USA|CPUSA]] newspaper and he was involved in initiatives supported by Communist organizations, such as the drive to free the [[Scottsboro Boys]]. Partly as a show of support for the [[Second Spanish Republic|Republican]] faction during the [[Spanish Civil War]],{{citation needed|date=September 2019}} in 1937 Hughes traveled to Spain<ref>{{cite web|url=http://www.alba-valb.org/volunteers/james-bernard-rucker |title=Abraham Lincoln Brigade Archives |website=Alba-valb.org |access-date=July 24, 2010}}</ref> as a correspondent for the ''Baltimore Afro-American'' and other various African-American newspapers. In August 1937, he broadcast live from Madrid alongside [[Harry Haywood]] and [[Walter Benjamin Garland]]. Hughes was also involved in other Communist-led organizations such as the [[John Reed (journalist)|John Reed]] Clubs and the [[League of Struggle for Negro Rights]]. He was more of a sympathizer than an active participant. He signed a 1938 statement supporting [[Joseph Stalin]]'s [[Moscow Trials|purges]] and joined the [[American Peace Mobilization]] in 1940 working to keep the U.S. from participating in [[World War II]].<ref name="FFFaOWp9">Langston Hughes (2001), ''Fight for Freedom and Other Writings'', University of Missouri Press, p. 9.</ref>{{Primary source inline|date=September 2019}}
+
+Hughes initially did not favor black American involvement in the war because of the persistence of discriminatory U.S. [[Jim Crow laws]] and racial segregation and disfranchisement throughout the South. He came to support the war effort and black American participation after deciding that war service would aid their struggle for [[civil rights]] at home.<ref>{{cite book |last1=Rampersad |first1=Arnold |title=The Life of Langston Hughes: Volume II: 1941-1967, I Dream a World |date=2002 |publisher=Oxford University Press |isbn=978-0-19-988227-4 |page=85 |url=https://books.google.com/books?id=qclO9rdN1XIC&pg=PA85 }}</ref> The scholar [[Anthony Pinn]] has noted that Hughes, together with [[Lorraine Hansberry]] and [[Richard Wright (author)|Richard Wright]], was a humanist "critical of belief in God. They provided a foundation for nontheistic participation in social struggle." Pinn has found that such writers are sometimes ignored in the narrative of American history that chiefly credits the civil rights movement to the work of affiliated Christian people.<ref>{{cite news |last1=Winston |first1=Kimberly |title=Blacks say atheists were unseen civil rights heroes |url=https://www.washingtonpost.com/national/on-faith/blacks-say-atheists-were-unseen-civil-rights-heroes/2012/02/22/gIQAfLklTR_story.html |work=[[The Washington Post]] |agency=Religion News Service |date=22 February 2012 }}</ref>
+
+Hughes was accused of being a Communist by many on the political right, but he always denied it. When asked why he never joined the Communist Party, he wrote, "it was based on strict discipline and the acceptance of directives that I, as a writer, did not wish to accept." In 1953, he was called before the [[United States Senate Homeland Security and Governmental Affairs Permanent Subcommittee on Investigations|Senate Permanent Subcommittee on Investigations]] led by Senator [[Joseph McCarthy]]. He stated, "I never read the theoretical books of socialism or communism or the Democratic or Republican parties for that matter, and so my interest in whatever may be considered political has been non-theoretical, non-sectarian, and largely emotional and born out of my own need to find some way of thinking about this whole problem of myself."<ref>''Executive Sessions of the Senate Permanent Subcommittee on Investigations of the Committee on Government Operations'', Volume 2, Volume 107, Issue 84 of S. prt, Beth Bolling, {{ISBN|9780160513626}}. Permanent Subcommittee on Investigations, Publisher: U.S. GPO. Original from the University of Michigan [http://www.k-state.edu/english/nelp/childlit/radical/McCarthy_Kay_Hughes.html p. 988.]</ref> Following his testimony, Hughes distanced himself from Communism.<ref Name="Leach">Leach, ''Langston Hughes: A Biography'' (2004), pp. 118–119.</ref> He was rebuked by some on the Radical Left who had previously supported him. He moved away from overtly political poems and towards more lyric subjects. When selecting his poetry for his ''Selected Poems'' (1959) he excluded all his radical socialist verse from the 1930s.<ref Name="Leach"/>  These critics on the Left were unaware of the secret interrogation that took place days before the televised hearing.<ref>{{Cite journal|title=Testimony of Richard T. Seymour, before the Subcommittee on the Constitution, Senate Committee on the Judiciary|last=Sharf|first=James C.|date=1981|doi = 10.1037/e578982009-004}}</ref>
+
+== Representation in other media ==
+[[File:Langston Hughes - Danse Africaine - Nieuwe Rijn 46, Leiden.JPG|thumb|left|upright|The poem "Danse Africaine" as wall poem on a wall of the building at the {{illm|Nieuwe Rijn|nl}} 46, [[Leiden]] ([[Netherlands]])]]
+
+Hughes was featured reciting his poetry on the album ''[[Weary Blues (album)|Weary Blues]]'' (MGM, 1959), with music by [[Charles Mingus]] and [[Leonard Feather]], and he also contributed lyrics to [[Randy Weston]]'s ''[[Uhuru Afrika]]'' (Roulette, 1960).
+
+Composer [[Mira Pratesi Sulpizi]] set Hughes’ text to music in her 1968 song “Lyrics.”<ref>{{Cite book|last=Cohen|first=Aaron I.|url=https://books.google.com/books?id=5VsYAAAAIAAJ&q=strantz+louise|title=International Encyclopedia of Women Composers|date=1987|publisher=Books & Music (USA)|isbn=978-0-9617485-2-4|language=en}}</ref>
+
+Hughes' life has been portrayed in film and stage productions since the late 20th century. In ''[[Looking for Langston]]'' (1989), British filmmaker [[Isaac Julien]] claimed him as a black gay icon&nbsp;— Julien thought that Hughes' sexuality had historically been ignored or downplayed. Film portrayals of Hughes include [[Gary LeRoi Gray]]'s role as a teenage Hughes in the short subject film ''Salvation'' (2003) (based on a portion of his autobiography ''The Big Sea''), and [[Daniel Sunjata]] as Hughes in the ''[[Brother to Brother (film)|Brother to Brother]]'' (2004). ''Hughes' Dream Harlem'', a documentary by [[Jamal Joseph]], examines Hughes' works and environment.
+
+''Paper Armor'' (1999) by Eisa Davis and ''Hannibal of the Alps'' (2005)<ref>Donald V. Calamia, [http://www.pridesource.com/article.html?article=14526 "Review: 'Hannibal of the Alps'"]. {{Webarchive|url=https://web.archive.org/web/20151122221809/http://www.pridesource.com/article.html?article=14526 |date=November 22, 2015 }}. Pride Source, from ''[[Between the Lines (newspaper)|Between The Lines]]'', June 9, 2005.</ref> by Michael Dinwiddie are plays by African-American playwrights that address Hughes's sexuality. [[Spike Lee]]'s 1996 film ''[[Get on the Bus]]'', included a black gay character, played by [[Isaiah Washington]], who invokes the name of Hughes and punches a homophobic character, saying: "This is for James Baldwin and Langston Hughes."
+
+Hughes was also featured prominently in a national campaign sponsored by the [[Center for Inquiry]] (CFI) known as [[African Americans for Humanism]].<ref>{{cite web|url=http://www.aahumanism.net/we_are_aah|title=We are African Americans for Humanism|work=African Americans for Humanism|access-date=February 2, 2015}}</ref>
+
+Hughes' ''Ask Your Mama: 12 Moods for Jazz'', written in 1960, was performed for the first time in March 2009 with specially composed music by [[Laura Karpman]] at [[Carnegie Hall]], at the ''Honor'' festival curated by [[Jessye Norman]] in celebration of the African-American cultural legacy.<ref>Jeff Lunden, [https://www.npr.org/templates/story/story.php?storyId=101838506 "'Ask Your Mama': A Music And Poetry Premiere"], NPR.</ref> ''Ask Your Mama'' is the centerpiece of "The Langston Hughes Project",<ref>{{cite web|url=http://www.ronmccurdy.com/about_hudges_project.htm|title=THE LANGSTON HUGHES PROJECT|website=Ronmccurdy.com}}</ref> a multimedia concert performance directed by Ron McCurdy, professor of music in the [[Thornton School of Music]] at the [[University of Southern California]].<ref>[http://www.ronmccurdy.com/ron_biography.htm "Ronald C. McCurdy, Ph.D."] Biography.</ref> The European premiere of The Langston Hughes Project, featuring [[Ice-T]] and McCurdy, took place at the [[Barbican Centre]], [[London]], on November 21, 2015, as part of the [[London Jazz Festival]] mounted by music producers Serious.<ref>[http://www.barbican.org.uk/news/artformnews/music/ice-t-and-ron-mccurdy-%E2%80%93-the-lang "Ice-T and Ron McCurdy – the Langston Hughes Project"]. {{webarchive|url=https://web.archive.org/web/20151122232827/http://www.barbican.org.uk/news/artformnews/music/ice-t-and-ron-mccurdy-%E2%80%93-the-lang |date=November 22, 2015 }}, Artform press releases.</ref><ref>[https://serious.org.uk/news/2015/the-langston-hughes-project "The Langston Hughes Project, Thursday 24 September 2015"], Serious. Article by [[Margaret Busby]],  first published in the Barbican November 2015 Guide.</ref>
+
+The novel ''Harlem Mosaics'' (2012) by Whit Frazier depicts the friendship between Langston Hughes and Zora Neale Hurston, and tells the story of how their friendship fell apart during their collaboration on the play ''Mule Bone''.<ref>{{cite web|url=https://www.publishersweekly.com/978-1-4792-1302-3|title=Fiction Book Review: Harlem Mosaics|work=Publishers Weekly|date= April 28, 2018}}</ref>
+
+On September 22, 2016, his poem "[[I, Too (Langston Hughes poem)|I, Too]]" was printed on a full page of ''The New York Times'' in response to the riots of the previous day in Charlotte, North Carolina.<ref>{{cite web|url=https://www.huffingtonpost.com/entry/langston-hughes-poem-new-york-times_us_57e3d857e4b08d73b82fbc0f|title=Powerful Poem About Race Gets A Full Page In The New York Times|author=Maddie Crum|work=Huffington Post|date= September 22, 2016}}</ref>
+
+== Literary archives ==
+The [[Beinecke Rare Book and Manuscript Library]] at [[Yale University]] holds the Langston Hughes papers (1862–1980) and the Langston Hughes collection (1924–1969) containing letters, manuscripts, personal items, photographs, clippings, artworks, and objects that document the life of Hughes. The Langston Hughes Memorial Library on the campus of [[Lincoln University (Pennsylvania)|Lincoln University]], as well as at the [[James Weldon Johnson]] Collection within the [[Yale University]] also hold archives of Hughes' work.<ref>{{cite web|url=http://www.lincoln.edu/library/abouthughes.html|title=Langston Hughes Memorial Library|publisher=Lincoln University|access-date=November 13, 2013}}</ref> The [[Moorland-Spingarn Research Center]] at Howard University includes materials acquired from his travels and contacts through the work of [[Dorothy B. Porter]].<ref name="Perspective-on-History">{{cite journal |last1=Nunes |first1=Zita Cristina |title=Cataloging Black Knowledge: How Dorothy Porter Assembled and Organized a Premier Africana Research Collection |journal=Perspectives on History |date= November 20, 2018 |url=https://www.historians.org/publications-and-directories/perspectives-on-history/december-2018/cataloging-black-knowledge-how-dorothy-porter-assembled-and-organized-a-premier-africana-research-collection |access-date= November 24, 2018}}</ref>
+
+== Honors and awards ==
+===Living===
+* 1926: Hughes won the Witter Bynner Undergraduate Poetry Prize.<ref name='LA-Times-Witter'>{{cite news |author=<!--Staff writer(s)/no by-line.--> |date=September 26, 1926 |title=Langston Hughes, Poet |url=https://www.newspapers.com/image/380354643/ |work=The Los Angeles Times |location=Los Angeles |page=66 |access-date=January 7, 2021 |url-access=subscription |quote=The Witter Bynner undergraduate poetry prize for 1926 was awarded to Langston Hughes, Lincoln University, whom Carl Van Vechten ranks with among the best of the younger American poets. }}</ref>
+* 1935: Hughes was awarded a [[Guggenheim Fellowship]], which allowed him to travel to Spain and Russia.
+* 1941: Hughes was awarded a fellowship from the [[Rosenwald Fund]].
+* 1943: Lincoln University awarded Hughes an honorary [[Doctor of Letters|Litt.D.]]
+* 1954: Hughes won the [[Anisfield-Wolf Book Award]].
+* 1960: the [[National Association for the Advancement of Colored People|NAACP]] awarded Hughes the [[Spingarn Medal]] for distinguished achievements by an African American.
+* 1961: [[American Academy of Arts and Letters|National Institute of Arts and Letters]].<ref>{{cite web|url=https://www.bbc.co.uk/dna/h2g2/A32779164 |title=Langston Hughes&nbsp;— Poet |publisher=h2g2: The Hitchhiker's Guide to the Galaxy |access-date=July 24, 2010}}</ref>
+* 1963: [[Howard University]] awarded Hughes an honorary [[doctorate]].
+* 1964: [[Western Reserve University]] awarded Hughes an honorary Litt.D.
+
+===Memorial===
+* 1973: the first [[Langston Hughes Medal]] was awarded by the [[City College of New York]].
+* 1979: [[Langston Hughes Middle School]] was created in [[Reston, Virginia]].
+* 1981: New York City Landmark status was given to the Harlem home of Langston Hughes at 20 East 127th Street ({{Coord|40|48|26.32|N|73|56|25.54|W|region:US}}) by the [[New York City Landmarks Preservation Commission]] and 127th Street was renamed "Langston Hughes Place".<ref>Jen Carlson (June 18, 2007).[http://gothamist.com/2007/06/18/langston_hughes.php "Langston Hughes Lives On In Harlem"], {{webarchive|url=https://web.archive.org/web/20080202082610/http://gothamist.com/2007/06/18/langston_hughes.php |date=February 2, 2008 }}, Gothamist. Retrieved November 22, 2015.</ref> The [[Langston Hughes House]] was listed on the [[National Register of Historic Places]] in 1982.<ref name="nris">{{NRISref|version=2009a}}</ref>
+* 2002: The United States Postal Service added the image of Langston Hughes to its Black Heritage series of postage stamps.
+* 2002: scholar [[Molefi Kete Asante]] listed Langston Hughes on his list of ''[[100 Greatest African Americans]]''.<ref>Asante, Molefi Kete (2002). ''100 Greatest African Americans: A Biographical Encyclopedia''. Amherst, New York: Prometheus Books. {{ISBN|1-57392-963-8}}.</ref>
+* 2009: [[Langston Hughes High School]] was created in [[Fairburn, Georgia|Fairburn]], [[Georgia (U.S. state)|Georgia]].
+* 2012: inducted into the Chicago Literary Hall of Fame.<ref>{{cite web |url=https://chicagoliteraryhof.org/inductees/profile/langston-hughes |title=Langston Hughes |date=2012 |website=Chicago Literary Hall of Fame |language=en |access-date=October 8, 2017}}</ref>
+* 2015: [[Google Doodle]] commemorated his 113th birthday.<ref>{{cite web|url=https://www.google.com/doodles/langston-hughes-113th-birthday|title=Langston Hughes' 113th Birthday|website=Google.com}}</ref>
+
+== Bibliography ==
+{{Col-begin}}
+{{Col-break}}
+
+=== Poetry collections ===
+* ''[[The Weary Blues]]'', Knopf, 1926
+* ''[[Fine Clothes to the Jew]]'', Knopf, 1927
+* ''The Negro Mother and Other Dramatic Recitations'', 1931
+* ''Dear Lovely Death'', 1931
+* ''The Dream Keeper and Other Poems'', Knopf, 1932
+* ''Scottsboro Limited: Four Poems and a Play'', Golden Stair Press, N.Y., 1932
+* ''A New Song'' (1938, incl. the poem "[[Let America be America Again]]")
+* ''[[Note on Commercial Theatre]]'', 1940
+* ''Shakespeare in Harlem'', Knopf, 1942
+* ''Freedom's Plow'', New York: Musette Publishers, 1943
+* ''Jim Crow's Last Stand'', Atlanta: Negro Publication Society of America, 1943
+* ''[[Lament for Dark Peoples and Other Poems]]'', 1944
+* ''Fields of Wonder'', Knopf, 1947
+* ''One-Way Ticket'', 1949
+* ''[[Montage of a Dream Deferred]]'', Holt, 1951
+* ''Selected Poems of Langston Hughes'', 1958
+* ''Ask Your Mama: 12 Moods for Jazz'', Hill & Wang, 1961
+* ''The Panther and the Lash: Poems of Our Times'', 1967
+* ''The Collected Poems of Langston Hughes'', Knopf, 1994
+
+=== Novels and short story collections ===
+* ''[[Not Without Laughter]]''. Knopf, 1930
+* ''[[The Ways of White Folks]]'', Knopf, 1934
+* ''Simple Speaks His Mind'', 1950
+* ''Laughing to Keep from Crying'', Holt, 1952
+* ''Simple Takes a Wife'', 1953
+* ''[[The Sweet Flypaper of Life]]'', photographs by [[Roy DeCarava]]. 1955
+* ''Simple Stakes a Claim'', 1957
+* ''Tambourines to Glory'', 1958
+* ''The Best of Simple'', 1961
+* ''Simple's Uncle Sam'', 1965
+* ''Something in Common and Other Stories'', Hill & Wang, 1963
+* ''Short Stories of Langston Hughes'', Hill & Wang, 1996
+{{Col-break}}
+{{Library resources box|by=yes|viaf=44315795}}
+
+=== Non-fiction books ===
+* ''The Big Sea'', New York: Knopf, 1940
+* ''Famous American Negroes'', 1954
+* ''Famous Negro Music Makers'', New York: Dodd, Mead, 1955
+* ''I Wonder as I Wander'', New York: Rinehart & Co., 1956
+* ''A Pictorial History of the Negro in America'', with [[Milton Meltzer]]. 1956
+* ''Famous Negro Heroes of America'', 1958
+* ''Fight for Freedom: The Story of the NAACP''. 1962
+* ''Black Magic: A Pictorial History of the Negro in American Entertainment,'' with [[Milton Meltzer]], 1967
+
+=== Major plays ===
+* ''[[Mule Bone]]'', with Zora Neale Hurston, 1931
+* ''[[Mulatto (play)|Mulatto]]'', 1935 (renamed ''The Barrier'', an opera, in 1950)
+* ''[[Troubled Island]]'', with [[William Grant Still]], 1936
+* ''Little Ham'', 1936
+* ''Emperor of Haiti'', 1936
+* ''Don't You Want to be Free?'', 1938
+* ''[[Street Scene (opera)|Street Scene]]'', contributed lyrics, 1947
+* ''[[Tambourines to Glory]]'', 1956
+* ''[[Simply Heavenly]]'', 1957
+* ''[[Black Nativity]]'', 1961
+* ''Five Plays by Langston Hughes'', Bloomington: Indiana University Press, 1963
+* ''[[Jerico-Jim Crow]]'', 1964
+
+=== Books for children ===
+* ''Popo and Fifina, with Arna Bontemps'', 1932
+* ''The First Book of the Negroes'', 1952
+* ''The First Book of Jazz'', 1954
+* ''[[Marian Anderson]]: Famous Concert Singer'', with Steven C. Tracy, 1954
+* ''The First Book of Rhythms'', 1954
+* ''The First Book of the West Indies'', 1956
+* ''First Book of Africa'', 1964
+* ''Black Misery'', illustrated by Arouni, 1969; reprinted 1994, Oxford University Press.
+
+===As editor===
+* ''The Poetry of the Negro, 1746–1949: an anthology'', edited with [[Arna Bontemps]], Garden City, NY: Doubleday, 1949.
+{{col-end}}
+
+== Other writings ==
+* ''The Langston Hughes Reader'', New York: Braziller, 1958.
+* ''Good Morning Revolution: Uncollected Social Protest Writings by Langston Hughes'', Lawrence Hill, 1973.
+* ''The Collected Works of Langston Hughes'', Missouri: University of Missouri Press, 2001.
+* ''The Selected Letters of Langston Hughes'', edited by Arnold Rampersad and David Roessel. Knopf, 2014.
+* [https://wayback.archive-it.org/all/20080528221214/http://negroartist.com/writings/My%20Adventures%20as%20a%20Social%20Poet.pdf "My Adventures as a Social Poet" (essay)], ''Phylon'', 3rd Quarter 1947.
+* [http://www.hartford-hwp.com/archives/45a/360.html "The Negro Artist and The Racial Mountain" (article)], ''The Nation'', June 23, 1926.
+
+== See also ==
+{{Portal|Poetry|United States|Children's literature}}
+* [[African-American literature]]
+* [[Langston Hughes Society]]
+* [[Pan-Africanism]]
+{{-}}
+
+== Notes ==
+{{reflist|colwidth=30em}}
+
+== References ==
+{{refbegin|colwidth=30em}}
+* Aldrich, Robert (2001). ''Who's Who in Gay & Lesbian History'', Routledge. {{ISBN|0-415-22974-X}}
+* Bernard, Emily (2001). ''Remember Me to Harlem: The Letters of Langston Hughes and Carl Van Vechten, 1925–1964'', Knopf. {{ISBN|0-679-45113-7}}
+* Berry, Faith (1983.1992,). "Langston Hughes: Before and Beyond Harlem". In ''On the Cross of the South'', [[Citadel Press]], p.&nbsp;150; & ''Zero Hour'', pp.&nbsp;185–186. {{ISBN|0-517-14769-6}}
+* Chenrow, Fred; Chenrow, Carol (1973). ''Reading Exercises in Black History'', Volume 1, Elizabethtown, PA: The Continental Press, Inc. p.&nbsp;36. {{ISBN|08454-2107-7}}.
+* Hughes, Langston (2001). "Fight for Freedom and Other Writings on Civil Rights" (''Collected Works of Langston Hughes,'' Vol. 10). In Christopher C. DeSantis (ed.). Introduction, p.&nbsp;9. University of Missouri Press. {{ISBN|0-8262-1371-5}}
+* Hutson, Jean Blackwell; & [[Jill Nelson]] (February 1992). "Remembering Langston", ''[[Essence magazine|Essence]]'', p.&nbsp;96.
+* Joyce, Joyce A. (2004). "A Historical Guide to Langston Hughes". In Steven C. Tracy (ed.), ''Hughes and Twentieth-Century Genderracial Issues'', Oxford University Press, p.&nbsp;136. {{ISBN|0-19-514434-1}}
+* Nero, Charles I. (1997). "Re/Membering Langston: Homphobic Textuality and Arnold Rampersad's Life of Langston Hughes". In Martin Duberman (ed.), ''Queer Representations: Reading Lives, Reading Cultures'', New York University Press, p.&nbsp;192. {{ISBN|0-8147-1884-1}}
+* Nero, Charles I. (1999). "Free Speech or Hate Speech: Pornography and its Means of Production". In Larry P. Gross & James D. Woods (eds), ''Columbia Reader on Lesbians and Gay Men in Media, Society, and Politics'', Columbia University Press, p.&nbsp;500. {{ISBN|0-231-10447-2}}
+* Nichols, Charles H. (1980). ''Arna Bontempts-Langston Hughes Letters, 1925–1967'', Dodd, Mead & Company. {{ISBN|0-396-07687-4}}
+* [[Hans Ostrom|Ostrom, Hans]] (1993). ''Langston Hughes: A Study of the Short Fiction'', New York: Twayne. {{ISBN|0-8057-8343-1}}
+* Ostrom, Hans (2002). ''A Langston Hughes Encyclopedia'', Westport: Greenwood Press. {{ISBN|0-313-30392-4}}
+* [[Arnold Rampersad|Rampersad, Arnold]] (1986). ''The Life of Langston Hughes, Volume 1: I, Too, Sing America'', Oxford University Press. {{ISBN|0-19-514642-5}}
+* Rampersad, Arnold (1988). ''The Life of Langston Hughes, Volume 2: I Dream A World''. <!--''In Ask Your Mama!'', p.&nbsp;336.--> Oxford University Press. {{ISBN|0-19-514643-3}}
+* Schwarz, Christa A. B. (2003). "Langston Hughes: A true 'people's poet'". In ''Gay Voices of the Harlem Renaissance'', Indiana University Press, pp.&nbsp;68–88. {{ISBN|0-253-21607-9}}
+* West, Sandra L. (2003). "Langston Hughes". In Aberjhani & Sandra West (eds), ''Encyclopedia of the Harlem Renaissance'', Checkmark Press, p.&nbsp;162. {{ISBN|0-8160-4540-2}}
+{{refend}}
+
+== External links ==
+{{wikisource author|James Mercer Langston Hughes}}
+* [http://www.poets.org/lhugh Langston Hughes on Poets.org] With poems, related essays, and links.
+* [http://www.poetryfoundation.org/bio/langston-hughes Profile and poems of Langston Hughes, including audio files and scholarly essays], at the Poetry Foundation.
+* Cary Nelson, [http://www.english.illinois.edu/MAPS/poets/g_l/hughes/hughes.htm "Langston Hughes (1902–1967)"]. Profile at Modern American Poetry.
+* [https://web.archive.org/web/20060828155827/http://beinecke.library.yale.edu/langstonhughes/web.html Beinecke Library, Yale]. "Langston Hughes at 100".
+* [http://www.americaslibrary.gov/aa/hughes/aa_hughes_subj.html Profile at Library of Congress.]
+
+===Archives===
+* [[hdl:10079/fa/beinecke.hughes|Langston Hughes Papers]]. James Weldon Johnson Collection in the Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.
+* [https://archive.today/20131210040611/http://arcat.library.wisc.edu/cgi-bin/Pwebrecon.cgi?BBID=573/ Langston Hughes Papers] at the [[Wisconsin Center for Film and Theater Research]]
+* [https://www.loc.gov/rr/program/journey/hughes.html Resources at Library of Congress] including audio.
+* [https://web.archive.org/web/20071102042121/http://rpo.library.utoronto.ca/poet/172.html Representative Poetry Online, University of Toronto]
+* {{Gutenberg author | id=8670}}
+* {{FadedPage |id=Hughes, Langston |name=Langston Hughes |author=yes}}
+* {{Internet Archive author |sname=Langston Hughes}}
+* {{Librivox author |id=35}}
+* [http://pid.emory.edu/ark:/25593/cr3g4 Langston Hughes collection from the Billops-Hatch Archives, 1926-2002]
+* [http://pid.emory.edu/ark:/25593/8zghq Langston Hughes collection from the Raymond Danowski Poetry Library, 1932-1969]
+* [http://pid.emory.edu/ark:/25593/8zg46 Thyra Edwards' collection of Langston Hughes material, 1935-1941]
+
+{{Langston Hughes|state=expanded}}
+{{Spingarn Medal}}
+{{lists of poets |state=collapsed}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hughes, Langston}}
+[[Category:1901 births]]
+[[Category:1967 deaths]]
+[[Category:20th-century African-American activists]]
+[[Category:20th-century American dramatists and playwrights]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American poets]]
+[[Category:20th-century American short story writers]]
+[[Category:Activists from New York (state)]]
+[[Category:African-American dramatists and playwrights]]
+[[Category:African-American novelists]]
+[[Category:African-American poets]]
+[[Category:African-American short story writers]]
+[[Category:American columnists]]
+[[Category:American expatriates in France]]
+[[Category:American expatriates in the Soviet Union]]
+[[Category:American male dramatists and playwrights]]
+[[Category:American male non-fiction writers]]
+[[Category:American male novelists]]
+[[Category:American male poets]]
+[[Category:American people of English descent]]
+[[Category:American people of French descent]]
+[[Category:American people of Jewish descent]]
+[[Category:American people of Scottish descent]]
+[[Category:Broadway composers and lyricists]]
+[[Category:American writers of Native American descent]]
+[[Category:Columbia School of Engineering and Applied Science alumni]]
+[[Category:Deaths from cancer in New York (state)]]
+[[Category:Deaths from prostate cancer]]
+[[Category:Harlem Renaissance]]
+[[Category:Jazz poetry]]
+[[Category:Langston family]]
+[[Category:Lincoln University (Pennsylvania) alumni]]
+[[Category:Novelists from New York (state)]]
+[[Category:People from Joplin, Missouri]]
+[[Category:People from Staten Island]]
+[[Category:People from Westfield, New Jersey]]
+[[Category:Spingarn Medal winners]]
+[[Category:Translators of Gabriela Mistral]]
+[[Category:Writers from Missouri]]
+[[Category:Writers from New York City]]
+[[Category:20th-century translators]]

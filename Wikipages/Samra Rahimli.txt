@@ -1,0 +1,103 @@
+{{short description|Azerbaijani singer}}
+{{Infobox musical artist
+| name             = Samra Rahimli
+| image            = ESC2016 - Azerbaijan Meet & Greet 10 (crop).jpg
+| image_size       = 270px
+| landscape        =
+| alt              =
+| caption          = Rahimli in 2016
+| native_name      = Səmra Rəhimli
+| native_name_lang = az
+| birth_name       =
+| alias            = Samra
+| birth_date       = {{birth date and age|1994|10|20|df=yes}}
+| birth_place      = [[Baku]], [[Azerbaijan]]
+| origin           =
+| death_date       =
+| death_place      =
+| genre            = {{hlist|[[Hip hop music|Hip hop]]|[[Contemporary R&B|R&B]]|[[Pop music|pop]]}}
+| occupation       = Singer
+| instrument       = Vocals
+| years_active     = 2015–present
+| associated_acts  =
+| website          = 
+}}
+'''Samra Rahimli''' ({{lang-az|Səmra Rəhimli}}, born 20 October<ref>{{cite web|url=http://www.alleurovision.ru/azerbajdzhan-evrovidenie-2016/1151-samra-rahimli-miracle.html|title=Samra Rahimli - Miracle|publisher=alleurovision.ru}}</ref> 1994<ref>{{cite web|title="O səs Türkiyə"dən "Eurovision"a… - 121 yaşlı Səmra|trans-title=From "O Ses Türkiye" to Eurovision - 121-years-old Samra|url=http://www.qafqazinfo.az/medeniyyet-10/o-ses-turkiye-den-eurovision-a-21-yasli-semra-140493|website=qafqazinfo.az|publisher=Qafqaz İnfo|access-date=11 March 2016|language=az|date=10 March 2016}}</ref>) is an Azerbaijani singer. In 2015, she competed in ''[[O Ses Türkiye]]'' (''The Voice of Turkey'') where she made it to the quarterfinals and in March 2016, she became a finalist on the first season of ''[[The Voice of Azerbaijan|Səs Azərbaycan]]'' (''The Voice of Azerbaijan''). On 10 March 2016, she was announced as the Azerbaijani act for the [[Eurovision Song Contest 2016]] with the song "[[Miracle (Samra Rahimli song)|Miracle]]".<ref>{{cite web|url=http://www.eurovision.tv/page/news?id=samra_will_represent_azerbaijan_in_stockholm|title=Samra will represent Azerbaijan in Stockholm!|date=9 March 2016|last=Omelyanchuk|first=Olena|publisher=EBU}}</ref> Rahimli performed during Semi Final 1<ref>{{Citation|last=Eurovision Song Contest|title=Samra - Miracle (Azerbaijan) Live at Semi - Final 1 of the 2016 Eurovision Song Contest|date=2016-05-10|url=https://www.youtube.com/watch?v=fmaRaN0MbbI|access-date=2016-05-11}}</ref> and successfully progressed to the Grand Final where she placed 17th with 117 points.
+
+On 1 December 2020, she released a song titled ''Shusha, we are back'' ({{lang-az|Şuşa, biz qayıtmışıq}}), in relation to the [[Azerbaijani Armed Forces]] taking back the [[Battle of Shusha (2020)|control of Shusha]], during the [[2020 Nagorno-Karabakh war]].<ref>{{Cite web |url=https://qafqazinfo.az/news/detail/susa-biz-qayitmisiq-video-307089 |title="Şuşa, biz qayıtmışıq" - Video |date=1 December 2020 |access-date=5 December 2020 |archive-url=https://archive.today//QUxrn |archive-date=5 December 2020 |work=Qafqazinfo |language=az }}</ref>
+
+== Discography ==
+
+=== Albums ===
+
+* 2021: ''Göz''
+
+=== Singles ===
+{| class="wikitable"
+!Year
+!Title
+!Album
+|-
+|2015
+|"O Sevir"
+|rowspan=8 {{n/a|''Non-album single''}}
+|-
+|2016
+|"[[Miracle (Samra Rahimli song)|Miracle]]"
+|-
+|2017
+|"Badminton"
+|-
+| rowspan="3" |2018
+|"Ters Gedir"
+|-
+|"Hypnotized"
+|-
+|"Пиджак" <small>(Pidzhak)</small>
+|-
+|2019
+|"Armas"
+|-
+| rowspan="3" |2020
+|"Queen"
+|-
+|"Online"
+| style="text-align: center;" | ''Göz''
+|-
+|"Şuşa, Biz Qayıtmışıq"
+|{{n/a|''Non-album single''}}
+|-
+| rowspan="2" |2021
+|"Biri Yox, Biri Var"
+| rowspan="2" style="text-align: center;" | ''Göz''
+|-
+|"Göz"
+|-
+|}
+
+== References ==
+{{Reflist}}
+
+{{s-start}}
+{{succession box
+| before=[[Elnur Hüseynov]]<br>with "[[Hour of the Wolf (song)|Hour of the Wolf]]"
+| title=[[Azerbaijan in the Eurovision Song Contest]]
+| years=[[Eurovision Song Contest 2016|2016]]
+| after=[[Diana Hajiyeva]]<br>with "[[Skeletons (Dihaj song)|Skeletons]]"
+}}
+{{s-end}}
+{{Azerbaijan in the Eurovision Song Contest |state=autocollapse}}
+{{Eurovision Song Contest 2016 |state=autocollapse}}
+{{Authority control}}
+
+{{DEFAULTSORT:Rahimli, Samra}}
+[[Category:Living people]]
+[[Category:1994 births]]
+[[Category:Musicians from Baku]]
+[[Category:21st-century Azerbaijani women singers]]
+[[Category:Eurovision Song Contest entrants for Azerbaijan]]
+[[Category:Eurovision Song Contest entrants of 2016]]
+[[Category:The Voice (franchise) contestants]]
+
+
+{{Azerbaijan-singer-stub}}

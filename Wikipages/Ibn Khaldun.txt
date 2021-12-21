@@ -1,0 +1,342 @@
+{{short description|14th-century Arab historiographer and historian}}
+{{for|the horse|Ibn Khaldun (horse)}}
+{{Infobox religious biography
+| name               = Ibn Khaldun
+| image              = Bust of Ibn Khaldun (Casbah of Bejaia, Algeria).jpg
+| alt                = 
+| caption            = Bust of Ibn Khaldun in the entrance of the Kasbah of Bejaia, [[Algeria]]
+| religion           = [[Islam]]
+| birth_date         = 27 May 1332
+| birth_place        = [[Tunis]], [[Hafsid dynasty|Hafsid Sultanate]]
+| nationality        = 
+| death_date         = {{d-da|17 March 1406|27 May 1332}}
+| death_place        = [[Cairo]], [[Mamluk Sultanate (Cairo)|Egypt]]
+| other_names        = 
+| occupation         = 
+| denomination       = [[Sunni]]<ref>{{Cite web |title=Ibn Khaldun – His Life and Work |url=http://www.muslimphilosophy.com/ik/klf.htm#Intro |url-status=dead |archive-url=https://web.archive.org/web/20130913010235/http://www.muslimphilosophy.com/ik/klf.htm#Intro |archive-date=13 September 2013 |access-date=25 February 2017}}</ref>
+| jurisprudence      = [[Maliki]]<ref>{{Cite encyclopedia |year=2010 |title=Ibn Khaldun |encyclopedia=The Biographical Encyclopaedia of Islamic Philosophy |publisher=[[Continuum International Publishing Group|Continuum]] |last=Ahmad |first=Zaid |editor-last=Oliver Leama |doi=10.1093/acref/9780199754731.001.0001 |isbn=9780199754731}}</ref>
+| creed              = [[Ash'ari]]<ref>{{Cite book |last=Doniger |first=Wendy |url=https://archive.org/details/isbn_9780877790440/page/82 |title=Merriam-Webster's Encyclopedia of World Religions |date=1999 |publisher=Merriam-Webstar Inc. |isbn=978-0-87779-044-0 |page=[https://archive.org/details/isbn_9780877790440/page/82 82] |url-access=registration}}</ref> <ref>https://themaydan.com/2017/11/myth-intellectual-decline-response-shaykh-hamza-yusuf/ "'''Ibn Khaldun on Philosophy:'''
+
+
+After clarifying what was meant precisely by philosophy in the Islamic tradition, namely the various schools of peripatetic philosophy represented either by Ibn Rushd or Ibn Sina, it should be clear why Ibn Khaldun was opposed to them. His critique of philosophy is an Ash’ari critique, completely in line with the Ash’aris before him, including Ghazali and Fakhr al-din al-Razi, both of whom Ibn Khaldun recommends for those who wish to learn how to refute the philosophers"</ref>
+| main_interests     = {{cslist| [[Historiography]]| [[sociology]]| [[economics]]| [[demography]]| [[political science]]}}
+| notable_ideas      = {{plainlist}}
+* [[Asabiyyah]]
+* [[State_formation#Conflict_theories|Conquest theory of state formation]]
+* [[Social cycle theory|Cyclical theory of empires]]
+* Economic growth theory<ref name="Muqaddimah 2 1995 p 30">Muqaddimah 2:272–73 quoted in Weiss (1995) p 30</ref>
+* [[Political midlife crisis]]
+* [[Supply and demand|Supply and demand theory]]<ref>{{harvnb|Weiss|1995|p=31}} quotes Muqaddimah 2:276–78</ref>
+{{endplainlist}}
+| notable_works      = 
+| influences         = {{flatlist}}
+* [[Al-Ghazali]]
+* [[Ibn Jarir]]
+* [[Ibn Hazm]]
+* [[Al-Farabi]]<ref>{{Cite book |url=https://books.google.com/books?id=8pmZ5FD_FBEC&pg=PA87 |title=Joseph A. Schumpeter: Historian of Economics: Perspectives on the History of Economic Thought |publisher=Routledge |year=1996 |isbn=9781134785308 |editor-last=Laurence S. Moss |page=87 |quote=Ibn Khaldun drited away from Al-Farabi's political idealism.}}</ref>
+* [[At-Turtushi]]<ref>In al-Muqaddima, Ibn Khaldun cites him as a pioneer in sociology</ref>
+* [[Ibn Abi Zar]]
+* [[Averroes]]
+* [[Avempace]]
+* [[Aristotle]]
+* [[Al-Jahiz]]<ref>Shah, Muhammad Sultan. "Pre-Darwinian Muslim Scholars’ Views on Evolution." (2017).</ref>
+{{endflatlist}}
+| expand_influences  = 
+| influenced         = {{flatlist}}
+* [[Ibn al-Khatib]]
+* [[Abu Yahya ibn al-Sakkak|Ibn al-Sakkak]]
+* [[Al-Maqrizi]]
+* [[Ibn al-Azraq]]
+* [[Machiavelli]]
+* [[Kâtip Çelebi|Çelebi]]
+* [[Mustafa Naima]]
+* [[David Hume|Hume]]
+* [[Adam Smith|Smith]]
+* [[Hegel]]
+* [[David Ricardo|Ricardo]]
+* [[Ahmed Cevdet Pasha|Ahmed Cevdet]]
+* [[Rene Guenon|Guenon]]
+* [[Arnold J. Toynbee|Toynbee]]
+* [[Schuon]]
+* [[Reagan]]
+* [[Seyyed Hossein Nasr|Nasr]]
+* [[Mahdi Amel|Amel]]
+* [[Arthur Laffer|Laffer]]
+
+{{endflatlist}}
+| expand_influenced  = 
+| module             = 
+}}
+
+'''Ibn Khaldun''' ({{IPAc-en|ˈ|ɪ|b|ən|_|k|æ|l|ˈ|d|uː|n}}; {{lang-ar| أبو زيد عبد الرحمن بن محمد بن خلدون الحضرمي}}, {{transl|ar|DIN|''Abū Zayd ‘Abd ar-Raḥmān ibn Muḥammad ibn Khaldūn al-Ḥaḍramī''}}; 27 May 1332 – 17 March 1406) was an [[Arabs|Arab]]<ref name="WP:BOMBARD"><!--the obligatory ethnic pride reference [[WP:BOMBARD]]. Can safely be reduced to one single good reference.-->
+{{cite book|last=Savant|first=Sarah Bowen|url=https://books.google.com/books?id=rySrBgAAQBAJ&pg=PA77|title=Genealogy and Knowledge in Muslim Societies: Understanding the Past|date=2014|publisher=Edinburgh University Press|isbn=978-0-7486-4497-1|page=77|quote=Banu Khaldun al-Hadrami (Yemen, but not Qahtan), to which belonged the famous historian Ibn Khaldun. The family's ancestor was 'Uthman ibn Bakr ibn Khalid, called Khaldun, a Yemeni Arab among the conquerors who shared kinship with the Prophet's Companian Wa'il ibn Hujr and who settled first in Carmona and then in Seville.}}
+''[https://books.google.com.om/books?id=v_seJ21M0UoC&pg=PT3&dq=it%20is%20of%20course%20Ibn%20Khaldun%20as%20an%20Arab+(Polity+Press,+2007)&hl=en&sa=X&ved=2ahUKEwjW38yD19vvAhVvRhUIHX3jDeMQ6AEwAHoECAAQAg#v=onepage&q=Ibn%20Khaldun%20as%20an%20Arab&f=false The Historical Muhammad]'', Irving M. Zeitlin, (Polity Press, 2007), p. 21; "It is, of course, Ibn Khaldun as an Arab here speaking, for he claims Arab descent through the male line.".
+''[https://books.google.com.om/books?id=kLCR9zGH774C&printsec=frontcover&dq=The+Arab+World:+Society,+Culture,+and+State&hl=en&sa=X&ved=2ahUKEwjo6_v31dvvAhX1snEKHch4DlYQ6AEwAHoECAMQAg#v=onepage&q=Khaldun&f=false The Arab World: Society, Culture, and State]'', Halim Barakat (University of California Press, 1993), p. 48;"The renowned Arab sociologist-historian Ibn Khaldun first interpreted Arab history in terms of badu versus hadar conflicts and struggles for power."
+''[https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-2/ibn-khaldun-COM_0330?s.num=0&s.f.s2_parent=s.f.book.encyclopaedia-of-islam-2&s.q=Ibn+Khald%C5%ABn Ibn Khaldun]'', M. Talbi, ''The Encyclopaedia of Islam'', Vol. III, ed. B. Lewis, V.L. Menage, C. Pellat, J. Schacht, (Brill, 1986), 825; "Ibn Khaldun was born in Tunis, on I Ramadan 732/27 May 1332, in an Arab family which came originally from the Hadramawt and had been settled at Seville since the beginning of the Muslim conquest...." ''[https://books.google.com.om/books?id=JIO9CgAAQBAJ&printsec=frontcover&dq=ibn+khaldun&hl=en&sa=X&ved=2ahUKEwiZ95yK2NvvAhWUTxUIHXMhDSkQ6AEwAnoECAYQAg#v=onepage&q&f=false Ibn Khaldun's Philosophy of History: A Study in the Philosophic Foundation of the Science of Culture]'', Muhsin Mahdi, Routledge; "His family claimed descent from a Yemenite tribe originating in Hadramawt" Issawi, Charles. "[https://www.britannica.com/biography/Ibn-Khaldun ''Ibn Khaldūn'']". ''Encyclopedia Britannica'', 13 Mar. 2021; "the greatest Arab historian", "the family claimed descent from Khaldūn, who was of South Arabian stock, and had come to Spain in the early years of the Arab conquest and settled in Carmona." Cheddadi, Abdesselam, ''“[https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-3/ibn-khaldun-abd-al-rahman-COM_30943?s.num=0&s.f.s2_parent=s.f.book.encyclopaedia-of-islam-3&s.q=Ibn+Khald%C5%ABn Ibn Khaldūn, ʿAbd al-Raḥmān]''”, ''Encyclopaedia of Islam, THREE''; "was one of the greatest Arab historians, a philosopher, and a sociologist" </ref> [[Sociology|sociologist]], [[philosopher]] and [[historian]]<ref>{{Cite web |last=Muhammad Hozien |title=Ibn Khaldun: His Life and Work |url=http://www.muslimphilosophy.com/ik/klf.htm |url-status=dead |archive-url=https://web.archive.org/web/20130913010235/http://www.muslimphilosophy.com/ik/klf.htm |archive-date=2013-09-13 |access-date=2008-09-19 |publisher=Islamic Philosophy Online}}</ref><ref>{{Cite web|title=Ibn Khaldūn - The Muqaddimah: Ibn Khaldūn's philosophy of history|url=https://www.britannica.com/biography/Ibn-Khaldun|access-date=2020-12-22|website=Encyclopedia Britannica|language=en}}</ref> who has been described as the precursive founder of the proto-disciplines<ref>{{Cite book|last=Farid Alatas|first=Syed|url=https://www.worldcat.org/oclc/914395509|title=Applying Ibn Khaldūn: The Recovery of a Lost Tradition in Sociology|date=2015|publisher=Routledge|isbn=978-1-138-12596-4|location=|oclc=914395509}}</ref><ref>{{Cite journal|last=Sulkunen|first=Pekka|date=2014-09-02|title=The proto-sociology of Mandeville and Hume|url=https://www.tandfonline.com/doi/full/10.1080/1600910X.2014.897639|journal=Distinktion: Journal of Social Theory|language=en|volume=15|issue=3|pages=361–365|doi=10.1080/1600910X.2014.897639|s2cid=144222817|issn=1600-910X}}</ref> that would become [[historiography]], [[sociology]], [[economics]], and [[demography]].<ref name="HistoryAndSociology" group="n" /><ref>• [[Joseph J. Spengler]] (1964).  "Economic Thought of Islam: Ibn Khaldun", ''Comparative Studies in Society and History'', 6(3), pp. [https://www.jstor.org/pss/177577 268]-306.<br />&nbsp;&nbsp;• Jean David C. Boulakia (1971). "Ibn Khaldûn: A Fourteenth-Century Economist", ''Journal of Political Economy'', 79(5), pp. [https://www.jstor.org/pss/1830276 1105–18].</ref><ref name="Economics" group="n" /> [[Niccolò Machiavelli]] of the [[Renaissance]], [[Georg Wilhelm Friedrich Hegel]] and 19th-century European scholars widely acknowledged the significance of his works and considered Ibn Khaldun to be one of the greatest philosophers of the [[Middle Ages]].<ref>[[Bernard Lewis]]: "Ibn Khaldun in Turkey", in: ''Ibn Khaldun: The Mediterranean in the 14th Century: Rise and Fall of Empires'', Foundation El Legado Andalusí, 2006, {{ISBN|978-84-96556-34-8}}, pp. 376–80 (376) S.M. Deen (2007) ''Science under Islam: rise, decline and revival''. p. 157. {{ISBN|1-84799-942-5}}</ref>
+
+His best-known book, the ''[[Muqaddimah]]'' or ''Prolegomena'' ("Introduction"), which he wrote in six months as he states in his autobiography,<ref>Ali Zaidi, ''Islam, Modernity, and the Human Sciences'', Springer, 2011, p. 84</ref> influenced 17th-century Ottoman historians such as [[Kâtip Çelebi]], [[Ahmed Cevdet Pasha]] and [[Mustafa Naima]], who used its theories to analyze the growth and decline of the [[Ottoman Empire]].<ref>{{Cite book |last=Lewis |first=Bernard |title=Studies in Islamic history and civilization: in honour of Professor David Ayalon |publisher=Brill |year=1986 |isbn=978-965-264-014-7 |editor-last=Ayalon |editor-first=David |pages=527–30 |chapter=Ibn Khaldūn in Turkey |editor-last2=Sharon |editor-first2=Moshe}}</ref> Ibn Khaldun interacted with [[Tamerlane]], the founder of the [[Timurid Empire]].
+
+== Family ==
+[[File:TCCKhaldun.jpg|thumb|150px|Ibn Khaldun - Life-size bronze bust sculpture of Ibn Khaldun that is part of the collection at the Arab American National Museum (Catalog Number 2010.02). Commissioned by The Tunisian Community Center and Created by Patrick Morelli of Albany, NY in 2009. It was inspired by the statue of Ibn Khaldun erected at the Avenue Habib Bourguiba (built in 1932) in [[Tunis]].<ref>{{Cite web |title=Arab American National Museum : Online Collections |url=http://arabamerican.pastperfect-online.com/33769cgi/mweb.exe?request=record;id=A9A7FFF1-3E51-46CC-8C72-966442091673;type=101 |access-date=25 February 2017}}</ref>]]
+Ibn Khaldun's life is relatively well-documented, as he wrote an [[autobiography]] ({{lang|ar|التعريف بابن خلدون ورحلته غربا وشرقا}}, ''{{transl|ar|at-Taʻrīf bi-ibn Khaldūn wa-Riḥlatih Gharban wa-Sharqan}}''<ref>Published by Muḥammad ibn Tāwīt aṭ-Ṭanjī, Cairo 1951</ref>) ("''Presenting Ibn Khaldun and his Journey West and East''") in which numerous documents regarding his life are quoted word-for-word.
+
+Abdurahman bin Muhammad bin Muhammad bin Muhammad bin Al-Hasan bin Jabir bin Muhammad bin Ibrahim bin Abdurahman bin Ibn Khaldun al-Hadrami, generally known as "Ibn Khaldūn" after a remote ancestor, was born in [[Tunis]] in AD 1332 (732 [[Anno hegirae|AH]]) into an upper-class [[Al-Andalus|Andalusian]] family of Arab descent,<ref name="WP:BOMBARD" /> the family's ancestor was a [[Hadhrami people|Hadhrami]] who shared kinship with [[Hujr ibn 'Adi|Waíl ibn Hujr]], a companion of the [[Prophets and messengers in Islam|Islamic prophet]] [[Muhammad]]. His family, which held many high offices in [[Al-Andalus]], had emigrated to [[Tunisia]] after the fall of [[Seville]] to the [[Reconquista]] in AD 1248. Under the Tunisian [[Hafsid dynasty]], some of his family held political office; his father and grandfather, however, withdrew from political life and joined a mystical order. His brother, Yahya Khaldun, was also a [[historian]] who wrote a book on the [[Abdalwadid]] dynasty and was assassinated by a rival for being the official [[historiographer]] of the court.<ref>{{Cite journal |year=1841 |title=Lettre à Monsieur Garcin de Tassy |url=https://books.google.com/books?id=blQpAAAAYAAJ&pg=PA484 |journal=[[Journal Asiatique]] |language=fr |location=Paris |publisher=[[Société asiatique]] |volume=3 |page=491 |number=12}}</ref>
+
+In his autobiography, Khaldun traces his descent back to the time of Muhammad through an Arab tribe from [[Yemen]], specifically the [[Hadhramaut]], which came to the [[Iberian Peninsula]] in the 8th century, at the beginning of the Islamic conquest: "And our ancestry is from Hadhramaut, from the Arabs of Yemen, via Wa'il ibn Hujr also known as [[Hujr ibn 'Adi]], from the best of the Arabs, well-known and respected." (p.&nbsp;2429, Al-Waraq's edition). 
+
+However, the modern biographer Mohammad Enan emphasised the unclear origins of Ibn Khaldun relying on the fact that Ibn Khaldun's criticism of Arabs might be a valid reason to cast doubt on his Arab origin. On the other hand, Ibn Khaldun's insistence and attachment to his claim of Arab ancestry at a time of Berber dynasties domination is also a valid reason to believe his claim.<ref name="Hozien">{{cite web | last=Hozien | first=Muhammad | title=Notes on Ibn Khaludn's Life | website=You are being directed to the new muslim philosophy Website has moved to muslimphilosophy.org | url=http://www.muslimphilosophy.com/ik/knts.htm#n1}}</ref><ref>{{Cite book|last=Enan|first=Mohammad Abdullah|url=https://books.google.com/books?id=OQTNO3CWmpAC&q=ancestry&pg=PA7|title=Ibn Khaldūn: His Life and Works|date=2007|publisher=The Other Press|isbn=978-983-9541-53-3|language=en}}</ref>
+
+== Education ==
+His family's high rank enabled Ibn Khaldun to study with prominent teachers in [[Maghreb]]. He received a classical [[Madrasah|Islamic education]], studying the [[Quran]], which he [[Hafiz (Quran)|memorized by heart]], [[Arabic language|Arabic linguistics]]; the basis for understanding the Qur'an, [[hadith]], [[sharia]] (law) and [[fiqh]] (jurisprudence). He received certification ([[ijazah]]) for all of those subjects.<ref>{{Cite web |last=Muhammad Hozien |title=Ibn Khaldun: His Life and Work |url=http://www.muslimphilosophy.com/ik/klf.htm |url-status=dead |archive-url=https://web.archive.org/web/20130913010235/http://www.muslimphilosophy.com/ik/klf.htm |archive-date=2013-09-13 |access-date=2008-09-19 |publisher=Islamic Philosophy Online}}</ref> The [[mathematician]] and [[philosopher]] Al-Abili of [[Tlemcen]] introduced him to [[Islamic mathematics|mathematics]], [[Logic in Islamic philosophy|logic]] and [[Islamic philosophy|philosophy]], and he studied especially the works of [[Averroes]], [[Avicenna]], [[Fakhr al-Din Razi|Razi]] and [[Sharaf al-Dīn al-Tūsī|Tusi]]. At the age of 17, Ibn Khaldūn lost both his parents to the [[Black Death]], an intercontinental [[epidemic]] of the [[bubonic plague|plague]] that hit Tunis in 1348–1349.<ref>{{Cite web |title=Saudi Aramco World: Ibn Khaldun and the Rise and Fall of Empires |url=http://archive.aramcoworld.com/issue/200605/ibn.khaldun.and.the.rise.and.fall.of.empires.htm |access-date=2017-12-06 |website=archive.aramcoworld.com}}</ref>
+
+Following family tradition, he strove for a political career. In the face of a tumultuous political situation in North Africa, that required a high degree of skill in developing and dropping alliances prudently to avoid falling with the short-lived regimes of the time.<ref>{{Cite web |title=Ibn Khaldun – His Life and Work |url=http://www.muslimphilosophy.com/ik/klf.htm |url-status=dead |archive-url=https://web.archive.org/web/20130913010235/http://www.muslimphilosophy.com/ik/klf.htm |archive-date=2013-09-13 |access-date=2017-12-06 |website=www.muslimphilosophy.com}}</ref> Ibn Khaldūn's autobiography is the story of an adventure, in which he spends time in prison, reaches the highest offices and falls again into exile.
+
+== Political career ==
+{{refimprovesect|date=January 2019}}
+[[File:Dar Ibn Khaldoun.jpg|thumb|Birth home of Ibn Khaldun at [[Tunis]]]]
+[[File:Tunisia588.jpg|thumb|The mosque in which Ibn Khaldun studied]]
+[[File:10 TND obverse.jpg|thumb|right|250px|Ibn Khaldun on the 10 [[Tunisian dinar]] bill]]
+At the age of 20, he began his political career in the chancellery of the Tunisian ruler Ibn Tafrakin with the position of ''Kātib al-'Alāmah'' (seal-bearer),<ref name=":1">{{Cite web|url=http://muslimheritage.com/article/ibn-khaldun-his-life-and-works|title=Ibn Khaldun: His Life and Works {{!}} Muslim Heritage|website=muslimheritage.com|language=en|access-date=2017-12-05|archive-url=https://web.archive.org/web/20171206135839/http://muslimheritage.com/article/ibn-khaldun-his-life-and-works|archive-date=2017-12-06|url-status=dead}}</ref> which consisted of writing in fine [[calligraphy]] the typical introductory notes of official documents. In 1352, Abū Ziad, the [[sultan]] of Constantine, marched on Tunis and defeated it. Ibn Khaldūn, in any case unhappy with his respected but politically meaningless position, followed his teacher Abili to [[Fez, Morocco|Fez]]. There, the [[Marinid]] sultan, Abū Inan Fares I, appointed him as a writer of royal proclamations, but Ibn Khaldūn still schemed against his employer, which, in 1357, got the 25-year-old a 22-month prison sentence. Upon the death of Abū Inan in 1358, Vizier al-Hasān ibn-Umar granted him freedom and reinstated him to his rank and offices. Ibn Khaldūn then schemed against Abū Inan's successor, Abū Salem Ibrahim III, with Abū Salem's exiled uncle, Abū Salem. When Abū Salem came to power, he gave Ibn Khaldūn a ministerial position, the first position to correspond with Ibn Khaldūn's ambitions.
+
+The treatment that Ibn Khaldun received after the fall of Abū Salem through Ibn-Amar ʻAbdullah, a friend of Ibn Khaldūn's, was not to his liking, as he received no significant official position. At the same time, Amar successfully prevented Ibn Khaldūn, whose political skills he knew well, from allying with the Abd al-Wadids in Tlemcen. Ibn Khaldūn, therefore, decided to move to [[Granada]]. He could be sure of a positive welcome there since at Fez, he had helped the Sultan of Granada, the [[Nasrid dynasty|Nasrid]] Muhammad V, regain power from his temporary exile. In 1364, Muhammad entrusted him with a diplomatic mission to the king of [[Crown of Castile|Castile]], [[Pedro of Castile|Pedro the Cruel]], to endorse a peace treaty. Ibn Khaldūn successfully carried out this mission and politely declined Pedro's offer to remain at his court and have his family's Spanish possessions returned to him.
+
+In Granada, Ibn Khaldūn quickly came into competition with Muhammad's vizier, [[Ibn al-Khatib]], who viewed the close relationship between Muhammad and Ibn Khaldūn with increasing mistrust. Ibn Khaldūn tried to shape the young Muhammad into his ideal of a wise ruler, an enterprise that Ibn al-Khatib thought foolish and a danger to peace in the country. History proved al-Khatib right, and at his instigation, Ibn Khaldūn was eventually sent back to North Africa. Al-Khatib himself was later accused by Muhammad of having unorthodox philosophical views and murdered despite an attempt by Ibn Khaldūn to intercede on behalf of his old rival.
+
+In his autobiography, Ibn Khaldūn tells little about his conflict with Ibn al-Khatib and the reasons for his departure. Orientalist [[Muhsin Mahdi]] interprets that as showing that Ibn Khaldūn later realised that he had completely misjudged Muhammad V.
+
+Back in [[Ifriqiya]], the [[Hafsids of Bejaïa|Hafsid]] sultan of [[Béjaïa|Bougie]], Abū ʻAbdallāh, who had been his companion in prison, received him with great enthusiasm and made Ibn Khaldūn his prime minister. Ibn Khaldūn carried out a daring mission to collect taxes among the local Berber tribes. After the death of Abū ʻAbdallāh in 1366, Ibn Khaldūn changed sides once again and allied himself with the [[Sultan of Tlemcen]], Abū l-Abbas. A few years later, he was taken prisoner by [[Abu Faris Abdul Aziz]], who had defeated the sultan of Tlemcen and seized the throne. He then entered a monastic establishment and occupied himself with scholastic duties until 1370. In that year, he was sent for to Tlemcen by the new sultan. After the death of ʻAbdu l-Azīz, he resided at Fez, enjoying the patronage and confidence of the regent.
+
+Ibn Khaldūn's political skills and, above all, his good relationship with the wild Berber tribes were in high demand among the North African rulers, but he had begun to tire of politics and constantly switching allegiances. In 1375, he was sent by Abū Hammu, the ʻAbdu l Wadid Sultan of Tlemcen, on a mission to the Dawadida Arabs tribes of Biskra. After his return to the West, Ibn Khaldūn sought refuge with one of the Berber tribes in the west of [[Algeria]], in the town of [[Qalat Ibn Salama]]. He lived there for over three years under their protection, taking advantage of his seclusion to write the ''Muqaddimah'' "Prolegomena", the introduction to his planned history of the world. In Ibn Salama, however, he lacked the necessary texts to complete the work.<ref>{{Cite book|url=http://alhassanain.org/english/?com=book&id=1008|title=Ibn Khaldun's Political and Economic Realism|date=2016-03-26|language=en}}</ref> Therefore, in 1378, he returned to his native Tunis, which had meanwhile been conquered by Abū l-Abbas, who took Ibn Khaldūn back into his service. There, he devoted himself almost exclusively to his studies and completed his history of the world. His relationship with Abū l-Abbas remained strained, as the latter questioned his loyalty. That was brought into sharp contrast after Ibn Khaldūn presented him with a copy of the completed history that omitted the usual [[panegyric]] to the ruler. Under pretence of going on the [[Hajj]] to [[Mecca]], something for which a Muslim ruler could not simply refuse permission, Ibn Khaldūn was able to leave Tunis and to sail to [[Alexandria]].
+
+== Later life ==
+{{refimprovesect|date=January 2019}}
+[[File:Ibn Khaldoun Statue and Square, Mohandesin, Cairo.jpg|thumbnail|Ibn Khaldun Statue and Square, [[Mohandessin]], Cairo]]
+Ibn Khaldun said of Egypt, "He who has not seen it does not know the power of Islam."<ref>{{Cite web | url=https://www.britannica.com/biography/Ibn-Khaldun#ref3458 | title=Ibn Khaldūn &#124; Muslim historian}}</ref> While other Islamic regions had to cope with border wars and inner strife, [[Mamluk]]s Egypt enjoyed prosperity and high culture. In 1384, the Egyptian Sultan, al-Malik udh-Dhahir [[Barquq]], made Khaldun professor of the Qamhiyyah Madrasah and the grand [[qadi]] of the [[Maliki]] school of fiqh (one of four schools, the Maliki school was widespread primarily in [[Western Africa]]). His efforts at reform encountered resistance, however, and within a year, he had to resign his judgeship. Also in 1384, a ship carrying Khaldun's wife and children sank off of Alexandria. 
+
+After his return from a pilgrimage to Mecca in May 1388, Ibn Khaldūn concentrated on teaching at various Cairo madrasas. At the Mamluk court he fell from favor because during revolts against Barquq, he had, apparently under duress, with other Cairo jurists, issued a [[fatwa]] against Barquq. Later relations with Barquq returned to normal, and he was once again named the Maliki ''qadi''. Altogether, he was called six times to that high office, which, for various reasons, he never held long.
+
+In 1401, under Barquq's successor, his son Faraj, Ibn Khaldūn took part in a military campaign against the [[Mongol]] conqueror, [[Timur]], who besieged [[Siege of Damascus (1400)|Damascus]] in 1400. Ibn Khaldūn cast doubt upon the viability of the venture and really wanted to stay in Egypt. His doubts were vindicated, as the young and inexperienced Faraj, concerned about a revolt in Egypt, left his army to its own devices in [[Syria]] and hurried home. Ibn Khaldūn remained at the besieged city for seven weeks, being lowered over the city wall by ropes to negotiate with Timur, in a historic series of meetings that he reported extensively in his autobiography.<ref>{{Cite journal|last=Bent|first=Josephine van den|date=2016-05-03|title="None of the Kings on Earth is Their Equal in ʿaṣabiyya:" The Mongols in Ibn Khaldūn's Works|journal=Al-Masāq|volume=28|issue=2|pages=171–86|doi=10.1080/09503110.2016.1198535|issn=0950-3110|doi-access=free}}</ref> Timur questioned him in detail about conditions in the lands of the Maghreb. At his request, Ibn Khaldūn even wrote a long report about it. As he recognized Timur's intentions, he did not hesitate, on his return to Egypt, to compose an equally-extensive report on the history of the [[Tatars]], together with a character study of Timur, sending them to the Merinid rulers in Fez (Maghreb).
+
+Ibn Khaldūn spent the next five years in Cairo completing his autobiography and his history of the world and acting as teacher and judge. Meanwhile, he was alleged to have joined an underground party, Rijal Hawa Rijal, whose reform-oriented ideals attracted the attention of local political authorities. The elderly Ibn Khaldun was placed under arrest. He died on 17 March 1406, one month after his sixth selection for the office of the Maliki ''qadi'' (Judge).
+
+== Works ==
+
+=== Kitāb al-ʻIbar ===
+*'''''Kitāb al-ʻIbar''''', (full title: ''Kitāb al-ʻIbar wa-Dīwān al-Mubtadaʼ wa-l-Khabar fī Taʼrīkh al-ʻArab wa-l-Barbar wa-Man ʻĀṣarahum min Dhawī ash-Shaʼn al-Akbār'' "Book of Lessons, Record of Beginnings and Events in the History of the Arabs and the Berbers and Their Powerful Contemporaries");  begun as a history of the [[Berber people|Berbers]] and expanded to a [[universal history]] in seven books.<ref>Ibn Khaldun the Muqaddimah. An Introduction to History. Translated from the Arabic by Franz Rosenthal. In Three Volumes. First Volume. 606 pages. [[Bollingen Foundation]] Series xliii. Princeton University Press. 1958. Prof. Dr. Darcy Carvalho. Feausp. Sao Paulo. Brazil. 2016</ref><ref>[https://archive.org/stream/THEMUQADDIMAHVOLUME1 The Muqaddimah Volume 1]</ref>
+:Book 1; ''[[Muqaddimah|Al-Muqaddimah]]'' ('The Introduction'),  a socio-economic-geographical universal history of empires, and the best known of his works.<ref>Schmidt, Nathaniel. Ibn Khaldun: Historian, Sociologist and Philosopher. Universal Books, 1900.</ref> 
+:Books 2-5; [[World History]] up to the author's own time.
+:Books 6-7; Historiography of the [[Berber people|Berbers]] and the Maghreb.  Khaldun departs from the classical style of Arab historians{{refn|group=n|For classical style of Arab historians ''see'' [[Ibrahim ibn ar-Raqiq|Ibrahim ibn ar-Raqīq]] (~d.1028) and [[al-Mālikī]].}} by synthesising multiple, sometimes contradictory, sources without citations.<ref>See articles by Modéran and Benabbès in ''Identités et Cultures dans l'Algérie Antique'', University of Rouen, 2005 ({{ISBN|2-87775-391-3}}).</ref>  He reproduces some errors originating probably from his 14th-century [[Fez, Morocco|Fez]] source, the work ''[[Rawd al-Qirtas|Rawḍ al-Qirṭās]]'' by [[Ibn Abi Zar]], yet  ''Al-'Ibar'' remains an invaluable source of [[Berber history]].
+
+Concerning the discipline of [[sociology]], he described the dichotomy of sedentary life versus nomadic life as well as the inevitable loss of power that occurs when warriors conquer a city. According to the Arab scholar [[Sati' al-Husri]], the ''Muqaddimah'' may be read as a sociological work. The work is based around Ibn Khaldun's central concept of ''[['aṣabiyyah]]'', which has been translated as "[[social cohesion]]", "group solidarity", or "[[tribalism]]". This social cohesion arises spontaneously in tribes and other small kinship groups; it can be intensified and enlarged by a religious ideology. Ibn Khaldun's analysis looks at how this cohesion carries groups to power but contains within itself the seeds – psychological, sociological, economic, political – of the group's downfall, to be replaced by a new group, dynasty or empire bound by a stronger (or at least younger and more vigorous) cohesion. Some of Ibn Khaldun's views, particularly those concerning the ''[[Zanj]]'' people of sub-Saharan Africa,<ref>{{cite journal|title=The Negative Images of Blacks in Some Medieval Iranian Writings |last1=Southgate|first1=Minoo|journal=Iranian Studies|volume=17|issue=1|page=15|jstor=4310424|year=1984|doi=10.1080/00210868408701620}}</ref> have been cited as [[Racism|racist]],<ref>{{cite book|title=Racism: A Global Reader |editor=Kevin Reilly |editor2=Stephen Kaufman |editor3=Angela Bodino|publisher=M.E. Sharpe|year=2003|page=123|isbn=978-0-7656-1059-1}}</ref> though they were not uncommon for their time. According to the scholar Abdelmajid Hannoum, Ibn Khaldun's description of the distinctions between [[Berbers]] and Arabs were misinterpreted by the translator [[William McGuckin de Slane]], who wrongly inserted a "racial ideology that sets Arabs and Berbers apart and in opposition" into his translation of part of''`Ibar'' translated under the title Histoire des Berbères .<ref>{{Cite journal|last=Hannoum|first=Abdelmajid|date=2003|title=Translation and the Colonial Imaginary: Ibn Khaldûn Orientalist|journal=History and Theory|volume=42|issue=1|pages=77–80|doi=10.1111/1468-2303.00230|jstor=3590803}}</ref>
+
+Perhaps the most frequently cited observation drawn from Ibn Khaldūn's work is the notion that when a society becomes a great civilization, its high point is followed by a period of decay. This means that the next cohesive group that conquers the diminished civilization is, by comparison, a group of [[barbarians]]. Once the barbarians solidify their control over the conquered society, however, they become attracted to its more refined aspects, such as literacy and arts, and either assimilate into or appropriate such cultural practices. Then, eventually, the former barbarians will be conquered by a new set of barbarians, who will repeat the process.
+
+Georgetown University Professor Ibrahim Oweiss, an economist and historian, notes that [[Joseph_Schumpeter|Schumpeter]] and [[David Hume]] both proposed a labor theory of value, though Khaldun did not refer to it as either a labor theory of value or theory.<ref>Oweiss, Ibrahim M. “Ibn Khaldun, the Father of Economics.” Georgetown University, State University of New York Press, 1988, faculty.georgetown.edu/imo3/ibn.htm.</ref>
+
+Ibn Khaldun outlines an early example of [[political economy]]{{doubtful|date=July 2016}}. He describes the economy as being composed of [[theory of value (economics)|value-adding processes]]; that is, labor and skill is added to techniques and crafts and the product is sold at a higher value {{doubtful|date=June 2017}}.  He also made the distinction between "profit" and "sustenance", in modern political economy terms, surplus and that required for the reproduction of classes respectively.  He also calls for the creation of a science to explain society and goes on to outline these ideas in his major work, the ''Muqaddimah''. In Al-Muqaddimah Khaldun states, “Civilization and its well-being, as well as business prosperity, depend on productivity and people’s efforts in all directions in their own interest and profit”.<ref>Khaldun, Ibn, et al. Muqaddimah - an Introduction to History. Princeton University Press, 2015.</ref>
+Ibn Khaldun diverged from norms that Muslim historians followed and rejected their focus on the credibility of the transmitter and focused instead on the validity of the stories and encouraged critical thinking.<ref>{{Cite news|url=http://evonomics.com/amazing-north-african-scholar-beat-adam-smith-half-millennium/|title=The Amazing Arab Scholar Who Beat Adam Smith by Half a Millennium – Evonomics|date=2017-06-09|work=Evonomics|access-date=2017-12-05|language=en-US}}</ref> 
+
+Ibn Khaldun also outlines early theories of division of labor, taxes, scarcity, and economic growth.<ref>Irwin, Robert. Ibn Khaldun: an Intellectual Biography. Princeton University Press., 2018.</ref> 
+Khaldun was also one of the first to study the origin and causes of poverty; he argued that poverty was a result of the destruction of morality and human values. <ref>Affandi, Akhmad, and Dewi Puji Astuti. “Dynamic Model of Ibn Khaldun Theory on Poverty.” Humanomics, vol. 30, no. 2, 2014, pp. 136–161.</ref> He also looked at what factors contribute to wealth such as consumption, government, and investment—a precursor to our modern GDP-formula.<ref>Affandi, Akhmad, and Dewi Puji Astuti. “Dynamic Model of Ibn Khaldun Theory on Poverty.” Humanomics, vol. 30, no. 2, 2014, pp. 136–161.</ref> Khaldun also argued that poverty was not necessarily a result of poor financial decision-making but of external consequences and therefore the government should be involved in alleviating poverty.<ref>Affandi, Akhmad, and Dewi Puji Astuti. “Dynamic Model of Ibn Khaldun Theory on Poverty.” Humanomics, vol. 30, no. 2, 2014, pp. 136–161.</ref>
+
+Ibn Khaldun also believed that the currency of an Islamic monetary system should have [[wikt:intrinsic|intrinsic]] value and therefore be made of [[gold]] and [[silver]] (such as the [[dirham]]). He emphasized that the weight and purity of these coins should be strictly followed: the weight of one dinar should be one ''mithqal'' (the weight of 72 grains of [[barley]], roughly 4.25 grams) and the weight of 7 dinar should be equal to weight of 10 dirhams (7/10 of a ''mithqal'' or 2.96 grams).<ref>[http://www.muslimphilosophy.com/ik/Muqaddimah/Chapter3/Ch_3_34-35.htm Ibn Khaldun, ''The Muqaddimah'', ch. 3 pt. 34–35]{{dead link|date=August 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+Ibn Khaldun's writings regarding the division of labor are often compared to Adam Smith's writings on the topic.
+{{quote | The individual being cannot by himself obtain all the necessities of life. All human beings must co-operate to that end in their civilization. But what is obtained by the cooperation of a group of human beings satisfies the need of a number many times greater than themselves. For instance, no one by himself can obtain the share of the wheat he needs for food. But when six or ten persons, including a smith and a carpenter to make the tools, and others who are in charge of the oxen, the ploughing of, the harvesting of the ripe grain, and all other agricultural activities, undertake to obtain their food and work toward that purpose either
+separately or collectively and thus obtain through their labour a certain amount of food, that amount will be food for a number of people many times their own. The combined labour produces more than the needs and necessities of the workers (Ibn Khaldun 1958, vol.II 271 -272)<ref>{{cite book |title=Labor in an Islamic setting : theory and practice |date=2017 |location=New York |isbn=978-1-315-59127-8 |pages=40 - 41 |edition=1}}</ref>}}
+
+
+{{quote | In every other art and manufacture, the effects of the division of labour are similar to what they are in this very trifling one [pin production]; though, in many of them, the labour can either be so much subdivided, nor reduced to so great a simplicity of operation. The division of labour, however, so far as it can be introduced, occasions, in every art, a proportionable increase of the productive powers of labour (Smith 1976a, vol. I, 13–24)<ref>{{cite book |title=Labor in an Islamic setting : theory and practice |date=2017 |location=New York |isbn=978-1-315-59127-8 |pages=40 - 41 |edition=1}}</ref>}}
+
+
+Both Ibn Khaldun and Smith shared the idea that the division of labor is fundamental to economic growth, however, the motivations and context for such division differed between them. For Ibn Khaldun, ''asabiyyah'' or social solidarity was the underlying motive and context behind the division of labor; for Smith it was self-interest and the market economy.<ref>{{cite book |title=Labor in an Islamic setting : theory and practice |date=2017 |location=New York |isbn=978-1-315-59127-8 |pages=40 - 41 |edition=1}}</ref>
+
+=== Social thought ===
+Ibn Khaldun's epistemology attempted to reconcile mysticism with theology by dividing science into two different categories, the religious science that regards the sciences of the Qur'an and the non-religious science. He further classified the non-religious sciences into intellectual sciences such as logic, arithmetic, geometry, astronomy, etc. and auxiliary sciences such as language, literature, poetry, etc. He also suggested that possibly more divisions will appear in the future with different societies. He tried to adapt to all possible societies’ cultural behavior and influence in education, economics and politics. Nonetheless, he didn't think that laws were chosen by just one leader or a small group of individual but mostly by the majority of the individuals of a society.<ref>{{Cite book|title=The epistemology of Ibn Khaldun|last=Ahmad|first=Zaid|publisher=RoutledgeCurzon|year=2003|isbn=978-0-415-61275-3|location=New York}}</ref>
+
+To Ibn Khaldun, the state was a necessity of human society to restrain injustice within the society, but the state means is force, thus itself an injustice. All societies must have a state governing them in order to establish a society. He attempted to standardize the history of societies by identifying ubiquitous phenomena present in all societies. To him, civilization was a phenomenon that will be present as long as humans exist. He characterized the fulfillment of basic needs as the beginning of civilization. At the beginning, people will look for different ways of increasing productivity of basic needs and expansion will occur. Later the society starts becoming more sedentary and focuses more on crafting, arts and the more refined characteristics. By the end of a society, it will weaken, allowing another small group of individuals to come into control. The conquering group is described as an unsatisfied group within the society itself or a group of desert bandits that constantly attack other weaker or weakened societies.
+
+In the Muqaddimah, his most important work, he discusses an introduction of philosophy to history in a general manner, based on observable patterns within a theoretical framework of known historical events of his time. He described the beginnings, development, cultural trends and the fall of all societies, leading to the rise of a new society which would then follow the same trends in a continuous cycle. Also, he recommended the best political approaches to develop a society according to his knowledge of history. He heavily emphasized that a good society would be one in which a tradition of education is deeply rooted in its culture.<ref name=":1" />
+Ibn Khaldun (1987) introduced the word ''asabiya'' (solidarity, group feeling, or group consciousness), to explain tribalism. The concept of asabiya has been translated as "social cohesion," "group solidarity," or "tribalism." This social cohesion arises spontaneously in tribes and other small kinship groups (Rashed,2017).
+
+Ibn Khaldun believed that too much bureaucracy, such as taxes and legislations, would lead to the decline of a society, since it would constrain the development of more specialized labor (increase in scholars and development of different services). He believed that bureaucrats cannot understand the world of commerce and do not possess the same motivation as a businessman.<ref name=":1" />
+
+In his work the Muqaddimah, Ibn Khaldun emphasizes human beings' faculty to think (''fikr'') as what determines human behavior and ubiquitous patterns. This faculty is also what inspires human beings to form into a social structure to co-operate in division of labor and organization.  According to Zaid Ahmand in ''Epistemology and the Human Dimension in Urban Studies'', the ''fikr'' faculty is the supporting pillar for all philosophical aspects of Ibn Khaldun's theory related to human beings’ spiritual, intellectual, physical, social and political tendencies.
+
+Another important concept he emphasizes in his work is the mastery of crafts, habits and skills. This takes place after a society is established and according to Ibn Khaldun the level of achievement of a society can be determined by just analyzing these three concepts. A society in its earliest stages is nomadic and primarily concerned with survival, while a society at a later stage is sedentary, with greater achievement in crafts. A society with a sedentary culture and stable politics would be expected to have greater achievements in crafts and technology.<ref name=":1" />
+
+Ibn Khaldun also emphasized in his epistemology the important aspect that educational tradition plays to ensure the new generations of a civilization continuously improve in the sciences and develop culture. Ibn Khaldun argued that without the strong establishment of an educational tradition, it would be very difficult for the new generations to maintain the achievements of the earlier generations, let alone improve them.
+
+Another way to distinguish the achievement of a society would be the language of a society, since for him the most important element of a society would not be land, but the language spoken. He was surprised that many non-Arabs were really successful in the Arabic society, had good jobs and were well received by the community. "These people were non-Arab by descent, but they grew up among the Arabs who possessed the habit of Arabic," Ibn Khaldun once recalled, "[b]ecause of this, they were able to master Arabic so well that they cannot be surpassed."<ref>{{Cite book|url=https://archive.org/details/UmarIbnAlKhattab2Volumes|title=Umar Ibn Al Khattab (2 Volumes)|last=Umar Ibn Al Khattab (2 Volumes)|first=Umar Ibn Al Khattab|date=2017-02-05}}</ref> He believed that the reason why non-Arabs were accepted as part of Arab society was due to their mastery of the Arabic language.
+
+Advancements in literary works such as poems and prose were another way to distinguish the achievement of a civilization, but Ibn Khaldun believed that whenever the literary facet of a society reaches its highest levels it ceases to indicate societal achievements anymore, but is an embellishment of life. For logical sciences he established knowledge at its highest level as an increase of scholars and the quality of knowledge. For him the highest level of literary productions would be the manifestation of prose, poems and the artistic enrichment of a society.<ref>{{Cite web|url=https://archive.org/stream/IbnKhaldunsHistoryalMuqaddimah/Ibn%20khaldun's%20History%20(al-muqaddimah)_djvu.txt|title=Full text of "Ibn Khaldun's Historiography"|website=archive.org|language=en|access-date=2018-04-25}}</ref>
+
+=== Minor works ===
+From other sources we know of several other works, primarily composed during the time he spent in North Africa and [[Al-Andalus]]. His first book, ''[[Lubābu l-Muhassal]]'', a commentary on the [[Islamic theology]] of [[Fakhr al-Din al-Razi]], was written at the age of 19 under the supervision of his teacher al-Ābilī in Tunis. A work on [[Sufism]], ''Shifā'u l-Sā'il'', was composed around 1373 in [[Fes, Morocco]]. Whilst at the court of [[Muhammed V, Sultan of Granada]], Ibn Khaldūn composed a [[Logic in Islamic philosophy|work on logic]], ''ʻallaqa li-s-Sulṭān''.
+
+== Legacy ==
+[[File:LafferCurve.svg|thumb|A [[Laffer Curve]] with a maximum revenue point at around a 70%, as estimated by Trabandt and Uhlig (2009).<ref name=howfar>[http://www.nber.org/papers/w15343 "How Far Are We From The Slippery Slope? The Laffer Curve Revisited"] by Mathias Trabandt and Harald Uhlig, NBER Working Paper No. 15343, September 2009.</ref> [[Arthur Laffer|Laffer]] cites Ibn Khaldun's observation that "at the beginning of the dynasty, taxation yields a large revenue from small assessments. At the end of the dynasty, taxation yields a small revenue from large assessments." as a predecessor.<ref name=Heritage>{{cite web |last=Laffer |first=Arthur |title=The Laffer Curve: Past, Present, and Future |url=http://www.heritage.org/research/reports/2004/06/the-laffer-curve-past-present-and-future |publisher=The Heritage Foundation |access-date=4 July 2012 |author-link=Arthur Laffer }}</ref><ref name=Brederode>{{cite book|last=Brederode|first=Robert F. van|title=Systems of general sales taxation : theory, policy and practice|year=2009|publisher=Wolters Kluwer Law & Business|location=Austin [Tex.]|isbn=978-90-411-2832-4|page=117}}</ref> ]]
+
+=== Egypt ===
+Ibn Khaldun's historical method had very few precedents or followers in his time. While Ibn Khaldun is known to have been a successful lecturer on jurisprudence within religious sciences, only very few of his students were aware of, and influenced by, his Muqaddimah.<ref name="Simon">{{cite book|last1=Simon|first1=Robert|title=Ibn Khaldun: History as Science and the Patrimonial Empire|date=2002|publisher=Akadémiai Kiadó|location=Budapest|isbn=978-963-05-7934-6|pages=18–20, 22–24|ref=Simon}}</ref> One such student, [[Al-Maqrizi]], praised the Muqaddimah, although some scholars have found his praise, and that of others, to be generally empty and lacking understanding of Ibn Khaldun's methods.<ref name=Simon />
+
+Ibn Khaldun also faced primarily criticism from his contemporaries, particularly [[Ibn Hajar al-`Asqalani]]. These criticisms included accusations of inadequate historical knowledge, an inaccurate title, disorganization, and a style resembling that of the prolific Arab literature writer, [[Al-Jahiz]]. Al-Asqalani also noted that Ibn Khaldun was not well-liked in Egypt because he opposed many respected traditions, including the traditional judicial dress, and suggested that this may have contributed to the reception of Ibn Khaldun's historical works.<ref name=Simon /> The notable exception to this consensus was [[Ibn al-Azraq]], a jurist who lived shortly after Ibn Khaldun and quoted heavily from the first and fourth books of the Kitab al-‘Ibar, in developing a work of mirrors for princes.<ref name=Simon />
+
+=== Ottoman Empire ===
+Ibn Khaldun's work found some recognition with Ottoman intellectuals in the 17th century. The first references to Ibn Khaldun in Ottoman writings appeared in the middle of the 17th century, with historians such as [[Kâtip Çelebi]] naming him as a great influence, while another Turkish Ottoman historian, [[Mustafa Naima]], attempted to use Ibn Khaldun's cyclical theory of the rise and fall of empires to describe the Ottoman Empire.<ref name=Simon /> Increasing perceptions of the decline of the Ottoman Empire also caused similar ideas to appear independently of Ibn Khaldun in the 16th century, and may explain some of the influence of his works.<ref name=Simon />
+
+=== Europe ===
+In Europe, Ibn Khaldun was first brought to the attention of the [[Western world]] in 1697, when a biography of him appeared in [[Barthélemy d'Herbelot de Molainville]]'s ''Bibliothèque Orientale''. However, some scholars believe that Ibn Khaldun's work may have first been introduced to Europe via Ibn Arabshah's biography of Tamerlane, translated to Latin, which covers a meeting between Ibn Khaldun and Tamerlane.<ref name="Alatas">{{cite book|last1=Alatas|first1=Syed Farid|title=Ibn Khaldun|date=2013|publisher=Oxford University Press|location=New Delhi|isbn=978-0-19-809045-8|pages=106–09}}</ref> According to Ibn Arabshah, during this meeting, Ibn Khaldun and Tamerlane discussed the Maghrib in depth, as well as Tamerlane's genealogy and place in history.<ref name="Fischel">{{cite book|last1=Fischel|first1=Walter|title=Ibn Khaldun and Tamerlane: Their Historic Meeting in Damascus, A.D. 1401 (A.H. 803)|date=1952|publisher=University of California Press|location=Los Angeles}}</ref> Ibn Khaldun began gaining more attention from 1806, when [[Silvestre de Sacy]]'s ''Chrestomathie Arabe'' included his biography together with a translation of parts of the ''Muqaddimah'' as the ''Prolegomena''.<ref>{{Cite book|title=Ibn Khaldun: His Life and Works|first=Muhammed Abdullah|last=Enan|publisher=[[The Other Press]]|year=2007|isbn=978-983-9541-53-3|page=118}}</ref> In 1816, de Sacy again published a biography with a more detailed description on the ''Prolegomena''.<ref>{{Cite book|title=Ibn Khaldun: His Life and Works|first=Muhammed Abdullah|last=Enan|publisher=[[The Other Press]]|year=2007|isbn=978-983-9541-53-3|pages=118–19}}</ref> More details on and partial translations of the ''Prolegomena'' emerged over the years until the complete Arabic edition was published in 1858. Since then, the work of Ibn Khaldun has been extensively studied in the Western world with special interest.<ref>{{Cite book|title=Ibn Khaldun: His Life and Works|first=Muhammed Abdullah|last=Enan|publisher=[[The Other Press]]|year=2007|isbn=978-983-9541-53-3|pages=119–20}}</ref> [[Reynold A. Nicholson]] praised Ibn Khaldun as a uniquely brilliant Muslim sociologist, but discounted Khaldun's influence.<ref name="Alatas" /> Spanish Philosopher [[José Ortega y Gasset]] viewed the conflicts of North Africa as a problem that stemmed from a lack of African thought, and praised Ibn Khaldun for making sense of the conflict by simplifying it to the relationship between the nomadic and sedentary modes of life.<ref name="Alatas" />
+
+=== Modern historians ===
+British historian [[Arnold J. Toynbee]] has called Ibn Khaldun's Muqaddimah "the greatest work of its kind."<ref name=Britannica>''[[Encyclopædia Britannica]]'', 15th ed., vol. 9, p. 148.</ref> [[Ernest Gellner]], once a professor of philosophy and logic at the [[London School of Economics]], considered Khaldun's definition of government<ref name="Government" group="n" /> the best in the history of political theory.<ref>Ernest Gellner, ''Plough, Sword and Book'' (1988), p. 239</ref>
+
+More moderate views on the scope of Ibn Khaldun's contributions have also emerged. [[Arthur Laffer]], for whom the [[Laffer curve]] is named, acknowledged that Ibn Khaldun's ideas, as well as others, precede his own work on that curve.<ref name="Laffter at Heritage">{{cite web|url=http://www.heritage.org/Research/Taxes/bg1765.cfm |author=[[Arthur Laffer]] |date=June 1, 2004 |title=The Laffer Curve, Past, Present and Future |publisher=Heritage Foundation |access-date=2007-12-11 |url-status=dead |archive-url=https://web.archive.org/web/20071201225944/http://www.heritage.org/Research/Taxes/bg1765.cfm |archive-date=December 1, 2007 }}</ref>
+
+Economist [[Paul Krugman]] described Ibn Khaldun as "a 14th-century Islamic philosopher who basically invented what we would now call the social sciences".<ref>{{cite web |last1=Krugman |first1=Paul |title=Opinion {{!}} The Decline of E-Empires |url=https://www.nytimes.com/2013/08/26/opinion/krugman-the-decline-of-e-empires.html |website=The New York Times |language=en |date=26 August 2013}}</ref>
+
+Scottish philosopher [[Robert Flint]] praised him strongly, "as a [[theorist]] of history he had no equal in any age or country until [[Giambattista Vico|Vico]] appeared, more than three hundred years later. [[Plato]], [[Aristotle]], and [[Augustine]] were not his peers, and all others were unworthy of being even mentioned along with him". Ibn Khaldun's work on evolution of societies also influenced [[Egon Orowan]], who termed the concept of ''socionomy''.<ref>{{cite book |url=http://www.nap.edu/html/biomems/eorowan.pdf |title=Egon Orowan. 1901–1989. A Biographical Memoir |author1=F.R.N. Nabarro |author2=A.S. Argon |date=1996 |publisher=National Academies Press |location=Washington, DC}}</ref> While Ibn Khaldun's record-keeping is usually passed over in favor of recognizing his contributions to the science of history, Abderrahmane Lakhsassi wrote "No historian of the Maghreb since and particularly of the [[Berber people|Berbers]] can do without his historical contribution."<ref>{{cite book|author=A. Lakhsassi |date=1996 |editor1=S.H. Nasr |editor2=O. Leaman |title=History of Islamic Philosophy|location=London |publisher=Routledge |chapter=25 – Ibn Khaldun|pages=350–64 |chapter-url=http://www.muslimphilosophy.com/ip/rep/H024.htm }}</ref>
+
+=== Public recognition ===
+Public recognition of Ibn Khaldun has increased in recent years. In 2004, the [[Tunisian Community Center]] launched the first Ibn Khaldun Award to recognize a Tunisian/American high achiever whose work reflects Ibn Khaldun's ideas of kinship and solidarity. The Award was named after Ibn Khaldun for the convergence of his ideas with the organization's objectives and programs. In 2006, the [[Atlas Economic Research Foundation]] launched an annual essay contest<ref name="Atlas">{{cite web|title=2008 Ibn-Khaldun Essay Contest|url=http://www.atlasusa.org/V2/main/page.php?page_id=741|archive-url=https://web.archive.org/web/20080912062823/http://www.atlasusa.org/V2/main/page.php?page_id=741|url-status=dead|archive-date=2008-09-12|website=www.atlasusa|publisher=Atlas Economic Research Foundation}}</ref> for students named in Ibn Khaldun's honor. The theme of the contest is "how individuals, think tanks, universities and entrepreneurs can influence government policies to allow the free market to flourish and improve the lives of its citizens based on Islamic teachings and traditions."<ref name=Atlas /> In 2006, Spain commemorated the 600th anniversary of the death of Ibn Khaldun by orchestrating an exhibit titled "Encounter of Civilizations:  Ibn Khaldun."<ref>{{cite web|title=Encounter of Civilizations: Ibn Khaldun Exhibit Opens at Headquarters|url=https://www.un.org/press/en/2006/note6056.doc.htm|website=un.org|publisher=United Nations|access-date=25 April 2018}}</ref> 
+
+In 2007, [[İbn Haldun Üniversitesi]] has opened in [[Istanbul]], [[Turkey]] to commemorate his name. The university promotes a policy of trilingualism. The languages in question are English, Modern Turkish, and Arabic and its emphasis is on teaching social sciences. 
+
+In 1981 U.S. President [[Ronald Reagan]] cited Ibn Khaldun as an influence on his [[supply-side economic]] policies, also known as [[Reaganomics]]. He paraphrased Ibn Khaldun, who said that "in the beginning of the dynasty, great tax revenues were gained from small assessments," and that "at the end of the dynasty, small tax revenues were gained from large assessments." Reagan said his goal is "trying to get down to the small assessments and the great revenues."<ref>{{cite news |last1=McFadden |first1=Robert D. |title=Reagan Cites Islamic Scholar |url=https://www.nytimes.com/1981/10/02/us/reagan-cites-islamic-scholar.html |work=[[The New York Times]] |date=2 October 1981}}</ref>
+
+== Bibliography ==
+* Kitāb al-ʻIbar wa-Dīwān al-Mubtadaʼ wa-l-Khabar fī Taʼrīkh al-ʻArab wa-l-Barbar wa-Man ʻĀṣarahum min Dhawī ash-Shaʼn al-Akbār
+* Lubābu-l-Muhassal fee Uswoolu-d-Deen
+* Shifā'u-s-Sā'il
+* ʻAl-Laqaw li-s-Sulṭān
+* Ibn Khaldun. 1951 التعريف بإبن خلدون ورحلته غربا وشرقا ''Al-Taʻrīf bi Ibn-Khaldūn wa Riħlatuhu Għarbān wa Sharqān''. Published by Muħammad ibn-Tāwīt at-Tanjī. Cairo (Autobiography in Arabic).
+* Ibn Khaldūn. 1958 ''The Muqaddimah : An introduction to history''. Translated from the Arabic by [[Franz Rosenthal]]. 3 vols. New York: Princeton.
+* Ibn Khaldūn. 1967 ''The Muqaddimah : An introduction to history''. Trans. Franz Rosenthal, ed. N.J. Dawood. (Abridged).
+* Ibn Khaldun, 1332–1406. 1905 '[https://archive.org/details/selectionfrompro00ibnk/ A Selection from the Prolegomena of Ibn Khaldu&#x0304;n]'. Trans. Duncan Macdonald
+
+== See also ==
+{{Portal|Society|Philosophy|Islam|History|Middle Ages|Biography}}
+* [[Asabiyyah]]
+* [[Chanakya]]
+* [[Egon Orowan]]
+* [[List of Muslim historians]]
+* [[Historiography of early Islam]]
+* [[Laffer curve]]
+* ''[[Muqaddimah]]''
+* [[Science in medieval Islam]]
+* [[Social cycle theory]]
+* [[Averroes]]
+* [[Abulcasis]]
+* [[Ibn Arabi]]
+* [[Ibn Tufail]]
+* [[Sayyid Husayn Ahlati]]
+
+== Notes ==
+{{Reflist|2
+|group="n"
+|refs=
+{{refn|
+* "...regarded by some Westerners as the true father of historiography and sociology".<ref>{{cite journal|last=Gates|first=Warren E.|title=The Spread of Ibn Khaldûn's Ideas on Climate and Culture|journal=Journal of the History of Ideas|year=1967|volume=28|issue=3|pages=415–22|doi=10.2307/2708627|jstor=2708627}}</ref>
+* "Ibn Khaldun has been claimed the forerunner of a great number of European thinkers, mostly sociologists, historians, and philosophers".{{harv|Boulakia|1971}}
+* "The founding father of Eastern Sociology".<ref>{{cite journal|last=Dhaouadi|first=M.|title=Ibn Khaldun: The Founding Father Of Eastern Sociology|journal=International Sociology|date=1 September 1990|volume=5|issue=3|pages=319–35|doi=10.1177/026858090005003007|s2cid=143508326}}</ref>
+* "This grand scheme to find a new science of society makes him the forerunner of many of the eighteenth and nineteenth centuries system-builders such as Vico, Comte and Marx." "As one of the early founders of the social sciences...".<ref>{{cite journal|last=Haddad|first=L.|title=A Fourteenth-Century Theory of Economic Growth And Development|journal=Kyklos|date=1 May 1977|volume=30|issue=2|pages=195–213|doi=10.1111/j.1467-6435.1977.tb02006.x}}</ref>
+|group ="n" |name="HistoryAndSociology"}}
+
+{{refn|
+* "He is considered by some as a father of modern economics, or at least a major forerunner. The Western world recognizes Khaldun as the father of sociology but hesitates in recognizing him as a great economist who laid its very foundations. He was the first to systematically analyze the functioning of an economy, the importance of technology, specialization and foreign trade in economic surplus and the role of government and its stabilization policies to increase output and employment. Moreover, he dealt with the problem of optimum taxation, minimum government services, incentives, institutional framework, law and order, expectations, production, and the theory of value".[http://www.ovidius-stec.ro/html/anale/ENG/cuprins%20rezumate/2009%20vol2.pdf Cosma, Sorinel (2009). "Ibn Khaldun's Economic Thinking". Ovidius University Annals of Economics (Ovidius University Press) XIV:52–57]
+|group ="n" |name="Economics"}}
+
+{{refn|
+"an institution which prevents injustice other than such as it commits itself"
+|group="n" |name="Government"}}
+
+}}
+
+== References ==
+{{Reflist}}
+
+== Sources ==
+* Fuad Baali. 2005 ''The science of human social organization : Conflicting views on Ibn Khaldun's (1332–1406) Ilm al-umran''. Mellen studies in sociology. Lewiston/NY: Edwin Mellen Press.
+* Walter Fischel. 1967 ''Ibn Khaldun in Egypt : His public functions and his historical research, 1382–1406; a study in Islamic historiography''. Berkeley: University of California Press.
+* [[Allen Fromherz]]. 2010 "Ibn Khaldun : Life and Times". Edinburgh University Press, 2010.
+* Ana Maria C. Minecan, 2012 "El vínculo comunitario y el poder en Ibn Jaldún" in José-Miguel Marinas (Ed.), ''Pensar lo político: Ensayos sobre comunidad y conflicto'', Biblioteca Nueva, Madrid, 2012.
+* Mahmoud Rabi'. 1967 ''The political theory of Ibn Khaldun''. Leiden: E.J. Brill.
+* Róbert Simon. 2002 ''Ibn Khaldūn : History as science and the patrimonial empire''. Translated by Klára Pogátsa. Budapest: Akadémiai Kiadó. Original edition, 1999.
+
+==Further reading==
+* [[Malise Ruthven]], "The Otherworldliness of Ibn Khaldun" (review of [[Robert Irwin (writer)|Robert Irwin]], ''Ibn Khaldun:  An Intellectual Biography'', Princeton University Press, 2018, {{ISBN|9780691174662}}, 243 pp.), ''[[The New York Review of Books]]'', vol. LXVI, no. 2 (February 7, 2019), pp. 23–24, 26.  "More than six centuries after Ibn Khaldun's death the modern world has much to learn from studying him.  After the ''[[Muqaddima]]'' itself, Irwin's intellectual biography... is an excellent place to begin."
+
+== External links ==
+{{Commons category|Ibn Khaldun}}
+{{Wikiquote}}
+{{wikisourcelang|ar|مؤلف:ابن خلدون|Ibn Khaldun}}
+
+=== English ===
+* [https://web.archive.org/web/20130913010235/http://www.muslimphilosophy.com/ik/klf.htm Ibn Khaldun: His Life and Work, by Muhammad Hozien]
+* {{In Our Time|Ibn Khaldun|b00qckbw|Ibn_Khaldun}}
+* {{cite encyclopedia | last = Rosenthal | first = Franz | title=Ibn Khaldūn  | url=http://www.encyclopedia.com/doc/1G2-2830902289.html |  encyclopedia = [[Dictionary of Scientific Biography|Complete Dictionary of Scientific Biography]] | publisher = Encyclopedia.com | orig-year=1970–80 | year = 2008 }}
+* [http://www.muslimphilosophy.com/ik/Muqaddimah/ Complete Muqaddimah/Kitab al-Ibar in English (without Chapter V, 13)]
+* [http://www.tunisiancommunity.org/ The Tunisian American Center (US)]
+* [https://web.archive.org/web/20040624080750/http://www.isidore-of-seville.com/ibnkhaldun/ Ibn Khaldun on the Web]
+* [https://web.archive.org/web/20040430064720/http://www.ummah.net/history/scholars/KHALDUN.html Muslim Scientists and Scholars – Ibn Khaldun]
+* [https://web.archive.org/web/20061014162414/http://www.dinarstandard.com/management/IbnKhaldun_Mgmt100206.htm Ibn Khaldun’s Philosophy of Management and Work]
+* [https://web.archive.org/web/20060831233452/http://home.online.no/~al-araki/index.html Ibn Khaldun (al-Muqaddimah): Methodology & concepts of economic sociology]
+* [https://web.archive.org/web/20070928013846/http://www.ibnjaldun.com/index.php?L=7 Ibn Khaldun. The Mediterranean in the 14th century: Rise and fall of Empires]. ''Andalusian Legacy'' exhibition in the [[Alcazar of Seville]]
+* [http://www.tunisiancommunity.org/wordpress/?page_id=834 The Ibn Khaldun Community Service Award©]
+* [http://cliodynamics.ru/index.php?option=com_content&task=view&id=151&Itemid=70 Ibn Khaldun meets Al Saud]
+* [http://www.tunisiancommunity.org/wordpress/?page_id=249 The Ibn Khaldun Institute]
+* [http://www.tunisiancommunity.org/wordpress/?page_id=246 The Tunisian American Day©]
+
+=== Non-English ===
+* [https://sites.google.com/site/ibnkhaldun21/ Multilingual tunisian academic web site on Ibn Khaldun]
+* {{in lang|fr}} [https://web.archive.org/web/20120526102936/http://www.at-tawhid.net/article-expose-simplifie-sur-la-theologie-scolastique-al-ilm-ul-kalam-ibn-khaldun-45868741.html Exposé simplifié sur la théologie scolastique]
+* [https://web.archive.org/web/20040507183818/http://membres.lycos.fr/benikou/ Chapters from the Muqaddimah and the History of Ibn Khaldun] {{in lang|ar}}
+* Ismail Küpeli: [http://www.grin.com/e-book/70021/ibn-khaldun-und-das-politische-system-syriens-eine-gegenueberstellung ''Ibn Khaldun und das politische System Syriens – Eine Gegenüberstellung''], München, 2007, {{ISBN|978-3-638-75458-3}} (German e-book about the politics of Syria with reference to the political theory of Ibn Khaldun)
+* [http://lomonosov-msu.ru/archive/Lomonosov_2013/2084/25645_8036.pdf ''Kuchinov A.M. Ibn Khaldun influence on social thought development''] // Lomonosov-2013. – Moscow, 2013. In Russian.
+* [http://www.teses.usp.br/teses/disponiveis/8/8159/tde-03052018-091006/en.php ''Master's thesis on Ibn Khaldun published by FFLCH-USP in 2017''] Roschel, Renato - São Paulo, 2017. In Portuguese.
+
+{{Historians of Islam}}
+{{Maliki scholars}}
+{{Islamic philosophy}}
+{{Social and political philosophy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Khaldun, Ibn}}
+[[Category:1332 births]]
+[[Category:1406 deaths]]
+[[Category:14th-century Al-Andalus people]]
+[[Category:14th-century Arabs]]
+[[Category:14th-century historians]]
+[[Category:14th-century jurists]]
+[[Category:14th-century Tunisian people]]
+[[Category:15th-century Arabs]]
+[[Category:15th-century jurists]]
+[[Category:15th-century Tunisian people]]
+[[Category:African people of Arab descent]]
+[[Category:Arab anthropologists]]
+[[Category:Arab diaspora in Africa]]
+[[Category:Arab Muslim historians of Islam]]
+[[Category:Arab political philosophers]]
+[[Category:Asharis]]
+[[Category:Autobiographers]]
+[[Category:Hadhrami people]]
+[[Category:Medieval Arab philosophers]]
+[[Category:Medieval Muslim scientists]]
+[[Category:Mujaddid]]
+[[Category:Philosophers of history]]
+[[Category:Philosophers of economics]]
+[[Category:Islamic philosophers]]
+[[Category:People who memorized the Quran]]
+[[Category:Preclassical economists]]
+[[Category:Political philosophy in medieval Islam]]
+[[Category:Theories of history]]
+[[Category:Tunisian people of Arab descent]]
+[[Category:Tunisian Sunni Muslims]]
+[[Category:Tunisian historians]]
+[[Category:Tunisian sociologists]]
+[[Category:Tunisian economists]]
+[[Category:University of al-Qarawiyyin alumni]]
+[[Category:Writers about globalization]]
+[[Category:Arab Sunni Muslim scholars of Islam]]
+[[Category:Malikis]]
+[[Category:Critics of Ibn Arabi]]

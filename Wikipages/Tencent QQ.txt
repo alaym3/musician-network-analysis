@@ -1,0 +1,197 @@
+{{short description|Instant messaging software service}}
+{{redirect|QQ}}
+{{Infobox software
+| title                  = Tencent QQ
+| name                   = Tencent QQ
+| logo                   = [[File:Tencent QQ.svg|64px|QQ Icon]]
+| caption                = Official mascot and logo
+| author                 = 
+| developer              = [[Tencent#Tencent Technology (Shenzhen) Co Ltd|Shenzhen Tencent Computer System Co., Ltd.]]
+| released               = {{start date and age|1999|2}}
+| latest release version = 9.3.2 ([[Microsoft Windows]])
+| latest release date    = {{Start date and age|2020|04|15}}
+| latest preview version = 
+| latest preview date    = 
+| operating system       = [[Cross-platform]]
+| language               = [[Chinese language|Chinese]], [[English language|English]], [[French language|French]], [[Japanese language|Japanese]], [[Korean language|Korean]], [[Spanish language|Spanish]], [[Laotian language|Laotian]]
+| genre                  = [[Instant messaging]]
+| license                = [[proprietary software|Proprietary]]
+| website                = {{URL|https://www.qq.com/|Official portal}}<br />[http://im.qq.com/ Simplified Chinese]<br />[https://web.archive.org/web/20040413120034/http://hi.qq.com/ Traditional Chinese]<br />[http://imqq.com/ International]
+| programming_language   = 
+}}
+'''Tencent QQ''' ({{zh|s=腾讯QQ}}), also known as '''QQ''', is an [[instant messaging]] [[software service]] and [[web portal]] developed by the Chinese tech giant [[Tencent]]. QQ offers services that provide [[Social network game|online social games]], [[Online music store|music]], [[Online shopping|shopping]], [[microblogging]], movies, and [[Voice over IP|group and voice chat]] software. It is the world's 4th most visited website, according to [[Alexa Internet|Alexa]].<ref>{{cite news|title=Top 500 Most Popular Websites globally for 2018 {{!}} WebHostFace Hosting Services|url=https://www.alexa.com/topsites|work=Alexa|date=16 June 2018|access-date=16 June 2018|archive-url=https://web.archive.org/web/20160819105430/http://www.alexa.com/topsites|archive-date=19 August 2016|url-status=live}}</ref>
+As of April 2014, over 200 million simultaneous online QQ users were recorded.<ref>{{cite news|title=Tech in Asia - Connecting Asia's startup ecosystem|url=https://www.techinasia.com/qq|work=www.techinasia.com|date=14 April 2014|access-date=25 January 2017|archive-url=https://web.archive.org/web/20170202022503/https://www.techinasia.com/qq|archive-date=2 February 2017|url-status=live}}</ref> At the end of March 2020, there were 768 million active QQ accounts.<ref>{{cite web |title=Tencent - Corporate Overview |url=https://www.tencent.com/attachments/1Q20CorporateOverview.pdf |website=Tencent |publisher=Tencent |access-date=25 July 2021}}</ref>
+
+==Stable releases==
+{| class="wikitable"
+|-
+|-
+| QQ 9.3.2<ref name="im.qq.com">{{Cite web |url=http://im.qq.com/pcqq/ |title=http://im.qq.com/pcqq/ |access-date=2016-07-22 |archive-url=https://web.archive.org/web/20160716030728/http://im.qq.com/pcqq/ |archive-date=2016-07-16 |url-status=live }}</ref>
+| {{Start date|2020|04|15}}
+| [[Windows XP]], [[Windows Vista|Vista]], [[Windows 7|7]], [[Windows 8|8]], [[Windows 8.1|8.1]], [[Windows 10|10]]
+|-
+|-
+| QQ Mac (Native/International) 6.6.3<ref>{{cite web|url=http://im.qq.com/macqq/|title=QQ for Mac|access-date=2013-10-26|archive-url=https://web.archive.org/web/20131029211551/http://im.qq.com/macqq/|archive-date=2013-10-29|url-status=live}}</ref>
+| {{Start date|2020|04|29}}
+| [[OS X|macOS]]
+|-
+| QQ International 2.11<ref>{{cite web|url=http://www.imqq.com/#download|title=QQ International download page|access-date=2009-03-20|archive-url=https://web.archive.org/web/20121206085430/http://imqq.com/#download|archive-date=2012-12-06|url-status=live}}</ref>
+| {{Start date|2014|01|22}}
+| [[Windows XP]], [[Windows Vista|Vista]], [[Windows 7|7]], [[Windows 8|8]], [[Windows 8.1|8.1]]
+|-
+| QQ for Android 8.3.5<ref>{{cite web|url=http://im.qq.com/mobileqq/|title=I'm QQ - 每一天，乐在沟通|publisher=QQ.com|access-date=2015-10-12|archive-url=https://web.archive.org/web/20151008063744/http://im.qq.com/mobileqq/|archive-date=2015-10-08|url-status=live}}</ref>
+|April 27, 2020
+|[[Android (operating system)|Android]] phones
+|-
+| QQ International for Android 5.1.2<ref>{{cite web|url=https://play.google.com/store/apps/details?id=com.tencent.mobileqqi|title=QQ International - Chat & Call - Android Apps on Google Play|access-date=2013-10-30|archive-url=https://web.archive.org/web/20131106181750/https://play.google.com/store/apps/details?id=com.tencent.mobileqqi|archive-date=2013-11-06|url-status=live}}</ref>
+|{{Start date|2016|12|26}}
+|[[Android (operating system)|Android]] phones
+|-
+| QQ 8.3.5<ref>{{cite web|url=https://itunes.apple.com/us/app/qq-2011/id444934666?|title=QQ2011 at the iOS App Store|work=App Store|access-date=2015-06-15|archive-url=https://web.archive.org/web/20160107023646/https://itunes.apple.com/us/app/qq-2011/id444934666|archive-date=2016-01-07|url-status=live}}</ref>
+| {{Start date|2020|04|28}}
+| [[iOS (Apple)|iOS]] ([[iPhone]], [[iPod Touch]])
+|-
+| QQ HD 7.2.1<ref>{{cite web|url=https://itunes.apple.com/us/app/qq-hd-2011/id453718989?mt=8|title=QQ HD for iPad at the iOS App Store|work=App Store|access-date=2015-06-15|archive-url=https://web.archive.org/web/20160107023646/https://itunes.apple.com/us/app/qq-hd-2011/id453718989?mt=8|archive-date=2016-01-07|url-status=live}}</ref>
+| {{Start date|2018|05|04}}
+| iOS ([[iPad]])
+|-
+|QQ Windows Phone 5.4<ref>{{Cite web|url=http://im.qq.com/windowsphoneqq/|title=QQ for Windows Phone|website=im.qq.com|access-date=2017-03-07|archive-url=https://web.archive.org/web/20170124083829/http://im.qq.com/windowsphoneqq/|archive-date=2017-01-24|url-status=live}}</ref>
+|{{Start date|2017|05|03}}
+|WP10
+|}
+
+==History==
+Tencent QQ was first released in China in February 1999 under the name of '''OICQ''' ("Open ICQ", a reference to the early IM service [[ICQ]]).<ref name="LangLog">{{cite web|last=Mair|first=Victor|title=A New Morpheme in Mandarin|publisher=Language Log|date=2011-04-26|url=http://languagelog.ldc.upenn.edu/nll/?p=3111|access-date=2012-04-14|archive-url=https://web.archive.org/web/20120319065128/http://languagelog.ldc.upenn.edu/nll/?p=3111|archive-date=2012-03-19|url-status=live}}</ref><ref name="WhatQ">{{cite web|title=What is QQ?|publisher=qWhatIs.com|url=http://www.qwhatis.com/what-is-qq/|access-date=2012-04-14|archive-url=https://web.archive.org/web/20120531222159/http://www.qwhatis.com/what-is-qq/|archive-date=2012-05-31|url-status=live}}</ref><ref name="Ryan">{{cite web|last=McLaughlin|first=Ryan|title=Understanding Chinese Web site names|publisher=Ryan-McLaughlin.com|date=2009-04-21|url=http://www.ryan-mclaughlin.com/blog/the-tech-dynasty/understanding-chinese-web-site-names/|access-date=2012-04-14|archive-url=https://web.archive.org/web/20120622062730/http://www.ryan-mclaughlin.com/blog/the-tech-dynasty/understanding-chinese-web-site-names/|archive-date=2012-06-22|url-status=live}}</ref><ref name="China's">{{cite web|last=Jucha|first=Nicolas|title=QQ – China's instant messenger|publisher=gbtimes|date=2012-09-01|url=http://gbtimes.com/focus/science-technology/qq-chinas-instant-messenger|access-date=2012-04-14|archive-url=https://web.archive.org/web/20130607094154/http://gbtimes.com/focus/science-technology/qq-chinas-instant-messenger|archive-date=2013-06-07|url-status=dead}}</ref>
+
+After the threat of a [[trademark]] [[Copyright infringement|infringement]] lawsuit by the [[American Online|AOL]]-owned ICQ, the product's name was changed to QQ<ref name="WhatQ" /><ref name="Ryan" /><ref name="China's" /> (with "Q" and "QQ" used to imply "cute").<ref name="LangLog" /><ref name="China's" /> The software inherited existing functions from ICQ, and additional features such as software skins, people's images, and emoticons.{{Citation needed|date=October 2012}}  QQ was first released as a "[[Simple Network Paging Protocol|network paging]]" real-time communications service. Other features were later added, such as [[chatroom]]s, games, [[Avatar (computing)|personal avatars]] (similar to "Meego" in MSN), [[File hosting service|online storage]], and [[Internet dating]] services.
+
+The official client runs on [[Microsoft Windows]] and a beta public version was launched for [[Mac OS X]] version 10.4.9 or newer.<ref>{{cite web |url=http://im.qq.com/qq/mac/ |title=im.qq.com/qq/mac/ |publisher=im.qq.com |access-date=2011-01-14 |archive-url=https://web.archive.org/web/20101121214310/http://im.qq.com/qq/mac/ |archive-date=2010-11-21 |url-status=live }}</ref> Formerly, two web versions, WebQQ (full version) and WebQQ Mini (Lite version), which made use of [[Ajax (programming)|Ajax]], were available.<ref>{{cite web |url=http://webqq.qq.com |title=WebQQ |publisher=webqq.qq.com |access-date=2011-01-14 |archive-url=https://web.archive.org/web/20100210125202/http://webqq.qq.com/ |archive-date=2010-02-10 |url-status=live }}</ref><ref>{{cite web |url=http://w.qq.com |title=WebQQ Mini |publisher=w.qq.com |access-date=2011-01-14 |archive-url=https://web.archive.org/web/20110715134423/http://w.qq.com/ |archive-date=2011-07-15 |url-status=live }}</ref> Development, support, and availability of WebQQ Mini, however, has since been discontinued. On 31 July 2008, Tencent released an official client for Linux,<ref>{{cite web |url=http://im.qq.com/qq/linux/ |title=QQ for Linux |publisher=im.qq.com |access-date=2011-01-14 |archive-url=https://web.archive.org/web/20110313092126/http://im.qq.com/qq/linux/ |archive-date=2011-03-13 |url-status=live }}</ref> but this has not been made compatible with the Windows version and it is not capable of [[voice chat]].
+
+In response to competition with other instant messengers, such as [[Windows Live Messenger]], Tencent released Tencent Messenger, which is aimed at businesses.
+
+Tencent QQ holds the [[Guinness World Record]] for the highest number of simultaneous online users on an instant messaging program with 210,212,085 users online on July 3, 2014.<ref>2014-09-18, [http://shanghaiist.com/2014/09/18/tencent_qq_takes_guinness_world_rec.php Tencent QQ takes Guinness World Record for most simultaneous online users] {{Webarchive|url=https://web.archive.org/web/20140921013707/http://shanghaiist.com/2014/09/18/tencent_qq_takes_guinness_world_rec.php |date=2014-09-21 }}, Shanghaiist</ref>
+
+===Membership===
+In 2002, Tencent stopped its free membership registration, requiring all new members to pay a fee. In 2003, however, this decision was reversed due to pressure from other instant messaging services such as [[Windows Live Messenger]] and [[SINA.com|Sina UC]].
+Tencent currently offers a premium membership scheme, where premium members enjoy features such as QQ mobile, ringtone downloads, and SMS sending/receiving. In addition, Tencent offers "Diamond" level memberships. Currently, there are seven diamond schemes available:
+* Red for the QQ Show service which features some superficial abilities such as having a colored account name.
+* Yellow to obtain extra storage and decorations in [[Qzone]]—a blog service.
+* Blue to obtain special abilities in the game-plays of QQ games.
+* Purple for obtaining special abilities in games including QQ Speed, QQ Nana, and QQ Tang
+* Pink for having different boosts in the pet-raising game called QQ Pet.
+* Green for using QQ music—a service for users to stream music online. <!-- though sometimes consuming a lot of disk space due to caching. -->
+* VIP for having extra features in the chat client such as removing advertisements
+* Black for gaining benefits related to DNF ([[Dungeon Fighter Online|Dungeon & Fighter]]), a multiplayer PC beat 'em up video game.
+
+==QQ Coin==
+The QQ Coin is a [[virtual economy|virtual currency]] used by QQ users to "purchase" QQ related items for their [[Avatar (computing)|avatar]] and [[blog]]. QQ Coins are obtained either by purchase (one coin for one [[Renminbi|RMB]]) or by using the mobile phone service. Due to the popularity of QQ among young people in China, QQ Coins are accepted by online vendors in exchange for "real" merchandise such as small gifts.<ref>{{Cite web|url=https://www.wsj.com/articles/SB117519670114653518|title=QQ: China's New Coin of the Realm?|last1=Fowler|first1=Geoffrey A.|last2=Qin|first2=Juying|date=30 March 2007|website=The Wall Street Journal|access-date=10 September 2017|archive-url=https://web.archive.org/web/20170822163537/https://www.wsj.com/articles/SB117519670114653518|archive-date=22 August 2017|url-status=live}}</ref> This has raised concerns of replacing (and thus "inflating") real currency in these transactions.
+
+The [[People's Bank of China]], China's central bank, tried to crack down on QQ Coins due to people using QQ Coins in exchange for real world goods.<ref>{{cite web |url=http://english.people.com.cn/200701/12/eng20070112_340681.html |title=People's Daily Online - Central Bank alert on "virtual money" |publisher=English.people.com.cn |date=2007-01-12 |access-date=2011-01-14 |archive-url=https://web.archive.org/web/20100916192748/http://english.people.com.cn/200701/12/eng20070112_340681.html |archive-date=2010-09-16 |url-status=live }}</ref><ref>{{Cite web|url=https://www.abacusnews.com/big-guns/libra-digital-coin-just-facebooks-version-tencents-qq-coin/article/3015226|title=Is the Libra digital coin just Facebook's version of Tencent's QQ coin?|website=Abacus|access-date=2020-03-15}}</ref> However, this only caused the value of QQ coins to rise as more and more third-party vendors started to accept them.<ref>{{Cite web|url=https://qz.com/1663249/chinas-tencent-launched-qq-coin-before-long-facebooks-libra-cryptocurrency/|title=Tencent created QQ Coin long before Facebook's Libra|last=Silva|first=Matthew De|website=Quartz|language=en|access-date=2020-03-15}}</ref> Tencent claims the QQ Coin is a mere regular commodity, and is, therefore, not a currency.<ref>{{cite web |url=http://news.xinhuanet.com/english/2007-02/12/content_5730970.htm |title=Virtual currency requires tough new regulations |publisher=News.xinhuanet.com |date=2007-02-12 |access-date=2011-01-14 |archive-url=https://web.archive.org/web/20111220173539/http://news.xinhuanet.com/english/2007-02/12/content_5730970.htm |archive-date=2011-12-20 |url-status=dead }}</ref>
+
+== Q Zone ==
+{{main|Q Zone}}
+Qzone is a social networking website based in China which was created by Tencent in 2005.<ref>{{cite web |last1=Buche |first1=Ivy |last2=Cantale |first2=Salvatore |title=How Tencent became the world's most valuable social network firm – with barely any advertising |url=https://theconversation.com/how-tencent-became-the-worlds-most-valuable-social-network-firm-with-barely-any-advertising-90334 |website=The Conversation |access-date=25 July 2021 |language=en}}</ref> Q Zone is a personal blog for QQ users. It can be set as a public page or a private friend-only page. Users can upload diaries and share photos.
+
+==QQ International==
+
+=== Windows ===
+
+In 2009, QQ began to expand its services internationally with its QQ International client for Windows distributed through a dedicated English-language portal.<ref>{{cite web|url=http://www.imqq.com|title=QQ International Official Homepage|publisher=Tencent|access-date=2011-01-14|archive-url=https://web.archive.org/web/20121206085430/http://imqq.com/|archive-date=2012-12-06|url-status=live}}</ref>
+
+QQ International offers non-Mandarin speakers the opportunity to use most of the features of its Chinese counterpart to get in touch with other QQ users via chat, VoIP, and video calls, and it provides a non-Mandarin interface to access [[Qzone]], Tencent's social network. The client supports English, French, Spanish, German, Korean, Japanese and Traditional Chinese.
+
+One of the main features of QQ International is the optional and automatic [[machine translation]] in all chats.
+
+=== Android ===
+
+An Android version of QQ International was released in September 2013.<ref>{{cite web|url=https://play.google.com/store/apps/details?id=com.tencent.mobileqqi&hl=en|title=QQ International for Android|publisher=Tencent|access-date=2012-10-30|archive-url=https://web.archive.org/web/20131103043430/https://play.google.com/store/apps/details?id=com.tencent.mobileqqi&hl=en|archive-date=2013-11-03|url-status=live}}</ref> The client's interface is in English, French, Spanish, German, Korean, Japanese and Traditional Chinese. In addition to text messaging, users can send each other images, videos, and audio media messages. Moreover, users can share multimedia content with all contacts through the client's [[Qzone]] interface.
+
+The live translation feature is available for all incoming messages and supports up to 18 languages.
+
+=== iOS ===
+
+QQ International for iPhone and iOS devices was released at the end of 2013,<ref>{{cite web|url=https://itunes.apple.com/us/app/qq-international/id710380093?mt=8|title=QQ International for iOS|publisher=Tencent|access-date=2014-01-15|archive-url=https://web.archive.org/web/20140208121621/https://itunes.apple.com/us/app/qq-international/id710380093?mt=8|archive-date=2014-02-08|url-status=live}}</ref> fully equivalent to its Android counterpart.
+
+=== Partnerships ===
+
+In India, Tencent has partnered with [[ibibo]]<ref>{{cite web|last=Anthony|first=Regina|title=Ibibo will sell 50% to Tencent Holdings|url=http://www.livemint.com/Industry/rkOTRiFd3kD3BTLM3Q5WIO/Ibibo-will-sell-50-to-Tencent-Holdings.html|publisher=HT Media|access-date=2014-04-25|date=2008-06-25|archive-url=https://web.archive.org/web/20140427001022/http://www.livemint.com/Industry/rkOTRiFd3kD3BTLM3Q5WIO/Ibibo-will-sell-50-to-Tencent-Holdings.html|archive-date=2014-04-27|url-status=live}}</ref> to bring services such as chat, mail and game to the developing Indian internet sphere.
+
+In Vietnam, Tencent has struck a deal with [[VinaGame]]<ref>{{cite web |url=http://harryd844.wordpress.com/2007/10/29/zing-chat-prepares-to-sword-yahoo-chat/ |title=harryd844.wordpress.com/2007/10/29/zing-chat-prepares-to-sword-yahoo-chat/ |publisher=Harryd844.wordpress.com |access-date=2011-01-14 |archive-url=https://web.archive.org/web/20110124015023/http://harryd844.wordpress.com/2007/10/29/zing-chat-prepares-to-sword-yahoo-chat/ |archive-date=2011-01-24 |url-status=live }}</ref> to bring the QQ Casual Gaming portal as well as the QQ Messenger as an addition to the already thriving Vietnamese gaming communities.
+
+In the United States, Tencent has partnered with [[AOL]] to bring [[QQ Games]] as a contender in the US social gaming market. Launched in 2007,<ref>{{cite web |url=https://www.digitaltrends.com/apple/aol-rolls-out-aim-65/ |title=www.digitaltrends.com/apple/aol-rolls-out-aim-65/ |publisher=Www.digitaltrends.com |date=2007-10-03 |access-date=2011-01-14 |archive-url=https://web.archive.org/web/20170814220525/https://www.digitaltrends.com/apple/aol-rolls-out-aim-65/ |archive-date=2017-08-14 |url-status=live }}</ref> QQ Games came bundled with the AIM installer, and competed with AOL's own games.com to provide a gaming experience for the AIM user base.
+
+==Web QQ==
+Tencent launched its web-based QQ formally on 15 September 2009, the latest version of which being 3.0. Rather than solely a web-based IM, WebQQ 3.0 functions more like its own operating system, with a desktop in which web applications can be added.
+
+===Social network website===
+In 2009, Tencent launched Xiaoyou (校友, 'schoolmate'), its first social network website. In mid-2010, Tencent changed direction and replaced Xiaoyou with [[Pengyou]] (朋友, 'friends'), trying to establish a more widespread network, to which extant QQ users could be easily redirected, hence giving Pengyou a major advantage over its competitors.<ref>[http://tradingstocks.me/renren-ipos-biggest-hurdle-might-be-pengyou/ RenRen IPO’s biggest hurdle might be PengYou] {{Webarchive|url=https://web.archive.org/web/20110502072551/http://tradingstocks.me/renren-ipos-biggest-hurdle-might-be-pengyou/ |date=2011-05-02 }}, TradingStocks.me, April 2011.</ref> Tencent's social network [[Qzone]] is linked to in the International and native versions of QQ.
+
+==Open source and cross-platform clients==
+Using [[reverse engineering]], open source [[communities]] have come to understand the QQ protocol better and have attempted to implement client core libraries compatible with more user-friendly clients, free of advertisements. Most of these clients are cross-platform, so they are usable on operating systems which the official client does not support. However, these implementations had only a subset of functions of the official client and therefore were limited in features. Furthermore, QQ's parent company, Tencent, has over successive versions modified the QQ protocol to the extent that it can no longer be supported by most, and perhaps any, of the third-party implementations that were successful in the past (some of which are listed below).  As of 2009, none of the developers of third-party clients have publicized any plans to restore QQ support.
+
+* [[Pidgin (software)|Pidgin]], an open source cross-platform [[Multiprotocol instant messaging application|multiprotocol client]], with third-party [[Plug-in (computing)|plugin]]
+* [[Adium]], an open source OS X client, with third-party plugin built on top of libqq-pidgin
+* [[Kopete]], an open source [[multiprotocol instant messaging application|multiprotocol client]] designed for [[KDE]]
+** Note: Kopete, old versions of Pidgin, and any other client whose QQ support was based on libpurple no longer supports QQ as of May 2011<ref>{{cite web|title=Pidgin Developer Website|url=http://developer.pidgin.im/ticket/13193|access-date=2011-09-23|archive-url=https://web.archive.org/web/20111019072539/http://developer.pidgin.im/ticket/13193|archive-date=2011-10-19|url-status=live}}</ref>
+* [[Miranda IM]], an open source [[Multiprotocol instant messaging application|multiprotocol client]], designed for [[Microsoft Windows]], with MirandaQQ2<ref>{{cite web |url=http://addons.miranda-im.org/details.php?action=viewfile&id=3348 |archive-url=https://web.archive.org/web/20070219141747/http://addons.miranda-im.org/details.php?action=viewfile&id=3348 |url-status=dead |archive-date=2007-02-19 |title=Miranda IM - Addons - MirandaQQ2 |publisher=Addons.miranda-im.org |date=2010-12-25 |access-date=2011-01-14 }}</ref> plugin.
+* Eva
+
+==Merchandise==
+Tencent has taken advantage of the popularity of the QQ brand and has set up many Q-Gen stores selling QQ branded merchandise such as bags, watches, clothing as well as toy penguins.
+
+==Related characteristics==
+* The accounts of QQ are purely a combination of numbers. The account numbers provided for the registered users are selected randomly by the system user registration. In 1995, the registered QQ accounts had only 5 digits, while currently, the digital numbers used for QQ accounts has reached 12. The first QQ number is held by [[Ma Huateng]] and his account number is 10001.
+* The membership of a QQ account normally lasts for a month. When this membership is overdue and has not been renewed, the said account will be deactivated.
+* In relation to calculating "QQ Age", being logged in for 2 full hours would be considered as one full day. Thus, being logged in to QQ for around 700 hours would make the age increase by 1 year. In the 2012 version of QQ, users can see the age on the personal information page.
+* In 2004, Tencent launched QQ hierarchy which shows the level of a registered member. At the very beginning, this hierarchy was solely based on the hours a member spent in QQ. Hence, the longer the member stayed, the higher level he can aim.  These results, however, were criticized as people tend to waste electrical energy due to longer hours of stay on the site. Therefore, Tencent changed the basis from an hour unit to a daily unit due to the involvement of several departments.
+
+==Controversies and criticisms==
+
+===Coral QQ===
+
+Coral QQ, a modification of Tencent QQ, is another add-on for the software, providing free access to some of the services and blocking Tencent's advertisements. In 2006, Tencent filed a copyright lawsuit against Chen Shoufu (aka Soft), the author of Coral QQ, after his distribution of a modified Tencent QQ was ruled illegal. Chen then published his modification as a separate add-on. On 16 August 2007, Chen was detained again for allegedly making profits off of his ad-blocking add-on.<ref>{{cite news | url=https://www.wsj.com/articles/SB119629787148507282 | work=The Wall Street Journal | title=Debate Over IM Add-Ons in China | first=Juliet | last=Ye | date=2007-11-29 | access-date=2017-08-09 | archive-url=https://web.archive.org/web/20170809173016/https://www.wsj.com/articles/SB119629787148507282 | archive-date=2017-08-09 | url-status=live }}</ref> The case resulted in a three-year prison sentence for Shoufu.<ref>{{cite news | url=https://www.chinatechnews.com/2008/11/26/8093-coral-qq-infringement-case-ends-with-prison-for-chen-shoufu | work=ChinaTechNews | title=Coral QQ Infringement Case Ends With Prison For Chen Shoufu | date=2008-11-26 | access-date=2021-01-25 }}</ref>
+
+===Dispute with Qihoo 360===
+{{main|360 v. Tencent}}
+In 2010, Chinese anti-virus company, [[Qihoo 360]], analyzed the QQ protocol and accused QQ of automatically scanning users' computers and uploading their personal information to QQ's servers without the users' consent. In response, Tencent called 360 a [[malware]] and denied users of installing 360 access to some of the QQ's services. The Chinese [[Ministry of Industry and Information Technology of the People's Republic of China|Ministry of Industry and Information]] reprimanded both companies for "improper competition" and ordered them to come to an agreement.<ref>{{Cite news|url=http://www.ft.com/cms/s/2/e0e12040-f5ab-11df-99d6-00144feab49a.html|title=Beijing probes Tencent and Qihoo 360|first=Kathrin|last=Hille|location=Beijing|date=2010-11-21|access-date=2011-01-09|publisher=[[Financial Times]]|archive-url=https://web.archive.org/web/20110906011600/http://www.ft.com/cms/s/2/e0e12040-f5ab-11df-99d6-00144feab49a.html|archive-date=2011-09-06|url-status=live}}</ref>
+
+===Government surveillance===
+Some observers have criticized QQ's compliance in the Chinese government's [[Internet censorship in the People's Republic of China|Internet surveillance and censorship]].<ref>{{cite news| url=https://www.nytimes.com/2010/04/08/world/asia/08censor.html?pagewanted=2&_r=2&ref=technology| title=China's Censors Tackle and Trip Over the Internet| work=The New York Times| first1=Michael| last1=Wines| first2=Sharon| last2=Lafraniere| first3=Jonathan| last3=Ansfield| date=2010-04-07| access-date=2017-02-25| archive-url=https://web.archive.org/web/20190222000346/https://www.nytimes.com/2010/04/08/world/asia/08censor.html?pagewanted=2&_r=2&ref=technology| archive-date=2019-02-22| url-status=live}}</ref> A 2013 report by [[Reporters Without Borders]] specifically mentioned QQ as allowing authorities to monitor online conversations for keywords or phrases and track participants by their user number.<ref name="autogenerated1">{{cite web|url=http://surveillance.rsf.org/en/china/|archive-url=https://web.archive.org/web/20130316125952/http://surveillance.rsf.org/en/china/|url-status=dead|archive-date=2013-03-16|title=China - The Enemies of Internet|publisher=[[Reporters Without Borders]]|access-date=2012-04-14}}</ref>
+
+===Adware controversy===
+The Chinese version of QQ makes use of embedded advertisements. Older versions of the client have been branded as malicious [[adware]] by some antivirus and anti-spyware vendors.<ref>{{cite web|url=http://www.tenebril.com/src/info.php?id=441301950 |title=Spyware Research Center - Tencent QQ |publisher=Tenebril |date=2004-10-27 |access-date=2011-01-14 |url-status=dead |archive-url=https://web.archive.org/web/20101229113529/http://www.tenebril.com/src/info.php?id=441301950 |archive-date=2010-12-29 }}</ref><ref>{{cite web|url=http://www.ca.com/us/securityadvisor/pest/pest.aspx?id=453083549 |title=Tencent QQ |publisher=Ca.com |date=2004-08-16 |access-date=2011-01-14 |archive-url=https://web.archive.org/web/20071017095717/http://ca.com/us/securityadvisor/pest/pest.aspx?id=453083549 |archive-date=2007-10-17}}</ref><ref>{{cite web|url=http://www.securemost.com/articles/rm_tencent_qq.htm |title=Remove Tencent QQ - Spyware / Adware Uninstall Instruction |publisher=Securemost.com |access-date=2011-01-14 |url-status=dead |archive-url=https://web.archive.org/web/20100719133746/http://www.securemost.com/articles/rm_tencent_qq.htm |archive-date=2010-07-19 }}</ref>
+
+Both the Chinese and International versions of QQ had been tested in 2013.<ref>{{cite web|url=https://www.virustotal.com/en/file/9200a4eecf93f07855c90cbdefe44620bed8b04a3720d09cee69247382282a0e/analysis/|title=Virustotal Report for QQ 2013|publisher=Virustotal.com|access-date=2013-10-30|archive-url=https://web.archive.org/web/20131031230713/https://www.virustotal.com/en/file/9200a4eecf93f07855c90cbdefe44620bed8b04a3720d09cee69247382282a0e/analysis/|archive-date=2013-10-31|url-status=live}}{{cite web|url=https://www.virustotal.com/en/file/e6ea06f11f7eee56a67f7471ea1a5925209550dc3beb0959228e98b94c5b5f8d/analysis/|title=Virustotal Report for QQ International|publisher=Virustotal.com|access-date=2013-10-30|archive-url=https://web.archive.org/web/20131031225515/https://www.virustotal.com/en/file/e6ea06f11f7eee56a67f7471ea1a5925209550dc3beb0959228e98b94c5b5f8d/analysis/|archive-date=2013-10-31|url-status=live}}</ref> Currently it is identified as malware by DrWeb, Zillya, NANO-Antivirus, and VBA32 give positive results, most of which identify it as a trojan.<ref name=in2020>{{cite web|url=https://www.virustotal.com/en/file/9200a4eecf93f07855c90cbdefe44620bed8b04a3720d09cee69247382282a0e/analysis/|title=Virustotal Report for QQ 2020|publisher=Virustotal.com|access-date=2020-05-24}}{{cite web|url=https://www.virustotal.com/en/file/e6ea06f11f7eee56a67f7471ea1a5925209550dc3beb0959228e98b94c5b5f8d/analysis/|title=Virustotal Report for QQ International|publisher=Virustotal.com|access-date=2020-05-24}}</ref>
+
+==Security==
+
+On March 6, 2015, QQ scored 2 out of 7 points on the [[Electronic Frontier Foundation]]'s secure messaging scorecard. It received points for having communications encrypted in transit and for having a recent independent security audit. It lost points because communications are not [[End-to-end encryption|end-to-end encrypted]], users can't verify contacts' identities, past messages are not secure if the encryption keys are stolen (i.e. the service does not provide [[forward secrecy]]), the code is not open to independent review (i.e. the code is not [[Open-source software|open-source]]), and the security design is not properly documented.<ref>{{cite web|url=https://www.eff.org/secure-messaging-scorecard|publisher=Electronic Frontier Foundation|title=Secure Messaging Scorecard. Which apps and tools actually keep your messages safe?|date=4 November 2014|access-date=28 January 2015|archive-url=https://web.archive.org/web/20161115054343/https://www.eff.org/secure-messaging-scorecard|archive-date=15 November 2016|url-status=dead}}</ref>
+
+==See also==
+* [[Comparison of instant messaging clients]]
+* [[WeChat]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{in lang|zh}} {{Official website|im.qq.com}}
+* {{in lang|zh}} [https://www.qq.com/ QQ Portal]
+* {{in lang|en}} [https://web.archive.org/web/20121206085430/http://imqq.com/ QQ International] 
+* {{in lang|en}} [https://web.archive.org/web/20040924205247/http://www.qqgames.com/ Tencent's first offering in the United States]
+* {{in lang|en}} [https://web.archive.org/web/20080422220834/http://www.startinchina.com/tencent_qq/qq_services/ Tencent QQ services overview]
+* {{in lang|zh}} [https://www.qqpokervip.com/ QQ Games]
+{{Tencent Holdings}}
+{{Instant messaging}}
+
+{{DEFAULTSORT:Tencent Qq}}
+[[Category:Android (operating system) software]]
+[[Category:IOS software]]
+[[Category:Windows instant messaging clients]]
+[[Category:Symbian instant messaging clients]]
+[[Category:Internet technology companies of China]]
+[[Category:Tencent]]
+[[Category:Cross-platform software]]
+[[Category:Digital currencies]]
+[[Category:Instant messaging clients]]
+[[Category:Internet properties established in 1999]]

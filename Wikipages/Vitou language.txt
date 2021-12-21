@@ -1,0 +1,37 @@
+{{Infobox language
+|name = Vitou
+|nativename=
+|pronunciation=
+|states=[[Indonesia]]
+|region=[[West Papua (region)|West Papua]]
+|ethnicity=
+|speakers=630
+|date=2007
+|ref=e18
+|familycolor=Papuan
+|fam1=[[Foja Range languages|Foja Range]] (Tor–Kwerba)
+|fam2=[[Orya–Tor languages|Orya–Tor]]
+|fam3=[[Tor languages|Tor]]
+|fam4=Tor Coast
+|fam5=East
+|fam6=Fitou–Tena
+|iso3=vto
+|glotto=vito1235
+|glottorefname=Vitou
+}}
+
+'''Vitou''' is a [[Papuan language]] of [[Indonesia]] used mainly by older adults.
+
+It is spoken inland from Takar village in Pantar Timur subdistrict, [[Sarmi Regency]].<ref name="Ethnologue22-ID">{{cite web |url=https://www.ethnologue.com/country/ID/languages |title=Indonesia languages |work=[[Ethnologue]]: Languages of the World |edition=22nd |editor1-last=Eberhard |editor1-first=David M. |editor2-last=Simons |editor2-first=Gary F. |editor3-last=Fennig |editor3-first=Charles D. |date=2019 |location=Dallas |publisher=[[SIL International]]}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Languages of Indonesia}}
+{{Tor–Kwerba languages}}
+
+
+[[Category:Languages of western New Guinea]]
+[[Category:Orya–Tor languages]]
+
+{{papuan-lang-stub}}

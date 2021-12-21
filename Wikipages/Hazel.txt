@@ -1,0 +1,95 @@
+{{Short description|Genus of trees}}
+{{Other uses}}
+{{Automatic taxobox
+|name = Hazels
+|image = Corylus avellana 0001.JPG
+|image_caption = [[Corylus avellana|Common hazel]] (''Corylus avellana'')
+|taxon = Corylus
+|authority = [[Carl Linnaeus|L.]]
+|type_species = [[Corylus avellana]]
+|type_species_authority = [[L.]]
+|subdivision_ranks = Species
+|subdivision = See [[#Species|text]] for species.
+|synonyms_ref = <ref>[http://apps.kew.org/wcsp/synonomy.do?name_id=47827 Kew World Checklist of Selected Plant Families]</ref>
+|synonyms = ''Lopima'' <small>Dochnahl</small>
+}}
+[[File:Catkins Corylus avellana-Mont Bart-5124~2015 12 26.JPG|thumb|right|Young male catkins of ''[[Corylus avellana]]'']]
+
+The '''hazel''' (''Corylus'') is a [[genus]] of [[deciduous]] [[tree]]s and large [[shrub]]s native to the [[temperateness|temperate]] Northern Hemisphere. The genus is usually placed in the [[birch]] family [[Betulaceae]],<ref name=grin>Germplasm Resources Information Network: [http://www.ars-grin.gov/cgi-bin/npgs/html/genus.pl?2962 ''Corylus''] {{Webarchive|url=https://web.archive.org/web/20090114213945/http://www.ars-grin.gov/cgi-bin/npgs/html/genus.pl?2962 |date=2009-01-14 }}</ref><ref>{{Cite journal|last1=Chen|first1=Zhi-Duan|last2=Manchester|first2=Steven R|last3=Sun|first3=Hai-Ying|date=August 1999|title=Phylogeny and evolution of the Betulaceae as inferred from DNA sequences, morphology, and paleobotany|url=http://www.amjbot.org/cgi/content/full/86/8/1168?ck=nck#F5|journal=American Journal of Botany|volume=86|issue=8|pages=1168–1181|doi=10.2307/2656981|issn=0002-9122|jstor=2656981|pmid=10449397|doi-access=free}}</ref><ref name=rushforth>Rushforth, K. (1999). ''Trees of Britain and Europe''. Collins {{ISBN|0-00-220013-9}}.</ref><ref name=rhs>Huxley, A., ed. (1992). ''New RHS Dictionary of Gardening''. Macmillan {{ISBN|0-333-47494-5}}.</ref> though some botanists split the hazels (with the [[hornbeam]]s and allied genera) into a separate family Corylaceae.<ref>{{Cite book|title=Trees and Shrubs Hardy in the British Isles|last=Bean|first=William Jackson|date=1976|publisher=J. Murray|others=Taylor, George|isbn=0719517907|edition=8th|volume=1|location=London|oclc=103403}}</ref><ref>{{cite journal|last1=Erdogan |first1=V. |last2=Mehlenbacher |first2=S. A. |year=2002 |title=Phylogenetic analysis of hazelnut species (Corylus, Corylacae) based on morphology and phenology |journal=Sist. Bot. Dergisi |volume=9 |pages=83–100}}</ref> The fruit of the hazel is the [[hazelnut]].
+
+Hazels have simple, rounded [[leaf|leaves]] with double-serrate margins. The [[flower]]s are produced very early in spring before the leaves, and are [[Monoecy|monoecious]], with single-sex [[catkin]]s. The male catkins are pale yellow and 5–12&nbsp;cm long, and the female ones are very small and largely concealed in the buds, with only the bright-red, 1-to-3&nbsp;mm-long [[Carpel|styles]] visible. The fruits are [[Nut (fruit)|nuts]] 1–2.5&nbsp;cm long and 1–2&nbsp;cm diameter, surrounded by an involucre (husk) which partly to fully encloses the nut.<ref name=rushforth/>
+
+The shape and structure of the [[involucre]], and also the growth habit (whether a tree or a suckering shrub), are important in the identification of the different species of hazel.<ref name=rushforth/>
+
+The pollen of hazel species, which are often the cause for allergies in late winter or early spring, can be identified under magnification (600×) by their characteristic granular [[exine]]s bearing three conspicuous pores.<ref>{{Cite journal | doi=10.1038/010355b0| title=Pollen-grains in the Air| journal=Nature| volume=10| issue=253| pages=355| year=1874| last1=Airy| first1=Hubert| bibcode=1874Natur..10..355A| s2cid=4077214| url=https://zenodo.org/record/1429213| doi-access=free}}</ref>
+
+==Species==
+
+''Corylus'' has 14–18 species. The circumscription of species in [[eastern Asia]] is disputed, with ''WCSP'' and the ''Flora of China'' differing in which taxa are accepted; within this region, only those taxa accepted by both sources are listed below.<ref name=rushforth/><ref name=kew>WCSP: [http://www.kew.org/wcsp/qsearch.do?plantName=Corylus&page=quickSearch ''Corylus'']{{Dead link|date=July 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref name=foc>Flora of China: [http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=108088 ''Corylus'']</ref><ref name=fna>Flora of North America: [http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=108088 ''Corylus'']</ref> The species are grouped as follows:
+* Nut surrounded by a soft, leafy [[Involucral bract|involucre]], multiple-stemmed, suckering [[shrub]]s to 12 m tall
+** Involucre short, about the same length as the nut
+*** ''[[Corylus americana]]'' – American hazel, eastern [[North America]]
+*** ''[[Corylus avellana]]'' – Common hazel, [[Europe]] and [[western Asia]]
+*** ''[[Corylus heterophylla]]'' – Asian hazel, [[Asia]]
+*** ''[[Corylus yunnanensis]]'' – Yunnan hazel, central and southern [[China]]
+** Involucre long, twice the length of the nut or more, forming a 'beak'
+*** ''[[Corylus colchica]]'' – Colchican filbert, [[Caucasus]]
+*** ''[[Corylus cornuta]]'' – Beaked hazel, North America
+*** ''[[Corylus maxima]]'' – Filbert, [[southeastern]] Europe and [[southwest Asia]]
+*** ''[[Corylus sieboldiana]]'' – Asian beaked hazel, [[northeastern Asia]] and [[Japan]] (syn. ''C. mandshurica'')
+* Nut surrounded by a stiff, spiny involucre, single-stemmed [[tree]]s to 20–35 m tall
+** Involucre moderately spiny and also with glandular hairs
+*** ''[[Corylus chinensis]]'' – Chinese hazel, western China
+*** ''[[Corylus colurna]]'' – Turkish hazel, southeastern Europe and [[Asia Minor]]
+*** ''[[Corylus fargesii]]'' – Farges' hazel, western China
+*** ''[[Corylus jacquemontii]]'' – Jacquemont's hazel, [[Himalaya]]
+*** ''[[Corylus wangii]]'' – Wang's hazel, southwest China
+** Involucre densely spiny, resembling a chestnut burr
+*** ''[[Corylus ferox]]'' – Himalayan hazel, Himalaya, [[Tibet]] and southwest China (syn. ''C. tibetica'').
+
+Several [[Hybrid (biology)|hybrids]] exist, and can occur between species in different sections of the genus, e.g. ''[[Corylus × colurnoides]]'' (''C. avellana'' × ''C. colurna'').  The oldest confirmed hazel species is ''[[Corylus johnsonii]]'' found as [[fossil]]s in the [[Ypresian]]-age rocks of [[Ferry County, Washington]].<ref name=Pigg2003>{{cite journal |last1=Pigg |first1=K.B. |author2=Manchester S.R. |author3=Wehr W.C. |year=2003 |title=''Corylus'', ''Carpinus'', and ''Palaeocarpinus'' (Betulaceae) from the Middle Eocene Klondike Mountain and Allenby Formations of Northwestern North America |journal= International Journal of Plant Sciences |volume=164 |issue= 5 |pages=807–822 |doi=10.1086/376816|s2cid=19802370 }}</ref>
+
+==Uses==
+[[File:Hazel coppice, Bubbenhall Wood. - geograph.org.uk - 1709242.jpg|thumb|right|Hazel [[coppice]] in winter at [[Bubbenhall]] in [[Warwickshire]], [[England]]]]
+The nuts of all hazels are edible (see [[hazelnut]]). The [[common hazel]] is the species most extensively grown for its nuts, followed in importance by the [[Corylus maxima|filbert]]. Nuts are also harvested from the other species, but apart from the filbert, none is of significant commercial importance.<ref name=rhs/>
+
+A number of [[cultivar]]s of the common hazel and filbert are grown as [[ornamental plant]]s in [[garden]]s, including forms with contorted stems (''C. avellana'' 'Contorta', popularly known as "Corkscrew hazel" or "[[Harry Lauder]]'s walking stick" from its gnarled appearance); with weeping branches (''C. avellana'' 'Pendula'); and with purple leaves (''C. maxima'' 'Purpurea').
+
+Hazel is a traditional material used for making [[Wattle and daub|wattle]], [[withy]] fencing, baskets, and the frames of [[coracle]] boats.  The tree can be [[coppicing|coppiced]], and regenerating shoots allow for harvests every few years.
+
+Hazels are used as food plants by the [[larva]]e of various [[list of Lepidoptera that feed on hazels|species]] of [[Lepidoptera]].
+
+==Ecology== 
+At least 21 species of [[fungus]] have a mutualistic relationship with hazel. ''[[Lactarius pyrogalus]]'' grows almost exclusively on hazel, and hazel is one of two kinds of host for the rare ''[[Hypocreopsis rhododendri]]''. Several rare species of Graphidion [[lichen]] depend on hazel trees. In the UK, five species of [[moth]] are specialised to feed on hazel including ''[[Parornix devoniella]]''. Animals which eat hazelnuts include [[red deer]], [[dormouse]] and [[red squirrel]].<ref>[https://treesforlife.org.uk/forest/species-profiles/hazel/ Trees for Life - Hazel]</ref>
+
+==Mythology and folklore==
+{{See also|Salmon of Wisdom|The Boyhood Deeds of Fionn}}
+The Celts believed hazelnuts gave one wisdom and inspiration. There are numerous variations on an ancient tale that nine hazel trees grew around a sacred pool, dropping into the water nuts that were eaten by [[salmon]] (a fish sacred to [[Druid]]s), which absorbed the wisdom. A Druid teacher, in his bid to become [[Omniscience|omniscient]], caught one of these special salmon and asked a student to cook the fish, but not to eat it. While he was cooking it, a blister formed and  the pupil used his thumb to burst it, which he naturally sucked to cool, thereby absorbing the fish's wisdom. This boy was called [[Fionn Mac Cumhail]] (Fin McCool) and went on to become one of the most heroic leaders in [[Irish mythology|Gaelic mythology]].<ref name=flz>Floriz: [http://www.floriz.co.uk/knowledge/26-trees/4-mythology-and-folklore-of-the-hazel-tree Mythology and Folklore of the Hazel Tree] {{Webarchive|url=https://web.archive.org/web/20120331024128/http://www.floriz.co.uk/knowledge/26-trees/4-mythology-and-folklore-of-the-hazel-tree |date=2012-03-31 }}</ref>
+
+"The Hazel Branch" from ''[[Grimms' Fairy Tales]]'' claims that hazel branches offer the greatest protection from snakes and other things that creep on the earth. In the Grimm tale "Cinderella", a hazel branch is planted by the protagonist at her mother's grave and grows into a tree that is the site where the girl's wishes are granted by birds.<ref>Pitt.edu https://www.pitt.edu/~dash/grimm021.html June 1, 2011</ref>
+
+==Gallery==
+<gallery>
+File:Corylus fargesii, Arnold Arboretum - IMG 6165.JPG|Form (Farges' hazel)
+File:Hazel Catkins.jpg|Male catkins (common hazel)
+File:Hazel Flower Female.jpg|Female flower (common hazel)
+File:TurkHazel.jpg|Leaves and nuts with spiny husks (Turkish hazel)
+File:Hazelnuts.jpg|[[Hazelnuts]]
+File:Hazelnut (male flower), overlay of 7 channel autofluorescence microscopy (30458886372).jpg|Closeup of a male hazelnut flower using [[autofluorescence]] microscopy.
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Corylus}}
+* {{cite web|last=Eichhorn|first=Markus|title=The Hazel Tree|url=http://www.test-tube.org.uk/trees/video_hazel.htm|work=Test Tube|publisher=[[Brady Haran]] for the [[University of Nottingham]]|date=December 2010}}
+
+{{Nuts}}
+{{Woodworking}}
+{{Taxonbar|from=Q145889}}
+{{Authority control}}
+
+[[Category:Corylus| ]]
+[[Category:Edible nuts and seeds]]
+[[Category:Taxa named by Carl Linnaeus]]

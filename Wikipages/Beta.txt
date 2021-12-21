@@ -1,0 +1,133 @@
+{{distinguish|Betta}}
+{{for multi|the German eszett|ß|the Chinese radical|阝|the Malayalam script|ദ||Beta (disambiguation)}}
+{{refimprove|date=December 2012}}
+{{Greek Alphabet|letter=beta}}
+{{short description|Second letter of the Greek alphabet}}
+'''Beta''' ({{IPAc-en|UK|ˈ|b|iː|t|ə}}, {{IPAc-en|US|ˈ|b|eɪ|t|ə}}; uppercase {{Script|Grek|Β}}, lowercase {{Script|Grek|β}}, or [[cursive Greek|cursive]] {{Script|Grek|[[#Typography|ϐ]]}}; {{lang-grc|βῆτα|bē̂ta}} or {{lang-ell|βήτα|víta}}) is the second letter of the [[Greek alphabet]]. In the system of Greek numerals, it has a value of 2. In [[Ancient Greek]], beta represented the [[voiced bilabial plosive]] {{IPA|/b/}}. In [[Modern Greek]], it represents the [[voiced labiodental fricative]] {{IPA|/v/}} (while {{IPA|/b/}} in foreign words is instead commonly transcribed as μπ). Letters that arose from beta include the Roman letter {{angle bracket|[[B]]}} and the Cyrillic letters {{angle bracket|[[Be (Cyrillic)|Б]]}} and {{angle bracket|[[Ve (Cyrillic)|В]]}}.
+
+==Name==
+Like the names of most other Greek letters, the name of beta was adopted from the [[acrophony|acrophonic]] name of the corresponding letter in Phoenician, which was the common [[Semitic languages|Semitic]] word ''*bait'' ('house'). In Greek, the name was {{lang|grc|βῆτα}} ''bêta'', pronounced {{IPA-el|bɛ̂ːta|}} in Ancient Greek. It is spelled βήτα in modern monotonic orthography and pronounced {{IPA-el|ˈvita|}}.
+
+==History==
+{{see also|Archaic Greek alphabets}}
+The letter beta was derived from the [[Phoenician alphabet|Phoenician letter]] [[Bet (letter)|beth]] [[Image:Phoenician beth.svg|20px|Beth]].
+
+The letter Β had the largest number of highly divergent local forms. Besides the standard form (either rounded or pointed, {{GrGl|Beta 16}}), there were forms as varied as {{GrGl|Beta 12}} ([[Gortyn]]), {{GrGl|Beta 01}} and {{GrGl|Beta 10}} ([[Thera]]), {{GrGl|Beta 03}} ([[Argos, Peloponnese|Argos]]), {{GrGl|Beta 05}} ([[Melos]]), {{GrGl|Beta Corinth 1}} ([[Corinth]]), {{GrGl|Beta Byzantium 1}} ([[Megara]], [[Byzantium]]), and {{GrGl|Gamma C-shaped}} ([[Cyclades]]).{{sfn|Jeffery|1961|p=23}}
+
+==Uses==
+[[File:NAMA Alphabet grec.jpg|thumb|The Greek alphabet on an ancient [[black figure]] vessel, with the characteristically angular beta of the time]]
+
+===Algebraic numerals===
+In the system of [[Greek numerals]], beta has a value of 2. Such use is denoted by a number mark: Β′.
+
+===Computing===
+{{see also|Software release life cycle#Beta}}
+{{see also|Alpha–beta pruning}}
+
+===Finance===
+[[Beta (finance)|Beta is used in finance]] as a measure of (historical; pseudo-implied) financial asset '''sensitivity to the relevant benchmark index'''. Conditional on the benchmark index, the resulting '''beta value can vary considerably''' (S&P500 vs NASDAQ vs ETF of a specific industry). 
+
+Beta '''should not to be confused with standard deviation''' (or the semi-variance, which considers only negative returns): the preferred measure of the "riskiness" (historical volatility of returns) of an financial asset or a portfolio in isolation. 
+
+Beta can be calculated as the covariance of an financial asset (or portfolio) with its benchmark index, divided by the variance of the benchmark index. 
+Since the industry of finance gravitates towards return generating activities, typically the historical returns (percentage changes) are used in the calculations Beta values (among others).
+There are numerous other methods an financial analyst can employ to derive Beta values if historical prices are not available.
+Beta values change over time (company restructuring; industry sentiment; endo/exogenous factors).  Beta values also vary, conditional on the time period used in calculating a Beta value. 
+Beta values can be negative, which infers the existence of financial assets which historically, tended to move in opposite directions to one another by some unit value.  
+It would seem these are the optimal "hedges" to offset market-draw-downs, during periods of market-stress and poor liquidity Beta values can vary dramatically, and previously low or even negative correlations converge to "1".  
+
+A beta of 1.5 implies that for every 1% change in the value of the benchmark index, the portfolio's value tends to change by 1.5%.
+The greater the absolute value, the greater the implied move.
+
+===International Phonetic Alphabet===
+In the [[International Phonetic Alphabet]], Greek minuscule beta denotes a [[voiced bilabial fricative]] {{ipa|[β]}}.
+
+A superscript version may also indicate a [[compressed vowel]], like {{IPA|[ɯᵝ]}}.
+
+===Meteorology===
+Beta has twice been used to [[Tropical cyclone naming|name]] an Atlantic Basin [[tropical cyclone]]:
+* [[Hurricane Beta]], in [[2005 Atlantic hurricane season|2005]]
+* [[Tropical Storm Beta (2020)|Tropical Storm Beta]], in [[2020 Atlantic hurricane season|2020]]
+
+===Mathematics and science===
+Beta is often used to denote a variable in mathematics and physics, where it often has specific meanings for certain applications. In physics a stream of unbound energetic electrons is commonly referred to as [[beta radiation]] or [[beta rays]]. Decays producing electrons or their antiparticles are called [[beta decay]]s. In [[regression analysis]], {{angle bracket|B}} symbolizes nonstandardized partial slope coefficients, whereas {{angle bracket|β}} represents [[Standardized coefficient|standardized (standard deviation-score form) coefficients]]; in both cases, the coefficients reflect the change in the criterion Y per one-unit change in the value of the associated predictor X. β is also used in biology, for instance in [[Beta-Carotene|β-Carotene]], a primary source of [[provitamin]] [[Vitamin A|A]], or the [[Β Cells|β cells]] in [[pancreatic islets]], which produce [[insulin]].
+
+β is sometimes used as a placeholder for an [[ordinal number]] if α is already used. For example, the two roots of a [[quadratic equation]] are typically labelled {{math|''α''}} and {{math|''β''}}.
+
+In spaceflight, [[beta angle]] describes the angle between the orbit plane of a spacecraft or other body and the vector from the sun.
+
+β is sometimes used to mean the [[proton-to-electron mass ratio]].
+
+===Rock climbing terminology===
+The term "[[Beta (climbing)|beta]]" refers to advice on how to successfully complete a particular climbing route, boulder problem, or crux sequence.<ref>{{Cite web|url=https://rockandice.com/how-to-climb/climbing-terminology/|title=Rock & Ice – Climbing Terminology|last=Rock and Ice|date=3 October 2016}}</ref>
+ 
+=== Slang ===
+{{main|Beta male (slang)}}
+
+''Beta male'', or simply ''beta'', is a slang term for men derived from the designation for beta animals in ethology, along with its counterpart, ''[[Alpha male (slang)|alpha male.]]'' The term has been used as a pejorative self-identifier among members of [[manosphere]] communities, particularly [[incel]]s, who do not believe they are assertive or traditionally [[masculine]], and feel overlooked by women. It is also used to negatively describe other men who are not assertive, particularly in [[heterosexual]] relationships.
+
+=== Statistics ===
+In statistics, beta may represent [[type II error]], or [[regression analysis|regression]] slope.
+
+{{anchor|curled beta|Curled beta}}<!--linked from [[Romanization of Greek]], [[ϐ]], [[Curled beta]], &c.-->
+
+===Typography===
+In some high-quality typesetting, especially in the French tradition, a typographic variant of the lowercase letter without a [[descender]] is used within a word for [[ancient Greek]]: {{lang|el|βίβλος}} is printed {{lang|el|βίϐλος}}.<ref name="haralambous">{{cite web|last=Haralambous|first=Yannis|title=From Unicode to typography, a case study: the Greek script|url=http://omega.enstb.org/yannis/pdf/boston99.pdf|year=1999|page=7|url-status=dead|archive-url=https://web.archive.org/web/20110615031345/http://omega.enstb.org/yannis/pdf/boston99.pdf|archive-date=2011-06-15}}</ref>
+
+In typesetting technical literature, it is a commonly made mistake to use the [[ß|German letter ß]] (a s–z or s–s ligature) as a replacement for β. The two letters resemble each other in some fonts, but they are unrelated.<ref>{{cite journal|last1=Aguilar Ruiz|first1=Manuel José|title="Las normas ortográficas y ortotipográficas de la nueva Ortografía de la lengua española (2010) aplicadas a las publicaciones biomédicas en español: una visión de conjunto|journal=Panace@|date=2013|volume=14|issue=37|page=104|url=http://www.medtrad.org/panacea/IndiceGeneral/n37-tribuna-MJAguilarRuiz.pdf}}</ref>
+
+===Videotape formats===
+"Beta" can be used to refer to several consumer and professional videotape formats developed by Japan's [[Sony|Sony Corporation]]. Although similarly named, they are very different in function and obsolescence.
+* [[Betamax]] was the name of a domestic videotape format developed in the 1970s and 1980s. It competed with the Video Home System ([[VHS]]) format developed by the [[JVC|Japanese Victor Company]], to which it eventually succumbed. The Betamax format was also marketed [[Betacord]] by (Sanyo); some cassettes were simply labeled "Beta", and the logo was a lower-case beta. Betamax lost in the market and is an oft-used example of a technically superior solution that failed due to market forces.
+* [[Betacam]], including Beta SP and DigiBeta, is a family of professional videotape formats launched in 1982 that was the de facto standard for professional video, advertising, and television production through the 2000s. The formats outlasted analog [[NTSC]] television, and their scarcity today is because the industry has moved to [[High-definition video|HD]] formats.
+
+== Character encodings ==
+
+* Greek Beta
+
+{{charmap
+|0392|name1=Greek Capital Letter Beta
+|03B2|name2=Greek Small Letter Beta
+|03D0|name3=Greek Beta Symbol
+|1D5D|name4=Modifier Letter Small Beta
+|1D66|name5=Greek Subscript Small Letter Beta
+|map2=DOS Greek|map2char1=81|map2char2=99
+|map3=DOS Greek-2|map3char1=A5|map3char2=D7
+|map4=Windows 1253|map4char1=C2|map4char2=E2
+|namedref1=TeX|ref1char2=\beta
+}}
+
+* Latin Beta
+
+{{charmap
+|A7B4|name1=Latin Capital Letter Beta
+|A7B5|name2=Latin Small Letter Beta
+}}
+
+* Mathematical Beta
+
+{{charmap
+|1D6A9|name1=Mathematical Bold<br />Capital Beta
+|1D6C3|name2=Mathematical Bold<br />Small Beta
+|1D6E3|name3=Mathematical Italic<br />Capital Beta
+|1D6FD|name4=Mathematical Italic<br />Small Beta
+|1D71D|name5=Mathematical Bold Italic<br />Capital Beta
+|1D737|name6=Mathematical Bold Italic<br />Small Beta
+}}
+
+{{charmap
+|1D757|name1=Mathematical Sans-Serif<br />Bold Capital Beta
+|1D771|name2=Mathematical Sans-Serif<br />Bold Small Beta
+|1D791|name3=Mathematical Sans-Serif<br />Bold Italic Capital Beta
+|1D7AB|name4=Mathematical Sans-Serif<br />Bold Italic Small Beta
+}}
+
+These characters are used only as mathematical symbols. Stylized Greek text should be encoded using the normal Greek letters, with markup and formatting to indicate text style.
+
+==References==
+{{Wiktionary|Β|β}}
+{{reflist}}
+
+{{DEFAULTSORT:Beta (Letter)}}
+[[Category:Greek letters]]
+[[Category:Phonetic transcription symbols]]

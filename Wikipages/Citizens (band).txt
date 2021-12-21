@@ -1,0 +1,149 @@
+{{Infobox musical artist
+| name            = Citizens
+| image           =
+| image_size      =
+| landscape       =
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Seattle]], [[Washington (state)|Washington]], United States<ref name=MARS>{{cite web|url=http://marshill.com/music/artists/citizens|title=Citizens|publisher=Mars Hill Music|accessdate=March 31, 2013|archive-url=https://web.archive.org/web/20130413060741/http://marshill.com/music/artists/citizens|archive-date=April 13, 2013|url-status=dead}}</ref><ref name=NRT>{{cite web|url=http://www.newreleasetuesday.com/artistdetail.php?artist_id=2895|title=Citizens Artist Profile|author=NRTTeamAdmin|date=March 5, 2013|publisher=New Release Tuesday|accessdate=March 31, 2013}}</ref>
+| genre           = [[Christian rock]], [[Indie rock|indie]], [[Christian alternative rock]]<ref name=JESUS>{{cite web|url=http://www.jesusfreakhideout.com/artists/Citizens.asp|title=Citizens Discography, Citizens Artist Database, Citizens Lyrics|author=Jesus Freak Hideout|publisher=Jesus Freak Hideout|accessdate=March 31, 2013}}</ref><ref name=ALLMUSIC>{{cite web|url=http://www.allmusic.com/artist/citizens-mn0002999985|title=Citizens - Music Biography, Credits and Discography|author=|publisher=|website=AllMusic|accessdate=March 31, 2013}}</ref>
+| years_active    = {{start date|df=yes|2011}}–present<ref name=JESUS/>
+| label           = Running Club Records <ref>https://musicbrainz.org/release-group/8952424a-d09b-47dc-b538-20901f05bd4e</ref>
+| associated_acts =
+| website         = https://wearecitizens.net
+| current_members = * Zach Bolen 
+* Brian Eichelberger
+* Nathan Furtado
+* Adam Skatula
+* Spencer Abbott
+| past_members    = * Tom McConnell
+* Nate Garvey
+* Jeremy Kelderman
+* Bryce Covert
+}}
+'''Citizens''', formerly known as '''Citizens & Saints''', are an American [[Christian rock]] band from [[Seattle]], [[Washington (state)|Washington]].
+
+==Background==
+Citizens & Saints were formerly based at [[Mars Hill Church]], which was one of their record labels.<ref name=MARS/> Zach Bolen leads the band.<ref name=Jesus>{{cite web|url=https://www.youtube.com/watch?v=vyrU2YX7dK0|title=Gospel|author= |publisher= |accessdate=February 18, 2014}}</ref> Bolen resigned from Mars Hill in 2014, where he served as elder and worship leader.<ref>{{cite web|title=Controlling Christianity Kills Creativity|url=http://zionica.com/2014/06/20/controlling-christianity-kills-creativity/|website=zionica.com|accessdate=20 March 2016|archive-url=https://web.archive.org/web/20160401082527/http://zionica.com/2014/06/20/controlling-christianity-kills-creativity/|archive-date=1 April 2016|url-status=dead}}</ref><ref>{{cite web|url=http://www.patheos.com/blogs/warrenthrockmorton/2014/06/06/zach-bolen-resigns-from-mars-hill-ballard/|title=Zach Bolen Resigns from Mars Hill Ballard|work=Patheos|access-date=2016-12-25|archive-url=https://web.archive.org/web/20160925062332/http://www.patheos.com/blogs/warrenthrockmorton/2014/06/06/zach-bolen-resigns-from-mars-hill-ballard/|archive-date=2016-09-25|url-status=dead}}</ref>
+
+Their album, ''Citizens,'' has seen critical and commercial success since its 2013 release.
+
+After changing their name, the band released their second studio album, ''[[Join the Triumph]]'', in November 2014. This album incorporated more electronic sounds and synthesizers can be heard on several of the tracks. The album is still in keeping with their fundamental indie/alternative rock sound.
+
+==Music==
+The band released an EP called ''Already / Not Yet'' on May 8, 2012, which was done only on the Mars Hill label.<ref name=JESUS/>
+
+Their first full-length studio album under the band name Citizens & Saints was ''[[Citizens (album)|Citizens]]'', released on March 12, 2013. This album was released on both the [[BEC Recordings]] and Mars Hill Records labels, and was produced by Brian Eichelberger.<ref name=NRT/><ref name=JESUS/><ref name=ALLMUSIC/>
+
+Their second full-length studio album, ''[[Join the Triumph]]'', was released on November 11, 2014, by [[BEC Recordings]] and was again produced by Eichelberger.
+
+A third album, titled ''A Mirror Dimly'', was released on September 16, 2016.<ref>{{cite web|url=http://www.citizensandsaints.com/news/2016/8/1/u7pj7afekrinak3wb039yr6pnfuig7|website=Citizens & Saints|title=News|accessdate=11 August 2016|archive-url=https://web.archive.org/web/20160919031409/http://www.citizensandsaints.com/news/2016/8/1/u7pj7afekrinak3wb039yr6pnfuig7|archive-date=19 September 2016|url-status=dead}}</ref>
+
+==Discography==
+===Album===
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="40"| [[Top Christian Albums|Top<br />Christian]]
+! width="40"| [[Top Heatseekers|Top<br />Heatseekers]]
+|-
+| 2013
+| align="left"| '''''[[Citizens (album)|Citizens]]'''''
+* Released: March 12, 2013
+* Label: [[BEC Recordings|BEC]]/Mars Hill
+* Format: CD, Digital download
+| 20<ref name=ALLMUSIC/><!----- Awards section ----->
+| 6<ref name=ALLMUSIC/><!----- Awards section ------>
+|-
+| 2014
+| align="left"| '''''[[Join the Triumph]]'''''
+* Released: November 11, 2014
+* Label: [[BEC Recordings|BEC]]
+* Format: CD, Digital download, Vinyl
+| 
+| 9<ref name=BillboardHS>[http://www.billboard.com/artist/6312461/citizens-saints/chart?f=324 "Citizens & Saints Chart History Heatseekers Albums"], ''Billboard''. Retrieved January 26, 2016</ref>
+|-
+| 2016
+| align="left"| '''''A Mirror Dimly'''''
+* Released: September 16, 2016
+* Label: Gospel Song Records
+* Format: CD, Digital download, Vinyl
+| <!----- Awards section ----->
+| 8<ref name=BillboardHS/>
+|-
+| 2019
+| align="left"| '''''Fear'''''
+* Released: 2019
+* Label: Gospel Song Records
+* Format: CD, Digital download, Vinyl
+| <!----- Awards section ----->
+|
+|-
+|2020
+|align="left"| '''The Joy of Being (Phone Demos)'''<ref>{{Citation|title=The Joy of Being (Phone Demos)|date=9 April 2020|url=https://open.spotify.com/album/7E7ifK89G4wWobyhb6PcuT|language=en|access-date=2020-09-21}}</ref>
+
+* Released: 2020
+* Label: Running Club Records
+* Format: CD, Digital download, Vinyl
+| <!----- Awards section ----->
+|
+|-
+|2020
+|align="left"| '''The Joy of Being'''<ref>{{Citation|title=The Joy of Being |url=https://open.spotify.com/album/2371fK8U2AQf0J593MJpR9?si=_PcrcgE_RoenoEPSABWrnw|language=en|access-date=2020-09-21}}</ref>
+
+* Released: October 2, 2020
+* Label: Running Club Records
+* Format: CD, Digital download, Vinyl
+|
+|
+|}
+
+===EP===
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Album
+! colspan="3"| Peak chart positions
+|- style="font-size:smaller;"
+! width="40"| [[Top Christian Albums|Top<br />Christian]]
+! width="40"| [[Top Heatseekers|Top<br />Heatseekers]]
+|-
+| 2012
+| align="left"| '''''Already/Not Yet (EP)'''''
+* Released: May 8, 2012
+* Label: [[BEC Recordings|BEC]]
+* Format: CD, Digital download
+| <!----- Awards section ----->
+| <!----- Awards section ----->
+|-
+| 2013
+| align="left"| '''''Repeat the Sounding Joy (EP)'''''
+* Released: November 25, 2013
+* Label: [[BEC Recordings|BEC]]
+* Format: CD, Digital download
+| <!----- Awards section ----->
+| <!----- Awards section ----->
+|-
+| 2017
+| align="left"| '''''In Part  - EP'''''
+* Released: August 11, 2017
+* Label: Gospel Song Records
+* Format: Digital download
+| <!----- Awards section ----->
+| <!----- Awards section ----->
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Citizens and Saints}}
+[[Category:BEC Recordings artists]]
+[[Category:Christian rock groups from Washington (state)]]
+[[Category:Musical groups established in 2011]]
+[[Category:2011 establishments in Washington (state)]]

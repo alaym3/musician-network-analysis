@@ -1,0 +1,270 @@
+{{Use mdy dates|date=November 2017}}
+{{Infobox musical artist
+| name         = Grabbitz
+| image        =
+| birth_name   = Nicholas Chiari
+| birth_date   = {{Birth date and age|mf=yes|1993|02|18}}
+| birth_place  = [[Buffalo, New York]], [[United States]]
+| genre        = <!--Please discuss the addition of any other genres on the talk page.-->{{flatlist|
+* [[Electronic dance music|EDM]]
+* [[dubstep]]
+* [[Trap music (EDM)|trap]]
+* [[indie dance]]
+* [[dance-rock]]
+* [[drum and bass]]
+* [[Electro (music)|electro]]
+}}
+| occupation   = {{flatlist|
+* Record producer
+* musician
+* composer 
+* DJ
+}}
+| instrument   = {{flatlist|
+* [[digital audio workstation]]
+* [[piano]]
+* [[guitar]]
+* [[violin]]
+* [[cello]]
+}}
+| years_active = 2012–present
+| label        = {{flatlist|
+* [[Ultra Music]]
+* [[Monstercat]]
+* [[Mau5trap]]
+* High Intensity
+* [[Hopeless Records|Hopeless]]
+}}
+| website      = {{URL|grabbitzmusic.com}}
+}}
+
+'''Nicholas Chiari''' (born February 18, 1993), commonly known by his stage name '''Grabbitz''', is an American record producer, musician, composer, and DJ. In July 2014, he first gained widespread attention in the EDM community with the release of "Here With You Now", which has more than 5 million views<ref>{{Citation|last=Monstercat|title=[Drumstep] - Grabbitz - Here With You Now [Monstercat Release]|date=July 25, 2014|url=https://www.youtube.com/watch?v=cZYkSc5JG7o|accessdate=March 8, 2016}}</ref> on [[YouTube]] as of December 2017.
+
+In July 2017, Grabbitz made Rolling Stone's list of 10 New Artists You Need To Know<ref>{{Cite magazine|url=https://www.rollingstone.com/music/lists/10-new-artists-you-need-to-know-july-2017-w491865/grabbitz-w491867|title=10 New Artists You Need to Know Now|magazine=Rolling Stone|accessdate=January 3, 2018}}</ref> and received accolades from Billboard<ref>{{Cite news|url=https://www.billboard.com/articles/news/dance/7881969/grabbitz-savoy-contemplate-listen|title=Savoy and Grabbitz 'Contemplate' New Ways To Rock '80s Synths: Listen|work=Billboard|accessdate=January 3, 2018}}</ref> for "[[Contemplate (Savoy and Grabbitz song)|Contemplate]]," the 2017 single with [[Savoy (American band)|Savoy]].
+
+==Discography==
+{{more citations needed|date=July 2018}}
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" rowspan="1" style="width:12em;"| Title
+! scope="col" rowspan="1" style="width:20em;"| Album details
+|-
+!scope="row"| ''Things Change''
+|
+*Released: May 19, 2017<ref>{{Cite web|url=https://itunes.apple.com/us/album/things-change/id1220429051|title=Things Change by Grabbitz on Apple Music|website=iTunes|language=en|accessdate=May 23, 2017}}</ref>
+*Label: None ([[self-released]])
+*Formats: [[music download|Digital download]]
+|-
+|}
+
+=== Extended plays ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" rowspan="1" style="width:12em;"| Title
+! scope="col" rowspan="1" style="width:20em;"| Album details
+|-
+!scope="row"| ''Handle Yourself''
+|
+*Released: 1 October 2012<ref>{{Cite web|url=https://play.google.com/store/music/album/Grabbitz_Handle_Yourself_EP?id=Bshspxxy7ri5wf5pkwznr5cat4y|title=Handle Yourself EP by Grabbitz on Google Play|website=play.google.com|accessdate=July 9, 2019}}</ref>
+*Label: None ([[self-released]])
+*Formats: Digital download
+|-
+!scope="row"| ''Friends''
+|
+*Released: 27 April 2015<ref>{{Cite web|url=https://pro.beatport.com/release/friends-ep/1513340|title=Grabbitz New Releases: Friends EP on Beatport|website=pro.beatport.com|accessdate=March 8, 2016}}</ref>
+*Label: [[Monstercat]]
+*Formats: Digital download
+|-
+!scope="row"| ''Better with Time''
+|
+*Released: 11 December 2015<ref>{{Cite web|url=https://pro.beatport.com/release/better-with-time/1672983|title=Grabbitz New Releases: Better With Time on Beatport|website=pro.beatport.com|accessdate=March 8, 2016}}</ref>
+*Label: Monstercat
+*Formats: Digital download
+|-
+|}
+
+===Singles===
+====As lead artist====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+!scope="col" style="width:15em;"| Title
+!scope="col" | Year
+!scope="col" style="width:12em;"| Album
+|-
+!scope="row"| "151" / "Fire"
+| rowspan="1" |2013
+| {{N/A|Non-album single}}
+|-
+!scope="row"| "Here with You Now"
+| rowspan="2" |2014
+| rowspan="4" |''Friends''
+|-
+!scope="row"| "Turn Around"{{efn|"Turn Around" did not appear on any major chart, but peaked at #26 on ''[[Billboard (magazine)|Billboard]]'' Twitter Emerging Artists<ref>{{Cite magazine |url=https://www.billboard.com/music/grabbitz |title=Grabbitz Chart History |magazine=Billboard |access-date=2019-11-27}}</ref>}}
+|-
+!scope="row"| "Friends"<br><small>(with Faustix)</small>
+| rowspan="6" |2015
+|-
+!scope="row"| "Way Too Deep"
+|-
+!scope="row"| "Ballin'" / "Don't Stop"
+| {{N/A|Non-album single}}
+|-
+!scope="row"| "Float Away"
+| rowspan="2" |''Better with Time''
+|-
+!scope="row"| "Better with Time"
+|-
+!scope="row"| "Get Ya Body Down"
+|rowspan="2" {{N/A|Non-album singles}}
+|-
+!scope="row"| "All Alone"<br><small>(with [[Pegboard Nerds]])</small>
+| rowspan="2" |2016
+|-
+!scope="row"| "Follow Me"
+|''Things Change''
+|-
+!scope="row"| "In the Winter"
+| rowspan="6" |2017
+| rowspan="1" {{N/A|Non-album single}}
+|-
+!scope="row"| "Don't Let Me Go"
+| rowspan="3"|''Things Change''
+|-
+!scope="row"| "Play This Game"
+|-
+!scope="row"| "I Think That I Might Be Going Crazy"
+|-
+!scope="row"| "[[Contemplate (Savoy and Grabbitz song)|Contemplate]]"<br><small>(with [[Savoy (American band)|Savoy]])</small>
+| rowspan="15" {{N/A|Non-album singles}}
+|-
+!scope="row"| "Told Ya So"
+|-
+!scope="row"| "My Cloud"
+|rowspan="2" |2018
+|-
+!scope="row"| "Information Overload" <br><small>(with [[Pierce Fulton]])</small>
+|-
+!scope="row"| "Polaroid"
+|rowspan="5"| 2019
+|-
+!scope="row"| "Crazy as You" <br><small>(with [[Sullivan King]])</small><ref>{{Cite web |url=https://www.youredm.com/2019/06/21/sullivan-king-grabbitz-team-up-for-new-collaboration-crazy-as-you/ |title=SULLIVAN KING & GRABBITZ TEAM UP FOR NEW COLLABORATION, "CRAZY AS YOU" |last=Meadow |first=Matthew |date=June 21, 2019 |website=YourEDM |accessdate=November 5, 2019}}</ref>
+|-
+!scope="row"| "King / Ghost in A Song"<ref>{{Cite magazine |url=https://www.billboard.com/articles/news/dance/8524237/grabbitz-ghost-video |title=Grabbitz Shows Off His Moves in Moody 'King / Ghost In A Song' Video: Exclusive |last=Bein |first=Kat |date=July 29, 2019 |magazine=[[Billboard (magazine)|Billboard]] |archive-url=https://web.archive.org/web/20190809035405/https://www.billboard.com/articles/news/dance/8524237/grabbitz-ghost-video |archive-date=August 9, 2019 |accessdate=August 9, 2019}}</ref>
+|-
+!scope="row"| "Bruises"<ref>{{Cite magazine |url=https://www.billboard.com/articles/news/dance/8532076/nghtmre-grabbitz-bruises |title=Nghtmre & Grabbitz blend alt-rock mood with melodic bass on 'Bruises': Exclusive |last=Bein |first=Kat |date=October 3, 2019 |magazine=Billboard |archive-url=https://web.archive.org/web/20191005024345/https://www.billboard.com/articles/news/dance/8532076/nghtmre-grabbitz-bruises |archive-date=October 5, 2019 |accessdate=October 10, 2019}}</ref> <br><small>(with [[Nghtmre]])</small>
+|-
+!scope="row"| "Roam With You"<ref>{{Cite web |url=https://soundcloud.com/grabbitz/roam-with-you |title=Roam With You by Grabbitz |date=November 8, 2019 |website=Soundcloud |accessdate=November 12, 2019}}</ref>
+|-
+!scope="row"| "Where The End Begins"<ref>{{Cite web |url=https://soundcloud.com/grabbitz/where-the-end-begins |title=Where The End Begins by Grabbitz |date=January 24, 2020 |website=Soundcloud |accessdate=April 14, 2020}}</ref>
+|rowspan="2"| 2020
+|-
+!scope="row"| "Someone Else"<ref>{{Cite web |url=https://edm.com/music-releases/rezz-grabbitz-someone-else |title=Rezz teams up with Grabbitz for new single 'Someone Else' |last=Stone |first=Katie |date=April 8, 2020 |website=EDM.com |archive-url=https://web.archive.org/web/20200422051514/https://edm.com/music-releases/rezz-grabbitz-someone-else |archive-date=April 22, 2020 |accessdate=April 22, 2020}}</ref> <br><small>(with [[Rezz]])</small>
+|-
+!scope="row"| "Fly on the Wall"<ref>https://edm.com/music-releases/mau5trap-we-are-friends-vol-10</ref>
+|rowspan="4"| 2021
+|-
+!scope="row"| "Rolls Royce"<ref>https://www.edmtunes.com/2021/03/tisoki-grabbitz-rolls-royce/</ref><br><small>(with Tisoki)</small>
+|-
+!scope="row"| "Pigs in the Sky"<ref>https://www.thesoundcafe.com/post/grabbitz-signs-with-hopeless-records-and-releases-sizzling-new-single-pigs-in-the-sky</ref>
+|-
+!scope="row"| "Pain Killer"
+|-
+|}
+
+====As featured artist====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="1"| Charts
+! scope="col" rowspan="2" style="width:12em;"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Dance/Electronic Songs|US<br><small>Dance</small>]]<br><ref>{{cite web|title=deadmau5 Chart History - Dance/Electronic Songs|work=[[Billboard Charts]]|url=https://www.billboard.com/music/deadmau5/chart-history/dance-electronic-songs|accessdate=March 21, 2018}}</ref>
+|-
+! scope="row"| "Colors" <br><small>([[Boombox Cartel]] featuring Grabbitz)</small>
+|rowspan="2" | 2016
+| —
+| {{N/A|Non-album single}}
+|-
+! scope="row"| "[[Let Go (deadmau5 song)|Let Go]]" <br><small>([[Deadmau5]] featuring Grabbitz)</small>
+| 11
+| ''[[W:/2016ALBUM/]]''
+|-
+! scope="row"| "At Night"<ref>{{Cite web |url=https://dancingastronaut.com/2020/02/3lau-shaun-frank-and-grabbitz-deliver-listeners-next-addiction-with-at-night/ |title=3LAU, Shaun Frank, and Grabbitz deliver listeners' next addiction with 'At Night' |last=Sweeney |first=Farrell |date=February 18, 2020 |website=Dancing Astronaut |archive-url=https://web.archive.org/web/20200220160919/https://dancingastronaut.com/2020/02/3lau-shaun-frank-and-grabbitz-deliver-listeners-next-addiction-with-at-night/ |archive-date=February 21, 2020 |accessdate=February 21, 2020}}</ref> <br><small>([[3LAU]] and [[Shaun Frank]] featuring Grabbitz)</small>
+| 2020
+| —
+| {{N/A|Non-album single}}
+|-
+| colspan="4" style="font-size:85%"| "—" denotes a recording that did not chart or was not released.
+|}
+
+===Guest appearances===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="1" style="width:15em;"| Title
+! scope="col" rowspan="1" style="width:1em;"| Year
+! scope="col" rowspan="1" style="width:12em;"| Album
+|-
+! scope="row"| "Let Go" (Grabbitz Edit)<br><small>(deadmau5 featuring Grabbitz)</small>
+|rowspan="1" | 2017
+|rowspan="1" | ''We Are Friends, Vol. 7''
+|-
+|}
+
+=== Remixes ===
+{| class="wikitable plainrowheaders"
+!scope="col" style="width:15em;"| Title
+!Year
+!scope="col" style="width:15em;"| Original artist(s)
+!scope="col" style="width:15em;"| Album
+|-
+!scope="row"| "[[Love Runs Out]]"
+| rowspan="2" |2014
+|[[OneRepublic]]
+|style="text-align:center;"| ''Love Runs Out (Remixes)''
+|-
+!scope="row"| "Taking Over"<br><small>(featuring Cassandra Kay)</small>
+|Favright 
+|style="text-align:center;"| ''Taking Over (The Remixes)''
+|-
+!scope="row"| "Build the Cities"<br><small>(featuring [[Kerli]])</small>
+| rowspan="2" |2015
+|Karma Fields
+|style="text-align:center;"| ''Build The Cities (Reconstructions)''
+|-
+!scope="row"| "Get On Up"
+|[[Jauz]] and [[Pegboard Nerds]]
+|style="text-align:center;"| ''Get On Up (The Remixes)''
+|-
+!scope="row"| "[[Propane Nightmares]]"<ref>{{Cite magazine |url=https://www.billboard.com/articles/news/dance/8463471/pendulum-the-reworks |title=Pendulum Gets 'The Reworks' From Skrillex, Noisia, Moby, ATTLAS & More: Listen |last=Bein |first=Kat |date=June 29, 2018 |magazine=[[Billboard (magazine)|Billboard]] |archive-url=https://web.archive.org/web/20180701074035/https://www.billboard.com/articles/news/dance/8463471/pendulum-the-reworks |archive-date=July 1, 2018 |accessdate=July 1, 2018}}</ref>
+| 2018
+|[[Pendulum (drum and bass band)|Pendulum]]
+|style="text-align:center;"| ''The Reworks''
+|-
+!scope="row"| "With You"<ref>{{cite web|url=https://music.apple.com/us/album/with-you-grabbitz-remix-single/1487740700 |title=With You (Grabbitz Remix) - Single by Haywyre on Apple Music |website=iTunes Store |accessdate=January 7, 2020}}</ref>
+| 2019
+|Haywyre
+|style="text-align:center;"| ''Panorama: Form Remixes''
+|-
+! scope="row"| "At Night"<ref>{{Cite web |url=https://www.beatport.com/track/at-night-grabbitz-remix/13901812 |title=At Night (Grabbitz Remix) by 3LAU, Shaun Frank on Beatport |date=July 24, 2020 |website=Beatport |accessdate=September 11, 2020}}</ref> <br><small>([[3LAU]] and [[Shaun Frank]] featuring Grabbitz)</small>
+| 2020
+|3LAU, Shaun Frank
+|style="text-align:center;"| ''At Night (Remixes)''
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Grabbitz}}
+[[Category:American DJs]]
+[[Category:American electronic musicians]]
+[[Category:Dubstep musicians]]
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Monstercat artists]]
+[[Category:Hopeless Records artists]]
+[[Category:Electronic dance music DJs]]

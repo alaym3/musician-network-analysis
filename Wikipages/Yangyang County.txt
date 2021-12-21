@@ -1,0 +1,74 @@
+{{Redirect|Yangyang|the South Korean airport RKNY/YNY|Yangyang International Airport|the South Asian monastery|Yangyang Monastery|other uses|Yang Yang (disambiguation)}}
+{{more citations needed|date=September 2018}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name                            = Yangyang
+| native_name                     = {{nobold|양양군}}
+| native_name_lang                = ko
+| settlement_type                 = [[List of counties in South Korea|County]]
+| translit_lang1                  = Korean
+| translit_lang1_type1            = [[Hangul]]
+| translit_lang1_info1            = {{lang|ko-Hang|{{linktext|양|양|군}}}}
+| translit_lang1_type2            = [[Hanja]]
+| translit_lang1_info2            = {{lang|ko-Hant|{{linktext|襄|陽|郡}}}}
+| translit_lang1_type3            = {{nowrap|Revised Romanization}}
+| translit_lang1_info3            = Yangyang-gun
+| translit_lang1_type4            = {{nowrap|McCune-Reischauer}}
+| translit_lang1_info4            = Yangyang-gun
+| image_skyline                   = 
+| imagesize                       = 
+| image_caption                   = 
+| image_map                       = Gangwon-Yangyang.svg
+| mapsize                         = 
+| map_caption                     = Location in South Korea
+| subdivision_type                = Country
+| subdivision_name                = {{flag|South Korea}}
+| subdivision_type1               = [[Regions of Korea|Region]]
+| subdivision_name1               = [[Gwandong]]
+| population_blank1_title         = Dialect
+| population_blank1               = [[Gangwon dialect|Gangwon]]
+| area_total_km2                  = 628.68
+| population_as_of                = 2000
+| population_total                = 30141
+| population_density_km2          = 50
+| parts_type                      = [[Administrative divisions of South Korea|Administrative divisions]]
+| parts                           = 1 ''eup'', 5 ''myeon''
+| image_blank_emblem              = Yangyang logo.png
+| blank_emblem_type               = Emblem of Yangyang
+| image_flag                      = Flag of Yangyang.svg
+}}
+
+'''Yangyang County''' (''Yangyang-gun'') is in [[Gangwon (South Korea)|Gangwon]] Province, [[South Korea]].  The county is located in the northeast of the country in [[Gangwon-do (South Korea)|Gangwon-do]]. Its population is about 31,000 (2004).
+
+The Yangyang area is well known for its pine mushrooms (''song-i''), its fish&mdash;particularly salmon&mdash;and its sunrises.
+
+==Overview==
+In 2002, Yangyang opened its [[Yangyang International Airport|own airport]], serving [[Gangneung]] to the south and [[Sokcho]] to the north. It was intended for the many tourists attracted by the [[Seorak-san]] national park. But the airport was closed in 2009 due to a lack of passengers.<ref>{{cite news|last=Sudworth |first=John |url=http://news.bbc.co.uk/2/hi/asia-pacific/8055957.stm |title=World &#124; Asia-Pacific &#124; South Korea's abandoned airports |publisher=BBC News |access-date=2009-05-19 | date=2009-05-18 | location=London}}</ref>
+
+The county is proud to unite the five major religions of Korea: [[Confucianism]], [[Korean Buddhism|Buddhism]], [[Korean shamanism|Shamanism]], [[Protestantism]] and [[Roman Catholicism]]. There are sites for all these faiths in Yangyang. ''Seonghwangsa'' is a shamanistic altar which was traditionally used for sacrificial rites. ''Yangyang Hyanggyo'' is a Confucian school built in 1340. Today the school mainly serves as a shrine, but classes are still held there. In 1921, ''Yangyang Cathedral'' was built. During the [[Korean War]] it was burnt to the ground but rebuilt afterwards.
+
+The county is also proud of its five-day market. It is the largest traditional market in the area and renowned for the quality of its produce. The market is held on days ending in 4 and 9.
+
+==Tourism==
+*Naksansa(洛山寺)
+*Uisangdae(義湘台)
+*Junjisaji pagoda(陳田寺址三層石塔)
+*Naksan Beach
+*Osan Beach
+*Dongho Beach
+*Hajodae Beach
+*Ingu Beach
+*Jigyeong Beache
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[http://eng.yangyang.go.kr/page/foreign/eng/index.jsp Yangyang County government English-language home page]
+
+{{Gangwon}}
+{{Authority control}}
+
+{{Coord|38|04|N|128|37|E|display=title|region:KR_type:city_source:GNS-enwiki}}
+
+[[Category:Yangyang County| ]]
+[[Category:Counties of Gangwon Province, South Korea]]

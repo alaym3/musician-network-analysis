@@ -1,0 +1,100 @@
+{{Infobox musical artist
+| name            = William Segerdahl
+| image           =
+| image_size      =
+| landscape       =
+| alt             =
+| caption         =
+| birth_name      = William Samuel Segerdahl
+| alias           =
+| birth_date      = {{birth date and age|df=yes|2002|6|10}}
+| birth_place     = [[Vänersborg]], Sweden
+| origin          =
+| genre           = {{hlist|[[Pop music|Pop]]}}
+| occupation      =
+| instrument      = Vocals
+| years_active    =
+| label           =
+| associated_acts =
+| website         = 
+}}
+
+'''William Samuel Segerdahl''', (born 10 June 2002) is a Swedish singer. He participated in [[Idol 2018]] which was broadcast on [[TV4 (Sweden)|TV4]]. He placed in shared third place with [[Bragi Bergsson]] in the series semifinal on 30 November 2018.<ref>{{cite web|title=tv4.se|url=https://www.tv4.se/idol/deltagare/william-segerdahl|access-date=3 December 2018|language=sv|archive-url=https://web.archive.org/web/20181001182712/https://www.tv4.se/idol/deltagare/william-segerdahl|archive-date=1 October 2018|url-status=dead}}</ref> In 2017, Segerdahl released the songs "U-Turn" and "Trying".<ref name="Sverigesradio">{{cite web|title=Popdebut från Vänersborg blev viral hit - P4 Väst|url=https://sverigesradio.se/sida/artikel.aspx?programid=125&artikel=6780372|work=sverigesradio.se|access-date=3 December 2018|language=sv|archive-url=https://web.archive.org/web/20181124162221/https://sverigesradio.se/sida/artikel.aspx?programid=125&artikel=6780372|archive-date=24 November 2018|url-status=dead}}</ref> Since his participation in ''Idol'', Segerdahl has released a handful of singles: "Problem", "Dansgolv", "Tåg", and "Ingenting Jag Säger Hjälper Nu", all of which were released during 2019. "Problem" reached number 3 on the [[Sverigetopplistan|Swedish Heatseeker Chart]].<ref name="Problem" /> In 2020, he has as of 29 April, released the singles "Det Kanske Inte är Så Farligt?" and "Aldrig".<ref name="Spotify"/>
+
+== Discography ==
+
+=== Singles ===
+Adapted from [[Spotify]].<ref name="Spotify">{{Cite web|url=https://open.spotify.com/artist/7h3jPDAAlfXOhid0q360Hh?si=re0BvMI1R6iReQLsvdcRZQ|title=William Segerdahl on Spotify|website=Spotify|access-date=11 April 2021}}</ref>
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Sverigetopplistan|SWE]]
+|-
+! scope="row"| "U-Turn"<ref name="Sverigesradio"/>
+| rowspan="2"| 2017
+| —
+| rowspan="13" {{Non-album single}}
+|-
+! scope="row"| "Trying"<ref name="Sverigesradio"/>
+| —
+|-
+! scope="row"| "Problem"
+| rowspan="4"| 2019
+| —{{efn|group=upper-alpha| While "Problem" didn't enter the [[Sverigetopplistan|Swedish Singles Chart]], it peaked at number 3 on the Swedish Heatseeker Chart.<ref name="Problem">{{Cite web|url=https://www.sverigetopplistan.se/chart/215?dspy=2019&dspp=22|title=Veckolista Heatseeker, vecka 22, 2019|publisher=[[Sverigetopplistan]]|access-date=29 April 2020}}</ref>}}
+|-
+! scope="row"| "Tåg"
+| —
+|-
+! scope="row"| "Dansgolv"
+| —
+|-
+! scope="row"| "Ingenting jag säger hjälper nu"{{efn|group=upper-alpha|Cover of [[Elton John]]{{'}}s song "[[Sorry Seems to Be the Hardest Word]]".<ref>{{Cite web|url=https://www.ttela.se/n%C3%B6je/legendaren-g%C3%B6r-tummen-upp-f%C3%B6r-williams-nya-l%C3%A5t-1.20269834|title=Legendaren gör tummen upp för Williams nya låt|last=Thornberg|first=Mia|date=12 November 2019|website=ttela|url-access=subscription|language=sv|access-date=29 April 2020}}</ref>}}
+| —
+|-
+! scope="row"| "Det kanske inte är så farligt?"
+| rowspan="6"| 2020
+| —
+|-
+! scope="row"| "Aldrig"
+| —
+|-
+! scope="row"| "Fri"
+| —
+|-
+! scope="row"| "Stanna kvar hos mig"
+| —
+|-
+! scope="row"| "Used to Be Love"<br/>{{small|(with [[John de Sohn]])}}
+| —{{efn|group=upper-alpha|"Used to Be Love" did not enter the [[Swedish Singles Chart]], but peaked at number 16 on the Swedish Heatseeker chart.<ref>{{Cite web|url=https://www.sverigetopplistan.se/chart/215?dspy=2020&dspp=36|title=Veckolista Heatseeker, vecka 36, 2020|language=sv|publisher=[[Sverigetopplistan]]|access-date=11 April 2021}}</ref>}}
+|-
+! scope="row"| "Blyga pojkar"
+| —
+|-
+! scope="row"| "Utan mig"<br/>{{small|(with Malin Christin)}}
+| 2021
+| —
+|}
+
+== Notes ==
+{{notelist-ua}}
+
+== References ==
+{{reflist}}
+
+{{Idol (Swedish TV series)}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Segerdahl , William}}
+[[Category:Living people]]
+[[Category:2002 births]]
+[[Category:Idol (Swedish TV series) participants]]
+[[Category:21st-century Swedish singers]]
+[[Category:21st-century Swedish male singers]]
+
+
+{{Sweden-singer-stub}}

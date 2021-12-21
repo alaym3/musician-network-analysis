@@ -1,0 +1,108 @@
+{{short description|Fox affiliate in West Monroe, Louisiana}}
+{{About|the television station in West Monroe, Louisiana|the television station in [[Wichita, Kansas]], that formerly used the KARD call sign|KSNW}}
+{{other uses|Kard (disambiguation)}}
+{{distinguish|ARD (broadcaster){{!}}ARD|Das Erste}}
+{{Infobox television station
+| callsign               = KARD
+| city                   = West Monroe, Louisiana
+| logo                   = [[File:KARD14-102014.png|180px]]
+----
+[[File:KARD-DT2 Bounce ArkLaMiss.png|200px]]
+| branding               = Fox 14 (general)<br>''Fox 14 News'' (newscasts)
+| digital                = 19 ([[ultra high frequency|UHF]])
+| virtual                = 14
+| subchannels            =
+| translators            = 
+| affiliations           = {{ubl|'''14.1:''' [[Fox Broadcasting Company|Fox]] (secondary 1986–1994)|'''14.2:''' [[Bounce TV]]|'''14.3:''' [[Grit (TV network)|Grit]]|'''14.4:''' [[Antenna TV]] ('''[[owned-and-operated station|O&O]]''')}}
+| network                = 
+| owner                  = [[Nexstar Media Group]]
+| licensee               = Nexstar Media Inc.
+| location               = [[West Monroe, Louisiana|West Monroe]]/[[Monroe, Louisiana]]/<br>[[El Dorado, Arkansas]]
+| country                = United States
+| founded                = 
+| airdate                = {{start date|1967|8|19}} (first incarnation)<br>{{start date|1970|8|31}} (second incarnation)<br>{{start date and age|1974|10|6}} (third and current incarnation)
+| last_airdate           = {{end date|1968|1|12}}; {{age in years and days|1967|8|19|1968|1|12}} (first incarnation)<br>{{end date|1971|8|16}}; {{age in years and days|1970|8|31|1971|8|16}} (second incarnation)
+| callsign_meaning       = [[Arkansas Delta]] (region served); additionally the word "[[Playing card|card]]"
+| sister_stations        = [[KTVE]]
+| former_callsigns       = KUZN-TV (1967–1968)<br>KYAY-TV (1970–1971)<br>KLAA (1974–1982)
+| former_channel_numbers = {{ubl|'''Analog:'''|39 (UHF, 1967–1974)|14 (UHF, 1974–2009)|'''Digital:'''|36 (UHF, 2003–2018)}}
+| former_affiliations    = {{ubl|'''Primary:'''<br>[[Independent station (North America)|Independent]] (1967–1968, 1970–1971)|[[Dark (broadcasting)|Dark]] (1968–1970, 1971–1974)|[[NBC]] (1974–1981)|[[American Broadcasting Company|ABC]] (1981–1994)|'''Secondary:'''<br>ABC/NBC/[[CBS]] (1970–1971)<br>'''DT4:'''<br>[[Cozi TV]] (2013–2021)}}
+| erp                    = 691 [[kilowatt|kW]]
+| haat                   = {{convert|523.5|m|ft|0|abbr=on}}
+| facility_id            = 3658
+| coordinates            = {{nowrap|{{coord|32|5|42.6|N|92|10|34.3|W|type:landmark_scale:2000}}}}
+| licensing_authority    = [[Federal Communications Commission|FCC]]
+| website                = {{URL|https://www.myarklamiss.com/}} 
+}}
+
+'''KARD''', [[virtual channel]] 14 ([[ultra high frequency|UHF]] [[digital terrestrial television|digital]] channel 19), is a [[Fox Broadcasting Company|Fox]]-[[network affiliate|affiliated]] [[television station]] [[city of license|licensed]] to [[West Monroe, Louisiana]], United States, serving northern [[Louisiana]] (including [[Monroe, Louisiana|Monroe]]) and southern [[Arkansas]] (including [[El Dorado, Arkansas|El Dorado]]). It is owned by [[Nexstar Media Group]], which acquired the station in 2003 as part of its purchase of Quorum Broadcasting. Nexstar also operates El Dorado-licensed [[NBC]] affiliate [[KTVE]] (channel 10) through a [[local marketing agreement]] (LMA) with owner [[Mission Broadcasting]]. The two stations share studios on Pavilion Road in West Monroe; KARD's transmitter is located in [[Columbia, Louisiana]].
+
+In addition to its own digital signal, KARD is [[simulcast]] in [[high-definition television|high definition]]{{citation needed|date=September 2020}} on KTVE's second [[digital subchannel]] (UHF channel 27.4 or virtual channel 10.2 via [[Program and System Information Protocol|PSIP]]) from its transmitter northwest of [[Huttig, Arkansas]].
+
+==History==
+[[File:KARD14.png|175px|thumb|left|KARD's logo 2013 – October 2014]]
+The station that became KARD first signed on on August 19, 1967 as '''KUZN-TV''' on channel 39 and was owned by Howard E. Griffith was a television counterpart of KUZN radio.<ref>http://www.americanradiohistory.com/Archive-BC-YB-IDX/60s-OCR-YB/1967-YB/1967-BC-YB-for-OCR-Page-0053.pdf#search="kuzn monroe"</ref> This was Griffith's second foray into television, as he was the co-owner of Monroe's first TV station, [[KFAZ (defunct)|KFAZ]], which signed on in 1953 but went [[dark (broadcasting)|off the air]] the next year. The station aired a local newscast, the [[BBC]] series ''[[Panorama (TV series)|Panorama]],'' and old [[Western (genre)|Western]] [[feature film|movies]].<ref>Monroe News-Star, August 30, 1967</ref> The station ceased operations on January 12, 1968 but was sold to Northeast Louisiana Broadcasting Corporation.
+
+It resumed operations on August 31, 1970 as '''KYAY-TV'''.<ref>http://www.americanradiohistory.com/Archive-BC-YB-IDX/70s-OCR-YB/1971-YB/1971-BC-YB-for-OCR-Page-0095.pdf#search="kyay"</ref><ref>http://www.americanradiohistory.com/Archive-BC-IDX/69-OCR/BC-1969-02-10-Page-0078.pdf#search="kyay monroe"</ref> During this incarnation, KYAY, again, aired news and off-network Westerns and movies, as well as [[American Broadcasting Company|ABC]], [[NBC]] and [[CBS]] programming not carried on [[KNOE-TV|KNOE]] and KTVE, such as ''[[That Girl]]'', ''[[The Mod Squad]]'', ''[[Hawaii Five-O (1968 TV series)|Hawaii Five-O]]'', ''[[The Courtship of Eddie's Father]]'', ''[[The Lawrence Welk Show]]'', ''[[Engelbert Humperdinck (singer)|Engelbert Humperdinck]]'', ''The NBC Tuesday Night Movie'', and ''[[The Merv Griffin Show]]''.<ref>UHF Channel 39 Now on Airwaves, Ouachita Citizen, September 4, 1970</ref> KYAY proved to be no more successful than KUZN had been, and it also went dark, on August 16, 1971.
+
+In 1974, the station returned with a new callsign, '''KLAA''', a reallocation to channel 14, and became an NBC affiliate. Since 1972, when KTVE changed its affiliation to ABC, it and KNOE-TV carried selected NBC programs during the hours when their primary networks (CBS in KNOE's case) were not broadcasting (with some exceptions), but never the full NBC lineup. KLAA debuted on October 6, 1974, giving southern Arkansas and northeastern Louisiana full service from all "[[Big Three television networks|Big Three]]" networks for the first time ever.<ref>http://www.americanradiohistory.com/Archive-BC-IDX/74-OCR/BC-1974-08-05-Page-0053.pdf#search="klaa kyay"</ref> Today, channel 39 is occupied by [[KMCT-TV]], a [[religious broadcasting|religious station]], and that station now occupies KUZN/KYAY/KLAA/KARD's former studios.
+
+On December 6, 1981, KLAA became an ABC affiliate, while KTVE retook the NBC affiliation that it held in the 1950s and 1960s.<ref>Network Switch Effective, Monroe News-Star-World, December 6, 1981</ref> On December 6, 1982, the station changed its calls to '''KARD''', with the station manager citing the call sign change a reflection on the station's progress at the time. (Years later, the former KARD-TV in Wichita became a sister station to the current KARD upon the Nexstar/[[Media General]] merger in 2016.)<ref>KLAA to Change Call Letters Monday, Monroe News-Star, December 6, 1982</ref> In 1984, KARD's era of local ownership came to end when it was purchased by Woods Communications, owned by [[Charles Woods (Alabama)|Charles Woods]] of Alabama. In 1986, Woods relocated the station's transmitter from its West Monroe studios to [[Caldwell Parish, Louisiana]] and increased the station's power to 5 million [[watt]]s, making it Louisiana's first tall tower UHF station. This change enabled KARD to have at least Grade B coverage in a region encompassing all of Northeast Louisiana including portions of the [[Alexandria, Louisiana|Alexandria]] and [[Shreveport, Louisiana|Shreveport]] markets.<ref>KARD-14 Has new Transmission Tower in Caldwell, Caldwell Watchmen, Columbia, LA, December 3, 1986, Page 7</ref>
+
+KARD began airing Fox programming when that network started up late at night in 1986 and in the same year was the first station in the Monroe area (and one of the first in Louisiana) to broadcast in stereo. In addition to KARD's secondary Fox affiliation, starting in 1991, [[Foxnet]] was available for cable subscribers in Monroe. In its last months as an ABC affiliate, KARD also preempted ''[[NYPD Blue]]'' due to concerns about that program's content. In 1993, Woods filed for bankruptcy, and Banam Broadcasting, a subsidiary of [[Bank of America|BankAmerica]], assumed control of KARD. The next year, Banam dropped ABC to take Fox full-time, due to [[Fox NFL|Fox]] picking up [[National Football League|NFL]] football that season, and it was the first station in the nation to switch from a Big Three network to Fox during the [[U.S. television network affiliate switches of 1994]], doing so April 17 that year, citing competition from the then-glut of stronger-rated ABC stations from outlying markets.<ref>Crazy like a fox – As upstart turns 10, it's in the big leagues, The Cincinnati Post, April 2, 1997</ref> Those surrounding ABC affiliates (mainly Alexandria's [[KLAX-TV]] and Shreveport's [[KTBS-TV]]) continued to be the main conduit for ABC in the market via antenna or cable carriage (KLAX even capitalized on its expanded footprint into the Monroe market during this time by branding itself on-air as "Louisiana's Superstation") until December 1998, when [[KMLU|KAQY]] signed on. Banam sold KARD along with three of its stations ([[WTVW]] in [[Evansville, Indiana]], [[KOZL-TV|KDEB]] in [[Springfield, Missouri]], and [[KLBK-TV]] in [[Lubbock, Texas]]) to Petracom Broadcasting in 1995. In 1998, Petracom sold KARD to Quorum Broadcasting, which was absorbed by Nexstar in 2003.
+
+In 2002, Piedmont Television, then-owner of KTVE, took over KARD's operations under a [[local marketing agreement]] (LMA). Despite KTVE being the senior partner, the two stations' operations were consolidated in KARD's newer facility in West Monroe. In addition to a common sales and promotions staff, the KTVE news department produces KARD's newscast. Piedmont's control of the duopoly officially came to an end on January 16, 2008 when KTVE was sold to [[Mission Broadcasting]]. This resulted in Nexstar, already the owner of KARD, taking over control of KTVE under a local sales agreement (LSA); the Internet presence of both stations were also merged into one website.
+
+==Digital television==
+
+===Digital channels===
+The station's digital signal is [[multiplex (TV)|multiplexed]]:
+{| class="wikitable"
+|-
+! [[Digital subchannel#United States|Channel]]
+! [[Display resolution|Video]]
+! [[Aspect ratio (image)|Aspect]]
+! [[Program and System Information Protocol#What PSIP does|PSIP Short Name]]
+! Programming<ref>{{Cite web |url=http://www.rabbitears.info/market.php?request=station_search&callsign=KARD#station |title=RabbitEars TV Query for KARD |access-date=2014-02-04 |archive-url=https://web.archive.org/web/20140221235028/http://www.rabbitears.info/market.php?request=station_search&callsign=KARD#station |archive-date=2014-02-21 |url-status=live }}</ref>
+|-
+| 14.1 || [[720p]] || [[16:9]] || KARD-DT || Main KARD programming / [[Fox Broadcasting Company|Fox]]
+|-
+| 14.2 || rowspan=3| [[480i]] || rowspan=2| [[4:3]] || BOUNCE || [[Bounce TV]]
+|-
+| 14.3 || Grit || [[Grit (TV network)|Grit]]
+|-
+| 14.4 || 16:9 || Cozi TV || [[Antenna TV]]
+|-
+|}
+
+KARD is simulcast on KTVE's [[digital subchannel]] 10.2 in [[standard definition]].
+
+In March 2009, KARD and KTVE informed the [[Federal Communications Commission]] that they needed to end analog operations sooner than June 12, 2009 (the earliest they could do so is April 16). KARD stated that a transmitter tube failed, bringing power down to 50%; KTVE claimed that its power was at 40%. Used parts were deemed unreliable, and staffers had to travel {{convert|50|mi|km}} to the transmitter from the studio; two to three visits per week were required to monitor the analog facilities, according to Nexstar.<ref>{{Cite web |url=http://www.broadcastingcable.com/article/190618-Four_Stations_Waiting_For_FCC_Approval_On_Earlier_Analog_Cut_Off_Dates.php?rssid=20065 |title=Archived copy |access-date=2009-03-24 |archive-url=https://web.archive.org/web/20120926133728/http://www.broadcastingcable.com/article/190618-Four_Stations_Waiting_For_FCC_Approval_On_Earlier_Analog_Cut_Off_Dates.php?rssid=20065 |archive-date=2012-09-26 |url-status=live }}</ref> The FCC denied the request based on the fact that they are the last two analog channels in the market.<ref>{{Cite web |url=http://www.broadcastingcable.com/article/196011-FCC_Denies_Nexstar_DTV_Hardship_Waivers.php?rssid=20065 |title=Archived copy |access-date=2009-04-11 |archive-url=https://web.archive.org/web/20120927033158/http://www.broadcastingcable.com/article/196011-FCC_Denies_Nexstar_DTV_Hardship_Waivers.php?rssid=20065 |archive-date=2012-09-27 |url-status=live }}</ref>
+
+===Analog-to-digital conversion===
+KARD shut down its analog signal, over [[Ultra high frequency|UHF]] channel 14, on April 16, 2009. The station's digital signal remained on its pre-transition UHF channel 36.<ref>{{cite web|url=http://hraunfoss.fcc.gov/edocs_public/attachmatch/DA-06-1082A2.pdf |title=DTV Tentative Channel Designations for the First and the Second Rounds |format=PDF |access-date=2012-03-24 |url-status=dead |archive-url=https://web.archive.org/web/20130829004251/http://hraunfoss.fcc.gov/edocs_public/attachmatch/DA-06-1082A2.pdf |archive-date=2013-08-29 }}</ref> Through the use of [[Program and System Information Protocol|PSIP]], digital television receivers display the station's [[virtual channel]] as its former UHF analog channel 14.
+
+==Programming==
+In addition to Fox network programming, KARD airs [[broadcast syndication|syndicated]] programs such as ''[[The Steve Wilkos Show]]'', ''[[The Drew Barrymore Show]]'', ''[[Hot Bench]]'', ''[[The People's Court]]'', ''[[Judge Mathis]]'', ''[[The Wendy Williams Show]]'', ''[[The Big Bang Theory]]'', ''[[Family Feud]]'', and ''[[Two and a Half Men]]'', among others. KARD airs two hours of weekday newscasts—a morning newscast at 7 a.m. and two half-hour weeknight newscasts at 5:30&nbsp;p.m. and 9 p.m. Its current generation of newscasts began in November 2001, shortly before it entered a SSA with KTVE.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.myarklamiss.com/}}
+*[http://www.fcc.gov/mb/engineering/maps/images/callsigns/KARD.gif FCC coverage map]
+*{{TVQ|KARD}}
+*{{BIA|KARD|TV|TV}}
+
+{{Monroe TV}}
+{{TV Stations Louisiana}}
+{{NXST TV}}
+
+[[Category:Fox network affiliates]]
+[[Category:Bounce TV affiliates]]
+[[Category:Grit (TV network) affiliates]]
+[[Category:Antenna TV affiliates]]
+[[Category:Television channels and stations established in 1974]]
+[[Category:1974 establishments in Louisiana]]
+[[Category:Television stations in the Monroe–El Dorado market|ARD]]
+[[Category:Nexstar Media Group]]

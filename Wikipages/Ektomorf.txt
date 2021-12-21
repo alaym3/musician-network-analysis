@@ -1,0 +1,194 @@
+{{expand Hungarian|topic=|otherarticle=|date=March 2018}}
+{{More citations needed|date=March 2018}}
+{{use dmy dates|date=December 2020}}
+{{Infobox musical artist
+| name                = Ektomorf
+| image               = Ektomorf With Full Force 2018 10.jpg
+| image_upright       = 1.2
+| caption             = Ektomorf at [[With Full Force]] 2018
+| background          = group_or_band
+| origin              = [[Mezőkovácsháza]], Hungary
+| genre               = [[Groove metal]], [[thrash metal]], [[nu metal]]
+| years_active        = 1994–present
+| label               = LMS Music (1996)<br />KO Music (1998) <br />[[PIAS Recordings]] (2000–2002)<br />Silverdust (2002–2004)<br />[[Nuclear Blast]] (2004–2008)<br />[[AFM Records|AFM]] (2009–2020)<br />[[Napalm Records]] (2020–)
+| website             = {{URL|}}
+| current_members     = Zoltán "Zoli/Zotya" Farkas<br />Szebasztián Simon <br />Csaba Zahorán <br />Dániel Szabó
+}}
+'''Ektomorf''' is a [[heavy metal music|heavy metal]] band from Hungary.
+
+== Biography ==
+Ektomorf was founded in 1993 in [[Mezőkovácsháza]], Hungary, a small city near the Romanian border, by Zoltán "Zoli/Zotya" Farkas. In the actual line-up Zoli/Zotya – songwriter and leader of the band – is the only remaining founder member. The band is completed by Szebasztián Simon (lead guitar), Csaba Zahorán (bass) and Dániel Szabó (drums).
+
+Due to his [[gypsy]] background, Farkas saw himself confronted with racism and prejudices, which is why the band had to put years of work into its international career. Their breakthrough came when Ektomorf started collaboration with Danish producer [[Tue Madsen]] in 2003.<ref>{{cite web|url=https://www.allmusic.com/artist/ektomorf-mn0000152266/biography|title=Ektomorf - Biography & History - AllMusic|website=AllMusic|access-date=29 March 2018}}</ref>
+
+From 2002 to 2021, they have released fifteen studio albums and one live album.<ref>{{cite web|url=https://www.allmusic.com/artist/ektomorf-mn0000152266/discography|title=Ektomorf - Album Discography - AllMusic|website=AllMusic|access-date=29 March 2018}}</ref> On 7 September 2016, the band's single ''Az vagyok, aki voltam'' debuted on [[Rádió Rock 95.8]].<ref>{{cite web|url=http://www.mostszol.hu/radio/rock958/eloado/Ektomorf|title=Most szól! - Rádió Rock 95.8 - Ektomorf|date=24 November 2016|access-date=1 December 2016|publisher=Index.hu}}</ref>
+
+== Members ==
+* Zoltán "Zoli/Zotya" Farkas – vocals, rhythm guitar <small>(1994–present)</small> <ref name=aaa>{{cite web|url=http://www.shockmagazin.hu/hirek/ismet-teljes-az-ektomorf-felallasa|title=Ismét teljes az Ektomorf felállása - Shock!|last=Administrator|website=shockmagazin.hu|access-date=29 March 2018}}</ref>
+* Szebasztián Simon – lead guitar <small>(2017–present)</small> <ref name=aaa/>
+* Csaba Zahorán – bass <small>(2018-present)</small>
+* Dániel Szabó – drums <small>(2017–present)</small> <ref name=aaa/>
+
+<gallery perrow="4" widths="180" heights="180" caption="Ektomorf live at [[With Full Force]] 2018">
+File:Ektomorf With Full Force 2018 08.jpg|Zoltán Farkas
+File:Ektomorf With Full Force 2018 09.jpg|Csaba Zahorán
+File:Ektomorf With Full Force 2018 05.jpg|Dániel Szabó
+File:Ektomorf With Full Force 2018 02.jpg|Szebasztián Simon
+</gallery>
+
+=== Former members ===
+* Csaba Farkas – bass (1994–2008)
+* Csaba Ternován – drums (1994–1998)
+* Mihály "Müller" Janó – guitars (1994–1997, 1998–2000)
+* Béla Marksteiner – guitars (1997–1998)
+* József "Joci" Szakács – drums (1998–2009)
+* László Kovács – guitars (2000–2002)
+* Tamás Schrottner – guitars (2003–2010, 2012–2017)
+* Szabolcs Murvai – bass (2009–2017)
+* Gergely Homonnai – drums (2009)
+* Michael "Mike" Rank – guitars (2010–2012)
+* Gergely Tarin – drums (2010–2011)
+* Róbert Jaksa – drums (2011–2017)
+* Attila Asztalos – bass (2017-2018)
+
+=== Timeline ===
+{{#tag:timeline|
+ImageSize = width:1000 height:auto barincrement:15
+PlotArea = left:100 bottom:80 top:5 right:10
+Alignbars = justify
+DateFormat  = yyyy
+Period = from:1994 till:{{#time:Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:1
+ScaleMajor = increment:5 start:1994
+ScaleMinor = increment:1 start:1994
+
+Colors =
+  id:vocals   value:red         legend:Lead_vocals
+  id:guitar   value:green       legend:Guitars
+  id:bass     value:blue  legend:Bass
+  id:drums    value:orange      legend:Drums
+  id:studio    value:black       legend:Studio_album
+  id:live   value:gray(0.7)   legend:Live_album
+  id:bars     value:gray(0.95)
+
+BackgroundColors =  bars:bars
+
+BarData =
+  
+  bar:Zoltán       text:Zoltán Farkas
+
+  bar:Mihály      text:Mihály Janó
+  bar:Béla      text:Béla Marksteiner
+  bar:Zsolt      text:Zsolt Gyüre
+  bar:László      text:László Kovács
+  bar:Tamás       text:Tamás Schrottner
+  bar:Michael       text:Michael Ranke
+  bar:Szebasztián text:Szebasztián Simon
+
+  bar:FCsaba     text:Csaba Farkas
+  bar:Szabolcs        text:Szabolcs Murvai
+  bar:Attila        text:Attila Asztalos
+  bar:ZCsaba         text:Csaba Zahorán
+  
+  bar:TCsaba        text:Csaba Ternován
+  bar:József         text:József Szakács
+  bar:Gergely        text:Gergely Homonnai
+  bar:Róbert        text:Róbert Jaksa
+  bar:Dániel        text:Dániel Szabó
+  bar:Kálmán      text:Kálmán Oláh
+
+
+
+PlotData=
+  width:9 textcolor:black align:left anchor:from shift:(9,-4)
+  
+  color:vocals
+  bar:Zoltán       from:1994 till:end
+
+  color:guitar
+  bar:Mihály      from:1994 till:1997
+  bar:Béla      from:1997 till:1998 
+  bar:Mihály      from:1998 till:2000
+  bar:Zsolt      from:2000 till:2001 
+  bar:László      from:2000 till:2002 
+  bar:Michael      from:2010 till:2012 
+  bar:Tamás      from:2003 till:2010 
+  bar:Tamás      from:2012 till:2017 
+  bar:Szebasztián       from:2017 till:end
+
+  color:bass
+  bar:FCsaba      from:1994 till:2008
+  bar:Szabolcs      from:2008 till:2017
+  bar:Attila      from:2017 till:2018
+  bar:ZCsaba      from:2018 till:end
+
+  color:drums
+
+  bar:TCsaba      from:1994 till:1998
+  bar:József      from:1998 till:2009
+  bar:Gergely      from:2009 till:2011
+  bar:Róbert      from:2011 till:2017
+  bar:Dániel      from:2017 till:2019
+  bar:Kálmán      from:2019 till:end
+
+
+LineData =
+  layer:back
+
+  color:live
+  at:2005
+  at:2017  
+  
+  color:studio
+  at:1996
+  at:1998
+  at:2000
+  at:2002
+  at:2004
+  at:2005
+  at:2006
+  at:2009
+  at:2010
+  at:2012
+  at:2014
+  at:2015
+  at:2018
+  at:2021
+}}
+
+==Discography==
+* ''Hangok'' (1996)
+* ''Ektomorf'' (1998)
+* ''Kalyi Jag'' (2000)
+* ''I Scream Up to the Sky'' (2002)
+* ''Destroy'' (2004)
+* ''Instinct'' (2005)<ref>{{cite web|url=https://www.allmusic.com/album/instinct-bonus-tracks-mw0000210116|title=Instinct [Bonus Tracks] - Ektomorf - Songs, Reviews, Credits - AllMusic|website=AllMusic|access-date=29 March 2018}}</ref>
+* ''[[Outcast (Ektomorf album)|Outcast]]'' (2006)<ref>{{cite web|url=https://www.allmusic.com/album/outcast-mw0000460690|title=Outcast - Ektomorf - Songs, Reviews, Credits - AllMusic|website=AllMusic|access-date=29 March 2018}}</ref>
+* ''[[What Doesn't Kill Me... (Ektomorf album)|What Doesn't Kill Me...]]'' (2009)<ref>{{cite web|url=https://www.allmusic.com/album/what-doesnt-kill-me-mw0000813717|title=What Doesn't Kill Me - Ektomorf - Songs, Reviews, Credits - AllMusic|website=AllMusic|access-date=29 March 2018}}</ref>
+* ''[[Redemption (Ektomorf album)|Redemption]]'' (2010)<ref>{{cite web|url=https://www.allmusic.com/album/redemption-mw0002083628|title=Redemption - Ektomorf - Songs, Reviews, Credits - AllMusic|website=AllMusic|access-date=29 March 2018}}</ref>
+* ''[[The Acoustic]]'' (2012)
+* ''[[Black Flag (Ektomorf album)|Black Flag]]'' (2012)
+* ''Retribution'' (2014)
+* ''[[Aggressor (Ektomorf album)|Aggressor]]'' (2015)
+* ''Fury'' (2018)
+* ''Reborn'' (2021)
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons|Ektomorf|Ektomorf}}
+*[http://www.ektomorf.com Official website]
+* [https://www.facebook.com/EktomorfOfficial Official Facebook]
+
+{{Ektomorf}}
+{{Authority control}}
+
+[[Category:Hungarian heavy metal musical groups]]
+[[Category:Musical quartets]]
+[[Category:Musical groups established in 1994]]
+[[Category:Groove metal musical groups]]
+[[Category:Nuclear Blast artists]]
+[[Category:1994 establishments in Hungary]]
+[[Category:AFM Records artists]]

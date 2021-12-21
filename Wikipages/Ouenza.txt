@@ -1,0 +1,86 @@
+{{Coord|35|57|N|8|08|E|display=title}}
+{{Infobox settlement
+|official_name          = Ouenza
+|native_name            = {{lang|ar|الونزة}}
+|nickname               = 
+|settlement_type        = City and Commune
+|motto                  =
+|image_skyline          = Ouenza Station.jpg
+|imagesize              = 200px
+|image_caption          = Ouenza's [[train station]]
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_map              = Dz - 12 - Ouenza.svg
+|mapsize                = 180px
+|map_caption            = Location of Taher in the [[Tébessa Province]]
+|pushpin_map            = 
+|pushpin_label_position = bottom
+|pushpin_mapsize= 300
+|pushpin_map_caption    = Location of Tébessa in the [[Algeria]]
+|coordinates            = 
+| coor_pinpoint           =
+|subdivision_type       = Country
+|subdivision_name       ={{flag|Algeria}}
+|subdivision_type1      = [[Provinces of Algeria|Province]] 
+|subdivision_name1      = [[Tébessa Province]]
+|subdivision_type2      = [[Districts of Algeria|District]]
+|subdivision_name2      = [[Ouenza District]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+|government_footnotes   =
+|government_type        = [[Municipality]]
+|leader_title           = [[Mayor]]
+|leader_name            = Omar Ifroujen ([[National Rally for Democracy (Algeria)|RND]])
+|established_title      = APC
+|established_date       = 2012-2017
+|area_magnitude         = 
+|unit_pref              = Imperial 
+|area_footnotes         =
+|area_total_km2         = 124
+|area_land_km2          = 
+|population_as_of       = 2008
+|population_footnotes   =
+|population_note        =
+|population_total       = 52737<ref>{{cite web|url=https://www.ons.dz/collections/w12_p2.pdf|title=Répartition de la population résidente des ménages ordinaires et collectifs, selon la commune de résidence et la dispersion|publisher=ONS|accessdate=31 August 2021}}</ref>
+|population_density_km2 = 
+|timezone               = [[Central European Time|CET]] 
+|utc_offset             =  +1
+|elevation_footnotes    = 
+|elevation_m            = 
+|elevation_ft           = 
+|iso_code        = CP
+|postal_code_type       = [[List of postal codes in Algeria|Postal code]]
+|postal_code            = 12350<br />12003
+|area_code              =
+|blank_name             =
+|blank_info             =
+|website                = 
+|footnotes              = 
+}}
+
+'''Ouenza''' ({{lang-ar|الونزة}}) is a town in [[Tébessa Province]], in far eastern [[Algeria]]; near the [[Algeria–Tunisia border|border]] with [[Tunisia]]; 43&nbsp;km south of [[Souk Ahras]]; and west of [[M'Daourouch]].
+
+==Demographics==
+The population is 52,000. Ethnologically, the city draws its population from the diverse surrounding regions, including [[Souk Ahras]], [[Taoura]], [[Annaba]], [[Guelma]], [[Tébessa|Tebessa]], [[Chréa]], [[El-meridj]], [[Ain Zerga]], [[Meskiana]] and others.
+
+==Life in Ouenza==
+Ouenza was built by the French [[Société de l'Ouenza]] at the start of the Twentieth Century, to exploit  the [[iron]] ore deposits that have been the basis of economic growth in the region for over 100 years. Originally, workers from Morocco, Tunisia, Libya and other regions of Algeria came to Ouenza, contributing to its cultural diversity and making the town unique in the region. But once these workers retired and returned home with their families, they were replaced by inhabitants of Ouenza's neighbouring villages.
+
+Ouenza's location brings it a dry climate, with hot summers and cold winters. The majority of the inhabitants leave for coastal towns such as [[Annaba]] and [[el Kala]] during the summer season.
+
+Ouenza has a number of locations very popular with its inhabitants. One of these, the [[suq]], is known by its [[French colonial empires|colonial]] name, SAS. People of all ages gather at the [[boulodrome]], named "le Cercle", to watch the game of [[pétanque]]. The main [[supermarket]] is named "L'économat". There is also a village hall <!-- this translation doesn't really capture what une salle des fêtes is, please change it if you can do better --> with a 400-seat [[Movie theater|cinema]] and air conditioning. There are also three tennis courts and the football field of the local team OSO. Recently a number of cybercafes have emerged, catering for the tastes of the young people.
+
+== Mining and its ecological impact ==
+The transportation of iron ore raises clouds of dust throughout the city, making hygienic life difficult and discoloring paintwork. Locals also suffer a number of lung complaints from inhalation of the dust, particularly [[silicosis]].  After years of exposure, most of Ouenza's miners eventually suffer from this affliction, caused by inhaling [[silica]] dust, and many die from its complications.
+
+== See also ==
+* [[Iron ore in Africa]]
+
+==References==
+{{reflist}}
+
+{{Tébessa Province}}
+
+[[Category:Communes of Tébessa Province]]

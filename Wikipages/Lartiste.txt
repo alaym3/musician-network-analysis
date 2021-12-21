@@ -1,0 +1,525 @@
+{{short description|French-Moroccan singer and rapper}}
+{{about|the French rapper|the magazine|L'Artiste}}
+{{Distinguish|Artist (disambiguation){{!}}Artist}}
+
+{{BLP sources|date=May 2015}}
+
+{{Infobox musical artist
+| name         = Lartiste
+| birth_name   = Youssef Akdim
+| birth_date   = {{birth date and age|1985|07|04|df=yes}}
+| birth_place  = [[Marrakesh]], Morocco
+| genre        = [[French hip hop]], [[Afropop]]
+| occupation   = [[Singing|Singer]], [[rapper]]
+| years_active = 2006–present
+| label        = Purple Money
+}}
+
+'''Youssef Akdim''' ([[Berber languages|Berber]]: ⵢⵓⵙⴻⴼ ⴰⵇⴷⵉⵎ, {{lang-ar|يوسف أقديم|link=no}}; born 4 July 1985), better known as '''Lartiste''' ({{IPA-fr|laʁtist}}), is a [[Moroccans in France|French-Moroccan]] singer and rapper. Born in [[Marrakesh]], [[Morocco]], he emigrated to France at 7 years old, having lived in [[Bondy]] and later in [[Le Blanc-Mesnil]], outside of [[Paris]]. At age 13, he became part of the rap band Malédiction and at 16 he adopted the stage name Lartiste ("L'artiste" - "The artist" in English).
+
+He released "Évasion", his first maxi solo, in 2006 and joined the collective French Cut, having released a mixtape, ''Rap 1.9'', in 2010. Going solo, his 2013 studio album, ''Lalbum'' ( l'album - "the album" in English), included several musical influences including funk, soul, pop, electro and African sounds. He released his second studio album, ''Fenomeno'', in 2015, his third and fourth albums, ''Maestro'' and ''Clandestino'', in 2016, and his fifth ''Clandestino'', in 2018. Also in 2018, the third single from ''Clandestino'', "Mafiosa", which features Brazilian singer Caroliina, reached number 2 in the main French singles chart, number one in the Megafusion chart (which contabilizes the selling and streaming numbers in France), number six in [[Wallonia]] and number one in [[Portugal]], where it was also the first radio hit containing a significant part of lyrics in [[French language|French]] since [[Stromae]]'s "[[Papaoutai]]", in 2014.
+
+==Discography==
+=== Lartiste ===
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="140"|Album
+!align="center" colspan="2" width="20"|Peak positions
+!align="center" rowspan="2" width="180"|Notes
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[SNEP|FR]]<br><ref name="fr">{{cite web | url=http://lescharts.com/showinterpret.asp?interpret=Lartiste | title=Lartiste discography | publisher=Hung Medien | work=lescharts.com |accessdate=19 May 2015}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[Ultratop|BEL<br>(Wa)]]<br><ref name="bel">{{cite web | url=http://www.ultratop.be/fr/showinterpret.asp?interpret=Lartiste | title=Lartiste discography | publisher=Hung Medien | work=ultratop.be/fr/ |accessdate=19 May 2015}}</ref>
+|-
+| style="text-align:center;"|2013
+|''Lalbum''
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|
+{{Track listing
+| collapsed = yes
+
+| title1  = Étincelle
+| length1 = 4:08
+
+| title2  = J'bénis le mic
+| length2 = 4:38
+
+| title3  = Mévader
+| length3 = 3:56
+
+| title4  = Toi et moi ce soir (Liouma)
+| length4 = 3:18
+
+| title5  = Toucher le ciel
+| length5 = 4:06
+
+| title6  = Tendre la main
+| length6 = 4:36
+
+| title7  = Baby Love
+| length7 = 3:35
+
+| title8  = Hello
+| length8 = 3:58
+
+| title9  = Africa 2.0
+| note9   = feat. Ayano
+| length9 = 3:16
+
+| title10 = International
+| length10= 4:15
+
+| title11 = Cool
+| length11= 4:42
+
+| title12 = Rockstar
+| length12= 3:45
+
+| title13 = Le poids de mes erreurs
+| length13= 3:16
+
+| title14 = Post-scriptum
+| length14= 4:21
+
+}}
+
+|-
+| style="text-align:center;"|2015
+|''Fenomeno''
+| style="text-align:center;"|14
+| style="text-align:center;"|102
+|
+{{Track listing
+| collapsed = yes
+
+| title1  = A bon entendeur
+| length1 = 4:04
+
+| title2  = Donde Cuando
+| length2 = 3:23
+
+| title3  = Trop de flow 
+| note3   = feat. [[Clayton Hamilton (singer)|Clayton Hamilton]]
+| length3 = 3:34
+
+| title4  = Destination finale
+| length4 = 3:33
+
+| title5  = Polygame 
+| note5   = feat. [[Dr. Beriz]]
+| length5 = 3:08
+
+| title6  = Bang Bang
+| length6 = 3:17
+
+| title7  = Fenomeno
+| length7 = 2:58
+
+| title8  = Jamais abandonner
+| length8 = 3:06
+
+| title9  = L'héritier 
+| note9   = feat. [[Rim'K]]
+| length9 = 4:13
+
+| title10 = Pay Me
+| length10= 3:43
+
+| title11 = Pas pousser
+| length11= 3:28
+
+| title12 = Lampedusa 
+| note12  = feat. Double M
+| length12= 4:10
+
+| title13 = Hypocrite
+| length13= 3:59
+
+| title14 = Fais le
+| length14= 2:38
+
+}}
+|-
+| style="text-align:center;" rowspan=2|2016
+|''Maestro''
+| style="text-align:center;"|4
+| style="text-align:center;"|13
+|
+{{Track listing
+| collapsed = yes
+
+| title1  = Étincelle
+| length1 = 4:08
+
+| title2  = J'bénis le mic
+| length2 = 4:38
+
+| title3  = Mévader
+| length3 = 3:56
+
+| title4  = Toi et moi ce soir (Liouma)
+| length4 = 3:18
+
+| title5  = Toucher le ciel
+| length5 = 4:06
+
+| title6  = Tendre la main
+| length6 = 4:36
+
+| title7  = Baby Love
+| length7 = 3:35
+
+| title8  = Hello
+| length8 = 3:58
+
+| title9  = Africa 2.0
+| note9   = feat. Ayano
+| length9 = 3:16
+
+| title10 = International
+| length10= 4:15
+
+| title11 = Cool
+| length11= 4:42
+
+| title12 = Rockstar
+| length12= 3:45
+
+| title13 = Le poids de mes erreurs
+| length13= 3:16
+
+| title14 = Post-scriptum
+| length14= 4:21
+
+}}
+|-
+|''Clandestino''
+| style="text-align:center;"|24<br /><ref>{{cite web|url=http://www.snepmusique.com/tops-semaine/top-album-megafusion/?ye=2017&we=26|title=Le Top de la semaine : Top Albums – SNEP (Week 26, 2017)|publisher=[[Syndicat National de l'Édition Phonographique]]|language=French|accessdate=18 July 2017}}{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| style="text-align:center;"|59
+|
+{{Track listing
+| collapsed = yes
+
+| title1  = Intro
+| length1 = 2:37
+
+| title2  = Joker
+| length2 = 3:31
+
+| title3  = Soleil
+| length3 = 2:50
+
+| title4  = Dark Vador
+| length4 = 3:35
+
+| title5  = Le Gouffre
+| length5 = 3:43
+
+| title6  = Le Moral
+| note6   = featuring Kazmi
+| length6 = 3:48
+
+| title7  = Chocolat
+| note7   = featuring Awa Imani
+| length7 =
+
+| title8  = Clandestina
+| length8 = 3:56
+
+| title9  = Bye Bye Baby
+| length9 = 2:47
+
+| title10 = Liaisons Dangereuses
+| length10= 3:50
+
+| title11 = Tony Montana
+| length11= 2:47
+
+| title12 = Gonzales
+| note12  = featuring 7liwa
+| length12= 4:09
+
+| title13 = Echec et M.A.T
+| note13  = featuring Kamelenouvo & Gianni
+| length13= 3:36
+
+| title14 = Subito
+| length14= 3:40
+
+| title15 = Lifat Mat
+| length15= 3:05
+
+| title16 = Chauffeur Capable
+| note16  = featuring 7Liwa, The Wind & Laguardia
+| length16= 3:25
+
+| title17 = Vue du ciel
+| length17= 3:13
+
+}}
+|-
+| style="text-align:center;"|2018
+|''Grandestino''
+| style="text-align:center;"|6
+| style="text-align:center;"|18
+|
+|-
+| style="text-align:center;"|2019
+|''Quartier Latin Vol.1''
+| style="text-align:center;"|7<br /><ref>{{cite web|url=http://www.snepmusique.com/tops-semaine/top-album-megafusion/?ye=2019&we=6|title=Le Top de la semaine : Top Albums Fusionnes – SNEP (Week 6, 2019)|publisher=Syndicat National de l'Édition Phonographique|language=French|accessdate=11 February 2019}}{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| style="text-align:center;"|30
+|
+|}
+
+'''Others'''
+*2006: "Évasion" (maxi)
+*2010: ''Rap 1.9'' (mixtape)
+*2017: ''Projet 000''
+
+===Singles===
+{| class="wikitable"
+! align="center" rowspan="2" width="10"| Year
+! align="center" rowspan="2" width="190"| Single
+! align="center" colspan="3" width="20"| Peak positions
+! align="center" rowspan="2" width="140"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[SNEP|FR]]<br><ref name="fr"/>
+! scope="col" style="width:3em;font-size:90%;" | [[Ultratop|BEL<br>(Wa)]]<br><ref name="bel"/>
+! scope="col" style="width:3em;font-size:90%;" | [[Swiss Hitparade|SWI]]<br>
+|-
+| style="text-align:center;" rowspan=2| 2012
+| "Toi et moi ce soir (Liouma)"
+| style="text-align:center;"| 145
+| style="text-align:center;"|
+| style="text-align:center;"|
+| style="text-align:center;" rowspan=2| ''Lalbum''
+|-
+| "Mévader"
+| style="text-align:center;"| —
+| style="text-align:center;"|
+| style="text-align:center;"|
+|-
+| style="text-align:center;" rowspan="3"| 2016
+| "Maestro"
+| style="text-align:center;"| 59
+| style="text-align:center;"|
+| style="text-align:center;"|
+| style="text-align:center;"| ''Maestro''
+|-
+| "Clandestina"
+| style="text-align:center;"|59
+| style="text-align:center;"|
+| style="text-align:center;"|
+| style="text-align:center;" rowspan=2|''Clandestino''
+|-
+| "Chocolat"<br><small>(feat. Awa Imani)</small>
+| style="text-align:center;"|4
+| style="text-align:center;"|12
+| style="text-align:center;"|75
+|-
+| style="text-align:center;" rowspan=2| 2017
+| "Pardonner"
+| style="text-align:center;"| 176
+| style="text-align:center;"|
+| style="text-align:center;"|
+| style="text-align:center;"| 
+|-
+| "Catchu Catchu"
+| style="text-align:center;"| 11
+| style="text-align:center;"| 26
+| style="text-align:center;"|
+| style="text-align:center;" rowspan="3"| ''Grandestino''
+|-
+| style="text-align:center;" rowspan="2"| 2018
+| "Vai et viens"
+| style="text-align:center;"| 4
+| style="text-align:center;"| 2*<br><small>(Ultratip)</small>
+| style="text-align:center;"|
+|-
+| "Mafiosa"<br><small>(feat. Caroliina)</small>
+| style="text-align:center;"| 1
+| style="text-align:center;"| 6
+| style="text-align:center;"| 38
+|-
+| style="text-align:center;"| 2019
+| "Peligrosa"<br><small>(feat. [[Karol G]])</small>
+| style="text-align:center;"| 94<br /><ref>{{cite web|url=http://www.snepmusique.com/tops-semaine/top-singles-megafusion/?ye=2019&we=23|title=Le Top de la semaine : Top Singles (téléchargement + streaming) – SNEP (Week 23, 2019)|publisher=[[Syndicat National de l'Édition Phonographique]]|language=French|accessdate=11 June 2019|archive-url=https://web.archive.org/web/20190816013405/http://www.snepmusique.com/tops-semaine/top-singles-megafusion/?ye=2019&we=23|archive-date=16 August 2019|url-status=dead}}</ref>
+| style="text-align:center;"| —
+| style="text-align:center;"|
+| style="text-align:center;"| ''Quartier Latin Vol. 1''
+|}
+<small>*Did not appear in the official Belgian Ultratop 50 charts, but rather in the bubbling under Ultratip charts.</small>
+
+===Other charted songs===
+{| class="wikitable"
+! align="center" rowspan="2" width="10"| Year
+! align="center" rowspan="2" width="190"| Single
+! align="center" colspan="1" width="20"| Peak positions
+! align="center" rowspan="2" width="140"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[SNEP|FR]]<br><ref name="fr"/>
+|-
+| style="text-align:center;" rowspan="4"| 2015
+| "Destination Finale"
+| style="text-align:center;"| 153
+| style="text-align:center;" rowspan="3"| ''Fenomeno''
+|-
+| "Polygame" <small>(feat. [[Dr. Beriz]])</small>
+| style="text-align:center;"| 196
+|-
+| "Bang Bang"
+| style="text-align:center;"| 144
+|-
+| "Destination Finale"
+| style="text-align:center;"| 153
+| style="text-align:center;"|
+|-
+| style="text-align:center;" rowspan="8"| 2016
+| "Trop de flow"<br><small>(feat. Clayton Hamilton)</small>
+| style="text-align:center;"|154
+| style="text-align:center;" rowspan="5"| ''Maestro''
+|-
+| "Missile"
+| style="text-align:center;"|106
+|-
+| "Amour parano"
+| style="text-align:center;"|109
+|-
+| "J'arrive pas"<br><small>(feat. [[Lefa (rapper)|Lefa]])</small>
+| style="text-align:center;"|110
+|-
+| "Combien tu t'appelles?"
+| style="text-align:center;"|183
+|-
+| "Soleil"
+| style="text-align:center;"|158
+| style="text-align:center;" rowspan=3|''Clandestino''
+|-
+| "Liaisons dangereuses"
+| style="text-align:center;"|102
+|-
+| "Bye Bye Baby"
+| style="text-align:center;"|154
+|-
+| style="text-align:center;" rowspan="7"| 2018
+| "GB"<br><small>(feat. [[Kaaris]] x DJ Mc Fly)</small>
+| style="text-align:center;"| 62
+| style="text-align:center;" rowspan=4| ''Grandestino''
+|-
+| "Bête blessée"
+| style="text-align:center;"| 185
+|-
+| "Grandestino"
+| style="text-align:center;"| 175
+|-
+| "Neymar"<br><small>(feat. [[Gradur]])</small>
+| style="text-align:center;"| 186
+|-
+| "Attache ta ceinture"<br><small>(feat. [[Naza (rapper)|Naza]])</small>
+| style="text-align:center;"| 75
+| style="text-align:center;"| ''Taxi 5'' (soundtrack)
+|-
+| "Pas le choix"<br><small>(with [[Sofiane (rapper)|Sofiane]] & Kaaris)</small>
+| style="text-align:center;"| 90
+| style="text-align:center;" rowspan=2| ''[[93 Empire]]''
+|-
+| "Dinero"<br><small>(with [[Da Uzi]] & Don Milli)</small>
+| style="text-align:center;"| 143
+|}
+<small>*Did not appear in the official Belgian Ultratop 50 charts, but rather in the bubbling under Ultratip charts.</small>
+
+===Featured in===
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="140"|Single
+!align="center" colspan="2" width="20"|Peak positions
+!align="center" rowspan="2" width="140"|Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[SNEP|FR]]<br><ref name="fr"/>
+! scope="col" style="width:3em;font-size:90%;" | [[Ultratop|BEL<br>(Wa)]]<br><ref name="bel"/>
+|-
+| style="text-align:center;" rowspan=2|2014
+| "[[Déconnectés]]" <br><small>([[DJ Hamida]] feat. [[Kayna Samet]], [[Rim'K]] & Lartiste)</small>
+| style="text-align:center;"|14
+| style="text-align:center;"|7*<br><small>(Ultratip)</small>
+| style="text-align:center;" rowspan=2|''[[À la bien mix party#À la bien mix party 2014|À la bien mix party 2014]]''
+|-
+| "Trabendo Musical" <br><small>([[DJ Hamida]] feat. Lartiste & [[Kader Japonais]])</small>
+| style="text-align:center;"|149
+| style="text-align:center;"|
+|-
+| style="text-align:center;" rowspan=2|2015
+| "Miss Vilaine" <br><small>(DJ Hamida feat. Lartiste, [[Leck (rapper)|Leck]] & [[Big Ali]])</small>
+| style="text-align:center;"|194
+| style="text-align:center;"|
+| style="text-align:center;"|
+|-
+| "Insta" <br><small>([[La Fouine]] feat. Lartiste)</small>
+| style="text-align:center;"|36
+| style="text-align:center;"|24*<br><small>(Ultratip)</small>
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2016
+| "Vida loca" <br><small>([[Rim'K]] feat. Lartiste)</small>
+| style="text-align:center;"|146
+| style="text-align:center;"|
+| style="text-align:center;"|''Monster Tape''
+|-
+| style="text-align:center;" rowspan=5|2017
+| "Laisse nous passer" <br><small>([[DJ Babs]] feat. Lartiste)</small>
+| style="text-align:center;"|187
+| style="text-align:center;"|
+| style="text-align:center;"|
+|-
+|"Grand Paris"<br><small>([[Médine (rapper)|Médine]] feat. Lartiste, [[Lino (rapper)|Lino]], [[Sofiane (rapper)|Sofiane]], Alivor, [[Seth Gueko]], Ninho & [[Youssoupha]])</small>
+| style="text-align:center;"|48
+| style="text-align:center;"|
+| style="text-align:center;"|
+|-
+| "Mama nostra" <br><small>([[Rim'k]] feat. Lartiste)</small>
+| style="text-align:center;"|183
+| style="text-align:center;"|
+| style="text-align:center;"|''Fantôme''
+|-
+| "C'est une frappe" <br><small>([[DJ Hamida]] feat. Lartiste)</small>
+| style="text-align:center;"|86
+| style="text-align:center;"|12*<br><small>(Ultratip)</small>
+| style="text-align:center;" |''[[À la bien mix party#À la bien mix party 2017|À la bien mix party 2017]]''
+|-
+| "Dalé" <br><small>([[Alonzo (rapper)|Alonzo]] feat. Lartiste)</small>
+| style="text-align:center;"|69
+| style="text-align:center;"|
+| style="text-align:center;"|''100%''
+|-
+| style="text-align:center;"| 2018
+| "Ciao bella"<br><small>([[DJ Hamida]] feat. Lartiste)</small>
+| style="text-align:center;"| 48
+| style="text-align:center;"|
+| style="text-align:center;"| ''[[À la bien mix party#Mix party 2018|À la bien mix party 2018]]''
+|-
+| style="text-align:center;"| 2019
+| "[[On Fleek (Eva song)|On Fleek]]"<br><small>([[Eva (singer)|Eva]] feat. Lartiste)</small>
+| style="text-align:center;"| 1<br /><ref>{{cite web|url=http://www.snepmusique.com/tops-semaine/top-singles-megafusion/?ye=2019&we=4|title=Le Top de la semaine : Top Singles (téléchargement + streaming) – SNEP (Week 4, 2019)|publisher=Syndicat National de l'Édition Phonographique|language=French|accessdate=9 February 2019}}{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| style="text-align:center;"| 26
+| style="text-align:center;"|
+|}
+<small>*Did not appear in the official Belgian Ultratop 50 charts, but rather in the bubbling under Ultratip charts.</small>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.facebook.com/Lartiste93 Facebook]
+
+{{authority control}}
+
+{{DEFAULTSORT:Lartiste}}
+[[Category:1985 births]]
+[[Category:Living people]]
+[[Category:French male singers]]
+[[Category:French rappers]]
+[[Category:Moroccan rappers]]
+[[Category:French songwriters]]
+[[Category:Male songwriters]]
+[[Category:French people of Moroccan descent]]
+[[Category:People from Marrakesh]]

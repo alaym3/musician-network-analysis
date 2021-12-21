@@ -1,0 +1,391 @@
+{{short description|Classical Athenian tragic playwright}}
+{{other uses}}
+{{Infobox writer
+| name             = Sophocles
+| image            = Sophocles pushkin.jpg
+| birth_date       = 497/496 BC
+| birth_place      = [[Hippeios Colonus|Colonus]], [[Attica]]
+| death_date       = 406/405 BC (aged 90–92)
+| death_place      = [[Classical Athens|Athens]]
+| occupation       = Tragedian
+| genre            = [[Tragedy]]
+| notableworks     = {{plainlist|
+* ''[[Ajax (play)|Ajax]]''
+* ''[[Antigone (Sophocles play)|Antigone]]''
+* ''[[Oedipus Rex]]''
+* ''[[Electra (Sophocles play)|Electra]]''
+* ''[[Oedipus at Colonus]]''}}
+}}
+'''Sophocles''' ({{IPAc-en|ˈ|s|ɒ|f|ə|k|l|iː|z}};<ref>Jones, Daniel; Roach, Peter, James Hartman and Jane Setter, eds. ''Cambridge English Pronouncing Dictionary''. 17th edition. Cambridge UP, 2006.</ref> {{lang-grc|Σοφοκλῆς}}, {{IPA-grc|so.pʰo.klɛ̂ːs|pron}}; {{circa}} 497/6 – winter 406/5 BC)<ref name="S41">Sommerstein (2002), p. 41.</ref> is one of three [[classical Greece|ancient Greek]] [[tragedy|tragedians]] whose plays have survived. His first plays were written later than, or contemporary with, those of [[Aeschylus]]; and earlier than, or contemporary with, those of [[Euripides]]. Sophocles wrote over 120 plays,<ref>The exact number is unknown, the ''Suda'' says he wrote 123, another ancient source says 130, but no exact number "is possible", see Lloyd-Jones 2003, p. 3.</ref> but only seven have survived in a complete form: ''[[Ajax (play)|Ajax]]'', ''[[Antigone (Sophocles play)|Antigone]]'', ''[[Women of Trachis]]'', ''[[Oedipus Rex]]'', ''[[Electra (Sophocles play)|Electra]]'', ''[[Philoctetes (Sophocles)|Philoctetes]]'' and ''[[Oedipus at Colonus]]''.<ref>''Suda'' (ed. Finkel ''et al.''): s.v. [http://www.stoa.org/sol-bin/search.pl?searchstr=sigma+815 {{lang|grc|Σοφοκλῆς}}].</ref> For almost fifty years, Sophocles was the most celebrated playwright in the dramatic competitions of the [[Polis|city-state]] of [[Classical Athens|Athens]] which took place during the religious festivals of the [[Lenaea]] and the [[City Dionysia|Dionysia]]. He competed in thirty competitions, won twenty-four, and was never judged lower than second place. Aeschylus won thirteen competitions, and was sometimes defeated by Sophocles; Euripides won four.<ref name="Britannica">{{Britannica|554733}}</ref>
+
+The most famous tragedies of Sophocles feature [[Oedipus]] and [[Antigone]]: they are generally known as the [[Three Theban plays|Theban plays]], though each was part of a different [[tetralogy]] (the other members of which are now lost). Sophocles influenced the development of drama, most importantly by adding a third actor (attributed to Sophocles by Aristotle; to Aeschylus by Themistius),<ref>{{cite book
+ |last=LLoyd-Jones, H. (ed. and trans.)
+ |others=Sophocles
+ |date=1997
+ |title=Introduction, in ''Sophocles I''
+ |location=Cambridge, Massachusetts; London, England
+ |publisher=Loeb Classical Library, Harvard University Press
+ |page=9
+ |isbn=9780674995574
+}}</ref> thereby reducing the importance of the [[Greek chorus|chorus]] in the presentation of the [[Plot (narrative)|plot]].{{citation needed|date=August 2020}} He also [[Character arc|developed his characters]] to a greater extent than earlier playwrights.<ref name="F247">Freeman, p. 247.</ref>
+
+==Life==
+[[Image:Sophocles CdM Chab3308.jpg|thumb|right|A marble relief of a poet, perhaps Sophocles]]
+
+Sophocles, the son of Sophillus, was a wealthy member of the rural ''[[deme]]'' (small community) of [[Hippeios Colonus]] in [[Attica]], which was to become a setting for one of his plays; and he was probably born there,<ref name=S41/><ref name=Sfrxi>Sommerstein (2007), p. xi.</ref> a few years before the [[Battle of Marathon]] in 490 BC: the exact year is unclear, but 497/6 is most likely.<ref name=S41/><ref>Lloyd-Jones 1994, p. 7.</ref> He was born into a wealthy family (his father was an armour manufacturer), and was highly educated. His first artistic triumph was in 468 BC, when he took first prize in the [[Dionysia]], beating the reigning master of Athenian drama, [[Aeschylus]].<ref name=S41/><ref>Freeman, p. 246.</ref> According to [[Plutarch]], the victory came under unusual circumstances: instead of following the usual custom of choosing judges by lot, the [[archon]] asked [[Cimon]], and the other ''[[strategoi]]'' present, to decide the victor of the contest. Plutarch further contends that, following this loss, Aeschylus soon left for Sicily.<ref>''Life of Cimon'' 8. Plutarch is mistaken about Aeschylus' death during this trip; he went on to produce dramas in Athens for another decade.</ref> Though Plutarch says that this was Sophocles' first production, it is now thought that his first production was probably in 470 BC.<ref name=Sfrxi/> ''Triptolemus'' was probably one of the plays that Sophocles presented at this festival.<ref name=Sfrxi/>
+
+In 480 BC Sophocles was chosen to lead the [[paean]] (a choral chant to a god), celebrating the Greek victory over the [[Achaemenid Empire|Persians]] at the [[Battle of Salamis]].<ref>''McGraw-Hill Encyclopedia of World Drama: An International Reference Work in 5 Volumes, Volume 1'', [https://books.google.com/books?id=2SrVpFGioFUC&pg=PA487 "Sophocles"].</ref> Early in his career, the politician [[Cimon]] might have been one of his patrons; but, if he was, there was no ill will borne by [[Pericles]], Cimon's rival, when Cimon was ostracized in 461 BC.<ref name=S41/> In 443/2, Sophocles served as one of the ''[[Hellenotamiai]]'', or treasurers of Athena, helping to manage the finances of the city during the political ascendancy of Pericles.<ref name=S41/> In 441 BC, according to the ''Vita Sophoclis'', he was elected one of the ten generals, executive officials at Athens, as a junior colleague of Pericles; and he served in the Athenian campaign against [[Samos]]. He was supposed to have been elected to this position as the result of his production of ''Antigone'',<ref>Beer 2004, p. 69.</ref> but this is "most improbable".<ref>Lloyd-Jones 1994, p. 12.</ref>
+
+In 420 BC, he was chosen to receive the image of [[Asclepius]] in his own house, when the cult was being introduced to Athens, and lacked a proper place (τέμενος).<ref name="Lloyd-Jones 1994, p. 13">Lloyd-Jones 1994, p. 13.</ref> For this, he was given the posthumous epithet ''Dexion'' (receiver) by the Athenians.<ref>Clinton, Kevin "The Epidauria and the Arrival of Asclepius in Athens", in Ancient Greek Cult Practice from the Epigraphical Evidence, edited by R. Hägg, Stockholm, 1994.</ref> But "some doubt attaches to this story".<ref name="Lloyd-Jones 1994, p. 13"/> He was also elected, in 411 BC, one of the commissioners (''[[probouloi]]'') who responded to the catastrophic destruction of the Athenian expeditionary force in [[Sicily]] during the [[Peloponnesian War]].<ref>Lloyd-Jones 1994, pp. 12–13.</ref>
+
+Sophocles died at the age of 90 or 91 in the winter of 406/5 BC, having seen, within his lifetime, both the Greek triumph in the [[Persian Wars]], and the bloodletting of the Peloponnesian War.<ref name=S41/> As with many famous men in classical antiquity, his death inspired a number of apocryphal stories. The most famous{{citation needed|date=August 2020}} is the suggestion that he died from the strain of trying to recite a long sentence from his ''Antigone'' without pausing to take a breath. Another account suggests he choked while eating grapes at the [[Anthesteria]] festival in Athens. A third holds that he died of happiness after winning his final victory at the City Dionysia.<ref>Schultz 1835, pp. 150–51.</ref> A few months later, a comic poet, in a play titled ''The Muses'', wrote this eulogy: "Blessed is Sophocles, who had a long life, was a man both happy and talented, and the writer of many good tragedies; and he ended his life well without suffering any misfortune."<ref>Lucas 1964, p. 128.</ref> According to some accounts, however, his own sons tried to have him declared incompetent near the end of his life; and that he refuted their charge in court by reading from his new ''Oedipus at Colonus''.<ref>[[Cicero]] recounts this story in his ''De Senectute'' 7.22.</ref> One of his sons, [[Iophon]], and a grandson, called Sophocles, also became playwrights.<ref>Sommerstein (2002), pp. 41–42.</ref>
+
+===Homosexuality===
+An ancient source, [[Athenaeus]]’s work ''[[Deipnosophistae|Sophists at Dinner]]'', contains references to Sophocles' sexuality. In that work, a character named Myrtilus claims that Sophocles "was partial to boys, in the same way that Euripides was partial to women"<ref name="Athenaeus 2011 53">{{cite book
+ |last=Athenaeus
+ |others=Douglas Olson, S. (ed. and trans.)
+ |date=2011
+ |title=The Learned Banqueters, Volume VII
+ |location=Cambridge, Massachusetts; London, England
+ |publisher=Loeb Classical Library, Harvard University Press
+ |pages=53
+ |isbn=9780674996731
+}}</ref><ref>{{cite book
+ |title=The Deipnosophists
+ |author=Athenaeus
+ |author-link=Athenaeus
+ |series=XIII
+ |pages=603–4
+ |translator-last=Yonge
+ |translator-first=Charles Duke
+ |publisher=Henry G. Bohn
+ |location=London
+ |publication-date=1854
+ |lccn=2002554451
+ |website=Attalus.org
+ |url=http://www.attalus.org/old/athenaeus13d.html
+ |access-date=24 April 2021
+}}</ref> ("φιλομεῖραξ δὲ ἦν ὁ Σοφοκλῆς, ὡς Εὐριπίδης φιλογύνης"),<ref name="Athenaeus 2011 52">{{cite book
+ |last=Athenaeus
+ |others=Douglas Olson, S. (ed. and trans.)
+ |date=2011
+ |title=The Learned Banqueters, Volume VII
+ |location=Cambridge, Massachusetts; London, England
+ |publisher=Loeb Classical Library, Harvard University Press
+ |pages=52
+ |isbn=9780674996731
+}}</ref> and relates an anecdote, attributed to [[Ion of Chios]], of Sophocles flirting with a serving-boy at a [[symposium]]:{{quote|βούλει με ἡδέως πίνειν; [...] βραδέως τοίνυν καὶ πρόσφερέ μοι καὶ ἀπόφερε τὴν κύλικα.<ref name="Athenaeus 2011 52">{{cite book
+ |last=Athenaeus
+ |others=Douglas Olson, S. (ed. and trans.)
+ |date=2011
+ |title=The Learned Banqueters, Volume VII
+ |location=Cambridge, Massachusetts; London, England
+ |publisher=Loeb Classical Library, Harvard University Press
+ |pages=52
+ |isbn=9780674996731
+}}</ref><br>Do you want me to enjoy my drink? [...] Then hand me the cup nice and slow, and take it back nice and slow too.<ref name="Athenaeus 2011 53">{{cite book
+ |last=Athenaeus
+ |others=Douglas Olson, S. (ed. and trans.)
+ |date=2011
+ |title=The Learned Banqueters, Volume VII
+ |location=Cambridge, Massachusetts; London, England
+ |publisher=Loeb Classical Library, Harvard University Press
+ |pages=53
+ |isbn=9780674996731
+}}</ref>}} He also says that [[Hieronymus of Rhodes]], in his ''Historical Notes'', claims that Sophocles once led a boy outside the city walls for sex; and that the boy snatched Sophocles' cloak (χλανίς, ''khlanis''), leaving his own child-sized robe ("παιδικὸν [[himation|ἱμάτιον]]") for Sophocles.<ref>{{cite book
+ |last=Athenaeus
+ |others=Douglas Olson, S. (ed. and trans.)
+ |date=2011
+ |title=The Learned Banqueters, Volume VII
+ |location=Cambridge, Massachusetts; London, England
+ |publisher=Loeb Classical Library, Harvard University Press
+ |pages=56–57
+ |isbn=9780674996731
+}}</ref><ref>Fortenbaugh, William Wall. ''Lyco and Traos and Hieronymus of Rhodes: Text, Translation, and Discussion.'' Transaction Publishers (2004). {{ISBN|978-1-4128-2773-7}}. p. 161</ref> Moreover, when Euripides heard about this (it was much discussed), he mocked the disdainful treatment, saying that he had himself had sex with the boy, "but had not given him anything more than his usual fee"<ref>{{cite book
+ |last=Athenaeus
+ |others=Douglas Olson, S. (ed. and trans.)
+ |date=2011
+ |title=The Learned Banqueters, Volume VII
+ |location=Cambridge, Massachusetts; London, England
+ |publisher=Loeb Classical Library, Harvard University Press
+ |page=57
+ |isbn=9780674996731
+}}</ref> ("ἀλλὰ μηδὲν προσθεῖναι"),<ref>{{cite book
+ |last=Athenaeus
+ |others=Douglas Olson, S. (ed. and trans.)
+ |date=2011
+ |title=The Learned Banqueters, Volume VII
+ |location=Cambridge, Massachusetts; London, England
+ |publisher=Loeb Classical Library, Harvard University Press
+ |page=56
+ |isbn=9780674996731
+}}</ref> or, "but that nothing had been taken off"<ref>{{cite book
+ |last=Sophocles
+ |others=Campbell, D. A. (ed. and trans.)
+ |date=1992
+ |title=Greek Lyric, Volume IV: Bacchylides, Corinna, and Others
+ |location=Cambridge, Massachusetts; London, England
+ |publisher=Loeb Classical Library, Harvard University Press
+ |page=333
+ |isbn=9780674995086
+}}</ref> ("ἀλλὰ μηδὲν προεθῆναι").<ref>{{cite book
+ |last=Sophocles
+ |others=Campbell, D. A. (ed. and trans.)
+ |date=1992
+ |title=Greek Lyric, Volume IV: Bacchylides, Corinna, and Others
+ |location=Cambridge, Massachusetts; London, England
+ |publisher=Loeb Classical Library, Harvard University Press
+ |page=332
+ |isbn=9780674995086
+}}</ref> In response, Sophocles composed this elegy: {{quote|[[The North Wind and the Sun|Ἥλιος ἦν]], οὐ παῖς, Εὐριπίδη, ὅς με χλιαίνων<br>γυμνὸν ἐποίησεν· σοὶ δὲ φιλοῦντι † ἑταίραν †<br>Βορρᾶς ὡμίλησε. σὺ δ᾿ οὐ σοφός, ὃς τὸν Ἔρωτα,<br>ἀλλοτρίαν σπείρων, λωποδύτην ἀπάγεις.<ref>{{cite book
+ |last=Athenaeus
+ |others=Douglas Olson, S. (ed. and trans.)
+ |date=2011
+ |title=The Learned Banqueters, Volume VII
+ |location=Cambridge, Massachusetts; London, England
+ |publisher=Loeb Classical Library, Harvard University Press
+ |page=58
+ |isbn=9780674996731
+}}</ref><br>[[The North Wind and the Sun|It was the Sun]], Euripides, and not a boy, that got me hot<br>and stripped me naked. But the North Wind was with you<br>when you were kissing † a courtesan †. You’re not so clever, if you arrest<br>Eros for stealing clothes while you’re sowing another man’s field.<ref>{{cite book
+ |last=Athenaeus
+ |others=Douglas Olson, S. (ed. and trans.)
+ |date=2011
+ |title=The Learned Banqueters, Volume VII
+ |location=Cambridge, Massachusetts; London, England
+ |publisher=Loeb Classical Library, Harvard University Press
+ |page=59
+ |isbn=9780674996731
+}}</ref>}}
+
+==Works and legacy==
+[[Image:Euaion.jpg|thumb|Portrait of the [[Classical Greece|Greek]] [[actor]] Euiaon in Sophocles' ''Andromeda'', c. 430 BC.]]
+Sophocles is known for innovations in [[dramatic structure]]; deeper development of characters than earlier playwrights;<ref name=F247/> and, if it was not Aeschylus, the addition of a third actor,<ref name="Lloyd-Jones 1994, p. 9">Lloyd-Jones 1994, p. 9.</ref> which further reduced the role of the [[Greek chorus|chorus]], and increased opportunities for development and conflict.<ref name=F247/> Aeschylus, who dominated [[Classical Athens|Athenian]] playwriting during Sophocles' early career, adopted the third actor into his own work.<ref name=F247/> Besides the third actor, Aristotle credits Sophocles with the introduction of ''skenographia'', or scenery-painting; but this too is attributed elsewhere to someone else (by Vitruvius, to Agatharchus of Samos).<ref name="Lloyd-Jones 1994, p. 9"/> After Aeschylus died, in 456 BC, Sophocles became the pre-eminent playwright in Athens,<ref name=S41/> winning competitions at eighteen [[Dionysia]], and six [[Lenaia]] festivals.<ref name=S41/> His reputation was such that foreign rulers invited him to attend their courts; but, unlike Aeschylus, who died in [[Sicily]], or Euripides, who spent time in [[Macedon]], Sophocles never accepted any of these invitations.<ref name=S41/> [[Aristotle]], in his ''[[Poetics (Aristotle)|Poetics]]'' (c. 335 BC), used Sophocles' ''[[Oedipus Rex]]'' as an example of the highest achievement in [[tragedy]].<ref>Aristotle. ''Ars Poetica''.</ref>
+
+Only two of the seven surviving plays<ref>The first printed edition of the seven plays is by Aldus Manutius in Venice 1502: Sophoclis tragaediae {{sic}} septem cum commentariis. Despite the addition 'cum commentariis' in the title, the Aldine edition did not include the ancient scholia to Sophocles. These had to wait until 1518 when Janus Lascaris brought out the relevant edition in Rome.</ref> can be dated securely: ''[[Philoctetes (Sophocles)|Philoctetes]]'' to 409 BC, and ''[[Oedipus at Colonus]]'' to 401 BC (staged after his death, by his grandson). Of the others, ''[[Electra (Sophocles play)|Electra]]'' shows stylistic similarities to these two, suggesting that it was probably written in the later part of his career; ''[[Ajax (Sophocles)|Ajax]]'', ''[[Antigone (Sophocles)|Antigone]]'', and ''[[The Trachiniae]]'', are generally thought early, again based on stylistic elements; and ''[[Oedipus Rex]]'' is put in a middle period. Most of Sophocles' plays show an undercurrent of early [[fatalism]], and the beginnings of [[Socrates|Socratic]] logic as a mainstay for the long tradition of Greek tragedy.<ref name=LJ1213>Lloyd-Jones 1994, pp. 8–9.</ref><ref>Scullion, pp. 85–86, rejects attempts to date ''Antigone'' to shortly before 441/0 based on an anecdote that the play led to Sophocles' election as general. On other grounds, he cautiously suggests ''c.'' 450 BC.</ref>
+
+===Theban plays===
+The Theban plays comprise three plays: ''[[Oedipus Rex]]'' (also called ''Oedipus Tyrannus'' or ''Oedipus the King''), ''[[Oedipus at Colonus]]'', and ''[[Antigone (Sophocles)|Antigone]]''. All three concern the fate of [[Ancient Thebes (Boeotia)|Thebes]] during and after the reign of King [[Oedipus]].<ref name="Grene pp. 1–2">Sophocles, ed Grene and Lattimore, pp. 1–2.</ref> They have often been published under a single cover;<ref>See for example: "Sophocles: The Theban Plays", Penguin Books, 1947; ''Sophocles I: Oedipus the King, Oedipus at Colonus, Antigone'', University of Chicago, 1991; ''Sophocles: The Theban Plays: Antigone/King Oidipous/Oidipous at Colonus'', Focus Publishing/R. Pullins Company, 2002; ''Sophocles, The Oedipus Cycle: Oedipus Rex, Oedipus at Colonus, Antigone'', Harvest Books, 2002; Sophocles, ''Works'', [[Loeb Classical Library]], Vol I. London, W. Heinemann; New York, Macmillan, 1912 (often reprinted) – the 1994 Loeb, however, prints Sophocles in chronological order.</ref> but Sophocles wrote them for separate [[Dionysia|festival competitions]], many years apart. The Theban plays are not a proper [[trilogy]] (i.e. three plays presented as a continuous narrative), nor an intentional series; they contain inconsistencies.<ref name="Grene pp. 1–2"/> Sophocles also wrote other plays pertaining to Thebes, such as the ''[[Epigoni (play)|Epigoni]]'', but only fragments have survived.<ref name="theatermania.com">Murray, Matthew, "[http://www.theatermania.com/content/news.cfm/story/5913 Newly Readable Oxyrhynchus Papyri Reveal Works by Sophocles, Lucian, and Others] {{Webarchive|url=https://web.archive.org/web/20060411145654/http://www.theatermania.com/content/news.cfm/story/5913 |date=11 April 2006 }}", ''Theatermania'', 18 April 2005. Retrieved 9 July 2007.</ref>
+
+====Subjects====
+The three plays involve the tale of [[Oedipus]], who kills his father and marries his mother, not knowing they are his parents. His family is cursed for three generations.
+
+In ''[[Oedipus Rex]]'', Oedipus is the [[protagonist]]. His infanticide is planned by his parents, Laius and Jocasta, to prevent him fulfilling a prophecy; but the servant entrusted with the infanticide passes the infant on, through a series of intermediaries, to a childless couple, who adopt him, not knowing his history. Oedipus eventually learns of the [[Delphic Oracle]]'s prophecy of him, that he would kill his father, and marry his mother; he attempts to flee his fate without harming those he knows as his parents (at this point, he does not know that he is adopted). Oedipus meets a man at a crossroads accompanied by servants; Oedipus and the man fight, and Oedipus kills the man (who was his father, Laius, although neither knew at the time). He becomes the ruler of Thebes after solving the [[riddle of the Sphinx]] and in the process, marries the widowed queen, his mother Jocasta. Thus the stage is set for horror. When the truth comes out, following from another true but confusing prophecy from Delphi, Jocasta commits suicide, Oedipus blinds himself and leaves Thebes. At the end of the play, order is restored. This restoration is seen when Creon, brother of Jocasta, becomes king, and also when Oedipus, before going off to exile, asks Creon to take care of his children. Oedipus's children will always bear the weight of shame and humiliation because of their father's actions.<ref>Sophocles. ''Oedipus the King.'' The Norton Anthology of Western Literature. Gen. ed. Peter Simon. 8th ed. Vol. 1. New York: Norton, 1984. 648–52. Print. {{ISBN|0-393-92572-2}}</ref>
+
+In ''[[Oedipus at Colonus]]'', the banished Oedipus and his daughter Antigone arrive at the town of [[Hippeios Colonus|Colonus]] where they encounter [[Theseus]], King of [[Athens]]. Oedipus dies and strife begins between his sons [[Polyneices]] and [[Eteocles]]. They fight, and simultaneously run each other through.
+
+In ''[[Antigone (Sophocles)|Antigone]]'', the protagonist is Oedipus' daughter, Antigone. She is faced with the choice of allowing her brother Polyneices' body to remain unburied, outside the city walls, exposed to the ravages of wild animals, or to bury him and face death. The king of the land, Creon, has forbidden the burial of Polyneices for he was a traitor to the city. Antigone decides to bury his body and face the consequences of her actions. Creon sentences her to death. Eventually, Creon is convinced to free Antigone from her punishment, but his decision comes too late and Antigone commits suicide. Her suicide triggers the suicide of two others close to King Creon: his son, Haemon, who was to wed Antigone, and his wife, Eurydice, who commits suicide after losing her only surviving son.
+
+====Composition and inconsistencies====
+[[File:Giroust - Oedipus At Colonus.JPG|thumb|right|upright=1.3|''Oedipus at Colonus'' by [[Jean-Antoine-Théodore Giroust]] (1788), [[Dallas Museum of Art]]]]
+
+The plays were written across thirty-six years of Sophocles' career and were not composed in chronological order, but instead were written in the order ''[[Antigone (Sophocles)|Antigone]]'', ''[[Oedipus Rex]]'', and ''[[Oedipus at Colonus]]''. Nor were they composed as a ''trilogy'' – a group of plays to be performed together, but are the remaining parts of three different groups of plays. As a result, there are some inconsistencies: notably, [[Creon of Thebes|Creon]] is the undisputed king at the end of ''Oedipus Rex'' and, in consultation with Apollo, single-handedly makes the decision to expel Oedipus from Thebes. Creon is also instructed to look after Oedipus' daughters [[Antigone]] and [[Ismene]] at the end of ''Oedipus Rex''. By contrast, in the other plays there is some struggle with Oedipus' sons [[Eteocles]] and [[Polynices]] in regard to the succession. In ''Oedipus at Colonus'', Sophocles attempts to work these inconsistencies into a coherent whole: [[Ismene]] explains that, in light of their tainted family lineage, her brothers were at first willing to cede the throne to Creon. Nevertheless, they eventually decided to take charge of the monarchy, with each brother disputing the other's right to succeed. In addition to being in a clearly more powerful position in ''Oedipus at Colonus'', Eteocles and Polynices are also culpable: they consent (l. 429, Theodoridis, tr.) to their father's going to exile, which is one of his bitterest charges against them.<ref name="Grene pp. 1–2"/>
+
+===Other plays===
+In addition to the three Theban plays, there are four surviving plays by Sophocles: ''[[Ajax (Sophocles)|Ajax]]'', ''[[Women of Trachis]]'', ''[[Electra (Sophocles)|Electra]]'', and ''[[Philoctetes (Sophocles play)|Philoctetes]]'', the last of which won first prize in 409 BC.<ref name=F247248>Freeman, pp. 247–48.</ref>
+
+''Ajax'' focuses on the proud hero of the Trojan War, [[Ajax the Great|Telamonian Ajax]], who is driven to treachery and eventually suicide. Ajax becomes gravely upset when [[Achilles]]’ armor is presented to [[Odysseus]] instead of himself. Despite their enmity toward him, Odysseus persuades the kings [[Menelaus]] and [[Agamemnon]] to grant Ajax a proper burial.
+
+''[[Women of Trachis|The Women of Trachis]]'' (named for the Trachinian women who make up the chorus) dramatizes [[Deianeira]]'s accidentally killing [[Heracles]] after he had completed his famous twelve labors. Tricked into thinking it is a love charm, Deianeira applies poison to an article of Heracles' clothing; this poisoned robe causes Heracles to die an excruciating death. Upon learning the truth, Deianeira commits suicide.
+
+''Electra'' corresponds roughly to the plot of Aeschylus' ''[[Libation Bearers]]''. It details how [[Electra]] and [[Orestes]] avenge their father [[Agamemnon]]'s murder by [[Clytemnestra]] and [[Aegisthus]].
+
+''Philoctetes'' retells the story of [[Philoctetes]], an archer who had been abandoned on [[Lemnos]] by the rest of the Greek fleet while on the way to [[Troy]]. After learning that they cannot win the [[Trojan War]] without Philoctetes' bow, the Greeks send [[Odysseus]] and [[Neoptolemus]] to retrieve him; due to the Greeks' earlier treachery, however, Philoctetes refuses to rejoin the army. It is only Heracles' [[deus ex machina]] appearance that persuades Philoctetes to go to Troy.
+
+=== Fragmentary plays ===
+Although over 120 titles of plays associated with Sophocles are known and presented below,<ref>Lloyd-Jones 2003, pp. 3–9.</ref> little is known of the precise dating of most of them. ''Philoctetes'' is known to have been written in 409 BC, and ''Oedipus at Colonus'' is known to have only been performed in 401 BC, posthumously, at the initiation of Sophocles' grandson. The convention on writing plays for the [[Greek festivals]] was to submit them in tetralogies of three tragedies along with one [[satyr play]]. Along with the unknown dating of the vast majority of over 120 plays, it is also largely unknown how the plays were grouped. It is, however, known that the three plays referred to in the modern era as the "Theban plays" were never performed together in Sophocles' own lifetime, and are therefore not a trilogy (which they are sometimes erroneously seen as).
+
+Fragments of ''[[Ichneutae]]'' (''Tracking Satyrs'') were discovered in [[Egypt]] in 1907.<ref name="sea">Seaford, p. 1361.</ref> These amount to about half of the play, making it the best preserved [[satyr play]] after Euripides' ''[[Cyclops (play)|Cyclops]]'', which survives in its entirety.<ref name=sea/> Fragments of the ''[[Epigoni (play)|Epigoni]]'' were discovered in April 2005 by classicists at [[Oxford University]] with the help of [[infrared]] technology previously used for [[satellite]] imaging. The tragedy tells the story of the second siege of [[Thebes (Greece)|Thebes]].<ref name="theatermania.com"/> A number of other Sophoclean works have survived only in fragments, including:
+
+{|
+|-
+|
+:* ''Aias Lokros'' (Ajax the Locrian)
+:* ''Aias Mastigophoros'' (Ajax the Whip-Bearer)
+:* ''[[Aigeus]]'' (Aegeus)
+:* ''Aigisthos'' (Aegisthus)
+:* ''Aikhmalôtides'' (The Captive Women)
+:* ''Aithiopes'' (The Ethiopians), or ''Memnon''
+:* ''Akhaiôn Syllogos'' (The Gathering of the Achaeans)
+:* ''Akhilleôs Erastai'' ([male] Lovers of Achilles)
+:* ''Akrisios''
+:* ''Aleadae'' (The Sons of Aleus)
+:* ''Aletes''
+:* ''Alexandros'' (Alexander)
+:* ''Alcmeôn''
+:* ''[[Amphiaraus (Sophocles)|Amphiaraus]]''
+:* ''Amphitryôn''
+:* ''[[Amycos Satyrykos|Amycos]]''
+:* ''Andromache''
+:* ''Andromeda''
+:* ''[[Antenorides|Antenoridai]]'' (Sons of Antenor)
+:* ''Athamas'' (two versions produced)
+:* ''Atreus'', or ''Mykenaiai''
+:* ''Camicoi''
+:* ''Cassandra''
+:* ''Cedaliôn''
+:* ''Cerberus''
+:* ''Chryseis''
+:* ''Clytemnestra''
+:* ''Colchides''
+:* ''Côphoi'' (Mute Ones)
+:* ''Creusa''
+:* ''Crisis'' (Judgement)
+:* ''Daedalus''
+:* ''Danae''
+:* ''Dionysiacus''
+:* ''Dolopes''
+:* ''[[Epigoni (play)|Epigoni]]'' (The Progeny)
+:* ''[[Epigoni (play)|Eriphyle]]''
+|
+:* ''Eris''
+:* ''Eumelus''
+:* ''Euryalus''
+:* ''Eurypylus''
+:* ''Eurysaces''
+:* ''Helenes Apaitesis'' (Helen's Demand)
+:* ''Helenes Gamos'' (Helen's Marriage)
+:* ''Herakles Epi Tainaro'' (Hercules At Taenarum)
+:* ''Hermione''
+:* ''Hipponous''
+:* ''Hybris''
+:* ''Hydrophoroi'' (Water-Bearers)
+:* ''Inachos''
+:* ''Iobates''
+:* ''Iokles''
+:* ''Iôn''
+:* ''Iphigenia''
+:* ''Ixiôn''
+:* ''Lacaenae'' ([[Sparta|Lacaenian]] Women)
+:* ''Laocoôn''
+:* ''Larisaioi''
+:* ''Lemniai'' ([[Lemnos|Lemnian]] Women)
+:* ''Manteis'' (The Prophets) or ''Polyidus''
+:* ''Meleagros''
+:* ''Minôs''
+:* ''Momus''
+:* ''Mousai'' (Muses)
+:* ''Mysoi'' (Mysians)
+:* ''Nauplios Katapleon'' (Nauplius' Arrival)
+:* ''Nauplios Pyrkaeus'' (Nauplius' Fires)
+:* ''Nausicaa'', or ''Plyntriai''
+:* ''Niobe''
+:* ''[[Odysseus Acanthoplex]]'' (Odysseus Scourged with Thorns)
+:* ''Odysseus Mainomenos'' (Odysseus Gone Mad)
+:* ''Oeneus''
+:* ''Oenomaus''
+:* ''Palamedes''
+|
+:* ''Pandora'', or ''Sphyrokopoi'' (Hammer-Strikers)
+:* ''Pelias''
+:* ''Peleus''
+:* ''Phaiakes''
+:* ''Phaedra''
+:* ''Philoctetes In Troy''
+:* ''Phineus'' (two versions)
+:* ''Phoenix''
+:* ''Phrixus''
+:* ''Phryges'' (Phrygians)
+:* ''Phthiôtides''
+:* ''Poimenes'' (The Shepherds)
+:* ''Polyxene''
+:* ''Priam''
+:* ''Procris''
+:* ''Rhizotomoi'' (The Root-Cutters)
+:* ''Salmoneus''
+:* ''Sinon''
+:* ''Sisyphus''
+:* ''Skyrioi'' (Scyrians)
+:* ''Skythai'' (Scythians)
+:* ''Syndeipnoi'' (The Diners, or, The Banqueters)
+:* ''Tantalus''
+:* ''Telephus''
+:* ''[[Tereus (Sophocles)|Tereus]]''
+:* ''Teukros'' (Teucer)
+:* ''Thamyras''
+:* ''Theseus''
+:* ''Thyestes''
+:* ''Troilus''
+:* ''[[Triptolemos (Sophocles)|Triptolemos]]''
+:* ''Tympanistai'' (Drummers)
+:* ''Tyndareos''
+:* ''Tyro Keiromene'' (Tyro Shorn)
+:* ''Tyro Anagnorizomene'' (Tyro Rediscovered).
+:* ''Xoanephoroi'' (Image-Bearers)
+|}
+
+===Sophocles' view of his own work===
+There is a passage of [[Plutarch]]'s tract ''De Profectibus in Virtute 7 '' in which Sophocles discusses his own growth as a writer. A likely source of this material for Plutarch was the ''Epidemiae'' of Ion of Chios, a book that recorded many conversations of Sophocles; but a Hellenistic dialogue about tragedy, in which Sophocles appeared as a character, is also plausible.<ref>{{cite book
+ |last= Sophocles
+ |others= Lloyd-Jones, H. (ed. and trans.)
+ |date= 1997
+ |title= Sophocles I
+ |location= Cambridge, MA; London, England
+ |publisher=Loeb Classical Library, Harvard University Press
+ |page= 11
+ |isbn=9780674995574
+}}</ref> The former is a likely candidate to have contained Sophocles' discourse on his own development because Ion was a friend of Sophocles, and the book is known to have been used by Plutarch.<ref>Bowra, p. 386.</ref> Though some interpretations of Plutarch's words suggest that Sophocles says that he imitated Aeschylus, the translation does not fit grammatically, nor does the interpretation that Sophocles said that he was making fun of Aeschylus' works. [[Maurice Bowra|C. M. Bowra]] argues for the following translation of the line:
+"After practising to the full the bigness of Aeschylus, then the painful ingenuity of my own invention, now in the third stage I am changing to the kind of diction which is most expressive of character and best."<ref>Bowra, p. 401.</ref>
+
+Here Sophocles says that he has completed a stage of Aeschylus' work, meaning that he went through a phase of imitating Aeschylus' style but is finished with that. Sophocles' opinion of Aeschylus was mixed. He certainly respected him enough to imitate his work early on in his career, but he had reservations about Aeschylus' style,<ref>Bowra, p. 389.</ref> and thus did not keep his imitation up. Sophocles' first stage, in which he imitated Aeschylus, is marked by "Aeschylean pomp in the language".<ref>Bowra, p. 392.</ref> Sophocles' second stage was entirely his own. He introduced new ways of evoking feeling out of an audience, as in his ''Ajax'', when Ajax is mocked by Athene, then the stage is emptied so that he may commit suicide alone.<ref>Bowra, p. 396.</ref> Sophocles mentions a third stage, distinct from the other two, in his discussion of his development. The third stage pays more heed to diction. His characters spoke in a way that was more natural to them and more expressive of their individual character feelings.<ref>Bowra, pp. 385–401.</ref>
+
+==Namesake==
+* [[Sophocles (crater)]], a crater on [[Mercury (planet)|Mercury]].
+
+== See also ==
+* [[Theatre of ancient Greece]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+* Beer, Josh (2004). ''Sophocles and the Tragedy of Athenian Democracy''. Greenwood Publishing. {{ISBN|0-313-28946-8}}
+* {{cite journal|last=Bowra|first=C.M.|author-link=Maurice Bowra|year=1940|title=Sophocles on His Own Development|journal=American Journal of Philology|volume=61|issue=4|pages=385–401|doi=10.2307/291377|jstor=291377}}
+* {{cite web|url=http://www.stoa.org/sol-bin/search.pl?&login=guest&searchstr=sigma,815&field=adlerhw_gr |title=Adler number: sigma,815 |website=Suda on Line: Byzantine Lexicography|access-date=2007-03-14|last=Finkel|first=Raphael}}
+* Freeman, Charles. (1999). ''The Greek Achievement: The Foundation of the Western World''. New York: Viking Press. {{ISBN|0-670-88515-0}}
+* Hubbard, Thomas K. (2003). ''Homosexuality in Greece and Rome: A Sourcebook of Basic Documents''.
+* Johnson, Marguerite & Terry Ryan (2005). ''Sexuality in Greek and Roman Society and Literature: A Sourcebook''. Routledge. {{ISBN|0-415-17331-0|978-0-415-17331-5}}
+* Lloyd-Jones, Hugh & Wilson, Nigel Guy (ed.) (1990). ''Sophoclis: Fabulae''. [[Oxford Classical Texts]].
+* Lloyd-Jones, Hugh (ed.) (1994). ''Sophocles: Ajax. Electra. Oedipus Tyrannus''. Edited and translated by Hugh Lloyd-Jones, [[Loeb Classical Library]] No. 20.
+* Lloyd-Jones, Hugh (ed.) (1994). ''Sophocles: Antigone. The Women of Trachis. Philoctetes. Oedipus at Colonus''. Edited and translated by Hugh Lloyd-Jones, [[Loeb Classical Library]] No. 21.
+* Lloyd-Jones, Hugh (ed.) (1996). ''Sophocles: Fragments''. Edited and translated by Hugh Lloyd-Jones, [[Loeb Classical Library]] No. 483.
+* Lucas, Donald William (1964). ''The Greek Tragic Poets''. W.W. Norton & Co.
+* Plato. ''Plato in Twelve Volumes'', Vols. 5 & 6 translated by Paul Shorey. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1969.
+* Schultz, Ferdinand (1835). [https://books.google.com/books?id=YfYOe0L0xqUC&printsec=frontcover&dq=schultz+de+vita#PPA150,M ''De vita Sophoclis poetae commentatio'']. Phil. Diss., Berlin.
+* Scullion, Scott (2002). ''Tragic dates'', Classical Quarterly, new sequence 52, pp.&nbsp;81–101.<!-- http://cq.oxfordjournals.org/content/vol52/issue1/index.dtl -->
+* {{cite encyclopedia|last=Seaford|first=Richard A. S.|editor=Simon Hornblower and Antony Spawforth|encyclopedia=The Oxford Classical Dictionary|title=Satyric drama|edition=revised 3rd|year=2003|publisher=Oxford University Press|location=Oxford|isbn=978-0-19-860641-3|page=1361 }}
+* {{cite encyclopedia|last=Smith |first=Philip |editor=William Smith |encyclopedia=[[Dictionary of Greek and Roman Biography and Mythology]] |title=Sophocles |url=http://ancientlibrary.com/smith-bio/3198.html |access-date=2007-02-19 |year=1867 |publisher=Little, Brown, and Company |volume=3 |location=Boston |pages=865–73 |editor-link=William Smith (lexicographer) |url-status=dead |archive-url=https://web.archive.org/web/20070202121220/http://www.ancientlibrary.com/smith-bio/3198.html |archive-date=2 February 2007 }}
+* Sommerstein, Alan Herbert (2002). ''Greek Drama and Dramatists''. Routledge. {{ISBN|0-415-26027-2}}
+* Sommerstein, Alan Herbert (2007). "General Introduction" pp. xi–xxix in Sommerstein, A.H., Fitzpatrick, D. and Tallboy, T. ''Sophocles: Selected Fragmentary Plays: Volume 1''. Aris and Phillips. {{ISBN|0-85668-766-9}}
+* Sophocles. ''Sophocles I: Oedipus the King, Oedipus at Colonus, Antigone''. 2nd ed. Grene, David and Lattimore, Richard, eds. Chicago: University of Chicago, 1991.
+* Encyclopædia Britannica, Inc. "Macropaedia Knowledge In Depth." The New Encyclopædia Britannica Volume 20. Chicago: Encyclopædia Britannica, Inc., 2005. 344–46.
+
+==External links==
+{{Wikiquote}}
+{{Wikisource author}}
+{{Commons category|Sophocles}}
+{{Library resources box |by=yes |onlinebooks=yes |others=yes |about=yes |label=Sophocles
+  |viaf= |lccn= |lcheading= |wikititle= }}
+* {{Gutenberg author |id=26}}
+* {{FadedPage|id=Sophocles|name=Sophocles|author=yes}}
+* {{Internet Archive author}}
+* {{Librivox author |id=1157}}
+* [https://www.perseus.tufts.edu/cgi-bin/vor?x=0;y=0;lookup=Sophocles;target=en%2C0;alts=1;extern=1;group=fieldcat;collection=Perseus%3Acollection%3AGreco-Roman;doctype=Text Works by Sophocles] at the [[Perseus Digital Library]] (Greek and English)
+* [http://www.rhapsodes.fll.vt.edu/sophokles.htm SORGLL: Sophocles, Electra 1126–1170; read by Rachel Kitzinger]
+
+{{Sophocles Plays}}
+{{Ancient Greece topics}}
+
+{{Authority control}}
+{{good article}}
+
+{{Use dmy dates|date=April 2017}}
+
+[[Category:Sophocles| ]]
+[[Category:400s BC deaths]]
+[[Category:490s BC births]]
+[[Category:5th-century BC Athenians]]
+[[Category:5th-century BC writers]]
+[[Category:Ancient Greek dramatists and playwrights]]
+[[Category:Ancient Greek poets]]
+[[Category:Tragic poets]]
+[[Category:Greek LGBT poets]]

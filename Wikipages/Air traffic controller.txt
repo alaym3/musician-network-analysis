@@ -1,0 +1,118 @@
+{{Short description|Aviation specialist}}
+{{About||the video game series|Air Traffic Controller (video game)|the band|Air Traffic Controller (band)}}
+
+{{Multiple issues|
+{{More citations needed|date=May 2013}}
+{{Original research|date=September 2017}}
+}}
+
+{{Infobox Occupation
+| name= Air traffic controller
+| image= Misawa Air Base Control Tower.jpg
+| caption= Military air traffic controllers in a [[control tower]]
+| official_names=
+<!------------Details------------------->
+| type= [[Profession]] 
+| activity_sector= [[Aviation]]<br />[[Military]]
+| competencies= Excellent [[short-term memory]] and [[situational awareness]], excellent communication skills, good mathematical skills, quick and assertive decision making abilities, ability to perform under [[Stress (biology)|stress]]
+| formation= Certification by aviation authority (e.g. [[FAA]]) under [[ICAO]] rules and regulations. Majority from military and/or four-year degree CTI schools
+| employment_field= Public and private sectors, both military and civil. Varies by country.
+| related_occupation=
+| average_salary= $98,000–173,000<ref>{{cite web
+| url=http://www.bls.gov/oes/current/oes532021.htm
+| title=Occupational Employment and Wages: 53-2021 Air Traffic Controllers
+| date=May 2011
+| publisher=[[Bureau of Labor Statistics]]}}</ref>
+}}
+
+'''Air traffic control specialists''', abbreviated '''ATCS''', are personnel responsible for the safe, orderly, and expeditious flow of [[Aircraft|air traffic]] in the global [[air traffic control]] system.  Usually stationed in air traffic control centers and [[control tower]]s on the ground, they monitor the position, speed, and altitude of aircraft in their assigned [[airspace]] visually and by [[radar]], and give directions to the [[Aircraft pilot|pilot]]s by radio.  The position of air traffic controller is one that requires highly specialized knowledge, skills, and abilities. Controllers apply [[Separation (air traffic control)|separation rules]] to keep aircraft at a safe distance from each other in their area of responsibility and move all aircraft safely and efficiently through their assigned sector of airspace, as well as on the ground. Because controllers have an incredibly large responsibility while on duty (often in aviation, "on position") and make countless real-time decisions on a daily basis, the [[Air traffic control|ATC]] profession is consistently regarded around the world as one of the most mentally challenging careers, and can be notoriously stressful depending on many variables (equipment, configurations, weather, traffic volume, traffic type, special activities, governmental actions, human factors). Many controllers, however, cite high salaries,<ref>{{cite book|title=Occupational Outlook Handbook|publisher=Bureau of Labor Statistics, U.S. Department of Labor|edition=2014–15|chapter-url=http://www.bls.gov/ooh/transportation-and-material-moving/air-traffic-controllers.htm#tab-5|access-date=13 December 2014|archive-url=https://web.archive.org/web/20141213230538/http://www.bls.gov/ooh/transportation-and-material-moving/air-traffic-controllers.htm|archive-date=13 December 2014|chapter=Air Traffic Controllers|quote=The median annual wage for air traffic controllers was $122,530 in May 2012.}}</ref><ref>{{cite web|title=Air Transport Professionals|url=http://joboutlook.gov.au/occupation.aspx?search=&tab=stats&cluster=&code=2311&graph=EA|website=Job Outlook: An Australian Government Initiative|publisher=Department of Employment, Australian Government|access-date=13 December 2014|archive-url=https://web.archive.org/web/20141213230804/http://joboutlook.gov.au/occupation.aspx?search=&tab=stats&cluster=&code=2311&graph=EA|archive-date=13 December 2014|location=Canberra, Australia|quote=...graph shows median weekly earnings for the occupation compared with the median across all occupations.}}</ref><ref>{{cite web|title=Air traffic controller: Job Information|url=https://nationalcareersservice.direct.gov.uk/advice/planning/jobprofiles/Pages/airtrafficcontroller.aspx|website=National Careers Service|publisher=Skills Funding Agency on behalf of the Department for Business, Innovation and Skills, Government of U.K.|access-date=13 December 2014|archive-url=https://web.archive.org/web/20141213231356/https://nationalcareersservice.direct.gov.uk/advice/planning/jobprofiles/Pages/airtrafficcontroller.aspx|archive-date=13 December 2014|quote=...chart shows the median, or middle, annual income figure for full-time workers in this sector compared to the national median figure for all sectors.}}</ref> and a large, unique, and privileged degree of autonomy as major advantages of their jobs.
+
+Although the media in the United States frequently refers to them as '''air controllers''', or '''flight controllers''', most air traffic professionals use the term '''air traffic controllers''', '''ATCOs''', or '''controllers'''. For a more detailed article on the job itself, see [[air traffic control]].
+
+==Features of the job==
+
+===Core skills of a controller===
+Air traffic controllers are generally individuals who are well organized, are quick with numeric computations and mathematics, have assertive and firm decision-making skills, are able to maintain their composure under pressure, and possess an excellent [[short-term memory]]. Through numerous studies throughout the decades, it has been demonstrated that traffic controllers usually have a superior [[visual memory]], and in addition, studies have shown that air traffic controllers generally have a degree of [[situational awareness]] that is significantly better than the population average. In 'games' involving short-term memory, peer-induced stresses, and real-time risk analysis, air traffic control specialists scored better than the control group in every experiment {{citation needed|date=September 2021}}. Excellent hearing and [[diction|speaking skills]] are a requirement, and trainees undergo rigorous physical and psychological testing.
+
+Moreover, the position of the air traffic controller requires some of the strictest medical and mental requirements for any profession in the world; conditions such as [[diabetes]], [[epilepsy]], [[heart disease]], and many mental disorders (e.g., [[clinical depression]], [[ADHD]], [[bipolar disorder]], a history of [[drug abuse]]) almost always disqualify people from obtaining medical certification from the overseeing aviation authority. Almost universally, controllers are subjected to rigid medical and mental exams to ensure safety in the air traffic system. In the United States, for example, all air traffic controllers are required to take and pass a [[Minnesota Multiphasic Personality Inventory]] before being hired by the [[Federal Aviation Administration]]. Conditions such as [[hypertension]], while not disqualifying, are taken seriously and must be monitored with medical examinations by certified doctors. Controllers must take precautions to remain healthy and avoid certain medications that are banned for them. Many drugs approved by the [[Food and Drug Administration|U.S. Food and Drug Administration]] (FDA) such as [[SSRI]] antidepressants and [[benzodiazepine]]s, are banned.  Almost universally, trainee controllers begin work in their twenties and retire in their fifties.  This is due to an FAA requirement that trainees begin their training at the Academy no later than their 31st birthday, and face mandatory retirement at age 56.<ref>Clark, Anders (17 June 2015). "[https://disciplesofflight.com/faa-hiring-scandal-follow-up/ FAA Hiring Scandal Follow Up]". Footnote 1. Disciples of Flight. Retrieved 24 September 2015.</ref> However, retired military air traffic controllers may qualify for appointment after reaching 31 years of age.{{citation needed|date=November 2018}}
+Communication is a vital part of the job: controllers are trained to focus on the exact words that pilots and other controllers speak, because a single misunderstanding about altitude levels or runway numbers can have tragic consequences. Controllers communicate with the pilots of aircraft using a [[push-to-talk]] [[radiotelephone|radiotelephony]] system which has many attendant issues, such as the fact that only one transmission can be made on a frequency at a time and can either merge or block each other and become unintelligible.
+
+Although local languages are used in ATC communications, the default language of aviation worldwide is [[Aviation English]]. Controllers who do not speak English as a first language are generally expected to show a certain minimum level of competency.
+
+[[File:Control tower at Birmingham Airport, England 27June2019 arp.jpg|thumb|Controllers often work from a control tower like this one at [[Birmingham Airport]], England]]
+
+===Area or en route===
+Area controllers are responsible for the safety of aircraft at higher altitudes, in the en-route phase of their flight surrounding busier airports and airspace. Area controllers may also handle aircraft at lower altitudes as well as air traffic around small airports that do not have their own towers or approach controllers. In most nations, they are known as "area," "en route," or, colloquially in the US, "center" controllers. Area controllers are responsible for specific sectors of 3D blocks of airspace with defined dimensions. Each sector is managed by at least one area controller, known as an "R-side" controller that handles radio communications. During busier times of traffic there may also be a second area controller, known as a "D-side", assigned to the same area in order to assist the R-side Area controller. This can be done with or without the use of radar: radar allows a sector to handle much more traffic; however, [[procedural control]] is used in many areas where traffic levels do not justify radar or the installation of radar is not feasible, such as over oceans.
+
+In the United States, en-route controllers work at air route traffic control centers or ARTCCs. In other countries, area controllers work in [[area control center]]s, controlling high-level en-route aircraft, or [[terminal control center]]s, which control aircraft climbing from or descending to major groups of airports.
+
+===Aerodrome or tower===
+Aerodrome or Tower controllers control aircraft within the immediate vicinity of the airport and use visual observation from the airport tower. The tower's airspace is often a {{convert|5|nmi|km|adj=on}} radius around the airport, but can vary greatly in size and shape depending on traffic configuration and volume.
+
+The tower positions are typically split into many different positions such as Flight Data/Clearance Delivery, Ground Control, and Local Control (known as Tower by the pilots); at busier facilities, a limited radar approach control position may be needed.
+
+The roles of the positions are;
+* Flight Data/Clearance Delivery: Issues IFR flight plan clearances, obtains squawk codes for VFR aircraft, helps with coordination for GC/LC, and cuts the ATIS (weather). FD/CD is commonly known in the profession as the secretary of the tower.
+* Ground: Issues taxi instructions and authorizes aircraft/vehicle movements on the airport except the active runway(s); controllers are not responsible for aircraft movement on ramps or other designated non-movement areas.
+* Local (Tower): Issues takeoff and landing instructions/clearances and authorizes aircraft/vehicle movements on or across runways.
+* Approach: Issues instructions to aircraft who are intending to land at the airport. This involves vectoring aircraft in a safe, orderly, and expeditious manner and, if needed, stacking the aircraft at different holding altitudes.
+
+===Civilian/military – public/private===
+[[File:US Navy 060505-N-9079D-025 Air Traffic Controller 3rd Class David McKeehe works approach controller in Carrier Air Traffic Control Center (CATTC).jpg|thumb|right|A military air traffic controller works approach control in Carrier Air Traffic Control Center (CATTC) aboard the [[Nimitz class|''Nimitz''-class]] aircraft carrier {{USS|Abraham Lincoln|CVN-72|6}} (CVN-72).]][[File:Civilian air traffic controllers, Memphis.jpg|thumb|right|Civilian air traffic controllers, [[Memphis International Airport]], 1962]] Most countries' armed forces employ air traffic controllers, often in most if not all branches of the forces. Although actual terms vary from country to country, controllers are usually enlisted.
+
+In some countries, all air traffic control is performed by the military.<ref>{{cite web|title=Air traffic control still causing disruption in Brazil|url=http://centreforaviation.com/analysis/air-traffic-control-still-causing-disruption-in-brazil-3687|publisher=Centre for Asia Pacific Aviation (CAPA)|access-date=13 December 2014|archive-url=https://web.archive.org/web/20141213224315/http://centreforaviation.com/analysis/air-traffic-control-still-causing-disruption-in-brazil-3687|archive-date=13 December 2014|date=11 September 2008|quote=Besides Brazil, the only nations in which the military retains complete control of civilian traffic are Paraguay and Uganda.}}</ref> In other countries, military controllers are responsible solely for military airspace and airbases; civilian controllers maintain airspace for civilian traffic and civilian airports. Historically, in most countries, this was part of the government and controllers were civil servants. However, many countries have partly or wholly privatized their air traffic control systems; others are looking to do the same.
+
+===Education===
+Civilian Air Traffic Controllers' licensing is standardized by international agreement through [[ICAO]]. Many countries have Air Traffic Control schools, academies or colleges, often operated by the incumbent provider of air traffic services in that country, but sometimes privately. These institutions are structured to provide training to individuals without any prior air traffic control experience. At the completion of academic training, the graduating student will be granted an Air Traffic Control license, which will include one or more Ratings. These are sub-qualifications denoting the air traffic control discipline or disciplines in which the person has been trained. ICAO defines five such ratings: Area (procedural), Area Radar, Approach (procedural), Approach Radar and Aerodrome. In the United States, controllers may train in several similar specialties: Tower, Ground-Controlled Approach (GCA), Terminal Radar Control, or En route Control (both radar and non-radar). This phase of training takes between six months and several years.
+
+Whenever an air traffic controller is posted to a new unit or starts work on a new sector within a particular unit, they must undergo a period of training regarding the procedures peculiar to that particular unit and/or sector. The majority of this training is done in a live position controlling real aircraft and is termed On the Job Training (OJT), with a fully qualified and trained mentor or On the Job Training Instructor (OJTI) also 'plugged into' the position to give guidance and ready to immediately take over should it become necessary. The length of this phase of training varies from a matter of months to years, depending on the complexity of the sector.
+
+Only once a person has passed all these training stages they will be allowed to control a position alone.
+
+===Work patterns===
+Typically, controllers work "on position" for 90 to 120 minutes followed by a 30-minute break. Except at quieter airports, air traffic control is a 24-hour, 365-day-a-year job where controllers usually work rotating shifts, including nights, weekends, and public holidays. These are usually set 28 days in advance. In many countries, the structure of controllers' shift patterns is regulated to allow for adequate time off. In the UK the most common pattern is two mornings, two late afternoons and two evenings/nights followed by a four-day break.<ref name=nats-faq>{{cite web
+| url=http://atcocareers.co.uk/frequently-asked-questions.html
+| title=FAQs – Jobs and careers at NATS
+| archive-url=https://web.archive.org/web/20120227154321/http://atcocareers.co.uk/frequently-asked-questions.html
+| archive-date=2012-02-27
+| url-status=dead}}</ref>
+
+===Stress===
+Many countries regulate work hours to ensure that controllers are able to remain focused and effective. Research has shown that when controllers remain "on position" for more than two hours without a break, performance can deteriorate rapidly, even at low traffic levels.<ref name="Hopkin1995">{{cite book|last=Hopkin|first=V. David|title=Human Factors In Air Traffic Control|url=https://books.google.com/books?id=rJld6gXId3oC|date=5 September 1995|publisher=CRC Press|isbn=978-0-7484-0357-8|pages=366–367|chapter=17.7 Work-rest cycles}}</ref><ref>{{cite journal|last1=Costa|first1=Giovanni|editor1-last=Wise|editor1-first=J. A.|editor2-last=Hopkin|editor2-first=V. D.|editor3-last=Smith|editor3-first=M. L.|title=Shiftwork and circadian variations of vigilance and performance|journal=Automation and Systems Issues in Air Traffic Control|date=1991|volume=F73|pages=267–280|series=NATO ASI Series|publisher=Springer-Verlag|location=Berlin, Germany|doi=10.1007/978-3-642-76556-8_27|isbn=978-3-642-76558-2}}</ref><ref>{{cite journal|last1=Folkard|first1=S.|last2=Rosen|first2=S. D.|title=Circadian performance rhythms: some practical and theoretical implications [and discussion]|journal=Philosophical Transactions of the Royal Society of London B: Biological Sciences|date=1990|volume=327|issue=1241|pages=543–553|doi=10.1098/rstb.1990.0097|pmid=1970900|doi-access=free}}</ref> Many national regulations therefore require breaks at least every two hours. [[Sylvia Noble Tesh]] documented the stresses and challenges faced by air traffic controllers in her 1984 study "The politics of stress: the case of air traffic control." published in the International journal of health services.<ref>{{cite journal |last1=Tesh |first1=Sylvia Noble |title=The politics of stress: the case of air traffic control |journal=International Journal of Health Services |date=1984 |volume=14 |issue=4 |pages=569–587 |doi=10.2190/JH2E-F62P-WMX8-7NQF|pmid=6500785 |s2cid=37944656 }}</ref>
+
+===Computerization and the future===
+{{See also|Next Generation Air Transportation System}}
+
+Despite years of effort and billions of dollars spent on computer software designed to assist air traffic control, success has been largely limited to improving the tools at the disposal of the controllers, such as computer-enhanced radar. It is likely that in the next few decades, future technology will make the controller more of a systems manager overseeing decisions made by automated systems and manually intervening to resolve situations not handled well by the computers, rather than being automated out of existence altogether.
+
+However, there are problems envisaged with technology that normally takes the controller out of the decision loop but requires the controller to step back in to control exceptional situations: air traffic control is a skill that has to be kept current by regular practice. This in itself may prove to be the largest stumbling block to the introduction of highly automated air traffic control systems.
+
+User acceptance or willingness to use such technology is another important consideration air service providers need to consider prior to implementing any new technology. In a recent study with over 500 air traffic controllers from around the world, Bekier and colleagues<ref>Bekier, M., Molesworth, B. R. C., & Williamson, A. (2012). Tipping point: the narrow path between automation acceptance and rejection in air traffic management. Safety Science, 50(2), 259–265.</ref> found that once the focus of decision-making shifts from the air traffic controller, support for the technology dramatically decreases. Unsurprisingly, they also found that air traffic controllers enjoy the core tasks of their role: namely, conflict detection and resolution.<ref>Bekier, M., Molesworth, B. R. C., & Williamson, A. (2011). Why air traffic controllers accept or refuse automated technology. Paper presented at the 16th International Symposium on Aviation Psychology, Dayton, OH.</ref>
+
+==2014 changes in the United States==
+In 2014, it was reported that in the United States, the Federal Aviation Administration had stopped giving preferential treatment to air-traffic controller applicants who had passed classes from the 36 FAA-approved college aviation programs across the United States, with some speculating it was due to too many white males being hired over minorities. The FAA says it “is blind on the issue of diversity".  At the same time, the FAA also stopped giving preference to applicants who were military veterans with aviation experience.<ref>{{cite news |url=https://www.wsj.com/articles/faa-closes-a-hiring-runway-for-air-traffic-controllers-1400799866 |title=FAA Closes a Hiring Runway for Air-Traffic Controllers |first=Susan |last=Carey |newspaper=[[Wall St. Journal]] |date=May 22, 2014}}</ref><ref>[http://www.chicagotribune.com/news/local/breaking/chi-about-half-of-new-airtraffic-controller-job-offers-go-to-people-with-no-aviation-experience-faa-says-20140730-story.html# Half of air traffic controller job offers go to people with no aviation experience], Chicago Tribune, July 30, 2014</ref><ref>[http://www.foxbusiness.com/industries/2015/05/20/trouble-in-skies/ Trouble in the Skies] {{Webarchive|url=https://web.archive.org/web/20151222092710/http://www.foxbusiness.com/industries/2015/05/20/trouble-in-skies/ |date=2015-12-22 }}, Fox Business, May 20, 2015</ref>
+
+==See also==
+*[[Professional Air Traffic Controllers Organization (1968)#August 1981 strike|Air traffic controllers' strike of 1981]] (United States)
+*[[Aviation safety]]
+*[[Flight planning]]
+*[[The Guild of Air Traffic Control Officers]]
+*[[National Air Traffic Controllers Association]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Air traffic controllers}}
+
+* [http://www.atca.org Air Traffic Control Association]
+* [http://www.flyingmag.com/careers/unique-aviation-career-air-traffic-controller Unique Aviation Career as an Air Traffic Controller], by James Wynbrandt, [[Flying (magazine)]]
+*[https://www.tsatestprep.com/atsa-practice-test/ ATSA Test]
+* [https://aerogon.aero/ Air Traffic Control management]
+{{Authority control}}
+
+{{DEFAULTSORT:Air traffic controller}}
+[[Category:Air traffic control|Controller]]
+[[Category:Combat support occupations]]
+[[Category:Occupations in aviation]]
+[[Category:Aviation licenses and certifications]]

@@ -1,0 +1,525 @@
+{{about|the musical concept|the plural of echo and other uses|Echoes (disambiguation)}}
+
+'''Echos''' ([[Greek language|Greek]]: {{lang|grc|ἦχος}} {{IPA-el|ˈixos|}} "sound"; pl. '''echoi''' {{lang|grc|ἦχοι}} {{IPA|[ˈiçi]}}, [[Old Church Slavonic]]: {{lang|cu|[[wikt:гласъ|гласъ]]}} {{IPA|[glasŭ]}} "voice, sound") is the name in [[Byzantine music]] theory for a mode within the eight-mode system ([[oktoechos]]), each of them ruling several [[melody type]]s, and it is used in the melodic and rhythmic composition of Byzantine chant ("thesis of the melos"), differentiated according to the chant genre and according to the performance style ("method of the thesis"). It is akin to a Western medieval [[musical modes|tonus]], an Andalusian [[tab']], an Arab naġam (since 1400 "[[Arabic maqam|maqam]]"), or a Persian parde (since 18th-century [[dastgah]]).
+
+==Overview and semantics==
+The noun ''echos'' in Greek means "sound" in general. It acquired the specialized meaning of ''mode'' early on in the development of Byzantine music theory since the [[Hagiopolitan Octoechos|Octoechos]] [[Quinisext Council|reform in 692]].
+
+In general, the concept of echos denotes a certain [[octave species]], its intervallic structure as well as a set of more or less explicitly formulated melodic rules and formulae that represent a certain category of melodies within the musical genre. As such, echos is the basis for composing or improvising new melodies that belong to it, as well as for properly performing existing pieces that have been written in it. These rules include the distinction of a hierarchy of degrees (tones, notes), where certain degrees figure as cadence notes (ἑστώτες) around which the melody will revolve prominently, or on which the melody will end most of the time. However, only very late stages of the theory (19th-20th century) actually provide systematic descriptions of echoi, while earlier stages use mostly diagrams, indirect descriptions and examples. Explicit detailed descriptions must still be provided based on extensive analysis, as is the case with modal phenomena in numerous other cultures.
+
+==History and reconstruction==
+Early treatises only state the initial or "base" degree (η βασή) which is the tone sung as a burden ([[Ison (music)|ἴσον]]) by certain singers of the choir called ''isokrates'' in order to support any melody composed in a certain echos. By this support singers ([[Cantor (church)|psaltes]]) could easily recognise the relative position of each note as it was organised by tetrachords based on the basis note of each echos. This base degree of the mode was communicated by an intonation formula of a foresinger, known as '''enechema'''.
+
+[[File:ChrysanthosOktoechosBaseis.png|thumb|400px|center|The "martyriai of the echoi" (column 2 & 4: main signatures) and the "martyriai of the phthongoi" (column 3: medial signatures) in the disposition of the "Diapason system" no longer represent the diapente between {{lang|grc-Latn|kyrios}} and {{lang|grc-Latn|plagios}} in the diatonic trochos system (Chrysanthos [[#Chr1832|1832, p. 168]]). Note that the {{lang|grc-Latn|deuteros}} and {{lang|grc-Latn|tetartos}} have exchanged their position within the [[Neobyzantine Octoechos|modern Octoechos]], since they are represented as mesoi.]]
+
+There are different styles by which to notate enechema which are crucial to the understanding of the different chant books and their notation. All these forms were written in red ink. The explicit long form was called by Jørgen Raasted '''intonation''',<ref>Jørgen Raasted ([[#Raa1966|1966]]).</ref> but only the books of the cathedral rite used such explicit '''intonations''', also between the sections, where these intonations were called '''medial intonation'''. This explicit form made sense, since the intonation also communicated the changes between the left and the right choir and their leaders performed these intonations to coordinate these changes. There was a short form as well which was called '''modal signature'''. It indicated the echos by the numeral like πλα' for "plagios protos," while the neumes sung with the last syllable of the '''enechema''' were written above right to the numeral. This short form was used in two different ways, as '''main signature''' it indicated the echos of a whole composition, but especially in sticheraria notators also wrote '''medial signatures''' between the neumes above a kolon of the text, in order to indicate that the melos changed here into another echos. The traditional Greek term for these '''medial signatures''' was "martyria" ({{lang|grc|μαρτυρία}}), since the medial signature also "testified" the phthongos of the cadence made at the kolon.
+
+=== Echemata of the dialogue treatise ===
+Within the dialogue treatise (''[[erotapokriseis]]'') a catalogue of short formulas memorizes each echos of the [[Hagiopolitan Octoechos|Hagiopolitan octoechos]] and its two phthorai ([[Nenano|νενανῶ]] and [[Nana (echos)|νανὰ]]). These formulas are also called "echemata" (ἠχήματα)—or more often "enechemata" (ἐνηχήματα) or "apechemata" (ἀπηχήματα). The use '''echemata''' was also imitated by Carolingian [[Cantor (church)|cantors]] who used similar intonation formulas and collected them in a separate book called [[tonary]].
+
+<blockquote>Περὶ πλαγίων
+{{anchor|protos}}Ἀπο τοῦ πλαγίου πρώτου ἤχου πάλιν καταβαίνεις τέσσαρας φωνάς, καὶ εὑρίσκεται πάλιν πλάγιος πρώτου· ὅυτως δὲ /
+ἄνανε ἄνες ἀνὲ ἄνες·
+[[File:Enechemata (ἦχος πρῶτος, ἦχος πλαγιος τοῦ πρώτου).jpg|center|thumb|400px|alt="You descend 4 steps [φοναὶ] from the echos protos [kyrios protos/authentic protus: a—G—F—E—DD] and you will find again the plagios protos, this way [D—F—E—DD]."|Intonation according to Erotapokriseis and standard intonation of {{lang|grc-Latn|echos protos}}: "You descend 4 steps [φοναὶ] from the echos protos [kyrios protos/authentic protus] and you will find again the plagios protos, this way"]]
+{{anchor|devteros}}Ὁμοίως καὶ ὁ β' ἤχος καταβαίνων φωνάς δ', εὑρίσκεις τὸν πλάγιον αὐτοῦ, ἤγουν τὸν πλάγιον τοῦ δευτέρου.
+πλ Β οὕτως δέ.
+[[File:Enechemata (ἦχος δεύτερος, ἦχος πλάγιος τοῦ δευτέρου).jpg|center|thumb|400px|alt=You do the same way in {{lang|grc-Latn|echos devteros}}. If you descend 4 steps [b—a—G—F—EE] to find its plagios, i.e. πλ β', thus [E—F—G—F—EE].|Intonation according to Erotapokriseis and standard intonation of {{lang|grc-Latn|echos devteros}}: "You do the same way in {{lang|grc-Latn|echos devteros}}. If you descend 4 steps to find its plagios, i.e. πλ β', thus"]]
+{{anchor|tritos}}Ὁμοίως πάλιν ὁ τρίτος καταβαίνεις φωνὰς τέσσαρας, καὶ εὑρίσκεται ὁ πλάγιος αὐτοῦ, ἤγουν ὁ βαρύς, οὕτως·
+<!--image displayed wider than 400px for clarity-->
+[[File:Enechemata (ἦχος τρίτος, ἦχος βαρύς).jpg|center|thumb|600px|alt=Hence, you descend four steps from echos tritos 4 steps [c—c—b—c—G—a—G—a—G—F—E—FF] and you will find its plagios which is called 'grave' (βαρύς), this way [F—G—E#—FF].|Intonation according to Erotapokriseis and standard intonation of echos tritos: "Hence, you descend four steps from echos tritos and you will find its plagios which is called 'grave' (βαρύς), this way"]]
+Ὁμοίως καὶ ἀπὸ τὸν τέταρτον καταβαίνων φωνὰς τέσσαρας, εὑρίσκεις τὸν πλάγιον αὐτοῦ, ὡς ἐστὶ ὁ πλ δ'οὕτως·<ref>Christian Hannick & Gerda Wolfram ([[#Ero97|1997, pp. 84f]]) quoted according to Mount Athos, S. Dionysios Monastery, Ms. 570, fol. 26-26'.</ref>
+[[File:Enechemata (ἦχος τέταρτος, ἦχος πλάγιος τοῦ τετάρτου).jpg|center|thumb|400px|alt=Also from echos {{lang|grc-Latn|tetartos}} you descend 4 steps [φοναὶ: G—F—E—D—CC] and you will find its plagios, which is πλ δ', like this way [C—D—C—CC].|Intonation according to Erotapokriseis and standard intonation of echos {{lang|grc-Latn|tetartos}}: "Also from echos {{lang|grc-Latn|tetartos}} you descend 4 steps [φοναὶ] and you will find its plagios, which is πλ δ', like this way"]]</blockquote>
+
+The enechemata of the medieval eight diatonic echoi already present a fundamental difference to the [[Hagiopolitan Octoechos#Synthesis in Latin music theory|Carolingian octoechos]]: 
+*the kyrios and plagios do use the same octave species, but their basis tone with the ison is on the top of the pentachord within the mele of kyrioi echoi, while it is on the bottom within the mele of plagioi echoi;
+*the octave species (D—a—d, E—b—e, B flat—F—b flat, and C—G—c) are different as well from the Western octoechos as from the New Method, which had adapted the fret scheme of the [[tambur]] fingerboard as the common tonal reference for all Ottoman musicians. Traditional protopsaltes at Athos and Istanbul who belong to local schools of the eighteenth century, do indeed not follow the Chrysanthine intonation, they always intone a pentachord on a pure fifth between the bases of echos varys and kyrios tritos.
+*there is no absolute nor fixed position of the octave species. Sticheraric and papadic chant genres exploit not only the possibility to change between the echoi, but also the characteristic that every note (phthongos "sound, voice") has an echos defined by the octoechos. A register change is usually arranged by a transposition about a fifth, which turns a kyrios into a plagios and vice versa. Also other temporary transpositions are possible (see the five rings of the bigger Koukouzelian wheel), but not frequent.
+*the ruling tone system is tetraphonic and based on fifth equivalence which allows the fore mentioned register changes. Heptaphonia (similar to the Western use of systema teleion and solfège with seven syllables) exist only on the level of a melos within a certain echos. Changes to the triphonic system are indicated by the [[Nana (echos)|phthora nana]]. 
+*except of a pure diatonic octoechos the chromatic and enharmonic genus is not excluded, since even the [[Hagiopolitan Octoechos|Hagiopolitan octoechos]] accepted the use of two phthorai ([[Nenano|νενανὼ]] and [[Nana (echos)|νανὰ]]).
+
+[[File:Papadike Trochos.jpg|thumb|400px|alt=Parallage of John Koukouzeles|"Parallage of [[John Koukouzeles]]": The four peripheral wheels for the Octoechos (top left: {{lang|grc-Latn|protos echoi}}; top right: {{lang|grc-Latn|devteros echoi}}; bottom left: {{lang|grc-Latn|tritos echoi}}; bottom right: {{lang|grc-Latn|tetartos echoi}}) and the tetraphonic tone system and its transpositions in the center—Koukouzelian wheel in an 18th-century manuscript (manuscript of the private collection by Demetrios Kontogiorges)]]
+
+=== Echemata of the Papadikai and their modern interpretation ===
+More information on the structure of echoi is only indicated in a very rudimentary way through diagrams  involving [[neume]]s—the Byzantine round notation. The details of the actual intervallic and melodic structure of echoi are virtually impossible to deduce from theoretical treatises prior to the 18th century. In fact, only relatively late systematic comparisons of the echoi with the makamlar of [[Ottoman Empire|Ottoman]] court music, such as those by the [[Kyrillos Marmarinos]], [[Archbishop]] of [[Tinos]], in his manuscript dated 1747, and the reform of the Byzantine notation by [[Chrysanthos of Madytos]] at the first half of the 19th century make it possible to understand the structure of echoi and to attempt reconstructions of melodies from earlier manuscripts.
+
+{{anchor|trochos}}[[File:ChrysanthosTrochos.png|thumb|400px|left|Chrysanthos' ''Parallage'' according to the trochos system ([[#Chr1832|1832, p. 30]])]]
+
+He already introduced his readers into the ''[[diatonic|diatonic genus]]'' and its ''phthongoi'' in the 5th chapter of the first book, called "About the ''parallage'' of the diatonic genus" (Περὶ Παραλλαγῆς τοῦ Διατονικοῦ Γένους). In the 8th chapter he demonstrates, how the intervals can be found on the fingerboard of the [[tambur]].<ref>Chrysanthos' chapter "About the diapason system" ([[#Chr1832|Μερ. Α', Βιβ. α', κεφ. η' Περὶ τοῦ Διαπασῶν συστήματος, p. 28]]) introduced into the chord lengths and recognised in a schematic representation of the tetrachord (12+9+7=28).</ref>
+
+Hence, the ''phthongoi'' of the ''diatonic genus'' had been defined according to the proportions, as they were later called the "soft chroa of the diatonic genus" (τὸ γένος μαλακὸν διατονικὸν). For Chrysanthos this was the only diatonic genus, as far as it had been used since the early church musicians, who memorised the ''phthongoi'' by the intonation formulas (''enechemata'') of the [[Papadic Octoechos]]. In fact, he did not use the historical intonations, he rather translated them in the Koukouzelian wheel in the 9th chapter (Περὶ τοῦ Τροχοῦ) according to a current practice of parallage, which was common to 18th-century versions of ''Papadike'':
+
+<blockquote>Τὸ δὲ Πεντάχορδον, τὸ ὁποῖον λέγεται καὶ Τροχὸς, περιέχει διαστήματα τέσσαρα, τὰ ὁποῖα καθ᾽ ἡμᾶς μὲν εἶναι τόνοι. Περιορίζονται δὲ τὰ τέσσαρα διαστήματα ταῦτα ἀπὸ φθόγγους πέντε.
+
+::πα βου γα δι Πα<ref>Chrysanthos ([[#Chr1832|1832, Μερ. Α', Βιβ. α', κεφ. θ' Περὶ τοῦ Τροχοῦ, 28—§66]]).</ref></blockquote>
+
+<blockquote>The '''pentachord''' which was also called '''wheel''' (τροχὸς), contains four intervals which we regard as certain tones [ἐλάσσων τόνος, ἐλάχιστος τόνος, and 2 μείζονες τόνοι]. The four intervals spanned five '''phthongoi''':</blockquote>
+<blockquote>πα βου γα δι Πα ["Πα" means here the fifth-equivalent for the protos: α']</blockquote>These five stations of the pentachord could be memorised by the echemata of the kyrioi echoi in ascending direction or by those of the plagioi echoi in descending direction (see Chrysanthos' explanation of the [[#trochos|trochos parallage]]). Each of these echemata had the potential to develop an own melos within its melody types:
+
+[[File:Gb-LblHarley5544 fol8r.jpg|thumb|center|600px|Intonations (ἐνηχήματα) for the {{lang|grc-Latn|echoi plagios devteros}}, varys, and {{lang|grc-Latn|plagios tetartos}} listed in a 17th-century papadike treatise—the intonations are followed by chant incipits ([[#Harley5544|London, British Library, Harley 5544, fol. 8r]])]]
+Each echema is followed by the incipit of a sticheron idiomelon which illustrates a certain melos of the echos. The following book Kekragarion illustrates, how the hesperinos psalm κύριε ἐκέκραξα has to be sung according to the [[sticheron|sticheraric]] melos of each echos. The Kekragarion was later included in the printed editions of the [[Anastasimatarion]] or [[Voskresnik (liturgy)|Voskresnik]].
+
+=== Chrysanthos' exegesis of the papadic enechemata ===
+
+In the chapter "On the apechemata" ({{lang|grc|Περὶ Ἀπηχημάτων}}) of his "Great Theoretikon",<ref>Chrysanthos of Madytos ([[#Chr1332|1832]], 135-42—§§307–317).</ref> Chrysanthos translated the [[Papadic Octoechos|Byzantine octoechos]] and its intonation formulas (apechemata, or enechemata), as they could be found in the Papadikai, by offering an exegesis of the papadic apechemata in comparison to the simpler forms used by Orthodox chanters today. They served as kind of model for the composition within a certain melos, similar to the seyirler of an Ottoman [[makam]].
+
+==== Protos echos ====
+
+For the diatonic echos protos, the medieval enechema had the finalis on the top of the protos pentachord, while the enechema passes through it:
+
+[[File:EchosProtos.jpg|thumb|center|500px|Medieval enechema of echos protos ([[#Chr1832|Chrysanthos 1832]], 137)]]
+
+Chrysanthos made this exegesis to explain the melos of the whole echos:
+
+[[File:Protosexegesis.jpg|thumb|center|600px|Chrysanthos exegesis of echos protos enechema ([[#Chr1832|Chrysanthos 1832]], 137)]]
+
+In the first descending half he made the usual cadence on D ({{lang|grc|πα}}, phthongos {{lang|grc|πλα'}}) which corresponds to the finalis of the modern melos, while it was once the finalis and the basis of the plagios protos. The second half, when the melos raises again, but within the papadic melos (used with a [[cherubikon]] or [[koinonikon]]) it prepared a change to another base tone on the upper tetrachord like a ({{lang|grc|κε}}, phthongos {{lang|grc|α'}}).<ref>As an example listen to the papadic protos melos at the beginning of [[Petros Bereketis]]' kalophonic composition about {{lang|grc|Θεοτόκε παρθένε}} ([[#DemPai|Demosthenis Païkopoulos]]). After three minutes the base tone changes to the higher tetrachord.</ref>
+
+Hence, according to the current practice of Orthodox chant the protos mele were rather based on the lower tetrachord, but the formula could be used a fifth higher likewise. The step between the phthongoi of {{lang|grc-Latn|tetartos}} ({{lang|grc|δ'}}) and {{lang|grc-Latn|protos}} ({{lang|grc|α'}}) could be C—D ({{lang|grc|νη}}—{{lang|grc|πα}}) or G—a ({{lang|grc|δι}}—{{lang|grc|κε}}).
+
+[[File:Protosmodern.jpg|thumb|center|200px|Current enechema of echos protos ([[#Chr1832|Chrysanthos 1832]], 137)]]
+
+Concerning the enechema of the {{lang|grc-Latn|plagios protos}}, it had not changed during the centuries.
+
+[[File:PlagiosProtos.jpg|thumb|center|200px|Current and ancient enechema of {{lang|grc-Latn|echos plagios protos}} ([[#Chr1832|Chrysanthos 1832]], 139)]]
+
+Unlike the tradition which always used register changes, the modern interpretation did not fix the base degree of echos plagios protos to the bottom of the pentachord, it could appear regularly at the top like in the troparic and heirmologic melos: a ({{lang|grc|κε}})—c ({{lang|grc|νη'}})—b ({{lang|grc|ζω'}})—a ({{lang|grc|κε}}) or D ({{lang|grc|πα}})—F ({{lang|grc|γα}})—E ({{lang|grc|βου}})—D ({{lang|grc|πα}}).<ref>In the papadic melos of echos plagios protos it is rather in the lower register, but this melos is nearly the same with respect to the one of kyrios protos. Listen to the fifth section of Bereketis' {{lang|grc|Θεοτόκε παρθένε}}, where [[#DemPai|Demosthenis Païkopoulos]] uses a free monosyllabic enechema which seems closer to the kyrios formula. The difference is a stronger emphasise of the mesos or diphonos F ({{lang|grc|γα}}) which sometimes attracts G ({{lang|grc|δι}}), especially among [[Phanariotes]] ([https://www.youtube.com/watch?v=K93tEeejzcg&t=17m50s 17'50"]).</ref>
+
+Chrysanthos' exegesis just passed the protos pentachord D ({{lang|grc|πα}})—a ({{lang|grc|κε}}) in an ascending movement, before using the cadence pattern to the base degree of the mode.
+
+[[File:PlagiosProtosExegesis.jpg|thumb|center|600px|Chrysanthos exegesis of plagios protos enechema ([[#Chr1832|Chrysanthos 1832]], 139)]]
+
+==== Deuteros echos ====
+
+Chrysanthos' bridges between the diatonic {{lang|grc-Latn|echos devteros}} of the Byzantine past and the chromatic melos of the present Orthodox traditions. The latter is characterised by the constant use of the mesos form, which is not on the {{lang|grc-Latn|phthongoi}} of {{lang|grc-Latn|devteros}}—b natural ({{lang|grc|ζω'}}, {{lang|grc-Latn|phthongos}} β') and E ({{lang|grc|βου}}, phthongos πλβ'),  but between them on G ({{lang|grc|δι}}, {{lang|grc-Latn|phthongos}} πλδ').
+
+The usual diatonic {{lang|grc-Latn|kyrios}} form was this {{lang|grc-Latn|enechema}}, but only the descending part would lead to the base tone of the {{lang|grc-Latn|mesos devteros}}.
+
+[[File:Devteros.jpg|thumb|center|300px|The medieval {{lang|grc-Latn|enechema}} of the diatonic {{lang|grc-Latn|echos devteros}} ([[#Chr1832|Chrysanthos 1832]], 137)]]
+
+As a consequence, Chrysanthos' exegesis starts and ends on this mesos, but it follows the [[Hagiopolitan Octoechos|Hagiopolitan]] convention to pass through the former {{lang|grc-Latn|devteros}} pentachord, but he even passes through the {{lang|grc-Latn|tetartos}} pentachord C ({{lang|grc|νη}}, {{lang|grc-Latn|phthongos}} πλδ')—G ({{lang|grc|δι}}, phthongos δ'), as it used by the current melos of {{lang|grc-Latn|echos devteros}}.
+
+[[File:DevterosExegesis.jpg|thumb|center|600px|Chrysanthos exegesis of the {{lang|grc-Latn|devteros enechema}} ([[#Chr1832|Chrysanthos 1832]], 137f)]]
+
+Concerning the chromatic melos of the {{lang|grc-Latn|devteros echoi}} in the current [[Neobyzantine Octoechos|octoechos]], the [[Papadic Octoechos|papadic]] {{lang|grc-Latn|devteros mele}} had become "soft chromatic" under the influence of the {{lang|grc-Latn|[[Nenano#The soft chromatic kyrios devteros|phthora nenano]]}}.
+
+[[File:Devterosmodern.jpg|thumb|center|500px|Current {{lang|grc-Latn|devteros enechema}} ([[#Chr1832|Chrysanthos 1832]], 137f)]]
+
+Nevertheless, according to the very particular interpretation of Chrysanthos the melos and scale of {{lang|grc-Latn|echos devteros}} is ruled by a diphonic organisation based on just two diatonic intervals: the major and minor tone. As a result, the octave C—c between νη and νη' becomes slightly diminished. Chrysanthos' concept of diphonia was so radical that it found no commonplace in current chant manuals, instead a lot alternative interpretations proposed various divisions of the chromatic tetrachords between νη—γα (C—F) and δι—νη' (G—c).
+
+[[File:ChrysanthosMesosDevteros.png|thumb|center|500px|Chrysanthos' parallage of ''{{lang|grc-Latn|echos devteros}}'' in the ''soft chromatic genus'' ([[#Chr1832|1832, pp. 106-108]])]]
+
+At the end of his chapter "on the apechemata" Chrysanthos offers a [[Nenano#Chrysanthos.27 exegesis of the phthora nenano|separate exegesis of phthora nenano]] as a modern deduction of the {{lang|grc-Latn|plagios devteros enechema}}, whose medieval form was this. But it had moved now with the {{lang|grc-Latn|[[Nenano#Chrysanthos.27 exegeseis of the devteros echoi|phthora nenano]]}} to the {{lang|grc-Latn|phthongos}} of {{lang|grc-Latn|plagios protos}}.<ref>For the proper intonation of the enharmonic diesis which is augmented in descending direction, listen to Demosthenis Païkopoulos' [[#DemPai|interpretation]] of the {{lang|grc-Latn|echos plagios devteros}} section in [[Petros Bereketis]]' didactic chant (mathema) ([https://www.youtube.com/watch?v=K93tEeejzcg&t=24m2s 24'02"]).</ref>
+
+[[File:PlagiosDevteros.jpg|thumb|center|300px|The medieval enechema of the diatonic {{lang|grc-Latn|echos plagios devteros}} ([[#Chr1832|Chrysanthos 1832]], 138)]]
+
+==== Tritos echos ====
+
+Chrysanthos did not offer any exegesis for the apechema of the diatonic echos tritos. He only mentions the intonation of [[Nana (echos)|phthora nana]] instead, which is still used as the echos tritos intonation formula in current Orthodox traditions.
+
+[[File:Tritos.jpg|thumb|center|250px|Current tritos enechema ([[#Chr1832|Chrysanthos 1832]], 137f)]]
+
+Hence, his exegesis of this enharmonic phthora is within the enharmonic genus and the triphonic tone system of the [[Nana (echos)#The enharmonic echoi of the current Octoechos|phthora nana]].<ref>Listen the tritos section of [[Petros Bereketis|Bereketis]]' kalophonic [[#DemPai|composition]] ([https://www.youtube.com/watch?v=K93tEeejzcg&t=9m15s 9'15"]).</ref>
+
+The same enharmonic interpretation was done with the plagios called "echos varys" (grave mode), obviously in certain cases, when the {{lang|grc-Latn|plagios tetartos}} was expected of fourth under the base tone. Hence, the enharmonic {{lang|grc-Latn|tritos echoi}} are not separated by a pentachord, but usually both set on F ({{lang|grc|γα}}, phthongos γ' as well as υαρ), in troparic, sticheraric and heirmologic mele:
+
+[[File:Varys.jpg|thumb|400px|center|Traditional intonation formula of ἦχος βαρύς ([[#Chr1832|Chrysanthos 1832]], 140—§313)]]
+
+[[File:ChrysanthosVarys.png|thumb|700px|center|Enharmonic exegesis of the diatonic intonation of ἦχος βαρύς ([[#Chr1832|Chrysanthos 1832]], 140—§313)]]
+
+[[File:Varysmodern.jpg|thumb|200px|center|Modern enechema of the enharmonic ἦχος βαρύς ([[#Chr1832|Chrysanthos 1832]], 140—§313)]]
+
+Within the papadic chant genre ([[Cherubikon|cherubika]], [[Koinonikon|koinonika]]), but also during the composed recitation of [[Polyeleos]] psalms and kalophonic [[Irmos|heirmoi]] ([[Axion Estin|Ἄξιον ἐστίν]]), the diatonic melos of {{lang|grc-Latn|echos varys}} was chosen. Its base tone was one {{lang|grc-Latn|phthongos}} below the {{lang|grc-Latn|plagios tetartos}}. According to Chrysanthos it diminished the tritos pentachord to a kind of tritone, at least when it was set on fret arak of the Ottoman [[tambur]], but there are also more traditional ways of intonation depending on the local school of a chanter.<ref>The Chrysanthine intonation is commonly used in all Orthodox monodic traditions of the Balkans, but there are traditionalists at Istanbul and Athos who prefer another diatonic varys intonation according to the trochos system ([[#Ger2006|Gerlach 2006]], 889-890). Demosthenis Païkopoulos for example uses the [[Papadic Octoechos#The Koukouzelian wheel .28.CF.84.CF.81.CE.BF.CF.87.E1.BD.B8.CF.82.29|trochos intonation]] of the Patriarchal school, when he sings the varys section of [[Petros Bereketis]]' kalophonic composition about {{lang|grc|[[#DemPai|Θεοτόκε παρθένε]]}} ([https://www.youtube.com/watch?v=K93tEeejzcg&t=29m16s 29'16"]).</ref>
+
+[[File:Diatonicvarysmodern.jpg|thumb|400px|center|Modern enechema of the lower diatonic ἦχος βαρύς ([[#Chr1832|Chrysanthos 1832]], 140—§313)]]
+
+==== {{lang|grc-Latn|tetartos echos}} ====
+
+The {{lang|grc-Latn|tetartos echoi}} have changed between the [[Hagiopolitan Octoechos|Byzantine]] and the [[Neobyzantine Octoechos|Orthodox octoechos]] today.
+
+The original {{lang|grc-Latn|tetartos}} pentachord between {{lang|grc-Latn|plagios}} and kyrios—C ({{lang|grc|νη}}) and G ({{lang|grc|δι}}) or likewise G ({{lang|grc|δι}}) and d ({{lang|grc|πα'}})—does still exist in the papadic melos of echos {{lang|grc-Latn|tetartos}}, which is known as the "papadic Agia" ({{lang|grc|Ἅγια παπαδικῆς}}).<ref>Listen to the section echos {{lang|grc-Latn|tetartos}} in Petros' [[#DemPai|kalophonic theotokion]] which he composed in this melos ([https://www.youtube.com/watch?v=K93tEeejzcg&t=12m58s 12'58"]).</ref>
+
+[[File:Tetartos.jpg|thumb|center|500px|Traditional enechema of {{lang|grc|ἦχος τέταρτος}}  ([[#Chr1832|Chrysanthos 1832]], 138—§312)]]
+
+Chrysanthos made for the papadic melos this exegesis.
+
+[[File:TetartosExegesis.jpg|thumb|center|600px|Chrysanthos' exegesis of the {{lang|grc|ἦχος τέταρτος}} enechema ([[#Chr1832|Chrysanthos 1832]], 138—§312)]]
+
+A commonly used form of {{lang|grc|Ἅγια παπαδικῆς}} might be the one which Chrysanthos mentions as the one used by [[Petros Peloponnesios]].
+
+[[File:Tetartosmodern.jpg|thumb|center|500px|Enechema of the papadic echos {{lang|grc-Latn|tetartos}} ([[#Chr1832|Chrysanthos 1832]], 139—§312)]]
+
+The diatonic plagios of {{lang|grc-Latn|tetartos}} according to the enechema known from the treatises called Papadikai<ref>Hence, it also still in use within the papadic melos of the current {{lang|grc-Latn|echos plagios tetartos}}, listen to the eighth section of Petros' [[#DemPai|kalophonic composition]] passing through all the eight echoi ([https://www.youtube.com/watch?v=K93tEeejzcg&t=34m51s 34'51"]).</ref>
+
+[[File:PlagiosTetartos.jpg|thumb|center|350px|Traditional enechema of {{lang|grc|ἦχος πλάγιος τοῦ τετάρτου}}  ([[#Chr1832|Chrysanthos 1832]], 140—§316)]]
+
+which was interpreted by Chrysanthos, as follows.
+
+[[File:PlagiosTetartosExegesis.jpg|thumb|center|600px|Chrysanthos' exegesis of the {{lang|grc-Latn|plagios tetartos}} enechema ([[#Chr1832|Chrysanthos 1832]], 140—§316)]]
+
+Since the {{lang|grc-Latn|plagios devteros}} has moved to the {{lang|grc-Latn|phthongos}} of {{lang|grc-Latn|plagios protos}} (πλα'), the original {{lang|grc-Latn|phthongos}} of the diatonic {{lang|grc-Latn|plagios devteros}} was vacant. In fact, as a diatonic phthora it was represented by a medial signature of the so-called "echos legetos" ({{lang|grc|ἦχος λέγετος}}) which had preserved the diatonic intonation of {{lang|grc-Latn|plagios devteros}}.<ref>It was used by [[Petros Bereketis]] in the {{lang|grc-Latn|echos devteros}} section of his [[#DemPai|composition]] ([https://www.youtube.com/watch?v=K93tEeejzcg&t=4m58s 4'58"]), although as the {{lang|grc-Latn|kyrios devteros}}.</ref>
+
+[[File:Legetos.jpg|thumb|center|350px|Traditional enechema of the echos legetos ([[#Chr1832|Chrysanthos 1832]], 141—§317)]]
+
+The signature was used within the {{lang|grc-Latn|[[heirmologion]] kalophonikon}}, since heirmoi of {{lang|grc-Latn|devteros echoi}} were still treated as a diatonic melos unlike the school of Petros Peloponnesios and his follower [[Peter the Byzantine|Petros Byzantios]]. According to their school the {{lang|grc-Latn|echos legetos}} was part of the {{lang|grc-Latn|tetartos echoi}}, as a {{lang|grc-Latn|mesos tetartos}} it was used for the heirmologic melos, where the base and final degree was a low intoned E (βου), and for the {{lang|grc-Latn|sticheraric melos}}, which had the base degree of the mode and closing cadences on D (πα), but the concluding finalis E (βου).
+
+Chrysanthos interpreted also {{lang|grc-Latn|echos legetos}} as a diatonic {{lang|grc-Latn|mesos tetartos}}.
+
+[[File:LegetosExegesis.jpg|thumb|center|700px|Chrysanthos' exegesis of the echos legetos ([[#Chr1832|Chrysanthos 1832]], 141—§317)]]
+
+He also mentioned a common enechema as it was used by Iakovos the Protopsaltes.
+
+[[File:Legetosmodern.jpg|thumb|center|500px|Iakovos' enechema of echos legetos ([[#Chr1832|Chrysanthos 1832]], 141—§317)]]
+
+In this last paragraph of the chapter about the apechemata Chrysanthos referred to ten echoi within the tradition of Hagiopolites.
+
+<blockquote>{{lang|grc|Ἦχοι μὲν εἶναι ὀκτὼ τῆς ψαλμῳδίας· ἀπηχήματα δὲ σῴζονται δέκα. Διότι ὁ Τέταρτος ἦχος, καὶ ὁ Πλάγιος τοῦ δευτέρου, ἔχουσιν ἀνὰ δύο ἀπηχήματα}}.<ref>Chrysanthos of Madytos ([[#Chr1832|1832]], 141—§317).</ref></blockquote>
+
+<blockquote>The echoi of the psalmody are eight. The apechemata preserved though are ten, because the {{lang|grc-Latn|echos tetartos}}, and the {{lang|grc-Latn|plagios}} of the {{lang|grc-Latn|devteros}}, have two apechemata each.</blockquote>
+
+But unlike the Hagiopolites, where the {{lang|grc-Latn|phthora nana}} was mentioned as a "{{lang|grc-Latn|mesos tetartos}}" and the {{lang|grc-Latn|nenano phthora}} as "{{lang|grc-Latn|mesos devteros}}", {{lang|grc-Latn|echos legetos}} seemed to have slipped into the {{lang|grc-Latn|mesos tetartos}} role, but it was a diatonic mesos, not an enharmonic like {{lang|grc-Latn|phthora nana}}. In fact, Chrysanthos could not longer mention nana and nenano as additional {{lang|grc-Latn|echoi}}, since their melos had already replaced the diatonic mele of the {{lang|grc-Latn|devteros}} and {{lang|grc-Latn|tritos echoi}}.
+
+==Echos vs. maqam in eponymous compositional practice==
+In other [[Ottoman music]] traditions like the list of composed [[Mevlevi Order|Mevlevi]] dance suites as models of well-known and new makamlar created by [[eponymous]] masters resulted in a proliferation of modes ([[makam]]lar, [[Arabic maqam|maqamat]]),<ref>About an exact situation of makamlar as a melodic model between improvisation and composition, see Habib Hassan Touma ([[#Tou1971|1971]]).</ref> echoi are not attributed to specific composers, but are rather regarded as belonging to the collective and anonymous heritage of liturgical [[chant]]. Eponymous compositions do exist throughout most of the history of Byzantine chant, but their echos is always classified from within the system of existing {{lang|grc-Latn|echoi}}. Due to an interest for makamlar compositions Phanariotes like Georgios the Protopsaltes, one of the great teachers of Orthodox chant, also became a student of the dervish composer Dede Efendi, after he had learnt [[Ottoman Turkish language|Turkish]]. Byzantine notation developed as a universal notation system during the 19th century which includes even attempts to integrate makamlar within the mele of the Octoechos, while ornamental details became part of an oral tradition.<ref>For a rather systematic approach, see the treatises by Keïvelis ([[#Kei1856|1856]]) and Keltzanides ([[#Kel1881|1881]]).</ref>
+
+==Cultural "relations"==
+The system of echoi is rich and diverse. Closer study and comparison with modal systems of neighboring cultures reveals a complex network of cultural and ethnic influences throughout the centuries—a vivid exchange between musicians across the borders of ethnic and religious identity ([[Phanariotes]]).<ref>Rudolf M. Brandl ([[#Bra1989|1989]]).</ref> The basic theory of echoi is formalized in a system of eight modes called the Octoechos. See the article [[Neobyzantine Octoechos]] for a discussion of its origins and a critique of this concept vis-a-vis actual practice.
+
+==See also==
+*[[Musical mode|Mode]]
+*[[Centonization]]
+*Ottoman [[makam]], Arab [[Arabic maqam|maqām]], and Central Asian [[Shashmaqam]]
+*Persian [[dastgah]]
+
+== Sources ==
+{{Reflist}}
+
+===Papadikai===
+*{{citation
+| publisher = Verlag der Österreichischen Akademie der Wissenschaften
+| isbn = 3-7001-2520-8
+| editor1-last = Hannick
+| editor1-first = Christian
+| editor2-last = Wolfram
+| editor2-first = Gerda 
+| title = Die Erotapokriseis des Pseudo-Johannes Damaskenos zum Kirchengesang
+| place = Vienna
+| series = Monumenta Musicae Byzantinae - Corpus Scriptorum de Re Musica
+| volume = 5
+| year = 1997
+| ref = Ero97}}.
+*{{citation
+| publisher = Verlag der Österreichischen Akademie der Wissenschaften
+| isbn = 978-3-7001-0732-3
+| editor1-last = Conomos
+| editor1-first = Dimitri
+| title = The Treatise of Manuel Chrysaphes, the Lampadarios: [Περὶ τῶν ἐνθεωρουμένων τῇ ψαλτικῇ τέχνῃ καὶ ὧν φρουνοῦσι κακῶς τινες περὶ αὐτῶν] On the Theory of the Art of Chanting and on Certain Erroneous Views that some hold about it (Mount Athos, Iviron Monastery MS 1120, July 1458)
+| place = Vienna
+| series = Monumenta Musicae Byzantinae - Corpus Scriptorum de Re Musica
+| volume = 2
+| year = 1985
+| ref = ManCo
+}}.
+*{{citation
+| publisher = Verlag der Österreichischen Akademie der Wissenschaften
+| isbn = 3-7001-0729-3
+| editor1-last = Hannick
+| editor1-first = Christian
+| editor2-last = Wolfram
+| editor2-first = Gerda 
+| title = Gabriel Hieromonachus: [Περὶ τῶν ἐν τῇ ψαλτικῇ σημαδίων καὶ τῆς τούτων ἐτυμολογίας] Abhandlung über den Kirchengesang
+| place = Vienna
+| series = Monumenta Musicae Byzantinae - Corpus Scriptorum de Re Musica
+| volume = 1
+| year = 1985
+| ref = GabHW
+}}.
+*{{cite web
+|last=Panagiotes the New Chrysaphes
+|author-link=Panagiotes the New Chrysaphes
+|title=London, British Library, Harley Ms. 5544
+|url=http://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_5544
+|work=Papadike and the Anastasimatarion of Chrysaphes the New, and an incomplete Anthology for the Divine Liturgies (17th century)
+|publisher=British Library
+|access-date=3 May 2012
+|ref=Harley5544
+}}
+
+=== Treatises of the New Method (since 19th century) ===
+* {{Cite book
+| publisher = Michele Weis
+| last = Chrysanthos of Madytos
+| author-link = Chrysanthos of Madytos
+| title = Θεωρητικόν μέγα της μουσικής συνταχθέν μεν παρά Χρυσάνθου αρχιεπισκόπου Διρραχίου του εκ Μαδύτων εκδοθέν δε υπό Παναγιώτου Γ. Πελοπίδου Πελοποννησίου διά φιλοτίμου συνδρομής των ομογενών
+| location = Triest 
+| year = 1832
+| url = https://archive.org/details/theoretikonmegat00chry
+| ref = Chr1832
+|editor-last = Pelopides
+|editor-first = Panagiotes G.
+}}
+*{{Cite book
+| publisher = Taddaios Tividesian
+| last1 = Anastasiou
+| first1 = Spiridon
+| last2 = Keïvelis
+| first2 = Ioannis G. 
+| title =Απάνθισμα ή Μεδζμουαϊ μακαμάτ περιέχον μεν διάφορα τουρκικά άσματα
+| location = Istanbul
+| year = 1856
+| url = http://anemi.lib.uoc.gr/metadata/4/d/7/metadata-39-0000455.tkl
+| ref = Kei1856
+}}
+*{{cite book
+| publisher = A. Koromela & Sons
+| last = Keltzanides
+| first = Panagiotes
+| title = Μεθοδική διδασκαλία θεωρητική τὲ καὶ πρακτική πρὸς ἐκμάθησιν καὶ διάδοσιν τοῦ γνησίου ἐξωτερικοῦ μέλους τῆς καθ᾿ ἡμᾶς Ἑλληνικῆς Μουσικῆς κατ᾿ ἀντιπαράθεσιν πρὸς τὴν Ἀραβοπερσικήν
+| location = Istanbul
+| year = 1881
+| url = http://anemi.lib.uoc.gr/metadata/9/8/c/metadata-00did7jj657f0ugrck8rj8t5u4_1295859324.tkl
+| ref = Kel1881
+}}
+*{{cite book
+| publisher = Spyridones Kousoulinos
+| last = Kosmas Metropolit of Madyta
+| title = Ποιμενικός αυλός περιέχων μουσικά έργα εκδιδόμενα αδεία του Υπουργείου της Δημοσίας Εκπαιδεύσεως υπό ημερομηνίαν 25 Ραμαζάν 313 και 15 Φεβρουαρίου 312 (1897) και υπ΄ αριθμόν 552. Διηρημένα εις τρία τεύχη Κοσμά του εκ Μαδύτων μητροπολίτου Πελαγωνίας
+| volume = 1
+| location = Athens 
+| year = 1897
+| url = http://anemi.lib.uoc.gr/metadata/4/2/5/metadata-141-0000328.tkl
+| ref = Kos1897
+}}
+
+===Anthologies of Makam Music===
+*{{Cite book
+| publisher = Igniatidis
+| editor-last = Georgiadis
+| editor-first = Panagiotis 
+| title = Καλλίφωνος Σειρήν ήτοι Συλλογή Διαφόρων Ασμάτων, Τουρκικών, Ευρωπαϊκών και Ελληνικών Μελοποιηθέντων υπό Χ. Παναγιώτου Γεωργιάδου του Προυσαέως
+| location = Istanbul
+| date = 1859
+}}
+*{{Cite book
+| publisher = Taddaios Tividesian
+| editor1-last = Keïvelis
+| editor1-first = Ioannis G. 
+| editor2-last = Anastasiou
+| editor2-first = Spyridon 
+| title = Απάνθισμα ή Μεδζμουαϊ μακαμάτ περιέχον μεν διάφορα τουρκικά άσματα
+| location = Istanbul
+| year = 1856
+| url = http://anemi.lib.uoc.gr/metadata/4/d/7/metadata-39-0000455.tkl
+}}
+*{{Cite book
+| publisher = Evangelinos Misaelidos
+| editor1-last = Keïvelis
+| editor1-first = Ioannis G. 
+| title = Μουσικόν Απάνθισμα (Μεδζμουάϊ Μακαμάτ) διαφόρων ασμάτων μελοποιηθέντων παρά διαφόρων μελοποιών, τονισθέντων μεν παρά Ιωάννου Γ. Ζωγράφου Κεϊβέλη και παρ' άλλων μουσικοδιδασκάλων Εκδοθέντων δε υπ' αυτού, περιέχον προσέτι την οδηγίαν των ρυθμών της Ασιατικής Μουσικής
+| location = Istanbul
+| date = 1872
+| url = http://anemi.lib.uoc.gr/metadata/6/d/e/metadata-264-0000326.tkl
+}}
+*{{Cite book
+| publisher = Kastoros
+| author1-last = Phokaeos
+| author1-first = Theodoros 
+| author2 = Chourmouzios Chartophylakos
+| title = Βίβλος καλουμένη Ευτέρπη : Περιέχουσα συλλογήν εκ των νεωτέρων και ηδυτέρων εξωτερικών μελών, με προσθήκην εν τω τέλει και τινών ρωμαϊκών τραγωδίων εις μέλος οθωμανικόν και ευρωπαϊκόν εξηγηθέντων εις το νέον της μουσικής σύστημα παρά Θεοδώρου Φωκέως, και Σταυράκη Βυζαντίου των μουσικολογιωτάτων
+| location = Galata
+| date = 1830
+| url = http://anemi.lib.uoc.gr/metadata/9/8/e/metadata-114-0000009.tkl
+}}
+*{{Cite book
+| publisher = Publisher of the Patriarchate 
+| author1-last = Phokaeos
+| author1-first = Theodoros 
+| author2 = Chourmouzios Chartophylakos
+| title = Η Πανδώρα ήτοι συλλογή εκ των νεωτέρωνκαι ηδυτέρων εξωτερικών μελών εις τόμους 2 όπου και προσετέθησαν και τα ελληνικά τραγούδια της προεκδοθείσης Η Πανδώρα ήτοι συλλογή εκ των νεωτέρωνκαι ηδυτέρων εξωτερικών μελών εις τόμους 2 όπου και προσετέθησαν και τα ελληνικά τραγούδια της προεκδοθείσης (1830) Ευτέρπης του Χουρμουζίου Χαρτοφύλακος Θεοδώρου Παράσχου Φωκαέως
+| volume = 1–2
+| location = Istanbul
+| date = 1843–1846
+}}
+*{{Cite book
+| publisher = E. Kayol
+| last = Vlachopoulos
+| first = Soterios I. 
+| title = Αρμονία ήτοι ελληνικά και τουρκικά άσματα ποιηθέντα και τονισθέντα υπό Σ. Ι. Βλαχοπούλου
+| location = Istanbul
+| date = 1848
+| url = http://anemi.lib.uoc.gr/metadata/3/d/b/metadata-f115d17fbe7f05be49b86b6af3984b38_1284972780.tkl
+}}
+*{{Cite book
+| publisher = Stavrakis Anagnostou
+| last = Vlahakis
+| first = Nikolaos D.
+| title = Η Λεσβία Σαπφώ ήτοι ασματολόγιον περιέχον εξωτερικά άσματα, εις ύφος Ελληνικόν, Ευρωπαϊκόν και Τουρκικόν
+| location = Athens
+| date = 1870
+}}
+
+== Studies ==
+*{{Cite journal
+| pages = 156–169
+| editor-last = Elsner
+| editor-first = Jürgen
+| last = Brandl
+| first = Rudolf Maria
+| title = Konstantinopolitanische Makamen des 19. Jahrhunderts in Neumen: die Musik der Fanarioten
+| journal = Maqam - Raga - Zeilenmelodik: Konzeptionen und Prinzipien der Musikproduktion. 1. Arbeitstagung der Study Group "maqām" beim International Council for Traditional Music vom 28. Juni bis 2. Juli 1988 in Berlin
+| location = Berlin
+| year = 1989
+| ref = Bra1989
+}}
+*{{Cite journal
+| last = Erol
+| first = Merıh
+| title = 'External' music in Constantinople
+| journal = Encyclopaedia of the Hellenic World, Constantinople
+| date = 25 May 2008
+| url = http://constantinople.ehw.gr/Forms/fLemmaBodyExtended.aspx?lemmaID=11049
+| access-date = 22 August 2012
+| ref = Ero08
+}}
+*{{Cite book
+| publisher = Aracne
+| isbn = 9788854838406
+| pages = 81–110
+| last = Gerlach
+| first = Oliver
+| title = Studies of the Dark Continent in European Music History: Collected Essays on Traditions of Religious Chant in the Balkans
+| chapter = Religious Chant in the late Ottoman Empire – Between Petros Bereketēs and Hamamîzade İsmail Dede Efendi
+| location = Rome
+| year = 2011
+| url = http://ensembleison.de/current.htm
+| ref = Ger11
+}}
+*{{Cite conference
+| publisher = Institute for Musicology of the Hungarian Academy of Sciences
+| pages = 883–891
+|editor= László Dobszay
+| last = Gerlach
+| first = Oliver
+| title = The older the singer the better! On the role of creativity in passing down liturgical music from the 19th and 20th centuries
+| book-title = Papers read at the 12th Meeting of the IMS Study Group "Cantus Planus" Lillafüred/Hungary, 2004. Aug. 23–28
+| location = Budapest
+| date = 2006
+| url = http://www.uni-regensburg.de/Fakultaeten/phil_Fak_I/Musikwissenschaft/cantus/CPvolumes/2004.pdf#page=883
+| ref = Ger2006
+| access-date = 2017-09-01
+| archive-url = https://web.archive.org/web/20160304194442/http://www.uni-regensburg.de/Fakultaeten/phil_Fak_I/Musikwissenschaft/cantus/CPvolumes/2004.pdf#page=883
+| archive-date = 2016-03-04
+| url-status = dead
+}}
+*{{Cite conference
+| conference = 1st International Conference of the ASBMH, 2007: Byzantine Musical Culture
+| pages = 530–553
+| last = Joubran
+| first = Romanos Rabih
+| chapter = The Use of Eastern Musical Modes in Byzantine Compositions during the 19th and 20th Century
+| title = Proceedings of the 1st International Conference of the ASBMH
+| location = Pittsburgh
+| year = 2009
+| url = http://www.asbmh.pitt.edu/page12/Joubran.pdf
+| access-date = 29 July 2012
+| ref = Jou09
+}}
+*{{Cite book
+| publisher = Pan Yayıncılık
+| isbn = 975-843405-5
+| last1 = Popescu-Judeţ
+| first1 = Eugenia
+| last2 = Şırlı
+| first2 = Adriana Ababi
+| title = Sources of 18th-century music : Panayiotes Chalathzoglou and Kyrillos Marmarinos' comparative treatises on secular music
+| location = Istanbul
+| year = 2000
+| ref = Sir00
+}}
+*{{cite book
+|last=Raasted
+|first=Jørgen
+|title=Intonation Formulas and Modal Signatures in Byzantine Musical Manuscripts
+|series=Monumenta Musicae Byzantinae, Subsidia
+|volume=7
+|location=Copenhagen
+|year=1966
+|publisher=E. Munksgaard
+|ref=Raa1966
+}}
+*{{Cite journal
+| doi = 10.2307/850386
+| volume = 15
+| pages = 38–48
+| last = Touma
+| first = Habib Hassan
+| title = The Maqam Phenomenon: An Improvisation Technique in the Music of the Middle East
+| journal = Ethnomusicology
+| date = 1971
+| issue = 1
+| jstor = 850386
+| ref = Tou1971
+}}
+*{{Cite book
+| publisher = Verlag für systematische Musikwissenschaft
+| isbn = 9783922626749
+| volume = 74
+| last = Zannos
+| first = Ioannis
+| editor-last = Vogel
+| editor-first = Martin
+| title = Ichos und Makam - Vergleichende Untersuchungen zum Tonsystem der griechisch-orthodoxen Kirchenmusik und der türkischen Kunstmusik
+| location = Bonn
+| series = Orpheus-Schriftenreihe zu Grundfragen der Musik
+| year = 1994
+| ref = Zan94
+}}
+
+==External links==
+{{Commons category|Enechemata}}
+*{{cite web
+|last=Jeffery
+|first=Peter
+|title=At the Origins of the Byzantine Musical Tradition: The Eight Modes (with demonstration of the old echemata)
+|url=https://www.youtube.com/watch?v=if7mZ92IsO4&list=PLlYVyJo0I7DEtIxS9Tixs7oDeVOuRwSS2
+|publisher=Axion Estin Foundation
+|location=White Plains
+|date=4 December 2010
+}}
+*{{cite web
+|last1=Galanes
+|first1=Demetrios
+|title=Modern apechemata of the echoi
+|url=https://www.youtube.com/watch?v=zfxeHedqaW8
+}}
+*{{Cite web
+|url = https://www.youtube.com/watch?v=K93tEeejzcg
+|title = Petros Bereketes: Θεοτόκε παρθένε
+|last = Païkopoulos
+|first = Demosthenis
+|ref = DemPai
+}}
+*{{cite web
+|last1=Stanitsas
+|first1=Thrasyvoulos
+|title=Amanes
+|url=https://www.youtube.com/watch?v=QqhGiGnEGVs
+|date=1978
+}}
+*{{cite web
+|last1=Karaca
+|first1=Kani
+|title=Zaharya Efendi Mir Cemil (Ζαχαρίας ο χανεντές): Murabbâ Beste "Çeşm-i meygûnun ki bezm-i meyde cânân döndürür" in makam segâh (echos legetos) 
+|url=https://www.youtube.com/watch?v=rq6hCzpRo5Y
+}}
+*{{cite web
+|title=Archon cantors of the Great Church of Christ (about the different Patriarchal schools with historical recordings)
+|url=http://www.ec-patr.net/en/
+|publisher=Association of Constantinopolitan Friends of Music (Athens)
+}}
+
+{{Byzantine music}}
+{{Melody types}}
+
+[[Category:Byzantine music theory]]
+[[Category:Melody types]]
+[[Category:Ottoman music]]

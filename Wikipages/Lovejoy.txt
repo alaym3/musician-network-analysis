@@ -1,0 +1,80 @@
+{{short description|British television series}}
+{{about||the series of novels upon which the television series is based|Lovejoy (novel series)|other uses}}
+{{Use dmy dates|date=May 2021}}
+{{Use British English|date=May 2012}}
+{{more citations needed|date=June 2009}}
+{{Infobox television
+ | name    = Lovejoy
+ | image        = Lovejoy-cast.jpg
+ | caption      = The main cast from the series 1 to 5 <small>(from left)</small>, [[Dudley Sutton]], [[Ian McShane]], [[Chris Jury]] and [[Phyllis Logan]].
+ | genre        = [[Comedy-drama]], [[mystery fiction|mystery]]
+ | runtime      = 50 minutes
+ | creator      = {{Plainlist |* [[John Grant (Lovejoy)|John Grant]]
+*[[Ian La Frenais]]<ref>{{cite news|url=https://www.independent.co.uk/news/people/profiles/ian-mcshane-i-dont-even-like-antiques-2099558.html|title=Ian McShane: 'I don't even like antiques'|date=9 October 2010|work=[[The Independent]].|publisher=Independent Print Limited|access-date=28 April 2012}}</ref>}}
+ | starring     = {{Plainlist |*[[Ian McShane]]
+*[[Chris Jury]]
+*[[Phyllis Logan]]
+*[[Dudley Sutton]]
+}}
+ | country      = United Kingdom
+ | language     = English
+ | company = [[BBC]]<br />Tamariska Productions<br />WitzEnd Productions
+ | distributor = [[Fremantle Media]]
+ | network = [[BBC One|BBC1]]
+ | picture_format = [[4:3]]
+ | first_aired  = {{start date|1986|1|10|df=y}}
+ | last_aired   = {{end date|1994|12|4|df=y}}
+ | num_series   = 6
+ | num_episodes = 71
+ | list_episodes = List of Lovejoy episodes
+}}
+
+'''''Lovejoy''''' is a British television [[comedy-drama]] [[mystery fiction|mystery]] series, based on the [[picaresque novel]]s by [[John Grant (Lovejoy)|John Grant]] under the pen name Jonathan Gash. The show, which ran to 71 episodes over six series, was originally broadcast on [[BBC One|BBC1]] between 10 January 1986 and 4 December 1994, although there was a five-year gap between the first and second series. It was adapted for television by [[Ian La Frenais]].
+
+==Overview==
+{{Main|List of Lovejoy episodes}}
+The series concerns the adventures of the eponymous Lovejoy, a roguish [[antiques dealer]] based in [[East Anglia]]. Within the trade, he has a reputation as a "divvy", a person with almost unnatural powers of recognising exceptional items as well as distinguishing genuine antiques from fakes or forgeries.
+
+==Characters==
+* Lovejoy, played by [[Ian McShane]], a less than scrupulous yet likeable rogue antique dealer  
+* Eric Catchpole, played by [[Chris Jury]] (series 1–5; guest, series 6), Lovejoy's younger, enthusiastic, but ever so slightly dim, assistant
+* Tinker Dill, played by [[Dudley Sutton]], "barker" and tout who is friends with Lovejoy
+* Lady Jane Felsham, played by [[Phyllis Logan]] (series 1–5; guest, series 6), has a friendly, flirtatious relationship with Lovejoy, often helping him with his deals
+* Charlie Gimbert, played by [[Malcolm Tierney]] (series 1, 4–6), owner of a local [[auction house]] and Lovejoy's nemesis within the antiques trade
+* Beth Taylor, played by [[Diane Parish]] (series 5–6), Lovejoy's new apprentice following the departure of Eric Catchpole
+* Charlotte Cavendish, played by [[Caroline Langrishe]] (series 5–6), an auctioneer who becomes Lovejoy's love interest
+
+==Broadcast history==
+The series was notable for its style and pace. Lovejoy would frequently break the [[fourth wall]], revealing his thoughts and motives by addressing the audience directly. The first series was shown on BBC1 in the first half of 1986. It concluded with a two-part special.
+
+Despite the first series being a moderate ratings success, ''Lovejoy'' was not brought back until January 1991. The original four cast members returned for the next two series between 1991 and 1992. With the start of the fourth series in 1993, [[Malcolm Tierney]] reprised his first series role as Charlie Gimbert.
+
+During the fifth series, several cast changes were made. Phyllis Logan left the show in the second episode and Chris Jury departed in the sixth episode, although both characters returned for the sixth series finale. Two new regular characters were added: Lovejoy's new apprentice, Beth Taylor, and Charlotte Cavendish, who ran a local antiques auction house.
+
+The sixth and final series of ten episodes was broadcast between October and December 1994. Two ninety-minute ''Lovejoy'' specials for Christmas were shown in 1992 and 1993. The theme tune used in the opening and end credits, as well as the incidental music for each episode, was composed by [[Denis King]].
+
+==Releases==
+In the United States, the series was first broadcast on the [[A&E Network]]. It was marketed as ''The Lovejoy Mysteries'' on [[VHS]] in the United States. The [[DVD]] release of the entire series has returned to the title of ''Lovejoy''.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb title|0090477}}
+*[http://www.phill.co.uk/comedy/lovejoy/index.html ''Lovejoy''] at British TV Resources
+*{{Epguides|Lovejoy}}
+*[http://maps.google.co.uk/maps/ms?msid=205621095266899684813.0004b71bd629a1e7e9f4a&msa=0 Filming locations]
+*[http://www.express.co.uk/news/uk/552531/Lovejoy-TV-show-makes-a-comeback Lovejoy TV show makes a comeback]
+
+{{Clement and La Frenais}}
+
+[[Category:1986 British television series debuts]]
+[[Category:1994 British television series endings]]
+[[Category:1980s British comedy-drama television series]]
+[[Category:1990s British comedy-drama television series]]
+[[Category:BBC television dramas]]
+[[Category:Television shows based on British novels]]
+[[Category:British crime television series]]
+[[Category:English-language television shows]]
+[[Category:1980s British mystery television series]]
+[[Category:1990s British mystery television series]]

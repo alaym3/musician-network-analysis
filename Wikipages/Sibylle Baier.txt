@@ -1,0 +1,54 @@
+{{short description|German folk singer and actress|bot=PearBOT 5}}
+{{BLP sources|date=June 2019}}
+{{Use dmy dates|date=August 2021}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name                = Sibylle Baier
+| birth_date          = {{birth date and age|df=yes|1955|2|25}}
+| image               = 
+| caption             = 
+| image_size          =
+| background          = solo_singer
+| origin              = Germany
+| instrument          = {{flatlist|
+* Vocals
+* guitar
+}}
+| genre               = [[Folk music|Folk]]
+| occupation          = {{flatlist|
+* Actress
+* singer-songwriter
+}}
+| years_active        = 1970–73, 2008
+| label               = [[Orange Twin Records]]
+| current_members     = 
+| past_members        = 
+}}
+
+'''Sibylle Baier''' (born 25 February 1955) is a German folk singer and actress, whose musical abilities achieved belated recognition with the 2006 release of the album ''[[Colour Green]]'', compiled from songs she had recorded in the early 1970s.
+
+==Background==
+Having played the guitar and piano as a young girl, she was moved to write her first song, "Remember The Day", after taking a road trip with a friend across [[Alps|the Alps]] to [[Genoa]], via [[Strasbourg]].<ref>{{cite web|url=http://www.orangetwin.com/sibylle.html|title=Orange twin|website=Orangetwin.com|accessdate=1 June 2019}}</ref>
+
+She appeared in [[Wim Wenders]]'s 1973 film ''[[Alice in the Cities]]'', and her music is also featured in ''Umarmungen und andere Sachen'' (1975) and in Wenders'  ''[[Palermo Shooting]]'' (2008). Baier opted not to pursue an acting or singing career, and eventually moved to the United States, where she concentrated on bringing up a family.
+
+The songs that made up her album ''Colour Green'' were home [[Reel-to-reel audio tape recording|reel-to-reel tape recordings]] Baier had made in Germany between 1970 and 1973.<ref>{{cite news |title=Sibylle Baier, "Colour Green" |url=https://www.newspapers.com/clip/33301812/sibylle_baier/ |accessdate=27 June 2019 |work=The Boston Globe |date=17 December 2006 |location=Massachusetts, Boston |page=N 7|via = [[Newspapers.com]]}}</ref> Some 30 years later, her son Robby compiled a CD from these recordings to give to family members as presents. He also gave a copy to [[Dinosaur Jr]]'s [[J Mascis]], who in turn passed it along to the [[Orange Twin Records|Orange Twin]] label. Orange Twin released the album in February 2006.
+
+In April 2008, it was revealed through her official website that Baier was going into a recording studio and had written two new songs. The first of these, "Let Us Know", was released in September 2008 for the film ''[[Palermo Shooting]]''.
+
+==Discography==
+*''[[Colour Green]]'', recorded between November 1970 to January 1973 – ([[Orange Twin Records]] belated release in 2006)
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|http://www.sibyllebaier.com/|Sibylle Baier official website}}
+* [http://www.orangetwin.com/sibylle.html Sibylle Baier - Orange Twin Records]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Baier, Sibylle}}
+[[Category:Living people]]
+[[Category:German women singers]]
+[[Category:German folk singers]]
+[[Category:1955 births]]

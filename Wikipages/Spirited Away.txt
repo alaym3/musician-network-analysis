@@ -1,0 +1,555 @@
+{{Short description|2001 film by Hayao Miyazaki}}
+{{For|the concept in Japanese folklore which the film refers to|Spirit away}}
+{{Use dmy dates|date=February 2020}}
+{{Use Oxford spelling|date=June 2021}}
+{{Infobox film
+| name           = Spirited Away
+| image          = Spirited Away Japanese poster.png
+| alt            = Chihiro, dressed in bathhouse work clothes is standing in front of an image containing a group of pigs and the city behind her. Text below reveal the title and film credits, with the tagline to Chihiro's right.
+| caption        = Japanese theatrical release poster
+| native_name    = {{Film name| kanji = 千と千尋の神隠し
+| romaji = Sen to Chihiro no Kamikakushi}}
+| director       = [[Hayao Miyazaki]]
+| producer       = [[Toshio Suzuki (producer)|Toshio Suzuki]]
+| writer         = Hayao Miyazaki
+| starring       = {{Plainlist|
+* [[Rumi Hiiragi]]
+* [[Miyu Irino]]
+* [[Mari Natsuki]]
+* Takeshi Naito
+* [[Yasuko Sawaguchi]]
+* [[Tsunehiko Kamijō]]
+* Takehiko Ono
+* [[Bunta Sugawara]]
+}}
+| music          = [[Joe Hisaishi]]
+| cinematography = Atsushi Okui
+| editing        = [[Takeshi Seyama]]
+| studio         = [[Studio Ghibli]]
+| distributor    = [[Toho]]
+| released       = {{Film date|df=yes|2001|7|20|Japan}}
+| runtime        = 125 minutes<!--Theatrical runtime: 124:33--><ref>{{cite web | url=https://bbfc.co.uk/releases/spirited-away-2003 | title=''Spirited Away'' (PG) | work=[[British Board of Film Classification]] | date=14 August 2003 | access-date=23 January 2015 | url-status=live | archive-url=https://web.archive.org/web/20150128112058/http://bbfc.co.uk/releases/spirited-away-2003 | archive-date=28 January 2015 | df=dmy-all }}</ref>
+| country        = Japan
+| language       = Japanese
+| budget         = <!-- This is the reported PRODUCTION budget that is recorded in this citation. -->
+{{¥|1.9–2 billion|link=yes}} (US$15–19.2 million)<ref name="howe" /><ref>{{cite news |last=Herskovitz |first=Jon |title='Mononoke' creator Miyazaki toons up pic |url=https://variety.com/1999/film/news/mononoke-creator-miyazaki-toons-up-pic-1117759995/ |access-date=24 February 2020 |work=Variety |date=15 December 1999 |archive-date=24 February 2020 |archive-url=https://web.archive.org/web/20200224222818/https://variety.com/1999/film/news/mononoke-creator-miyazaki-toons-up-pic-1117759995/ |url-status=live }}</ref>
+| gross          = {{US$|395.8 million|long=no}}{{Efn|''Spirited Away''{{'}}s Worldwide Box Office:
+* Original Run including re-release until Studio Ghibil Fest 2020 {{ndash}} {{US$|395,580,000|link=yes}} ({{JPY|47,030,975,000|link=yes}})<ref name="Spirited Away Gross 2020">{{Cite web|last=Harding|first=Daryl|title=Demon Slayer: Mugen Train Overtakes Your Name to Become 2nd Highest-Grossing Anime Film of All Time Worldwide|url=https://www.crunchyroll.com/anime-news/2021/02/15/demon-slayer-mugen-train-overtakes-your-name-to-become-2nd-highest-grossing-anime-film-of-all-time-worldwide|access-date=15 February 2021|website=Crunchyroll|language=en-us|archive-date=15 February 2021|archive-url=https://web.archive.org/web/20210215113358/https://www.crunchyroll.com/anime-news/2021/02/15/demon-slayer-mugen-train-overtakes-your-name-to-become-2nd-highest-grossing-anime-film-of-all-time-worldwide|url-status=live}}</ref>
+* 2021 re-release in Spain {{ndash}} {{Currency|186,772|EUR}}<ref>{{Cite web|last=España|first=Taquilla|date=24 May 2021|title=El viaje de Chihiro|url=https://www.taquillaespana.es/peliculas/el-viaje-de-chihiro/|url-status=live|access-date=2 July 2021|website=TAQUILLA ESPAÑA|language=es-ES|archive-date=9 July 2021|archive-url=https://web.archive.org/web/20210709181323/https://www.taquillaespana.es/peliculas/el-viaje-de-chihiro/}}</ref> ({{US$|222,070|2021|link=yes}})<ref>{{Cite web|title=Spirited Away 2021 Re-release (Spain)|url=https://www.boxofficemojo.com/release/rl813662977/weekend/|url-status=live|access-date=30 June 2021|website=Box Office Mojo|archive-date=9 July 2021|archive-url=https://web.archive.org/web/20210709181345/https://www.boxofficemojo.com/release/rl813662977/weekend/}}</ref>|name=Spirited Away Worldwide Box Office Collection}}
+}}
+
+{{nihongo|'''''Spirited Away'''''|千と千尋の神隠し|Sen to Chihiro no Kamikakushi|extra='Sen and Chihiro's [[Spirit away|Spiriting Away]]'|lead=yes}} is a 2001 Japanese [[Anime|animated]] [[fantasy film]] written and directed by [[Hayao Miyazaki]], animated by [[Studio Ghibli]] for [[Tokuma Shoten]], [[Nippon Television Network]], [[Dentsu]], [[Buena Vista Home Entertainment]], [[Tohokushinsha Film]], and [[Mitsubishi Corporation|Mitsubishi]].<ref name=bcdb>"[http://www.bcdb.com/cartoon/20695-Sen_To_Chihiro_No_Kamikakushi.html Sen To Chihiro No Kamikakushi] {{Webarchive|url=https://www.webcitation.org/6FnEYzgYg?url=http://www.bcdb.com/cartoon/20695-Sen_To_Chihiro_No_Kamikakushi.html |date=11 April 2013 }}". http://www.bcdb.com, 13 May 2012</ref> The film features the voices of [[Rumi Hiiragi]], [[Miyu Irino]], [[Mari Natsuki]], Takeshi Naito, [[Yasuko Sawaguchi]], [[Tsunehiko Kamijō]], Takehiko Ono, and [[Bunta Sugawara]]. ''Spirited Away'' tells the story of Chihiro Ogino (Hiiragi), a ten-year-old girl who, while moving to a new neighborhood, enters the world of [[Kami]] (spirits of Japanese [[Shinto]] folklore).<ref name="ReferenceA">Boyd, James W. and Tetsuya Nishimura. [2004] 2016. "[https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1673&context=jrf Shinto Perspectives in Miyazaki's Anime Film 'Spirited Away' (PDF)] {{Webarchive|url=https://web.archive.org/web/20200720192931/https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1673&context=jrf |date=20 July 2020 }}." ''[[Journal of Religion & Film]]'' 8 (3):Article 4.</ref> After her parents are turned into pigs by the witch Yubaba (Natsuki), Chihiro takes a job working in Yubaba's [[Sentō|bathhouse]] to find a way to free herself and her parents and return to the human world.
+
+Miyazaki wrote the screenplay after he decided the film would be based on the ten-year-old daughter of his friend Seiji Okuda, the film's associate producer, who came to visit his house each summer.<ref>{{cite AV media|people=Sunada, Mami (Director)|script-title=ja:夢と狂気の王国|trans-title=The Kingdom of Dreams and Madness|type=Documentary|url=http://yumetokyoki.com|language=ja|date=16 November 2013|publisher=Studio Ghibli|location=Tokyo|access-date=12 July 2014|url-status=live|archive-url=https://web.archive.org/web/20140707082237/http://yumetokyoki.com/|archive-date=7 July 2014}} Interview with Toshio Suzuki</ref> At the time, Miyazaki was developing two personal projects, but they were rejected. With a budget of US$19 million, production of ''Spirited Away'' began in 2000. [[Pixar]] animator [[John Lasseter]], a fan and friend of Miyazaki, convinced [[Walt Disney Pictures]] to buy the film's North American distribution rights, and served as [[executive producer]] of its English-dubbed version.<ref>{{Cite web|url=http://mentalfloss.com/article/60237/15-fascinating-facts-about-spirited-away|title=15 Fascinating Facts About Spirited Away|date=2016-03-30|website=mentalfloss.com|language=en|access-date=2019-05-16|archive-date=22 May 2019|archive-url=https://web.archive.org/web/20190522022314/http://mentalfloss.com/article/60237/15-fascinating-facts-about-spirited-away|url-status=live}}</ref> Lasseter then hired [[Kirk Wise]] as director and [[Donald W. Ernst]] as producer, while screenwriters Cindy and Donald Hewitt wrote the English-language dialogue to match the characters' original Japanese-language lip movements.<ref name=latimes>{{cite news|first=Kenneth|last=Turan|title=Under the Spell of 'Spirited Away'|url=https://articles.latimes.com/2002/sep/20/entertainment/et-turan20|work=[[Los Angeles Times]]|date=20 September 2002|access-date=20 July 2012|url-status=live|archive-url=https://web.archive.org/web/20120619064427/http://articles.latimes.com/2002/sep/20/entertainment/et-turan20|archive-date=19 June 2012}}</ref>
+
+Originally released in Japan on <!--First and country of origin releases only per WP:FILMRELEASE. -->20 July 2001 by distributor [[Toho]], the film received universal acclaim,<ref name=":0" /> grossing {{US$|395.8 million|long=no}} at the worldwide box office.{{Efn|name=Spirited Away Worldwide Box Office Collection}}<ref>{{cite news |last1=Pineda |first1=Rafael Antonio |title=Demon Slayer: Kimetsu no Yaiba Film Is 1st Since Spirited Away to Earn 30 Billion Yen |url=https://www.animenewsnetwork.com/news/2020-12-13/demon-slayer-kimetsu-no-yaiba-film-is-1st-since-spirited-away-to-earn-30-billion-yen/.167411 |access-date=15 December 2020 |work=[[Anime News Network]] |date=13 December 2020 |archive-date=15 December 2020 |archive-url=https://web.archive.org/web/20201215060726/https://www.animenewsnetwork.com/news/2020-12-13/demon-slayer-kimetsu-no-yaiba-film-is-1st-since-spirited-away-to-earn-30-billion-yen/.167411 |url-status=live }}</ref> It is frequently regarded as one of the best films of the 21st century as well as one of the [[List of films considered the best#Animation (shorts and features)|greatest animated films ever made]].<ref name="Paste">{{cite web|date=3 November 2009|title=The 50 Best Movies of the Decade (2000–2009)|url=https://www.pastemagazine.com/blogs/lists/2009/11/50-best-movies-of-the-decade-2000-2009.html|url-status=live|archive-url=https://web.archive.org/web/20111212193238/http://www.pastemagazine.com/blogs/lists/2009/11/50-best-movies-of-the-decade-2000-2009.html|archive-date=12 December 2011|access-date=14 December 2011|work=[[Paste (magazine)|Paste]]}}</ref><ref name="Metadecade">{{cite web|date=3 January 2010|title=Film Critics Pick the Best Movies of the Decade|url=https://www.metacritic.com/feature/film-critics-pick-the-best-movies-of-the-decade|url-status=live|archive-url=https://web.archive.org/web/20170204092604/http://www.metacritic.com/feature/film-critics-pick-the-best-movies-of-the-decade|archive-date=4 February 2017|access-date=4 September 2012|website=[[Metacritic]]}}</ref><ref>{{cite web|title=Top 100 Animation Movies|url=https://www.rottentomatoes.com/top/bestofrt/top_100_animation_movies/?category=2|url-status=live|archive-url=https://web.archive.org/web/20130509065911/http://www.rottentomatoes.com/top/bestofrt/top_100_animation_movies/?category=2|archive-date=9 May 2013|access-date=6 May 2013|website=Rotten Tomatoes}}</ref> Accordingly, it became the most successful and [[List of highest-grossing films in Japan|highest-grossing film in Japanese history]] with a total of {{¥|31.68 billion|link=yes}} ($305 million).<ref name="Ghibli Update">{{cite web |last1=Harding |first1=Daryl |title=Toho Updates Spirited Away Lifetime Japanese Box Office Gross as Demon Slayer: Mugen Train Inches Closer to #1 |url=https://www.crunchyroll.com/anime-news/2020/12/15/toho-updates-spirited-away-lifetime-japanese-box-office-gross-as-demon-slayer-mugen-train-inches-closer-to-1 |website=Crunchyroll |access-date=15 December 2020 |language=en-us |archive-date=3 February 2021 |archive-url=https://web.archive.org/web/20210203134055/https://www.crunchyroll.com/anime-news/2020/12/15/toho-updates-spirited-away-lifetime-japanese-box-office-gross-as-demon-slayer-mugen-train-inches-closer-to-1 |url-status=live }}</ref> It held the record for 19 years until it was surpassed by ''[[Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train]]'' in 2020.
+
+It won the [[Academy Award for Best Animated Feature]] at the [[75th Academy Awards]],<ref>{{cite web|url=http://oscars.org/oscars/ceremonies/2003|title=The 75th Academy Awards (2003)|work=[[Academy of Motion Picture Arts and Sciences]]|url-status=live|access-date=1 December 2017|
+archive-url=https://web.archive.org/web/20171128072357/http://oscars.org/oscars/ceremonies/2003|archive-date=28 November 2017}}</ref> making it the first, and to date only [[Hand-drawn animation|hand-drawn]] and non-English-language animated film to win the award. It was the co-recipient of the [[Golden Bear]] at the [[2002 Berlin International Film Festival]] (shared with ''[[Bloody Sunday (film)|Bloody Sunday]]''), and is within the top ten on the [[British Film Institute]]'s list of "Top 50 films for children up to the age of 14".<ref>[https://web.archive.org/web/20120525190334/http://www.bfi.org.uk/education/conferences/watchthis/top50.html "Watch This: Top fifty films for children up to the age of 14".]  Archived 25 May 2012.</ref> In 2016, it was voted the [[BBC's 100 Greatest Films of the 21st Century|fourth-best film of the 21st century]] by the [[BBC]], as picked by 177 film critics from around the world, making it the highest-ranking animated film on the list.<ref>{{cite web | url=http://www.bbc.com/culture/story/20160819-the-21st-centurys-100-greatest-films | title=The 21st Century's 100 greatest films | work=BBC | date=23 August 2016 | url-status=live | archive-url=https://web.archive.org/web/20170131124228/http://www.bbc.com/culture/story/20160819-the-21st-centurys-100-greatest-films | archive-date=31 January 2017 | df=dmy-all }}</ref> In 2017, it was also named the second "Best Film...of the 21st Century So Far" by ''[[The New York Times]]''.<ref>{{Cite news|url=https://www.nytimes.com/interactive/2017/06/09/movies/the-25-best-films-of-the-21st-century.html|title=The 25 Best Films of the 21st Century So Far.|date=9 June 2017|work=The New York Times|access-date=12 June 2017|language=en-US|issn=0362-4331|url-status=live|archive-url=https://web.archive.org/web/20170708065541/https://www.nytimes.com/interactive/2017/06/09/movies/the-25-best-films-of-the-21st-century.html|archive-date=8 July 2017}}</ref>
+
+==Plot==
+
+<!-- PER WP:FILMPLOT, PLOT SUMMARIES IN FILM ARTICLES SHOULD BE BETWEEN 400 AND 700 WORDS. -->
+Ten-year-old Chihiro and her parents are traveling to their new home. Her father, a man who loves to take shortcuts, ends up in front of a tunnel leading to a dry riverbed and, beyond, what appears to be an abandoned village. He conjectures they have stumbled upon a failed theme park, and insists on exploring it despite his daughter's misgivings. The family soon finds an unattended restaurant stall with a suspicious spread of fresh food, which the parents begin to enjoy. Refusing to partake, Chihiro explores on her own and finds an exquisite [[Sentō|bathhouse]] and meets a boy named Haku, who warns her to return across the riverbed before sunset. However, Chihiro discovers too late that her parents have been transformed into pigs by the cursed food, and she is unable to cross the now-flooded river.
+
+Haku finds Chihiro again and advises her to ask for a job from the bathhouse's boiler-man, Kamaji. While initially dismissive of Chihiro, Kamaji asks Lin, a bathhouse worker, to send Chihiro to Yubaba, the witch who runs the bathhouse. Yubaba tries to frighten Chihiro away, but Chihiro persists, and Yubaba hires her. Yubaba takes away the second [[kanji]] of her name, {{nihongo|Chihiro|千尋}}, renaming her {{nihongo|Sen|千}}. Haku later warns her that if she ever forgets what her birth-name was, like he has forgotten his, she will remain trapped in the spirit world.
+
+Chihiro/Sen, is treated poorly by the other bathhouse workers; only Kamaji and Lin show sympathy for her. While working, she invites a silent creature named No-Face inside, believing him to be a customer. A "stink spirit" arrives as Sen's first customer, and she discovers he is the spirit of a polluted river. In gratitude for cleaning him, he gives Sen a magic [[Vomiting#Emetics|emetic]] [[dumpling]]. Meanwhile, No-Face, imitating the gold left behind by the stink spirit, tempts a worker with gold and then swallows him. He demands food and begins [[gratuity|tipping]] excessively. He swallows two more workers when they interfere with his conversation with Sen.
+
+Sen sees paper [[Shikigami]] attacking a [[Japanese dragon]] and recognizes the dragon as Haku. When a grievously injured Haku crashes into Yubaba's penthouse, Sen follows him upstairs. A shikigami that stowed away on her back shapeshifts into Zeniba, Yubaba's twin sister. She takes the opportunity to transform Yubaba's son, Boh, into a mouse and mutates Yubaba's [[harpy]] into a tiny bird. As a decoy she turns Yubaba's three ''[[tsurube-otoshi]]'' into Boh. Zeniba tells Sen that Haku has stolen a magic golden [[Seal (East Asia)|seal]] from her, and warns Sen that it carries a lethal curse. Haku destroys the shikigami, eliminating Zeniba's manifestation. He falls into the boiler room with Sen, Boh, and the harpy, where Sen feeds him part of the dumpling, causing him to vomit both the seal and a black slug, which Sen crushes with her foot.
+
+With Haku unconscious, Sen resolves to return the seal and apologize to Zeniba. Sen confronts No-Face, who is now massive, and feeds him the rest of the dumpling. No-Face follows Sen out of the bathhouse, regurgitating everything and everyone he has eaten. Sen, No-Face, Boh, and the harpy travel by train to meet Zeniba. Yubaba orders that Sen's parents be slaughtered, but Haku reveals that Boh is missing and offers to retrieve him ''if'' Yubaba releases Sen and her parents.
+
+Zeniba reveals that Sen's love for Haku broke her curse and that Yubaba used the black slug to take control over Haku. Haku appears at Zeniba's home in his dragon form and flies Sen, Boh, and the harpy to the bathhouse. No-Face decides to remain with Zeniba. In mid-flight, Sen recalls an incident from her early childhood in which she fell in the Kohaku River and nearly drowned before she was safely washed ashore. She correctly deduces that Haku is the spirit of the river, breaking the control that Yubaba has over him.
+
+When they arrive at the bathhouse, Yubaba forces Sen to identify her parents from among a group of pigs in order to break their curse. After Sen answers correctly that none of the pigs are her parents, she is free to go. Haku takes her to the now-dry riverbed and vows to meet her again. Chihiro returns through the tunnel with her parents, who do not remember anything after eating at the restaurant stall. Chihiro looks back at the tunnel, unsure if her adventure really happened. When they reach their car, they find it covered in dust and leaves, but drive off toward their new home.
+
+==Cast==
+{| class="wikitable plainrowheaders"
+!scope="col" colspan="2" | Character name
+!scope="col" colspan="2" | Voice actor
+|-
+!scope="col"|English
+!scope="col"|Japanese (Nihongo)
+!scope="col"|Japanese
+!scope="col"|English
+|-
+!scope="row"| Chihiro Ogino / Sen
+|''Ogino Chihiro'' ({{Lang-ja|荻野 千尋|label=none}}) <big>/</big> ''Sen'' ({{Lang-ja|千|label=none}}){{efn|{{abbr|Lit.|Literal translation}} "one thousand".}}
+|[[Rumi Hiiragi]]||[[Daveigh Chase]]
+|-
+!scope="row"| Haku / Spirit of the Kohaku River
+|''Haku'' ({{Lang-ja|ハク|label=none}}) <big>/</big> ''Nigihayami Kohakunushi'' ({{Lang-ja|饒速水小白主|label=none}}){{efn|{{abbr|Lit.|Literal translation}} "flourishing swift-flowing amber [river] god".}}||[[Miyu Irino]]||[[Jason Marsden]]
+|-
+!scope="row"| Yubaba
+|''Yubāba'' ({{Lang-ja|湯婆婆|label=none}}){{efn|{{abbr|Lit.|Literal translation}} "bathhouse granny".}}|| rowspan="2" |[[Mari Natsuki]]|| rowspan="2" |[[Suzanne Pleshette]]
+|-
+!scope="row"| Zeniba
+|''Zenība'' ({{Lang-ja|銭婆|label=none}}){{efn|{{abbr|Lit.|Literal translation}} "money granny".}}
+|-
+!scope="row"| Kamaji
+|''Kamajī'' ({{Lang-ja|釜爺|label=none}}){{efn|{{abbr|Lit.|Literal translation}} "boiler grandad".}}||[[Bunta Sugawara]]||[[David Ogden Stiers]]
+|-
+!scope="row"| Lin
+|''Rin'' ({{Lang-ja|リン|label=none}})||[[Yoomi Tamai]]||[[Susan Egan]]
+|-
+!scope="row"| Chichiyaku
+|''Chichiyaku'' ({{Lang-ja|父役|label=none}})
+|[[Tsunehiko Kamijō]]||[[Paul Eiding]]
+|-
+!scope="row"| Aniyaku (assistant Manager)
+|Aniyaku ({{Lang-ja|兄役|label=none}})
+|[[:ja:小野武彦|Takehiko Ono]]||[[John Ratzenberger]]
+|-
+!scope="row"| No-Face{{efn|name=Faceless|{{abbr|Lit.|Literal translation}} "faceless".}}
+|''Kaonashi'' ({{Lang-ja|顔無し|label=none}}){{efn|name=Faceless}}
+|[[:ja:中村彰男|Akio Nakamura]]|| rowspan="2" |[[Bob Bergen]]
+|-
+!scope="row"| Aogaeru
+|''Aogaeru'' ({{Lang-ja|青蛙|label=none}}){{efn|{{abbr|Lit.|Literal translation}} "blue frog".}}
+|[[:ja:我修院達也|Tatsuya Gashūin]]t
+|-
+!scope="row"| Bandai-gaeru (foreman)
+|''Bandai-gaeru'' ({{Lang-ja|番台蛙|label=none}}){{efn|{{abbr|Lit.|Literal translation}} "reception desk frog".}}
+|[[Yo Oizumi|Yō Ōizumi]]||[[Rodger Bumpass]]
+|-
+!scope="row"| Boh (baby)
+|''Bō'' ({{Lang-ja|坊|label=none}})
+|[[Ryunosuke Kamiki|Ryūnosuke Kamiki]]||[[Tara Strong]]
+|-
+!scope="row"| Akio Ogino (Chihiro's father)
+|''Ogino Akio'' ({{Lang-ja|荻野 明夫|label=none}})
+|[[:ja:内藤剛志|Takashi Naitō]]||[[Michael Chiklis]]
+|-
+!scope="row"| Yūko Ogino (Chihiro's mother)
+|''Ogino Yūko'' ({{Lang-ja|荻野 悠子|label=none}})
+|[[Yasuko Sawaguchi]]||[[Lauren Holly]]
+|-
+!scope="row"| River Spirit
+|[[Kawa-no-kami|''Kawa no Kami'']] ({{Lang-ja|河の神|label=none}})
+|[[:ja:はやし・こば|Koba Hayashi]]||[[Jim Ward (voice actor)|Jim Ward]]
+|-
+!scope="row"| Radish Spirit
+|''[[Oshira-sama]]'' ({{Lang-ja|お白様|label=none}}){{efn|{{abbr|Lit.|Literal translation}} "Great White Lord".}}
+|[[Ken Yasuda (actor)|Ken Yasuda]]||[[Jack Angel]]
+|}
+
+==Production==
+===Development and inspiration===
+{{Quote box|width=30em|align=left|quote="I created a heroine who is an ordinary girl, someone with whom the audience can sympathize [...]. [I]t's not a story in which the characters grow up, but a story in which they draw on something already inside them, brought out by the particular circumstances [...]. I want my young friends to live like that, and I think they, too, have such a wish."|source={{mdash}}Hayao Miyazaki<ref name="nausicaa" />}}
+Every summer, [[Hayao Miyazaki]] spent his vacation at a mountain cabin with his family and five girls who were friends of the family. The idea for ''Spirited Away'' came about when he wanted to make a film for these friends. Miyazaki had previously directed films for small children and teenagers such as ''[[My Neighbor Totoro]]'' and ''[[Kiki's Delivery Service]]'', but he had not created a film for ten-year-old girls. For inspiration, he read [[shōjo manga]] magazines like ''[[Nakayoshi]]'' and ''[[Ribon]]'' the girls had left at the cabin, but felt they only offered subjects on "crushes" and romance. When looking at his young friends, Miyazaki felt this was not what they "held dear in their hearts" and decided to produce the film about a young heroine whom they could look up to instead.<ref name="nausicaa">[http://www.nausicaa.net/miyazaki/interviews/sen.html Miyazaki on Spirited Away // Interviews //] {{webarchive|url=https://web.archive.org/web/20170425061730/http://nausicaa.net/miyazaki/interviews/sen.html |date=25 April 2017 }}. Nausicaa.net (11 July 2001).</ref>
+
+[[File:Hayao Miyazaki.jpg|thumb|upright|right|alt=Close up photograph of Hayao Miyazaki, smiling and wearing a suit and tie in front of a gold-colored mosaic.|Hayao Miyazaki used [[shōjo manga]] magazines for inspiration to direct ''Spirited Away''.]]
+Miyazaki had wanted to produce a new film for years, but his two previous proposals{{mdash}}one based on the Japanese book {{nihongo|''Kiri no Mukō no Fushigi na Machi''|霧のむこうのふしぎな町}} by Sachiko Kashiwaba, and another about a teenage heroine{{mdash}}were rejected. His third proposal, which ended up becoming ''Sen and Chihiro's Spirited Away'', was more successful. The three stories revolved around a bathhouse that was inspired by one in Miyazaki's hometown. He thought the bathhouse was a mysterious place, and there was a small door next to one of the bathtubs in the bath house. Miyazaki was always curious to what was behind it, and he made up several stories about it, one of which inspired the bathhouse setting of ''Spirited Away''.<ref name="nausicaa"/>
+
+[[File:Ogata Gekko - Ryu sho ten edit.jpg|thumb|A [[Japanese dragon]] ascends toward the heavens with [[Mount Fuji]] in the background in this print from [[Ogata Gekkō]]. ''Spirited Away'' is heavily influenced by Japanese Shinto-Buddhist folklore.<ref name="ReferenceA"/>]]
+Production of ''Spirited Away'' commenced in 2000 on a budget of {{¥|1.9 billion|link=yes}} (US$15 million).<ref name="howe" /> [[Walt Disney Pictures]] financed ten percent of the film's production cost for the [[right of first refusal]] for American distribution.<ref>{{Cite web|last=Hill|first=Jim|date=14 April 2020|title=The Making of Hayao Miyazaki's "Spirited Away"&nbsp;– Part 1|url=http://jimhillmedia.com/alumni1/b/michael_howe/archive/2003/04/15/1391.aspx|access-date=11 October 2020|website=jimhillmedia.com|archive-date=23 March 2017|archive-url=https://www.webcitation.org/6pBGRSPfd?url=http://jimhillmedia.com/alumni1/b/michael_howe/archive/2003/04/15/1391.aspx|url-status=live}}</ref><ref name="fps">{{cite web|url=http://www.fpsmagazine.com/comment/spirited.php|title=Spirited Away by Miyazaki|work=FPS Magazine|access-date=11 August 2013|url-status=live|archive-url=https://web.archive.org/web/20140519193618/http://www.fpsmagazine.com/comment/spirited.php|archive-date=19 May 2014}}</ref> As with ''[[Princess Mononoke]]'', Miyazaki and the [[Studio Ghibli]] staff experimented with computer animation. With the use of more computers and programs such as [[Softimage 3D]], the staff learned the software, but used the technology carefully so that it enhanced the story, instead of "stealing the show". Each character was mostly hand-drawn, with Miyazaki working alongside his animators to see they were getting it just right.<ref name="howe">[http://jimhillmedia.com/blogs/michael_howe/archive/2003/04/15/1391.aspx The Making of Hayao Miyazaki's "Spirited Away"&nbsp;– Part 1] {{webarchive|url=https://web.archive.org/web/20090312093531/http://jimhillmedia.com/blogs/michael_howe/archive/2003/04/15/1391.aspx |date=12 March 2009 }}. Jimhillmedia.com.</ref> The biggest difficulty in making the film was to reduce its length. When production began, Miyazaki realized it would be more than three hours long if he made it according to his plot. He had to delete many scenes from the story, and tried to reduce the "eye candy" in the film because he wanted it to be simple. Miyazaki did not want to make the hero a "pretty girl". At the beginning, he was frustrated at how she looked "dull" and thought, "She isn't cute. Isn't there something we can do?" As the film neared the end, however, he was relieved to feel "she will be a charming woman."<ref name="nausicaa"/>
+[[File:Dogo onsen honkan long exposure.jpg|thumb|210px|alt=A medium shot photograph of a hot spring in the city of Matsuyama on the island of Shikoku, Japan.|[[Dōgo Onsen]]]]
+[[File:Edo-Tokyo Open Air Architectural Museum-insideabuilding.jpg|thumb|210px|alt=A wide photograph of a hallway from the Takahashi Korekiyo residence in the Edo-Tokyo Open Air Architectural Museum, which was one of Miyazaki's inspirations in creating the spirit world's buildings.|The [[Takahashi Korekiyo]] residence in the [[Edo-Tokyo Open Air Architectural Museum]] was one of Miyazaki's inspirations in creating the spirit world's buildings.]]Miyazaki based some of the buildings in the spirit world on the buildings in the real-life [[Edo-Tokyo Open Air Architectural Museum]] in [[Koganei, Tokyo]], Japan. He often visited the museum for inspiration while working on the film. Miyazaki had always been interested in the Pseudo-Western style buildings from the [[Meiji period]] that were available there. The museum made Miyazaki feel nostalgic, "especially when I stand here alone in the evening, near closing time, and the sun is setting&nbsp;– tears well up in my eyes."<ref name="nausicaa"/> Another major inspiration was the {{nihongo|Notoya Ryokan|能登谷旅館}}, a [[Ryokan (Japanese inn)|traditional Japanese inn]] located in [[Yamagata Prefecture]], famous for its exquisite architecture and ornamental features.<ref>{{cite web |url=http://www.tenkai-japan.com/2010/05/29/notoya-in-ginzan-onsen-stop-businees-for-renovation/ |title=Notoya in Ginzan Onsen stop business for renovation. &#124; Tenkai-japan:Cool Japan Guide-Travel, Shopping, Fashion, J-pop |publisher=Tenkai-japan |date=1 July 2010 |access-date=6 May 2013 |url-status=live |archive-url=https://web.archive.org/web/20121028211832/http://www.tenkai-japan.com/2010/05/29/notoya-in-ginzan-onsen-stop-businees-for-renovation/ |archive-date=28 October 2012  }}</ref> While some guidebooks and articles claim that the old gold town of [[Jiufen]] in Taiwan served as an inspirational model for the film, Miyazaki has denied this.<ref>{{cite web|title=Focus Newspaper: Hayao Miyazaki, 72-year-old Mischievous Youngster (from 3:00 mark)|url=https://www.youtube.com/watch?v=XJ9BnbkRzOg|publisher=TVBS TV|access-date=5 July 2015|url-status=live|archive-url=https://web.archive.org/web/20150710213935/https://www.youtube.com/watch?v=XJ9BnbkRzOg|archive-date=10 July 2015}}</ref> The [[Dōgo Onsen]] is also often said to be a key inspiration for the ''Spirited Away'' onsen/bathhouse.<ref>[http://www.japan-guide.com/e/e5502.html Dogo Onsen] {{webarchive|url=https://web.archive.org/web/20090613043628/http://www.japan-guide.com/e/e5502.html |date=13 June 2009 }} japan-guide.com</ref>
+
+===Music===
+
+The [[film score]] of ''Spirited Away'' was composed and conducted by Miyazaki's regular collaborator [[Joe Hisaishi]], and performed by the [[New Japan Philharmonic]].<ref name="Record">{{cite AV media|url=https://www.allmusic.com/album/miyazakis-spirited-away-film-score-mw0000223876|title=Miyazaki's Spirited Away|publisher=Milan Records|date=10 September 2002|medium=CD|url-status=live|archive-url=https://web.archive.org/web/20150219131028/http://www.allmusic.com/album/miyazakis-spirited-away-film-score-mw0000223876|archive-date=19 February 2015}}</ref> The soundtrack received awards at the 56th Mainichi Film Competition Award for Best Music, the [[Tokyo International Anime Fair]] 2001 Best Music Award in the Theater Movie category, and the 17th Japan Gold Disk Award for Animation Album of the Year.<ref>{{cite web|url=http://mainichi.jp/enta/cinema/mfa/etc/history/56.html|title=第56回 日本映画大賞 (56th Japan Movie Awards)|work=Mainichi Shimbun|access-date=1 September 2013|url-status=live|archive-url=https://web.archive.org/web/20131215183416/http://mainichi.jp/enta/cinema/mfa/etc/history/56.html|archive-date=15 December 2013}}</ref><ref>{{cite web|url=http://www.animenation.net/blog/2002/02/19/results-from-tokyo-anime-fair-awards/ |title=Results From Tokyo Anime Fair Awards |publisher=Anime Nation |date=19 February 2002 |access-date=1 September 2013 |url-status=dead |archive-url=https://web.archive.org/web/20141006114030/http://www.animenation.net/blog/2002/02/19/results-from-tokyo-anime-fair-awards/ |archive-date=6 October 2014 }}</ref><ref>{{cite web|url=http://www.riaj.or.jp/e/data/gdisc/2002.html|title=The 17th Japan Gold Disc Award 2002|publisher=Recording Industry Association of Japan|access-date=1 September 2013|url-status=live|archive-url=https://web.archive.org/web/20141006093734/http://www.riaj.or.jp/e/data/gdisc/2002.html|archive-date=6 October 2014}}</ref> Later, Hisaishi added lyrics to "One Summer's Day" and named the new version of the song {{nihongo|"The Name of Life"|いのちの名前|{{no italics|"}}Inochi no Namae{{no italics|"}}}} which was performed by [[Ayaka Hirahara]].<ref>{{cite web|url=http://www.ayaka-hirahara.com/discography/banka_s.html |title=晩夏(ひとりの季節)/いのちの名前 (The name of life/late summer) |publisher=Ayaka Hirahara |access-date=1 September 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131215184400/http://www.ayaka-hirahara.com/discography/banka_s.html |archive-date=15 December 2013 }}</ref>
+
+The closing song, {{nihongo|"Always With Me"|いつも何度でも|{{no italics|"}}Itsumo Nando Demo{{no italics|"}}|lit. 'Always, No Matter How Many Times'}} was written and performed by [[Youmi Kimura]], a composer and [[lyre]]-player from [[Osaka]].<ref name=yumi /> The lyrics were written by Kimura's friend Wakako Kaku. The song was intended to be used for {{nihongo|''Rin the Chimney Painter''|煙突描きのリン|Entotsu-kaki no Rin}}, a different Miyazaki film which was never released.<ref name="yumi">{{cite web|url=http://www.nausicaa.net/miyazaki/sen/song.html|title=Yumi Kimura|publisher=Nausicaa.net|access-date=1 September 2013|url-status=live|archive-url=https://web.archive.org/web/20120420174331/http://www.nausicaa.net/miyazaki/sen/song.html|archive-date=20 April 2012}}</ref> In the special features of the Japanese DVD, Hayao Miyazaki explains how the song in fact inspired him to create ''Spirited Away''.<ref name=yumi /> The song itself would be recognized as Gold at the [[43rd Japan Record Awards]].<ref>{{cite web|title=第43回日本レコード大賞 (43rd Japan Record Award)|url=http://www.jacompa.or.jp/rekishi/d2001.htm|publisher=[[Japan Composer's Association]]|access-date=2 September 2013|archive-url=https://web.archive.org/web/20031009021346/http://www.jacompa.or.jp/rekishi/d2001.htm|archive-date=9 October 2003 }}</ref>
+
+Besides the original soundtrack, there is also an [[Image song|image album]], titled {{nihongo|''Spirited Away Image Album''|千と千尋の神隠し　イメージアルバム|Sen to Chihiro no Kamikakushi Imēji Arubamu}}, that contains 10 tracks.<ref>{{cite web|url=http://www.tkma.co.jp/compi_detail/id=3539|title=久石譲 千と千尋の神隠し イメージアルバム (Joe Hisaishi Spirited Away Image Album)|publisher=Tokuma Japan Communications|access-date=1 September 2013|url-status=dead|archive-url=https://web.archive.org/web/20131215183643/http://www.tkma.co.jp/compi_detail/id=3539|archive-date=15 December 2013}}</ref>
+
+===English adaptation===
+[[John Lasseter]], [[Pixar]] animator and a fan and friend of Miyazaki, would often sit with his staff and watch Miyazaki's work when encountering story problems. After seeing ''Spirited Away'' Lasseter was ecstatic.<ref name="howe3" /> Upon hearing his reaction to the film, Disney CEO [[Michael Eisner]] asked Lasseter if he would be interested in introducing ''Spirited Away'' to an American audience. Lasseter obliged by agreeing to serve as the executive producer for the English adaptation. Following this, several others began to join the project: ''[[Beauty and the Beast (1991 film)|Beauty and the Beast]]'' co-director [[Kirk Wise]] and ''[[Aladdin (1992 Disney film)|Aladdin]]'' co-producer [[Donald W. Ernst]] joined Lasseter as director and producer of ''Spirited Away'', respectively.<ref name="howe3">[http://jimhillmedia.com/blogs/michael_howe/archive/2003/04/16/1393.aspx The Making of Hayao Miyazaki's "Spirited Away"&nbsp;– Part 3] {{webarchive|url=https://web.archive.org/web/20090317040600/http://jimhillmedia.com/blogs/michael_howe/archive/2003/04/16/1393.aspx |date=17 March 2009 }}. Jimhillmedia.com.</ref> Screenwriters Cindy Davis Hewitt and Donald H. Hewitt penned the English-language dialogue, which they wrote in order to match the characters' original Japanese-language lip movements.<ref name=latimes/>
+
+The cast of the film consists of [[Daveigh Chase]], [[Jason Marsden]], [[Suzanne Pleshette]] (in her final film role before her death in January 2008), [[Michael Chiklis]], [[Lauren Holly]], [[Susan Egan]], [[David Ogden Stiers]] and [[John Ratzenberger]] (a Pixar regular). Advertising was limited, with ''Spirited Away'' being mentioned in a small scrolling section of the film section of ''[[Disney.com]]''; Disney had sidelined their official website for ''Spirited Away''<ref name="howe3" /> and given the film a comparatively small promotional budget.<ref name=fps /> Marc Hairston argues that this was a justified response to Studio Ghibli's retention of the merchandising rights to the film and characters, which limited Disney's ability to properly market the film.<ref name=fps />
+
+==Themes==
+
+=== Supernaturalism ===
+The major [[Theme (arts)|themes]] of ''Spirited Away'', heavily influenced by Japanese [[Shinto]]-[[Buddhism in Japan|Buddhist]] folklore, centre on the protagonist Chihiro and her [[Liminality|liminal]] journey through the realm of spirits. The central location of the film is a Japanese bathhouse where a great variety of Japanese folklore creatures, including [[kami]], come to bathe. Miyazaki cites the solstice rituals when villagers call forth their local kami and invite them into their baths.<ref name="ReferenceA" /> Chihiro also encounters kami of animals and plants. Miyazaki says of this:<blockquote>In my grandparents' time, it was believed that kami existed everywhere&nbsp;– in trees, rivers, insects, wells, anything. My generation does not believe this, but I like the idea that we should all treasure everything because spirits might exist there, and we should treasure everything because there is a kind of life to everything.<ref name="ReferenceA" /></blockquote>Chihiro's [[archetype|archetypal]] entrance into another world demarcates her status as one somewhere between child and adult. Chihiro also stands outside societal boundaries in the supernatural setting. The use of the word ''[[kamikakushi]]'' (literally 'hidden by gods') within the Japanese title, and its associated folklore, reinforces this liminal passage: "Kamikakushi is a verdict of 'social death' in this world, and coming back to this world from Kamikakushi meant 'social resurrection.'"<ref name="reider">Reider, Noriko T. 11 February 2009. "Spirited Away: Film of the Fantastic and Evolving Japanese Folk Symbols." ''[[Film Criticism (journal)|Film Criticism]]'' 29(3):4–27.</ref>
+
+Additional themes are expressed through No-Face, who reflects the characters who surround him, learning by example and taking the traits of whomever he consumes. This nature results in No-Face's monstrous rampage through the bathhouse. After Chihiro saves No-Face with the emetic dumpling, he becomes timid once more. At the end of the film, Zeniba decides to take care of No-Face so he can develop without the negative influence of the bathhouse.<ref>{{cite web|author=Gomes, Paul|title=Lesson Plan&nbsp;– Spirited Away|url=http://web41.its.hawaii.edu/manoa.hawaii.edu/eastasia/wp/wp-content/uploads/2004/10/spiritedaway.pdf|url-status=dead|archive-url=https://web.archive.org/web/20131105170315/http://web41.its.hawaii.edu/manoa.hawaii.edu/eastasia/wp/wp-content/uploads/2004/10/spiritedaway.pdf|archive-date=5 November 2013|access-date=12 August 2013|publisher=UHM}}</ref>
+
+==== Fantasy ====
+The film has been compared to [[Lewis Carroll]]'s ''[[Alice's Adventures in Wonderland]]'' and ''[[Through the Looking-Glass|Through the Looking Glass]]'', as the stories have some elements in common such as being set in a [[fantasy world]], the plots including a disturbance in logic and stability, and there being motifs such as food having metamorphic qualities; though developments and themes are not shared.<ref>{{cite web|author=Sunny Bay|date=22 June 2016|title=Beyond Wonderland: 'Spirited Away' Explores The Significance of Dreams in the Real World|url=http://moviepilot.com/posts/3975727|url-status=dead|archive-url=https://web.archive.org/web/20160814000655/http://moviepilot.com/posts/3975727|archive-date=14 August 2016|work=moviepilot.com}}</ref><ref name="Spark">{{cite web|date=2004|title=Influences on the Film {{!}} Spirited Away|url=http://www.sparknotes.com/film/spiritedaway/section5.rhtml|url-status=live|archive-url=https://web.archive.org/web/20160814185733/http://www.sparknotes.com/film/spiritedaway/section5.rhtml|archive-date=14 August 2016|work=SparkNotes}}</ref><ref name="NYT review" /> Among other stories compared to ''Spirited Away'', ''[[The Wonderful Wizard of Oz]]'' is seen to be more closely linked thematically.<ref name="Spark" />
+
+Yubaba has many similarities to [[the Coachman]] from the 1940 film ''[[Pinocchio (1940 film)|Pinocchio]]'', in the sense that she mutates humans into pigs in a similar way that the boys of [[Pleasure Island (Pinocchio)|Pleasure Island]] were mutated into donkeys. Upon gaining employment at the bathhouse, Yubaba's seizure of Chihiro's [[true name]] symbolically kills the child,<ref name="satoshi3">Satoshi, Ando. 11 February 2009. "Regaining Continuity with the Past: Spirited Away and Alice's Adventures in Wonderland." ''[[Bookbird]]'' 46(1):23–29. {{Doi|10.1353/bkb.0.0016}}.</ref> who must then assume adulthood. She then undergoes a [[rite of passage]] according to the [[monomyth]] format; to recover continuity with her past, Chihiro must create a new identity.<ref name="satoshi3" />
+
+=== Traditional Japanese culture ===
+''Spirited Away'' contains critical commentary on modern Japanese society concerning generational conflicts and environmental issues.<ref name="napier" /> Chihiro has been seen as a representation of the ''[[shōjo]]'', whose roles and ideology had changed dramatically since post-war Japan.<ref name="napier" /> Just as Chihiro seeks her past identity, Japan, in its anxiety over the economic downturn occurring during the release of the film in 2001, sought to reconnect to past values.<ref name="satoshi3" /> In an interview, Miyazaki has commented on this nostalgic element for an old Japan.<ref name="midnight-eye">{{cite web|last=Mes|first=Tom|date=7 January 2002|title=Hayao Miyazaki Interview|url=http://www.midnighteye.com/interviews/hayao_miyazaki.shtml|url-status=live|archive-url=https://web.archive.org/web/20090802193550/http://www.midnighteye.com/interviews/hayao_miyazaki.shtml|archive-date=2 August 2009|access-date=1 August 2009|work=Midnight Eye}}</ref>
+
+=== Western consumerism ===
+Accordingly, the film can be partly understood as an exploration of the effect of greediness and Western [[consumerism]] on traditional Japanese culture.<ref name=":1">{{cite news|last=Gold|first=Corey|date=14 July 2016|title=Studio Ghibli letter sheds new light on Spirited Away mysteries|publisher=SoraNews24|url=http://en.rocketnews24.com/2016/07/14/studio-ghibli-letter-sheds-new-light-on-spirited-away-mysteries/|url-status=live|access-date=24 April 2017|archive-url=https://web.archive.org/web/20170307000504/http://en.rocketnews24.com/2016/07/14/studio-ghibli-letter-sheds-new-light-on-spirited-away-mysteries/|archive-date=7 March 2017|df=dmy-all}}</ref> For instance, Yubaba is stylistically unique within the bathhouse, wearing a Western dress and living among European décor and furnishings, in contrast with the [[Minimalism|minimalist]] Japanese style of her employees' quarters, representing the Western [[capitalism|capitalist]] influence over Japan in its [[Meiji (era)|Meiji period]] and beyond. Along with its function within the ostensible [[coming of age]] theme, Yubaba's act of taking Chihiro's name and replacing it with Sen (an alternate reading of ''chi'', the first character in Chihiro's name, {{lit|one thousand}}), can be thought of as symbolic of [[capitalism]]'s single-minded concern with value.<ref name="napier">[[Susan J. Napier|Napier, Susan J.]] 11 February 2009. "Matter Out of Place: Carnival, Containment and Cultural Recovery in Miyazaki's Spirited Away." ''[[Journal of Japanese Studies]]'' 32(2):287–310. {{Doi|10.1353/jjs.2006.0057}}.</ref>
+
+The Meiji design of the abandoned theme park is the setting for Chihiro's parents' metamorphosis&nbsp;– the family arrives in an imported [[Audi]] car and the father wears a European-styled [[polo shirt]], reassuring Chihiro that he has "credit cards and cash," before their morphing into literal consumerist pigs.<ref>{{cite web|url=http://www.quia.com/files/quia/users/bakersensei/ext_japanese1.pdf|title=HSC Extension course|publisher=New South Wales Department of Education and Training|access-date=7 July 2016|url-status=live|archive-url=https://web.archive.org/web/20170130074502/https://www.quia.com/files/quia/users/bakersensei/ext_japanese1.pdf|archive-date=30 January 2017}} {{unreliable source?|date=June 2016}}</ref>{{failed verification|date=June 2021}} Miyazaki has stated:<blockquote>Chihiro's parents turning into pigs symbolizes how some humans become greedy. At the very moment Chihiro says there is something odd about this town, her parents turn into pigs. There were people that "turned into pigs" during Japan's [[bubble economy]] ([[Consumerism#Consumerism as cultural ideology|consumer society]]) of the 1980s, and these people still haven't realized they’ve become pigs. Once someone becomes a pig, they don’t return to being human but instead gradually start to have the "body and soul of a pig". These people are the ones saying, "We are in a recession and don’t have enough to eat." This doesn't just apply to the fantasy world. Perhaps this isn't a coincidence and the food is actually (an analogy for) "a trap to catch lost humans."<ref name=":1" /></blockquote>
+However, the bathhouse of the spirits cannot be seen as a place free of ambiguity and darkness.<ref name="thrupkaew">Thrupkaew, Noy. "Animation Sensation: Why Japan's Magical Spirited Away Plays Well Anywhere." [[American Prospect]] 13.19: 32–33. Academic OneFile. Gale. 11 February 2009.</ref> Many of the employees are rude to Chihiro because she is human, and corruption is ever-present;<ref name="napier" /> it is a place of excess and greed, as depicted in the initial appearance of No-Face.<ref name="harris">Harris, Timothy. "Seized by the Gods". ''[[Quadrant (magazine)|Quadrant]]'' 47.9: 64–67. Academic OneFile. Gale. 11 February 2009.</ref> In stark contrast to the simplicity of Chihiro's journey and transformation is the constantly chaotic carnival in the background.<ref name="napier" />
+
+=== Environmentalism ===
+There are two major instances of allusions to environmental issues within the movie. The first is seen when Chihiro is dealing with the "stink spirit". The stink spirit was actually a river spirit, but it was so corrupted with filth that one couldn't tell what it was at first glance. It only became clean again when Chihiro pulled out a huge amount of trash, including car tires, garbage, and a bicycle. This alludes to human pollution of the environment, and how people can carelessly toss away things without thinking of the consequences and of where the trash will go.
+
+The second allusion is seen in Haku himself. Haku does not remember his name and lost his past, which is why he is stuck at the bathhouse. Eventually, Chihiro remembers that he used to be the spirit of the Kohaku River, which was destroyed and replaced with apartments. Because of humans' need for development, they destroyed a part of nature, causing Haku to lose his home and identity. This can be compared to deforestation and desertification; humans tear down nature, cause imbalance in the ecosystem, and demolish animals' homes to satisfy their want for more space (housing, malls, stores, etc.) but do not think about how it can affect other living things.<ref>{{cite web|last1=Saporito|first1=Jeff|title=What does "Spirited Away" say about Environmentalism?|url=http://screenprism.com/insights/article/what-does-spirited-away-say-about-environmentalism|website=ScreenPrism|access-date=1 March 2017|url-status=live|archive-url=https://web.archive.org/web/20170303201035/http://screenprism.com/insights/article/what-does-spirited-away-say-about-environmentalism|archive-date=3 March 2017}}</ref>
+
+==Release==
+===Box office and theatrical release===
+''Spirited Away'' was released theatrically in Japan on 20 July 2001 by distributor [[Toho]]. It grossed a record ¥1.6 billion ($13.1 million) in its first three days, beating the previous record set by ''[[Princess Mononoke]]''.<ref>{{cite magazine |last=Groves |first=Don |title=Dinos + Ogre = Monster o'seas B.O.|magazine=[[Variety (magazine)|Variety]]|page=12|date=30 July 2001}}</ref> It was [[List of 2001 box office number-one films in Japan|number one at the Japanese box office]] for its first eleven weeks and spent 16 weeks there in total.<ref>{{cite magazine |last=Groves |first=Don |title='Raider' rules Japan; 'Rouge' rosy in France|magazine=[[Variety (magazine)|Variety]]|page=15|date=15 October 2001}}</ref> After 22 weeks of release and after grossing $224 million in Japan, it started its international release, opening in Hong Kong on 13 December 2001.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=24 December 2001|title='Rings' tolls in bright B.O. day o'seas|last=Boland|first=Michaela|page=9}}</ref> It was the first film that had grossed more than $200 million at the worldwide box office excluding the United States.<ref>{{cite news|first=G. Allen|last=Johnson|title=Asian films are grossing millions. Here, they're either remade, held hostage or released with little fanfare|date=3 February 2005|work=San Francisco Chronicle|url=http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/02/03/DDGHFB40EG1.DTL|access-date=11 August 2013|url-status=live|archive-url=https://web.archive.org/web/20120407091913/http://www.sfgate.com/cgi-bin/article.cgi?f=%2Fc%2Fa%2F2005%2F02%2F03%2FDDGHFB40EG1.DTL|archive-date=7 April 2012}}</ref><ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=22 October 2001|title=Romance, laffs boos o'seas B.O.|last=Groves|first=Don|page=12}}</ref> It went on to gross ¥30.4 billion to become the [[List of highest-grossing films in Japan|highest-grossing film in Japanese history]], according to the Motion Picture Producers Association of Japan.<ref name=WSJ>{{cite news |first=Yoko |last=Sudo |title='Frozen' Ranks as Third-Biggest Hit in Japan |date=4 June 2014 |work=[[The Wall Street Journal]] |url=https://blogs.wsj.com/japanrealtime/2014/06/04/frozen-ranks-as-third-biggest-hit-in-japan/ |access-date=27 June 2014 |quote=Walt Disney's ''Frozen'' has surpassed ¥21.2 billion (about $212 million) in box office sales as of this week and now ranks as the third-highest-grossing movie ever in Japan, according to the company&nbsp;... Having topped ''Harry Potter and the Sorcerer's Stone'', ''Frozen'' now trails only ''Titanic'', which opened in 1997 and grossed ¥26.2 billion, and Hayao Miyazaki's ''Spirited Away'', which opened in 2001 and brought in ¥30.4 billion, according to the Motion Picture Producers Association of Japan Inc. |url-status=live |archive-url=https://web.archive.org/web/20170206060409/http://blogs.wsj.com/japanrealtime/2014/06/04/frozen-ranks-as-third-biggest-hit-in-japan/ |archive-date=6 February 2017  }}</ref> It also set the all-time attendance record in Japan, surpassing the 16.8 million tickets sold by ''[[Titanic (1997 film)|Titanic]]''.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=1 October 2001|title=H'wood makes 'Rush' into Japan|last=Groves|first=Don|page=16}}</ref> Its gross at the Japanese box office has since increased to {{JPY|31.68 billion}}, {{as of|2020|lc=y}}.<ref>{{cite web |last1=Harding |first1=Daryl |title=Toho Updates Spirited Away Lifetime Japanese Box Office Gross as Demon Slayer: Mugen Train Inches Closer to #1 |url=https://www.crunchyroll.com/anime-news/2020/12/15/toho-updates-spirited-away-lifetime-japanese-box-office-gross-as-demon-slayer-mugen-train-inches-closer-to-1 |website=[[Crunchyroll]] |date=15 December 2020 |access-date=5 January 2021 |archive-date=3 February 2021 |archive-url=https://web.archive.org/web/20210203134131/https://www.crunchyroll.com/anime-news/2020/12/15/toho-updates-spirited-away-lifetime-japanese-box-office-gross-as-demon-slayer-mugen-train-inches-closer-to-1 |url-status=live }}</ref><ref name="kogyotsushin">{{cite news |script-title=ja:歴代興収ベスト100 |trans-title=All-time box-office top 100 |language=ja |publisher=Kogyo Tsushinsha |url=http://www.kogyotsushin.com/archives/alltime/ |access-date=31 December 2020 |archive-url=https://web.archive.org/web/20170808031813/http://www.kogyotsushin.com/archives/alltime/ |archive-date=2017-08-08 |url-status=live}}</ref>
+
+In February 2002, [[Wild Bunch (company)|Wild Bunch]], an international sales company that had recently span-off from its former parent [[StudioCanal]], picked up the international sale rights for the film outside of Asia and France.<ref>{{Cite web|url=https://www.screendaily.com/wild-bunch-adds-spirited-away-amongst-others/408281.article|title=Wild Bunch adds Spirited Away, amongst others|access-date=13 September 2021|archive-date=13 September 2021|archive-url=https://web.archive.org/web/20210913163147/https://www.screendaily.com/wild-bunch-adds-spirited-away-amongst-others/408281.article|url-status=live}}</ref> The company would then on-sell it to independent distributors across the world. On April 13, 2002, [[The Walt Disney Company]] acquired the Taiwanese, Singapore, Hong Kong, French and North American sale rights to the film, alongside Japanese Home Media rights.<ref>{{Cite web|url = https://www.japantimes.co.jp/news/2002/04/13/national/copyrights-to-spirited-away-sold-to-disney/|title = Copyrights to 'Spirited Away' sold to Disney|date = 13 April 2002|access-date = 18 October 2021|archive-date = 18 October 2021|archive-url = https://web.archive.org/web/20211018214758/https://www.japantimes.co.jp/news/2002/04/13/national/copyrights-to-spirited-away-sold-to-disney/|url-status = live}}</ref>
+
+Disney's English dub of the film supervised by Lasseter, premiered at the [[Toronto International Film Festival]] on 7 September 2002<ref>{{cite news|last=Ball|first=Ryan|title=Spirited Away Premieres at Toronto Int'l Film Fest|url=http://www.animationmagazine.net/features/spirited-away-premieres-at-toronto-intl-film-fest/|access-date=2 June 2011|newspaper=Animation Magazine|date=9 September 2001|url-status=live|archive-url=https://web.archive.org/web/20121009061259/http://www.animationmagazine.net/features/spirited-away-premieres-at-toronto-intl-film-fest/|archive-date=9 October 2012}}</ref> and was later released in the United States on 20 September 2002. The film grossed $450,000 in its opening weekend from 26 theatres. ''Spirited Away'' had very little marketing, less than Disney's other B-films, with a maximum of 151 theatres showing the film in 2002.<ref name=fps /> After the [[75th Academy Awards|2003 Oscars]], it expanded to 714 theatres. It ultimately grossed around $10 million by September 2003.<ref name=box>{{cite web|title=Spirited Away Box Office and Rental History|website=[[Rotten Tomatoes]]|url=https://www.rottentomatoes.com/m/spirited_away/numbers.php|access-date=21 April 2006|archive-url=https://web.archive.org/web/20060116171321/http://www.rottentomatoes.com/m/spirited_away/numbers.php <!-- Bot retrieved archive -->|archive-date= 16 January 2006}}</ref> Outside of Japan and the United States, the movie was moderately successful in both South Korea and France where it grossed $11 million and $6 million, respectively.<ref>{{cite web |title=Spirited Away&nbsp;– Original Release |publisher=[[Box Office Mojo]] |url=https://www.boxofficemojo.com/releasegroup/gr1694585349/ |access-date=25 October 2019 |archive-date=29 November 2014 |archive-url=https://web.archive.org/web/20141129013240/http://boxofficemojo.com/movies/?page=intl&id=spiritedaway.htm |url-status=live }}</ref> In Argentina, it is in the top 10 anime films with the most tickets sold.<ref>{{cite web|url=http://www.ultracine.com/index.php/entrevistas/entrevista/97-los-films-de-anime-que-lideran-la-taquilla-argentina|title=Los films de anime que lideran la taquilla argentina|last=Oliveros|first=Mariano|publisher=Ultracine|date=23 July 2015|access-date=14 November 2015|language=es|url-status=live|archive-url=https://web.archive.org/web/20151117014552/http://www.ultracine.com/index.php/entrevistas/entrevista/97-los-films-de-anime-que-lideran-la-taquilla-argentina|archive-date=17 November 2015}}</ref>
+
+In the United Kingdom, then-independent based film distributor [[Optimum Releasing]] acquired the rights to the movie from Wild Bunch in January 2003.<ref>{{Cite web |url=https://www.screendaily.com/optimum-brings-japanese-mega-hit-spirited-away-to-uk/4011927.article |title=Optimum brings Japanese mega-hit Spirited Away to UK {{!}} News {{!}} Screen<!-- Bot generated title --> |access-date=11 September 2021 |archive-date=11 September 2021 |archive-url=https://web.archive.org/web/20210911154429/https://www.screendaily.com/optimum-brings-japanese-mega-hit-spirited-away-to-uk/4011927.article |url-status=live }}</ref> The company then released it theatrically on 12 September 2003.<ref>[https://web.archive.org/web/20031002025214/http://optimumreleasing.com/detail.php4?id=60 Optimum Releasing<!-- Bot generated title -->]</ref><ref>{{cite web|url=https://www.bbc.co.uk/dna/collective/A1171667| archive-url=https://web.archive.org/web/20051130214144/http://www.bbc.co.uk/dna/collective/A1171667|title=BBC Collective&nbsp;– Spirited Away|publisher=BBC|archive-date=30 November 2005 |access-date=9 August 2013}}</ref> The movie grossed $244,437 on its opening weekend from 51 theatres, and by the end of its theatrical run in October, the movie has grossed $1,383,023 in the country.<ref>{{Cite web |url=https://www.boxofficemojo.com/release/rl3680666625/weekend/ |title=Spirited Away |access-date=11 September 2021 |archive-date=27 June 2021 |archive-url=https://web.archive.org/web/20210627135738/https://www.boxofficemojo.com/release/rl3680666625/weekend/ |url-status=live }}</ref>
+
+About 18 years after its original release in Japan, ''Spirited Away'' had a theatrical release in China on 21 June 2019. It follows the theatrical China release of ''My Neighbour Totoro'' in December 2018.<ref>{{cite news |title=Hayao Miyazaki's 2001 Classic 'Spirited Away' Finally Gets Release in China |url=https://www.hollywoodreporter.com/news/hayao-miyazakis-spirited-away-screen-china-18-years-late-1213764 |access-date=15 June 2019 |work=[[The Hollywood Reporter]] |date=27 May 2019 |archive-date=9 June 2019 |archive-url=https://web.archive.org/web/20190609024811/https://www.hollywoodreporter.com/news/hayao-miyazakis-spirited-away-screen-china-18-years-late-1213764 |url-status=live }}</ref> The delayed theatrical release in China was due to long-standing political tensions between China and Japan, but many Chinese became familiar with Miyazaki's films due to rampant video piracy.<ref>{{cite news |title=These five Studio Ghibli films really should be released in China |url=https://www.scmp.com/culture/film-tv/article/2178326/five-studio-ghibli-films-due-china-release-after-my-neighbour-totoro |access-date=15 June 2019 |work=[[South China Morning Post]] |date=17 December 2018 |archive-date=25 June 2019 |archive-url=https://web.archive.org/web/20190625224802/https://www.scmp.com/culture/film-tv/article/2178326/five-studio-ghibli-films-due-china-release-after-my-neighbour-totoro |url-status=live }}</ref> It topped the Chinese box office with a {{US$|28.8-million|long=no}} opening weekend, beating ''[[Toy Story 4]]'' in China.<ref>{{cite news |last1=Coyle |first1=Jake |title='Toy Story 4' opens big but below expectations with $118M |url=https://www.apnews.com/69b4991cd5b945cc83c64b16cea841b8 |access-date=23 June 2019 |work=[[AP News]] |agency=[[Associated Press]] |date=23 June 2019 |archive-date=23 June 2019 |archive-url=https://web.archive.org/web/20190623195102/https://apnews.com/69b4991cd5b945cc83c64b16cea841b8 |url-status=live }}</ref> In its second weekend, ''Spirited Away'' grossed a cumulative {{US$|54.8 million|long=no}} in China, and was second only behind ''[[Spider-Man: Far From Home]]'' that weekend.<ref>{{cite web |title=Daily Box Office |url=http://english.entgroup.cn/boxoffice/cn/daily/?date=06%20/30%20/2019 |website=EntGroup |date=30 June 2019 |access-date=1 July 2019 |archive-date=7 August 2020 |archive-url=https://web.archive.org/web/20200807110802/http://english.entgroup.cn/boxoffice/cn/daily/?date=06%20%2F30%20%2F2019 |url-status=live }}</ref> {{As of|2019|7|16}}, the film has grossed {{US$|70 million|long=no}} in China,<ref name="china">{{cite web |title=Daily Box Office |url=http://english.entgroup.cn/boxoffice/cn/daily/?date=07%20/08%20/2019 |website=EntGroup |date=8 July 2019 |access-date=9 July 2019 |archive-date=17 December 2019 |archive-url=https://web.archive.org/web/20191217023608/http://english.entgroup.cn/boxoffice/cn/daily/?date=07%20%2F08%20%2F2019 |url-status=live }}</ref> bringing its worldwide total box office to over {{US$|346 million|long=no}} {{as of|2019|7|8|lc=y}}.<ref>{{cite web |title=Spirited Away&nbsp;– All Releases |publisher=[[Box Office Mojo]] |url=https://www.boxofficemojo.com/title/tt0245429/?ref_=bo_gr_ti |access-date=25 October 2019 |archive-date=26 October 2019 |archive-url=https://web.archive.org/web/20191026000255/https://www.boxofficemojo.com/title/tt0245429/?ref_=bo_gr_ti |url-status=live }}</ref>
+
+''Spirited Away''{{'s}} worldwide box office total stands at US$395,802,070{{Efn|name=Spirited Away Worldwide Box Office Collection}}
+
+===Home media===
+''Spirited Away'' was first released on VHS and DVD formats in Japan by [[Buena Vista Home Entertainment]] on 19 July 2002.<ref name="JPNreleases">{{cite web|url=http://disney-studio.jp/product/index.jsp?cid=252|script-title=ja:千と千尋の神隠し|publisher=Walt Disney Japan|language=ja|access-date=17 November 2012|url-status=live|archive-url=https://web.archive.org/web/20131219020257/http://disney-studio.jp/product/index.jsp?cid=252|archive-date=19 December 2013}}</ref> The Japanese DVD releases include storyboards for the film and the special edition includes a Ghibli [[DVD player]].<ref>{{cite web|url=http://av.watch.impress.co.jp/docs/20020510/buena.htm|title=ブエナビスタ、DVD「千と千尋の神隠し」の発売日を7月19日に決定|language=ja|access-date=17 November 2012|date=10 May 2002|publisher=AV Watch|url-status=live|archive-url=https://web.archive.org/web/20130730141842/http://av.watch.impress.co.jp/docs/20020510/buena.htm|archive-date=30 July 2013}}</ref> ''Spirited Away'' sold 5.5{{nbsp}}million home video units in Japan by 2007,<ref>{{cite news |last=均 |first=中村 |title=110万冊無料配布。"ゲドを読む。"の狙いを読む 宮崎吾朗監督作品「ゲド戦記」DVDのユニークなプロモーション |url=https://business.nikkeibp.co.jp/article/manage/20070521/125248/ |work=[[Nikkei Business Publications|Nikkei Business]] |publisher=[[Nikkei Business Publications]] |date=23 May 2007 |language=ja-JP |access-date=16 August 2018 |archive-url=https://web.archive.org/web/20180816194818/https://business.nikkeibp.co.jp/article/manage/20070521/125248/ |archive-date=16 August 2018 |url-status=dead  }}</ref> and currently{{when|date=August 2021}} holds the record for most home video copies sold of all-time in the country.<ref>{{cite news|url=https://www.animenewsnetwork.com/news/2014-08-14/frozen-home-video-tops-spirited-away-as-fastest-to-sell-2-million-copies-in-japan/.77587|title=Frozen Home Video Tops Spirited Away as Fastest to Sell 2 Million Copies in Japan|date=14 August 2014|work=[[Anime News Network]]|access-date=14 August 2014|url-status=live|archive-url=https://web.archive.org/web/20140814183517/http://www.animenewsnetwork.com/news/2014-08-14/frozen-home-video-tops-spirited-away-as-fastest-to-sell-2-million-copies-in-japan/.77587|archive-date=14 August 2014}}</ref> The movie was released on [[Blu-ray]] by [[Walt Disney Studios Japan]] on 14 July 2014, and DVD was also reissued on the same day with a new HD master, alongside several other [[Studio Ghibli]] movies.<ref>{{Cite web |url=https://www.disney.co.jp/studio/ghibli/0252.html |title=千と千尋の神隠し｜ブルーレイ・DVD・デジタル配信｜ディズニー公式<!-- Bot generated title --> |access-date=11 September 2021 |archive-date=27 February 2021 |archive-url=https://web.archive.org/web/20210227165628/https://www.disney.co.jp/studio/ghibli/0252.html |url-status=live }}</ref><ref>{{cite web|title=Amazon.co.jp： 千と千尋の神隠し [Blu-ray]: 宮崎駿: DVD|url=https://www.amazon.co.jp/dp/B00J2O3CU0/|access-date=28 May 2014|archive-date=3 February 2021|archive-url=https://web.archive.org/web/20210203134057/https://www.amazon.co.jp/dp/B00J2O3CU0/|url-status=live}}</ref>
+
+In North America, the film was released on DVD and VHS formats by Walt Disney Home Entertainment on 15 April 2003.<ref>{{cite web|last1=Conrad|first1=Jeremy|title=Spirited Away|url=https://www.ign.com/articles/2003/03/14/spirited-away|website=IGN|access-date=2 June 2016|date=14 March 2003|url-status=live|archive-url=https://web.archive.org/web/20160409215418/http://www.ign.com/articles/2003/03/14/spirited-away|archive-date=9 April 2016}}</ref> The attention brought by the Oscar win resulted in the film becoming a strong seller.<ref>{{cite magazine|last=Reid|first=Calvin|title='Spirited Away' Sells like Magic|magazine=Publishers Weekly|date=28 April 2003|volume=250|issue=17|url=http://www.publishersweekly.com/pw/print/20030428/30838-spirited-away-sells-like-magic.html|access-date=29 April 2012|url-status=live|archive-url=https://web.archive.org/web/20131219022255/http://www.publishersweekly.com/pw/print/20030428/30838-spirited-away-sells-like-magic.html|archive-date=19 December 2013}}</ref> The bonus features include Japanese trailers, a making-of documentary which originally aired on [[Nippon Television]], interviews with the North American voice actors, a select storyboard-to-scene comparison and ''The Art of Spirited Away'', a documentary narrated by actor [[Jason Marsden]].<ref>{{cite web|url=http://disney.go.com/disneyvideos/animatedfilms/studioghibli/spiritednews.html|title=Studio Ghibli&nbsp;– The Official DVD Website|publisher=Disney|access-date=1 September 2013|url-status=live|archive-url=https://web.archive.org/web/20130801195733/http://disney.go.com/disneyvideos/animatedfilms/studioghibli/spiritednews.html|archive-date=1 August 2013}}</ref> The movie was released on Blu-ray by and North America by [[Walt Disney Studios Home Entertainment]] on 16 June 2015.<ref>{{cite web|url=https://www.amazon.com/Spirited-Away-2-Disc-Blu-ray-Combo/dp/B00V3QQF6I/ref=sr_1_2?ie=UTF8&qid=1427837697&sr=8-2&keywords=Spirited+Away|title=Amazon.com: Spirited Away (2-Disc Blu-ray + DVD Combo Pack): Daveigh Chase, Lauren Holly, Michael Chiklis, Suzanne Pleshette, Jason Mardsen, Tara Strong, Susan Egan, John Ratzenberger, David Ogden Stiers, Hayao Miyazaki, Original Story And Screenplay By Hayao Miyazaki: Movies & TV|website=Amazon|access-date=14 September 2017|archive-date=3 February 2021|archive-url=https://web.archive.org/web/20210203134116/https://www.amazon.com/Spirited-Away-2-Disc-Blu-ray-Combo/dp/B00V3QQF6I/ref=sr_1_2?ie=UTF8&qid=1427837697&sr=8-2&keywords=Spirited+Away|url-status=live}}</ref> [[GKIDS]] and [[Shout! Factory]] re-issued the film on Blu-ray and DVD on 17 October 2017 following the expiration of Disney's previous deal with Studio Ghibli in the country.<ref>{{cite web|url=https://www.hollywoodreporter.com/behind-screen/gkids-studio-ghibli-ink-home-entertainment-deal-1021746|title=Gkids, Studio Ghibli Ink Home Entertainment Deal|first=Carolyn|last=Giardina|work=[[The Hollywood Reporter]]|date=17 July 2017|access-date=17 July 2017|archive-date=3 August 2017|archive-url=https://web.archive.org/web/20170803090028/http://www.hollywoodreporter.com/behind-screen/gkids-studio-ghibli-ink-home-entertainment-deal-1021746|url-status=live}}</ref> On 12 November 2019, GKIDS and Shout! Factory issued a North-America-exclusive ''Spirited Away'' collector's edition, which includes the film on Blu-ray, and the film's soundtrack on CD, as well as a 40-page book with statements by Toshio Suzuki and Hayao Miyazaki, and essays by film critic [[Kenneth Turan]] and film historian [[Leonard Maltin]].<ref>Bui, Hoai-Tran. 13 August 2019. "[https://www.slashfilm.com/spirited-away-collectors-edition/ 'Spirited Away' Special Collector's Edition Will Be Available For a Limited Time This November] {{Webarchive|url=https://web.archive.org/web/20201108003627/https://www.slashfilm.com/spirited-away-collectors-edition/ |date=8 November 2020 }}." ''[[Slashfilm]]''.</ref><ref>"[https://ghiblicollection.com/product/spirited-away-collector-s-edition?product_id=7231 {{Webarchive|url=https://web.archive.org/web/20200820212149/https://ghiblicollection.com/product/spirited-away-collector-s-edition?product_id=7231 |date=20 August 2020 }} <nowiki>Spirited Away [Collector's Edition]</nowiki>]." ''The Studio Ghibli Collection''. Los Angeles: GKIDS. {{ASIN|B07W8LJLB3}}.</ref>
+
+In the United Kingdom, the film was released on DVD and VHS as a rental release through independent distributor High Fliers Films PLC following the film's limited theatrical release. It was later officially released on DVD in the UK on 29 March 2004, with the distribution being done by Optimum Releasing themselves.<ref>{{cite web|url=http://www.play.com/DVD/DVD/4-/156955/Spirited-Away/Product.html|title=Spirited Away (2 Discs) (Studio Ghibli Collection)|publisher=Play|access-date=9 August 2013|url-status=dead|archive-url=https://web.archive.org/web/20130719053347/http://www.play.com/DVD/DVD/4-/156955/Spirited-Away/Product.html|archive-date=19 July 2013}}</ref> In 2006, the DVD was reissued as a single-disc release (without the second one) with packaging matching other releases in Optimum's "The Studio Ghibli Collection" range.<ref>{{cite web|url=http://press.optimumreleasing.net/theatrical.php?id=65|title=Optimum Releasing&nbsp;– Spirited Away|publisher=Optimum Releasing|access-date=9 August 2013|url-status=dead|archive-url=https://web.archive.org/web/20131016234456/http://press.optimumreleasing.net/theatrical.php?id=65|archive-date=16 October 2013}}</ref> The then-renamed [[StudioCanal UK]] released the movie on Blu-ray on 24 November 2014, A British 20th Anniversary Collector's Edition, similar to other Studio Ghibli anniversary editions released in the UK, was released on 25 October 2021.<ref name="Amie">{{cite web |last1=Amie |first1=Cranswick |title=StudioCanal announces Spirited Away 20th Anniversary Collector's Edition |url=https://www.flickeringmyth.com/2021/07/studiocanal-announces-spirited-away-20th-anniversary-collectors-edition/ |website=Flickering Myth |access-date=29 October 2021 |date=20 July 2021 |archive-date=8 November 2021 |archive-url=https://web.archive.org/web/20211108072254/https://www.flickeringmyth.com/2021/07/studiocanal-announces-spirited-away-20th-anniversary-collectors-edition/ |url-status=live }}</ref>
+
+Along with the rest of the Studio Ghibli films, ''Spirited Away'' was released on digital markets in the United States for the first time, on 17 December 2019.
+
+==Reception==
+===Critical response===
+''Spirited Away'' has received significant critical success on a broad scale. On [[review aggregator]] [[Rotten Tomatoes]], the film holds a 97% approval rating based on 190 reviews, with an average rating of 8.60/10. The website's critics consensus reads, "''Spirited Away'' is a dazzling, enchanting, and gorgeously drawn fairy tale that will leave viewers a little more curious and fascinated by the world around them."<ref>{{cite web|url=https://www.rottentomatoes.com/m/spirited_away|title=Spirited Away (2002)|website=[[Rotten Tomatoes]]|publisher=[[Fandango Media|Fandango]]|access-date=9 July 2021|archive-date=11 October 2016|archive-url=https://web.archive.org/web/20161011055754/https://www.rottentomatoes.com/m/spirited_away|url-status=live}}</ref> [[Metacritic]], which uses a weighted average, assigned the film a score of 96 out of 100 based on 41 critics, indicating "universal acclaim."<ref name=":0">{{cite web|url=https://www.metacritic.com/movie/spirited-away|title=Spirited Away (2002)|website=[[Metacritic]]|publisher=[[CBS Interactive]]|access-date=24 June 2019|archive-date=14 June 2019|archive-url=https://web.archive.org/web/20190614181840/https://www.metacritic.com/movie/spirited-away|url-status=live}}</ref>
+
+[[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' gave the film a full four stars, praising the work and Miyazaki's direction. Ebert also said that ''Spirited Away'' was one of "the year's best films", as well as adding it to his "[[The Great Movies|Great Movies]]" list.<ref>{{cite news|url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20020920/REVIEWS/209200306/1023|title=Spirited Away|last=Ebert|first=Roger|work=Chicago Sun-Times|date=20 September 2002|access-date=2 September 2011|url-status=live|archive-url=https://web.archive.org/web/20110927142938/http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F20020920%2FREVIEWS%2F209200306%2F1023|archive-date=27 September 2011}}</ref> [[Elvis Mitchell]] of ''[[The New York Times]]'' positively reviewed the film and praised the animation sequences. Mitchell drew a favorable comparison to Lewis Carroll's ''[[Through the Looking-Glass]]'', and wrote that Miyazaki's "movies are as much about moodiness as mood" and that "the prospect of animated figures' not being what they seem -- either spiritually or physically -- heightens the tension."<ref name="NYT review">{{cite news|title=Movie Review&nbsp;– Spirited Away|last=Mitchell|first=Elvis|work=The New York Times|date=20 September 2002|access-date=2 September 2011|url=https://movies.nytimes.com/movie/review?res=9504E0DB1030F933A1575AC0A9649C8B63|url-status=live|archive-url=https://web.archive.org/web/20110511225637/http://movies.nytimes.com/movie/review?res=9504E0DB1030F933A1575AC0A9649C8B63|archive-date=11 May 2011}}</ref> Derek Elley of ''[[Variety (magazine)|Variety]]'' said that ''Spirited Away'' "can be enjoyed by sprigs and adults alike" and praised the animation and music.<ref name=variety>{{cite magazine|url=https://www.variety.com/review/VE1117917040/|title=Spirited Away Review|last=Elley|first=Derek|magazine=Variety|date=18 February 2002|access-date=2 September 2011|archive-date=3 February 2021|archive-url=https://web.archive.org/web/20210203134057/https://variety.com/2002/digital/features/spirited-away-2-1200551257/|url-status=live}}</ref> [[Kenneth Turan]] of the ''[[Los Angeles Times]]'' praised Miyazaki's direction and the voice acting, as well as saying that the film is the "product of a fierce and fearless imagination whose creations are unlike anything a person has seen before."<ref>{{cite news|url= https://articles.latimes.com/2002/sep/20/entertainment/et-turan20|title= Under the Spell of 'Spirited Away'|first= Kenneth|last= Turan|work= Los Angeles Times|date= 20 September 2002|access-date= 2 September 2011|url-status=live|archive-url= https://web.archive.org/web/20120619064427/http://articles.latimes.com/2002/sep/20/entertainment/et-turan20|archive-date= 19 June 2012|df= dmy-all}}</ref> ''[[Orlando Sentinel]]''{{'s}} critic Jay Boyar also praised Miyazaki's direction and said the film is "the perfect choice for a child who has moved into a new home."<ref>{{cite news |url=http://articles.orlandosentinel.com/2002-10-11/entertainment/0210100393_1_chihiro-john-lasseter-sorceress |last=Boyar |first=Jay |title='Spirited Away'&nbsp;– A Magic Carpet Ride |work=[[Orlando Sentinel]] |date=11 October 2002 |access-date=1 September 2011 |url-status=live |archive-url=https://web.archive.org/web/20121004170927/http://articles.orlandosentinel.com/2002-10-11/entertainment/0210100393_1_chihiro-john-lasseter-sorceress |archive-date=4 October 2012  }}</ref>
+
+In 2004, ''[[Cinefantastique]]'' listed the film as one of the "10 Essential Animations".<ref>{{cite magazine|last1=Persons|first1=Dan|title=The Americanization of Anime: 10 Essential Animations|magazine=[[Cinefantastique]]|date=February–March 2004|volume=36|issue=1|page=48|url=https://books.google.com/books?id=ly0nAQAAIAAJ&q=editions:0AFLRE736LO1AnqYXhN92VLUi3o6sFT1GgYU-Fw2cLmjwIZk1c7q9_ZE|access-date=28 April 2017|url-status=live|archive-url=https://web.archive.org/web/20170428143017/https://books.google.com/books?id=ly0nAQAAIAAJ&dq=editions:0AFLRE736LO1AnqYXhN92VLUi3o6sFT1GgYU-Fw2cLmjwIZk1c7q9_ZE|archive-date=28 April 2017}}</ref> In 2005, ''Spirited Away'' was ranked by [[IGN]] as the 12th-best animated film of all time.<ref>{{cite web |title = The Top 25 Animated Movies of All-Time |url = http://movies.ign.com/articles/650/650717p4.html |work = [[IGN Entertainment]] |access-date = 6 May 2010 |url-status=live |archive-url = https://web.archive.org/web/20120413172425/http://movies.ign.com/articles/650/650717p4.html |archive-date = 13 April 2012 }}</ref> The film is also ranked number 9 of the highest-rated movies of all time on Metacritic, being the highest rated traditionally animated film on the site. The film ranked number 10 in [[Empire (film magazine)|''Empire'']] magazine's "The 100 Best Films of World Cinema" in 2010.<ref>{{cite web|title=The 100 Best Films of World Cinema&nbsp;– 10. Spirited Away|url=https://www.empireonline.com/features/100-greatest-world-cinema-films/default.asp?film=10|url-status=live|archive-url=https://web.archive.org/web/20121018203119/http://www.empireonline.com/features/100-greatest-world-cinema-films/default.asp?film=10|archive-date=18 October 2012|work=Empire}}</ref> In 2010, ''Rotten Tomatoes'' ranked it as the 13th-best animated film on the site,<ref>{{cite web|title=Best Animated Films&nbsp;– Spirited Away|url=https://www.rottentomatoes.com/guides/best_animated_films/spirited_away/|archive-url=https://web.archive.org/web/20121227072955/http://www.rottentomatoes.com/guides/best_animated_films/spirited_away|archive-date=27 December 2012|access-date=6 May 2010|work=[[Rotten Tomatoes]]|publisher=Flixster}}</ref> and in 2012 as the 17th.<ref>{{Cite web|title=Best Animated Films|url=https://www.rottentomatoes.com/guides/best_animated_movies_2012|url-status=live|archive-url=https://web.archive.org/web/20180115000725/https://www.rottentomatoes.com/guides/best_animated_movies_2012|archive-date=15 January 2018|access-date=2 February 2018|website=[[Rotten Tomatoes]]}}</ref> In 2019, the site considered the film to be #1 among 140 essential animated movies to watch.<ref>"[https://editorial.rottentomatoes.com/guide/essential-animated-movies/2/ 140 essential animated movies to watch now] {{Webarchive|url=https://web.archive.org/web/20200807222431/https://editorial.rottentomatoes.com/guide/essential-animated-movies/2/ |date=7 August 2020 }}." ''Rotten Tomatoes''. 2019. Retrieved 28 August 2020.</ref> In 2021 the film was ranked at number 46 on ''[[Time Out (magazine)|Time Out]]'' magazine's list of "The 100 Best Movies of All Time".<ref>{{cite web|title=The 100 Best Movies of All Time|url=https://www.timeout.com/newyork/movies/best-movies-of-all-time|date=8 April 2021|access-date=21 May 2021|archive-date=6 June 2019|archive-url=https://web.archive.org/web/20190606054932/https://www.timeout.com/newyork/movies/best-movies-of-all-time|url-status=live}}</ref>
+
+In his book ''Otaku'', [[Hiroki Azuma (critic)|Hiroki Azuma]] observed: "Between 2001 and 2007, the [[otaku]] forms and markets quite rapidly won social recognition in Japan," and cites Miyazaki's win at the Academy Awards for ''Spirited Away'' among his examples.<ref>{{cite book|last=Azuma|first=Hiroki|date=10 April 2009|title=Otaku|url=http://www.upress.umn.edu/book-division/books/otaku|location=Minneapolis|publisher=University of Minnesota Press|chapter=Preface|page=xi|isbn=978-0816653515|access-date=31 January 2014|url-status=live|archive-url=https://web.archive.org/web/20130719070146/http://www.upress.umn.edu/book-division/books/otaku|archive-date=19 July 2013}}</ref>{{failed verification|date=June 2021}}
+
+===Accolades===
+{| class="wikitable"
+|-
+! Year
+! Award
+! Category
+! Recipient
+! Result
+|-
+| rowspan=5|2001
+|| [[Animation Kobe]]
+| [[Animation Kobe#Theatrical Film Award|Theatrical Film Award]]
+|  ''Spirited Away''
+|  {{won}}
+|-
+| [[Blue Ribbon Awards]]
+| [[Blue Ribbon Awards for Best Film|Best Film]]
+| ''Spirited Away''
+| {{won}}
+|-
+| rowspan=3| [[Mainichi Film Awards]]
+| [[Mainichi Film Award for Best Film|Best Film]]
+| ''Spirited Away''
+| {{won}}
+|-
+| [[Mainichi Film Award for Best Animation Film|Best Animated Film]]
+| ''Spirited Away''
+| {{won}}
+|-
+| [[Mainichi Film Award for Best Director|Best Director]]
+| [[Hayao Miyazaki]]
+| {{won}}
+|-
+| rowspan=19|2002
+| rowspan=2| 25th [[Japan Academy Prize (film)|Japan Academy Award]]
+| [[Japan Academy Prize for Picture of the Year|Best Film]]
+|  ''Spirited Away''
+|   {{won}}<ref name="japanacademy">{{cite web |url=http://www.japan-academy-prize.jp/prizes/?t=25 |title=List of award-winning films at the 25th Japan Academy Awards |access-date=14 May 2012 |work=Japan Academy Awards Association |language=ja |url-status=live |archive-url=https://web.archive.org/web/20120305164115/http://www.japan-academy-prize.jp/prizes/?t=25 |archive-date=5 March 2012  }}</ref>
+|-
+|  Best Song
+| [[Youmi Kimura]]
+|   {{won}}<ref name="japanacademy" />
+|-
+| [[52nd Berlin International Film Festival]]
+| [[Golden Bear]]
+|  ''Spirited Away''
+|  {{won}} <br /> {{small|(together with ''[[Bloody Sunday (TV film)|Bloody Sunday]]'')}}<ref>{{cite web | url=http://www.berlinale.de/en/archiv/jahresarchive/2002/03_preistr_ger_2002/03_Preistraeger_2002.html | title=Prizes & Honours 2002 | publisher=Berlinale | access-date=9 August 2013 | url-status=live | archive-url=https://web.archive.org/web/20131015120444/http://www.berlinale.de/en/archiv/jahresarchive/2002/03_preistr_ger_2002/03_Preistraeger_2002.html | archive-date=15 October 2013 | df=dmy-all }}</ref>
+|-
+| [[Cinekid Festival]]
+|  Cinekid Film Award
+|  ''Spirited Away''
+|  {{won}} <br /> {{small|(together with ''The Little Bird Boy'')}}<ref>{{cite news | url=https://variety.com/2002/digital/news/bird-spirited-nab-kid-kudos-1117874673/ | title='Bird,' 'Spirited' nab kid kudos | work=Variety | access-date=9 August 2013 | url-status=live | archive-url=https://web.archive.org/web/20151121231816/http://variety.com/2002/digital/news/bird-spirited-nab-kid-kudos-1117874673/ | archive-date=21 November 2015 | df=dmy-all }}</ref>
+|-
+| 21st [[Hong Kong Film Awards]]
+|  Best Asian Film
+|  ''Spirited Away''
+|  {{won}}<ref>{{cite web | url=http://www.hkfaa.com/winnerlist21.html | title=第21屆香港電影金像獎得獎名單 List of Award Winner of The 21st Hong Kong Film Awards | publisher=Hong Kong Film Awards | access-date=9 August 2013 | url-status=live | archive-url=https://web.archive.org/web/20130805231535/http://hkfaa.com/winnerlist21.html | archive-date=5 August 2013 | df=dmy-all }}</ref>
+|-
+| rowspan=8|[[Tokyo Anime Award]]
+| Animation of the Year
+| ''Spirited Away''
+| {{won}}
+|-
+| Best Art Direction
+| {{Interlanguage link multi|Yôji Takeshige|ja|3=武重洋二}}
+| {{won}}
+|-
+| Best Character Design
+| Hayao Miyazaki
+| {{won}}
+|-
+| Best Director
+| Hayao Miyazaki
+| {{won}}
+|-
+| Best Music
+| [[Joe Hisaishi]]
+| {{won}}
+|-
+| Best Screenplay
+| Hayao Miyazaki
+| {{won}}
+|-
+| Best Voice Actor
+| [[Rumi Hiiragi]] as Chihiro
+| {{won}}
+|-
+| Notable Entry
+| Hayao Miyazaki
+| {{won}}
+|-
+|rowspan=4| Utah Film Critics Association Awards
+| Best Picture
+| ''Spirited Away''
+| {{won}}
+|-
+| Best Director
+| Hayao Miyazaki<br />[[Kirk Wise]] (English version)
+| {{won}}
+|-
+| Best Screenplay
+| Hayao Miyazaki<br />Cindy Davis Hewitt (English adaptation)<br />Donald H. Hewitt (English adaptation)
+| {{won}}
+|-
+| Best Non-English Language Film
+| Japan
+| {{won}}
+|-
+| [[National Board of Review]]
+| [[National Board of Review Award for Best Animated Film]]
+| ''Spirited Away''
+| {{won}}
+|-
+| [[New York Film Critics Online]]
+| Best Animated Feature
+| ''Spirited Away''
+| {{won}}
+|-
+|rowspan=12|2003
+| [[75th Academy Awards]]
+| [[Academy Award for Best Animated Feature|Best Animated Feature]]
+|  ''Spirited Away''
+|  {{won}}<ref>{{cite web | url=http://www.oscars.org/awards/academyawards/legacy/ceremony/75th-winners.html | title=The 75th Academy Awards (2003) Nominees and Winners | publisher=Academy of Motion Picture Arts and Sciences | access-date=9 August 2013 | url-status=live | archive-url=https://web.archive.org/web/20111130043610/http://www.oscars.org/awards/academyawards/legacy/ceremony/75th-winners.html | archive-date=30 November 2011 | df=dmy-all }}</ref>
+|-
+| rowspan=4| [[30th Annie Awards]]
+| [[Annie Award for Best Animated Feature]]
+|  ''Spirited Away''
+|  {{won}}
+|-
+| [[Annie Award for Directing in a Feature Production|Directing in an Animated Feature Production]]
+| Hayao Miyazaki
+|  {{won}}
+|-
+| [[Annie Award for Writing in a Feature Production]]
+| Hayao Miyazaki
+|  {{won}}
+|-
+| [[Annie Award for Music in a Feature Production]]
+| Joe Hisaishi
+|  {{won}}
+|-
+| [[8th Critics' Choice Awards]]
+| [[Critics' Choice Movie Award for Best Animated Feature|Best Animated Feature]]
+|  ''Spirited Away''
+|  {{won}}
+|-
+|rowspan=3| [[29th Saturn Awards]]
+| [[Saturn Award for Best Animated Film|Best Animated Film]]
+|  ''Spirited Away''
+|  {{won}}
+|-
+| [[Saturn Award for Best Writing]]
+| Hayao Miyazaki<br />Cindy Davis Hewitt (English adaptation)<br />Donald H. Hewitt (English adaptation)
+| {{nominated}}
+|-
+| [[Saturn Award for Best Music]]
+| Joe Hisaishi
+| {{nominated}}
+|-
+| [[7th Golden Satellite Awards]]
+| [[Satellite Award for Best Animated or Mixed Media Feature|Best Animated or Mixed Media Feature]]
+| ''Spirited Away''
+| {{won}}
+|-
+| [[Imagine Film Festival|Amsterdam Fantastic Film Festival]]
+| Silver Scream Award
+| ''Spirited Away''
+| {{won}}
+|-
+| [[Christopher Award]]s
+| Feature Film
+| ''Spirited Away''
+| {{won}}
+|-
+||2004
+| [[57th British Academy Film Awards]]
+| [[57th British Academy Film Awards#Best Film Not in the English Language|Best Film Not in the English Language]]
+| ''Spirited Away''
+| {{nominated}}
+|}
+
+==Stage production==
+A stage production of ''Spirited Away'' was announced in February 2021 with a world premiere planned in [[Tokyo]] on February 28, 2022. The adaption will be written and directed by [[John Caird (director)|John Caird]], with [[Toho]] as the production company, with Studio Ghibli's blessing. The role of Chihiro will be played by both [[Kanna Hashimoto]] and [[Mone Kamishiraishi]].<ref>{{cite web | url = https://deadline.com/2021/02/spirited-away-stage-adaptation-hayao-miyazaki-john-caird-toho-japan-1234700789/ | title = 'Spirited Away': Hayao Miyazaki's Classic Animated Oscar Winner To Be Adapted For The Stage | first = Nancy | last = Tartaglione | date = 25 February 2021 | access-date = 25 February 2021 | work = [[Deadline Hollywood]] | archive-date = 26 February 2021 | archive-url = https://web.archive.org/web/20210226022302/https://deadline.com/2021/02/spirited-away-stage-adaptation-hayao-miyazaki-john-caird-toho-japan-1234700789/ | url-status = live }}</ref><ref>https://soranews24.com/2021/11/10/first-look-at-studio-ghiblis-new-spirited-away-live-action-stage-play/</ref>
+{| class="wikitable"
+! colspan="3" |Main Cast
+|-
+!Character name
+! colspan="2" |Actor (Double Cast)
+|-
+|''Chihiro'' (千尋) 
+|[[Kanna Hashimoto]]
+|[[Rumi Hiiragi|Mone Kamishiraishi]]
+|-
+|''Haku'' (ハク) 
+|Kotarou Daigo
+|[[Hiroki Miura]]
+|-
+|''Kaonashi'' (顔無し)
+|[[Koharu Sugawara]]
+|Tomohiko Tsujimoto
+|-
+|''Rin'' (リン)
+|Miyu Sakihi
+|Fuu Hinami
+|-
+|''Kamajī'' (釜爺)
+|[[Tomorowo Taguchi]]
+|[[Satoshi Hashimoto]]
+|-
+|''Yubāba'' (湯婆婆) / ''Zenība'' (銭婆)
+|[[Mari Natsuki]]
+|[[Romi Park]]
+|}
+
+==See also==
+{{Portal|Anime and manga|Film|Japan}}
+* [[2000s in film]]
+* ''[[Isekai]]''
+* [[List of highest-grossing anime films]]
+* [[List of highest-grossing films in Japan]]
+* ''[[Noppera-bō]]'': Japanese "no-face" spirit
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Boyd, James W., and Tetsuya Nishimura. 2004. "[https://web.archive.org/web/20160501075434/http://www.unomaha.edu/jrf/Vol8No2/boydShinto.htm Shinto Perspectives in Miyazaki's Anime Film 'Spirited Away']." ''[[The Journal of Religion and Film]]'' 8(2).
+* {{cite journal|last1=Broderick|first1=Mick|title=Intersections Review, Spirited Away by Miyazaki's Fantasy|journal=Intersections: Gender, History and Culture in the Asian Context|date=2003|issue=9|url=http://intersections.anu.edu.au/issue9/broderick_review.html|access-date=5 June 2016}}
+* Callis, Cari. 2010. "Nothing that Happens is ever Forgotten." In ''Anime and Philosophy'', edited by J. Steiff and T. D. Tamplin. New York: Open Court. {{ISBN|9780812697131}}.
+* {{cite book|last1=Cavallaro|first1=Dani|title=The Animé Art of Hayao Miyazaki|date=2006|publisher=McFarland & Co.|location=Jefferson, N.C.|isbn=9780786423699}}
+* {{Citation | author1=Cooper, Damon | title=Finding the spirit within: a critical analysis of film techniques in spirited Away.(Critical essay) | magazine=Babel | date=1 November 2010 | publisher=Australian Federation of Modern Language Teachers Associations | volume=45 | issue=1 | pages=30(6) | issn=0005-3503 }}
+* {{cite book | last=Coyle | first=Rebecca | year=2010 | title=Drawn to Sound: Animation Film Music and Sonicity | publisher=Equinox Publishing | isbn=978-1-84553-352-6 | quote=Drawn to Sound focuses on feature-length, widely distributed films released in the period since World War II, from producers in the USA, UK, Japan and France-from Animal Farm (1954) to Happy Feet (2006), Yellow Submarine (1968) to Curse of the Were-Rabbit (2005), Spirited Away (2001) and Les Triplettes de Belleville (2003). }}
+*{{cite book|last=Denison|first=Rayna|year=2008|chapter=The global markets for anime: Miyazaki Hayao's Spirited away (2001)|editor1-last=Phillips|editor1-first=Alastair|editor2-last=Stringer|editor2-first=Julian|title=Japanese Cinema: Texts and Contexts|publisher=Routledge|isbn=978-0-415-32847-0}}
+*{{cite book | last=Fielding | first=Julien R. | year=2008 | title=Discovering World Religions at 24 Frames Per Second | publisher=Scarecrow Press | isbn=978-0-8108-5996-8 | quote=Several films with a 'cult-like' following are also discussed, such as ''Fight Club'', ''Princess Mononoke'', ''Spirited Away'', and ''Jacob's Ladder''. }}
+* {{cite web|author=Fox, Kit |url=http://www.animerica-mag.com/features/11.05/sareview.html |title=Spirited Away |work=Animerica |archive-url=https://web.archive.org/web/20040407174919/http://www.animerica-mag.com/features/11.05/sareview.html |archive-date= 7 April 2004 |url-status=dead}}
+*{{cite book|last=Galbraith IV|first=Stuart|year=2008|title=The Toho Studios Story: A History and Complete Filmography|publisher=Scarecrow Press|isbn=978-0-8108-6004-9|quote=Since its inception in 1933, Toho Co., Ltd., Japan's most famous movie production company and distributor, has produced and/or distributed some of the most notable films ever to come out of Asia, including ''Seven Samurai'', ''Godzilla'', ''When a Woman Ascends the Stairs'', ''Kwaidan'', ''Woman in the Dunes'', ''Ran'', ''Shall We Dance?'', ''Ringu'', and ''Spirited Away''.}}
+* {{cite book | last=Geortz | first=Dee | year=2009 | chapter=The hero with the thousand-and-first face: Miyazaki's girl quester in Spirited away and Campbell's Monomyth | editor1-last=Perlich | editor1-first=John | editor2-last=Whitt | editor2-first=David | title=Millennial Mythmaking: Essays on the Power of Science Fiction and Fantasy Literature, Films and Games | publisher=McFarland | isbn=978-0-7864-4562-2 }}
+* {{cite book | last=Hooks | first=Ed | year=2005 | chapter=''Spirited Away'' | title=Acting in Animation: A Look at 12 Films | publisher=Heinemann Drama | isbn=978-0-325-00705-2 }}
+* {{Citation | author1=Knox, Julian | title=Hoffmann, Goethe, and Miyazaki's Spirited Away.(E.T.A. Hoffmann, Johann Wolfgang von Goethe, and Hayao Miyazaki)(Critical essay) | journal=[[Wordsworth Circle]] | date=22 June 2011 | publisher=Wordsworth Circle | volume=42 | issue=3 | pages=198(3) | doi=10.1086/TWC24043148 | s2cid=169044013 | issn=0043-8006 }}
+* {{Citation | author1=Matthews, Kate | title=Logic and Narrative in 'Spirited Away' | journal=Screen Education | date=2006 | issue=43 | pages=135–140 | issn=1449-857X }}
+*{{cite book|last=Napier|first=Susan J.|year=2005|title=[[Anime from Akira to Howl's Moving Castle: Experiencing Contemporary Japanese Animation]]|publisher=Palgrave Macmillan|isbn=978-1-4039-7051-0}}
+* {{cite book|last1=Osmond|first1=Andrew|title=Spirited away = Sen to Chihiro no kamikakushi|date=2008|publisher=Palgrave Macmillan on behalf of the British Film Institute|location=Basingstoke [England]|isbn=978-1844572304}}
+*Suzuki, Ayumi. 2009. "[http://www.ejumpcut.org/archive/jc51.2009/SpiritedAway/ A nightmare of capitalist Japan: Spirited Away]", ''[[Jump Cut (journal)|Jump Cut]]'' 51
+*Yang, Andrew. 2010. "The Two Japans of 'Spirited Away'." ''[[International Journal of Comic Art]]'' 12(1):435–52.
+*{{cite book | last=Yoshioka | first=Shiro | year=2008 | chapter=Heart of Japaneseness: History and Nostalgia in Hayao Miyazaki's Spirited Away | editor-last=MacWilliams | editor-first=Mark W | title=Japanese Visual Culture: Explorations in the World of Manga and Anime | publisher=M.E. Sharpe | isbn=978-0-7656-1601-2 | url-access=registration | url=https://archive.org/details/japanesevisualcu0000unse }}
+
+==External links==
+{{Commons category|Spirited Away}}
+{{wikiquote}}
+<!-- * {{Official website|https://web.archive.org/web/20021205220352/http://bventertainment.go.com/movies/spiritedaway/index2.html}} -->
+* {{IMDb title|0245429}}
+* {{tcmdb title|437090}}
+* {{Allmovie|254034}}
+* {{bcdb title|20695|Spirited Away}}
+* {{anime News Network|anime|377}}
+* {{mojo title|spiritedaway}}
+* {{Metacritic film|spirited-away}}
+* {{Rotten-tomatoes|spirited_away}}
+* [http://www.jmdb.ne.jp/2001/dy002010.htm ''Spirited Away''] at the Japanese Movie Database {{in lang|ja}}
+* [http://www.oscars.org/awards/academyawards/legacy/ceremony/75th-winners.html 75th Academy Awards Winners | Oscar Legacy | Academy of Motion Picture Arts and Sciences]
+
+{{Hayao Miyazaki}}
+{{Studio Ghibli Films}}
+{{Navboxes
+|title = Awards for ''Spirited Away''
+|list =
+{{Academy Award for Best Animated Feature}}
+{{Animation Kobe Feature Film Award}}
+{{Annie Award for Best Animated Feature}}
+{{Blue Ribbon Award for Best Film}}
+{{Broadcast Film Critics Association Award for Best Animated Feature}}
+{{Dallas–Fort Worth Film Critics Association Award for Best Animated Film}}
+{{Florida Film Critics Circle Award for Best Animated Film}}
+{{Golden Bear 2000-2019}}
+{{Japan Academy Prize for Best Film}}
+{{Japan Media Arts Festival for Animation of the Year}}
+{{Los Angeles Film Critics Association Award for Best Animated Film}}
+{{Mainichi Film Award for Best Film}}
+{{Mainichi Film Award - Animation Film Award}}
+{{National Board of Review Award for Best Animated Film}}
+{{New York Film Critics Circle Award for Best Animated Film}}
+{{Nikkan Sports Film Award for Best Film}}
+{{Online Film Critics Society Award for Best Animated Film}}
+{{Satellite Award Best Animated or Mixed Media Feature Film}}
+{{Saturn Award for Best Animated Film}}
+{{Tokyo Anime Award for Animation of the Year}}
+{{Tokyo Anime Award for Theatrical Film}}
+}}
+
+{{Authority control}}
+{{Good article}}
+
+[[Category:2000s children's animated films]]
+[[Category:2000s children's fantasy films]]
+[[Category:2000s coming-of-age films]]
+[[Category:2001 anime films]]
+[[Category:2001 fantasy films]]
+[[Category:2001 films]]
+[[Category:Animated coming-of-age films]]
+[[Category:Animated films about dragons]]
+[[Category:Anime with original screenplays]]
+[[Category:Annie Award winners]]
+[[Category:Best Animated Feature Academy Award winners]]
+[[Category:Best Animated Feature Annie Award winners]]
+[[Category:Best Animated Feature Broadcast Film Critics Association Award winners]]
+[[Category:Coming-of-age anime and manga]]
+[[Category:Dentsu films]]
+[[Category:Fantasy anime and manga]]
+[[Category:Films about curses]]
+[[Category:Films about families]]
+[[Category:Films about frogs]]
+[[Category:Films about kidnapping]]
+[[Category:Films about parallel universes]]
+[[Category:Films about shapeshifting]]
+[[Category:Films about witchcraft]]
+[[Category:Films directed by Hayao Miyazaki]]
+[[Category:Films scored by Joe Hisaishi]]
+[[Category:Films set in 2001]]
+[[Category:Films set in Japan]]
+[[Category:Golden Bear winners]]
+[[Category:Isekai anime and manga]]
+[[Category:Japanese animated fantasy films]]
+[[Category:Japanese coming-of-age films]]
+[[Category:Japanese fantasy adventure films]]
+[[Category:Japanese ghost films]]
+[[Category:Japanese mythology in anime and manga]]
+[[Category:Japanese-language films]]
+[[Category:Picture of the Year Japan Academy Prize winners]]
+[[Category:Studio Ghibli animated films]]
+[[Category:Toho animated films]]
+[[Category:Yōkai in anime and manga]]

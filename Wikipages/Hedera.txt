@@ -1,0 +1,148 @@
+{{short description|Genus of flowering plants in the family Araliaceae}}
+{{Distinguish|Hadera}}
+{{Hatnote|"Ivy" redirects here. For other uses, see [[Ivy (disambiguation)]] and [[List of plants known as ivy]].}}
+{{Hatnote|For Hedera Hashgraph see [[Hashgraph]].}}
+{{Hatnote|For the typographic ornamentation, see [[Fleuron (typography)]]. ❧}}
+{{Automatic taxobox
+|image = Hedera algeriensis kz01.jpg
+|image_caption = [[Hedera algeriensis]] in [[Lincoln Park Conservatory]], Chicago
+|taxon = Hedera
+|authority = [[Carl Linnaeus|L.]]
+|subdivision_ranks = Species
+|subdivision = See text
+|synonyms =
+    {{Plainlist | style = margin-left: 1em; text-indent: -1em; |
+*''Helix'' <small>Mitch.</small>
+*''Psedera'' <small>Neck.</small>
+   }}
+|synonyms_ref = <ref>{{cite web
+|url=http://apps.kew.org/wcsp/synonomy.do?name_id=96559
+|title=World Checklist of Selected Plant Families
+|access-date=June 11, 2014}}</ref>
+|}}
+
+'''''Hedera''''', commonly called '''ivy''' (plural '''ivies'''), is a genus of 12–15 species of [[evergreen]] climbing or ground-creeping [[woody plant]]s in the family [[Araliaceae]], native to western, central and southern [[Europe]], [[Macaronesia]], northwestern [[Africa]] and across central-southern [[Asia]] east to [[Japan]] and [[Taiwan]].
+
+==Description==
+[[File:Ivy fruits.JPG|right|thumb|''[[Hedera helix]]'' adult leaves and unripe berries in Ayrshire, Scotland]]
+
+On level ground they remain creeping, not exceeding 5–20&nbsp;cm height, but on suitable surfaces for climbing, including [[tree]]s, natural [[rock (geology)|rock]] [[outcrop]]s or man-made structures such as [[quarry]] rock faces or built [[masonry]] and [[wood]]en structures, they can climb to at least 30 m above the ground. Ivies have two [[leaf]] types, with [[palmate]]ly lobed juvenile leaves on creeping and climbing stems and unlobed cordate adult leaves on fertile flowering stems exposed to full sun, usually high in the crowns of trees or the tops of rock faces, from 2 m or more above ground. The juvenile and adult shoots also differ, the former being slender, flexible and scrambling or climbing with small aerial roots to affix the shoot to the substrate (rock or tree bark), the latter thicker, self-supporting and without roots. The [[flower]]s are greenish-yellow with five small petals; they are produced in [[umbel]]s in autumn to early winter and are very rich in [[nectar]]. The [[fruit]] is a greenish-black, dark purple or (rarely) yellow [[Berry (botany)|berry]] 5–10&nbsp;mm diameter with one to five seeds, ripening in late winter to mid-spring. The seeds are dispersed by birds which eat the berries.
+
+The species differ in detail of the leaf shape and size (particularly of the juvenile leaves) and in the structure of the leaf [[trichome]]s, and also in the size and, to a lesser extent, the colour of the flowers and fruit. The [[chromosome]] number also differs between species. The basic diploid number is 48, while some are tetraploid with 96, and others hexaploid with 144 and octaploid with 192 chromosomes.<ref name="Ackerfield">Ackerfield, J, & Wen, J. (2002). A morphometric analysis of Hedera L. (the ivy genus, Araliaceae) and its taxonomic implications. ''Adansonia'' sér. 3, 24: 197-212. [http://www.mnhn.fr/publication/adanson/a02n2a6.pdf Full text.] {{webarchive|url=https://web.archive.org/web/20110808024417/http://www.mnhn.fr/publication/adanson/a02n2a6.pdf |date=2011-08-08 }}</ref>
+
+==Ecology==
+Ivies are natives of Eurasia and North Africa but have been introduced to North America and Australia. They invade disturbed forest areas in North America.<ref name=Bioone>{{cite journal|author1=Ingham, C.S. |author2=Borman, M.M. |year=2010|title=English Ivy (''Hedera'' spp., Araliaceae) Response to Goat Browsing|journal=Invasive Plant Science and Management|volume=3|issue=2|pages=178–181|doi=10.1614/ipsm-09-021.1|s2cid=86767633 }}</ref> Ivy seeds are spread by birds.<ref name=Bioone/>
+
+Ivies are of major ecological importance for their nectar and fruit production, both produced at times of the year when few other nectar or fruit sources are available.<ref name="Mitchell">{{cite journal |author=Mitchell, A. F. |year=1975 |title=Three Forest Climbers: Ivy, Old Man's Beard and Honeysuckle |journal=Forest Record |volume=102}}</ref> The ivy bee ''[[Colletes hederae]]'' is completely dependent on ivy flowers, timing its entire life cycle around ivy flowering.<ref>Hymettus — BWARS Information Sheet: [http://www.bwars.com/Files%204%20downloading/Info_sheets/01_Colletes_hederae_1col_infosheet.pdf Ivy Bee (''Colletes hederae'')] {{webarchive|url=https://web.archive.org/web/20110428202455/http://www.bwars.com/Files%204%20downloading/Info_sheets/01_Colletes_hederae_1col_infosheet.pdf |date=2011-04-28 }}</ref> The fruit are eaten by a range of birds, including [[thrush (bird)|thrushes]], [[blackcap]]s, and [[woodpigeon]]s.<ref name="Mitchell"/> The leaves are eaten by the [[larva]]e of some species of [[Lepidoptera]] such as [[angle shades]], [[lesser broad-bordered yellow underwing]], [[scalloped hazel]], [[small angle shades]], [[small dusty wave]] (which feeds exclusively on ivy), [[swallow-tailed moth]] and [[willow beauty]].
+
+A very wide range of invertebrates shelter and overwinter in the dense woody tangle of ivy.<ref name=WT/> Birds and small mammals also nest in ivy.<ref>[https://www.geog.ox.ac.uk/research/landscape/rubble/ivy/ivy-report.pdf English Heritage - Ivy on Walls] Seminar Report, 19 May  2010 ''www.geog.ox.ac.uk'', accessed 11 November 2020</ref> It serves to increase the surface area and complexity of woodland environments.
+
+==Taxonomy==
+[[File:Hedera canariensis Gomera.jpg|thumb|right|''[[Hedera canariensis]]'' juvenile leaves, [[Gomera]], [[Canary Islands]].]]
+[[File:Hedera algeriensis 01.jpg|thumb|''[[Hedera algeriensis]]'']]
+
+The following species are widely accepted; they are divided into two main groups, depending on whether they have scale-like or stellate trichomes on the undersides of the leaves:<ref name="Ackerfield"/><ref>McAllister, H. (1982). New work on ivies ''Int. Dendrol. Soc. Yearbook'' 1981: 106–109.</ref><ref>Germplasm Resources Information Network [http://www.ars-grin.gov/cgi-bin/npgs/html/splist.pl?5448 Species Records of ''Hedera''] {{webarchive|url=https://web.archive.org/web/20150924121955/http://www.ars-grin.gov/cgi-bin/npgs/html/splist.pl?5448 |date=2015-09-24 }}</ref>
+*Trichomes scale-like
+**''[[Hedera algeriensis]]'' Hibberd – Algerian ivy. Algeria, Tunisia (Mediterranean coast).
+**''[[Hedera canariensis]]'' Willd. – Canaries ivy. Canary Islands.
+**''[[Hedera colchica]]'' (K.Koch) K.Koch – Persian ivy. Alborz, Caucasus, Turkey.
+**''[[Hedera cypria]]'' McAllister – Cyprus ivy (syn. ''H. pastuchovii'' subsp. ''cypria'' (McAll.) Hand). Cyprus (Troodos Mts.)
+**''[[Hedera iberica]]'' (McAllister) Ackerfield & J.Wen – Iberian ivy. SW Iberian coasts.
+**''[[Hedera maderensis]]'' – Madeiran ivy. Madeira.
+**''[[Hedera maroccana]]'' McAllister – Moroccan ivy. Morocco.
+**''[[Hedera nepalensis]]'' K.Koch – Himalayan ivy (syn. ''H. sinensis'' (Tobl.) Hand.-Mazz.). Himalaya, SW China.
+**''[[Hedera pastuchovii]]'' G.Woronow – Pastuchov's ivy. Caucasus, Alborz.
+**''[[Hedera rhombea]]'' (Miq.) Siebold ex Bean – Japanese ivy. Japan, Korea, Taiwan.
+*Trichomes stellate
+**''[[Hedera azorica]]'' Carrière – Azores ivy. Azores.
+**''[[Hedera helix]]'' L. – Common ivy (syn. ''H. caucasigena'' Pojark., ''H. taurica'' (Hibberd) Carrière). Europe, widespread.
+**''[[Hedera hibernica]]'' (G.Kirchn.) Bean – Atlantic ivy (syn. ''H. helix'' subsp. ''hibernica'' (G.Kirchn.) D.C.McClint.). Atlantic western Europe.
+
+The species of ivy are largely [[Allopatric speciation|allopatric]] and closely related, and many have on occasion been treated as varieties or subspecies of ''H. helix'', the first species described. Several additional species have been described in the southern parts of the former [[Soviet Union]], but are not regarded as distinct by most botanists.
+
+The only verified [[hybrid (biology)|hybrid]] involving ivies is the intergeneric hybrid ''[[× Fatshedera lizei]]'', a cross between ''[[Fatsia japonica]]'' and ''Hedera hibernica''. This hybrid was produced once in a garden in France in 1910 and never successfully repeated, the hybrid being maintained in cultivation by vegetative propagation.<ref name="Huxley">Huxley, A., ed. (1992). ''New RHS Dictionary of Gardening'' 2: 60. Macmillan {{ISBN|0-333-47494-5}}.</ref><ref name="Metcalfe">Metcalfe, D. J. (2005). [http://www.lclark.edu/org/kennedy/objects/Metcafle2005.pdf Biological Flora of the British Isles no. 268 Hedera helix L.] ''Journal of Ecology'' 93: 632–648.</ref> Despite the close relationship between ''Hedera helix'' and ''H. hibernica'' (until relatively recently considered conspecific), no hybrids between them have yet been found.<ref>McAllister, H.A., & Rutherford, A. (1990). Hedera helix L. and H. hibernica (Kirchner) Bean (Araliaceae) in the British Isles. ''Watsonia'' 18: 7-15. [http://www.watsonia.org.uk/Wats18p7.pdf Full text.] {{webarchive|url=https://web.archive.org/web/20110726103923/http://www.watsonia.org.uk/Wats18p7.pdf |date=2011-07-26 }}</ref> Hybridisation may however have played a part in the evolution of some species in the genus.<ref name="Ackerfield"/>
+
+==Uses and cultivation==
+[[File:Gwenyn ar Flodau Eiddew - Bees on Ivy Flowers - geograph.org.uk - 547757.jpg|thumb|right|180px|When the ivy blooms in September it attracts [[hoverfly|hoverflies]] and other nectar feeders.]]
+[[File:Hedera helix Leaves 3008px.jpg|right|thumb|180px|A variegated ''Hedera helix'' cultivar]]
+
+Ivies are very popular in cultivation within their native range and compatible climates elsewhere, for their evergreen foliage, attracting wildlife, and for adaptable design uses in narrow planting spaces and on tall or wide walls for aesthetic addition, or to hide unsightly walls, fences and tree stumps. Numerous [[cultivar]]s with variegated foliage and/or unusual leaf shapes have been selected for horticultural use.<ref name="Huxley"/> <!-- [[Frank Lloyd Wright]] is attributed with saying "Doctors bury their mistakes, architects cover them with ivy".{{Citation needed|date=September 2010}} -->
+
+==Problems and dangers==
+
+===On trees===
+Much discussion has involved whether or not ivy climbing trees will harm them. In Europe, the harm is generally minor although there can be competition for soil nutrients, light, and water, and [[Senescence|senescent]] trees supporting heavy ivy growth can be liable to [[windthrow]] damage.<ref name="Mitchell"/> The UK's [[Woodland Trust]] says "Ivy has long been accused of strangling trees, but it doesn’t harm the tree at all, and even supports at least 50 species of wildlife."<ref name=WT>{{cite web|url=https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/plants/wild-flowers/ivy/|title=Ivy (Hedera helix)|access-date=23 December 2019|website=[[Woodland Trust]]}}</ref> Harm and problems are more significant in [[North America]], where ivy is without the natural pests and diseases that control its vigour in its native continents; the photosynthesis or structural strength of a tree can be overwhelmed by aggressive ivy growth leading to death directly or by opportunistic disease and insect attacks.<ref>{{Cite web|title=Hedera helix|url=https://www.fs.fed.us/database/feis/plants/vine/hedhel/all.html|access-date=2021-01-21|website=www.fs.fed.us}}</ref>
+<!--
+===On walls===
+Concerns exist about damage by aerial roots and trunk growth to dry stacked stone, brick or stone and mortar, and stucco-plastered walls. Dry stacked stonework, over enough time for ivy trunks to gain significant girth, can be damaged or destroyed. For brick or stone and [[Mortar (masonry)|mortar]] construction it is of general opinion that a soundly mortared installation is impenetrable to the climbing aerial roots and thus not damaged, and even protected from weathering by the ivy deflecting rain impact off the mortar. However, walls with preexisting weakened or loose mortar may be badly damaged, as the ivy's roots penetrate the mortar and break up the wall. Subsequent ivy removal can be difficult, and often causes further damage. Modern mortars containing [[Portland cement]] and little lime are stronger than older mortar mixes composed of just sand and lime. Most mortar mixes began containing Portland cement in the 1930s. Older mortar mixes are still used for laying softer types of bricks. Stucco and plaster walls can be aesthetically ruined after ivy pruning or removal, requiring a new topcoat or repainting, and sometimes needing restoration for structural and waterproofing problems. When ivy climbs on wooden structures and fences, there can be direct and secondary problems. The direct issues are runners and trunks growing between boards and expanding construction joints, thus destabilizing or destroying the structure. The secondary issues involve the entry of aerial roots into the wood grain causing the wood to split and allowing moisture and [[fungus]] to penetrate and accelerate [[wet rot]] and eventual collapse.{{Citation needed| date=September 2010}} -->
+
+===Invasive exotic===
+Several ivy species have become a serious [[invasive species]] (invasive exotic) in natural native plant [[habitat]]s, especially riparian and woodland types, and also a horticultural [[weed]] in gardens of the western and southern regions of North America with milder winters. Ivies create a dense, vigorously smothering, shade-tolerant evergreen groundcover that can spread through assertive underground rhizomes and above-ground runners quickly over large natural plant community areas and outcompete the native vegetation. The use of ivies as [[ornamental plant]]s in horticulture in [[California]] and other states is now discouraged or banned in certain jurisdictions.<ref>{{Cite web |url=http://www.cal-ipc.org/ip/inventory/pdf/Criteria.pdf |title=Criteria for Categorizing Invasive Non-native Plants that Threaten Wildlands |publisher=Cal-IPC. |date=2003-02-28 |access-date=2010-04-01 |archive-url=https://web.archive.org/web/20100612193359/http://www.cal-ipc.org/ip/inventory/pdf/Criteria.pdf |archive-date=2010-06-12 |url-status=dead }}</ref> Similar problems exist in [[Australia]]. For example, in both countries the [[North Africa]]n drought-tolerant ''H. canariensis'' and ''H. algeriensis'' and European ''H. helix'' were originally cultivated in garden, park, and highway landscaping, but they have become aggressively invasive in coastal forests and riparian ecosystems, now necessitating costly eradication programs.<ref>{{Cite web|url=http://www.cal-ipc.org/paf/ |title=California Invasive Plant Council Interactive Database. |publisher=Cal-IPC. |access-date=2014-05-27}}</ref>
+
+===Toxicity===
+The berries are moderately toxic. Ivy foliage contains [[terpene|triterpenoid]] [[saponin]]s and [[falcarinol]].
+Falcarinol is capable of inducing [[contact dermatitis]]. It has also been shown to kill breast cancer cells.<ref>{{Cite journal|author1=M. Kobæk-Larsen |author2=L. P. Christensen |author3=W. Vach |author4=J. Ritskes-Hoitinga |author5=K. Brandt | title = Inhibitory Effects of Feeding with Carrots or (-)-Falcarinol on Development of Azoxymethane-Induced Preneoplastic Lesions in the Rat Colon| journal = Journal of Agricultural and Food Chemistry| year = 2005| volume = 53| issue = 5|pages = 1823–1827| doi = 10.1021/jf048519s| pmid = 15740080 }}</ref>
+
+===Stinging insects===
+The flowers of ivy are pollinated by [[Hymenoptera]] and are particularly attractive to the [[common wasp]].
+
+==Etymology and other names==
+The name ivy derives from [[Old English]] ''ifig'', cognate with German ''Efeu'', of unknown original meaning.<ref>{{Cite book|last=Werner|first=W.|url=https://unipub.uni-graz.at/obvugrhs/content/titleinfo/208188/full.pdf|title=The Terminology of Medicinal Plants in English and German. Linguistic and didactic aspects|publisher=|year=2009|isbn=|location=|pages=}}</ref> The scientific name ''Hedera'' is the classical Latin name for the plant.<ref name="Huxley"/> Old regional common names in Britain, no longer used, include "Bindwood" and "Lovestone", for the way it clings and grows over stones and bricks. US [[Pacific Coast]] regional common names for ''H. canariensis'' include "California ivy" and "Algerian ivy"; for ''H. helix'', regional common names include the generic "English ivy".
+
+The name ivy has also been used as a common name for a number of other unrelated plants, including Boston ivy (Japanese Creeper ''[[Parthenocissus tricuspidata]]'', in the family [[Vitaceae]]), Cape-ivy (used interchangeably for ''[[Senecio angulatus]]'' and ''[[Delairea odorata]]'', in the family [[Asteraceae]]), poison-ivy (''[[Toxicodendron radicans]]'' in the family [[Anacardiaceae]]), and Swedish ivy (Whorled Plectranthus ''[[Plectranthus verticillatus]]'', in the family [[Lamiaceae]]).
+
+==Cultural symbolism==
+Like many other evergreen plants, which impressed European cultures by persisting through the winter, ivy has traditionally been imbued with a spiritual significance. It was brought into homes to drive out evil spirits.<ref name=WT/>
+
+In [[The Roman Empire|Ancient Rome]] it was believed that a wreath of ivy could prevent a person from becoming drunk, and such a wreath was worn by [[Bacchus]], the god of intoxication.<ref name=WT/>
+
+Ivy bushes or ivy-wrapped poles have traditionally been used to advertise taverns in the United Kingdom, and many pubs are still called The Ivy.<ref>[https://getoutside.ordnancesurvey.co.uk/guides/the-history-of-pub-names/ the-history-of-pub-names] Ordnance Survey guides ''getoutside.ordnancesurvey.co.uk'', accessed 11 November 2020</ref>
+
+The clinging nature of ivy makes it a symbol of love and friendship, there was once a tradition of priests giving ivy to newlyweds,<ref name=WT/> and as it clings to dead trees and remains green, it was also viewed as a symbol of the eternal life of the soul after the death of the body in medieval Christian symbolism.<ref>Dictionary of Symbolism: Cultural icons and the meaning behind them, by Hans Beidermann, translated by James Hulbert 1992 P.187</ref>
+
+The traditional British [[Christmas carol]], "[[The Holly and the Ivy]]", uses ivy as a symbol for the [[Mary, Mother of Jesus|Virgin Mary]].
+
+Ivy-covered ruins were a staple of the [[Romanticism|Romantic]] movement in landscape painting, for example ''Visitor to a Moonlit Churchyard'' by [[Philip James de Loutherbourg]] (1790), ''Tintern Abbey, West Front'' by [[Joseph Mallord William Turner]] (1794) and ''Netley Abbey'' by [[Francis Towne]] (1809). In this context ivy may represent the ephemerality of human endeavours and the [[sublime (philosophy)|sublime]] power of nature. 
+
+The image of ivy-covered historic buildings gave the name [[Ivy League]] to a group of old and prestigious American [[university|universities]]. <ref>{{cite web |last1=Harper |first1=Douglas |title=ivy |url=https://www.etymonline.com/word/ivy#etymonline_v_12296 |website=Etymonline |access-date=24 December 2020}}</ref>
+
+Ivy features extensively in the 2010 movie ''[[Arrietty]]'' and the poster for the film.
+
+==Gallery==
+<gallery>
+File:Beroun, Hostim, popínavé rostliny v údolí říčky Loděnice-Kačák.JPG|''Hedera helix'' on trees near Srbsko, Czech Republic
+File:Hedera colchica0.jpg|''Hedera colchica'' leaves and flowers
+File:Hedera hibernica with berries.JPG|''Hedera hibernica'' with berries
+File:Ivy 77uf be.JPG|''Hedera helix'' leaves, Bremerhaven
+File:Hedera helix 003.JPG|''Hedera helix'' flowers
+</gallery>
+
+==See also==
+* [[Anjo Festival]]
+* [[Bığbığ Ivy]]
+* [[List of poisonous plants]]
+* [[NASA Clean Air Study]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:90723-1 Kew plant profiles: ''Hedera helix'' (common ivy)]
+* {{cite web |url = https://www.telegraph.co.uk/earth/earthnews/7723508/Ivy-is-good-for-walls-finds-Oxford-University-study.html |archive-url = https://web.archive.org/web/20100520053656/http://www.telegraph.co.uk/earth/earthnews/7723508/Ivy-is-good-for-walls-finds-Oxford-University-study.html |url-status = dead |archive-date = 20 May 2010 |title = Ivy is good for walls, finds Oxford University study |last = Hutchison |first = Peter |publisher = Telegraph |date = 14 May 2010 |website = The Telegraph |access-date= 13 March 2014 }}
+* {{cite web |url = https://www.researchgate.net/publication/346680073 |title = Hedera helix ssp. helix, leaves of a wild specimen |last = Walkowiak |first = Radoslaw |publisher = CTC Digital Plant Collection |date = 2020 |website = ResearchGate }}
+
+{{Taxonbar|from=Q26771}}
+{{Authority control}}
+
+[[Category:Hedera| ]]
+[[Category:Apiales genera]]
+[[Category:Christmas plants]]
+[[Category:Flora of Africa]]
+[[Category:Flora of Europe]]
+[[Category:Garden plants of Africa]]
+[[Category:Garden plants of Europe]]
+[[Category:Groundcovers]]
+[[Category:Rhizomatous plants]]
+[[Category:Stoloniferous plants]]
+[[Category:Taxa named by Carl Linnaeus]]
+[[Category:Vines]]

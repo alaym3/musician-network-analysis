@@ -1,0 +1,248 @@
+{{for|the state railways of the German Empire|Länderbahnen}}
+{{Use dmy dates|date=May 2017}}
+{{Infobox company|
+| name = Die Länderbahn GmbH
+| type =
+| logo = [[File:Länderbahn logo.svg|250px]]
+| slogan =
+| location_city = [[Viechtach]]
+| location_country = [[Germany]]
+| industry = [[Transport]]
+| owner = [[Netinera]]
+| products = [[Rail transport]]
+| revenue =
+| predecessors  =
+| net_income =
+| operating_income =
+| num_employees =140
+| key_people =
+| subsid =
+| homepage = [http://www.laenderbahn.com/ Die Länderbahn]
+}}
+
+'''Die Länderbahn GmbH ''' (DLB), formerly '''Vogtlandbahn GmbH''', is a German rail transport company based in [[Viechtach]], operating transport services originally only in the [[Vogtland]], but now also on a regional basis. Die Länderbahn (literally "the states railway") is a subsidiary of [[Regentalbahn|Regentalbahn AG]], which is owned by [[Ferrovie dello Stato]] subsidiary [[Netinera]] (formerly [[Arriva]] Deutschland). The term ''vogtlandbahn'' remains in use as a trademark of ''Die Länderbahn'' in [[Vogtland]].
+ 
+Die Länderbahn is a member of the ''Tarifverband der Bundeseigenen und Nichtbundeseigenen Eisenbahnen in Deutschland'' (Tariff association of federally-owned and non-federally-owned railways in Germany, TBNE).
+
+== Origins ==
+
+After German Reunification in 1990, there was a sharp drop in passenger numbers on the rail network in all the new [[Bundesland (Germany)|Bundesländer]]. Saxony, and thus Vogtland, was no exception. The railways had old rolling stock and could not compete with rapidly improving roads. The Saxon government invested in an attempt to improve the attractiveness of the [[Zwickau]]–[[Falkenstein/Vogtl.|Falkenstein]]–[[Klingenthal]] line and the [[Pöhl|Herlasgrün]]–[[Falkenstein/Vogtl.|Falkenstein]]–[[Adorf/Vogtl.|Adorf]] (timetable route&nbsp;539). The track was relaid to an 80&nbsp;km/h standard, disabled access was facilitated at all stations and new stations opened. Maintenance and tracks were rationalised. Some platforms were removed, some stations such as [[Schöneck/Vogtl.|Schöneck]] were restyled as halts.
+
+[[File:Vogtlandbahn1.jpg|thumb|left|A Vogtlandbahn RegioSprinter near the [[Schöneck/Vogtl.|Schöneck]] Ferienpark halt.]]
+
+One component of the project model was the reallocation of the public transport services within the framework of a competitive environment. In addition to new vehicles, timetables and optimised transfer connections between the transport modes were required. In response to an invitation to tender published in September 1994, the contract was won by ''Regental-Bahnbetriebs-GmbH'' from [[Viechtach]], Bavaria. After the completion of the redevelopment measures, operations started on 23&nbsp;November 1997. On 1&nbsp;January 1998, Vogtlandbahn was acquired by ''Regental-Bahnbetriebs-GmbH'' and operated as an independent company under the umbrella of the [[Regentalbahn|Länderbahn]] group. In contrast to the trains formerly operated by [[Deutsche Bahn]], services have been well used since Vogtlandbahn took over the company. Therefore, it began construction of its own locomotive depot in [[Neumark, Saxony|Neumark]] in the spring of 1998, which was opened after two years of construction on 4&nbsp;July 2000. The locomotive depot in Reichenbach that had been used previously was no longer needed.
+
+==="Zwickau Model" ===
+[[File:25a Bf Zwickau Zentrum, VT45 VB.jpg|thumb|VT 45 railcar with BO-Strab equipment at the end of the line in central Zwickau]]
+
+A further success is the extension of the network into Zwickau town centre. Following the example set by the [[Karlsruhe Stadtbahn]], the lines extend from [[Zwickau Hauptbahnhof]] to the central markets. As most of the Vogtland network has not been electrified, the train-trams do not use current from the tramwires (as in Karlsruhe) but are driven by diesel engines. Between the Hauptbahnhof and ''Stadthall'' there was a link that could be reactivated. From there to ''Zentrum'' the train and the tram use the same tracks. To do this, [[Dual gauge|dual-gauge track]] has been laid; there are three rails, the tram uses [[metre gauge]] {{RailGauge|1000mm}}, and the Vogtlandbahn uses [[standard gauge]], {{RailGauge|1435mm}}. An extra rail was laid next to the tram line so that they share one rail and each use one of the others as appropriate. Since the tramway was only built at this time, a third track and a larger distance between the tracks could be planned from the start, making the retrofitting possible. The diesel sets run on the common route under [[Verordnung über den Bau und Betrieb der Straßenbahnen|BOStrab]] procedures, so they were equipped with indicators and brake lights. Because of their breadth, however, they do not operate with road traffic; Äußere Schneeberger Straße is largely closed to car traffic. However, the area used by the tracks can be used by rescue vehicles and rail replacement buses.
+
+===Expansion outside of Saxony===
+[[File:Sokolov, nádraží, souprava Vogtlandbahn.jpg|thumb|RegioSprinter in [[Sokolov, Czech Republic|Sokolov]], since 2003 the southern end of the line]]
+
+In the years that followed Vogtlandbahn had many opportunities to bid for further routes to expand its network. From their core routes in the Vogtland they moved over into [[Bavaria]] and [[Thuringia]], with lines to [[Hof (Saale)|Hof]], Schleiz and Gera. When the Czech Republic became a candidate for [[European Union]] membership a new market opened. In 2000, after a 55-year gap, the Zwickau–Klingenthal line was reconnected to [[Kraslice]] (Graslitz). In 2003 it connected to [[Sokolov (Sokolov District)|Sokolov]] (Falkenau) on the  Czech [[Chomutov–Cheb railway]].
+
+On 14&nbsp;December 2003, Vogtlandbahn secured an agreement with DB Regio AG to use the [[Gera]]–[[Weida, Thuringia|Weida]]–[[Zeulenroda]]–[[Mehltheuer]] line and thus started a general traffic service on the [[Elstertalbahn]] between Gera, [[Greiz]] and [[Weischlitz]], which previously had required a change. Following the extension of the Zwickau–Plauen–Bad Brambach line over the Czech border to [[Cheb]] (German: Eger) and thus Marktredwitz in Bavaria, the Plauen-Hof service was extended through Marktredwitz and [[Weiden in der Oberpfalz|Weiden]] (10 June 2001) to [[Regensburg]] (15 December 2002).
+
+At the timetable change on 8&nbsp;December 2006, Vogtlandbahn had to give up the operation of a service for the first time. Traffic had not increased [[Schönberg–Schleiz railway|between Schönberg and Schleiz]], so that the Thuringian local transport authority was not willing to extend the contract for the operation. There was no connection with the reduction in the support for regionalisation measures, which had been decided a few months earlier, since the end of the service was already anticipated. On the other hand, Vogtlandbahn would gain new services in the north-east of Bavaria. Vogtlandbahn operated [[Regionalbahn]] services on behalf of ''[[DB Regio]] Nordostbayern'' from  December 2006 until the takeover of the ''Dieselnetz Oberfranken'' (upper Fancononia diesel network) by [[agilis]] in June 2011 on the (Hof&nbsp;–) [[Münchberg]]–[[Helmbrechts]] and [[Lichtenfels station|Lichtenfels]]–[[Neuenmarkt-Wirsberg station|Neuenmarkt-Wirsberg]] routes, partly together with Deutsche Bahn, but also by itself.
+
+===Sale===
+
+Finally, in autumn 2004 Bavaria sold its final stake in the Länderbahn to the British-owned [[Arriva]] group, who already owned the [[Prignitz railway]] in [[Brandenburg]]. This made them the second largest railway company in Germany. After Arriva was bought by [[Deutsche Bahn]] in 2010, the business had to be resold to preserve competition. The new owners were the Italian state railways (''Ferrovie dello Stato'') together with Luxembourg infrastructure fund ''Cube''. The German parent company has been called ''Netinera'' since March 2011.
+
+=== Re-tender===
+The core network of Vogtlandbahn in the [[Vogtlandkreis]], west [[Saxony]] and east Thuringia was re-tendered by the transport authority in the spring of 2010. The tendered ''Vogtland'' network includes the Hof–Falkenstein–Adorf, Mariánské Lázne–Plauen ob Bf–Zwickau Zentrum, Weischlitz–Gera and Zwickau Zentrum–Kraslice lines with an annual 3.16 million train-kilometres. Vogtlandbahn won the contract in September 2010, so the traffic in the Vogtland will continue to be operated by this company from December 2012 to December 2027. Regio-Shuttles, Desiros and RegioSprinters are used for these operations. The brand name in the core network is ''vogtlandbahn'' (in lower case), despite the renaming of the company as ''Die Länderbahn''.
+ 
+At the timetable change on 8&nbsp;December 2012, scheduled services ended between Zwotental and Adorf, which had recently only operated on weekends.
+
+== Network ==
+In the current timetable, many lines are operated by the Länderbahn (under the brand names of ''vogtlandbahn'', ''alex'', ''waldbahn'', ''oberpfalzbahn'' and ''trilex''):
+
+{| class="wikitable"
+! Line
+! Route
+! Distance
+! Stations
+! width="30%" | Start date
+|-
+! {{Bahnlinie|RB||alex&nbsp;Nord|#FFFFFF|#EC0000|#000000}}
+| [[München Hauptbahnhof|Munich Hbf]]–[[Landshut Hauptbahnhof|Landshut Hbf]]–[[Regensburg|Regensburg Hbf]]–[[Schwandorf station|Schwandorf]]&nbsp;–<br />&nbsp;&nbsp;/ [[Weiden in der Oberpfalz|Weiden]]–[[Marktredwitz station|Marktredwitz]]–[[Hof Hauptbahnhof|Hof Hbf]]<br />&nbsp;&nbsp;/ [[Furth im Wald]]–[[Plzeň hlavní nádraží|Plzeň]]–[[Praha hlavní nádraží|Prague]]
+| align="right" | 318/443&nbsp;km
+| align="center" | 16/16
+| 9&nbsp;December 2007
+|-
+! {{Bahnlinie|RB||alex&nbsp;Süd|#FFFFFF|#FF4600|#000000}}
+| Munich Hbf–[[Buchloe station|Buchloe]]–[[Kempten Hauptbahnhof|Kempten Hbf]]–[[Immenstadt]] –<br />&nbsp;&nbsp;/ [[Oberstdorf station|Oberstdorf]]<br />&nbsp;&nbsp;/ [[Hergatz station|Hergatz]]–[[Lindau Hauptbahnhof|Lindau Hbf]]
+| align="right" | 172/221&nbsp;km
+| align="center" | 17/14
+| 9&nbsp;December 2007
+|-
+! {{Bahnlinie|RB|1}}
+| [[Zwickau]] Zentrum–[[Zwickau Hauptbahnhof|Zwickau (Sachs) Hbf]]–Lengenfeld–Auerbach–Falkenstein–Zwotental–Klingenthal–[[Kraslice]]
+| align="right" | 73&nbsp;km
+| align="center" | 23
+| <small>Zwickau&nbsp;Hbf–Klingenthal: 23&nbsp;November 1997<br /> Zwickau&nbsp;Zentrum–Zwickau&nbsp;Hbf: 28&nbsp;May 1999<br /> [[Sokolov–Klingenthal railway|Klingenthal–Kraslice]]: 28&nbsp;May 2000</small>
+|-
+! {{Bahnlinie|RB|2}}
+| Zwickau Zentrum–Zwickau (Sachs) Hbf (–Werdau)–Reichenbach ob Bf–Plauen (Vogtl) ob Bf (— Hof Hbf)–Bad Brambach–Cheb
+| align="right" | 96&nbsp;km
+| align="center" | 20
+| <small>Zwickau&nbsp;Hbf–Plauen (Vogtl) ob Bf: 13&nbsp;October 1996<br />Plauen (Vogtl) Mitte–Hof Hbf: 28&nbsp;May 2000</small>
+|-
+! {{Bahnlinie|RB|4}}
+| [[Gera Hauptbahnhof|Gera]]&nbsp;Hbf–[[Greiz station|Greiz]]–[[Elsterberg]]–Plauen (Vogtl) Mitte–Weischlitz–Plauen (Vogtl) ob Bf–Adorf (Vogtl) 
+| align="right" | 
+| align="center" | 
+| <small>Partial: 1&nbsp;July 2002<br /> Complete: 14&nbsp;December 2003</small>
+|-
+! {{Bahnlinie|RB|5}}
+| Mehltheuer–Plauen (Vogtl) ob Bf–Herlasgrün–Auerbach–Falkenstein–Zwotental–Klingenthal–[[Kraslice]]
+| align="right" | 
+| align="center" | 
+| <small>Plauen (Vogtl) ob Bf–Falkenstein: 23&nbsp;November 1997</small>
+|-
+! {{Bahnlinie|RB||VB 3}}
+| Marktredwitz–Wiesau–Altenstadt&nbsp;(Waldnaab)–Weiden–Nabburg–Schwandorf–Regensburg Hbf
+| align="right" | 138&nbsp;km
+| align="center" | 25
+| <small>Hof Hbf–Weiden: 10&nbsp;June 2001<br /> Weiden–Regensburg Hbf: 15&nbsp;December 2002<br />Hof Hbf - Marktredwitz: until 9 December 2012<br />Marktredwitz–Regensburg Hbf: until 14 December 2014</small>
+|-
+! {{Bahnlinie|RB||VB 8}}
+| Marktredwitz–Schirnding–Cheb
+| align="right" | 27&nbsp;km
+| align="center" | 5
+| 28&nbsp;May 2000 to 14&nbsp;December 2014
+|-
+! {{Bahnlinie|RE|1||white|#FF4600|black}}
+| Dresden Hbf–Bischofswerda–Bautzen–Löbau–Görlitz (–Wrocław Główny)<br /><small>Individual trains continue to Wrocław Główny (Dresden-Wrocław-Express)</small>
+|style="text-align:right"| 105&nbsp;km
+|style="text-align:center"| 10
+| 14&nbsp;December 2014
+|-
+! {{Bahnlinie|RE|2||white|#FF4600|black}}
+| Dresden Hbf–Bischofswerda–Zittau (–Liberec)
+|style="text-align:right"| 105/132&nbsp;km
+|style="text-align:center"| 13/19
+| 14&nbsp;December 2014
+|-
+! {{Bahnlinie|RB|60||white|#FF4600|black}}
+| Dresden Hbf–Bischofswerda–Bautzen–Löbau–Görlitz
+|style="text-align:right"| 105&nbsp;km
+|style="text-align:center"| 23
+| 14&nbsp;December 2014
+|-
+! {{Bahnlinie|RB|61||white|#FF4600|black}}
+| Dresden Hbf–Bischofswerda–Zittau
+|style="text-align:right"| 105&nbsp;km
+|style="text-align:center"| 28
+| 14&nbsp;December 2014
+|-
+! {{Bahnlinie|RB||L 7|white|#FF4600|black}}
+| Liberec–Zittau–Varnsdorf–Rybniště/ Seifhennersdorf <small>([[Mittelherwigsdorf–Varnsdorf–Eibau railway]])</small>
+|style="text-align:right"| 56/50&nbsp;km
+|style="text-align:center"| 17/16
+| 12&nbsp;December 2010
+|-
+! {{Bahnlinie|RB||WBA 1|white|#6AA342|black}}
+|Bayerisch Eisenstein–Zwiesel (Bay)–Gotteszell–Plattling
+|style="text-align:right"| 72&nbsp;km
+|style="text-align:center"| 11
+| 15&nbsp;December 2013
+|-
+! {{Bahnlinie|RB||WBA 2|white|#6AA342|black}}
+|Bodenmais–Zwiesel (Bay)
+|style="text-align:right"| 15&nbsp;km
+|style="text-align:center"| 5
+| 15&nbsp;December 2013
+|-
+! {{Bahnlinie|RB||WBA 3|white|#6AA342|black}}
+|Zwiesel (Bay)–Grafenau
+|style="text-align:right"| 32&nbsp;km
+|style="text-align:center"| 9
+| 15&nbsp;December 2013
+|-
+! {{Bahnlinie|RB||WBA 4|white|#6AA342|black}}
+|Viechtach–Gotteszell
+|style="text-align:right"| 25&nbsp;km
+|style="text-align:center"| 8
+| 12&nbsp;September 2016<ref>{{cite web| publisher=Die Länderbahn GmbH| url=http://www.laenderbahn.com/waldbahn/ueber-uns/gotteszell-viechtach/| title=Seit 12. September 2016 mit der waldbahn von Gotteszell nach Viechtach fahren| access-date=28 May 2017| language=de| archive-url=https://web.archive.org/web/20180730140523/https://www.laenderbahn.com/waldbahn/ueber-uns/gotteszell-viechtach/| archive-date=30 July 2018| url-status=dead}}</ref>
+|}
+
+Between Zwickau, Falkenstein and Klingenthal, Kraslice, as well as between Falkenstein and Plauen, the trains usually operate hourly. On weekends, services on these sections of line, operate every  two hours.
+ 
+Since the timetable change on 14 December 2014, services of the Länderbahn operate on the [[Dresden–Görlitz railway|Dresden–Görlitz]] and Dresden–Zittau (–[[Liberec–Zittau railway|Liberec]]) lines.<ref>{{cite web | publisher=Zweckverband Verkehrsverbund Oberlausitz-Niederschlesien | url=http://www.zvon.de/de/dnl/20131010_st_vergabe_ostsachsennetz.7022.pdf | format=PDF; 37.6&nbsp;kB | title=Vogtlandbahn bedient ab Dezember 2014 die Zuglinien im Ostsachsennetz |  access-date=28 May 2017|language=de}}</ref> These routes were previously operated by  [[DB Regio]] Südost. In March 2014, ZVON announced that Länderbahn would operate these services as part so-called ''Ostsachsennetz'' (East Saxon Network) under the brand name of ''Trilex''. The Regional-Express lines have since been designated as TLX1 and 2 and the Regionalbahn lines have been designated as TL60 and 61. The previous Trilex line has since been called TL70.
+ 
+Lines VB 3 and VB 8 have been operated since the timetable change of 14 December 2014 by the associated company, ''Regentalbahn'', which won the ''Regionalzüge Ostbayern'' contract of the [[Bayerische Eisenbahngesellschaft]] in 2011.<ref>{{cite web|publisher=Bayerische Eisenbahngesellschaft |url=http://beg.bahnland-bayern.de/aktuelles/zuschlag-regionalzuege-ostbayern-geht-an-die-regental-bahnbetriebs-gmbh-87 |title=Zuschlag Regionalzüge Ostbayern geht an die Regental Bahnbetriebs-GmbH |date=9 November 2011 | access-date=28 May 2017|language=de}}</ref>
+ 
+The Trilex lines have been changed since the timetable change in December 2016 again with the original lines designated as RE1, RE2, RB60 and RB61. The former line designated as TL70 received at this time the line designation of L7.
+ 
+At the timetable change of 11 December 2016, Vogtlandbahn renamed the VL 1, VL 2, VL 4, VL 5 services as RB 1, RB 2, RB 4 and RB 5.
+
+== Rolling stock==
+[[File:Vogtlandbahn Desiros in Schwandorf.jpg|thumb|Siemens Desiro diesel multiple units VT&nbsp;12 and VT&nbsp;13 of the Vogtlandbahn in [[Schwandorf]]]]
+[[File:Desiro Vogtlandbahn Innenraum 2258.jpg|thumb|Interior of a Vogtlandbahn Desiro]]
+[[File:I10 543 Bf Plauen ob Bf, VT 57 VB.jpg|thumb|Coupled sets of RegioShuttles in Plauen station]]
+The company decided in the beginning to use [[RegioSprinter]] class of railcars from [[Duewag]] that had already been ordered by [[Dürener Kreisbahn]]. This was originally a series of 6 and then a further series of 10 were ordered. Between 1998 and 1999, the second series were rebuilt so they could be used on the Zwickau train-tram lines, for example: brakelights, indicators and warning bells were needed. They needed switch equipment to activate the traffic lights to ensure a safe uninterrupted passage. In January 2004 the rest were converted. RegioSprinters were only suitable for short journeys, they had thinly upholstered seats in a 2+3 formation and no toilets, their top speed was 100&nbsp;km/h, though later all the trains crossing the Czech border were refitted to a higher standard. RegioSprinters were used on VB&nbsp;1, VB&nbsp;5 and VB&nbsp;2 lines and until December 2006 on VB&nbsp;7, the line from Schönberg to Schleiz. Two of these trains were lent on a long term basis to the [[Prignitzer Eisenbahn]] for use around Oberhausen.
+
+As the network expanded and trains were needed for longer journeys, 9 trains of the [[Siemens Desiro|Desiro Classic]] class were bought in 2000 from Siemens Transportation Systems. These are classified by Deutsche Bahn as class 642. These were comfortable trains with good upholstery with seat in a 2+2 formation, in the first class compartment the seats were in a 1+2 formation. Desiros were fitted with on-board ticket machines and ski racks. A second series of 15 were ordered in 2002. The first series were fitted with two 275&nbsp;kW motors and the second series had two 315&nbsp;kW motors and wheelchair friendly access. Desiros are scheduled to run on lines VB&nbsp;3, VB&nbsp;3, VB&nbsp;4, half of operations on VB&nbsp;2 and on the trilex lines.
+
+New [[Stadler Regio-Shuttle RS1]] diesel multiple units began to be delivered from February 2012 to renew the vehicle fleet. The locomotives met the requirements of the BOStrab regulations, in order to be able to serve the line to central Zwickau.<ref>{{cite web | url=http://vogtlandbahn.de/de/ueber_uns/medien/pressemitteilungen/%C3%BCberf%C3%BChrung-des-ersten-neues-regioshuttles-nach-ne_gz0y7mro.html|archive-url=https://archive.today/20120716133835/http://vogtlandbahn.de/de/ueber_uns/medien/pressemitteilungen/%C3%BCberf%C3%BChrung-des-ersten-neues-regioshuttles-nach-ne_gz0y7mro.html|title=Vogtlandbahn – Überführung des ersten RegioShuttles nach Neumark|archive-date=16 July 2012|access-date=29 May 2017|language=de}}</ref> Eight new traction units were put into operation at the timetable change on 9 December 2012.<ref>{{cite web|url=http://www.vogtlandbahn.de/de/ueber_uns/medien/pressemitteilungen/verbesserte-fahrgastinfo-und-neue-fahrzeuge-im-vog_hafld1fh.html?s=VyC9A04g0GWmGsCAa5c|title=Vogtlandbahn - Inbetriebnahme der acht Regio-Shuttle|archive-url=https://archive.today/20130213011219/http://www.vogtlandbahn.de/de/ueber_uns/medien/pressemitteilungen/verbesserte-fahrgastinfo-und-neue-fahrzeuge-im-vog_hafld1fh.html?s=VyC9A04g0GWmGsCAa5c|archive-date=2013-02-13|access-date=29 May 2017|language=de}}</ref> Four Regio-Shuttles were also acquired from [[Ostdeutsche Eisenbahn]] in 2015, which were used by Trilex on line TL70 at the time.
+
+== Other brands ==
+
+=== Trilex ===
+[[File:Logo Trilex.svg|thumb|left|Trilex logo]]
+ 
+Länderbahn has operated the [[Liberec–Zittau railway|Liberec–Zittau]]–[[Rybniště–Varnsdorf railway|Varnsdorf–Rybniště]]/[[Mittelherwigsdorf–Varnsdorf–Eibau railway|Seifhennersdorf]] lines in the Germany/Poland/Czech Republic corner since 12&nbsp;December 2010. [[Siemens Desiro]] Classic and [[Stadler Regio-Shuttle RS1|Regio-Shuttle]] rolling stock are used and some are staffed with bilingual [[Conductor (rail)|conductors]].
+ 
+Since the timetable change in December 2014, the Länderbahn has also operated the [[Görlitz–Dresden railway|Dresden–Bischofswerda–Bautzen–Görlitz]] and Dresden–[[South-Lausitz Railway|Bischofswerda–Zittau]]–Liberec lines of the so-called ''Ostsachsennetzes'' (East Saxon network) under the brand name of ''trilex''. These are operated exclusively with Desiro sets. Individual services are operated to [[Wrocław]] in cooperation with DB Regio.
+
+===alex===
+
+[[File:Alex (Zug) Logo.svg|thumb|left|alex logo]]
+[[File:Alex 183-004 Landshut 1501161227.jpg|thumb|Alex 183-004 in Landshut Hbf]]
+ 
+As  a result of a tender called in 2005 by the [[Bayerische Eisenbahngesellschaft]], a contract was awarded to Länderbahn in October 2005 for the operation of the service branded as the ''Arriva-Länderbahn-Express.'' The tender specification included a ''regionalen Schnellverkehr'' (regional fast train) at two-hour intervals from Munich via Regensburg to Schwandorf, from where trains continue every four hours alternatively to Hof or [[Furth im Wald]]. Länderbahn was also able to tender for the continuation of services on the Munich–[[Kempten]]–[[Oberstdorf]]/[[Lindau]] route, which they had already operated together with the Swiss [[Swiss Federal Railways|SBB GmbH]] since December 2003 under the brand name of ''Allgäu-Express''. For the new services, Vogtlandbahn purchased 90 used passenger coaches, 60 of which were modernised in Halberstadt and Neumünster. Since the 2009 timetable change, seven double-deck coaches have been based in Bautzen. Eleven diesel locomotives of class 223 ([[EuroRunner]]), built by [[Siemens Mobility|Siemens]], are leased from the company [[Alpha Trains]] for the haulage of the trains between Oberstdorf/Lindau and Munich and between Regensburg and Hof/Plzeň. An additional four locomotives of Siemens class ES64U4 were leased for the electrified Munich–Regensburg section and classified as class 183. These trains are all based in the new plant of the Länderbahn in Schwandorf. Since the takeover by Netinera, the service is marketed simply as ''alex''.
+
+=== Oberpfalzbahn ===
+[[File:Oberpfalzbahn_logo.svg|thumb|left|Oberpfalzbahn logo]]
+[[File:Oberpfalzbahn 1648-205 Schwandorf.jpg|thumb|Alstom Coradia LINT 41 1648-205 in Schwandorf]]
+ 
+Länderbahn operates five services in eastern Bavaria between Hof, Schwandorf, Regensburg, Waldmünchen, Furth im Wald and Lam under the brand name of ''Oberpfalzbahn''. With [[Cheb]] and [[Domažlice]] as well as some smaller halts, Czech stations are also connected to the main line network.
+ 
+The Oberpfalzbahn was launched with eleven [[Stadler Regio-Shuttle RS1]] railcars in the summer of 2001. The fleet was supplemented in 2013 with two used railcars of the same type. Polish [[Pesa SA|Pesa]] Link railcars were originally planned to operate the Regensburg–Marktredwitz railway. Due to problems with gaining a licence to operate, this order was canceled. Instead, [[Alstom Coradia LINT|LINT 41]] railcars have been used since 9 March 2013.
+
+=== Waldbahn ===
+[[File:Waldbahn_logo.svg|thumb|left|Waldbahn logo]]
+[[File:Rbg-vt23-01.jpg|thumb|Stadler Regio-Shuttles RS1 in Zwiesel]]
+ 
+Länderbahn operates four services in the [[Zwiesel]] region in the [[Bavarian Forest]] (''Bayerischer Wald'') under the brand name of ''Waldbahn'': [[Plattling–Bayerisch Eisenstein railway|Plattling–Bayerisch Eisenstein]], [[Zwiesel–Grafenau railway|Zwiesel–Grafenau]] and [[Zwiesel–Bodenmais railway|Zwiesel–Bodenmais]], as well as [[Gotteszell–Blaibach railway|Gotteszell–Viechtach]], which was reactivated in September 2016. The service to [[Bayerisch Eisenstein/Železná Ruda-Alžbětín station]] connects with Czech trains towards Prague and Pilsen.
+ 
+The Waldbahn is part of the [[Bavarian Forest National Park]] transport plan and one of four reference lines of the ''Bayerischen Eisenbahngesellschaft'' (BEG). These routes are particularly studied by BEG, in order to evaluate various innovative concepts for quality improvement.
+ 
+14 modernised Stadler Regio-Shuttle RS1 diesel railcars are currently under construction for the Waldbahn at the Viechtach locomotive depot.
+
+== Vogtland-Express ==
+
+[[File:VX BerlinOstbf.jpg|thumb|In January 2009: The Vogtland-Express only ran to Zwickau temporarily.]] 
+Vogtlandbahn provided one of a few long-distance passenger services operated by private railways in Germany between 12 June 2005<ref name="eri-2005-363">{{cite journal|title= Der Vogtland-Express rollt – Konkurrenz zum Inter-Connex |journal= Eisenbahn-Revue International|issue= 8–9|year=2005 |page=363|language=de}}</ref> and 30 September 2012. It ran once a day from [[Plauen (Vogtland) Oberer Bahnhof|Plauen]] to [[Berlin Ostbahnhof]] and return. Vogtlandbahn filled a gap created by the end of the last [[Interregio]] services from the Vogtland to Berlin and therefore north-south long-distance services in the region. After several changes of the timetable, operations were temporarily discontinued for financial reasons from 16&nbsp;February 2009 to 7&nbsp;April 2009, but the Vogtland-Express made its last run on 8&nbsp;April 2009.<ref>{{cite web|url=http://www.spitzenstadt.de/plauen/1-startseite/vogtland-express-taeglich-von-plauen-wieder-nach-berlin.html |title=Vogtland-Express: Täglich von Plauen wieder nach Berlin |date=3 April 2009 |publisher=spitzenstadt.de|access-date=30 May 2017 |language=de}}</ref>
+From January 2011, the Vogtland-Express was operated as a replacement bus service, since the Vogtlandbahn did not have any appropriate rolling stock available. The bus served the stations of [[Reichenbach (Vogtland) Oberer Bahnhof|Reichenbach]], [[Zwickau Hauptbahnhof|Zwickau]], [[Chemnitz Hauptbahnhof|Chemnitz]], [[Berlin Schönefeld Flughafen station|Berlin-Schönefeld Flughafen]] and [[Berlin Zoologischer Garten station|Berlin Zoologischer Garten]]. The Vogtland-Express was partly restored with railcars at the timetable change on 12&nbsp;June 2011.
+ 
+In the spring of 2012 the operating days of the service, which had initially been operated as a daily train pair, were reduced to Friday to Monday, with buses on the other days.  From 1&nbsp;October 2012, services of the Vogtland-Express ran daily only as long-distance coach services from Reichenbach via Zwickau, [[Chemnitz]], [[Berlin Schönefeld Airport]], Berlin Zoologischer Garten to Berlin central bus station at [[Funkturm Berlin]].<ref>{{cite press release|url=http://vogtlandbahn.de/de/ueber_uns/medien/pressemitteilungen/vogtland-express-ab-01102012-als-linienbus_h7c322t3.html | archive-url=https://web.archive.org/web/20121017175243/http://vogtlandbahn.de/de/ueber_uns/medien/pressemitteilungen/vogtland-express-ab-01102012-als-linienbus_h7c322t3.html|archive-date=17 October 2012|date=20 September 2012 | title=Vogtland-Express ab 01.10.2012 als Linienbus|publisher=Vogtlandbahn |access-date=30 May 2017 |language=de}}</ref> Finally Vogtlandbahn withdrew from the operation and from 1 October 2014, the participating bus companies operated the line, which from the summer of 2013 ran again from Plauen to Berlin,<ref>{{cite news |url=http://www.freiepresse.de/LOKALES/VOGTLAND/PLAUEN/Vogtland-Express-Bus-nach-Berlin-faehrt-jetzt-ab-Plauen-artikel8416417.php# |title=Vogtland-Express - Bus nach Berlin fährt jetzt ab Plauen |date= 8 June 2013 |newspaper=FreiePresse |access-date=30 May 2017 |language=de}}</ref> under the brand name of ''Vogtland-Fernbus'' as an independent operation. This service was stopped by the end of 2015 because of a lack of profitability.
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{cite web|title=Official website|url=http://www.vogtlandbahn.de |publisher=Vogtlandbahn |language=de|access-date=30 May 2017}}
+* {{cite web|url=http://www.bahnbilder.de/name/galerie/kategorie/Deutschland~Unternehmen~Vogtlandbahn.html |title=Photo gallery |publisher=www.bahnbilder.de |language=de|access-date=30 May 2017}}
+* {{cite web|url=http://www.privat-bahn.de/VBG.html |title=Complete rolling stock list |publisher=www.privat-bahn.de |language=de|access-date=30 May 2017}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Die Landerbahn}}
+[[Category:Private railway companies of Germany]]
+[[Category:Railway companies of the Czech Republic]]
+[[Category:Rail transport in Bavaria]]
+[[Category:Rail transport in Saxony]]

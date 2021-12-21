@@ -1,0 +1,214 @@
+{{PP|small=yes}}{{short description|British YouTube group}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox YouTube personality
+| name                 = Sidemen
+| logo                 = Sidemen Logo.svg
+| image                = Sidemen Book Tour.png
+| caption              = The Sidemen on their book tour in 2016. From left to right, behind couch: Harry Lewis, [[KSI|JJ Olatunji]], [[Behzinga|Ethan Payne]], and Simon Minter; on couch (aside from the fan third from left): [[Vikkstar123|Vik Barn]], [[TBJZL|Tobi Brown]], and [[Zerkaa|Josh Bradley]].
+| occupation           = [[YouTubers]]
+| website              = {{url|https://sidemen.com/}}
+| pseudonym            = 
+| origin               = London, England, United Kingdom<ref name="bi19" />
+| channels             = [https://www.youtube.com/channel/UCDogdKl7t7NHzQ95aEwkdMw Sidemen]<br />[https://www.youtube.com/channel/UCh5mLn90vUaB1PbRRx_AiaA MoreSidemen]<br />[https://www.youtube.com/channel/UCjRkTl_HP4zOh3UFaThgRZw SidemenReacts]<br />[https://www.youtube.com/channel/UCbAZH3nTxzyNmehmTUhuUsA SidemenShorts]<br />
+{{Collapsible list
+  | framestyle     = border:none; padding:0;
+  | title          = Associated channels <!-- Only include the individual channels that were created before they transitioned their content to the first two group channels -->
+  | 1              = [https://www.youtube.com/channel/UCVtFOytbRpEvzLjvqGG5gxQ KSI]
+  | 2              = [https://www.youtube.com/channel/UCGmnsW623G1r-Chmo5RB4Yw JJ Olatunji]
+  | 3              = [https://www.youtube.com/channel/UCWZmCMB7mmKWcXJSIPRhzZw Miniminter]
+  | 4              = [https://www.youtube.com/channel/UCjB_adDAIxOL8GA4Y4OCt8g MM7Games]
+  | 5              = [https://www.youtube.com/user/ZerkaaHD Zerkaa]
+  | 6              = [https://www.youtube.com/user/ZerkaaPlays ZerkaaPlays]
+  | 7              = [https://www.youtube.com/user/TBJZL TBJZL]
+  | 8              = [https://www.youtube.com/user/EDITinGAMING TBJZLPlays]
+  | 9              = [https://www.youtube.com/user/Behzinga Behzinga]
+  | 10             = [https://www.youtube.com/channel/UCbzZFTHge5zk2yebSiWRZRg Beh2inga]
+  | 11             = [https://www.youtube.com/user/Vikkstar123 Vikkstar123]
+  | 12             = [https://www.youtube.com/user/VikkstarPlays VikkstarPlays]
+  | 13             = [https://www.youtube.com/user/Vikkstar123HD Vikkstar123HD]
+  | 14             = [https://www.youtube.com/user/wroetoshaw W2S]
+  | 15             = [https://www.youtube.com/channel/UC5_IT4-XpinnvNQwM1e15eQ W2SPlays]
+}}
+| creator              = {{plainlist|
+* Olajide "KSI" Olatunji
+* Simon "Miniminter" Minter
+* Joshua "Zerkaa" Bradley
+* Tobit "TBJZL" Brown
+* Ethan "Behzinga" Payne
+* Vikram "Vikkstar123" Barn
+}}
+| years_active         = 2013–present
+| genre                = {{flatlist|
+* [[Entertainment]]
+* [[Let's Play|gaming]]
+* [[vlog]]
+}}
+| subscribers          = <!-- UPDATE ACCESSDATE IN REFS AT BOTTOM OF ARTICLE WHEN UPDATING NUMBERS -->{{Rounddown|{{Sum|<!-- Sidemen -->13.5|5.76|3.70|1.34|<!-- JJ -->23.5|14.2|<!-- Simon -->9.75|4.89|<!-- Josh -->4.53|2.67|<!-- Tobi -->4.67|1.59|<!-- Ethan -->4.70|1.95|<!-- Vik -->7.42|1.07|3.31|<!-- Harry -->16.1|3.48}}|1}} million (combined){{efn|name=StatsNote}}<ref name="CombinedStats" />
+| views                = <!-- UPDATE ACCESSDATE IN REFS AT BOTTOM OF ARTICLE WHEN UPDATING NUMBERS -->{{Rounddown|{{Sum|<!-- Sidemen -->3.21|1.95|0.88|0.36|<!-- JJ -->5.77|3.06|<!-- Simon -->3.42|2.43|<!-- Josh -->0.68|0.96|<!-- Tobi -->0.49|0.15|<!-- Ethan -->0.54|0.28|<!-- Vik -->2.05|0.14|1.09|<!-- Harry -->4.66|0.45}}|1}} billion (combined){{efn|name=StatsNote}}<ref name="CombinedStats" />
+| stats_update         = 23 October 2021
+| network              = {{flatlist|
+* [[Omnia Media]]<ref>{{Cite web |url=https://www.omniamedia.co/talent |title=Talent |website=[[Omnia Media]] |url-status=live |archive-url=https://web.archive.org/web/20200104191349/https://www.omniamedia.co/talent |archive-date=4 January 2020 |access-date=4 January 2020}}</ref>
+* [[OP Talent]]<ref>{{Cite web |url=https://www.optalent.com/talent/sidemen/ |title=Sidemen |website=[[OP Talent]] |url-status=live |archive-url=https://web.archive.org/web/20200104191400/https://www.optalent.com/talent/sidemen/ |archive-date=4 January 2020 |access-date=4 January 2020}}</ref>
+}}
+| associated_acts      = [[Jme (musician)|Jme]]<ref name="JME" />
+| silver_button        = yes
+| silver_year          = <abbr title="Sidemen">2016</abbr>, <abbr title="MoreSidemen">2018</abbr>, <abbr title="SidemenReacts">2020</abbr>, <abbr title="SidemenShorts">2021</abbr>
+| gold_button          = yes
+| gold_year            = <abbr title="Sidemen">2016</abbr>, <abbr title="MoreSidemen">2018</abbr>, <abbr title="SidemenReacts">2020</abbr>, <abbr title="SidemenShorts">2021</abbr>
+| diamond_button       = yes
+| diamond_year         = <abbr title="Sidemen">2020</abbr>
+}}
+The '''Sidemen''' is a British [[YouTube]] group consisting of [[Internet celebrity|Internet personalities]] [[KSI]], Miniminter, [[Zerkaa]], [[TBJZL]], [[Behzinga]], [[Vikkstar123]] and W2S. The group is best known for producing videos of various challenges, sketches and video game commentaries across their multiple YouTube channels, which have a combined total of over 128 million subscribers {{as of|2021|10|lc=y}}.<ref name="CombinedStats" /><ref name="TheTimes">{{Cite news |date=23 October 2021 |title= Who are the Sidemen? How KSI and friends amassed 123 million followers|first=Andrew|last=Billen|work=[[The Times]] |url= https://www.thetimes.co.uk/article/who-are-the-sidemen-how-ksi-and-friends-amassed-123-million-followers-cdnbjjswd |url-status=live |url-access=subscription |access-date=24 October 2021|archive-url= https://archive.today/5HlH9 |archive-date=24 October 2021}}</ref>
+
+== Members ==
+[[File:Miniminter playing FIFA.png|thumb|upright=1.2|The Sidemen and others playing a game of ''[[FIFA (video game series)|FIFA]]'' in 2014]]
+The group has the following members:<ref>{{Cite web|url=https://find-and-update.company-information.service.gov.uk/company/09369821/officers|title=Sidemen Clothing Limited – Overview|date=30 December 2014|publisher=[[Companies House]]|url-status=live|archive-url=https://web.archive.org/web/20200224000522/https://beta.companieshouse.gov.uk/company/09369821|archive-date=24 February 2020|access-date=23 February 2020}}</ref>
+* [[KSI|Olajide "JJ" Olatunji]] – known online as KSI {{small|(2013–present)}}
+* Simon Minter – known online as Miniminter {{small|(2013–present)}}
+* [[Zerkaa|Joshua "Josh" Bradley]] – known online as Zerkaa {{small|(2013–present)}}
+* [[TBJZL|Tobit "Tobi" Brown]] – known online as Tobjizzle or TBJZL {{small|(2013–present)}}
+* [[Behzinga|Ethan Payne]] – known online as Behzinga {{small|(2013–present)}}
+* [[Vikkstar123|Vikram "Vik" Barn]] – known online as Vikkstar123 {{small|(2013–present)}}
+* Harry Lewis – known online as Wroetoshaw or W2S {{small|(2014–present)}}
+
+== History ==
+{{expand section|date=November 2021}}
+Some of the members knew each other before the group was formed. Bradley and Brown both attended [[Bexley Grammar School]] in London and Olatunji and Minter both attended [[Berkhamsted School]] in [[Hertfordshire]].<ref name="SidemenBook">{{Cite book|last=The Sidemen|title=Sidemen: The Book|date=18 October 2016|publisher=[[Coronet Books]]|isbn=978-1473648166|pages=52–57}}</ref>
+
+The group originates from a [[Rockstar Games Social Club]] group made on 19 October 2013 in ''[[Grand Theft Auto Online]]'', called "The Ultimate Sidemen", which included all the members except for Lewis. In January 2014, Bradley met Lewis while at a ''[[FIFA (video game series)|FIFA]]'' gaming event in New York City and invited him to join the group.<ref name="SidemenBook" /> Describing the group name, Minter said in a video that "A sideman is basically someone's bitch who just follows them around [...] I was basically JJ's bitch that followed him around."<ref name="bi19">{{Cite news |url=https://www.scmp.com/lifestyle/entertainment/article/3037479/ksi-how-youtube-millionaire-who-beat-logan-paul-celebrity |title=KSI: how the YouTube millionaire, who beat Logan Paul in a celebrity boxing rematch, made his name |date=13 November 2019 |work=[[Business Insider]] |agency=[[South China Morning Post]] |access-date=8 March 2020}}</ref>
+
+In February 2014, Olatunji, Minter, Bradley, and Barn moved into a house together near London, which they referred to as the "Sidemen House",<ref name="SidemenBook" /><ref>{{Cite news |url=https://www.bbc.com/news/technology-52223908 |title=Coronavirus: UK's first 'TikTok house' opens during outbreak |last=Shaw |first=Dougal |date=19 April 2020 |work=[[BBC News]] |url-status=live |archive-url=https://web.archive.org/web/20200507192151/https://www.bbc.com/news/technology-52223908 |archive-date=7 May 2020 |access-date=7 May 2020}}</ref><ref>{{Cite news |url=https://www.bbc.co.uk/newsround/52354393 |title=TikTok UK house: Who's in it and what do you need to know? |date=20 April 2020 |website=[[Newsround]] |url-status=live |archive-url=https://web.archive.org/web/20200610013433/https://www.bbc.co.uk/newsround/52354393 |archive-date=10 June 2020 |access-date=10 June 2020}}</ref> which allowed them to collaborate more often.<ref>{{Cite magazine |url=https://www.gameinformer.com/b/features/archive/2015/04/30/an-interview-with-youtube-sensation-vikkstar123.aspx |title=An Interview With YouTube Sensation Vikkstar123 |last=Reiner |first=Andrew |date=30 April 2015 |magazine=[[Game Informer]] |url-status=live |archive-url=https://web.archive.org/web/20200310035431/https://www.gameinformer.com/b/features/archive/2015/04/30/an-interview-with-youtube-sensation-vikkstar123.aspx |archive-date=10 March 2020 |access-date=10 March 2020}}</ref>
+
+On 1 December 2020, the group's eponymous YouTube channel surpassed 10 million subscribers. Each member of the group was awarded their own [[YouTube Creator Awards|Diamond Play Button]] by YouTube to mark their milestone.<ref>{{cite web|url=https://www.ginx.tv/en/youtube/the-sidemen-celebrate-huge-youtube-milestone|title= YouTuber's The Sidemen celebrate 10 million subscriber milestone|last=Savic |first=Nikola |date=2 December 2020| website=Ginx}}</ref>
+
+=== YouTube content ===
+The group has four YouTube channels, Sidemen, MoreSidemen, SidemenReacts and SidemenShorts across which it publishes a variety of videos including challenges, sketches and video game commentaries.<ref name="thenational1">{{Cite web |url=https://www.thenational.ae/arts-culture/insomnia-dubai-youtube-stars-sidemen-coming-to-gaming-convention-1.909130 |title=Insomnia Dubai: YouTube stars Sidemen coming to gaming convention |last=Andrews |first=Farah |work=[[The National (Abu Dhabi)|The National]] |url-status=live |archive-url=https://web.archive.org/web/20191027153116/https://www.thenational.ae/arts-culture/insomnia-dubai-youtube-stars-sidemen-coming-to-gaming-convention-1.909130 |archive-date=27 October 2019 |access-date=27 October 2019}}</ref><ref>{{Cite news |url=https://gulfnews.com/going-out/events/youtube-stars-the-sidemen-at-insomnia-dubai-gaming-festival-1.66332042 |title=YouTube stars The Sidemen at Insomnia Dubai Gaming Festival |date=10 September 2019 |work=[[Gulf News]] |access-date=27 October 2019 |url-status=live |archive-url=https://web.archive.org/web/20191027153117/https://gulfnews.com/going-out/events/youtube-stars-the-sidemen-at-insomnia-dubai-gaming-festival-1.66332042 |archive-date=27 October 2019}}</ref><ref>{{Cite web |url=https://www.insider.com/what-youtubers-looked-like-first-video-vs-now-2019-10#ksi-205-million-followers-28 |title=Then And Now: How 30 of the world's most famous YouTubers have changed since their first videos |last=Dodgson |first=Lindsay |website=[[Insider (website)|Insider]] |access-date=27 October 2019}}</ref>
+
+{{As of|2021|9}}, the Sidemen channel has over 13.4 million subscribers and 3.1 billion views,<ref name="SidemenStats" /> MoreSidemen has over 5.7 million subscribers and 1.9 billion views,<ref name="MoreSidemenStats" /> SidemenReacts has over 3.6 million subscribers and 835 million views,<ref name="SidemenReactsStats" /> and SidemenShorts has over 1.3 million subscribers and 330 million views.<ref name="SidemenShortsStats"/>
+
+On 18 June 2018, the group released a [[web television]] series titled ''[[The Sidemen Show]]'', available exclusively on [[YouTube Premium]].<ref>{{Cite web |url=https://variety.com/2018/digital/news/youtube-the-sidemen-show-original-series-1202829109/ |title=YouTube Orders 'The Sidemen Show' Original Premium Series |last=Clarke |first=Stewart |date=4 June 2018 |website=[[Variety (magazine)|Variety]] |url-status=live |archive-url=https://web.archive.org/web/20191125045007/https://variety.com/2018/digital/news/youtube-the-sidemen-show-original-series-1202829109/ |archive-date=25 November 2019 |access-date=3 January 2020}}</ref> It comprises seven 30-minute episodes filmed around the world alongside a number of celebrity guests.<ref>{{Cite web |url=https://deadline.com/2018/06/the-sidemen-show-youtube-debuts-first-trailer-dates-premium-reality-challenge-format-1202401935/ |title='The Sidemen Show': YouTube Debuts First Trailer & Dates Premium Reality Challenge Format |last=White |first=Peter |date=2 June 2018 |website=[[Deadline Hollywood]] |url-status=live |archive-url=https://web.archive.org/web/20191217081239/https://deadline.com/2018/06/the-sidemen-show-youtube-debuts-first-trailer-dates-premium-reality-challenge-format-1202401935/ |archive-date=17 December 2019 |access-date=3 January 2020}}</ref><ref>{{Cite web |url=https://realscreen.com/2018/06/04/youtube-commissions-blue-ants-sidemen-show/ |title=YouTube commissions Blue Ant's Sidemen Show |date=4 June 2018 |website=[[RealScreen]] |url-status=live |archive-url=https://web.archive.org/web/20200107024614/https://realscreen.com/2018/06/04/youtube-commissions-blue-ants-sidemen-show/ |archive-date=7 January 2020 |access-date=7 January 2020}}</ref>
+
+In March 2020, the Sidemen released a twenty-minute YouTube video titled "#StayHome". The video featured the Sidemen and more than one hundred other YouTube video creators and other celebrities raising awareness of the UK's "stay at home" campaign which aimed to reduce the spread of [[COVID-19]] in the [[COVID-19 pandemic in the United Kingdom|UK]].<ref>{{Cite web|date=2020-03-29|title=Coronavirus: YouTube stars urge fans to stay at home|url=https://www.bbc.co.uk/news/technology-52084700|access-date=2020-03-29|website=[[BBC News Online|BBC News]]}}</ref><ref>{{Cite web|date=2020-03-29|title=KSI and Saffron Barker urge fans to stay inside as YouTube stars band together during coronavirus crisis|url=https://metro.co.uk/2020/03/29/ksi-saffron-barker-urge-fans-stay-inside-youtube-stars-band-together-coronavirus-crisis-12475625/|access-date=2020-03-29|website=[[Metro (British newspaper)|Metro]]}}</ref> All of the [[advertising revenue]] generated from the video was donated to the [[National Health Service|NHS]].<ref>{{Cite web|date=2020-03-29|title=Coronavirus: YouTube stars and celebrities rally together to urge fans to 'stay home'|url=https://www.mirror.co.uk/tech/coronavirus-youtube-stars-celebrities-rally-21778074|access-date=2020-03-29|website=[[Daily Mirror]]}}</ref>
+
+=== Other projects ===
+Since 2014, the group has sold and distributed Sidemen Clothing merchandise.<ref>{{Cite web |url=https://beta.companieshouse.gov.uk/company/09369821 |title=Sidemen Clothing Limited – Overview |date=30 December 2014 |publisher=[[Companies House]] |url-status=live |archive-url=https://web.archive.org/web/20200224000522/https://beta.companieshouse.gov.uk/company/09369821 |archive-date=24 February 2020 |access-date=23 February 2020}}</ref><ref name="thenational1" />
+
+On 18 October 2016, the group released a book titled ''Sidemen: The Book'', published by [[Coronet Books]], and embarked on a UK-wide promotional tour.<ref>{{Cite web |url=https://www.thebookseller.com/news/coronet-publish-team-youtube-royalty-sidemen-330708 |title='YouTube royalty' The Sidemen to Coronet |last=Cowdrey |first=Katherine |date=2 June 2016 |website=[[The Bookseller]] |url-status=live |archive-url=https://web.archive.org/web/20200104173327/https://www.thebookseller.com/news/coronet-publish-team-youtube-royalty-sidemen-330708 |archive-date=4 January 2020 |access-date=3 January 2020}}</ref><ref>{{Cite news |last=Barr |first=Gordon |url=http://www.chroniclelive.co.uk/whats-on/family-kids-news/youtube-sensations-sidemen-heading-newcastle-11921405 |title=YouTube sensations The Sidemen come to Newcastle |date=22 September 2016 |work=[[Chronicle Live]] |access-date=3 January 2020 |url-status=live |archive-url=https://web.archive.org/web/20200104173325/https://www.chroniclelive.co.uk/whats-on/family-kids-news/youtube-sensations-sidemen-heading-newcastle-11921405 |archive-date=4 January 2020}}</ref> A number one best-seller in the UK, the book sold 26,436 copies within the first three days of its release.<ref>{{Cite web |url=https://teneightymagazine.com/2016/10/26/the-sidemens-debut-book-hits-no-1-in-charts/ |title=The Sidemen's Debut Book Tops Charts |last=Dillon |first=Poppy |date=26 October 2016 |website=TenEighty |url-status=live |archive-url=https://web.archive.org/web/20191020061435/https://teneightymagazine.com/2016/10/26/the-sidemens-debut-book-hits-no-1-in-charts/ |archive-date=20 October 2019 |access-date=3 January 2020}}</ref><ref>{{Cite news |last=Flood |first=Alison |url=https://www.theguardian.com/books/2016/oct/26/youtube-stars-the-sidemen-are-frontrunners-in-race-for-books-christmas-no-1 |title=YouTube stars the Sidemen are frontrunners in race for Christmas books No 1 |date=26 October 2016 |work=[[The Guardian]] |access-date=3 January 2020 |url-status=live |archive-url=https://web.archive.org/web/20191020061418/https://www.theguardian.com/books/2016/oct/26/youtube-stars-the-sidemen-are-frontrunners-in-race-for-books-christmas-no-1 |archive-date=20 October 2019 |issn=0261-3077}}</ref>
+
+[[File:Sidemen Charity Football Match 2018.png|thumb|Sidemen Charity Football match 2018 at [[The Valley (London)|the Valley]]]]
+The group has hosted three football events to raise money for various charitable causes. The first match, in 2016, was held at [[St Mary's Stadium]], [[Southampton]], raising over £110,000 for the Saints Foundation.<ref>{{Cite web |url=https://heavy.com/money/2018/08/ksi-net-worth/ |title=KSI Net Worth: 5 Fast Facts You Need to Know |last=Castro |first=Danilo |date=25 August 2018 |website=heavy.com |publisher=Heavy Inc. |url-status=live |archive-url=https://web.archive.org/web/20191029212851/https://heavy.com/money/2018/08/ksi-net-worth/ |archive-date=29 October 2019 |access-date=29 October 2019}}</ref><ref>{{Cite news |last=Rimell |first=William |url=https://www.dailyecho.co.uk/news/14536795.charity-football-match-sidemen-fc-v-youtube-allstars-at-st-marys-in-southampton-raised-more-than-100000-for-the-saints-foundation/ |title=Charity football match Sidemen FC v YouTube Allstars at St Mary's in Southampton raised more than £100,000 for the Saints foundation |date=4 June 2016 |work=dailyecho.co.uk |access-date=29 October 2019 |url-status=live |archive-url=https://web.archive.org/web/20191020061443/https://www.dailyecho.co.uk/news/14536795.charity-football-match-sidemen-fc-v-youtube-allstars-at-st-marys-in-southampton-raised-more-than-100000-for-the-saints-foundation/ |archive-date=20 October 2019 |publisher=Southern Daily Echo}}</ref> The second and third matches were held at  [[The Valley (London)|The Valley Stadium]], London, raising £210,000 for the [[National Society for the Prevention of Cruelty to Children|NSPCC]] and the Charlton Athletic Community Trust,<ref>{{Cite web |url=https://cafc.co.uk/news/view/595526aa1616a/the-valley-to-host-charity-football-match-featuring-famous-youtubers |title=The Valley to host charity football match featuring famous YouTubers |date=12 March 2017 |publisher=[[Charlton Athletic F.C.]] |url-status=live |archive-url=https://web.archive.org/web/20200103182606/https://cafc.co.uk/news/view/595526aa1616a/the-valley-to-host-charity-football-match-featuring-famous-youtubers |archive-date=3 January 2020 |access-date=3 January 2020}}</ref><ref>{{Cite tweet |number=889933265171341313 |user=CAFCofficial |title=👏 A half-time presentation confirms that the @SDMNFC match at The Valley in May raised £210,000 for @NSPCC and @CAFCTrust! #cafc |author=Charlton Athletic FC |date=25 July 2017}}</ref> and £65,747 for the Young Minds Trust and the Charlton Athletic Community Trust,<ref>{{Cite web |url=https://www.tubefilter.com/2018/06/04/sidemen-show-charity-soccer-match/ |title=YouTube Supergroup Sidemen Raise £65,747 For Charity, Premiere Trailer For YouTube Premium Series |last=Gutelle |first=Sam |website=[[Tubefilter]] |url-status=live |archive-url=https://web.archive.org/web/20191030004451/https://www.tubefilter.com/2018/06/04/sidemen-show-charity-soccer-match/ |archive-date=30 October 2019 |access-date=29 October 2019}}</ref> respectively.
+
+== Discography ==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ Single with selected chart positions and year released
+|-
+! scope="col" rowspan="2" style="width:16em;" | Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="5"| Peak chart positions
+|-
+! scope="col" style="width:3em; font-size:85%;"| [[UK Singles Chart|UK]]<br /><ref>{{Cite web |url=https://www.officialcharts.com/artist/56873/sidemen/ |title=UK Singles Chart |date=26 December 2019 |publisher=[[Official Charts Company]] |url-status=live |archive-url=https://web.archive.org/web/20191220192010/https://www.officialcharts.com/artist/56873/sidemen/ |archive-date=20 December 2019 |access-date=4 January 2020}}</ref>
+! scope="col" style="width:3em; font-size:85%;"| [[UK R&B Singles and Albums Charts|UK<br />R&B]]<br /><ref>{{Cite web |url=https://www.officialcharts.com/charts/r-and-b-singles-chart/20191220/114 |title=UK R&B Singles Chart |date=26 December 2019 |publisher=[[Official Charts Company]]}}</ref>
+! scope="col" style="width:3em; font-size:85%;"| [[UK Independent Singles and Albums Charts|UK<br />Ind.]]<br /><ref>{{Cite web |url=https://www.officialcharts.com/charts/independent-singles-chart/20191220/130/ |title=UK Independent Singles Chart |date=26 December 2019 |publisher=[[Official Charts Company]]}}</ref>
+! scope="col" style="width:3em; font-size:85%;"| [[Official New Zealand Music Chart|NZ<br />Hot]]<br /><ref>{{Cite web |url=https://nztop40.co.nz/chart/hotsingles?chart=4794 |title=New Zealand Hot Singles Chart |date=23 December 2019 |publisher=[[Recorded Music NZ]] |url-status=live |archive-url=https://web.archive.org/web/20191220235050/https://nztop40.co.nz/chart/hotsingles%3Fchart%3D4794 |archive-date=20 December 2019 |access-date=4 January 2020}}</ref>
+! scope="col" style="width:3em; font-size:85%;"| [[Scottish Singles and Albums Chart|SCO]]<br /><ref>{{Cite web |url=https://www.officialcharts.com/charts/scottish-singles-chart/20191220/41/ |title=Scottish Singles Chart |date=26 December 2019 |publisher=[[Official Charts Company]]}}</ref>
+|-
+! scope="row" | "The Gift"<ref>{{Cite web |url=https://music.apple.com/gb/album/the-gift-single/1491085960 |title=The Gift – Single by Sidemen on Apple Music |date=15 December 2019 |publisher=[[Apple Music]] |url-status=live |archive-url=https://archive.today/20200112050317/https://music.apple.com/gb/album/the-gift-single/1491085960 |archive-date=12 January 2020 |access-date=12 January 2020}}</ref><br />{{small|(featuring [[S-X (producer)|S-X]])}}
+|2019
+| 77 || 40 || 11 || 27 || 26
+|}
+
+== Publications ==
+* {{Cite book |author=The Sidemen |date=18 October 2016 |title=Sidemen: The Book |publisher=[[Coronet Books]] |isbn=978-1473648166}}
+
+== Awards and nominations ==
+{| class="wikitable sortable plainrowheaders"
+|-
+! scope="col" | Year
+! scope="col" | Award
+! scope="col" | Category
+! scope="col" | Nominee(s)
+! scope="col" | Result
+! scope="col" class="unsortable" |{{Abbr|Ref.|Reference}}
+|-
+| 2017
+| [[British Book Awards]]
+| Non-Fiction: Lifestyle Book of the Year
+| ''Sidemen: The Book''
+| {{nom}}
+| style="text-align: center;" | <ref>{{Cite web |url=https://www.thebookseller.com/news/hachette-and-penguin-random-house-lead-british-book-awards-books-year-511061 |title=Hachette and Penguin Random House lead British Book Awards Books of the Year shortlists |date=15 March 2017 |website=[[The Bookseller]] |url-status=live |archive-url=https://web.archive.org/web/20200114045021/https://www.thebookseller.com/news/hachette-and-penguin-random-house-lead-british-book-awards-books-year-511061 |archive-date=14 January 2020 |access-date=14 January 2020}}</ref>
+|-
+| 2019
+| [[11th Shorty Awards|Shorty Awards]]
+| Best YouTube Ensemble
+| Sidemen
+| {{nom}}
+| style="text-align: center;" | <ref>{{Cite web |url=https://www.hollywoodreporter.com/lists/2019-shorty-award-winners-list-full-1206922 |title=Michelle Obama, Noah Centineo, Marie Kondo, John Mulaney Win 2019 Shorty Awards |date=5 May 2019 |website=[[The Hollywood Reporter]] |url-status=live |archive-url=https://web.archive.org/web/20191030160136/https://www.hollywoodreporter.com/lists/2019-shorty-award-winners-list-full-1206922 |archive-date=30 October 2019 |access-date=30 October 2019}}</ref>
+|-
+|}
+
+== Notes ==
+{{notelist|refs=
+{{efn|name=StatsNote|Includes the Sidemen's four group channels and fifteen of their individual channels which host Sidemen content.}}
+}}
+
+== References ==
+{{reflist|refs=
+<ref name="SidemenStats">{{Cite web |url=https://socialblade.com/youtube/channel/UCDogdKl7t7NHzQ95aEwkdMw |title=Sidemen's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20201027163251/https://socialblade.com/youtube/channel/UCDogdKl7t7NHzQ95aEwkdMw |archive-date=1 December 2020 |access-date=23 October 2021}}</ref>
+<ref name="MoreSidemenStats">{{Cite web |url=https://socialblade.com/youtube/channel/UCh5mLn90vUaB1PbRRx_AiaA |title=MoreSidemen's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20201027163319/https://socialblade.com/youtube/channel/UCh5mLn90vUaB1PbRRx_AiaA |archive-date=27 October 2020 |access-date=23 October 2021}}</ref>
+<ref name="SidemenReactsStats">{{Cite web |url=https://socialblade.com/youtube/channel/UCjRkTl_HP4zOh3UFaThgRZw |title=SidemenReacts's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20201027163159/https://socialblade.com/youtube/channel/UCjRkTl_HP4zOh3UFaThgRZw |archive-date=27 October 2020 |access-date=23 October 2021}}</ref>
+<ref name="SidemenShortsStats">{{Cite web |url=https://socialblade.com/youtube/c/sidemenshorts |title=SidemenShorts's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url= |archive-date= |access-date=23 October 2021}}</ref>
+
+<ref name="CombinedStats">See:
+<!--Copy-paste the above four references here without the <ref><ref/> if they are updated.-->
+* <!--<ref name="SidemenStats">-->{{Cite web |url=https://socialblade.com/youtube/channel/UCDogdKl7t7NHzQ95aEwkdMw |title=Sidemen's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20201027163251/https://socialblade.com/youtube/channel/UCDogdKl7t7NHzQ95aEwkdMw |archive-date=27 October 2020 |access-date=23 October 2021}}
+* <!--<ref name="MoreSidemenStats">-->{{Cite web |url=https://socialblade.com/youtube/channel/UCh5mLn90vUaB1PbRRx_AiaA |title=MoreSidemen's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20201027163319/https://socialblade.com/youtube/channel/UCh5mLn90vUaB1PbRRx_AiaA |archive-date=27 October 2020 |access-date=23 October 2021}}
+* <!--<ref name="SidemenReactsStats">-->{{Cite web |url=https://socialblade.com/youtube/channel/UCjRkTl_HP4zOh3UFaThgRZw |title=SidemenReacts's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20201027163159/https://socialblade.com/youtube/channel/UCjRkTl_HP4zOh3UFaThgRZw |archive-date=27 October 2020 |access-date=23 October 2021}}
+* <!--<ref name="SidemenShortsStats">-->{{Cite web |url=https://socialblade.com/youtube/c/sidemenshorts |title=SidemenShorts's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url= |archive-date= |access-date=23 October 2021}}
+* {{Cite web |url=https://socialblade.com/youtube/user/ksiolajidebt |title=KSI's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20190914115913/https://socialblade.com/youtube/user/ksiolajidebt |archive-date=14 September 2019 |access-date=23 October 2021}}
+* {{Cite web |url=https://socialblade.com/youtube/user/ksiolajidebthd |title=JJ Olatunji's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20191223103449/https://socialblade.com/youtube/user/ksiolajidebthd |archive-date=23 December 2019 |access-date=23 October 2021}}
+* {{Cite web |url=https://socialblade.com/youtube/user/miniminter |title=Miniminter's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20190603095909/https://socialblade.com/youtube/user/miniminter |archive-date=3 June 2019 |access-date=23 October 2021}}
+* {{Cite web |url=https://socialblade.com/youtube/user/mm7games |title=MM7Games's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20190603101830/https://socialblade.com/youtube/user/mm7games |archive-date=3 June 2019 |access-date=23 October 2021}}
+* {{Cite web |url=https://socialblade.com/youtube/user/zerkaahd |title=Zerkaa's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20190603104707/https://socialblade.com/youtube/user/zerkaahd |archive-date=3 June 2019 |access-date=23 October 2021}}
+* {{Cite web |url=https://socialblade.com/youtube/user/zerkaaplays |title=ZerkaaPlays's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20190603094239/https://socialblade.com/youtube/user/zerkaaplays |archive-date=3 June 2019 |access-date=23 October 2021}}
+* {{Cite web |url=https://socialblade.com/youtube/user/tbjzl |title=TBJZL's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20190603112056/https://socialblade.com/youtube/user/tbjzl |archive-date=3 June 2019 |access-date=23 October 2021}}
+* {{Cite web |url=https://socialblade.com/youtube/c/tbjzlplays |title=TBJZLPlays's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20200103210515/https://socialblade.com/youtube/c/tbjzlplays |archive-date=3 January 2020 |access-date=23 October 2021}}
+* {{Cite web |url=https://socialblade.com/youtube/user/behzinga |title=Behzinga's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20190603091135/https://socialblade.com/youtube/user/behzinga |archive-date=3 June 2019 |access-date=23 October 2021}}
+* {{Cite web |url=https://socialblade.com/youtube/user/beh2inga |title=Beh2inga's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20200103210511/https://socialblade.com/youtube/user/beh2inga |archive-date=3 January 2020 |access-date=23 October 2021}}
+* {{Cite web |url=https://socialblade.com/youtube/user/vikkstar123 |title=Vikkstar123's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20190603112008/https://socialblade.com/youtube/user/vikkstar123 |archive-date=3 June 2019 |access-date=23 October 2021}}
+* {{Cite web |url=https://socialblade.com/youtube/user/vikkstarplays |title=VikkstarPlays's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20200103211219/https://socialblade.com/youtube/user/vikkstarplays |archive-date=3 January 2020 |access-date=23 October 2021}}
+* {{Cite web |url=https://socialblade.com/youtube/user/vikkstar123hd |title=Vikkstar123HD's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20190603102853/https://socialblade.com/youtube/user/vikkstar123hd |archive-date=3 June 2019 |access-date=23 October 2021}}
+* {{Cite web |url=https://socialblade.com/youtube/user/wroetoshaw |title=W2S's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20191205024434/https://socialblade.com/youtube/user/wroetoshaw/ |archive-date=5 December 2019 |access-date=23 October 2021}}
+* {{Cite web |url=https://socialblade.com/youtube/user/bluejumpergaming |title=W2SPlays's YouTube Stats |website=[[Social Blade]] |url-status=live |archive-url=https://web.archive.org/web/20200531231618/https://socialblade.com/youtube/user/bluejumpergaming |archive-date=31 May 2020 |access-date=23 October 2021}}
+</ref>
+
+<ref name="JME">{{Cite web |url=http://grmdaily.com/video/sidemen-vs-jme-rap-battle |title=Jme Joins Sidemen For A Hilarious Virtual Rap Battle |last=Wynter |first=Courtney |date=30 March 2020 |website=[[GRM Daily]] |url-status=live |archive-url=https://archive.today/20200331033938/http://grmdaily.com/video/sidemen-vs-jme-rap-battle |archive-date=31 March 2020 |access-date=31 March 2020}}</ref>
+
+}}
+
+== External links ==
+{{Commons category}}
+* {{Official website}}
+* {{YouTube|channel=UCDogdKl7t7NHzQ95aEwkdMw|title=Sidemen}}
+* {{YouTube|channel=UCh5mLn90vUaB1PbRRx_AiaA|title=MoreSidemen}}
+* {{YouTube|channel=UCjRkTl_HP4zOh3UFaThgRZw|title=SidemenReacts}}
+* {{YouTube|channel=UCbAZH3nTxzyNmehmTUhuUsA|title=SidemenShorts}}
+
+{{Portal bar|Biography|Internet|Video games|United Kingdom|England}}
+{{KSI}}
+
+[[Category:British video bloggers]]
+[[Category:British Internet groups]]
+[[Category:British YouTubers]]
+[[Category:British YouTube groups]]
+[[Category:Comedy YouTubers]]
+[[Category:English-language YouTube channels]]
+[[Category:Gaming YouTubers]]
+[[Category:Let's Players]]
+[[Category:Male YouTubers]]
+[[Category:Surreal comedy]]
+[[Category:Video bloggers]]
+[[Category:Video game commentators]]
+[[Category:Vlogs-related YouTube channels]]
+[[Category:YouTube channels launched in 2016]]
+[[Category:YouTube vloggers]]
+[[Category:KSI]]

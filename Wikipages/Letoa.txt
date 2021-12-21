@@ -1,0 +1,27 @@
+{{Short description|Genus of moths}}
+{{Taxobox
+| regnum = [[Animalia]]
+| phylum = [[Arthropoda]]
+| classis = [[Insecta]]
+| ordo = [[Lepidoptera]]
+| familia = [[Pyralidae]]
+| genus = '''''Letoa'''''
+| genus_authority = [[Francis Walker (entomologist)|Walker]], 1866
+| species = '''''L. patulella'''''
+| binomial = ''Letoa patulella''
+| binomial_authority = Walker, 1866
+| synonyms = 
+}}
+'''''Letoa''''' is a [[monotypic]] [[Pyralidae|snout moth]] genus described by [[Francis Walker (entomologist)|Francis Walker]] in 1866. Its only species, '''''Letoa patulella''''', described by the same author in the same year, is found in [[India]].<ref name="Pyraloidea db">{{cite web |last=Nuss |first=M. |display-authors=etal |date=2003–2011 |url=http://globiz.pyraloidea.org/Pages/Reports/TaxonReport.aspx |title=GlobIZ search |website=Global Information System on Pyraloidea |accessdate=2011-09-29}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q13397824}}
+
+[[Category:Phycitinae]]
+[[Category:Monotypic moth genera]]
+[[Category:Moths of Asia]]
+
+
+{{Phycitinae-stub}}

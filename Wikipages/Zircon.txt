@@ -1,0 +1,155 @@
+{{Short description|Zirconium silicate, a mineral belonging to the group of nesosilicates}}
+{{About|the mineral and gemstone|the white crystalline oxide of zirconium |Zirconium dioxide|the diamond simulant|Cubic zirconia|other uses}}
+{{Use American English|date=August 2015}}
+{{Use mdy dates|date=August 2015}}
+{{Use American English|date=March 2021}}
+{{Infobox mineral
+|boxbgcolor=#b56042| name          = Zircon
+| category      = [[Nesosilicate]]s
+| image         = Zircon-dtn1a.jpg
+| imagesize     = 250px
+| caption       = A lustrous crystal of zircon perched on a tan matrix of calcite from the [[Gilgit District]] of Pakistan
+| formula       = [[zirconium silicate]] (ZrSiO<sub>4</sub>)
+| molweight     = 
+| strunz        = 9.AD.30
+| system        = [[Tetragonal]] 
+| class         = Ditetragonal dipyramidal (4/mmm) <br/>[[H-M symbol]]: (4/m 2/m 2/m)
+| symmetry      = ''I''4<sub>1</sub>/amd (No. 141)
+| unit cell     = a = 6.607(1), c = 5.982(1)&nbsp;[Å]; Z&nbsp;=&nbsp;4
+| color         = Reddish brown, yellow, green, blue, gray, colorless; in thin section, colorless to pale brown
+| habit         = tabular to prismatic crystals, irregular grains, massive
+| twinning      = On {101}. Crystals shocked by meteorite impact show polysynthetic twins on {112}
+| cleavage      = {110} and {111}
+| fracture      = Conchoidal to uneven
+| tenacity      = Brittle
+| mohs          = 7.5
+| luster        = Vitreous to adamantine; greasy when [[metamict]].
+| refractive    = n<sub>ω</sub> = 1.925–1.961 <br/>n<sub>ε</sub> = 1.980–2.015, 1.75 when metamict
+| opticalprop   = Uniaxial (+)
+| birefringence = δ = 0.047–0.055
+| pleochroism   = Weak
+| streak        = White
+| gravity       = 4.6–4.7
+| melt          =
+| fusibility    =  close to 2,550 °C depend on Hf,Th,U,H,etc... concentrations.
+| diagnostic    =
+| solubility    = Insoluble
+| diaphaneity   = Transparent to opaque
+| other         = [[Fluorescence|Fluorescent]] and [[Image:Radioactive.svg|25px]] [[Radioactive]],<br/>May form [[pleochroic halo]]s,<br/>Relief: high
+| references    = <ref name=HBM>{{cite book|editor1-last=Anthony|editor1-first=John W.|editor2-last=Bideaux|editor2-first=Richard A.|editor3-last=Bladh|editor3-first=Kenneth W.|editor4-last=Nichols|editor4-first=Monte C.|title=Handbook of Mineralogy|publisher=[[Mineralogical Society of America]]|place=Chantilly, VA, US|chapter-url=http://rruff.geo.arizona.edu/doclib/hom/zircon.pdf|chapter=Zircon|isbn=978-0962209710|volume=II (Silica, Silicates)|year=1995}}</ref><ref name=Mindat>{{cite web|url=https://www.mindat.org/min-4421.html|title=Zircon: Mineral information, data and localities|work=[[Mindat.org]]|access-date=October 19, 2021}}</ref><ref>{{cite web|url=http://webmineral.com/data/Zircon.shtml|title=Zircon Mineral Data|work=Webmineral|access-date=October 19, 2021}}</ref><ref name="hurlbut-klein">{{cite book|last1=Hurlbut|first1=Cornelius S.|last2=Klein|first2=Cornelis|year=1985|title=Manual of Mineralogy|edition=20th|isbn=0-471-80580-7}}</ref><ref>{{cite journal|url=http://www.minsocam.org/MSA/AmMin/TOC/Abstracts/2013_Abstracts/Jan13_Abstracts/Erickson_p53_13.pdf|title=Correlating planar microstructures in shocked zircon from the Vredefort Dome at multiple scales: Crystallographic modeling, external and internal imaging, and EBSD structural analysis|work=American Mineralogist|volume=Volume 98|pages=53–65|year=2013|first1=Timmons M.|last1=Erickson|first2=Aaron J.|last2=Cavosie|first3=Desmond E.|last3=Moser|first4=Ivan R.|last4=Barker|first5=Henri A.|last5=Radovan|doi=10.2138/am.2013.4165|display-authors=3|others=Abstract}}</ref>
+}}
+
+'''Zircon''' ({{IPAc-en|pron|ˈ|z|ɜr|k|ɒ|n}}<ref>{{cite web|url=http://www.collinsdictionary.com/dictionary/english/zircon|title=Zircon definition and meaning - Collins English Dictionary|website=www.collinsdictionary.com|access-date=April 29, 2018}}</ref><ref>{{AHDict|zircon}}</ref> or {{IPAc-en|ˈ|z|ɜr|k|ən}}<ref>{{cite web|url=http://www.merriam-webster.com/dictionary/zircon|title=Definition of ZIRCON|website=[[Merriam-Webster]]|access-date=April 29, 2018}}</ref>) is a [[mineral]] belonging to the group of [[nesosilicate]]s and is a source of the metal [[zirconium]]. Its chemical name is [[zirconium silicate]], and its corresponding chemical formula is [[Zirconium|Zr]][[Silicate|SiO<sub>4</sub>]]. A common [[empirical formula]] showing some of the range of substitution in zircon is (Zr<sub>1–y</sub>, [[rare-earth elements|REE]]<sub>y</sub>)(SiO<sub>4</sub>)<sub>1–x</sub>(OH)<sub>4x–y</sub>. Zircon forms in [[silicate]] [[Melt (geology)|melts]] with large proportions of [[Incompatible element|high field strength incompatible elements]]. For example, [[hafnium]] is almost always present in quantities ranging from 1 to 4%. The [[crystal structure]] of zircon is [[tetragonal]] [[crystal system]]. The natural color of zircon varies between colorless, yellow-golden, red, brown, blue, and green.
+
+The name derives from the [[Persian language|Persian]] ''zargun'', meaning "gold-hued".<ref name="Stwertka">{{cite book|last=Stwertka|first=Albert|title=A Guide to the Elements|url=https://archive.org/details/guidetoelements00stwe/page/117|url-access=registration|publisher=Oxford University Press|year=1996|pages=117–119|isbn=978-0-19-508083-4}}</ref> This word is corrupted into "[[jargoon]]", a term applied to light-colored zircons. The English word "zircon" is derived from ''Zirkon'', which is the German adaptation of this word.<ref>{{OEtymD|zircon}}</ref> Yellow, orange, and red zircon is also known as "[[hyacinth (gemstone)|hyacinth]]",<ref name="Hyacinth1">{{cite encyclopedia|url=https://www.britannica.com/topic/hyacinth-gem|title=Hyacinth (gem)|publisher=Encyclopædia Britannica Inc.|encyclopedia=Encyclopædia Britannica|access-date=7 October 2016}}</ref> from the flower ''[[Hyacinth (plant)|hyacinthus]]'', whose name is of [[Ancient Greek]] origin.
+
+==Properties==
+[[Image:zircon microscope.jpg|left|150px|thumb|Optical microscope photograph; the length of the crystal is about 250 [[µm]]]]
+
+Zircon is common in the [[Crust (geology)|crust]] of Earth. It occurs as a common [[accessory mineral]] in [[igneous rock]]s (as primary crystallization products), in [[metamorphic rock]]s and as detrital grains in [[sedimentary rock]]s.<ref name=HBM/> Large zircon crystals are rare. Their average size in [[granitoid|granite]] rocks is about {{cvt|0.1|–|0.3|mm}}, but they can also grow to sizes of several centimeters, especially in mafic [[pegmatite]]s and [[carbonatite]]s.<ref name=HBM/> Zircon is fairly hard (with a Mohs hardness of 7.5) and chemically stable, and so is highly resistant to weathering. It also is resistant to heat, so that detrital zircon grains are sometimes preserved in igneous rocks formed from melted sediments.<ref>{{cite book|last=Nesse|first=William D.|title=Introduction to mineralogy|date=2000|publisher=Oxford University Press|location=New York|isbn=9780195106916|pages=313–314}}</ref> Its resistance to weathering, together with its relatively high specific gravity (4.68), make it an important component of the heavy mineral fraction of sandstones.<ref name="hurlbut-klein"/>
+
+Because of their [[uranium]] and [[thorium]] content, some zircons undergo [[metamictization]]. Connected to internal radiation damage, these processes partially disrupt the crystal structure and partly explain the highly variable properties of zircon. As zircon becomes more and more modified by internal radiation damage, the density decreases, the crystal structure is compromised, and the color changes.{{sfn|Nesse|2000|pp=93-94}}
+
+Zircon occurs in many colors, including reddish brown, yellow, green, blue, gray, and colorless.<ref name=HBM/> The color of zircons can sometimes be changed by heat treatment. Common brown zircons can be transformed into colorless and blue zircons by heating to {{cvt|800|to|1000|C}}.<ref name=Gemdat>{{cite web|url=http://www.gemdat.org/gem-4421.html|title=Zircon gemstone information|website=www.gemdat.org|access-date=April 29, 2018}}</ref> In geological settings, the development of pink, red, and purple zircon occurs after hundreds of millions of years, if the crystal has sufficient trace elements to produce [[F-Center|color centers]]. Color in this red or pink series is annealed in geological conditions above temperatures of around {{cvt|400|C||}}.<ref>{{cite journal|doi=10.1016/S0040-1951(02)00054-9|title=Integration of zircon color and zircon fission-track zonation patterns in orogenic belts: Application to the Southern Alps, New Zealand|journal=Tectonophysics|volume=349|issue=1–4|pages=203–219|year=2002|last1=Garver|first1=John I.|last2=Kamp|first2=Peter J.J.|bibcode=2002Tectp.349..203G|citeseerx=10.1.1.570.3912}}</ref>
+
+Structurally, zircon consists of parallel chains of alternating silica tetrahedra (silicon ions in fourfold coordination with oxygen ions) and zirconium ions, with the large zirconium ions in eightfold coordination with oxygen ions.{{sfn|Nesse|2000|p=313}}
+
+==Applications==
+[[Image:ZirconUSGOV.jpg|thumb|left|Sand-sized grains of zircon]]
+Zircon is mainly consumed as an [[opacifier]], and has been known to be used in the decorative ceramics industry.<ref name=Ullmann>{{cite book|doi=10.1002/14356007.a28_543|chapter=Zirconium and Zirconium Compounds|title=Ullmann's Encyclopedia of Industrial Chemistry|year=2000|last=Nielsen|first=Ralph|isbn=978-3527306732}}</ref> It is also the principal precursor not only to metallic [[zirconium]], although this application is small, but also to all compounds of zirconium including [[zirconium dioxide]] (ZrO<sub>2</sub>), an important [[refractory]] oxide with a melting point of {{cvt|2717|C||}}.<ref>{{cite journal|last1=Davis|first1=Sergio|last2=Belonoshko|first2=Anatoly|last3=Rosengren|first3=Anders|last4=Duin|first4=Adri|last5=Johansson|first5=Börje|title=Molecular dynamics simulation of zirconia melting|journal=Open Physics|date=1 January 2010|volume=8|issue=5|page=789|doi=10.2478/s11534-009-0152-3|bibcode=2010CEJPh...8..789D|s2cid=120967147}}</ref>
+
+Other applications include use in refractories and foundry casting and a growing array of specialty applications as [[zirconia]] and zirconium chemicals, including in nuclear fuel rods, catalytic fuel converters and in water and air purification systems.<ref>{{Cite web|url=http://www.mineralcommodities.com/products/|title=Products|website=Mineral Commodities Ltd|access-date=2016-08-08|archive-url=https://web.archive.org/web/20161007164341/http://www.mineralcommodities.com/products/|archive-date=2016-10-07}}</ref>
+
+Zircon is one of the key minerals [[Radiometric dating|used]] by geologists for [[geochronology]].{{sfn|Nesse|2000|p=314}}
+
+Zircon is a part of the [[ZTR index]] to classify highly-[[weathering|weathered]] [[sediment]]s.<ref>{{cite book|last1=Blatt|first1=Harvey|last2=Middleton|first2=Gerard|last3=Murray|first3=Raymond|title=Origin of sedimentary rocks|date=1980|publisher=Prentice-Hall|location=Englewood Cliffs, N.J.|isbn=0136427103|edition=2d|pages=321–322}}</ref>
+<!-- This is not an application: 
+*Large specimens are appreciated as [[gemstone]]s, owing to their high [[refractive index]]. (Zircon has a refractive index of approximately 1.95; [[diamond]]'s is approximately 2.4.)-->
+
+==As gemstone==
+[[File:ZirkonBlau.jpg|thumb|right|A pale blue zircon gemstone weighing 3.36 carats]]
+Transparent zircon is a well-known form of semi-precious [[gemstone]], favored for its high [[specific gravity]] (between 4.2 and 4.86) and adamantine [[Lustre (mineralogy)|luster]]. Because of its high [[refractive index]] (1.92) it has sometimes been used as a substitute for [[diamond]], though it does not display quite the same [[Dispersion (optics)|play of color]] as a diamond. Zircon is the heaviest of any gem, readily sinking in even highly viscous liquids. Its [[Mohs hardness]] is between that of quartz and topaz, at 7.5 on the 10 point scale, though below that of the similar manmade stone [[cubic zirconia]] (9). Zircons may sometimes lose their inherent color after long exposure to bright sunlight, which is unusual in a gemstone. It is immune to acid attack except by [[sulfuric acid]] and then only when ground into a fine powder.<ref>{{cite book|title=Gems and Gem Minerals|page=109|author=Oliver Cummings Farrington|date=1903|publisher=A.W. Mumford}}</ref>
+
+Most gem-grade zircons show a high degree of [[birefringence]] which, on stones cut with a table and pavilion cuts (i.e., nearly all cut stones), can be seen as the apparent doubling-up of the latter when viewed through the former, and this characteristic can be used to distinguish them from diamonds and cubic zirconias (CZ) as well as soda-lime glass, none of which show this characteristic. However, some zircons from Sri Lanka display only weak or no birefringence at all, and some other Sri Lanka stones may show clear birefringence in one place and little or none in another part of the same cut stone.<ref>{{cite book|pages=562–563|author=L.J. Spencer|publisher=John Murray|date=1905|title=Report of the Seventy-Fourth Meeting of the British Association for the Advancement of Science}}</ref> Other gemstones also display birefringence, so while the presence of this characteristic may help distinguish a given zircon from a diamond or a CZ, it will not help distinguish it from, for example, a [[topaz]] gemstone. The high specific gravity of zircon, however, can usually separate it from any other gem and is simple to test.
+
+Also, birefringence depends on the cut of the stone in relation to its [[optical axis]]. If a zircon is cut with this axis perpendicular to its table, birefringence may be reduced to undetectable levels unless viewed with a jeweler's [[loupe]] or other magnifying optics. The highest grade zircons are cut to minimize birefringence.<ref name=guide>{{cite web|url=http://www.gemstones-guide.com/Zircon.html#Physical_Optical_Properties_of_Zircon|title=Physical & Optical Properties of Zircon|work=Colored Gemstones Guide|access-date=October 19, 2021}}</ref>
+
+The value of a zircon gem depends largely on its color, clarity, and size. Prior to World War II, blue zircons (the most valuable color) were available from many gemstone suppliers in sizes between 15 and 25 carats; since then, stones even as large as 10 carats have become very scarce, especially in the most desirable color varieties.<ref name=guide/>
+
+Synthetic zircons have been created in laboratories,<ref>{{cite journal|last1=Van Westrenen|first1=Wim|last2=Frank|first2=Mark R.|last3=Hanchar|first3=John M.|last4=Fei|first4=Yingwei|last5=Finch|first5=Robert J.|last6=Zha|first6=Chang-Sheng|title=In situ determination of the compressibility of synthetic pure zircon (ZrSiO<sub>4</sub>) and the onset of the zircon-reidite phase transition|journal=American Mineralogist|date=January 2004|volume=89|issue=1|pages=197–203|doi=10.2138/am-2004-0123|bibcode=2004AmMin..89..197V|s2cid=102001496}}</ref> but they are only of scientific interest and are never encountered in the jewellery trade. Zircons are sometimes imitated by [[spinel]] and synthetic [[sapphire]], but are not difficult to distinguish from them with simple tools.
+
+==Occurrence==
+[[Image:Zirconium mineral concentrates - world production trend.svg|thumb|left|World production trend of zirconium mineral concentrates]]
+Zircon is a common accessory to trace mineral constituent of all kinds of igneous rocks, but particularly [[granite]] and [[felsic]] igneous rocks. Due to its hardness, durability and chemical inertness, zircon persists in sedimentary deposits and is a common constituent of most sands.{{sfn|Nesse|2000|pp=313-314}}{{sfn|Hurlbut|Klein|1985|p=454}} Zircon can occasionally be found as a trace mineral in [[Ultrapotassic igneous rocks|ultrapotassic intrusive rocks]] such as [[kimberlite]]s, carbonatites, and lamprophyre, owing to the unusual magma genesis of these rocks.{{citation needed|date=March 2021}}
+
+Zircon forms economic concentrations within [[heavy mineral sands ore deposits]], within certain [[pegmatite]]s, and within some rare alkaline volcanic rocks, for example the Toongi Trachyte, [[Dubbo, New South Wales]] Australia<ref>{{cite web|url=http://www.alkane.com.au/images/pdf/Media/20141023.pdf|title=Dubbo Zirconia Project Fact Sheet June 2014|date=June 2007|author=Staff|work=Alkane Resources Limited|access-date=2007-09-10|archive-url=https://web.archive.org/web/20080228054038/http://www.alkane.com.au/projects/nsw/dubbo/DZP%20Summary%20June07.pdf|archive-date=2008-02-28}}</ref> in association with the zirconium-hafnium minerals [[eudialyte]] and armstrongite.
+
+[[Australia]] leads the world in zircon mining, producing 37% of the world total and accounting for 40% of world EDR ([[economic demonstrated resources]]) for the mineral.<ref>{{Cite web|url=http://www.zircon-association.org/Websites/zircon/images/Resources/the-mineral-sands-industry-factbook-(feb-2014).pdf|title=The Mineral Sands Industry Factbook|archive-url=https://web.archive.org/web/20160818142054/http://www.zircon-association.org/Websites/zircon/images/Resources/the-mineral-sands-industry-factbook-(feb-2014).pdf|archive-date=2016-08-18}}</ref> South Africa is Africa's main producer, with 30% of world production, second after Australia.<ref>{{Cite web|url=https://www.mbendi.com/indy/ming/hvym/af/p0005.htm|title=Heavy Minerals Mining in Africa - Titanium And Zirconium|access-date=2016-08-08|archive-url=https://web.archive.org/web/20080528050951/http://www.mbendi.co.za/indy/ming/hvym/af/p0005.htm|archive-date=2008-05-28}}</ref>
+{{Clear}}
+
+==Radiometric dating==
+[[File:Zircon grain (CL-SEM imaging).tiff|thumb|SEM-CL image of Zircon grain showing zonations and poly-cycles (core-rim structure)]]
+Zircon has played an important role during the evolution of [[radiometric dating]]. Zircons contain trace amounts of uranium and thorium (from 10 [[Parts per million|ppm]] up to 1 wt%) and can be dated using several modern analytical techniques. Because zircons can survive geologic processes like [[erosion]], transport, even high-grade [[metamorphism]], they contain a rich and varied record of geological processes. Currently, zircons are typically dated by [[uranium-lead dating|uranium-lead]] (U-Pb), [[fission track dating|fission-track]], [[cathodoluminescence]], and U+Th/He techniques. For instance, imaging the cathodoluminescence emission from fast electrons can be used as a prescreening tool for high-resolution secondary-ion-mass spectrometry (SIMS) to image the zonation pattern and identify regions of interest for isotope analysis. This is done using an integrated cathodoluminescence and scanning electron microscope.<ref>{{Cite web|url=http://request.delmic.com/zircon-application-note|title=Zircons - Application Note|website=DELMIC|language=en|access-date=2017-02-10}}</ref> [[Detrital zircon geochronology|Zircons in sedimentary rock]] can identify the sediment source.<ref>{{cite journal|last1=Cawood|first1=P.A.|last2=Hawkesworth|first2=C.J.|last3=Dhuime|first3=B.|title=Detrital zircon record and tectonic setting|journal=Geology|date=October 2012|volume=40|issue=10|pages=875–878|doi=10.1130/G32945.1|bibcode=2012Geo....40..875C|doi-access=free}}</ref>
+
+Zircons from [[Jack Hills]] in the [[Narryer Gneiss Terrane]], [[Yilgarn Craton]], [[Western Australia]], have yielded [[uranium-lead dating|U-Pb]] ages up to 4.404 billion years,<ref name="Wilde">{{cite journal|doi=10.1038/35051550|pmid=11196637|title=Evidence from detrital zircons for the existence of continental crust and oceans on the Earth 4.4 Gyr ago|journal=Nature|volume=409|issue=6817|pages=175–178|year=2001|last1=Wilde|first1=Simon A.|last2=Valley|first2=John W.|last3=Peck|first3=William H.|last4=Graham|first4=Colin M.|bibcode=2001Natur.409..175W|s2cid=4319774}}</ref> interpreted to be the age of crystallization, making them the [[oldest rock|oldest minerals]] so far dated on Earth. In addition, the [[oxygen]] [[isotope|isotopic]] compositions of some of these zircons have been interpreted to indicate that more than 4.4 billion years ago there was already water on the surface of the Earth.<ref name="Wilde" /><ref>{{cite journal|doi=10.1038/35051557|pmid=11196638|title=Oxygen-isotope evidence from ancient zircons for liquid water at the Earth's surface 4,300 Myr ago|journal=Nature|volume=409|issue=6817|pages=178–181|year=2001|last1=Mojzsis|first1=Stephen J.|last2=Harrison|first2=T. Mark|last3=Pidgeon|first3=Robert T.|s2cid=2819082}}</ref> This interpretation is supported by additional trace element data,<ref>{{cite journal|doi=10.1016/j.epsl.2008.05.032|title=Lithium in Jack Hills zircons: Evidence for extensive weathering of Earth's earliest crust|journal=Earth and Planetary Science Letters|volume=272|issue=3–4|pages=666–676|year=2008|last1=Ushikubo|first1=Takayuki|last2=Kita|first2=Noriko T.|last3=Cavosie|first3=Aaron J.|last4=Wilde|first4=Simon A.|last5=Rudnick|first5=Roberta L.|last6=Valley|first6=John W.|bibcode=2008E&PSL.272..666U}}</ref><ref>{{cite news|url=http://www.physorg.com/news132583481.html|title=Ancient mineral shows early Earth climate tough on continents|publisher=Physorg.com|date=June 13, 2008}}</ref> but is also the subject of debate.<ref>{{cite journal|doi=10.1016/j.epsl.2006.01.054|title=Re-evaluation of the origin and evolution of >4.2 Ga zircons from the Jack Hills metasedimentary rocks|journal=Earth and Planetary Science Letters|volume=244|issue=1–2|pages=218–233|year=2006|last1=Nemchin|first1=A.|last2=Pidgeon|first2=R.|last3=Whitehouse|first3=M.|bibcode=2006E&PSL.244..218N}}</ref><ref>{{cite journal|doi=10.1016/j.epsl.2005.04.028|title=Magmatic δ18O in 4400–3900 Ma detrital zircons: A record of the alteration and recycling of crust in the Early Archean|journal=Earth and Planetary Science Letters|volume=235|issue=3–4|pages=663–681|year=2005|last1=Cavosie|first1=A.J.|last2=Valley|first2=J.W.|last3=Wilde|first3=S.A.|last4=e.i.m.f |bibcode=2005E&PSL.235..663C}}</ref> In 2015, "remains of [[Biotic material|biotic life]]" were found in 4.1 billion-year-old rocks in the Jack Hills of Western Australia.<ref name="AP-20151019">{{cite news|last=Borenstein|first=Seth|title=Hints of life on what was thought to be desolate early Earth|url=http://apnews.excite.com/article/20151019/us-sci--earliest_life-a400435d0d.html|date=19 October 2015|work=[[Excite (web portal)|Excite]]|location=Yonkers, NY|publisher=[[Mindspark Interactive Network]]|agency=[[Associated Press]]|url-status=dead|archive-url=https://web.archive.org/web/20151023200248/http://apnews.excite.com/article/20151019/us-sci--earliest_life-a400435d0d.html|archive-date=23 October 2015|access-date=8 October 2018}}</ref><ref name="PNAS-20151014-pdf">{{cite journal|last1=Bell|first1=Elizabeth A.|last2=Boehnke|first2=Patrick|last3=Harrison|first3=T. Mark|last4=Mao|first4=Wendy L.|author-link4=Wendy Mao|year=2015|title=Potentially biogenic carbon preserved in a 4.1 billion-year-old zircon|journal=Proceedings of the National Academy of Sciences|volume=112|issue=47|pages=14518–14521|bibcode=2015PNAS..11214518B|doi=10.1073/pnas.1517557112|pmc=4664351|pmid=26483481|doi-access=free}}</ref> According to one of the researchers, "If [[life]] arose relatively quickly on [[Earth]] ... then it could be common in the [[universe]]."<ref name="AP-20151019" />
+
+==Similar minerals==
+[[Hafnon]] (HfSiO<sub>4</sub>), [[xenotime]] (YPO<sub>4</sub>), [[béhierite]], [[schiavinatoite]] ((Ta,Nb)BO<sub>4</sub>), [[thorite]] (ThSiO<sub>4</sub>), and [[coffinite]] (USiO<sub>4</sub>) all share the same crystal structure (<sup>IV</sup>X <sup>IV</sup>Y O<sub>4</sub>, <sup>III</sup>X <sup>V</sup>Y O<sub>4</sub> in the case of xenotime) as zircon.
+
+==Gallery==
+<gallery widths="165px" heights="130px">
+Image:Zircon.GIF|Crystal structure of zircon
+Image:Zirconcrystal-model.png|Unit cell of zircon
+Image:Zirkon 372.jpg|[[Scanning electron microscope|SEM]] image of zircon
+Image:Zircon-tuc1001a.jpg|Unusual olive-green zircon
+Image:Zircon-j08-23a.jpg|Cluster of three compound crystals of zircon
+</gallery>
+
+==See also==
+{{Div col|colwidth=18em}}
+* [[Baddeleyite]], ZrO<sub>2</sub>
+* [[Cathodoluminescence microscope]]
+* [[Cool Early Earth]]
+* [[Earliest known life forms]]
+* [[Hadean zircon]]
+* [[Heavy mineral sands ore deposits]]
+* [[History of Earth]]
+* [[Ilmenite]]
+* [[Cerium anomaly]] 
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{Refbegin|40em}} 
+*{{cite journal|editor1=John M. Hanchar|editor2=Paul W. O. Hoskin|name-list-style=amp|year=2003|url=http://www.minsocam.org/MSA/RIM/Rim53.html|title=Zircon|work=Reviews in Mineralogy and Geochemistry|volume=53|isbn=0-939950-65-0|type=[[Mineralogical Society of America]] monograph}}
+*{{cite journal|author1=D. J. Cherniak|author-link1=Daniele Cherniak|author2=E. B. Watson|name-list-style=amp|year=2000|title=Pb diffusion in zircon|work=Chemical Geology|volume=172|issue=1–2|pages=5–24|doi=10.1016/S0009-2541(00)00233-3|bibcode=2001ChGeo.172....5C}}
+*{{cite journal|author=A. N. Halliday|year=2001|title=In the beginning…|work=Nature|volume=409|pages=144–145|doi=10.1038/35051685|pmid=11196624|issue=6817|s2cid=4339433}}
+*{{cite journal|author=Hermann Köhler|year=1970|title=Die Änderung der Zirkonmorphologie mit dem Differentiationsgrad eines Granits|work=Neues Jahrbuch für Mineralogie - Monatshefte|volume=9|pages=405–420}}
+*{{cite journal|author1=K. Mezger|author2=E. J. Krogstad|name-list-style=amp|year=1997|title=Interpretation of discordant U-Pb zircon ages: An evaluation|work=Journal of Metamorphic Geology|volume=15|issue=1|pages=127–140|doi=10.1111/j.1525-1314.1997.00008.x|bibcode=1997JMetG..15..127M}}
+*{{cite journal|author=J. P. Pupin|year=1980|title=Zircon and Granite petrology|work=Contributions to Mineralogy and Petrology|volume=73|pages=207–220|doi=10.1007/BF00381441|bibcode=1980CoMP...73..207P|issue=3|s2cid=96470918}}
+*{{cite journal|author=Gunnar Ries|year=2001|title=Zirkon als akzessorisches Mineral|work=Aufschluss|volume=52|pages=381–383}}
+*{{cite journal|author=G. Vavra|year=1990|title=On the kinematics of zircon growth and its petrogenetic significance: a cathodoluminescence study|work=Contributions to Mineralogy and Petrology|volume=106|issue=1|pages=90–99|doi=10.1007/BF00306410|bibcode=1990CoMP..106...90V|s2cid=140566387}}
+*{{cite journal|author1=John W. Valley|author2=William H. Peck|author3=Elizabeth M. King|author4=Simon A. Wilde|title=A Cool Early Earth|journal=Geology|year=2002|volume=30|pages=351–354|doi=10.1130/0091-7613(2002)030<0351:ACEE>2.0.CO;2|url=http://www.geology.wisc.edu/zircon/cool_early/cool_early_home.html|access-date=2005-04-11|bibcode=2002Geo....30..351V|issue=4}}
+*{{cite journal|author=G. Vavra|year=1994|title=Systematics of internal zircon morphology in major Variscan granitoid types|work=Contributions to Mineralogy and Petrology|volume=117|pages=331–344|doi=10.1007/BF00307269|bibcode=1994CoMP..117..331V|issue=4|s2cid=128459636}}
+{{Refend}}
+
+==External links==
+{{Commons category|Zircon}}
+*[http://www.geology.wisc.edu/zircon/zircon_home.html Geochemistry of old zircons]
+*[https://web.archive.org/web/20050407220144/http://mineral.galleries.com/minerals/silicate/zircon/zircon.htm Mineral galleries]
+*[http://www.gia.edu/zircon GIA Gem Encyclopedia - Zircon] Online articles and information on zircon history, lore, and research
+*[http://www.zircon-association.org/ Zircon Industry Association]
+
+{{Jewellery}}
+{{Authority control}}
+
+[[Category:Zircon| ]]
+[[Category:Zirconium minerals]]
+[[Category:Nesosilicates]]
+[[Category:Refractory materials]]
+[[Category:Gemstones]]
+[[Category:Tetragonal minerals]]
+[[Category:Minerals in space group 141]]
+[[Category:Luminescent minerals]]

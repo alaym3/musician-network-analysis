@@ -1,0 +1,75 @@
+{{Short description|Human-made channel for water}}
+{{other uses}}
+[[File:Hävla bruk sågverket.jpg|thumb|Log flume in [[Sweden]], August 2010]]
+A '''flume''' is a human-made [[watercourse|channel for water]], in the form of an open declined [[chute (gravity)|gravity chute]] whose walls are raised above the surrounding terrain, in contrast to a [[trench]] or [[ditch]].<ref name="Koester 1909">{{cite book|last= Koester|first= Frank|title= Hydroelectric Developments and Engineering|year= 1909|publisher= D. Van Nonstrand|location= New York|pages= [https://archive.org/details/hydroelectricdev00koesrich/page/40 40]–45|url= https://archive.org/details/hydroelectricdev00koesrich}}</ref><ref name="NRB 42">{{cite book|title= Guidelines for Identifying, Evaluating and Registering Historic Mining Sites |year= 1997|publisher= National Park Service, U.S. Department of the Interior|location= Washington, D.C.|url= http://www.nps.gov/nr/publications/bulletins/nrb42/mi6.htm}}</ref> Flumes are not to be confused with [[aqueduct (water supply)|aqueducts]], which are built to transport water, rather than transporting materials using flowing water as a flume does.{{citation needed|date=September 2016}} Flumes route [[water]] from a [[diversion dam]] or [[weir]] to a desired [[materiel]] collection location. '''Flumes''' are usually made up of [[wood]], [[metal]] or [[concrete]].
+
+Many flumes took{{when|date=September 2016}} the form of wooden troughs elevated on [[trestle support|trestles]], often following the natural contours of the land. Originating as a part of a [[mill race]], they were later used in the transportation of logs in the [[logging]] industry, known as a [[log flume]]. They were also extensively used in [[hydraulic mining]] and working [[placer deposit]]s for [[gold]], [[tin]] and other heavy minerals.
+
+==Etymology==
+The term ''flume'' comes from the Old French word ''flum'', from the Latin ''flumen'', meaning a river. It was formerly used for a stream, and particularly for the tail of a [[mill race]]. It is used in America for a very narrow gorge running between precipitous rocks, with a stream at the bottom, but more frequently is applied to an artificial channel of wood or other material for the diversion of a stream of water from a river for purposes of irrigation, for running a sawmill, or for various processes in the hydraulic method of gold-mining.<ref>{{EB1911|inline=1 |wstitle=Flume|volume=10|pages=574–575}}</ref>
+
+==Types of flumes==
+[[File:Flume Little Sandy River.JPG|thumb|[[Bull Run Hydroelectric Project]] diversion flume, carrying water from one reservoir to another.]]
+[[File:Irrigation Flume.jpg|thumb|Working irrigation flume under repair in the East Kootenay, British Columbia Canada. Built in 1912, it runs 8&nbsp;km to provide water to a few dozen farms.]]
+
+===Millrace===
+A diversionary flume is used to transfer water from one body to another, such as between two reservoirs.
+
+===Log flume===
+{{main|Log flume}}
+Log flumes use the flow of water to carry cut logs and timber downhill, sometimes many miles, to either a sawmill or location for further transport.
+
+===Flow measurement flume===
+Some varieties of flumes are used in measuring water flow of a larger channel. When used to measure the flow of water in open channels, a flume is defined as a specially shaped, fixed hydraulic structure that under free-flow conditions forces flow to accelerate in such a manner that the flow rate through the flume can be characterized by a level-to-flow relationship as applied to a single head (level) measurement within the flume.  Acceleration is accomplished through a convergence of the sidewalls, a change in floor elevation, or a combination of the two.<ref name="Flumes">[http://www.openchannelflow.com/products/flumes Flumes], Openchannelflow.com</ref>
+
+Flow measurement flumes typically consist of a converging section, a throat section, and a diverging section.  Not all sections, however, need to be present.  In the case of the [[Cutthroat flume]], the converging section directly joins the diverging section, resulting in a throat section of no length (hence the term "Cutthroat").  Other flumes omit the diverging section (Montana, USGS Portable Parshall, and HS / H / HL flumes).<ref name="Sections of a Flume - Their Location and Function">[http://www.openchannelflow.com/blog/article/sections-of-a-flume-their-location-and-function Sections of a Flume - Their Location and Function], Openchannelflow.com</ref>
+
+Flumes offer distinct advantages over sharp-crested weirs:<ref name="Flumes"/>  
+*For the same control width, the head loss for a flume is about one-fourth of that needed to operate a sharp-crested weir 
+*The velocity of approach is part of the calibration equations for flumes
+*Unauthorized altering of the dimensions of constructed flumes is difficult (and therefore unlikely)
+*Most flume styles readily allow for the passage of sedimentation and floating debris – reducing the time and effort associated with maintaining a flume installation
+
+Styles of flow measurement flumes include:  [[Cutthroat flume|Cutthroat]], HS / H / HL-type, Khafagi, [[montana flume|Montana]], RBC, [[Parshall flume|Parshall]], [[Palmer-Bowlus Flume|Palmer-Bowlus]], Trapezoidal, and [[Venturi Flume]].
+
+Flow measurement flumes can be installed in earthen channels, concrete canals, below ground chambers, or factory integrated into [[Packaged Metering Manhole]]s.{{citation needed|date=May 2015}}
+
+===Navigable canal flume===
+[[image:Bypass Flume Lock 7 C and O Canal.jpg|200px|thumb|A bypass flume on the [[Chesapeake and Ohio Canal]] ]]
+In some nineteenth-century canals, a bypass flume diverted water around a [[Lock (water transport)|lift lock]] from the [[Canal pound|level (or pound)]] above to the level below the lock, so that the level below would have sufficient water.<ref>{{cite book|author=Kytle, Elizabeth|year=1983|title=Home on the Canal|url=https://archive.org/details/homeoncanal00kytl|url-access=registration|publisher=Seven Locks Press|location=[[Cabin John, MD]]|isbn= 978-080185328-9}} p. 270</ref>
+
+===Recreational flumes===
+{{see also|Log flume (ride)|Water slide}}
+In competitive [[swimming (sport)|swimming]], specialized flumes with transparent sides are often employed by coaches to analyze a swimmer's technique. The speed of the flow is variable to accommodate the full spectrum of swimming styles and ability.
+
+==Gallery==
+<gallery mode=packed heights="150px">
+Flume, Hafren Forest - geograph.org.uk - 228904.jpg|Measuring flume in the UK
+Gold Creek, AK, with pipe.jpg|Flume outflow
+Creek diversion above the southern portal of Woy Woy tunnel.jpg|A temporary flume in New South Wales
+</gallery>
+
+==See also==
+* [[Acequia]]
+* [[Aqueduct (water supply)]]
+* [[Canal]]
+* [[Leat]]
+* [[Log flume]]
+* [[Mill race]]
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+*http://www.openchannelflow.com/blog/article/sections-of-a-flume-their-location-and-function Sections of a Flume - Their Location and Function
+*http://www.openchannelflow.com/blog/article/anatomy-of-a-flume Anatomy of a Flume
+*{{Cite book |last=Clemmens |first=Albert |title=Water Measurement with Flumes and Weirs|year=2010|isbn= 978-1887201544}}
+*{{Cite book |last=Akers |first=Peter |title=Weirs and Flumes for Flow Measurement |year=1978 |isbn=978-0471996378 |url-access=registration |url=https://archive.org/details/weirsflumesforfl0000unse }}
+
+==External links==
+{{Commons category|Flumes}}
+* [https://www.flickr.com/photos/openchannelflow/sets/72157632315175670/ Pictures of flow measurement flumes]
+
+{{Rivers, streams and springs}}
+
+[[Category:Aqueducts]]

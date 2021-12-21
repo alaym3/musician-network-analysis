@@ -1,0 +1,63 @@
+{{Short description|Former US mobile hardware and software company}}
+{{Infobox company
+| name           = Danger, Inc.
+| logo           = Danger logo.svg
+| logo_size      = 
+| type           = [[Subsidiary]]
+| foundation     = {{start date and age|1999}}
+| founders       = [[Andy Rubin]]<br>Joe Britt<br>Matt Hershenson
+| defunct        = {{end date and age|2009}}
+| location       = [[Palo Alto, California]], US
+| key_people          = {{Plainlist|
+* [[Andy Rubin]] ([[CEO]])
+* [[Matías Duarte]] (Director of Design)
+}}
+| fate = Merged with Microsoft; ceased production
+| num_employees  = 
+| industry       = [[computer software|Software]], services
+| products       = 
+| revenue        = 
+| parent         = [[Microsoft]]
+| homepage       = {{webarchive |url=https://web.archive.org/web/20110426174953/http://www.danger.com/ |date=April 26, 2011 |title=www.danger.com }}
+}}
+
+'''Danger, Inc.''' was a company specializing in hardware design, software, and services for [[mobile computing]] devices. Its most notable product was the [[T-Mobile]] [[T-Mobile Sidekick|Sidekick]] (also known as [[Danger Hiptop]]), a popular early smartphone. The Sidekick or Hiptop was an early example of [[client–server model|client–server]] ("cloud"-based) smartphones and created the App (Applications) marketplace, later popularized by [[Android (operating system)|Android]] and [[iOS]]. Danger was acquired by [[Microsoft]] on 11 February 2008, for a price rumored to be around $500 million (USD).<ref>{{cite web |url=http://gigaom.com/2008/02/12/how-much-did-microsoft-pay-for-danger-find-out-here/ |title=How Much Did Microsoft Pay For Danger? |date=12 February 2008 |publisher=[[Gigaom]] }}</ref>
+
+==History==
+The company was originally started by former [[Apple Inc.]], [[WebTV Networks|WebTV]] and [[Philips]] employees [[Andy Rubin]], Joe Britt, and Matt Hershenson. Co-founder Andy Rubin left in 2003 to create the company [[Android Inc.#History|Android]], which was later acquired by [[Google]].<ref>{{Cite web|url=http://www.businessinsider.fr/us/how-android-was-created-2015-3/|title=THE RISE OF ANDROID: How a flailing startup became the world's biggest computing platform|website=Business Insider France|language=fr-FR|access-date=2018-01-04}}</ref>
+
+After the Microsoft acquisition in 2008, the former Danger staff were absorbed into the Mobile Communications Business (MCB) of the Microsoft Entertainment and Devices Division, where they worked on a future mobile phone platform known as "Project Pink" which would eventually be released as [[Microsoft Kin|Kin]].<ref name=Channel_Struggles>{{cite news 
+ |title=Microsoft's Pink Struggles Spill Over To Sidekick 
+ |newspaper=ChannelWeb 
+ |publisher=[[UBM Channel|UMB]] 
+ |date=12 October 2009 
+ |url=http://www.crn.com/software/220600334;jsessionid=KCFRRMAUPYH2NQE1GHOSKH4ATMY32JVN?pgno=1 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20100720120730/http://www.crn.com/software/220600334 
+ |archive-date=2010-07-20 
+ }}
+</ref> Because of poor sales, production was ceased just a few weeks after its release. The Kin development team was folded into the Windows Phone team, and Microsoft stopped promoting the devices.<ref name="Techflash_Kin">{{cite web |url=http://www.techflash.com/seattle/2010/06/confirmed_microsoft_kin_is_dead.html |title=Confirmed: Microsoft Kin is dead |author=Todd Bishop |date=30 June 2010 |website=TechFlash }}</ref>
+
+By October 2009, most of the ex-Danger employees had left Microsoft.<ref name=Betanews>{{cite news |title=The Sidekick catastrophe: A curse for Microsoft, but a blessing for Motorola? |newspaper=Betanews |date=12 October 2009 |url=http://www.betanews.com/article/The-Sidekick-catastrophe-A-curse-for-Microsoft-but-a-blessing-for-Motorola/1255361704 }}</ref> Until March 2013, Rubin headed Android development, and brought former Danger Director of Design [[Matias Duarte]] to Google.
+
+''The Register'' described the Microsoft acquisition as "a classic case of [[Mergers and acquisitions|M & A]] failure, where the acquirer has failed to integrate either the technology or the people from the company that it bought."<ref>{{cite web |url=https://www.theregister.co.uk/2010/07/08/microsoft_kin_fallout/ |title=Dead Pink phone fallout hits Microsoft's top brass |date=8 July 2010 |website=[[The Register]] }}</ref> Later in 2013 Microsoft purchased [[Nokia]]'s mobile phone business, which is also seen as a failure.<ref>{{Cite news|url=http://tech.economictimes.indiatimes.com/news/internet/microsofts-5-worst-acquisitions-ever/52734256|title = Microsoft's 5 worst acquisitions ever|newspaper = The Economic Times|last1 = Sarkhel|first1 = Aritra}}</ref>
+
+=== October 2009 data loss ===
+{{main|2009 Sidekick data loss}}
+In early October 2009, a server malfunction or technician error at Danger's data centers resulted in the loss of all Sidekick user data.  As Sidekicks store users' data on Danger's servers—versus using local storage—users lost contact directories, calendars, photos, and all other media not locally backed up. Local backup could be accomplished through an app ($9.99 USD) which synchronized contacts, calendar, and tasks, but not notes, between the web and a local Windows PC. In an October 10 letter to subscribers, Microsoft expressed its doubt that any data would be recovered.<ref>{{cite news|url=https://techcrunch.com/2009/10/10/t-mobile-sidekick-disaster-microsofts-servers-crashed-and-they-dont-have-a-backup/ |title=T-Mobile Sidekick Disaster: Danger's Servers Crashed, And They Don't Have A Backup |work=TechCrunch |date=2009-10-10 |access-date=2013-06-14}}</ref>
+
+The customer's data that was lost was, at the time, being hosted in Microsoft's data centers.<ref>{{cite news |title=Danger no backups |newspaper=[[The Inquirer]] |date=12 October 2009 |url=http://www.theinquirer.net/inquirer/news/1558214/danger-backups |archive-url=https://web.archive.org/web/20091013153615/http://www.theinquirer.net/inquirer/news/1558214/danger-backups |url-status=unfit |archive-date=October 13, 2009 }}</ref> Some media reports have suggested that Microsoft hired [[Hitachi]] to perform an upgrade to its [[storage area network]] (SAN), when something went wrong, resulting in data destruction.<ref>{{cite news |title=Sidekick failure rumors point fingers at outsourcing, lack of backups |newspaper=[[engadget]] |date=11 October 2009 |url=https://www.engadget.com/2009/10/11/sidekick-failure-rumors-point-fingers-at-outsourcing-lack-of-ba/ }}</ref> Microsoft did not have an active backup of the data and it had to be restored from a month-old copy of the server data, totalling 800GB in size, from offsite backup tapes. The entire restoration of data took over 2 months for customer data and full functionality to be restored.<ref>{{cite news |title= Microsoft's Danger Problem Blamed on Management |newspaper=RoughlyDrafted |date=15 October 2009 |url=http://www.roughlydrafted.com/2009/10/15/microsofts-pinkdanger-backup-problem-blamed-on-roz-ho/ }}</ref>
+
+The Danger/Sidekick episode is one in a series of cloud computing mishaps that have raised questions about the reliability of such offerings.<ref>{{cite news |title=From Sidekick to Gmail: A short history of cloud computing outages |newspaper=[[NetworkWorld]] |date=12 October 2009 |url=http://www.networkworld.com/article/2251068/wireless/from-sidekick-to-gmail--a-short-history-of-cloud-computing-outages.html }}</ref>
+
+==References==
+{{reflist}}
+
+{{Microsoft}}
+
+{{DEFAULTSORT:Danger (company)}}
+[[Category:Former Microsoft subsidiaries]]
+[[Category:American companies established in 1999]]
+[[Category:Companies based in Palo Alto, California]]
+[[Category:Mobile phone manufacturers]]
+[[Category:Defunct companies of the United States]]

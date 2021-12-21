@@ -1,0 +1,57 @@
+{{Infobox musical artist
+| name            = The New Basement Tapes
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          =
+| genre           =
+| years_active    = <!-- {{start date|YYYY}}–{{end date|YYYY}} (or –present) -->
+| label           = {{hlist|Electromagnetic|[[Harvest Records|Harvest]]}}
+| associated_acts = {{hlist|[[T Bone Burnett]]|[[Bob Dylan]]|[[My Morning Jacket]]|[[Mumford & Sons]]|[[Carolina Chocolate Drops]]|[[Dawes (band)|Dawes]]}}
+| website         = {{URL|http://www.thenewbasementtapes.com/}}
+| current_members = * [[Jim James]]
+* [[Elvis Costello]]
+* [[Marcus Mumford]]
+* [[Taylor Goldsmith]]
+* [[Rhiannon Giddens]]
+| past_members    = 
+}}
+
+'''The New Basement Tapes''' is a British-American musical [[Supergroup (music)|supergroup]] made up of members [[Jim James]], [[Elvis Costello]], [[Marcus Mumford]], [[Taylor Goldsmith]], and [[Rhiannon Giddens]].<ref>{{cite news|last1=Kreps|first1=Daniel|title=Hear the New Basement Tapes' Bob Dylan-Penned 'Spanish Mary'|url=https://www.rollingstone.com/music/videos/hear-the-new-basement-tapes-bob-dylan-penned-spanish-mary-20141014|accessdate=29 October 2014|publisher=Rolling Stone|date=14 October 2014}}</ref> The group is best known for ''[[Lost on the River: The New Basement Tapes]]'', their 2014 album which consists of tracks based on newly uncovered lyrics handwritten by Bob Dylan in 1967 during the recording of his 1975 album with [[The Band]], ''[[The Basement Tapes]]''.<ref name=PeopleHeigl>{{cite news|last1=Heigl|first1=Alex|title=Marcus Mumford, Jim James and Elvis Costello Take On Bob Dylan Songs in Lost Songs: The Basement Tapes Continued|url=http://www.people.com/article/basement-tapes-continued-bob-dylan-showtime|accessdate=29 October 2014|publisher=People Magazine|date=28 October 2014}}</ref> The group is also featured in the 2014 [[Showtime (TV network)|Showtime]] documentary ''Lost Songs: The Basement Tapes Continued''.<ref>{{cite news|last1=Gundersen|first1=Edna|title=Lost Dylan lyrics birth new all-star Basement Tapes|url=https://www.usatoday.com/story/life/music/2014/03/25/lost-bob-dylan-lyrics-birth-new-all-star-basement-tapes/6890655/|accessdate=30 October 2014|publisher=USA Today|date=25 March 2014}}</ref>
+
+==History==
+ 
+The New Basement Tapes were brought together in March 2014 to work with producer [[T Bone Burnett]] on putting together a new album with song lyrics penned by Bob Dylan in 1967.<ref>{{cite news|last1=Moon|first1=Tom|title=First Listen: Bob Dylan, The Basement Tapes Complete|url=https://www.npr.org/2014/10/26/357630611/first-listen-bob-dylan-the-basement-tapes-complete-the-bootleg-series-vol-11|accessdate=29 October 2014|publisher=National Public Radio|date=26 October 2014}}</ref> The group recorded dozens of songs over a two-week period in Capitol Records studio,<ref name=PeopleHeigl/> with members of the group swapping instrumental and vocal roles on the different album tracks.<ref name=RStoneBasement>{{cite news|last1=Grow|first1=Kory|title=Elvis Costello Takes on Bob Dylan for New Basement Tape Married to My Hack|url=https://www.rollingstone.com/music/videos/elvis-costello-bob-dylan-new-basement-tape-married-to-my-hack-20140902|accessdate=29 October 2014|publisher=Rolling Stone|date=2 September 2014}}</ref> The album was released in November 2014 by Electromagnetic Recordings via [[Harvest Records]].<ref>{{cite news|last1=Deriso|first1=Nick|title=Rhiannon Giddens Spanish Mary from The New Basement Tapes One Track Mind|url=http://somethingelsereviews.com/2014/10/15/the-new-basement-tapes-spanish-mary/|accessdate=29 October 2014|publisher=Something Else|date=15 October 2014}}</ref> 
+
+During the recording sessions, the group was filmed for a documentary for [[Showtime (TV network)|Showtime]].<ref>{{cite news|last1=Fusilli|first1=Jim|title=Artists Dust Off Old Dylan Lyrics for Lost on the River: The New Basement Tapes'|url=https://blogs.wsj.com/speakeasy/2014/08/19/artists-dust-off-old-dylan-lyrics-for-lost-on-the-river-the-new-basement-tapes/|accessdate=29 October 2014|publisher=Wall Street Journal|date=19 August 2014}}</ref> Titled ''Lost Songs: The Basement Tapes Continued'', the documentary is directed by Sam Jones and also contains an exclusive interview with Bob Dylan.<ref name=PeopleHeigl/> It goes behind the scenes of the recording process and also discusses the story behind the discovery of the lost lyrics. [[Johnny Depp]] also appears in the documentary, having stopped by the studio to play guitar on the song "Kansas City".<ref name=RStoneBasement/>
+
+==Discography==
+
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ Studio albums
+! scope="col" style="width:12em;" | Title
+! scope="col" style="width:16em;" | Album details
+|-
+! scope="row" | ''[[Lost on the River: The New Basement Tapes]]''
+|
+* Released: 2014
+* Label: Electromagnetic Recordings, [[Harvest Records]]
+* Format:
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:New Basement Tapes}}
+[[Category:American country rock groups]]
+[[Category:Harvest Records artists]]
+[[Category:Musical groups established in 2014]]
+[[Category:2014 establishments in the United States]]
+[[Category:Musical quintets]]
+[[Category:British supergroups]]
+[[Category:Rock music supergroups]]

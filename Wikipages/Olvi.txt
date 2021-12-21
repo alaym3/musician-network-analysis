@@ -1,0 +1,67 @@
+{{Infobox company
+| name             = Olvi plc
+| native_name      = Olvi Oyj
+| native_name_lang = fi
+| logo             = File:Olvilogogray.jpeg
+| logo_size        = 75px
+| type             = [[Julkinen osakeyhtiö]]
+| traded_as        = {{OMX|HEX24317|OLVAS}}
+| industry         = Consumer products
+| key_people       = 
+| products         = 
+| revenue          = {{increase}} 384.3 million € (2018)<ref name="keyfigures">{{Cite web|url=https://www.olvigroup.fi/en/investors/financial-information/key-figures/|title=Key Figures|website=Olvi Group|language=en-US|access-date=2019-10-02}}</ref>
+| operating_income = 50.1 million € (2018)<ref name="keyfigures"/>
+| net_income       = 41.1 million € (2018)<ref name="keyfigures"/>
+| assets           = 
+| equity           = 
+| num_employees    = 1,797 (2018)<ref name="AR2018">{{Cite web|date=Spring 2019|title=Olvi Groups Annual Report 2018|url=https://www.olvigroup.fi/app/uploads/sites/2/2019/03/Olvi-Groups-Annual-Report-2018.pdf}}</ref>
+| subsid           = 
+| foundation       = {{start date and age|1878}}
+| location_city    = [[Iisalmi]]
+| location_country = [[Finland]]
+| homepage         = {{Official URL}}
+}}
+
+[[File:Olvi CXX XV.JPG|thumb|Can of Finnish Olvi beer.]]
+'''Olvi plc''' ({{lang-fi|Olvi Oyj}}, {{OMX|HEX24317|OLVAS}}) is a [[Finland|Finnish]] [[brewery]] and [[soft drink]]s company founded in 1878. It currently holds 18.7% of Finland's market share in beverages,<ref>[http://www.virallinenolvi.fi/documentindex.asp?id=391&type=1 Document Viewer<!-- Bot generated title -->]</ref> making it the largest Finnish-owned business in its sector. Among its subsidiaries, [[A. Le Coq]] is the second largest beverage company in [[Estonia]] and [[Volfas Engelman]] is the third largest beverage company in [[Lithuania]].<ref>{{Cite web|url=https://eng.ichacha.net/zaoju/volfas%20engelman.html|archive-url = https://web.archive.org/web/20171111103040/https://eng.ichacha.net/zaoju/volfas%20engelman.html|archive-date = 2017-11-11|title = Volfas engelman in a sentence - volfas engelman sentence}}</ref> Olvi also has businesses in [[Latvia]] ([[Cēsu Alus]]) and [[Belarus]] (Lidskаe Pivа).
+
+== Beers ==
+*[[Olvi (beer)|Olvi]] (Ykkönen, III, Export, Tuplapukki, HALKO)
+*[[Sandels (beer)|Sandels]] (III, IV A, Tumma, Special Edition)
+*[[A. Le Coq]] (Premium, Porter, Gold, Pils, Alexander)
+*[[Cēsu alus]]
+*[[Ragutis]]
+*[[Starobrno Brewery|Starobrno]] (license)
+*[[Warsteiner]] (license)
+*Pirkka III-OLUT
+
+== Ciders ==
+*[[Fizz (hard cider)|Fizz]] (Original Dry, Extra dry)
+*[[Sherwood Premium Cider]]
+
+== Long drinks ==
+*Olvi-lonkerot (granberry, mojito, kultalonkero)
+*[[A. Le Coq|GIN Long Drink]]
+
+== Soft drinks ==
+*Kane's Soda Pop (Chula Vista Crush, Pasadena Pinch...)
+*Olvi soft drinks (Jaffa, cola, lemon...)
+*[[TEHO]] ([[energy drink]])
+*Motor oil (energy drink)
+*[[KevytOlo]] ([[Mineral water]]s: Lähdevesi, Raikas, Karpalo, Mansikka-Sitruuna, Mustaherukka, Päärynä, Sitruuna, Vihreä Omena, Vadelma+Kalsium, Sitruuna mehukivennäisvesi, Makea Ananas, Makea Kuningatar)
+
+==See also==
+* [[Beer in Belarus]]
+
+== References ==
+<references />
+
+==External links==
+{{Commons category}}
+* {{Official website}}
+{{portalbar|Beer|Drink|Companies|Finland}}
+
+[[Category:Drink companies of Finland]]
+[[Category:Beer in Finland]]
+[[Category:Food and drink companies established in 1878]]
+[[Category:Companies listed on Nasdaq Helsinki]]

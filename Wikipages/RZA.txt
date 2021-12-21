@@ -1,0 +1,507 @@
+{{short description|American rapper}}
+{{Other uses|Rza (disambiguation)}}
+{{Use mdy dates|date=January 2021}}
+{{Infobox person
+| name = RZA
+| image = RZA speaking at the 2018 San Diego Comic Con International (cropped).jpg
+| image_size = <!-- Only for images narrower than 220 pixels -->
+| alt = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption = RZA at the 2018 [[San Diego Comic-Con]]
+| birth_name         = Robert Fitzgerald Diggs
+| birth_date         = {{Birth date and age|1969|7|5}}
+| birth_place        = [[New York City]], U.S.<!--No neighborhoods or boroughs, just cities per format-->
+| death_date =
+| death_place =
+| occupation = {{hlist|Rapper|actor|filmmaker|record producer}}
+| years_active = 1991<!-- Do not revert to 1984 without engagement on the Talk page -->–present<ref name=HipHopCore/><ref>{{cite web|url=http://thesource.com/2015/11/24/today-in-hip-hop-history-rza-releases-bobby-digital-in-stereo-17-years-ago-the-five-personas-of-rza/|title=TODAY IN HIP HOP HISTORY: RZA RELEASES 'BOBBY DIGITAL IN STEREO' 17 YEARS AGO; THE FIVE PERSONAS OF RZA|publisher=[[The Source]]|date=November 24, 2015|access-date=September 6, 2019}}</ref>
+| spouse =
+* {{marriage|Eboni Mills|2000|2006|reason=divorced}}<ref name="RZA5Heavy">{{cite web|author=Elizabeth Sloan|url=https://heavy.com/entertainment/2019/09/rza-bobby-diggs/|title=RZA aka Bobby Diggs: 5 Fast Facts You Need to Know|publisher=[[Heavy (website)|Heavy]]|date=September 3, 2019|accessdate=September 24, 2021}}</ref>
+* {{marriage|Talani Rabb|2009}}<ref name="RZA5Heavy"/>
+| children = 7<ref name="RZA5Heavy"/>
+| module = {{Infobox musical artist
+| embed = yes
+| alias = {{hlist|Prince Rakeem|Bobby Steels|Ruler Zig-Zag-Zig Allah|Prince Delight|(The) Abbott|Bobby Digital|Bobby Dynamite|RZArector|Bobby Boulders|Bob the Builder|Bobby Wasabi<!--this field is not for nicknames. See [[Template:Infobox musical artist/doc]]-->}}
+| genre           = [[Hip hop music|Hip hop]]<!--Do not list subgenres. See http://en.wikipedia.org/wiki/Template:Infobox_musical_artist#Genre-->
+| label = {{hlist|[[Soul Temple Records|Soul Temple]]|[[Tommy Boy Records|Tommy Boy]]|[[Warner Bros. Records|Warner Bros.]]|[[Razor Sharp Records|Razor Sharp]]|[[Epic Records|Epic]]|[[Sony Music Entertainment|SME]]|[[Virgin Schallplatten|Virgin]]|[[EMI]]|[[Koch Records|Koch]]|[[Gee Street Records|Gee Street]]|[[V2 Records|V2]]|[[Bertelsmann Music Group|BMG]]|[[Sanctuary Records|Sanctuary]]}}
+| associated_acts = {{flatlist|
+* [[Wu-Tang Clan]]
+* [[Achozen]]
+* [[Banks & Steelz]]
+* [[Gravediggaz]]
+* [[John Frusciante]]
+}}
+| website = 
+}}}}
+
+'''Robert Fitzgerald Diggs''' (born July 5, 1969), better known by his stage name '''RZA''' ({{IPAc-en|ˈ|r|ɪ|z|ə}} {{respell|RIZ|ə}}), is an American rapper, actor, filmmaker and record producer. He is the ''de facto'' leader of the hip hop group [[Wu-Tang Clan]],<ref>{{cite web|url=http://wutang-corp.com/artists/wu-artist.php?id=9 |title=RZA Biography at Wu-Tang Corp. – The Official Site of the Wu-Tang Clan |website=Wutang-corp.com |access-date=August 28, 2016}}</ref> having produced most albums for the group and its respective members. He is a cousin of two other original Wu-Tang Clan members: [[GZA]] and [[Ol' Dirty Bastard]]. He has also released solo albums under the alter-ego '''Bobby Digital''', along with executive producing credits for side projects. After forming the Wu-Tang Clan, RZA was a founding member of the [[horrorcore]] group [[Gravediggaz]], where he went by the name '''The RZArector'''.
+
+RZA has been heavily involved in filmmaking since the late 90s. He has scored a number of films, most notably ''[[Kill Bill: Volume 1]]'' (2003) and ''[[Kill Bill: Volume 2]]'' (2004). He has written and directed in film and television, starting with his directorial debut, ''[[The Man with the Iron Fists]]'', in 2012. He has also acted in numerous films and TV series, including the films ''[[American Gangster (film)|American Gangster]]'' and ''[[Brick Mansions]]'', and the TV series ''[[Gang Related (TV series)|Gang Related]]'' and ''[[Californication (TV series)|Californication]]''.
+
+He is especially known for his music production, with a style that includes the use of [[soul music|soul]] samples and sparse beats that has proved highly influential. The magazine ''[[The Source (magazine)|The Source]]'' placed him on its list of the 20 greatest producers in the magazine's twenty-year history.<ref>[http://createrapbeats.blogspot.com/2008/08/source-magazine-picks-20-greatest.html The Rap Beat Creator: Make Your Own Beats!!!: The Source Magazine Picks 20 Greatest Producers]. Createrapbeats.blogspot.com (August 24, 2008). Retrieved on April 17, 2013.</ref> ''[[Vibe (magazine)|Vibe]]'' listed him among the top 8 greatest hip-hop producers of all time,<ref>[http://www.vibe.com/article/dr-dre-vibes-greatest-producer-all-time-speaks-win Dr. Dre Is VIBE's Greatest Producer Of All Time, Speaks On Win]. Vibe (June 1, 2010). Retrieved on April 17, 2013.</ref> and ''[[NME]]'' placed him on their list of the 50 Greatest Producers Ever.<ref>{{cite web|url=https://www.nme.com/list/the-50-greatest-producers-ever/262849|title=50 of the Greatest Producers Ever|website=Nme.com|date=March 14, 2012|access-date=March 26, 2015}}</ref>
+
+==Early life==
+Diggs was born on July 5, 1969 in [[Brownsville, Brooklyn]]. He was named after the Kennedy brothers [[Robert F. Kennedy|Robert]] and [[John F. Kennedy|John Fitzgerald]], both of whom his mother greatly admired.<ref>[https://www.pbs.org/kcet/tavissmiley/archive/200910/20091022_therza.html ]{{dead link|date=March 2012}}</ref> Diggs has called his given name an "honorable" name, given the legacy of both Robert and John. Diggs has a younger brother, Terrance Hamlin, better known as the rapper [[9th Prince]], and an older brother named Mitchell “Divine” Diggs.
+
+From ages three to seven, Diggs spent summers in [[North Carolina]] with his uncle, who encouraged him to read and study.<ref name="Tao">{{Cite book |last=RZA |author-link=RZA |year=2009 |title=The Tao of Wu |location=New York |publisher=[[Riverhead Books]] |isbn=978-1-59448-885-6|title-link=The Tao of Wu }}</ref> Diggs was introduced to [[hip hop music]] at the age of nine, and by eleven, was competing in [[rap battles]]. He relocated to [[Steubenville, Ohio]] in 1990, to live with his mother. He spent weekends in [[Pittsburgh]], Pennsylvania, where his father ran a convenience store in the city's [[Hill District (Pittsburgh)|Hill District]].<ref name="Lolley">Lolley, Sarah (July 13, 2001). "[http://www.post-gazette.com/magazine/20010713hiphop0713fnp3.asp Pittsburgh's underground hip-hop scene has helped produce key players like RZA and Mel-Man]". ''[[Pittsburgh Post-Gazette]]''. Retrieved on April 5, 2008.</ref>
+
+Diggs got involved with petty crime and drug-dealing, and was charged with attempted murder while in Steubenville. He was acquitted of the charge, giving him what he has called a "second chance".<ref>Webb, Rory D. (April 10, 2013). "[http://www.pghcitypaper.com/pittsburgh/wu-tangs-rza-found-his-second-chance-in-steubenville/Content?oid=1637802 Wu-Tang's RZA found his second chance in Steubenville]". ''[[Pittsburgh City Paper]]''. Retrieved on April 12, 2013.</ref>
+
+==Music career==
+===Before the Wu-Tang Clan===
+In 1984, Diggs formed a rap group with his cousins [[Ol' Dirty Bastard|Russell Jones]], then known as The Specialist, and [[GZA|Gary Grice]], then known as Allah Justice, called "Force of the Imperial Master", which they soon after renamed as "All in Together Now" in 1985. Around this time Diggs formed the DMD Posse which consisted of RZA, Raekwon, Ghostface Killah, U-God, Inspectah Deck, 4th Disciple and Method Man.<ref name=HipHopCore>{{cite web|url=http://www.hiphopcore.net/interviews/93%7ceng-rza.html|title=Hip Hop Core – Interview : RZA – English|website=Hiphopcore.net|access-date=March 26, 2015}}</ref> Diggs and Grice then signed with Jamaica Records for management purposes and Jamaica convinced [[Tommy Boy Records]] to sign Diggs as a solo artist in 1989 under the name Prince Rakeem.<ref name=HipHopCore/>  He released the original ''[[Ooh I Love You Rakeem]]'' promotion version of the EP, but was forced to remix and rerelease the single when Tommy Boy failed to acquire the rights to the original sample. The rereleased version underperformed commercially, and Diggs was subsequently dropped by Tommy Boy.<ref name=HipHopCore/>
+
+===1992–1993: Forming the Wu-Tang Clan===
+After a shoot-out in Ohio in 1992, he faced eight years in jail. "When they said 'not guilty', my face stuck in a smile for three days," he recalled. "I was just walking around town, thinking about my daughter and my wife. Right then I said goodbye to anything that would put me in that situation again. I was up on trial on an [[attempted murder]] charge. I was a motherfucking fool, with all that knowledge in my head and ending up there."<ref name="Wilkinson 60">{{cite journal|first= Roy |last= Wilkinson |author-link= Roy Wilkinson |title= One of these men is God |journal= [[Select (magazine)|Select]] |date= July 1997 |page= 60}}</ref>
+In 1992, Diggs formed a new group with his two cousins and five other childhood friends. They named the group [[Wu-Tang Clan]], after the 1983 [[kung fu]] film ''[[Shaolin and Wu Tang]]''. As part of the group's formation, each member chose a new nickname for themselves. Diggs chose "RZA", based on a nickname he had been given by fans of his music, "Rza Rza Rakeem", which in turn was based on a song by All in Together Now, "Pza Pza Pumpin", as well as Diggs' [[Graffiti#Tagging|graffiti tag]], "Razor". He created a [[backronym]] for "RZA", stating that the name stood for "Ruler, Zig-Zag-Zig, Allah" which further translated into "Ruler, Knowledge-Wisdom-Understanding, Allah" when using the [[Supreme Alphabet]].<ref>{{cite book |title=Hip Hop in America: A Regional Guide, Volume 1: East Coast and West Coast |editor=Mickey Hess |year=2010 |url=https://books.google.com/books?id=XkCncJ7j744C&pg=PA125 |publisher=[[Greenwood Publishing Group]] |page=125|isbn=9780313343216 }}</ref>
+
+Wu-Tang Clan released its first single, "[[Protect Ya Neck]]", in December 1992. [[Masta Killa]] then joined the group in 1993, becoming its ninth member. They released their debut album, ''[[Enter the Wu-Tang (36 Chambers)]]'' in November 1993.<ref>{{cite web|url=https://www.allmusic.com/artist/rza-mn0000864652/biography|title=RZA – Biography – AllMusic|author=Jason Ankeny|website=[[AllMusic]]|access-date=March 26, 2015}}</ref> RZA operated as Wu-Tang Clan's de facto leader, producing the group's songs and deciding who would get placed on which tracks.
+
+===1994–1996: Gravediggaz and Wu-Tang solo projects: Round one===
+As each of the group's members embarked on solo careers, RZA continued to produce nearly everything Wu-Tang released during the period 1994–1996, which included both composing and arranging the instrumental tracks as well as overseeing and directing the creative process. RZA's rule over the Clan at this time is described in 2004's ''Wu-Tang Manual'' book as "a dictatorship". He also released a hit single of his own, in the form of "[[High School High (soundtrack)|Wu-Wear: The Garment Renaissance]]". The song was featured on the ''[[High School High]]'' soundtrack, and was released to promote the Wu-Tang clothing brand, also called "[[Wu-Wear]]". It peaked at #60 on the [[Billboard Hot 100|''Billboard'' Hot 100]], and #6 on the [[Hot Rap Singles]] chart.<ref>{{cite web|last=Ankeny |first=Jason |url=https://www.allmusic.com/artist/p116447 |title=RZA |website=[[AllMusic]] |date=July 5, 1969 |access-date=March 31, 2012}}</ref>
+
+{{quote| When it came time for the Gravediggaz, [[Prince Paul (producer)|Prince Paul]] was thinking about putting a group together. He wanted to get some good MCs. [[Anthony Ian Berkeley|Poetic]] was another dope MC who was underrated out on [[Long Island]]. He had one single out on Tommy Boy that didn't take off, but he was a dope MC. As the Grym Reaper, you know how many dope lyrics he dropped. Frukwan, one of the top lyricists out of [[Stetsasonic]]. He and Paul were friends already. He told him about me. He said, "I know this one guy who is super-dope."
+
+At the same time, I was also trying to do Wu-Tang. I was trying to start my own company and stuff, so when Paul called me up and invited me to his crib on Long Island and told me his idea for forming this group, I thought it would be an honor to be in a group with him. But I told him, "I'm also producing a group, and I'm also part of a family that I'm building." He said, "Yo, that's crazy." We would talk a lot of times. [Ol' Dirty Bastard] came to his house a lot of times with me. [Method Man], too. We all would just go there and try to find ways to get out of the streets. Me, I was trying to get out of the ghetto. Paul had a lot of respect for me, so he helped me break out of it. I think he liked that I was so dark, but I didn't know I was dark.<ref>{{cite web|url=http://wuforever.com/index.php?name=Sections&req=viewarticle&artid=74&page=1 |title=Wuforever Wu-Tang Community – Home – latest Method Man, Raekwon, Ghostface, Rza, Gza, Deck, U-God, ODB Updates and MP3s |website=Wuforever.com |access-date=2010-08-19}}</ref>}}
+
+===1997: ''Wu-Tang Forever''===
+1997 saw the release of ''[[Wu-Tang Forever]]'', the Wu-Tang Clan's highly anticipated second album. The album for the first time featured RZA delegating a small number of beat-making duties to other producers in the Wu-Tang camp, such as his protégés [[Mathematics (producer)|Mathematics]], [[True Master]] and [[4th Disciple]] who are known as the original [[Wu-Elements]], and Clan member [[Inspectah Deck]].<ref>{{Cite web|url=http://wuforever.com/index.php?name=Sections&req=viewarticle&artid=63&page=1|title=Home|website=Wuforever.com |access-date=December 19, 2019}}</ref>
+
+===1998–1999: Gravediggaz and Wu-Tang solo projects: Round two===
+During the 1998–2000 period RZA ceased to produce every Wu-Tang solo album as he had done previously, but continued to contribute usually one or two songs on average to each record as well as receiving an Executive Producer credit.
+
+{{quote|"I had to put out ''Bobby Digital'' instead of ''The Cure'' because if I didn't do that I would've suffered two things. First, I would have revealed where I was musically too soon. Wu-Tang is the perfect medium to expose anything new because I got the most people coming together to buy it. For me to expose it for my own self, I don't think that would've been a wise thing for me to do. I might've caught more people than Bobby Digital caught, but I still wouldn't catch the magnitude of what the Wu-Tang could catch. Maybe this year or next year the game may be different. ''The Cure'' is so intimate in writing that you gotta live that Cure shit. I was living like Bobby Digital in '98, '99 na'mean? So if I put "The Cure" out, then I wouldn't even be able to get on stage and perform it for ya'll cause I'd be lying."}}
+
+===2001–2004: Post ''The W'' solo projects===
+In 1999 the RZA moved into composing film scores. His first work, [[Jim Jarmusch]]'s ''[[Ghost Dog: The Way of the Samurai]]'' (1999), earned praise; he also had a brief cameo in the film itself, as a fellow samurai wearing camouflage. The experience was positive and, as he noted during an interview on [[National Public Radio]]'s ''[[Fresh Air]]'', the work with traditional musicians gave him the desire to learn how to read and write music.<ref>{{cite web|url=https://www.npr.org/templates/story/story.php?storyId=4525189|title=Rapper, producer, Composer: The RZA|date=March 7, 2005|website=Npr.org|access-date=March 26, 2015}}</ref> In 2004, he co-scored [[David S. Goyer|David S. Goyer's]] [[Blade: Trinity|''"Blade: Trinity"'']] with composer [[Ramin Djawadi]].
+[[File:Hip Hop producer and rapper RZA - Robert Fitzgerald Diggs (2).jpg|thumb|RZA in the Studio with [[U-God]] and [[Prodigal Sunn]] (2002)]]
+{{quote|This is one of my biggest adventures, and one of my [best] feelings. We watched ''[[Kill Bill]]'' in [[Manhattan]]. At the premiere, that happened, but you know, that's Hollywood. But in Manhattan, a theater, just a bunch of kids coming from wherever New York, inside a movie theater and the movie's coming on. They don't even know that I'm the man with the music, and when it said, "Original Music by The RZA", we hear the audience clapping. And they didn't clap for nothing else, because the movie's just coming on. I was like, 'Wow, what the fuck is that about?' That's different. It actually might be something special. You never care who did that... Once you see who stars in the shit, you don't read "edited", you don't read all that. You be eating your popcorn and it go right by you. But, for somebody to see that and then clap, that's a different thing right there. That felt pretty pleasing.}}
+
+===2005–present: Marriage and Solo projects: Round three===
+[[File:Wu Tang Clan f7866559.jpg|thumb|left|RZA at the 2007 [[Eurockéennes]]]]
+He has also stated that the long-delayed ''The Cure'' album will be his final solo album, so that he can devote more time to his movie directing career.<ref>{{cite web|author=Feature by Dave Kerr. |url=http://www.theskinny.co.uk/article/42451-rzarecting-bobby |title=RZArecting Bobby |publisher=The Skinny |date=April 8, 2008 |access-date=March 31, 2012}}</ref>
+
+Before signing with [[SRC Records]] in 2007, RZA was flooded with offers from [[Bad Boy Records]], [[Aftermath Records]], [[Interscope]] and [[Def Jam]] among others for the Wu-Tang Clan super-group.<ref>{{cite web|url=http://www.wutang-corp.com/news/article.php?id=227|title=Cilvaringz: Wu-Tang Report :: news articles at Wu-Tang Corp. – The Official Site of the Wu-Tang Clan|website=Wutang-corp.com|access-date=March 26, 2015}}</ref>
+
+In 2007, he produced the [[Afro Samurai: The Album|score]] of the Japanese anime ''[[Afro Samurai]]'' starring [[Samuel L. Jackson]]. In 2007 he released the little-publicized instrumental album ''[[The RZA-Instrumental Experience]]'', and worked with Raekwon on his highly anticipated ''[[Only Built 4 Cuban Linx II]]''. From 2005 to 2008 he collaborated with [[System of a Down]] bassist [[Shavo Odadjian]] on the project [[Achozen]]<ref>{{cite web|url=http://www.mtv.com/news/articles/1511602/20051017/system_of_a_down.jhtml?headlines=true|title=System of a Tang? Shavo Collaborates With RZA, GZA|work=MTV News|access-date=March 26, 2015}}</ref> The group released two singles, one of which, "Deuces", was included in the 2009 film ''[[Babylon A.D.]]'' The group also recorded an album that has remained unreleased, although eight of the songs were released in 2015.
+[[File:RZA @ Virgin festival 2007.jpg|thumb|right|RZA performing with Wu-Tang at the Virgin Music Festival]]
+
+{{quote|"The time is right to bring some older material to the masses digitally. Our fans have been dedicated and patient, and they're hungry to hear the music that has set us apart from so many others. [[Hip hop music|Hip-hop]] is alive in [[Wu Music Group|Wu Music]], and with The Orchard, we've got a solid partner that understands our audience and is committed to doing all they can to help us reach the fans. I'm definitely looking forward to working with them to see what else we all come up with. There's much more to come."<ref>{{cite web|url=http://www.rapsearch.com/news/article/wu-music-group-signs-global-digital-distribution-deal |title=HipHop News " Wu Music Group Signs Global Digital Distribution Deal |website=Rapsearch.com |access-date=2010-08-19}}</ref>}}
+
+In 2010 he worked on what was intended as a solo album for GZA, ''Liquid Swords II'',<ref>{{cite web|last=Kuperstein |first=Slava |url=http://www.hiphopdx.com/index/news/id.11127/title.rza-confirms-liquid-swords-2 |title=RZA Confirms Liquid Swords 2 &#124; Get The Latest Hip Hop News, Rap News & Hip Hop Album Sales |website=HipHopDX.com |date=April 28, 2010 |access-date=August 19, 2010}}</ref> but the album remains unreleased. RZA also worked with [[Kanye West]] on the latter's fifth album, ''[[My Beautiful Dark Twisted Fantasy]]'',<ref>{{cite web|author=Andrew Martin |url=http://www.prefixmag.com/news/good-ass-job-marks-kanye-wests-return-to-real-hip-/38897/ |title='Good Ass Job' Marks Kanye West's Return to 'Real' Hip-Hop |website=Prefixmag.com |date=March 23, 2010 |access-date=August 19, 2010}}</ref> as well as ''[[Watch the Throne]]'' by Kanye and Jay-Z.
+
+In a 2011 interview, RZA revealed that he had recently decided to clean out his beat machines of instrumentals he made for the Wu-Tang Clan that were never used; as a result, he gave away ten beats each to [[Nas]], [[Busta Rhymes]] and [[Talib Kweli]], as well as 20 beats for Kanye West, including two that were used on West's previous two albums.<ref>{{cite web|url=http://www.complex.com/music/2011/12/interview-the-rza-talks-headphones-hollywood-and-working-on-watch-the-throne/page/3 |title=Interview: The RZA Talks Headphones, Hollywood, and Working On "Watch The Throne" |website=Complex.com |access-date=April 24, 2012}}</ref> RZA produced UK artist [[Josh Osho]]'s 2012 debut album ''L.I.F.E''.
+
+RZA also contributed vocals to three songs on [[John Frusciante]]'s 2012 EP ''[[Letur-Lefr]]'' and in 2013 he contributed vocals to one song on [[Kid Cudi]]'s 2013 album ''[[Indicud]].'' In August 2012 RZA founded a new record label, [[Soul Temple Records]], with a distribution deal from [[RED Distribution]]. On September 28, 2012 he hosted one episode of the web series ''[[Equals Three]]'', substituting for regular host [[Ray William Johnson]]. He appeared on [[Earl Sweatshirt]]'s album ''[[Doris (album)|Doris]]'', contributing a verse on the track "Molasses". Despite artistic disagreements with [[Raekwon]], RZA and The Wu-Tang Clan released their sixth album ''[[A Better Tomorrow (album)|A Better Tomorrow]]'' in 2014.
+
+In 2013, RZA and [[Paul Banks (musician, born 1978)|Paul Banks]] began to collaborate as [[Banks & Steelz]] for what became the 2016 album ''[[Anything But Words]]''.<ref>{{cite web|author=Marc Hogan |url=https://pitchfork.com/news/65991-rza-and-interpols-paul-banks-announce-new-album-anything-but-words-featuring-florence-welch-share-giant-listen/ |title=RZA and Interpol's Paul Banks Announce New Album Anything But Words Featuring Florence Welch, Share "Giant": Listen |website=Pitchfork.com |date=June 9, 2016 |access-date=August 28, 2016}}</ref><ref name="Collab Album">{{cite web |url=http://www.hotnewhiphop.com/rza-and-interpols-paul-banks-announce-joint-album-anything-but-words-news.22141.html? |title=RZA and Paul Banks Team up |last=Lilah |first=Rose |date=June 9, 2016 |website=Hotnewhiphop |access-date=June 9, 2016}}</ref> Guest appearances include Kool Keith, Ghostface Killah, Method Man, and Masta Killa.<ref name="Collab Album"/> Two singles were released from the album, "[[Love and War (Banks & Steelz song)|Love + War]]" and "Giant".<ref name="Collab Album"/> RZA collaborated with [[Ramin Djawadi]], with whom he co-scored Blade Trinity and Blake Perlman for the song "''Drift''" for the [[Guillermo del Toro]] film [[Pacific Rim (film)|"Pacific Rim"]].
+
+In 2020, RZA collaborated with [[Good Humor]] to make a new jingle for [[ice cream van]]s to replace [[Turkey in the Straw]], which has gained notoriety for its association with minstrel shows.<ref>{{Cite web|title=GOOD HUMOR joins forces with musical genius, RZA|url=https://www.goodhumor.com/us/en/jingle.html|access-date=August 14, 2020|website=walls|language=en}}</ref>
+
+In a recent 2020 interview, RZA discussed how the being stuck at home during the [[Coronavirus disease 2019|COVID]] [[global crisis]] resulted in him resuming work on his long-unreleased ''The Cure'' album.<ref>{{Cite web|url=https://hiphopdx.com/news/id.58758/title.rza-dug-up-an-old-lyric-book-to-work-on-long-awaited-album-the-cure|title=RZA Dug Up An Old Lyric Book To Work On Long-Awaited Album 'The Cure'|date=October 30, 2020|website=HipHopDX.com|access-date=June 27, 2021}}</ref>
+
+=== Good Humor collaboration ===
+In June 2020, ice cream company [[Good Humor]] approached RZA to create a new jingle for [[ice cream truck]]s to play, to replace "[[Turkey in the Straw]]", since that song had been paired in the past with racist lyrics. (Good Humor does not directly operate any trucks, but the company wanted to encourage ice cream truck drivers to not play the song.)<ref>{{cite news|url= https://www.npr.org/sections/codeswitch/2020/08/14/902664184/an-ice-cream-truck-jingles-racist-history-has-caught-up-to-it|title=An Ice Cream Truck Jingle's Racist History Has Caught Up To It|author=Natalie Escobar|website=npr.org|access-date=August 14, 2020}}</ref> RZA's resulting composition was released in August 2020.<ref>[https://www.youtube.com/watch?v=broo2NZmiDE Good Humor x RZA: A New Ice Cream Truck Jingle for a New Era], YouTube, August 13, 2020</ref>
+
+==Wu-Recording labels==
+Since the early 1990s, various [[List of Wu-Recording record labels|Wu Tang Clan-affiliated recording labels]] were established. The earlier labels are believed to be dissolved. The connection that RZA had to these labels is unknown.
+
+Other record labels were later founded in the early 2000s, and are still active in the present. Very little is known about these labels, other than the fact that RZA produces music on them. It is unknown if RZA is CEO, or has high position within these labels, considering that he was never known to have a CEO position of any recording label.
+* [[List of Wu-Recording record labels#Wu-Tang Records|Wu-Tang Records]]
+* [[List of Wu-Recording record labels#Razor Sharp Records|Razor Sharp Records]]
+* [[List of Wu-Recording record labels#36 Chambers Records and Wu Music Group|36 Chambers Records]] and [[Various Wu-Recording Labels#36 Chambers Records and Wu Music Group|Wu Music Group]]
+* [[List of Wu-Recording record labels#Protect Ya Neck Records|Protect Ya Neck Records]]
+* [[List of Wu-Recording record labels#Wu-Tang International|Wu-Tang International]]
+* [[Soul Temple Records]]
+
+==Artistry==
+RZA's production technique, specifically the manner of chopping up and/or speeding or slowing soul samples to fit his beats, has been imitated by hip hop producers including [[Kanye West]] and [[Just Blaze]]. West's own take on RZA's style<ref>{{cite news| url=http://www.time.com/time/magazine/article/0,9171,1096499-5,00.html | archive-url=https://web.archive.org/web/20070320224340/http://www.time.com/time/magazine/article/0,9171,1096499-5,00.html | url-status=dead | archive-date=March 20, 2007 | work=Time | title=Why You Can't Ignore Kanye | date=August 21, 2005 | access-date=May 23, 2010}}</ref> briefly flooded the rap market with what was dubbed "chipmunk soul," the speeding of a vocal sample to where it sounded as though the singer had inhaled helium. Several producers at the time copied the style, creating other offshoots. West has admitted that his style was distinctly influenced by the RZA's production,<ref>{{Cite web |url=http://www.gale.com/free_resources/bhm/bio/west_k.htm |title=Archived copy |access-date=June 5, 2007 |archive-url=https://web.archive.org/web/20060615083612/http://www.gale.com/free_resources/bhm/bio/west_k.htm |archive-date=June 15, 2006 |url-status=dead }}</ref>
+
+Said by Kanye West:
+
+{{quote|"Wu-Tang? Me and my friends talk about this all the time... We think Wu-Tang had one of the biggest impacts as far as a movement. From slang to style of dress, skits, the samples. Similar to the [production] style I use, RZA has been doing that."<ref>{{cite web|url=http://www.mtv.com/news/articles/1553911/20070305/west_kanye.jhtml|title=Kanye, Run-DMC, Outkast, Justin Sound Off on Our Top 10 Hip-Hop Groups|work=MTV News|access-date=March 26, 2015}}</ref>}}
+
+In response, RZA himself has spoken quite positively of the comparisons:
+
+{{quote|"All good. I got super respect for Kanye. He came up to me about a year or two ago. He gave me mad praising and blessings... For people to say Wu-Tang inspire Kanye, Kanye is one of the biggest artists in the world. That goes back to what we say: 'Wu-Tang is forever.' Kanye is going to inspire people to be like him."<ref name="RealNetworks, Inc">{{cite web |author1=Dukes, Rahman |author2=Reid, Shaheem |title=The Clipse Hint at Kanye West Collabo: Mixtape Monday|url=http://www.mtv.com/news/articles/1602920/20090116/story.jhtml|work=[[Rolling Stone]] |date=January 19, 2009 |access-date=2009-01-19}}</ref>}}
+
+After hearing Kanye's work on ''[[The Blueprint]]'', RZA claimed that a torch-passing had occurred between him and West, saying,
+
+{{quote|"The shoes gotta be filled. If you ain't gonna do it, somebody else is gonna do it. That's how I feel about rap today."}}<ref name="RealNetworks, Inc"/>
+
+His Bobby Digital albums introduced tweaked-out [[new-age music|new age]] elements to his sound; these have incorporated themselves more fully into his beats on newer albums such as Method Man's ''[[4:21... The Day After]]''.
+
+{{quote|"The way I produce now is I produce more like a musician", RZA said. "In the old days, I produced more like a DJ. I didn't understand [[music theory]] at all. Now that I do understand music theory, I make my music more playable, meaning not only could you listen to it, you could get someone else to play it. Before, you couldn't even write down Wu-Tang music. I think almost 80 percent of this record can be duplicated by a band, which is important for music, because that means 10 years from now, somebody can make a whole song out of it and cover it like how I'm covering [[The Beatles]] song."<ref>{{cite web|url=http://conspiracyworldwide.podomatic.com/entry/index/2010-06-26T06_25_38-07_00 |title=PodOmatic &#124; Podcast – Conspiracy Worldwide Hip Hop Radio – [Part 2&#93; Live Guests – ASSASSINATE THE MEDIA SPECIAL w/ The RZA – Tech N9ne – Freddie Foxx (aka. Bumpy Knuckles) – Dogg Pound – D12's Bizarre – Homeboy Sandman – Matt Maddox – Cyrus Melachi – world exclusives and more! Conspiracy Worldwide Radio UNCUT! |website=Conspiracyworldwide.podomatic.com |date=June 26, 2010 |access-date=2010-08-19}}</ref>}}
+
+In a 2010 radio interview with UK hip hop station Conspiracy Worldwide Radio, RZA spoke in great detail about the homemade, candid ethos of much of his classic work, including the organic creation process behind ODB's debut album.<ref>{{cite web|url=http://conspiracyworldwide.podomatic.com/entry/index/2010-06-26T06_25_38-07_00|title=PodOmatic – Podcast – Conspiracy Worldwide Hip Hop Radio – [Part 2] Live Guests – ASSASSINATE THE MEDIA SPECIAL w/ The RZA – Tech N9ne – Freddie Foxx (aka. Bumpy Knuckles) – Dogg Pound – D12's Bizarre – Homeboy Sandman – Matt Maddox – Cyrus Melachi – world exclusives and more! Conspiracy Worldwide Radio UNCUT!|work=PodOmatic|access-date=March 26, 2015}}</ref>
+
+===Alter egos===
+RZA is known for having multiple [[Pseudonym|aliases]], for different lyrical styles and personalities: Prince Rakeem, The Abbot, Bobby Digital, Bobby Steels, the Scientist, Prince Delight, Prince Dynamite, Ruler Zig-Zag-Zig Allah.<ref>The Wu-Tang Manual by The RZA with Chris Norris, {{ISBN|1-59448-018-4}}</ref> During his time with the [[Gravediggaz]], he went by the name the RZArector, which is for waking up the mentally dead.<ref>{{cite web|url=http://www.hiphopcore.net/interviews/93%7Ceng-rza.html|title=Hip Hop Core – Interview : RZA – English|website=Hiphopcore.net|access-date=March 26, 2015}}</ref>
+
+==Film career==
+===Acting===
+RZA has had [[cameo appearance]]s in films including ''[[Funny People]]'', ''[[Due Date]]'', ''[[Gospel Hill]]'', ''[[Ghost Dog: The Way of the Samurai|Ghost Dog]]'', ''[[Life Is Hot in Cracktown]]'' and ''[[Popstar: Never Stop Never Stopping]]''.
+
+RZA appeared in ''[[Derailed (2005 film)|Derailed]]'', ''[[Coffee and Cigarettes]]'', and ''[[American Gangster (film)|American Gangster]]''. He appeared in ''[[G.I. Joe: Retaliation]]'', as the character [[Blind Master (G.I. Joe)|Blind Master]].<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/gi-joe-rza-dj-cotrona-205939|title='G.I. Joe': RZA Joining Sequel (Exclusive)|author=Borys Kit|work=The Hollywood Reporter|date=June 27, 2011|access-date=March 26, 2015}}</ref> In 2010, RZA appeared in the science fiction action film ''[[Repo Men]]''.<ref>{{cite web|url=https://www.dreadcentral.com/news/35671/high-cost-body-parts-got-you-down-join-repo-men-union|title=High Cost of Body Parts Got You Down? Join the Repo Men Union|work=Dread Central|access-date=March 26, 2015}}</ref> In 2014, RZA took on the role of Tremaine Alexander in the film ''[[Brick Mansions]]'' opposite [[Paul Walker]] and [[David Belle]], a remake of ''[[District 13]]''. He played "Mr. L.C.", the main antagonist, in the [[Thailand|Thai]] martial arts film ''[[Tom Yum Goong 2]]''.
+
+RZA directed and starred in ''[[The Man with the Iron Fists]]'' (2012).
+
+In 2013, RZA provided guest voices in the [[Robot Chicken (season 6)|sixth season]] episode of ''[[Robot Chicken]]''. "Botched Jewel Heist", in three sketches. His first role is an anthropomorphic strawberry who is shot dead in a mob hit, causing his jelly blood to splatter onto a large slice of bread below (which was covered in the peanut-butter blood of [[Mr. Peanut]], who was killed the same way moments before). In his second role, he plays himself, and raps about being a [[pescetarianism|pescetarian]], although RZA had shifted from a pescetarian diet to a [[veganism|vegan]] diet in 1997. His third role was as the Halloween Road Warrior in a sketch where in a post-apocalyptic world, a family is pursued by road warriors representing forgotten holidays, who aim to kidnap their two children.
+
+RZA played the role of Samurai Apocalypse in the television series ''Californication'' in 9 episodes.<ref>{{cite web|url=https://www.imdb.com/title/tt0904208/fullcredits#cast|title=Californication (2007–2014) : Full Cast & Crew|website=IMDb.com|access-date=August 28, 2016}}</ref>
+
+RZA played the supporting role of Shotgun Steve in the [[romance film|romantic]] [[action comedy]] movie [[Mr. Right (2015 film)]] with [[Sam Rockwell]] and [[Anna Kendrick]].<ref>{{Cite web|url=https://www.imdb.com/title/tt2091935/fullcredits|title=Mr. Right (2015)  |website=IMDb.com|access-date=December 19, 2019}}</ref>
+
+RZA portrayed Dean in 2019 film ''[[The Dead Don't Die (2019 film)|The Dead Don't Die]]''.<ref>{{Cite web|url=https://bloody-disgusting.com/movie/3564373/new-dead-dont-die-character-posters-spotlight-rza-gomez-buscemi-waits/|title=New 'The Dead Don't Die' Character Posters Spotlight RZA, Gomez, Buscemi and Waits|first=John|last=Squires|website=Bloody-disgusting.com|date=May 30, 2019 |access-date=December 19, 2019}}</ref>
+
+RZA narrates a character, known as Wesley, on the Netflix original series Day Break Season 1 Episode 5 "Homecoming Redux or My So Called Stunt Double Life" 2019. 
+<ref>{{Cite web|url=https://www.imdb.com/title/tt9154672/|title="Daybreak" Homecoming Redux or My So Called Stunt Double Life (TV Episode 2019) |website=IMDb.com|date=October 24, 2019 |access-date=December 19, 2019}}</ref>
+
+===Filmmaking===
+[[File:The RZA at New Yorker.jpg|thumb|RZA at [[The New Yorker Festival]] in 2005]]
+
+{{quote|I made my albums like movies, you know what I mean? I wanted people to be able to listen to a movie in their car while they was driving. "I want to start off making movies where people will know they're at a movie. Like my man Tarantino, he did that movie ''[[Pulp Fiction (film)|Pulp Fiction]]'' – classic movie, man. Every time it comes on TV or cable, I have to stop and watch it. And it's based on nothing, really. There's only a few people out there that are able to do that, where it comes from nothing but the vision and imagination of the artist.<ref>{{cite web|url=http://www.ffwdweekly.com/article/music/music-previews/ruler-zig-zag-zig-allah/|title=The Ruler Zig-Zag-Zig Allah|work=Fast Forward Weekly|access-date=March 26, 2015|archive-url=https://web.archive.org/web/20081202042332/http://www.ffwdweekly.com/article/music/music-previews/ruler-zig-zag-zig-allah|archive-date=2 December 2008|url-status=dead}}</ref>}}
+
+In the late '90s, RZA began production of a feature-length film based on "Bobby Digital", an alias he used on various albums. Though the film was never completed, he continued shooting music videos for his side projects and solo tracks.
+
+RZA directed his first feature film, ''[[The Man with the Iron Fists]]'', in 2011, from a script he wrote the previous year. Directors [[Quentin Tarantino]] and [[Eli Roth]] were involved in production, writing, and casting according to several movie websites.<ref name="filmstalker.co.uk">{{cite web|last=Brunton |first=Richard |url=http://www.filmstalker.co.uk/archives/2008/07/rzas_the_man_with_the_iron_fis.html |title=RZA's The Man with the Iron Fist |website=Filmstalker.co.uk |date=July 7, 2008 |access-date=August 19, 2010}}</ref><ref name="411mania.com">{{cite web|url=http://www.411mania.com/movies/news/79684/|title=Movies – Eli Roth on RZA's The Man with the Iron Fist|website=411mania.com|access-date=April 17, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130618083921/http://www.411mania.com/movies/news/79684/|archive-date=June 18, 2013}}</ref><ref name="chud.com">{{cite web |url=http://chud.com/articles/articles/15467/1/ELI-ROTH-GIVES-CHUD-THE-SCOOP-ON-RZA039S-MARTIAL-ARTS-MOVIE/Page1.html |title=Eli Roth Gives Chud The Scoop on RZA's Martial Arts Movie! |website=Chud.com |date=July 6, 2008 |access-date=August 19, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20091221065139/http://chud.com/articles/articles/15467/1/ELI-ROTH-GIVES-CHUD-THE-SCOOP-ON-RZA039S-MARTIAL-ARTS-MOVIE/Page1.html |archive-date=December 21, 2009  }}</ref> The film was released in fall 2012.
+
+==Personal life==
+RZA is a [[Five-Percent Nation|Five Percenter]] and is usually seen wearing the 5% Nation's flag necklace around his neck. He actively extols the 5% culture (which include the [[Supreme Mathematics]] and the [[Supreme Alphabet]]). He has also embraced various aspects of [[Buddhism]], [[Taoism]], [[Confucianism]], Islam, and Christianity, as he describes in his two books, ''[[The Wu-Tang Manual]]'' and ''[[The Tao of Wu]]''. He has described the [[Quran]], [[The Bible]], and the [[Lotus Sutra]] as three of his favorite books, stating that each contains [[Enlightenment (spiritual)|enlightenment]]. His hobbies include watching [[martial arts film]]s, and he is considered an "encyclopedia of martial arts films" due to his knowledge of the genre.<ref name="chud.com"/> RZA met and befriended Shaolin Monk [[Shi Yan Ming]] after being introduced by Ol' Dirty Bastard's manager [[Sophia Chang]].<ref>{{Cite web|last=Nast|first=Condé|date=2005-04-25|title=Drunk Monk|url=http://www.newyorker.com/magazine/2005/05/02/drunk-monk|access-date=2021-11-16|website=The New Yorker|language=en-US}}</ref><ref>{{Cite news|last=Ritter|first=Peter|date=2006-05-14|title=This Monk Is a Boldface Name|language=en-US|work=The New York Times|url=https://www.nytimes.com/2006/05/14/nyregion/thecity/14monk.html|access-date=2021-11-16|issn=0362-4331}}</ref> His favorite movies include ''[[Five Deadly Venoms]]'',<ref name="filmcomment.com">{{cite web|url=http://www.filmcomment.com/article/rzas-edge-the-rzas-guide-to-kung-fu-films |title=RZA's Edge: The RZA's Guide to Kung-Fu Films |publisher=Film Society of Lincoln Center |access-date=June 29, 2012}}</ref> ''[[The 36th Chamber of Shaolin]]'',<ref name="filmcomment.com"/> ''[[Ninja Scroll]]'' <ref name="Newsarama.com">{{cite web|url=http://www.newsarama.com/tv/090210-Rza-Afro.html |title=The RZA – Laying Down Afro Samurai's Beats |website=Newsarama.com |date=February 10, 2009 |access-date=June 29, 2012}}</ref> and ''[[Fist of the North Star]]''.<ref name="Newsarama.com"/> His second well-known hobby is [[chess]]. He is a Director of Development and champion of the Hip-Hop Chess Federation.<ref>{{cite web|url=http://www.ballerstatus.com/article/news/2007/10/3280/|title=The 10 Best Beards in Sports|website=BallerStatus.com|access-date=March 26, 2015}}</ref><ref>{{cite web |url=http://hiphopchessfederation.org/images/nyt_article.gif |title=Where Hip-Hop, Martial arts and Chess Meet |website=Hiphopchessfederation.org |access-date=August 28, 2016 |archive-url=https://web.archive.org/web/20081002021410/http://hiphopchessfederation.org/images/nyt_article.gif |archive-date=October 2, 2008 |url-status=dead }}</ref><ref>{{cite web|url=http://www.prefixmag.com/news/rza-wins-chess-championship/11802/|title=RZA wins WWF|website=Prefixmag.com|access-date=March 26, 2015}}</ref>
+
+RZA is [[vegan]]<ref>{{cite web|url=http://www.huffingtonpost.co.uk/2014/12/01/wu-tang-rza-vegan-peta-_n_6247396.html |title=Wu Tang's RZA Wants To Get Real About Why He's A Vegan |publisher=[[Huffington Post]] |date=January 12, 2014 |access-date=January 12, 2014}}</ref> and has promoted the vegan lifestyle and compassion for animals on behalf of [[People for the Ethical Treatment of Animals|PETA]].<ref>Luke Morgan Britton,"[https://www.nme.com/news/wu-tang-clan/81320#WJmPuEwsm7yhA4ac.99 Wu-Tang Clan's RZA says he refuses to put 'dead animals' in his 'live body' in PETA advert]," NME News, November 24, 2014.</ref><ref>Carl Lamarre, "RZA Teams Up With PETA for New PSA Promoting Animal Kindness: Exclusive," ''[https://www.billboard.com/articles/columns/hip-hop/8094737/rza-peta-psa-animal-kindness-video Billboard]'', January 17, 2018.</ref> Until 1997, he was a [[pescetarianism|pescetarian]]; "I tell you one thing I did use to like: the fish and chips," he stated. "But I stopped eating fish this year. One day I just felt the death in it."<ref>Roy Wilkinson, ''Select'' July 1997, p.60"</ref>
+
+RZA is a resident of [[Millstone Township, New Jersey]].<ref>Jordan, Chris. [https://pqasb.pqarchiver.com/mycentraljersey/access/1835209091.html?FMT=ABS&FMTS=ABS:FT&type=current&date=May+15%2C+2002&author=CHRIS+JORDAN&pub=Home+News+Tribune&desc=Hip-hop+benefit+to+go+on+minus+state+backing&pqatl=google "Hip-hop benefit to go on minus state backing"], ''[[Home News Tribune]]'', May 15, 2002. Accessed September 19, 2014. "I'm here to show that whether it's being supported or funded I'm still here with my own time and my own dime for these young brothers and young sisters to get a chance to know that they got to read and they got to study said RZA also known as Robert Diggs of Marlboro Township".</ref>
+
+==Discography==
+{{Main|Wu-Tang Clan discography|RZA discography|RZA production discography|l3=production discography}}
+
+===Studio albums===
+* ''[[Bobby Digital in Stereo]]'' (1998)
+* ''[[Digital Bullet]]'' (2001)
+* ''[[Birth of a Prince]]'' (2003)
+* ''[[Digi Snacks]]'' (2008)
+* ''RZA vs. Bobby Digital'' (2021)
+
+===Collaboration albums===
+* ''[[6 Feet Deep]]'' <small>with Gravediggaz</small> (1994)
+* ''[[The Pick, the Sickle and the Shovel]]'' <small>with Gravediggaz</small> (1997)
+* ''[[Anything But Words]]'' <small>with Banks & Steelz</small> (2016)
+
+==Filmography==
+
+===Films===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 1999
+| ''[[Ghost Dog: The Way of the Samurai]]''
+| Samurai in Camouflage
+|
+|-
+| 2003
+| ''[[Coffee and Cigarettes]]''
+| RZA
+|
+|-
+| 2005
+| ''[[Derailed (2005 film)|Derailed]]''
+| Winston Boyko
+|
+|-
+| 2007
+| ''[[American Gangster (film)|American Gangster]]''
+| Moses Jones
+|
+|-
+| 2007
+| ''[[The Box (2007 film)|The Box]]''
+| Duece
+|
+|-
+| 2008
+| ''[[Gospel Hill]]''
+| Lonnie
+|
+|-
+| 2009
+| ''[[Funny People]]''
+| Chuck
+|
+|-
+| 2009
+| ''[[Life Is Hot in Cracktown]]''
+| Samy
+|
+|-
+| 2010
+| ''[[Repo Men]]''
+| T-Bone
+|
+|-
+| 2010
+| ''[[Due Date]]''
+| Airline Screening Marshall
+|
+|-
+| 2010
+| ''[[The Next Three Days]]''
+| Mouss
+|
+|-
+| 2011
+| ''[[A Very Harold & Kumar 3D Christmas]]''
+| Lamar
+|
+|-
+| 2012
+| ''[[The Man with the Iron Fists]]''
+| Blacksmith
+| Lead actor, director, and co-writer
+|-
+| 2013
+| ''[[G.I. Joe: Retaliation]]''
+| Blind Master
+|
+|-
+| 2013
+| ''[[Tom Yum Goong 2]]''
+| Mr. LC
+| ''[[The Protector (2005 film)|The Protector]] 2''
+|-
+| 2014
+| ''[[Brick Mansions]]''
+| Tremaine Alexander
+|
+|-
+| 2015
+| ''[[The Man with the Iron Fists 2]]''
+| Blacksmith
+| Lead actor and co-writer
+|-
+| 2015
+| ''[[Mr. Right (2015 film)|Mr. Right]]''
+| Steven
+| 
+|-
+| 2016
+| ''[[Popstar: Never Stop Never Stopping]]''
+| Himself
+|
+|-
+| 2017
+| ''[[Love Beats Rhymes]]''
+|  
+| Director
+|-
+| 2018
+| ''[[Thriller (2018 film)|Thriller]]''
+| Principal Hurd
+| Lead actor, executive producer and composer
+|-
+| 2018
+| ''[[Mutafukaz]]''
+| Shakespeare
+| Voice actor
+|-
+| 2019
+| ''[[The Dead Don't Die (2019 film)|The Dead Don't Die]]''
+| Dean
+|
+|-
+| 2020
+| ''[[Cut Throat City]]''
+|
+| Director
+|-
+| 2020
+| ''[[Life in a Year]]''
+| Ron
+| 
+|-
+| 2021
+| ''[[Nobody (2021 film)|Nobody]]''
+| Harry Mansell Jr.
+| 
+|-
+| 2022
+| ''[[Minions: The Rise of Gru]]''
+| 
+| Voice actor
+|-
+| TBA
+| ''Blood Brothers''
+| 
+| Director and writer
+|-
+|}
+
+===Television===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+|-
+| 2009
+| ''[[Afro Samurai: Resurrection]]''
+| DJ
+| Voice over
+|-
+| 2010
+| ''[[Outlaw (TV series)|Outlaw]]''
+| Greg Beals 
+| Episode: "Pilot"
+|-
+| 2012
+| ''[[Californication (TV series)|Californication]]''
+| Samurai Apocalypse
+| Featured role (nine episodes)
+|-
+| 2013
+| ''[[Robot Chicken]]''
+| Himself/Strawberry/Halloween Road Warrior
+| Voice role (Episode: "Botched Jewel Heist")
+|-
+| 2014
+| ''[[Gang Related (TV series)|Gang Related]]''
+| DEA Agent Cassius Green
+| Main cast
+|-
+| 2017
+| ''[[The Simpsons]]''
+| Himself
+| Voice role (Episode: "[[The Great Phatsby|The Great Phatsby: Part 2]]")
+|-
+| 2017
+| ''[[Iron Fist (TV series)|Marvel's Iron Fist]]''
+| 
+| Director (Episode: "Immortal Emerges from Cave")
+|-
+| 2017
+| ''[[Snowfall (TV series)|Snowfall]]''
+| Swim 
+| Episode: "Cracking"
+|-
+| 2018
+| ''[[Fresh Off the Boat]]''
+| Himself
+| Cameo (Episode: "Measure Twice, Cut Once")
+|-
+| 2019
+| ''[[Daybreak (2019 TV series)|Daybreak]]''
+| Himself
+| Voice role (Episode: "Homecoming Redux or My So Called Stunt Double Life")
+|-
+| 2019
+| ''[[Wu-Tang: An American Saga]]''
+| 
+| Executive Producer
+|}
+
+===Video games===
+{| class="wikitable sortable"
+|-
+! Year
+! FilmC
+! Role
+! class="unsortable" | Notes
+|-
+| 2005
+| ''[[Marc Eckō's Getting Up: Contents Under Pressure|Getting Up: Contents Under Pressure]]''
+| Stake
+| Voice over
+|}
+
+==Awards and nominations==
+{{Awards table}}
+|-
+! scope="row" | [[38th Annual Grammy Awards|1996]]<ref name="grammy">{{Cite web|url=https://www.grammy.com/grammys/artists/rza/|title=RZA|website=grammy.com|access-date=August 24, 2020}}</ref>
+| ''[[Return to the 36 Chambers: The Dirty Version]]''
+|rowspan="2"| [[Grammy Award for Best Rap Album]]
+| {{nom}}
+|-
+! scope="row" | [[40th Annual Grammy Awards|1998]]<ref name="grammy"/>
+| ''[[Wu-Tang Forever]]''
+| {{nom}}
+|-
+! scope="row" | [[57th British Academy Film Awards|2004]]<ref>{{Cite web|url=http://awards.bafta.org/award/2004/film/anthony-asquith-award-for-achievement-in-film-music|title=Anthony Asquith Award for Original Film Music in 2004|website=bafta.org|access-date=August 24, 2020}}</ref>
+| ''[[Kill Bill: Volume 1]]''
+| [[BAFTA Award for Best Original Music]]
+| {{nom}}
+|-
+! scope="row" | [[14th Screen Actors Guild Awards|2008]]<ref>{{Cite web|url=https://www.sagawards.org/awards/nominees-and-recipients/14th-annual-screen-actors-guild-awards|title=The 14th Annual Screen Actors Guild Awards|website=sagawards.com|access-date=August 24, 2020}}</ref>
+| ''[[American Gangster (film)|American Gangster]]''
+| [[Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture]]
+| {{nom}}
+|-
+! scope="row" | [[72nd Primetime Creative Arts Emmy Awards|2020]]<ref>{{Cite web|url=https://www.emmys.com/bios/rza|title=The RZA|website=emmys.com|access-date=August 24, 2020}}</ref>
+| ''[[Wu-Tang: An American Saga]]''
+| [[Primetime Emmy Award for Outstanding Original Main Title Theme Music]]
+| {{nom}}
+{{end}}
+
+==Bibliography==
+* ''[[The Wu-Tang Manual]]'' (2005)
+* ''[[The Tao of Wu]]'' (2009)
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{sisterlinks|d=Q52447|n=no|b=no|v=no|voy=no|m=no|mw=no|wikt=no|s=no|species=no}}
+*{{AllMusic|class=artist|id=p116447|label=RZA}}
+*{{discogs artist}}
+*{{IMDb name|753526|RZA}}
+
+{{RZA|state=expanded}}
+{{Achozen}}
+{{Wu-Tang Clan}}
+{{Gravediggaz}}
+{{Banks & Steelz}}
+{{Authority control}}
+
+[[Category:1969 births]]
+[[Category:Living people]]
+[[Category:African-American male rappers]]
+[[Category:African-American record producers]]
+[[Category:African-American songwriters]]
+[[Category:Amateur chess players]]
+[[Category:American hip hop record producers]]
+[[Category:American male film actors]]
+[[Category:American male screenwriters]]
+[[Category:East Coast hip hop musicians]]
+[[Category:MNRK Music Group artists]]
+[[Category:Epic Records artists]]
+[[Category:Five percenters]]
+[[Category:Gravediggaz members]]
+[[Category:Horrorcore artists]]
+[[Category:Male actors from New York City]]
+[[Category:Musicians from Pittsburgh]]
+[[Category:People from Millstone Township, New Jersey]]
+[[Category:People from Steubenville, Ohio]]
+[[Category:Rappers from Brooklyn]]
+[[Category:Rappers from New York City]]
+[[Category:Songwriters from New York (state)]]
+[[Category:Underground rappers]]
+[[Category:Virgin Records artists]]
+[[Category:Gee Street Records artists]]
+[[Category:Wu-Tang Clan members]]
+[[Category:Curtis High School alumni]]
+[[Category:20th-century American writers]]
+[[Category:21st-century American writers]]
+[[Category:Record producers from New York (state)]]
+[[Category:Record producers from New Jersey]]
+[[Category:Record producers from Ohio]]
+[[Category:People from Brownsville, Brooklyn]]
+[[Category:Film directors from New York City]]
+[[Category:Film directors from Ohio]]
+[[Category:Film directors from New Jersey]]
+[[Category:Screenwriters from New York (state)]]
+[[Category:21st-century American rappers]]
+[[Category:Record producers from Pennsylvania]]
+[[Category:African-American screenwriters]]

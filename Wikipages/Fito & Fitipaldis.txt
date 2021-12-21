@@ -1,0 +1,283 @@
+{{Use dmy dates|date=December 2019}}
+{{Refimprove|date=February 2008}}
+
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name = Fito & Fitipaldis
+| image = Mvc-303f.jpg
+| caption = 
+| image_size = 
+| landscape = yes
+| background = group_or_band
+| alias = 
+| origin = [[Bilbao]], Spain
+| genre = [[Rock and roll]], [[blues rock]], [[rockabilly]], [[rhythm and blues]], [[Swing (jazz)|swing]], [[jazz]], [[Latin rock]]
+| years_active = 1998–present                   
+| label = [[Dro Records|DRO]]
+| associated_acts = [[Platero y Tú]] <br> [[Extrechinato y Tú]]<br> [[Extremoduro]] <br> [[Rosendo Mercado|Rosendo]]<br> [[Andrés Calamaro]]
+| website = http://www.fitoyfitipaldis.com
+| current_members = [[Fito Cabrales]] <br> Carlos Raya <br> Javier Alzola <br> Alejandro "Boli" Climent <br> Coki Giménez
+| past_members = José Alberto Bátiz <br> Miguel Colino <br> Roberto Caballero <br> Irazoki <br> Polako <br> Chema "Animal" <br> José "El niño" Bruno <br> Candy Caramelo <br> Joserra Semperena
+}}
+
+'''Fito & Fitipaldis''' ({{IPA-es|ˈfito i fitiˈpaldis}}) is a Spanish rock band, formed in 1998. It was created by [[Fito Cabrales]] with the intention of publishing songs which were not in the style of his other band, [[Platero y Tú]]. Its style is a mix of [[Rock and roll|rock]], [[Soul music|soul]], [[Swing (genre)|swing]], and other genres. By October 2014 the band's sales had surpassed 1,600,000 discs.<ref> http://elpais.com/elpais/2014/10/24/eps/1414152105_355801.html El País – Fito a toda velocidad </ref>
+
+==Former and Current members==
+*Singer & guitar: [[Fito Cabrales|Adolfo "Fito" Cabrales]]
+*Guitar: J.A. Batiz, Carlos Raya, Txus Alday
+*[[Bass (instrument)|Bass]]: Edu Baxter, Roberto "Candy" Caramelo, Miguel Colino
+*Drums: Arturo García, Ricardo Cantera, Fernan Irazoki, José "el niño" Bruno, "Polako", Daniel Griffin, Coki Giménez
+*Saxophone: Javi Alzola
+*Piano: Mario Larrañaga
+*[[Hammond organ]] and Keyboards: Joserra Semperena
+
+===Timeline===
+<timeline>
+TimeAxis = orientation:horizontal format:yyyy
+ImageSize = width:750 height:auto barincrement:20
+PlotArea = left:130 bottom:140 top:10 right:20
+Alignbars = justify
+
+Colors =
+  id:canvas value:rgb(0.97,0.97,0.97)
+  id:vocals value:red  legend:Lead_vocals
+  id:sax    value:yellow legend:Saxophone
+  id:guitar value:green legend:Guitar
+  id:bass   value:blue legend:Bass
+  id:keys   value:orange legend:Keyboards,_piano,_hammond
+  id:drums  value:purple legend:Drums
+  id:perc   value:pink legend:Percussion
+  id:lines   value:black  legend:Studio&nbsp;albums
+  id:lines2   value:gray(0.55) legend:Live&nbsp;albums
+  id:bg     value:white
+
+Legend = orientation:vertical position:bottom columns:1
+
+BackgroundColors = canvas:bg
+
+Period     = from:1998 till:2020
+ScaleMajor = unit:year increment:2 start:1998 gridcolor:guitar
+
+BarData =
+  bar:FI text:"Adolfo 'Fito' Cabrales"
+  bar:JA text:"Javier Alzola"
+  bar:TX text:"Txus Alday"
+  bar:MI text:"Miguel Colino"
+  bar:PO text:"'Polako'"
+  bar:AR text:"Arturo"
+  bar:BA text:"José Alberto Bátiz"
+  bar:CA text:"Roberto Caballero"
+  bar:DA text:"Daniel Bartolomé"
+  bar:JM text:"Javier Mora"
+  bar:CB text:"Carlos bragas"
+  bar:FE text:"Fernan Irazoki"
+  bar:JO text:"Joserra Semperena"
+  bar:CR text:"Carlos Raya"
+  bar:NB text:"José 'El niño' Bruno"
+  bar:CC text:"Candy 'Caramelo'"
+  bar:PT text:"Pete Thomas"
+  bar:AH text:"Andy Hess"
+  bar:GR text:"Daniel Griffin"
+  bar:BO text:"Alejandro 'Boli' Climent"
+  bar:CO text:"Coki Giménez"
+
+PlotData=
+
+# set defaults
+  width:15 fontsize:10 textcolor:black align:left anchor:from shift:(5,-5)
+  bar:FI from:1998 till:end color:vocals
+  bar:JA from:1998 till:end color:sax
+  bar:TX from:1998 till:2001 color:guitar
+  bar:MI from:1998 till:2001 color:bass
+  bar:PO from:1998 till:2001 color:drums
+  bar:AR from:1998 till:2001 color:perc
+  bar:BA from:2001 till:2005 color:guitar
+  bar:CA from:2001 till:2005 color:bass
+  bar:DA from:2001 till:2002 color:drums
+  bar:JM from:2002 till:2003 color:keys
+  bar:CB from:2002 till:2003 color:drums
+  bar:FE from:2003 till:2005 color:drums
+  bar:JO from:2005 till:end color:keys
+  bar:CR from:2005 till:end color:guitar
+  bar:NB from:2005 till:2008 color:drums
+  bar:CC from:2005 till:2008 color:bass
+  bar:PT from:2008 till:2009 color:drums
+  bar:AH from:2008 till:2009 color:bass
+  bar:GR from:2009 till:2020 color:drums
+  bar:BO from:2009 till:end color:bass
+  bar:CO from:2020 till:end color:drums
+
+  width:3.75 fontsize:10 textcolor:black align:left anchor:from shift:(5,-5)
+  bar:FI from:1998 till:end color:guitar
+  bar:DA from:2001 till:2002 color:perc
+  bar:CB from:2002 till:2003 color:perc
+  bar:FE from:2003 till:2005 color:perc
+  bar:NB from:2005 till:2008 color:perc
+  bar:PT from:2008 till:2009 color:perc
+  bar:GR from:2009 till:end color:perc
+
+LineData =
+
+  at:1998 color:black layer:back
+  at:2001 color:black layer:back
+  at:2003 color:black layer:back
+  at:2004 color:lines2 layer:back
+  at:2006 color:black layer:back
+  at:2008 color:lines2 layer:back
+  at:2009 color:black layer:back
+  at:2014 color:black layer:back
+</timeline>
+
+==Discography==
+
+=== Studio albums ===
+{|class="wikitable"
+!rowspan="2" |Year 
+!rowspan="2"|Studio albums
+!colspan="1"|Peak chart positions
+!rowspan="2"|[[Music recording sales certification|Certifications]]<br><small>([[List of music recording sales certifications|sales thresholds]])</small>
+|-
+! width="35"| [[Productores de Música de España|SPA]]<br><ref name="SPA">{{cite web|url=http://www.spanishcharts.com/showitem.asp?interpret=Fito+%26+Fitipaldis&titel=Antes+de+que+cuente+diez&cat=s|title=spanishcharts.com – Spanish charts portal|access-date=5 April 2014}}</ref>
+|-
+|-
+|align="center" |<small>1998</small>
+||'''''[[A Puerta Cerrada (album)|A Puerta Cerrada]]'''''
+{{smalldiv|
+*Released: 16 October 1998
+*Label: [[Dro Records|Dro]]
+}}
+|align="center" |54<ref>http://promusicae.es/files/listassemanales/albumes/historial/TOP%20100%20ALBUMES%2008_38.pdf{{dead link|date=October 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|align= |
+*[[PROMUSICAE|SPA]]: Platinum<ref name="PROMUSICAE">{{cite web|url=http://www.fitoyfitipaldis.com/web/index.php?option%3Dcom_content%26view%3Darticle%26id%3D49%26Itemid%3D31 |title=Archived copy |access-date=7 July 2016 |url-status=dead |archive-url=https://web.archive.org/web/20150715030811/http://www.fitoyfitipaldis.com/web/index.php?option=com_content&view=article&id=49&Itemid=31 |archive-date=15 July 2015 }}</ref>
+|-
+|align="center" |<small>2001</small>
+||'''''[[Los Sueños Locos]]'''''
+{{smalldiv|
+*Released: 19 October 2001
+*Label: [[Dro Records|Dro]]
+}}
+|align="center" |30
+|align= |
+*[[PROMUSICAE|SPA]]: Platinum<ref name="PROMUSICAE"/>
+|-
+|align="center" |<small>2003</small>
+||'''''[[Lo Más Lejos a Tu Lado]]'''''
+{{smalldiv|
+*Released: 1 September 2003
+*Label: [[Dro Records|Dro]]
+}}
+|align="center" |2<ref>http://www.promusicae.org/files/listassemanales/albumes/historial/TOP%20100%20ALBUMES%2009_15.pdf{{dead link|date=October 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|align= |
+*[[PROMUSICAE|SPA]]: 3× Platinum<ref name="PROMUSICAE"/>
+|-
+|align="center" |<small>2006</small>
+||'''''[[Por la Boca Vive el Pez]]'''''
+{{smalldiv|
+*Released: 11 September 2006
+*Label: [[Dro Records|Dro]]
+}}
+|align="center" |1
+|align= |
+*[[PROMUSICAE|SPA]]: 4× Platinum<ref>{{cite web |url=http://www.promusicae.org/files/listassemanales/albumes/historial/TOP%20100%20ALBUMES%2007_51.pdf|title=Top 100 álbumes|author=[http://www.promusicae.es Promusicae]|year=2007|language= es}}</ref>
+|-
+|align="center" |<small>2009</small>
+||'''''[[Antes de que Cuente Diez]]'''''
+{{smalldiv|
+*Released: 15 September 2009
+*Label: [[Dro Records|Dro]]
+}}
+|align="center" |1
+|align= |
+*[[PROMUSICAE|SPA]]: 4× Platinum<ref>http://www.fitoyfitipaldis.com/web/index.php?option=com_content&view=article&id=380:cuadruple-disco-de-platino-e-incorporacion-de-sevilla-y-granada-al-final-de-gira&catid=17:noticias&Itemid=80 {{webarchive|url=https://web.archive.org/web/20140407055705/http://www.fitoyfitipaldis.com/web/index.php?option=com_content&view=article&id=380%3Acuadruple-disco-de-platino-e-incorporacion-de-sevilla-y-granada-al-final-de-gira&catid=17%3Anoticias&Itemid=80 |date=7 April 2014 }}</ref>
+|-
+|align="center" |<small>2014</small>
+||'''''[[Huyendo conmigo de mí]]'''''
+{{smalldiv|
+*Released: 28 October 2014
+*Label: [[Dro Records|Dro]]
+}}
+|align="center" |1
+|align= |
+*[[PROMUSICAE|SPA]]: 3× Platinum<ref name="2016week41">{{cite web|url=http://www.promusicae.es/listas/semana/3258-%C3%81lbumes-semana-41-2016|title=Top 100 Week 41|work=[[Promusicae]]|access-date=21 December 2016}}</ref>
+|-
+|align="center" |<small>2021</small>
+||Cada Vez Cadáver
+{{smalldiv|
+*Released: 2021
+}}
+|align="center" |1
+|align= |
+|-
+|align="center" colspan="26" style="font-size: 8pt"| "—" denotes releases that did not chart or were not released in that country.
+|}
+
+=== Live albums ===
+
+{|class="wikitable"
+!rowspan="2" |Year
+!rowspan="2"|Live albums
+!colspan="1"|Peak chart positions
+!rowspan="2"|[[Music recording sales certification|Certifications]]<br><small>([[List of music recording sales certifications|sales thresholds]])</small>
+|-
+! width="35"| [[Productores de Música de España|SPA]]<br><ref name="SPA"/>
+|-
+|-
+|align="center" |<small>2004</small>
+||'''''[[Vivo...Para Contarlo]]'''''
+{{smalldiv|
+*Released: 22 November 2004
+*Label: [[Dro Records|Dro]]
+}}
+|align="center" |8<ref>{{cite web|url=http://promusicae.es/files/listassemanales/albumes/historial/TOP%20100%20ALBUMES%2004_50.pdf |title=Archived copy |access-date=12 April 2009 |url-status=dead |archive-url=https://web.archive.org/web/20101004035019/http://promusicae.es/files/listassemanales/albumes/historial/TOP%20100%20ALBUMES%2004_50.pdf |archive-date=4 October 2010 }}</ref>
+|align= |
+*[[PROMUSICAE|SPA]]: Platinum<ref name="PROMUSICAE"/>
+|-
+|align="center" |<small>2008</small>
+||'''''[[Dos Son Multitud]]''''' <small>featuring [[Andrés Calamaro]]</small>
+{{smalldiv|
+*Released: 25 March 2008
+*Label: [[Dro Records|Dro]]
+}}
+|align="center" |2
+|align="center" |
+—
+|-
+|align="center" |<small>2014</small>
+||'''''[[En Directo desde el Teatro Arriaga]]'''''
+{{smalldiv|
+*Released: 4 March 2014
+*Label: [[Dro Records|Dro]]
+}}
+|align="center" |2
+|align= |
+*[[PROMUSICAE|SPA]]: Gold<ref name="2014week44">{{cite web|url=http://www.promusicae.es/listas/semana/2718-%C3%81lbumes-semana-44-2014|title=Top 100 Week 44|work=[[Promusicae]]|access-date=11 November 2014}}</ref>
+|-
+|align="center" colspan="26" style="font-size: 8pt"| "—" denotes releases that did not chart or were not released in that country.
+|}
+
+==In other media==
+The song "Por la boca vive el pez" is a [[Downloadable content|DLC]] song in the video game [[List of songs in Guitar Hero World Tour#Downloadable content|Guitar Hero World Tour]]<ref>{{Cite web|url=http://www.ign.com/articles/2008/12/11/guitar-hero-adds-european-bands|title = Guitar Hero Adds European Bands - IGN}}</ref>
+
+==See also==
+*[[Platero y Tú]]
+*[[Extrechinato y Tú]]
+*[[Extremoduro]]
+*[[Rosendo Mercado]]
+
+==Notes==
+{{Reflist}}
+
+==External links==
+*[http://www.fitoyfitipaldis.com/ Official site]
+*[http://www.fitipaldis.com/ Fitipaldis.com]
+*[http://www.droeastwest.com/ DRO]
+*[https://web.archive.org/web/20070702202453/http://www.lasttourinternational.com/ Last Tour International]
+
+{{Fito & Fitipaldis}}
+
+{{Authority control}}
+{{DEFAULTSORT:Fito and Fitipaldis}}
+[[Category:Spanish musical groups]]
+[[Category:Spanish rock music groups]]
+[[Category:Rock en Español music groups]]
+[[Category:Musical groups established in 1998]]
+[[Category:Warner Music Latina artists]]

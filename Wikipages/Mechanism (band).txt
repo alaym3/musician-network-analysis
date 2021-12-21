@@ -1,0 +1,47 @@
+{{primary sources|date=February 2010}}{{no footnotes|date=August 2018}}
+{{Infobox musical artist
+| name            = Mechanism
+| image           = 
+| image_size      = 
+| image_upright   = 
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             = 
+| caption         = 
+| background      = group_or_band
+| alias           = 
+| origin          = [[Vancouver, British Columbia]], Canada
+| genre           = [[Metal music|Metal]]
+| years_active    = <!-- {{start date|YYYY}}–{{end date|YYYY}} (or –present) -->
+| label           = 
+| associated_acts = 
+| website         = <!-- {{URL|www.example.com}} or {{Official URL}} -->
+| current_members = * [[Gene Hoglan]]
+* [[Chris Valagao]]
+* Kris Schulz
+* Bryan Somerville
+* Markus McCallum
+| past_members    = 
+}}
+'''Mechanism''' is a metal band from [[Vancouver, British Columbia]]. Their debut album, ''Inspired Horrific'', combines [[death metal]] and [[progressive metal]].
+==Personnel==
+* [[Gene Hoglan]] - Drums
+* [[Chris Valagao]] - Vocals
+* Kris Schulz - Guitar
+* Bryan Somerville - Guitar, Samples
+* Markus McCallum - Bass
+
+==Discography==
+* 2009 - ''Inspired Horrific''
+
+==References==
+<!--- See [[Wikipedia:Footnotes]] on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20100516124629/http://mechanismmetal.com/ Official website]
+* [http://www.myspace.com/mechanismarmy Myspace page]
+* [http://www.metal-archives.com/band.php?id=3540273324 Mechanism @ Metal-archives]
+
+{{Authority control}}
+{{DEFAULTSORT:Mechanism (Band)}}
+[[Category:Canadian death metal musical groups]]

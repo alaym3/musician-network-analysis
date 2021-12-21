@@ -1,0 +1,71 @@
+{{short description|Phase of flight in which a vehicle leaves the land or water surface}}
+{{other uses}}
+{{Refimprove|date=November 2011}}
+[[File:An F-A-18C Hornet launches from the flight deck of the conventionally powered aircraft carrier.jpg|thumb|An [[McDonnell Douglas F/A-18 Hornet|F/A-18]] taking off from an aircraft carrier]]
+[[File:Embraer 175 (Air Canada) 091.jpg|thumb|An [[Embraer E-175]] taking off]]
+
+'''Takeoff''' is the phase of [[flight]] in which an [[aerospace]] vehicle leaves the ground and becomes airborne. For aircraft traveling vertically, this is known as '''liftoff'''.
+
+For [[aircraft]] that take off horizontally, this usually involves starting with a transition from moving along the ground on a [[runway]]. For [[balloon (aircraft)|balloons]], [[helicopter]]s and some specialized fixed-wing aircraft ([[VTOL]] aircraft such as the [[Hawker Siddeley Harrier|Harrier]] and the [[Bell Boeing V22 Osprey]]), no runway is needed.
+
+==Horizontal==
+===Power settings===
+[[File:yellow.balloon.lifts.in.bath.arp.jpg|thumb|upright|Takeoff of a [[hot air balloon]]]]
+For [[light aircraft]], usually full power is used during takeoff. Large [[transport category]] (airliner) aircraft may use a [[flex temp|reduced power]] for takeoff, where less than full power is applied in order to prolong engine life, reduce maintenance costs and reduce noise emissions. In some emergency cases, the power used can then be increased to increase the aircraft's performance. Before takeoff, the engines, particularly [[piston engine]]s, are routinely run up at high power to check for engine-related problems. The aircraft is permitted to accelerate to rotation speed (often referred to as V<sub>r</sub>). The term ''[[rotation (aviation)|rotation]]'' is used because the aircraft pivots around the axis of its main [[landing gear]] while still on the ground, usually because of gentle manipulation of the [[Aircraft flight control system|flight controls]] to make or facilitate this change in [[aircraft attitude]] (once proper air displacement occurs under / over the wings, an aircraft will lift off on its own; controls are to ease that in).
+
+The nose is raised to a nominal 5[[degree (angle)|°]]&ndash;15° nose up [[flight dynamics|pitch]] attitude to increase lift from the [[wing]]s and effect liftoff. For most aircraft, attempting a takeoff without a pitch-up would require cruise speeds while still on the runway.
+[[File:Three way take off at Beijing Capital International Airport.jpg|thumb|left|Three airliners taking off simultaneously (note similar pitch attitudes)]]
+Fixed-wing aircraft designed for high-speed operation (such as commercial [[jet aircraft]]) have difficulty generating enough lift at the low speeds encountered during takeoff. These are therefore fitted with [[high-lift device]]s, often including [[Leading edge slats|slats]] and usually [[flap (aircraft)|flaps]], which increase the [[Camber (aerodynamics)|camber]] and often area of the wing, making it more effective at low speed, thus creating more lift. These are deployed from the wing before takeoff, and retracted during the climb. They can also be deployed at other times, such as before landing.
+
+The speeds needed for takeoff are relative to the motion of the air ([[indicated airspeed]]). A [[headwind]] will reduce the ground speed needed for takeoff, as there is a greater flow of air over the wings. Typical takeoff air speeds for jetliners are in the range of {{cvt|240–285|km/h|kn mph|lk=on}}. Light aircraft, such as a [[Cessna 150]], take off at around {{cvt|100|km/h|kn mph|lk=on}}. [[Ultralight]]s have even lower takeoff speeds. For a given aircraft, the takeoff speed is usually dependent on the aircraft weight; the heavier the weight, the greater the speed needed.<ref>Scott, Jeff (4 August 2002) "[http://www.aerospaceweb.org/question/performance/q0088.shtml Airliner Takeoff Speeds]". Aerospace Web. Retrieved 12 August 2015</ref> Some aircraft are specifically designed for [[short takeoff and landing|short takeoff and landing (STOL)]], which they achieve by becoming airborne at very low speeds.
+
+===Required speeds===
+The ''takeoff speed required'' varies with aircraft weight and aircraft configuration (flap or slat position, as applicable), and is provided to the flight crew as [[indicated airspeed]].
+[[File:Departing Tullamarine Airport.jpg|thumb|View from a [[Jetstar]] [[A321]] shortly after departure at [[Melbourne]]]]
+Operations with transport category aircraft employ the concept of the takeoff [[V-speed]]s: V<sub>1</sub>, V<sub>R</sub> and V<sub>2</sub>. These speeds are determined not only by the above factors affecting takeoff performance, but also by the length and slope of the runway and any peculiar conditions, such as obstacles off the end of the runway. Below V<sub>1</sub>, in case of critical failures, the takeoff should be aborted; above V<sub>1</sub> the pilot continues the takeoff and returns for landing. After the co-pilot calls V<sub>1</sub>, they will call V<sub>R</sub> or "rotate," marking speed at which to rotate the aircraft. The V<sub>R</sub> for transport category aircraft is calculated such as to allow the aircraft to reach the regulatory screen height at V<sub>2</sub> with one engine failed. Then, V<sub>2</sub> (the safe takeoff speed) is called. This speed must be maintained after an engine failure to meet performance targets for rate of climb and angle of climb.
+
+[[File:Boeing 737-800 (EI-ENI) of Ryanair departs Bristol Airport, England 23Aug2014 arp.jpg|thumb|A [[Boeing 737-800]] retracting its [[landing gear|undercarriage]]s during takeoff]]
+In a single-engine or light twin-engine aircraft, the pilot calculates the length of runway required to take off and clear any obstacles, to ensure sufficient runway to use for takeoff. A safety margin can be added to provide the option to stop on the runway in case of a [[rejected takeoff]]. In most such aircraft, any engine failure results in a rejected takeoff as a matter of course, since even overrunning the end of the runway is preferable to lifting off with insufficient power to maintain flight.
+
+If an obstacle needs to be cleared, the pilot climbs at the speed for maximum climb angle (V<sub>x</sub>), which results in the greatest altitude gain per unit of horizontal distance travelled. If no obstacle needs to be cleared, or after an obstacle is cleared, the pilot can accelerate to the best rate of climb speed (V<sub>y</sub>), where the aircraft will gain the most altitude in the least amount of time. Generally speaking, V<sub>x</sub> is a lower speed than V<sub>y</sub>, and requires a higher pitch attitude to achieve.
+
+===Assistance===
+{{Main|Assisted takeoff}}
+[[File:Glider in flight.JPG|thumb|Tow line and towing aircraft seen from the cockpit of a [[Glider (sailplane)|glider]]]]
+'''Assisted takeoff''' is any system for helping [[aircraft]] into the air (as opposed to strictly under its own power). The reason it might be needed is due to the aircraft's weight exceeding the normal [[Maximum Takeoff Weight|maximum takeoff weight]], insufficient power, or the available [[runway]] length may be insufficient, or a [[hot and high]] airfield, or a combination of all four factors. Assisted takeoff is also required for [[Glider (sailplane)|gliders]], which do not have an engine and so are unable to take off by themselves. Hence assisted takeoff is required
+
+==Vertical==
+Vertical takeoff refers to aircraft or rockets that take off in a vertical [[trajectory]]. Vertical takeoff eliminates the need for airfields. Most vertical take off aircraft are also able to land horizontally, but there were certain [[rocket-powered aircraft]] of the ''[[Luftwaffe]]'' that only took off vertically, landing in other ways. The [[Bachem Ba 349]] ''Natter'' landed under a parachute after having taken off vertically. Other late [[Third Reich]] projects, such as the [[Heinkel P.1077]] ''Julia'' or the [[Focke-Wulf Volksjäger|Focke-Wulf ''Volksjäger'' 2]], climbed to their ceiling at a nearly vertical angle and landed later on a skid.<ref>[http://www.wissenschaft-und-frieden.de/seite.php?artikelID=0833 Ulrich Albrecht: Artefakte des Fanatismus; Technik und nationalsozialistische Ideologie in der Endphase des Dritten Reiches] (in German)</ref>
+
+===VTOL===
+{{Main|VTOL}}
+[[File:US Navy 050423-N-6214F-004 Aviation Boatswain's Mate 2nd Class Courtney F. Godfrey runs behind the foul line as a Marine Corps AV-8B Harrier II- performs a vertical takeoff.jpg|thumb|The [[Harrier Jump Jet]], a [[VTOL]] aircraft]]
+'''Vertical take-off and landing''' ('''VTOL''') [[aircraft]] include [[fixed-wing aircraft]] that can hover, [[takeoff and landing|take off and land]] vertically as well as [[helicopter]]s and other aircraft with powered rotors, such as [[tiltrotor]]s.<ref>"Vertical Takeoff & Landing Aircraft," John P. Campbell, The MacMillan Company, New York, 1962.</ref><ref>Rogers 1989.</ref><ref>Laskowitz, I.B. "Vertical Take-Off and Landing (VTOL) Aircraft."  ''Annals of the New York Academy of Sciences,'' Vol. 107, Art.1, 25 March 1963.</ref><ref>"Straight Up - A History of Vertical Flight," Steve Markman and Bill Holder, Schiffer Publishing, 2000.</ref>  Some VTOL aircraft can operate in other modes as well, such as [[CTOL]] (conventional take-off and landing), [[STOL]] (short take-off and landing), and/or [[STOVL]] (short take-off and vertical landing). Others, such as some helicopters, can only operate by VTOL, due to the aircraft lacking [[landing gear]] that can handle horizontal motion. VTOL is a subset of [[V/STOL]] (vertical and/or short take-off and landing).
+
+Besides the helicopter, there are two types of VTOL aircraft in military service: craft using a [[tiltrotor]], such as the [[Bell Helicopter Textron|Bell]] [[Boeing]] [[V-22 Osprey]], and some aircraft using directed jet thrust such as the [[Harrier Jump Jet|Harrier family]].
+
+===Rocket launch===
+{{Main|Rocket#Launch phase}}
+The takeoff phase of the flight of a [[rocket]] is called "rocket launch". Launches for [[orbital spaceflight]]s, or launches into [[interplanetary space]], are usually from a fixed location on the ground, but may also be from a floating platform such as the [[San Marco platform]], or the [[Sea Launch]] launch vessel.
+
+==See also==
+*[[Balanced field takeoff]]
+*[[Climb (aeronautics)]]
+*[[Cruise (aeronautics)]]
+*[[Descent (aeronautics)]]
+*[[Landing]]
+*[[Space launch]]
+*[[V speeds]]
+
+==References==
+{{Wiktionary|takeoff|take off}}
+{{Commonscat|Starts in aviation}}
+{{Reflist}}
+
+{{Types of take-off and landing}}
+{{Flight phases}}
+
+[[Category:Flight phases]]
+[[Category:Articles containing video clips]]
+[[Category:Types of take-off and landing|*]]
+[[Category:Aircraft performance]]

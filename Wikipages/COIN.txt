@@ -1,0 +1,19 @@
+{{Self reference|In the context of Wikipedia, "COIN" refers to the [[Wikipedia:Conflict of interest/Noticeboard]].}}
+{{Wiktionary|COIN}}
+'''COIN''' or '''COINS''' may refer to:
+
+* [[Civic Openness In Negotiations]], collective bargaining practice
+* [[Coin (band)]] (often stylized COIN), an American indie pop band
+* [[Coinbase]] (Nasdaq: COIN), a company which operates a cryptocurrency exchange
+* [[Collaborative innovation network]], innovative teams 
+* [[Community of interest network]]
+* [[Combined Online Information System]], a UK database containing HM Treasury's analysis of departmental spending
+* [[ContextObjects in Spans]] (COinS), a specification for publishing OpenURL references in HTML
+* [[Counter-insurgency]]
+** [[Counter-insurgency aircraft]]
+
+==See also==
+* [[COIN-OR]], the Computational Infrastructure for Operations Research project
+* [[Coin (disambiguation)]]
+
+{{disambiguation}}

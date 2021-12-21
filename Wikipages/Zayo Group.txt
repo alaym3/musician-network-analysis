@@ -1,0 +1,78 @@
+{{short description|American communications company}}
+{{Use American English|date=September 2016}}
+{{Use mdy dates|date=September 2016}}
+
+{{Infobox company
+| name = Zayo Group Holdings, Inc.
+| logo = Zayo_Logo_2019.png
+| type = [[Privately held company|Private]]
+| industry = [[Infrastructure#Communications|Communications infrastructure]]
+| founders = [[Dan Caruso]]<br>John Scarano
+| foundation = {{Start date and age|2007}}
+| location_city = [[Boulder, Colorado]]
+| location_country = U.S.
+| area_served =
+| key_people = [[B. Kevin Turner | Kevin Turner]] ([[Chairman]])<br>Steve Smith ([[Chief executive officer|CEO]])<br>Matt Steinfort ([[Chief financial officer|CFO]])
+| products = 
+| services = [[Optical fiber|Fiber]] and [[Bandwidth (computing)|bandwidth]] connectivity, [[Colocation centre|colocation]] and [[Cloud computing#Service models|cloud infrastructure]]
+| revenue = {{increase}} [[United States dollar|US$]]2.6 billion (2018)<ref name="10-K 2018">{{cite web|url=https://www.sec.gov/Archives/edgar/data/1608249/000155837018007506/zayo-20180630x10ka.htm|title=US SEC: Form 10-K Zayo Group Holdings, Inc.|publisher=United States Securities and Exchange Commission}}</ref>
+| operating_income = {{increase}} US$424.9 million (2018)<ref name="10-K 2018"/>
+| net_income = {{increase}} US$101.9 million (2018)<ref name="10-K 2018"/>
+| assets = {{increase}} US$9.2 billion (2018)<ref name="10-K 2018"/>
+| equity = {{increase}} US$1.4 billion (2018)<ref name="10-K 2018"/>
+| owner =  [[EQT Partners]]<br>Digital Colony
+| num_employees = 3,774 (2018)<ref name="10-K 2018"/>
+| parent = 
+| divisions = 
+| subsid = 
+| website = {{URL|https://www.zayo.com}}
+}}
+
+'''Zayo Group Holdings, Inc.''', or '''Zayo Group''', is a privately held company headquartered in [[Boulder, Colorado]], U.S. with European headquarters in [[London]], England. The company provides communications infrastructure services, including fiber and bandwidth connectivity, colocation and cloud infrastructure. Zayo's primary customer segments include wireless carriers, national carriers, [[Internet service provider|ISPs]], enterprises and government agencies. Zayo Group was built largely through acquisitions; it took over thirty companies from 2007 to 2014, including [[AboveNet]] and [[360networks]].<ref name=invcom>{{cite web|url=http://news.investors.com/technology/101714-722470-zayo-group-up-16-in-tough-ipo-market.htm|title=IPO Stock Watch: Zayo Group Up 16% In Tough IPO Market ZAYO XENE - Investors.com|author=BRIAN DEAGON|work=Investor's Business Daily}}</ref> An [[initial public offering]] of stock raised $600 million in 2014.<ref>{{cite web|url=http://seekingalpha.com/article/2568965-ipo-preview-zayo-group-holdings|title=IPO Preview: Zayo Group Holdings|author=IPOdesktop|date=17 October 2014}}</ref> In May 2019, Zayo Group agreed to be acquired by global investment firms [[EQT Partners]] and Digital Colony Partners in a deal valued at $14.3 billion.<ref>{{cite web |last1=Narcisi |first1=Gina |title=Fiber Provider Zayo Will Go Private In $14.3 Billion Deal |url=https://www.crn.com/news/networking/fiber-provider-zayo-will-go-private-in-14-3-billion-deal |website=CRN |date=8 May 2019}}</ref>
+
+==Founding and acquisition history==
+Zayo was founded in 2007 by [[Dan Caruso]] and John Scarano as a Delaware corporation.<ref name="Wall Street Journal">{{cite news|last1=Raice|first1=Shayndi|title=Fiber-Optic Networks Regain Some Glow|url=https://online.wsj.com/news/articles/SB10001424052970204467204576048110913769584|access-date=June 3, 2014|publisher=The Wall Street Journal|date=December 29, 2010}}</ref><ref name="DBJ $1Billion">{{cite news|last1=Avery|first1=Greg|title=Zayo Group's Many Acquisitions Puts it in $1 Billion Club|url=http://www.bizjournals.com/denver/print-edition/2013/11/08/zayo-groups-many-acquisitions-puts-it.html|access-date=June 3, 2014|publisher=Denver Business Journal|date=November 8, 2013}}</ref> In 2007, Zayo acquired Memphis Networx,<ref name="Wall Street Journal"/> VoicePipe,<ref name="WSJ - Free Cash Flow">{{cite news|last1=Wirz|first1=Matt|title=Refis Put the Free in Free Cash Flow|url=https://blogs.wsj.com/marketbeat/2013/03/01/refis-put-the-free-in-free-cash-flow|access-date=June 3, 2014|publisher=The Wall Street Journal|date=March 1, 2013}}</ref> Onvoy Inc,<ref name="WSJ - Free Cash Flow"/> PPL Telcom<ref name="DBJ ICG">{{cite news|title=Former ICG Execs in $225 Million Deal|url=http://www.bizjournals.com/denver/stories/2007/08/27/daily54.html|access-date=June 3, 2014|publisher=Denver Business Journal|date=August 30, 2007}}</ref> and Indiana Fiber Works.<ref name="Wall Street Journal" />
+
+In 2008, Zayo acquired Columbia Fiber Solution,<ref name="Wall Street Journal" /> Adesta Communications assets,<ref name=BCBR>{{cite news|last1=Lindenstein|first1=Joshua|title=Zayo Mulls Path to Continued Growth|url=http://www.bcbr.com/article/20140321/EDITION/140329983|access-date=June 3, 2014|publisher=Boulder County Business Report|date=March 21, 2014}}</ref> two sets of fiber assets from Citynet,<ref name=Citynet>{{cite web|title=Zayo Group Acquires Citynet Fiber Network|url=http://www.herald-dispatch.com/x112303236|publisher=The Herald-Dispatch|access-date=April 10, 2014}}</ref> two sets of fiber assets from Northwest Telephone,<ref name="Connected Planet">{{cite news|last1=Gubbins|first1=Ed|title=Zayo Closes Seventh Acquisition, Eighth to Follow|url=http://connectedplanetonline.com/independent/news/zayo-acquisition-nti-0602/index.html|access-date=June 3, 2014|publisher=Connected Planet|date=June 2, 2008}}</ref> and CenturyTel Regional Markets.<ref name="Connected Planet"/>
+
+In 2009, Zayo acquired FiberNet Telcom Group, Inc.<ref name=WPost>{{cite web|last=Kang|first=Cecilia|date=June 29, 2009|title=Expansion-Minded RCN Sparks Bidding War for N.Y. Telecom|url=https://www.washingtonpost.com/wp-dyn/content/article/2009/06/29/AR2009062904002.html|work=The Washington Post|access-date=April 4, 2014}}</ref>
+
+In 2010, Zayo acquired AGL Networks,<ref name="AGL Networks">{{cite web|date=June 28, 2010|title=AGL Networks Sold to Zayo|url=http://www.bizjournals.com/atlanta/stories/2010/06/28/daily54.html|publisher=Atlanta Business Chronicle|access-date=April 10, 2014}}</ref> American Fiber Systems,<ref name="Wall Street Journal" /> and Dolphini's Cummins Station data center and colocation services.<ref name="Dolphini">{{cite web|last=Lawley|first=Erin|date=September 29, 2010|title=Dolphini Networks Split Up, Sold|url=http://nashvillepost.com/news/2010/9/29/dolphini_networks_split_up_sold|publisher=Nashville Post|access-date=April 10, 2014}}</ref>
+
+In 2011, Zayo acquired MarquisNet data center business in Las Vegas,<ref name="MarquisNet">{{cite web|last=Miller|first=Rich|date=January 3, 2012|title=Zayo Acquires MarquisNet Las Vegas Business|url=http://www.datacenterknowledge.com/archives/2012/01/03/zayo-acquires-marquisnet-las-vegas-business/|publisher=Data Center Knowledge|access-date=April 4, 2014}}</ref> and [[360networks]].<ref name="Seattle Times">{{cite news|title=360networks Being Acquired By Zayo|url=http://seattletimes.com/html/businesstechnology/2016438359_zayo360networks08.html|access-date=June 3, 2014|publisher=The Seattle Times|date=October 7, 2011}}</ref>
+
+In 2012 Zayo acquired [[AboveNet]],<ref name="NYT">{{cite news|last1=De La Merced|first1=Michael|title=Zayo to Buy AboveNet for $2.2 Billion to Extend Fiber Network|url=https://dealbook.nytimes.com/2012/03/19/zayo-to-buy-abovenet-for-2-2-billion-to-extend-fiber-network|access-date=April 4, 2014|work=The New York Times|date=March 19, 2012}}</ref> FiberGate,<ref name=FiberGate>{{cite web|title=Zayo Group Completes FiberGate Purchase|url=http://www.channelpartnersonline.com/news/2012/09/zayo-group-completes-fibergate-purchase.aspx|publisher=Channel Partners Online|access-date=10 April 2014}}</ref> Arialink,<ref>{{cite news|title=Zayo Completes Arialink Acquisition|url=http://www.channelpartnersonline.com/news/2012/05/zayo-completes-arialink-acquisition.aspx|access-date=June 3, 2014|publisher=Channel Partners|date=May 2, 2012}}</ref> US Carrier Telecom,<ref name="DBJ Bigger Bandwidth">{{cite news|url=http://www.bizjournals.com/denver/print-edition/2013/10/18/zayo-groups-success-built-on-bigger.html|title=Zayo Group's Success Built on Bigger Bandwidth|date=October 18, 2013|publisher=Denver Business Journal|last1=Moore|first1=Paula|access-date=4 June 2014}}</ref> First Telecom Services,<ref name="DBJ Bigger Bandwidth"/> and Maryland-based Litecast/Balticore.<ref name="Denver Post">{{cite news|last1=Pankratz|first1=Howard|title=Louisville's Zayo Group buys Baltimore Firm for $22 Million|url=http://www.denverpost.com/News/ci_22192433/Louisvilles-Zayo-Group-buys-Baltimore-firm|access-date=June 3, 2014|publisher=The Denver Post|date=December 14, 2012}}</ref>
+
+In 2013 Zayo acquired Austin-based data center operator Core NAP,<ref name="Core NAP">{{cite web|title=Zayo Enters Austin Market with Core NAP Acquisition|url=http://www.datacenterdynamics.com/focus/archive/2013/06/zayo-enters-austin-market-core-nap-acquisition|publisher=Datacenter Dynamics FOCUS|access-date=10 April 2014}}</ref> Access Communications,<ref>{{cite news|last1=Avery|first1=Greg|title=Zayo Group Buys Denver-Chicago Fiber-optic Route|url=http://www.bizjournals.com/denver/blog/boosters_bits/2013/10/zayo-group-buys-denver-chicago-fiber.html|access-date=June 3, 2014|publisher=Denver Business Journal|date=Oct 7, 2013}}</ref> Midwest-based dark fiber operator FiberLink,<ref name=GIGAOM>{{cite web|last=Malik|first=Om|title=It's Fiber Monday: Zayo & Time Warner Cable Go Fiber Network Shopping|url=http://gigaom.com/2013/10/07/its-fiber-monday-zayo-time-warner-cable-go-fiber-network-shopping/|publisher=GIGAOM|access-date=8 April 2014|date=2013-10-07}}</ref> and Corelink Data Centers.
+
+In 2014, Zayo acquired Dallas-based data center operator CoreXchange,<ref name=BCBR /> French network operator Neo Telecoms SAS<ref>{{cite news|last1=Rath|first1=John|title=Zayo Acquires Neo Telecoms|url=http://www.datacenterknowledge.com/archives/2014/04/29/zayo-acquires-neo-telecoms/|access-date=June 3, 2014|publisher=Data Center Knowledge|date=April 29, 2014}}</ref> and UK-based Geo Networks.<ref name="Comp Weekly">{{cite news|last1=Scroxton|first1=Alex|title=Zayo Buys UK Dark Fibre Provider Geo Networks|url=http://www.computerweekly.com/news/2240220905/Zayo-buys-UK-dark-fibre-provider-Geo-Networks|access-date=June 3, 2014|publisher=Computer Weekly|date=May 19, 2014}}</ref>
+
+In 2015, the company acquired Latisys, IdeaTek Systems and Viatel. In 2016, Zayo acquired a new Dallas, TX data center from Stream Data Centers,<ref>{{Cite news|url=http://www.datacenterknowledge.com/archives/2016/01/07/stream-sells-dallas-data-center-to-zayo/|title=Stream Sells Dallas Data Center to Zayo {{!}} Data Center Knowledge|date=2016-01-07|newspaper=Data Center Knowledge|language=en-US|access-date=2016-12-24}}</ref> Clearview International and Allstream, Canada's main facilities-based inter-exchange carrier which has its roots in the railway telegraph business CNCP Telecommunications.<ref>{{cite web|url=http://www.cbc.ca/news/canada/manitoba/manitoba-telecom-services-sells-allstream-business-for-465m-1.3330947|title=Manitoba Telecom Services sells Allstream business for $465M|access-date=September 29, 2016}}</ref> As of July 2016, Zayo has completed 39 acquisitions.
+
+On November 30, 2016, Zayo Group Holdings Inc said it would buy smaller rival [[Electric Lightwave]] for $1.42 billion in cash to expand its fiber network on the U.S. West Coast.<ref>{{cite web|title=Zayo acquires Electric Lightwave for $1.42B, deepens western market fiber holdings|url=http://www.fiercetelecom.com/telecom/zayo-acquires-electric-lightwave-for-1-42b-deepens-western-market-fiber-holdings|publisher=fiercetelecom.com|date=2016-11-30|access-date=2017-04-12}}</ref>
+
+In November 2017, Zayo purchased [[Spread Networks]], a company that operated an 825-mile-long fiber route connecting New York and Chicago.<ref>{{Cite web|url=https://www.bizjournals.com/denver/news/2017/11/27/zayo-buying-new-york-chicago-fiber-line-for-127.html|title=Zayo buying New York-Chicago fiber line for $127 million|website=www.bizjournals.com|access-date=2018-01-22}}</ref>
+
+In January 2018, Zayo announced they would be acquiring Optic Zoo Networks, a Vancouver, BC based fiber operation.<ref>{{Cite web|url=https://www.bizjournals.com/denver/news/2018/01/22/zayo-makes-25-million-purchase-in-western-canada.html|title=Zayo makes $25 million purchase in western Canada|website=www.bizjournals.com|access-date=2018-01-22}}</ref>
+
+In May 2019, Zayo announced an agreement to be acquired by [[EQT Partners]] and Digital Colony. <ref>{{Cite web|url=https://www.marketwatch.com/story/zayo-to-be-taken-private-for-35-a-share-in-cash-2019-05-08|title=UPDATE: Zayo stock zooms 9% premarket on news to be taken private for $35 a share in cash|last=Linnane|first=Ciara|website=MarketWatch|language=en-US|access-date=2019-05-08}}</ref>
+
+===Onvoy spinoff===
+On June 13, 2014, Onvoy spun off from Zayo Group Holdings.<ref>[25]</ref> On June 16, 2014, Onvoy LLC acquired the assets of Vitelity, a [[voice over IP]] provider based in [[Denver]], [[Colorado]].<ref>https://www.onvoy.com/wp-content/uploads/2014/10/Final-Law-Enfocement-Support-Info-for-Website-10.3.14.pdf</ref> On September 3, 2015, Onvoy LLC acquired [[Broadvox Communications]], a [[competitive local exchange carrier]] VoIP service provider for business telecommunications.<ref>{{cite web|url=http://www.vitelity.com/blog/2015/09/official-onvoy-national-powerhouse-acquisition-broadvox/|title=It's Official: Onvoy Becomes National Powerhouse With Acquisition of Broadvox|date=September 3, 2015|access-date=September 29, 2016}}</ref>
+
+==Network and services==
+Zayo owns a fiber network that spans more than 130,000 route miles in North America and Europe. Zayo operates a [[Tier 1 network|Tier 1 IP network]], with settlement-free peering with all other Tier 1 providers. Additionally, Zayo operates 51 colocation facilities<ref>{{cite news|title=Zayo Acquires Dallas Based Provider, CoreXchange|url=http://www.thehostingnews.com/zayo-acquires-dallas-based-provider-corexchange-31066.html|access-date=June 2, 2014|publisher=The Hosting News|date=March 7, 2014}}</ref> with more than 1,000,000 sq. ft. of sellable space. Zayo's services include [[Dark fibre|dark fiber]], [[Wavelength-division multiplexing|wavelengths]], [[Synchronous optical networking|SONET]], [[Ethernet]], IP services, [[Colocation centre|colocation]], [[Backhaul (telecommunications)|wireless backhaul]] and [[small cell]]s.{{citation needed|date=April 2017}}
+
+==References==
+{{Reflist|30em}}
+
+[[Category:American companies established in 2007]]
+[[Category:Telecommunications companies established in 2007]]
+[[Category:2007 establishments in Colorado]]
+[[Category:Companies based in Boulder, Colorado]]
+[[Category:Telecommunications companies of the United States]]
+[[Category:Companies formerly listed on the New York Stock Exchange]]
+[[Category:2014 initial public offerings]]
+[[Category:Private equity portfolio companies]]
+[[Category:2020 mergers and acquisitions]]
+[[Category:Tier 1 networks]]

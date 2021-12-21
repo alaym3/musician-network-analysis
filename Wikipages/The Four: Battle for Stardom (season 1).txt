@@ -1,0 +1,945 @@
+{{Infobox television season
+| module1       = {{Infobox reality competition season
+| coaches       = {{ubl|[[Charlie Walk]]{{ref|1|1}}|[[Sean Combs]]|[[Meghan Trainor]]|[[DJ Khaled]]|}}
+| host          = [[Fergie (singer)|Fergie]]
+| finals_venue  =
+| winner        = Evvie McKinney
+| runner_up     = Candice Boyd
+}}
+| first_aired   = {{start date|2018|1|4}}
+| last_aired    = {{end date|2018|2|8}}
+| network       = [[Fox Broadcasting Company|FOX]]
+}}
+
+The first season of ''[[The Four: Battle for Stardom]]'' premiered on [[Fox Broadcasting Company|Fox]] on January 4, 2018. [[Fergie (singer)|Fergie]] hosted the show, while [[Sean Combs]], [[DJ Khaled]], [[Meghan Trainor]] and [[Charlie Walk]] were judges. Prior to the season finale, Walk withdrew from the show following sexual assault allegations against him.<ref>{{cite web|last1=Patten|first1=Dominic|title=Charlie Walk Officially Out of 'The Four' Finale On Fox|url=https://deadline.com/2018/01/fox-fires-charlie-walk-the-four-amid-sexual-harassment-allegation-1202274567/|website=Deadline|accessdate=18 February 2018|date=31 January 2018}}</ref>
+
+On February 8, 2018, the winner was announced as 20-year-old [[Evvie McKinney]] from [[Memphis, Tennessee]],<ref>{{cite web|title=Evvie McKinney crowned the first-ever winner of THE FOUR: BATTLE FOR STARDOM!|url=https://www.fox.com/the-four-battle-for-stardom/article/evvie-mckinney-crowned-the-first-ever-winner-of-the-four-battle-for-stardom-5a7df14d9b9899001208606a|website=Fox|date=February 8, 2018|accessdate=18 February 2018}}</ref> who was signed to [[Republic Records]] and named [[iHeartRadio]]'s "On the Verge" artist.<ref name="varietyfinale">{{cite web|last1=Chuba|first1=Kirsten|title=‘The Four’ Judges Talk More Genres, Returning Contestant Possibility in Season 2|url=https://variety.com/2018/tv/news/the-four-cast-season-two-finale-season-one-winner-1202693423/|website=[[Variety (magazine)|Variety]]|accessdate=18 February 2018}}</ref>
+
+==The Four==
+
+Key:
+:{{Color box|#F888FD|border=darkgray}} – Challenger against "The Four" won and secured a seat as a new member.
+:{{Color box|white|border=darkgray}} – Member of "The Four" did not perform.
+:{{Color box|#F3F781|border=darkgray}} – Member of "The Four" won the challenge and secured their seat.
+:{{colorbox|#FA8072|border=darkgray}} – Member of "The Four" lost the challenge and was eliminated.
+:{{Color box|lightgreen|border=darkgray}} – Challenger lost their challenge, and was originally eliminated, but received a second chance via #TheFourComeback.
+:{{Color box|lightgray|border=darkgray}} – Comeback Artist lost their opportunity to challenge one of "The Four" when another comeback artist defeated them.
+:{{Color box|darkgray|border=darkgray}} – Not in the competition.
+:{{Color box|skyblue|border=darkgray}} – Final member of “The Four”
+:<nowiki>*</nowiki> – Original member of "The Four"
+
+{| class="wikitable" style="text-align:center; width:30%;"
+|-
+! rowspan="3" style="width:12%;"| Artists
+! colspan="9" style="text-align:center;"| Episodes
+|-
+! rowspan="2" style="text-align:center; width:4%;"| 1
+! rowspan="2" style="text-align:center; width:4%;"| 2
+! rowspan="2" style="text-align:center; width:4%;"| 3
+! rowspan="2" style="text-align:center; width:4%;"| 4
+! colspan="2" style="text-align:center; width:4%;"| 5
+! colspan="2" style="text-align:center; width:4%;"| Finale
+|-
+! {{nowrap|Part 1}}{{ref|2|1}}
+! {{nowrap|Part 2}}
+! {{nowrap|Part 1}}
+! {{nowrap|Part 2}}
+|-
+! style="background:skyblue;"|Evvie McKinney
+| colspan="4" style="background:darkgray;"|
+| style="background:#F888FD;"|WIN
+| style="background:beige;"|N/A
+| style="background:#F3F781;"|SAFE
+| style="background:gold;"| WINNER
+|-
+! style="background:skyblue;"|Candice Boyd
+| colspan="1" style="background:darkgray;"|
+| style="background:#F888FD;"|WIN
+| style="background:#FA8072;"|OUT
+| colspan="1" style="background:darkgray;"|
+| style="background:lightgreen;"| SAVE
+| style="background:#F888FD;"|WIN
+| style="background:#F3F781;"|SAFE
+|  style="background:silver;"|RUNNER -UP
+|-
+! style="background:skyblue;"|[[Vincint|Vincint Cannady]]
+| colspan="4" style="background:darkgray;"|
+| style="background:#F888FD;"|WIN
+| style="background:beige;"|N/A
+| style="background:#FA8072;"|OUT
+| style="background:darkgray;"|
+|-
+! style="background:skyblue;"| [[Zhavia Ward]]
+| style="background:#F888FD;"|WIN
+| style="background:white;"|IN
+| style="background:#F3F781;"|SAFE
+| style="background:#FA8072;"|OUT
+| style="background:lightgreen;"| SAVE
+| style="background:#F888FD;"|WIN
+| style="background:#FA8072;"|OUT
+| style="background:darkgray;"|
+|-
+! Tim Johnson Jr.
+| colspan="2" style="background:darkgray;"|
+| style="background:#F888FD;"|WIN
+| IN
+| IN
+| style="background:#FA8072;"|OUT
+| colspan="2" style="background:darkgray;"|
+|-
+! Nick Harrison
+| colspan="3" style="background:darkgray;"|
+| style="background:#F888FD;"|WIN
+| IN
+| style="background:#FA8072;"|OUT
+| colspan="2" style="background:darkgray;"|
+|-
+! Ash Minor*
+| style="background:white;"|IN
+| style="background:#FA8072;"|OUT
+| colspan="2" style="background:darkgray;"|
+| style="background:lightgreen;"|SAVE
+| style="background:lightgray;"|LOSE
+| colspan="2" style="background:darkgray;"|
+|-
+! Saeed Renaud
+| style="background:#F888FD;"|WIN
+| style="background:#FA8072;"|OUT
+| colspan="2" style="background:darkgray;"|
+| style="background:lightgreen;"|SAVE
+| style="background:lightgray;"|LOSE
+| colspan="2" style="background:darkgray;"|
+|-
+! Kendyle Paige
+| colspan="3" style="background:darkgray;"|
+| style="background:#F888FD;"|WIN
+| style="background:#FA8072;"|OUT
+| colspan="3" style="background:darkgray;"|
+|-
+! Jason Warrior
+| colspan="1" style="background:darkgray;"|
+| style="background:#F888FD;"|WIN
+| style="background:#F3F781;"|SAFE
+| style="background:#F3F781;"|SAFE
+| style="background:#FA8072;"|OUT
+| colspan="3" style="background:darkgray;"|
+|-
+! Rell Jerv
+| colspan="2" style="background:darkgray;"|
+| style="background:#F888FD;"|WIN
+| style="background:#FA8072;"|OUT
+| colspan="5" style="background:darkgray;"|
+|-
+! Cheyenne Elliot
+| colspan="1" style="background:darkgray;"|
+| style="background:#F888FD;"|WIN
+| style="background:#FA8072;"|OUT
+| colspan="6" style="background:darkgray;"|
+|-
+! Lex Lu*
+| style="background:#F3F781;"|SAFE
+| style="background:#FA8072;"|OUT
+| colspan="7" style="background:darkgray;"|
+|-
+! Blair Perkins*
+| style="background:#FA8072;"|OUT
+| colspan="8" style="background:darkgray;"|
+|-
+! Elanese Lansen
+| style="background:#FA8072;"|OUT
+| colspan="8" style="background:darkgray;"|
+|-
+|}
+{{refbegin}}
+#{{note|2}} On January 29, a few days before episode 5, it was announced that via The hashtag #TheFourComeback, Zhavia, Ash Minor, Candice Boyd, and Saeed Renaud  received the most tweets and retweets, and would get another opportunity to earn a seat. During Part 1, they were officially brought back onto the show
+{{refend}}
+
+==Challenge Episodes==
+Key:
+:{{Color box|#FFE87C|border=darkgray}} – Artist secured a spot and has remained in "The Four".
+:{{Color box|lightblue|border=darkgray}} – Artist won their challenge, but was eventually eliminated from the competition.
+:{{Color box|pink|border=darkgray}} – Artist was eliminated from the competition.
+:{{Color box|lightgreen|border=darkgray}} – Artist lost their challenge, and was originally eliminated, but received a second chance via #TheFourComeback.
+
+===Week 1 (January 4)===
+*Group performance: "[[Can't Stop the Feeling!]]"
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|-
+|+ Starting lineup of The Four
+! Artist !! Age !! Hometown !! Starting seat
+|-style="background:lightblue;" 
+| Lex Lu
+| 32
+| [[Los Angeles]], [[California]]
+| Put in seat 1
+|-style="background:lightblue;" 
+| Ash Minor
+| 23
+| [[Ipswich, Australia]]
+| Put in seat 2
+|-style="background:lightblue;" 
+| Elanese Lansen
+| 22
+| [[Boca Raton, Florida]]
+| Put in seat 3
+|-style="background:lightblue;" 
+| Blair Perkins
+| 25
+| [[Los Angeles]], [[California]]
+| Put in seat 4
+|}
+
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|-
+|+ Artist performances on the first episode
+! Order !! Artist !! Age !! Hometown !! Song !! Judges' verdict !! Walk !! Trainor !! Combs !! Khaled
+|-style="background:pink;" 
+! 1
+| Tyler Griffin
+| 24
+| [[North Bergen, New Jersey]]
+| "[[Talk Dirty (Jason Derulo song)|Talk Dirty]]"
+| Eliminated
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-
+! 2
+| [[Zhavia Ward|Zhavia]]
+| 16
+| [[Los Angeles]], [[California]]
+| "[[Location (Khalid song)|Location]]"
+| Advanced
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-style="background:pink;" 
+! 3
+| Anthony Hall
+| 28
+| [[Delray Beach, Florida]]
+| "[[Feel It Still]]"
+| Eliminated
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-
+! 4
+| Illakriss
+| 21
+| [[Dallas]], [[Texas]]
+| "[[Let's Groove]]"
+| Advanced
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-style="background:pink;"
+! 5
+| Valentina Cytrynowicz
+| 19
+| [[Los Angeles]], [[California]]
+| "[[Green Light (Lorde song)|Green Light]]"
+| Eliminated
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-
+! 6
+| Saeed Renaud
+| 37
+| [[Brooklyn]], [[New York (state)|New York]]
+| "[[Run to You (Whitney Houston song)|Run to You]]"
+| Advanced
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|}
+
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|-
+|+ Challenge performances on the first episode
+! Order !! Artist !! Song !! Challenge result
+|-style="background:pink;" 
+! 2.1
+| Elanese Lansen
+| "[[Échame la Culpa]]"
+| Eliminated
+|-style="background:lightblue;" 
+! 2.2
+| [[Zhavia Ward|Zhavia]]
+| "[[Unforgettable (French Montana song)|Unforgettable]]"
+| Put in seat 3
+|-
+| colspan="4" style="background:darkgrey"|
+|-
+! 4.1
+| Lex Lu
+| "[[Wild Thoughts]]"
+| Safe
+|-style="background:pink;" 
+! 4.2
+| Illakriss
+| "[[Special Delivery (song)|Special Delivery]]"
+| Eliminated
+|-
+| colspan="4" style="background:darkgrey"|
+|-style="background:pink;" 
+! 6.1
+| Blair Perkins
+| "[[Stay with Me (Sam Smith song)|Stay with Me]]"
+| Eliminated
+|-style="background:lightblue;" 
+! 6.2
+| Saeed Renaud
+| "[[Love Me Again (John Newman song)|Love Me Again]]"
+| Put in seat 4
+|}
+
+=== Week 2 (January 11) ===
+*Group performance: "[[Free Your Mind (song)|Free Your Mind]]"
+
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|-
+|+ Artist performances on the second episode
+! Order !! Artist !! Age !! Hometown !! Song !! Judges' verdict !! Walk !! Trainor !! Combs !! Khaled
+|-
+! 1
+| Candice Boyd
+| 27
+| [[Rancho Cucamonga, California]]
+| "[[I'm Goin' Down (Mary J. Blige song)|I'm Goin' Down]]"
+| Advanced
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-style="background:pink;" 
+! 2
+| Stevie Brock
+| 27
+| [[North Hollywood, Los Angeles|North Hollywood, California]]
+| "[[Sugar (Maroon 5 song)|Sugar]]"
+| Eliminated
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|-
+! 3
+| Cheyenne Elliott
+| 23
+| [[New York City]], [[New York (state)|New York]]
+| "[[Wings (Little Mix song)|Wings]]"
+| Advanced
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-style="background:pink;"
+! 4
+| Cocoa Sarai
+| 28
+| Brooklyn, New York
+| "[[Jealous (Labrinth song)|Jealous]]"
+| Eliminated
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-style="background:pink;"
+! 5
+| Kayla Ember
+| 18
+| [[St. Petersburg, Florida]]
+| "[[Bad at Love]]"
+| Eliminated
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|-
+! 6
+| Jason Warrior
+| 22
+| [[Chicago]], [[Illinois]]
+| "[[Love Me Now (John Legend song)|Love Me Now]]"
+| Advanced
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|}
+
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|-
+|+ Challenge performances on the second episode
+! Order !! Artist !! Song !! Challenge result
+|-style="background:lightgreen;" 
+! 1.1
+| Ash Minor
+| "[[Adorn (song)|Adorn]]"
+| Eliminated
+|-style="background:lightblue;" 
+! 1.2
+| Candice Boyd
+| "[[Dangerous Woman (song)|Dangerous Woman]]"
+| Put in seat 2
+|-
+| colspan="4" style="background:darkgrey"|
+|-style="background:pink;" 
+! 3.1
+| Lex Lu
+| "[[Bad and Boujee]]"
+| Eliminated
+|-style="background:lightblue"
+! 3.1
+| Cheyenne Elliott
+| "[[Too Good at Goodbyes]]"
+| Put in seat 1
+|-
+| colspan="4" style="background:darkgrey"|
+|-style="background:lightgreen;" 
+! 6.1
+| Saeed Renaud
+| "[[Superstition (song)|Superstition]]"
+| Eliminated
+|-style="background:lightblue;"
+! 6.2
+| Jason Warrior
+| "[[Radioactive (Imagine Dragons song)|Radioactive]]"
+| Put in seat 4
+|}
+
+===Week 3 (January 18)===
+Note: This is the first time that all four members have been challenged.
+*Group performance: "[[Bang Bang (Jessie J, Ariana Grande and Nicki Minaj song)|Bang Bang]]"
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|-
+|+ Artist performances on the third episode
+! Order !! Artist !! Age !! Hometown !! Song !! Judges' verdict !! Walk !! Trainor !! Combs !! Khaled
+|-
+! 1
+| Rell Jerv
+| 24
+| [[Wilmington, Delaware]]
+| "Pools" (Original Song)
+| Advanced
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-style="background:pink;" 
+! 2
+| Sean Cavaliere
+| 18
+| [[Los Angeles]], [[California]]
+| "[[Stitches (Shawn Mendes song)|Stitches]]"
+| Eliminated
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|-
+! 3
+| Jefferson Clay
+| 23
+|[[Austin, Texas]]
+| "[[Undiscovered (James Morrison album)#Track listing|Better Man]]"
+| Advanced
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-
+! 4
+| Nicole Boggs
+| 30
+| [[Nashville, Tennessee]]
+| "[[Like I'm Gonna Lose You]]"
+| Advanced
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-
+! 5
+| Tim Johnson Jr.
+| 18
+| [[Philadelphia]], [[Pennsylvania]]
+| "[[Let's Stay Together (Al Green song)|Let's Stay Together]]"
+| Advanced
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-
+|}
+
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|-
+|+ Challenge performances on the third episode
+! Order !! Artist !! Song !! Challenge result
+|-style="background:pink;" 
+! 1.1
+| Cheyenne Elliot
+| "[[Wrecking Ball (Miley Cyrus song)|Wrecking Ball]]"
+| Eliminated
+|-style="background:lightblue;" 
+! 1.2
+| Rell Jerv
+| "I Own It"<br>(Original Song)
+| Put in seat 1
+|-
+| colspan="4" style="background:darkgrey"|
+|-
+! 3.1
+| Jason Warrior
+| "[[Love on the Brain]]"
+| Safe
+|-style="background:pink;"  
+! 3.2
+| Jefferson Clay
+| "[[Ignition (Remix)|Ignition]]"
+| Eliminated
+|-
+| colspan="4" style="background:darkgrey"|
+|-
+! 4.1
+| [[Zhavia Ward|Zhavia]]
+| "[[Killing Me Softly with His Song]]"
+| Safe
+|-style="background:pink;"
+! 4.2
+| Nicole Boggs
+| "[[Praying (song)|Praying]]"
+| Eliminated
+|-
+| colspan="4" style="background:darkgrey"|
+|-style="background:lightgreen;" 
+! 5.1
+| Candice Boyd
+| "[[Here (Alessia Cara song)|Here]]"
+| Eliminated
+|-style="background:lightblue;"
+! 5.2
+| Tim Johnson Jr.
+| "[[All I Want (Kodaline song)|All I Want]]"
+| Put in seat 2
+|}
+
+===Week 4 (January 25)===
+*Group performance: "[[Finesse (song)|Finesse]]"
+
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|-
+|+ Artist performances on the fourth episode
+! Order !! Artist !! Age !! Hometown !! Song !! Judges' verdict !! Walk !! Trainor !! Combs !! Khaled
+|-style="background:pink;" 
+! 1
+| Nicolina
+| 22
+| [[Orlando, Florida]]
+| "[[Don't Let Me Down (The Chainsmokers song)|Don't Let Me Down]]"
+| Eliminated
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|-
+! 2
+| RaVaughn
+| 30
+| [[Carson, California]]
+| "[[Sorry Not Sorry (Demi Lovato song)|Sorry Not Sorry]]"
+| Advanced
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-style="background:pink;" 
+! 3
+| Edi Callier
+| 22
+| [[Covington, Georgia]]
+| "[[Jealous (Nick Jonas song)|Jealous]]"
+| Eliminated
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|-
+! 4
+| Nick Harrison
+| 28
+| [[Sherman Oaks, California]]
+| "[[Bad Boy For Life]]"
+| Advanced
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-style="background:pink;" 
+! 5
+| Josh Wyper
+| 30
+| [[Vancouver]], [[Canada]]
+| "[[Tennessee Whiskey (song)|Tennessee Whiskey]]"
+| Eliminated
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|style="text-align:center;"|[[File:Crystal Clear action button cancel.svg|20px]]
+|-
+! 6
+| Kendyle Paige
+| 20
+| [[Circleville, New York]]
+| "[[Me, Myself & I (G-Eazy and Bebe Rexha song)|Me, Myself & I]]"
+| Advanced
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-
+|}
+
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|-
+|+ Challenge performances on the fourth episode
+! Order !! Artist !! Song !! Challenge result
+|-
+! 2.1
+| Jason Warrior
+| "[[Titanium (song)|Titanium]]"
+| Safe
+|-style="background:pink;" 
+! 2.2
+| RaVaughn
+| "[[Have You Ever?]]"
+| Eliminated
+|-
+| colspan="4" style="background:darkgrey"|
+|-style="background:pink;" 
+! 4.1
+| Rell Jerv
+| "Feeling Alright" (Original Song)
+| Eliminated
+|-style="background:lightblue;"
+! 4.2
+| Nick Harrison
+| "[[Survival of the Fittest (song)|Survival of the Fittest]]"
+| Put in seat 1
+|-
+| colspan="4" style="background:darkgrey"|
+|-style="background:lightgreen;" 
+! 6.1
+| [[Zhavia Ward|Zhavia]]
+| "[[Diamonds (Rihanna song)|Diamonds]]"
+| Eliminated
+|-
+|-style="background:lightblue"
+! 6.2
+| Kendyle Paige
+| "[[Pillowtalk (song)|PILLOWTALK]]"
+| Put in seat 3
+|-
+|}
+
+===Week 5 (February 1)===
+This week featured two distinct parts. The first part was the same format as the previous weeks. However, in the second part, four previously eliminated artists received an opportunity to earn a chance to challenge a member of "The Four" another time.
+*Group performance: "[[I Gotta Feeling]]" (With Fergie)
+
+====Part 1: New Artist Challenges====
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|-
+|+ Artist performances on the fifth episode
+! Order !! Artist !! Age !! Hometown !! Song !! Judges' verdict !! Walk !! Trainor !! Combs !! Khaled
+|-
+! 1
+| Vincint Cannady
+| 26
+| [[Philadelphia]], [[Pennsylvania]]
+| "[[Magic (Coldplay song)|Magic]]"
+| Advanced
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|- 
+! 2
+| Evvie McKinney
+| 20
+| [[Memphis, Tennessee]]
+| "[[Rise Up (Andra Day song)|Rise Up]]"
+| Advanced
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|style="text-align:center;"|[[File:Crystal Clear app clean.png|20px]]
+|-
+|}
+
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|-
+|+ Challenge performances on the fifth episode
+! Order !! Artist !! Song !! Challenge result
+|-style=background:pink;"
+! 1.1
+| Jason Warrior
+| "[[Ordinary People (John Legend song)|Ordinary People]]"
+| Eliminated
+|-style="background:#FFE87C;"
+! 1.2
+| Vincint Cannady
+| "[[Sittin' Up In My Room]]"
+| Put in seat 4
+|-
+| colspan="4" style="background:darkgrey"|
+|-style=background:pink;"
+! 2.1
+| Kendyle Paige
+| "[[Stay (Zedd and Alessia Cara song)|Stay]]"
+| Eliminated
+|-style="background:#FFE87C;"
+! 2.2
+| Evvie McKinney
+| "[[I Never Loved a Man the Way I Love You]]"
+| Put In Seat 3
+|-
+|}
+
+====Part 2: Comeback Artist Performances====
+Throughout the run of the season, viewers voted for their favorite eliminated members of "The Four" on Twitter using the hashtag #TheFourComeback and another hastag with the artist's first name. On January 29, FOX posted a video on the show's YouTube channel, which announced that Ash Minor, Candice Boyd, Saeed Renaud, and Zhavia had been the top four vote-getters and would be returning to the competition.
+
+In Part 2, the four comeback artists were put into two pairs. Each pair had to battle for the judges' unanimous vote to move on. Once the judges picked which of the two comeback artists would move on, each winner challenged one of the remaining members of "The Four."
+
+{| class="wikitable plainrowheaders" style="text-align: center; width:100%;"
+|+Comeback Artist Battle Results
+|-
+! Order
+! Artist
+! Song
+! Result
+|-style="background:pink;"
+! 3.1
+| Saeed Renaud
+| "[[All My Life (K-Ci & JoJo song)|All My Life]]"
+| Eliminated
+|-
+! 3.2
+| Candice Boyd
+| "[[Love (Keyshia Cole song)|Love]]"
+| Advanced
+|-
+| colspan="4" style="background:darkgray;"|
+|-style="background:pink;"
+! 4.1
+| Ash Minor
+| "[[When I Was Your Man]]"
+| Eliminated
+|-
+! 4.2
+| [[Zhavia Ward|Zhavia]]
+| "[[Bodak Yellow]]"
+| Advanced
+|-
+|}
+
+{| class="wikitable plainrowheaders" style="text-align: center; width:100%;"
+|+ Comeback Artist Challenge Performance Results
+|-
+! Order
+! Artist
+! Song
+! Result
+|-style="background:pink;"
+! 5.1
+| Nick Harrison
+| "[[All The Way Up (Fat Joe song)|All The Way Up]]"
+| Eliminated
+|-style="background:#FFE87C;"
+! 5.2
+| Candice Boyd
+| "[[Ex-Factor]]
+| Put in Seat 1
+|-
+| colspan="4" style="background:darkgray;"|
+|-style="background:pink;"
+! 6.1
+| Tim Johnson Jr.
+| "[[Earned It (Fifty Shades of Grey)]]"
+| Eliminated
+|-style="background:#FFE87C;"
+! 6.2
+| [[Zhavia Ward|Zhavia]]
+| "[[Say Something (A Great Big World song)|Say Something]]"
+| Put in Seat 2
+|-
+|}
+
+==Finale==
+===Week 6 (February 8)===
+*Group performance: "[[The Edge of Glory]]"
+
+====Part 1: Head-to-Head Battles====
+In Part 1, the finalists each performed two songs. For the first song, each finalist performed in hopes of winning over the audience. After performing, the audience voted on their favorite performance, and the finalist with the most votes earned the power to choose who they wanted to battle against in the head-to-head challenge. For their second song, each selected pair went head-to-head. The judges picked a winner from each pair to move on to the final battle.
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|-
+|+ Selection Power Performances
+! Order
+! Artist
+! Song
+! Result
+! Opponent
+|-
+|-
+! 1
+| Candice Boyd
+| "[[Don't Speak]]"
+| Did not receive
+| '''Vincint'''
+|-bgcolor=yellow
+! 2
+| Evvie McKinney
+| "[[Proud Mary]]"
+| Selected Zhavia
+| '''Zhavia'''
+|-
+! 3
+| Vincint Cannady
+| "[[Creep (Radiohead song)|Creep]]"
+| Did not receive
+| '''Candice'''
+|-
+! 4
+| [[Zhavia Ward|Zhavia]]
+| "[[One Dance]]"
+| Did not receive
+| '''Evvie'''
+|}
+EVVIE V. ZHAVIA 
+
+WIN         LOSE
+
+VINCINT CANDICE
+
+LOSE       WIN
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|-
+|+Non-Competition Performances
+! Order
+! Artist
+! Song
+|-
+| 6.1
+| French Montana
+| "[[Unforgettable (French Montana song)|Unforgettable]]" & "[[Famous (French Montana song)|Famous]]"
+|}
+
+====Part 2: The Final Battle====
+For the final battle, the two finalists performed once more for the votes of the judges. The winner of this battle would be crowned the winner of The Four.
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|-
+|+Final Head-to-head Performance Results
+! Order
+! Artist
+! Song
+! Result
+|-style="background:gold;"
+! 9
+| Evvie McKinney
+| "[[Glory (Common and John Legend song)|Glory]]"
+| Winner
+|-style="background:silver;"
+! 10
+| Candice Boyd
+| "[[Stay (Rihanna song)|Stay]]"
+| Runner-Up
+|-
+|}
+
+==Artists who appeared on previous shows==
+*Jason Warrior was on the [[The Voice (U.S. season 11)|eleventh season]] of ''[[The Voice (U.S. TV series)|The Voice]]'' and reached the live playoffs, but was eliminated.
+*Ash Minor from [[Brisbane, Australia]] made the top 12 on X Factor Australia in 2012 under his real name (Adil Memon) and is now accompanied by Cam Noble from [[Melbourne, Australia]].
+*Elanese Lansen was a contestant on the U.S. version of X Factor in 2013.  There is no footage of her performances, but there is an interview package on YouTube entitled "Yes, I Made It!"
+*Blair Perkins previously auditioned for the [[American Idol (season 12)|twelfth season]] of ''American Idol'' and made it to Hollywood Week.
+
+==Famous Relations==
+*Evvie McKinney is the younger sister of singer Gedeon McKinney, who finished in the top 16 of the [[American Idol (season 5)|fifth season]] of [[American Idol]].
+*Cheyenne Elliott is the granddaughter of singer [[Dionne Warwick]] who later competed on [[The Masked Singer (American season 3)|The Masked Singer]] as the Mouse being eliminated in the second round.
+
+==Ratings==
+{| class="wikitable" style="text-align:center;"
+|-
+! style="background:#8b1c10; color:#fff;" rowspan="2" colspan="2" | Episode
+! style="background:#8b1c10; color:#fff;" rowspan="2" | Original airdate
+! style="background:#8b1c10; color:#fff;" rowspan="2" | Time slot <small>(ET)</small>
+! style="background:#8b1c10; color:#fff;" rowspan="2" | Viewers<br><small>{{nobold|(''in millions'')}}</small>
+! style="background:#8b1c10; color:#fff;" colspan="2" | Adults <small>(18–49)</small>
+! rowspan="2" style="background:#8b1c10; color:#fff;"| Source
+|-
+! style="background:#8b1c10; color:#fff;" | Rating
+! style="background:#8b1c10; color:#fff;" | Share
+|-
+| 1
+| "Week One"
+| January 4, 2018
+| rowspan="6"| Thursday 8:00&nbsp;p.m.
+| 3.75
+| 1.2
+| 4
+| <ref>{{cite web|url=http://tvbythenumbers.zap2it.com/daily-ratings/thursday-final-ratings-jan-4-2018/|archive-url=https://web.archive.org/web/20180108232650/http://tvbythenumbers.zap2it.com/daily-ratings/thursday-final-ratings-jan-4-2018/|url-status=dead|archive-date=January 8, 2018|title=‘The Four,’ ‘Will & Grace,’ everything else unchanged: Thursday final ratings|publisher=[[TV by the Numbers]]|last=Porter|first=Rick|date=January 8, 2018|accessdate=January 8, 2018}}</ref>
+|-
+| 2
+| "Week Two"
+| January 11, 2018
+| 3.29
+| 1.1
+| 4
+| <ref>{{cite web|url=http://tvbythenumbers.zap2it.com/daily-ratings/thursday-final-ratings-jan-11-2018/|archive-url=https://web.archive.org/web/20180113025539/http://tvbythenumbers.zap2it.com/daily-ratings/thursday-final-ratings-jan-11-2018/|url-status=dead|archive-date=January 13, 2018|title=‘Big Bang Theory,’ ‘Young Sheldon’ and ‘The Four’ adjust up: Thursday final ratings|publisher=[[TV by the Numbers]]|last=Porter|first=Rick|date=January 12, 2018|accessdate=January 12, 2018}}</ref>
+|-
+| 3
+| {{nowrap|"Week Three"}}
+| January 18, 2018
+| 3.47
+| 1.1
+| 4
+| <ref>{{cite web|url=http://tvbythenumbers.zap2it.com/daily-ratings/thursday-final-ratings-jan-18-2018/|archive-url=https://web.archive.org/web/20180123072201/http://tvbythenumbers.zap2it.com/daily-ratings/thursday-final-ratings-jan-18-2018/|url-status=dead|archive-date=January 23, 2018|title=‘Grey’s Anatomy’ adjusts up, ‘The Four,’ ‘Scandal’ and ‘Great News’ down: Thursday final ratings|publisher=[[TV by the Numbers]]|last=Porter|first=Rick|date=January 22, 2018|accessdate=January 22, 2018}}</ref>
+|-
+| 4
+| "Week Four"
+| January 25, 2018
+| 3.69
+| 1.2
+| 5
+| <ref>{{cite web|url=http://tvbythenumbers.zap2it.com/daily-ratings/thursday-final-ratings-jan-25-2018/|archive-url=https://web.archive.org/web/20180126234732/http://tvbythenumbers.zap2it.com/daily-ratings/thursday-final-ratings-jan-25-2018/|url-status=dead|archive-date=January 26, 2018|title=‘‘Grey’s Anatomy’ adjusts up, ‘Big Bang Theory’ rerun adjusts down: Thursday final ratings|publisher=[[TV by the Numbers]]|last=Porter|first=Rick|date=January 26, 2018|accessdate=January 26, 2018}}</ref>
+|-
+| 5
+| "Week Five"
+| February 1, 2018
+| 3.76
+| 1.3
+| 5
+| <ref>{{cite web|url=http://tvbythenumbers.zap2it.com/daily-ratings/thursday-final-ratings-feb-1-2018/|archive-url=https://web.archive.org/web/20180202231741/http://tvbythenumbers.zap2it.com/daily-ratings/thursday-final-ratings-feb-1-2018/|url-status=dead|archive-date=February 2, 2018|title=‘‘Big Bang Theory,’ ‘The Four’ adjust up, ‘Mom’ and ‘AP Bio’ adjust down: Thursday final ratings|publisher=[[TV by the Numbers]]|last=Porter|first=Rick|date=February 1, 2018|accessdate=February 2, 2018}}</ref>
+|-
+| 6
+| "Week Six"
+| February 8, 2018
+| 4.03
+| 1.3
+| 5
+| <ref>{{cite web|url=http://tvbythenumbers.zap2it.com/daily-ratings/tv-ratings-thursday-feb-8-2018/|archive-url=https://web.archive.org/web/20180209205551/http://tvbythenumbers.zap2it.com/daily-ratings/tv-ratings-thursday-feb-8-2018/|url-status=dead|archive-date=February 9, 2018|title=Olympics adjust up: Thursday final ratings|publisher=[[TV by the Numbers]]|last=Porter|first=Rick|date=February 9, 2018|accessdate=February 9, 2018}}</ref>
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Four, The 1}}
+[[Category:2018 American television seasons]]

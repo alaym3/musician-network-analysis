@@ -1,0 +1,372 @@
+{{Short description|Free-reed organ musical instrument}}
+{{redirect-several|dab=off|Harmonium (disambiguation)|Melodeon (disambiguation)}}
+[[File:John Church and Co. reed organ.jpg|thumb|John Church and Co. pump organ]]
+[[File:Lisa Alvarado Kongsberg Jazzfestival 2019 (194515).jpg|thumb |''Harmonium'', a hand-pumped organ, of the type used in South Asia, here used at a European jazz festival.]]
+The '''pump organ''' is a type of [[free reed aerophone|free-reed]] [[Organ (music)|organ]] that generates sound as air flows past a vibrating piece of thin metal in a frame. The piece of metal is called a reed. Specific types of pump organ include the reed organ, harmonium, and melodeon. The idea for the free reed was imported from China through Russia after 1750, and the first Western free-reed instrument was made in 1780 in Denmark.<ref name=sachs1>{{cite book |title= The History of Musical Instruments |last=Sachs |first= Kurt |publisher= W. W. Norton & Company |place= New York |date= 1940|pages= 184, 406–407 }}</ref><ref name=Kratzenstein>{{cite web |first= P. R. |last= Missin | url=http://www.patmissin.com/history/western.html | title=Western Free Reed Instruments| access-date=2010-08-06}}</ref>
+
+More portable than [[pipe organ]]s, free-reed organs were widely used in smaller churches and in private homes in the 19th century, but their volume and tonal range were limited. They generally had one or sometimes two [[Manual (music)|manuals]], with [[pedal keyboard|pedal-boards]] being rare. The finer pump organs had a wider range of tones, and the [[Cabinet (furniture)|cabinets]] of those intended for churches and affluent homes were often excellent pieces of furniture. Several million free-reed organs and melodeons were made in the US and Canada between the 1850s and the 1920s, some which were exported.<ref>{{Cite news|date=1899-09-01|title=Carpenter Organ Company (1899)|pages=4|work=Vermont Phoenix|url=https://www.newspapers.com/clip/64159549/carpenter-organ-company-1899/|access-date=2020-11-29}}</ref> During this time [[Estey Organ]] and [[Mason & Hamlin]] were popular manufacturers.
+
+Alongside the furniture-sized instruments of the west, smaller designs exist. The portable, hand-pumped '''harmonium''' or '''samvadini''' is a major instrument on the [[Indian Subcontinent]] developed by Indians to meet local needs. The craftsmen created a harmonium that a single person could carry, with added microtones.
+
+==History==
+{{multiple image|caption_align=center|header_align=center
+ | align = right
+ | image1 = Sheng MET DP216617.jpg
+ | width1 = 110
+ | alt1 = Chinese [[Sheng (instrument)|Sheng]] mouth organ, used the oriental free reeds.
+ | caption1 = Chinese [[Sheng (instrument)|Sheng]] mouth organ.
+
+ | image2 = Melodeon MET 219840.jpg
+ | width2 = 123
+ | alt2 = Free reed tongue
+ | caption2  =[[Free reed aerophone|Free reed]] from an 1860s melodeon.}}
+
+During the first half of the 18th century, a [[Free reed aerophone|free-reed]] [[mouth organ]] was called a sheng was brought to Russia.<ref name=sachs1/> That instrument received attention, due to its use by [[Johann Wilde]].<ref name=sachs1/> The instrument's free-reed was unknown in Europe at the time, and the concept quickly spread from Russia across Europe.<ref name=sachs1/> [[Christian Gottlieb Kratzenstein]] (1723–1795), professor of physiology at [[University of Copenhagen|Copenhagen]], was credited with the first free-reed instrument made in the Western world, after winning the annual prize in 1780 from the Imperial Academy of St. Petersburg.<ref name=Kratzenstein/> According to [[Curt Sachs]], Kratzenstein suggested that the instrument be made, but that the first organ with free reeds was made by [[Abbé Georg Joseph Vogler]] in [[Darmstadt]].<ref name=sachs1/> The harmonium's design incorporates free reeds and derives from the earlier [[Regal (instrument)|regal]]. A harmonium-like instrument was exhibited by Gabriel-Joseph Grenié (1756–1837) in 1810.  He called it an ''orgue expressif'' (expressive organ), because his instrument was capable of greater expression, as well as of producing a [[crescendo]] and [[Dynamics (music)#Gradual changes|diminuendo]]. [[Alexandre Debain]] improved Grenié's instrument and gave it the name harmonium when he patented his version in 1840.<ref name=nie>{{Cite NIE|wstitle=Harmonium|year=1905}}</ref> There was concurrent development of similar instruments.<ref>{{cite web | url=http://www.harmoniums.com/hist_en.htm | title=History of the reed organ | access-date=2010-08-06}}</ref> A mechanic who had worked in the factory of Alexandre in Paris emigrated to the United States and conceived the idea of a suction bellows, instead of the ordinary bellows that forced the air outward through the reeds. Beginning in 1885, the firm of [[Mason & Hamlin]], of [[Boston]] made their instruments with the suction bellows, and this method of construction soon superseded all others in America.<ref name=nie/>
+
+[[File:Beatty's Parlor Organ ad 1882.jpg|thumb|left|Beatty's Parlor Organ, 1882]]
+
+The term melodeon was applied to concert saloons in the Victorian American West because of the use of the reed instrument. The word became a common designation of that type of resort that offered entertainment to men. <ref> Asbury, Herbert, The Barbary Coast, (Alfred Knopf, 1933), 105</ref>
+
+Harmoniums reached the height of their popularity in the West in the late 19th and early 20th centuries. They were especially popular in small [[Church (building)|churches]] and [[chapel]]s where a [[pipe organ]] would be too large or expensive; in the funeral-''in-absentia'' scene from [[Mark Twain]]'s ''[[The Adventures of Tom Sawyer]]'', the protagonist narrates that the church procured a "melodeum" (a conflation, likely intended by Twain for satirical effect{{cn|date=August 2020}}, of the names "melodeon" and "harmonium") for the occasion.  Harmoniums generally weigh less than similar sized [[piano]]s and are not easily damaged in transport, thus they were also popular throughout the [[colonies]] of the European powers in this period not only because it was easier to ship the instrument out to where it was needed, but it was also easier to transport overland in areas where good-quality roads and railways may have been non-existent. An added attraction of the harmonium in tropical regions was that the instrument held its tune regardless of heat and humidity, unlike the piano. This "export" market was sufficiently lucrative for manufacturers to produce harmoniums with cases impregnated with chemicals to prevent [[woodworm]] and other damaging organisms found in the tropics.{{cn|date=August 2020}}
+
+[[Image:Harmonium 20151009 (23914086965).jpg|thumb|right|Modern portable harmonium with 9 [[organ stop|air stop]] knobs]]
+At the peak of the instruments' Western popularity around 1900, a wide variety of styles of harmoniums were being produced. These ranged from simple models with plain cases and only four or five [[organ stop|stops]] (if any at all), up to large instruments with ornate cases, up to a dozen stops and other mechanisms such as [[Pipe organ#Couplers|couplers]]. Expensive harmoniums were often built to resemble pipe organs, with ranks of fake pipes attached to the top of the instrument.{{cn|date=August 2020}} Small numbers of harmoniums were built with two manuals (keyboards).  Some were even built with pedal keyboards, which required the use of an assistant to run the bellows or, for some of the later models, an electrical pump. These larger instruments were mainly intended for home use, such as allowing [[organist]]s to practise on an instrument on the scale of a pipe organ, but without the physical size or volume of such an instrument. For missionaries, chaplains in the armed forces, travelling evangelist etc., reed organs that folded up into a container the size of a very large suitcase or small trunk were made; these had a short keyboard and few stops, but they were more than adequate for keeping hymn singers more or less on pitch.{{cn|date=August 2020}}
+
+The invention of the [[electronic organ]] in the mid-1930s spelled the end of the harmonium's success in the West, although its popularity as a household instrument had already declined in the 1920s as musical tastes changed {{cn|date=August 2020}}. The [[Hammond organ]] could imitate the tonal quality and range of a pipe organ whilst retaining the compact dimensions and cost-effectiveness of the harmonium as well as reducing maintenance needs and allowing a greater number of stops and other features. By this time, harmoniums had reached high levels of mechanical complexity, not only through the demand for instruments with a greater tonal range, but also due to patent laws (especially in North America). It was common for manufacturers to patent the action mechanism used on their instruments, thus requiring any new manufacturer to develop their own version;{{cn|date=January 2021}} as the number of manufacturers grew, this led to some instruments having hugely complex arrays of levers, cranks, rods and shafts, which made replacement with an electronic instrument even more attractive.
+
+The last mass-producer of harmoniums in North America was the [[Estey Piano Corp|Estey]] company, which ceased manufacture in the mid-1950s; a couple of Italian companies continued into the 1970s.  As the existing stock of instruments aged and spare parts became hard to find, more and more were either scrapped or sold. It was not uncommon for harmoniums to be "modernised" by having electric blowers fitted, often very unsympathetically.{{cn|date=August 2020}} The majority of Western harmoniums today are in the hands of enthusiasts, though the instrument still remains popular in [[South Asia]].{{cn|date=August 2020}}
+
+Modern [[electronic keyboard]]s can emulate the sound of the pump organ.
+
+==Acoustics==
+[[Image:4ft+8ftReeds.JPG|thumb|Two reeds from a Mason & Hamlin reed organ.]]
+The acoustical effects described below are a result of the free-reed mechanism. Therefore, they are essentially identical for the Western and Indian harmoniums and the reed organ. In 1875, [[Hermann von Helmholtz]] published his seminal book, ''On the Sensations of Tone'', in which he used the harmonium extensively to test different tuning systems:<ref>Helmholtz, L. F., and Ellis, A., ''On the Sensations of Tone'', London: Longmans, Green, And Co., 1875.</ref>
+<blockquote>"Among musical instruments, the harmonium, on account of its uniformly sustained tone, the piercing character of its quality of tone, and its tolerably distinct [[Combination tone|combinational tones]], is particularly sensitive to inaccuracies of intonation. And as its vibrators also admit of a delicate and durable tuning, it appeared to me peculiarly suitable for experiments on a more perfect system of tones."<ref>Helmholtz, H. L. F., 1875, p. 492, Part III, Justly-Intoned Harmonium.</ref></blockquote>
+
+Using two manuals and two differently tuned stop sets, he was able to simultaneously compare [[Pythagorean tuning|Pythagorean]] to [[Just intonation|just]] and to [[Equal temperament|equal-tempered]] tunings and observe the degrees of [[inharmonicity]] inherent to the different [[Musical temperament|temperaments]]. He subdivided the octave to 28 tones, to be able to perform [[Modulation (music)|modulations]] of 12 minor and 17 major keys in just intonation without going into harsh [[Consonance and dissonance|dissonance]] that is present with the standard octave division in this tuning.<ref>Helmholtz, H. L. F., 1875, p. 634, Appendix. XVII.</ref> This arrangement was difficult to play on.<ref>Helmholtz, H. L. F., 1875, p. 682, Appendix. XIX.</ref> Additional modified or novel instruments were used for experimental and educational purposes; notably, [[Robert Holford Macdowall Bosanquet|Bosanquet]]'s ''[[Generalized keyboard]]'' was constructed in 1873 for use with a [[53 equal temperament|53-tone scale]]. In practice, that harmonium was constructed with 84 keys, for convenience of [[Fingering (music)|fingering]]. Another famous reed organ that was evaluated was built by [[Henry Ward Poole|Poole]].<ref>Helmholtz, H. L. F., 1875, p. 677, Appendix. XIX.</ref>
+
+[[John William Strutt, 3rd Baron Rayleigh|Lord Rayleigh]] also used the harmonium to devise a method for indirectly measuring frequency accurately, using approximated known equal temperament intervals and their [[overtone]] [[Beat (acoustics)|beats]].<ref>{{cite journal
+|author= Rayleigh
+|date=Jan 1879
+|title= On the determination of absolute pitch by the common harmonium
+|journal= Nature
+|volume= 19
+|pages= 275–276
+|issue= 482
+|doi=10.1038/019275c0|bibcode=1879Natur..19R.275.
+|doi-access= free
+}}</ref> The harmonium had the advantage of providing clear overtones that enabled the reliable counting of beats by two listeners, one per note.  However, Rayleigh acknowledged that maintaining constant pressure in the bellows is difficult and fluctuation of the pitch often occurs as a result.
+
+[[File:Sunday School Organ in Barratt's Chapel Museum, Frederica, Delaware.jpg | thumb|right | Portable 19th-century reed organ with one rank of reeds]]
+
+In the generation of its tones, a reed organ is similar to an [[accordion]] or [[concertina]], but not in its installation, as an accordion is held in both hands whereas a reed organ is usually positioned on the floor in a wooden casing (which might make it mistakable for a piano at the very first glimpse).  Reed organs are operated either with pressure or with suction bellows. Pressure bellows permit a wider range to modify the volume, depending on whether the pedaling of the bellows is faster or slower. In North America and the United Kingdom, a reed organ with pressure bellows is referred to as a harmonium, whereas in continental Europe, any reed organ is called a harmonium regardless of whether it has pressure or suction bellows. As reed organs with pressure bellows were more difficult to produce and therefore more expensive, North American and British reed organs and melodeons generally use suction bellows and operate on vacuum.
+
+Reed organ frequencies depend on the blowing pressure; the [[fundamental frequency]] ''decreases'' with medium pressure compared to low pressure, but it ''increases'' again at high pressures by several hertz for the bass notes measured.<ref>{{cite conference
+ |author       = Cottingham, J. P., Reed, C. H. & Busha, M.
+ |date         = Mar 1999
+ |url          = http://www.public.coe.edu/~jcotting/BERLIN2.PDF
+ |title        = Variation of frequency with blowing pressure for an air-driven free reed
+ |conference     = Collected Papers of the 137th Meeting of the Acoustical Society of America and the 2nd Convention of the European Acoustics Association: Forum Acusticum, Berlin
+ |volume = 105
+ |issue = 2
+ |page = 1001
+ |doi = 10.1121/1.425800
+ |bibcode = 1999ASAJ..105R1001C
+ |access-date  = 2012-12-18
+ |archive-url  = https://web.archive.org/web/20120326071056/http://www.public.coe.edu/~jcotting/BERLIN2.PDF
+ |archive-date = 2012-03-26
+ |url-status     = dead
+}}</ref> American reed organ measurements showed a sinusoidal oscillation with sharp pressure transitions when the reed bends above and below its frame.<ref name="Cott07">{{cite journal
+ |author       = Cottingham, J. P.
+ |date         = Sep 2007
+ |url          = http://www.public.coe.edu/~jcotting/ICA2007%20Free%20Reed.pdf
+ |title        = Reed Vibration in Western Free-Reed Instruments
+ |journal      = Proceedings of the International Congress on Acoustics (ICA2007), Madrid, Spain
+ |access-date  = 2012-12-18
+ |archive-url  = https://web.archive.org/web/20120326071139/http://www.public.coe.edu/~jcotting/ICA2007%20Free%20Reed.pdf
+ |archive-date = 2012-03-26
+ |url-status     = dead
+}}</ref> The fundamental itself is nearly the [[mechanical resonance]] frequency of the reed.<ref>{{cite book
+|author1=Fletcher, N. H.  |author2=Rossing, T. D.
+ |name-list-style=amp |year= 1998
+|title= The physics of musical instruments, 2nd ed.
+|page= 414
+|publisher= Springer Science+Media Inc.}}</ref>  The overtones of the instrument are [[harmonics]] of the fundamental, rather than inharmonic,<ref name="hilaire76">{{cite journal
+|author1=St. Hilaire |author2=A. O. |year= 1976
+|title= Analytical prediction of the non-linear response of a self-excited structure
+|journal= Journal of Sound and Vibration
+|volume= 47 
+|issue= 2
+|pages= 185–205
+|doi=10.1016/0022-460x(76)90717-3|bibcode=1976JSV....47..185S }}</ref> although a weak inharmonic overtone (6.27''f'') was reported too.<ref name="Cott99">{{cite conference
+ |author       = Cottingham, J. P., Lilly, J. & Reed, C. H.
+ |date         = Mar 1999
+ |url          = http://www.public.coe.edu/~jcotting/BERLIN1.PDF
+ |title        = The motion of air-driven free reeds
+ |conference     = Collected Papers of the 137th Meeting of the Acoustical Society of America and the 2nd Convention of the European Acoustics Association: Forum Acusticum, Berlin
+ |volume = 105
+ |issue = 2
+ |page = 940
+ |doi = 10.1121/1.426334
+ |bibcode = 1999ASAJ..105..940C
+ |access-date  = 2012-12-18
+ |archive-url  = https://web.archive.org/web/20120326071205/http://www.public.coe.edu/~jcotting/BERLIN1.PDF
+ |archive-date = 2012-03-26
+ |url-status     = dead
+}}</ref> The fundamental frequency comes from a [[Transverse wave|transverse]] [[Normal mode|mode]], whereas weaker higher transverse and [[Torsion (mechanics)|torsional]] modes were measured too.<ref name="Paquette">{{cite conference
+ |author1       = Paquette, A
+ |author2       = Cottingham, J. P.
+ |name-list-style = amp
+ |date          = Nov 2003
+ |url           = http://www.public.coe.edu/~jcotting/Ammon-2003.pdf
+ |title         = Modes of Vibration of Air-driven Free Reeds in Steady State and Transient Oscillation
+ |conference       = 137th Meeting of the Acoustical Society of America, Austin Texas
+ |doi = 10.1121/1.4781137
+ |access-date   = 2012-12-18
+ |archive-url   = https://web.archive.org/web/20120326071319/http://www.public.coe.edu/~jcotting/Ammon-2003.pdf
+ |archive-date  = 2012-03-26
+ |url-status      = dead
+}}</ref> Any torsional modes are excited because of a slight asymmetry in the reed's construction. During attack, it was shown that the reed produces most strongly the fundamental, along with a second transverse or torsional mode, which are transient.<ref name="Paquette" />
+
+Radiation patterns and [[coupling]] effects between the sound box and the reeds on the timbre appear not to have been studied to date.
+
+The unusual reed-vibration physics have a direct effect on harmonium playing, as the control of its dynamics in playing is restricted and subtle. The free reed of the harmonium is riveted from a metal frame and is subjected to airflow, which is pumped from the bellows through the reservoir, pushing the reed and bringing it to [[self-exciting oscillation]] and to sound production in the direction of airflow.<ref name="Cott07" /> This particular [[aerodynamics]] is [[Nonlinear system|nonlinear]] in that the maximum [[Displacement (vector)|displacement]] [[amplitude]] in which the reed can vibrate is limited by fluctuations in [[Damping ratio|damping forces]], so that the resultant sound pressure is rather constant.<ref name="hilaire76" /> Additionally, there is a threshold pumping pressure, below which the reed vibration is minimal.<ref name="Cott99" /> Within those two thresholds, there is an [[exponential growth]] and [[Exponential decay|decay]] in time of reed amplitudes .<ref>{{cite journal
+|author= St. Hilaire, A. O., Wilson, T. A. & Beavers, G. B. 
+|year= 1971
+|title= Aerodynamic excitation of the harmonium reed
+|journal= Journal of Fluid Mechanics
+|volume= 49 
+|issue= 4
+|pages= 803–816
+|doi=10.1017/s0022112071002374|bibcode= 1971JFM....49..803H
+}}</ref>
+
+==Repertory==
+[[image:Reykholt 09.jpg|thumb|upright|A Victorian-era pump organ]]
+[[Image:Memmingen Unser Frauen Steinmeyer-Harmonium 2.jpg|thumb|upright|A smaller variety of pump organ]]
+[[Image:The church of St Mary in East Walton - harmonium - geograph.org.uk - 1745270.jpg|thumb|A [[Mason and Hamlin|Mason & Hamlin]] pump organ]]
+[[Image:Footpropelled organ.jpg|thumb|A pump organ]]
+
+The harmonium was considered by [[Curt Sachs]] to be an important instrument for music of [[Romanticism#Music|Romanticism]] (1750s-1900), which "vibrated between two poles of expression" and "required the overwhelming power and strong accents of wind instruments."<ref name=sachs1/>
+
+Harmonium compositions are available by European and American composers of classical music. It was also used often in the folk music of the Appalachians and South of the United States.{{cn|date=August 2020}}   
+  
+Harmoniums played a significant part in the new rise of Nordic folk music, especially in Finland. In the late 1970s, a harmonium could be found in most schools where the bands met, and it became natural for the bands to include a harmonium in their setup. A typical folk band then—particularly in Western Finland—consisted of violin(s), double bass and harmonium. There was a practical limitation that prevented playing harmonium and accordion in the same band: harmoniums were tuned to 438&nbsp;Hz, while accordions were tuned to 442&nbsp;Hz.<ref>{{cite web |url=http://www.pelimanni.net/materiaali/harmooni.htm |title=Archived copy |access-date=2012-12-18 |url-status=dead |archive-url=https://web.archive.org/web/20110724003133/http://www.pelimanni.net/materiaali/harmooni.htm |archive-date=2011-07-24 |language=fi}}</ref> Some key harmonium players in the new rise of Nordic folk have been [[Timo Alakotila]] and [[Milla Viljamaa]].
+
+In the Netherlands, the introduction of the harmonium triggered a boom in religious house music. Its organ-like sound quality allowed Reformed families to sing psalms and hymns at home. A lot of new hymns were composed expressly for voice and harmonium, notably those by [[Johannes de Heer]].<ref>Jan Smelik, "Stichtelijke zang rond het harmonium" in: Louis Grijp c.s., ''Een muziekgeschiedenis der Nederlanden.'' Amsterdam University Press/Salome, Amsterdam, 2001: pp. 547-52.</ref>
+
+===Western classical===
+The harmonium repertoire includes many pieces written originally for the [[Organ (music)|church organ]], which may be played on a harmonium as well, because they have a small enough range and use fewer stops. For example, [[Johann Sebastian Bach|Bach]]'s Fantasia in C major for organ BWV 570 <ref>{{cite web|url=http://imslp.org/wiki/Fantasia_in_C_major,_BWV_570_%28Bach,_Johann_Sebastian%29 |title=Fantasia in C major, BWV 570 (Bach, Johann Sebastian) - IMSLP/Petrucci Music Library: Free Public Domain Sheet Music |publisher=Imslp.org |access-date=2012-07-08}}</ref> is suitable for a four-octave harmonium.
+
+Other examples include:
+*[[Alban Berg]]. ''[[Altenberg Lieder]]''
+*[[William Bergsma]]. ''Dances from a New England Album, 1856'' for [[orchestra]]. It includes parts for [[Melodeon (organ)|melodeon]] (movements I-III) and harmonium (movement IV).
+*[[William Bolcom]]. ''Songs of Innocence and of Experience'' for orchestra, choirs, and soloists, includes parts for [[Melodeon (organ)|melodeon]], [[harmonica]], and harmonium.
+*[[Anton Bruckner]]. ''[[Symphony No. 7 (Bruckner)|Symphony no. 7]]'', an arrangement for chamber ensemble, prepared in 1921 by students and associates of [[Arnold Schoenberg]] for the Viennese [[Society for Private Musical Performances]], was scored for two [[violin]]s, [[viola]], [[cello]], [[double bass|bass]], [[clarinet]], [[French horn|horn]], [[piano]] 4-hands, and harmonium. The Society folded before the arrangement could be performed, and it went without premiere for more than 60 years.
+*[[Frederic Clay]]. ''[[Ages Ago]]'', an early work that features a harmonium part (libretto by [[W. S. Gilbert]]).
+*[[Claude Debussy]]. ''[[Prélude à l'après-midi d'un faune]]'', a chamber ensemble arrangement by [[Arnold Schoenberg]].
+*[[Antonín Dvořák]]. ''Five Bagatelles'' for two violins, cello and harmonium, Op. 47 (B.79).
+*[[Edward Elgar]]. ''Sospiri, Adagio for String Orchestra'', Op. 70 (scored for harp or piano and harmonium or organ). ''Vesper Preludes''.
+*[[César Franck]]. The final collection of pieces popularly known as [[List of compositions by César Franck#Works for organ|L'Organiste]] (1889–1890) was actually written for harmonium, with some pieces with piano accompaniment.
+* [[Alexandre Guilmant]], author of many duos for piano and harmonium, including:
+** ''Symphonie tirée de la Symphonie-Cantate "Ariane"'' (Op. 53)
+** ''Pastorale A-Dur'' (Op. 26)
+** ''Finale alla Schumann sur un noël languedocien'' (Op. 83)
+*[[Paul Hindemith]]. ''[[Hin und zurück]]'' (''There and Back''), an operatic sketch that uses a harmonium for its stage music.
+*[[Sigfrid Karg-Elert]]. Various works for solo harmonium.
+*[[Kronos Quartet]]. ''Early Music'', an album that has several pieces featuring harmonium.
+*[[Henri Letocart]] (1866–1945). 25 pieces for harmonium, Premier cahier.
+*[[Franz Liszt]]. ''Symphonie zu Dantes Divina Commedia, Movement II: Purgatorio''
+*[[Gustav Mahler]]. ''[[Symphony No. 8 (Mahler)|Symphony No. 8]]''
+*[[George Frederick McKay]]. ''Sonata for Clarinet and Harmonium'' (1929) (also adaptable to piano or violin)
+*[[Martijn Padding]]. ''First Harmonium Concerto'' (2008) for harmonium and ensemble <ref>{{cite web |url=http://www.martijnpadding.nl/compositions/uitgebreid.php?id=84 |title=Martijn Padding |publisher=Martijnpadding.nl |access-date=2012-07-08 |url-status=dead |archive-url=https://archive.today/20130222174919/http://www.martijnpadding.nl/compositions/uitgebreid.php?id=84 |archive-date=2013-02-22 }}</ref>
+*[[Gioachino Rossini]]. ''[[Petite messe solennelle]]'' is scored for twelve voices, two pianos and harmonium.
+*[[Camille Saint-Saëns]]. The ''[[Barcarolle in F major (Saint-Saëns)|Barcarolle, Op. 108]]'' is scored for piano, harmonium, violin and cello.
+*[[Arnold Schoenberg]]
+**''Herzgewächse'', Op. 20, for high soprano, [[celesta]], [[harp]] and harmonium.
+**''Weihnachtsmusik'', for two violins, cello, harmonium and piano.
+*[[Franz Schreker]]
+** ''[[Chamber Symphony (Schreker)|Chamber Symphony]]''
+** ''Vom ewigen Leben''
+*[[Richard Strauss]]. ''[[Ariadne auf Naxos]]'' an opera (libretto by [[Hugo von Hofmannsthal]]) that employs a harmonium in the orchestration of each of its versions. It requires an instrument with many stops, which are specified in the score.
+*[[Louis Vierne]]. 24 Pièces en style libre pour orgue ou harmonium, Op. 31 (1913)
+*[[Anton Webern]]. ''Five Pieces for Orchestra op.10''
+*[[Alexander Zemlinsky]]
+** ''Six Maeterlinck Songs'' 
+** ''[[Lyric Symphony]]''
+
+==Artists==
+[[File:Mariana Sadovska - Borderland (1384).jpg|thumb|upright|Singer Mariana Sadovska using a hand-pumped organ, Cologne, Germany]]
+
+*[[Krishna Das (singer)|Krishna Das]], American [[kirtan]] singer, composer and recording artist
+*[[Farrukh Fateh Ali Khan]], Pakistani [[qawali]] performer, composer and recording artist
+*[[Mariana Sadovska]], Ukrainian singer, composer and recording artist
+*Radie Peat, singer and musician of [[Lankum]]
+
+==Western popular music==
+
+[[Image:KDBhaktiFestWest 20150913 (22155426016).jpg|thumb|right|[[Krishna Das (singer)|Krishna Das]] playing a harmonium at [[Bhakti Fest|Bhaktifest West]], 2015]]
+Harmoniums have been used in western popular music since at least the 1960s. [[John Lennon]] played a Mannborg harmonium<ref>{{cite web|url=http://www.harmonycentral.com/articles/keyboards-of-the-beatles-era |first=Phil |last=O'Keefe|title=Keyboards of the Beatles Era|publisher=[[Harmony Central]]|date=7 February 2014|access-date=7 June 2017}}</ref> on [[the Beatles]]' hit single "[[We Can Work It Out]]", released in December 1965, and the band used the instrument on other songs recorded during the sessions for their ''[[Rubber Soul]]'' album.<ref>{{cite book| last=Everett| first=Walter| title=The Beatles as Musicians: The Quarry Men through Rubber Soul| year=2001| publisher=Oxford University Press| location=New York, NY| isbn=0-19-514105-9| pages=[https://archive.org/details/beatlesasmusicia00ever/page/321 321–22]| url=https://archive.org/details/beatlesasmusicia00ever/page/321}}</ref> They also used the instrument on the famous "final chord" of "[[A Day in the Life]]", and on the song "[[Being for the Benefit of Mr. Kite!]]", both released on the 1967 album ''[[Sgt. Pepper's Lonely Hearts Club Band]]''.<ref>{{cite book|title=Here, There and Everywhere: My Life Recording the Music of the Beatles|last1=Emerick|first1=Geoff|last2=Massey|first2=Howard|publisher=Gotham Books|location=New York, New York|year=2006|url=https://books.google.com/books?isbn=0738537772|pages=162–167|isbn=978-1-592-40269-4}}</ref>  The group's hit single "[[Hello, Goodbye]]" and the track "[[Your Mother Should Know]]" were both written using a harmonium.<ref>{{cite web|url=http://www.beatlesbible.com/songs/hello-goodbye/|title=Hello, Goodbye|access-date=December 24, 2015|publisher=The Beatles Bible}}</ref><ref>{{cite journal|title=Music Icons - The Beatles: The Story Behind Every Album & Song|author1=Scapelliti, Christopher (Editor, Writer)|publisher=Athlon Sports Communications, Inc.|location=New York, NY|date=2016|page=84}}</ref>
+
+Many other artists soon employed the instrument in their music, including; [[Pink Floyd]] on the title song "[[Chapter 24]]" of their first album ''[[The Piper at the Gates of Dawn]]'' in 1967{{cn|date=August 2020}}, [[Elton John]] on his 1973 album ''[[Don't Shoot Me I'm Only the Piano Player]]'', 1976's ''[[Blue Moves]]'', the 1978 album ''[[A Single Man (album)|A Single Man]]'', and 1995's ''[[Made in England (Elton John album)|Made in England]]''{{cn|date=August 2020}}. German singer [[Nico]] was closely associated with the harmonium, using it as her main instrument, during the late 60s and 70s, on albums such as ''[[The Marble Index]]'', ''[[Desertshore]]'' and ''[[The End...]]''.<ref>{{Cite web |url= https://www.allmusic.com/album/desertshore-mw0000110647 |title=Desertshore - Nico {{!}} Songs, Reviews, Credits {{!}} AllMusic |website= AllMusic |access-date= 2018-03-09}}</ref>
+
+[[Donovan]] employed the harmonium on his 1968 album ''[[The Hurdy Gurdy Man]]'' where he played it in droning accompaniment on the song "Peregrine", and where it was also played on his song "Poor Cow" by [[John Cameron (musician)|John Cameron]].<ref>{{cite web |url= http://donovan-unofficial.com/music/albums/the_hurdy_gurdy_man.html|title=The Hurdy Gurdy Man|date=2009|access-date=May 24, 2017|publisher=Donovan Unofficial}}</ref>  
+
+[[Robert Fripp]] of [[King Crimson]] played a pedal harmonium borrowed from lyricist [[Peter Sinfield]] on the title track that progressive rock band's 1971 album ''[[Islands (King Crimson album)|Islands]]''.
+
+More recently [[Roger Hodgson]] from [[Supertramp]] used his harmonium on many of the group's songs including "Two of Us" from ''[[Crisis? What Crisis?]]'', "Fool's Overture" from ''[[Even in the Quietest Moments...]]'', [[Breakfast in America (song)|the title track]] to their 1979 album ''[[Breakfast in America]]'' and "Lord Is It Mine". Hodgson also used a harmonium on "The Garden" from his 2000 solo album ''[[Open the Door (Roger Hodgson album)|Open the Door]]''.{{cn|date=August 2020}} [[Greg Weeks]] and [[Tori Amos]] have both used the instrument on their recordings and live performances.{{cn|date=August 2020}}
+
+[[The Damned (band)|The Damned]] singer [[Dave Vanian]] bought a harmonium for £49 and used it to compose “Curtain Call”, the 17-minute closing track from their 1980 double LP [[The Black Album (The Damned album)|The Black Album]]{{cn|date=August 2020}}. In 1990, [[Depeche Mode (band)|Depeche Mode]] used a harmonium on a version of their song "Enjoy The Silence".{{cn|date=August 2020}} [[The Divine Comedy (band)|The Divine Comedy]] used a harmonium on "Neptune's Daughter" from their 1994 album ''[[Promenade (The Divine Comedy album)|Promenade]]''{{cn|date=August 2020}}. [[Sara Bareilles]] used the harmonium on her 2012 song "Once Upon Another Time".<ref>{{cite web|url=https://www.youtube.com/watch?v=GNDtO5MRwgc| archive-url=https://ghostarchive.org/varchive/youtube/20211107/GNDtO5MRwgc| archive-date=2021-11-07 | url-status=live|title=Sara Bareilles - Once Upon Another Time (Live at the El Rey - 5/14/2013)|last=Goosee9|date=15 May 2013|via=YouTube}}{{cbignore}}</ref>
+
+During the 1990s the Hindu and Sikh-based devotional music known as [[kirtan]], a 7th-8th century Indian music, popularly emerged in the West.<ref name="YogaJournal">{{cite news|title=Sing the Soul Electric|url=http://www.yogajournal.com/article/yoga-trends/sing-soul-electric/|newspaper=Yoga Journal|author1=Shannon Sexton|author2=Anna Dubrovsky|date=December 16, 2011}}</ref><ref>{{cite news|title=Kirtans East and West|url=https://www.indiacurrents.com/articles/2011/11/14/kirtans-east-and-west|newspaper=India Currents|last=Rockwell|first=Teed|date=November 14, 2011|url-status=dead|archive-url=https://web.archive.org/web/20151224103822/https://www.indiacurrents.com/articles/2011/11/14/kirtans-east-and-west|archive-date=December 24, 2015}}</ref>  The harmonium is often played as the lead instrument by kirtan artists; notably [[Jai Uttal]] who was nominated for a Grammy award for [[new-age music]] in 2004,<ref name="YogaJournal" /> [[Snatam Kaur]], and [[Krishna Das (singer)|Krishna Das]] who was nominated for a Grammy award for new age music in 2012.<ref>{{cite news|title=Krishna Das' "Live Ananda" Earns Grammy Nomination; Kirtan Grammy Would Be A First|url=http://thebhaktibeat.com/krishna-das-live-ananda-earns-grammy-nomination-kirtan-grammy-would-be-a-first-breaking-news/|newspaper=The Bhakti Beat|first=Brenda|last=Patoine|date=December 6, 2012}}</ref>
+
+==In the Indian subcontinent==
+{{see|Shruti box}}
+{{more citations needed section|date=November 2016}}
+{{multiple image|caption_align=center|header_align=center
+ | align = right
+ | image1 = Ustad Farrukh Fateh Ali Khan Saheb.jpg
+ | width1 = 120
+ | alt1 = Musician Ustad Farrukh Fateh Ali Khan Saheb with a harmonium
+ | caption1  =[[Farrukh Fateh Ali Khan]], a well-known harmonium player.
+
+ | image2 = Kathmandu-21.JPG
+ | width2 = 180
+ | alt2 = tabla and harmonium together
+ | caption2 = Musicians in Kathmandu, Nepal play the [[tabla]] and harmonium.
+}}
+
+The harmonium arrived in India during the mid-19th century, possibly with missionaries or traders.<ref name=Kasliwal>{{cite web |title=Small encyclopedia with Indian instruments |website= india-instruments.com|url= https://www.india-instruments.com/encyclopedia-harmonium.html#:~:text=It%20is%20probably%20the%20most,spread%20all%20over%20the%20country |quote= excerpt of Suneera Kasliwal, Classical Musical Instruments, Delhi 2001 }}</ref> The instrument quickly became popular there: it was portable, reliable and easy to learn.
+
+The harmonium is popular to the present day, an important instrument in many genres of [[Music of India|Indian]], [[Music of Pakistan|Pakistani]], and [[Music of Bangladesh|Bangladeshi music]]. For example, it is a staple of vocal North Indian classical music and [[Sufism|Sufi Muslim]] [[Qawwali]] concerts. It is commonly found in Indian homes. Though derived from the designs developed in France, the harmonium was developed further in India in unique ways, such as the addition of drone stops and a scale-changing mechanism. In Kolkata, Dwarkanath Ghose of the [[Dwarkin]] company modified the imported harmony flute and developed the hand-held harmonium, which has subsequently become an integral part of the Indian music scene.<ref name =  "Ghose">{{cite web
+| url = http://www.dwarkin.com/dwarkinaboutus.htm
+| title = The Invention of Hand Harmonium
+| access-date =  2007-04-24
+| publisher =Dwarkin & Sons (P) Ltd.
+|archive-url = https://web.archive.org/web/20070409051040/http://dwarkin.com/dwarkinaboutus.htm <!-- Bot retrieved archive --> |archive-date = 2007-04-09}}</ref>
+
+[[Dwijendranath Tagore]] is credited with having used the imported instrument in 1860 in his private theatre, but it was probably a pedal-pumped instrument that was cumbersome or possibly some variation of the reed organ. Initially it aroused curiosity, but gradually people started playing it,<ref name =  "Banglapedia">{{cite book
+|last=Khan |first=Mobarak Hossain |year=2012
+|chapter=Harmonium
+|chapter-url=http://en.banglapedia.org/index.php?title=Harmonium
+|editor1-last=Islam |editor1-first=Sirajul |editor1-link=Sirajul Islam |editor2-last=Jamal |editor2-first=Ahmed A.
+|title=Banglapedia: National Encyclopedia of Bangladesh |edition=Second
+|publisher=[[Asiatic Society of Bangladesh]]}}</ref> and Ghose took the initiative to modify it.<ref name =  "Ghose"/> It was in response to the Indian needs that the hand-held harmonium was introduced. All Indian musical instruments are played with the musician sitting on the floor or on a stage, behind the instrument or holding it in his hands. In that era, Indian homes did not use tables and chairs.<ref name =  "Ghose"/>  Also, Western music being harmonically based, both a player's hands were needed to play the chords, thus assigning the bellows to the feet was the best solution; Indian music, being melodically based, only one hand was necessary to play the melody, and the other hand was free for the bellows.
+
+The harmonium was widely accepted in Indian music, particularly Parsi and Marathi stage music, in the late 19th century. By the early 20th century, however, in the context of nationalist movements that sought to depict India as utterly separate from the West, the harmonium was portrayed as an unwanted foreigner. Technical concerns with the harmonium included its inability to produce [[Slur (music)|slur]]s, [[Gamak (music)|gamaka]] (playing semi-tone between notes) and [[meend]] (slides between notes) which can be done in instruments like [[Sitar]] and [[Sarod]],<ref name=Kasliwal/>  and the fact that, as a keyboard instrument, it is set to specific pitches.<ref name=Kasliwal/> Unlike a stringed instrument, its pitches cannot be adjusted in the course of performance. 
+
+The inability to slide between notes prevents it from articulating the subtle inflections (such as [[Andolan (music)|andolan]], gentle oscillation) so crucial to many ragas. Being set to specific pitches is a different musical concept than the Indian [[svara]], which doesn't focus on specific pitches, but a range of pitches.<ref name=Kasliwal/> The fixed pitches prevents it from articulating the subtle differences in intonational color between a given [[svara]] in two different ragas.<ref name=Kasliwal/> For these reasons, it was banned from [[All India Radio]] from 1940 to 1971;<ref name=Kasliwal/> a ban still stands on harmonium solos.
+
+On the other hand, many of the harmonium's qualities suited it very well for the newly reformed classical music of the early 20th century: it is easy for amateurs to learn; it supports group singing and large voice classes; it provides a template for standardized raga grammar; it is loud enough to provide a drone in a concert hall. For these reasons, it has become the instrument of choice for accompanying most North Indian classical vocal genres, with top vocalists (e.g., [[Bhimsen Joshi]]) routinely using harmonium accompaniment in their concerts. However, it is still despised by some connoisseurs of Indian music, who prefer the [[sarangi]] as an accompanying instrument for [[khyal]] singing.
+
+A popular usage is by followers of the [[Hindu]] and [[Sikh]] faiths, who use it to accompany their devotional songs ([[bhajan]] and [[kirtan]]) respectively . There is at least one harmonium in any [[gurdwara]] (Sikh temple) around the world. The harmonium is commonly accompanied by the [[tabla]] as well as a [[dholak]]. To Sikhs, the harmonium is known as the ''vaja'' or ''baja''. It is also referred to as a ''peti'' (literally, box) in some parts of North India and [[Maharashtra]]. The harmonium plays an integral part in [[Qawwali]] music. Almost all Qawwals use the harmonium as their sole musical accompaniment. It has received international exposure as the genre of Qawwali music has been popularized by renowned Pakistani musicians, including [[Nusrat Fateh Ali Khan]]. There is some discussion of Indian harmonium makers producing reproductions of Western-style reed organs for the export trade.
+
+[[File:Dr Vidyadhar Oke.jpg|thumb|Dr. Vidyadhar Oke with 22-microtone harmonium]]
+[[Vidyadhar Oke]] has developed a 22-microtone harmonium, which can play 22 microtones as required in Indian classical music. The fundamental tone ([[Shadja]]) and the fifth ([[Swara|Pancham]]) are fixed, but the other ten notes have two microtones each, one higher and one lower. The higher microtone is selected by pulling out a knob below the key. In this way, the 22-shruti harmonium can be tuned for any particular raga by simply pulling out knobs wherever a higher shruti is required.
+[[File:Harmonium_repair.jpg|thumb|A craftsman repairs a harmonium in his shop in Amritsar, India.]]
+{{Anchor|Samvadini}} Bhishmadev Vedi is said to have been the first to contemplate improving the harmonium by augmenting it with a [[swarmandal]] (harp-like string box) attached to the top of the instrument.  His disciple, Manohar Chimote, later implemented this concept, also making the instrument more responsive to key pressure, and called the instrument a '''''samvadini'''''—a name now widely accepted.<ref>{{cite web|title=About Samvadini|url=http://www.samvad.com.au/gurus/|publisher=Samvad (music centre)|access-date=August 11, 2014|location=Sydney|archive-url=https://web.archive.org/web/20140812210721/http://www.samvad.com.au/gurus/|archive-date=August 12, 2014|url-status=dead|df=mdy-all}}</ref> Bhishmadev Vedi is also said to have been among the first to contemplate and design compositions specifically for the harmonium, styled along the lines of "tantakari"—performance of music on stringed instruments. These compositions tend to have a lot of cut notes and high-speed passages, creating an effect similar to that of a string being plucked.
+
+In 1954, Late Jogesh Chandra Biswas first modified the then-existing harmoniums, so it folds down into a much thinner space for easier-maneuverability. Prior to that, if the instrument was boxed, it used to need two people to carry it, holding it from either side. This improvisation became a generic design in most harmoniums since then and coined with the term "Folding Harmoniums".
+
+The [[Shruti box]], a keyless harmonium used only to produce drones to support other soloists.
+
+==Types==
+{{Expand section|date=February 2015}}
+
+In the view points of maintenance and restoration, the pump organs are often categorized into several types.<ref name=fudge>
+{{cite web
+ | last      = Fudge | first = Rod
+ | title     = Twelve Different Types of Pump Organs (Types of Reed Organs)
+ | url       = http://www.pumporganrestorations.com/types_of_reed_organs.htm
+ | work      = PumpOrganRestorations.com
+}}
+</ref><ref name=estey>
+{{cite web
+ |title       = How To Find Serial Numbers In Estey Reed Organs
+ |url         = http://www.esteyorganmuseum.org/organs/EsteySerialNumbers.htm
+ |publisher   = Estey Organ Museum
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20150101202024/http://www.esteyorganmuseum.org/organs/EsteySerialNumbers.htm
+ |archive-date = 2015-01-01
+}}
+</ref>
+
+===Historical instruments===
+<gallery>
+File:横浜みなとみらいポジティフオルガン「スージー」全体.JPG|	''cf. [[Positive organ]] <br/>(small [[pipe organ]] with [[bellows]])''
+File:Portative.jpg|				''cf. [[Portative organ]] <br/>(portable [[pipe organ]] with bellows)''
+<!-- File:Regal (instrument) 1.jpg|		'''[[Regal (instrument)|Regal]]''' with pipes {{Smaller|(before the 16th century)}} -->
+File:Bibelregal1988ME I.JPG|			'''[[Regal (instrument)|Regal]]''' without pipes (beating [[reed (instrument)|reed]] organ<!-- with bellows -->, without pipes after the 16th century)
+File:8 key accordion.JPG|			''cf. {{Smaller|[[Accordion]] circa 1830}}'' ([[Accordion#History|invented c.1822/1829]])
+<!-- File:Squeezebox History, Deutsches Museum.jpg|	''cf. History of squeezeboxes'' -->
+</gallery>
+
+=== Harmonium ===
+Harmoniums are pressure system free-reed organs.
+<gallery>
+File:Physharmonica.JPG|			Portable or folding:<ref name=fudge /> '''[[Physharmonica]]''' <!-- (early 19th century) -->(invented in 1818<!-- by [[Anton Haeckl]] of Vienna -->)
+File:Harmoniflute, Technisches Museum Wien.jpg|	Portable or folding:<ref name=fudge /> '''Harmoniflûte'''<ref>{{cite AV media |people=Gilbert Hirsch |date=2018-03-18 |title=Harmoniflûte de Mayermatrix <span style="font-style:normal;">&#x5B;1850&#x5D;</span> |url=https://www.youtube.com/watch?v=Zbl3wkvZL7U | archive-url=https://ghostarchive.org/varchive/youtube/20211107/Zbl3wkvZL7U| archive-date=2021-11-07 | url-status=live|medium=video |publisher=YouTube }}{{cbignore}} — an example of harmoniflûte play. The bellow on rear-side is pumped by a foot pedal located between a stand.</ref><br /><!-- (late 19th century) -->(introduced in 1855)
+File:Pakistani Qawwali Harmonium.jpg|		Portable harmonium: '''''Indian harmonium''''' or '''''Guide-chant'''''
+<!-- File:Guide-chant Richard.jpg|		Portable harmonium: ''[[:fr:Guide-chant|Guide-chant]]'' or ''Indian harmonium'' -->
+File:Harmonium Debain - c.1865.jpg|		Flattop harmonium <!-- (1865) --><br/> by [[Alexandre Debain]], a French inventor of the harmonium (patented in 1842)<ref>{{cite book |author=Stichwort |chapter=Harmonium |title=[[Die Musik in Geschichte und Gegenwart|Die Musik in Geschichte und Gegenwart (MGG)]] |volume=5 |page=1708 }}</ref>
+File:Organeum Harmonium.jpg|			Chapel harmonium
+File:Pedalharmonium Lindholm MIM 5443.jpg|	Two manual with pedal<ref name=fudge /> harmonium (1938)
+File:MIM Orthotonophonium Schiedmayer.jpg|	{{Smaller|[[Enharmonic keyboard|Enharmonic]] harmonium}}: '''''Orthotonophonium''''' (1870s/1914)
+</gallery>
+
+==={{vanchor|Suction reed organs}} (vacuum system free-reed organs)===
+===={{vanchor|Melodeon}}s====
+{{anchor|Rocking melodeon}}{{anchor|American reed organ}}
+<gallery>
+File:Rocking Melodeon MET D3198 89.4.1194.jpg|					{{nowrap|''Rocking '''melodeon'''''}}<ref name=Waring2002p11>{{cite book |first1=Dennis G. |last1=Waring |chapter=American Reed Organ Manufacture |chapter-url=https://books.google.com/books?id=60elWdTssmwC&q=Rocking%20melodeon&pg=PR11 |title=Manufacturing the Muse: Estey Organs and Consumer Culture in Victorian America |date=29 July 2002 |publisher=Wesleyan University Press |publication-date=2002 |isbn=978-0-8195-6508-2 |pages=[https://books.google.com/books?id=60elWdTssmwC&pg=PR11&ots=m4JtyRNcOz&dq=Rocking%20melodeon 11]&ndash;12 }}</ref><ref name=BushKassel2006p441>{{cite book |first1=Douglas Earl |last1=Bush |first2=Richard |last2=Kassel |chapter=Prescott,Abraham (1789&ndash;1858) |title=The Organ: An Encyclopedia |series=Encyclopedia of keyboard instruments |year=2006 |volume=vol.3 |publisher=Psychology Press |publication-date=2006 |isbn=9780415941747 |page=[https://books.google.com/books?id=cgDJaeFFUPoC&pg=PA441&dq=Rocking%20melodeon&hl=ja&pg=PA441 441] }}</ref> or ''lap organ''<ref name=fudge/> {{nowrap|(1825)}}<ref name=MET89.4.1194>{{citation |first=Abraham |last=Prescott |title=Rocking Melodeon |url=https://www.metmuseum.org/art/collection/search/501765 |date=1825 <!-- |location=[[Concord, New Hampshire]] --> <!-- |publisher=Abraham Prescott --> |id={{smaller|[[Metropolitan Museum of Art|MET]] Accession Number:}} 89.4.1194 |quote='''Maker''':'' Abraham Prescott (American, Deerfield, New Hampshire 1789–1858 Concord, New Hampshire)''}}</ref><ref name=MET1989>{{cite journal |author=Laurence Libin |title=Keyboard Instruments |url=https://www.metmuseum.org/art/metpublications/Keyboard_Instruments_The_Metropolitan_Museum_of_Art_Bulletin_v_47_no_1_Summer_1989 |format=PDF |journal=The Metropolitan Museum of Art Bulletin |volume=47 | issue=1  |<!-- publication- -->date=Summer 1989 |page=[http://resources.metmuseum.org/resources/metpublications/pdf/Keyboard_Instruments_The_Metropolitan_Museum_of_Art_Bulletin_v_47_no_1_Summer_1989.pdf#page=54 52] }} (available as [http://resources.metmuseum.org/resources/metpublications/pdf/Keyboard_Instruments_The_Metropolitan_Museum_of_Art_Bulletin_v_47_no_1_Summer_1989.pdf PDF])</ref>
+File:Melodeon MET 134275.jpg|			''Portable '''melodeon'''''<ref name=estey/> or ''lyre-leg melodeon''<ref name=fudge/> (1867)<ref name=MET45.54>{{citation |author=Taylor & Farley |title=Melodeon |url=https://www.metmuseum.org/art/collection/search/504400 |date=1867 <!-- |location=[[Worcester, Massachusetts]] --> <!-- |publisher=Taylor & Farley --> |id={{smaller|[[Metropolitan Museum of Art|MET]] Accession Number:}} 45.54 }}</ref>
+File:New Haven Melodeon, Mission Mill Museum.jpg|''Piano-style '''melodeon'''''<br/><ref name=fudge/><ref name=estey/> (c.1867)<ref name=AntiquePianoShop.com_NewHavenMelodeon1865>{{cite web |title=New Haven Melodeon (1865) |url=http://antiquepianoshop.com/product/new-haven-melodeon/ <!-- |oldurl=http://www.antiquepianoshop.com/product/532/new-haven-melodeon/ --> |website=AntiquePianoShop.com |quote={{smaller|1=''This is a beautiful melodeon built by The New Haven Melodeon Company circa about 1865. These instruments are small reed organs that are operated by pumping the large iron right pedal…the left pedal is volume control and operates a swell shutter. During the mid 19th Century, these little melodeons were often the only form of musical entertainment in Rural America. This style of melodeon is known as a “Portable Melodeon” and its legs are designed to fold up under the instrument for easy transport. ...<!-- This melodeon is made of beautiful Rosewood with elegantly carved legs and carved moldings. These early instruments are very rare and desirable today. -->''}}}}<br/>See images: [http://antiquepianoshop.com/wp-content/uploads/2017/08/6744_-tmp-jpgnptcfy_884_9999_fill.jpg 1], [http://antiquepianoshop.com/wp-content/uploads/2017/08/6745_-tmp-jpgo54ub1_884_9999_fill.jpg 2], [http://antiquepianoshop.com/wp-content/uploads/2017/08/6746_-tmp-jpgcwefs6_884_9999_fill.jpg 3], [http://antiquepianoshop.com/wp-content/uploads/2017/08/6747_-tmp-jpgvwlm9z_884_9999_fill.jpg 4], [http://antiquepianoshop.com/wp-content/uploads/2017/08/6748_-tmp-jpgo1lstf_884_9999_fill.jpg 5], [http://antiquepianoshop.com/wp-content/uploads/2017/08/6750_-tmp-jpgot3nnx_884_9999_fill.jpg 6].</ref><ref name=AntiquePianoShop.com_NewHavenMelodeonCompany>{{cite web |title=New Haven Melodeon Company |url=http://www.antiquepianoshop.com/online-museum/new-haven-melodeon-company/ |website=AntiquePianoShop.com |quote={{smaller|1=''The New Haven Melodeon Company was organized on April 10th, 1867 in New Haven, CT.  John L. Treat of [http://antiquepianoshop.com/online-museum/treat-linsley/ Treat & Linsley] was listed as superintendent of the firm.  The firm built several models of organs and melodeons and enjoyed a great deal of success.  By 1872 the firm is listed has having operating capital in the amount of $40,000.  By the late 1870s, the popularity of the melodeon began to wain in favor of the parlor organ.  The firm reorganized as “The New Haven Organ Company” from 1881 &ndash; 1883, and there is no mention of the firm after about 1883.''}}}}</ref>
+File:Geo. Woods Melodeon.JPG|			Flattop reed organ:<ref name=fudge/><ref name=estey/><ref name=harmoniumnet>{{cite web |title=The Olthof Collection - Exhibited in 1981 |url=http://www.harmoniumnet.nl/musea-olthof-ENG.html |work=harmoniumnet.nl |quote=''17. Flat top reed organ by George Woods & Co. This firms is known for its high quality Melodeons (early type of reed organ, in fact the suction variety of the physharmonica)'' }}</ref> ''melodeon'' or <br/>'''''American reed organ'''''
+</gallery>
+
+===={{vanchor|Reed organ}}s====
+{{anchor|Parlor organ}}{{anchor|Player reed organ}}
+<gallery>
+<!-- File:Blank.png|				Lap organ (Melodeon)<ref name=fudge/> -->
+File:Sunday School Organ in Barratt's Chapel Museum, Frederica, Delaware.jpg|	Folding reed organ<ref name=estey/> (19th century)
+File:Harmonium in St Peter's Church, Normanby by Spittle (geography.org.uk 2622275 2ed0d039).jpg|	Chapel organ<ref name=estey/>
+File:Estey Phonorium. (front).jpg|		Two manual with pedal reed organ<ref name=estey/> (pipe-top)
+File:Alleyorgan.jpg|				'''''[[enharmonic keyboard|Enharmonic]] reed organ''''' (1868/1871) <br/>by Joseph Alley
+File:American Organ Odilienberg 1.jpg|		Parlor organ<ref name=fudge/><ref name=estey/> <br/>(with top)
+File:Piano case reed organ, removed a front panel, preparing for Noise Boundary music ensemble.jpg|	Piano case reed organ<br/><ref name=fudge/>
+File:CIMA mg 8380.jpg|				Player reed organ<ref name=fudge/> (disc-type)
+</gallery>
+
+==={{vanchor|Later instruments}} (electrically blown / electronic organs)===
+{{anchor|Electrically blown reed organ}}
+<gallery>
+File:Harmophon koestler 2.jpg|				Electrically blown reed organ
+File:Magnus electric chord organ (free stand, wood, 3oct, 6maj, 6min, 3stop, vib).jpg|	Electrically blown reed [[chord organ]] (1960s)
+File:Wurlitzer Model 44 Electrostatic Reed Organ.png|	[[Electrostatic reed organ|Electrostatic-pickup reed organ]] (1930s&ndash;60s)
+<!-- File:Yamaha Magna Organ (1935) Console.jpg|	Electromagnetic reed organ (1935) -->
+<!-- File:Hohner Multimonica MIM.jpg|			[[Hohner]] [[Multimonica]] (1940-1950s) electrically blown reed + vacuum tube oscillator -->
+File:Gulbransen Organ, Museum of Making Music.jpg|	''cf. [[Electronic organ]] (1939&ndash;)''
+</gallery>
+
+==Related instruments==
+* [[Harmonica]]
+* [[Shruti box]]
+* [[Pipe Organ]]
+
+==References==
+{{Reflist|2}}
+
+== External links ==
+{{commons category|Pump organs}}
+*[http://www.reedsoc.org The Reed Organ Society]
+*[https://web.archive.org/web/20130618065956/http://eccs.onu.edu/~estell/organs/ The Reed Organ Home Page] of John K. Estell, Ohio Northern University
+*[https://learnharmonium.com Top Harmonium Makers]
+{{Musical instruments}}
+{{Reed aerophones}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Reed Organ}}
+[[Category:Keyboard instruments]]
+[[Category:Organs (music)]]
+[[Category:Sets of free reeds]]

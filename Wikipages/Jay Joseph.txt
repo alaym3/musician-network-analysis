@@ -1,0 +1,88 @@
+{{Short description|American clinical psychologist and author}}
+{{Infobox scientist
+| honorific_prefix  = 
+| name              = Jay Joseph
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image             = <!--(filename only, i.e. without "File:" prefix)-->
+| image_size        = 
+| image_upright     = 
+| alt               = 
+| caption           = 
+| birth_name        = James Jay Joseph
+| birth_date        = {{birth date and age|1959|04|13}}
+| birth_place       = 
+| death_date        = <!--{{death date and age |YYYY|MM|DD |YYYY|MM|DD}} (death date then birth date)-->
+| death_place       = 
+| death_cause       = 
+| resting_place     = 
+| resting_place_coordinates = <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names       = 
+| pronounce         =
+| residence         = 
+| citizenship       = 
+| nationality       = American
+| fields            = [[Clinical psychology]]
+| workplaces        = 
+| patrons           = 
+| education         = [[University of California, Berkeley]]<br>[[New College of California]]<br>[[California School of Professional Psychology]]
+| alma_mater        = 
+| thesis_title      = A critical analysis of the genetic theory of schizophrenia
+| thesis_url        = <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year       = 2000
+| doctoral_advisor  = Samuel Gerson
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = Criticism of human [[behavior genetics]]
+| influences        = 
+| influenced        = 
+| awards            = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse            = <!--(or | spouses = )-->
+| partner           = <!--(or | partners = )-->
+| children          = 
+| signature         = <!--(filename only)-->
+| signature_alt     = 
+| website           = <!--{{URL|www.example.com}}-->
+| footnotes         = 
+}}
+
+'''James Jay Joseph''' (born April 13, 1959)<ref>{{Cite web |url=http://id.loc.gov/authorities/names/nr2003011536.html |title=Joseph, Jay |website=Library of Congress Name Authority File |access-date=2018-06-30}}</ref> is an American clinical psychologist and author. He practices psychology in the [[San Francisco Bay Area]], where he has lived for over twenty-five years.<ref name=holdsworth>{{Cite journal |last=Holdsworth |first=Richard |date=2003 |title=Richard Holdsworth reviews The Gene Illusion: Genetic Research in Psychiatry and Psychology Under the Microscope by Jay Joseph |url=http://human-nature.com/nibbs/03/jjoseph.html |journal=Human Nature Review |volume=3 |pages=416–421}}</ref><ref name=practice>{{Cite web |url=http://jayjoseph.net/practice|title=Practice|website=Jay Joseph's website |language=en |access-date=2018-06-03}}</ref> He is known for his criticisms of [[behavior genetics]] and [[twin studies]] in [[psychology]] and [[psychiatry]].<ref name=holdsworth/> His view, as he articulated in his 2003 book ''[[The Gene Illusion]]'', is that such research is so flawed as to render all of its results completely meaningless.<ref>{{Cite web |url=https://thepsychologist.bps.org.uk/volume-17/edition-1/not-all-genes |title=Not at all in the genes  |last=Newnes |first=Craig |date=January 2004 |website=The Psychologist |language=en |access-date=2018-06-03}}</ref><ref>{{Cite web |url=http://bigthink.com/devil-in-the-data/mental-illness-its-not-in-your-genes |title=Mental Illness: It's Not in Your Genes |last=Thomas |first=Kas |website=Big Think |date=17 July 2013 |access-date=2018-06-03}}</ref>
+
+==Biography==
+Joseph received his undergraduate education from the [[University of California, Berkeley]]. He went on to receive his [[master's degree]] from the [[New College of California]] in 1994 and his [[Psy.D]] from the [[California School of Professional Psychology]] in 2000. He received his license to practice psychology in [[California]] in 2003.<ref name=practice/> In 2014 he published ''The Trouble with Twin Studies'', which argued that research based on twin studies was highly flawed and could not be used to prove heritability of traits, as they fail to adequately control for environmental factors, as well as accusations of ethics violations in research practices.<ref>Joseph, Jay. ''The trouble with twin studies: A reassessment of twin research in the social and behavioural sciences''. Routledge, 2014.</ref> The book was negatively reviewed by psychologist [[Eric Turkheimer]], who argued twin study research was valid.<ref>Turkheimer, Eric. "Arsonists at the Cathedral." PsycCRITIQUES 60, no. 40.</ref>
+
+==Books==
+*''[[The Gene Illusion]]'' (Algora, 2004)
+*''The Missing Gene'' (Algora, 2006)
+*''The Trouble with Twin Studies'' ([[Routledge]], 2015)
+*''Schizophrenia and Genetics'' (BookBaby, 2017)
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite journal |last1=Leo |first1=Jonathan |title=Memo to the newest generation of gene hunters: read Jay Joseph |journal=Psychosis |date=11 January 2018 |volume=10 |issue=1 |pages=58–61 |doi=10.1080/17522439.2017.1422009|s2cid=148747299 }}
+
+==External links==
+*{{Official website|http://www.jayjoseph.net/}}
+{{Authority control}}
+
+{{DEFAULTSORT:Joseph, Jay}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:American psychologists]]
+[[Category:Clinical psychologists]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:New College of California alumni]]
+[[Category:California School of Professional Psychology alumni]]
+[[Category:21st-century American male writers]]
+[[Category:American psychology writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:American male non-fiction writers]]
+
+
+{{US-psychologist-stub}}

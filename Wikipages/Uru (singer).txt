@@ -1,0 +1,110 @@
+{{Use dmy dates|date=March 2020}}
+{{Infobox musical artist
+| name         = Uru
+| image        =
+| caption      =
+| birth_name   =
+| birth_date   =
+| birth_place  = {{JPN}}
+| occupation   = {{hlist|Singer|songwriter}}
+| years_active = 2013–present
+| label        = [[Sony Music Entertainment Japan|Sony Music Associated Records]] (2016–present)
+| instrument   = 
+}}
+
+{{nihongo|'''Uru'''|ウル}} is a Japanese singer-songwriter who is signed to [[SMEJ|SMAR]]. She keeps her personal information secret.<ref>{{cite web |title=Uru |url=https://natalie.mu/music/artist/98728}}</ref><ref>{{Cite news |title="謎だらけのシンガー"Ｕｒｕ、初の連ドラ主題歌に大抜擢　新曲「奇蹟」 |work=スポニチアネックス |publisher=スポニチ|date=30 September 2017 |url=https://www.sponichi.co.jp/entertainment/news/2017/09/30/kiji/20170930s00041000093000c.html |access-date=3 November 2018}}</ref>
+
+In 2020, she became one of five recipients of the Special Achievement Award at the [[62nd Japan Record Awards]].<ref>{{cite web |url=https://aramajapan.com/featured/winners-and-nominees-for-the-62nd-japan-record-awards-announced/110091/ |title=Winners and Nominees for the 62nd Japan Record Awards Announced |author=Ryusenkai |website=Arama! Japan |access-date=2021-05-13}}</ref>
+
+==Discography==
+===Single===
+{| class="wikitable" style="text-align:center"
+|-
+! scope="col" rowspan="2"| Release date
+! scope="col" rowspan="2"| Title
+! scope="col" colspan="1"| Peak position
+! scope="col" rowspan="2"| Album
+|-
+! align="center"|[[Oricon Singles Chart|JPN]]<br><ref name="Uruの作品">{{cite web |title=Uruの作品 |url=https://www.oricon.co.jp/prof/694703/products/}}</ref>
+|-
+| 15 June 2016
+|  You in the Star (星の中の君)
+| 22
+| rowspan="5"|Monochrome
+|-
+| 26 October 2016
+| The last rain
+| 57
+|-
+| 15 February 2017
+|  Freesia (フリージア)
+| 25
+|-
+| 7 June 2017
+|  Happy Poetry (しあわせの詩)
+| 47
+|-
+| 8 November 2017
+| Miracle (奇蹟)
+| 32
+|-
+| 26 September 2018
+| remember
+| 26
+| rowspan="3"|Orion Blue
+|-
+| 5 December 2018
+| Prologue (プロローグ)
+| 11
+|-
+| 11 September 2019
+|Wish (願い)
+| 19
+|}
+
+===Album===
+{| class="wikitable" style="text-align:center"
+|-
+! scope="col" rowspan="2"| Release date
+! scope="col" rowspan="2"| Title
+! scope="col" colspan="1"| Peak position 
+|-
+! align="center"| [[Oricon Albums Chart|JPN]]<br /><ref name="Uruの作品" />
+|-
+| 6 March 2019 || ''Monochrome'' (モノクローム) || 18 
+|-
+| 18 March 2020 || ''Orion Blue'' (オリオンブルー) || 5
+|}
+
+===Promotional singles===
+{| class="wikitable" style="text-align:center"
+|-
+! Release date !! Title 
+|-
+|2020/2/9
+|"Anata ga iru koto de"<br>(あなたがいることで)
+|}
+
+==Awards==
+{| class="wikitable"
+|-
+! Year !! Ceremony !! Award !! Nominated Work !! Result
+|-
+|2019 || 99th Television Drama Academy Awards<ref>{{cite web |title=The 99th Drama Academy Awards (Autumn 2018) – Best Theme Song |url=https://doramaworld.blogspot.com/2019/02/the-99th-drama-academy-awards-autumn.html}}</ref>|| Theme Song Awards || Prologue || {{won}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://uru-official.com/ Uru Official Website]
+* {{Twitter|uru_super}}
+* {{Facebook|uru.singer}}
+* {{YouTube|channel = UCdPCarwi28K5Z7s5l2nMiLw|Uru Official YouTube Channel}}
+
+{{Authority control}}
+
+[[Category:Japanese women pop singers]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century Japanese women singers]]

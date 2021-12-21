@@ -1,0 +1,31 @@
+{{short description|Genus of beetles}}
+{{Italic title}}
+{{Taxobox
+| name = ''Mesus''
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Beetle|Coleoptera]]
+| subordo = [[Adephaga]]
+| familia = [[Carabidae]]
+| genus = '''''Mesus'''''
+| genus_authority = Chevrolat, 1858
+}}
+
+'''''Mesus''''' is a genus of [[beetle]]s in the family [[Carabidae]], containing the following species:<ref>{{cite web | url=http://carabidae.org/carabidae/mesus-chevrolat-1858.html | title=''Mesus'' Chevrolat, 1858 |year=2011 |work=Carabidae of the World | accessdate=20 Apr 2012}}</ref>
+
+* ''[[Mesus gigas]]'' <small>Reichardt, 1974</small>
+* ''[[Mesus mesus]]'' <small>Reichardt, 1974</small>
+* ''[[Mesus nanus]]'' <small>Reichardt, 1974</small>
+* ''[[Mesus pseudogigas]]'' <small>Vieira & Bello, 2004</small>
+* ''[[Mesus rugatifrons]]'' <small>Chevrolat, 1858</small>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q13846546}}
+
+[[Category:Scaritinae]]
+
+
+{{Scaritinae-stub}}

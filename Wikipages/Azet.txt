@@ -1,0 +1,162 @@
+{{for|the rapper|Azet (rapper)}}
+{{Infobox French commune
+|name                   = Azet
+|commune status         = [[Communes of France|Commune]]
+|image                  = Col d Azet.jpg
+|caption                = The village, with [[Col d'Azet]] in the background
+|image coat of arms     = Blason ville fr Azet (65).svg
+|arrondissement         = Bagnères-de-Bigorre
+|canton                 = Neste, Aure et Louron
+|INSEE                  = 65058
+|postal code            = 65170
+|mayor                  = Maryse Puyau<ref>{{cite web|title=Répertoire national des élus: les maires|url=https://www.data.gouv.fr/fr/datasets/r/2876a346-d50c-4911-934e-19ee07b0e503|website=data.gouv.fr, Plateforme ouverte des données publiques françaises|date=2 December 2020|language=fr}}</ref>
+|term                   = 2020&ndash;2026
+|intercommunality       = [[Communauté de communes Aure Louron|Aure Louron]]
+|coordinates            = {{coord|42.8114|0.3525|format=dms|display=inline,title}}
+|elevation m            = 1172
+|elevation min m        = 1055
+|elevation max m        = 3020
+|area km2               = 26.63
+|population             = {{France metadata Wikidata|population_total}}
+|population date        = {{France metadata Wikidata|population_as_of}}
+|population footnotes   = {{France metadata Wikidata|population_footnotes}}
+}}
+
+'''Azet ''' is a [[Communes of France|commune]] in the [[Hautes-Pyrénées]] [[Departments of France|department]] in the [[Occitanie]] region of south-western [[France]].
+
+The inhabitants of the commune are known as ''Azetois'' or ''Azetoises''.<ref>[http://www.habitants.fr/habitants_departement_hautes-pyrenees_65.html Inhabitants of Hautes-Pyrénées] {{in lang|fr}}</ref>
+
+==Geography==
+Azet is located some 55&nbsp;km south by south-east of [[Tarbes]] and 20&nbsp;km west of [[Bagnères-de-Luchon]]. Access to the commune is by road D225 from [[Estensan]] in the west to the village. The public square of the village is 1,172 metres above sea level at the intersection of the Aure and Louron valleys with the [[Col de Val Louron-Azet]] to the south-east.  The commune is very rugged and inaccessible with extensive forests in the south.<ref name=Google>[https://www.google.com/maps/place/Azet,+France/@42.7736545,0.3638585,13184m/data=!3m1!1e3!4m2!3m1!1s0x12a86c0b25055995:0x406f69c2f3d8a30?hl=en Google Maps]</ref>
+
+The ''Ruisseau de Lustau'' flows north from the ''Lustou Lake'' in the south of the commune, gathering many tributaries including the ''Ruisseau de Sarrouyes'' which flows from lakes in the south-east of the commune, and becoming the ''Mousquere'' before passing the village and continuing north to join the [[Neste (river)|Neste d'Aure]] north of [[Vielle-Aure]].<ref name=Google/>
+
+===Climate===
+Azet has a mountain climate with high temperatures in summer.
+
+===Neighbouring communes and villages===
+{{Geographic location
+|width=auto
+|Centre    = Azet
+|North     = [[Camparan]]
+|Northeast = [[Vielle-Louron]]
+|East      = [[Génos, Hautes-Pyrénées|Génos]]
+|Southeast = [[Loudenvielle]]
+|South     = 
+|Southwest = [[Ens, Hautes-Pyrénées|Ens]]
+|West      = [[Saint-Lary-Soulan]]
+|Northwest = [[Estensan]]
+}}
+<ref name=Google/>
+
+==Toponymy==
+The probable etymology of the name is ''Adet, adou, ados, âne, asou'', then ''Azet'' meaning a place marking the end of the terrain which could only be crossed by donkey or horse.
+
+==History==
+[[File:Azet-Hautes-Pyrenees-en-hiver.JPG|thumb|Azet in winter]]
+There is little evidence to trace the origin of the village except the church, which dates from the fourth quarter of the 12th century<ref name=Church/> In 1887 the village had two primary schools. Village resources were mainly [[pastoralism]] with livestock farming of sheep, cows, horses, and donkeys as well as crops such as wheat, rye, meslin, barley, buckwheat, beans, peas, potatoes, turnips, flax sprouts, and hay.
+
+From the 1880s the population decreased due to the waves of [[typhoid fever]] during 1886-1887 and the [[rural exodus]] of young people.
+
+===Heraldry===
+{{Blazon-arms
+|img1=Blason ville fr Azet (65).svg
+|legend1=Arms of Azet 
+|text=These arms do not respect the [[rule of tincture]] and are therefore faulty.
+
+'''Blazon:'''<br/>
+''Azure, a fir proper between two donkeys Sable facing fess point all on a terrace in base Vert, in chief a crosslet Argent.''
+}}
+
+==Administration==
+{{incomplete list|date=April 2021}}
+'''List of Successive Mayors'''<ref>[http://www.francegenweb.org/mairesgenweb/resultcommune.php?id=2638 List of Mayors of France] {{in lang|fr}}</ref>
+{| class="wikitable"
+|-
+! From !! To !! Name !! Party 
+|-
+| 2001 || 2020 || Jean-Michel Carrot || [[Socialist Party (France)|PS]]
+|-
+| 2020 || 2026 || Maryse Puyau || 
+|}
+
+==Population==
+
+{{Historical populations
+| align = none
+| cols = 2
+| percentages = pagr
+| source = EHESS<ref name=ehess>{{Cassini-Ehess|2294|Azet}}</ref> and INSEE<ref name=pophist>[https://www.insee.fr/fr/statistiques/4515315?geo=COM-65058#POP_T1 Population en historique depuis 1968], INSEE</ref>
+| graph-pos = bottom
+|1793 |406
+|1800 |398
+|1806 |430
+|1821 |491
+|1831 |480
+|1836 |505
+|1841 |471
+|1846 |500
+|1851 |505
+|1856 |465
+|1861 |476
+|1866 |437
+|1872 |438
+|1876 |413
+|1881 |412
+|1886 |386
+|1891 |411
+|1896 |402
+|1901 |401
+|1906 |416
+|1911 |415
+|1921 |275
+|1926 |260
+|1931 |243
+|1936 |228
+|1946 |198
+|1954 |190
+|1962 |185
+|1968 |174
+|1975 |163
+|1982 |146
+|1990 |135
+|1999 |146
+|2007 |161
+|2012 |155
+|2017 |148
+}}
+
+[[File:Azet village.JPG|thumb|Azet and the mountains]]
+
+==Culture and heritage==
+
+===Civil heritage===
+The commune has a number of sites that are registered as historical monuments:
+*'''Houses and Farms''' (18th-19th century){{Mérimée Icon}}<ref>Ministry of Culture, Mérimée {{Mérimée|IA00126622|IA00126622 Houses and Farms}} {{in lang|fr}}</ref>
+*A '''Farmhouse''' (1865){{Mérimée Icon}}<ref>Ministry of Culture, Mérimée {{Mérimée|IA00126612|IA00126612 Farmhouse}} {{in lang|fr}}</ref>
+
+;Other sites of interest:
+*The '''Pyrenean House of Pastoralism''' is an educational and tourist centre on pastoralism in the mountains. The museum traces the history and development of pastoralism in France and worldwide.
+
+===Religious heritage===
+[[File:Eglise Notre-Dame de l'Assomption à Azet.JPG|thumb|The Church]]
+The '''Church of Our Lady of the Assumption''' (12th century){{Mérimée Icon}} is registered as an historical monument.<ref name=Church>Ministry of Culture, Mérimée {{Mérimée|IA00126577|IA00126577 Church of Our Lady of the Assumption}} {{in lang|fr}}{{Camera}}</ref><ref name=PA00135468>Ministry of Culture, Mérimée {{Mérimée|PA00135468|PA00135468 Church of Our Lady of the Assumption}} {{in lang|fr}}</ref> The Church contains a very large number of items that are registered as historical objects.<ref name=Church/><ref name=PA00135468/>
+
+==See also==
+*[[Communes of the Hautes-Pyrénées department]]
+
+===External links===
+*[https://web.archive.org/web/20080531000114/http://www.ign.fr/affiche_rubrique.asp?rbr_id=1087&CommuneId=62223 Azet on the old IGN website] {{in lang|fr}}
+*[http://www.lion1906.com/departements/hautes-pyrenees/azet-.php Azet on Lion1906]
+*[http://www.geoportail.gouv.fr/accueil?c=0.3525,42.8114&z=7.92265E-5&l=GEOGRAPHICALGRIDSYSTEMS.MAPS.3D$GEOPORTAIL:OGC:WMTS@aggregate(1)&l=ADMINISTRATIVEUNITS.BOUNDARIES$GEOPORTAIL:OGC:WMTS(1)&permalink=yes Azet on Géoportail], [[Institut géographique national|National Geographic Institute]] (IGN) website {{in lang|fr}}
+*[http://rumsey.geogarage.com/maps/cassinige.html?lat=42.8114&lon=0.3525&zoom=13 ''Azet'' on the 1750 Cassini Map]
+
+==References==
+{{Reflist|2}}
+
+{{Commons category|Azet}}
+{{Hautes-Pyrénées communes}}
+
+{{authority control}}
+
+[[Category:Communes of Hautes-Pyrénées]]

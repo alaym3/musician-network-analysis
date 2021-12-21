@@ -1,0 +1,81 @@
+{{more citations needed|date=October 2016}}
+{{Infobox settlement
+|official_name          = Brye
+|other_name             = 
+|native_name            = {{native_name|wa|Briye}}
+|nickname               = 
+|settlement_type        = Village
+|motto                  =
+|image_skyline          = Brye kerk.JPG
+|imagesize              = 
+|image_caption          = The church of Saint-Pierre, Brye.
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|pushpin_map            = Belgium
+|pushpin_label_position = bottom
+|pushpin_mapsize=
+|pushpin_map_caption    =
+| subdivision_type        = Country
+| subdivision_name        = {{flag|Belgium}}
+| subdivision_type1       = [[Communities, regions and language areas of Belgium|Region]]
+| subdivision_name1       = {{flag|Wallonia}}
+| subdivision_type2       = [[Provinces of Belgium|Province]]
+| subdivision_name2       = {{BE-WHT}}
+| subdivision_type3       = 
+| subdivision_name3       = 
+| subdivision_type4       = [[Municipalities of Belgium|Municipality]]
+| subdivision_name4       = {{flagicon image|Blason_ville_be_Fleurus_(Hainaut).svg}} [[Fleurus]]
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            = 
+|established_title      =  
+|established_date       = 
+|area_magnitude         = 
+|unit_pref              =  
+|area_footnotes         =
+|area_total_km2         =
+|area_land_km2          = 
+|population_as_of       = 
+|population_footnotes   =
+|population_note        =
+|population_total       = 
+|population_density_km2 =
+|timezone               = [[Central European Time|CET]]
+|utc_offset             = +1
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|50|31|26.78|N|4|33|23.96|E|region:BE|display=inline,title}}
+|elevation_footnotes    = 
+|elevation_m            = 
+|elevation_ft           = 
+|postal_code_type       = 
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|website                = 
+|footnotes              = 
+}}
+'''Brye''' ({{lang-wa|Briye}}) is a village of [[Wallonia]] and a district of the municipality of [[Fleurus]], located in the [[Hainaut Province|province of Hainaut]], [[arrondissement of Charleroi]], [[Belgium]]. Its post code is 6222, and telephone zone code is 071.
+
+Brye was its own municipality until the [[fusion of the Belgian municipalities]] in 1977, when it merged with Fleurus.
+
+=={{anchor|Windmill of Brye}}History==
+On 16 June 1815 Brye and the heights nearby, along with a string of other villages, were occupied by the Prussian army commanded by [[Gebhard Leberecht von Blücher|Gebhard von Blücher]] and defended against the French [[Army of the North (France)|Army of the North]] commanded by [[Napoleon Bonaparte]] at the [[Battle of Ligny]]. On the heights—the highest point of the whole position—stood the Windmill of Buss which was used by Blücher and his staff as an observation point.{{efn|The windmill of Bussy, also called the windmill of Brye, was located just to the south of the cross roads of ''Rue Joseph Scohy'', ''Rue de Sombreffe'' and ''Rue de Tige'' at {{coord|50|31|17.78|N|4|33|44.72|E|region:BE|display=inline}}{{sfn|Haweis|1908|loc=facing page 150}}<!--efn-->}}It was here at around about 13:00 that Blücher, [[Duke of Wellington|Wellington]] and their staffs held their conference. After the centre of the Prussian lines were broken by the French, a Prussians rearguard put up a stout resistance in Brye.{{sfn|Siborne|1848|pp=200–202, 135–136, 247–249}}
+
+==Notes==
+{{notelist}}
+{{reflist}}
+
+==References==
+*{{citation|last=Haweis |first=James Walter |year=1908|chapter=Plan of the Battlefelds of Ligny and Quatre Bras |title=The campaign of 1815, chiefly in Flanders |location=Edinburgh |publisher=William Blackwood and Sons |at=facing page 150 |url=https://archive.org/details/cu31924024320891}}
+*{{citation |last=Siborne |first=William |year=1848 |title=The Waterloo Campaign, 1815 |edition=4th |location=Westminster |publisher=A. Constable |url=https://archive.org/details/waterloocampaig01sibogoog}}
+
+[[Category:Former municipalities of Hainaut (province)]]
+[[Category:Battle of Ligny locations]]

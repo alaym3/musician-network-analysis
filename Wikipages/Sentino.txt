@@ -1,0 +1,40 @@
+{{Infobox river
+| name              = Sentino
+| image             = SentinoGolaCorno.jpg
+| image_caption     = The river at the Corno di Catria gorge
+| source1_location  =
+| mouth             = [[Esino]]
+| mouth_location    = [[Genga, Marche]]
+| subdivision_type1 = Country
+| subdivision_name1 = [[Italy]]
+| subdivision_type2  = [[Regions of Italy|Regions]]
+| subdivision_name2  = [[Umbria]]<br />[[Marche]] 
+| length            = {{convert|42|km|mi|abbr=on}}
+| source1_elevation = {{Convert|750|m|ft|abbr=on}}
+| mouth_elevation   = 
+| mouth_coordinates   = {{coord|43.39724|12.97592|format=dms|type:river_region:IT|display=inline,title}}
+| progression         = 
+| discharge1_avg    =  {{Convert|3.44|m3/s|ft3/s|abbr=on}}
+| basin_size        = {{Convert|388|km2|mi2|abbr=on}}
+}}
+The '''Sentino''' is a tributary of the [[Esino]] River, which springs at 750 m above sea level above the mountains of [[Gubbio]], in [[Umbria]].<ref>{{Cite web|url=http://www.fiumi.com/acque/index.php?id_g=251|title=Torrente Sentino|website=www.fiumi.com|access-date=2019-08-27|language=it}}</ref> The Sentino flows from the north-eastern slope of Madonna della Cima.
+
+The source gushes from the north-eastern slope of Madonna della Cima and initially flows through the hills of the pre-Apennines of Gubbio, collecting the influx of many small streams.
+
+When it reaches the village of [[Scheggia e Pascelupo|Scheggia]], it cuts through the chain of [[Apennines]], creating the Gola del Corno del Catria, located in the northern sector of the [[Monte Cucco]]  Park.
+
+Having crossed the Apennines, the Sentino enters the [[Marche]] region through a valley dotted with hermitages and monasteries, including [[Sant'Emiliano in Congiuntoli]], until it reaches the town of [[Sassoferrato]]: the ancient Roman city of ''[[Sentinum]]'', from which it takes its name.
+
+Continuing its course, the river meets the [[Fabriano]] pre-Apennines generating the imposing Frasassi Gorge, famous for [[Frasassi Caves|the homonymous cave]], which the Sentino in the past has contributed to its genesis.<ref>{{Cite web|url=http://www.frasassi.com/GrotteGenesi.aspx?L=IT|title=Grotte di Frasassi|website=www.frasassi.com|access-date=2019-08-27|language=it}}</ref>
+
+Once past the Frasassi Gorge, near San Vittore Terme, the Sentino concludes its 42 km journey by meeting the [[Esino]] River, of which it becomes its main tributary.<ref>{{Cite web|url=http://www.robertobarbaresi.it/articoli-itinerari/il-torrente-sentino/|title=Il torrente Sentino|website=robertobarbaresi.it - Pesca alla trota in torrente - Ambienti Trote Tecniche Itinerari Info|language=it|access-date=2019-08-27}}</ref> 
+
+The average flow rate of the Sentino is about 3 m³/s.
+
+==References==
+<references />
+
+[[Category:Rivers of the Province of Perugia]]
+[[Category:Rivers of the Province of Macerata]]
+[[Category:Rivers of the Province of Ancona]]
+[[Category:Rivers of the Apennines]]

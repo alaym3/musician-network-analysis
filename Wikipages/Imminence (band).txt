@@ -1,0 +1,223 @@
+{{Refimprove|date=October 2020}}
+{{Use dmy dates|date=January 2020}}
+{{Infobox musical artist
+| name            = Imminence
+| image           =
+| image_size      =
+| landscape       = yes<!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Trelleborg]], Sweden
+| genre           = {{hlist|[[Metalcore]]|[[post-hardcore]]|[[melodic metalcore]]|[[alternative metal]]}}
+| years_active    = {{start date|2009}}–present
+| label           = {{flatlist|
+* [[Arising Empire]]
+* We Are Triumphant
+}}
+| associated_acts =
+| website         = {{website|www.imminenceswe.com}}
+| current_members = * Eddie Berg
+* Harald Barret
+* Alex Arnoldsson
+* Christian Höijer
+* Peter Hanström
+| past_members    = *Fredrik Rosdahl
+* Max Holmberg
+}}
+'''Imminence''' are a Swedish [[post-hardcore]] and [[alternative metalcore]] band from [[Trelleborg]], Sweden, who formed in 2009.
+
+==History==
+The band was started in 2009 by Harald Barret, with singer Eddie Berg joining shortly after. They decided on the name Imminence in 2010. In 2012, Alex Arnoldsson and Peter Hanström joined the band.<ref name="Blabbermouth"></ref>
+
+In 2012, they released their debut [[Extended play|EP]], ''Born of Sirius'', which was well received by fans and critics. That year, they were also selected to play at the [[Metaltown Festival]], one of the largest music festivals in Sweden.<ref name="Blabbermouth"></ref>
+
+In 2013, Imminence signed a contract with We Are Triumphant Records, a sub-label for the Chicago-based record company [[Victory Records]], where they released their second EP, ''Return for Helios'', along with the single "Wine & Water".<ref name="Blabbermouth">{{cite web | url=https://www.blabbermouth.net/news/imminence-signs-with-we-are-triumphant-records/ | title=IMMINENCE Signs With WE ARE TRIUMPHANT RECORDS | work=Blabbermouth.net | date=16 March 2013 | accessdate=15 September 2019}}</ref> In 2014, they released their debut album, ''I'', which was accompanied by a series of music videos shot by singer Eddie Berg.
+
+==Members==
+;Current
+* Eddie Berg – lead vocals, violin <small>(2009–present)</small>
+* Harald Barret – lead guitar, backing vocals <small>(2009–present)</small>
+* Alex Arnoldsson – rhythm guitar <small>(2012–present)</small>
+* Peter Hanström – drums <small>(2012–present)</small>
+* Christian Höijer – bass guitar <small>(2018–present)</small>
+
+;Past
+* Fredrik Rosdahl – bass guitar <small>(2009–2014)</small>
+* Max Holmberg – bass guitar <small>(2015–2018)</small>
+
+=== Timeline ===
+{{#tag:timeline|
+ImageSize = width:900 height:auto barincrement:20
+PlotArea = left:115 bottom:90 top:0 right:20
+Alignbars = justify
+DateFormat = mm/dd/yyyy
+Period = from:01/01/2010 till:01/01/2022
+TimeAxis = orientation:horizontal format:yyyy
+
+Colors =
+ id:Vocals       value:red            legend:Lead_vocals
+ id:Backing      value:pink           legend:Backing_vocals
+ id:LGuitar      value:teal           legend:Lead_guitar
+ id:RGuitar      value:brightgreen    legend:Rhythm_guitar
+ id:Bass         value:blue           legend:Bass
+ id:Drums        value:orange         legend:Drums
+ id:Violin       value:purple         legend:Violin
+ id:Studio       value:black          legend:Studio_album
+ id:other        value:gray(0.5)      legend:EP
+ id:bars         value:gray(0.95)
+
+Legend = orientation:vertical  columns:1  position:bottom
+BackgroundColors = bars:bars
+ScaleMajor = increment:1 start:2010
+ScaleMinor = unit:year increment:1 start:2010
+
+LineData =
+ at:08/06/2012 color:other layer:back
+ at:05/07/2013 color:other layer:back
+ at:09/09/2014 color:Studio layer:back
+ at:04/25/2015 color:other layer:back
+ at:03/31/2017 color:Studio layer:back
+ at:04/26/2019 color:Studio layer:back
+ at:01/10/2020 color:other layer:back
+ at:11/26/2021 color:Studio layer:back
+
+BarData = 
+ bar:Berg           text:"Eddie Berg"
+ bar:Barret         text:"Harald Barret"
+ bar:Arnoldsson     text:"Alex Arnoldsson"
+ bar:Rosdahl        text:"Fredrik Rosdahl"
+ bar:Holmberg       text:"Max Holmberg"
+ bar:Hoijer         text:"Christian Höijer"
+ bar:Hanstrom       text:"Peter Hanström"
+
+PlotData=
+ width:11
+ bar:Berg            from:start       till:end           color:Vocals
+ bar:Berg            from:12/11/2015  till:end           color:Violin      width:3
+ bar:Barret          from:start       till:end           color:LGuitar
+ bar:Barret          from:01/01/2010  till:01/01/2012    color:RGuitar     width:7
+ bar:Barret          from:start       till:end           color:Backing     width:3
+ bar:Arnoldsson      from:01/01/2012  till:end           color:RGuitar 
+ bar:Hoijer          from:01/01/2018  till:end           color:Bass
+ bar:Rosdahl         from:start       till:12/09/2014    color:Bass    
+ bar:Holmberg        from:01/01/2015  till:01/01/2018    color:Bass
+ bar:Hanstrom        from:01/01/2012       till:end           color:Drums
+}}
+
+==Discography==
+;Studio albums
+*2014: ''I'' (We Are Triumphant Records)
+*2017: ''This Is Goodbye''
+*2019: ''Turn the Light On''
+*2021: ''Heaven in Hiding''
+;EPs
+*2012: ''Born of Sirius''
+*2013: ''Return to Helios'' (We Are Triumphant Records)
+*2015: ''Mark on My Soul''
+*2020: ''Turn the Light On (Acoustic)''
+;Singles
+*2013: "Wine & Water" (We Are Triumphant Records)
+*2015: "Mark on My Soul"
+*2015: "The Sickness" (Arising Empire)
+*2016: "Can We Give It All"
+*2018: "Paralyzed"
+*2019: "Infectious"
+*2019: "Saturated Soul"
+*2019: "Lighthouse"
+*2021: "Temptation"
+*2021: "Heaven in Hiding"
+*2021: "Ghost"
+*2021: "Chasing Shadows & Alleviate"
+
+==Music videos==
+{| class="wikitable"
+! rowspan="1"| Year
+! rowspan="1"| Title
+! rowspan="1"| Album
+|-
+| 2012
+| "The Devourer"
+| ''Born of Sirius''
+|-
+|rowspan="3"| 2013
+| "Wine & Water"
+|rowspan="4"| ''Return to Helios''
+|-
+|"Snakes & Ladders"
+|-
+|"Mors Certa"
+|-
+|rowspan="3"| 2014
+|"Hora Incerta"
+|-
+| "86"
+|rowspan="2"| ''I''
+|-
+| "The Seventh Seal"
+|-
+|rowspan="3"| 2015
+|"Wine & Water (acoustic)"
+|rowspan="4"| [singles]
+|-
+|"A Mark on My Soul"
+|-
+|"The Sickness"
+|-
+|rowspan="1"| 2016
+|"Can We Give It All"
+|-
+|rowspan="4"| 2017
+|"This Is Goodbye"
+|rowspan="5"| ''This Is Goodbye''
+|-
+|"Diamonds"
+|-
+|"Broken Love"
+|-
+|"Up"
+|-
+|rowspan="2"| 2018
+|"This Is Goodbye (acoustic)"
+|-
+|"Paralyzed"
+|rowspan="6"| ''Turn the Light On''
+|-
+|rowspan="6"| 2019
+|"Infectious"
+|-
+|"Saturated Soul"
+|-
+|"Lighthouse"
+|-
+|"Erase"
+|-
+|"Saturated Soul (acoustic)"
+|-
+|"Crawling" (Linkin Park cover)
+|rowspan="6"| ''Heaven in Hiding''
+|-
+| rowspan="6"| 2021
+|"Temptation"
+|-
+|"Heaven in Hiding"
+|-
+|"Ghost"
+|-
+|"Chasing Shadows & Alleviate"
+|-
+|"Surrender"
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Discogs artist|Imminence}}
+
+{{Authority control}}
+
+[[Category:Swedish metalcore musical groups]]
+[[Category:2010 establishments in Sweden]]
+[[Category:Musical groups established in 2010]]

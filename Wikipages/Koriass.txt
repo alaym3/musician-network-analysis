@@ -1,0 +1,53 @@
+{{Use mdy dates|date=February 2021}}
+{{Infobox musical artist
+| name            = Koriass
+| image           = Koriass.jpg
+| caption         =
+| image_size      = <!-- Only for images narrower than 220 pixels -->
+| landscape       = yes
+| birth_name      = Emmanuel Dubois
+| birth_date      = {{birth date and age|1984|3|12|mf=yes}}
+| birth_place     = [[Montreal]], Quebec, Canada
+| death_date      =
+| origin          =
+| instrument      = Vocals
+| Genre           = [[Canadian hip hop|hip hop]]
+| occupation      = [[rapper]]
+| years_active    = 2000s-present
+| label           =
+| associated_acts =
+| website         = 
+}}
+'''Koriass''' is the stage name of '''Emmanuel Dubois''' (born March 12, 1984), a Canadian rapper from [[Quebec]].<ref name=manyfaces>[https://www.thestar.com/entertainment/music/2016/03/26/the-many-faces-of-quebec-rapper-koriass.html "The many faces of Quebec rapper Koriass"]. ''[[Toronto Star]]'', March 26, 2016.</ref> He is a two-time winner of the [[Prix Félix]] for Best Hip Hop Album, in 2014 for ''Rue des Saules''<ref>[http://www.lapresse.ca/arts/musique/201410/22/01-4811742-autre-gala-de-ladisq-des-felix-pour-jimmy-hunt-et-arcade-fire.php "Autre gala de l'ADISQ: des Félix pour Jimmy Hunt et Arcade Fire"]. ''[[La Presse (Canadian newspaper)|La Presse]]'', October 22, 2014.</ref> and in 2016 for ''Love Suprême'',<ref>[http://ici.radio-canada.ca/nouvelle/811375/adisq-premier-gala-coeur-pirate-fred-fortin-bernard-adamus-koriass-francois-perusse-felix "Coeur de pirate et Fred Fortin parmi les gagnants du Premier Gala de l'ADISQ"]. [[CBC News|Ici Radio-Canada]], October 28, 2016.</ref> was a shortlisted finalist for the [[Juno Award for Francophone Album of the Year]] at the [[Juno Awards of 2017]] for ''Love Suprême'',<ref>[https://www.ledevoir.com/culture/musique/491077/celine-dion-parmi-les-nommes-pour-le-juno-de-l-album-de-l-annee "Plusieurs Québécois en lice au gala des Juno"]. ''[[Le Devoir]]'', February 8, 2017.</ref> and won the [[SOCAN Songwriting Prize|Echo Songwriting Prize]] in the French division in 2012 for his song "St-Eustache".<ref name=manyfaces/>
+
+He received another Juno Award nomination for Francophone Album of the Year at the [[Juno Awards of 2020]], for his 2019 album ''La nuit des longs couteaux''.<ref>Melody Lau, [https://www.cbc.ca/music/junos/news/alessia-cara-and-tory-lanez-lead-the-2020-juno-nominations-1.5436386 "Alessia Cara and Tory Lanez lead the 2020 Juno nominations"]. [[CBC Music]], January 28, 2019.</ref>
+
+==Discography==
+===Albums===
+*''Les racines dans le béton'' (2008)
+*''Petites victoires'' (2011)
+*''Rue des Saules'' (2013)
+*''Love Suprême'' (2016)
+*''La nuit des longs couteaux'' (2018)
+*''Génies en herbes'' (with [[FouKi]], 2020)
+
+===EPs===
+*''Mort de rire'' (2006, EP)
+*''Petit love'' (2015, EP)
+
+==References==
+{{Reflist|30em}}
+
+{{SOCAN Songwriting Prize}}
+{{Authority control}}
+
+[[Category:1984 births]]
+[[Category:Canadian male rappers]]
+[[Category:21st-century Canadian rappers]]
+[[Category:French Quebecers]]
+[[Category:Musicians from Montreal]]
+[[Category:Living people]]
+[[Category:21st-century Canadian male musicians]]
+
+
+{{Canada-musician-stub}}

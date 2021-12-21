@@ -1,0 +1,961 @@
+{{Short description|Overview of the municipalities of Estonia}}
+{{redirect|Vald|the French rapper|Vald (rapper)}}
+{{Politics of Estonia}}
+[[File:Estonia municipalities.png|thumb|Municipalities of Estonia]]
+<!-- [[File:Municipalities of Estonia by type.png|thumb|right|350px|Municipalities of Estonia by type]] -->
+
+A '''[[municipality]]''' ({{lang-et|omavalitsus}}, plural {{lang|et|omavalitsused}}) is the smallest administrative subdivision of [[Estonia]]. Each municipality is a unit of self-government with its representative and executive bodies. The municipalities in Estonia cover the entire territory of the country.
+
+Municipalities in Estonia are of two types: 
+*'''Urban municipalities''' or '''towns''' ({{lang|et|linnad}}, singular {{lang|et|linn}})
+*'''Rural municipalities''' or '''[[Parish (administrative division)|parish]]es''' ({{lang|et|vallad}}, singular {{lang|et|vald}}).
+
+There is no other status distinction between them.
+
+Municipalities may contain one or several [[Populated places in Estonia|settlements]]. All urban municipalities plus 6 rural municipalities contain only one settlement. Of the latter six, 5 are so-called "borough-parishes", consisting of one borough, while [[Ruhnu Parish]] consists of one village.
+
+Some municipalities are divided into districts. The 8 urban districts ({{lang|et|linnaosad}}, singular {{lang|et|linnaosa}}) of Tallinn have limited self-government, while other urban districts are formed for administrative purposes. Some rural districts ({{lang|et|osavallad}}) have limited self-government, while other types of rural districts do not.
+
+Municipalities range in population from [[Tallinn]] with 427,500 inhabitants to [[Ruhnu]] with 68.<ref name=einst.ee>{{cite web |url=http://www.einst.ee/factsheets/factsheets_uus_kuju/local_government_reform.htm |title=Archived copy |access-date=2002-06-19 |url-status=dead |archive-url=https://web.archive.org/web/20020619141032/http://www.einst.ee/factsheets/factsheets_uus_kuju/local_government_reform.htm |archive-date=2002-06-19 }}</ref> Previously, as over two-thirds of the municipalities had a population of under 3,000, many of them found it advantageous to co-operate in providing services and carrying out administrative functions.
+
+Currently, after the [[Administrative reform of Estonia|administrative reform]] was completed in October 2017, there are total of 79 municipalities, 15 of which are urban and 64 rural. 51 of the present municipalities were the result of mergers, 28 remain unchanged. After the reform small municipalities with under 5,000 inhabitants have been reduced from a number of 169 to 15. The number of councillors was reduced from 2,026 to 1,019. The municipalities are:
+
+==List==
+{| class="wikitable sortable"
+!Name
+!Capital
+!Area (km<sup>2</sup>) 
+!Population
+!Type
+!County
+!Flag
+!Coat of 
+Arms
+!Map
+|-
+|[[Alutaguse Parish|Alutaguse]]
+|[[Iisaku]]
+|1,439.61
+|4,682
+|Rural
+|[[File:Ida-Virumaa lipp.svg|frameless|25x25px]] [[Ida-Viru County]]
+|[[File:Alutaguse valla lipp.svg|frameless|50x50px]]
+|[[File:Alutaguse valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Alutaguse vald 2017.svg|frameless|76x76px]]
+|-
+|[[Anija Parish|Anija]]
+|[[Kehra]]
+|520.94
+|6,274
+|Rural
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Anija valla lipp.svg|frameless|50x50px]]
+|[[File:Anija valla vapp.svg|frameless|44x44px]]
+|[[File:Eesti Anija vald 2017.svg|frameless|76x76px]]
+|-
+|[[Antsla Parish|Antsla]]
+|[[Antsla]]
+|411
+|4,372
+|Rural
+|[[File:Võrumaa lipp.svg|frameless|25x25px]] [[Võru County]]
+|[[File:Flag of et-Antsla vald.svg|frameless|50x50px]]
+|[[File:Antsla valla vapp.gif|frameless|50x50px]]
+|[[File:Eesti Antsla vald 2017.svg|frameless|76x76px]]
+|-
+|[[Häädemeeste Parish|Häädemeeste]]
+|[[Häädemeeste]]
+|494
+|4,794
+|Rural
+|[[File:Pärnumaa lipp.svg|frameless|25x25px]] [[Pärnu County]]
+|[[File:Flag of Tahkuranna Parish.svg|frameless|32x32px]]
+|[[File:Häädemeeste valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Häädemeeste vald 2017.svg|frameless|76x76px]]
+|-
+|[[Haapsalu (urban municipality)|Haapsalu]]
+|[[Haapsalu]]
+|272
+|12,883
+|Urban
+|[[File:Lääne-Virumaa lipp.svg|frameless|25x25px]] [[Lääne County]]
+|[[File:Haapsalu lipp.svg|frameless|50x50px]]
+|[[File:Haapsalu vapp.svg|frameless|50x50px]]
+|[[File:Eesti Haapsalu linn 2017.svg|frameless|76x76px]]
+|-
+|[[Haljala Parish|Haljala]]
+|[[Haljala]]
+|183.02
+|4,297
+|Rural
+|[[File:Lääne-Virumaa lipp.svg|frameless|25x25px]] [[Lääne-Viru County]]
+|[[File:Flag of Haljala Parish.svg|frameless|50x50px]]
+|[[File:EST Haljala vald COA.png|frameless|50x50px]]
+|[[File:Eesti Haljala vald 2017.svg|frameless|76x76px]]
+|-
+|[[Harku Parish|Harku]]
+|[[Tabasalu]]
+|159.77
+|15,650
+|Rural
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Harku valla lipp.svg|frameless|50x50px]]
+|[[File:Harku valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Harku vald 2017.svg|frameless|76x76px]]
+|-
+|[[Hiiumaa Parish|Hiiumaa]]
+|[[Kärdla]]
+|1,023
+|9,381
+|Rural
+|[[File:Hiiumaa lipp.svg|frameless|25x25px]] [[Hiiu County]]
+|[[File:Hiiu valla lipp.png|frameless|50x50px]]
+|[[File:Coat of arms of Hiiumaa Parish.svg|frameless|50x50px]]
+|[[File:Eesti Hiiumaa vald 2017.svg|frameless|76x76px]]
+|-
+|[[Järva Parish|Järva]]
+|[[Järva-Jaani]]
+|1,223
+|8,837
+|Rural
+|[[File:Flag of et-Järva maakond.svg|frameless|25x25px]] [[Järva County]]
+|[[File:Järva valla lipp.svg|frameless|50x50px]]
+|[[File:Järva valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Järva vald 2017.svg|frameless|76x76px]]
+|-
+|[[Jõelähtme Parish|Jõelähtme]]
+|[[Jõelähtme]]
+|210.86
+|6,692
+|Rural
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Jõelähtme valla lipp.svg|frameless|50x50px]]
+|[[File:Jõelähtme valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Jõelähtme vald 2017.svg|frameless|76x76px]]
+|-
+|[[Jõgeva Parish|Jõgeva]]
+|[[Jõgeva]]
+|458
+|13,262
+|Rural
+|[[File:Jõgevamaa lipp.svg|frameless|25x25px]] [[Jõgeva County]]
+|[[File:Jõgeva valla lipp.svg|frameless|50x50px]]
+|[[File:Jõgeva valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Jõgeva vald 2017.svg|frameless|76x76px]]
+|-
+|[[Jõhvi Parish|Jõhvi]]
+|[[Jõhvi]]
+|124
+|11,699
+|Rural
+|[[File:Ida-Virumaa lipp.svg|frameless|25x25px]] [[Ida-Viru County]]
+|[[File:Flag of Jõhvi.svg|frameless|50x50px]]
+|[[File:Jõhvi valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Jõhvi vald 2017.svg|frameless|76x76px]]
+|-
+|[[Kadrina Parish|Kadrina]]
+|[[Kadrina]]
+|329.36
+|4,791
+|Rural
+|[[File:Lääne-Virumaa lipp.svg|frameless|25x25px]] [[Lääne-Viru County]]
+|[[File:Flag of Kadrina vald.svg|frameless|50x50px]]
+|[[File:Kadrina vald coatofarms.png|frameless|50x50px]]
+|[[File:Eesti Kadrina vald 2017.svg|frameless|76x76px]]
+|-
+|[[Kambja Parish|Kambja]]
+|[[Ülenurme]]
+|275
+|12,089
+|Rural
+|[[File:Tartumaa lipp.svg|frameless|25x25px]] [[Tartu County]]
+|[[File:Kambja valla lipp 2020.svg|frameless|50x50px]]
+|[[File:Kambja valla vapp 2020.svg|frameless|50x50px]]
+|[[File:Eesti Kambja vald 2017.svg|frameless|76x76px]]
+|-
+|[[Kanepi Parish|Kanepi]]
+|[[Kanepi]]
+|524.68
+|4,685
+|Rural
+|[[File:Põlvamaa lipp.svg|frameless|25x25px]] [[Põlva County]]
+|[[File:Kanepi valla lipp.svg|frameless|50x50px]]
+|[[File:Kanepi valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Kanepi vald 2017.svg|frameless|76x76px]]
+|-
+|[[Kastre Parish|Kastre]]
+|[[Kastre]]
+|493
+|5,430
+|Rural
+|[[File:Tartumaa lipp.svg|frameless|25x25px]] [[Tartu County]]
+|[[File:Kastre valla lipp.svg|frameless|50x50px]]
+|[[File:Kastre valla vapp.png|frameless|50x50px]]
+|[[File:Eesti Kastre vald 2017.svg|frameless|76x76px]]
+|-
+|[[Kehtna Parish|Kehtna]]
+|[[Kehtna]]
+|512
+|5,416
+|Rural
+|[[File:Raplamaa lipp.svg|frameless|25x25px]] [[Rapla County]]
+|[[File:Kehtna valla lipp.svg|frameless|50x50px]]
+|[[File:Kehtna valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Kehtna vald 2017.svg|frameless|76x76px]]
+|-
+|[[Keila]]
+|[[Keila]]
+|11.25
+|10,078
+|Urban
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Flag of Keila.svg|frameless|50x50px]]
+|[[File:Keila vapp.svg|frameless|50x50px]]
+|[[File:Eesti Keila linn 2017.svg|frameless|76x76px]]
+|-
+|[[Kihnu Parish|Kihnu]]
+|[[Sääre, Pärnu County|Sääre]]
+|16.88
+|690
+|Rural
+|[[File:Pärnumaa lipp.svg|frameless|25x25px]] [[Pärnu County]]
+|[[File:EE Kihnu fl.svg|frameless|32x32px]]
+|[[File:EE Kihnu.png|frameless|50x50px]]
+|[[File:Eesti Kihnu vald 2017.svg|frameless|76x76px]]
+|-
+|[[Kiili Parish|Kiili]]
+|[[Kiili]]
+|100.4
+|5,891
+|Rural
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Flag of Kiili.svg|frameless|50x50px]]
+|[[File:Kiili coat of arms.svg|frameless|50x50px]]
+|[[File:Eesti Kiili vald 2017.svg|frameless|76x76px]]
+|-
+|[[Kohila Parish|Kohila]]
+|[[Kohila]]
+|230.2
+|7,322
+|Rural
+|[[File:Raplamaa lipp.svg|frameless|25x25px]] [[Rapla County]]
+|[[File:Kohila valla lipp.svg|frameless|50x50px]]
+|[[File:Kohila valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Kohila vald 2017.svg|frameless|76x76px]]
+|-
+|[[Kohtla-Järve]]
+|[[Kohtla-Järve]]
+|68.77
+|32,577
+|Urban
+|[[File:Ida-Virumaa lipp.svg|frameless|25x25px]] [[Ida-Viru County]]
+|[[File:Flag of Kohtla-Jarve.svg|frameless|50x50px]]
+|[[File:Coat of arms of Kohtla-Jarve.svg|frameless|50x50px]]
+|[[File:Eesti Kohtla-Järve linn 2017.svg|frameless|76x76px]]
+|-
+|[[Kose Parish|Kose]]
+|[[Kose]]
+|532.85
+|7,211
+|Rural
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Kose valla lipp.svg|frameless|32x32px]]
+|[[File:Kose valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Kose vald 2017.svg|frameless|76x76px]]
+|-
+|[[Kuusalu Parish|Kuusalu]]
+|[[Kiiu]]
+|707.97
+|6,421
+|Rural
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Kuusalu Parish flag.svg|frameless|50x50px]]
+|[[File:Kuusalu Parish coat of arms.svg|frameless|50x50px]]
+|[[File:Eesti Kuusalu vald 2017.svg|frameless|76x76px]]
+|-
+|[[Lääne-Harju Parish|Lääne-Harju]]
+|[[Paldiski]]
+|645.71
+|12,661
+|Rural
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Lääne-Harju valla lipp.svg|frameless|50x50px]]
+|[[File:Lääne-Harju valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Lääne-Harju vald 2017.svg|frameless|76x76px]]
+|-
+|[[Lääne-Nigula Parish|Lääne-Nigula]]
+|[[Taebla]]
+|1,449
+|7,005
+|Rural
+|[[File:Lääne-Virumaa lipp.svg|frameless|25x25px]] [[Lääne County]]
+|[[File:Lääne-Nigula valla lipp.PNG|frameless|50x50px]]
+|[[File:Lääne-Nigula valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Lääne-Nigula vald 2017.svg|frameless|76x76px]]
+|-
+|[[Lääneranna Parish|Lääneranna]]
+|[[Lihula]]
+|1,352
+|5,190
+|Rural
+|[[File:Pärnumaa lipp.svg|frameless|25x25px]] [[Pärnu County]]
+|[[File:Lääneranna valla lipp.svg|frameless|50x50px]]
+|[[File:Lääneranna valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Lääneranna vald 2017.svg|frameless|76x76px]]
+|-
+|[[Loksa]]
+|[[Loksa]]
+|3.81
+|2,467
+|Urban
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Flag of Loksa.svg|frameless|50x50px]]
+|[[File:Loksa vapp.svg|frameless|50x50px]]
+|[[File:Eesti Loksa linn 2017.svg|frameless|76x76px]]
+|-
+|[[Lüganuse Parish|Lüganuse]]
+|[[Lüganuse]]
+|599
+|11,699
+|Rural
+|[[File:Ida-Virumaa lipp.svg|frameless|25x25px]] [[Ida-Viru County]]
+|[[File:Lüganuse valla lipp 2017.svg|frameless|50x50px]]
+|[[File:Lüganuse valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Lüganuse vald 2017.svg|frameless|76x76px]]
+|-
+|[[Luunja Parish|Luunja]]
+|[[Luunja]]
+|134
+|5,182
+|Rural
+|[[File:Tartumaa lipp.svg|frameless|25x25px]] [[Tartu County]]
+|[[File:Luunja valla lipp.svg|frameless|50x50px]]
+|[[File:Luunja valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Luunja vald 2017.svg|frameless|76x76px]]
+|-
+|[[Maardu]]
+|[[Maardu]]
+|22.76
+|15,284
+|Urban
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Flag of et-Maardu.svg|frameless|50x50px]]
+|[[File:Maardu vapp.svg|frameless|50x50px]]
+|[[File:Eesti Maardu linn 2017.svg|frameless|76x76px]]
+|-
+|[[Märjamaa Parish|Märjamaa]]
+|[[Märjamaa]]
+|1,164
+|7,374
+|Rural
+|[[File:Raplamaa lipp.svg|frameless|25x25px]] [[Rapla County]]
+|[[File:Flag of Märjamaa Parish.svg|frameless|32x32px]]
+|[[File:Märjamaa Parish Coat of Arms.svg|frameless|50x50px]]
+|[[File:Eesti Märjamaa vald 2017.svg|frameless|76x76px]]
+|-
+|[[Muhu Parish|Muhu]]
+|[[Liiva, Muhu Parish|Liiva]]
+|208
+|1,919
+|Rural
+|[[File:Saaremaa lipp.svg|frameless|25x25px]] [[Saare County]]
+|[[File:Flag of Muhu Parish.svg|frameless|32x32px]]
+|[[File:EE Muhu.png|frameless|50x50px]]
+|[[File:Eesti Muhu vald 2017.svg|frameless|76x76px]]
+|-
+|[[Mulgi Parish|Mulgi]]
+|[[Abja-Paluoja]]
+|881
+|7,372
+|Rural
+|[[File:Viljandimaa lipp.svg|frameless|25x25px]] [[Viljandi County]]
+|[[File:Mulgi valla lipp.svg|frameless|50x50px]]
+|[[File:Mulgi valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Mulgi vald 2017.svg|frameless|76x76px]]
+|-
+|[[Mustvee Parish|Mustvee]]
+|[[Mustvee]]
+|615
+|5,204
+|Rural
+|[[File:Jõgevamaa lipp.svg|frameless|25x25px]] [[Jõgeva County]]
+|[[File:Mustvee valla lipp.png|frameless|50x50px]]
+|[[File:Mustvee valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Mustvee vald 2017.svg|frameless|76x76px]]
+|-
+|[[Narva]]
+|[[Narva]]
+|84.54
+|53,424
+|Urban
+|[[File:Ida-Virumaa lipp.svg|frameless|25x25px]] [[Ida-Viru County]]
+|[[File:Flag of et-Narva.svg|frameless|50x50px]]
+|[[File:Narva vapp.svg|frameless|50x50px]]
+|[[File:Eesti Narva linn 2017.svg|frameless|76x76px]]
+|-
+|[[Narva-Jõesuu (urban municipality)|Narva-Jõesuu]]
+|[[Narva-Jõesuu]]
+|405
+|4,479
+|Urban
+|[[File:Ida-Virumaa lipp.svg|frameless|25x25px]] [[Ida-Viru County]]
+|[[File:Flag of Narva-Jõesuu.svg|frameless|50x50px]]
+|[[File:Narva-Jõesuu vapp.svg|frameless|50x50px]]
+|[[File:Eesti Narva-Jõesuu linn 2017.svg|frameless|76x76px]]
+|-
+|[[Nõo Parish|Nõo]]
+|[[Nõo]]
+|170
+|4,314
+|Rural
+|[[File:Tartumaa lipp.svg|frameless|25x25px]] [[Tartu County]]
+|[[File:Nõo valla lipp.svg|frameless|50x50px]]
+|[[File:Nõo valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Nõo vald 2017.svg|frameless|76x76px]]
+|-
+|[[Otepää Parish|Otepää]]
+|[[Otepää]]
+|520
+|6,412
+|Rural
+|[[File:Valgamaa lipp.svg|frameless|25x25px]] [[Valga County]]
+|[[File:Flag of Otepää Parish.svg|frameless|50x50px]]
+|[[File:Coat of arms of Otepää Parish.svg|frameless|50x50px]]
+|[[File:Eesti Otepää vald 2017.svg|frameless|76x76px]]
+|-
+|[[Paide (urban municipality)|Paide]]
+|[[Paide]]
+|443
+|10,285
+|Urban
+|[[File:Flag of et-Järva maakond.svg|frameless|25x25px]] [[Järva County]]
+|[[File:Paide lipp.svg|frameless|50x50px]]
+|[[File:Paide vapp.svg|frameless|50x50px]]
+|[[File:Eesti Paide linn 2017.svg|frameless|76x76px]]
+|-
+|[[Pärnu (urban municipality)|Pärnu]]
+|[[Pärnu]]
+|858
+|50,639
+|Urban
+|[[File:Pärnumaa lipp.svg|frameless|25x25px]] [[Pärnu County]]
+|[[File:Flag of et-Parnu.svg|frameless|50x50px]]
+|[[File:Et-Parnu coa.svg|frameless|50x50px]]
+|[[File:Eesti Pärnu linn 2017.svg|frameless|76x76px]]
+|-
+|[[Peipsiääre Parish|Peipsiääre]]
+|[[Kolkja]]
+|652
+|5,331
+|Rural
+|[[File:Tartumaa lipp.svg|frameless|25x25px]] [[Tartu County]]
+|[[File:Peipsiääre valla lipp.svg|frameless|50x50px]]
+|[[File:Peipsiääre valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Peipsiääre vald 2017.svg|frameless|76x76px]]
+|-
+|[[Põhja-Pärnumaa Parish|Põhja-Pärnumaa]]
+|[[Pärnu-Jaagupi]] and [[Vändra]]
+|1,013
+|8,046
+|Rural
+|[[File:Pärnumaa lipp.svg|frameless|25x25px]] [[Pärnu County]]
+|[[File:Põhja-Pärnumaa valla lipp.svg|frameless|50x50px]]
+|[[File:Põhja-Pärnumaa valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Põhja-Pärnumaa vald 2017.svg|frameless|76x76px]]
+|-
+|[[Põhja-Sakala Parish|Põhja-Sakala]]
+|[[Suure-Jaani]]
+|1,153
+|7,872
+|Rural
+|[[File:Viljandimaa lipp.svg|frameless|25x25px]] [[Viljandi County]]
+|[[File:Flag of Suure-Jaani.svg|frameless|50x50px]]
+|[[File:Põhja-Sakala valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Põhja-Sakala vald 2017.svg|frameless|76x76px]]
+|-
+|[[Põltsamaa Parish|Põltsamaa]]
+|[[Põltsamaa]]
+|889.56
+|9,616
+|Rural
+|[[File:Jõgevamaa lipp.svg|frameless|25x25px]] [[Jõgeva County]]
+|[[File:Põltsamaa valla lipp.svg|frameless|50x50px]]
+|[[File:Põltsamaa valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Põltsamaa vald 2017.svg|frameless|76x76px]]
+|-
+|[[Põlva Parish|Põlva]]
+|[[Põlva]]
+|706
+|13,609
+|Rural
+|[[File:Põlvamaa lipp.svg|frameless|25x25px]] [[Põlva County]]
+|[[File:Põlva valla lipp.svg|frameless|50x50px]]
+|[[File:Põlva valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Põlva vald 2017.svg|frameless|76x76px]]
+|-
+|[[Raasiku Parish|Raasiku]]
+|[[Aruküla]]
+|158.86
+|5,138
+|Rural
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Flag of Raasiku Parish.svg|frameless|32x32px]]
+|[[File:Raasiku valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Raasiku vald 2017.svg|frameless|76x76px]]
+|-
+|[[Rae Parish|Rae]]
+|[[Jüri]]
+|206.7
+|21,765
+|Rural
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Rae valla lipp.svg|frameless|50x50px]]
+|[[File:Rae valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Rae vald 2017.svg|frameless|76x76px]]
+|-
+|[[Rakvere Parish|Rakvere (parish)]]
+|[[Rakvere]]
+|295
+|5,619
+|Rural
+|[[File:Lääne-Virumaa lipp.svg|frameless|25x25px]] [[Lääne-Viru County]]
+|[[File:Rakvere valla lipp.svg|frameless|50x50px]]
+|[[File:Rakvere valla vapp.jpg|frameless|50x50px]]
+|[[File:Eesti Rakvere vald 2017.svg|frameless|76x76px]]
+|-
+|[[Rakvere|Rakvere (town)]]
+|[[Rakvere]]
+|10.64
+|14,984
+|Urban
+|[[File:Lääne-Virumaa lipp.svg|frameless|25x25px]] [[Lääne-Viru County]]
+|[[File:Flag of et-Rakvere.svg|frameless|50x50px]]
+|[[File:Rakvere vapp.svg|frameless|50x50px]]
+|[[File:Eesti Rakvere linn 2017.svg|frameless|76x76px]]
+|-
+|[[Räpina Parish|Räpina]]
+|[[Räpina]]
+|265.93
+|6,179
+|Rural
+|[[File:Põlvamaa lipp.svg|frameless|25x25px]] [[Põlva County]]
+|[[File:Flag of Räpina Parish.svg|frameless|50x50px]]
+|[[File:Räpina valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Räpina vald 2017.svg|frameless|76x76px]]
+|-
+|[[Rapla Parish|Rapla]]
+|[[Rapla]]
+|859
+|13,004
+|Rural
+|[[File:Raplamaa lipp.svg|frameless|25x25px]] [[Rapla County]]
+|[[File:Rapla valla lipp 01.svg|frameless|50x50px]]
+|[[File:Rapla valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Rapla vald 2017.svg|frameless|76x76px]]
+|-
+|[[Rõuge Parish|Rõuge]]
+|[[Rõuge]]
+|933
+|5,180
+|Rural
+|[[File:Võrumaa lipp.svg|frameless|25x25px]] [[Võru County]]
+|[[File:Rõuge valla lipp.svg|frameless|32x32px]]
+|[[File:Rõuge valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Rõuge vald 2017.svg|frameless|76x76px]]
+|-
+|[[Ruhnu Parish|Ruhnu]]
+|[[Ruhnu Lighthouse|Ruhnu]]
+|11.9
+|140
+|Rural
+|[[File:Saaremaa lipp.svg|frameless|25x25px]] [[Saare County]]
+|[[File:Flag of Ruhnu Parish.svg|frameless|50x50px]]
+|[[File:Ruhnu valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Ruhnu vald 2017.svg|frameless|76x76px]]
+|-
+|[[Saarde Parish|Saarde]]
+|[[Kilingi-Nõmme]]
+|706.9
+|4,455
+|Rural
+|[[File:Pärnumaa lipp.svg|frameless|25x25px]] [[Pärnu County]]
+|[[File:Flag of Saarde Parish, Pärnu County, Estonia.svg|frameless|50x50px]]
+|[[File:Saarde valla vapp.png|frameless|50x50px]]
+|[[File:Eesti Saarde vald 2017.svg|frameless|76x76px]]
+|-
+|[[Saaremaa Municipality|Saaremaa]]
+|[[Kuressaare]]
+|2,705
+|30,973
+|Rural
+|[[File:Saaremaa lipp.svg|frameless|25x25px]] [[Saare County]]
+|[[File:Saaremaa-valla-lipp.svg|frameless|50x50px]]
+|[[File:Saaremaa-valla-vapp.svg|frameless|50x50px]]
+|[[File:Eesti Saaremaa vald 2017.svg|frameless|76x76px]]
+|-
+|[[Saku Parish|Saku]]
+|[[Saku, Estonia|Saku]]
+|171.13
+|10,722
+|Rural
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Flag of Saku Parish.svg|frameless|32x32px]]
+|[[File:Saku valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Saku vald 2017.svg|frameless|76x76px]]
+|-
+|[[Saue Parish|Saue]]
+|[[Laagri]]
+|628
+|23,790
+|Rural
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Saue valla lipp.svg|frameless|32x32px]]
+|[[File:Saue valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Saue vald 2017.svg|frameless|76x76px]]
+|-
+|[[Setomaa Parish|Setomaa]]
+|[[Värska]] 
+|463.18
+|3,114
+|Rural
+|[[File:Võrumaa lipp.svg|frameless|25x25px]] [[Võru County]]
+|[[File:Flag of Setomaa.svg|frameless|50x50px]]
+|[[File:Setomaa valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Setomaa vald 2017.svg|frameless|76x76px]]
+|-
+|[[Sillamäe]]
+|[[Sillamäe]]
+|10.54
+|12,230
+|Urban
+|[[File:Ida-Virumaa lipp.svg|frameless|25x25px]] [[Ida-Viru County]]
+|[[File:Flag of Sillamäe.svg|frameless|50x50px]]
+|[[File:Sillamäe vapp.svg|frameless|50x50px]]
+|[[File:Eesti Sillamäe linn 2017.svg|frameless|76x76px]]
+|-
+|[[Tallinn]]
+|[[Tallinn]]
+|159.2
+|438,341
+|Urban
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Flag of Tallinn.svg|frameless|50x50px]]
+|[[File:Tallinn wapen.svg|frameless|50x50px]]
+|[[File:Eesti Tallinna linn 2017.svg|frameless|76x76px]]
+|-
+|[[Tapa Parish|Tapa]]
+|[[Tapa, Estonia|Tapa]]
+|480
+|10,611
+|Rural
+|[[File:Lääne-Virumaa lipp.svg|frameless|25x25px]] [[Lääne-Viru County]]
+|[[File:Tapa valla lipp.png|frameless|50x50px]]
+|[[File:Tapa valla vapp.png|frameless|50x50px]]
+|[[File:Eesti Tapa vald 2017.svg|frameless|76x76px]]
+|-
+|[[Tartu Parish|Tartu (parish)]]
+|[[Kõrveküla]]
+|742
+|11,539
+|Rural
+|[[File:Tartumaa lipp.svg|frameless|25x25px]] [[Tartu County]]
+|[[File:Flag of Tartu Parish.svg|frameless|50x50px]]
+|[[File:Tartu valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Tartu vald 2017.svg|frameless|76x76px]]
+|-
+|[[Tartu (urban municipality)|Tartu (city)]]
+|[[Tartu]]
+|154
+|96,974
+|Urban
+|[[File:Tartumaa lipp.svg|frameless|25x25px]] [[Tartu County]]
+|[[File:Tartu flag.svg|frameless|50x50px]]
+|[[File:Tartu coat of arms.svg|frameless|50x50px]]
+|[[File:Eesti Tartu linn 2017.svg|frameless|76x76px]]
+|-
+|[[Toila Parish|Toila]]
+|[[Toila Parish|Toila]]
+|266
+|4,603
+|Rural
+|[[File:Ida-Virumaa lipp.svg|frameless|25x25px]] [[Ida-Viru County]]
+|[[File:Flag of Toila Parish.svg|frameless|50x50px]]
+|[[File:Toila valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Toila vald 2017.svg|frameless|76x76px]]
+|-
+|[[Tori Parish|Tori]]
+|[[Sindi, Estonia|Sindi]]
+|611
+|11,946
+|Rural
+|[[File:Pärnumaa lipp.svg|frameless|25x25px]] [[Pärnu County]]
+|[[File:Tori valla lipp.svg|frameless|32x32px]]
+|[[File:Tori valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Tori vald 2017.svg|frameless|76x76px]]
+|-
+|[[Tõrva Parish|Tõrva]]
+|[[Tõrva]]
+|647
+|6,064
+|Rural
+|[[File:Valgamaa lipp.svg|frameless|25x25px]] [[Valga County]]
+|[[File:Tõrva valla lipp.svg|frameless|50x50px]]
+|[[File:Tõrva valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Tõrva vald 2017.svg|frameless|76x76px]]
+|-
+|[[Türi Parish|Türi]]
+|[[Türi]]
+|1,008
+|10,695
+|Rural
+|[[File:Flag of et-Järva maakond.svg|frameless|25x25px]] [[Järva County]]
+|[[File:Türi valla lipp.jpg|frameless|50x50px]]
+|[[File:Türi valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Türi vald 2017.svg|frameless|76x76px]]
+|-
+|[[Väike-Maarja Parish|Väike-Maarja]]
+|[[Väike-Maarja]]
+|457.39
+|5,737
+|Rural
+|[[File:Lääne-Virumaa lipp.svg|frameless|25x25px]] [[Lääne-Viru County]]
+|[[File:Flag of Väike-Maarja Parish.svg|frameless|50x50px]]
+|[[File:EST Väike-Maarja vald COA.png|frameless|50x50px]]
+|[[File:Eesti Väike-Maarja vald 2017.svg|frameless|76x76px]]
+|-
+|[[Valga Parish|Valga]]
+|[[Valga, Estonia|Valga]]
+|750
+|15,486
+|Rural
+|[[File:Valgamaa lipp.svg|frameless|25x25px]] [[Valga County]]
+|[[File:Valga valla lipp.svg|frameless|50x50px]]
+|[[File:Valga valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Valga vald 2017.svg|frameless|76x76px]]
+|-
+|[[Viimsi Parish|Viimsi]]
+|[[Viimsi]]
+|72.84
+|21,151
+|Rural
+|[[File:Flag of et-Harju maakond.svg|frameless|25x25px]] [[Harju County]]
+|[[File:Viimsi valla lipp.svg|frameless|50x50px]]
+|[[File:Viimsi valla vapp.svg|frameless|50x50px]]
+|[[File:Eesti Viimsi vald 2017.svg|frameless|76x76px]]
+|-
+|[[Viljandi Parish|Viljandi (parish)]]
+|[[Viljandi]]
+|651
+|13,758
+|Rural
+|[[File:Viljandimaa lipp.svg|frameless|25x25px]] [[Viljandi County]]
+|[[File:Viljandi valla lipp.png|frameless|50x50px]]
+|[[File:Viljandi valla vapp.png|frameless|50x50px]]
+|[[File:Eesti Viljandi vald 2017.svg|frameless|76x76px]]
+|-
+|[[Viljandi|Viljandi (town)]]
+|[[Viljandi]]
+|14.62
+|16,875
+|Urban
+|[[File:Viljandimaa lipp.svg|frameless|25x25px]] [[Viljandi County]]
+|[[File:Flag of et-Viljandi.svg|frameless|50x50px]]
+|[[File:Et-Viljandi coa.svg|frameless|50x50px]]
+|[[File:Eesti Viljandi linn 2017.svg|frameless|76x76px]]
+|-
+|[[Vinni Parish|Vinni]]
+|[[Pajusti]]
+|486.65
+|6,788
+|Rural
+|[[File:Lääne-Virumaa lipp.svg|frameless|25x25px]] [[Lääne-Viru County]]
+|[[File:EST Vinni vald flag.svg|frameless|50x50px]]
+|[[File:EST Vinni vald COA.png|frameless|50x50px]]
+|[[File:Eesti Vinni vald 2017.svg|frameless|76x76px]]
+|-
+|[[Viru-Nigula Parish|Viru-Nigula]]
+|[[Viru-Nigula]]
+|312
+|5,575
+|Rural
+|[[File:Lääne-Virumaa lipp.svg|frameless|25x25px]] [[Lääne-Viru County]]
+|[[File:Flag of Viru-Nigula Parish.svg|frameless|32x32px]]
+|[[File:EST Viru-Nigula vald COA.png|frameless|50x50px]]
+|[[File:Eesti Viru-Nigula vald 2017.svg|frameless|76x76px]]
+|-
+|[[Vormsi Parish|Vormsi]]
+|[[Hullo]]
+|92.93
+|397
+|Rural
+|[[File:Lääne-Virumaa lipp.svg|frameless|25x25px]] [[Lääne County]]
+|[[File:VormsiParishFlag.svg|frameless|50x50px]]
+|[[File:VormsiParishCoatOfArms.svg|frameless|50x50px]]
+|[[File:Eesti Vormsi vald 2017.svg|frameless|76x76px]]
+|-
+|[[Võru Parish|Võru (parish)]]
+|[[Võru]]
+|952
+|10,699
+|Rural
+|[[File:Võrumaa lipp.svg|frameless|25x25px]] [[Võru County]]
+|[[File:Võru valla lipp.svg|frameless|50x50px]]
+|[[File:Võru valla vapp 2017.svg|frameless|50x50px]]
+|[[File:Eesti Võru vald 2017.svg|frameless|76x76px]]
+|-
+|[[Võru|Võru (town)]]
+|[[Võru]]
+|13.24
+|11,533
+|Urban
+|[[File:Võrumaa lipp.svg|frameless|25x25px]] [[Võru County]]
+|[[File:Flag of et-Võru.svg|frameless|50x50px]]
+|[[File:Võru vapp.svg|frameless|50x50px]]
+|[[File:Eesti Võru linn 2017.svg|frameless|76x76px]]
+|}
+
+==Gallery of Maps==
+<gallery>
+File:Harju municipalities 2017.png|Municipalities of Harju County
+File:Hiiu municipalities 2017.png|Hiiumaa Parish, the only municipality of Hiiu County
+File:Ida-Viru municipalities 2017.png|Municipalities of Ida-Viru County
+File:Järva municipalities 2017.png|Municipalities of Järva County
+File:Jõgeva municipalities 2017.png|Municipalities of Jõgeva County
+File:Lääne municipalities 2017.png|Municipalities of Lääne County
+File:Lääne-Viru municipalities 2017.png|Municipalities of Lääne-Viru County
+File:Pärnu municipalities 2017.png|Municipalities of Pärnu County
+File:Põlva municipalities 2017.png|Municipalities of Põlva County
+File:Rapla municipalities 2017.png|Municipalities of Rapla County
+File:Saare municipalities 2017.png|Municipalities of Saare County
+File:Tartu municipalities 2017.png|Municipalities of Tartu County
+File:Valga municipalities 2017.png|Municipalities of Valga County
+File:Viljandi municipalities 2017.png|Municipalities of Viljandi County
+File:Võru municipalities 2017.png|Municipalities of Võru County
+</gallery>
+
+== Structure of local authorities ==
+In each municipality there is a [[local government]] as well as a [[Local Government|council]].
+
+The '''council''' ({{lang|et|volikogu}}) is a representative body elected by the residents of a municipality for a term of three years. The members of the council elect a chairman ({{lang|et|volikogu esimees}}), who organises the council's work and represents the municipality.
+
+The '''government''' ({{lang|et|valitsus}}) is an executive body formed by the council. It is headed by a mayor ({{lang|et|linnapea}} in towns, {{lang|et|vallavanem}} in parishes), who is appointed for a four-year term. The mayor cannot be the chairman of the council. Other members of the government are chosen by the mayor with the approval of the council.
+
+== Former municipalities ==
+The list of municipalities that have merged or lost existence between 1995 and 2017.
+
+*1996
+**[[Pärnu-Jaagupi]] borough was merged into [[Halinga Parish]]
+*1998
+**[[Abja-Paluoja]] town was merged into [[Abja Parish]]
+*1999
+**[[Otepää]] town and [[Pühajärve Parish]] formed [[Otepää Parish]]
+**[[Lihula]] town was merged into [[Lihula Parish]]
+**[[Võsu]] borough was merged into [[Vihula Parish]]
+**[[Karksi-Nuia]] town wasmerged into [[Karksi Parish]]
+**Kaarma Parish and [[Kuressaare Parish]] formed [[Kaarma Parish]]
+**[[Antsla]] town was merged into [[Antsla Parish]]
+*2002
+**[[Kehra]] town was merged into [[Anija Parish]]
+**[[Rapla]] town was merged into [[Rapla Parish]]
+**[[Räpina]] town was merged into [[Räpina Parish]]
+**[[Kohila]] borough was merged into [[Kohila Parish]]
+**[[Märjamaa]] borough, Märjamaa Parish and [[Loodna Parish]] formed [[Märjamaa Parish]]
+*2005
+**[[Tapa, Estonia|Tapa]] town, [[Saksi Parish]] and [[Lehtse Parish]] formed [[Tapa Parish]]
+**[[Jõhvi]] town was merged into [[Jõhvi Parish]]
+**Kuusalu Parish and [[Loksa Parish]] formed [[Kuusalu Parish]]
+**[[Kilingi-Nõmme]] town, Saarde Parish and [[Tali Parish]] formed [[Saarde Parish]]
+**[[Suure-Jaani]] town, [[Olustvere Parish]], Suure-Jaani Parish and [[Vastemõisa Parish]] formed [[Suure-Jaani Parish]]
+**[[Türi]] town, Türi Parish, [[Oisu Parish]] and [[Kabala Parish]] formed [[Türi Parish]]
+**[[Tamsalu]] town was merged into [[Tamsalu Parish]]
+*2009
+**[[Kaisma Parish]] and Vändra Parish formed [[Vändra Parish]]
+*2013
+**[[Pärsti Parish]], [[Paistu Parish]], [[Viiratsi Parish]] and [[Saarepeedi Parish]] formed [[Viljandi Parish]]
+**[[Põlva]] town was merged into [[Põlva Parish]]
+**Kose Parish and [[Kõue Parish]] formed [[Kose Parish]]
+**[[Lavassaare]] borough was merged into [[Audru Parish]]
+**[[Kärdla]] town and [[Kõrgessaare Parish]] formed [[Hiiu Parish]]
+**[[Oru Parish]], [[Risti Parish]] and [[Taebla Parish]] formed [[Lääne-Nigula Parish]]
+**[[Püssi]] town, [[Maidla Parish]] and Lüganuse Parish formed [[Lüganuse Parish]]
+*2014
+**[[Kaarma Parish]], [[Kärla Parish]] and [[Lümanda Parish]] formed [[Lääne-Saare Parish]]
+*2017
+**[[Aegviidu]] borough was merged into [[Anija Parish]]
+**[[Keila Parish]], [[Padise Parish]], [[Vasalemma Parish]] and [[Paldiski]] town formed [[Lääne-Harju Parish]]
+**[[Saue]] town, Saue Parish, [[Kernu Parish]] and [[Nissi Parish]] formed [[Saue Parish]]
+**[[Hiiu Parish]], [[Emmaste Parish]], [[Käina Parish]] and [[Pühalepa Parish]] formed [[Hiiumaa Parish]]
+**[[Kiviõli]] town, Lüganuse Parish and [[Sonda Parish]] formed [[Lüganuse Parish]]
+**[[Alajõe Parish]], [[Iisaku Parish]], [[Illuka Parish]], [[Mäetaguse Parish]] and [[Tudulinna Parish]] formed [[Alutaguse Parish]]
+**Toila Parish, [[Kohtla Parish]] and [[Kohtla-Nõmme]] borough formed [[Toila Parish]]
+**[[Narva-Jõesuu]] town and [[Vaivara Parish]] formed [[Narva-Jõesuu (urban municipality)]]
+**[[Albu Parish]], [[Ambla Parish]], [[Imavere Parish]], [[Järva-Jaani]], [[Kareda Parish]], [[Koeru Parish]] and [[Koigi Parish]] formed Järva Parish
+**Türi Parish, [[Väätsa Parish]] and [[Käru Parish]] formed [[Türi Parish]]
+**[[Paide]] town, [[Paide Parish]] and [[Roosna-Alliku Parish]] formed [[Paide (urban municipality)]]
+**[[Jõgeva]] town, Jõgeva Parish, [[Palamuse Parish]], most of [[Torma Parish]] and some parts of [[Puurmani Parish]] formed [[Jõgeva Parish]]
+**[[Põltsamaa]] town, Põltsamaa Parish, [[Pajusi Parish]] and most of [[Puurmani Parish]] formed [[Põltsamaa Parish]]
+**[[Mustvee]] town, [[Kasepää Parish]], [[Saare Parish]], [[Lohusuu Parish]], [[Avinurme Parish]] and some parts of [[Torma Parish]] formed [[Mustvee Parish]]
+**[[Haapsalu]] town and [[Ridala Parish]] formed [[Haapsalu (urban municipality)]]
+**Lääne-Nigula Parish, [[Martna Parish]], [[Kullamaa Parish]], [[Nõva Parish]] and [[Noarootsi Parish]] formed [[Lääne-Nigula Parish]]
+**Viru-Nigula Parish, [[Aseri Parish]] and [[Kunda, Estonia|Kunda]] town formed [[Viru-Nigula Parish]]
+**Haljala Parish and [[Vihula Parish]] formed [[Haljala Parish]]
+**Rakvere Parish and [[Sõmeru Parish]] formed [[Rakvere Parish]]
+**Tapa Parish and [[Tamsalu Parish]] formed [[Tapa Parish]]
+**Väike-Maarja Parish and [[Rakke Parish]] formed [[Väike-Maarja Parish]]
+**Vinni Parish, [[Laekvere Parish]] and [[Rägavere Parish]] formed [[Vinni Parish]]
+**[[Pärnu]] town, [[Audru Parish]], [[Tõstamaa Parish]] and [[Paikuse Parish]] formed [[Pärnu (urban municipality)]]
+**[[Lihula Parish]], [[Hanila Parish]], [[Koonga Parish]] and [[Varbla Parish]] formed [[Lääneranna Parish]]
+**[[Halinga Parish]], [[Vändra Parish]], [[Vändra]] borough and [[Tootsi]] borough formed [[Põhja-Pärnumaa Parish]]
+**Tori Parish, [[Are Parish]], [[Sauga Parish]] and [[Sindi, Estonia|Sindi]] town formed [[Tori Parish]]
+**Häädemeeste Parish and [[Tahkuranna Parish]] formed [[Häädemeeste Parish]]
+**Saarde Parish and [[Surju Parish]] formed [[Saarde Parish]]
+**Põlva Parish, [[Laheda Parish]], [[Ahja Parish]], [[Mooste Parish]] and [[Vastse-Kuuste Parish]] formed [[Põlva Parish]]
+**Kanepi Parish, [[Valgjärve Parish]] and [[Kõlleste Parish]] formed [[Kanepi Parish]]
+**Räpina Parish, [[Veriora Parish]] and [[Meeksi Parish]] formed [[Räpina Parish]]ˇ
+**Rapla Parish, [[Juuru Parish]], [[Kaiu Parish]] and most of [[Raikküla Parish]] formed [[Rapla Parish]]
+**Märjamaa Parish, [[Vigala Parish]] and some parts of [[Raikküla Parish]] formed [[Märjamaa Parish]]
+**Kehtna Parish and [[Järvakandi]] borough formed [[Kehtna Parish]]
+**[[Kuressaare]] town, [[Lääne-Saare Parish]], [[Salme Parish]], [[Torgu Parish]], [[Kihelkonna Parish]], [[Mustjala Parish]], [[Leisi Parish]], [[Pihtla Parish]], [[Valjala Parish]], [[Orissaare Parish]], [[Pöide Parish]] and [[Laimjala Parish]] formed [[Saaremaa Parish]]
+**[[Tartu]] town and [[Tähtvere Parish]] formed [[Tartu (urban municipality)]]
+**[[Elva, Estonia|Elva]] town, [[Konguta Parish]], [[Rannu Parish]], [[Rõngu Parish]], [[Puhja Parish]] and parts of [[Puka Parish]] and [[Palupera Parish]] formed [[Elva Parish]]
+**Tartu Parish, [[Laeva Parish]], [[Piirissaare Parish]] and [[Tabivere Parish]] formed [[Tartu Parish]]
+**[[Kallaste]] town, Peipsiääre Parish, [[Alatskivi Parish]], [[Vara Parish]] and [[Pala Parish]] formed Peipsiääre Parish
+**Kambja Parish and [[Ülenurme Parish]] formed [[Kambja Parish]]
+**[[Haaslava Parish]], [[Mäksa Parish]] and [[Võnnu Parish]] formed [[Kastre Parish]]
+**[[Valga, Estonia|Valga]] town, [[Karula Parish]], [[Taheva Parish]], [[Tõlliste Parish]] and [[Õru Parish]] formed [[Valga Parish]]
+**Otepää Parish, [[Sangaste Parish]] and parts of [[Puka Parish]] and [[Palupera Parish]] formed [[Otepää Parish]]
+**[[Tõrva]] town, [[Helme Parish]], [[Hummuli Parish]] and [[Põdrala Parish]] formed [[Tõrva Parish]]
+**Viljandi Parish, [[Tarvastu Parish]] and [[Kolga-Jaani Parish]] formed [[Viljandi Parish]]
+**[[Suure-Jaani Parish]], [[Kõpu Parish]], [[Kõo Parish]] and [[Võhma]] town formed [[Põhja-Sakala Parish]]
+**[[Abja Parish]], [[Karksi Parish]], [[Halliste Parish]] and [[Mõisaküla]] town formed [[Mulgi Parish]]
+**Võru Parish, [[Lasva Parish]], [[Sõmerpalu Parish]], [[Vastseliina Parish]] and [[Orava Parish]] formed [[Võru Parish]]
+**Antsla Parish and [[Urvaste Parish]] formed [[Antsla Parish]]
+**Rõuge Parish, [[Haanja Parish]], [[Varstu Parish]], [[Mõniste Parish]] and most of [[Misso Parish]] formed [[Rõuge Parish]]
+**[[Meremäe Parish]], [[Värska Parish]], [[Mikitamäe Parish]] and some parts of [[Misso Parish]] formed [[Setomaa Parish]]
+
+=== Former municipalities (before 1990) ===
+{{empty section|date=May 2020}}
+
+*Vaoküla Parish (existed 1939–1950)
+
+== See also ==
+* [[Counties of Estonia]]
+* [[Populated places in Estonia]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20020619141032/http://www.einst.ee/factsheets/factsheets_uus_kuju/local_government_reform.htm Local Government Reform] by the [[Estonian Institute]].
+* [https://archive.today/19991111020148/http://www.ibs.ee/ibs/economics/tee/reform.html Local Government Reform] by the [[Institute of Baltic Studies]].
+* [http://www.eki.ee/knn/ungegn/un7_gdla.htm Administrative Division of Estonia] at the [[Institute of the Estonian Language]] website.
+
+{{Estonia topics|state=autocollapse}}
+{{Articles on second-level administrative divisions of European countries}}
+
+[[Category:Municipalities of Estonia| ]]
+[[Category:Subdivisions of Estonia]]
+[[Category:Lists of administrative divisions|Estonia, Municipalities]]
+[[Category:Administrative divisions in Europe|Estonia 2]]
+[[Category:Second-level administrative divisions by country|Municipalities, Estonia]]
+[[Category:Estonia geography-related lists|Municipalities]]

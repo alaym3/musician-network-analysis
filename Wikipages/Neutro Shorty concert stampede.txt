@@ -1,0 +1,97 @@
+{{use dmy dates|date=November 2019}}
+{{Infobox event
+| title                    = <!-- Title to display, if other than page name -->
+| image                    = Parque del Este 2012 024.JPG
+| image_size               = <!-- |image_upright= is preferred for most cases, see WP:IMGSIZE -->
+| image_upright            = 
+| image_alt                = 
+| caption                  = 'Concha acústica' concert space in the park
+| native_name              = 
+| native_name_lang         = 
+| english_name             = 
+| time                     = 
+| duration                 = 
+| date                     = {{start date|2019|11|09}}
+| venue                    = [[Parque del Este|Parque Generalísimo Francisco de Miranda]]
+| location                 = [[Caracas]], [[Venezuela]]
+| coordinates              = 
+| also_known_as            = 
+| type                     = Human stampede
+| theme                    = 
+| cause                    = 
+| motive                   = 
+| target                   = 
+| first_reporter           = 
+| budget                   = 
+| patron                   = <!-- or |patrons= -->
+| organisers               = <!-- or |organizers= -->
+| filmed_by                = 
+| participants             = 
+| outcome                  = 
+| casualties1              = 
+| casualties2              = 
+| casualties3              = 
+| reported deaths          = 4
+| reported injuries        = 50+
+| reported missing         = 
+| reported property damage = 
+| burial                   = 
+| inquiries                = 
+| inquest                  = 
+| coroner                  = 
+| arrests                  = 
+| suspects                 = 
+| accused                  = 
+| convicted                = 
+| charges                  = 
+| trial                    = 
+| verdict                  = 
+| convictions              = 
+| sentence                 = 
+| publication_bans         = 
+| litigation               = 
+| awards                   = 
+| url                      = 
+| blank_label              = <!-- or |blank_data= -->
+| blank1_label             = <!-- or |blank1_data= -->
+| blank2_label             = <!-- or |blank2_data= -->
+| website                  = <!-- {{URL|example.com}} -->
+| notes                    = 
+}}
+
+On 9 November 2019, four teenagers were killed and over 50 people were injured in a [[human stampede]] at a [[trap (music)|trap]] music concert in [[Caracas]].<ref name=vpitv>{{cite video|url=https://www.youtube.com/watch?v=Apy7wydkpLc|title=Cuatro jóvenes fallecieron en el concierto del rapero Neutro Shorty|via=YouTube|publisher=[[VPItv]]|last=Espinoza Martínez|first=Andrea|date=10 November 2019|accessdate=11 November 2019}}</ref><ref name=elpais>{{cite news|url=https://elpais.com/internacional/2019/11/10/america/1573409970_001253.html|title=Tres muertos y decenas de heridos por una estampida durante un concierto en Caracas|newspaper=[[El País]]|language=Spanish|last=Moleiro|first=Alonso|date=10 November 2019|accessdate=11 November 2019}}</ref><ref name=panorama/><ref name=elmundo>{{cite news|url=https://www.elmundo.es/internacional/2019/11/09/5dc70cdffc6c83b6018b4584.html|title=Una joven muerta y decenas de heridos en una estampida en un concierto en Caracas|newspaper=[[El Mundo (Spain)]]|language=Spanish|agency=EFE|date=9 November 2019|accessdate=11 November 2019}}</ref>
+
+==Stampede==
+The stampede began before a free concert by Venezuelan music act {{ill|Neutro Shorty|es|Neutro Shorty}} in the Parque del Este (officially Gen. Francisco de Miranda Park) in Caracas, the capital of Venezuela.<ref name=elpais/> The concert was called Banderas Blancas.<ref name=ec>{{cite news|url=https://efectococuyo.com/sucesos/estampida-deja-un-muerto-y-al-menos-32-heridos-en-parque-del-este-este-9nov/|title=Estampida deja un muerto y al menos 32 heridos en Parque del Este|website=[[Efecto Cocuyo]]|last=Mozo Zambrano|first=Reynaldo|date=9 November 2019|accessdate=11 November 2019}}</ref>
+
+Over 8,000 people, largely teenagers, showed up to attend the concert; fighting and pushing broke out after a group of young people climbed over a park fence to get into the concert.<ref name=elpais/> It is reported that though the concert was to begin at 10 am, many of the people were breaking into the park early and causing chaos.<ref name=ec/> Spanish newspaper ''[[El País]]'' reports that the concert was "marked by negligence and improvisation" and that there were limited police officers from the National Guard in attendance outside the park, being supplemented by park rangers. The number of concertgoers overwhelmed the security, who could not control the flow of people.<ref name=elpais/>
+
+The main crush of people took place between the Simón Bolívar bridge and [[Generalissimo Francisco de Miranda Air Base|La Carlota]], at around 8:50 am.<ref name=vpitv/> People climbing the fences eventually toppled them, which then caused mass stampede into the park, according to the local crime commissioner.<ref name=iq>{{cite news|url=https://www.iq-mag.net/2019/11/fatal-stampede-causes-chaos-at-venezuelan-concert/|title=Fatal stampede causes chaos at Venezuelan concert|author=Anna Grace|newspaper=[[IQ (magazine)|IQ]]|date=11 November 2019|accessdate=11 November 2019}}</ref>
+
+==Victims==
+The first deceased victim was found dead at the scene and transferred to the Domingo Luciani Hospital,<ref name=panorama>{{cite web|url=https://www.panorama.com.ve/sucesos/Estampida-en-parque-Francisco-de-Miranda-deja-a-una-adolescente-muerta-y-mas-de-50-heridos-20191109-0022.html|title=Inicio de concierto de rap acaba en estampida con una adolescente muerta y 50 heridos|website=[[Diario Panorama]]|agency=AFP|last=Martínez|first=P|date=9 November 2019|accessdate=11 November 2019}}</ref> while another two were transferred through the Pérez de León Hospital;<ref name=elpais/> one was operated on here before dying, with the two being transferred to the Domingo Luciani and then the Bello Monte morgue.<ref name=vpitv/> Another person was killed; all of them were aged 14.<ref name=vpitv/><ref name=elpais/><ref name=panorama/>
+
+Most of the victims were treated at the Pérez de León Hospital,<ref name=elpais/> with others treated at the Centro Diagnóstico Integral de Los Dos Caminos and the Domingo Luciani Hospital.<ref name=ec/> These hospitals have trauma centers, as many of the injured had suffered asphyxiation and polytrauma in the stampede.<ref name=panorama/>
+
+==Aftermath==
+[[File:Neutro Shorty speaks to concertgoers after stampede.png|thumb|Neutro Shorty speaks to concertgoers after the stampede]]
+The concert, which was planned to happen at the Concha acústica stage in the park, was moved. Neutro Shorty posted on social media that it would still take place at the planned time, but in nearby [[Parque Simón Bolívar]] – concertgoers crossed into this park and rioted in the performance area.<ref name=elpais/><ref name=ec/> Neutro Shorty performed three songs,<ref name=nd>{{cite news|url=https://www.youtube.com/watch?v=FhdwkvmHxfg|title=Neutro Shorty, al cancelar el concierto: "La gente se va a seguir escoñetando aquí adelante"|newspaper=[[Noticiero Digital]]|via=YouTube|date=9 November 2019|accessdate=11 November 2019}}</ref> but the concert was stopped at this point and the parks cleared as emergency services continued to treat injured people in the area.<ref name=ec/>
+
+The National Parks Institute of Venezuela, the body that ultimately administers the parks, later used social media to announce that though the body is sad at the events, the concert was taking place without their permission. The concert organizers have not commented, and no group has taken responsibility.<ref name=elpais/>
+
+Neutro Shorty also gave a message in response, before he went on stage, saying "I came to sing to them for free, I didn't come to screw them over, or anything political, or anything. [...] What is happening is sad, children are passing out, I feel bad when I see their faces. I don't want this to keep happening."<ref name=elpais/>
+
+A Venezuelan NGO founder spoke out about how the tragedy at the park is a microcosm of the country, and that society needs to assess itself when children are using violence as their first option to get what they want.<ref>{{Cite web|url=https://www.elnacional.com/venezuela/sucesos-del-parque-del-este-son-una-radiografia-de-lo-que-nos-sucede-como-pais/|title=Sucesos del Parque del Este son una radiografía de lo que nos sucede como país|date=2019-11-11|website=EL NACIONAL|language=es|url-status=live|archive-url=|archive-date=|access-date=2019-11-14}}</ref>
+
+=== Investigation ===
+[[Tarek William Saab]] announced that a full investigation will happen, and will be conducted by the division for child protection.<ref name="elpais" /> The investigation, involving the forensics branch, began on Sunday 10 November.<ref name="eluniversal">{{cite news|url=http://www.eluniversal.com/sucesos/55323/investigan-estampida-en-el-parque-del-este|title=Investigan estampida en el Parque del Este|date=10 November 2019|newspaper=[[El Universal (Caracas)]]|accessdate=11 November 2019}}</ref> By 12 November, three people had been arrested in relation to the stampede, including two concert organizers.<ref>{{Cite web|url=https://www.caracaschronicles.com/2019/11/12/going-to-mexico/|title=Going to Mexico|last=Soto|first=Naky|date=2019-11-12|website=Caracas Chronicles|language=en-US|access-date=2019-11-14}}</ref> There were rumors that one of those arrested was Neutro Shorty; Saab confirmed that this was untrue on 13 November.<ref>{{Cite web|url=https://elpitazo.net/sucesos/saab-detencion-de-neutro-shorty/|title=Tarek William Saab: rumores de detención de Neutro Shorty son falsos - El Pitazo|website=elpitazo.net|access-date=2019-11-14}}</ref>
+
+==See also==
+* [[List of human stampedes]]
+* [[El Paraíso stampede]]
+
+==References==
+{{reflist}}
+
+[[Category:Human stampedes in 2019]]
+[[Category:November 2019 events in South America]]

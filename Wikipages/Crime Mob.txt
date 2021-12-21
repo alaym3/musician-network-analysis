@@ -1,0 +1,109 @@
+{{short description|American hip hop group}}
+{{For|the general term|Organized crime}}
+{{Infobox musical artist
+| name            = Crime Mob
+| image           =
+| image_size      =
+| caption         =
+| alias           =
+| origin          = [[Atlanta, Georgia]], U.S.
+| occupation      = Rappers
+| years_active    = 2002–2008; 2016-present
+| genre           = {{flatlist|
+* [[Hip hop music|Hip hop]]
+* [[crunk]]
+* [[southern hip hop]]
+}}
+| instrument      = [[Vocals]]
+| label           = {{flatlist|
+* Crunk Incorporated
+* [[Warner Bros. Records|Warner Bros.]]
+* [[Reprise Records|Reprise]]
+}}
+| associated_acts = {{flatlist|
+* [[D4L]]
+* [[Lil Jon]]
+* [[Lil Scrappy]]
+}}
+| website         =
+| current_members = M.I.G.<br>Cyco Black<br>Lil' Jay<br/>Princess<br/>[[Diamond (rapper)|Diamond]]
+| former_members  = Killa C
+}}
+'''Crime Mob''' is an American hip hop group from Atlanta consisting of six members: M.I.G.''', '''Cyco Black''', '''Princess''', '''Lil' Jay''', '''[[Diamond (rapper)|Diamond]]''',''' and Killa C. The group is best known for their songs "[[Knuck If You Buck]]" and "[[Rock Yo Hips]]". After an arrest in 2003, member Killa C left the group. Crime Mob reunited and performed at Atlanta's [[WHTA|Hot 107.9's]] Birthday Bash in 2012;<ref>{{cite web|title=D4L, Crime Mob To Reunite At Birthday Bash 17's A Town Classic!|date=June 7, 2012|url=http://hotspotatl.com/2759816/d4l-crime-mob-to-reunite-at-birthday-bash-17s-a-town-classic-exclusive/|website=Hotspotatl.com}}</ref> Princess was the only absent member. In 2018, all members of Crime Mob were reunited by Atlanta based producer [[Mike Will Made It]] on a song called "We Can Hit" featuring Slim Jxmmi of [[Rae Sremmurd]]. The song is featured on the [[Creed II]] movie soundtrack. Crime Mob was discovered by Grand Master Tommy Phillips IV of Crunk Incorporated known as #LiTgod Serious Lord.
+
+==Discography==
+
+===Albums===
+*''[[Crime Mob (album)|Crime Mob]]''
+**Released: August 10, 2004
+**U.S. [[Billboard 200|''Billboard'' 200]]: #90<ref name=charthistory>[{{BillboardURLbyName|artist=crime mob|chart=all}} Billboard.com Artist Chart History - Albums for Crime Mob]</ref>
+**[[Top R&B/Hip-Hop Albums]]: #11<ref name=charthistory/>
+**U.S. Sales: 270,000+
+**[[RIAA Certification]]: N/A
+*''[[Hated on Mostly]]''
+**Released: March 20, 2007
+**U.S. [[Billboard 200|''Billboard'' 200]]: #31<ref name=charthistory/>
+**[[Top Rap Albums]]: #4<ref name=charthistory/>
+**[[Top R&B/Hip-Hop Albums]]: #10<ref name=charthistory/>
+**U.S. Sales: 67,000+
+**[[RIAA Certification]]: N/A
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:20em;" | Title
+! scope="col" rowspan="2" | Year
+! scope="col" colspan="3" | Peak chart positions
+! scope="col" rowspan="2" style="width:12em;" | Album
+|-	
+!style="width:3em;font-size:90%;"|[[Billboard Hot 100|US]]<br><ref name="US100">{{cite web|title=Crime Mob Album & Song Chart History: Hot 100|url={{BillboardURLbyName|artist=crime mob|chart=Hot 100}}|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=February 21, 2012}}</ref>
+!style="width:3em;font-size:90%;"|[[Hot R&B/Hip-Hop Songs|US<br>R&B]]<br><ref name="USR&B">{{cite web|title=Crime Mob Album & Song Chart History: R&B/Hip-Hop Songs|url={{BillboardURLbyName|artist=crime mob|chart=R&B/Hip-Hop Songs}}|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=February 21, 2012}}</ref>
+!style="width:3em;font-size:90%;"|[[Hot Rap Songs|US<br>Rap]]<br><ref name="USRap">{{cite web|title=Crime Mob Album & Song Chart History: Rap Songs|url={{BillboardURLbyName|artist=crime mob|chart=Rap Airplay}}|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=February 21, 2012}}</ref>
+|-
+!scope="row"|"[[Knuck If You Buck]]"<br><span style="font-size:85%;">(featuring [[Lil Scrappy]])</span>	
+| 2004  	
+| 75 || 28 || 23 	
+|rowspan="3"|''Crime Mob''
+|- 	
+!scope="row"|"Stilettos (Pumps)"
+|rowspan="2"|2005
+| — || — || —	
+|- 	  	
+!scope="row"|"I'll Beat Yo Azz"
+| — || — || —		
+|-  	
+!scope="row"|"[[Rock Yo Hips]]"<br><span style="font-size:85%;">(featuring Lil Scrappy)</span>
+| 2006  	
+| 30 || 8 || 5 	
+|rowspan="2"|''Hated on Mostly''
+|-  	
+!scope="row"|"Circles"	
+| 2007
+| — || — || —
+|-
+!scope="row"|"We Can Hit (Round 1)"<br><span style="font-size:85%;">(with Mike Will Made-It featuring [[Slim Jxmmi]])</span>	
+| 2018
+| — || — || —
+|rowspan="1"|[[Creed II: The Album]]
+|-
+|colspan="6" style="font-size:90%"| "—" denotes a recording that did not chart.
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20090706172544/http://www.justrhymes.com/CrimeMob Official justRHYMES.com profile]
+
+{{Crime Mob}}
+
+{{Authority control}}
+
+[[Category:African-American musical groups]]
+[[Category:American crunk groups]]
+[[Category:Musical groups established in 2004]]
+[[Category:Musical groups from Georgia (U.S. state)]]
+[[Category:Southern hip hop groups]]
+[[Category:Gangsta rap groups]]
+[[Category:Warner Records artists]]
+[[Category:Reprise Records artists]]

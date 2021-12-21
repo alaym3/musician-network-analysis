@@ -1,0 +1,622 @@
+{{Other uses}}
+{{Short description|Device that tells the time of day by the  apparent position of the Sun in the sky}}
+<!--
+----PLEASE DO NOT ADD FURTHER IMAGES HERE UNLESS THEY HELP ILLUSTRATE A POINT IN THE TEXT
+----THERE ARE ALREADY OVER 1000 IMAGES TO CHOOSE FROM AT COMMONS
+----PLEASE UPLOAD YOUR IMAGE TO COMMONS AND IDENTIFY THE LATITUDE AND LONGITUDE OF ITS LOCATION
+ -->
+[[File:MootHallSundial.JPG|thumb|right|SSW facing, vertical declining sundial on the Moot Hall in [[Aldeburgh]], Suffolk, England. The gnomon is a rod that is very narrow, so it functions as the style. The Latin motto loosely translates as "I only count the sunny hours."]]
+[[File:Melbourne sundial at Flagstaff Gardens.JPG|thumb|right|A horizontal dial commissioned in 1862,  the gnomon is the triangular blade. The style is its inclined edge.<ref name=VHD>
+{{cite VHD|1841|Flagstaff Gardens|hr=2041|ho=793|access-date=2010-09-16 }}
+</ref>]]
+[[File:AnnMorrisonParkSundial.jpg|thumb|right|A combined [[analemma]]tic-equatorial sundial in Ann Morrison Park in [[Boise, Idaho]], 43°36'45.5"N 116°13'27.6"W]]
+[[File:Sundial Žiča.jpg|thumb|right|Wall sundial in [[Žiča|Žiča Monastery]], Serbia.]]
+[[File:Sundial from the 18th century in Szprotawa Poland.jpg|thumb|right|Sundial from the 18th century on the front wall of the former Evangelical school in [[Szprotawa]], Poland.]]
+
+A '''sundial''' is a horological device that tells the time of day (in modern usage referred to as [[civil time]]) when there is sunlight by the apparent [[position of the Sun]] in the sky. In the narrowest sense of the word, it consists of a flat plate (the ''dial'') and a [[gnomon]], which casts a shadow onto the dial. As the [[diurnal motion|Sun appears to move across the sky]], the shadow aligns with different hour-lines, which are marked on the dial to indicate the time of day. The ''style'' is the time-telling edge of the gnomon, though a single point or ''nodus'' may be used. The gnomon casts a broad shadow; the shadow of the style shows the time. The gnomon may be a rod, wire, or elaborately decorated metal casting. The style must be [[polar alignment|parallel to the axis]] of the [[Earth's rotation]] for the sundial to be accurate throughout the year. The style's angle from horizontal is equal to the sundial's geographical [[latitude]].
+
+The term ''sundial'' can refer to any device that uses the Sun's [[horizontal coordinate system|altitude]] or [[azimuth]] (or both) to show the time. Sundials are valued as decorative objects, [[metaphor]]s, and objects of intrigue and mathematical study.
+
+The passing of time can be observed by placing a stick in the sand or a nail in a board and placing markers at the edge of a shadow or outlining a shadow at intervals. It is common for inexpensive, mass-produced decorative sundials to have incorrectly aligned gnomons, shadow lengths, and hour-lines, which cannot be adjusted to tell correct time.<ref>{{cite web |last=Moss |first=Tony |title=How do sundials work |url=http://www.sundialsoc.org.uk/HDSW.php |publisher=British Sundial society |access-date=21 September 2013 |quote=This ugly plastic ‘non-dial’ does nothing at all except display the ‘designer’s ignorance and persuade the general public that ‘real’ sundials don’t work. |url-status=dead |archive-url=https://web.archive.org/web/20130802033857/http://www.sundialsoc.org.uk/HDSW.php |archive-date=August 2, 2013}}</ref>
+
+{{TOC limit|3}}
+
+== Introduction ==
+
+There are several different types of sundials. Some sundials use a shadow or the edge of a shadow while others use a line or spot of light to indicate the time.
+
+The shadow-casting object, known as a ''gnomon'', may be a long thin rod or other object with a sharp tip or a straight edge. Sundials employ many types of gnomon. The gnomon may be fixed or moved according to the season. It may be oriented vertically, horizontally, aligned with the Earth's axis, or oriented in an altogether different direction determined by mathematics.
+
+Given that sundials use light to indicate time, a line of light may be formed by allowing the Sun's rays through a thin slit or focusing them through a [[cylindrical lens]]. A spot of light may be formed by allowing the Sun's rays to pass through a small hole, window, [[oculus]], or by reflecting them from a small circular mirror. A spot of light can be as small as a [[Pinhole (optics)|
+pinhole]] in a solargraph or as large as the oculus in the Pantheon.
+
+Sundials also may use many types of surfaces to receive the light or shadow. [[Plane (mathematics)|Planes]] are the most common surface, but partial [[sphere]]s, [[cylinder (geometry)|cylinders]], [[cone (geometry)|cones]] and other shapes have been used for greater accuracy or beauty.
+
+Sundials differ in their portability and their need for orientation. The installation of many dials requires knowing the local [[latitude]], the precise vertical direction (e.g., by a level or plumb-bob), and the direction to [[true North]]. Portable dials are self-aligning: for example, it may have two dials that operate on different principles, such as a horizontal and [[Analemmatic sundial|analemmatic]] dial, mounted together on one plate.  In these designs, their times agree only when the plate is aligned properly.
+
+Sundials may indicate the [[solar time|local solar time]] only. To obtain the national clock time, three corrections are required:
+# The orbit of the Earth is not perfectly circular and its rotational axis is not perpendicular to its orbit.  The sundial's indicated solar time thus varies from clock time by small amounts that change throughout the year. This correction&mdash;which may be as great as 16 minutes, 33 seconds&mdash;is described by the [[equation of time]]. A sophisticated sundial, with a curved style or hour lines, may incorporate this correction. The more usual simpler sundials sometimes have a small plaque that gives the offsets at various times of the year.
+# The solar time must be corrected for the [[longitude]] of the sundial relative to the longitude of the official time zone. For example, an uncorrected sundial located ''west'' of [[Greenwich]], England but within the same time-zone, shows an ''earlier'' time than the official time. It may show "11:45" at official noon, and will show "noon" after the official noon.  This correction can easily be made by rotating the hour-lines by a constant angle equal to the difference in longitudes, which makes this is a commonly possible design option.
+# To adjust for [[daylight saving time]], if applicable, the solar time must additionally be shifted for the official difference (usually one hour). This is also a correction that can be done on the dial, i.e. by numbering the hour-lines with two sets of numbers, or even by swapping the numbering in some designs. More often this is simply ignored, or mentioned on the plaque with the other corrections, if there is one.
+
+==Apparent motion of the Sun==
+[[File:Equatorial sundial topview.gif|thumb|upright|Top view of an equatorial sundial. The hour lines are spaced equally about the circle, and the shadow of the gnomon (a thin cylindrical rod) rotates uniformly. The height of the gnomon is {{frac|5|12}} the outer radius of the dial. This animation depicts the motion of the shadow from 3 a.m. to 9 p.m. (not accounting for Daylight Saving Time) on or around Solstice, when the Sun is at its highest declination (roughly 23.5°). Sunrise and sunset occur at 3am and 9pm, respectively, on that day at geographical latitudes near 57.05°, roughly the latitude of [[Aberdeen, Scotland]] or [[Sitka, Alaska]].]]The principles of sundials are understood most easily from the [[Sun]]'s apparent motion.<ref>{{Cite book|url=https://books.google.com/books?id=cAFEAgAAQBAJ&q=The+principles+of+sundials+are+understood+most+easily+from+the+Sun%27s+apparent+motion.&pg=PA52|title=Using Network and Mobile Technology to Bridge Formal and Informal Learning|last1=Trentin|first1=Guglielmo|last2=Repetto|first2=Manuela|date=2013-02-08|publisher=Elsevier|isbn=9781780633626|language=en}}</ref> The Earth rotates on its axis, and revolves in an elliptical orbit around the Sun. An excellent approximation assumes that the Sun revolves around a stationary Earth on the [[celestial sphere]], which rotates every 24 hours about its celestial axis.  The celestial axis is the line connecting the [[celestial pole]]s. Since the celestial axis is aligned with the axis about which the Earth rotates, the angle of the axis with the local horizontal is the local geographical [[latitude]].
+
+Unlike the [[fixed stars]], the Sun changes its position on the celestial sphere, being - on north hemisphere - at a positive [[declination]] in spring and summer, and at a negative declination in autumn and winter, and having exactly zero declination (i.e., being on the [[celestial equator]]) at the [[equinox]]es. The Sun's [[celestial longitude]] also varies, changing by one complete revolution per year. The path of the Sun on the celestial sphere is called the [[ecliptic]].  The ecliptic passes through the twelve constellations of the [[zodiac]] in the course of a year.
+
+[[File:Sundial, Singapore Botanic Gardens.jpg|thumb|left|300px|Sundial in [[Singapore Botanic Gardens]]. The fact that [[Singapore]] is located almost at the [[equator]] is reflected in its design.]]
+
+This model of the Sun's motion helps to understand sundials. If the shadow-casting gnomon is aligned with the [[celestial pole]]s, its shadow will revolve at a constant rate, and this rotation will not change with the seasons. This is the most common design.  In such cases, the same hour lines may be used throughout the year. The hour-lines will be spaced uniformly if the surface receiving the shadow is either perpendicular (as in the equatorial sundial) or circular about the gnomon (as in the [[armillary sphere]]).
+
+In other cases, the hour-lines are not spaced evenly, even though the shadow rotates uniformly. If the gnomon is ''not'' aligned with the celestial poles, even its shadow will not rotate uniformly, and the hour lines must be corrected accordingly. The rays of light that graze the tip of a gnomon, or which pass through a small hole, or reflect from a small mirror, trace out a [[Cone (geometry)|cone]] aligned with the celestial poles. The corresponding light-spot or shadow-tip, if it falls onto a flat surface, will trace out a [[conic section]], such as a [[hyperbola]], [[ellipse]] or (at the North or South Poles) a [[circle]].
+
+This conic section is the intersection of the cone of light rays with the flat surface. This cone and its conic section change with the seasons, as the Sun's declination changes; hence, sundials that follow the motion of such light-spots or shadow-tips often have different hour-lines for different times of the year.  This is seen in shepherd's dials, sundial rings, and vertical gnomons such as obelisks. Alternatively, sundials may change the angle or position (or both) of the gnomon relative to the hour lines, as in the analemmatic dial or the Lambert dial.
+
+==History==
+{{Further|History of sundials}}
+[[File:Ancient-egyptian-sundial.jpg|thumb|World's oldest sundial, from Egypt's Valley of the Kings (c. 1500 BC)]]
+The earliest sundials known from the archaeological record are shadow clocks (1500 [[Anno Domini|BC]] or [[Common Era|BCE]]) from ancient [[Egyptian astronomy]] and [[Babylonian astronomy]].  Presumably, humans were telling time from shadow-lengths at an even earlier date, but this is hard to verify.  In roughly 700 BC, the [[Old Testament]] describes a sundial—the "dial of Ahaz" mentioned in {{bibleverse||Isaiah|38:8|NKJ}} and {{bibleverse|2 Kings|20:11|NKJ}}. By 240 BC Eratosthenes had estimated the circumference of the world using an obelisk and a water well and a few centuries later Ptolemy had charted the latitude of cities using the angle of the sun. The people of [[Kingdom of Kush|Kush]] created sun dials through geometry.<ref>{{cite journal|title=Gnomons at Meroë and Early Trigonometry|first=Leo|last=Depuydt|date=1 January 1998|journal=The Journal of Egyptian Archaeology|volume=84|pages=171–180|doi=10.2307/3822211|jstor=3822211}}</ref><ref>{{cite web|url=http://www.archaeology.org/online/news/nubia.html|title=Neolithic Skywatchers|date=27 May 1998|first=Andrew|last=Slayman|website=Archaeology Magazine Archive|access-date=17 April 2011|archive-url=https://web.archive.org/web/20110605234044/http://www.archaeology.org/online/news/nubia.html|archive-date=5 June 2011|url-status=live}}</ref> The Roman writer [[Vitruvius]] lists dials and shadow clocks known at that time in his ''[[De architectura]]''. The Tower of Winds constructed in Athens included sundial and a water clock for telling time. A [[canonical sundial]] is one that indicates the canonical hours of liturgical acts. Such sundials were used from the 7th to the 14th centuries by the members of religious communities.  The Italian astronomer [[Giovanni Padovani]] published a treatise on the sundial in 1570, in which he included instructions for the manufacture and laying out of mural (vertical) and horizontal sundials. [[Giuseppe Biancani]]'s ''Constructio instrumenti ad horologia solaria'' (c. 1620) discusses how to make a perfect sundial. They have been commonly used since the 16th century.
+
+==Terminology==
+[[File:London dial.svg|thumb|left|A [[London dial|London type horizontal dial]]. The western edge of the gnomon is used as the style before noon, the eastern edge after that time. The changeover causes a discontinuity, the noon gap, in the time scale.]]
+In general, sundials indicate the time by casting a shadow or throwing light onto a surface known as a ''dial face'' or ''dial plate''.  Although usually a flat plane, the dial face may also be the inner or outer surface of a sphere, cylinder, cone, helix, and various other shapes.
+
+The time is indicated where a shadow or light falls on the dial face, which is usually inscribed with hour lines.  Although usually straight, these hour lines may also be curved, depending on the design of the sundial (see below).  In some designs, it is possible to determine the date of the year, or it may be required to know the date to find the correct time.  In such cases, there may be multiple sets of hour lines for different months, or there may be mechanisms for setting/calculating the month.  In addition to the hour lines, the dial face may offer other data—such as the horizon, the equator and the tropics—which are referred to collectively as the dial furniture.
+
+The entire object that casts a shadow or light onto the dial face is known as the sundial's ''gnomon''.<ref name="B.S.S."/>  However, it is usually only an edge of the gnomon (or another linear feature) that casts the shadow used to determine the time; this linear feature is known as the sundial's ''style''.  The style is usually aligned parallel to the axis of the celestial sphere, and therefore is aligned with the local geographical meridian.  In some sundial designs, only a point-like feature, such as the tip of the style, is used to determine the time and date; this point-like feature is known as the sundial's ''nodus''.<ref name="B.S.S.">{{cite web
+  | last =  British Sundial
+  | first = Society
+  | title = BSS Glossary
+  | url = http://www.sundialsoc.org.uk/index.htm
+  | access-date = 2011-05-02 |archive-url = https://web.archive.org/web/20071010085501/http://www.sundialsoc.org.uk/glossary/alpha.htm#S |archive-date = 2007-10-10}}</ref>{{efn|In some technical writing, the word "gnomon" can also mean the perpendicular height of a nodus from the dial plate. The point where the style intersects the dial plate is called the ''gnomon root''.}}
+Some sundials use both a style and a nodus to determine the time and date.
+
+The gnomon is usually fixed relative to the dial face, but not always; in some designs such as the analemmatic sundial, the style is moved according to the month. If the style is fixed, the line on the dial plate perpendicularly beneath the style is called the ''substyle'',<ref name="B.S.S."/> meaning "below the style".  The angle the style makes with the plane of the dial plate is called the substyle height, an unusual use of the word ''height'' to mean an ''angle''. On many wall dials, the substyle is not the same as the noon line (see below). The angle on the dial plate between the noon line and the substyle is called the ''substyle distance'', an unusual use of the word ''distance'' to mean an ''angle''.
+
+By tradition, many sundials have a [[motto]].  The motto is usually in the form of an epigram: sometimes sombre reflections on the passing of time and the brevity of life, but equally often humorous witticisms of the dial maker. One such quip is, ''I am a sundial, and I make a botch, Of what is done much better by a watch.''{{sfn|Rohr|1996|pp=126–129}}{{sfn|Waugh|1973| pp=124–125}}
+
+A dial is said to be ''equiangular'' if its hour-lines are straight and spaced equally.  Most equiangular sundials have a fixed gnomon style aligned with the Earth's rotational axis, as well as a shadow-receiving surface that is symmetrical about that axis; examples include the equatorial dial, the equatorial bow, the armillary sphere, the cylindrical dial and the conical dial.  However, other designs are equiangular, such as the Lambert dial, a version of the [[analemmatic sundial]] with a moveable style.
+
+==In the Southern Hemisphere==
+[[File:Sundial in Supreme Court Gardens, Perth.jpg|thumb|230px|left|Southern-hemisphere sundial in [[Perth]], [[Australia]]. Magnify to see that the hour marks run anticlockwise. Note graph above the [[gnomon]] of the [[Equation of Time]], needed to correct sundial readings.]]
+
+A sundial at a particular [[Earth#Orbit and rotation|latitude]] in one [[Sphere|hemisphere]] must be reversed for use at the opposite latitude in the other hemisphere.<ref name="C.S.">{{cite web | last =Sabanski | first =Carl
+|title =The Sundial Primer |url=http://www.mysundial.ca/tsp/north_vs_south.html
+|access-date = 2008-07-11 }}</ref> A vertical direct south sundial in the [[Northern Hemisphere]] becomes a vertical direct north sundial in the [[Southern Hemisphere]]. To position a horizontal sundial correctly, one has to find true [[North]] or [[South]]. The same process can be used to do both.<ref name="S.P.01">{{cite web | author =Michelle B. Larson | title =Making a sundial for the Southern hemisphere |url=http://solar.physics.montana.edu/YPOP/Classroom/Lessons/Sundials/south.html | access-date = 2008-07-11 }}</ref> The gnomon, set to the correct latitude, has to point to the true South in the Southern hemisphere as in the Northern Hemisphere it has to point to the true North.<ref name="S.P.02">{{cite web | author =Michelle B. Larson | title =Making a sundial for the Southern hemisphere |url=http://solar.physics.montana.edu/cgi-bin/novlesson_S.cgi | access-date = 2008-07-11 }}</ref> The hour numbers also run in opposite directions, so on a horizontal dial they run anticlockwise (US: counterclockwise) rather than clockwise.<ref>{{cite web| last =  British Sundial| first = Society| title = The Sundial Register| url =  http://www.sundialsoc.org.uk/glossary/index.htm| archive-url =  https://web.archive.org/web/20091220122230/http://www.sundialsoc.org.uk/glossary/index.htm| url-status =  dead| archive-date =  2009-12-20| access-date = 2014-10-13 }}</ref>
+
+Sundials which are designed to be used with their plates horizontal in one hemisphere can be used with their plates vertical at the complementary latitude in the other hemisphere. For example, the illustrated sundial in [[Perth]], [[Australia]], which is at latitude 32 degrees South, would function properly if it were mounted on a south-facing vertical wall at latitude 58 (i.e. 90&ndash;32) degrees North, which is slightly further North than [[Perth, Scotland]]. The surface of the wall in Scotland would be parallel with the horizontal ground in Australia (ignoring the difference of longitude), so the sundial would work identically on both surfaces. Correspondingly, the hour marks, which run counterclockwise on a horizontal sundial in the southern hemisphere, also do so on a vertical sundial in the northern hemisphere. (See the first two illustrations at the top of this article.) On horizontal northern-hemisphere sundials, and on vertical southern-hemisphere ones, the hour marks run clockwise.
+
+==Adjustments to calculate clock time from a sundial reading==
+The most common reason for a sundial to differ greatly from clock time is that the sundial has not been oriented correctly or its hour lines have not been drawn correctly.  For example, most commercial sundials are designed as ''horizontal sundials'' as described above.  To be accurate, such a sundial must have been designed for the local geographical latitude and its style must be parallel to the Earth's rotational axis; the style must be aligned with [[true North]] and its ''height'' (its angle with the horizontal) must equal the local latitude.  To adjust the style height, the sundial can often be tilted slightly "up" or "down" while maintaining the style's north-south alignment.{{sfn|Waugh|1973| pp= 48–50}}
+
+===Summer (daylight saving) time correction===
+Some areas of the world practice [[daylight saving time]], which changes the official time, usually by one hour.  This shift must be added to the sundial's time to make it agree with the official time.
+
+===Time-zone (longitude) correction===
+A standard [[time zone]] covers roughly 15° of longitude, so any point within that zone which is not on the reference longitude (generally a multiple of 15°) will experience a difference from standard time equal to 4 minutes of time per degree.  For illustration, sunsets and sunrises are at a much later "official" time at the western edge of a time-zone, compared to sunrise and sunset times at the eastern edge.  If a sundial is located at, say, a longitude 5° west of the reference longitude, its time will read 20 minutes slow, since the Sun appears to revolve around the Earth at 15° per hour.  This is a constant correction throughout the year.  For equiangular dials such as equatorial, spherical or Lambert dials, this correction can be made by rotating the dial surface by an angle equaling the difference in longitude, without changing the gnomon position or orientation.  However, this method does not work for other dials, such as a horizontal dial; the correction must be applied by the viewer.
+
+At its most extreme, time zones can cause official noon, including daylight savings, to occur up to three hours early (the Sun is actually on the [[Meridian (astronomy)|meridian]] at official clock time of 3 pm). This occurs in the far west of [[Alaska]], [[China]], and [[Spain]]. For more details and examples, see [[Skewing of time zones]].
+
+=== Equation of time correction ===
+[[File:Equation of time.svg|thumb|The [[Equation of Time]] – above the axis the equation of time is positive, and a sundial will appear ''fast'' relative to a clock showing local mean time. The opposites are true below the axis.]]
+{{main|Equation of time}}
+[[File:Derby Sundial C 5810.JPG|thumb|170px|The [[Whitehurst & Son sundial]]  made in 1812, with a circular scale showing the equation of time correction. This is now on display in the [[Derby Museum and Art Gallery|Derby Museum.]] ]]
+
+Although the Sun appears to rotate uniformly about the Earth, in reality this motion is not perfectly uniform. This is due to the [[Eccentricity (mathematics)|eccentricity]] of the Earth's orbit (the fact that the Earth's orbit about the Sun is not perfectly circular, but slightly [[ellipse|elliptical]]) and the tilt (obliquity) of the Earth's rotational axis relative to the plane of its orbit. Therefore, sundial time varies from [[Local mean time|standard clock time]]. On four days of the year, the correction is effectively zero. However, on others, it can be as much as a quarter-hour early or late. The amount of correction is described by the [[equation of time]]. This correction is equal worldwide: it does not depend on the local [[latitude]] or [[longitude]] of the observer's position. It does, however, change over long periods of time, (centuries or more,<ref>
+{{cite web
+ | first= Kevin
+ | last= Karney
+ | title= Variation in the Equation of Time
+ | url= http://www.precisedirections.co.uk/Sundials/E-o-T_Variability.pdf
+}}
+</ref>)
+because of slow variations in the Earth's orbital and rotational motions. Therefore, tables and graphs of the equation of time that were made centuries ago are now significantly incorrect. The reading of an old sundial should be corrected by applying the present-day equation of time, not one from the period when the dial was made.
+
+In some sundials, the equation of time correction is provided as an informational plaque affixed to the sundial, for the  observer to calculate. In more sophisticated sundials the equation can be incorporated automatically. For example, some equatorial bow sundials are supplied with a small wheel that sets the time of year; this wheel in turn rotates the equatorial bow, offsetting its time measurement. In other cases, the hour lines may be curved, or the equatorial bow may be shaped like a vase, which exploits the changing altitude of the sun over the year to effect the proper offset in time.<ref>
+{{cite web
+ |last        = The Claremont, CA
+ |first       = Bowstring Equatorial
+ |title       = Photo Info
+ |url         = http://www.wsanford.com/~wsanford/exo/sundials/ca/claremont/info.html
+ |access-date  = 2008-01-19
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20080422090829/http://www.wsanford.com/~wsanford/exo/sundials/ca/claremont/info.html
+ |archive-date = 2008-04-22
+}}
+</ref>
+
+A ''heliochronometer'' is a precision sundial first devised in about 1763 by [[Philipp Matthäus Hahn|Philipp Hahn]] and improved by Abbé Guyoux in about 1827.<ref name=Daniel2008>
+{{cite book
+ | last= Daniel
+ | first = Christopher St. J. H.
+ | title= Sundials
+ | date= 4 March 2008
+ | publisher= Osprey Publishing
+ | isbn= 978-0-7478-0558-8
+ | pages= 47–
+ | url= https://books.google.com/books?id=x7-cO24xCMcC&pg=PA47
+ | access-date= 25 March 2013
+}}
+</ref>
+It corrects [[solar time|apparent solar time]] to [[mean solar time]] or another [[standard time]]. Heliochronometers usually indicate the minutes to within 1 minute of [[Universal Time]].
+
+[[File:ROE-2012-05-07-0010.jpg|thumb|Sunquest sundial, designed by Richard L. Schmoyer, at the [[Mount Cuba Observatory]] in [[Greenville, Delaware]].]]
+
+The [[Sunquest sundial]], designed by Richard L. Schmoyer in the 1950s, uses an analemmic inspired gnomon to cast a shaft of light onto an equatorial time-scale crescent. Sunquest is adjustable for latitude and longitude, automatically correcting for the equation of time, rendering it "as accurate as most pocket watches".<ref>{{cite web|last1=Schmoyer|first1=Richard L.|title=Designed for Accuracy|url=http://sunquestsundial.org/index.php/designed-for-accuracy/|website=Sunquest Sundial|publisher=Richard L. Schmoyer|date=1983|access-date=17 December 2017}}</ref>{{sfn|Waugh|1973|p=34]}}<ref>{{cite book|last1=Cousins|first1=Frank W.|title=Sundials: The Art and Science of Gnomonics|date=1973|publisher=Pica Press|location=New York|pages=189–195}}</ref><ref>{{cite journal|last1=Stong|first1=C.L.|title=The Amateur Scientist|journal=Scientific American|date=1959|volume=200|issue=5|pages=190–198|doi=10.1038/scientificamerican0459-171|bibcode=1959SciAm.200d.171S|url=http://sunquestsundial.org/wp-content/uploads/2015/10/Scientific-American-1959.pdf}}</ref>  Similarly, in place of the shadow of a gnomon the [https://commons.wikimedia.org/wiki/File:Sundial_with_Equation_of_Time_correction.jpg sundial at Miguel Hernández University] uses the solar projection of a graph of the equation of time intersecting a time scale to display clock time directly. [[File:Sundial with Equation of Time correction.jpg|thumb|Sundial on the Orihuela Campus of [[Miguel Hernández University]], Spain, which uses a projected graph of the [[equation of time]] within the shadow to indicate clock time.]]
+
+An analemma may be added to many types of sundials to correct apparent solar time to [[mean solar time]] or another [[standard time]]. These usually have hour lines shaped like "figure eights" ([[analemma]]s) according to the [[equation of time]]. This compensates for the slight eccentricity in the Earth's orbit and the tilt of the Earth's axis that causes up to a 15-minute variation from mean solar time. This is a type of dial furniture seen on more complicated horizontal and vertical dials.
+
+Prior to the invention of accurate clocks, in the mid-17th Century, sundials were the only timepieces in common use, and were considered to tell the "right" time. The Equation of Time was not used. After the invention of good clocks, sundials were still considered to be correct, and clocks usually incorrect. The Equation of Time was used in the opposite direction from today, to apply a correction to the time shown by a clock to make it agree with sundial time. Some elaborate "[[equation clock]]s", such as one made by Joseph Williamson in 1720, incorporated mechanisms to do this correction automatically. (Williamson's clock may have been the first-ever device to use a [[Differential (mechanical device)|differential]] gear.) Only after about 1800 was uncorrected clock time considered to be "right", and sundial time usually "wrong", so the Equation of Time became used as it is today.{{citation needed|date=June 2013}}
+
+==With fixed axial gnomon==
+[[File:Carefree-Carefree Sundial-1959-2.JPG|thumb|The 1959 [[Carefree sundial]] in [[Carefree, Arizona]] has a {{convert|62|ft|adj=on}} gnomon, possibly the largest sundial in the United States.<ref>[http://www.wsanford.com/~wsanford/sundials/temp/its-about-time/FS_SundialAndGeometry.pdf The Sundial and Geometry p 38.] {{webarchive|url=https://web.archive.org/web/20160304092945/http://www.wsanford.com/~wsanford/sundials/temp/its-about-time/FS_SundialAndGeometry.pdf |date=2016-03-04 }}</ref>]]
+The most commonly observed sundials are those in which the shadow-casting style is fixed in position and aligned with the Earth's rotational axis, being oriented with [[true North]] and South, and making an angle with the horizontal equal to the geographical latitude.  This axis is aligned with the [[celestial pole]]s, which is closely, but not perfectly, aligned with the [[pole star]] [[Polaris]].  For illustration, the celestial axis points vertically at the true [[North Pole]], where it points horizontally on the [[equator]].  At [[Jaipur]], home of the world's largest sundial, gnomons are raised 26°55" above horizontal, reflecting the local latitude.<ref>{{cite web|title=The world's largest sundial, Jantar Mantar, Jaipur|url=https://www.bordersundials.co.uk/the-worlds-largest-sundial-jantar-mantar-jaipur/|website=Border Sundials|date=April 2016|access-date=19 December 2017}}</ref>
+
+On any given day, the Sun appears to rotate uniformly about this axis, at about 15° per hour, making a full circuit (360°) in 24 hours.  A linear gnomon aligned with this axis will cast a sheet of shadow (a half-plane) that, falling opposite to the Sun, likewise rotates about the celestial axis at 15° per hour.  The shadow is seen by falling on a receiving surface that is usually flat, but which may be spherical, cylindrical, conical or of other shapes.  If the shadow falls on a surface that is symmetrical about the celestial axis (as in an armillary sphere, or an equatorial dial), the surface-shadow likewise moves uniformly; the hour-lines on the sundial are equally spaced.  However, if the receiving surface is not symmetrical (as in most horizontal sundials), the surface shadow generally moves non-uniformly and the hour-lines are not equally spaced; one exception is the Lambert dial described below.
+
+Some types of sundials are designed with a fixed gnomon that is not aligned with the celestial poles like a vertical obelisk. Such sundials are covered below under the section, "Nodus-based sundials".
+
+===Empirical hour-line marking===
+{{see also|Schema for horizontal dials|Equation of time}}
+The formulas shown in the paragraphs below allow the positions of the hour-lines to be calculated for various types of sundial. In some cases, the calculations are simple; in others they are extremely complicated. There is an alternative, simple method of finding the positions of the hour-lines which can be used for many types of sundial, and saves a lot of work in cases where the calculations are complex.{{sfn|Waugh|1973|pp=106–107}} This is an empirical procedure in which the position of the shadow of the gnomon of a real sundial is marked at hourly intervals. The [[equation of time]] must be taken into account to ensure that the positions of the hour-lines are independent of the time of year when they are marked. An easy way to do this is to set a clock or watch so it shows "sundial time"{{efn|A clock showing sundial time always agrees with a sundial in the same locality.}} which is [[standard time]],{{efn|Strictly, [[local mean time]] rather than standard time should be used. However, using standard time makes the sundial more useful, since it does not have to be corrected for time zone or longitude.}} plus the equation of time on the day in question.{{efn|The equation of time is considered to be positive when "sundial time" is ahead of "clock time", negative otherwise. See the graph shown in the section [[#Equation of time correction]], above. For example, if the equation of time is -5 minutes and the standard time is 9:40, the sundial time is 9:35.}}{{sfn|Waugh|1973| p= 205}} The hour-lines on the sundial are marked to show the positions of the shadow of the style when this clock shows whole numbers of hours, and are labelled with these numbers of hours. For example, when the clock reads 5:00, the shadow of the style is marked, and labelled "5" (or "V" in [[Roman numerals]]). If the hour-lines are not all marked in a single day, the clock must be adjusted every day or two to take account of the variation of the equation of time.
+
+===Equatorial sundials===
+<!-- [[File:Precision sundial in Bütgenbach-Belgium.jpg|left|upright|thumb|Precision sundial in Bütgenbach, Belgium. (Precision = ±30 seconds){{Coord|50.4231|6.2017|type:landmark|format=dms|name=Belgium}} [http://toolserver.org/~para/GeoCommons/earth.php?latdegdec=50.4231&londegdec=6.2017&scale=10000&amp&commons=1/ (Google Earth)]]]  Dup of one in galleryb-->
+[[File:Tower-bridge-and-olympic-rings.jpg|upright|thumb|''Timepiece'', [[St Katharine Docks]], London (1973) an equinoctial dial by [[Wendy Taylor]]<ref>{{NHLE|num=1391106|desc=Timepiece Sculpture|grade=II|access-date=10 October 2018}}</ref>]]
+[[File:beijing sundial.jpg|upright|thumb|An equatorial sundial in the [[Forbidden City]], Beijing. {{Coord|39.9157|116.3904|type:landmark|format=dms|name=Forbidden City equatorial sundial}} The gnomon points [[true North]] and its angle with horizontal equals the local [[latitude]].  Closer inspection of the [[:File:beijing sundial.jpg|full-size image]] reveals the "spider-web" of date rings and hour-lines.]]
+
+{{anchor|equinoctial sundial}}The distinguishing characteristic of the ''equatorial dial'' (also called the ''equinoctial dial'')  is the planar surface that receives the shadow, which is exactly perpendicular to the gnomon's style.{{sfn|Rohr|1996|pp=46–49}}{{sfn|Mayall| Mayall|1938|pp= 55–56, 96–98, 138–141}}{{sfn|Waugh|1973| pp= 29–34}}  This plane is called equatorial, because it is parallel to the equator of the Earth and of the celestial sphere.  If the gnomon is fixed and aligned with the Earth's rotational axis, the sun's apparent rotation about the Earth casts a uniformly rotating sheet of shadow from the gnomon; this produces a uniformly rotating line of shadow on the equatorial plane.  Since the sun rotates 360° in 24 hours, the hour-lines on an equatorial dial are all spaced 15° apart (360/24).
+
+:<math>   H_E = 15^{\circ}\times t\text{ (hours)}.
+</math>
+
+The uniformity of their spacing makes this type of sundial easy to construct.  If the dial plate material is opaque, both sides of the equatorial dial must be marked, since the shadow will be cast from below in winter and from above in summer. With translucent dial plates (e.g. glass) the hour angles need only be marked on the sun-facing side, although the hour numberings (if used) need be made on both sides of the dial, owing to the differing hour schema on the sun-facing and sun-backing sides.
+
+Another major advantage of this dial is that equation of time (EoT) and daylight saving time (DST) corrections can be made by simply rotating the dial plate by the appropriate angle each day. This is because the hour angles are equally spaced around the dial. For this reason, an equatorial dial is often a useful choice when the dial is for public display and it is desirable to have it show the true local time to reasonable accuracy. The EoT correction is made via the relation
+
+: <math> \text{Correction}^{\circ} = \frac{\text{EoT (minutes)} + 60 \times \Delta \text{DST (hours)}}{4}.
+</math>
+
+Near the [[equinox]]es in spring and autumn, the sun moves on a circle that is nearly the same as the equatorial plane; hence, no clear shadow is produced on the equatorial dial at those times of year, a drawback of the design.
+
+A ''nodus'' is sometimes added to equatorial sundials, which allows the sundial to tell the time of year.  On any given day, the shadow of the nodus moves on a circle on the equatorial plane, and the radius of the circle measures the [[declination]] of the sun. The ends of the gnomon bar may be used as the nodus, or some feature along its length. An ancient variant of the equatorial sundial has only a nodus (no style) and the concentric circular hour-lines are arranged to resemble a spider-web.<ref>{{cite journal | author = Schaldach K | date = 2004 | title = The arachne of the Amphiareion and the origin of gnomonics in Greece | journal = Journal for the History of Astronomy | volume = 35 | issue = 4 | pages = 435–445 | issn = 0021-8286 | doi=10.1177/002182860403500404| bibcode = 2004JHA....35..435S | s2cid = 122673452 }}</ref>
+
+===Horizontal sundials===
+{{For|a more detailed description of such a dial|London dial|Whitehurst & Son sundial (1812)}}
+[[File:Garden sundial MN 2007.JPG|thumb|upright|left|Horizontal sundial in [[Minnesota]]. June 17, 2007 at 12:21. 44°51′39.3″N, 93°36′58.4″W]]
+In the ''horizontal sundial'' (also called a ''garden sundial''), the plane that receives the shadow is aligned horizontally, rather than being perpendicular to the style as in the equatorial dial.{{sfn|Rohr|1996|pp=49–53}}{{sfn|Mayall| Mayall|1938|pp= 56–99, 101–143, 138–141}}{{sfn|Waugh|1973| pp= 35–51}} Hence, the line of shadow does not rotate uniformly on the dial face; rather, the hour lines are spaced according to the rule.{{sfn|Rohr|1996|p=52}}{{sfn|Waugh|1973| p= 45}}
+
+:<math>
+\tan H_H = \sin L  \tan(15^{\circ} \times t)
+</math>
+
+Or in other terms:
+
+:<math>
+\ H_H = \tan^{-1}[\sin L \times \tan(15^{\circ} \times t)]
+</math>
+
+where L is the sundial's geographical [[latitude]] (and the angle the gnomon makes with the dial plate), <math> H_H </math> is the angle between a given hour-line and the noon hour-line (which always points towards [[true North]]) on the plane, and ''t'' is the number of hours before or after noon.  For example, the angle <math> H_H </math> of the 3pm hour-line would equal the [[inverse trigonometric function|arctangent]] of [[trigonometric function|sin]] L, since tan 45° = 1.  When L equals 90° (at the [[North Pole]]), the horizontal sundial becomes an equatorial sundial; the style points straight up (vertically), and the horizontal plane is aligned with the equatorial plane; the hour-line formula becomes <math> H_H </math> = 15° × t, as for an equatorial dial.  A horizontal sundial at the Earth's [[equator]], where L equals 0°, would require a (raised) horizontal style and would be an example of a polar sundial (see below).
+
+[[File:Sundial -- Nassau Bay, Texas.jpg|200px|thumb|left|Crude sundial near Johnson Space Center]]
+[[File:Kew Gardens 0502.JPG|thumb|Detail of horizontal sundial outside [[Kew Palace]] in London, United Kingdom]]
+The chief advantages of the horizontal sundial are that it is easy to read, and the sunlight lights the face throughout the year.  All the hour-lines intersect at the point where the gnomon's style crosses the horizontal plane.  Since the style is aligned with the Earth's rotational axis, the style points [[true North]] and its angle with the horizontal equals the sundial's geographical latitude L.  A sundial designed for one [[latitude]] can be adjusted for use at another latitude by tilting its base upwards or downwards by an angle equal to the difference in latitude.  For example, a sundial designed for a latitude of 40° can be used at a latitude of 45°, if the sundial plane is tilted upwards by 5°, thus aligning the style with the Earth's rotational axis. {{Citation needed|date=August 2012}}
+
+Many ornamental sundials are designed to be used at 45 degrees north. Some mass-produced garden sundials fail to correctly calculate the ''hourlines'' and so can never be corrected.  A local standard [[time zone]] is nominally 15 degrees wide, but may be modified to follow geographic or political boundaries. A sundial can be rotated around its style (which must remain pointed at the celestial pole) to adjust to the local time zone. In most cases, a rotation in the range of 7.5 degrees east to 23 degrees west suffices. This will introduce error in sundials that do not have equal hour angles.  To correct for [[daylight saving time]], a face needs two sets of numerals or a correction table.  An informal standard is to have numerals in hot colors for summer, and in cool colors for winter.{{Citation needed|date=August 2012}} Since the hour angles are not evenly spaced, the equation of time corrections cannot be made via rotating the dial plate about the gnomon axis. These types of dials usually have an equation of time correction tabulation engraved on their pedestals or close by. Horizontal dials are commonly seen in gardens, churchyards and in public areas.
+
+===Vertical sundials===
+[[File:Houghton Hall Norfolk UK 4-face sundial.jpg|thumb|Two vertical dials at [[Houghton Hall]] [[Norfolk]] [[UK]] {{Coord|52.827469|0.657616|type:landmark|format=dms|name=Houghton Hall vertical sundials}}. The left and right dials face South and East, respectively.  Both styles are parallel, their angle to the horizontal equaling the latitude. The East-facing dial is a polar dial with parallel hour-lines, the dial-face being parallel to the style.]]
+
+In the common ''vertical dial'', the shadow-receiving plane is aligned vertically; as usual, the gnomon's style is aligned with the Earth's axis of rotation.{{sfn|Rohr|1996|pp=46–49}}{{sfn|Mayall| Mayall|1938|pp= 557–58, 102–107, 141–143}}{{sfn|Waugh|1973| pp= 52–99}}  As in the horizontal dial, the line of shadow does not move uniformly on the face; the sundial is not ''equiangular''.  If the face of the vertical dial points directly south, the angle of the hour-lines is instead described by the formula{{sfn|Rohr|1996|p=65}}{{sfn|Waugh|1973| p=52}}
+:<math>
+\tan H_V = \cos L \tan(15^{\circ} \times t)
+</math>
+
+where L is the sundial's geographical [[latitude]], <math> H_V </math> is the angle between a given hour-line and the noon hour-line (which always points due north) on the plane, and ''t'' is the number of hours before or after noon.  For example, the angle <math> H_V </math> of the 3pm hour-line would equal the [[inverse trigonometric function|arctangent]] of [[trigonometric function|cos]] L, since tan 45° = 1.  The shadow moves ''counter-clockwise'' on a south-facing vertical dial, whereas it runs clockwise on horizontal and equatorial north-facing dials.
+
+Dials with faces perpendicular to the ground and which face directly South, North, East, or West are called ''vertical direct dials''.{{sfn|Rohr|1996|pp=54–55}}{{sfn|Waugh|1973| pp= 52–69}}  It is widely believed, and stated in respectable publications, that a vertical dial cannot receive more than twelve hours of sunlight a day, no matter how many hours of daylight there are.{{sfn|Waugh|1973| p=83}} However, there is an exception. Vertical sundials in the tropics which face the nearer pole (e.g. north facing in the zone between the Equator and the Tropic of Cancer) can actually receive sunlight for more than 12 hours from sunrise to sunset for a short period around the time of the summer solstice. For example, at latitude 20 degrees North, on June 21, the sun shines on a north-facing vertical wall for 13&nbsp;hours, 21&nbsp;minutes.<ref name="Sunrise">{{cite web|url=http://www.sunrisesunsetmap.com/|title=Worldwide Sunrise and Sunset map|last=Morrissey|first=David |access-date=28 October 2013}}</ref> Vertical sundials which do ''not'' face directly South (in the northern hemisphere) may receive significantly less than twelve hours of sunlight per day, depending on the direction they do face, and on the time of year.  For example, a vertical dial that faces due East can tell time only in the morning hours; in the afternoon, the sun does not shine on its face.  Vertical dials that face due East or West are ''polar dials'', which will be described below.  Vertical dials that face North are uncommon, because they tell time only during the spring and summer, and do not show the midday hours except in tropical latitudes (and even there, only around midsummer).  For non-direct vertical dials—those that face in non-cardinal directions—the mathematics of arranging the style and the hour-lines becomes more complicated; it may be easier to mark the hour lines by observation, but the placement of the style, at least, must be calculated first; such dials are said to be ''declining dials''.{{sfn|Rohr|1996|pp=55–69}}{{sfn|Mayall| Mayall|1938|p=58}}{{sfn|Waugh|1973| pp= 74–99}}
+
+[[File:Nové Město nad Metují sundials 2011 3.jpg|thumb|170px|"Double" sundials in [[Nové Město nad Metují]], Czech Republic; the observer is facing almost due north.]]
+
+Vertical dials are commonly mounted on the walls of buildings, such as town-halls, [[cupola]]s and church-towers, where they are easy to see from far away. In some cases, vertical dials are placed on all four sides of a rectangular tower, providing the time throughout the day.  The face may be painted on the wall, or displayed in inlaid stone; the gnomon is often a single metal bar, or a tripod of metal bars for rigidity.  If the wall of the building faces ''toward'' the South, but does not face due South, the gnomon will not lie along the noon line, and the hour lines must be corrected.  Since the gnomon's style must be parallel to the Earth's axis, it always "points" [[true North]] and its angle with the horizontal will equal the sundial's geographical latitude; on a direct south dial, its angle with the vertical face of the dial will equal the [[colatitude]], or 90° minus the latitude.{{sfn|Waugh|1973| p=55}}
+
+===Polar dials===
+[[File:Sundial - Melbourne Planetarium.jpg|thumb|Polar sundial at [[Scienceworks (Melbourne)|Melbourne Planetarium]]]]
+In ''polar dials'', the shadow-receiving plane is aligned ''parallel'' to the gnomon-style.{{sfn|Rohr|1996|p=72}}{{sfn|Mayall| Mayall|1938|pp= 58, 107–112}}{{sfn|Waugh|1973| pp= 70–73}}
+Thus, the shadow slides sideways over the surface, moving perpendicularly to itself as the Sun rotates about the style.  As with the gnomon, the hour-lines are all aligned with the Earth's rotational axis.  When the Sun's rays are nearly parallel to the plane, the shadow moves very quickly and the hour lines are spaced far apart.  The direct East- and West-facing dials are examples of a polar dial.  However, the face of a polar dial need not be vertical; it need only be parallel to the gnomon.  Thus, a plane inclined at the angle of latitude (relative to horizontal) under the similarly inclined gnomon will be a polar dial.  The perpendicular spacing ''X'' of the hour-lines in the plane is described by the formula
+
+:<math>
+X = H \tan(15^{\circ} \times t)
+</math>
+
+where ''H'' is the height of the style above the plane, and ''t'' is the time (in hours) before or after the center-time for the polar dial.  The center time is the time when the style's shadow falls directly down on the plane; for an East-facing dial, the center time will be 6am, for a West-facing dial, this will be 6pm, and for the inclined dial described above, it will be noon.  When ''t'' approaches ±6 hours away from the center time, the spacing ''X'' diverges to [[Extended real number line|+∞]]; this occurs when the Sun's rays become parallel to the plane.
+
+===Vertical declining dials===
+[[File:Verticalezonnewijzers-en.jpg|thumb|600px|center|Effect of declining on a sundial's hour-lines.  A vertical dial, at a latitude of 51° N, designed to face due South (far left) shows all the hours from 6am to 6pm, and has converging hour-lines symmetrical about the noon hour-line.  By contrast, a West-facing dial (far right) is polar, with parallel hour lines, and shows only hours after noon.  At the intermediate orientations of [[Boxing the compass|South-Southwest, Southwest, and West-Southwest]], the hour lines are asymmetrical about noon, with the morning hour-lines ever more widely spaced.]]
+{{Clear}}
+<!-- [[File:MootHallSundial.JPG|upright|thumb|SSW facing, vertical declining sundial on Moot Hall, [[Aldeburgh]], Suffolk, England.]]  Logically better place-->
+[[File:Vertical Sundial at Fatih Mosque.jpg|upright|thumb|Two sundials, a large and a small one, at [[Fatih Mosque]], [[Istanbul]] dating back to the late 16th century. It is on the southwest facade with an azimuth angle of 52° N.]]
+A ''declining dial'' is any non-horizontal, planar dial that does not face in a cardinal direction, such as (true) [[North]], [[South]], [[East]] or [[West]].{{sfn|Rohr|1996|pp=55–69}}{{sfn|Mayall| Mayall|1938|pp= 58–112, 101–117, 1458–146}}{{sfn|Waugh|1973| pp= 74–99}}  As usual, the gnomon's style is aligned with the Earth's rotational axis, but the hour-lines are not symmetrical about the noon hour-line.  For a vertical dial, the angle <math> H_\text{VD} </math> between the noon hour-line and another hour-line is given by the formula below. Note that <math> H_\text{VD} </math>  is defined positive in the clockwise sense w.r.t. the upper vertical hour angle; and that its conversion to the equivalent solar hour requires careful consideration of which quadrant of the sundial that it belongs in.{{sfn|Rohr|1996|p=79}}
+
+:<math>
+\tan H_\text{VD} = \frac{\cos L}{\cos D \cot(15^{\circ} \times t) - s_o \sin L \sin D }
+</math>
+
+where <math> L </math>  is the sundial's geographical [[latitude]]; ''t'' is the time before or after noon; <math> D </math>  is the angle of declination from true [[south]], defined as positive when east of south; and <math>s_o</math> is a switch integer for the dial orientation. A partly south-facing dial has an <math>s_o</math> value of + 1; those partly north-facing, a value of -1. When such a dial faces South (<math> D  = 0^{\circ} </math>), this formula reduces to the formula given above for vertical south-facing dials, i.e.
+:<math>
+\tan H_\text{V}  = \cos L \tan(15^{\circ} \times t)
+</math>
+
+When a sundial is not aligned with a cardinal direction, the substyle of its gnomon is not aligned with the noon hour-line.  The angle <math> B </math> between the substyle and the noon hour-line is given by the formula{{sfn|Rohr|1996|p=79}}
+
+:<math>
+\tan B = \sin D  \cot L
+</math>
+
+If a vertical sundial faces true South or North (<math> D = 0^{\circ} </math> or <math> D  = 180^{\circ} </math>, respectively), the angle <math> B  = 0^{\circ} </math> and the substyle is aligned with the noon hour-line.
+
+The height of the gnomon, that is the angle the style makes to the plate, <math> G </math>, is given by :
+:<math>
+\sin G = \cos D  \cos L
+ </math>
+{{sfn|Mayall| Mayall|1938|p= 138}}
+
+===Reclining dials===
+[[File:RelSolValongo.jpg|thumb|right|Vertical reclining dial in the Southern Hemisphere, facing due north, with hyperbolic declination lines and hour lines. Ordinary vertical sundial at this latitude (between tropics) could not produce a declination line for the summer solstice. This particular sundial is located at the [[Valongo Observatory]] of the [[Federal University of Rio de Janeiro]], Brazil.]]
+The sundials described above have gnomons that are aligned with the Earth's rotational axis and cast their shadow onto a plane.  If the plane is neither vertical nor horizontal nor equatorial, the sundial is said to be ''reclining'' or ''inclining''.<ref>Rohr (1965), pp. 70–81; Waugh (1973), pp. 100–107; Mayall and Mayall (1994), pp. 59–60, 117–122, 144–145.</ref>  Such a sundial might be located on a South-facing roof, for example.  The hour-lines for such a sundial can be calculated by slightly correcting the horizontal formula above<ref>Rohr (1965), p. 77; Waugh (1973), pp. 101–103; {{cite book | author = Capt. Samuel Sturmy | date = 1683 | title = The Art of Dialling | publisher = Unknown publisher | location = London}}</ref>
+
+:<math>
+\tan H_{RV} = \cos(L + R) \tan(15^{\circ} \times t)
+</math>
+
+where <math> R </math> is the desired angle of reclining relative to the local vertical, L is the sundial's geographical latitude, <math> H_{RV} </math> is the angle between a given hour-line and the noon hour-line (which always points due north) on the plane, and ''t'' is the number of hours before or after noon.  For example, the angle <math> H_{RV} </math> of the 3pm hour-line would equal the [[inverse trigonometric function|arctangent]] of [[trigonometric function|cos]](L + R), since tan 45° = 1.  When R equals 0° (in other words, a South-facing vertical dial), we obtain the vertical dial formula above.
+
+Some authors use a more specific nomenclature to describe the orientation of the shadow-receiving plane.  If the plane's face points downwards towards the ground, it is said to be ''proclining'' or ''inclining'', whereas a dial is said to be ''reclining'' when the dial face is pointing away from the ground. Many authors also often refer to reclined, proclined and inclined sundials in general as inclined sundials. It is also common in the latter case to measure the angle of inclination relative to the horizontal plane on the sun side of the dial.
+In such texts, since I = 90° + R, the hour angle formula will often be seen written as :
+
+:<math>
+\tan H_{RV}  = \sin(L + I) \tan(15^{\circ} \times t)
+</math>
+
+The angle between the gnomon style and the dial plate, B, in this type of sundial is :
+
+:<math>
+B = 90^{\circ} - (L + R)
+</math>
+
+Or :
+
+:<math>
+B = 180^{\circ} - (L + I)
+</math>
+
+===Declining-reclining dials/ Declining-inclining dials===
+
+Some sundials both decline and recline, in that their shadow-receiving plane is not oriented with a cardinal direction (such as [[true North]] or true South) and is neither horizontal nor vertical nor equatorial.  For example, such a sundial might be found on a roof that was not oriented in a cardinal direction.
+
+The formulae describing the spacing of the hour-lines on such dials are rather more complicated than those for simpler dials.
+
+There are various solution approaches, including some using the methods of rotation matrices, and some making a 3D model of the reclined-declined plane and its vertical declined counterpart plane, extracting the geometrical relationships between the hour angle components on both these planes and then reducing the trigonometric algebra.{{sfnm|1a1=Brandmaier|1y=2005|1pp=16{{ndash}}23|1loc=Vol. 12, Issue 1|2a1=Snyder|2y=2015|2loc=Vol. 22, Issue 1}}
+
+One system of formulas for Reclining-Declining sundials: (as stated by Fennewick)<ref name=Fennewick>{{cite web|last1=Fennerwick|first1=Armyan|title= the Netherlands, Revision of Chapter 5 of Sundials by René R.J. Rohr, New York 1996 declining inclined dials part D Declining and Inclined Dials by Mathematics using a new figure|url=http://lester.demon.nl/mywww/rohr/|website=unknown|publisher=user on demon.nl|access-date=1 May 2015|location=Netherlands}}</ref>
+<!-- Description of the problem -->
+
+The angle <math> H_\text{RD} </math> between the noon hour-line and another hour-line is given by the formula below. Note that <math> H_\text{RD} </math> advances counterclockwise with respect to the zero hour angle for those dials that are partly south-facing and clockwise for those that are north-facing.
+
+:<math>
+\tan H_\text{RD} = \frac{\cos R \cos L  - \sin R \sin L \cos D - s_o  \sin R \sin D \cot(15^{\circ} \times t)}{\cos D \cot(15^{\circ} \times t) - s_o  \sin D \sin L }
+</math>
+
+within the parameter ranges :  <math> D < D_c </math>   and   <math> -90^{\circ} < R < (90^{\circ} - L) </math>.
+
+Or, if preferring to use inclination angle, <math> I </math>, rather than the reclination, <math> R </math>, where <math> I = (90^{\circ} + R) </math> :
+
+:<math>  \tan H_\text{RD} = \frac{\sin I \cos L  + \cos I \sin L \cos D + s_o  \cos I \sin D \cot(15^{\circ} \times t)}{\cos D \cot(15^{\circ} \times t) - s_o  \sin D \sin L }
+</math>
+
+within the parameter ranges :  <math> D < D_c </math>   and   <math> 0^{\circ} < I < (180^{\circ} - L) </math>.
+
+Here <math>L</math> is the sundial's geographical latitude; <math>s_o</math> is the orientation switch integer; ''t'' is the time in hours before or after noon; and <math> R </math> and <math> D </math> are the angles of reclination and declination, respectively.
+Note that <math> R </math> is measured with reference to the vertical. It is positive when the dial leans back towards the horizon behind the dial and negative when the dial leans forward to the horizon on the Sun's side. Declination angle <math> D </math> is defined as positive when moving east of true south.
+Dials facing fully or partly south have <math>s_o</math> = +1, while those partly or fully north-facing have an <math>s_o</math> value of -1.
+Since the above expression gives the hour angle as an arctan function, due consideration must be given to which quadrant of the sundial each hour belongs to before assigning the correct hour angle.
+
+Unlike the simpler vertical declining sundial, this type of dial does not always show hour angles on its sunside face for all declinations between east and west. When a northern hemisphere partly south-facing dial reclines back (i.e. away from the Sun) from the vertical, the gnomon will become co-planar with the dial plate at declinations less than due east or due west. Likewise for southern hemisphere dials that are partly north-facing.
+Were these dials reclining forward, the range of declination would actually exceed due east and due west.
+In a similar way, northern hemisphere dials that are partly north-facing and southern hemisphere dials that are south-facing, and which lean forward toward their upward pointing gnomons, will have a similar restriction on the range of declination that is possible for a given reclination value.
+The critical declination <math> D_c </math> is a geometrical constraint which depends on the value of both the dial's reclination and its latitude :
+
+:<math>
+\cos D_c  = \tan R \tan L = - \tan L \cot I
+</math>
+
+As with the vertical declined dial, the gnomon's substyle is not aligned with the noon hour-line. The general formula for the angle <math> B </math>, between the substyle and the noon-line is given by :
+
+:<math>
+\tan B = \frac {\sin D}{\sin R \cos D + \cos R \tan L} = \frac {\sin D}{\cos I \cos D - \sin I \tan L}
+</math>
+
+The angle <math> G </math>, between the style and the plate is given by :
+
+:<math> \sin G = \cos L \cos D \cos R - \sin L \sin R = - \cos L \cos D \sin I + \sin L \cos I
+</math>
+
+Note that for <math> G = 0^{\circ}</math>, i.e. when the gnomon is coplanar with the dial plate, we have :
+
+:<math> \cos D = \tan L \tan R = - \tan L \cot I </math>
+
+i.e. when  <math> D = D_c </math>, the critical declination value.<ref name=Fennewick/>
+
+====Empirical method====
+Because of the complexity of the above calculations, using them for the practical purpose of designing a dial of this type is difficult and prone to error. It has been suggested that it is better to locate the hour lines empirically, marking the positions of the shadow of a style on a real sundial at hourly intervals as shown by a clock and adding/deducting that day's equation of time adjustment.{{sfn|Waugh|1973|pp=106–107}} See [[#Empirical hour-line marking|Empirical hour-line marking]], above.
+
+===Spherical sundials===
+[[File:Zw stelling.jpg|thumb|170px|upright|Equatorial bow sundial in [[Hasselt]], [[Flanders]] in [[Belgium]] {{Coord|50|55|47|N|5|20|31|E|type:landmark|name=Hasselt equatorial bow sundial}}.  The rays pass through the narrow slot, forming a uniformly rotating sheet of light that falls on the circular bow.  The hour-lines are equally spaced; in this image, the local solar time is roughly 15:00 hours (3 p.m.). On September 10, a small ball, welded into the slot casts a shadow on centre of the hour band.]]
+
+The surface receiving the shadow need not be a plane, but can have any shape, provided that the sundial maker is willing to mark the hour-lines.  If the style is aligned with the Earth's rotational axis, a spherical shape is convenient since the hour-lines are equally spaced, as they are on the equatorial dial above; the sundial is ''equiangular''.  This is the principle behind the armillary sphere and the equatorial bow sundial.{{sfn|Rohr|1996|pp=114, 1214–125}}{{sfn|Mayall| Mayall|1938|pp= 60, 126–129, 151–115}}{{sfn|Waugh|1973| pp= 174–180}}  However, some equiangular sundials—such as the Lambert dial described below—are based on other principles.
+
+In the ''equatorial bow sundial'', the gnomon is a bar, slot or stretched wire parallel to the celestial axis.  The face is a semicircle, corresponding to the equator of the sphere, with markings on the inner surface.  This pattern, built a couple of meters wide out of temperature-invariant steel [[invar]], was used to keep the trains running on time in France before World War I.{{sfn|Rohr|1996|p=17}}
+
+Among the most precise sundials ever made are two equatorial bows constructed of [[marble]] found in [[Yantra mandir (Jaipur)|Yantra mandir]].{{sfn|Rohr|1996|pp=118–119}}{{sfn|Mayall| Mayall|1938|pp=215–216}} This collection of sundials and other astronomical instruments was built by Maharaja [[Jai Singh II]] at his then-new capital of [[Jaipur]], India between 1727 and 1733.  The larger equatorial bow is called the ''Samrat Yantra'' (The Supreme Instrument); standing at 27&nbsp;meters, its shadow moves visibly at 1&nbsp;mm per second, or roughly a hand's breadth (6&nbsp;cm) every minute.
+
+===Cylindrical, conical, and other non-planar sundials===
+[[File:Precision sundial in Bütgenbach-Belgium.jpg|left|upright|thumb|170px|Precision sundial in Bütgenbach, Belgium.
+(Precision{{space}}={{space}}±30{{space}}seconds)
+{{Coord|50.4231|6.2017|type:landmark|format=dms|name=Belgium}} [http://toolserver.org/~para/GeoCommons/earth.php?latdegdec=50.4231&londegdec=6.2017&scale=10000&amp&commons=1/ (Google Earth)]]]
+Other non-planar surfaces may be used to receive the shadow of the gnomon.
+
+As an elegant alternative, the style (which could be created by a hole or slit in the circumference) may be located on the circumference of a cylinder or sphere, rather than at its central axis of symmetry.
+
+In that case, the hour lines are again spaced equally, but at ''twice'' the usual angle, due to the geometrical [[inscribed angle]] theorem.  This is the basis of some modern sundials, but it was also used in ancient times;{{efn|An example of such a half-cylindrical dial may be found at [[Wellesley College]] in [[Massachusetts]].{{sfn|Mayall|Mayall|1938|p=94}} }}
+
+In another variation of the polar-axis-aligned cylindrical, a cylindrical dial could be rendered as a helical ribbon-like surface, with a thin gnomon located either along its center or at its periphery.
+
+==Movable-gnomon sundials==
+Sundials can be designed with a gnomon that is placed in a different position each day throughout the year.  In other words, the position of the gnomon relative to the centre of the hour lines varies.  The gnomon need not be aligned with the celestial poles and may even be perfectly vertical (the analemmatic dial). These dials, when combined with fixed-gnomon sundials, allow the user to determine [[true North]] with no other aid; the two sundials are correctly aligned if and only if they both show the same time. {{citation needed|date=June 2013}}
+
+===Universal equinoctial ring dial===
+{{Main|Astronomical rings}}
+[[File:Ringsundial open.jpg|thumb|170px|upright|left|Universal ring dial. The dial is suspended from the cord shown in the upper left; the suspension point on the vertical meridian ring can be changed to match the local latitude. The center bar is twisted until a sunray passes through the small hole and falls on the horizontal equatorial ring. See [[:Commons:File:Ringsundial_open.jpg|Commons annotations]] for labels.]]
+
+A ''universal equinoctial ring dial'' (sometimes called a ''ring dial'' for brevity, although the term is ambiguous), is a portable version of an armillary sundial,{{sfn|Waugh|1973|p= 157}} or was inspired by the [[mariner's astrolabe]].<ref name="swanick">Swanick, Lois Ann. ''An Analysis Of Navigational Instruments In The Age Of Exploration: 15th Century To Mid-17th Century'', MA Thesis, Texas A&M University, December 2005</ref>  It was likely invented by [[William Oughtred]] around 1600 and became common throughout Europe.{{sfn|Turner|1980|p= 25}}
+
+In its simplest form, the style is a thin slit that allows the Sun's rays to fall on the hour-lines of an equatorial ring.  As usual, the style is aligned with the Earth's axis; to do this, the user may orient the dial towards [[true North]] and suspend the ring dial vertically from the appropriate point on the meridian ring.  Such dials may be made self-aligning with the addition of a more complicated central bar, instead of a simple slit-style.  These bars are sometimes an addition to a set of [[Gemma's rings]].  This bar could pivot about its end points and held a perforated slider that was positioned to the month and day according to a scale scribed on the bar.  The time was determined by rotating the bar towards the Sun so that the light shining through the hole fell on the equatorial ring.  This forced the user to rotate the instrument, which had the effect of aligning the instrument's vertical ring with the meridian.
+
+When not in use, the equatorial and meridian rings can be folded together into a small disk.
+
+In 1610, [[Edward Wright (mathematician)|Edward Wright]] created the '''sea ring''', which mounted a universal ring dial over a magnetic compass.  This permitted mariners to determine the time and [[magnetic variation]] in a single step.<ref name="may">May, William Edward, ''A History of Marine Navigation'', G. T. Foulis &amp; Co. Ltd., Henley-on-Thames, Oxfordshire, 1973, {{ISBN|0-85429-143-1}}</ref>
+
+===Analemmatic sundials===
+{{Main|Analemmatic sundial}}
+[[File:Zonnewijzerherkenrode.jpg|upright|thumb|170px|Analemmatic sundial on a [[meridian (geography)|meridian]] line in the garden of the abbey of Herkenrode in [[Hasselt]] ([[Flanders]] in [[Belgium]])]]
+
+'''Analemmatic sundials''' are a type of horizontal sundial that has a vertical gnomon and hour markers positioned in an elliptical pattern.  There are no hour lines on the dial and the time of day is read on the ellipse.  The gnomon is not fixed and must change position daily to accurately indicate time of day.
+Analemmatic sundials are sometimes designed with a human as the gnomon.  Human gnomon analemmatic sundials are not practical at lower latitudes where a human shadow is quite short during the summer months.  A 66 inch tall person casts a 4-inch shadow at 27 deg latitude on the summer solstice.<ref>Analemmatic sundials: How to build one and why they work by C.J. Budd and C.J. Sangwin</ref>
+
+===Foster-Lambert dials===
+The Foster-Lambert dial is another movable-gnomon sundial.{{sfn|Mayall| Mayall|1938|pp= 190–192}} In contrast to the elliptical analemmatic dial, the Lambert dial is circular with evenly spaced hour lines, making it an ''equiangular sundial'', similar to the equatorial, spherical, cylindrical and conical dials described above.  The gnomon of a Foster-Lambert dial is neither vertical nor aligned with the Earth's rotational axis; rather, it is tilted northwards by an angle α = 45° - (Φ/2), where Φ is the geographical [[latitude]].  Thus, a Foster-Lambert dial located at latitude 40° would have a gnomon tilted away from vertical by 25° in a northerly direction.  To read the correct time, the gnomon must also be moved northwards by a distance
+
+:<math>
+Y = R \tan \alpha   \tan \delta \,
+</math>
+
+where ''R'' is the radius of the Foster-Lambert dial and δ again indicates the Sun's declination for that time of year.
+
+==Altitude-based sundials==
+[[File:Ottoman Sundial at the Debbane Palace museum.jpg|thumb|Ottoman-style sundial with folded gnomon and a compass. [[Debbane Palace]] museum, Lebanon.]]
+Altitude dials measure the height of the Sun in the sky, rather than directly measuring its hour-angle about the Earth's axis.  They are not oriented towards [[true North]], but rather towards the Sun and generally held vertically. The Sun's elevation is indicated by the position of a nodus, either the shadow-tip of a gnomon, or a spot of light.
+
+In altitude dials, the time is read from where the nodus falls on a set of hour-curves that vary with the time of year. Many such altitude-dials' construction is calculation-intensive, as also the case with many azimuth dials. But the capuchin dials (described below) are constructed and used graphically.
+
+Altitude dials' disadvantages:
+
+Since the Sun's altitude is the same at times equally spaced about noon (e.g., 9am and 3pm), the user had to know whether it was morning or afternoon.  At, say, 3:00 pm, that isn't a problem. But when the dial indicates a time 15 minutes from noon, the user likely won't have a way of distinguishing 11:45 from 12:15.
+
+Additionally, altitude dials are less accurate near noon, because the sun's altitude isn't changing rapidly then.
+
+Many of these dials are portable and simple to use. As is often the case with other sundials, many altitude dials are designed for only one latitude. But the capuchin dial (described below) has a version that's adjustable for latitude.{{sfn|Mayall|Mayall|1938|p=169}}
+
+The book on sundials by Mayall & Mayall describes the Universal Capuchin sundial.
+
+===Human shadows===
+The length of a human shadow (or of any vertical object) can be used to measure the sun's elevation and, thence, the time.<ref>Rohr (1965), p. 15; Waugh (1973), pp. 1–3.</ref>  The [[Venerable Bede]] gave a table for estimating the time from the length of one's shadow in feet, on the assumption that a monk's height is six times the length of his foot.  Such shadow lengths will vary with the geographical [[latitude]] and with the time of year.  For example, the shadow length at noon is short in summer months, and long in winter months.
+
+[[Chaucer]] evokes this method a few times in his ''[[Canterbury Tales]]'', as in his ''Parson's Tale''.{{efn|
+[[Chaucer]]:as in his ''Parson's Tale''. It was four o'clock according to my guess,<br />Since eleven feet, a little more or less,<br />my shadow at the time did fall,<br />Considering that I myself am six feet tall.}}
+
+An equivalent type of sundial using a vertical rod of fixed length is known as a ''[[backstaff|backstaff dial]]''.
+
+===Shepherd's dial – timesticks===
+{{Main|Diurnal motion}}
+[[File:Tibetan Timestick.jpg|thumb|19th-century Tibetan Shepherd's Timestick]]
+A [[shepherd's dial]] – also known as a ''shepherd's column dial'',<ref name="story of time">{{cite book |author=National Maritime Museum|author2=Lippincott, Kristen|author3=Eco, Umberto|author4=Gombrich, E. H. |title=The Story of Time |url=https://archive.org/details/storyoftime00kris|url-access=registration|publisher=Merrell Holberton in association with National Maritime Museum |location=London |date=1999 |pages= [https://archive.org/details/storyoftime00kris/page/42 42–43]|isbn=1-85894-072-9 }}</ref><ref name="beginnings">{{cite web|last=St. Edmundsbury |first=Borough Council |title=Telling the story of time measurement: The Beginnings |url=http://www.stedmundsbury.gov.uk/sebc/visit/beginnings.cfm |access-date=2008-06-20 |url-status=dead |archive-url=https://web.archive.org/web/20060827151541/http://www.stedmundsbury.gov.uk/sebc/visit/beginnings.cfm |archive-date=August 27, 2006 }}</ref> ''pillar dial'', ''cylinder dial'' or ''chilindre'' – is a portable cylindrical sundial with a knife-like gnomon that juts out perpendicularly.<ref>Rohr (1965), pp. 109–111; Waugh (1973), pp. 150–154; Mayall and Mayall, pp. 162–166.</ref>  It is normally dangled from a rope or string so the cylinder is vertical.  The gnomon can be twisted to be above a month or day indication on the face of the cylinder.  This corrects the sundial for the equation of time.  The entire sundial is then twisted on its string so that the gnomon aims toward the Sun, while the cylinder remains vertical.  The tip of the shadow indicates the time on the cylinder.  The hour curves inscribed on the cylinder permit one to read the time.  Shepherd's dials are sometimes hollow, so that the gnomon can fold within when not in use.
+
+The shepherd's dial is evoked in [[Shakespeare]]'s ''[[Henry VI, Part 3]]'' (Act 2, Scene 5, Lines 21-29),{{efn|[[Henry VI, Part 3]]:O God! methinks it were a happy life<br />To be no better than a homely swain;<br />To sit upon a hill, as I do now,<br />To carve out dials, quaintly, point by point,<br />Thereby to see the minutes, how they run—<br />How many makes the hour full complete,<br />How many hours brings about the day,<br />How many days will finish up the year,<br />How many years a mortal man may live.}} among other works of literature.{{efn|For example, in the [[Chaucer]]'s ''[[Canterbury Tales]]'', the monk says, "Goth now your wey," quod he, "al stille and softe,<br />And lat us dyne as sone as that ye may;<br />for by my chilindre it is pryme of day."}}
+
+The cylindrical shepherd's dial can be unrolled into a flat plate.  In one simple version,<ref>Waugh (1973), pp. 166–167.</ref> the front and back of the plate each have three columns, corresponding to pairs of months with roughly the same solar declination (June–July, May–August, April–September, March–October, February–November, and January–December).  The top of each column has a hole for inserting the shadow-casting gnomon, a peg.  Often only two times are marked on the column below, one for noon and the other for mid-morning/mid-afternoon.
+
+Timesticks, ''clock spear'',<ref name="story of time"/> or ''shepherds' time stick'',<ref name="story of time"/> are based on the same principles as dials.<ref name="story of time"/><ref name="beginnings"/> The time stick is carved with eight vertical time scales for a different period of the year, each bearing a time scale calculated according to the relative amount of daylight during the different months of the year. Any reading depends not only on the time of day but also on the latitude and time of year.<ref name="beginnings"/>
+A peg gnomon is inserted at the top in the appropriate hole or face for the season of the year, and turned to the Sun so that the shadow falls directly down the scale. Its end displays the time.<ref name="story of time"/>
+
+===Ring dials===
+In a ring dial (also known as an ''Aquitaine'' or a ''perforated ring dial''), the ring is hung vertically and oriented sideways towards the sun.<ref>Rohr (1965), p. 111; Waugh (1973), pp. 158–160; Mayall and Mayall (1994), pp. 159–162.</ref>  A beam of light passes through a small hole in the ring and falls on hour-curves that are inscribed on the inside of the ring. To adjust for the equation of time, the hole is usually on a loose ring within the ring so that the hole can be adjusted to reflect the current month.
+
+===Card dials (Capuchin dials)===
+Card dials are another form of altitude dial.<ref>Rohr (1965), p. 110; Waugh (1973), pp. 161–165; Mayall and Mayall (1994), p. 166–185.</ref>  A card is aligned edge-on with the sun and tilted so that a ray of light passes through an aperture onto a specified spot, thus determining the sun's altitude.  A weighted string hangs vertically downwards from a hole in the card, and carries a bead or knot.  The position of the bead on the hour-lines of the card gives the time.  In more sophisticated versions such as the Capuchin dial, there is only one set of hour-lines, i.e., the hour lines do not vary with the seasons.  Instead, the position of the hole from which the weighted string hangs is varied according to the season.
+
+The Capuchin sundials are constructed and used graphically, as opposed the direct hour-angle measurements of horizontal or equatorial dials; or the calculated hour angle lines of some altitude and azimuth dials.
+
+In addition to the ordinary Capuchin dial, there is a universal Capuchin dial, adjustable for latitude.
+
+===Navicula===
+[[File:Navicula de Venetiis-MHS 2139-P7220157-gradient.jpg|thumb|[[Navicula de Venetiis]] on display at [[Musée d'histoire des sciences de la Ville de Genève]].]]
+A [[navicula de Venetiis]] or "little ship of Venice" was an altitude dial used to tell time and which was shaped like a little ship. The cursor (with a plumb line attached) was slid up/down the mast to the correct latitude.  The user then sighted the Sun through the pair of sighting holes at either end of the "ship's deck". The plumb line then marked what hour of the day it was.{{citation needed|date=July 2018}}
+
+==Nodus-based sundials==
+[[File:057Cracow.JPG|thumb|170px|upright| Kraków. {{Coord|50.0614|19.9400|type:landmark|format=dms|name=Kraków sundial}} The shadow of the cross-shaped nodus moves along a [[hyperbola]] which shows the time of the year, indicated here by the zodiac figures. It is 1:50 p.m. on 16 July, 25 days after the [[summer solstice]].]]
+
+Another type of sundial follows the motion of a single point of light or shadow, which may be called the ''nodus''.  For example, the sundial may follow the sharp tip of a gnomon's shadow, e.g., the shadow-tip of a vertical [[obelisk]] (e.g., the ''[[Solarium Augusti]]'') or the tip of the horizontal marker in a shepherd's dial.  Alternatively, sunlight may be allowed to pass through a small hole or reflected from a small (e.g., coin-sized) circular mirror, forming a small spot of light whose position may be followed.  In such cases, the rays of light trace out a [[Cone (geometry)|cone]] over the course of a day; when the rays fall on a surface, the path followed is the intersection of the cone with that surface.  Most commonly, the receiving surface is a geometrical [[plane (geometry)|plane]], so that the path of the shadow-tip or light-spot (called ''declination line'') traces out a [[conic section]] such as a [[hyperbola]] or an [[ellipse]].  The collection of hyperbolae was called a ''pelekonon'' (axe) by the Greeks, because it resembles a double-bladed ax, narrow in the center (near the noonline) and flaring out at the ends (early morning and late evening hours).
+[[File:Sundial solstice declination lines for different latitudes - slow.gif|thumb|left|Declination lines at solstices and equinox for sundials, located at different latitudes]]
+There is a simple verification of hyperbolic declination lines on a sundial: the distance from the origin to the equinox line should be equal to [[harmonic mean]] of distances from the origin to summer and winter solstice lines.<ref>{{cite journal | author = Belk T | date = September 2007 | title = Declination Lines Detailed | journal = BSS Bulletin | volume = 19(iii) | pages = 137–140 | url = http://www.sundialsoc.org.uk/Bulletin/Bulletin-19iii-Belk.pdf | url-status = dead | archive-url = https://web.archive.org/web/20121018080432/http://sundialsoc.org.uk/Bulletin/Bulletin-19iii-Belk.pdf | archive-date = 2012-10-18 }}</ref>
+
+Nodus-based sundials may use a small hole or mirror to isolate a single ray of light; the former are sometimes called ''aperture dials''.  The oldest example is perhaps the antiborean sundial (''antiboreum''), a spherical nodus-based sundial that faces [[true North]]; a ray of sunlight enters from the South through a small hole located at the sphere's pole and falls on the hour and date lines inscribed within the sphere, which resemble lines of longitude and latitude, respectively, on a globe.{{sfn|Rohr|1996|p=14}}
+
+===Reflection sundials===
+[[Isaac Newton]] developed a convenient and inexpensive sundial, in which a small mirror is placed on the sill of a south-facing window.<ref>Waugh (1973), pp. 116–121.</ref>  The mirror acts like a nodus, casting a single spot of light on the ceiling.  Depending on the geographical [[latitude]] and time of year, the light-spot follows a conic section, such as the hyperbolae of the pelikonon. If the mirror is parallel to the Earth's equator, and the ceiling is horizontal, then the resulting angles are those of a conventional horizontal sundial.  Using the ceiling as a sundial surface exploits unused space, and the dial may be large enough to be very accurate.
+
+==Multiple dials==
+Sundials are sometimes combined into multiple dials. If two or more dials that operate on different principles — such as an [[Analemmatic sundial|analemmatic dial]] and a [[#Horizontal_sundials|horizontal]] or [[#Vertical_sundials|vertical]] dial — are combined, the resulting multiple dial becomes self-aligning, most of the time. Both dials need to output both time and declination.  In other words, the direction of [[true North]] need not be determined; the dials are oriented correctly when they read the same time and declination.  However, the most common forms combine dials are based on the same principle and the analemmatic does not normally output the declination of the sun, thus are not self-aligning.<ref>{{cite web|last1=Bailey|first1=Roger|title=1 Conference Retrospective: Victoria BC 2015|url=http://www.sundials.org/attachments/article/289/2015%20NASS%20Conference%20Victoria.pdf|website=NASS Conferences|publisher=North American Sundial Society|access-date=4 December 2015}}</ref>
+
+===Diptych (tablet) sundial===
+[[File:Sundial in the form of a mandolin - Project Gutenberg eText 15050.png|thumb|170px|upright|Diptych sundial in the form of a [[lute]], c. 1612.  The gnomons-style is a string stretched between a horizontal and vertical face.  This sundial also has a small nodus (a bead on the string) that tells time on the hyperbolic ''pelikinon'', just above the date on the vertical face.]]
+
+The '''[[diptych]]''' consisted of two small flat faces, joined by a hinge.<ref>Rohr (1965), p. 112; Waugh (1973), pp. 154–155; Mayall and Mayall, pp. 23–24.</ref>  Diptychs usually folded into little flat boxes suitable for a pocket. The gnomon was a string between the two faces.  When the string was tight, the two faces formed both a vertical and horizontal sundial.  These were made of white ivory, inlaid with black lacquer markings.  The gnomons were black braided silk, linen or hemp string. With a knot or bead on the string as a nodus, and the correct markings, a diptych (really any sundial large enough) can keep a calendar well-enough to plant crops. A common error describes the diptych dial as self-aligning.  This is not correct for diptych dials consisting of a horizontal and vertical dial using a string gnomon between faces, no matter the orientation of the dial faces.  Since the string gnomon is continuous, the shadows must meet at the hinge; hence, ''any'' orientation of the dial will show the same time on both dials.<ref>Waugh (1973), p. 155.</ref>
+
+===Multiface dials===
+
+A common type of multiple dial has sundials on every face of a [[Platonic solid]] (regular polyhedron), usually a [[cube]].<ref>Rohr (1965),, p. 118; Waugh (1973), pp. 155–156; Mayall and Mayall, p. 59.</ref>
+
+Extremely ornate sundials can be composed in this way, by applying a sundial to every surface of a solid object.
+
+In some cases, the sundials are formed as hollows in a solid object, e.g., a cylindrical hollow aligned with the Earth's rotational axis (in which the edges play the role of styles) or a spherical hollow in the ancient tradition of the ''hemisphaerium'' or the ''antiboreum''. (See the History section above.)  In some cases, these multiface dials are small enough to sit on a desk, whereas in others, they are large stone monuments.
+
+A Polyhedral's dial faces can be designed to give the time for different time-zones simultaneously. Examples include the [[Scottish sundial]] of the 17th and 18th century, which was often an extremely complex shape of polyhedral, and even convex, faces.
+
+===Prismatic dials===
+Prismatic dials are a special case of polar dials, in which the sharp edges of a [[prism (geometry)|prism]] of a concave [[polygon]] serve as the styles and the sides of the prism receive the shadow.{{sfn|Waugh|1973| pp= 181–190}}  Examples include a three-dimensional cross or star of David on gravestones.
+
+==Unusual sundials==
+
+===Benoy dial===
+[[File:Benoy sun clock.jpg|upright|thumb|170px|Benoy Sun Clock showing 6:00 p.m.]]
+The Benoy dial was invented by Walter Gordon Benoy of [[Collingham, Nottinghamshire]], England. Whereas a gnomon casts a sheet of shadow, his invention creates an equivalent sheet of light by allowing the Sun's rays through a thin slit, reflecting them from a long, slim mirror (usually half-cylindrical), or focusing them through a [[cylindrical lens]]. Examples of Benoy dials can be found in the United Kingdom at:<ref name="BSSRegister">List correct as of British Sundial Register 2000. {{cite web|title=The Sundial Register|url=http://www.sundialsoc.org.uk/register.htm|url-status=dead|archive-url=https://web.archive.org/web/20070717073638/http://www.sundialsoc.org.uk/register.htm|archive-date=2007-07-17|access-date=2008-01-05|website=British Sundial Society}}</ref>
+*Carnfunnock Country Park, [[Antrim, County Antrim|Antrim]] [[Northern Ireland]]
+*Upton Hall, [[British Horological Institute]], [[Newark-on-Trent]], Nottinghamshire
+*Within the collections of St Edmundsbury Heritage Service, [[Bury St Edmunds]]<ref>{{cite web|last=St. Edmundsbury |first=Borough Council |title=Telling the story of time measurement |url=http://www.stedmundsbury.gov.uk/sebc/visit/Telling-the-Story-of-Time-Measurement.cfm |access-date=2008-01-05 |url-status=dead |archive-url=https://web.archive.org/web/20071224121416/http://www.stedmundsbury.gov.uk/sebc/visit/Telling-the-Story-of-Time-Measurement.cfm |archive-date=December 24, 2007 }}</ref>
+*[[Longleat]], Wiltshire
+* [[Jodrell Bank]] Science Centre
+* [[Birmingham Botanical Gardens]]
+* [[Science Museum, London]] (inventory number 1975-318)
+
+===Bifilar sundial===
+[[File:Stainless steel bifilar sundial (dial).jpg|thumb|Stainless steel bifilar sundial in Italy]]
+{{main|Bifilar sundial}}
+Invented by the German mathematician Hugo Michnik in 1922, the [[bifilar sundial]] has two non-intersecting threads parallel to the dial.  Usually the second thread is [[orthogonal]] to the first.<ref name="1922AN....217...81M  ">{{cite journal|last=Michnik|first=H|date=1922|title=Title: Theorie einer Bifilar-Sonnenuhr|journal=Astronomische Nachrichten|volume=217|issue=5190|pages=81–90|language=de|url=http://articles.adsabs.harvard.edu//full/1922AN....217...81M/0000045.000.html|access-date=17 December 2013|bibcode = 1922AN....217...81M|doi=10.1002/asna.19222170602}}</ref>
+The intersection of the two threads' shadows gives the local solar time.
+
+===Digital sundial===
+{{Main|Digital sundial}}
+A digital sundial indicates the current time with numerals formed by the sunlight striking it. Sundials of this type are installed in the [[Deutsches Museum]] in Munich and in the Sundial Park in [[Genk]] (Belgium), and a small version is available commercially. There is a patent for this type of sundial.<ref>[http://www.digitalsundial.com/patent.html Digital sundial]</ref>
+
+===Globe dial===
+The globe dial is a sphere aligned with the Earth's rotational axis, and equipped with a spherical vane.{{sfn|Rohr|1996|pp=114–115}}  Similar to sundials with a fixed axial style, a globe dial determines the time from the Sun's azimuthal angle in its apparent rotation about the earth.  This angle can be determined by rotating the vane to give the smallest shadow.
+
+===Noon marks===
+{{Main|Noon mark}}
+[[File:Greenwich Royal Observatory Noon Mark.jpg|thumb|170px|[[Noon mark]] from the [[Greenwich Royal Observatory]]. The analemma is the narrow figure-8 shape, which plots the [[equation of time]] (in degrees, not time, 1°=4 minutes) versus the altitude of the Sun at noon at the sundial's location.  The altitude is measured vertically, the equation of time horizontally.]]
+
+The simplest sundials do not give the hours, but rather note the exact moment of 12:00 noon.{{sfn|Waugh|1973| pp=18–28}}  In centuries past, such dials were used to set mechanical clocks, which were sometimes so inaccurate as to lose or gain significant time in a single day. The simplest noon-marks have a shadow that passes a mark. Then, an almanac can translate from local solar time and date to civil time. The civil time is used to set the clock. Some noon-marks include a figure-eight that embodies the [[equation of time]], so that no almanac is needed.
+
+In some U.S. colonial-era houses, a noon-mark might be carved into a floor or windowsill.{{sfn|Mayall|Mayall|1938|p=26}}  Such marks indicate local noon, and provide a simple and accurate time reference for households to set their clocks. Some Asian countries<!-- Date and location needed--> had post offices set their clocks from a precision noon-mark.  These in turn provided the times for the rest of the society. The typical noon-mark sundial was a lens set above an [[analemma]]tic plate.  The plate has an engraved figure-eight shape, which corresponds to the [[equation of time]] (described above) versus the solar declination.  When the edge of the Sun's image touches the part of the shape for the current month, this indicates that it is 12:00 noon.
+
+===Sundial cannon===
+{{main|Sundial cannon}}
+A [[sundial cannon]], sometimes called a 'meridian cannon', is a specialized sundial that is designed to create an 'audible noonmark', by automatically igniting a quantity of gunpowder at noon.  These were novelties rather than precision sundials, sometimes installed in parks in Europe mainly in the late 18th or early 19th century. They typically consist of a horizontal sundial, which has in addition to a [[gnomon]] a suitably mounted [[lens (optics)|lens]], set to focus the rays of the sun at exactly noon on the firing pan of a miniature [[cannon]] loaded with [[gunpowder]] (but no [[round shot|ball]]).  To function properly the position and angle of the lens must be adjusted seasonally.{{citation needed|date=June 2013}}
+
+==Meridian lines==
+A horizontal line aligned on a [[Meridian (geography)|meridian]] with a [[gnomon]] facing the noon-sun is termed a meridian line and does not indicate the time, but instead the day of the year. Historically they were used to accurately determine the length of the [[Tropical year|solar year]]. Examples are the [[Francesco Bianchini|Bianchini]] meridian line in [[Santa Maria degli Angeli e dei Martiri]] in [[Rome]], and the [[Giovanni Domenico Cassini|Cassini]] line in [[San Petronio Basilica#Cassini's Meridian Line|San Petronio Basilica]] at [[Bologna]].<ref name="AO-merid">{{cite web|last1=Manaugh|first1=Geoff|title=Why Catholics Built Secret Astronomical Features Into Churches to Help Save Souls|url=http://www.atlasobscura.com/articles/catholics-built-secret-astronomical-features-into-churches-to-help-save-souls|website=Atlas Obscura|access-date=23 November 2016|date=15 November 2016}}</ref>
+
+==Sundial mottoes==
+{{Further|List of sundial mottoes}}
+The association of sundials with time has inspired their designers over the centuries to display mottoes as part of the design. Often these cast the device in the role of ''[[memento mori]]'', inviting the observer to reflect on the transience of the world and the inevitability of death. "Do not kill time, for it will surely kill thee." Other mottoes are more whimsical: "I count only the sunny hours," and "I am a sundial and I make a botch / of what is done far better by a watch." Collections of sundial mottoes have often been published through the centuries.{{citation needed|date=June 2013}}
+
+==Use as a compass==
+{{see also|Compass#Sun compass}}
+If a horizontal-plate sundial is made for the latitude in which it is being used, and if it is mounted with its plate horizontal and its gnomon pointing to the [[celestial pole]] that is above the horizon, then it shows the correct time in [[apparent solar time]]. Conversely, if the directions of the [[cardinal point]]s are initially unknown, but the sundial is aligned so it shows the correct apparent solar time as calculated from the reading of a [[clock]], its gnomon shows the direction of [[True North]] or South, allowing the sundial to be used as a compass. The sundial can be placed on a horizontal surface, and rotated about a vertical axis until it shows the correct time. The gnomon will then be pointing to the North, in the [[northern hemisphere]], or to the South in the southern hemisphere. This method is much more accurate than using a watch as a compass (see [[Cardinal direction#Watch face]]) and can be used in places where the [[magnetic declination]] is large, making a [[magnetic compass]] unreliable. An alternative method uses two sundials of different designs. (See [[#Multiple dials]], above.) The dials are attached to and aligned with each other, and are oriented so they show the same time. This allows the directions of the cardinal points and the apparent solar time to be determined simultaneously, without requiring a clock.{{citation needed|date=June 2013}}
+
+==See also==<!-- PLEASE RESPECT ALPHABETICAL ORDER -->
+[[File:휴대용 앙부일구.jpg|thumb|[[Jang Yeong-sil#Sundial|''Angbuilgu'']], a portable sundial used in Korea during the [[Joseon|Joseon period]]. The integrated magnetic compass aligns the instrument toward north pole.([[National Museum of Korea]])<ref name="sd-angb-nmk">{{cite web|url=http://www.museum.go.kr/program/relic/relicDetailEng.jsp?menuID=002004001&relicID=2399&relicDetailID=9594&currentPage=1&pageSize=10&keyWord=852&searchSelect=TREASURECODE&langCodeCon=LC2&back=relicSearchListEng|title=Portable Hemispherical Sundial|publisher=National Museum of Korea|access-date=May 30, 2015|archive-url=https://web.archive.org/web/20150530170042/http://www.museum.go.kr/program/relic/relicDetailEng.jsp?menuID=002004001&relicID=2399&relicDetailID=9594&currentPage=1&pageSize=10&keyWord=852&searchSelect=TREASURECODE&langCodeCon=LC2&back=relicSearchListEng|archive-date=May 30, 2015|url-status=live}}</ref>]]
+* [[Butterfield dial]]
+* [[Equation clock]]
+* [[Foucault pendulum]]
+* [[Francesco Bianchini]]
+* [[Horology]]
+* [[Jantar Mantar]]
+* [[Moondial]]
+* [[Nocturnal (instrument)|Nocturnal]]—device for determining time by the stars at night.
+* [[Schema for horizontal dials]]—pen and ruler constructions
+* [[Schema for vertical declining dials]]—pen and ruler constructions
+* [[Sciothericum telescopicum]]—a sundial invented in the 17th century that used a telescopic sight to determine the time of noon to within 15 seconds.
+* [[Scottish sundial]]—the ancient renaissance sundials of Scotland.
+* [[Shadows (software)|Shadows]]—free software for calculating and drawing sundials.
+* [[Tide dial|Tide (time)]]—divisions of the day on early sundials.
+* [[Zero shadow day]]
+* [[Wilanów Palace#The sundial|Wilanów Palace Sundial]], created by [[Johannes Hevelius]] in about 1684.
+*[[Societat Catalana de Gnomònica]]
+
+==Notes==
+{{Notelist}}
+
+== References ==
+=== Citations ===
+{{Reflist|colwidth=30em}}
+
+=== Sources ===
+* {{cite journal | last1 = Brandmaier | first1 = H. | date = March 2005 | title = Sundial Design Using Matrices | journal = The Compendium | publisher = North American Sundial Society | volume = 12 | issue = 1 | language = en }}
+* {{cite book |first=Christopher St.J.H. |last=Daniel |title=Sundials |series=Shire Album |publisher=Shire Publications |volume=176 |edition=2nd revised |date=2004 |isbn = 978-0747805588 }}
+* {{cite book |author = Earle AM |date = 1971 |title = Sundials and Roses of Yesterday |publisher = Charles E. Tuttle |location = Rutland, VT |isbn = 0-8048-0968-2 |lccn = 74142763 |url-access = registration |url = https://archive.org/details/sundialsrosesofy0000earl }} Reprint of the 1902 book published by Macmillan (New York).
+* Heilbron, J. L. : ''The sun in the church: cathedrals as solar observatories'', [[Harvard University Press]], 2001 {{ISBN|978-0-674-00536-5}}.
+* A.P. Herbert, ''Sundials Old and New'', Methuen & Co. Ltd, 1967.
+* Kern, Ralf : Wissenschaftliche Instrumente in ihrer Zeit. Vom 15. – 19. Jahrhundert. Verlag der Buchhandlung Walther König 2010, {{ISBN|978-3-86560-772-0}}
+* {{cite book | last1 = Mayall |first1 = RN | last2 = Mayall |first2=MW | date = 1938 | title = Sundials: Their Construction and Use | edition = 3rd (1994) | publisher = Sky Publishing | location = Cambridge, MA |isbn = 0-933346-71-9 }}
+* Hugo Michnik, ''Theorie einer Bifilar-Sonnenuhr'', Astronomishe Nachrichten, 217(5190), pp.&nbsp;81–90, 1923
+* {{cite book | last = Rohr | first = RRJ | date = 1996 | title = Sundials: History, Theory, and Practice | edition = translated by G. Godin | publisher = Dover | location = New York | isbn = 0-486-29139-1 | url-access = registration | url = https://archive.org/details/sundialshistoryt0000rohr }} Slightly amended reprint of the 1970 translation published by University of Toronto Press (Toronto).  The original was published in 1965 under the title ''Les Cadrans solaires'' by Gauthier-Villars (Montrouge, France).
+* Savoie, Denis: ''Sundials, Design, Construction, and Use'', Springer, 2009, {{ISBN|978-0-387-09801-2}}.
+* Frederick W. Sawyer, ''Bifilar gnomonics'', JBAA (Journal of the British Astronomical association), 88(4):334–351, 1978
+* {{cite journal | last1 = Snyder | first1 = Donald L. | date = March 2015 | title = Sundial Design Considerations | journal = The Compendium | publisher = North American Sundial Society | volume = 22 | issue = 1 | location = St. Louis | language = en | issn = 1074-3197 | url = http://dls-website.com/documents/SundialDesignConsiderations.pdf | access-date = 16 June 2020 | url-status = live | archive-url = https://web.archive.org/web/20190416005426/http://dls-website.com/documents/SundialDesignConsiderations.pdf | archive-date = 16 April 2019}}
+* {{cite book |last= Turner |first=Gerard L'E |title=Antique Scientific Instruments |publisher=Blandford Press Ltd |year = 1980 |isbn = 0-7137-1068-3 }}
+* Walker, Brown: ''Make A Sundial'', (The Education Group British Sundial Society) Editors Jane Walker and David Brown, British Sundial Society 1991 {{ISBN|0-9518404-0-1}}
+* {{cite book | last = Waugh |first = Albert E |year = 1973 | title = Sundials: Their Theory and Construction | url = https://archive.org/details/sundialstheirthe00albe | url-access = registration | publisher = Dover Publications | location = New York |isbn = 0-486-22947-5 }}
+
+==External links==
+
+{{Commons category|Sundials}}
+
+===National organisations===
+* [http://relojesdesol.info/ Asociación Amigos de los Relojes de Sol] (AARS) - Spanish Sundial Society
+* [http://www.sundialsoc.org.uk/ British Sundial Society] (BSS) - British Sundial Society
+* [http://www.commission-cadrans-solaires.fr/ Commission des Cadrans Solaires de la Société Astronomique de France] French Sundial Society
+* [http://www.gnomonicaitaliana.it/ Coordinamento Gnomonico Italiano] (CGI) - Italian Sundial Society
+* [http://www.sundials.org/ North American Sundial Society] (NASS)-  North American Sundial Society
+* [http://www.gnomonica.cat/ Societat Catalana de Gnomònica] - Catalan Sundial Society
+* [https://www.dezonnewijzerkring.nl/pages/en/welcome.phng=EN De Zonnewijzerkring] - Dutch Sundial Society (in English)
+* [http://www.zonnewijzerkringvlaanderen.be/ Zonnewijzerkring Vlaanderen] - Flemish Sundial Society
+
+===Historical===
+*[http://www.wdl.org/en/item/2841 "The Book of Remedies from Deficiencies in Setting Up Marble Sundials"] is an Arabic manuscript from 1319 about timekeeping and sundials.
+*[http://www.wdl.org/en/item/4260 "Small Treatise on the Calculation of Tables for the Construction of Inclined Sundials"] is another Arabic manuscript, from the 16th century, about the mathematical calculations used to create sundials. It was written by [[Sibt al-Maridini]].
+*[http://aaatec.org/documents/article/vl2.pdf Vodolazhskaya, L. Analemmatic and Horizontal Sundials of the Bronze Age (Northern Black Sea Coast). ''Archaeoastronomy and Ancient Technologies'' 1(1), 2013, 68-88] <!--A CC-BY-SA 3.0 document-->
+*[http://aaatec.org/documents/article/vl4.pdf Reconstruction of ancient Egyptian sundials]
+
+===Other===
+* [http://www.sundialsoc.org.uk The British Sundial Society including a register of British sundials]
+* [http://www.sundialsofscotland.co.uk Register of Scottish Sundials]
+* [http://wvaughan.org/sundials.html Understanding sundials through map projections]
+* [http://vedicastro.com/vedic-sundial/ The Ancient Vedic Sun Dial]
+* [http://www.sundialatlas.eu  World Sundial Atlas]
+* [https://realsuntime.com/  Real Sun Time] - Sundial as a mobile or desktop version.
+
+{{Time Topics}}
+{{Time measurement and standards}}
+{{Lawn and garden ornaments}}
+{{Authority control}}
+
+[[Category:Sundials| ]]
+[[Category:Ancient inventions]]
+[[Category:Architectural elements]]
+[[Category:Clocks]]
+[[Category:Egyptian inventions]]
+[[Category:Garden features]]
+[[Category:Garden ornaments]]
+[[Category:Horology]]
+[[Category:Outdoor sculptures]]

@@ -1,0 +1,44 @@
+{{for|the autonomous university along the western shores of India|National Institute of Technology Karnataka}}
+{{Infobox radio station
+| name             = KREC
+| logo             =
+| city             = [[Brian Head, Utah|Brian Head]], [[Utah]]
+| area             = [[St. George, Utah]]
+| branding         = Star 98
+| airdate          = 
+| frequency        = 98.1 [[MHz]]
+| format           = [[Adult Contemporary]]
+| power            = 
+| erp              = 56,000 [[watt]]s
+| haat             = 770.0 meters
+| class            = C
+| facility_id      = 6784
+| coordinates      = {{coord|37|32|32|N|113|4|5|W|region:US-UT_type:landmark}}
+| callsign_meaning = 
+| former_callsigns = 
+| owner            = Cherry Creek Radio
+| licensee         = 
+| sister_stations  = 
+| webcast          = 
+| website          = {{URL|https://star981.com/}}
+| affiliations     = [[Premiere Radio Networks]] 
+}}
+'''KREC''' (98.1 [[FM broadcasting|FM]]) is a [[radio station]] broadcasting an [[Adult Contemporary]] format. Licensed to [[Brian Head, Utah]], United States, the station serves the St. George area. It was built by Pam and Jeff Johnston and went on air in November 1988. They sold it in July 1999. The station is licensed to Cherry Creek Radio (St George) and features programming from [[Premiere Radio Networks]].<ref>{{cite web|url=http://www.fcc.gov/fcc-bin/fmq?call=KREC |title=KREC Facility Record |work=United States [[Federal Communications Commission]], audio division }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.star98online.com/ star98online.com]
+* [http://www.cherrycreekradio.com Cherry Creek Radio]
+*{{FMQ|KREC}}
+*{{FML|KREC}}
+*{{FMARB|KREC}}
+
+{{St. George Radio}}
+{{Pioche Radio}}
+
+[[Category:Radio stations in Utah|REC]]
+
+
+{{Utah-radio-station-stub}}

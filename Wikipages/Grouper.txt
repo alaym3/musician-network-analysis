@@ -1,0 +1,125 @@
+{{short description|Subfamily of fishes}}
+{{Other uses}}
+{{Use dmy dates|date=July 2013}}
+{{Automatic taxobox
+| image = Epinephelus malabaricus.jpg
+| image_caption = [[Malabar grouper]], ''Epinephelus malabaricus''
+| taxon = Epinephelinae
+| authority = [[Pieter Bleeker|Bleeker]], 1874<ref name = VDLEF>{{cite journal | author1 = Richard van der Laan | author2 = William N. Eschmeyer | author3 = Ronald Fricke | name-list-style = amp |year=2014 | title = Family-group names of Recent fishes | url = https://biotaxa.org/Zootaxa/article/view/zootaxa.3882.1.1/10480 | journal = Zootaxa | volume = 3882 | issue =2 | pages = 001–230| doi = 10.11646/zootaxa.3882.1.1 | pmid = 25543675 | doi-access = free }}</ref>
+| subdivision_ranks = Tribes and genera
+| subdivision = See text
+}}
+
+'''Groupers''' are [[fish]] of any of a number of [[genus|genera]] in the subfamily '''Epinephelinae''' of the [[family (biology)|family]] [[Serranidae]], in the order [[Perciformes]].
+
+Not all serranids are called "groupers"; the family also includes the [[Bass (fish)|sea basses]]. The common name "grouper" is usually given to fish in one of two large [[genus|genera]]: ''[[Epinephelus]]'' and ''[[Mycteroperca]]''. In addition, the species classified in the small genera ''Anyperidon'', ''Cromileptes'', ''Dermatolepis'', ''Graciela'', ''Saloptia'', and ''Triso'' are also called "groupers". Fish in the genus ''[[Plectropomus]]'' are referred to as 'coral groupers. These genera are all classified in the subfamily Epiphelinae. However, some of the hamlets (genus ''Alphestes''), the hinds (genus ''Cephalopholis''), the [[yellow-edged lyretail|lyretails]] (genus ''Variola'') and some other small genera (''Gonioplectrus'', ''Niphon'', ''Paranthias'') are also in this subfamily, and occasional species in other serranid genera have common names involving the word "grouper". Nonetheless, the word "grouper" on its own is usually taken as meaning the subfamily Epinephelinae.
+
+== Description ==
+[[File: Only today I got to know this Fish better! What about you? (3852325083).jpg|thumb|left|Anatomy of a grouper]]
+
+Groupers are [[Teleost]]s, typically having a stout body and a large mouth. They are not built for long-distance, fast swimming. They can be quite large, and lengths over a meter and the largest is the [[Atlantic goliath grouper]] (''Epinephelus itajara'') which has been weighed at {{convert|399|kg|lb|abbr=off}} and a length of {{convert|2.43|m|ftin|frac=2|abbr=on}},<ref name = DF>{{cite web | url = https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/epinephelus-itajara/ | title = Epinephelus itajara | work = Discover Fish | author = Robert H. Robins | access-date = 8 June 2020 | publisher = Florida Museum}}</ref> though in such a large group, species vary considerably. They swallow prey rather than biting pieces off it. They do not have many teeth on the edges of their jaws, but they have heavy crushing tooth plates inside the [[pharynx]]. They habitually eat [[fish]], [[octopus]]es, and [[crustacean]]s. Some species prefer to [[Ambush predator|ambush their prey]], while other species are active predators. Reports of fatal attacks on humans by the largest species, such as the [[giant grouper]] (''Epinephelus lanceolatus'') are unconfirmed.<ref>{{cite book |last1=Lieske |first1=E. |last2=Myers |first2=R. |year=1999 |title=Coral Reef Fishes |url=https://archive.org/details/isbn_9780691004815 |url-access=registration |edition=2 |isbn=0-691-02659-9}}</ref>
+
+Their mouths and [[gill]]s form a powerful vacuum which pulls their prey in from a distance. They also use their mouths to dig into sand to form their shelters under big rocks, jetting it out through their gills.{{Cn|date=July 2021}}
+
+Research indicates [[roving coralgrouper]]s (''Plectropomus pessuliferus'') sometimes cooperate with [[giant moray]]s in hunting.<ref>{{cite journal|title=Interspecific Communicative and Coordinated Hunting between Groupers and Giant Moray Eels in the Red Sea |year=2006 |publisher=Biology.plosjournals.org |doi=10.1371/journal.pbio.0040431 |last1=Bshary |first1=Redouan |last2=Hohner |first2=Andrea |last3=Ait-El-Djoudi |first3=Karim |last4=Fricke |first4=Hans |journal=PLOS Biology |volume=4 |issue=12 |pages=e431 |pmid=17147471 |pmc=1750927 |s2cid=14006488 |doi-access=free }}</ref> Groupers are also one of the only animals that eat invasive [[red lionfish]].<ref>{{cite web|url=https://phys.org/news/2011-07-reveals-grouper-lionfish-invasion.html |title=Study reveals grouper can help control lionfish invasion |year=2011 |publisher=Biology.plosjournals.org}}</ref>
+
+==Systematics==
+
+=== Etymology ===
+The word "grouper" is from the [[Portuguese language|Portuguese]] name, ''garoupa'', which has been speculated to come from an indigenous South American language.<ref>{{cite web |publisher=[[Oxford English Dictionary]] |url=http://www.oed.com/view/Entry/81859 |title=s.v. (?)}}</ref><ref>{{cite web |url=http://www.etymonline.com/index.php?term=grouper |title=Online Etymology Dictionary |publisher=Etymonline.com |access-date=2010-09-11}}</ref>
+
+In Australia, "groper" is used instead of "grouper" for several species, such as the [[Queensland grouper]] (''Epinephelus lanceolatus''). In New Zealand, "groper" refers to a type of wreckfish, ''Polyprion oxygeneios'', which goes by the [[Māori language|Māori]] name ''[[hāpuku]]''.<ref>{{cite web|url=http://www.teara.govt.nz/en/coastal-fish/6/2 |title=Coastal fish - Hāpuku - Te Ara Encyclopedia of New Zealand |publisher=Teara.govt.nz |date=2 March 2009 |access-date=2010-09-11}}</ref> In the [[Philippines]], groupers are generally known as ''lapu-lapu'' in [[Luzon]], while in the [[Visayas]] and [[Mindanao]] they are known as ''pugapo''.<ref>{{cite journal |last1=Kohno |first1=Hiroshi |title=State of grouper (lapu-lapu) culture in the Philippines |journal=SEAFDEC Asian Aquaculture |date=1988 |volume=10 |issue=2 |pages=4–9 |url=https://core.ac.uk/download/pdf/77981077.pdf}}</ref><ref name="Eslao-Alix">{{cite news |last1=Eslao-Alix |first1=Louella |title=From Pugapo to Lapu-lapu |url=https://cebudailynews.inquirer.net/255075/from-pugapo-to-lapu-lapu |access-date=11 February 2021 |work=Cebu Daily News |date=1 September 2019}}</ref> In the [[Middle East]], the fish is known as '[[hamour|hammour]]', and is widely eaten, especially in the [[Persian Gulf]] region.<ref>{{cite web |url=http://www.uaeinteract.com/travel/localdishes.asp |title=Food and Drink – Local Dishes |publisher=UAE Interact |url-status=dead |access-date=2011-08-12 |archive-url=https://web.archive.org/web/20170705003439/http://uaeinteract.com/travel/localdishes.asp |archive-date=5 July 2017 }}</ref><ref>{{cite web |last=Carrington |first=Daisy |url=http://www.timeoutabudhabi.com/restaurants/features/5632-handling-hammour |title=Handling hammour |publisher=Time Out Abu Dhabi |date=19 January 2009 |access-date=2011-08-12}}</ref> In Latin America, the fish is known as '[[:es:Epinephelinae|mero]]'.
+
+The species in the tribes Grammistini and Diploprionini secrete a mucus-like toxin in their skin called [[grammistin]] and when they are confined in a restricted space and subjected to stress the mucus produces a foam which is toxic to nearby fish, these fishes are often called soapfishes. They have been classified either as their own families or within subfamilies,<ref name = Randall1971>{{cite journal | author1 = John E. Randall | author2 = Kasumi Aida | author3 = Takashi Hibiya | author4 = Nobuhiro Mitsuura |author5 = Hisao Kamiya | author6 = Yoshiri Hashimoto | name-list-style = amp | year = 1971 | title = Grammistin, the skin toxin of soapfishes, and it significance in the classification of the Grammistidae | journal = Publications of the Seto Marine Biological Laboratory | volume = XIX  | issue =2/3 | pages = 157–190 | url = https://core.ac.uk/download/pdf/39301641.pdf}}</ref> although they are classified by the 5th Edition of the ''Fishes of the World'' classifies these two groups as tribes within the subfamily Epinephelinae.<ref name = Nelson5/>
+
+===Classification===
+According to the 5th edition of ''[[Fishes of the World]]'' the subfamily is divided up into 5 [[Tribe (biology)|tribes]] containing a total of 32 genera and 234 species.<ref name = Nelson5>{{cite book  |title=Fishes of the World |edition=5th |author1=J. S. Nelson |author2=T. C. Grande |author3=M. V. H. Wilson |year=2016 |pages=446–448 |publisher=Wiley |isbn= 978-1-118-34233-6 |url=https://sites.google.com/site/fotw5th/ }}</ref><ref name = CofF>{{Cof family | family = Epinephelinae | access-date = 8 June 2020}}</ref>
+
+Subfamily [[Epinephelinae]] <small>[[Pieter Bleeker|Bleeker]], 1874</small> (groupers)<ref name = VDLEF/>
+*[[Tribe (biology)|Tribe]] [[Niphonini]] <small>[[David Starr Jordan|D.S. Jordan]], 1923</small>
+** ''[[Niphon (Serranidae)|Niphon]]'' <small>[[Georges Cuvier|Cuvier]], 1828</small>
+*Tribe [[Epinephelini]] <small>Bleeker, 1874</small><ref name = VDLEF/>
+** ''[[Aethaloperca]]'' <small>[[Henry Weed Fowler|Fowler]], 1904</small>
+** ''[[Alphestes]]'' <small>[[Marcus Elieser Bloch|Bloch]] & [[Johann Gottlob Theaenus Schneider|Schneider]], 1801</small>
+** ''[[Anyperodon]]'' <small>[[Albert Günther|Günther]], 1859</small>
+** ''[[Cephalopholis]]'' <small>Bloch & Schneider, 1801</small>
+** ''[[Chromileptes]]'' <small>[[William John Swainson|Swainson]], 1839</small>
+** ''[[Dermatolepis]]'' <small>[[Theodore Nicholas Gill|Gill]], 1861</small>
+** ''[[Epinephelus]]'' <small>Bloch, 1793</small>
+** ''[[Gonioplectrus]]'' <small>Gill, 1862</small>
+** ''[[Gracila]]'' <small>[[John Ernest Randall|Randall]], 1964</small>
+** ''[[Hyporthodus]]'' <small>Gill, 1861</small>
+** ''[[Mycteroperca]]'' <small>Gill, 1862</small>
+** ''[[Paranthias]]'' <small>[[Alphone Guichenot|Guichenot]], 1868</small>
+** ''[[Plectropomus]]'' <small>[[Lorenz Oken|Pken]], 1817</small>
+** ''[[Saloptia]]'' <small>[[J.L.B. Smith]], 1964</small>
+** ''[[Triso]]'' <small>Randall, [[David G. Johnson|Johnson]] & [[G.R. Lowe|Lowe]], 1989</small>
+** ''[[Variola (fish)|Variola]]'' <small>Swainson, 1839</small>
+*Tribe [[Diploprionini]] <small>Bleeker, 1874</small><ref name = VDLEF/>
+** ''[[Aulacocephalus]]'' <small>[[Coenraad Jacob Temminck|Temminck]] & [[Hermann Schlegel|Schlegel]], 1843</small>
+** ''[[Belonoperca]]'' <small>Fowler & [[Barton Appler Bean|B.A. Bean]], 1930</small>
+** ''[[Diploprion]]'' <small>Cuvier, 1828</small><ref name = VDLEF/>
+* Tribe [[Liopropomini]] <small>[[Felipe Poey|Poey]], 1867</small>
+** ''[[Bathyanthias]]'' <small>Günther, 1880</small>
+** ''[[Liopropoma]]'' <small>Gill, 1861</small>
+** ''[[Rainfordia]]'' <small>[[Allan Riverstone McCulloch|McCulloch]], 1923</small>
+*Tribe [[Grammistini]] <small>Bleeker, 1857</small>
+** ''[[Aporops]]'' <small>[[Leonard Peter Schultz|Schultz]], 1943</small>
+** ''[[Grammistes]]'' <small>Bloch & Schneider, 1801</small>
+** ''[[Grammistops]]'' <small>Schultz 1953</small>
+** ''[[Jeboehlkia]]'' <small>[[C. Richard Robins|Robins]], 1967</small>
+** ''[[Pogonoperca]]'' <small>Günther 1859</small>
+** ''[[Pseudogramma]]'' <small>Bleeker, 1875</small>
+** ''[[Rypticus]]'' <small>Cuvier, 1829</small>
+** ''[[Suttonia]]'' <small>J.L.B. Smith, 1953</small>
+
+== Reproduction ==
+Groupers are mostly monandric [[protogynous hermaphrodite]]s, i.e. they mature only as females and have the ability to change sex after sexual maturity.<ref name="Erisman2009">Erisman, B. E., M. T. Craig, and P. A. Hastings. 2009. A phylogenetic test of the size-advantage model: Evolutionary changes in mating behavior influence the loss of sex change in a fish lineage. American Naturalist 174:83-99.</ref><ref name ="DeMartini">DeMartini, E. E., A. R. Everson and R. S. Nichols. 2011. Estimates of body sizes at maturation and sex change and the endemic Hawaiian grouper's spawning seasonality and sex ratio (''Hyporthodus queries'', f. Epinephelidae). Fishery Bulletin 109:123-134.</ref> Some species of groupers grow about a kilogram per year and are generally adolescent until they reach three kilograms when they become female. The largest males often control harems containing three to 15 females.<ref name="Erisman2009" /><ref name="Sadovy">Sadovy, Y. and P. L. Colin. 1995. Sexual development and sexuality in the Nassau grouper. Journal of Fish Biology 46:961-976.</ref> Groupers often pair spawn, which enables large males to competitively exclude smaller males from reproducing.<ref name="Erisman2009" /><ref name="Allsop">Allsop, D. J. and S. A. West. 2003. Constant relative age and size at sex change for sequentially hermaphroditic fish. Journal of Evolutionary Biology 16:921-929.</ref><ref name="Munoz">Munoz, R. C. and R. R. Warner. 2003. A new version of the size-advantage hypothesis for sex change: Incorporating sperm competition and size-fecundity skew. American Naturalist 161:749-761.</ref><ref name="Kuwamura">Kuwamura, T. 2004. Sex change in fishes: Its process and evolutionary mechanism. Zoological Science 21:1248-1248.</ref> As such, if a small female grouper were to change sex before it could control a harem as a male, its fitness would decrease.<ref name="Allsop" /><ref name="Munoz" /><ref name="Kuwamura" /> If no male is available, the largest female that can increase fitness by changing sex will do so.<ref name="Munoz" />
+
+However, some groupers are [[gonochoristic]].<ref name="Erisman2009" /> Gonochorism, or a reproductive strategy with two distinct sexes, has evolved independently in groupers at least five times.<ref name="Erisman2009" /> The evolution of gonochorism is linked to group spawning high amounts of habitat cover.<ref name="Erisman2009" /><ref name="Munoz" /><ref name="Erisman2008">Erisman, B. E., J. A. Rosales-Cassian and P. A. Hastings. 2008. There is evidence of gonochorism in a grouper, ''Mycteroperca rosacea'', from the Gulf of California, Mexico. Environmental Biology of Fishes 82:23-33.</ref> Both group spawning and habitat cover increase the likelihood of a smaller male reproducing in the presence of large males. Fitness of male groupers in environments where competitive exclusion of smaller males is not possible is correlated with sperm production and thus [[testicle]] size.<ref name="Sadovy" /><ref name=" Munoz" /><ref name="Molloy">Molloy, P. P., N. B. Goodwin, I. M. Cote, J. D. Reynolds, and M. J. G. Gage. 2007. Sperm competition and sex change: A comparative analysis across fishes. Evolution 61:640-652.</ref> Gonochoristic groupers have larger testes than protogynous groupers (10% of body mass compared to 1% of body mass), indicating the evolution of gonochorism increased male grouper fitness in environments where large males were unable to competitively exclude small males from reproducing.<ref name="Sadovy" />
+
+== Parasites ==
+[[File:Pseudorhabdosynochus morrhua.jpg|thumb|100px|left|A [[monogenea]]n parasitic on the gill of a grouper]]
+
+Like other fish, groupers harbor [[parasite]]s, including [[digenea]]ns,<ref>Cribb, T. H., Bray, R. A., Wright, T. & Pichelin, S. 2002: The trematodes of groupers (Serranidae: Epinephelinae): knowledge, nature, and evolution. Parasitology, 124, S23-S42.</ref> [[nematode]]s, [[cestode]]s, [[monogenea]]ns, [[isopod]]s, and [[copepod]]s. A study conducted in [[New Caledonia]] has shown that [[coral reef]]-associated groupers have about 10 species of parasites per fish species.<ref>Justine, J.-L., Beveridge, I., Boxshall, G. A., Bray, R. A., Moravec, F., Trilles, J.-P. & Whittington, I. D. 2010: An annotated list of parasites (Isopoda, Copepoda, Monogenea, Digenea, Cestoda and Nematoda) collected in groupers (Serranidae, Epinephelinae) in New Caledonia emphasizes parasite biodiversity in coral reef fish. Folia Parasitologica, 57, 237-262. {{doi|10.14411/fp.2010.032}} [http://folia.paru.cas.cz/pdfs/showpdf.php?pdf=21848 PDF]</ref> Species of ''[[Pseudorhabdosynochus]]'', monogeneans of the family [[Diplectanidae]] are typical of and especially numerous on groupers.{{Cn|date=July 2021}}
+
+== Modern use ==
+[[File:Gulai kerapu.JPG|thumb|right|''Gulai kerapu'', a grouper-based [[Padang food]]]]
+
+Many groupers are important food fish, and some of them are now [[fish farming|farmed]]. Unlike most other fish species which are chilled or frozen, groupers are usually sold live in markets.<ref>{{cite web |title=Most consumers prefer to purchase live groupers in fish markets |url=http://www.aquaticcommunity.com/Groupers |access-date=2011-04-29}}</ref> Many species are popular [[game fish]] for [[big-game fishing|sea-angling]]. Some species are small enough to be kept in [[aquarium|aquaria]], though even the small species are inclined to grow rapidly. {{Citation needed|date=May 2014}}
+
+Groupers are commonly reported as a source of [[Ciguatera]] fish poisoning. [[DNA barcoding]] of grouper species might help in controlling Ciguatera fish poisoning since fish are easily identified, even from meal remnants, with molecular tools.<ref>Schoelinck, C., Hinsinger, D. D., Dettaï, A., Cruaud, C. & Justine, J.-L. 2014: A phylogenetic re-analysis of groupers with applications for ciguatera fish poisoning. PLoS ONE, 9, e98198. {{doi|10.1371/journal.pone.0098198}}</ref>
+
+== Size ==
+Malaysian newspaper ''[[The Star (Malaysia)|The Star]]'' reported a {{convert|180|kg|lb|abbr=on}} grouper being caught off the waters near [[Pulau Sembilan]] in the [[Strait of Malacca]] in January 2008.<ref>{{cite web |url=http://thestar.com.my/news/story.asp?file=/2008/1/17/nation/20035627&sec=nation |archive-url=https://web.archive.org/web/20080508174733/http://thestar.com.my/news/story.asp?file=%2F2008%2F1%2F17%2Fnation%2F20035627&sec=nation |url-status=dead |archive-date=8 May 2008 |title=Whopper of a grouper bought for RM10,000 |publisher=Thestar.com.my |date=17 January 2008 |access-date=2010-09-11 |df=dmy-all }}</ref> Shenzhen News in China reported that a {{convert|1.8|m|ft|0|abbr=on}} grouper swallowed a {{convert|1.0|m|ftin|abbr=on}} [[whitetip reef shark]] at the Fuzhou Sea World aquarium.<ref>{{cite web |url=http://www.sznews.com/news/content/2006-03/30/content_70954.htm |title=海底"血案":巨型石斑鱼一口吞下白鳍鲨 |publisher=Sznews.com |date=30 March 2006 |access-date=2010-09-11 |archive-url=https://web.archive.org/web/20171012215753/http://www.sznews.com/news/content/2006-03/30/content_70954.htm |archive-date=12 October 2017 |url-status=dead }}</ref>
+
+In September 2010, a Costa Rican newspaper reported a {{convert|2.3|m|ftin|0|abbr=on}} grouper in Cieneguita, [[Limón province|Limón]]. The weight of the fish was {{convert|250|kg|lb|abbr=on}} and it was lured using one kilogram of bait.<ref>{{cite web| title=Cayó el más mero en el Caribe| url=http://www.diarioextra.com/2010/setiembre/10/nacionales11.php| author=Diario La Extra 2010, Marvin Carvajal| url-status=dead| archive-url=https://web.archive.org/web/20100913030836/http://www.diarioextra.com/2010/setiembre/10/nacionales11.php| archive-date=13 September 2010| df=dmy-all}}</ref> In November 2013, a {{convert|310|kg|lb|abbr=on}} grouper had been caught and sold to a hotel in [[Dongyuan County|Dongyuan]], China.<ref>{{cite web|title=Photos: Fishermen catch wildly huge 686-pound fish, sell it to hotel| url=http://shanghaiist.com/2013/11/12/photos_a_683_pound_giant_grouper_ca.php}}</ref>
+<!-- species are listed completely on the genus pages -->
+
+In August 2014, off [[Bonita Springs]] in [[Florida]] (USA), a big grouper took in one gulp a 4-foot shark which an angler had caught.<ref>{{cite web|url=http://www.chron.com/hunting-fishing/article/Gulf-grouper-swallows-4-foot-shark-in-a-single-5703444.php|title=Gulf grouper swallows 4 foot shark in a single bite|author=Heather Alexander, Houston Chronicle|date=21 August 2014|work=Houston Chronicle}}</ref><ref>{{cite AV media|url=https://www.youtube.com/watch?v=O37HI_AX9nY| archive-url=https://ghostarchive.org/varchive/youtube/20211113/O37HI_AX9nY| archive-date=2021-11-13 | url-status=live|title=Grouper eats 4ft shark in one bite|date=19 August 2014|via=YouTube}}{{cbignore}}</ref>
+
+== See also ==
+* [[Dusky grouper]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{NIE Poster}}
+*ARKive – [https://web.archive.org/web/20070503084717/http://www.arkive.org/species/GES/fish/Cromileptes_altivelis/ images and movies of the humpback grouper ''(Chromileptes altivelis)'']
+*{{commons category-inline|Epinephelinae}}
+
+{{grouper}}
+{{commercial fish topics}}
+{{Seafood}}
+{{Meat|state=collapsed}}
+{{Taxonbar|from=Q5559352}}
+
+[[Category:Epinephelinae]]
+[[Category:Serranidae]]
+[[Category:Hawaiian cuisine]]
+[[Category:Commercial fish]]
+[[Category:Fish common names]]
+[[Category:Cuisine of the Southern United States]]
+
+[[id:Kerapu]]

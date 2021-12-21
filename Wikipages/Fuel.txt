@@ -1,0 +1,272 @@
+{{Short description|Energy released from a source}}
+{{Other uses}}
+{{pp-move-indef}}
+{{Use dmy dates|date=May 2021}}
+
+[[File:Buying fuelwood.jpeg|thumb|[[Wood]] was one of the first fuels used by humans.<ref>{{cite book|url=https://books.google.com/books?id=Sgphv2ydAHwC&q=wood+one+of+the+first+fuels+used+by+humans&pg=PA69|title=Chemistry of Fossil Fuels and Biofuels |last=Schobert|first=Harold |year=2013|publisher=[[Cambridge University Press]]|isbn=978-0521114004|language=en}}</ref>]]
+
+A '''fuel''' is any material that can be made to react with other substances so that it releases energy as thermal energy or to be used for [[work (physics)|work]]. The concept was originally applied solely to those materials capable of releasing chemical energy but has since also been applied to other sources of heat energy such as nuclear energy (via [[nuclear fission]] and [[nuclear fusion]]).
+
+The heat energy released by reactions of fuels can be converted into [[mechanical energy]] via a [[heat engine]]. Other times the heat itself is valued for warmth, [[cooking]], or industrial processes, as well as the illumination that accompanies [[combustion]]. Fuels are also used in the [[Cell (biology)|cells]] of [[organism]]s in a process known as [[cellular respiration]], where organic [[molecule]]s are oxidized to release usable energy. [[Hydrocarbon]]s and related organic molecules are by far the most common source of fuel used by humans, but other substances, including radioactive metals, are also utilized.
+
+Fuels are contrasted with other substances or devices storing potential energy, such as those that directly release [[electrical energy]] (such as [[Electric battery|batteries]] and [[capacitor]]s) or mechanical energy (such as [[flywheel]]s, springs, compressed air, or water in a reservoir).
+
+==History==
+[[File:Firewood in the fire.png|thumb|Wood as fuel for combustion]]
+The first known use of fuel was the [[combustion]] of wood or sticks by ''[[Homo erectus]]'' nearly two million years ago.<ref>{{cite book| title = Origin of Humankind | author = Leakey, Richard | author-link = Richard Leakey | url= https://books.google.com/books?id=75-cwH1905QC&q=%22first+use+of+Fire%22&pg=PR9 | year = 1994 | publisher = [[Basic Books]] | isbn = 978-0-465-03135-1}}</ref>{{Page needed|date=September 2010}} Throughout most of human history only fuels derived from plants or animal fat were used by humans. [[Charcoal]], a wood derivative, has been used since at least 6,000 BCE for melting metals. It was only supplanted by [[Coke (fuel)|coke]], derived from coal, as European forests started to become depleted around the 18th century. Charcoal briquettes are now commonly used as a fuel for [[barbecue]] cooking.<ref>{{cite web
+ | last=Hall | first=Loretta | year=2007
+ | url=http://www.madehow.com/Volume-4/Charcoal-Briquette.html
+ | title=Charcoal Briquette | publisher=How Products Are Made
+ | access-date=2007-10-01 }}</ref>
+
+[[Crude oil]] was [[distilled]] by [[Alchemy and chemistry in medieval Islam|Persian chemists]], with clear descriptions given in Arabic handbooks such as those of [[Muhammad ibn Zakarīya Rāzi]].<ref>{{cite book |last1=Forbes |first1=Robert James |title=Studies in Early Petroleum History |date=1958 |publisher=[[Brill Publishers]] |page=149}}</ref> He described the process of distilling crude oil/petroleum into [[kerosene]], as well as other hydrocarbon compounds, in his ''Kitab al-Asrar'' (''Book of Secrets''). Kerosene was also produced during the same period from [[oil shale]] and [[bitumen]] by heating the rock to extract the oil, which was then distilled. Rāzi also gave the first description of a [[kerosene lamp]] using crude mineral oil, referring to it as the "naffatah".<ref>{{cite journal| last = Bilkadi | first = Zayn| title = The Oil Weapons| journal = [[Saudi Aramco World]]| volume = 46 | issue = 1| pages = 20–27}}</ref>
+
+The streets of [[Baghdad]] were paved with [[tar]], derived from petroleum that became accessible from natural fields in the region. In the 9th century, [[oil field]]s were exploited in the area around modern [[Baku]], [[Azerbaijan]]. These fields were described by the [[Islamic geography|Arab geographer]] [[Abu al-Hasan 'Alī al-Mas'ūdī]] in the 10th century, and by [[Marco Polo]] in the 13th century, who described the output of those wells as hundreds of shiploads.<ref>{{Cite book|contribution=1000 Years of Missing Industrial History|author=Salim Al-Hassani|title=A shared legacy: Islamic science East and West|editor=Emilia Calvo Labarta |editor2=Mercè Comes Maymo |editor3=Roser Puig Aguilar |editor4=Mònica Rius Pinies|publisher=[[University of Barcelona|Edicions Universitat Barcelona]]|year=2008|isbn=978-84-475-3285-8|pages=57–82 [63]|author-link=Salim Al-Hassani}}</ref>
+
+With the energy in the form of [[chemical energy]] that could be released through combustion,<ref>{{EB1911|inline=1|wstitle=Fuel|volume=11|pages=274–286}}</ref> but the concept 
+development of the [[steam engine]] in the United Kingdom in 1769, coal came into more common use as a power source. Coal was later used to drive ships and [[locomotive]]s. By the 19th century, gas extracted from coal was being used for street lighting in London. In the 20th and 21st centuries, the primary use of coal is to generate [[electricity]], providing 40% of the world's electrical power supply in 2005.<ref>{{cite web
+ |url         = http://www.worldcoal.org/pages/content/index.asp?PageID=107
+ |title       = History of Coal Use
+ |publisher   = World Coal Institute
+ |access-date  = 2006-08-10
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20061007054633/http://www.worldcoal.org/pages/content/index.asp?PageID=107
+ |archive-date = 7 October 2006
+}}</ref>
+
+Fossil fuels were rapidly adopted during the Industrial Revolution, because they were more concentrated and flexible than traditional energy sources, such as water power. They have become a pivotal part of our contemporary society, with most countries in the world burning fossil fuels in order to produce power, but are [[Fossil fuel phase-out|falling out of favor]] due to the [[global warming]] and related effects that are caused from burning them.<ref>{{Harvnb|IPCC AR5 WG1 Summary for Policymakers|2013|p=4|ps=: Warming of the climate system is unequivocal, and since the 1950s many of the observed changes are unprecedented over decades to millennia. The atmosphere and ocean have warmed, the amounts of snow and ice have diminished, sea level has risen, and the concentrations of greenhouse gases have increased}}; {{harvnb|IPCC SR15 Ch1|2018|p=54|ps=: Abundant empirical evidence of the unprecedented rate and global scale of impact of human influence on the Earth System (Steffen et al., 2016; Waters et al., 2016) has led many scientists to call for an acknowledgment that the Earth has entered a new geological epoch: the [[Anthropocene]].}}</ref>
+
+Currently the trend has been towards renewable fuels, such as [[Renewable energy#Biofuel|biofuels]] like alcohols.
+
+==Chemical==
+Chemical fuels are substances that release energy by reacting with substances around them, most notably by the process of [[combustion]]. Most of the chemical energy released in combustion was not stored in the chemical bonds of the fuel, but in the weak double bond of molecular oxygen.<ref name="Schmidt-Rohr 15">{{cite journal | last1 = Schmidt-Rohr | first1 = K | year = 2015 | title = Why Combustions Are Always Exothermic, Yielding About 418 kJ per Mole of O<sub>2</sub> | doi = 10.1021/acs.jchemed.5b00333 | journal = J. Chem. Educ. | volume = 92 | issue = 12| pages = 2094–2099 | bibcode = 2015JChEd..92.2094S | doi-access = free }}</ref>
+
+Chemical fuels are divided in two ways. First, by their physical properties, as a solid, liquid or gas. Secondly, on the basis of their occurrence: ''primary (natural fuel)'' and ''secondary (artificial fuel)''. Thus, a general classification of chemical fuels is:
+
+{| class="wikitable" style="margin:1em auto 1em auto;"
+|+ General types of chemical fuels
+! scope="col" |
+! scope="col" | Primary (natural)
+! scope="col" | Secondary (artificial)
+|-
+! scope="row" |[[Solid fuel]]s
+| [[wood]], [[coal]], [[peat]], [[Feces|dung]], etc. || [[coke (fuel)|coke]], [[charcoal]]
+|-
+! scope="row" |[[Liquid fuel]]s
+| [[petroleum]] || [[diesel fuel|diesel]], [[gasoline]], [[kerosene]], [[Liquefied petroleum gas|LPG]], [[coal tar]], [[naphtha]], [[ethanol]]
+|-
+! scope="row" |[[Gaseous fuel]]s
+| [[natural gas]] ||[[hydrogen]], [[propane]], [[methane]], [[coal gas]], [[water gas]], [[blast furnace]] gas, [[coke (fuel)|coke]] oven gas, [[CNG]]
+|}
+<!--either needs expansion or deletion<gallery>
+File:Charcoal.jpg|[[Charcoal]]
+File:Saterland peat digging by hand 1963.jpg|[[Peat]] digging by hand in [[Saterland]], 1963
+</gallery>-->
+
+===Solid fuel===
+{{main|Solid fuel}}
+
+[[File:Coal anthracite.jpg|thumb|right|220px|Coal is a solid fuel]]
+
+Solid fuel refers to various types of [[solid]] material that are used as fuel to produce [[energy]] and provide [[heating]], usually released through combustion. Solid fuels include [[wood]], [[charcoal]], [[peat]], [[coal]], [[hexamine fuel tablet]]s, and pellets made from wood (see [[wood pellets]]), [[maize|corn]], [[wheat]], [[rye]] and other [[cereal|grains]]. [[Solid-fuel rocket]] technology also uses solid fuel (see [[Rocket fuel#Solid propellants|solid propellants]]). Solid fuels have been used by humanity for many years to [[making fire|create fire]]. Coal was the fuel source which enabled the [[industrial revolution]], from firing [[furnace]]s, to running [[steam engine]]s. Wood was also extensively used to run [[steam locomotive]]s. Both peat and coal are still used in [[electricity generation]] today.
+The use of some solid fuels (e.g. coal) is restricted or prohibited in some urban areas, due to unsafe levels of toxic emissions. The use of other solid fuels as wood is decreasing as heating technology and the availability of good quality fuel improves. In some areas, [[anthracite|smokeless coal]] is often the only solid fuel used. In Ireland, peat [[briquette]]s are used as smokeless fuel. They are also used to start a coal fire.
+
+===Liquid fuels===
+{{main|Liquid fuel}}
+
+[[File:Benzinepomp002.jpg|thumb|right|220px|A [[gasoline station]]]]
+[[File:Fuel tank pictogram on 50 ccm scooter.jpeg|thumb|right|220px|[[Fuel gauge]] for gasoline on a 50 ccm [[Scooter (motorcycle)|scooter]], with the typical [[pictogram]] of a [[gas pump]]]]
+Liquid fuels are combustible or energy-generating molecules that can be harnessed to create [[mechanical energy]], usually producing [[kinetic energy]]. They must also take the shape of their container; the fumes of liquid fuels are flammable, not the fluids.
+
+Most liquid fuels in widespread use are derived from the [[fossil fuels|fossilized remains]] of dead plants and animals by exposure to heat and pressure inside the Earth's crust. However, there are several types, such as [[hydrogen fuel]] (for [[automotive]] uses), [[ethanol]], [[jet fuel]] and [[bio-diesel]], which are all categorized as liquid fuels. [[Emulsified fuel]]s of oil in water, such as [[orimulsion]], have been developed as a way to make heavy oil fractions usable as liquid fuels. Many liquid fuels play a primary role in transportation and the economy.
+
+Some common properties of liquid fuels are that they are easy to transport and can be handled easily. They are also relatively easy to use for all engineering applications and in home use. Fuels like [[kerosene]] are rationed in some countries, for example in government-subsidized shops in India for home use.
+
+Conventional [[diesel fuel|diesel]] is similar to [[gasoline]] in that it is a mixture of [[aliphatic hydrocarbon]]s extracted from [[petroleum]]. Kerosene is used in [[kerosene lamp]]s and as a fuel for cooking, heating, and small engines. [[Natural gas]], composed chiefly of [[methane]], can only exist as a liquid at very low temperatures (regardless of pressure), which limits its direct use as a liquid fuel in most applications. [[LP gas]] is a mixture of [[propane]] and [[butane]], both of which are easily compressible gases under standard atmospheric conditions. It offers many of the advantages of [[compressed natural gas]] (CNG) but is denser than air, does not burn as cleanly, and is much more easily compressed. Commonly used for cooking and space heating, LP gas and compressed propane are seeing increased use in motorized vehicles. Propane is the third most commonly used motor fuel globally.
+
+===Fuel gas===
+{{main|Fuel gas}}
+
+[[File:Propane tank 20lb.jpg|thumb|upright|right|A 20-pound ({{nowrap|9.1&nbsp;kg}}) propane cylinder]]
+
+Fuel gas is any one of a number of fuels that are [[gas]]eous under ordinary conditions. Many fuel gases are composed of [[hydrocarbons]] (such as [[methane]] or [[propane]]), [[hydrogen]], [[carbon monoxide]], or mixtures thereof. Such gases are sources of potential [[heat energy]] or [[light energy]] that can be readily transmitted and distributed through pipes from the point of origin directly to the place of consumption. Fuel gas is contrasted with liquid fuels and from solid fuels, though some fuel gases are [[Liquefaction of gases|liquefied]] for storage or transport. While their gaseous nature can be advantageous, avoiding the difficulty of transporting solid fuel and the dangers of spillage inherent in liquid fuels, it can also be dangerous. It is possible for a fuel gas to be undetected and collect in certain areas, leading to the risk of a [[gas explosion]]. For this reason, [[odorizer]]s are added to most fuel gases so that they may be detected by a distinct smell. The most common type of fuel gas in current use is [[natural gas]].
+
+===Biofuels===
+{{main|Biofuel}}
+
+Biofuel can be broadly defined as solid, liquid, or gas fuel consisting of, or derived from [[biomass]]. Biomass can also be used directly for heating or power—known as ''biomass fuel''. Biofuel can be produced from any carbon source that can be replenished rapidly e.g. plants. Many different plants and plant-derived materials are used for biofuel manufacture.
+
+Perhaps the earliest fuel employed by humans is wood. Evidence shows controlled fire was used up to 1.5 million years ago at [[Swartkrans]], South Africa. It is unknown which hominid species first used fire, as both ''[[Australopithecus]]'' and an early species of ''[[Homo (genus)|Homo]]'' were present at the sites.<ref>{{Cite news
+ | last=Rincon | first=Paul | date=22 March 2004
+ | title=Bones hint at first use of fire | work=[[BBC News]]
+ | url=http://news.bbc.co.uk/1/hi/sci/tech/3557077.stm
+ | access-date=2007-09-11 }}</ref> As a fuel, wood has remained in use up until the present day, although it has been superseded for many purposes by other sources. Wood has an [[energy density]] of 10–20 [[Joule|MJ]]/[[Kilogram|kg]].<ref>{{cite web
+ | last=Elert | first=Glenn | year=2007
+ | url=http://physics.info/energy-chemical/
+ | title=Chemical Potential Energy
+ | publisher=The Physics Hypertextbook
+ | access-date=2007-09-11 }}</ref>
+
+Recently biofuels have been developed for use in automotive transport (for example [[bioethanol]] and [[biodiesel]]), but there is widespread public debate about how carbon efficient these fuels are.
+
+===Fossil fuels===
+{{main|Fossil fuel}}
+
+[[File:Extraction of oil.jpg|thumb|Extraction of petroleum]]
+
+Fossil fuels are [[hydrocarbon]]s, primarily [[coal]] and [[petroleum]] ([[liquid petroleum]] or [[natural gas]]), formed from the [[fossil|fossilized remains]] of ancient plants and animals<ref name="elements1">{{cite web|author=Dr. Irene Novaczek|title=Canada's Fossil Fuel Dependency|url=http://www.elements.nb.ca/theme/fuels/irene/novaczek.htm|publisher=Elements|access-date =2007-01-18}}</ref> by exposure to high heat and pressure in the absence of oxygen in the [[Earth's crust]] over hundreds of millions of years.<ref>{{cite web|title=Fossil fuel |url=http://oaspub.epa.gov/trs/trs_proc_qry.navigate_term?p_term_id=7068&p_term_cd=TERM |publisher=[[EPA]] |access-date=2007-01-18 |archive-url=https://web.archive.org/web/20070312054557/http://oaspub.epa.gov/trs/trs_proc_qry.navigate_term?p_term_id=7068&p_term_cd=TERM |archive-date=12 March 2007 |url-status=dead }}</ref> Commonly, the term fossil fuel also includes hydrocarbon-containing [[natural resource]]s that are not derived entirely from biological sources, such as [[tar sands]].  These latter sources are properly known as ''mineral fuels''.
+
+Fossil fuels contain high percentages of [[carbon]] and include coal, petroleum, and natural gas.<ref>{{cite web|title=Fossil fuel |url=https://www.sciencedaily.com/articles/f/fossil_fuel.htm|url-status=dead|archive-url=https://web.archive.org/web/20120510063436/https://www.sciencedaily.com/articles/f/fossil_fuel.htm|archive-date=10 May 2012}}</ref>
+They range from [[Volatility (chemistry)|volatile]] materials with low carbon:[[hydrogen]] ratios like [[methane]], to liquid petroleum to nonvolatile materials composed of almost pure carbon, like [[anthracite]] coal. Methane can be found in hydrocarbon fields, alone, associated with oil, or in the form of [[methane clathrates]]. Fossil fuels formed from the fossilized remains of dead plants<ref name="elements1"/> by exposure to heat and pressure in the Earth's crust over millions of years.<ref>{{cite web|title=Fossil fuel |url=http://oaspub.epa.gov/trs/trs_proc_qry.navigate_term?p_term_id=7068&p_term_cd=TERM|publisher=EPA|access-date=2007-01-18|archive-url = https://web.archive.org/web/20070312054557/http://oaspub.epa.gov/trs/trs_proc_qry.navigate_term%3Fp_term_id%3D7068%26p_term_cd%3DTERM |archive-date = 12 March 2007|url-status=dead}}</ref> This [[Petroleum#Biogenic theory|biogenic theory]] was first introduced by German scholar [[Georg Agricola]] in 1556 and later by [[Mikhail Lomonosov]] in the 18th century.
+
+It was estimated by the [[Energy Information Administration]] that in 2007 primary sources of energy consisted of petroleum 36.0%, coal 27.4%, natural gas 23.0%, amounting to an 86.4% share for fossil fuels in primary [[energy consumption]] in the world.<ref>{{cite web|url=http://tonto.eia.doe.gov/cfapps/ipdbproject/IEDIndex3.cfm|title=U.S. EIA International Energy Statistics|access-date=2010-01-12|archive-url=https://www.webcitation.org/6GDV3MMDx?url=http://www.eia.gov/cfapps/ipdbproject/IEDIndex3.cfm|archive-date=28 April 2013|url-status=dead}}</ref> Non-fossil sources in 2006 included [[Hydroelectricity|hydroelectric]] 6.3%, [[Nuclear power|nuclear]] 8.5%, and others ([[Geothermal power|geothermal]], [[Solar energy|solar]], [[Tidal power|tidal]], [[Wind power|wind]], [[Wood fuel|wood]], [[Waste-to-energy|waste]]) amounting to 0.9%.<ref>{{cite web|url=http://www.eia.doe.gov/iea/overview.html|title=International Energy Annual 2006|access-date=2009-02-08|url-status=dead|archive-url=https://web.archive.org/web/20090205035658/http://www.eia.doe.gov/iea/overview.html|archive-date=5 February 2009}}</ref> World energy consumption was growing about 2.3% per year.
+
+Fossil fuels are [[non-renewable resources]] because they take millions of years to form, and reserves are being depleted much faster than new ones are being made. So we must conserve these fuels and use them judiciously. The production and use of fossil fuels raise environmental concerns. A global movement toward the generation of [[renewable energy]] is therefore under way to help meet increased energy needs. The burning of fossil fuels produces around 21.3 billion [[tonnes]] (21.3 [[gigatonne]]s) of [[carbon dioxide]] (CO<sub>2</sub>) per year, but it is estimated that natural processes can only absorb about half of that amount, so there is a net increase of 10.65 billion tonnes of atmospheric carbon dioxide per year (one tonne of atmospheric carbon is equivalent to 44/12 or 3.7 tonnes of carbon dioxide).<ref>{{cite web|url= http://www.eia.doe.gov/oiaf/1605/ggccebro/chapter1.html|title=US Department of Energy on greenhouse gases|access-date=2007-09-09}}</ref> Carbon dioxide is one of the [[greenhouse gas]]es that enhances [[radiative forcing]] and contributes to [[global warming]], causing the [[Instrumental temperature record|average surface temperature]] of the Earth to rise in response, which [[Scientific opinion on climate change|the vast majority of climate scientists]] agree will cause major [[Effects of global warming|adverse effects]].
+Fuels are a source of energy.
+
+===Energy===
+The amount of energy from different types of fuel depends on the [[stoichiometric ratio]], the chemically correct air and fuel ratio to ensure complete combustion of fuel, and its [[specific energy]], the energy per unit mass.
+
+{| class="wikitable sortable" style="text-align: center;"
+|+ [[Energy capacity|Energy capacities]] of common types of fuel
+|-
+! Fuel
+! data-sort-type="number" | Specific energy (MJ/kg)
+! data-sort-type="number" | [[Stoichiometry|AFR stoich.]]
+! data-sort-type="number" | [[Stoichiometry|FAR stoich.]]
+! data-sort-type="number" | Energy @ ''λ=1''  (MJ/kg{{sub|(Air)}}) 
+|-
+| [[Diesel fuel|Diesel]]
+| 48
+| 14.5 : 1
+| 0.069 : 1
+| 3.310
+|-
+| [[Ethanol]]
+| 26.4
+| 9 : 1
+| 0.111 : 1
+| 2.933
+|-
+| [[Gasoline]]
+| 46.4
+| 14.7 : 1
+| 0.068 : 1
+| 3.156
+|-
+| [[Hydrogen]]
+| 142
+| 34.3 : 1
+| 0.029 : 1
+| 4.140
+|-
+| [[Kerosene]]
+| 46
+| 15.6 : 1
+| 0.064 : 1
+| 2.949
+|-
+| [[Liquefied petroleum gas|LPG]]
+| 46.4
+| 17.2 : 1
+| 0.058 : 1
+| 2.698
+|-
+| [[Methanol]]
+| 19.7
+| 6.47 : 1
+| 0.155 : 1
+| 3.045
+|-
+| [[Methane]]
+| 55.5
+| 17.2 : 1
+| 0.058 : 1
+| 3.219
+|-
+| [[Nitromethane]]
+| 11.63
+| 1.7 : 1
+| 0.588 : 1
+| 6.841
+|}
+1&nbsp;[[Joule|MJ]] ≈ 0.28&nbsp;[[Kilowatt hour|kWh]] ≈ 0.37&nbsp;[[Horsepower-hour|HPh]].
+
+==Nuclear==
+{{main|Nuclear fuel}}
+
+[[File:CANDU fuel bundles.jpg|right|thumb|350px|Two [[CANDU]] ("CANada Deuterium Uranium") fuel bundles, each about 50{{nbsp}}cm long and 10{{nbsp}}cm in diameter]]
+
+Nuclear fuel is any material that is consumed to derive [[Nuclear power|nuclear energy]]. Technically speaking, all matter can be a nuclear fuel because any element under the right conditions will release nuclear energy,{{dubious|date=October 2016}} but the materials commonly referred to as nuclear fuels are those that will produce energy without being placed under extreme duress. Nuclear fuel is a material that can be 'burned' by [[nuclear fission]] or [[nuclear fusion|fusion]] to derive nuclear energy. ''Nuclear fuel'' can refer to the fuel itself, or to physical objects (for example bundles composed of '''fuel rods''') composed of the fuel material, mixed with structural, [[neutron moderator|neutron moderating]], or neutron reflecting materials.
+
+Most nuclear fuels contain heavy [[fissile]] elements that are capable of nuclear fission.  When these fuels are struck by neutrons, they are in turn capable of emitting neutrons when they break apart.  This makes possible a self-sustaining [[chain reaction]] that releases energy with a controlled rate in a [[nuclear reactor]] or with a very rapid uncontrolled rate in a [[nuclear weapon]].
+
+The most common fissile nuclear fuels are [[uranium-235]] (<sup>235</sup>U) and [[Pu-239|plutonium-239]] (<sup>239</sup>Pu). The actions of mining, refining, purifying, using, and ultimately disposing of nuclear fuel together make up the [[nuclear fuel cycle]]. Not all types of nuclear fuels create power from nuclear fission. [[Plutonium-238]] and some other elements are used to produce small amounts of nuclear power by [[radioactive decay]] in [[radioisotope thermoelectric generator]]s and other types of [[atomic battery|atomic batteries]]. Also, light [[nuclide]]s such as [[tritium]] (<sup>3</sup>H) can be used as fuel for [[nuclear fusion]].
+Nuclear fuel has the highest [[energy density]] of all practical fuel sources.
+
+===Fission===
+
+[[File:Nuclear fuel pellets.jpeg|thumb|[[Nuclear fuel]] pellets are used to release nuclear energy.]]
+
+The most common type of nuclear fuel used by humans is heavy [[fissile]] elements that can be made to undergo [[nuclear fission]] chain reactions in a [[nuclear reactor|nuclear fission reactor]]; ''nuclear fuel'' can refer to the material or to physical objects (for example fuel bundles composed of [[fuel rod]]s) composed of the fuel material, perhaps mixed with structural, [[neutron moderator|neutron moderating]], or neutron reflecting materials.
+
+===Fusion===
+Fuels that produce energy by the process of [[nuclear fusion]] are currently not utilized by humans but are the main source of fuel for [[star]]s. Fusion fuels tend to be light elements such as [[hydrogen]] which will combine easily. Energy is required to start fusion by raising temperature so high all materials would turn into plasma, and allow nuclei to collide and stick together with each other before repelling due to electric charge. This process is called fusion and it can give out energy.
+
+In stars that undergo nuclear fusion, fuel consists of [[atomic nuclei]] that can release energy by the absorption of a [[proton]] or [[neutron]]. In most stars the fuel is provided by hydrogen, which can combine to form [[helium]] through the [[proton-proton chain reaction]] or by the [[CNO cycle]]. When the hydrogen fuel is exhausted, nuclear fusion can continue with progressively heavier elements, although the net energy released is lower because of the smaller difference in nuclear binding energy. Once [[iron-56]] or [[isotopes of nickel|nickel-56]] nuclei are produced, no further energy can be obtained by nuclear fusion as these have the highest nuclear binding energies.<ref>{{Cite journal
+ | last = Fewell | first = M. P.
+ | title=The atomic nuclide with the highest mean binding energy
+ | journal=American Journal of Physics | year=1995 | volume=63
+ | issue=7 | pages=653–658
+ | bibcode=1995AmJPh..63..653F
+ | doi=10.1119/1.17828 }}</ref> The elements then on use up energy instead of giving off energy when fused. Therefore, fusion stops and the star dies. In attempts by humans, fusion is only carried out with hydrogen (isotope of 2 and 3) to form helium-4 as this reaction gives out the most net energy. Electric confinement ([[ITER]]), [[inertial confinement]] (heating by laser) and heating by strong electric currents are the popular methods.
+
+==Liquid fuels for transportation==
+{{more citations needed section|date=June 2016}}
+Most transportation fuels are liquids, because vehicles usually require high [[energy density]]. This occurs naturally in liquids and solids. High energy density can also be provided by an [[internal combustion engine]]. These engines require clean-burning fuels. The fuels that are easiest to burn cleanly are typically liquids and gases. Thus, liquids meet the requirements of being both energy-dense and clean-burning. In addition, liquids (and gases) can be pumped, which means handling is easily mechanized, and thus less laborious. As there is a general movement towards a low carbon economy, the use of liquid fuels such as hydrocarbons is coming under scrutiny.
+
+==See also==
+{{Portal|Energy}}
+{{div col|colwidth=20em}}
+* [[Alcohol fuel]]
+* [[Alternative fuels]]
+* [[Ammonia]]
+* [[Bitumen-based fuel]]
+* [[Cryogenic fuel]]
+* [[Fossil fuel phase-out]]
+* [[Fuel card]]
+* [[Fuel cell]]
+* [[Fuel container]]
+* [[Fuel management systems]]
+* [[Fuel oil]]
+* [[Fuel poverty]]
+* [[Filling station]]
+* [[Hydrogen economy]]
+* [[Hypergolic fuel]]
+* [[List of energy topics]]
+* [[Low-carbon economy]]
+* [[Marine fuel management]]
+* [[Propellant]]
+* [[Recycled fuel]]
+* [[World energy resources and consumption]]
+{{div col end}}
+
+==Footnotes==
+{{reflist}}
+
+==References==
+* {{Cite book| title = Chemistry 1 | author = Ratcliff, Brian| publisher = Cambridge University press | year= 2000 | isbn = 978-0-521-78778-9|display-authors=etal}}
+
+==Further reading==
+{{Commons category|Fuels}}
+* {{cite web|url= http://ec.europa.eu/environment/co2/9994/en.pdf |title=Directive 1999/94/EC of the European Parliament and of the council of 13 December 1999, relating to the availability of consumer information on fuel economy and CO2 emissions in respect of the marketing of new passenger cars }}&nbsp;{{small|(140&nbsp;KB)}}.
+* [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31980L1268:EN:NOT Council Directive 80/1268/EEC Fuel consumption of motor vehicles].
+{{Motor fuel}}
+{{Firelighting}}
+{{Energy footer}}
+{{Fire}}
+{{Portal bar|Agriculture|Ecology|Energy|Clothing}}
+{{Authority control}}
+
+[[Category:Fuels| ]]
+[[Category:Energy development]]

@@ -1,0 +1,215 @@
+{{Short description|English poet and soldier (1893–1918)}}
+{{For|the politician|Wilfrid Owen}}
+{{pp-pc1}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image       = Wilfred Owen plate from Poems (1920).jpg
+| imagesize   = 235px
+| caption     = A plate from his ''1920 Poems by Wilfred Owen'', depicting him
+| pseudonym   = 
+| birth_name = Wilfred Edward Salter Owen
+| birth_date  = 18 March 1893
+| birth_place = [[Oswestry]], [[Shropshire]], England| death_date  = {{death date and age|df=yes|1918|11|04|1893|3|18}}
+| death_place = [[Sambre–Oise Canal]], France
+{{Infobox person|embed=yes
+| death_cause = [[Killed in action]]
+}}
+| nationality =  British
+| period      = [[First World War]]
+| genre       = [[War poet]]ry
+| website     = {{url|www.wilfredowen.org.uk}}
+}}
+
+'''Wilfred Edward Salter Owen''' [[Military Cross|MC]] (18 March 1893&nbsp;– 4 November 1918) was an English poet and soldier. He was one of the leading poets of the [[First World War]]. His [[war poetry]] on the horrors of [[Trench warfare|trenches]] and [[Chemical weapons in World War I|gas]] warfare was much influenced by his mentor [[Siegfried Sassoon]] and stood in contrast to the public perception of war at the time and to the confidently patriotic verse written by earlier war poets such as [[Rupert Brooke]]. Among his best-known works&nbsp;– most of which were published posthumously&nbsp;– are "[[Dulce et Decorum est]]", "[[Insensibility]]", "[[Anthem for Doomed Youth]]", "[[Futility (poem)|Futility]]", "[[Spring Offensive (poem)|Spring Offensive]]" and "[[Strange Meeting (poem)|Strange Meeting]]".
+
+==Early life==
+Owen was born on 18 March 1893 at [[Plas Wilmot]], a house in Weston Lane, near [[Oswestry]] in [[Shropshire]]. He was the eldest of Thomas and (Harriett) Susan Owen (''née'' Shaw)'s four children; his siblings were Mary Millard, (William) [[Harold Owen|Harold]], and Colin Shaw Owen. When Wilfred was born, his parents lived in a comfortable house owned by his grandfather, Edward Shaw.
+
+After Edward's death in January 1897, and the house's sale in March,<ref name=woab>{{cite book|title=Wilfred Owen, A Biography|last=Stallworthy|first=Jon|year=1974|publisher=[[Oxford University Press]] and Chatto and Windus|page=[https://archive.org/details/wilfredowen0000stal/page/11 11]|isbn=978-0-19-2117199|url=https://archive.org/details/wilfredowen0000stal/page/11}}</ref> the family lodged in the back streets of [[Birkenhead]]. There Thomas Owen temporarily worked in the town employed by a railway company.  Thomas transferred to [[Shrewsbury]] in April 1897 where the family lived with Thomas' parents in Canon Street.<ref name=woab2>{{cite book|title=Wilfred Owen, A Biography|page=13}}</ref>
+
+Thomas Owen transferred back to Birkenhead, again in 1898 when he became stationmaster at [[Birkenhead Woodside railway station|Woodside station]].<ref name=woab2 /> The family lived with him at three successive homes in the Tranmere district,<ref name=woab3>{{cite book|title=Wilfred Owen, A Biography|pages=13–14}}</ref> They then moved back to Shrewsbury in 1907.<ref name=woab4>{{cite book|title=Wilfred Owen, A Biography|pages=35–36}}</ref> Wilfred Owen was educated at the Birkenhead Institute<ref>{{cite web|url=http://www.freewebs.com/birkenheadinstitute/wilfredowen.htm|title=Wilfred Owen – Spirit of Birkenhead Institute|website=Freewebs.com|access-date=25 July 2012}}</ref> and at Shrewsbury Technical School (later known as the [[Wakeman School]]).
+
+Owen discovered his poetic vocation in about 1904<ref>[https://www.independent.co.uk/news/people/profiles/wilfred-owen-journey-to-the-trenches-423593.html Paul Farley, "Wilfred Owen: Journey to the Trenches", ''The Independent'', November 2006]</ref> during a holiday spent in [[Cheshire]]. He was raised as an [[Church of England|Anglican]] of the [[Evangelicalism|evangelical]] type, and in his youth was a devout believer, in part thanks to his strong relationship with his mother, which lasted throughout his life. His early influences included the [[Bible]] and the [[romantic poetry|Romantic poets]], particularly [[Wordsworth]] and [[John Keats]].<ref>{{cite web|url=https://www.bl.uk/20th-century-literature/articles/anthem-for-doomed-youth-and-dulce-et-decorum-est-tracing-the-influence-of-john-keats|title='Anthem for Doomed Youth' and 'Dulce et Decorum Est': tracing the influence of John Keats|author=Sandra M. Gilbert|website=British Library|access-date=1 December 2019}}</ref>
+
+Owen's last two years of formal education saw him as a pupil-teacher at the Wyle Cop school in Shrewsbury.<ref name=Dickins>{{cite book|last=Dickins|first=Gordon|title=An Illustrated Literary Guide to Shropshire|year=1987|publisher=Shropshire Libraries|page=54|isbn=978-0-903802-37-6}}</ref> In 1911 he passed the [[matriculation]] exam for the [[University of London]], but not with the [[First class honours|first-class]] honours needed for a scholarship, which in his family's circumstances was the only way he could have afforded to attend.
+
+In return for free lodging, and some tuition for the entrance exam (this has been questioned{{citation needed|date=March 2014}}) Owen worked as lay assistant to the Vicar of [[Dunsden]] near [[Reading, Berkshire|Reading]],<ref name=sel /> living in the vicarage from September 1911 to February 1913. During this time he attended classes at University College, Reading (now the [[University of Reading]]), in [[botany]] and later, at the urging of the head of the English Department, took free lessons in [[Old English]]. His time spent at Dunsden parish led him to disillusionment with the Church, both in its ceremony and its failure to provide aid for those in need.<ref>McDowell, Margaret B. "Wilfred Owen (18 March 1893 – 4 November 1918)." ''British Poets, 1914–1945'', edited by Donald E. Stanford, vol. 20, Gale, 1983, p. 259.  ''Dictionary of Literary Biography Main Series.''</ref><ref name=":0">{{Cite web|url=http://www.henleystandard.co.uk/news/4393/History-of-Wilfred-Owen-in-Dunsden.html|title=History of Wilfred Owen in Dunsden researched|website=Henleystandard.co.uk}}</ref>
+
+From 1913 he worked as a private tutor teaching English and French at the [[Berlitz Language Schools|Berlitz School of Languages]] in [[Bordeaux]], [[France]], and later with a family. There he met the older French poet [[Laurent Tailhade]], with whom he later corresponded in French.<ref>Sitwell, Osbert, ''Noble Essences'', London: Macmillan, 1950, pp. 93–4.</ref> When war broke out, Owen did not rush to enlist – and even considered the French army – but eventually returned to England.<ref name=sel>{{cite book|last1=Stallworthy|first1=Jon|title=Wilfred Owen: Poems selected by Jon Stallworthy|date=2004|publisher=[[Faber and Faber]]|location=London|isbn=978-0-571-20725-1|pages=vii–xix}}</ref>
+
+==War service==
+On 21 October 1915, he enlisted in the [[Artists Rifles]]. For the next seven months, he trained at Hare Hall Camp in [[Essex]].<ref name="ODNBOwen">{{Cite ODNB|id=37828|title=Owen, Wilfred Edward Salter|last=Stallworthy|first=Jon|author-link=Jon Stallworthy|date=2017}}</ref> On 4 June 1916, he was commissioned as a [[second lieutenant]] (on probation) in the [[Manchester Regiment]].<ref>{{London Gazette|issue=29617 |supp=y|page=5726|date=6 June 1916}}</ref> Initially Owen held his troops in contempt for their loutish behaviour, and in a letter to his mother described his company as "expressionless lumps".<ref>{{cite web|url=http://www.oucs.ox.ac.uk/ww1lit/education/tutorials/intro/owen/letters.html |title=Ox.ac.uk |website=Oucs.ox.ac.uk |access-date=27 March 2012}}</ref> However, his imaginative existence was to be changed dramatically by a number of traumatic experiences. He fell into a shell hole and suffered concussion; he was caught in the blast of a [[Stokes mortar|trench mortar]] [[Shell (projectile)|shell]] and spent several days unconscious on an embankment lying amongst the remains of one of his fellow officers. Soon afterward, Owen was diagnosed as suffering from neurasthenia or [[shell shock]] and sent to [[Craiglockhart War Hospital]] in [[Edinburgh]] for treatment. It was while recuperating at Craiglockhart that he met fellow poet [[Siegfried Sassoon]], an encounter that was to transform Owen's life.
+
+Whilst at Craiglockhart he made friends in Edinburgh's artistic and literary circles, and did some teaching at the [[Tynecastle High School]], in a poor area of the city. In November he was discharged from Craiglockhart, judged fit for light regimental duties. He spent a contented and fruitful winter in [[Scarborough, North Yorkshire]], and in March 1918 was posted to the Northern Command Depot at [[Ripon]].<ref>[http://www.riponcathedral.org.uk/wilfredowen.php Welcome to Ripon Cathedral] {{webarchive |url=https://web.archive.org/web/20100603074120/http://www.riponcathedral.org.uk/wilfredowen.php |date=3 June 2010 }}</ref> While in Ripon he composed or revised a number of poems, including "[[Wikisource:Futility|Futility]]" and "[[Wikisource:Strange Meeting|Strange Meeting]]". His 25th birthday was spent quietly at [[Ripon Cathedral]], which is dedicated to his namesake, [[St Wilfrid|St. Wilfrid of Hexham]].
+
+Owen returned in July 1918, to active service in France, although he might have stayed on home-duty indefinitely. His decision to return was probably the result of Sassoon's being sent back to England, after being shot in the head in an apparent "[[friendly fire]]" incident, and put on sick-leave for the remaining duration of the war. Owen saw it as his duty to add his voice to that of Sassoon, that the horrific realities of the war might continue to be told. Sassoon was violently opposed to the idea of Owen returning to the trenches, threatening to "stab [him] in the leg" if he tried it. Aware of his attitude, Owen did not inform him of his action until he was once again in France.
+
+At the very end of August 1918, Owen returned to the front line – perhaps imitating Sassoon's example. On 1 October 1918, Owen led units of the Second Manchesters to storm a number of enemy strong points near the village of [[Joncourt]]. For his courage and leadership in the Joncourt action, he was awarded the [[Military Cross]], an award he had always sought in order to justify himself as a war poet, but the award was not [[London Gazette|gazetted]] until 15 February 1919.<ref>{{London Gazette|issue=31183 |supp=y|page=2378|date=14 February 1919}}</ref> The citation followed on 30 July 1919:
+
+{{blockquote|2nd Lt, Wilfred Edward Salter Owen, 5th Bn. Manch. R., T.F., attd. 2nd Bn.
+For conspicuous gallantry and devotion to duty in the attack on the Fonsomme Line on October 1st/2nd, 1918. On the company commander becoming a casualty, he assumed command and showed fine leadership and resisted a heavy counter-attack. He personally manipulated a captured enemy machine gun from an isolated position and inflicted considerable losses on the enemy. Throughout he behaved most gallantly.<ref>{{London Gazette|issue=31480 |supp=y|page=9761|date=29 July 1919}}</ref>}}
+
+==Death==
+[[File:Ors Communal Cemetery - Wilfred Owen.JPG|thumb|Owen's grave, in [[Ors]] communal cemetery]]
+Owen was killed in action on 4 November 1918 during the crossing of the [[Sambre–Oise Canal]], exactly one week (almost to the hour) before the signing of the [[Armistice of 11 November 1918|Armistice]] which ended the war, and was promoted to the rank of Lieutenant the day after his death. His mother received the telegram informing her of his death on [[Armistice Day]], as the church bells in Shrewsbury were ringing out in celebration.<ref name=sel /><ref>{{cite news|url=https://cccbr.org.uk/wp-content/uploads/2017/09/rw1918_b.pdf#page=189|title=Armistice Touches|work=[[The Ringing World]]|date=13 December 1918|page=397 (189 of online pdf)|access-date=20 October 2017}}</ref> Owen is buried at Ors Communal Cemetery, [[Ors]], in northern France.<ref name=CWGC>{{CWGC|id=336417|name=Owen, Wilfred Edward Salter|access-date=4 February 2018}}</ref> The inscription on his gravestone, chosen by his mother Susan, is based on a quote from his poetry: <small>"SHALL LIFE RENEW THESE BODIES? OF A TRUTH ALL DEATH WILL HE ANNUL" W.O.</small><ref name=CWGC/><ref>{{cite web|title=The End|publisher=The Wilfred Owen Society|url=http://www.wilfredowen.org.uk/poetry/the-end|access-date=4 February 2018}}</ref>
+
+==Poetry==
+Owen is regarded by many as the greatest poet of the First World War,<ref>{{cite web|url=http://www.bbc.co.uk/poetryseason/poets/wilfred_owen.shtml|title=BBC – Poetry Season – Poets – Wilfred Owen|website=Bbc.co.uk|access-date=23 March 2019}}</ref> known for his verse about the horrors of trench and gas warfare. He had been writing poetry for some years before the war, himself dating his poetic beginnings to a stay at [[Broxton, Cheshire|Broxton by the Hill]] when he was ten years old.<ref>Sitwell, O. op. cit. p. 93.</ref>
+
+The poetry of [[William Butler Yeats]] was a significant influence for Owen, but Yeats did not reciprocate Owen's admiration, excluding him from ''The Oxford Book of Modern Verse'', a decision Yeats later defended, saying Owen was "all blood, dirt, and sucked sugar stick" and "unworthy of the poet's corner of a country newspaper". Yeats elaborated: "In all the great tragedies, tragedy is a joy to the man who dies ... If war is necessary in our time and place, it is best to forget its suffering as we do the discomfort of fever ..."<ref>{{cite book |title=Poets of World War I: Wilfred Owen & Isaac Rosenberg |year=2002 |page=9 |publisher=Infobase |isbn=9781438115801 |url=https://www.google.com/books/edition/Poets_of_World_War_I_Part_One/TwwPHLLg2xwC?hl=en&gbpv=1&bsq=yeats}}</ref>
+
+The Romantic poets [[John Keats|Keats]] and [[Percy Bysshe Shelley|Shelley]] influenced much of his early writing and poetry. His great friend, the poet Siegfried Sassoon, later had a profound effect on his poetic voice, and Owen's most famous poems ("Dulce et Decorum est" and "Anthem for Doomed Youth") show direct results of Sassoon's influence. Manuscript copies of the poems survive, annotated in Sassoon's handwriting. Owen's poetry would eventually be more widely acclaimed than that of his mentor. While his use of [[pararhyme]] with heavy reliance on [[assonance]] was innovative, he was not the only poet at the time to use these particular techniques. He was, however, one of the first to experiment with it extensively.
+
+{{Quote box 
+|quote =<poem>
+'''[[Anthem for Doomed Youth]]'''
+
+What passing-bells for these who die as cattle?
+Only the monstrous anger of the guns.
+Only the stuttering rifles' rapid rattle
+Can patter out their hasty orisons.
+No mockeries now for them; no prayers nor bells,
+Nor any voice of mourning save the choirs, –
+The shrill, demented choirs of wailing shells;
+And bugles calling for them from sad shires.
+
+What candles may be held to speed them all?
+Not in the hands of boys, but in their eyes
+Shall shine the holy glimmers of goodbyes.
+The pallor of girls' brows shall be their pall;
+Their flowers the tenderness of patient minds,
+And each slow dusk a drawing down of blinds.
+</poem>
+|source = 1920<ref>{{cite web|url=http://www.bbc.co.uk/poetryseason/poems/anthem_for_doomed_youth.shtml |title=Poetry Season&nbsp;– Poems&nbsp;– Anthem For Doomed Youth by Wilfred Owen |publisher=BBC |access-date=2 April 2012}}</ref>
+| align = right
+|width=320px 
+|bgcolor=#FFFFF0 
+|quoted=true 
+|salign=right
+}}
+
+His poetry itself underwent significant changes in 1917. As a part of his therapy at Craiglockhart, Owen's doctor, Arthur Brock, encouraged Owen to translate his experiences, specifically the experiences he relived in his dreams, into poetry. Sassoon, who was becoming influenced by [[Sigmund Freud|Freudian]] [[psychoanalysis]], aided him here, showing Owen through example what poetry could do. Sassoon's use of satire influenced Owen, who tried his hand at writing "in Sassoon's style". Further, the content of Owen's verse was undeniably changed by his work with Sassoon. Sassoon's emphasis on [[Realism (arts)|realism]] and "writing from experience" was contrary to Owen's hitherto romantic-influenced style, as seen in his earlier sonnets. Owen was to take both Sassoon's gritty realism and his own romantic notions and create a poetic synthesis that was both potent and sympathetic, as summarised by his famous phrase "the pity of war". In this way, Owen's poetry is quite distinctive, and he is, by many, considered a greater poet than Sassoon. Nonetheless, Sassoon contributed to Owen's popularity by his strong promotion of his poetry, both before and after Owen's death, and his editing was instrumental in the making of Owen as a poet.
+
+Owen's poems had the benefit of strong patronage, and it was a combination of Sassoon's influence, support from [[Edith Sitwell]], and the preparation of a new and fuller edition of the poems in 1931 by [[Edmund Blunden]] that ensured his popularity, coupled with a revival of interest in his poetry in the 1960s which plucked him out of a relatively exclusive readership into the public eye.<ref name=sel /> Though he had plans for a volume of verse, for which he had written a "Preface", he never saw his own work published apart from those poems he included in ''[[The Hydra]]'', the magazine he edited at Craiglockhart War Hospital, and "[[Miners (poem)|Miners]]", which was published in ''The Nation''.
+
+There were many other influences on Owen's poetry, including his mother. His letters to her provide an insight into Owen's life at the front, and the development of his philosophy regarding the war. Graphic details of the horror Owen witnessed were never spared. Owen's experiences with religion also heavily influenced his poetry, notably in poems such as "Anthem for Doomed Youth", in which the ceremony of a funeral is re-enacted not in a church, but on the battlefield itself, and "[[At a Calvary near the Ancre]]", which comments on the [[Crucifixion]] of [[Christ]]. Owen's experiences in war led him further to challenge his religious beliefs, claiming in his poem "Exposure" that "love of God seems dying".
+
+Only five of Owen's poems were published before his death, one in fragmentary form. His best known poems include "[[Anthem for Doomed Youth]]", "[[Futility (poem)|Futility]]", "[[Dulce Et Decorum Est]]", "[[The Parable of the Old Man and the Young|The Parable of the Old Men and the Young]]" and "[[Strange Meeting (poem)|Strange Meeting]]".
+However, most of them were published posthumously: ''[[Poems (Wilfred Owen)|Poems]]'' (1920),''[[The Poems of Wilfred Owen]]'' (1931),''[[The Collected Poems of Wilfred Owen]]'' (1963),''[[The Complete Poems and Fragments]]'' (1983); fundamental in this last collection is the poem ''[[Soldier's Dream]]'', that deals with Owen's conception of war.
+
+Owen's full unexpurgated opus is in the academic two-volume work ''The Complete Poems and Fragments'' (1994) by [[Jon Stallworthy]]. Many of his poems have never been published in popular form.
+
+In 1975 Mrs. Harold Owen, Wilfred's sister-in-law, donated all of the manuscripts, photographs and letters which her late husband had owned to the [[University of Oxford]]'s English Faculty Library. As well as the personal artifacts, this also includes all of Owen's personal library and an almost complete set of ''The Hydra''&nbsp;– the magazine of Craiglockhart War Hospital. These can be accessed by any member of the public on application in advance to the English Faculty librarian.
+
+The [[Harry Ransom Humanities Research Center]] at the [[University of Texas at Austin]] holds a large collection of Owen's family correspondence.
+
+==Relationship with Sassoon==
+Owen held [[Siegfried Sassoon]] in an esteem not far from hero-worship, remarking to his mother that he was "not worthy to light [Sassoon's] pipe". The relationship clearly had a profound impact on Owen, who wrote in his first letter to Sassoon after leaving Craiglockhart "You have fixed my life – however short". Sassoon wrote that he took "an instinctive liking to him",<ref>Sassoon, Siegfried: "Siegfried's Journey" p. 58, Faber and Faber, first published in 1946.</ref> and recalled their time together "with affection".<ref>Sassoon, Siegfried: "Siegfried's Journey", p. 61, Faber and Faber, 1946.</ref> On the evening of 3 November 1917 they parted, Owen having been discharged from Craiglockhart. He was stationed on home-duty in [[Scarborough, England|Scarborough]] for several months, during which time he associated with members of the artistic circle into which Sassoon had introduced him, which included [[Robbie Ross]] and [[Robert Graves]]. He also met [[H. G.&nbsp;Wells]] and [[Arnold Bennett]], and it was during this period he developed the stylistic voice for which he is now recognised. Many of his early poems were penned while stationed at the Clarence Garden Hotel, now the [[Clifton Hotel (England)|Clifton Hotel]] in Scarborough's North Bay. A [[Blue plaque|blue tourist plaque]] on the hotel marks its association with Owen.
+
+Sassoon and Owen kept in touch through correspondence, and after Sassoon was shot in the head in July 1918 and sent back to the UK to recover, they met in August and spent what Sassoon described as "the whole of a hot cloudless afternoon together."<ref>Sassoon, Siegfried: "Siegfried's Journey", p. 71, Faber and Faber, 1946.</ref> They never saw each other again. About three weeks later, Owen wrote to bid Sassoon farewell, as he was on the way back to France, and they continued to communicate. After the Armistice, Sassoon waited in vain for word from Owen, only to be told of his death several months later. The loss grieved Sassoon greatly, and he was never "able to accept that disappearance philosophically."<ref>Sassoon, Siegfried: "Siegfried's Journey", p. 72, Faber and Faber, 1946.</ref>
+
+==Sexuality==
+Though it has been suggested that Owen hoped to marry Albertina Dauthieu, at the time living in [[Milnathort]], Scotland, had he survived the war,<ref>{{Cite news|date=14 November 2021|title=The war poet and the attractions of Milnathort|work=BBC News|url=https://www.bbc.co.uk/news/uk-scotland-59262546|access-date=14 November 2021}}</ref> [[Robert Graves]]<ref>Graves, Robert, ''Goodbye To All That: An Autobiography'', NY, 1929 ("Owen was an idealistic homosexual"); 1st edn only: quote subsequently excised. See: Cohen, Joseph ''Conspiracy of Silence'', [http://www.nybooks.com/articles/9004 ''New York Review of Books''], Vol. 22, No. 19.</ref> and [[Sacheverell Sitwell]],<ref>Hibberd, Dominic, ''Wilfred Owen: A New Biography'', p. 513.</ref> both of whom knew him, believed that Owen was [[homosexuality|homosexual]], and that homoeroticism was a central element in much of his poetry.<ref>Hibberd, Dominic. ''Wilfred Owen: A New Biography'' (Weidenfeld & Nicolson, 2002), {{ISBN|0-297-82945-9}}, p. xxii.</ref><ref>Fussell, Paul.''The Great War and Modern Memory'' (Oxford University Press, 2000), {{ISBN|0-19-513331-5}}, p. 286.</ref><ref>Owen, Wilfred. ''The Complete Poems and Fragments, by Wilfred Owen; edited by Jon Stallworthy'' (W. W. Norton, 1984), {{ISBN|0-393-01830-X}}</ref><ref>Caesar, Adrian. ''Taking It Like a Man: Suffering, Sexuality and the War Poets'' (Manchester University Press, 1993) {{ISBN|0-7190-3834-0}}, pp. 1–256.</ref> Through Sassoon, Owen was introduced to a sophisticated homosexual literary circle which included [[Oscar Wilde]]'s friend [[Robbie Ross]], writer and poet [[Osbert Sitwell]], and Scottish writer [[Charles Kenneth Scott Moncrieff|C. K. Scott Moncrieff]], the translator of [[Marcel Proust]]. This contact, it is argued, broadened Owen's outlook, and increased his confidence in incorporating homoerotic elements into his work.<ref>Hibberd, ibid. pp. 337, 375.</ref><ref>Hoare, Philip. ''Oscar Wilde's Last Stand: decadence, conspiracy, and the most outrageous trial of the century''(Arcade Publishing, 1998), {{ISBN|1-55970-423-3}}, p. 24.</ref> Historians have debated whether Owen had an affair with Scott Moncrieff in May 1918; he had dedicated various works to a "Mr&nbsp;W.O.",<ref>Hibberd, p. 155.</ref> but Owen never responded.<ref>{{Cite book |title=The Poetry of Shell Shock |first=Daniel W. |last=Hipp |pages=88–89 |publisher=McFarland |year=2005 |isbn=978-0-7864-2174-9 }}</ref>
+
+Throughout Owen's lifetime and for decades after, homosexual activity between men was a punishable offence throughout the United Kingdom, and the account of Owen's sexual development has been somewhat obscured because his brother [[Harold Owen|Harold]] removed what he considered discreditable passages in Owen's letters and diaries after the death of their mother.<ref>Hibberd (2002), p. 20.</ref> [[Andrew Motion]] wrote of Owen's relationship with Sassoon: "On the one hand, Sassoon's wealth, posh connections and aristocratic manner appealed to the snob in Owen: on the other, Sassoon's homosexuality admitted Owen to a style of living and thinking that he found naturally sympathetic."
+<ref>{{Cite book |title=Ways of Life: On Places, Painters and Poets |first=Andrew |last=Motion |page=218 |publisher=[[Faber and Faber]] |year=2008 |isbn=978-0-5712-2365-7 }}</ref> Sassoon, by his own account, was not actively homosexual at this time.<ref>{{cite book|url=https://books.google.com/books?id=LO9KDzIYSZoC&q=sassoon+unspotted&pg=PA20|author=Jean Moorcroft Wilson|author-link=Jean Moorcroft Wilson|title=Siegfried Sassoon: The Journey from the Trenches: a Biography (1918–1967)|publisher=Routledge|date=2003|isbn=0415967139|page=19}}</ref>
+
+An important turning point in Owen scholarship occurred in 1987 when the ''[[New Statesman]]'' published "The Truth Untold" by Jonathan Cutbill,<ref>{{Cite journal|title = The Truth Untold|last = Cutbill|first = Jonathan|date = 16 January 1987|journal = The New Statesman}}</ref> the literary executor of [[Edward Carpenter]], which attacked the academic suppression of Owen as a poet of homosexual experience.<ref>{{Cite book|title = War Poetry: An Introductory Reader|last = Featherstone|first = Simon|publisher = Routledge|year = 1995|pages = 126}}</ref> Amongst the article's contentions was that the poem "[[Shadwell]] Stair", previously alleged to be mysterious, was a straightforward elegy to homosexual soliciting in an area of the London docks once renowned for it.
+
+==Memory==
+There are memorials to Owen at [[Gailly]],<ref>[http://www.1914-18.co.uk/owen/pictures/doveatgailly.JPG Memorial at Gailly], 1914–18.co.uk. Accessed 5 December 2008.</ref> Ors,<ref>[http://www.1914-18.co.uk/owen/pictures/wfa%20memorial%20large.JPG Memorial at Ors], 1914–18.co.uk. Accessed 5 December 2008</ref> [[Oswestry]],<ref>[http://www.1914-18.co.uk/owen/pictures/oswestry%20memorial%20text.JPG Memorial at Oswestry], 1914–18.co.uk. Accessed 5 December 2008.</ref> Birkenhead (Central Library) and [[Shrewsbury]].<ref>[http://www.1914-18.co.uk/owen/pictures/Shrewsbury%20memorial.JPG Memorial at Shrewsbury], 1914–18.co.uk. Accessed 5 December 2008.</ref>
+
+On 11 November 1985, Owen was one of the 16 Great War poets commemorated on a slate stone unveiled in [[Westminster Abbey]]'s [[Poet's Corner]].<ref>[http://net.lib.byu.edu/english/wwi/poets/poets.html Writers and Literature of The Great War], Harold B. Lee Library, Brigham Young University. Accessed 5 December 2008.</ref> The inscription on the stone is taken from Owen's "Preface" to his poems: "My subject is War, and the pity of War. The Poetry is in the pity."<ref name="Preface">{{cite web|url=http://net.lib.byu.edu/english/wwi/poets/Preface.html |title=Wilfred Owen: Preface to Edition |work=Poets of the Great War|publisher=Harold B. Lee Library, Brigham Young University}}</ref> There is also a small museum dedicated to Owen and Sassoon at the Craiglockhart War Hospital, now a [[Napier University]] building.
+
+The forester's house in Ors where Owen spent his last night, Maison forestière de l'Ermitage, has been transformed by [[Turner Prize]] nominee [[Simon Patterson (artist)|Simon Patterson]] into an art installation and permanent memorial to Owen and his poetry, which opened to the public on 1 October 2011.<ref name="artconnexion">{{cite web|url=http://www.artconnexion.org/espace-public-public-realm/42-simon-patterson--la-maison-forestiere |title=Simon Patterson / La Maison Forestière |publisher = artconnexion}}</ref>
+
+Susan Owen's letter to [[Rabindranath Tagore]] marked, Shrewsbury, 1 August 1920, reads: "I have been trying to find courage to write to you ever since I heard that you were in London – but the desire to tell you something is finding its way into this letter today. The letter may never reach you, for I do not know how to address it, tho' I feel sure your name upon the envelope will be sufficient. It is nearly two years ago, that my dear eldest son went out to the War for the last time and the day he said goodbye to me – we were looking together across the sun-glorified sea – looking towards France, with breaking hearts – when he, my poet son, said those wonderful words of yours – beginning at 'When I go from hence, let this be my parting word' – and when his pocket book came back to me – I found these words written in his dear writing – with your name beneath."<ref>{{cite web|url=https://www.thestatesman.com/|title=Latest News, India, Bengal News, Breaking News, Opinion, Bollywood News, Cricket, Football|date=4 March 2018|website=The Statesman|access-date=23 March 2019}}</ref>
+
+==Wilfred Owen Association==
+To commemorate Wilfred's life and poetry, The Wilfred Owen Association was formed in 1989.<ref>{{Cite web |url=https://www.bbc.co.uk/education/clips/z9ckwmn |title=Archived copy |access-date=21 January 2018 |archive-url=https://web.archive.org/web/20170620134000/http://www.bbc.co.uk/education/clips/z9ckwmn |archive-date=20 June 2017 |url-status=dead }}</ref><ref>{{cite web|url=http://www.centenarynews.com/article?id=151|title=The Wilfred Owen Association|website=Centenarynews.com|access-date=23 March 2019}}</ref> Since its formation the Association has established permanent public memorials in Shrewsbury and Oswestry. In addition to readings, talks, visits and performances, it promotes and encourages exhibitions, conferences, awareness and appreciation of Owen's poetry. Peter Owen, Wilfred Owen's nephew, was President of the Association until his death in July 2018.<ref>{{cite web|title=Peter Owen|url=http://wilfredowen.org.uk/news/article/peter-owen|work=Wilfred Owen Association|date=31 July 2018}}</ref> The Association's Patrons, listed in the same order as on the Association's website, are [[Peter Florence]], Helen McPhail, Philip Guest, [[Dr Rowan Williams]] ([[Archbishop of Canterbury]] 2002–2012) and Sir [[Daniel Day-Lewis]]; [[Grey Ruthven, 2nd Earl of Gowrie]] (1939–2021) was also a Patron.<ref>{{cite web|url=http://www.dailyrecord.co.uk/scotland-now/legendary-ghost-war-poet-returns-10695439|title=Legendary war poet returns from WW1 killing fields to meet today's veterans|first=Stephen|last=Stewart|date=27 June 2017|website=Dailyrecord.co.uk|access-date=23 March 2019}}</ref><ref>{{cite web|url=http://www.wilfredowen.org.uk/wilfred-owen-association|title=The Wilfred Owen Association|website=Wilfredowen.org.uk|access-date=18 October 2021}}</ref> The Association presents a biennial Poetry Award to honour a poet for a sustained body of work that includes memorable war poems; previous recipients include [[Sir Andrew Motion]] ([[Poet Laureate of the United Kingdom|Poet Laureate]] 1999–2009), [[Dannie Abse]], [[Christopher Logue]], [[Gillian Clarke]] and [[Seamus Heaney]]. [[Owen Sheers]] was awarded the prize in September 2018.<ref>{{cite web|title=Wilfred Owen Poetry Award|url=http://www.wilfredowen.org.uk/wilfred-owen-association/poetry-award|work=Wilfred Owen Association|date=1 September 2018}}</ref><ref>{{cite web|url=https://www.thebritishacademy.ac.uk/news/sir-andrew-motion-awarded-wilfred-owen-poetry-award-british-academy|title=Sir Andrew Motion awarded the Wilfred Owen Poetry Award at the British Academy|website=The British Academy|access-date=23 March 2019}}</ref><ref>{{cite web|url=http://www.wilfredowen.org.uk/|title=The Wilfred Owen Association|website=Wilfredowen.org.uk|access-date=23 March 2019}}</ref> In November 2015, actor [[Jason Isaacs]] unveiled a tribute to Owen at the former Craiglockhart War Hospital in Edinburgh where Owen was treated for shell shock during WWI.<ref>{{cite web|url=https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-34963298|title=War poet honoured at hospital site|date=30 November 2015|access-date=23 March 2019|website=Bbc.co.uk}}</ref>
+
+== Depictions in popular culture ==
+===In literature and films===
+[[Stephen MacDonald]]'s play ''[[Not About Heroes]]'' (first performed in 1982) takes as its subject matter the friendship between Owen and Sassoon, and begins with their meeting at Craiglockhart during World War I.<ref>{{cite book|last=Meyer-Dinkgräfe|first=Daniel |title=Biographical Plays About Famous Artists|publisher=Cambridge Scholars Press|year=2005|pages=24–29|isbn=978-1-904303-47-3|url=https://books.google.com/books?id=wR50GEyHk-QC&pg=PA24}}</ref>
+
+[[Pat Barker]]'s historical novel ''[[Regeneration (novel)|Regeneration]]'' (1991) describes the meeting and relationship between Sassoon and Owen,<ref>{{cite web|url=http://sites.scran.ac.uk/Warp/regeneration.htm |title=The War Poets at Craiglockhart|website=Sites.scran.ac.uk|access-date=5 December 2008}}</ref> acknowledging that, from Sassoon's perspective, the meeting had a profoundly significant effect on Owen. Owen's treatment with his own doctor, Arthur Brock, is also touched upon briefly. Owen's death is described in the third book of Barker's Regeneration trilogy, ''[[The Ghost Road]]'' (1995).<ref>{{cite book|last=Brown|first=Dennis|title=Critical Perspectives on Pat Barker|editor=Monteith, Sharon |publisher=University of South Carolina Press|year=2005|pages=187–202|isbn=978-1-57003-570-8}}</ref> In the [[Regeneration (1997 film)|1997 film ''Regeneration'']], [[Stuart Bunce]] played Owen.<ref>{{IMDb title|title=Regeneration|id=0120001}}</ref>
+
+Owen is the subject of the BBC docudrama ''[[Wilfred Owen: A Remembrance Tale]]'' (2007), in which he is played by [[Samuel Barnett (actor)|Samuel Barnett]].<ref>{{IMDb title|title=Wilfred Owen: A Remembrance Tale|id=1155600}}</ref>
+
+Owen was mentioned as a source of inspiration for one of the correspondents in the [[epistolary novel]], ''The Guernsey Literary and Potato Peel Pie Society'' (2008), by [[Mary Ann Shaffer]] and Annie Barrows.<ref>{{cite book|last=Shaffer|first=Mary Ann|title=The Guernsey Literary and Potato Peel Pie Society|publisher=The Dial Press|year=2008|pages=[https://archive.org/details/guernseyliterary00shaf/page/72 72–73]|isbn=978-0-385-34099-1|url-access=registration|url=https://archive.org/details/guernseyliterary00shaf/page/72}}</ref>
+
+In [[Harry Turtledove]]'s multi-novel ''[[Southern Victory Series]],'' the title of the third volume, ''[[Walk in Hell]]'', is taken from a line in "Mental Cases". This part of the series is set during an [[alternate history]] version of World War I which sees Canada invaded and occupied by United States troops. Owen is acknowledged on the title page as the source of the quote.
+
+A film named ''The Burying Party'' (released August 2018), depicts Owen's final year from Craiglockhart Hospital to the [[Battle of the Sambre (1918)]]. Matthew Staite stars as Owen and Joyce Branagh as his mother Susan.<ref>{{cite web|title=The Burying Party|url=http://www.theburyingparty.com/|website=The Burying Party}}</ref><ref>{{cite news|last1=Jones|first1=Lauren|title=New Wilfred Owen film 'The Burying Party' on the hunt for filming locations|url=http://www.wirralglobe.co.uk/news/15546873.New_Wilfred_Owen_film__The_Burying_Party__on_the_hunt_for_filming_locations/|work=Wirral Globe|language=en}}</ref><ref>{{cite web|title=The Burying Party|url=https://www.imdb.com/title/tt7996170/|website=IMDb.com|date=23 August 2018}}</ref>
+
+===In music===
+His poetry has been reworked into various formats. For example, [[Benjamin Britten]] incorporated eight of Owen's poems into his ''[[War Requiem]]'', along with words from the Latin Mass for the Dead (''Missa pro Defunctis''). The ''Requiem'' was commissioned for the reconsecration of [[Coventry Cathedral]] and first performed there on 30 May 1962.<ref>{{cite web|url=http://www.its.caltech.edu/~tan/Britten/britwar.html|title=the War Requiem|last=Behroozi|first=Cyrus |author2=Niday, Thomas  |work=Benjamin Britten Page, Caltech. |access-date=5 December 2008}}</ref> [[Derek Jarman]] adapted it for the screen in 1988, with the 1963 recording as the soundtrack.<ref>{{cite book|last=Cooke|first=Mervyn|title=Britten: "War Requiem"|publisher=Cambridge Music Handbook|year=1996|isbn=978-0-521-44089-9}}</ref>
+
+[[Virginia Astley#Ravishing Beauties (band)|The Ravishing Beauties]] recorded Owen's poem "Futility" in an April 1982 [[John Peel]] session.<ref>{{cite web|url=http://www.bbc.co.uk/radio1/johnpeel/sessions/1980s/1982/Apr14ravishingbeautie/|title=Peel Sessions: The Ravishing Beauties|date=14 April 1982|publisher=BBC Radio 1|access-date=5 December 2008}}</ref>
+
+Also in 1982, [[10,000 Maniacs]] recorded a song titled "Anthem for Doomed Youth", loosely based on the poem, in [[Fredonia, New York]]. The recording appeared on their first EP release ''[[Human Conflict Number Five]]'' and later on the compilation ''[[Hope Chest: The Fredonia Recordings 1982-1983|Hope Chest]]''. Also appearing on the ''Hope Chest'' album was the song "The Latin One", a reference to the title of Owen's poem "Dulce et Decorum Est" on which the song is based.
+
+Additionally in 1982, singer [[Virginia Astley]] set the poem "[[Futility (poem)|Futility]]" to music she had composed.<ref>{{cite web |url=http://www.virginiaastley.com/discography/comps/html/reel.html |title=Virginia Astley Discography &#124; Compilations |website=Virginiaastley.com |access-date=27 March 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120425153824/http://www.virginiaastley.com/discography/comps/html/reel.html |archive-date=25 April 2012}}</ref>
+
+In 1992, [[Anathema (band)|Anathema]] released ''[[The Crestfallen|The Crestfallen EP]]'', with the song "They Die" quoting lines from Owen's poem "The End", which also formed the epitaph on his grave in Ors.
+
+[[Rudimentary Peni]] issued their single "Wilfred Owen the Chances" in 2009. The lyrics are from Owen's poem, "The Chances".<ref>{{cite web |url=https://www.discogs.com/artist/253948-Rudimentary-Peni |title=Rudimentary Peni Discography |website=discogs.com}}</ref>
+
+Wirral musician Dean Johnson created the musical ''[[Bullets and Daffodils]]'', based on music set to Owen's poetry, in 2010.<ref>{{cite web|url=http://www.wilfredowenstory.com/welshdailypost.pdf|title=Bullet Points|author=Welsh Daily Post|date=17 February 2012|access-date=23 July 2012}}</ref>
+
+In 2015, the British indie rock band, [[The Libertines]], released an album entitled ''[[Anthems For Doomed Youth]]''; this featured the track "Anthem for Doomed Youth", named after Owen's poem.
+
+His poetry is sampled multiple times on the 2000 [[Jedi Mind Tricks]] album ''[[Violent by Design]]''.<ref>{{cite web|url=https://genius.com/Jedi-mind-tricks-muerte-lyrics|title=Jedi Mind Tricks – Muerte|website=Genius.com}}</ref><ref>{{cite web|url=https://www.sputnikmusic.com/review/40296/Jedi-Mind-Tricks-Violent-by-Design/|title=Jedi Mind Tricks – Violent by Design (album review)|website=Sputnikmusic.com}}</ref> Producer [[Stoupe the Enemy of Mankind]] has been widely acclaimed for his sampling on the album, and inclusion of Owen's poetry.
+
+===Other===
+Owen appears in "The Piper", the seventh episode of the British horror podcast ''[[The Magnus Archives]]''.<ref>{{Cite web|title=The Magnus Archives - Horror Podcast|url=http://rustyquill.com/the-magnus-archives/}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{External links|date=March 2019}}
+{{portal|Poetry|Biography|England}} 
+{{wikisource author}}
+{{wikiquote|Wilfred Owen}}
+{{commons category}}
+* [[iarchive:poemsowenwil00owenrich|Poems (1920)]], the posthumous collection by Wilfred Owen with an introduction by [[Siegfried Sassoon]] at [[Internet Archive]]
+*{{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/wilfred-owen}}
+* {{Gutenberg author | id=Owen,+Wilfred }}
+* {{Internet Archive author |sname=Wilfred Owen |sopt=t}}
+* {{Librivox author |id=1336}}
+* [http://www.poets.org/poet.php/prmPID/305 Wilfred Owen profile and poems at Poets.org]
+* [http://www.oucs.ox.ac.uk/ww1lit/collections/owen The Wilfred Owen Collection], in [http://www.oucs.ox.ac.uk/ww1lit The First World War Poetry Digital Archive] by [[Oxford University]]
+* [https://web.archive.org/web/20110408212427/http://www.warpoetry.co.uk/owena.html The Wilfred Owen resource page at warpoetry.co.uk]
+* [http://www.bbc.co.uk/poetryseason/poets/wilfred_owen.shtml Wilfred Owen at BBC Poetry Season]
+* [http://www.1914-18.co.uk/owen/ Wilfred Owen Association]
+* [http://www.owenindunsden.org/ the Dunsden Owen Association, including a trail app]
+* [https://www.bl.uk/people/wilfred-owen Wilfred Owen] at the British Library
+*[https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_4079189 Finding aid to Wilfred Owen papers at Columbia University. Rare Book & Manuscript Library.]
+{{Wilfred Owen}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Owen, Wilfred}}
+[[Category:1893 births]]
+[[Category:1918 deaths]]
+[[Category:Alumni of the University of Reading]]
+[[Category:Artists' Rifles soldiers]]
+[[Category:British Army personnel of World War I]]
+[[Category:British military personnel killed in World War I]]
+[[Category:English World War I poets]]
+[[Category:People with post-traumatic stress disorder]]
+[[Category:20th-century English male writers]]
+[[Category:English people of Welsh descent]]
+[[Category:British gay writers]]
+[[Category:Manchester Regiment officers]]
+[[Category:People from Oswestry]]
+[[Category:Recipients of the Military Cross]]
+[[Category:War writers]]
+[[Category:20th-century English poets]]
+[[Category:English LGBT poets]]
+[[Category:English male poets]]
+[[Category:People from Birkenhead]]
+[[Category:Gay military personnel]]
+[[Category:Lost Generation writers]]
+[[Category:20th-century LGBT people]]

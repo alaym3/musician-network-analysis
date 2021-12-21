@@ -1,0 +1,60 @@
+{{About|the United Arab Emirates community}}
+{{See Wiktionary||naïf}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                    = Naif
+| native_name             = نايف
+| native_name_lang        = ar
+| settlement_type         = Community
+| image_skyline           = 
+| image_caption           = [[Dubai Metro]] construction near Baniyas Square, Naif
+| coordinates             = {{Coord|25.27124|55.30535|display=inline,title}}
+| subdivision_type        = Country
+| subdivision_name        = [[United Arab Emirates]]
+| subdivision_type1       = Emirate
+| subdivision_name1       = [[Dubai]]
+| subdivision_type2       = City
+| subdivision_name2       = [[Dubai]]
+| established_title       = Established
+| established_date        = 
+| p1                      = 
+| p2                      = 
+| p3                      = 
+| p4                      = 
+| p5                      = 
+| p6                      = 
+| p7                      = 
+| p8                      = 
+| p9                      = 
+| p10                     = 
+| area_footnotes          = 
+| area_total_km2          = 0.561
+| population_footnotes    = (2000)
+| population_total        = 28,571 <ref name=dhcc />
+| population_as_of        = 
+| population_density_km2  = auto
+| footnotes               = 
+| blank_name_sec1         = Community number
+| blank_info_sec1         = 118
+}}
+'''Naif''' ({{IPA-ar|naːˈiːf|pron}}, {{lang-ar|نايف}}) is a [[Human settlement|locality]] in [[Deira, Dubai|Deira]] side of [[Dubai]], [[United Arab Emirates]]. It is a commercial and residential locality. Considering the nearby localities, Naif is larger in size. It is one of the oldest localities. The residents of this locality are mainly [[South Asia]]ns. The coordinates of Naif are N 25.27153° and E 55.30512°.
+
+Naif has the second-highest population density of all communities in Dubai (after [[Ayil Nasir]]).<ref name=dhcc>[http://cpq.dhcc.ae/PDF%20Bank/Healthcare%20in%20Dubai/PopulationDistribution.pdf Existing Population and Future Holding Capacities in Dubai Urban Area] {{Webarchive|url=https://web.archive.org/web/20080911062819/http://cpq.dhcc.ae/PDF%20Bank/Healthcare%20in%20Dubai/PopulationDistribution.pdf |date=2008-09-11 }}. Dubai Healthcare City. 2000</ref>
+
+== Fire in Naif Souq ==
+In 2008, A fire broke out in the Naif Souq and around 183 shops were burned down. The Dubai Municipality built a new building which has almost double the capacity of the old building.<ref>{{Cite web|url=http://www.constructionweekonline.com/article-2768-naif-souq-to-be-rebuilt-in-just-eight-months/|title=Naif Souq to be rebuilt in just eight months {{!}} ConstructionWeekOnline.com|website=www.constructionweekonline.com|access-date=2018-10-16}}</ref>
+
+== References ==
+
+<references/>
+
+== External links ==
+
+* [https://www.thenationalnews.com/uae/one-year-after-lockdown-how-dubai-s-naif-community-is-striving-to-get-back-to-normal-1.1208804 "One year after lockdown: how Dubai's Naif community is striving to get back to normal. Residents were under strict stay-home orders from March 31 until April 26 of last year to control the spread of Covid-19", "The National News", April 22, 2021]
+
+{{Neighborhoods in Dubai}}
+
+[[Category:Communities in Dubai]]
+
+
+{{UnitedArabEmirates-geo-stub}}

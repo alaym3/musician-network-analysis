@@ -1,0 +1,28 @@
+{{Short description|A hot lump of slowly burning solid fuel, usually associated with a fire}}
+{{other uses|Ember (disambiguation)}}
+{{One source|date=July 2019}}
+[[File:Embers 01.JPG|thumb|Embers of [[coal]]]]
+[[File:Bonfire Embers.jpg|thumb|A [[bonfire]] in rural [[Australia]], with a large number of [[spark (fire)|sparks]] being blown by the wind; sparks are akin to embers in a similar way that dust is to stone.]]
+[[File:Aljamer SM.BOUALAM.jpg|thumb|Ember of [[charcoal]] used for cooking]]
+
+An '''ember''', also called a '''hot coal'''<!--The word "coal" is polysemic. See [[wikt:coal]] if need more help.-->, is a [[heat|hot]] lump of slowly [[combustion|burning]] solid [[fuel]], typically [[incandescence|glowing]], composed of greatly heated [[wood]], [[coal]], or other [[carbon]]-based material. Embers (hot coals) can exist within, remain after, or sometimes precede, a [[fire]]. Embers are, in some cases, as hot as the fire which created them. They [[radiation|radiate]] a substantial amount of heat long after the fire has been extinguished, and if not taken care of properly can rekindle a fire that is thought to be completely extinguished and can pose a fire hazard. In order to avoid the danger of accidentally spreading a fire, many [[camping|campers]] pour water on the embers or cover them in dirt. Alternatively, embers can be used to relight a fire after it has gone out without the need to rebuild the fire – in a conventional [[fireplace]], a fire can easily be relit up to 12 hours after it goes out, provided that there is enough space for air to circulate between the embers and the introduced fuel.
+
+They are often used for cooking, such as in [[charcoal]] [[barbecue]]s. This is because embers radiate a more consistent form of heat, as opposed to an open fire, which is constantly changing along with the heat it radiates.
+
+An ember is formed when a fire has only partially burnt a piece of fuel, and there is still usable chemical energy in that piece of fuel. This happens because the usable chemical energy is so deep into the center that air (specifically oxygen) does not reach it, therefore not causing [[combustion]] (carbon-based fuel + O<sub>2</sub> → CO<sub>2</sub> + H<sub>2</sub>O + C + other chemicals involved). It continues to stay hot and does not lose its thermal energy quickly because combustion is still happening at a low level. The small yellow, orange and red lights often seen among the embers are actually combustion; the combustion is just not happening at a fast enough rate to create a [[flame]]. Once the embers are completely 'burned through', they are not carbon as is commonly believed (carbon burns, and is not normally left behind), but rather various other oxidized minerals like calcium and phosphorus. At that point they are  called [[wood ash|ashes]].
+
+Embers play a large role in forest fires, wildland fires or wildland urban interface fires. Because embers are typically burnt leaves and thus small and lightweight, they can easily become airborne. During a large fire, with the right conditions, embers can be blown far ahead of the fire front, starting spot fires several kilometres/miles away. A number of practical measures can be undertaken by homeowners to reduce the consequences of such an "[[ember attack]]" that bombards especially wooden structures and starts property fires.<ref>{{cite news |title=Protect Your Property – Make your property safe from bushfire |url=http://www.cfa.vic.gov.au/residents/living/protectyourproperty.htm |work=Australian Country Fire Authority |access-date=2008-07-25 |archive-url=https://web.archive.org/web/20080722075835/http://www.cfa.vic.gov.au/residents/living/protectyourproperty.htm |archive-date=2008-07-22 |url-status=dead}}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+{{Commons category|Embers}}
+* {{Wiktionary-inline}}
+
+{{-}}
+{{Firelighting}}
+
+[[Category:Fire]]
+
+[[ru:Горение#Тление]]

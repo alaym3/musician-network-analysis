@@ -1,0 +1,119 @@
+{{Use mdy dates|date=October 2021}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name             = O.G.C.
+| image            = Originoo.jpg
+| caption          = Starang Wondah (left), Top Dog (center) and Louieville
+| alias            = {{hlist|The 3 Amigos|3-2-1}}
+| origin           = [[Brownsville, Brooklyn]], New York City, U.S.
+| genre            = [[Hip hop music|Hip hop]]
+| years_active     = 1994–present
+| label            = {{hlist|[[Duck Down Music|Duck Down]]|[[Priority Records|Priority]]}}
+| associated_acts  = {{hlist|[[Black Moon (group)|Black Moon]]|[[Boot Camp Clik]]|[[Buckshot (rapper)|Buckshot]]|[[Heltah Skeltah]]|[[Rock (rapper)|Rock]]|[[Sean Price]]|[[Smif-N-Wessun]]|[[Steele (rapper)|Steele]]|[[Tek (rapper)|Tek]]|[[The Fab 5]]|[[Da Beatminerz]]}}
+| website          = 
+| current_members  = [[Starang Wondah]]<br />Top Dog<br />[[Louieville Sluggah]]
+}}
+
+'''O.G.C.''' (an [[Acronym|initialism]] for '''Originoo Gunn Clappaz''') is an American [[Hip hop music|hip hop]] trio composed of members [[Starang Wondah]], Top Dog and [[Louieville Sluggah]]. The group is mostly known through their membership in the [[Boot Camp Clik]], along with [[Buckshot (rapper)|Buckshot]], [[Smif-N-Wessun]] and [[Heltah Skeltah]].
+
+== Discography ==
+=== Studio albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+
+! rowspan="2" |Title
+! rowspan="2" |Album details
+! colspan="2" |Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;" |[[Billboard 200|US]]<ref>{{Cite web|title=Originoo Gunn Clappaz Chart History (''Billboard'' 200)|url=https://www.billboard.com/music/originoo-gunn-clappaz/chart-history/TLP|access-date=September 13, 2020|website=[[Billboard (magazine)|Billboard]]}}</ref>
+! scope="col" style="width:3em;font-size:90%;" |[[Top R&B/Hip-Hop Albums|USR&B/HH]]<ref>{{Cite web|title=Originoo Gunn Clappaz Chart History (Top R&B/Hip-Hop Albums)|url=https://www.billboard.com/music/originoo-gunn-clappaz/chart-history/BLP|access-date=September 13, 2020|website=[[Billboard (magazine)|Billboard]]}}</ref>
+|-
+! scope="row" |''[[Da Storm]]''
+|
+* Released: October 29, 1996
+* Label: [[Priority Records]]
+| align="center" |47
+|10
+|-
+! scope="row" |''[[The M-Pire Shrikez Back]]''
+|
+* Released: August 31, 1999
+* Label: [[Priority Records]]
+|170
+|38
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" rowspan="2"| Year
+! colspan="5" | Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[Hot R&B/Hip-Hop Singles Sales|US R&B/HH Sales]]<br /><ref>{{cite web|title=Originoo Gunn Clappaz Chart History (Hot R&B/Hip-Hop Singles Sales)|url=https://www.billboard.com/music/originoo-gunn-clappaz/chart-history/BSS|access-date=September 13, 2020|website=[[Billboard (magazine)|Billboard]]}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Dance Singles Sales|US Dance Sales]]<br /><ref>{{cite web|title=Originoo Gunn Clappaz Chart History (Dance Singles Sales)|url=https://www.billboard.com/music/originoo-gunn-clappaz/chart-history/DSA|access-date=September 13, 2020|website=[[Billboard (magazine)|Billboard]]}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Bubbling Under Hot 100|US Bub.]]<br /><ref>{{cite web|title=Originoo Gunn Clappaz Chart History (Bubbling Under Hot 100)|url=https://www.billboard.com/music/originoo-gunn-clappaz/chart-history/HBU|access-date=September 13, 2020|website=[[Billboard (magazine)|Billboard]]}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Hot R&B/Hip-Hop Songs|US R&B/HH]]<br /><ref>{{cite web|title=Originoo Gunn Clappaz Chart History (Hot R&B/Hip-Hop Songs)|url=https://www.billboard.com/music/originoo-gunn-clappaz/chart-history/BSI|access-date=September 13, 2020|website=[[Billboard (magazine)|Billboard]]}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Hot Rap Songs|US Rap]]<br /><ref>{{cite web|title=Originoo Gunn Clappaz Chart History (Hot Rap Songs)|url=https://www.billboard.com/music/originoo-gunn-clappaz/chart-history/RAP|access-date=September 13, 2020|website=[[Billboard (magazine)|Billboard]]}}</ref>
+|-
+! scope="row" |"Blah"/"Leflah"<br />{{Small|(with [[Heltah Skeltah]], as [[The Fab 5]])}}
+|1995
+| — || —
+|—
+|—
+|—
+|[[Nocturnal (Heltah Skeltah album)|''Nocturnal'']]
+|-
+! scope="row" |"No Fear"
+| 1996
+| 40 || 11
+|15
+|63
+|13
+| rowspan="2" |''Da Storm''
+|-
+! scope="row" |"Hurricane Starang"
+|1997
+| — || —
+|—
+|—
+|—
+|-
+! scope="row" |"Bounce to the Ounce"
+|1999
+| 30 || —
+|—
+|94
+| 16 | 11
+| rowspan="2" |''The M-Pire Shrikez Back''
+|-
+! scope="row" | "Shoot to Kill"/"Girlz Ninety Now"
+|1999
+|—
+|—
+|—
+|—
+|—
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.duckdown.com/ Duckdown Records]
+
+{{O.G.C.}}
+{{Boot Camp Clik}}
+
+{{Authority control}}
+
+[[Category:Five percenters]]
+[[Category:American musical trios]]
+[[Category:Boot Camp Clik members]]
+[[Category:Hardcore hip hop groups]]
+[[Category:Musical groups from Brooklyn]]
+[[Category:African-American musical groups]]
+[[Category:Hip hop groups from New York City]]
+[[Category:People from Brownsville, Brooklyn]]
+
+
+{{US-hip-hop-bio-stub}}

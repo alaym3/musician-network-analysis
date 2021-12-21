@@ -1,0 +1,53 @@
+{{short description|Indonesian musical tempo used in Gamelan}}
+{{about||the Italian singer|Irama (singer)|the indonesian musician|Rhoma Irama}}
+[[Image:Saron panerus irama.png|thumb|400px|Number of ''saron panerus'' notes per ''saron'' note in each ''irama''.<ref>Lindsay, Jennifer (1992). ''Javanese Gamelan'', p.54. {{ISBN|0-19-588582-1}}.</ref>]]
+'''''Irama''''' is the term used for [[tempo]] in [[Music of Indonesia|Indonesian]] [[gamelan]] in [[Java]] and [[Bali]]. It can be used with elaborating instruments. It is a concept used in [[Java]]nese gamelan music,<ref name=Peeters>{{cite web | url=http://recherche.ircam.fr/anasyn/peeters/GAMELAN/index.html | title=The Javanese Gamelan | work=The Javanese Gamelan | access-date=December 5, 2011 | author=Peeters, Geoffroy}}</ref> describing [[melody|melodic]] tempo and relationships in density between the [[balungan]], [[elaborating instrument]]s, and [[colotomy|gong structure]].<ref>Spiller, 2004.</ref> It is distinct from tempo ([[Javanese language|Javanese:]] ''Laya''), as each ''Irama'' can be played in different tempi.<ref name="Sumarsam">{{cite web | url=http://www.gamelan.to/pangkur_one/pangkur_oneBOOKLET.html | title=Gamelan of Central Java | publisher=Yantra Productions (gamelan.to) | work=Gamelan of Central Java – XII. PANGKUR ONE | year=2008 | access-date=December 5, 2011 | author=Sumarsam}}</ref><ref name="Jordan">{{cite web | url=http://homepages.cae.wisc.edu/~jjordan/gamelan/glossary.html | title=Javanese Gamelan | work=Javanese Gamelan: Glossary | date=May 25, 2002 | access-date=December 5, 2011 | author=Jordan, Bern | archive-url=https://web.archive.org/web/20120212201853/http://homepages.cae.wisc.edu/~jjordan/gamelan/glossary.html | archive-date=February 12, 2012 | url-status=dead }}</ref> ''Irama'' thus combines "the rate of temporal flow and temporal density"; and the temporal density is the primary factor.<ref>Sumarsan, 1996. page 156</ref>
+
+One way to think of ''Irama'' is to use the most consistently struck instrument in the gamelan, the ''[[saron panerus]]'' (or ''peking''). In some pieces, it plays once per note in the ''balungan'' (such as played by the ''[[saron barung]]''). In others, it may play twice as often, or four times, as the notes of the ''balungan'' are more spread out. This corresponds to a slower ''Irama''. In most cases, the more spread out the ''balungan'' is, the longer it takes to reach a ''[[gong ageng]]''.<ref name="Nyai Saraswati">{{cite web | url=http://www.ibiblio.org/gamelan/education/index.php?topic=peking&view=education | title=Gamelan Nyai Saraswati | publisher=University of North Carolina | work=Introduction to the Peking | access-date=December 5, 2011 | author=Guberman, Daniel}}</ref>
+
+There are five ''Irama'':<ref name=Peeters />
+
+{| class="wikitable"
+|- valign=bottom
+! ''Irama'' number
+! ''Irama'' name
+! ''Saron panerus'' beats per ''balungan'' note
+|-
+| 1/2 || ''Irama lancar'' || 1  
+|-
+| I || ''Irama tanggung'' || 2 
+|-
+| II || ''Irama dados'' (or ''dadi'') || 4
+|-
+| III || ''Irama wilet'' || 8
+|-
+| IV || ''Irama rangkep'' || 16
+|}
+
+In slower ''Irama'', there is more space to be filled, and typically elaborating instruments become more important.
+
+Each ''Irama'' can be played in three ''Laya'' ("tempi"): 
+* ''Seseg'' ("fast"), 
+* ''Sedeng'' ("medium") 
+* ''Tamban'' ("slow"). 
+Frequently, a change of ''Laya'' signals a new section.
+
+==See also==
+{{Portal|Music|Indonesia}}
+* [[Gamelan]]
+* [[Gamelan notation]]
+* [[Music of Indonesia]]
+* [[Music of Java]]
+
+==Bibliography==
+
+* Spiller, Henry. ''Gamelan: the traditional sounds of Indonesia''. ABC-Clio, 2004. {{ISBN|978-1-85109-506-3}}
+* Sumarsan. ''Gamelan: cultural interaction and musical development in central Java''. University of Chicago Press, 2nd Edition, 1996. {{ISBN|978-0-226-78011-5}}
+
+==References==
+{{reflist}}
+
+{{Gamelan}}
+
+[[Category:Gamelan theory]]
+[[Category:Rhythm and meter]]

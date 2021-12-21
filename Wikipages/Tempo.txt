@@ -1,0 +1,301 @@
+{{short description|Musical concept indicating to the speed of interpretation}}
+{{other uses}}
+{{redirect|Beats per minute|the rate of heartbeating|Heart rate|the online publication|Beats Per Minute (website)|the French drama film|BPM (Beats per Minute)}}
+{{More citations needed|date=March 2012}}
+
+In [[musical terminology]], '''tempo''' ([[Italian language|Italian]] for "time"; plural ''tempos'', or ''tempi'' from the Italian plural) is the speed or pace of a given [[musical composition|piece]]. In classical music, tempo is typically indicated with an instruction at the start of a piece (often using conventional Italian terms) and is usually measured in [[beat (music)|beats]] per [[minute]] (or bpm). In modern classical compositions, a "[[metronome]] mark" in beats per minute may supplement or replace the normal tempo marking, while in modern genres like [[electronic dance music]], tempo will typically simply be stated in bpm.
+
+Tempo may be separated from [[articulation (music)|articulation]] and [[meter (music)|meter]], or these aspects may be indicated along with tempo, all contributing to the overall [[texture (music)|texture]]. While the ability to hold a steady tempo is a vital skill for a musical performer, tempo is changeable. Depending on the genre of a piece of music and the performers' interpretation, a piece may be played with slight [[tempo rubato]] or drastic variances. In ensembles, the tempo is often indicated by a [[conducting|conductor]] or by one of the instrumentalists, for instance the [[drummer]].
+
+==Measurement ==
+[[File:Electronic-metronome(scale).jpg|upright|thumb|A Wittner electronic metronome]]
+{{Listen
+|filename=120BPMclicktrack.ogg
+|title=A 120 BPM click track
+|description=
+|pos=right
+|format=[[Ogg]]}}
+
+While tempo is described or indicated in many different ways, including with a range of words (e.g., "Slowly", "Adagio" and so on), it is typically measured in beats per minute (bpm or BPM). For example, a tempo of 60 beats per minute signifies one beat per second, while a tempo of 120 beats per minute is twice as rapid, signifying one beat every 0.5 seconds. The [[note value]] of a beat will typically be that indicated by the denominator of the [[time signature]]. For instance, in {{music|time|4|4}} the beat will be a [[crotchet]], or ''quarter note''.
+
+This measurement and indication of tempo became increasingly popular during the first half of the 19th century, after [[Johann Nepomuk Maelzel]] invented the [[metronome]]. [[Beethoven]] was one of the first composers to use the metronome; in the 1810s he published metronomic indications for the eight symphonies he had composed up to that time.<ref><!-- Is this really relevant to THIS article? -->Some of these markings are today contentious, such as those on his [[Piano Sonata No. 29 (Beethoven)|"Hammerklavier" Sonata]] and [[Symphony No. 9 (Beethoven)|Ninth Symphony]], seeming to many to be almost impossibly fast, as is also the case for many of the works of [[Robert Schumann|Schumann]].  See "metronome" entry in Apel (1969), p. 523.</ref>
+
+Instead of beats per minute, some 20th-century classical composers (e.g., [[Béla Bartók]], [[Alberto Ginastera]], and [[John Cage]]) specify the total playing time for a piece, from which the performer can derive tempo.{{citation needed|date=January 2015}}
+
+With the advent of modern electronics, bpm became an extremely precise measure. [[Music sequencer]]s use the bpm system to denote tempo.<ref>{{cite web |last1=Hans |first1=Zimmer |title=Music 101: What Is Tempo? How Is Tempo Used in Music? |url=https://www.masterclass.com/articles/music-101-what-is-tempo-how-is-tempo-used-in-music#what-are-the-basic-tempo-markings |website=Masterclass |publisher=Masterclass |access-date=22 January 2020}}</ref>  In popular music genres such as [[electronic dance music]], accurate knowledge of a tune's bpm is important to [[disc jockey|DJs]] for the purposes of [[beatmatching]].<ref>{{Cite web|last=Velankar|first=Makarland|date=2014|title=A Pilot Study of Automatic Tempo Measurement in Rhythmic Music|url=https://www.researchgate.net/publication/264212770}}</ref>
+
+The speed of a piece of music can also be gauged according to measures per minute (mpm) or bars per minute (bpm), the number of [[bar (music)|measure]]s of the piece performed in one minute. This measure is commonly used in [[ballroom dance]] music.<ref>{{Citation
+| date     = 2018-01-01
+| title    = WDSF Competition Rules
+| chapter  = E. Rules for Competitions (Couples). Rule E.3 (Music)
+| type    = WDSF Rules & Regulations
+| publisher = [[World DanceSport Federation]]
+| language = en
+| page  = 19
+| chapter-url = http://www.worlddancesport.org/Document/9032164613/WDSF_Competition_Rules.pdf
+| access-date  = 2018-01-20
+| quote      = 3.2 The tempi for each dance shall be: Waltz 28‒30 bars/min, Tango 31‒33 bars/min, Viennese Waltz 58‒60 bars/min, Slow Foxtrot 28‒30 bars/min, Quickstep 50‒52 bars/min; Samba 50‒52 bars/min, Cha-Cha-Cha 30‒32 bars/min, Rumba 25‒27 bars/min, Paso Doble 60‒62 bars/min, Jive 42‒44 bars/min.
+}}</ref>
+
+==Choosing speed==
+In different musical contexts, different instrumental musicians, singers, [[conducting|conductors]], [[bandleader]]s, music directors or other individuals will  select the tempo of a song or piece. In a [[popular music]] or [[traditional music]] group or band, the bandleader or [[drummer]] may select the tempo. In popular and traditional music, whoever is setting the tempo often counts out one or two bars in tempo. In some songs or pieces in which a singer or solo instrumentalist begins the work with a solo introduction (prior to the start of the full group), the tempo they set will provide the tempo for the group. In an orchestra or concert band, the conductor normally sets the tempo. In a marching band, the drum major may set the tempo. In a [[sound recording]], in some cases a [[record producer]] may set the tempo for a song (although this would be less likely with an experienced bandleader).
+
+==Musical vocabulary==
+{{See also|Glossary of musical terminology}}
+In [[classical music]] it is customary to describe the tempo of a piece by one or more words, most commonly in [[Italian language|Italian]], in addition to or instead of a metronome mark in beats per minute. Italian is typically used because it was the language of most composers during the time these descriptions became commonplace.<ref>Randel, D., ed., ''The New Harvard Dictionary of Music'', Harvard University Press, 1986, ''Tempo''</ref> Some well-known Italian tempo indications include "Allegro" (English “Cheerful”), "Andante" (“Walking-pace”) and "Presto" (“Quickly”). This practice developed during the 17th and 18th centuries, the [[baroque music|baroque]] and [[classical music period|classical]] periods. In the earlier [[Renaissance music]], performers understood most music to flow at a tempo defined by the [[Pulse (music)|tactus]] (roughly the rate of the human heartbeat).<ref name=Haar>{{cite book|last=Haar|first=James|title=The Science and Art of Renaissance Music|date=14 July 2014|publisher=Princeton University Press|isbn=978-1-40-086471-3|page=408|url=https://books.google.com/books?id=0lMABAAAQBAJ}}</ref> The [[mensural]] [[time signature]] indicated which note value corresponded to the tactus.
+
+In the Baroque period, pieces would typically be given an indication, which might be a tempo marking (e.g. ''Allegro''), or the name of a dance (e.g. ''Allemande'' or ''Sarabande''), the latter being an indication both of tempo and of metre. Any musician of the time was expected to know how to interpret these markings based on custom and experience. In some cases, however, these markings were simply omitted. For example, the first movement of [[Johann Sebastian Bach|Bach]]'s [[Brandenburg concertos#Brandenburg Concerto No. 3 in G major, BWV 1048|Brandenburg Concerto No. 3]] has no tempo or mood indication whatsoever. Despite the increasing number of explicit tempo markings, musicians still observe conventions, expecting a [[minuet]] to be at a fairly stately tempo, slower than a [[Viennese waltz]]; a [[perpetuum mobile]] quite fast, and so on. Genres imply tempos. Thus, [[Ludwig van Beethoven]] wrote "In tempo d'un Menuetto" over the first movement of his Piano Sonata Op. 54, though that movement is not a minuet.
+
+Many tempo markings also indicate mood and expression. For example, ''presto'' and ''allegro'' both indicate a speedy execution (''presto'' being faster), but ''allegro'' also connotes joy (from its original meaning in Italian). ''Presto'', on the other hand, simply indicates speed. Additional Italian words also indicate tempo and mood. For example, the "agitato" in the ''Allegro agitato'' of the last movement of [[George Gershwin]]'s [[Concerto in F (Gershwin)|piano concerto in F]] has both a tempo indication (undoubtedly faster than a usual ''Allegro'') and a mood indication ("agitated").
+
+Often, composers (or [[Music publisher (popular music)|music publishers]]) name [[movement (music)|movements]] of compositions after their tempo (or mood) marking. For instance, the second movement of [[Samuel Barber]]'s first [[String Quartet (Barber)|String Quartet]] is an ''Adagio''.<ref name=Heyman>{{cite book|last=Heyman|first=Barbara B.|title=Samuel Barber: the composer and his music|publisher=Oxford University Press|isbn=0-19-509058-6|page=158|url=https://books.google.com/books?id=u6QGtHHtr6MC&q=second+movement+Samuel+Barber%27s+first+String+Quartet+is+an+Adagio.&pg=PA158|date=1994-05-12}}</ref>
+
+Often a particular [[musical form]] or [[Music genre|genre]] implies its own tempo, so composers need place no further explanation in the score.{{citation needed|date=January 2015}} [[Popular music]] charts use terms such as ''bossa nova'', ''ballad'', and ''Latin rock'' in much the same way.{{Original research inline|date=January 2015}} [[Lead sheet]]s and [[fake book]] music for jazz or popular music may use several terms, and may include a tempo term and a genre term, such as "slow blues", "medium shuffle" or "fast rock".
+
+{{anchor|Italian tempo markings}}
+
+===Basic tempo markings===
+Here follows a list of common tempo markings. The beats per minute (bpm) values are very rough approximations for {{music|time|4|4}} time.
+
+These terms have also been used inconsistently through time and in different geographical areas. One striking example is that ''Allegretto'' hastened as a tempo from the 18th to the 19th century: originally it was just above ''Andante'', instead of just below ''Allegro'' as it is now.<ref>For an extensive discussion of this point see Rosen (2002:48–95). Rosen suggests that many works marked "Allegretto" are nowadays played too quickly as a result of this confusion.  Rosen, Charles (2002). [https://books.google.com/books?id=ApUUpgMzEPsC&pg=PA48#v=twopage&q&f=false ''Beethoven's Piano Sonatas: A Short Companion''].  New Haven: Yale University Press.</ref> As another example, a modern ''largo'' is slower than an ''adagio'', but in the Baroque period it was faster.<ref>[http://www.dolmetsch.com/musictheory5.htm music theory online: tempo], Dolmetsch.com</ref>
+
+From slowest to fastest:
+
+* ''Larghissimo'' – very, very slow (24&nbsp;bpm and under)
+* ''Adagissimo'' – very slow (24-40&nbsp;bpm)
+* ''Grave'' – very slow (25–45&nbsp;bpm)
+* ''Largo'' – slow and broad (40–60&nbsp;bpm)
+* ''Lento'' – slow (45–60&nbsp;bpm)
+* ''Larghetto'' – rather slow and broad (60–66&nbsp;bpm)
+* ''Adagio'' – slow with great expression<ref>{{Cite book|url=https://books.google.com/books?id=pgQ6AAAAIAAJ|title=Elson's Pocket Music Dictionary: The Important Terms Used in Music with Pronunciation and Concise Definition, Together with the Elements of Notation and a Biographical List of Over Five Hundred Noted Names in Music|last=Elson|first=Louis Charles|date=1909|publisher=Oliver Ditson|language=en}}</ref> (66–76&nbsp;bpm)
+* ''Adagietto'' – slower than ''andante'' (72–76&nbsp;bpm) or slightly faster than ''adagio'' (70–80&nbsp;bpm)
+* ''Andante'' – at a walking pace (76–108&nbsp;bpm)
+* ''Andantino'' – slightly faster than ''andante'' (although, in some cases, it can be taken to mean slightly slower than ''andante'') (80–108&nbsp;bpm)
+* ''Marcia moderato'' – moderately, in the manner of a march<ref>{{cite journal|last=American Symphony Orchestra League|title=Journal of the Conductors' Guild, Vols. 18–19|journal=Journal of the Conductors' Guild|year=1998|publisher=The League|location=Viena|page=27|url=https://books.google.com/books?id=zGcIAQAAMAAJ&q=Marcia |issn=0734-1032}}</ref><ref>{{cite book|author1=William E. Caplin |author2=James Hepokoski |author3=James Webster |title=Musical Form, Forms & Formenlehre: Three Methodological Reflections|year=2010|publisher=Leuven University Press|isbn=978-905-867-822-5|page=80|url=https://books.google.com/books?id=YhAgAJDAK9sC&q=marcia+moderato&pg=PT80}}</ref> (83–85&nbsp;bpm)
+* ''Moderato'' – at a moderate speed (108–120&nbsp;bpm)
+* ''Andante moderato'' – between ''andante'' and ''moderato'' (thus the name) (92–112&nbsp;bpm)
+* ''Allegretto'' – by the mid-19th century, moderately fast (112–120&nbsp;bpm); see paragraph above for earlier usage
+* ''Allegro moderato'' – close to, but not quite ''allegro'' (116–120&nbsp;bpm)
+* ''Allegro'' – fast, quick, and bright (120–156&nbsp;bpm) (''molto allegro'' is slightly faster than ''allegro'', but always in its range; 124-156&nbsp;bpm)
+* ''Vivace'' – lively and fast (156–176&nbsp;bpm)
+* ''Vivacissimo'' – very fast and lively (172–176&nbsp;bpm)
+* ''Allegrissimo'' or ''Allegro vivace'' – very fast (172–176&nbsp;bpm)
+* ''Presto'' – very, very fast (168–200&nbsp;bpm)
+* ''Prestissimo'' – even faster than ''presto'' (200&nbsp;bpm and over)
+
+{{anchor|Common qualifiers}}
+
+====Additional terms====
+* ''A piacere'' – the performer may use their own discretion with regard to tempo and rhythm; literally "at pleasure"<ref>Apel (1969), p. 42; for the literal translation see the online Italian–English dictionary at WordReference.com.</ref>
+* ''Accelerando''-gradually play faster 
+* ''Assai'' – (very) much
+* ''A tempo'' – resume previous tempo
+* ''Con grazia'' – with grace, or gracefully<ref>{{cite dictionary |url=https://www.merriam-webster.com/dictionary/con%20grazia |title=Con grazia |dictionary=Merriam-Webster |access-date=8 October 2021 |url-status=live}}</ref>
+* ''Con moto'' – Italian for "with movement"; can be combined with a tempo indication, e.g., ''Andante con moto''
+* ''Lamentoso'' – sadly, plaintively<ref>{{cite dictionary |url=https://www.merriam-webster.com/dictionary/lamentoso |title=Lamentoso |dictionary=Merriam-Webster |access-date=8 October 2021 |url-status=live}}</ref>
+* ''L'istesso'', ''L'istesso tempo'', or ''Lo stesso tempo'' – at the same speed; ''L'istesso'' is used when the actual speed of the music has not changed, despite apparent signals to the contrary, such as changes in time signature or note length (half notes in {{music|time|4|4}} could change to whole notes in {{music|time|2|2}}, and they would all have the same duration)<ref>"Istesso tempo" entry in Sadie (2001).</ref><ref>For a modern example of ''L'istesso'', see measures 4 and 130 of ''Star Wars: Main Title'', Williams (1997), pp. 3 and 30.</ref>
+* ''Ma non tanto'' – but not so much; used in the same way and has the same effect as ''Ma non troppo'' (see immediately below) but to a lesser degree
+* ''Ma non troppo'' – but not too much; used to modify a basic tempo to indicate that the basic tempo should be reined in to a degree; for example, ''Adagio ma non troppo'' to mean ″Slow, but not too much″, ''Allegro ma non troppo'' to mean ″Fast, but not too much″
+* ''Maestoso'' – majestically, stately<ref>{{cite dictionary |url=https://www.merriam-webster.com/dictionary/maestoso |title=Maestoso |dictionary=Merriam-Webster |access-date=8 October 2021 |url-status=live}}</ref>
+* ''Molto'' – very
+* ''meno'' - Less 
+* ''Più'' - more
+* ''Poco'' – a little
+* ''Subito'' – suddenly
+* ''Tempo comodo'' – at a comfortable speed
+* ''Tempo di...'' – the speed of a ... (such as ''Tempo di valzer'' (speed of a waltz, {{music|dottedquarter}}&nbsp;≈&nbsp;60&nbsp;bpm or {{music|quarter}}≈&nbsp;126&nbsp;bpm), ''Tempo di marcia'' (speed of a [[March (music)|march]], {{music|quarter}}&nbsp;≈&nbsp;120&nbsp;bpm))
+* ''[[Tempo giusto]]'' – at a consistent speed, at the 'right' speed, in strict tempo
+* ''Tempo primo'' – resume the original (first) tempo
+* ''Tempo semplice'' – simple, regular speed, plainly
+
+====French tempo markings====
+Several composers have written markings in French, among them baroque composers [[François Couperin]] and [[Jean-Philippe Rameau]] as well as [[Claude Debussy]], [[Olivier Messiaen]], [[Maurice Ravel]] and [[Alexander Scriabin]]. Common tempo markings in [[French (language)|French]] are:
+
+* ''Au mouvement'' – play the (first or main) tempo.
+* ''Grave'' – slowly and solemnly
+* ''Lent'' – slowly
+* ''Moins'' – less, as in ''Moins vite'' (less fast)
+* ''Modéré'' – at a moderate tempo
+* ''Vif'' – lively
+* ''Très'' – very, as in ''Très vif'' (very lively)
+* ''Vite'' – fast
+* ''Rapide'' – rapidly
+
+[[Erik Satie]] was known to write extensive tempo (and character) markings by defining them in a poetical and literal way, as in his Gnossiennes.<ref>[http://imslp.org/wiki/Special:ImagefromIndex/03007 Gnossiennes music sheet], IMSLP Music Library</ref>
+
+====German tempo markings====
+Many composers have used [[German (language)|German]] tempo markings. Typical German tempo markings are:
+
+* ''Kräftig'' – vigorous or powerful
+* ''Langsam'' – slowly
+* ''Lebhaft'' – lively (mood)
+* ''Mäßig'' – moderately
+* ''Rasch'' – quickly
+* ''Schnell'' – fast
+* ''Bewegt'' – animated, with motion<ref>Apel (1969), p. 92.</ref>
+One of the first German composers to use tempo markings in his native language was [[Ludwig van Beethoven]], but only sparsely. [[Robert Schumann]] followed afterwards with increasingly specific markings, and later composers like [[Hindemith]] and [[Mahler]] would further elaborate on combined tempo and mood instructions in German. For example, the second [[Movement (music)|movement]] of Mahler's [[Symphony No. 9 (Mahler)|Symphony No. 9]] is marked ''Im Tempo eines gemächlichen Ländlers, etwas täppisch und sehr derb'', indicating a slowish folk-dance-like movement, with some awkwardness and much vulgarity in the execution. Mahler would also sometimes combine German tempo markings with traditional Italian markings, as in the first movement of his [[Symphony No. 6 (Mahler)|sixth symphony]], marked ''Allegro energico, ma non troppo. Heftig, aber markig'' (Energetically quick, but not too much. Violent, but vigorous<ref>Italian translation, WordReference.com; German, Apel (1969).</ref>).
+
+====English tempo markings====
+[[English (language)|English]] indications, for example ''quickly'', have also been used, by [[Benjamin Britten]] and [[Percy Grainger]], among many others. In [[jazz]] and [[popular music]] [[lead sheet]]s and [[fake book]] charts, terms like "fast", "laid back", "steady rock", "medium", "medium-up", "ballad", "brisk", "brightly" "up", "slowly", and similar style indications may appear. In some lead sheets and fake books, both tempo and genre are indicated, e.g., "slow blues", "fast swing", or "medium Latin". The genre indications help [[rhythm section]] instrumentalists use the correct style. For example, if a song says "medium shuffle", the drummer plays a [[Shuffle note|shuffle]] drum pattern; if it says "fast boogie-woogie", the piano player plays a [[boogie-woogie]] bassline.
+
+"Show tempo", a term used since the early days of [[Vaudeville]], describes the traditionally brisk tempo (usually 160–170 bpm) of opening songs in [[revue|stage revues]] and musicals.
+
+Humourist [[Tom Lehrer]] uses facetious English tempo markings in his anthology ''Too Many Songs by Tom Lehrer''. For example, "National Brotherhood Week" is to be played "fraternally"; "We Will All Go Together" is marked "eschatologically"; and "Masochism Tango" has the tempo "painstakingly". His English contemporaries [[Flanders and Swann]] have similarly marked scores, with the music  for their song "The Whale (Moby Dick)" shown as "oceanlike and vast".
+
+==Variation through a piece==
+
+Tempo is not necessarily fixed. Within a piece (or within a movement of a longer work), a composer may indicate a complete change of tempo, often by using a [[double bar]] and introducing a new tempo indication, often with a new [[time signature]] and/or [[key signature]].
+
+It is also possible to indicate a more or less gradual change in tempo, for instance with an ''accelerando'' (speeding up) or ''ritardando'' (''rit''., slowing down) marking. Indeed, some compositions chiefly comprise ''accelerando'' passages, for instance [[Csárdás (Monti)|Monti's ''Csárdás'']], or the Russian Civil War song [[Echelon Song]].
+
+On the smaller scale, [[tempo rubato]] refers to changes in tempo within a [[musical phrase]], often described as some notes 'borrowing' time from others.
+
+===Terms for change in tempo===
+
+<!-- This section is linked from [[Ritardando]] -->
+Composers may use expressive marks to adjust the tempo:
+
+* ''Accelerando'' – speeding up (abbreviation: ''accel.'') Opposite of Ritardando, it is  an Italian term pronounced as [aht-che-le-rahn-daw] and is defined by gradually increasing the tempo until the next tempo mark is noted. It is either marked by a dashed line or simply its abbreviation.
+* ''Affrettando'' – speeding up with a suggestion of anxiety<ref>{{cite encyclopedia |year=1930 |title=Affretando |encyclopedia=[[Encyclopaedia Britannica]] |edition=14|volume=1|page=282 |language=en}}</ref>
+* ''Allargando'' – growing broader; decreasing tempo, usually near the end of a piece
+* ''Calando'' – going slower (and usually also softer)
+* ''Doppio movimento'' / ''doppio più mosso'' – double-speed
+* ''Doppio più lento'' – half-speed
+* ''Lentando'' – gradually slowing, and softer
+* ''Meno mosso'' – less movement; slower
+* ''Meno moto'' – less motion
+* ''Più mosso'' – more movement; faster
+* ''Mosso'' – movement, more lively; quicker, much like ''più mosso'', but not as extreme
+* ''Precipitando'' – hurrying; going faster/forward
+* ''Rallentando'' – a gradual slowing down (abbreviation: ''rall.'')
+* ''Ritardando'' – slowing down gradually; also see rallentando and ritenuto (abbreviations: ''rit.'', ''ritard.'') sometimes replaces allargando.
+* ''Ritenuto'' – slightly slower, but achieved more immediately than ''rallentando or'' ''ritardando''; a sudden decrease in tempo; temporarily holding back.<ref>"Ritenuto" entry in Sadie (2001).</ref> (Note that the abbreviation for ''ritenuto'' can also be ''rit.'' Thus a more specific abbreviation is ''riten.'' Also, sometimes ''ritenuto'' does not reflect a tempo change but rather a 'character' change.)
+* ''[[Rubato]]'' – free adjustment of tempo for expressive purposes, literally "stolen"—so more strictly, to take time from one beat to slow another
+* ''Slargando'' – gradually slowing down, literally "slowing down", "widening" or "stretching"
+* ''[[Stretto]]'' – in a faster tempo, often used near the conclusion of a section. (Note that in [[fugue|fugal]] compositions, the term ''stretto'' refers to the imitation of the subject in close succession, before the subject is completed, and as such, suitable for the close of the fugue.<ref>Apel (1969), p. 809.</ref> Used in this context, the term is not necessarily related to tempo.)
+* ''Stringendo'' – pressing on faster, literally "tightening"
+* ''Tardando'' – slowing down gradually (same as ''ritardando'')<ref>{{Cite Grove |last=Fallows |first=David |title=Ritardando}}</ref>
+*''Tempo Primo'' – resume the original tempo<ref>{{Cite web|url=https://theonlinemetronome.com/metronome-tempo-markings-defined.html|title=Tempo Markings – Common Tempos in Italian, German, and French|website=theonlinemetronome.com|language=en|access-date=2019-08-16}}</ref>
+
+While the base tempo indication (such as ''Allegro'') typically appears in large type above the [[Staff (music)|staff]], adjustments typically appear below the staff or, in the case of keyboard instruments, in the middle of the grand staff.
+
+They generally designate a ''gradual'' change in tempo; for immediate tempo shifts, composers normally just provide the designation for the new tempo. (Note, however, that when ''Più mosso'' or ''Meno mosso'' appears in large type above the staff, it functions as a new tempo, and thus implies an immediate change.) Several terms, e.g., ''assai'', ''molto'', ''poco'', ''subito'', control how large and how gradual a change should be (see [[#Common qualifiers|common qualifiers]]).
+
+After a tempo change, a composer may return to a previous tempo in two ways:
+
+* ''a tempo'' – returns to the base tempo after an adjustment (e.g. ''ritardando ... a tempo'' undoes the effect of the ritardando).
+* ''Tempo primo'' or ''Tempo I<sup>o</sup>'' – denotes an immediate return to the piece's original base tempo after a section in a different tempo (e.g. ''Allegro ... Lento ... Moderato ... Tempo I<sup>o</sup>'' indicates a return to the ''Allegro''). This indication often functions as a structural marker in pieces in [[binary form]].
+
+These terms also indicate an immediate, not a gradual, tempo change. Although they are Italian, composers tend to employ them even if they have written their initial tempo marking in another language.
+
+===Tempo–rhythm interaction===
+
+One difficulty in defining tempo is the dependence of its perception on rhythm, and, conversely, the dependence of rhythm perception on tempo. Furthermore, the tempo-rhythm interaction is context dependent, as explained by [[Andranik Tangian]]<ref name="Tanguiane1993">{{Cite book|last=Tanguiane (Tangian) |first=Andranick |date=1993|title= Artificial Perception and Music Recognition|series= Lecture Notes in Artificial Intelligence|volume=746|publisher=Springer |location=Berlin-Heidelberg|isbn=978-3-540-57394-4}}</ref><ref name="Tangian1994">{{Cite journal |last=Tanguiane (Tangian)|first=Andranick  |year=1994|title= A principle of correlativity of perception and its application to music recognition|journal=  Music Perception|volume=11 |issue=4 |pages=465–502|doi= 10.2307/40285634 |jstor=40285634 }}</ref> using an example of the leading rhythm of ″Promenade″ from [[Modest Mussorgsky]]'s ''[[Pictures at an Exhibition]]'':
+{{box|type=transparent|spacing=1em|border size=0em|{{music|quarter}} {{music|quarter}} {{music|quarter}}}}{{box|type=transparent|spacing=0.2em|border size=0em|{{music|quaver}} {{music|quaver}} {{music|quaver}}}}  
+This rhythm is perceived as it is rather than as the first three events repeated at a double tempo (denoted as '''R012''' = repeat from 0, one time, twice faster):
+{{box|type=transparent|spacing=1em|border size=0em|{{music|quarter}} {{music|quarter}} {{music|quarter}}}}{{box|type=transparent|spacing=0em|border size=0em|'''R012'''}}  
+However, the motive with this rhythm in the Mussorgsky's piece  
+{{box|type=transparent|spacing=1em|border size=0em| <sup>{{music|quarter}} <sup>{{music|quarter}}</sup></sup> <sub>{{music|quarter}}</sub>}}{{box|type=transparent|spacing=0.2em|border size=0em|<sup>{{music|quaver}} <sup>{{music|quaver}}</sup></sup> <sub>{{music|quaver}}</sub> }}
+is rather perceived as a repeat 
+{{box|type=transparent|spacing=1em|border size=0em| <sup>{{music|quarter}} <sup>{{music|quarter}}</sup></sup> <sub>{{music|quarter}}</sub>}}{{box|type=transparent|spacing=0em|border size=0em|'''R012'''}}  
+This context-dependent perception of tempo and rhythm is explained by the [[principle of correlative perception]], according to which data are perceived in the simplest way. From the viewpoint of [[Kolmogorov]]'s complexity theory, this means such a representation of the data that minimizes the amount of memory.
+
+The example considered suggests two alternative representations of the same rhythm: as it is, and as the rhythm-tempo interaction — a two-level representation in terms of a generative rhythmic pattern and a “tempo curve”. Table 1 displays these possibilities both with and without pitch, assuming that one duration requires one byte of information, one byte is needed for the pitch of one tone, and invoking the repeat algorithm with its parameters '''R012''' takes four bytes. As shown in the bottom row of the table, the rhythm without pitch requires fewer bytes if it is “perceived” as it is, without repetitions and tempo leaps. On the contrary, its melodic version requires fewer bytes if the rhythm is “perceived” as being repeated at a double tempo.
+{| class="wikitable" width="auto" style="text-align:left;"
+|+ Table: Complexity of representation of time events
+|-
+|!style="text-align:left;" | 
+!colspan="2"| Rhythm only 
+||
+!colspan="2"| Rhythm with pitch
+|-
+|
+!Complete coding
+!Coding as repeat
+|| 
+!Complete coding
+!Coding as repeat
+|-
+|
+!{{box|type=transparent|spacing=1em|border size=0em|{{music|quarter}} {{music|quarter}} {{music|quarter}}}}{{box|type=transparent|spacing=0.2em|border size=0em|{{music|quaver}} {{music|quaver}} {{music|quaver}}}}  
+!{{box|type=transparent|spacing=1em|border size=0em|{{music|quarter}} {{music|quarter}} {{music|quarter}}}} R012 
+||
+!{{box|type=transparent|spacing=1em|border size=0em| <sup>{{music|quarter}} <sup>{{music|quarter}}</sup></sup> <sub>{{music|quarter}}</sub>}} {{box|type=transparent|spacing=0.2em|border size=0em|<sup>{{music|quaver}} <sup>{{music|quaver}}</sup></sup> <sub>{{music|quaver}}</sub> }}
+!{{box|type=transparent|spacing=1em|border size=0em|  <sup>{{music|quarter}} <sup>{{music|quarter}}</sup></sup> <sub>{{music|quarter}}</sub>}} R012
+|-
+! style="text-align:left;" |Complexity of rhythmic pattern
+||6 bytes||3 bytes|| ||12 bytes ||6 bytes
+|-
+! style="text-align:left;" |Complexity of its transformation
+||0 bytes||4 bytes|| ||0 bytes ||4 bytes
+|-
+! style="text-align:left;" |Total complexity 
+|| 6 bytes||7 bytes|| || 12 bytes ||10 bytes								
+|}
+Thus, the loop of interdependence of rhythm and tempo is overcome due to the simplicity criterion, which "optimally" distributes the complexity of perception between rhythm and tempo. In the above example, the repetition is recognized because of additional repetition of the melodic contour, which  results in a certain redundancy of the musical structure, making the recognition of the rhythmic pattern "robust" under tempo deviations. Generally speaking, the more redundant the "musical support" of a rhythmic pattern, the better its recognizability under augmentations and diminutions, that is, its distortions are perceived as tempo variations rather than rhythmic changes:
+
+{{quote|By taking into account melodic context, homogeneity of accompaniment, harmonic pulsation, and other cues, the range of admissible tempo  deviations can be extended further, yet still not preventing musically normal perception. For example, [[Alexander Scriabin|Scriabin]]'s own performance of his ''Poem'' op. 32 no. 1 transcribed from a piano-roll recording contains tempo deviations within {{music|dottedquarter}} {{=}} 19/119, a span of 5.5 times (Skrjabin 1960).<ref name="Skrjabin1960">{{Cite book|last=Skrjabin |first=Alexander |date=1960|title= Poem for piano, op. 32 no. 1. Transcribed by P. Lobanov |location=Moscow|publisher= Gosudarstvennoye Muzykalnoye Izdatelstvo}}</ref> Such tempo deviations are strictly prohibited, for example, in Bulgarian or Turkish music based on so-called additive rhythms with complex duration ratios, which can also be explained by the principle of correlativity of perception. If a rhythm is not structurally redundant, then even minor tempo deviations are not perceived as ''accelerando'' or ''ritardando'' but rather given an impression of a change in rhythm, which implies an inadequate perception of musical meaning. 
+|[[Andranik Tangian]] (1994) "A principle of correlativity of perception and its application to music recognition”. ''Music Perception''. '''11'''(4), p. 480|source=}}
+
+==Modern classical music==
+
+[[20th-century classical music]] introduced a wide range of approaches to tempo, particularly thanks to the influence of [[Modernism (music)|modernism]] and later [[Postmodern music|postmodernism]].
+
+While many composers have retained traditional tempo markings, sometimes requiring greater precision than in any preceding period, others have begun to question basic assumptions of the classical tradition like the idea of a consistent, unified, repeatable tempo. [[Graphic notation (music)|Graphic scores]] show tempo and rhythm in a variety of ways. [[Polytempo|Polytemporal compositions]] deliberately utilise performers playing at marginally different speeds. [[John Cage]]'s compositions approach tempo in diverse ways. For instance ''[[4′33″]]'' has a defined duration, but no actual notes, while [[As Slow as Possible]] has defined proportions but no defined duration, with one performance intended to last 639 years.
+
+==Electronic music==
+=== Extreme tempo ===
+More extreme tempos are achievable at the same underlying tempo with very fast drum patterns, often expressed as [[drum rolls]]. Such compositions often exhibit a much slower underlying tempo, but may increase the tempo by adding additional percussive beats. [[Extreme metal]] subgenres such as [[speedcore]] and [[grindcore]] often strive to reach unusually fast tempo. The use of extreme tempo was very common in the fast [[bebop]] [[jazz]] from the 1940s and 1950s. A common jazz tune such as "[[Cherokee (Ray Noble song)|Cherokee]]" was often performed at quarter note equal to or sometimes exceeding 368&nbsp;bpm. Some of [[Charlie Parker]]'s famous tunes ("Bebop", "Shaw Nuff") have been performed at 380&nbsp;bpm plus.{{Citation needed|date=June 2013}}
+
+There is also a subgenre of speedcore known as [[Speedcore#Subgenres|Extratone]], which is defined by music with a BPM over 3,600, or sometimes 1,000 BPM or over.
+
+=== Beatmatching ===
+{{Main|Beatmatching}}
+In popular music genres such as [[disco]], [[house music]] and [[electronic dance music]], beatmatching is a technique that [[DJ]]s use that involves speeding up or slowing down a record (or CDJ player, a speed-adjustable CD player for DJ use) to match the tempo of a previous or subsequent track, so both can be seamlessly mixed. Having beatmatched two songs, the DJ can either seamlessly [[Fade (audio engineering)#Crossfading|crossfade]] from one song to another, or play both tracks simultaneously, creating a layered effect.
+
+DJs often beatmatch the underlying tempos of recordings, rather than their strict bpm value suggested by the kick drum, particularly when dealing with high tempo tracks. A 240&nbsp;bpm track, for example, matches the beat of a 120&nbsp;bpm track without slowing down or speeding up, because both have an underlying tempo of 120 quarter notes per minute. Thus, some soul music (around 75–90&nbsp;bpm) mixes well with a drum and bass beat (from 150–185&nbsp;bpm). When speeding up or slowing down a record on a turntable, the pitch and tempo of a track are linked: spinning a disc 10% faster makes both pitch and tempo 10% higher. Software processing to change the pitch without changing the tempo is called [[Audio timescale-pitch modification|pitch-shifting]]. The opposite operation, changing the tempo without changing the pitch, is called [[Audio timescale-pitch modification|time-stretching]].
+
+==See also==
+{{col div|colwidth=15em}}
+* [[A capriccio]]
+* [[Alla breve]]
+* [[As Slow as Possible]]
+* [[Bell pattern]]
+* [[Half-time (music)]]
+* [[Multitemporal music]]
+* [[Stop-time]]
+{{colend}}
+
+== Citations ==
+{{Reflist|30em}}
+
+== General sources ==
+'''Books on tempo in music:'''
+* {{Cite book |title= Shaping Time: Music, the Brain, and Performance |last= Epstein |first= David |year= 1995 |publisher= Schirmer Books |location= New York |isbn= 0-02-873320-7 }}
+* {{Cite book |title=The Tempo Indications of Mozart |last= Marty |first= Jean-Pierre |year= 1988 |publisher= [[Yale University Press]] |location= New Haven |isbn= 0-300-03852-6 }}
+* {{Cite book |title= Rhythm and Tempo: A Study in Music History |last= Sachs |first= Curt |author-link= Curt Sachs |year= 1953 |publisher= Norton |location= New York |oclc=391538}}
+* Snoman, Rick (2009). ''The Dance Music Manual: Tools, Toys, and Techniques&nbsp;– Second Edition''. Oxford, UK: Elsevier Press. {{ISBN|0-9748438-4-9}}.
+
+'''Music dictionaries:'''
+* Apel, Willi, ed., ''Harvard Dictionary of Music'', Second Edition, Revised and Enlarged. The Belknap Press of [[Harvard University Press]], Cambridge, Massachusetts, 1969. {{ISBN|978-0-674-37501-7}}
+* Sadie, Stanley; John Tyrrell, eds. (2001). ''The New Grove Dictionary of Music and Musicians'', 2nd edition. New York: Grove's Dictionaries. {{ISBN|1-56159-239-0}}.
+
+'''Examples of musical scores:'''
+* {{Cite book |title= Star Wars: Suite for Orchestra |last= Williams |first= John |year= 1997 |publisher= Hal Leonard Corp. |location= Milwaukee |isbn= 978-0-793-58208-2 }}
+
+==External links==
+* [http://www.music.vt.edu/musicdictionary/appendix/tempo/tempo1.html Tempo Terminology, Virginia Tech department of music]
+* [http://www.beatsperminuteonline.com/en/home/bpm-beats-per-minute-reference-for-dance-genres Tempo indications for social dances]
+* [http://www.grunin.com/eroica Tempo variation among and within 300+ recorded performances of Beethoven's 'Eroica' Symphony]
+* [http://www.dolmetsch.com/musictheory5.htm Dolmetsch article on tempo]
+* [http://www.beatsperminuteonline.com/ Calculate Beats Per Minute ]
+* [http://blog.zzounds.com/2017/05/12/beat-connection-understanding-musical-tempo/ Understanding Musical Tempo]
+
+{{Musical notation}}
+{{Musical terminology}}
+{{Rhythm and meter}}
+{{Authority control}}
+
+[[Category:Musical terminology]]
+[[Category:Rhythm and meter]]
+[[Category:Temporal rates]]

@@ -1,0 +1,93 @@
+{{short description|American folk band}}
+
+{{Infobox musical artist
+| name            = Caamp
+| origin          = [[Columbus, Ohio]], U.S.
+| genre           = [[Folk music|Folk]]
+| label           = [[Mom + Pop Music]]
+| website         = http://caamptheband.com/
+| current_members = *Evan Westfall
+*Taylor Meier
+*Matt Vinson 
+
+Joseph Kavalec
+}}
+
+'''Caamp''' (stylized as '''CAAMP''') is an American [[folk music|folk]] band from [[Athens, Ohio]]. To date, the group has released two albums and one [[Extended play|EP]].
+
+== History ==
+The band began as a project between childhood friends Taylor Meier and Evan Westfall, who met at a summer camp while they were middle school students.<ref name="thedailytexan">{{cite web |last1=McWhirter |first1=Christa |title=Folk band Caamp discusses changing industry, new music |url=https://www.dailytexanonline.com/2018/10/31/folk-band-caamp-discusses-changing-industry-new-music |publisher=[[The Daily Texan]] |accessdate=11 May 2019}}</ref><ref name="columbusdispatch">{{cite web |last1=Oller |first1=Julia |title=Local Limelight: Caamp |url=https://www.dispatch.com/content/stories/life_and_entertainment/2016/09/01/1-limelight-caamp.html |publisher=[[The Columbus Dispatch]] |accessdate=11 May 2019}}</ref><ref name="inckc">{{cite web |last1=Finn |first1=Timothy |title=Meet Caamp, a guitar/banjo duo getting much indie-folk love on Spotify |url=https://inkkc.com/articles/143970964/ |publisher=Ink |accessdate=11 May 2019}}</ref> Meier and Westfall graduated from [[Upper Arlington High School]] in 2012. In 2013 Taylor began playing in coffee shops around Athens while studying at [[Ohio University]]. They later added bass player Matt Vinson and Joseph Kavalec on the keyboards.
+
+To date, Caamp has released two albums. Their first album, self-titled, was released in 2016 on Square Roots Records. In 2018, Caamp released a six-song EP.<ref name="thedailyherald">{{cite web|url=https://www.columbiadailyherald.com/lifestyle/20180608/plugged-in-folk-duo-howls-at-moon-with-new-release|title=Plugged In: Folk duo howls at the moon with new release|last1=Christen|first1=Mike|publisher=[[Daily Herald (Columbia, Tennessee)|The Daily Herald]]|accessdate=11 May 2019}}</ref> Their second album, ''By and By'', was released in 2019 under [[Mom + Pop Music]]. "Peach Fuzz" is a single on the album.<ref name="columbusunderground">{{cite web |last1=Fleisher |first1=Grace |title=Setting Up CAAMP With Ohio's Own |url=https://www.columbusunderground.com/setting-up-caamp-with-ohios-own-gf1-2 |publisher=Columbus Underground |accessdate=11 May 2019}}</ref><ref name="inckc" />
+
+Caamp appeared as an act at the 2019 [[Mo Pop Festival]] in [[Detroit]].<ref>{{Cite web|url=https://www.billboard.com/articles/news/festivals/8501149/mo-pop-festival-lineup-2019-tame-impala-vampire-weekend-ella-mai-detroit|title=Tame Impala, Vampire Weekend & Ella Mai Set to Headline Detroit's Mo Pop Festival|website=Billboard|access-date=2019-08-14}}</ref> They also appeared at the 2019 [[Austin City Limits Music Festival]].<ref>{{Cite web|url=https://www.aclfestival.com/artist/caamp/|title=Caamp|website=ACL Music Festival|language=en-US|access-date=2019-08-14}}</ref>
+
+In August 2019, Caamp made their debut on the [[Billboard charts|''Billboard'' Emerging Artists chart.]] ''By and By'' debuted at #1 on the [[Heatseekers Albums]] chart.<ref>{{Cite web|url=https://www.billboard.com/charts/heatseekers-albums|title=Heatseekers Albums: Up and Coming Musicians Chart|website=Billboard|access-date=2019-08-14}}</ref><ref>{{Cite web|url=https://www.billboard.com/articles/columns/chart-beat/8526841/caamp-cuco-burna-boy-debut-emerging-artists-chart|title=Caamp, Cuco & Burna Boy Debut On Emerging Artists Chart|website=Billboard|access-date=2019-08-14}}</ref>
+
+== Discography ==
+=== Albums ===
+{| class="wikitable"
+! rowspan="2" |Year
+! rowspan="2" |Album
+!Peak
+positions
+|-
+![[Top Heatseekers|US]] 
+[[Top Heatseekers|Heat]]
+
+<ref>{{Cite web|url=https://www.billboard.com/charts/heatseekers-albums/2019-08-10|title=Heatseekers Albums - August 10, 2019|last=|first=|date=|website=Billboard|publisher=|url-status=live|archive-url=|archive-date=|access-date=8 January 2019}}</ref>
+|-
+|2016
+|''CAAMP''
+|align="center"|—
+|-
+|2018
+|''Boys''
+|align="center"|—
+|-
+|2019
+|''By & By''
+|align="center"|1
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" |Title
+! rowspan="2" |Year
+! colspan="1" |Peak<br>chart<br>positions
+! rowspan="2" |Album
+|-
+![[Adult Alternative Songs|US<br>AAA]]<br/><ref>{{Cite web|url=https://www.billboard.com/charts/triple-a/2019-11-02|title=Adult Alternative Songs - November 2, 2019|last=|first=|date=|website=Billboard|url-status=live|archive-url=|archive-date=|access-date=9 January 2020}}</ref><ref>{{Cite web|url=https://www.billboard.com/charts/triple-a/2020-03-28|title=Adult Alternative Songs - March 28, 2020|last=|first=|date=|website=Billboard|url-status=live|archive-url=|archive-date=|access-date=9 January 2020}}</ref>
+|-
+! scope="row" | "Penny, Heads Up"
+| rowspan="5" |2019
+|align="center"|—
+|align="center" rowspan="5" |''By & By''
+|-
+! scope="row" |"No Sleep"
+|align="center"|—
+|-
+! scope="row" |"Wolf Song"
+|align="center"|—
+|-
+! scope="row" |"Peach Fuzz"
+|align="center"|1
+|-
+! scope="row" |"By and By"
+|align="center"|12
+|-
+! scope="row" | "Officer of Love"
+| rowspan="1" |2020 
+|align="center"| 1
+| rowspan="2" {{n/a|Non-album singles}}
+|-
+! scope="row" | "Square One"
+| rowspan="1" |2021
+|align="center"|—
+|}
+
+==References==
+{{reflist}}
+
+[[Category:Musical groups from Ohio]]
+[[Category:Mom + Pop Music artists]]

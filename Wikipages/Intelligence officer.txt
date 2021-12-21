@@ -1,0 +1,50 @@
+An '''intelligence officer''' is a person employed by an organization to collect, compile or analyze information (known as [[intelligence (information gathering)|intelligence]]) which is of use to that organization. The word of ''officer'' is a working title, not a [[Military rank|rank]], used in the same way a "police officer" can also be a sergeant, or in the [[military]], in which non-commissioned personnel may serve as intelligence officers.
+
+Organizations which employ intelligence officers include [[armed forces]], [[police]], and [[customs]] agencies.
+
+==Sources of intelligence==
+Intelligence officers make use of a variety of sources of information, including
+
+; [[Signals intelligence#COMINT|Communications intelligence]] (COMINT): [[Eavesdropping]] and interception of communications (e.g., by [[Telephone tapping|wiretapping]]) including [[signals intelligence]] (SIGINT) and [[Signals intelligence#ELINT|electronic intelligence]] (ELINT).
+; [[Financial intelligence]] (FININT): The gathering of information about the financial affairs of entities of interest.
+; [[Human intelligence (espionage)|Human intelligence]] (HUMINT): Derived from covert [[human intelligence (espionage)|human intelligence]] sources ([[Covert Human Intelligence Sources (Criminal Conduct) Act 2021|Covert Human Intelligence Source]] or CHIS, ''agents'' or ''moles'') from a variety of agencies and activities.
+; [[Imagery intelligence]] (IMINT): Derived from numerous collection assets, such as [[Spy satellite|reconnaissance satellites]] or [[Surveillance aircraft|aircraft]].
+; [[Measurement and signature intelligence]] (MASINT): Derived from collection assets that collect and evaluate technical profiles and specific characteristics of certain targeted entities.
+; [[Open source intelligence]] (OSINT): Derived from publicly available sources such as the [[Internet]], [[library]] materials, [[newspaper]]s, etc.
+; [[Technical intelligence]] (TECHINT): Based on scientific and technical characteristics of weapons systems, technological devices and other entities.
+
+==Role and responsibilities==
+The actual role carried out by an intelligence officer varies depending on the remit of his/her parent organization. Officers of foreign intelligence agencies (e.g. the United States' [[Central Intelligence Agency]], Canada's [[Canadian Security Intelligence Service]] (CSIS), the United Kingdom's [[Secret Intelligence Service]] (MI6) and the [[Australian Secret Intelligence Service]] (ASIS)) may spend much of their careers abroad. Officers of domestic intelligence agencies (such as the United States' [[Federal Bureau of Investigation]], Canada's [[RCMP]] [[National Security Enforcement Section]], the UK's [[MI5|Security Service]] (MI5) and the [[Australian Security Intelligence Organisation]] (ASIO)) are responsible for [[counter-terrorism]], [[counter-espionage]], [[counter-proliferation]] and the detection and prevention of serious [[organized crime]] within their own countries (although, in Britain, the [[National Crime Agency]] is responsible for dealing with serious organized crime).
+
+Titles and responsibilities common among intelligence officers include:
+
+; Field officer: An officer who manages the [[intelligence collection plan]] for specific missions in foreign countries.
+; [[Agent Handling|Case officer]]: An officer who runs intelligence agents in order to collect raw intelligence information.  Case officers spend their time recruiting and exploiting source agents in order to collect [[HUMINT]].
+; [[Intelligence collection management|Collections officer (collector)]]: An officer who collects information, not necessarily from human sources but from technical sources such as [[wiretaps]], [[covert listening device|bugs]], [[cyber-collection]], [[MASINT]] devices, [[SIGINT]] devices and other means.
+; Operations officer: An officer who plans or enacts the necessary steps to disrupt or prevent activities of hostile individuals or groups.
+; [[Intelligence Analyst|Analyst]]: An officer who analyzes collected information and results of operations to determine the identities, intentions, capabilities and activities of hostile individuals or groups and to determine requirements for future operations.  After analysis, analysts are also responsible for the production and dissemination of their final product.<ref name="oia">U.S. Department of the Treasury, Office of Intelligence and Analysis Brochure, [http://www.treasury.gov/about/organizational-structure/offices/Terrorism-Fin-Intel/Documents/oia-brochure.pdf]</ref><ref name="dhs">Department of Homeland Security, Deployed Intelligence Officers and Protective Security Advisors, {{cite web|url=https://www.dhs.gov/deployed-intelligence-officers-and-protective-security-advisors |title=Archived copy |access-date=2016-07-29 |url-status=dead |archive-url=https://web.archive.org/web/20131104225606/http://www.dhs.gov/deployed-intelligence-officers-and-protective-security-advisors |archive-date=2013-11-04 }}, accessed Jan 8 2013</ref>
+; [[Counterintelligence]] officer:An officer that works to prevent detection, penetration, manipulation and compromise of the intelligence agency, its operations and overall national security by foreign, domestic, or hostile agents.<ref name="usajobs">[https://www.webcitation.org/6DVyiT1wu?url=https://www.usajobs.gov/GetJob/ViewDetails/333266700 USAjobs.gov, Counter-Intelligence Officer Job Duties]</ref> Often counterintelligence officers are law enforcement officers, as is the case with the Special Agents of the Federal Bureau of Investigation's Counterintelligence Division and the Diplomatic Security Service's Counterintelligence Division. This is often done in order to arrest moles and foreign intelligence agents. However, counter-intelligence officers can and do actively handle sources and agents in order to collect raw intelligence information.
+
+===Intelligence agents===
+Intelligence agents are individuals that work for or have been recruited by an Intelligence Officer, but who are not employed by the intelligence agency of the intelligence officer.  Sometime around 2000, the [[United States Intelligence Community]] adopted a more "corporate" vocabulary and began referring to agents as assets.<ref name="Jones">[[Ishmael Jones]], ''The Human Factor: Inside the CIA's Dysfunctional Intelligence Culture'', 2008</ref>  Intelligence agents can be of several types:
+
+; Source agent: A primary source of intelligence information.  This is the classic HUMINT source.
+; Access agent: An agent who identifies and approaches potential sources (eventual source agents) for assessment or recruitment.  In [[counter-proliferation]] (CP) access agents are often scientists.  In [[counter-terrorism]] (CT) access agents are often religious or ideological leaders.<ref name="Jones" />
+; [[Agent provocateur]]: An agent who infiltrates hostile organizations with the intent of spreading [[disinformation]] from within or disrupting their operations through enticement and sabotage.
+; Rogue agent: A former intelligence officer, who may be subject to a [[burn notice (document)|burn notice]], who is no longer accepting direction from his/her agency.
+; [[Double agent]]: An agent or intelligence officer who accepts direction from two or more intelligence agencies.<ref>Begoum F.M. Observations on the Double Agent. Central Intelligence Agency. [https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi/vol6no1/html/v06i1a05p_0001.htm]</ref>
+
+Contrary to popular belief or what is seen in Hollywood films, professionally trained intelligence officers are never referred to as agents, secret agents or special agents, (except in the case of FBI Special Agents). They are most often referred to as case officers or operations officers. Agents are the foreigners who betray their own countries to pass information to the officer; agents are also known as confidential informants or assets.
+
+==See also==
+* [[Intelligence agency]]
+* [[Espionage]]
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:Spies by role]]
+[[Category:Intelligence analysts| Intelligence officer]]
+[[Category:Government occupations]]

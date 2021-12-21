@@ -1,0 +1,112 @@
+{{Distinguish|PinOut}}[[File:555 Pinout.svg|thumb|A pinout diagram of a very common [[555 timer IC|555 timer integrated circuit]] showing its 8 pins (numbered 1-8) and their corresponding functions ("ground", "trigger", "output", etc.)]]
+In [[electronics]], a '''pinout''' (sometimes written "'''pin-out'''") is a cross-reference between the contacts, or ''pins'', of an [[electrical connector]] or [[electronic component]], and their functions. "Pinout" now supersedes the term "basing diagram" that was the standard terminology used by the manufacturers of vacuum tubes and the RMA. The RMA started its standardization in 1934, collecting and correlating tube data for registration at what was to become the [[Electronic Industries Alliance|EIA]]. The EIA (Electronic Industries Alliance) now has many sectors reporting to it, and sets what are known as [[EIA standards]] where all registered pinouts and [[Registered Jack|registered jacks]] can be found.
+
+== Purpose ==
+The functions of contacts in electrical connectors, be they power- or signaling-related, must be specified in order for connectors to be interchangeable. When connected, each contact of a connector must mate with the contact on the other connector that has the same function. If contacts of disparate functions are allowed to make contact, the connection may fail and damage may result. Therefore, pinouts are a vital reference when building and testing connectors, cables, and adapters.
+
+If one has specified wires within a cable (for instance, the colored Ethernet cable wires in [[ANSI/TIA-568|ANSI/TIA-568 T568A]]), then the order in which different color wires are attached to pins of an [[electrical connector]] defines the wiring scheme. In any multi-pin connector, there are multiple ways to map wires to pins, so different configurations may be created which superficially look identical but function differently. These configurations are defined by pinouts. Many connectors have multiple standard pinouts in use for different manufacturers or applications.<ref>{{cite web |url=http://pinouts.ru |title=Handbook of hardware schemes, cables layouts and connectors |website=pinouts.ru |access-date=2016-04-25}}</ref>
+
+== Terminology ==
+While one usage of the word ''pin'' is to refer to electrical contacts of, specifically, the male [[Gender of connectors and fasteners#Electrical and electronic|gender]], its usage in ''pinout'' does not imply gender: the contact-to-function cross-reference for a connector that has only female socket contacts is still called a ''pinout''.
+
+== Representation ==
+The pinout can typically be shown as a table or diagram, though it is necessary to clarify how to view the diagram, stating if it shows the backside of the connector (where wires are attached) or the "mating face" of the connector. Published pinouts, which are particularly important when different manufacturers want to interconnect their products using [[open standards]], are typically provided by the connector or equipment manufacturer. Some pinouts are provided by 3rd parties since some connectors are not well documented by the manufacturer.
+
+While repairing electronic devices, an electronics technician uses [[electronic test equipment]] to "'''pin out'''" each component on a [[Printed circuit board|PCB]]. The technician probes each pin of the component in turn, comparing the expected signal on each pin to the actual signal on that pin.
+
+== Example pinouts ==
+
+=== USB pinout ===
+Viewed from the front (outside) of Female Type A USB receptacle:
+[[Image:USB Type-A Numbered diagram.svg|left]]
+{{clear}}
+# +5V (Red)
+# −Data (White)
+# +Data (Green)
+# GND (Black)
+
+=== PS/2 pinout ===
+[[File:MiniDIN-6 Connector Pinout.svg|thumb|left|180px|PS/2 connector pinout]]
+{| class="wikitable" |align=right
+! Pin number !! Name !! Purpose
+|-
+| 1 || DATA || Data
+|-
+| 2 || || Not used
+|-
+| 3 || GND || [[Ground (electricity)|Ground]]
+|-
+| 4 || Vcc || +5V [[IC power-supply pin|Common-collector voltage]]
+|-
+| 5 || CLK || [[Clock signal]]
+|-
+| 6 || || Not used
+|}
+{{Clear}}
+
+=== 4017 decade counter ===
+[[Image:4017 Pinout.svg|left|4017 pinout]]
+{{clear}}
+{|class=wikitable
+! Pin number !! Name !! Purpose
+|-
+| 1 || 6 || The 6th sequential output
+|-
+| 2 || 2 || The 2nd sequential output
+|-
+| 3 || 1 || The 1st sequential output
+|-
+| 4 || 3 || The 3rd sequential output
+|-
+| 5 || 7 || The 7th sequential output
+|-
+| 6 || 8 || The 8th sequential output
+|-
+| 7 || 4 || The 4th sequential output
+|-
+| 8 || 0&nbsp;V, V<sub>DD</sub> || The connection to the 0&nbsp;V rail
+|-
+| 9 || 9 || The 9th sequential output
+|-
+| 10 || 5 || The 5th sequential output
+|-
+| 11 || 10 || The 10th sequential output
+|-
+| 12 || CO || '''C'''arry '''o'''ut output - outputs high on counts 0 to 4, outputs low on counts 5 to 9 (thus a transition from low to high occurs when counting from 9 back to 0)
+|-
+| 13 || EN || Latch '''en'''able - latches on the current output when high (i.e. the chip counts when EN is low)
+|-
+| 14 || CLK || '''Cl'''oc'''k''' in
+|-
+| 15 || RST || '''R'''e'''s'''e'''t''' - sets output 1 high and outputs 2 through 10 low, when taken high
+|-
+| 16 || +9&nbsp;V, V<sub>CC</sub> || The connection to the +V<sub>CC</sub> rail (voltage between +3&nbsp;V and +15&nbsp;V)
+|}
+
+=== LM741 operational amplifier ===
+[[Image:LM741 Pinout Round.svg|left]]
+{{clear}}
+
+== See also ==
+* [[Datasheet]]
+* [[Piping and instrumentation diagram]]
+* [[Circuit diagram]]
+* [[Schematic]]
+* [[4000 series]]
+* [[Crossover cable]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category|Electronic diagrams}}
+* [http://www.hardwarebook.info/ The Hardware Book] - Pinout collection
+* [http://pinout.net Crossover search of pinouts at pinout.net]
+* [http://pinouts.ru/ Pinouts of hardware connectors with description of common interfaces at pinouts.ru]
+* [http://www.allpinouts.org Pinouts (pin-out)] - Historical Pinouts collection
+* [http://www.romux.com/pinouts 74xxx and 40xx (pin-outs)] -  Pinouts collection
+* [http://pindiagram.blogspot.com/ Pin Configuration of ICs and semiconductors (pin-outs)] -  Pinouts collection
+
+[[Category:Electrical connectors]]
+
+[[fr:Boîtier de circuit intégré#Brochage]]

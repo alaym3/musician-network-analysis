@@ -1,0 +1,105 @@
+{{other uses|Underscore (disambiguation)}}
+{{short description|Character that originally appeared on the typewriter and was primarily used to underline words}}
+{{Infobox symbol
+|mark=_ ⎁  ◌̲ 
+|unicode= {{unichar|005F|LOW LINE|html=}}<br />{{unichar|2381|Continuous underline symbol}}<br />{{unichar|0332|combining low line}}  
+| see also= {{unichar|2017|DOUBLE LOW LINE}}<br />{{unichar|2382|Discontinuous underline symbol}} 
+| different from= {{Unichar|0331|COMBINING MACRON BELOW|cwith=◌ | nlink=Macron below}}
+}}
+[[Image:Underlined.SVG|thumb|right|Underscored or underlined text.]]
+An '''underscore''', also called an '''underline''', '''low line''' or '''low dash''', is a line drawn under a segment of text. In [[proofreading]], underscoring is a convention that says "set this text in [[italic type]]", traditionally used on [[manuscript]] or [[Manuscript#Modern variations|typescript]] as an instruction to the [[printer (publishing)|printer]]. Its use to add emphasis in modern documents is a deprecated practice.<ref name=Butterick>{{cite web|last1=Butterick|first1=Matthew |title=Underlining: absolutely not |url=http://practicaltypography.com/underlining.html |website=Practical Typography |access-date=5 August 2015}}</ref> The '''underscore character''', {{char|_}}, originally appeared on the [[typewriter]] and was primarily used to emphasise words as in [[#Manuscripts|the proofreader's convention]].  To produce an underscored word, the word was typed, the [[typewriter carriage]] was moved back to the beginning of the word, and the word was [[overstrike|overtyped]] with the underscore character.
+
+In modern usage, underscoring is achieved by [[Markup language|markup]] or with [[combining character]]s. The original free-standing underscore character continues in use to create visual spacing within a sequence of characters, where a [[whitespace character]] is not permitted (e.g., in computer [[filename]]s, [[email address]]es, and in Internet [[Uniform Resource Locator|URL]]s). In contexts where no formatting is supported such as in [[instant messaging]], or older [[email]] formats, the 'enclosing underscores' markup is sometimes used as a proxy for underlining the word(s) enclosed ({{code|_thus_}}).
+
+In some languages, the mark is used as [[combining diacritic]] and is called a "combining low line".
+
+==Diacritic==
+{{see also|Macron below|Numero sign}}
+The underscore is used as a [[diacritic]] mark, "[[combining low line]]", {{char|◌̲ }}, in some [[languages of Egypt]], some languages using the Rapidolangue orthography in [[Gabon]], [[Izere language|Izere]] in Nigeria, and [[indigenous languages of the Americas]] such as [[Shoshoni language|Shoshoni]] and [[Kiowa language|Kiowa]].
+
+The combining diacritic, {{char|◌̱}}, (Macron below) is similar to the combining low line but its mark is shorter. The difference between "macron below" and "low line" is that the latter results in an unbroken underline when it is run together: compare {{char|a̱ḇc̱}} and {{char|a̲b̲c̲}} (only the latter should look like <span style="border: 1px solid #ddd; background-color: #fdfdfd; padding: 1px 1px; text-decoration: underline">abc</span>).<ref name="The Unicode Standard">{{cite book|chapter-url=https://www.unicode.org/versions/Unicode11.0.0/ch06.pdf|title=The Unicode Standard|version=Version 11.0.0|place=Mountain View, CA|publisher=The Unicode Consortium|date=2018|isbn=978-1-936213-19-1 |chapter=6.2 General Punctuation|page=273|access-date=2018-12-12|quote=Spacing Overscores and Underscores. U+203E OVERLINE is the above-the-line counterpart to U+005F low line. It is a spacing character, not to be confused with U+0305 COMBINING OVERLINE. As with all overscores and underscores, a sequence of these characters should connect in an unbroken line. The overscoring characters also must be distinguished from U+0304 COMBINING MACRON, which does not connect horizontally in this way.}}</ref>
+
+==Modern use==
+In printed documents underlining is generally avoided, with [[italic type|italics]] or [[small caps]] often used instead, or (especially in headings) using [[capitalization]], [[bold type]] or greater [[body height (typography)|body height]] (font size).<ref name=Butterick /> In a [[manuscript]] to be [[typeset]], various forms of underlining (see [[#Manuscripts|below]]) were therefore conventionally used to indicate that text should be set in special type such as [[italic type|italics]], part of a procedure known as [[markup language#History|markup]].
+
+A series of underscores (like __________ ) may be used to create a blank to be filled in by hand on a paper form. It is also sometimes used to create a horizontal line; other symbols with similar [[grapheme]]s, such as hyphens and dashes, are also used for this purpose.
+
+==Usage in computing==
+
+In [[web browser]]s, default settings typically distinguish [[hyperlink]]s by underlining them (and usually changing their color), but both users and websites can change the settings to make some or all hyperlinks appear differently (or even without distinction from normal text).
+
+===History===
+As early output devices ([[Teleprinter]]s, [[cathode ray tube|CRT]]s and [[line printer]]s) could not produce more than one character at a location, it was not possible to underscore text, so early encodings such as [[Baudot code#ITA2|ITA2]] and the first versions of [[ASCII-1963|ASCII]] had no underscore. IBM's [[EBCDIC]] character-coding system, introduced in 1964, added the underscore, which IBM referred to as the "break character". IBM's report on NPL (the early name of what is now called [[PL/I]]) leaves the character set undefined, but specifically mentions the break character, and gives {{code|RATE_OF_PAY}} as an example identifier.<ref>{{cite book |title=NPL Technical Report |year=1964 |publisher=[[IBM]] |url=http://bitsavers.org/pdf/ibm/npl/320-0908_NPL_Technical_Report_Dec64.pdf |access-date=2011-06-09 |page=23}}</ref> By 1967 the underscore had spread to [[ASCII-1967|ASCII]],<ref>{{cite journal |author-last=Fischer |author-first=Eric |title=The Evolution of Character Codes, 1874-1968 |url=http://www.trafficways.org/ascii/ascii.pdf |access-date=2016-11-16}}</ref> replacing the similarly shaped left-arrow character, {{char|←}} (see also: [[Peripheral Interchange Program|PIP]]). [[C (programming language)|C]], developed at Bell Labs in the early 1970s, allowed the underscore in identifiers.<ref>{{cite journal |author-last=Ritchie |author-first=Dennis |author-link=Dennis Ritchie |title=C Reference Manual |date=c. 1975 |url=http://cm.bell-labs.com/cm/cs/who/dmr/cman.pdf |access-date=2011-06-09}}</ref>
+
+Underscore predates the existence of lower-case letters in many systems, so often it had to be used to make multi-word identifiers, since [[CamelCase]] (see below) was not available.
+
+===Programming conventions===
+Underscores inserted between letters are very common to make a "multi-word" identifier in languages that cannot handle [[Whitespace character|spaces]] in identifiers. This convention is known as "[[snake case]]" (the other popular method is called [[camelCase]], where capital letters are used to show where the words start).
+
+An underscore as the first character in an [[Identifier|ID]] is often used to indicate an internal implementation that is not considered part of the [[application programming interface|API]] and should not be called by code outside that implementation. In [[Dart (programming language)|Dart]], all private properties of classes must start with an underscore; this usage is also common in other languages such as [[C++]] even though those provide keywords to indicate that members are private. It is extensively used to hide variables and functions used for implementations in [[header file]]s. In fact, the use of a single underscore for this became so common that C compilers had to standardize on a ''double'' leading underscore (for instance <code>__DATE__</code>) for actual built-in variables to avoid conflicts with the ones in header files. [[PHP]] "reserves all function names starting with __ as magical."<ref>{{Cite web|url=http://www.php.net/manual/en/language.oop5.magic.php|title=Magic Methods|date=August 28, 2004|website=php.net|url-status=live|archive-url=https://web.archive.org/web/20040830214446/http://www.php.net/manual/en/language.oop5.magic.php|archive-date=August 30, 2004|access-date=February 3, 2020}}</ref>
+
+[[Python (programming language)|Python]] uses names that both start and end with double underscores for magic members used for purposes such as operator overloading and reflection, and names starting but not ending with a double underscore to denote private [[member variable]]s of classes which should be [[name mangling|mangled]] in a manner which prevents them from colliding with members of derived classes unless the classes have the same name ({{code|__bar}} in class {{code|Foo}} will be mangled to {{code|_Foo__bar}}). By convention, members starting with a single underscore are considered private or protected, although this behavior only has inherent effect for modules, where {{code|import *}} statements by default import all names that do not start with an underscore, unless an export list is explicitly defined by the module.
+
+A variable named with just an underscore often has special meaning. <code>$_</code> or <code>_</code> is the previous command or result in many [[Read–eval–print loop|interactive shells]], such as those of [[Python (programming language)|Python]], [[Ruby (programming language)|Ruby]], and [[Perl]]. In [[Perl]], <code>@_</code> is a special [[array data type|array]] variable that holds the [[Parameter (computer programming)|argument]]s to a [[function (programming)|function]]. In [[Clojure]], it indicates an argument whose value will be ignored.<ref>{{cite web|url=https://github.com/bbatsov/clojure-style-guide#underscore-for-unused-bindings |title=The Clojure Style Guide |author=Bozhidar Batsov |website=[[GitHub]] |access-date=2019-09-05}}</ref>
+
+In some languages with [[pattern matching]], such as [[Prolog]], [[Standard ML]], [[Scala (programming language)|Scala]], [[OCaml]], [[Haskell (programming language)|Haskell]], [[Erlang (programming language)|Erlang]], and the [[Wolfram Language]], the pattern <code>_</code> matches any value, but does not perform [[data binding|binding]].
+
+===HTML &lt;u&gt; and CSS ===
+HTML has a [[HTML element#Presentational markup|presentational element]] <code><nowiki><u></nowiki></code> that was originally used to underline text; this usage was [[deprecated]] in HTML4 in favor of the [[CSS]] style <code>{text-decoration: underline}</code>.<ref name=mozilla>{{cite web |url=https://developer.mozilla.org/en-US/docs/Web/HTML/Element/u |title= <nowiki><u>: The Unarticulated Annotation (Underline) element</nowiki> | date = 1 August 2020 |access-date= 9 October 2020 | website= mozilla.org}}</ref>  In HTML5, the tag reappeared but its meaning was changed significantly: it now "represents a span of inline text which should be rendered in a way that indicates that it has a non-textual annotation".<ref name=mozilla /> This facility is intended for example to provide a red wavy line underline to flag spelling errors at input time but which are not to be embedded in any stored file (unlike an emphasis mark, which would be),
+
+The elements may also exist in other [[markup language]]s, such as [[MediaWiki]]. The [[Text Encoding Initiative]] (TEI) provides an extensive selection of related elements for marking editorial activity (insertion, deletion, correction, addition, etc.).
+
+===Unicode===
+[[Unicode]] has a free-standing underscore {{char|_}} at U+005F, which is a legacy of the typewriter practice of underlining using backspace and overtype. Modern practice uses the [[combining diacritic]] "combining low line" at U+0332 ◌̲ that results in an underline when run together: u̲n̲d̲e̲r̲l̲i̲n̲e̲. Unicode also has the [[combining macron below]], a single letter diacritic.<ref name="The Unicode Standard"/>
+* ''single underline:'' a̲b̲c̲d̲e̲f̲g̲h̲i̲j̲k̲l̲m̲n̲o̲p̲q̲r̲s̲t̲u̲v̲w̲x̲y̲z̲0̲1̲2̲3̲4̲5̲6̲7̲8̲9̲ 
+* ''double underline:'' a̲̲b̲̲c̲̲d̲̲e̲̲f̲̲g̲̲h̲̲i̲̲j̲̲k̲̲l̲̲m̲̲n̲̲o̲̲p̲̲q̲̲r̲̲s̲̲t̲̲u̲̲v̲̲w̲̲x̲̲y̲̲z̲̲0̲̲1̲̲2̲̲3̲̲4̲̲5̲̲6̲̲7̲̲8̲̲9̲̲
+
+===Continuous underline symbol===
+In [[Canadian French]], it is correct [[orthography]] to underline the masculine and feminine [[ordinal indicator]]s and standard keyboards are engraved accordingly:<ref>{{cite web|publisher=Office québécois de la langue française | url=http://www.oqlf.gouv.qc.ca/images/ti/clavier.gif |title = Clavier normalisé – CAN/CSA Z243.200-92 – Pictogrammes ISO 9995-7 | language=fr| access-date = 19 January 2015}} See also [[ISO/IEC 9995#ISO/IEC 9995-7]].</ref> a symbol, an underlined '[[letter A|letter a]] with [[ellipsis]]' ({{unichar|2381|Continuous underline symbol}}), is available to document this use.{{citation needed|date=May 2021}}<!-- I can't find any reference to this specific symbol. It is not a standard keytop on FR-CA keyboards, though the masculine (AltGr+m) and feminine (AltGr+f) forms are. -->{{efn|There are no explicit [[codepoint]]s for the underlined forms of the ordinal indicators: these are [[allograph]]s of the Unicode standard [[glyph]]s  {{unichar|00AA|Feminine ordinal indicator}} and {{unichar|00BA|Masculine ordinal indicator}} and thus the underlined forms are obtained using an appropriate font.}}
+
+==="Simulated" underlines in plain-text===
+In [[plain-text]] applications, including plain-text [[e-mail]]s, where emphasis markup is not possible, the desired emphasis is often indicated by surrounding words with underscore characters. For example, "You must use an _emulsion_ paint on the ceiling".
+
+Some applications will automatically [[emphasis (typography)|add emphasis]] to text manually bracketed by underscores, either by underlining or by italicizing it (e.g. {{code|_string_}} may render <u>string</u> or ''string'').
+
+===As a marker for incorrectness===
+Underline (typically red or wavy or both) is often used by [[spell checker]]s (and [[grammar checker]]s) to denote misspelled or otherwise incorrect text.
+
+==Manuscripts==
+{{main|List of proofreader's marks}}
+Depending on local conventions, the following kinds of underlines may be used inline on manuscripts to indicate the special [[typeface]]s to be used:<ref>{{cite web |url=https://www.graphic-design-employment.com/proofreading-marks-chart.html | title= Proofreading Marks Chart -Some of the Most Common Proofreading Marks | website= graphic-design-employment.com | access-date= 9 October 2020}}</ref><ref>{{cite book| title = Writers' & Artists' Yearbook 2020 | date=5 September 2019 | isbn=9781472947512 | publisher = Bloomsbury}}</ref>
+*single dashed underline for {{lang|la|stet}}, 'let it stand', proof-reading mark cancelled.
+*single straight underline for ''italic type''
+*single wavy underline for '''bold type'''
+*double straight underline for {{sc|small caps}}
+*double underline of one straight line and one wavy line for '''''bold italic'''''
+*triple underline for FULL CAPITAL LETTERS (used among small caps or to change text already typed as lower case).
+
+==Underlines in Chinese==
+In [[Chinese language|Chinese]], the underline is a punctuation mark for proper names ({{zh|t=專名號|s=专名号}}; [[pinyin]]: zhuānmínghào; literally "[[proper name mark]]", used for personal and geographic names).{{citation needed|date=October 2020}} Its meaning is somewhat akin to capitalization in English and should never be used for emphasis even if the influence of English computing makes the latter sometimes occur. A wavy underline ({{zh|t=書名號|s=书名号}}; [[pinyin]]: shūmínghào; literally, "book title mark") serves a similar function, but marks names of literary works instead of proper names.
+
+In the case of two or more adjacent proper names, each individual proper name is separately underlined so there should be a slight gap between the underlining of each proper name.
+
+==See also==
+*[[Space (punctuation)|Space Character]]
+*[[Overline]]
+*[[Strikethrough]]
+*[[Undertie]]
+*[[Visible space]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wiktionary|underscore|underline|Appendix:Underline}}
+* {{cite web |url=https://books.google.com/ngrams/graph?corpus=26&smoothing=3&content=Underline%2C+underscore&year_end=2019&year_start=1800&direct_url=t1%3B%2CUnderline%3B%2Cc0%3B.t1%3B%2Cunderscore%3B%2Cc0 |title =Ngram Viewer: comparison of usage of 'underscore' and 'underline'| website=books.google.com | access-date=9 October 2020}}
+
+{{navbox punctuation}}
+{{Typography terms}}
+
+[[Category:Punctuation]]
+[[Category:Typography]]
+[[Category:Typographical symbols]]

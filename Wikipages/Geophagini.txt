@@ -1,0 +1,43 @@
+{{Short description|Tribe of fishes}}
+{{redirect|Eartheater|earth eating in general|geophagia|the Lake Malawi cichlids|sandeater|the musician|Alexandra Drewchin}}
+{{Automatic taxobox
+| image = Geophagus brasiliensis c01.jpg
+| image_caption = ''[[Geophagus brasiliensis]]''
+| taxon = Geophagini
+| authority = [[John D. Haseman|Haseman]], 1911
+| type_genus = ''Geophagus''
+| type_genus_authority = Heckel, 1840
+}}
+'''Geophagini''' is a [[Tribe (biology)|tribe]] of [[cichlid]]s from the [[subfamily]] [[Cichlinae]], the American cichlids. It is the sister taxon to the clade which includes the [[Cichlasomatini]] and [[Heroini]]. Fishes in the Geophagini are distributed from Panama south to Argentina, it is the most speciose of the seven tribes within the Cichlinae and it is subdivided into three sub-tribes, Acarichthyina, Crenicaratina, and Geophagina which together contain over 200 species.<ref name = Smith>{{cite journal | author1 = Wm. Leo Smith | author2 = Prosanta Chakrabarty | author3 = John S. Sparks | year=2008 | title = Phylogeny, taxonomy, and evolution of Neotropical cichlids (Teleostei: Cichlidae: Cichlinae) | url = http://static1.squarespace.com/static/54a3679de4b0d88dbda40971/t/54a3aa48e4b01142025f09fc/1420012104511/20_SmithetalCichlinae.pdf | journal = Cladistics  | volume = 24 | issue = 5 | pages = 624–641}}</ref> Geophagines show morphological and behavioural specialisations to enable them to sift the substrates within their mouths so that they can separate [[benthic]] invertebrates from substrates dominated by sand or silt.<ref name = "López‐Fernández">{{cite journal | author1 = Hernán López‐Fernández | author2 =  Jessica H. Arbour | author3 =  Kirk. O. Winemiller | author4 =  Rodney L. Honeycutt | year = 2012 | title = Testing for Ancient Adaptive Radiations in Neotropical Cichlid Fishes | journal = Evolution | volume = 67 | issue = 5 | pages = 1321–1337| doi =  10.1111/evo.12038 | pmid =  23617911 }}</ref>
+
+==Classification==
+The Geophagini are classified as follows:<ref name = Smith/>
+
+* Subtribe Acarichthyina <small>[[Sven O. Kullander|Kullander]], 1998</small>
+** Genus ''[[Acarichthys]]'' <small>[[Carl H. Eigenmann|C. H. Eigenmann]], 1912</small>
+** Genus ''[[Guianacara]]'' <small>Kullander & [[Han Nijssen|Nijssen]], 1989</small>
+* Subtribe Crenicaratina <small>Kullander, 1998</small>
+** Genus ''[[Biotoecus]]'' <small>C. H. Eigenmann & C. H. Kennedy, 1903</small>
+** Genus ''[[Crenicara]]'' <small>[[Franz Steindachner|Steindachner]], 1875</small>
+** Genus ''[[Crenicichla]]'' <small>[[Johann Jakob Heckel|Heckel]], 1840</small>
+** Genus ''[[Dicrossus]]'' <small>Steindachner, 1875</small>
+** Genus ''[[Teleocichla]]'' <small>Kullander, 1988</small>
+* Subtribe Geophagina <small>Haseman, 1911</small>
+** Genus ''[[Apistogramma]]'' <small>[[Charles Tate Regan|Regan]], 1913</small>
+** Genus ''[[Apistogrammoides]]'' <small>[[Herman Meinken|Meinken]], 1965</small>
+** Genus ''[[Biotodoma]]'' <small>C. H. Eigenmann & C. H. Kennedy, 1903</small>
+** Genus ''[[Geophagus]]'' <small>Heckel, 1840</small>
+** Genus ''[[Gymnogeophagus]]'' <small>[[Alípio de Miranda-Ribeiro|Miranda-Ribeiro]], 1918</small>
+** Genus ''[[Mazarunia]]'' <small>Kullander, 1990</small>
+** Genus ''[[Mikrogeophagus]]'' <small>[[Jens Meulengracht-Madsen|Meulengracht-Madsen]], 1968</small>
+** Genus ''[[Satanoperca]]'' <small>[[Albert Günther|Günther]], 186</small>2
+** Genus ''[[Taeniacara]]'' <small>[[George S. Myers|G. S. Myers]],  1935</small>
+
+==References==
+{{reflist}}
+
+{{taxonbar|from =Q134264}}
+
+[[Category:Geophagini| ]]
+[[Category:Cichlinae]]
+[[Category:Fish tribes]]

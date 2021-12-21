@@ -1,0 +1,148 @@
+{{Other uses}}
+{{For|the building in London|20 Fenchurch Street}}
+{{Broader|Two-way radio}}
+[[File:Recreational Walkie Talkies.jpg|thumbnail|Recreational, toy and amateur radio walkie-talkies]]
+[[File:Wikipedia images 011.jpg|thumbnail|Two consumer-grade walkie-talkies ([[PMR446]]-type)]]
+A '''walkie-talkie''', more formally known as a '''handheld transceiver''' ('''HT'''), is a hand-held, portable, [[two-way radio]] [[transceiver]]. Its development during the [[Second World War]] has been variously credited to [[Donald Hings]], radio engineer [[Alfred J. Gross]], [[Henryk Magnuski]] and engineering teams at [[Motorola]]. First used for infantry, similar designs were created for field artillery and tank units, and after the war, walkie-talkies spread to public safety and eventually commercial and jobsite work.<ref name="Sterling2008">{{cite book|author=Christopher H. Sterling|title=Military Communications: From Ancient Times to the 21st Century|url=https://books.google.com/books?id=RBC2nY1rp5MC&pg=PA504|year=2008|publisher=ABC-CLIO|isbn=978-1-85109-732-6|pages=504–}}</ref>
+
+Typical walkie-talkies resemble a [[telephone]] [[handset]], with a [[loudspeaker|speaker]] built into one end and a [[microphone]] in the other (in some devices the speaker also is used as the microphone) and an [[antenna (electronics)|antenna]] mounted on the top of the unit. They are held up to the face to talk. A walkie-talkie is a [[duplex (telecommunications)|half-duplex]] communication device. Multiple walkie-talkies use a single radio channel, and only one radio on the channel can transmit at a time, although any number can listen. The transceiver is normally in receive mode; when the user wants to talk they must press a  "[[push-to-talk]]" (PTT) button that turns off the receiver and turns on the transmitter. Smaller versions of this device are also very popular among young children. 
+
+Some units have additional features such as sending calls, call reception with vibration alarm, keypad locking, and a stopwatch.<ref>[https://www.libble.de/stabo-freecomm-600/p/770492/ Stabo Freecomm 600]</ref><ref>[https://www.manua.ls/stabo/freecomm-650/manual Stabo Freecomm 650]</ref>
+
+== History ==
+[[File:Scr300.png|thumb|upright|A [[SCR-300]] military backpack transceiver, nicknamed "walkie talkie"]]
+
+Handheld two-way radios were developed by the military from backpack radios carried by a soldier in an infantry squad to keep the squad in contact with their commanders.  Probably the first patent owner (patent filled on 20 May 1935, granted on 19 March 1936 <ref>[https://polona.pl/archive?uid=115804723&cid=116099488 patent number 22972, Government Patent Office - 1936]</ref>) was an engineer from Poland [[Henryk Magnuski]], who later worked since 1939 on Motorola's first walkie-talkie (a hand-held radio transceiver [[SCR-536]]).<ref>[https://uprp.gov.pl/sites/default/files/wup/1936/04/wup04_1936.pdf Government Patent Office News - 1936,  p.194 (in pdf page 14) patent number 22972 ''Urządzenie do szybkiego nawiązywania łączności radiotelegraficznej lub radiotelefonicznej.'' ''A device for a quick connection establishing via radiotelegraphy or radiotelephony'']</ref> Canadian inventor [[Donald Hings]] was the first to create a portable radio signaling system for his employer [[Cominco|CM&S]] in 1937. He called the system a "packset", although it later became known as a "walkie-talkie". In 2001, Hings was formally decorated for the device's significance to the war effort.<ref>http://www.telecomhall.ca/tour/inventors/2006/donald_l_hings/WalkieTalkie.pdf?sourceid=navclient&ie=UTF-8&rls=GGLJ,GGLJ:2006-10,GGLJ:en&q=Donald+L.+Hings+. THE VANCOUVER SUN, Friday August 17, 2001 ''Walkie-Talkie Inventor Receives Order of Canada''</ref><ref>{{cite news|url=http://www.cbc.ca/inventions/inventions.html |work=CBC News |title=CBC.ca - The Greatest Canadian Invention |url-status=dead |archive-url=https://web.archive.org/web/20070629222448/http://www.cbc.ca/inventions/inventions.html |archive-date=June 29, 2007 }}</ref> Hings' model C-58 "Handy-Talkie" was in military service by 1942, the result of a secret R&D effort that began in 1940.<ref>{{cite web|title=TM-11296 - Radio set AN/PRC-6|url=http://www.radiomanual.info/schemi/Surplus_NATO/AN-PRC-6_serv_user_TM11-296_1955.pdf|website=radiomanual.info|publisher=Dept. of the Army|access-date=13 January 2017}}</ref>
+
+[[Alfred J. Gross]], a radio engineer and one of the developers of the [[Joan-Eleanor system]], also worked on the early technology behind the walkie-talkie between 1938 and 1941, and is sometimes credited with inventing it.<ref name="mit">{{cite web |url=http://lemelson.mit.edu/winners/al-gross |title=Al Gross |access-date=2018-10-11 |publisher=[[Lemelson-MIT Program]] }}</ref>
+
+The first device to be widely nicknamed a "walkie-talkie" was developed by the US military during World War II, the backpacked [[Motorola]] [[SCR-300]]. It was created by an engineering team in 1940 at the Galvin Manufacturing Company (forerunner of Motorola). The team consisted of [[Daniel E. Noble|Dan Noble]], who conceived of the design using [[frequency modulation]]; [[Henryk Magnuski]], who was the principal [[Radio frequency engineering|RF engineer]]; Marion Bond; Lloyd Morris; and Bill Vogel.<ref name="Niesel">{{cite web|last1=Niesel|first1=John|title=The SCR-300 Backpack Radio|url=https://warfarehistorynetwork.com/2019/01/26/scr-300-ww2-radio-backppack-the-walkie-talkie-that-shaped-the-war/|url-status=live|access-date=28 December 2018|website=warfarehistorynetwork.com|publisher=Sovereign Media}}</ref>
+
+[[File:Portable radio SCR536.png|thumb|left|upright|A [[SCR-536]] US military "handie talkie", the first hand-held walkie-talkie]]
+
+The first handheld walkie-talkie was the AM [[SCR-536]] transceiver from 1941, also made by Motorola, named the Handie-Talkie (HT).<ref name=Wolinsky>{{cite news|last=Wolinsky|first=Howard|title=Riding Radio Waves For 75 Years, Motorola Milestones|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=CSTB&p_theme=cstb&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0FDE48F2E4EDC43A&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|access-date=23 March 2012|newspaper=Chicago Sun Times|date=2003-09-25}}</ref> The terms are often confused today, but the original walkie-talkie referred to the back mounted model, while the handie-talkie was the device which could be held entirely in the hand. Both devices used [[vacuum tube]]s and were powered by high voltage [[dry cell]] batteries.
+
+[[File:AWM 017402 Noemfoor radio.jpg|thumb|upright|[[Noemfoor]], [[Dutch New Guinea]], July 1944. A US soldier (foreground) uses a Handie-Talkie during the [[Battle of Noemfoor]].]]
+
+Following World War II, [[Raytheon]] developed the SCR-536's military replacement, the [[AN/PRC-6]]. The AN/PRC-6 circuit used 13 [[vacuum tubes]] (receiver and transmitter); a second set of thirteen tubes was supplied with the unit as running spares. The unit was factory set with one [[Cat's-whisker detector|crystal]] which could be changed to a different frequency in the field by replacing the crystal and re-tuning the unit. It used a 24-inch [[whip antenna]]. There was an optional handset that could be connected to the AN/PRC-6 by a 5-foot cable. An adjustable strap was provided for carrying and support while operating.<ref>{{cite web|title=Radio set AN/PCR-6|url=http://www.virhistory.com/navy/manuals/mc/mc-radio-01.pdf|website=VIRhistory.com|access-date=13 January 2017}}</ref>
+
+In the mid-1970s, the [[United States Marine Corps]] initiated an effort to develop a [[squad]] radio to replace the unsatisfactory helmet-mounted AN/PRR-9 receiver and receiver/transmitter handheld AN/PRT-4 (both developed by the [[United States Army|US Army]]). The AN/PRC-68, first produced in 1976 by [[Magnavox]], was issued to the Marines in the 1980s, and was adopted by the US Army as well.
+
+The abbreviation HT, derived from Motorola's "Handie-Talkie" trademark{{Citation needed|reason=questionable assertion|date=November 2019}}, is commonly used to refer to portable handheld [[amateur radio|ham]] radios, with "walkie-talkie" often used as a layman's term or specifically to refer to a toy. Public safety and commercial users generally refer to their handhelds simply as "radios". Surplus Motorola Handie-Talkies found their way into the hands of ham radio operators immediately following World War II. Motorola's public safety radios of the 1950s and 1960s were loaned or donated to ham groups as part of the [[Civil Defense]] program. To avoid trademark infringement, other manufacturers use designations such as "Handheld Transceiver" or "Handie Transceiver" for their products.
+
+== Developments ==
+Some [[cellular telephone|cellular telephone network]]s offer a push-to-talk handset that allows walkie-talkie-like operation over the cellular network, without dialing a call each time. However, the cellphone provider must be accessible.
+
+Walkie-talkies for public safety, commercial and industrial uses may be part of [[trunked radio system]]s, which dynamically allocate radio channels for more efficient use of limited radio spectrum. Such systems always work with a [[base station]] that acts as a repeater and controller, although individual handsets and mobiles may have a mode that bypasses the base station.
+
+== Contemporary use ==
+[[File:Motorola hand-held.jpg|thumb|upright|A modern [[Project 25]] capable professional walkie-talkie]]
+[[File:Icom IC-F3GS Radio.svg|thumb|upright|An Icom IC-F3GS Radio]]
+
+Walkie-talkies are widely used in any setting where portable radio communications are necessary, including business, [[public safety]], military, outdoor recreation, and the like, and devices are available at numerous price points from inexpensive analog units sold as toys up to ruggedized (i.e. [[waterproof]] or [[intrinsically safe]]) analog and digital units for use on boats or in heavy industry. Most countries allow the sale of walkie-talkies for, at least, business, [[Marine VHF radio|marine communications]], and some limited personal uses such as [[CB radio]], as well as for amateur radio designs. Walkie-talkies, thanks to increasing use of miniaturized electronics, can be made very small, with some personal two-way UHF radio models being smaller than a deck of cards (though VHF and HF units can be substantially larger due to the need for larger antennas and battery packs). In addition, as costs come down, it is possible to add advanced [[squelch]] capabilities such as [[CTCSS]] (analog squelch) and [[Digital-Coded Squelch|DCS]] (digital squelch) (often marketed as "privacy codes") to inexpensive radios, as well as voice scrambling and trunking capabilities. Some units (especially amateur HTs) also include [[DTMF]] keypads for remote operation of various devices such as [[repeater]]s. Some models include [[voice operated switch|VOX]] capability for hands-free operation, as well as the ability to attach external microphones and speakers.
+
+Consumer and commercial equipment differ in a number of ways; commercial gear is generally ruggedized, with metal cases, and often has only a few specific frequencies programmed into it (often, though not always, with a computer or other outside programming device; older units can simply swap crystals), since a given business or public safety agent must often abide by a specific frequency allocation. Consumer gear, on the other hand, is generally made to be small, lightweight, and capable of accessing any channel within the specified band, not just a subset of assigned channels.
+
+=== Military ===
+Military organizations use handheld radios for a variety of purposes. Modern units such as the [[AN/PRC-148]] Multiband Inter/Intra Team Radio (MBITR) can communicate on a variety of bands and modulation schemes and include [[encryption]] capabilities.
+
+=== Amateur radio ===
+Walkie-talkies (also known as HTs or "handheld transceivers") are widely used among [[amateur radio]] operators. While converted commercial gear by companies such as Motorola are not uncommon, many companies such as [[Yaesu (brand)|Yaesu]], [[Icom Incorporated|Icom]], and [[Kenwood Electronics|Kenwood]] design models specifically for amateur use. While superficially similar to commercial and personal units (including such things as CTCSS and DCS squelch functions, used primarily to activate amateur radio [[repeater]]s), amateur gear usually has a number of features that are not common to other gear, including:
+
+* Wide-band receivers, often including [[radio scanner]] functionality, for listening to non-amateur radio bands.
+* Multiple bands; while some operate only on specific bands such as [[2 meters]] or [[70 cm]], others support several UHF and VHF amateur allocations available to the user.
+* Since amateur allocations usually are not channelized, the user can dial in any frequency desired in the authorized band (whereas commercial HTs usually only allow the user to tune the radio into a number of already programmed channels). This is known as VFO mode.
+* Multiple modulation schemes: a few amateur HTs may allow modulation modes other than FM, including [[amplitude modulation|AM]], [[single sideband modulation|SSB]], and [[continuous wave|CW]],<ref>http://www.rigpix.com/tokyohypower/ht750.htm Tokyo HyPower HT750</ref><ref>http://www.rigpix.com/mizuho/mizuho_mx2.htm Mizuho MX2</ref> and digital modes such as [[radioteletype]] or [[PSK31]]. Some may have [[terminal node controller|TNCs]] built in to support [[packet radio]] data transmission without additional hardware.
+
+[[List of amateur radio modes#Digital voice|Digital voice modes]] are available on some amateur HTs. For example, a newer addition to the Amateur Radio service is Digital Smart Technology for Amateur Radio or [[D-STAR]].  Handheld radios with this technology have several advanced features, including narrower bandwidth, simultaneous voice and messaging, GPS position reporting, and callsign routed radio calls over a wide-ranging international network.
+
+As mentioned, commercial walkie-talkies can sometimes be reprogrammed to operate on amateur frequencies. Amateur radio operators may do this for cost reasons or due to a perception that commercial gear is more solidly constructed or better designed than purpose-built amateur gear.
+
+=== Personal use ===
+The personal walkie-talkie has become popular also because of licence-free services (such as the U.S. [[Family Radio Service|FRS]], Europe's [[PMR446]] and Australia's [[UHF CB]]) in other countries. While FRS walkie-talkies are also sometimes used as toys because mass-production makes them low cost, they have proper [[superheterodyne]] receivers and are a useful communication tool for both business and personal use. The boom in licence-free transceivers has, however, been a source of frustration to users of licensed services that are sometimes interfered with. For example, FRS and [[GMRS]] overlap in the United States, resulting in substantial [[pirate radio|pirate]] use of the GMRS frequencies. Use of the GMRS frequencies (USA) requires a license; however most users either disregard this requirement or are unaware. Canada reallocated frequencies for licence-free use due to heavy interference from US GMRS users. The European PMR446 channels fall in the middle of a United States UHF amateur allocation, and the US FRS channels interfere with public safety communications in the United Kingdom. Designs for personal walkie-talkies are in any case tightly regulated, generally requiring non-removable antennas (with a few exceptions such as [[CB radio]] and the United States [[Multi-Use Radio Service|MURS allocation]]) and forbidding modified radios.
+
+[[File:Mot t5400.jpg|thumb|A Motorola FRS radio]]
+
+Most personal walkie-talkies sold are designed to operate in [[UHF]] allocations, and are designed to be very compact, with buttons for changing channels and other settings on the face of the radio and a short, fixed antenna. Most such units are made of heavy, often brightly colored plastic, though some more expensive units have ruggedized metal or plastic cases. Commercial-grade radios are often designed to be used on allocations such as GMRS or MURS (the latter of which has had very little readily available purpose-built equipment). In addition, CB walkie-talkies are available, but less popular due to the propagation characteristics of the 27&nbsp;MHz band and the general bulkiness of the gear involved.
+
+Personal walkie-talkies are generally designed to give easy access to all available channels (and, if supplied, [[Selective calling|squelch codes]]) within the device's specified allocation.
+
+Personal two-way radios are also sometimes combined with other electronic devices; [[Garmin]]'s Rino series combine a [[GPS receiver]] in the same package as an FRS/GMRS walkie-talkie (allowing Rino users to transmit digital location data to each other) Some personal radios also include receivers for AM and FM broadcast radio and, where applicable, [[NOAA Weather Radio]] and similar systems broadcasting on the same frequencies. Some designs also allow the sending of text messages and pictures between similarly equipped units.
+
+While jobsite and government radios are often rated in power output, consumer radios are frequently and controversially rated in mile or kilometer ratings. Because of the [[Line-of-sight propagation|line of sight]] propagation of UHF signals, experienced users consider such ratings to be wildly exaggerated, and some manufacturers have begun printing range ratings on the package based on terrain as opposed to simple power output.
+
+While the bulk of personal walkie-talkie traffic is in the 27&nbsp;MHz and 400-500&nbsp;MHz area of the UHF spectrum, there are some units that use the "Part 15" 49&nbsp;MHz band (shared with cordless phones, baby monitors, and similar devices) as well as the "Part 15" 900&nbsp;MHz band; in the US at least, units in these bands do not require licenses as long as they adhere to FCC Part 15 power output rules. A company called [[TriSquare]] is, as of July 2007, marketing a series of walkie-talkies in the United States, based on [[frequency-hopping spread spectrum]] technology operating in this frequency range under the name [[eXtreme Radio Service|eXRS]] (eXtreme Radio Service—despite the name, a proprietary design, not an official allocation of the US FCC).  The spread-spectrum scheme used in eXRS radios allows up to 10 billion virtual "channels" and ensures private communications between two or more units.
+
+=== Recreation ===
+
+[[File:Antique toy walkie-talkie.jpg|thumb|A pair of vintage 27 MHz walkie-talkies for recreational purposes.]]
+Low-power versions, exempt from licence requirements, are also popular children's [[toy]]s such as the Fisher Price Walkie-Talkie for children illustrated in the top image on the right. Prior to the change of [[Citizens' band radio|CB]] radio from [[license]]d to "permitted by part" (FCC rules Part 95) status, the typical toy walkie-talkie available in [[North America]] was limited to 100 milliwatts of power on transmit and using one or two crystal-controlled channels in the 27 [[Megahertz|MHz]] [[Citizens' band radio|citizens' band]] using [[amplitude modulation]] (AM) only. Later toy walkie-talkies operated in the 49&nbsp;MHz band, some with [[frequency modulation]] (FM), shared with cordless phones and baby monitors. The lowest cost devices are very simple electronically (single-frequency, [[crystal oscillator|crystal-controlled]], generally based on a simple discrete [[transistor]] circuit where "grown-up" walkie-talkies use [[integrated circuit|chips]]), may employ [[regenerative circuit|superregenerative]] receivers, and may lack even a volume control, but they may nevertheless be elaborately decorated, often superficially resembling more "grown-up" radios such as FRS or public safety gear. Unlike more costly units, low-cost toy walkie-talkies may not have separate microphones and speakers; the receiver's speaker sometimes doubles as a microphone while in transmit mode.
+
+[[File:Toywt.jpg|thumb|An inexpensive children's walkie-talkie]]
+
+An unusual feature, common on children's walkie-talkies but seldom available otherwise even on amateur models, is a "code key", that is, a button allowing the operator to transmit [[Morse code]] or similar tones to another walkie-talkie operating on the same frequency. Generally the operator depresses the PTT button and taps out a message using a Morse Code [[crib sheet]] attached as a sticker to the radio. However, as Morse Code has fallen out of wide use outside amateur radio circles, some such units either have a grossly simplified code label or no longer provide a sticker at all.
+
+In addition, [[Family Radio Service]] [[Ultra high frequency|UHF]] radios will sometimes be bought and used as toys, though they are not generally explicitly marketed as such (but see [[Hasbro]]'s [[ChatNow]] line, which transmits both voice and digital data on the FRS band).
+
+=== Smartphone apps & connected devices ===
+A variety of [[mobile app]]s exist that mimic a walkie-talkie/[[Push-to-talk]] style interaction. They are marketed as low-latency, asynchronous communication. The advantages touted over two-way voice calls include: the asynchronous nature not requiring full user interaction (like [[SMS]]) and it is voice over IP ([[VOIP]]) so it does not use minutes on a cellular plan.
+
+Applications on the market that offer this walkie-talkie style interaction for audio include [[Voxer]], [[Zello]], [[Orion Labs]], [[Motorola Wave]], and HeyTell, among others.<ref name="VoiceApps">{{cite news|last=Pogue|first=David|title=Smartphone? Presto! 2-Way Radio|url=https://www.nytimes.com/2012/09/06/technology/personaltech/zello-heytell-and-voxer-make-your-smartphone-a-walkie-talkie-david-pogue.html?pagewanted=all|access-date=3 December 2012|newspaper=The New York Times|date=5 September 2012}}</ref>
+
+Other smartphone-based walkie-talkie products are made by companies like [[goTenna]], [[Fantom Dynamics]] and BearTooth, and offer a radio interface. Unlike mobile data dependent applications, these products work by pairing to an app on the user's smartphone and working over a radio interface.
+
+== Specialized uses ==
+[[File:USDA Grain Inspection New Orleans 1976.jpg|thumb|A [[USDA]] grain inspector with RCA TacTec walkie-talkie, [[New Orleans]], 1976]]
+
+In addition to land mobile use, waterproof walkie talkie designs are also used for [[marine VHF radio|marine VHF]] and [[Airband|aviation]] communications, especially on smaller boats and [[Ultralight aviation|ultralight aircraft]] where mounting a fixed radio might be impractical or expensive. Often such units will have switches to provide quick access to emergency and information channels. They are also used in recreational UTVs to coordinate logistics, keep riders out of the dust and are usually connected to an intercom and headsets
+
+[[Intrinsically safe]] walkie-talkies are often required in heavy industrial settings where the radio may be used around flammable vapors.  This designation means that the knobs and switches in the radio are engineered to avoid producing sparks as they are operated.
+
+== Accessories ==
+There are various accessories available for walkie-talkies such as rechargeable batteries, drop in rechargers, multi-unit rechargers for charging as many as six units at a time, and an audio accessory jack that can be used for headsets or speaker microphones.<ref>[https://www.intercomsonline.com/Articles.asp?ID=181 "Two Way Radios"] page of IntercomsOnline.com.</ref> Newer models allow the connection to wireless headsets via [[Bluetooth]].
+
+== ITU classification ==
+In line to the [[ITU Radio Regulations]], article 1.73, a walkie-talkie is classified as [[radio station]] / [[land mobile station]].
+
+== See also ==
+* [[Mobile radio telephone]]
+* [[AN/PRC-6]]
+* [[MOTO Talk]]
+* [[Push to talk]]
+* [[Serval project]]
+* [[Signal Corps Radio]]
+* [[Survival radio]]
+* [[Vehicular communication systems]]
+
+== References ==
+
+=== Footnotes ===
+{{Reflist|30em}}
+
+=== Notations ===
+* {{cite web |url=https://www.intercomsonline.com/Articles.asp?ID=181 |title=Two-Way Radio Success: How to Choose Two-Way Radios, Commercial Intercoms, and Other Wireless Communication Devices for Your Business|access-date=2008-10-24 |last=Onslow |first=David |publisher=IntercomsOnline.com}}
+
+== Further reading ==
+* Dunlap, Orrin E., Jr. ''Marconi: The man and his wireless''. (Arno Press., New York: 1971)
+* Harlow, Alvin F., ''Old Waves and New Wires: The History of the Telegraph, Telephone, and Wireless''. (Appleton-Century Co., New York: 1936)
+* Herrick, Clyde N., ''Radidselopments in Telecommunications 2nd Ed.'', (Prentice Hall Inc., New Jersey: 1977)
+* Martin, James. ''The Wired Society''. (Prentice Hall Inc., New Jersey: 1978)
+* Silver, H. Ward. ''Two-Way Radios and Scanners for Dummies''. (Wiley Publishing, Hoboken, NH, 2005, {{ISBN|978-0-7645-9582-0}})
+
+== External links ==
+{{Commons category}}
+{{Wiktionary|walkie-talkie}}
+* [http://www.scr300.org SCR-300-A Technical Manual]
+* [https://web.archive.org/web/20160719194041/http://www.signal.army.mil/OLD/ocos/museum/exhibits.asp U.S. Army Signal Corp Museum - exhibits and collections]
+*
+{{Telecommunications}}
+{{Two-way radio}}
+{{Authority control}}
+
+{{DEFAULTSORT:Walkie-Talkie}}
+[[Category:Canadian inventions]]
+[[Category:Mobile telecommunications user equipment]]
+[[Category:Radio communications]]
+[[Category:Walkie-talkies| ]]
+[[Category:Law enforcement equipment]]
+[[Category:20th-century inventions]]

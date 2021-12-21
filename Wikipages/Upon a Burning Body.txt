@@ -1,0 +1,191 @@
+{{Update|the 2019 album, 2018 single and new record label|date=January 2019}}
+{{redirect|UABB|the bienniale|Bi-City Biennale of Urbanism\Architecture}}
+{{Infobox musical artist
+| name            = Upon a Burning Body
+| image           = Upon A Burning Body Mayhemfest 2014.jpg
+| caption         = Upon a Burning Body at [[Mayhem Festival]] 2014
+| landscape       = yes
+| alias           = UABB
+| origin          = [[San Antonio]], [[Texas]], U.S.
+| genre           = [[Metalcore]], [[groove metal]],<ref>{{Cite web|date=2019-06-12|title=INTERVIEW: Ruben Alvarez - Upon A Burning Body|url=https://distortedsoundmag.com/interview-ruben-alvarez-upon-a-burning-body/|access-date=2020-12-14|website=Distorted Sound Magazine}}</ref> [[deathcore]] (early)
+| years_active    = 2005–present
+| label           = [[Sumerian Records|Sumerian]], Seek & Strike
+| associated_acts =
+| website         = {{URL|uponaburningbody.com}}
+| current_members = Danny Leal<br />Ruben Alvarez<br />Tito Felix<br />Thomas Alvarez
+| past_members    = Chris "CJ" Johnson<br />Ramon "Lord Cocos" Villarreal<br />Rey Martinez<br />Juan Hinojosa<br />Jonathan Gonzales<br />Sal Dominguez<br />Seth Webster<br />Joe Antonellis
+}}
+
+'''Upon a Burning Body''' is an American [[metalcore]] band from [[San Antonio]], [[Texas]],<ref name="Facebook">{{cite web|url = https://www.facebook.com/uponaburningbody|title = Upon A Burning Body|medium = official [[Facebook]] page|access-date = 2 February 2014}}</ref> formed in 2005. The band currently consists of vocalist Danny Leal, guitarist Ruben Alvarez, bassist Thomas Alvarez and drummer Tito Felix. Their second studio album, ''[[Red. White. Green.]]'', debuted at No. 105 on the [[Billboard 200|''Billboard'' 200]] in 2012.<ref name=Billboard>{{cite web|url=http://www.billboard.com/artist/277658/upon-burning-body/chart|title=Upon a Burning Body - Chart history|work=[[Billboard (magazine)|Billboard]]|access-date=November 9, 2016}}</ref> Their third studio album ''[[The World Is My Enemy Now]]'', released on 12 August 2014, performed even better, debuting at No. 39 on the [[Billboard 200|''Billboard'' 200]] of that year.<ref>{{Cite web|url=http://www.billboard.com/artist/277658/upon-burning-body/chart|title=Upon a Burning Body - Chart history {{!}} Billboard|website=www.billboard.com|access-date=2016-11-19}}</ref> while in the same year joining the successful American-based heavy metal band [[Five Finger Death Punch]] on their tour as their support act with a very successful gig at 013 Tilburg stage in the Netherlands. In March 2014. The band released their fourth studio album ''[[Straight from the Barrio]]'' on October 28, 2016. The band is currently signed to Seek & Strike Records.<ref>[http://www.revolvermag.com/news/upon-a-burning-body-premiere-new-song-scars.html Upon a Burning Body Premiere New Song, “Scars”]. ''[[Revolver Magazine]]'', 3 July 2014. Retrieved 2 February 2015.</ref>
+
+==Members==
+'''Current'''
+* Danny Leal – lead vocals {{small|(2005–present)}}
+* Ruben Alvarez – lead guitar {{small|(2015–present)}}, rhythm guitar {{small|(2012–present)}}, backing vocals {{small|(2005–present)}}, bass {{small|(2005–2012, 2016–2017)}}
+* Tito Felix – drums, percussion<ref>{{cite web|url=http://www.axs.com/upon-a-burning-body-blazes-trail-of-wide-pits-in-name-of-texas-at-knot-26649|title=Upon A Burning Body blazes trail of wide pits in name of Texas at Knotfest|author=Jay Nanda|work=AXS|access-date=6 May 2015}}</ref><ref>{{cite web|url=http://www.themonitor.com/entertainment/never-say-never-local-fest-celebrates-seven-years-with-weekend/article_b6326a04-ce5d-11e4-9c29-0b5efcd2b0ef.html|title=Never Say Never: Local fest celebrates seven years with weekend date change|work=The Monitor|access-date=6 May 2015}}</ref> {{small|(2014–present)}}
+* Thomas Alvarez - bass {{small|(2020-present)}}
+
+
+'''Former'''
+* Juan Hinojosa – drums {{small|(2005–2008, 2011)}}
+* Chris "CJ" Johnson – rhythm guitar {{small|(2005–2012)}}
+* Seth Webster – bass {{small|(2012–2013)}}
+* Jonathon Gonzales – drums {{small|(2011–2013)}}
+* Ramon "Lord Cocos" Villarreal – drums {{small|(2008–2011, 2013–2014)}} 
+* Sal Dominguez – lead guitar {{small|(2005–2015)}}
+* Rey Martinez – bass {{small|(2013–2016)}}
+* Joe Antonellis - bass {{small|(2017–2020)}}
+
+
+'''Timeline'''
+{{#tag:timeline|
+ImageSize = width:800 height:auto barincrement:20
+PlotArea = left:100 bottom:80 top:0 right:10
+Alignbars = justify
+DateFormat  = dd/mm/yyyy
+Period = from:01/01/2005 till:{{#time:d/m/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:4
+ScaleMajor = increment:2 start:2005
+ScaleMinor = increment:1 start:2005
+
+Colors =
+  id:Lvocals value:red         legend:Lead_vocals
+  id:Bvocals value:pink        legend:Backing_vocals
+  id:Lguitar value:teal        legend:Lead_guitar
+  id:Rguitar value:brightgreen legend:Rhythm_guitar
+  id:Bass    value:blue        legend:Bass
+  id:Drums   value:orange      legend:Drums,_percussion
+  id:Studio  value:black       legend:Studio_release
+  id:Other   value:gray(0.6)   legend:Others_release
+
+LineData = 
+ layer:back
+ color:other
+  at:01/07/2005
+  at:31/07/2020
+ color:Studio 
+  at:06/04/2010
+  at:10/04/2012
+  at:12/08/2014
+  at:28/10/2016
+  at:07/06/2019
+  
+BarData =
+  bar:DL text:"Danny Leal"
+  bar:SD text:"Sal Dominguez"
+  bar:CJ text:"Chris Johnson"
+  bar:RA text:"Ruben Alvarez"
+  bar:SW text:"Seth Webster"
+  bar:RM text:"Rey Martinez"
+  bar:JA text:"Joe Antonellis"
+  bar:TA text:"Thomas Alvarez"
+  bar:JH text:"Juan Hinojosa"
+  bar:RV text:"Ramon Villarreal"
+  bar:JG text:"Jonathon Gonzales"
+  bar:TF text:"Tito Felix"
+  
+PlotData=
+  width:11 textcolor:black align:left anchor:from shift:(11,-4)
+  bar:DL from:01/01/2005 till:end        color:Lvocals
+  bar:SD from:01/01/2005 till:01/07/2015 color:Lguitar
+  bar:CJ from:01/01/2005 till:10/08/2012 color:Rguitar
+  bar:RA from:01/01/2005 till:10/08/2012 color:Bass
+  bar:RA from:01/01/2005 till:end        color:Bvocals width:3
+  bar:RA from:10/08/2012 till:01/07/2015 color:Rguitar
+  bar:RA from:01/07/2015 till:end        color:Lguitar
+  bar:RA from:01/07/2015 till:end        color:Rguitar width:7
+  bar:RA from:01/09/2016 till:01/01/2017 color:Bass width:5
+  bar:SW from:10/08/2012 till:01/01/2013 color:Bass
+  bar:RM from:01/01/2013 till:01/09/2016 color:Bass
+  bar:JA from:01/01/2017 till:01/01/2020 color:Bass
+  bar:TA from:01/01/2020 till:end        color:Bass
+  bar:JH from:01/01/2005 till:05/10/2008 color:Drums
+  bar:JH from:01/02/2011 till:09/08/2011 color:Drums
+  bar:RV from:05/10/2008 till:01/02/2011 color:Drums
+  bar:RV from:01/01/2013 till:25/02/2014 color:Drums
+  bar:JG from:09/08/2011 till:01/01/2013 color:Drums
+  bar:TF from:25/02/2014 till:end        color:Drums 
+  }}
+
+==Discography==
+===Studio albums===
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Album details
+! colspan="6"| Peak chart positions<ref name=Billboard/>
+|-
+!style="width:3em;font-size:75%"| [[Billboard 200|US]]
+!style="width:3em;font-size:75%"| US Heat
+!style="width:3em;font-size:75%"| US Indep
+!style="width:3em;font-size:75%"| US Hard Rock
+!style="width:3em;font-size:75%"| US Rock
+!style="width:3em;font-size:75%"| UK Rock
+|-
+| align=left| ''[[The World Is Ours (Upon a Burning Body album)|The World Is Ours]]''
+* Release date: {{dts|2010-04-06}}
+* Label: [[Sumerian Records|Sumerian]]
+| — || 28 || — || — || — || —
+|-
+| align=left| ''[[Red. White. Green.]]''
+* Release date: {{dts|2012-04-10}}
+* Label: Sumerian
+| 105 || 1 || 20 || 11 || 35 || —
+|-
+| align=left| ''[[The World Is My Enemy Now]]''
+* Release date: {{dts|2014-08-12}}
+* Label: Sumerian
+| 39 || — || 6 || 3 || 12 || 18<ref name="officialcharts.com">{{cite web|url=https://www.officialcharts.com/charts/rock-and-metal-albums-chart/20140817/112/|title=2014-08-23 Top 40 Rock & Metal Albums Archive - Official Charts|work=[[Official Charts Company]]|access-date=7 February 2015}}</ref>
+|-
+| align=left| ''[[Straight from the Barrio]]''
+* Release date: {{dts|2016-10-28}}
+* Label: Sumerian
+| — || — || 12 || 8 || 22 || —
+|-
+| align=left| ''[[Southern Hostility]]''<ref>{{cite web|url=https://www.theprp.com/2019/05/02/news/upon-a-burning-body-premiere-king-of-diamonds-music-video-new-album-due-in-june/|title=Upon A Burning Body Premiere "King Of Diamonds" Music Video, New Album Due In June|publisher=ThePRP|access-date=May 3, 2019|date=May 2, 2019}}</ref>
+* Release date: {{dts|2019-06-07}}
+* Label: Seek & Strike
+| — || — || — || — || — || —
+|}
+
+===Extended plays===
+*''Genocide'' (2005)
+*''Built from War'' (2020)<ref>{{cite news|url=https://www.theprp.com/2020/05/26/news/upon-a-burning-body-to-release-built-from-war-ep-in-july/|title=Upon A Burning Body To Release "Built From War" EP In July|work=ThePRP|date=May 26, 2020|access-date=May 27, 2020}}</ref>
+
+===Singles===
+* "Sin City" (2012)<ref>{{Cite web|url=https://www.altpress.com/news/upon_a_burning_body_premiere_sin_city_video/|title=Upon A Burning Body premiere "Sin City" video|first=Michele|last=Bird|date=December 6, 2012}}</ref>
+* "Once Upon A Time In Mexico" (2012)<ref>{{Cite web|url=https://www.altpress.com/news/upon_a_burning_body_release_once_upon_a_time_in_mexico_video/|title=Upon A Burning Body release "Once Upon A Time In Mexico" video|first=Bryne|last=Yancey|date=April 3, 2012}}</ref>
+* "Scars" (2014)
+* "Red Razor Wrists" (2014)
+* "Bring the Rain" (2014)<ref>{{Cite web|url=http://metalholic.com/2014-upon-a-burning-body-interview/|title=10 Minutes of Mayhem with UPON A BURNING BODY|date=August 5, 2014|website=Metalholic}}</ref>
+* "Til the Break of Dawn" (2016)<ref>{{Cite web|url=https://open.spotify.com/album/6tn0nrGEZev9pka7WKYkzA|title='Til The Break Of Dawn|via=open.spotify.com}}</ref>
+* "Already Broken" (2016)<ref>{{Cite web|url=https://open.spotify.com/album/55XgFdH3bZLU9JnodRvIo0|title=Already Broken|via=open.spotify.com}}</ref>
+* "Remenissions" (2018)<ref>{{Cite web|url=https://open.spotify.com/album/24gge9fvwFfzWwV8ZV4j3D|title=Remenissions|via=open.spotify.com}}</ref>
+* "King of Diamonds" (2019)<ref>{{Cite web|url=https://open.spotify.com/album/593WFzgU762VHPXzLNUKQa|title=King of Diamonds|via=open.spotify.com}}</ref>
+* "Reinventing Hatred" (2019)
+* "All Pride No Pain" (2019)<ref>{{Cite web|url=https://open.spotify.com/album/1BVvHpjzpIhvfC98htOt9z|title=All Pride No Pain|via=open.spotify.com}}</ref>
+* "Built From War" (2020)<ref>{{Cite web|url=https://open.spotify.com/album/4RHzq9PEBjoEvxf0gPBzbF|title=Built from War|via=open.spotify.com}}</ref>
+* "5x3" (2020) <ref>{{Cite web|url=https://open.spotify.com/album/7N0w5nxPWAyeovkmBRThdA|title=5x3|via=open.spotify.com}}</ref>
+* ”Chains of Agony” (2020) <ref>{{Cite web|url=https://open.spotify.com/track/4ojInUWqb3yxij8xSBQTvd|title=Chains of Agony|via=open.spotify.com}}</ref>
+* "Snake Eyes" (2021) <ref>{{Cite web|URL=https://spoti.fi/3p4Pbje}}|title=Snake Eyes|via=open.spotify.com}}</ref>
+
+===Demos===
+*''Upon a Burning Body'' (2005) <ref>{{Cite web|title=Upon A Burning Body - Upon A Burning Body|url=https://www.discogs.com/Upon-A-Burning-Body-Upon-A-Burning-Body/release/9461551|access-date=2020-12-16|website=Discogs|language=en}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.uponaburningbody.com}}
+
+{{Upon a Burning Body|state=autocollapse}}
+{{Authority control}}
+
+[[Category:American deathcore musical groups]]
+[[Category:Heavy metal musical groups from Texas]]
+[[Category:Musical groups from San Antonio]]
+[[Category:2005 establishments in Texas]]
+[[Category:Musical groups established in 2005]]
+[[Category:Sumerian Records artists]]
+[[Category:Musical quintets]]
+{{US-metal-band-stub}}

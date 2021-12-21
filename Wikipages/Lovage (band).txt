@@ -1,0 +1,39 @@
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name                = Lovage
+| image               = 
+| caption             = 
+| image_size          = <!-- Only for images narrower than 220 pixels -->
+| background          = group_or_band
+| origin              = [[United States]]
+| genre               = [[Downtempo]], [[Psychedelic music|psychedelic]], [[trip hop]], [[Lounge music|lounge]]
+| years_active        = 2000–2002
+| label               = [[Tommy Boy Records|Tommy Boy]]
+| associated_acts     = [[Kid Koala]], [[Handsome Boy Modeling School]]
+| current_members     = [[Dan the Automator]]<br>[[Mike Patton]]<br>[[Jennifer Charles]]<br>[[Kid Koala]]<br>[[Brandon Arnovick]]
+}}
+'''Lovage''' was a collaborative project headed by [[Dan the Automator]],<ref name= "avclub">{{cite news |last=Rabin |first=Nathan |url= https://music.avclub.com/nathaniel-merriweather-presents-lovage-music-to-make-l-1798197000 |title=Nathaniel Merriweather Presents Lovage: ''Music To Make Love To Your Old Lady By'' |work=[[The A.V. Club]] |date=April 19, 2002 |accessdate=April 19, 2020}}</ref> under his pseudonym "Nathaniel Merriweather" (a persona he created for the project [[Handsome Boy Modeling School]]).<ref name= "faces">{{cite news |last=Harvilla |first=Rob |url= https://www.theringer.com/music/2019/8/1/20749404/handsome-boy-modeling-school-20-years-prince-paul-dan-automator |title=Look at These Faces: How Handsome Boy Modeling School Created the Perfect Album for ’99 |work=[[The Ringer (website)|The Ringer]] |date=August 1, 2019 |accessdate=April 19, 2020}}</ref> Their only album is titled ''[[Music to Make Love to Your Old Lady By]]'', which was created in team with [[Mike Patton]] and [[Jennifer Charles]], who both provide vocals.<ref name= "Patton">{{cite news |last=Rolli |first=Bryan |url= https://consequenceofsound.net/2020/03/outside-the-spotlight-mike-patton/ |title=Faith No More’s Mike Patton Is the Busiest Man in Metal |work=[[Consequence of Sound]] |date=March 13, 2020 |accessdate=April 19, 2020}}</ref>  [[Kid Koala]] plays turntables and samples and toured with the band for their 13-city U.S. tour.
+
+==Discography==
+*''[[Music to Make Love to Your Old Lady By]]'' (Tommy Boy 2001)
+
+===Music videos===
+*"Book of the Month"
+*"Stroker Ace"
+
+==References==
+{{reflist}}
+
+==External links==
+* {{discogs artist}}
+* [https://web.archive.org/web/20020205220903/http://bigbaer.com/nathanielmerriweather_lovage.htm Nathaniel Merriweather - Lovage - Music To Make Love To Your Old Lady By]
+*[https://web.archive.org/web/20170505132051/http://pod.icast.co.il/1a6af070-d81d-4898-a3cd-011847660b0b.icast.mp3 Jennifer Charles interviewed on Jekyll and Hyde, 106FM Jerusalem 2010]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lovage}}
+[[Category:Trip hop groups]]
+[[Category:American electronic music groups]]
+[[Category:Downtempo musicians]]
+
+
+{{US-electronic-band-stub}}

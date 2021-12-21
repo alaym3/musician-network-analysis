@@ -1,0 +1,63 @@
+{{Short description|American independent video game development company}}
+{{Use mdy dates|date=August 2021}}
+{{Primary sources|date=May 2013}}
+{{Infobox company
+| name = Wolfire Games
+| logo = [[File:Wolfire Logo= small.png|alt=]]
+| type = [[Privately held company|Private]]
+| location_city = [[San Francisco Bay Area]], [[California]]
+| location_country = US
+| foundation = 2003
+| founder = David Rosen
+| key_people = David Rosen <small>([[CEO]] and lead programmer)</small> <br /> Jeffrey Rosen <small>(president)</small><br />John Graham <small>([[Chief operating officer|COO]])</small> <br />Aubrey Serr <small>(lead artist)</small>
+| industry = [[Video game industry|Video games]]
+| num_employees = 4<ref name="wolfire1">{{cite web|url=http://www.wolfire.com/overgrowth |title=Overgrowth – Wolfire Games |publisher=Wolfire.com |date= |accessdate=October 5, 2013}}</ref>
+| products = ''[[Lugaru]]''<br />''[[Black Shades]]''<br />''[[Overgrowth (video game)|Overgrowth]]''<br />''[[Receiver (video game)|Receiver]]''<br />''Receiver 2''
+| homepage = {{URL|wolfire.com}}
+}}
+
+'''Wolfire Games''' is an American [[independent video game developer|independent video game development]] company founded by David Rosen. Wolfire Games develops video games for [[macOS]], [[Windows]], and [[Linux]].<ref>{{cite web|url=http://www.wolfire.com/ |title=Independent Video Games – Wolfire Games |publisher=Wolfire.com |date= |accessdate=October 5, 2013}}</ref>
+
+== History ==
+David Rosen founded Wolfire Games in 2003 to organize his [[open source video game]] contest entries.<ref>{{cite web|url=http://daily.swarthmore.edu/2006/02/06/college-corner-interview-with-david-rosen-computer-game-creator-extraordinaire/ |title=College Corner: Interview with David Rosen, computer game-creator extraordinaire &#124; Daily Gazette |publisher=Daily.swarthmore.edu |date=February 6, 2006 |accessdate=October 5, 2013}}</ref> After graduating from [[Swarthmore College]] in 2008, he was joined by his twin brother, Jeff, and two friends. In 2010, Wolfire ran the first [[Humble Bundle]], later spun off as a separate company.{{cn|date=July 2021}}
+
+The company was awarded 5th Best Indie Game by [[ModDB]].{{clarify|date=July 2021}}<ref>{{cite web|url=http://blog.wolfire.com/2009/03/overgrowth-voted-5th-best-indie-game-on-moddb/ |title=Overgrowth Voted 5th Best Indie Game on ModDB – Wolfire Games Blog |publisher=Blog.wolfire.com |date=March 1, 2009 |accessdate=October 5, 2013}}</ref>
+
+The company operates a [[YouTube]] channel on which it releases game footage and highlights new features.{{cn|date=July 2021}}
+
+The company name was inspired by "Wolfenstein", a stray dog the Rosen brothers adopted in 1996 and named for the [[Wolfenstein (series)|video game series]].<ref>{{cite web|url=http://blog.wolfire.com/2009/04/the-origin-of-wolfire/ |title=The origin of Wolfire – Wolfire Games Blog |publisher=Blog.wolfire.com |date=April 15, 2009 |accessdate=October 5, 2013}}</ref>
+
+== Games ==
+*''GLFighters''&nbsp;– 2001&nbsp;– Mac OS 9<ref>{{cite web|url=http://www.wolfire.com/glfighters |title=GLFighters – Wolfire Games |publisher=Wolfire.com |date= |accessdate=October 5, 2013}}</ref>
+*''[[Black Shades]]''
+**''Black Shades''&nbsp;– 2002&nbsp;– Linux, Mac OS 9, Mac OS X, Windows<ref>{{cite web|url=http://www.wolfire.com/black-shades |title=Black Shades – Wolfire Games |publisher=Wolfire.com |date= |accessdate=October 5, 2013}}</ref>
+**''Black Shades iPhone''&nbsp;– 2009&nbsp;– iPhone<ref>{{cite web|url=http://www.wolfire.com/black-shades-iphone |title=Black Shades iPhone – Wolfire Games |publisher=Wolfire.com |date= |accessdate=October 5, 2013}}</ref>
+*''[[Lightning's Shadow]]''&nbsp;– 2003&nbsp;– Mac OS 9<ref>{{cite web|url=http://www.wolfire.com/lightnings-shadow |title=Lightning's Shadow – Wolfire Games |publisher=Wolfire.com |date= |accessdate=October 5, 2013}}</ref>
+*''[[Lugaru]]''&nbsp;– 2005&nbsp;– Linux, Mac OS X, Windows<ref>{{cite web|url=http://www.wolfire.com/lugaru |title=Lugaru HD – Wolfire Games |publisher=Wolfire.com |date= |accessdate=October 5, 2013}}</ref>
+*''The Broadside Express''&nbsp;– 2012&nbsp;– Linux, Mac OS X, Windows (developed for the [[Humble Bundle Mojam]] using the [[Unity (game engine)|Unity]] game engine)
+*''[[Receiver (video game)|Receiver]]''&nbsp;– 2012&nbsp;– Linux, Mac OS X, Windows (developed for the 2012 7dfps challenge using the [[Unity (game engine)|Unity]] game engine)
+*''Desperate Gods''&nbsp;– 2012&nbsp;– Mac OS X, Windows (developed for the 2012 Fuck This Jam challenge using the [[Unity (game engine)|Unity]] game engine. Updates will continue after the challenge)
+*''Low-light Combat''&nbsp;– 2013&nbsp;– Linux, Mac OS X, Windows (developed for the [[Humble Bundle#Humble Bundle Mojang 2|Humble Bundle Mojam 2]] using the [[Unity (game engine)|Unity]] game engine)
+*''[[Overgrowth (video game)|Overgrowth]]''&nbsp;– 2017&nbsp;– Windows, macOS, Linux<ref name="wolfire1" />
+*''Receiver II''&nbsp;– 2020&nbsp;– Windows, macOS, Linux
+
+== See also ==
+* [[Humble Indie Bundle]]
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* {{Official Website|http://www.wolfire.com}}
+* [http://blog.wolfire.com/ Blog]
+* [http://forums.wolfire.com/ Forums]
+
+[[Category:American companies established in 2003]]
+[[Category:Video game companies of the United States]]
+[[Category:Video game companies based in California]]
+[[Category:Independent video game developers]]
+[[Category:Video game development companies]]
+[[Category:Software companies based in the San Francisco Bay Area]]
+[[Category:Video game companies established in 2003]]
+[[Category:2003 establishments in California]]
+[[Category:Privately held companies based in California]]

@@ -1,0 +1,52 @@
+{{Infobox film
+| image          =
+| alt            =
+| caption        =
+| director       = John Bacchus
+| producer       =
+| writer         = John Baccus
+| starring       = Jenicia Garcia<br>Jackeem Sellers<br>Randy Clarke
+| music          =
+| cinematography = Paul Swan
+| editing        =
+| studio         = Purgatory Blues
+| distributor    = [[Lionsgate Films]]
+| released       = {{Film date|2005|05|17|ref1=<ref name=release>{{cite web|url=http://bloody-disgusting.com/news/3210/lions-gate-makes-huge-dvd-release-announcements/|title=Lions Gate Makes Huge DVD Release Announcements|author=<!-- Staff -->|work=[[Bloody Disgusting]]|date=2005-01-25|access-date=2014-06-22}}</ref>}}
+| runtime        = 83 minutes
+| country        = United States
+| language       = English
+| budget         =
+| gross          =
+}}
+'''''Zombiez''''' is a 2005 American [[horror film]] written and directed by [[John Bacchus]] (as ZWS).  It stars Jenicia Garcia, Jackeem Sellers, and Randy Clarke.  Garcia plays a woman who fights to free her husband from a mad scientist played by Sellers.
+
+== Plot ==
+After zombies kill her coworkers at a construction company, Josephine flees to her house, where she and her husband attempt to make a stand.  The zombies capture Josephine and her husband, but she escapes.  After a series of adventures throughout the city, she returns to rescue her husband. She discovers he is held by The Dr., who claims to control the zombies.  Josephine fights The Dr. and defeats him.
+
+== Cast ==
+* Jenicia Garcia as Josephine
+* Jackeem Sellers as The Dr.
+* Randy Clarke as Steve
+* Raymond Spencer as Terry
+
+== Release ==
+[[Lionsgate Films]] released ''Zombiez'' direct-to-video on May 17, 2005.<ref name=release/>
+
+== Reception ==
+Jon Condit of [[Dread Central]] rated it 0/5 stars and called it "the absolute worst of the direct-to-video horror genre".<ref>{{cite web |last1=Condit |first1=Jon |title=Zombiez (2005) |url=https://www.dreadcentral.com/reviews/3726/zombiez-2005/ |website=Dread Central |access-date=5 April 2021}}</ref>  David Walker of [[DVD Talk]] rated it 0/5 stars and wrote, "There is nothing good to say about this garbage."<ref>{{cite web|url=http://www.dvdtalk.com/reviews/16073/zombiez/|title=Zombiez|last=Walker|first=David|work=[[DVD Talk]]|date=2005-05-29|access-date=2014-06-23}}</ref>  [[Peter Dendle]] called it "pointless and uninteresting, with no discernible sense of love for the topic."<ref>{{cite book|title=The Zombie Movie Encyclopedia, Volume 2: 2000-2010|last=Dendle|first=Peter|author-link=Peter Dendle|publisher=[[McFarland Publishing]]|year=2012|isbn=9780786492886|pages=243–244|url=https://books.google.com/books?id=DG6rK0PE2vIC&pg=PA243}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{IMDb title|0467149}}
+
+[[Category:2005 films]]
+[[Category:2005 horror films]]
+[[Category:American films]]
+[[Category:American zombie films]]
+[[Category:American independent films]]
+[[Category:Direct-to-video horror films]]
+[[Category:Mad scientist films]]
+
+{{2000s-horror-film-stub}}

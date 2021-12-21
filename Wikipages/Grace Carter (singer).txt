@@ -1,0 +1,166 @@
+{{short description|British singer and songwriter}}
+{{Use mdy dates|date=April 2019}}
+{{Infobox person
+| name         = Grace Carter
+| image        =
+| caption      =
+| alt          =
+| birth_name   = 
+| birth_date   = {{birth date and age|1997|5|26|df=yes}}
+| birth_place  = [[London]], England
+| nationality  =
+| other_names  =
+| occupation   = {{hlist|Singer|songwriter}}
+| years_active = 2017–present
+| relatives    = [[Paul Phillips (songwriter/singer)|Paul Phillips]] {{small|(step-father)}}
+| module       = {{Infobox musical artist
+| embed           = yes
+| genre           = {{hlist|[[Contemporary R&B|R&B]]|[[Soul music|Soul]]|[[Pop music|Pop]]}}
+| instrument      = Vocals
+| label           = [[Polydor Records|Polydor]]
+| associated_acts = {{hlist|[[Dua Lipa]]|[[Rag'n'Bone Man]]}}
+| website         = {{URL|gracecarterofficial.com}}
+}}
+}}
+
+'''Grace Carter''' (born 26 May 1997) is a British singer and songwriter from [[London]], England. She moved to [[Brighton]] at age eight, with her mother, but is now based in [[London]].<ref>{{cite web | url=https://www.theargus.co.uk/news/17523214.grace-carter-gets-ready-to-hit-the-stage-at-concorde-2-brighton/ | title=Grace Carter gets ready to hit the stage at Concorde 2, Brighton | work=[[The Argus (Brighton)|The Argus]] | date=24 March 2019 | accessdate=16 April 2019 | author=Walker, Jamie}}</ref> She released her debut single, "Silence", in May 2017. She rose to prominence after supporting [[Dua Lipa]] on tour during [[List of Dua Lipa concert tours#The Self-Titled Tour (2017–2018)|The Self-Titled Tour]] in October 2017, and has additionally been a supporting act for other performers including [[Rag'n'Bone Man]]. In 2018-19, she headlined two tours of the UK and Europe. Carter placed third in [[BBC Music]]'s "Sound of 2019" poll of industry experts and artists. Her father was absent from her life as he was raising another family;<ref>{{cite web | title = BBC Sound of 2019: Grace Carter interview | url=https://www.bbc.co.uk/news/entertainment-arts-46739425 | work=[[BBC News]] | date=9 January 2019 | accessdate=16 April 2019 | author=Youngs, Ian}}</ref> her step-father is singer-songwriter and former ''[[Music Week]]'' journalist [[Paul Phillips (songwriter/singer)|Paul Phillips]],<ref>{{cite web | url=https://www.standard.co.uk/go/london/music/grace-carter-interview-singer-heal-me-a4080041.html | title=Grace Carter interview: 'My dad broke my heart before any boy had a chance to' | work=[[Evening Standard]] | date=1 March 2019 | accessdate=16 April 2019 | author=Smyth, David}}</ref> who she credits with the idea of venting her frustration by writing about it.<ref>{{cite web | url=https://www.theguardian.com/music/2018/jul/21/grace-carter-one-to-watch-saving-grace-ashes | title=One to watch: Grace Carter | work=[[The Guardian]] | date=21 July 2018 | accessdate=16 April 2019 | author=Kheraj, Alim}}</ref>
+
+== Discography ==
+=== Extended plays ===
+{| class="wikitable plainrowheaders" style="text-align:left;"
+|+ List of extended plays
+! scope="col"| Title
+! scope="col"| Details
+! scope="col"| Track listing
+|-
+! scope="row"| ''Why Her Not Me''
+|
+* Released: 10 December 2018
+* Label: [[Polydor Records|Polydor]]
+* Format: [[Music download|Digital download]], [[Streaming media|streaming]]
+| {{Track listing
+| total_length = 24:02
+| extra_column = Producer(s)
+| collapsed = yes
+
+| title1 = Why Her Not Me
+| writer1 = {{hlist|Grace Carter|Mike Kintish}}
+| extra1 = {{hlist|The 23rd|[[Stephen Kozmeniuk|Koz]]}}
+| length1 = 3:50
+
+| title2 = Silence
+| writer2 = {{hlist|Carter|George Flint|Henry Flint}}
+| extra2 = {{hlist|The 23rd|Koz}}
+| length2 = 3:42
+
+| title3 = Silhouette
+| writer3 = {{hlist|Carter|[[Justin Parker]]|G. Flint|H. Flint}}
+| extra3 = The 23rd
+| length3 = 3:43
+
+| title4 = Waiting Room
+| note4 = demo
+| writer4 = {{hlist|Carter|Ben Mark|Jamie Norton}}
+| extra4 = The 23rd
+| length4 = 3:13
+
+| title5 = Saving Grace
+| writer5 = {{hlist|Carter|Rob Geraghty}}
+| extra5 = {{hlist|The 23rd|Koz|Geraghty}}
+| length5 = 3:35
+
+| title6 = Ashes
+| writer6 = {{hlist|Carter|[[Ritual (electronic band)|Adam Midgley]]|[[Ritual (electronic band)|Gerard O'Connell]]|[[Ritual (electronic band)|Tommy Baxter]]}}
+| extra6 = {{hlist|The 23rd|[[Mike Dean (record producer)|Mike Dean]]|[[Ritual (electronic band)|Ritual]]}}
+| length6 = 3:02
+
+| title7 = Half of You
+| note7 = demo
+| writer7 = {{hlist|Carter|G. Flint|H. Flint}}
+| extra7 = The 23rd
+| length7 = 2:57
+}}
+|}
+
+===Singles===
+==== As lead artist ====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, showing year released and album/EP
+! scope="col" rowspan="2" style="width:18em;" | Title
+! scope="col" rowspan="2" | Year
+! scope="col" colspan="2" | Peak chart positions
+! scope="col" rowspan="2" | Album/EP
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Singles Chart|IRE]]<br /><ref>{{cite web|url=http://irma.ie/index.cfm?page=irish-charts&chart=Singles|title=IRMA – Irish Charts|publisher=[[Irish Recorded Music Association]]|accessdate=13 July 2019}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Scottish Singles and Albums Charts|SCO]]<br /><ref>{{Cite web|url=https://www.officialcharts.com/charts/scottish-singles-chart/20190712/41/|title=Official Scottish Singles Sales Chart Top 100: 12 July 2019 – 18 July 2019|publisher=[[Official Charts Company]]|accessdate=13 July 2019}}</ref>
+|-
+! scope="row" | "Silence"
+| rowspan="2" | 2017
+| — || —
+| rowspan="5" | ''Why Her Not Me''
+|-
+! scope="row" | "Ashes"
+| — || —
+|-
+! scope="row" | "Silhouette"
+| rowspan="3" | 2018
+| — || —
+|-
+! scope="row" | "Saving Grace"
+| — || —
+|-
+! scope="row" | "Why Her Not Me"
+| — || —
+|-
+! scope="row" | "Heal Me"
+| rowspan="5" | 2019
+| — || —
+| rowspan="6" {{N/A|Non-album singles}}
+|-
+! scope="row" | "Don't Hurt Like It Used To"
+| — || —
+|-
+! scope="row" | "[[Wicked Game]]"
+| 100 || 42
+|-
+! scope="row" | "Fired Up"
+| — || —
+|-
+! scope="row" | "Amnesia"
+| — || —
+|-
+! scope="row" | "Blame"<br>{{small|(with [[Jacob Banks]])}}
+| rowspan="1" | 2020
+| — || —
+|-
+! scope="row" | "Dark Matter"
+| rowspan="1" | 2021
+| — || —
+| rowspan="1" {{TBA}}
+|}
+
+==== As featured artist ====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of featured singles, showing year released and album name
+! scope="col" style="width:18em;"| Title
+! scope="col" style="width:1em;"| Year
+! scope="col"| Album
+|-
+! scope="row"| "[[Times Like These (song)#Live Lounge Allstars charity single|Times Like These]]"<br/><span style="font-size:85%;">(as part of [[Times Like These (song)#Artists|Live Lounge Allstars]])</span>
+| 2020
+| {{n/a|Non-album single}}
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Carter, Grace}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Polydor Records artists]]
+[[Category:Singers from London]]
+[[Category:21st-century English women singers]]
+[[Category:21st-century English singers]]

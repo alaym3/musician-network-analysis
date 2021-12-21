@@ -1,0 +1,208 @@
+{{Short description|American progressive rock band}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name             = Polyphia
+| background       = group_or_band
+| image            = Polyphia - Manchester, UK - 6 February 2019.jpg
+| landscape        = yes
+| origin           = [[Plano, Texas]], United States
+| genre            = {{Flat list|
+*[[Progressive rock]]
+*[[math rock]]
+*[[electronic rock]]
+*[[Hip hop music|Hip hop]]
+}}
+| years_active     = 2010–present
+| label            = {{flatlist|
+*[[Equal Vision Records|Equal Vision]]
+*Headphone Music}}
+| associated_acts  = {{Flat list|
+*[[Chon (band)|Chon]]
+*[[Yvette Young|Covet]]
+*[[Intervals (band)|Intervals]]
+*[[Y2K (record producer)|Y2K]]
+*[[Babymetal]]
+*[[bbno$]]
+*[[Blackbear (musician)|Blackbear]]
+*[[Unprocessed]]
+*[[Jason Richardson (musician)|Jason Richardson]]
+*[[This Town Needs Guns|TTNG]]
+*[[Tricot (band)|Tricot]]
+}}
+| website          = {{URL|https://polyphia.com}}
+| current_members  = Tim Henson<br>Scott LePage<br>Clay Gober<br>Clay Aeschliman
+| past_members     = Randy Methe<br>Brandon Burkhalter<br>Lane Duskin
+| caption          = Polyphia performing in 2019
+}}
+
+'''Polyphia''' is a primarily instrumental [[progressive rock]] band based in [[Plano, Texas]] that formed in 2010.
+
+==History==
+[[File:Polyphia caracol 2017 11 23.png|thumb|Polyphia performing in 2017]]
+Polyphia first achieved mainstream success when the guitar play-through of "Impassion", from the EP, ''Inspire'', went viral on [[YouTube]]. The band continues to grow in popularity and have gone on several national tours sharing the stage with [[progressive metalcore]] giants such as [[Periphery (band)|Periphery]], [[Between the Buried and Me]], and [[August Burns Red]].<ref>{{citation | title = Polyphia premiere "Aviator" music video featuring Chelsea Grin's Jason Richardson – exclusive | work = Guitar World | date = April 27, 2015 | access-date = February 28, 2021 | url = https://www.guitarworld.com/artists/polyphia-premiere-aviator-music-video-featuring-chelsea-grins-jason-richardson-exclusive}}</ref>
+
+Polyphia has featured artists such as [[Jason Richardson (musician)|Jason Richardson]] (ex-[[Chelsea Grin]], ex-[[Born of Osiris]], ex-[[All Shall Perish]] and [[All That Remains (band)|All That Remains]]), Aaron Marshall ([[Intervals (band)|Intervals]]), Mario Camarena and Erik Hansel ([[Chon (band)|Chon]]), [[Yvette Young]] (Covet), Rick Graham, [[Nick Johnston (guitarist)|Nick Johnston]], Jakub Żytecki, Lewis Grant, Ichika Nito and Mateus Asato.<ref>{{cite web|url=http://www.equalvision.com/artists/polyphia/|title=Polyphia|work=Equal Vision Records|access-date=21 October 2015}}</ref>
+
+The band states that their influences come from artists of all genres. The group started out with a heavier shred-oriented sound but has since matured into a more melodic-focused band. When describing the album, ''Muse'', Timothy Henson says that the primary inspiration comes from pop and rap music as to not draw influence from other artists of their genre.<ref>{{cite av media|url=https://www.youtube.com/watch?v=a8NAgeAityA|title=Dunlop Sessions: Polyphia|date=17 August 2015|work=YouTube|access-date=21 October 2015}}</ref>
+
+==Style and influences==
+The band was originally known for classical guitar covers on YouTube. Their first EP, ''Inspire'' and first LP ''Muse'' both show the band's appreciation for pop music {{How|date=July 2020}}. However, both works employ more progressive metal influences than their later releases.<ref>{{cite web|url=https://polyphia.bandcamp.com/|title=Music – Polyphia|work=Polyphia|access-date=21 October 2015}}</ref> This associated them with the [[djent]] movement, although they were characteristically less heavy and more melody-based than their peers. Their second LP studio album, ''Renaissance'', saw the band diverge further away from metal, into a more progressive rock and math rock influenced sound. They also began to mix elements of EDM, funk, and hip-hop into the mix with the single ''LIT'', a remix of the song ''Light'', the second track on ''Renaissance''.<ref>{{Cite web|date=2016-03-15|title=Album Review: Polyphia - 'Renaissance'|url=https://newnoisemagazine.com/album-review-polyphia-renaissance/|access-date=2021-05-20|website=New Noise Magazine|language=en-US}}</ref> This sound was further developed with the release of their second EP ''The Most Hated'' and third LP ''New Levels New Devils'', which featured production from hip-hop and EDM producers Judge and Y2K.
+
+==Members==
+'''Current members'''
+*Tim Henson – guitar <small>(2010–present)</small>
+*Scott LePage – guitar <small>(2010–present)</small>
+*Clay Gober – bass guitar <small>(2012–present)</small>
+*Clay Aeschliman – drums <small>(2016–present)</small>
+
+'''Former members'''
+*Brandon Burkhalter – drums <small>(2010–2014; 2015–2016)</small>, clean vocals <small>(2010–2011)</small>
+*Randy Methe – drums <small>(2014–2015)</small>
+*Lane Duskin – vocals <small>(2010–2012)</small>
+
+{{#tag:timeline|
+ImageSize = width:800 height:auto barincrement:20
+PlotArea = left:100 bottom:90 top:0 right:0
+Alignbars = justify
+DateFormat = dd/mm/yyyy
+Period = from:01/01/2010 till:{{#time:d/m/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:4
+ScaleMajor = increment:1 start:2010
+ScaleMinor = increment:1 start:2010
+
+Colors =
+ id:V      value:red       legend:Vocals
+ id:G      value:green       legend:Guitars
+ id:B      value:blue     legend:Bass
+ id:D          value:orange   legend:Drums
+ id:SA        value:black      legend:Studio_album
+ id:EP        value:gray(0.6)  legend:EP
+ id:bars      value:gray(0.93)
+
+BackgroundColors = bars:bars
+
+LineData =
+ layer:back
+  at:13/11/2011 color:EP 
+  at:21/04/2013 color:EP
+  at:02/09/2014 color:SA
+  at:11/03/2016 color:SA
+  at:09/07/2017 color:EP
+  at:12/10/2018 color:SA
+
+BarData =
+ bar:SL text:"Scott LePage"
+ bar:TH text:"Timothy Henson"
+ bar:LD text:"Lane Duskin"
+ bar:BB text:"Brandon Burkhalter"
+ bar:RM text:"Randy Methe"
+ bar:CA text:"Clay Aeschliman"
+ bar:CG text:"Clay Gober"
+
+PlotData =
+ width:11 textcolor:black align:left anchor:from shift:(11,-4)
+ bar:LD from:01/01/2010 till:01/01/2012 color:V
+ bar:TH from:01/01/2010 till:end color:G
+ bar:SL from:01/01/2010 till:end color:G
+ bar:CG from:01/01/2012 till:end color:B
+ bar:BB from:01/01/2010 till:01/01/2014 color:D
+ bar:BB from:01/01/2010 till:01/01/2011 color:V width:3
+ bar:RM from:01/01/2014 till:01/01/2015 color:D
+ bar:BB from:01/01/2015 till:01/01/2016 color:D
+ bar:CA from:01/01/2016 till:end color:D
+}}
+
+==Reception==
+''Metal Injection'' wrote in their review of ''Muse'': "Basically, if you're looking for some really great instrumental music that stays away from the pitfalls of modern instrumental metal and will not be leaving your rotation anytime soon, grab ''Muse''. Or if you're looking for a few songs to hum madly to yourself throughout your daily life because they simply will not leave your head...again, this album right here. Get it."<ref>{{Cite web|title = Album Review: POLYPHIA Muse – Metal Injection|url = http://www.metalinjection.net/reviews/album-review-polyphia-muse|access-date = 2015-09-30}}</ref>
+
+==Discography==
+
+===Studio albums===
+*''Muse'' (2014, Re-release 2015) 
+*''Renaissance'' (2016) 
+*''New Levels New Devils'' (2018)
+
+===EPs===
+*''Inspire'' (2013)
+*''The Most Hated'' (2017)
+
+===Demos===
+*''Resurrect'' (2011)
+*Bach Concerto No. 1 in D Minor (2012)
+
+===Singles===
+* "Envision" {{small|(featuring Rick Graham)}} (2013)
+* "LIT" (2017)
+* "G.O.A.T" (2018)
+* "O.D." (2018)
+* "YAS" {{small|(featuring Mario Camarena and Erick Hansel)}} (2018)
+* "Look but Don't Touch" {{small|(featuring Lewis Grant)}} (2019)
+* "Inferno" (2019)
+*"Brand New Day" {{Small|(ft. [[Babymetal]])}} (2019)
+
+===Music videos===
+
+{| class="wikitable plainrowheaders"
+|-
+! scope="col" | Title
+! scope="col" | Year
+! scope="col" | Director(s)
+|-
+|Bach Concerto No.&nbsp;1 in D&nbsp;Minor
+|2012
+| rowspan="5" |
+|-
+|Champagne
+|2014
+|-
+|Finale
+| rowspan="3" |2015
+|-
+|Aviator<br><small>(ft. Jason Richardson)</small>
+|-
+|James Franco
+|-
+|Euphoria
+| rowspan="4" | 2016
+|Albert Gonzalez
+|-
+|Crush
+|
+|-
+|Nightmare
+|Albert Gonzalez
+|-
+|LIT
+|Jake Woodbridge
+|-
+|Goose
+|2017
+|Erik Bishop
+|-
+|40oz
+| rowspan="4" |2018
+|
+|-
+| G.O.A.T.
+| rowspan="2" |Jake Woodbridge
+|-
+| O.D.
+|-
+| scope="row" | YAS<br>{{small|(ft. Mario Camarena and Erick Hansel)}}'''
+| rowspan="2" | Cameron Alexander<br>& Patrick Lawler
+|-
+| scope="row" | Look but Don't Touch<br />{{small|(ft. Lewis Grant)}}'''
+| 2019
+|-
+|}
+
+==References==
+{{commons category|Polyphia}}
+{{reflist}}
+
+{{authority control}}
+
+[[Category:Musical groups established in 2010]]
+[[Category:American progressive rock groups]]
+[[Category:Musical groups from Dallas]]
+[[Category:2010 establishments in Texas]]

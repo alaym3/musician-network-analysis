@@ -1,0 +1,17 @@
+{{short description|Surveillance software}}
+{{About||the singer sometimes known as "MARINA"|Marina Diamandis|other uses|Marina (disambiguation)}}
+
+{{NSA surveillance|1}}
+'''MARINA''' is an [[NSA]] database and analysis toolset for intercepted [[Internet]] [[metadata]] (DNI in NSA terminology). The database stores metadata up to a year. According to documents leaked by [[Edward Snowden]]: "The Marina metadata application tracks a user's browser experience, gathers contact information/content and develops summaries of target" and "[o]f the more distinguishing features, Marina has the ability to look back on the last 365 days' worth of DNI metadata seen by the [[Sigint]] collection system, ''regardless'' whether or not it was tasked for collection." [Emphasis in original NSA document.] The stored metadata is mainly used for [[pattern-of-life analysis]]. [[US person]]s are not exempt because metadata is not considered data by US law (section 702 of the [[Foreign Intelligence Surveillance Act of 1978 Amendments Act of 2008|FISA Amendments Act]]).<ref name="theguardian-nsa-marina">{{cite web|url=https://www.theguardian.com/world/2013/sep/30/nsa-americans-metadata-year-documents |title=NSA stores metadata of millions of web users for up to a year, secret files show |author=James Ball|authorlink=James Ball (journalist)|work=The Guardian |date=2013-09-30 |accessdate=2014-03-23 |archivedate=2014-03-23 |archiveurl=https://www.webcitation.org/6OHXfxip7?url=http://www.theguardian.com/world/2013/sep/30/nsa-americans-metadata-year-documents |url-status=dead }}</ref>
+
+MARINA's phone counterpart is [[MAINWAY]].<ref name="motherjones-nsa-marina">{{cite web|url=http://www.motherjones.com/kevin-drum/2013/06/washington-post-provides-new-history-nsa-surveillance-programs |title=Washington Post Provides New History of NSA Surveillance Programs |author=Kevin Drum |work=Mother Jones |date=2013-06-15 |accessdate=2014-03-23 |archivedate=2014-03-23 |archiveurl=https://www.webcitation.org/6OHXymN00?url=http://www.motherjones.com/kevin-drum/2013/06/washington-post-provides-new-history-nsa-surveillance-programs |url-status=dead }}</ref>
+
+== References ==
+{{reflist}}
+
+
+[[Category:National Security Agency]]
+[[Category:Mass surveillance]]
+
+{{database-stub}}
+{{US-gov-stub}}

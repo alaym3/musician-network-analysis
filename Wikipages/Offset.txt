@@ -1,0 +1,39 @@
+{{Wiktionary|offset}}
+
+'''Offset''' or '''Off-Set''' may refer to:
+{{toc right}}
+==Arts, entertainment, and media==
+* "Off-Set", a song by T.I. and Young Thug from the ''[[Furious 7: Original Motion Picture Soundtrack]]''
+* [[Offset (EP)|''Offset'' (EP)]], a 2018 EP by singer Kim Chung-ha
+* [[Offset (film)|''Offset'' (film)]], a 2006 film featuring Răzvan Vasilescu and Alexandra Maria Lara
+* [[Offset Software]], a video game development company
+** ''[[Project Offset]]'', working title of a first-person shooter video game by Offset Software
+
+==People==
+* [[Offset (rapper)]], a rapper and member of the American hip-hop trio Migos
+
+==Science and engineering==
+* [[Offset (botany)]], a separable part of a plant that can develop into a new, independent plant
+* [[Offset (computer science)]], the distance to (displacement of) an element within a data object
+* [[Offset (gears)]], the perpendicular distance between the axes of hypoid or offset-facing gears
+* Offset (geometry), see [[parallel curve]]<!--??: , the shape driven out from an original shape in equal distance and direction, normally or perpendicularly to the original shape-->
+* Offset (geophysics), the [[Amplitude versus offset|distance between a source and receiver]] of seismic or other geophysical readings
+* [[DC bias]] or DC offset, the mean amplitude of a waveform (originally, a direct-current ("DC") waveform)
+* [[Displacement (vector)]] or "offset", the position of a point or a particle in reference to an origin or to a previous position
+* [[Frequency offset]], the difference between a source and a reference frequency
+* [[Offset dish antenna]], a type of satellite dish
+* Phase offset, see [[phase (waves)]]
+
+==Other uses==
+* [[Offset (law)]], a reduction in the amount to be paid by a losing party on the basis of debt owed by the prevailing party
+* [[Carbon offset]], a financial instrument meant to aid efforts to reduce greenhouse gas emissions
+* [[Offset agreement]], a trade practice in the aerospace and defense industry
+* [[Offset loan (finance)]], a type of flexible lending arrangement
+* [[Offset printing]], a printing technique where an inked image is transferred from plate to printing surface via a rubber blanket
+* [[UTC offset]], time difference at a certain place from Coordinated Universal Time 
+
+== See also ==
+* [[Onset (disambiguation)]]
+* {{intitle|Offset}}
+
+{{disambiguation}}

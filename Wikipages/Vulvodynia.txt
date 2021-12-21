@@ -1,0 +1,95 @@
+{{Short description|Chronic pain syndrome of the vulvar area}}
+{{Use dmy dates|date=February 2021}}
+{{Infobox medical condition
+| name            = Vulvodynia
+| field           = [[Gynecology]]
+| symptoms        =
+| complications   =
+| onset           =
+| duration        =
+| types           =
+| causes          =
+| risks           =
+| diagnosis       =
+| differential    =
+| prevention      =
+| treatment       =
+| medication      =
+| prognosis       =
+| frequency       =
+| deaths          =
+}}
+
+'''Vulvodynia''' is a [[chronic pain]] syndrome that affects the [[vulva]]r area and occurs without an [[Idiopathic disease|identifiable cause]].<ref>{{cite journal |pmid=21542444 |year=2011 |last1=Feldhaus-Dahir |first1=M |title=The causes and prevalence of vestibulodynia: A vulvar pain disorder |journal=Urologic Nursing |volume=31 |issue=1 |pages=51–4 |doi=10.7257/1053-816X.2012.31.1.51 }}</ref> Symptoms typically include a feeling of burning or irritation.<ref name=Stock2013>{{cite journal |pmid=24633161 |year=2014 |last1=Stockdale |first1=C. K. |title=2013 Vulvodynia Guideline update |journal=Journal of Lower Genital Tract Disease |volume=18 |issue=2 |pages=93–100 |last2=Lawson |first2=H. W. |doi=10.1097/LGT.0000000000000021 |s2cid=410660 }}</ref> It has been established by the [[ISSVD]] that for the diagnosis to be made symptoms must last at least three months.<ref>{{cite journal | author = Bornstein J, Goldstein AT, Stockdale CK, Bergeron S, Pukall C, Zolnoun D, Coady D | date = Apr 2016 | title = ISSVD, ISSWSH, and IPPS Consensus Terminology and Classification of Persistent Vulvar Pain and Vulvodynia | journal = J Sex Med | volume = 13 | issue = 4| pages = 607–12 | doi = 10.1016/j.jsxm.2016.02.167 | pmid = 27045260 }}</ref>
+
+<!-- Cause and Diagnosis -->
+The exact cause is unknown but is believed to involve a number of factors, including [[genetics]], [[immunology]], and possibly [[diet (nutrition)|diet]].<ref name=Stock2013/> Diagnosis is by ruling out other possible causes.<ref name=Stock2013/> This may or may not include a biopsy of the area.<ref name=Stock2013/>
+
+<!-- Treatment and Epidemiology -->
+Treatment may involve a number of different measures; however, none is universally effective, and the evidence to support their effectiveness is often poor.<ref name=Stock2013/> Some of these measures include improved vulvar care, dietary changes, [[medication]]s, [[counselling]], and, if conservative treatment is not effective, [[surgery]].<ref name=Stock2013/> It is estimated to affect up to 16% of women.<ref name=Stock2013/>
+
+==Signs and symptoms==
+Pain is the most notable symptom of vulvodynia, and can be characterized as a burning, stinging, irritation or sharp pain that occurs in the [[vulva]] and entrance to the [[vagina]]. It may be constant, intermittent or happen only when the vulva is touched, but vulvodynia usually has a long duration.<ref name=":0" />
+
+Symptoms may occur in one place or the entire vulvar area. It can occur during or after sexual activity, when [[tampons]] are inserted, or when prolonged pressure is applied to the vulva, such as during sitting, bike riding, or horseback riding.<ref>{{cite news | title = Vulvodynia and Genital Pain | url = http://www.center4research.org/2010/03/vulvodynia-and-genital-pain/ | access-date = 2009-08-27 | date = October 2007 | author = National Research Center for Women and Families | url-status = dead | archive-url = https://web.archive.org/web/20110725153526/http://www.center4research.org/2010/03/vulvodynia-and-genital-pain/ | archive-date = 25 July 2011| author-link = National Research Center for Women and Families }}</ref> Some cases of vulvodynia are [[Idiopathy|idiopathic]] where no particular cause can be determined.<ref name=":0">{{Cite web|title=Persistent Vulvar Pain|url=https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2016/09/persistent-vulvar-pain|access-date=30 October 2020|website=American College of Obstetricians and Gynecologists}}</ref>
+
+===Vulvar vestibulitis===
+{{Main|Vulvar vestibulitis}}
+Vulvar vestibulitis syndrome (VVS), vestibulodynia, or simply vulvar vestibulitis or "localized (to the vestibule) provoked vulvodynia"<ref>{{cite journal |pmid=15568398 |year=2004 |last1=Moyal-Barracco |first1=M |title=2003 ISSVD terminology and classification of vulvodynia: A historical perspective |journal=The Journal of Reproductive Medicine |volume=49 |issue=10 |pages=772–7 |last2=Lynch |first2=P. J. }}</ref> refers to pain localized to the vestibular region. It tends to be associated with a highly localized "burning" or "cutting" type of pain. The pain of vulvodynia may extend into the clitoris; this is referred to as clitorodynia.<ref>{{Cite web|url=https://www.nva.org/what-is-vulvodynia/|title=What is Vulvodynia?|website=The National Vulvodynia Association|access-date=2019-01-29}}</ref>
+
+Vulvar vestibulitis syndrome is the most common subtype of vulvodynia that affects premenopausal women – the syndrome has been cited as affecting about 10%–15% of women seeking gynecological care.<ref>{{cite journal |doi=10.1080/02674659708408174 |title=The treatment of vulvar vestibulitis syndrome: Towards a multimodal approach |journal=Sexual and Marital Therapy |volume=12 |issue=4 |pages=305–311 |year=1997 |last1=Bergeron |first1=Sophie |last2=Binik |first2=Yitzchak M. |last3=Khalifé |first3=Samir |last4=Meana |first4=Marta |last5=Berkley |first5=Karen J. |last6=Pagidas |first6=Kelly }}</ref><ref>{{cite journal |doi=10.1097/00002508-199703000-00006 |pmid=9084950 |title=Vulvar Vestibulitis Syndrome: A Critical Review |journal=The Clinical Journal of Pain |volume=13 |issue=1 |pages=27–42 |year=1997 |last1=Bergeron |first1=Sophie |last2=Binik |first2=Yitzchak M. |last3=Khalifé |first3=Samir |last4=Pagidas |first4=Kelly }}</ref>
+
+==Causes==
+A wide variety of possible causes and treatments for vulvodynia are currently being explored. Moreover, there are probably several causes of vulvodynia, and some may be individual to the patient.{{cn|date=July 2021}}
+
+Possible causes include [[Sjögren syndrome]], the symptoms of which include [[Chronic condition|chronic]] [[vaginal dryness]]. Others include genetic predisposition to inflammation,<ref name="pmid12593899">{{cite journal |doi=10.1016/S0301-2115(02)00276-2 |pmid=12593899 |title=Interleukin-1β gene polymorphism in women with vulvar vestibulitis syndrome |journal=European Journal of Obstetrics & Gynecology and Reproductive Biology |volume=107 |issue=1 |pages=74–77 |year=2003 |last1=Gerber |first1=Stefan |last2=Bongiovanni |first2=Ann Marie |last3=Ledger |first3=William J. |last4=Witkin |first4=Steven S. }}</ref> allergy or other sensitivity (for example: oxalates in the urine), an [[autoimmune disorder]] similar to [[lupus erythematosus]] or to [[eczema]] or to [[lichen sclerosus]], infection (e.g., [[yeast infection]]s, [[bacterial vaginosis]], [[Human papillomavirus|HPV]], [[Herpes simplex virus|HSV]]), injury, and [[neuropathy]]—including an increased number of nerve endings in the vaginal area. Some cases seem to be negative outcomes of genital [[surgery]], such as a [[labioplasty]].  Initiation of hormonal contraceptives that contain low- dose estrogen before the age of 16 could predispose women to vulvar vestibulitis syndrome. A significantly lower pain threshold, especially in the posterior vestibulum, has also been associated with the use of hormonal contraceptives in women without vulvar vestibulitis syndrome.<ref>{{cite journal |doi=10.1016/S0140-6736(07)60197-4 |pmid=17276781 |title=Sexual sequelae of general medical disorders |journal=The Lancet |volume=369 |issue=9559 |pages=409–424 |year=2007 |last1=Basson |first1=Rosemary |last2=Weijmar Schultz |first2=Willibrord |s2cid=44628975 }}</ref> [[Pelvic floor dysfunction]] may be the underlying cause of some women's pain.<ref>{{cite news | title = Differential Diagnosis of Pelvic Floor Dysfunction and Vulvar Pain | url = http://www.medscape.org/viewarticle/465853| access-date = 2012-09-11 | date= October 2003 | author=Kellogg-Spadt, S}}</ref>
+
+==Diagnosis==
+The condition is one of exclusion and other vulvovaginal problems should be ruled out. The diagnosis is based on the typical complaints of the patient, essentially normal physical findings, and the absence of identifiable causes per the differential diagnosis. Cotton swab testing is used to differentiate between generalized and localized pain and delineate the areas of pain and categorize their severity. Patients often will describe the touch of a cotton ball as extremely painful, like the scraping of a knife. A diagram of pain locations may be helpful in assessing the pain over time. The vagina should be examined, and tests, including wet mount, vaginal pH, fungal culture, and Gram stain, should be performed as indicated. Fungal culture may identify resistant strains.<ref>{{cite journal |pmid=15870521 |year=2005 |last1=Haefner |first1=H. K. |title=The vulvodynia guideline |journal=Journal of Lower Genital Tract Disease |volume=9 |issue=1 |pages=40–51 |last2=Collins |first2=M. E. |last3=Davis |first3=G. D. |last4=Edwards |first4=L |last5=Foster |first5=D. C. |last6=Hartmann |first6=E. D. |last7=Kaufman |first7=R. H. |last8=Lynch |first8=P. J. |last9=Margesson |first9=L. J. |last10=Moyal-Barracco |first10=M |last11=Piper |first11=C. K. |last12=Reed |first12=B. D. |last13=Stewart |first13=E. G. |last14=Wilkinson |first14=E. J. |doi=10.1097/00128360-200501000-00009|s2cid=18081230 }}</ref>
+
+It is estimated that among sufferers, only half will seek medical help, among whom many will see several doctors before a correct diagnosis is made. Only 2% of the people that seek help do obtain a diagnostic.<ref>{{Cite journal|last=Reed|first=Barbara Diane|last2=Harlow|first2=Siobán Denise|last3=Sen|first3=Ananda|last4=Legocki|first4=Laurie Jo|last5=Edwards|first5=Rayna Monique|last6=Arato|first6=Nora|last7=Haefner|first7=Hope Katharine|date=February 2012|title=Prevalence and demographic characteristics of vulvodynia in a population-based sample|url= |journal=American Journal of Obstetrics and Gynecology|language=en|volume=206|issue=2|pages=170.e1–170.e9|doi=10.1016/j.ajog.2011.08.012|pmc=3779055|pmid=21963307}}</ref> Many gynecologists are not familiar with this family of conditions, but awareness has spread with time. Sufferers are also often hesitant to seek treatment for chronic vulvar pain, especially since many women begin experiencing symptoms around the same time they become sexually active. Moreover, the absence of any visible symptoms means that before being successfully diagnosed many patients have been told that the pain is "in their head" (a medical stance more associated with the 1970s than with modern medicine).<ref>{{Cite journal|last=Shallcross|first=Rebekah|last2=Dickson|first2=Joanne M.|last3=Nunns|first3=David|last4=Taylor|first4=Kate|last5=Kiemle|first5=Gundi|date=2019-04-01|title=Women's Experiences of Vulvodynia: An Interpretative Phenomenological Analysis of the Journey Toward Diagnosis|url= |journal=Archives of Sexual Behavior|language=en|volume=48|issue=3|pages=961–974|doi=10.1007/s10508-018-1246-z|issn=1573-2800|pmc=6418055|pmid=30047005}}</ref>
+
+===Differential diagnosis===
+# Infections: [[candidiasis]], [[herpes]], [[Human papillomavirus infection|HPV]]
+# Inflammation: [[lichen planus]]
+# Neoplasm: [[Extramammary Paget's disease|Paget's disease]], [[vulvar carcinoma]]
+# Neurologic disorder: [[neuralgia]] secondary to herpes virus, spinal nerve injury{{citation needed|date=November 2017}}
+
+==Treatment==
+There are a number of possible treatments with none being uniformly effective.<ref name=Stock2013/> Treatments include:
+
+===Lifestyle===
+A number of lifestyle changes are often recommended such as using cotton underwear, not using substances that may irritate the area, and using [[personal lubricant|lubricant]] during sex.<ref name=Stock2013/> The use of alternative medicine has not been sufficiently studied to make recommendations.<ref name=Stock2013/>
+
+===Counseling===
+# Education and accurate information about vestibulodynia: Gynaecologist-led educational seminars delivered in a group format have a significant positive impact on psychological symptoms and sexual functioning in women who suffer from Provoked (caused by a stimulus such as touch or sexual activity) vestibulodynia.<ref>{{cite journal |pmid=20181314 |year=2010 |last1=Brotto |first1=L. A. |title=Impact of educational seminars on women with provoked vestibulodynia |journal=Journal of Obstetrics and Gynaecology Canada |volume=32 |issue=2 |pages=132–8 |last2=Sadownik |first2=L |last3=Thomson |first3=S |doi=10.1016/s1701-2163(16)34427-9}}</ref> Provoked vestibulodynia, whilst similar in some respects, is different to vulvodynia which this article refers to.
+# [[Biofeedback]], [[physical therapy]] and relaxation: Biofeedback, often done by physical therapists, involves inserting a vaginal sensor to get a sense of the strength of the muscles and help a patient get greater control of her muscles to feel the difference between contraction and relaxation. Sessions are linked with at-home recommendations including often [[Kegel exercises]] (e.g., hold for 9 seconds, relax for 30 seconds, for 10–15 sets), and relaxation.{{citation needed|date=November 2017}}
+
+===Medications===
+A number of medications have been used to treat vulvodynia.<ref name=Stock2013/> Evidence to support their use, however, is often poor.<ref name=Stock2013/> These include creams and ointments containing [[lidocaine]], [[estrogen]] or [[tricyclic antidepressant]]s.<ref name=Stock2013/> Antidepressants and anticonvulsants in pill form are sometimes tried but have been poorly studied.<ref name=Stock2013/> Injectable medications included [[steroid]]s and [[botulinum toxin]] have been tried with limited success.<ref name=Stock2013/>
+
+===Surgery===
+[[Vestibulectomy]], during which the nerve fibers to the area are cut out, may be recommended if other treatments have not been found to be effective.<ref name=Stock2013/> There have been no high quality studies looking at surgery as a treatment.<ref name=Stock2013/> While improvement has been noted in 60% to 90%, those who were treated without surgery improved in 40 to 80% of cases.<ref name=Stock2013/>
+
+==Epidemiology==
+The percentage of women affected is not entirely clear, but estimates range as high as 16%.<ref name=Stock2013/> Many other conditions that are not truly vulvodynia (diagnosis is made by ruling out other causes of vulvar pain) could be confused with it. Vulvar pain is a quite frequent complaint in women's health clinics. Vulvodynia is a new term in the medical literature.{{citation needed|date=November 2017}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{curlie|Health/Women%27s_Health/Conditions_and_Diseases/Vulva/Vulvodynia/}}
+
+{{Medical resources
+| ICD10           =
+| ICD9            = {{ICD9|625.7}}
+| MeSH            = D056650
+| ICD10CM         = {{ICD10CM|N94.81}}
+}}
+{{Female diseases of the pelvis and genitals}}
+{{Authority control}}
+
+[[Category:Chronic pain syndromes]]
+[[Category:Gynaecologic disorders]]
+[[Category:Neurocutaneous conditions]]
+[[Category:Pain]]

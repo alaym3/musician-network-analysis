@@ -1,0 +1,79 @@
+{{Missing information|article about a musician|discography and chart positions|date=August 2021}}
+{{Infobox musical artist
+| name             = Night Lovell
+| image            = Night Lovell au festival Santa Teresa.jpg
+| caption          = Night Lovell performing at au festival Santa Teresa in 2019
+| birth_name       = Shermar Cuba Paul
+| birth_date       = {{birth date and age|1997|05|29}}
+| birth_place      = [[Ottawa]], Ontario, Canada
+| genre            = {{hlist|[[Hip hop music|Hip hop]]|[[Trap music|trap]]|[[cloud rap]]|[[Grime (music genre)|grime]]}}
+| occupation       = {{hlist|Rapper|songwriter|record producer}}
+| instrument       = {{hlist|Vocals|[[FL Studio]]}}
+| associated_acts  = {{hlist|[[Suicideboys]]<ref>https://twitter.com/g59records/status/1362545020239286275 {{Bare URL inline|date=November 2021}}</ref><ref>https://soundcloud.com/night_lovell/joan-of-arc {{Bare URL inline|date=November 2021}}</ref>|[[Snot (rapper)|$NOT]]<ref>https://soundcloud.com/sn0t/human-feat-night-lovell {{Bare URL inline|date=November 2021}}</ref>|[[Corpse Husband]]<ref>https://soundcloud.com/corpse_husband/hot-demon-btches-near-u-w-night-lovell {{Bare URL inline|date=November 2021}}</ref>|[[Pouya (rapper)|Pouya]]<ref>https://soundcloud.com/pouya-kevin/dontbangmyline {{Bare URL inline|date=November 2021}}</ref>|[[Dylan Brady]]|[[Wifisfuneral]]<ref>https://soundcloud.com/night_lovell/i-like-blood-ft-wifisfuneral-1 {{Bare URL inline|date=November 2021}}</ref>|[[Joji (musician)|Joji]]|[[A$AP Rocky]]|[[A$AP Ferg]]| |OGHST|Fifty Grand}}
+| years_active     = 2013–present
+| label            = {{hlist|[[Suicideboys|G*59 Records]]|[[Caroline Distribution|Caroline]]<ref>http://www.caroline.com/</ref>|SCPP}}
+| website          = {{URL|goodnightlovell.com/}}
+}}
+
+'''Shermar Cuba Paul''' (born May 29, 1997),<ref>{{Cite web|title=Night Lovell – The Vogue|url=https://thevogue.com/artists/night-lovell/|access-date=2021-08-20|website=The Vogue|language=en}}</ref> known professionally as '''Night Lovell''', is a Canadian rapper, songwriter and record producer. His old record producer name was under the alias KLNV, standing for Killanov. He initially gained fame after his song ''Dark Light'' went viral in 2014. He has released four studio albums named ''Concept Vague'' on December 21, 2014, ''Red Teenage Melody'' on June 13, 2016, ''Goodnight Lovell'' on February 22, 2019, and recently ''Just Say You Don't Care'', released May 6, 2021. He was a featured artist on American YouTuber and musician [[Corpse Husband]]'s "[[Hot Demon B!tches Near U!!!|Hot Demon Bitches Near U ! ! !]]", which released on September 3, 2021.
+
+As of 2021, Night Lovell had been streamed over 650 million times on Spotify.<ref>{{Cite web|date=2016-02-26|title=Night Lovell|url=https://audibletreats.com/night-lovell/|access-date=2021-08-20|website=Audible Treats|language=en-US}}</ref>
+
+== Musical style ==
+His musical style is often categorized by its dark and atmospheric sound. He has been described as "effortlessly conjur[ing] darkness".<ref>{{Cite web|title=Night Lovell returns from the shadows|url=https://www.thefader.com/2019/02/22/night-lovell-returns-from-the-shadows|access-date=2021-08-19|website=[[The Fader]]|language=en}}</ref>
+
+His songs have a brooding atmosphere, with the subject matter often revolving around themes of introspection and angst. This results in the pervasive dark tone that populates both the lyrics and instrumentation, which itself incorporates elements of drill, trap, and cloud rap, as well as ambient elements.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="1"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;"|
+|-
+! scope="row"| ''Concept Vague''
+|
+* Released: December 21, 2014
+* Label: [[Unsigned artist|Independent]]
+* Format: [[Music download|Digital download]], [[Streaming media|streaming]]
+| —
+|-
+! scope="row"| ''Red Teenage Melody''
+|
+* Released: June 13, 2016
+* Label: [[Unsigned artist|Independent]]
+* Format: [[Music download|Digital download]], [[Streaming media|streaming]]
+| —
+|-
+! scope="row"| ''GOODNIGHT LOVELL''
+|
+* Released: February 22, 2019
+* Label: [[Suicideboys|G*59 Records]]
+* Format: [[Music download|Digital download]], [[Streaming media|streaming]]
+| —
+|-
+! scope="row"| ''Just Say You Don't Care''<ref>https://www.instagram.com/p/COjs3KIF5OK/</ref>
+|
+* Released: May 7, 2021
+* Label: [[Suicideboys|G*59 Records]]
+* Format: [[Music download|Digital download]], [[Streaming media|streaming]]
+| —
+|}
+
+== References ==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Night Lovell}}
+[[Category:1997 births]]
+[[Category:Canadian male rappers]]
+[[Category:Living people]]
+[[Category:Musicians from Ottawa]]
+[[Category:21st-century Canadian rappers]]
+[[Category:21st-century Canadian male musicians]]
+
+
+{{Canada-musician-stub}}

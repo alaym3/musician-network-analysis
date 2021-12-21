@@ -1,0 +1,125 @@
+{{Notability|Biographies|date=June 2019}}
+{{Use mdy dates|date=February 2019}}
+{{Infobox musical artist
+| honorific_prefix =
+| name             = Elena Siegman
+| honorific_suffix =
+| image            =
+| image_upright    =
+| image_size       =
+| landscape        =
+| alt              =
+| caption          =
+| birth_name       =
+| alias            =
+| birth_date       =
+| birth_place      =
+| origin           =
+| death_date       =
+| death_place      =
+| genre            = {{flatlist|
+* [[Hard rock]] 
+*[[alternative rock]] 
+*[[alternative metal]]
+*[[nu metal]] 
+*[[progressive rock]]
+*[[video game music]]
+}}
+| occupation       = {{flatlist|
+* Singer
+* guitarist
+* songwriter
+* video game producer
+}}
+| instrument       = {{flatlist|
+* Vocals
+* guitar
+}}
+| years_active     = 2005–present
+| label            =
+| associated_acts  = [[Tijuana Sweetheart]], BrownBoot
+| website          = 
+}}
+
+'''Elena Siegman''' is an American singer, guitarist, songwriter and video game producer<ref name = producer/> from [[Los Angeles]].<ref name = modal/>  She moved to [[Boston]], and is the former lead guitarist and one of the founders of an all-girl punk band named Vagiant, now known as [[Tijuana Sweetheart]].<ref name = NE_Performer/>  As of January 2012, she sings in the Boston-based rock band BrownBoot.<ref name = Rever/> (Metal Bands)
+
+In 2006, Siegman worked with ''[[Guitar Hero]]'' developers [[Harmonix]] as the lead producer of ''[[Guitar Hero II]]''. Also, in work for the video game developer [[Treyarch]], she provided vocals for the soundtrack to the Nazi Zombies, or simply Zombies, game mode in the video games ''[[Call of Duty: World at War]]'' (2008), ''[[Call of Duty: Black Ops]]''<ref name = soundtrack/> (2010), ''[[Call of Duty: Black Ops II]]'' (2012), ''[[Call of Duty: Black Ops III]]'' (2015), ''[[Call of Duty: Black Ops 4]]'' (2018) and ''[[Call of Duty: Black Ops Cold War]]'' (2020). In 2011, her music was released on the ''Call of Duty: Black Ops - Zombies Soundtrack'' as part of the ''Rezurrection'' DLC pack, the fourth [[downloadable content]] pack for ''Call of Duty: Black Ops''.<ref name = COD/> Some remastered versions of songs from previous games and a new track from ''Call of Duty: Black Ops II'' were released in 2013 on the ''Call of Duty: Black Ops II Zombies - Origins Soundtrack'' along with the ''Origins'' map pack for ''Call of Duty: Black Ops II''. The tracks featuring her vocals are (in chronological order): ''Lullaby of a Dead Man'', ''The One'' and ''Beauty of Annihilation'' from ''Call of Duty: World at War'' and ''Call of Duty: Black Ops''; ''115'', ''Abracadavre'', ''Pareidolia'' and ''Coming Home'' from ''Call of Duty: Black Ops''; ''Archangel'' from ''Call of Duty: Black Ops II''; ''Dead Again'' and ''The Gift'' from ''Call of Duty: Black Ops III''. All songs were written and produced by Kevin Sherwood, sound designer and composer at Treyarch. She also provided vocals for the jingles of two items in the Zombies game mode called ''Juggernog Perk-a-Cola'' and ''Elemental Pop Perk-a-Cola''.
+
+On May 24, 2011, she released her debut solo album, ''The Mighty''.<ref name = Fm/>
+
+In 2014 she joined [[Bungie]] to work on the [[Destiny (video game)|Destiny]] franchise as a producer.<ref name = producer/>
+
+== References ==
+{{reflist | refs =
+
+<ref name = producer>
+{{cite web
+ | url        = https://twitter.com/elenaYAY/status/865322627178430465
+ | title      = producer
+ | quote      = FYI! 1.) Yes I work at Bungie! 2.) I've worked on @DestinyTheGame since 2014 3.) I'm a producer 4.) I don't sing in every game I work on :)
+
+ | access-date = May 19, 2017
+}}{{primary source inline|date=February 2019}}</ref>
+
+<ref name = modal>{{cite web
+ | url        = http://www.onenightbandboston.com/participants/modaltemplate.php?bio=Elena_Siegman.txt&KeepThis=true&TB_iframe=true&height=394&width=451&modal=true
+ | title        = modal
+ | quote        = The singer-songwriter has refined her personal sound into a modern spin on alt-country Americana, with an accent on her powerful vocals and dynamic lyrics.
+ | access-date        = August 11, 2013
+ }}{{Dead link|date=December 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+<ref name = NE_Performer>
+{{cite journal
+ | title      = Vagiant
+ | author     = Sattell, M
+ | journal       = Northeast Performer
+ | date       = June 2007
+ | page       = 23
+ | quote      = And, while Siegman and McWilliams describe themselves as feminists, the messages of their songs promote no specific agenda.
+}}</ref>
+
+<ref name = Rever>
+{{cite web
+ | url        = http://www.reverbnation.com/brownboot
+ | title      = BrownBoot music, lyrics, songs, and videos.
+ | quote      = Elena Sigman - Vocals
+ | work       = [[ReverbNation]]
+ | publisher  = eMinor, Inc.
+ | access-date = August 11, 2013
+}}{{primary source inline|date=February 2019}}</ref>
+
+<ref name = soundtrack>
+{{cite AV media notes
+ | title=Call of Duty: Black Ops Zombies Soundtrack
+ | year=2011
+ |publisher=Activision
+ |type=liner notes
+}}</ref>
+
+<ref name = COD>
+{{cite web
+ | url        = http://community.callofduty.com/community/call_of_duty/english/blackops/blog/2011/10/24/rezurrection-content-pack-4-announced
+ | title      = Call of Duty Community: Call of Duty. Black Ops: Rezurrection: Content Pack 4 Announced.
+ | access-date = August 11, 2013
+}}{{unreliable source?|date=February 2019}}</ref>
+
+<ref name = Fm>
+{{cite web
+ | url        = http://www.last.fm/music/Elena+Siegman/The+Mighty
+ | title      = The Mighty. Elena Siegman. 
+ | access-date = August 11, 2013
+}}{{unreliable source?|date=February 2019}}</ref>
+
+}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Siegman, Elena}}
+[[Category:American women singers]]
+[[Category:People from Los Angeles]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Alternative rock singers]]
+[[Category:Nu metal singers]]
+[[Category:Video game producers]]
+[[Category:21st-century American women]]

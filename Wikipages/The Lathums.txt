@@ -1,0 +1,53 @@
+{{Infobox musical artist
+| name            = The Lathums
+| image           = 
+| image_size      = 
+| image_upright   = 
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             = 
+| caption         = 
+| alias           = 
+| origin          = [[Wigan]], England
+| genre           = [[Indie rock]]
+| years_active    = {{Start date|2019}}–present
+| label           = [[Island Records|Island]]
+| associated_acts = 
+| website         = <!-- {{URL|example.com}} or {{Official URL}} -->
+| current_members =
+*Alex Moore
+*Scott Concepcion
+*Johnny Cunliffe
+*Ryan Durrans
+| past_members    =
+}}
+
+'''The Lathums''' are an English [[Indie rock|indie]] band from [[Wigan]], [[Greater Manchester]].<ref name=BBC58762707>{{cite web |url=https://www.bbc.co.uk/news/entertainment-arts-58762707 |title=The Lathums: Wigan indie band score debut number one album |publisher=BBC News Online |accessdate=1 October 2021}}</ref> They are formed of singer/songwriter and guitarist Alex Moore, lead guitarist Scott Concepcion, bassist Johnny Cunliffe, and drummer Ryan Durrans, and are managed by Tyler Hagan. They formed in early 2019 and met at The Music College in the local district of [[Pemberton, Greater Manchester|Pemberton]], after their tutor placed them in the same project group, and within a year they signed with [[Island Records]]. They released their debut album, ''How Beautiful Life Can Be'', on 24 September 2021.<ref>{{cite web|url=https://www.theguardian.com/music/2021/sep/24/the-lathums-how-beautiful-life-can-be-review|title=The Lathums: How Beautiful Life Can Be – hearty 00s indie revivalism|work=[[The Guardian]]|last=Aroesti|first=Rachel|date=24 September 2021|access-date=1 October 2021}}</ref> It debuted at number one on the [[UK Albums Chart]] on 1 October 2021.<ref>{{cite web|url=https://www.officialcharts.com/chart-news/the-lathums-score-number-1-debut-album-with-how-beautiful-life-can-be__34147/|title=The Lathums score Number 1 debut album with How Beautiful Life Can Be|publisher=[[Official Charts Company]]|last=Copsey|first=Rob|date=1 October 2021|access-date=1 October 2021}}</ref>
+
+==Discography==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected details and chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Album details
+! scope="col" colspan="2"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[UK Albums Chart|UK]]<br /><ref>{{cite web|url=https://www.officialcharts.com/artist/56701/lathums/|title=The Lathums {{!}} full Official Chart History|publisher=[[Official Charts Company]]|access-date=1 October 2021}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Irish Albums Chart|IRE]]<br /><ref>{{cite web|url=http://irish-charts.com/showinterpret.asp?interpret=The+Lathums|title=Discography The Lathums|website=irish-charts.com|access-date=9 October 2021}}</ref>
+|-
+! scope="row"| ''How Beautiful Life Can Be''
+|
+* Released: 24 September 2021
+* Label: [[Island Records|Island]]
+| 1 || 71
+|}
+
+==References==
+{{reflist}}
+
+[[Category:English indie rock groups]]
+[[Category:Organisations based in Wigan]]
+[[Category:Musical groups established in 2019]]
+[[Category:Island Records artists]]
+[[Category:Musical groups from Lancashire]]
+[[Category:2019 establishments in England]]
+
+{{band-stub}}

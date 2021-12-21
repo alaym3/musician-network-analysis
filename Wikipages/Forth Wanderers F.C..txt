@@ -1,0 +1,68 @@
+{{distinguish|Forth Wanderers (band)}}
+{{short description|Association football club in Scotland}}
+{{Use dmy dates|date=May 2015}}
+{{Use British English|date=May 2015}}
+{{More citations needed|date=December 2009}}
+{{Infobox football club
+| clubname = Forth Wanderers
+| image = 
+| fullname = Forth Wanderers Football Club
+| nickname = ''Wanderers''
+| founded = 1904
+| ground = Kingshill Park<br />Main Street<br />[[Forth, Lanarkshire|Forth]]
+| capacity = 
+| chairman = 
+| manager = Thomas Devine 
+| assistant = Alfie Foy
+| league = {{Scottish football updater|ForthWnd}}
+| season = {{Scottish football updater|ForthWnd2}}
+| position = {{Scottish football updater|ForthWnd3}}
+| pattern_la1 = _bochum1617t
+| pattern_b1 = _bochum1617t
+| pattern_ra1 = _bochum1617t
+| leftarm1 = FF0000
+| body1 = FF0000
+| rightarm1 = FF0000
+| shorts1 = FF0000
+| socks1 = FF0000
+}}
+
+'''Forth Wanderers Football Club''' are a Scottish [[football (soccer)|football]] club based in the village of [[Forth, Lanarkshire|Forth]], [[South Lanarkshire]]. Formed in 1904 they compete in the {{Scottish football updater|ForthWnd}} and play in red strips with a white trim with a second strip of all black.
+
+==History==
+Since 1934 they have played at Kingshill Park in the village,<ref>{{cite web|url=http://www.forth.themutual.net/wanderersofold.html|title=Themutual.net|website=Forth.themutual.net|access-date=1 June 2018}}</ref> however they have had to share with [[Carluke Rovers F.C.|Carluke Rovers]] for a spell and play on a public park in [[Carnwath]] when this ground proved unusable. The team's first games were played at Pleasure Park before the Wanderers moved to Hie Dyke in 1929. It was 5 years later until they moved to what is their current home, Kingshill Park in 1934.
+
+Forth have supplied two Scottish international goalkeepers in [[George Wood (footballer)|George Wood]] and [[Robert Douglas (footballer)|Rab Douglas]].<ref>{{cite web|title=George Wood Receives Clydesdale Sports Hall of Fame Award|url=http://www.sportclydesdale.net/PlainText/PlainText.aspx?SectionId=e228e095-2e19-4765-86a4-15fe3935df8a|publisher=Clydesdale Sports Council|access-date=28 May 2013}}</ref> [[Rangers F.C.|Rangers]] legend [[Willie Waddell]] came from the village and starred for the team in his pre-Ibrox days.<ref>{{cite news|last=Reynolds|first=Jim|title=A doddle for The Deedle|url=http://www.heraldscotland.com/sport/spl/aberdeen/a-doddle-for-the-deedle-1.789339|access-date=28 May 2013|newspaper=[[The Herald (Glasgow)|The Herald]]|date=15 October 1992}}</ref>
+
+Wanderers reached the semi-finals of the [[Scottish Junior Cup]] in 1981 and their home quarter-final tie versus [[East Kilbride Thistle F.C.|East Kilbride Thistle]] attracted a record crowd of 2,324.<ref>{{cite book| first=David| last=McGlone| first2=Bill| last2=McLure| title=The Juniors - 100 Years. A Centenary History of Scottish Junior Football| publisher=Mainstream| year=1987| isbn=1-85158-060-3| page=294}}</ref>
+
+The team's co-managers are Graham Cairns and Thomas Devine.
+
+==Honours==
+* [[Lanarkshire Junior Football League|Lanarkshire League]] winners: 1965–66
+* [[Central Junior Football League|Central League B Division]] winners: 1979–80
+* Lanarkshire Junior Cup: 1959–60
+* Lanarkshire Hozier Cup: 1913–14
+* Central League Cup: 1984–85
+* [[Scottish Junior Cup]] semi-finalists 1980–81
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://forthwanderers.com/ Website]
+
+{{coord|55.76960|-3.682845|region:GB|display=title}}
+
+{{West of Scotland League}}
+{{SJFA West Region}}
+
+[[Category:Football clubs in Scotland]]
+[[Category:Scottish Junior Football Association clubs]]
+[[Category:Association football clubs established in 1904]]
+[[Category:Football in South Lanarkshire]]
+[[Category:1904 establishments in Scotland]]
+[[Category:West of Scotland Football League teams]]
+
+
+{{scotland-footyclub-stub}}

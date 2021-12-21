@@ -1,0 +1,454 @@
+{{short description|2019 anime television series by studio Bones}}
+{{Infobox animanga/Header
+| name            = Carole & Tuesday
+| image           = carolandtuesday.animekeyvisual.jpg
+| caption         = Promotional image featuring Tuesday Simmons (left) and Carole Stanley (right)
+| ja_kanji        = キャロル&チューズデイ
+| ja_romaji       = Kyaroru & Chūzudei
+| genre           = [[Musical fiction|Music]]<ref>{{Cite web|url=https://www.animenewsnetwork.com/press-release/2018-12-06/carole-and-tuesday-a-groundbreaking-musical-anime-introduces-a-new-character-and-the-artists-behind-the-music/.140433|title=Carole & Tuesday, a Groundbreaking Musical Anime, Introduces a New Character and the Artists Behind the Music|website=Anime News Network|date=December 6, 2018|access-date=May 4, 2019}}</ref><!-- Note: Use and cite reliable sources to identify genre/s, not personal interpretation. Please don't include more than three genres (per [[MOS:A&M]]). -->
+| creator         = [[Bones (studio)|Bones]], [[Shinichirō Watanabe]]
+}}
+{{Infobox animanga/Video
+| type            = tv series
+| director        = {{ubl|Shinichirō Watanabe {{small|(Chief)}}|Motonobu Hori}}
+| writer          = {{ubl|Deko Akao|Yasuhiro Nakanishi|Kimiko Ueno|Yuichi Nomura|Shinichirō Watanabe|[[Keiko Nobumoto]]}}
+| producer        = {{ubl|Makoto Nishibe|Noriko Ozaki}}
+| music           = [[Mocky]]
+| studio          = Bones
+| licensee        = [[Netflix]]
+| network         = [[Fuji TV]] ([[+Ultra]])
+| network_en      = 
+| first           = April 10, 2019
+| last            = October 2, 2019
+| episodes        = 24<!-- This parameter should only be incremented when new episodes air or when a [[Wikipedia:Identifying reliable sources|reliable source]] can confirm a specific number of episodes. -->
+| episode_list    = #Episodes
+}}
+{{Infobox animanga/Print
+| type            = manga
+| author          = 
+| illustrator     = Morito Yamataka
+| publisher       = [[Kadokawa Shoten]]
+| publisher_en    = {{English manga publisher | NA=[[Yen Press]]}} 
+| demographic     = ''[[Seinen manga|Seinen]]''
+| magazine        = [[Young Ace]]
+| first           = May 2, 2019
+| last            = July 2020
+| volumes         = 3
+| volume_list     = #Manga
+}}
+{{Infobox animanga/Footer}}
+{{Nihongo|'''''Carole & Tuesday'''''|キャロル&チューズデイ|Kyaroru & Chūzudei|lead=yes}} is a 24-episode [[anime]] television series directed by [[Shinichirō Watanabe]]. It was animated by studio [[Bones (studio)|Bones]], in commemoration of the studio's 20th anniversary and the 10th anniversary of record label [[FlyingDog]]. It aired from April 10 to October 2, 2019 on [[Fuji TV]]'s [[+Ultra]] programming block. A manga adaptation by Morito Yamataka began serialization in ''[[Young Ace]]'' in May 2019 and ended in July 2020. The manga is licensed in English by [[Yen Press]] and is slated for release in 2020. An English dub version premiered worldwide on [[Netflix]] on August 30, 2019.
+
+{{TOC limit|3}}
+
+==Plot==
+In the future on a partially [[Terraforming of Mars|terraformed Mars]], teenager Tuesday Simmons runs away from her affluent lifestyle as the daughter of a politician and makes her way to [[Alba Mons|Alba City]] to pursue her dream of being a musician with just a suitcase and her [[Gibson]] [[acoustic guitar]]. On her first day in the city, she crosses paths with Carole Stanley, an orphaned refugee from Earth and another aspiring musician who plays the piano. The two decide to team up as a singer-songwriter duo under the name Carole & Tuesday.
+
+==Characters==
+===Main===
+;{{nihongo|Carole Stanley|キャロル|Kyaroru}}
+:{{animevoices|[[Miyuri Shimabukuro]] (speaking voice)<ref name="cast"/>|Nai Br.XX (vocals), Jeannie Tirado}}<ref name=":02">{{cite episode|title=True Colors|series=Carole and Tuesday|number=1|time=Closing credits, English Language Cast|publisher=Netflix|location=USA}}</ref>
+:An orphaned girl who performs on the street in between part-time jobs, which she is constantly getting fired from. She plays keyboard. She is a 17 year old girl.
+;{{nihongo|Tuesday Simmons|チューズデイ|Chūzudei}}
+:{{animevoices|[[Kana Ichinose]] (speaking voice)<ref name="cast"/>|[[Celeina Ann]] (vocals), [[Brianna Knickerbocker]]}}<ref name=":02" />
+:A rich girl who runs away to the city and encounters Carole. She plays acoustic guitar. She is a 17 year old girl.
+;{{nihongo|Gus Goldman|ガス|Gasu}}
+:{{animevoices|[[Akio Ōtsuka]]<ref name="cast"/>|Jason Marnocha}}<ref name=":02" />
+:A former rock drummer and self-proclaimed former big-time manager who discovers Carole and Tuesday and decides to help them become famous.
+;{{nihongo|Roddy|ロディ|Rodi}}
+:{{animevoices|[[Miyu Irino]]<ref name="cast"/>|[[Zach Aguilar]]}}<ref name=":02" />
+:A boy acquainted with Gus who first discovered Carole & Tuesday during their first guerilla live performance together. He works as a sound technician for Ertegun.
+;{{nihongo|Angela Carpenter|アンジェラ|Anjera}}
+:{{animevoices|[[Sumire Uesaka]] (speaking voice)<ref name="cast"/>|Alisa (vocals), Ryan Bartley}}<ref name=":02" />
+:A famous model who works alongside Tao in order to become recognized as a singer.
+;{{nihongo|Tao|タオ|Tao}}
+:{{animevoices|[[Hiroshi Kamiya]]<ref name="cast"/>|[[Kyle McCarley]]}}<ref name=":02" />
+:A music producer who uses advanced AI in order to create high-selling performers. He is coolly professional and admits to preferring the company of AIs to people.
+;{{nihongo|Dahlia Carpenter|ダリア|Daria}}
+:{{animevoices|[[Kenyu Horiuchi]]<ref name="cast2">{{cite web|url=https://www.animenewsnetwork.com/news/2019-03-14/original-carole-and-tuesday-anime-casts-kenyuu-horiuchi-tomoko-miyadera-takahiro-sakurai/.144533|title=Original Carole & Tuesday Anime Casts Kenyuu Horiuchi, Tomoko Miyadera, Takahiro Sakurai|date=March 14, 2019|website=[[Anime News Network]]|access-date=March 14, 2019|archive-url=https://web.archive.org/web/20190403093328/https://www.animenewsnetwork.com/news/2019-03-14/original-carole-and-tuesday-anime-casts-kenyuu-horiuchi-tomoko-miyadera-takahiro-sakurai/.144533|archive-date=April 3, 2019|url-status=live|df=mdy-all}}</ref>|Brook Chalmers}}<ref name=":02" />
+:Angela's mother and agent.
+
+===Artists===
+;{{nihongo|Johnny Ertegun|アーティガン|Ātigan}}
+:{{animevoices|[[Mamoru Miyano]]<ref name="cast"/>|[[Ray Chase (voice actor)|Ray Chase]]}}
+:A popular DJ with a pompous attitude. He later appears as a guest judge for the Mars' Brightest semi-finals.
+;{{nihongo|Crystal|クリスタル|Kurisutaru}}
+:{{animevoices|[[Maaya Sakamoto]] (speaking voice)<ref name="cast3">{{cite web|url=https://www.animenewsnetwork.com/news/2019-03-23/carole-and-tuesday-anime-casts-maaya-sakamoto-hiroki-yasumoto/.144943|title=Carole & Tuesday Anime Casts Maaya Sakamoto, Hiroki Yasumoto|date=March 23, 2019|website=[[Anime News Network]]|access-date=March 23, 2019|archive-url=https://web.archive.org/web/20190324040049/https://www.animenewsnetwork.com/news/2019-03-23/carole-and-tuesday-anime-casts-maaya-sakamoto-hiroki-yasumoto/.144943|archive-date=March 24, 2019|url-status=live|df=mdy-all}}</ref>| Lauren Dyson (vocals),<ref name="artists">{{cite web|url=http://caroleandtuesday.com/music/onairlist/|title=OnAir List -CAROLE & TUESDAY Official Site- - キャロル＆チューズデイ|website=caroleandtuesday.com|access-date=August 9, 2019}}</ref> [[Cristina Vee]]}}
+:A popular singer.
+;{{nihongo|Skip Collins|スキップ|Sukippu}}
+:{{animevoices|[[Hiroki Yasumoto]] (speaking voice)<ref name="cast3"/>|[[Thundercat (musician)|Thundercat]] (vocals),<ref name="artists"/> Imari Williams}}
+:A popular singer.
+;{{nihongo|Joshua|ヨシュア|Yoshua}}
+:{{animevoices|[[Yūki Kaji]]<ref>{{cite web|url=https://www.animenewsnetwork.com/news/2019-05-15/carole-and-tuesday-anime-casts-yuki-kaji/.146711|title=Carole & Tuesday Anime Casts Yuki Kaji|date=May 15, 2019|website=[[Anime News Network]]|access-date=May 15, 2019}}</ref>|[[Erik Scott Kimerer]]}}
+:Vocalist of the band Omega.
+;{{nihongo|Desmond|デズモンド|Desumondo}}
+:{{animevoices|[[Kōichi Yamadera]] (speaking voice)|[[Marker Starling]] (vocals),<ref name="artists"/> [[Patrick Seitz]]}}
+:A highly-respected, solitary artist who displays characteristics of both sexes due to the influence of the Martian environment.
+;{{nihongo|Flora|フローラ|Furōra}}
+:{{animevoices|[[Megumi Hayashibara]] (speaking voice)<ref>{{cite web|url=https://www.animenewsnetwork.com/news/2019-08-07/megumi-hayashibara-joins-carole-and-tuesday-anime-cast/.149797|title=Megumi Hayashibara Joins Carole & Tuesday Anime's Cast|date=August 7, 2019|website=[[Anime News Network]]|access-date=August 7, 2019}}</ref>|[[Jessica Ashley|Jessica Karpov]] (vocals),<ref name="artists"/> Rebeka Thomas}}
+:A retired singer whom Carole is a longtime admirer of and an old friend of Gus. Despite her past success, Flora has a history of depression and substance abuse.
+;{{nihongo|Ezekiel|エゼキエル|Ezekieru}}
+:{{anime voices|[[Subaru Kimura]] (speaking voice)|[[Denzel Curry]] (vocals),<ref name="artists"/> [[Zeno Robinson]]}}
+:A rapper who emigrated from Earth. His real name is '''Amer Souleyman''' and is a childhood friend of Carole.
+
+===Mars' Brightest===
+====Judges====
+;{{nihongo|Catherine|カトリーヌ|Katerīnu}}
+:{{animevoices|Seiko Tamura<ref name="cast4"/>|Roberta Lemons}}
+:The head judge for Mars' Brightest.
+;{{nihongo|Benito|ベニート|Benīto}}
+:{{animevoices|[[Kōji Ochiai]]<ref name="cast4"/>|[[Doug Erholtz]]}}
+:One of the Mars' Brightest judges.
+;{{nihongo|Shakti|シャクティ|Shakuti}}
+:{{animevoices|[[Hiroyuki Yoshino]]<ref name="cast4"/>|[[David Vincent (actor)|David Vincent]]}}
+:An artificial intelligence serving as a Mars' Brightest judge in the form of a robot dog.
+
+====Contestants====
+;{{nihongo|Cybelle|シベール|Shibēru}}
+:{{animevoices|[[Ayane Sakura]] (speaking voice),<ref name="cast4"/>|[[Laura Stahl]]}}, Maika Loubté (vocals)<ref name="artists"/> (French)
+:A French-singing Mars' Brightest contestant with a dangerous obsession with Tuesday.
+;{{nihongo|Pyotr|ピョートル|Pyōtoru}}
+:{{animevoices|[[Shouta Aoi]] (speaking voice)<ref>{{cite web|url=https://www.animenewsnetwork.com/news/2019-05-22/carole-and-tuesday-anime-casts-shouta-aoi/.146970|title=Carole & Tuesday Anime Casts Shouta Aoi|date=May 22, 2019|website=[[Anime News Network]]|access-date=May 22, 2019}}</ref>|J R Price (vocals),<ref name="artists"/> Erik Scott Kimerer}}
+:A popular internet personality who participates in Mars' Brightest.
+;{{nihongo|Mermaid Sisters|マーメイド・シスターズ|Māmeido Shisutāzu}}
+:{{animevoices|[[Shintarō Asanuma]] (speaking voice)<ref name="cast4"/>|Yuri Kuriyama (vocals),<ref name="artists"/> [[Armen Taylor]], [[Keith Silverstein]], Ray Chase}}
+:An [[A cappella|a capella]] group of [[drag queen]]s, who are eliminated from the quarter-finals due to their [[Profanity|verbally explicit]] lyrics.
+;{{nihongo|Fire Brothers|ファイヤー兄弟|Faiyā Kyōdai}}
+:{{animevoices|[[Shōzō Iizuka]] (speaking voice),<ref name="cast4"/> Singman (vocals)<ref name="artists"/>}}
+:A pair of elderly brothers who perform thrash metal music.
+;{{nihongo|OG Bulldog|OGブルドッグ|OG Burudoggu}}
+:{{animevoices|[[Hiroshi Shirokuma]] (speaking voice),<ref name="cast4"/> Kazuma Kudo (vocals)<ref name="artists"/>|Armen Taylor}}
+:A seemingly rough-looking contestant who mixes rap with opera.
+;GGK
+:{{animevoices|[[Misaki Kuno]] (speaking voice)<ref>{{cite web|url=https://www.animenewsnetwork.com/news/2019-06-05/misaki-kuno-joins-carole-and-tuesday-anime-cast/.147497|title=Misaki Kuno Joins Carole & Tuesday Anime's Cast|date=June 5, 2019|website=[[Anime News Network]]|access-date=June 5, 2019}}</ref>|Madison McFerrin (vocals),<ref name="artists"/> [[Mela Lee]]}}
+:A contestant who claims to be a vessel through which the universe sings.
+
+===Others===
+;{{nihongo|Valerie Simmons|ヴァレリー|Varerī}}
+:{{animevoices|Tomoko Miyadera<ref name="cast2"/>|Rachel Robinson}}
+:Tuesday's mother, the governor of Hershall Province and a candidate for the presidency of Mars.
+;{{nihongo|Spencer Simmons|スペンサー|Supensā}}
+:{{animevoices|[[Takahiro Sakurai]]<ref name="cast2"/>|[[Lucien Dodge]]}}
+:Tuesday's older brother.
+;{{nihongo|Katy Kimura|ケイティ・キムラ|Keiti Kimura}}
+:{{animevoices|[[Nao Tōyama]]<ref name="cast4">{{cite web|url=https://www.animenewsnetwork.com/news/2019-05-30/carole-and-tuesday-anime-adds-8-cast-members/.147268|title=Carole & Tuesday Anime Adds 8 Cast Members|date=May 30, 2019|website=[[Anime News Network]]|access-date=May 30, 2019}}</ref>|[[Xanthe Huynh]]}}
+:Angela's manager and biggest fan.
+;{{nihongo|IDEA|イデア|Edea}}
+:{{animevoices|[[Uki Satake]]|Kimberley Anne Campbell}}
+:A self-proclaimed super AI robot ordered by Roddy who helped Carole & Tuesday for the production of their first music video. Later it's revealed to be a swindler AI who only wants to drink and lounge around in people's homes.
+;{{nihongo|Kyle|カイル|Kairu}}
+:{{animevoices|[[Junichi Suwabe]]|Ben Lepley}}
+:A journalist covering the Mars presidential election.
+;{{nihongo|Tobe|トビー|Tobī}}
+:{{animevoices|[[Hiroshi Iwasaki]]<ref>{{cite web | url = http://caroleandtuesday.com/chara/tobe.html?lang=en | title = Tobe - Character -CAROLE ＆ TUESDAY Official Site- | website = caroleandtuesday.com | language = ja | access-date = December 28, 2019}}</ref>|Joe DiMucci<ref name="credits2">{{cite episode|title=The Kids Are All Right|series=Carole and Tuesday|number=1|time=Closing credits, English Language Cast|publisher=Netflix|location=USA}}</ref>}}
+:A legendary [[record producer]] who works with Carole and Tuesday.
+;{{nihongo|Black Knight|ブラックナイト|Burakku Naito}}
+:{{animevoices|[[Akira Ishida]]|[[Aleks Le]]}}
+:A stalker who has a dangerous obsession with Angela and traces her personal life.
+
+==Media==
+===Anime===
+The 24-episode [[anime]] television series by studio [[Bones (studio)|Bones]] is directed by Motonobu Hori with [[Shinichirō Watanabe]] as supervising director.<ref>{{cite web|url=https://www.animenewsnetwork.com/news/2018-11-07/shinichiro-watanabe-bones-original-anime-carole-and-tuesday-reveals-more-staff-netflix-streaming-story-ad-visual/.139169|title=Shinichiro Watanabe, BONES' Original Anime Carole & Tuesday Reveals More Staff, Netflix Streaming, Story, Ad, Visual|date=November 7, 2018|website=[[Anime News Network]]|access-date=November 7, 2018|archive-url=https://web.archive.org/web/20181107155751/https://www.animenewsnetwork.com/news/2018-11-07/shinichiro-watanabe-bones-original-anime-carole-and-tuesday-reveals-more-staff-netflix-streaming-story-ad-visual/.139169|archive-date=November 7, 2018|url-status=live|df=mdy-all}}</ref><ref>{{cite web|url=https://www.animenewsnetwork.com/news/2019-03-28/carole-and-tuesday-anime-2nd-behind-the-scenes-video-shows-music-recording/.145096|title=Carole & Tuesday Anime's 2nd Behind-the-Scenes Video Shows Music Recording|date=March 28, 2019|website=[[Anime News Network]]|access-date=March 28, 2019|archive-url=https://web.archive.org/web/20190328112348/https://www.animenewsnetwork.com/news/2019-03-28/carole-and-tuesday-anime-2nd-behind-the-scenes-video-shows-music-recording/.145096|archive-date=March 28, 2019|url-status=live|df=mdy-all}}</ref> [[Eisaku Kubonouchi]] provides the original character designs, while Tsunenori Saito adapts them for animation. The series aired in [[Fuji TV]]'s [[+Ultra]] timeslot from April 10 to October 2, 2019, and is streamed exclusively on [[Netflix]].<ref name="cast">{{cite web|url=https://www.animenewsnetwork.com/news/2019-02-21/shinichiro-watanabe-bones-original-carole-and-tuesday-anime-reveals-promo-video-cast-april-10-premiere/.143729|title=Shinichiro Watanabe, BONES' Original Carol & Tuesday Anime Reveals Promo Video, Cast, April 10 Premiere|date=February 21, 2019|website=[[Anime News Network]]|access-date=February 21, 2019|archive-url=https://web.archive.org/web/20190222042049/https://www.animenewsnetwork.com/news/2019-02-21/shinichiro-watanabe-bones-original-carole-and-tuesday-anime-reveals-promo-video-cast-april-10-premiere/.143729|archive-date=February 22, 2019|url-status=live|df=mdy-all}}</ref><ref name="anime">{{cite web|url=https://www.animenewsnetwork.com/news/2018-03-08/shinichiro-watanabe-bones-produce-carol-and-tuesday-original-anime-for-april-2019/.128701|title=Shinichiro Watanabe, BONES Produce Carol & Tuesday Original Anime for April 2019|date=March 8, 2018|website=[[Anime News Network]]|access-date=March 8, 2018|archive-url=https://web.archive.org/web/20180308175104/https://www.animenewsnetwork.com/news/2018-03-08/shinichiro-watanabe-bones-produce-carol-and-tuesday-original-anime-for-april-2019/.128701|archive-date=March 8, 2018|url-status=live|df=mdy-all}}</ref> The series is in commemoration of the 20th anniversary of Bones and the 10th anniversary of record label [[FlyingDog]]. A special broadcast, ''Carole & Tuesday Golden Week Special'', was aired on Line Live on May 1, 2019. It included a behind-the-scenes documentary, recording sessions with the singers, and the music video for the opening theme song "Kiss Me".<ref name="Crunchyroll musicians">{{cite news |last1=Dennison |first1=Kara |title=Carole & Tuesday Announces More Musicians, Golden Week Special |url=https://www.crunchyroll.com/anime-news/2019/04/26/carole-tuesday-announces-more-musicians-golden-week-special |access-date=May 4, 2019 |work=Crunchyroll |date=April 27, 2019}}</ref> [[Netflix]] holds international distribution rights, and the first half of ''Carole & Tuesday'' was released worldwide on August 30, 2019 with an English dub.<ref name="Netflix English Dub">{{cite web|url=https://www.animenewsnetwork.com/news/2019-07-06/carole-and-tuesday-anime-1st-half-debuts-worldwide-on-netflix-on-august-30/.148733|title=Carole & Tuesday Anime's 1st Half Debuts Worldwide on Netflix on August 30|publisher=[[Anime News Network]]|date=July 6, 2019|access-date=August 31, 2019}}</ref> The other half was released on December 24.<ref>{{cite web|url=https://www.animenewsnetwork.com/daily-briefs/2019-10-04/carole-and-tuesday-anime-2nd-half-debuts-on-netflix-worldwide-on-december-24/.151874|title=Carole & Tuesday Anime's 2nd Half Debuts on Netflix Worldwide on December 24|publisher=[[Anime News Network]]|date=October 4, 2019|access-date=October 4, 2019}}</ref>
+
+Starting on June 28, 2019, an eight-episode series of Flash-animated shorts titled ''Car & Tue'' began streaming on the series' official [[YouTube]] channel. The anime shorts center on "light-hearted, comical dialogue" between characters in the series.<ref>{{cite web|url=https://www.animenewsnetwork.com/news/2019-06-28/carole-and-tuesday-anime-gets-series-of-flash-animated-shorts/.148399|title=Carole & Tuesday Anime Gets Series of Flash-Animated Shorts|publisher=Anime News Network|date=June 28, 2019|access-date=June 29, 2019}}</ref>
+
+====Music====
+{{external media|float = right|width = 230px|video1 = [https://www.youtube.com/watch?v=k45EpgweT9o "Kiss Me Music Video (short ver.)"]<br /> The official music video of the first opening theme song by Nai Br.XX and [[Celeina Ann]].}}
+The opening and ending theme songs for the first half respectively are "Kiss Me" and "Hold Me Now", both performed by Nai Br.XX and [[Celeina Ann]].<ref>{{cite web|url=https://www.animenewsnetwork.com/interest/2019-04-03/get-an-early-listen-to-carole-and-tuesday-anime-opening-theme/.145362|title=Get An Early Listen to Carole & Tuesday Anime's Opening Theme|date=April 3, 2019|website=[[Anime News Network]]|access-date=April 3, 2019|archive-url=https://web.archive.org/web/20190403205235/https://www.animenewsnetwork.com/interest/2019-04-03/get-an-early-listen-to-carole-and-tuesday-anime-opening-theme/.145362|archive-date=April 3, 2019|url-status=live|df=mdy-all}}</ref> The opening and ending theme songs for the second half respectively are "Polly Jean", performed by Nai Br.XX and Celeina Ann and "Not Afraid", performed by Alisa.<ref name="Netflix English Dub"/> [[Mocky]] composes the music at [[FlyingDog]]. Additional music is provided by other musicians, including:
+{{colbegin}}
+*[[Alison Wonderland]] (Alexandra Sholler)<ref name="Crunchyroll musicians"/>
+*D.A.N.<ref name="Crunchyroll musicians" />
+*Cero<ref name="Crunchyroll musicians" />
+*[[Flying Lotus]] (Steven Ellison)<ref name=Otaquest>{{cite web|url=https://www.otaquest.com/flying-lotus-thundercat-taku-takahashi-carole-tuesday/|title=Flying Lotus, Thundercat, ☆Taku Takahashi, & More Join 'Carole & Tuesday' Composer Lineup|date=April 3, 2019|website=Otaquest|access-date=April 4, 2019|archive-url=https://web.archive.org/web/20190404180505/https://www.otaquest.com/flying-lotus-thundercat-taku-takahashi-carole-tuesday/|archive-date=April 4, 2019|url-status=live|df=mdy-all}}</ref>
+*[[Mark Redito]]<ref name="Crunchyroll musicians" />
+*Madison McFerrin<ref name="Crunchyroll musicians" />
+*[[Taku Takahashi]]<ref name=Otaquest />
+*Taro Umebayashi<ref name="Crunchyroll musicians" />
+*[[Taylor McFerrin]]<ref name="Crunchyroll musicians" />
+*[[Thundercat (musician)|Thundercat]] (Stephen Lee Bruner)<ref name=Otaquest />
+{{colend}}
+
+The first soundtrack album, covering the first 12 episodes and comprising 20 tracks, was released on July 31, 2019. The album consists of songs written for the series' characters by the contributing musicians.<ref>{{cite news |last1=Dennison |first1=Kara |title=Carole & Tuesday Announces Soundtrack Vol. 1 Packed with 20 Tunes |url=https://www.crunchyroll.com/anime-news/2019/04/24/carole-tuesday-announces-soundtrack-vol-1-packed-with-20-tunes |access-date=May 4, 2019 |work=Crunchyroll |date=April 24, 2019}}</ref> The first insert song used in episodes 1, 2 and 12, titled "The Loneliest Girl", was released on digital streaming services on June 27, 2019.
+
+====Episodes====
+All episode titles are taken from pop and rock songs.
+
+{{Episode table
+|background= 575757
+|overall= 
+|title= 
+|director= 
+|writer= 
+|airdate= 
+|episodes= 
+{{Episode list
+| EpisodeNumber   = 1
+| Title           = [[True Colors (Cyndi Lauper song)|True Colors]]
+| DirectedBy      = Motonobu Hori
+| WrittenBy       = [[Hitomi Mieno|Deko Akao]]
+| OriginalAirDate = {{Start date|2019|4|10}}
+| ShortSummary    = Tuesday, the teenaged daughter of the prominent politician Valerie Simmons, runs away from home on terraformed Mars to be able to play music. In Alba City, chance brings her together with Carole, another aspiring young musician who's just been fired from her dead-end job. The two decide to make music together. Meanwhile, the prominent model Angela Carpenter is engaged as a "puppet" singer by the AI media mogul Tao.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 2
+| Title           = [[Born to Run (Bruce Springsteen song)|Born to Run]]
+| DirectedBy      = Shohei Miyake
+| WrittenBy       = Deko Akao
+| OriginalAirDate = {{Start date|2019|4|17}}
+| ShortSummary    = Angela undergoes uncomfortable training with Tao. Carole is fired from another job. She and Tuesday sneak into a concert hall to play on a real piano. Their performance is surreptitiously filmed by the technician Roddy, and goes viral. Seeing it, the drunkard Gus Goldman tracks the two down and declares himself their manager.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 3
+| Title           = [[Fire and Rain (song)|Fire and Rain]]
+| DirectedBy      = Satoshi Takato
+| WrittenBy       = Yasuhiro Nakanishi
+| OriginalAirDate = {{Start date|2019|4|24}}
+| ShortSummary    = Gus, a manager whose best days are behind him, convinces the girls to sign on with him. A [[laundromat]] visit inspires them to create a new song ("Round & Laundry"). Carole, Tuesday and Angela separately undergo dubious voice training, and Angela's mother Dahlia pressures her daughter into continuing. Roddy connects Carole and Tuesday to the sleazy star DJ Ertegun. He dismisses the mere idea of non-AI-made music, and the visit ends in a disaster, but the girls are not disheartened.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 4
+| Title           = [[Video Killed the Radio Star]]
+| DirectedBy      = Tsuyoshi Tobita
+| WrittenBy       = Kimiko Ueno
+| OriginalAirDate = {{Start date|2019|5|1}}
+| ShortSummary    = Carole, Tuesday, Gus and Roddy decide to make a viral music video. They buy the cheap director robot "IDEA", Gus convinces his ex-wife Marie to be the stylist, and they scrounge together the materials for a zombie-robot-dance video. But IDEA turns out to be a scammer who just wants to drink beer, the clip is awful and the girls are back at square one.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 5
+| Title           = [[Every Breath You Take]]
+| DirectedBy      = Noriyuki Nomata
+| WrittenBy       = Deko Akao
+| OriginalAirDate = {{Start date|2019|5|8}}
+| ShortSummary    = Gus and Roddy try to find a venue for the girls' first gig. After Gus is thrown out by his ex-buddy-turned-CEO Höfner, Roddy convinces his friend, the bar owner Beth, to let Carole and Tuesday play one song, which is warmly received by the audience of ten. Tuesday's brother Spencer arrives in town to look for her, but leaves after he hears her sing. An ''a capella'' performance by Angela convinces the magnate Schwarz to invest 12 million woolong in her with Tao.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 6
+| Title           = [[Life Is a Carnival]]
+| DirectedBy      = Shohei Miyake
+| WrittenBy       = Yuichi Nomura
+| OriginalAirDate = {{Start date|2019|5|15}}
+| ShortSummary    = Höfner arranges for Carole and Tuesday to be the backup for the flaky star Joshua in the prestigious [[Cydonia (Mars)|Cydonia]] Festival. In shock, the two quickly compose a rock song. At the festival, the girls have to evade Ertegun and are encouraged by Skip, a veteran performer, before he takes the stage ("Unrequited Love" by [[Thundercat (musician)|Thundercat]]). When Joshua has a breakdown, Carole and Tuesday are called up. Facing a hostile crowd, they get through half of their song ("Round & Laundry") before the recovered Joshua storms the stage. But Crystal, another prominent musician, lifts their spirits with praise, and closes the evening ("Unbreakable" by Lauren Dyson).
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 7
+| Title           = [[Show Me the Way (Peter Frampton song)|Show Me the Way]]
+| DirectedBy      = Satoshi Takato
+| WrittenBy       = Kimiko Ueno
+| OriginalAirDate = {{Start date|2019|5|22}}
+| ShortSummary    = Gus signs Carole and Tuesday up for the talent show "Mars' Brightest". In the qualifying round, they meet the excitable social media star Pyotr, and perform after a number of bizarre and varied contestants. Afterwards, Tuesday is disheartened, realizing that she doesn't really know Carole, but a riverside chat with her friend cheers her up. When the two are selected for the finals, they face the media for the first time. Meanwhile, Angela, whose relationship with her mother becomes more distant, is also selected as a finals contestant.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 8
+| Title           = [[All the Young Dudes]]
+| DirectedBy      = Tsuyoshi Tobita
+| WrittenBy       = Yasuhiro Nakanishi
+| OriginalAirDate = {{Start date|2019|5|29}}
+| ShortSummary    = In the quarterfinals of "Mars' Brightest", Pyotr ("Dance Tonight") defeats the 99-year-old Fire Brothers ("Never Die"), and Carole and Tuesday ("Whispering My Love") triumph over the operatic wannabe gangster OG Bulldog ("Bulldog Anthem"). Angela derides the girls as amateurs, and Tuesday meets her fervent admirer, the fellow contestant Cybelle.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 9
+| Title           = [[Dancing Queen]]
+| DirectedBy      = Tomomi Kamiya
+| WrittenBy       = Deko Akao
+| OriginalAirDate = {{Start date|2019|6|5}}
+| ShortSummary    = Quarterfinals continue with the [[drag queen]] quartet Mermaid Sisters ("Galactic Mermaid") losing to the esoteric GGK ("Milky Way" by Madison McFerrin), and Angela ("Move Mountains" by Alisa) defeating Cybelle ("La ballade" by Maika Loubté). Tao takes an interest in Carole and Tuesday, and Cybelle clings possessively to the baffled Tuesday, who eventually rejects her.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 10
+| Title           = [[River Deep – Mountain High|River Deep, Mountain High]]
+| DirectedBy      = Tsuyoshi Tobita
+| WrittenBy       = Yuichi Nomura
+| OriginalAirDate = {{Start date|2019|6|12}}
+| ShortSummary    = In the semifinals, Angela ("All I Want") defeats GGK ("Gravity Bounce") after a last-minute song change by Tao. As Pyotr performs ("Love Yourself" by J R Price), Tuesday becomes concerned about Cybelle and searches for her. Minutes before the girls are due on stage, Carole discovers Tuesday with a burnt hand after she opened a now-smoking present.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 11
+| Title           = [[With or Without You]]
+| DirectedBy      = Noriyuki Nomata
+| WrittenBy       = Kimiko Ueno
+| OriginalAirDate = {{Start date|2019|6|19}}
+| ShortSummary    = Tuesday's burns prevent her from playing the guitar, but she and Carole still beat Pyotr with "Lost My Way", despite interference from a judge, Ertegun. Cybelle is found out to have committed the attack on Tuesday out of jealousy, and is arrested. As Carole and Tuesday share each other's worries, goons sent by Tuesday's family abduct her by force.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 12
+| Title           = [[We've Only Just Begun]]
+| DirectedBy      = Shohei Miyake
+| WrittenBy       = [[Shinichirō Watanabe]]
+| OriginalAirDate = {{Start date|2019|6|26}}
+| ShortSummary    = Tuesday's mother Valerie confines her to her room. With help from Carole, Gus, Roddy and Spencer, Tuesday manages to escape. Although Carole and Tuesday are disqualified for arriving late to the finals, their performance of "The Loneliest Girl" convinces the judges to allow them to make their debut alongside Angela.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 13
+| Title           = [[Walk This Way]]
+| DirectedBy      = Satoshi Takato, Ryota Miyazawa, Noriyuki Nomata
+| WrittenBy       = Yasuhiro Nakanishi
+| OriginalAirDate = {{Start date|2019|7|10}}
+| ShortSummary    = Carole and Tuesday, now famous, sit for interviews. They are harassed by louts at the laundromat, but a stranger, Dann, drives them off. Gus rejects a restrictive records contract with the owners of Mars' Brightest. To launch Carole and Tuesday as indie musicians, he takes them to the slums to find the retired producer Tobe, who turns out to be a deranged old man with an axe. Valerie, assisted by Spencer, launches her election campaign with an anti-immigrant message.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 14
+| Title           = [[The Kids Are Alright (song)|The Kids Are Alright]]
+| DirectedBy      = Naoki Murata
+| WrittenBy       = Deko Akao
+| OriginalAirDate = {{Start date|2019|7|17}}
+| ShortSummary    = Tobe takes on Carole and Tuesday. With Skip and his friends as backing, they record a song with which Tobe is satisfied after "only" 52 takes. A reporter questions Tuesday about her mother, who hardens her isolationist position against Earth. Dann reveals to Carole that he is her father. Abandoned as an orphan on Earth, she never knew her parents. Dann says that, after 17 years of prison on Earth, he used his probation leave to get a glimpse of her.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 15
+| Title           = [[God Only Knows]]
+| DirectedBy      = Tsuyoshi Tobita
+| WrittenBy       = [[Keiko Nobumoto]]
+| OriginalAirDate = {{Start date|2019|7|31}}
+| ShortSummary    = Desmond, a reclusive, eccentric musician, invites Carole and Tuesday to their garden home. They muse about life and friendship, and, incurably sick, treats the girls to their last song. Meanwhile, Valerie meets the incumbent president of Mars, Hamilton, in a debate. She calls for an end to the admission of refugees from Earth and the termination of the trade agreement with Earth.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 16
+| Title           = [[(You Make Me Feel Like) A Natural Woman|A Natural Woman]]
+| DirectedBy      = Midori Yui
+| WrittenBy       = Yuichi Nomura
+| OriginalAirDate = {{Start date|2019|8|7}}
+| ShortSummary    = Carole and Tuesday learn their first single made number 53 on the charts. Gus, seeking to bolster the girls popularity, gets them a gig at ''[[South by Southwest|South by Southwest (SXSW)]]''. To prepare, they pick up a drummer, a bassist, and an electric guitarist. Meanwhile, Gus runs into Flora, an old artist he used to manage who has fallen from grace and out of music. However, at SXSW, Carole and Tuesday's singing manages to sway her heart.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 17
+| Title           = [[Head over Heels (Tears for Fears song)|Head Over Heels]]
+| DirectedBy      = Noriyuki Nomata
+| WrittenBy       = Kimiko Ueno
+| OriginalAirDate = {{Start date|2019|8|14}}
+| ShortSummary    = One morning, Ertegun awakens to find himself bankrupt - his AI manager has made off with all of his money. Ertegun's house is foreclosed, and without a penny to his name, he is forced to sleep at Roddy's place. Ertegun completely loses his confidence and begins questioning his own identity. Trying to cheer him up, Roddy takes Ertegun to visit Carole and Tuesday, who are busy working on their first album. And so, Ertegun's comeback drama begins, with everyone including Tao and Angela dragged into it.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 18
+| Title           = [[Only Love Can Break Your Heart]]
+| DirectedBy      = Satoshi Takato
+| WrittenBy       = Yasuhiro Nakanishi
+| OriginalAirDate = {{Start date|2019|8|21}}
+| ShortSummary    = Carole and Tuesday are officially confirmed to play at the autumn Cydonia Festival. Tuesday resolves to confront her mother and decides to meet with Kyle, the reporter doing a story on Valerie. Tuesday gradually becomes attracted to Kyle, who provides a sympathetic ear for all her concerns. Meanwhile, a weather plant is bombed by unknown persons. This incident, along with Valerie's hardline stance against immigrants from Earth, stirs up public opinion.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 19
+| Title           = [[People Get Ready]]
+| DirectedBy      = Ryohei Takeshita, Motonobu Hori
+| WrittenBy       = Deko Akao
+| OriginalAirDate = {{Start date|2019|8|28}}
+| ShortSummary    = Dahlia reveals to Tao that Angela is being threatened by a stalker who calls himself "The Black Knight". Upon hearing this, Tao takes it upon himself to find the culprit. For the upcoming Cydonia Festival, Angela has agreed to appear as a secret guest for Ertegun. Meanwhile, Carole and Tuesday, eager to redeem themselves after their last disastrous performance at Cydonia Festival, are also making preparations. Finally, the curtain rises on each of their stages.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 20
+| Title           = [[Immigrant Song]]
+| DirectedBy      = Danzo Kato
+| WrittenBy       = Yuichi Nomura
+| OriginalAirDate = {{Start date|2019|9|4}}
+| ShortSummary    = Following the weather plant terrorist incident, presidential candidate Valerie sees a sharp rise in popularity for her anti-Earth immigrant rhetoric. Carole & Tuesday and Angela are nominated for the [[Grammy Award for Best New Artist]], and Tao is suddenly taken into custody by the Mars Federal Attorney's Office after refusing a request from Schwartz. Meanwhile, Carole tries to make contact with the rapper Ezekiel, who she believes is her childhood friend Amer from the orphanage.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 21
+| Title           = [[It's Too Late (Carole King song)|It's Too Late]]
+| DirectedBy      = Tsuyoshi Tobita
+| WrittenBy       = Kimiko Ueno
+| OriginalAirDate = {{Start date|2019|9|11}}
+| ShortSummary    = With Tao under arrest and her mother Dahlia in a coma, Angela is left feeling alone like never before. The Mars Grammys are to take place on Christmas, Carole’s birthday. Carole & Tuesday rack their brains for the perfect song to complete their album, while Gus runs around trying to organize a special guest to co-perform with them. Carole also goes to see Amer to convey her feelings before he’s deported back to Earth.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 22
+| Title           = [[Just Like Heaven (The Cure song)|Just Like Heaven]]
+| DirectedBy      = Shohei Miyake
+| WrittenBy       = Yasuhiro Nakanishi
+| OriginalAirDate = {{Start date|2019|9|18}}
+| ShortSummary    = Crystal agrees to perform with Carole & Tuesday at the Mars Grammys ceremony, but on the condition that the song they sing be a light of hope in the current darkening political times. They complete a song that Crystal approves of, just in time for the ceremony and Christmas, which is Carole's birthday. The morning of the show, Dahlia apologizes to Angela before passing away in the hospital. The show begins with Carole & Tuesday's performance, followed by the announcement that Angela won Best New Artist. She performs a song, before collapsing on stage.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 23
+| Title           = [[Don't Stop Believin']]
+| DirectedBy      = Noriyuki Nomata
+| WrittenBy       = Deko Akao
+| OriginalAirDate = {{Start date|2019|9|25}}
+| ShortSummary    = Angela is in a coma following her collapse at the Mars Grammys. Meanwhile, musicians such as Skip who oppose Valerie's proposed restrictions on freedom of speech are being arrested one after the other. In a meeting with Gus, Roddy and Ertegun, Carole and Tuesday suggest musicians from all over Mars sing together in a show of solidarity, and the girls are charged with writing the song. They also hope that Angela will join them, crediting her as the reason the girls were able to grow as artists.
+| LineColor       = 575757
+}}
+{{Episode list
+| EpisodeNumber   = 24
+| Title           = [[A Change Is Gonna Come]]
+| DirectedBy      = Motonobu Hori, Satoshi Takato
+| WrittenBy       = Shinichiro Watanabe
+| OriginalAirDate = {{Start date|2019|10|2}}
+| ShortSummary    = Tao reveals a long-kept secret to Angela while Carole and Tuesday finally complete their task. Valerie withdraws her candidacy for president upon finding out from Spencer (via Kyle) that Jerry was involved in the bombing incident. On New Year's Eve, musicians from across Mars including Crystal, Flora, Pyotr, GGK, Desmond and Angela, secretly gather at the Mars Immigration Memorial Hall to perform Carole and Tuesday's new song "Mother" together, in an event that would go down in Martian history as the "Seven-Minute Miracle".
+| LineColor       = 575757
+}}
+}}
+
+====Media release====
+[[FlyingDog]] released ''Carole & Tuesday'' across two volumes, in DVD and Blu-ray media formats.
+{| class="wikitable" style="text-align: center; width: 98%;"
+! colspan="2" scope="column" |Volume
+! scope="column" |Episodes
+! scope="column" |Release date
+! scope="column" width="5%" |Ref.
+|-
+| rowspan="3" width="1%" style="background: #CCCCFF;" |
+! scope="row" |Volume 1
+|1–12
+|October 30, 2019
+|<ref>{{cite web|title=「キャロル&チューズデイ」Blu-ray Disc BOX Vol.1|url=https://www.amazon.co.jp//dp/B07V6F5LL8|work=Amazon Japan|access-date=November 17, 2019}}</ref>
+|-
+! scope="row" |Volume 2
+|13–24
+|January 15, 2020
+|<ref>{{cite web|title=「キャロル&チューズデイ」Blu-ray Disc BOX Vol.2|url=https://www.amazon.co.jp/dp/B07V1MYFGD/|work=Amazon|access-date=November 17, 2019}}</ref>
+|-
+|}
+
+===Manga===
+A manga adaptation, illustrated by Morito Yamataka, began serialization in [[Kadokawa Shoten]]'s ''[[Young Ace]]'' magazine on May 2, 2019.<ref>{{cite web|url=https://www.animenewsnetwork.com/news/2019-04-04/carole-and-tuesday-original-anime-gets-manga-in-may/.145387|title=Carole & Tuesday Original Anime Gets Manga in May|publisher=Anime News Network|date=April 10, 2019|access-date=June 17, 2019}}</ref> [[Yen Press]] announced the license of the manga at [[Anime NYC]] and it is scheduled for release in 2020.<ref>{{Cite web|url=https://www.animenewsnetwork.com/news/2019-11-16/yen-press-adds-bestia-carole-and-tuesday-11-more-manga-novels/.153352|title=Yen Press Adds Bestia, Carole & Tuesday, 11 More Manga/Novels|last=Sherman|first=Jennifer|date=November 17, 2019|website=Anime News Network|language=en|access-date=November 17, 2019}}</ref> The manga ended in July 2020.<ref>{{cite web|url=https://www.animenewsnetwork.com/news/2020-06-10/carole-and-tuesday-manga-ends-in-july/.160444|title=Carole & Tuesday Manga Ends in July|publisher=Anime News Network|date=June 10, 2020|access-date=June 10, 2020}}</ref>
+
+==Reception==
+James Beckett of [[Anime News Network]] commended the show, giving it an A overall, citing "genuinely delightful" music, a "colorful, well-realized world", and stated that the English dub "serves the anime even better than its original Japanese track".<ref>{{Cite web|title=Carole & Tuesday—Episodes 1-12 streaming|url=https://www.animenewsnetwork.com/review/carole-and-tuesday/episodes-1-12/.150670|access-date=2020-12-24|website=Anime News Network|language=en}}</ref><ref>{{Cite web|title=Carole & Tuesday - Episodes 13-24 Streaming|url=https://www.animenewsnetwork.com/review/carole-and-tuesday-episodes-13-24-streaming/.157541|access-date=2020-12-24|website=Anime News Network|language=en}}</ref>
+
+In her review of the show for ''[[Syfy]]'', Laura Dale criticized the LGBTQ representation in the show, writing that it kept her from enjoying the anime. She argued that the show often uses "minority characters as punchlines, stereotypes for plot progression, or...presents one particular minority group as dangerous violent monsters created by poor environmental factors."<ref name="Dale2020">{{Cite web |last1=Dale |first1=Laura |title=Poor LGBTQIA+ representation kept me from enjoying one of Netflix's sweetest anime |url=https://www.syfy.com/syfywire/poor-lgbtqia-representation-kept-me-from-enjoying-one-of-netflixs-sweetest-anime |website=[[Syfy]] |access-date=August 22, 2020 |archive-url=https://web.archive.org/web/20200413231642/https://www.syfy.com/syfywire/poor-lgbtqia-representation-kept-me-from-enjoying-one-of-netflixs-sweetest-anime |archive-date=April 13, 2020 |date=April 13, 2020 |url-status=live |df=mdy-all}}</ref> Dale further stated that, in their view, the efforts by the show at LGBTQ representation were frustrating because the show has a "really sweet, soft queer energy," stated that Marie, ex-wife of Carole and Tuesday's manager, the only positive example of representation in the anime itself, and remained disappointed that the show had "repeated harmful representations of queer characters."
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://caroleandtuesday.com/index.html}} {{in lang|ja}}
+*{{Netflix title}}
+*{{ann|anime|21557}}
+*{{imdb title|8107988}}
+
+{{Shinichirō Watanabe}}
+{{Bones (studio)}}
+{{+Ultra}}
+
+{{DEFAULTSORT:Carole and Tuesday}}
+[[Category:+Ultra]]
+[[Category:Anime with original screenplays]]
+[[Category:Bones (studio)]]
+[[Category:Fuji TV original programming]]
+[[Category:Kadokawa Shoten manga]]
+[[Category:Mars in television]]
+[[Category:Music in anime and manga]]
+[[Category:Netflix original anime]]
+[[Category:Seinen manga]]
+[[Category:Yen Press titles]]

@@ -1,0 +1,457 @@
+{{short description|Fine, lustrous, natural fiber produced by the larvae of various silk moths, especially the species Bombyx mori}}
+{{About|an animal fiber and the textile woven from it|other uses|Silk (disambiguation)}}
+{{Redirect|Pure silk|women's professional golf tournament|Pure Silk-Bahamas LPGA Classic}}
+{{pp|small=yes}}
+{{Use dmy dates|date=August 2019}}
+{{Infobox Chinese
+|pic=Silk (Chinese characters).svg
+|piccap="Silk" in [[seal script]] (top), Traditional (middle), and Simplified (bottom) Chinese
+|picupright=0.225
+|s=丝
+|t=絲
+|p=sī
+|w=ssŭ<sup>1</sup>
+|mi={{IPAc-cmn|s|^|1}}
+|j=si1
+|y=sī
+|ci={{IPAc-yue|s|i|1}}
+|tl=si
+|mc=si
+|oc-b92=&ast;{{IPA|sjɨ}}
+|oc-bs=&ast;{{IPA|sə}}
+|kanji=絹
+|kana=シルク
+}}
+
+[[File:Meyers b14 s0826a.jpg|thumb|Four of the most important domesticated silk moths. Top to bottom:<br /> ''[[Bombyx mori]]'', ''[[Hyalophora cecropia]]'', ''[[Antheraea pernyi]]'', ''[[Samia cynthia]]''.<br />From [[Meyers Konversations-Lexikon]] (1885–1892)]]
+[[File:Silk-from-Crickets-A-New-Twist-on-Spinning-pone.0030408.s003.ogv|thumb|A silk-producing [[raspy cricket]]]]
+'''Silk''' is a [[natural fiber|natural]] [[protein]] [[fiber]], some forms of which can be [[weaving|woven]] into [[textile]]s. The protein fiber of silk is composed mainly of [[fibroin]] and is produced by certain insect [[larva]]e to form [[cocoon (silk)|cocoons]].<ref>{{cite web |url=https://www.thefreedictionary.com/silk |title=Silk |publisher=The Free Dictionary By Farlex |access-date=2012-05-23 |archive-date=3 July 2021 |archive-url=https://web.archive.org/web/20210703192858/https://www.thefreedictionary.com/silk |url-status=live }}</ref> The best-known silk is obtained from the cocoons of the larvae of the [[mulberry silkworm]] ''[[Bombyx mori]]'' reared in captivity ([[sericulture]]). The shimmering appearance of silk is due to the triangular [[prism]]-like structure of the silk fibre, which allows silk cloth to refract incoming light at different [[angle]]s, thus producing different colors.
+
+Silk is produced by several insects; but, generally, only the silk of moth caterpillars has been used for textile manufacturing. There has been some research into other types of silk, which differ at the molecular level.<ref name="Sutherland TD, Young JH, Weisman S, Hayashi CY, Merritt DJ 2010 171–88">{{cite journal |vauthors=Sutherland TD, Young JH, Weisman S, Hayashi CY, Merritt DJ |title=Insect silk: one name, many materials |journal=[[Annual Review of Entomology]] |volume=55 |pages=171–88 |year=2010 |pmid=19728833 |doi=10.1146/annurev-ento-112408-085401}}</ref> Silk is mainly produced by the larvae of insects undergoing [[holometabolism|complete metamorphosis]], but some insects, such as [[webspinner]]s and [[Gryllacrididae|raspy crickets]], produce silk throughout their lives.<ref>{{cite journal |vauthors=Walker AA, Weisman S, Church JS, Merritt DJ, Mudie ST, Sutherland TD |year=2012 |title=Silk from Crickets: A New Twist on Spinning |journal=PLOS ONE |volume=7 |issue=2 |pages=e30408 |doi=10.1371/journal.pone.0030408 |pmid=22355311 |pmc=3280245 |bibcode=2012PLoSO...730408W|doi-access=free }}</ref> Silk production also occurs in [[hymenoptera]] ([[bee]]s, [[wasp]]s, and [[ant]]s), [[silverfish]], [[mayfly|mayflies]], [[thrips]], [[leafhopper]]s, [[beetle]]s, [[lacewing]]s, [[flea]]s, [[fly|flies]], and [[midge]]s.<ref name="Sutherland TD, Young JH, Weisman S, Hayashi CY, Merritt DJ 2010 171–88"/> Other types of [[arthropod]]s produce silk, most notably various [[arachnid]]s, such as [[spider]]s.
+
+==Etymology==
+The word silk comes from {{lang-ang|sioloc}}, from {{lang-grc|σηρικός|translit=sērikós}}, "silken", ultimately from the Chinese word "sī" and other Asian sources—compare [[Standard Chinese|Mandarin]] {{lang|zh-Latn|sī}} "silk", [[Manchu language|Manchurian]] {{lang|mnc-Latn|sirghe}}, [[Mongolian language|Mongolian]] {{lang|mn-Latn|sirkek}}.<ref>{{cite web |url=https://www.etymonline.com/search?q=silk |title=Silk |work=Etymonline |access-date=2012-08-27 |url-status=live |archive-url=https://web.archive.org/web/20131214224755/http://www.etymonline.com/index.php?allowed_in_frame=0&search=silk&searchmode=none |archive-date=14 December 2013}}</ref>
+
+==History==
+{{Main|History of silk}}
+The production of silk originated in [[China]] in the [[Neolithic]] period, although it would eventually reach other places of the world ({{lang|zh-Latn|[[Yangshao culture|Yangshao]]|italic=no}} culture, 4th millennium BC). Silk production remained confined to China until the [[Silk Road]] opened at some point during the latter part of the 1st millennium BC, though China maintained its virtual [[monopoly]] over [[sericulture|silk production]] for another thousand years.
+
+===Wild silk===
+{{Main|Wild silk}}
+[[File:Silk from Mawangdui 2.jpg|thumb|right|Woven silk textile from tomb no 1. at [[Mawangdui]] in [[Changsha]], [[Hunan]] province, [[China]], from the [[Han dynasty|Western Han dynasty]], 2nd century BC]]
+[[File:Eri silk worm.jpg|thumb|Rearing of wild Eri silk worm, as seen in 7Weaves, Assam]]
+Several kinds of wild silk, produced by [[caterpillar]]s other than the [[mulberry]] silkworm, have been known and spun in [[China]], [[South Asia]], and [[Europe]] since ancient times, e.g. the production of Eri silk in [[Assam|Assam, India]]. However, the scale of production was always far smaller than for cultivated silks. There are several reasons for this: first, they differ from the domesticated varieties in colour and [[wikt:texture|texture]] and are therefore less uniform; second, cocoons gathered in the wild have usually had the pupa emerge from them before being discovered so the silk thread that makes up the cocoon has been torn into shorter lengths; and third, many wild cocoons are covered in a mineral layer that prevents attempts to reel from them long strands of silk.<ref>{{cite news |title=Silk Production Takes a Walk on the Wild Side |author=Sindya N. Bhanoo |url=https://www.nytimes.com/2011/05/24/science/24obsilk.html?_r=3&emc=eta1 |newspaper=New York Times |date=20 May 2011 |access-date=26 May 2011 |url-status=live |archive-url=https://web.archive.org/web/20121109043733/http://www.nytimes.com/2011/05/24/science/24obsilk.html?_r=3&emc=eta1 |archive-date=9 November 2012}}</ref> Thus, the only way to obtain silk suitable for spinning into textiles in areas where commercial silks are not cultivated was by tedious and labor-intensive [[carding]].
+
+Some natural silk structures have been used without being unwound or spun.  Spider webs were used as a wound dressing in ancient Greece and Rome,<ref>{{cite web |url=https://phys.org/news/2017-01-chance-creation-antibiotic-spider-silk.html |title=Chance meeting leads to creation of antibiotic spider silk |website=phys.org |language=en-us |access-date=2019-09-13 |archive-date=26 August 2018 |archive-url=https://web.archive.org/web/20180826104343/https://phys.org/news/2017-01-chance-creation-antibiotic-spider-silk.html |url-status=live }}</ref> and as a base for [[cobweb painting|painting]] from the 16th century.<ref>{{cite web |url=https://www.northwestern.edu/newscenter/stories/2008/07/cobwebportraits.html |title=Cobweb Art a Triumph of Whimsy Over Practicality: Northwestern University News |website=www.northwestern.edu |language=en |access-date=2019-09-13 |archive-date=4 July 2019 |archive-url=https://web.archive.org/web/20190704141405/https://www.northwestern.edu/newscenter/stories/2008/07/cobwebportraits.html |url-status=live }}</ref> Caterpillar nests were pasted together to make a fabric in the [[Aztec Empire]].<ref name=":0" />
+
+Commercial silks originate from reared silkworm pupae, which are bred to produce a white-colored silk thread with no mineral on the surface. The pupae are killed by either dipping them in boiling water before the adult moths emerge or by piercing them with a needle. These factors all contribute to the ability of the whole cocoon to be unravelled as one continuous thread, permitting a much stronger cloth to be woven from the silk.
+Wild silks also tend to be more difficult to dye than silk from the cultivated silkworm.<ref>Hill (2004). Appendix E.</ref><ref>Hill (2009). "Appendix C: Wild Silks," pp.477–480.</ref> A technique known as [[demineralizing (silk worm cocoon)|demineralizing]] allows the mineral layer around the cocoon of wild silk moths to be removed,<ref>{{cite journal |last1=Gheysens |first1=T |last2=Collins |first2=A |last3=Raina |first3=S |last4=Vollrath |first4=F |last5=Knight |first5=D |year=2011 |title=Demineralization enables reeling of Wild Silkmoth cocoons |journal=Biomacromolecules |volume=12 |issue=6 |pages=2257–66 |doi=10.1021/bm2003362 |pmid=21491856 |url=https://biblio.ugent.be/publication/2153669/file/2153676.pdf |hdl=1854/LU-2153669 |hdl-access=free |url-status=live |archive-url=https://web.archive.org/web/20170922055410/https://biblio.ugent.be/publication/2153669/file/2153676.pdf |archive-date=22 September 2017}}</ref> leaving only variability in color as a barrier to creating a commercial silk industry based on wild silks in the parts of the world where wild silk moths thrive, such as in Africa and South America.
+
+===China===
+{{main|Silk industry in China}}
+[[File:Meister nach Chang Hsüan 001.jpg|thumb|left|A painting depicting women inspecting silk, early 12th century, ink and color on silk, by [[Emperor Huizong of Song]].]][[File:Portrait of Eshing.jpg|thumb|right|Portrait of a silk merchant in Guangzhou, [[Qing dynasty]], from [[Peabody Essex Museum]]]]
+Silk use in fabric was first developed in ancient China.<ref name=silkculture/><ref>{{cite encyclopedia |url=http://www.infoplease.com/ce6/society/A0861091.html |title=Silk: History |encyclopedia=[[Columbia Encyclopedia |Columbia Electronic Encyclopedia]] |edition=Sixth |publisher=Columbia University Press |url-status=live |archive-url=https://web.archive.org/web/20081216015422/http://www.infoplease.com/ce6/society/A0861091.html |archive-date=16 December 2008}}</ref> The earliest evidence for silk is the presence of the silk protein [[fibroin]] in soil samples from two tombs at the [[neolithic]] site [[Jiahu]] in [[Henan]], which date back about 8,500 years.<ref>{{cite web |url=https://www.livescience.com/57437-oldest-evidence-of-silk-found-china.html |title=Oldest Evidence of Silk Found in 8,500-Year-Old Tombs |language=en |website=Live Science |date=10 January 2017 |access-date=13 October 2017 |url-status=live |archive-url=https://web.archive.org/web/20171013120410/https://www.livescience.com/57437-oldest-evidence-of-silk-found-china.html |archive-date=13 October 2017}}</ref><ref>{{cite web |url=http://www.kaogu.cn/en/News/New_discoveries/2016/1229/56642.html |title=Prehistoric silk found in Henan |language=en |website=The Institute of Archaeology, Chinese Academy of Social Sciences (IA CASS) |access-date=4 October 2017 |url-status=live |archive-url=https://web.archive.org/web/20170104235151/http://www.kaogu.cn/en/News/New_discoveries/2016/1229/56642.html |archive-date=4 January 2017}}</ref> The earliest surviving example of silk fabric dates from about 3630 BC, and was used as the wrapping for the body of a child at a [[Yangshao culture]] site in Qingtaicun near [[Xingyang]], Henan.<ref name=silkculture>{{cite book |title=Chinese Silk: A Cultural History |last=Vainker |first=Shelagh |year=2004 |publisher=[[Rutgers University Press]] |isbn=978-0813534466 |pages=20, 17}}</ref><ref>{{cite web |url=http://www.asianart.com/textiles/intro.html |title=Textile Exhibition: Introduction |publisher=Asian art |url-status=live |archive-url=https://web.archive.org/web/20070908231937/http://www.asianart.com/textiles/intro.html |archive-date=8 September 2007}}</ref>
+
+Legend gives credit for developing silk to a Chinese empress, [[Leizu]] (Hsi-Ling-Shih, Lei-Tzu). Silks were originally reserved for the Emperors of China for their own use and gifts to others, but spread gradually through [[Chinese culture]] and trade both geographically and socially, and then to many regions of [[Asia]]. Because of its texture and lustre, silk rapidly became a popular luxury fabric in the many areas accessible to Chinese merchants. Silk was in great demand, and became a staple of pre-[[industrial revolution|industrial]] international [[trade]]. Silk was also used as a surface for writing, especially during the Warring States period (475-221 BCE). The fabric was light, it survived the damp climate of the Yangtze region, absorbed ink well, and provided a white background for the text.<ref>{{cite book |last=Lyons |first=Martyn |title=Books: A Living History |publisher=Getty Publications |year=2011 |isbn=978-1606060834 |location=Los Angeles |pages=18}}</ref> In July 2007, archaeologists discovered intricately woven and dyed silk [[textile]]s in a tomb in [[Jiangxi]] province, dated to the Eastern [[Zhou dynasty]] roughly 2,500 years ago.<ref name="people's daily">{{cite web |url=http://english.people.com.cn/90001/90782/6228297.html |title=Chinese archaeologists make ground-breaking textile discovery in 2,500-year-old tomb |access-date=26 August 2007 |work=People's Daily Online |url-status=live |archive-url=https://web.archive.org/web/20071013190840/http://english.people.com.cn/90001/90782/6228297.html |archive-date=13 October 2007}}</ref> Although historians have suspected a long history of a formative textile industry in ancient China, this find of silk textiles employing "complicated techniques" of weaving and dyeing provides direct evidence for silks dating before the [[Mawangdui]]-discovery and other silks dating to the [[Han dynasty]] (202 BC – 220 AD).<ref name="people's daily"/>
+
+Silk is described in a chapter of the ''[[Fan Shengzhi shu]]'' from the Western Han (202 BC – 9 AD). There is a surviving calendar for silk production in an Eastern Han (25–220 AD) document. The two other known works on silk from the Han period are lost.<ref name=silkculture/> The first evidence of the long distance silk trade is the finding of silk in the hair of an [[Egypt]]ian [[mummy]] of the 21st dynasty, c.1070 BC.<ref>{{cite journal
+|doi = 10.1038/362025b0
+|volume = 362
+|issue = 6415
+|page = 25
+|last = Lubec
+|first = G.
+|author2=J. Holaubek |author3=C. Feldl |author4=B. Lubec |author5=E. Strouhal
+ |title = Use of silk in ancient Egypt
+|journal = Nature
+|date = 4 March 1993
+|bibcode = 1993Natur.362...25L
+|s2cid = 1001799
+|url=http://www.silk-road.com/artl/egyptsilk.shtml |access-date=2007-05-03 |url-status=unfit |archive-url=https://web.archive.org/web/20070920193305/http://www.silk-road.com/artl/egyptsilk.shtml |archive-date=20 September 2007 |doi-access=free}})</ref> The silk trade reached as far as the [[Indian subcontinent]], the [[Middle East]], [[Europe]], and [[North Africa]]. This trade was so extensive that the major set of trade routes between Europe and Asia came to be known as the [[Silk Road]].
+
+The [[Emperors of China]] strove to keep knowledge of [[sericulture]] secret to maintain the Chinese [[monopoly]]. Nonetheless sericulture reached [[Korea]] with technological aid from China around 200 BC,<ref name="Kundu2014">{{cite book |last=Kundu |first=Subhas |title=Silk Biomaterials for Tissue Engineering and Regenerative Medicine |url={{google books |plainurl=y |id=IgGjAgAAQBAJ |page=3}} |date=24 March 2014 |publisher=Elsevier Science |isbn=978-0-85709-706-4 |pages=3–}}</ref> the ancient [[Kingdom of Khotan]] by AD 50,<ref>Hill (2009). Appendix A: "Introduction of Silk Cultivation to Khotan in the 1st Century CE," pp. 466–467.</ref> and India by AD 140.<ref>{{cite web |url=http://www.seri.ap.gov.in/download/1_History%20of%20Sericulture.pdf |title=History of Sericulture |publisher=Government of Andhra Pradesh (India) – Department of Sericulture |access-date=7 November 2010 |url-status=dead |archive-url=https://web.archive.org/web/20110721155409/http://www.seri.ap.gov.in/download/1_History%20of%20Sericulture.pdf |archive-date=21 July 2011}}</ref>
+
+In the ancient era, silk from China was the most lucrative and sought-after luxury item traded across the Eurasian continent,<ref name=gart>{{cite book |title=The Persians |author=Garthwaite, Gene Ralph |publisher=Oxford & Carlton: [[Blackwell Publishing Ltd |Blackwell Publishing, Ltd]] |year=2005 |isbn=978-1-55786-860-2 |page=78}}</ref> and many civilizations, such as the ancient Persians, benefited economically from trade.<ref name=gart/>
+
+<gallery mode="packed" caption="Chinese silk making process" heights="85px">
+ File:Women placing silkworms on trays together with mulberry leaves (Sericulture by Liang Kai, 1200s).jpg |The silkworms and mulberry leaves are placed on trays.
+File:Men preparing twig frames where silkworms will spin cocoons (Sericulture by Liang Kai, 1200s).jpg|Twig frames for the silkworms are prepared.
+File:Weighing and sorting the cocoons (Sericulture by Liang Kai, 1200s).jpg|The cocoons are weighed.
+File:Soaking the cocoons and reeling the silk (Sericulture by Liang Kai, 1200s).jpg|The cocoons are soaked and the silk is wound on spools.
+File:Weaving the silk (Sericulture by Liang Kai, 1200s).jpg|The silk is woven using a loom.
+</gallery>
+
+===Northeastern India===
+In the northeastern state of [[Assam]], three different types of indigenous variety of silk are produced, collectively called [[Assam silk]]: Muga, Eri, and Pat silk. Muga, the golden silk, and Eri are produced by silkworms that are native only to Assam. They have been reared since ancient times similar to other East and South-East Asian countries.
+
+===India===
+{{Main|Silk in the Indian subcontinent}}
+[[File:Silk Sari Weaving at Kanchipuram, Tamil Nadu.jpg|right|thumb|Silk [[sari]] weaving at Kanchipuram]]
+Silk has a long history in India. It is known as ''Resham'' in eastern and north India, and ''Pattu'' in southern parts of [[India]]. Recent archaeological discoveries in [[Harappa]] and [[Chanhu-daro]] suggest that [[sericulture]], employing [[wild silk]] threads from native [[silkworm]] species, existed in [[South Asia]] during the time of the [[Indus Valley Civilisation]] (now in [[Pakistan]] and India) dating between 2450 BC and 2000 BC, while "hard and fast evidence" for silk production in China dates back to around 2570 BC.<ref name=nat>{{cite journal |last=Ball |first=Philip |doi=10.1038/457945a |pmid=19238684 |date=17 February 2009 |title=Rethinking silk's origins |journal=Nature |volume=457 |issue=7232 |pages=945 |s2cid=4390646}}</ref><ref>{{cite journal |last1=Good |first1=I.L. |last2=Kenoyer |first2=J.M. |last3=Meadow |first3=R.H. |title=New evidence for early silk in the Indus civilization |journal=Archaeometry |volume=50 |page=457 |year=2009 |doi=10.1111/j.1475-4754.2008.00454.x |issue=3 |url=http://precedings.nature.com/documents/1900/version/1/files/npre20081900-1.pdf |access-date=20 April 2018 |archive-date=9 August 2017 |archive-url=https://web.archive.org/web/20170809155318/http://precedings.nature.com/documents/1900/version/1/files/npre20081900-1.pdf |url-status=live }}</ref> Shelagh Vainker, a silk expert at the [[Ashmolean Museum]] in Oxford, who sees evidence for silk production in China "significantly earlier" than 2500–2000 BC, suggests, "people of the Indus civilization either harvested silkworm cocoons or traded with people who did, and that they knew a considerable amount about silk."<ref name=nat/>
+
+India is the second largest producer of silk in the world after China. About 97% of the raw mulberry silk comes from six Indian states, namely, [[Andhra Pradesh]], [[Karnataka]], [[Jammu and Kashmir (state)|Jammu and Kashmir]], [[Tamil Nadu]], [[Bihar]], and [[West Bengal]].<ref>[http://www.tnsericulture.gov.in/sericultureNov12/BriefNoteOnSericulture.htm Tn Sericulture] {{webarchive|url=https://web.archive.org/web/20140819023205/http://tnsericulture.gov.in/SericultureNov12/BriefNoteOnSericulture.htm |date=19 August 2014}}. Tn Sericulture (30 June 2014).</ref> North Bangalore, the upcoming site of a $20 million "Silk City" [[Ramanagara]] and [[Mysore]], contribute to a majority of silk production in Karnataka.<ref>{{cite web |url=http://www.deccanherald.com/content/31009/silk-city-come-up-near.html |title=Silk city to come up near B'lore |work=Deccan Herald |date=17 October 2009 |access-date=22 April 2015 |url-status=live |archive-url=https://web.archive.org/web/20150715103600/http://www.deccanherald.com/content/31009/silk-city-come-up-near.html |archive-date=15 July 2015}}</ref>
+[[File:Antheraea assama from Assam.jpg|thumb|''Antheraea assamensis'', the endemic species in the state of Assam, India]]
+
+[[File:Saree on display at Dilli Haat.JPG|thumb|left|A traditional [[Banarasi sari]] with gold [[brocade]]]]In [[Tamil Nadu]], mulberry cultivation is concentrated in the [[Coimbatore]], [[Erode]], [[Bhagalpur]]i, [[Tiruppur]], [[Salem district|Salem]], and [[Dharmapuri]] districts. [[Hyderabad, India|Hyderabad]], [[Andhra Pradesh]], and [[Gobichettipalayam]], [[Tamil Nadu]], were the first locations to have automated silk reeling units in India.<ref>{{cite news |url=http://www.hindu.com/2008/08/24/stories/2008082455180600.htm |title=Tamil Nadu News: Tamil Nadu's first automatic silk reeling unit opened |date=2008-08-24 |access-date=2013-11-09 |url-status=dead |archive-url=https://web.archive.org/web/20131019071758/http://www.hindu.com/2008/08/24/stories/2008082455180600.htm |newspaper=[[The Hindu]] |archive-date=19 October 2013}}</ref>
+
+===Thailand===
+{{Main|Thai silk}}
+Silk is produced year-round in Thailand by two types of silkworms, the cultured Bombycidae and wild Saturniidae. Most production is after the rice harvest in the southern and northeastern parts of the country. Women traditionally weave silk on hand looms and pass the skill on to their daughters, as weaving is considered to be a sign of maturity and eligibility for marriage. Thai silk textiles often use complicated patterns in various colours and styles. Most regions of Thailand have their own typical silks. A single thread [[fiber|filament]] is too thin to use on its own so women combine many threads to produce a thicker, usable fiber. They do this by hand-reeling the threads onto a wooden spindle to produce a uniform strand of raw silk. The process takes around 40 hours to produce a half kilogram of silk. Many local operations use a reeling machine for this task, but some silk threads are still hand-reeled. The difference is that hand-reeled threads produce three grades of silk: two fine grades that are ideal for lightweight fabrics, and a thick grade for heavier material.
+
+The silk fabric is soaked in extremely cold water and bleached before dyeing to remove the natural yellow coloring of Thai silk yarn. To do this, skeins of silk thread are immersed in large tubs of [[hydrogen peroxide]]. Once washed and dried, the silk is woven on a traditional hand-operated loom.<ref>[http://www.bangkok-thailand.com/about-thai-silk.htm About Thai silk] {{webarchive|url=https://web.archive.org/web/20070509190809/http://www.bangkok-thailand.com/about-thai-silk.htm |date=9 May 2007}} from World of Thai Silk (commercial)</ref>
+
+===Bangladesh===
+{{Main|Rajshahi silk}}
+The [[Rajshahi Division]] of northern Bangladesh is the hub of the country's silk industry. There are three types of silk produced in the region: mulberry, endi, and tassar. [[Bengal]]i silk was a major item of international trade for centuries. It was known as Ganges silk in medieval Europe. Bengal was the leading exporter of silk between the 16th and 19th centuries.<ref>[http://en.banglapedia.org/index.php?title=Silk Silk – Banglapedia] {{webarchive|url=https://web.archive.org/web/20160304195226/http://en.banglapedia.org/index.php?title=Silk |date=4 March 2016}}. En.banglapedia.org (10 March 2015). Retrieved on 2016-08-02.</ref>
+
+===Central Asia===
+[[File:Afrasyab Chinese Embassy, carrying silk and a string of silkworm cocoons.jpg|thumb|Chinese Embassy, carrying silk and a string of silkworm cocoons, 7th century CE, [[Afrasiyab (Samarkand)|Afrasiyab]], [[Sogdia]].<ref name="SW"/>]]
+The 7th century CE murals of [[Afrasiyab (Samarkand)|Afrasiyab]] in [[Samarkand]], [[Sogdiana]], show a Chinese Embassy carrying silk and a string of silkworm cocoons to the local Sogdian ruler.<ref name="SW">{{cite book |last1=Whitfield |first1=Susan |title=The Silk Road: Trade, Travel, War and Faith |year=2004 |publisher=British Library. Serindia Publications, Inc. |isbn=978-1-932476-13-2 |page=110 |url=https://books.google.com/books?id=ArWLD4Qop38C&pg=PA110 |language=en |access-date=22 October 2020 |archive-date=26 April 2016 |archive-url=https://web.archive.org/web/20160426132250/https://books.google.com/books?id=ArWLD4Qop38C |url-status=live }}</ref>
+
+===Middle East===
+In the [[Torah]], a scarlet cloth item called in Hebrew "sheni tola'at" שני תולעת – literally "crimson of the worm" – is described as being used in purification ceremonies, such as those following a leprosy outbreak (Leviticus 14), alongside [[cedar wood]] and [[hyssop]] ([[za'atar]]). Eminent scholar and leading medieval translator of [[Jewish]] sources and books of the [[Bible]] into [[Arabic]], Rabbi [[Saadia Gaon]], translates this phrase explicitly as "crimson silk" – חריר קרמז حرير قرمز.
+
+In [[Islamic]] teachings, Muslim men are forbidden to wear silk. Many religious jurists believe the reasoning behind the prohibition lies in avoiding clothing for men that can be considered feminine or extravagant.<ref>{{cite web
+|title=Silk: Why It Is Haram for Men
+|date=23 September 2003
+|url=http://www.islamonline.net/fatwa/english/FatwaDisplay.asp?hFatwaID=61261
+|access-date=6 January 2007 |archive-url=https://web.archive.org/web/20070302204114/http://www.islamonline.net/fatwa/english/FatwaDisplay.asp?hFatwaID=61261 |archive-date=2 March 2007}}</ref> There are disputes regarding the amount of silk a fabric can consist of (e.g., whether a small decorative silk piece on a cotton caftan is permissible or not) for it to be lawful for men to wear, but the dominant opinion of most Muslim scholars is that the wearing of silk by men is forbidden. Modern attire has raised a number of issues, including, for instance, the permissibility of wearing silk [[necktie]]s, which are masculine articles of clothing.
+
+===Ancient Mediterranean===
+[[File:Gunthertuch.jpg|thumb|right|The ''[[Gunthertuch]]'', an 11th-century silk celebrating a [[Byzantine emperor]]'s triumph]]
+In the ''[[Odyssey]]'', 19.233, when Odysseus, while pretending to be someone else, is questioned by Penelope about her husband's clothing, he says that he wore a shirt "gleaming like the skin of a dried onion" (varies with translations, literal translation here)<ref>''[[Odyssey]]'' '''19''' 233–234:
+τὸν δὲ χιτῶν' ἐνόησα περὶ χροῒ σιγαλόεντα, οἷόν τε κρομύοιο λοπὸν κάτα ἰσχαλέοιο· = "And I [= [[Odysseus]]</ref> which could refer to the lustrous quality of silk fabric.
+[[Aristotle]] wrote of ''[[Coa vestis]]'', a wild silk textile from [[Kos]].
+[[Sea silk]] from certain large sea shells was also valued.
+The [[Roman Empire]] knew of and traded in silk, and Chinese silk was the most highly priced luxury good imported by them.<ref name=gart/> During the reign of emperor [[Tiberius]], [[sumptuary law]]s were passed that forbade men from wearing silk garments, but these proved ineffectual.<ref>{{cite book
+|last =Tacitus
+|author-link =Tacitus
+|title =Annals
+|url =https://www.gutenberg.org/ebooks/7959
+|isbn =978-0-521-31543-2
+|year =1989
+|access-date =28 August 2020
+|archive-date =30 June 2020
+|archive-url =https://web.archive.org/web/20200630173954/http://www.gutenberg.org/ebooks/7959
+|url-status =live
+}}</ref> The [[Historia Augusta]] mentions that the third-century emperor [[Elagabalus]] was the first Roman to wear garments of pure silk, whereas it had been customary to wear fabrics of silk/cotton or silk/linen blends.<ref>{{cite book |title=Historia Augusta Vita Heliogabali |at=Book 26.1}}</ref> Despite the popularity of silk, the secret of silk-making only reached Europe around AD 550, via the [[Byzantine Empire]]. Contemporary accounts state that monks working for the emperor [[Justinian I]] [[Smuggling of silkworm eggs into the Byzantine Empire|smuggled silkworm eggs]] to [[Constantinople]] from China inside hollow canes.<ref>{{cite book
+|last=Procopius
+|author-link =Procopius
+|title =History of the Wars
+|url =https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Procopius/Wars/8C*.html
+|isbn=978-0-674-992399 |year =1928
+|at=Book 8.17
+}}</ref> All top-quality looms and weavers were located inside the [[Great Palace of Constantinople|Great Palace complex]] in Constantinople, and the cloth produced was used in imperial robes or in diplomacy, as gifts to foreign dignitaries. The remainder was sold at very high prices.
+
+===Medieval and modern Europe===
+
+[[File:Folding Fan with Box LACMA M.78.108.6a-b (2 of 2).jpg|thumb|Silk satin leaf, wood sticks, and guards, c. 1890]]
+
+Italy was the most important producer of silk during the Medieval age. The first center to introduce silk production to Italy was the city of [[Catanzaro]] during the 11th century in the region of [[Calabria]]. The silk of Catanzaro supplied almost all of Europe and was sold in a large market fair in the port of [[Reggio Calabria]], to Spanish, Venetian, Genovese, and Dutch merchants. Catanzaro became the lace capital of the world with a large silkworm breeding facility that produced all the laces and linens used in the Vatican. The city was world-famous for its fine fabrication of silks, velvets, damasks, and brocades.<ref>{{cite web |url=http://www.officeoftourism.org/europe/italy/Calabria/catanzaro.asp |website=Office of Tourism |title=Italy – Calabria, Catanzaro |url-status=dead |archive-url=https://web.archive.org/web/20150821045739/http://www.officeoftourism.org/europe/italy/Calabria/catanzaro.asp |archive-date=21 August 2015}}</ref>
+
+Another notable center was the Italian [[city-state]] of [[Republic of Lucca|Lucca]] which largely financed itself through silk-production and silk-trading, beginning in the 12th century. Other Italian cities involved in silk production were [[Genoa]], [[Venice]], and [[Florence]].
+
+The [[Llotja de la Seda|Silk Exchange in Valencia]] from the 15th century—where previously in 1348 also ''perxal'' ([[percale]]) was traded as some kind of silk—illustrates the power and wealth of one of the great Mediterranean mercantile cities.<ref>{{cite web |url=https://whc.unesco.org/en/list/782 |title=La Lonja de la Seda de Valencia |website=UNESCO World Heritage Centre |publisher=Whc.unesco.org |access-date=2011-04-10 |url-status=live |archive-url=https://web.archive.org/web/20110514032507/https://whc.unesco.org/en/list/782 |archive-date=14 May 2011}}</ref><ref>Diccionari Aguiló: materials lexicogràfics / aplegats per Marià Aguiló i Fuster; revisats i publicats sota la cura de Pompeu Fabra i Manuel de Montoliu, page 134, [[Institut d'Estudis Catalans]], Barcelona 1929.</ref>
+
+Silk was produced in and exported from the province of [[Granada]], Spain, especially the [[Alpujarras]] region, until the [[Morisco rebellions in Granada|Moriscos]], whose industry it was, were expelled from Granada in 1571.<ref>Delgado, José Luis (8 October 2012) [http://www.granadahoy.com/article/granada/1370023/la/seda/granada/era/la/mejor.html "La seda de Granada era la mejor"] {{webarchive|url=https://web.archive.org/web/20140826160819/http://www.granadahoy.com/article/granada/1370023/la/seda/granada/era/la/mejor.html |date=26 August 2014}}, ''Granada Hoy''</ref><ref>Intxausti, Aurora (1 May 2013) [http://cultura.elpais.com/cultura/2013/04/29/actualidad/1367255987_780232.html "La Alpujarra poseía 4.000 telares de seda antes de la expulsión de los moriscos"] {{webarchive|url=https://web.archive.org/web/20140826115739/http://cultura.elpais.com/cultura/2013/04/29/actualidad/1367255987_780232.html |date=26 August 2014}}, ''El País''.</ref>
+
+Since the 15th century, silk production in France has been centered around the city of [[Lyon, France|Lyon]] where many mechanic tools for mass production were first introduced in the 17th century.
+[[File:Anoniem - La charmante rencontre.JPG|thumb|"La charmante rencontre", rare 18th-century embroidery in silk of Lyon (private collection)]]
+[[James I of England|James I]] attempted to establish silk production in England, purchasing and planting 100,000 mulberry trees, some on land adjacent to [[Hampton Court Palace]], but they were of a species unsuited to the silk worms, and the attempt failed. In 1732 John Guardivaglio set up a [[silk throwing]] enterprise at [[List of mills in Stockport|Logwood mill in Stockport]]; in 1744, Burton Mill was erected in [[Macclesfield]]; and in 1753 Old Mill was built in [[Congleton]].<ref name=Callender>{{Harvnb|Callandine|1993}}</ref> These three towns remained the centre of the English silk throwing industry until silk throwing was replaced by [[silk waste|silk waste spinning]]. British enterprise also established silk filature in [[Cyprus]] in 1928. In England in the mid-20th century, raw silk was produced at [[Lullingstone Castle]] in Kent. Silkworms were raised and reeled under the direction of Zoe Lady Hart Dyke, later moving to [[Ayot St Lawrence]] in Hertfordshire in 1956.<ref>{{cite web |title=Lullingstone Silk Farm |url=http://www.lullingstonecastle.co.uk/component/content/article/223 |website=www.lullingstonecastle.co.uk |access-date=29 September 2016 |url-status=dead |archive-url=https://web.archive.org/web/20150110040554/http://www.lullingstonecastle.co.uk/component/content/article/223 |archive-date=10 January 2015}}</ref>
+
+During [[World War II]], supplies of silk for UK parachute manufacture were secured from the Middle East by [[Peter Gaddum]].<ref>{{cite web |url=https://pearl.plymouth.ac.uk/bitstream/handle/10026.1/3553/2014bond10376351phd.pdf?sequence=1&isAllowed=y |title=MI9's escape and evasion mapping programme 1939-1945 |last=BOND |first=Barbara A |date=2014 |website=University of Plymouth |access-date=4 March 2020 |archive-date=19 January 2021 |archive-url=https://web.archive.org/web/20210119205515/https://pearl.plymouth.ac.uk/bitstream/handle/10026.1/3553/2014bond10376351phd.pdf?sequence=1&isAllowed=y |url-status=live }}</ref>
+
+<gallery widths="200px" heights="200px" perrow="5" caption="Medieval and modern Europe">
+File:Vestido Javiera Carrera.jpg|Dress made from silk
+File:WLA vanda Bed lit a la polonaise.jpg|Bed covered with silk
+File:"Almgrensrosen"- ett 100 år gammalt mönster 2013.JPG|A hundred-year-old pattern of silk called "Almgrensrosen"
+File:Necktie knot.jpg|The [[necktie]] originates from the [[cravat (early)|cravat]], a neckband made from silk<ref>{{cite news |newspaper=The New York Times |url=https://www.nytimes.com/1995/07/30/magazine/style-dressed-to-kill.html |title=STYLE; Dressed to Kill |author=Nash, Eric P. |date=30 July 1995 |access-date=12 October 2011 |url-status=live |archive-url=https://web.archive.org/web/20121109043724/http://www.nytimes.com/1995/07/30/magazine/style-dressed-to-kill.html |archive-date=9 November 2012}}</ref><ref>{{cite journal |journal=Povijesni Prilozi |url=http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=43829 |issn=0351-9767 |date=July 2008 |volume=34 |issue=34 |pages=103–120 |author=Huzjan, Vladimir |title=Pokušaj otkrivanja nastanka i razvoja kravate kao riječi i odjevnoga predmeta |language=hr |trans-title=The origin and development of the tie (kravata) as a word and as a garment |access-date=17 October 2011 |url-status=live |archive-url=https://web.archive.org/web/20120629045016/http://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=43829 |archive-date=29 June 2012}}</ref><ref>{{cite web |url=http://www.inyourpocket.com/croatia/dubrovnik/Silk-Production-in-Konavle_72514f |title=Silk Production in Konavle |access-date=22 April 2015 |url-status=live |archive-url=https://web.archive.org/web/20150501234528/http://www.inyourpocket.com/croatia/dubrovnik/Silk-Production-in-Konavle_72514f |archive-date=1 May 2015}}</ref>
+</gallery>
+
+===North America===
+Wild silk taken from the nests of native caterpillars was used by the [[Aztecs]] to make containers and as paper.<ref>{{cite journal |last1=P.G. |first1=Kevan |last2=R.A. |first2=Bye |date=1991 |title=natural history, sociobiology, and ethnobiology of Eucheira socialis Westwood (Lepidoptera: Pieridae), a unique and little-known butterfly from Mexico |url=http://agris.fao.org/agris-search/search.do?recordID=US201301742531 |journal=Entomologist |language=en |issn=0013-8878 |access-date=26 September 2018 |archive-date=28 July 2020 |archive-url=https://web.archive.org/web/20200728113545/https://agris.fao.org/agris-search/search.do?recordID=US201301742531 |url-status=live }}</ref><ref name=":0">{{cite book |title=Latin American insects and entomology |url=https://archive.org/details/latinamericanins00hogu |url-access=limited |last=Hogue |first=Charles Leonard |date=1993 |publisher=University of California Press |isbn=978-0520078499 |location=Berkeley |pages=[https://archive.org/details/latinamericanins00hogu/page/n173 325] |language=en |oclc=25164105 |quote=Silk swaths gathered from the large hammock-net cocoons of Gloveria psidii (= Sagana sapotoza) and pasted together to form a kind of hard cloth, or paper, were an important trade item in Mexico at the time of Moctezuma II}}</ref>  Silkworms were introduced to [[Oaxaca Valley|Oaxaca]] from Spain in the 1530s and the region profited from silk production until the early 17th century, when the king of Spain banned export to protect Spain's silk industry. Silk production for local consumption has continued until the present day, sometimes spinning wild silk.<ref>{{cite book |url=https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/unbroken_thread_eng_vl.pdf |title=The Unbroken Thread: Conserving the Textile Traditions of Oaxaca |last=de Avila |first=Alejandro |publisher=The Getty Conservation Institute |year=1997 |editor-last=Klein |editor-first=Kathryn |location=Los Angeles |pages=125–126 |access-date=26 September 2018 |archive-date=6 December 2020 |archive-url=https://web.archive.org/web/20201206161850/https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/unbroken_thread_eng_vl.pdf |url-status=live }}</ref>
+
+King [[James VI and I|James I]] introduced silk-growing to the British colonies in America around 1619, ostensibly to discourage [[tobacco]] planting. The [[Shakers]] in Kentucky adopted the practice.
+[[File:Satin mã châu 2.jpg|thumb|Satin from Mã Châu village, Vietnam]]
+[[File:Smithsonian Holyoke SkinnersSatins Sample.jpg|left|thumb|A sample of a silk satin in the [[National Museum of American History]], produced by [[William Skinner and Sons|William Skinner & Sons]] of [[Holyoke, Massachusetts]], the largest producer of such textiles in the world in the early 20th century<ref name="largestmill">{{cite magazine |title=The Largest Silk Mill in the World; The Story of Skinner Silks and Satins |magazine=Silk |publisher=Silk Publishing Company |location=New York |date=May 1912 |issue=6 |volume=5 |pages=62–64 |url=https://books.google.com/books?id=R_E_AQAAMAAJ&pg=RA4-PA62 |access-date=14 December 2018 |archive-date=29 January 2020 |archive-url=https://web.archive.org/web/20200129180050/https://books.google.com/books?id=R_E_AQAAMAAJ&pg=RA4-PA62 |url-status=live }}</ref>]]
+The history of industrial silk in the United States is largely tied to several smaller urban centers in the Northeast region. Beginning in the 1830s, [[Manchester, Connecticut]] emerged as the early center of the silk industry in America, when the Cheney Brothers became the first in the United States to properly raise silkworms on an industrial scale; today the [[Cheney Brothers Historic District]] showcases their former mills.<ref name="nhlsum">{{cite web|title=Cheney Brothers Historic District|url=http://tps.cr.nps.gov/nhl/detail.cfm?ResourceId=1793&ResourceType=District|url-status=dead|access-date=2007-10-03|work=National Historic Landmark summary listing|publisher=National Park Service|archive-date=8 October 2007|archive-url=https://web.archive.org/web/20071008222331/http://tps.cr.nps.gov/nhl/detail.cfm?ResourceId=1793&ResourceType=District}}</ref> With the [[mulberry tree]] craze of that decade, other smaller producers began raising silkworms. This economy particularly gained traction in the vicinity of [[Northampton, Massachusetts]] and its neighboring [[Williamsburg, Massachusetts|Williamsburg]], where a number of small firms and cooperatives emerged. Among the most prominent of these was the cooperative utopian Northampton Association for Education and Industry, of which [[Sojourner Truth]] was a member.<ref>{{cite web |website=Silk in Northampton |title=Becoming Sojourner Truth: The Northampton Years |publisher=Smith College |url=https://www.smith.edu/hsc/silk/papers/owens.html |date=12 April 2002 |last=Owens |first=Jody |archive-url=https://web.archive.org/web/20030817163542/https://www.smith.edu/hsc/silk/papers/owens.html |archive-date=17 August 2003}}</ref> Following the destructive [[Mill River Flood of 1874]], one manufacturer, [[William Skinner (manufacturer)|William Skinner]], relocated his mill from Williamsburg to the then-new city of [[Holyoke]]. Over the next 50 years he and his sons would maintain relations between the American silk industry and its counterparts in Japan,<ref>For discussion on W. Skinner II's relations with Japanese ministers and merchant-traders, see {{cite book |editor=Lindsay Russell |title=America to Japan: A Symposium of Papers by Representative Citizens of the United States on the Relations between Japan and America and on the Common Interests of the Two Countries |publisher=G.P. Putnam's Sons; The Knickerbocker Press; The Japan Society |location=New York |year=1915 |page=66 |url=https://books.google.com/books?id=sngeAAAAMAAJ&pg=PA66 |access-date=14 December 2018 |archive-date=29 December 2019 |archive-url=https://web.archive.org/web/20191229190014/https://books.google.com/books?id=sngeAAAAMAAJ&pg=PA66 |url-status=live }}
+:* {{cite journal |title=Luncheon to Commissioner Shito |journal=The American Silk Journal |volume=XXXIV |page=32 |date=May 1915 |publisher=Silk Association of America |url=https://books.google.com/books?id=lFlYAAAAYAAJ&pg=RA4-PA32 |access-date=14 December 2018 |archive-date=23 December 2019 |archive-url=https://web.archive.org/web/20191223030745/https://books.google.com/books?id=lFlYAAAAYAAJ&pg=RA4-PA32 |url-status=live }}
+:* {{cite book |title=Samurai and Silk: A Japanese and American Heritage |year=1986 |last=Reischauer |publisher=Harvard University Press |location=Cambridge, Mass. |first=Haru Matsukata |chapter=Starting the Silk Trade |pages=207–209 |isbn=9780674788015 |chapter-url=https://books.google.com/books?id=mvmaskWH1XkC&pg=PA207 |access-date=14 December 2018 |archive-date=30 December 2019 |archive-url=https://web.archive.org/web/20191230105620/https://books.google.com/books?id=mvmaskWH1XkC&pg=PA207 |url-status=live }}</ref> and expanded their business to the point that by 1911, the Skinner Mill complex contained the largest silk mill under one roof in the world, and the brand Skinner Fabrics had become the largest manufacturer of silk satins internationally.<ref name="largestmill"/><ref>{{cite news |work=Valley Advocate |location=Northampton, Mass. |date=8 June 2009 |last=Thibodeau |first=Kate Navarra |title=William Skinner & Holyoke's Water Power |url=https://valleyadvocate.com/2009/06/08/william-skinner-s-water-power/ |access-date=14 December 2018 |archive-date=31 December 2019 |archive-url=https://web.archive.org/web/20191231234524/https://valleyadvocate.com/2009/06/08/william-skinner-s-water-power/ |url-status=live }}</ref> Other efforts later in the 19th century would also bring the new silk industry to [[Paterson, New Jersey]], with several firms hiring European-born textile workers and granting it the nickname "Silk City" as another major center of production in the United States.
+
+[[World War II]] interrupted the silk trade from Asia, and silk prices increased dramatically.<ref>{{cite book |last=Weatherford |first=D |title=American Women During World War II: An Encyclopedia |publisher=Routledge |year=2009 |page=97 |isbn=978-0415994750}}</ref> U.S. industry began to look for substitutes, which led to the use of [[synthetic fiber|synthetics]] such as [[nylon]]. Synthetic silks have also been made from [[lyocell]], a type of [[cellulose]] fiber, and are often difficult to distinguish from real silk (see [[spider silk]] for more on synthetic silks).
+
+===Malaysia===
+In [[Terengganu]], which is now part of [[Malaysia]], a second generation of silkworm was being imported as early as 1764 for the country's silk textile industry, especially [[songket]].<ref>{{cite book |url={{google books |plainurl=y |id=5Te9LWyzQvYC|page=899}} |title=The Malayhandloom weavers:a study of the rise and decline of traditional |access-date=2013-11-09|isbn=9789813016996 |year=1996 |last1=Mohamad |first1=Maznah}}</ref> However, since the 1980s, Malaysia is no longer engaged in sericulture but does plant mulberry trees.
+
+===Vietnam===
+
+In Vietnamese legend, silk appeared in the first millennium AD and is still being woven today.
+
+==Production process==
+The process of silk production is known as [[sericulture]].<ref>{{cite book |url={{google books |plainurl=y |id=6XvPBQAAQBAJ |page=507}} |title=Entomology and Pest Management: Sixth Edition |last1=Pedigo |first1=Larry P. |last2=Rice |first2=Marlin E. |year=2014 |publisher=Waveland Press |isbn=978-1478627708 |language=en}}</ref> The entire production process of silk can be divided into several steps which are typically handled by different entities.{{clarify|date=November 2014}}<!--If the word "entities" is to be used, examples of these entities ought to be given. Otherwise, a more specific word should be used here. The reader will have no idea what types of "entities" these are.--> Extracting raw silk starts by cultivating the silkworms on mulberry leaves. Once the worms start pupating in their cocoons, these are dissolved in boiling water in order for individual long fibres to be extracted and fed into the spinning reel.<ref>{{cite web |last=Bezzina|first=Neville|title=Silk Production Process|url=http://www.senature.com/sensemagazine/research-technologies/silk-production-process-go-behind-the-scenes-1701.html|publisher=senature.com|url-status=dead|archive-url=https://web.archive.org/web/20120629231032/http://www.senature.com/sensemagazine/research-technologies/silk-production-process-go-behind-the-scenes-1701.html|archive-date=29 June 2012}}</ref>
+
+To produce 1&nbsp;kg of silk, 104&nbsp;kg of mulberry leaves must be eaten by 3000 silkworms. It takes about 5000 silkworms to make a pure silk [[kimono]].<ref>Fritz, Anne and Cant, Jennifer (1986). ''Consumer Textiles''. [[Oxford University Press]] Australia. Reprint 1987. {{ISBN|0-19-554647-4}}.</ref>{{Rp|104}} The major silk producers are [[China]] (54%) and [[India]] (14%).<ref>{{cite web |url=http://www.brasstacksmadras.com/TF_Mulberry.htm |title=Mulberry Silk – Textile Fibres – Handloom Textiles {{pipe}} Handwoven Fabrics {{pipe}} Natural Fabrics {{pipe}} Cotton clothes in Chennai |publisher=Brasstacksmadras.com |access-date=2013-11-09 |url-status=dead |archive-url=https://web.archive.org/web/20131109173104/http://www.brasstacksmadras.com/TF_Mulberry.htm |archive-date=9 November 2013}}</ref> Other statistics:<ref>{{cite web |url=http://inserco.org/en/?q=statistics|title=Statistics|publisher=inserco.org|url-status=live|archive-url=https://web.archive.org/web/20160126035307/http://inserco.org/en/?q=statistics|archive-date=26 January 2016}}</ref>
+
+{|class="wikitable" style="width:100%; float:left; clear:left;"
+|-
+! colspan=5|Top Ten Cocoons (Reelable) Producers – 2005
+|-
+! style="background:#ddf; width:30%;"|Country
+! style="background:#ddf; width:25%;"|Production {{nowrap|(Int $1000)}}
+! style="background:#ddf; width:10%;"|Footnote
+! style="background:#ddf; width:25%;"|Production {{nowrap|(1000 kg)}}
+! style="background:#ddf; width:10%;"|Footnote
+|-
+|{{PRC}}||978,013||C||290,003||F
+|-
+|{{IND}}||259,679||C||77,000||F
+|-
+|{{UZB}}||57,332||C||17,000||F
+|-
+|{{BRA}}||37,097||C||11,000||F
+|-
+|{{IRN}}||20,235||C||6,088||F
+|-
+|{{THA}}||16,862||C||5,000||F
+|-
+|{{VNM}}||10,117||C||3,000||F
+|-
+|{{DPRK}}||5,059||C||1,500||F
+|-
+|{{ROU}}||3,372||C||1,000||F
+|-
+|{{JPN}}||2,023||C||600||F
+|-
+|colspan=5 style="font-size:.7em"|No symbol = official figure, F = FAO estimate,*= Unofficial figure, C = Calculated figure;<br />
+Production in Int $1000 have been calculated based on 1999–2001 international prices<br />
+Source: [http://www.fao.org/es/ess/top/commodity.html?lang=en&item=1185&year=2005 Food And Agricultural Organization of United Nations: Economic And Social Department: The Statistical Division]
+|}
+
+The environmental impact of silk production is potentially large when compared with other natural fibers. A [[life-cycle assessment]] of Indian silk production shows that the production process has a large carbon and water footprint, mainly due to the fact that it is an animal-derived fiber and more inputs such as fertilizer and water are needed per unit of fiber produced.<ref>{{cite journal |last1=Astudillo|first1=Miguel F.|last2=Thalwitz|first2=Gunnar|last3=Vollrath|first3=Fritz|title=Life cycle assessment of Indian silk|journal=Journal of Cleaner Production|date=October 2014|volume=81|pages=158–167|doi=10.1016/j.jclepro.2014.06.007}}</ref>
+
+==Properties==
+
+[[File:Models by David Shankbone.jpg|thumb|Models in silk dresses at the MoMo Falana fashion show]]
+
+===Physical properties===
+Silk fibers from the ''Bombyx mori'' silkworm have a [[triangle|triangular]] [[cross section (geometry)|cross section]] with rounded corners, 5–10 [[μm]] wide. The fibroin-heavy chain is composed mostly of [[beta-sheet]]s, due to a 59-mer amino acid repeat sequence with some variations.<ref>"Handbook of Fiber Chemistry", Menachem Lewin, Editor, 3rd ed., 2006, CRC press, {{ISBN|0-8247-2565-4}}</ref> The flat surfaces of the fibrils reflect [[light]] at many angles, giving silk a natural sheen. The cross-section from other silkworms can vary in shape and diameter: crescent-like for ''Anaphe'' and elongated wedge for ''tussah''. Silkworm fibers are naturally extruded from two silkworm glands as a pair of primary filaments (brin), which are stuck together, with sericin proteins that act like [[glue]], to form a [[bave]]. Bave diameters for tussah silk can reach 65 μm. See cited reference for cross-sectional SEM photographs.<ref>"Handbook of Fiber Chemistry", Menachem Lewin, Editor, 2nd ed.,1998, Marcel Dekker, pp. 438–441, {{ISBN|0-8247-9471-0}}</ref>
+[[File:Silk raw 01a.jpg|thumb|left|Raw silk of domesticated silk worms, showing its natural shine.]]
+Silk has a smooth, soft texture that is not slippery, unlike many [[synthetic fiber]]s.
+
+Silk is one of the strongest natural fibers, but it loses up to 20% of its strength when wet. It has a good [[moisture regain]] of 11%. Its [[Elasticity (physics)|elasticity]] is moderate to poor: if elongated even a small amount, it remains stretched. It can be weakened if exposed to too much sunlight. It may also be attacked by insects, especially if left dirty.
+
+One example of the durable nature of silk over other fabrics is demonstrated by the recovery in 1840 of silk garments from a [[HMS Royal George (1756)|wreck of 1782]]: 'The most durable article found has been silk; for besides pieces of cloaks and lace, a pair of black satin breeches, and a large satin waistcoat with flaps, were got up, of which the silk was perfect, but the lining entirely gone ... from the thread giving way ... No articles of dress of woollen cloth have yet been found.'<ref>''The Times'', London, article CS117993292, 12 October 1840.</ref>
+
+Silk is a poor conductor of [[electricity]] and thus susceptible to [[static cling]].  Silk has a high emissivity for infrared light, making it feel cool to the touch.<ref>{{cite news|last1=Venere|first1=Emil|title=Silk fibers could be high-tech 'natural metamaterials'|url=https://phys.org/news/2018-01-silk-fibers-high-tech-natural-metamaterials.html|access-date=2 February 2018|work=[[Phys.org]]|date=31 January 2018|archive-date=1 February 2018|archive-url=https://web.archive.org/web/20180201185150/https://phys.org/news/2018-01-silk-fibers-high-tech-natural-metamaterials.html|url-status=live}}</ref>
+
+Unwashed silk chiffon may [[shrinkage (fabric)|shrink]] up to 8% due to a relaxation of the fiber macrostructure, so silk should either be washed prior to garment construction, or [[dry cleaning|dry cleaned]]. Dry cleaning may still shrink the chiffon up to 4%. Occasionally, this shrinkage can be reversed by a gentle steaming with a press cloth. There is almost no gradual shrinkage nor shrinkage due to molecular-level deformation.
+
+Natural and synthetic silk is known to manifest [[piezoelectricity|piezoelectric]] properties in proteins, probably due to its molecular structure.<ref>{{cite web |url=http://fs.tx.ncsu.edu/Past_Meetings/Spring_2003_Loughborough/papers/081-Ellison.pdf|title=Piezoelectricity in Natural and Synthetic Silks|access-date=28 April 2010|url-status=live|archive-url=https://web.archive.org/web/20110720011853/http://fs.tx.ncsu.edu/Past_Meetings/Spring_2003_Loughborough/papers/081-Ellison.pdf|archive-date=20 July 2011}}</ref>
+
+Silkworm silk was used as the standard for the [[denier (measure)|denier]], a measurement of [[linear density]] in fibers. Silkworm silk therefore has a linear density of approximately 1 den, or 1.1 [[dtex]].
+{|class="wikitable"
+|-
+! Comparison of silk fibers<ref>{{cite web |url=http://web.mit.edu/course/3/3.064/www/slides/Ko_spider_silk.pdf |title=Engineering Properties of Spider Silk |author=Ko, Frank K. |author2=Kawabata, Sueo |author3=Inoue, Mari |author4=Niwa, Masako |access-date=9 July 2010 |url-status=live |archive-url=https://web.archive.org/web/20100331215511/http://web.mit.edu/course/3/3.064/www/slides/Ko_spider_silk.pdf |archive-date=31 March 2010}}</ref>!! Linear density (dtex) !! Diameter (μm) !! Coeff. variation
+|-
+|[[Moth]]: ''[[Bombyx mori]]''||1.17||12.9||24.8%
+|-
+|[[Spider]]: ''[[Argiope aurantia]]''||0.14||3.57||14.8%
+|}
+
+===Chemical properties===
+Silk emitted by the silkworm consists of two main proteins, [[sericin]] and [[fibroin]], fibroin being the structural center of the silk, and serecin being the sticky material surrounding it. Fibroin is made up of the [[amino acid]]s [[glycine|Gly]]-[[serine|Ser]]-Gly-[[alanine|Ala]]-Gly-Ala and forms [[beta sheet|beta pleated sheet]]s. [[Hydrogen bond]]s form between chains, and side chains form above and below the plane of the hydrogen bond network.
+
+The high proportion (50%) of glycine allows tight packing. This is because glycine's R group is only a hydrogen and so is not as sterically constrained. The addition of alanine and serine makes the fibres strong and resistant to breaking. This tensile strength is due to the many interceded hydrogen bonds, and when stretched the force is applied to these numerous bonds and they do not break.
+
+Silk resists most [[mineral acid]]s, except for [[sulfuric acid]], which dissolves it. It is yellowed by perspiration. [[Chlorine bleach]] will also destroy silk fabrics.
+
+==Variants==
+
+=== Regenerated silk fiber ===
+RSF is produced by chemically dissolving silkworm cocoons, leaving their molecular structure intact. The silk fibers dissolve into tiny thread-like structures known as [[microfibril]]s. The resulting solution is extruded through a small opening, causing the microfibrils to reassemble into a single fiber. The resulting material is reportedly twice as stiff as silk.<ref>{{cite web|url=https://newatlas.com/regenerated-silk-fiber/52128|title=To almost match spider silk, scientists regenerate silkworm silk|website=newatlas.com|language=en|access-date=2017-12-18|archive-date=10 November 2017|archive-url=https://web.archive.org/web/20171110030332/https://newatlas.com/regenerated-silk-fiber/52128/|url-status=live}}</ref>
+
+==Applications==
+[[File:Turkeye.Urgüp02.jpg|thumb|Silk filaments being unravelled from silk cocoons, [[Cappadocia]], [[Turkey]], 2007.]]
+
+=== Clothing ===
+Silk's [[absorption (chemistry)|absorbency]] makes it comfortable to wear in warm weather and while active. Its low conductivity keeps warm air close to the skin during cold weather. It is often used for clothing such as [[shirt]]s, [[necktie|ties]], [[blouse]]s, formal [[dress]]es, high-fashion clothes, [[lining (sewing)|lining]], [[lingerie]], [[pajama]]s, [[robe]]s, [[formal wear|dress suits]], sun dresses, and Eastern [[folk costume]]s. For practical use, silk is excellent as clothing that protects from many biting [[insects]] that would ordinarily pierce clothing, such as [[mosquito]]es and [[horse-fly|horseflies]].
+
+Fabrics that are often made from silk include [[charmeuse]], [[habutai]], [[chiffon (fabric)|chiffon]], [[taffeta]], [[crêpe (textile)|crêpe de chine]], [[dupioni]], [[noil]], [[tussah]], and [[shantung (fabric)|shantung]], among others.
+
+=== Furniture ===
+Silk's attractive lustre and drape makes it suitable for many [[furnishing]] applications. It is used for [[upholstery]], wall coverings, window treatments (if blended with another fiber), [[carpet|rug]]s, [[bedding]], and wall hangings.<ref>{{cite book |last=Murthy|first=H. V. Sreenivasa|title=Introduction to Textile Fibres|publisher=WPI India|year=2018|isbn=9781315359335}}</ref>
+
+=== Industry ===
+Silk had many industrial and commercial uses, such as in [[parachute]]s, bicycle [[tire]]s, [[silk comforter|comforter filling]], and [[artillery]] [[gunpowder]] bags.<ref>{{cite web |url=http://americanhistory.si.edu/collections/search/object/nmah_646357|title=Silk Powder or Cartridge Bag Cloth|publisher=americanhistory.si.edu|access-date=2017-05-30|url-status=live|archive-url=https://web.archive.org/web/20171109202452/http://americanhistory.si.edu/collections/search/object/nmah_646357|archive-date=9 November 2017}}</ref>
+
+=== Medicine ===
+A special manufacturing process removes the outer [[sericin]] coating of the silk, which makes it suitable as non-absorbable [[surgical suture]]s. This process has also recently led to the introduction of specialist silk underclothing, which has been used for skin conditions including [[eczema]].<ref>{{cite journal |pmid=14746626|year=2004|last1=Ricci|first1=G.|title=Clinical effectiveness of a silk fabric in the treatment of atopic dermatitis|journal=The British Journal of Dermatology|volume=150|issue=1|pages=127–131 |last2=Patrizi|first2=A.|last3=Bendandi|first3=B.|last4=Menna|first4=G.|last5=Varotti|first5=E.|last6=Masi|first6=M.|doi=10.1111/j.1365-2133.2004.05705.x|s2cid=31408225}}</ref><ref>{{cite journal |pmid=17033173|year=2006|last1=Senti|first1=G.|title=Antimicrobial silk clothing in the treatment of atopic dermatitis proves comparable to topical corticosteroid treatment|journal=Dermatology|volume=213|issue=3|pages=228–233|last2=Steinmann|first2=L. S.|last3=Fischer|first3=B.|last4=Kurmann|first4=R.|last5=Storni|first5=T.|last6=Johansen|first6=P.|last7=Schmid-Grendelmeier|first7=P.|last8=Wuthrich|first8=B.|last9=Kundig|first9=T. M.|doi=10.1159/000095041|s2cid=21648775}}</ref> New uses and manufacturing techniques have been found for silk for making everything from disposable cups to drug delivery systems and holograms.<ref>{{cite web |url=http://www.ted.com/talks/fiorenzo_omenetto_silk_the_ancient_material_of_the_future.html|title=Silk, the ancient material of the future – Talk Video – TED.com|author=Omenetto, Fiorenzo|publisher=ted.com|url-status=live|archive-url=https://web.archive.org/web/20140226153613/http://www.ted.com/talks/fiorenzo_omenetto_silk_the_ancient_material_of_the_future.html|archive-date=26 February 2014}}</ref>
+
+===Biomaterial===
+Silk began to serve as a [[biomedicine|biomedical]] material for sutures in surgeries as early as the second century CE.<ref>{{cite journal |last1=Muffly |first1=Tyler |last2=Tizzano |first2=Anthony |last3=Walters |first3=Mark |title=The history and evolution of sutures in pelvic surgery. |journal=Journal of the Royal Society of Medicine |date=March 2011 |volume=104 |issue=3 |pages=107–12 |doi=10.1258/jrsm.2010.100243 |pmid=21357979 |pmc=3046193 |language=en |quote=Galen also recommended using silk suture when available.}}</ref> In the past 30 years, it has been widely studied and used as a [[biomaterial]] due to its [[strength of materials|mechanical strength]], [[biocompatibility]], tunable degradation rate, ease to load cellular growth factors (for example, BMP-2), and its ability to be processed into several other formats such as films, gels, particles, and scaffolds.<ref name=":02">{{cite journal |last1=Rockwood|first1=Danielle N|last2=Preda|first2=Rucsanda C|last3=Yücel|first3=Tuna|last4=Wang|first4=Xiaoqin|last5=Lovett|first5=Michael L|last6=Kaplan|first6=David L|title=Materials fabrication from ''Bombyx mori'' silk fibroin|journal=Nature Protocols|volume=6|issue=10|pages=1612–1631|doi=10.1038/nprot.2011.379|pmc=3808976|pmid=21959241|year=2011}}</ref> Silks from ''Bombyx mori'', a kind of cultivated silkworm, are the most widely investigated silks.<ref>{{cite journal |last1=Altman|first1=Gregory H|last2=Diaz|first2=Frank|last3=Jakuba|first3=Caroline|last4=Calabro|first4=Tara|last5=Horan|first5=Rebecca L|last6=Chen|first6=Jingsong|last7=Lu|first7=Helen|last8=Richmond|first8=John|last9=Kaplan|first9=David L|date=1 February 2003|title=Silk-based biomaterials|journal=Biomaterials|volume=24|issue=3|pages=401–416|doi=10.1016/S0142-9612(02)00353-8|pmid=12423595|citeseerx=10.1.1.625.3644}}</ref>
+
+Silks derived from ''Bombyx mori'' are generally made of two parts: the [[silk fibroin]] fiber which contains a light chain of 25kDa and a heavy chain of 350kDa (or 390kDa<ref>{{cite journal |last1=Vepari|first1=Charu|last2=Kaplan|first2=David L.|date=2007-08-01|title=Silk as a biomaterial|journal=Progress in Polymer Science|series=Polymers in Biomedical Applications|volume=32|issue=8–9|pages=991–1007|doi=10.1016/j.progpolymsci.2007.05.013|pmc=2699289|pmid=19543442}}</ref>) linked by a single disulfide bond<ref>{{cite journal |last1=Zhou|first1=Cong-Zhao|last2=Confalonieri|first2=Fabrice|last3=Medina|first3=Nadine|last4=Zivanovic|first4=Yvan|last5=Esnault|first5=Catherine|last6=Yang|first6=Tie|last7=Jacquet|first7=Michel|last8=Janin|first8=Joel|last9=Duguet|first9=Michel|date=2000-06-15|title=Fine organization of ''Bombyx mori'' fibroin heavy chain gene|journal=Nucleic Acids Research|volume=28|issue=12|pages=2413–2419|pmc=102737|pmid=10871375|doi=10.1093/nar/28.12.2413}}</ref> and a glue-like protein, [[sericin]], comprising 25 to 30 percentage by weight. Silk fibroin contains hydrophobic [[beta sheet]] blocks, interrupted by small hydrophilic groups. And the beta-sheets contribute much to the high mechanical strength of silk fibers, which achieves 740 MPa, tens of times that of [[polylactic acid|poly(lactic acid)]] and hundreds of times that of [[collagen]]. This impressive mechanical strength has made silk fibroin very competitive for applications in biomaterials. Indeed, silk fibers have found their way into tendon tissue engineering,<ref>{{cite journal |last1=Kardestuncer|first1=T|last2=McCarthy|first2=M B|last3=Karageorgiou|first3=V|last4=Kaplan|first4=D|last5=Gronowicz|first5=G|title=RGD-tethered Silk Substrate Stimulates the Differentiation of Human Tendon Cells|journal=Clinical Orthopaedics and Related Research|volume=448|pages=234–239|doi=10.1097/01.blo.0000205879.50834.fe|pmid=16826121|year=2006|s2cid=23123}}</ref> where mechanical properties matter greatly. In addition, mechanical properties of silks from various kinds of silkworms vary widely, which provides more choices for their use in tissue engineering.
+
+Most products fabricated from regenerated silk are weak and brittle, with only ≈1–2% of the mechanical strength of native silk fibers due to the absence of appropriate secondary and hierarchical structure,
+{| class="wikitable"
+!Source Organisms<ref>{{cite journal |last1=Kundu|first1=Banani|last2=Rajkhowa|first2=Rangam|last3=Kundu|first3=Subhas C.|last4=Wang|first4=Xungai|date=2013-04-01|title=Silk fibroin biomaterials for tissue regenerations|journal=Advanced Drug Delivery Reviews|series=Bionics – Biologically inspired smart materials|volume=65|issue=4|pages=457–470|doi=10.1016/j.addr.2012.09.043|pmid=23137786}}</ref>
+!Tensile strength
+(g/den)
+!Tensile modulus
+(g/den)
+!Breaking
+strain (%)
+|-
+|''Bombyx mori''
+|4.3–5.2
+|84–121
+|10.0–23.4
+|-
+|''Antheraea mylitta''
+|2.5–4.5
+|66–70
+|26–39
+|-
+|''Philosamia cynthia ricini''
+|1.9–3.5
+|29–31
+|28.0–24.0
+|-
+|''Coscinocera hercules''
+|5 ± 1
+|87 ± 17
+|12 ± 5
+|-
+|''Hyalophora euryalus''
+|2.7 ± 0.9
+|59 ± 18
+|11 ± 6
+|-
+|''Rothschildia hesperis''
+|3.3 ± 0.8
+|71 ± 16
+|10 ± 4
+|-
+|''Eupackardia calleta''
+|2.8 ± 0.7
+|58 ± 18
+|12 ± 6
+|-
+|''Rothschildia lebeau''
+|3.1 ± 0.8
+|54 ± 14
+|16 ± 7
+|-
+|''Antheraea oculea''
+|3.1 ± 0.8
+|57 ± 15
+|15 ± 7
+|-
+|''Hyalophora gloveri''
+|2.8 ± 0.4
+|48 ± 13
+|19 ± 7
+|-
+|''Copaxa multifenestrata''
+|0.9 ± 0.2
+|39 ± 6
+|4 ± 3
+|}
+
+====Biocompatibility====
+Biocompatibility, i.e., to what level the silk will cause an immune response, is a critical issue for biomaterials. The issue arose during its increasing clinical use. Wax or silicone is usually used as a coating to avoid fraying and potential immune responses<ref name=":02" /> when silk fibers serve as suture materials. Although the lack of detailed characterization of silk fibers, such as the extent of the removal of sericin, the surface chemical properties of coating material, and the process used, make it difficult to determine the real immune response of silk fibers in literature, it is generally believed that sericin is the major cause of immune response. Thus, the removal of sericin is an essential step to assure biocompatibility in biomaterial applications of silk. However, further research fails to prove clearly the contribution of sericin to inflammatory responses based on isolated sericin and sericin based biomaterials.<ref>{{cite journal |last1=Zhang|first1=Yaopeng|last2=Yang|first2=Hongxia|last3=Shao|first3=Huili|last4=Hu|first4=Xuechao|date=2010-05-05|title=Antheraea pernyiSilk Fiber: A Potential Resource for Artificially Biospinning Spider Dragline Silk|journal=Journal of Biomedicine and Biotechnology|language=en|volume=2010|pages=683962|doi=10.1155/2010/683962|pmc=2864894|pmid=20454537|doi-access=free}}</ref> In addition, silk fibroin exhibits an inflammatory response similar to that of tissue culture plastic in vitro<ref>{{cite journal |last1=Wray|first1=Lindsay S.|last2=Hu|first2=Xiao|last3=Gallego|first3=Jabier|last4=Georgakoudi|first4=Irene|last5=Omenetto|first5=Fiorenzo G.|last6=Schmidt|first6=Daniel|last7=Kaplan|first7=David L.|date=2011-10-01|title=Effect of processing on silk-based biomaterials: Reproducibility and biocompatibility|journal=Journal of Biomedical Materials Research Part B: Applied Biomaterials|language=en|volume=99B|issue=1|pages=89–101|doi=10.1002/jbm.b.31875|pmc=3418605|pmid=21695778}}</ref><ref name=":12">{{cite journal |last1=Meinel|first1=Lorenz|last2=Hofmann|first2=Sandra|last3=Karageorgiou|first3=Vassilis|last4=Kirker-Head|first4=Carl|last5=McCool|first5=John|last6=Gronowicz|first6=Gloria|last7=Zichner|first7=Ludwig|last8=Langer|first8=Robert|last9=Vunjak-Novakovic|first9=Gordana|date=2005-01-01|title=The inflammatory responses to silk films in vitro and in vivo|journal=Biomaterials|volume=26|issue=2|pages=147–155|doi=10.1016/j.biomaterials.2004.02.047|pmid=15207461}}</ref> when assessed with human mesenchymal [[stem cell]]s (hMSCs) or lower than collagen and PLA when implant rat MSCs with silk fibroin films in vivo.<ref name=":12" /> Thus, appropriate degumming and sterilization will assure the biocompatibility of silk fibroin, which is further validated by in vivo experiments on rats and pigs.<ref>{{cite journal |last1=Fan|first1=Hongbin|last2=Liu|first2=Haifeng|last3=Toh|first3=Siew L.|last4=Goh|first4=James C.H.|title=Anterior cruciate ligament regeneration using mesenchymal stem cells and silk scaffold in large animal model|journal=Biomaterials|volume=30|issue=28|pages=4967–4977|doi=10.1016/j.biomaterials.2009.05.048|pmid=19539988|year=2009}}</ref> There are still concerns about the long-term safety of silk-based biomaterials in the human body in contrast to these promising results. Even though silk sutures serve well, they exist and interact within a limited period depending on the recovery of wounds (several weeks), much shorter than that in tissue engineering. Another concern arises from biodegradation because the biocompatibility of silk fibroin does not necessarily assure the biocompatibility of the decomposed products. In fact, different levels of immune responses<ref>{{cite journal |last1=Minoura|first1=N.|last2=Aiba|first2=S.|last3=Higuchi|first3=M.|last4=Gotoh|first4=Y.|last5=Tsukada|first5=M.|last6=Imai|first6=Y.|date=1995-03-17|title=Attachment and growth of fibroblast cells on silk fibroin|journal=Biochemical and Biophysical Research Communications|volume=208|issue=2|pages=511–516|pmid=7695601|doi=10.1006/bbrc.1995.1368}}</ref><ref>{{cite journal |last1=Gellynck|first1=Kris|last2=Verdonk|first2=Peter C. M.|last3=Van Nimmen|first3=Els|last4=Almqvist|first4=Karl F.|last5=Gheysens|first5=Tom|last6=Schoukens|first6=Gustaaf|last7=Van Langenhove|first7=Lieva|last8=Kiekens|first8=Paul|last9=Mertens|first9=Johan|date=2008-11-01|title=Silkworm and spider silk scaffolds for chondrocyte support|journal=Journal of Materials Science: Materials in Medicine|volume=19|issue=11|pages=3399–3409|doi=10.1007/s10856-008-3474-6|pmid=18545943|s2cid=27191387}}</ref> and diseases<ref>{{cite journal |last1=Lundmark|first1=Katarzyna|last2=Westermark|first2=Gunilla T.|last3=Olsén|first3=Arne|last4=Westermark|first4=Per|date=2005-04-26|title=Protein fibrils in nature can enhance amyloid protein A amyloidosis in mice: Cross-seeding as a disease mechanism|journal=Proceedings of the National Academy of Sciences of the United States of America|volume=102|issue=17|pages=6098–6102|doi=10.1073/pnas.0501814102|pmc=1087940|pmid=15829582|bibcode=2005PNAS..102.6098L|doi-access=free}}</ref> have been triggered by the degraded products of silk fibroin.
+
+====Biodegradability====
+[[Biodegradability]] (also known as [[biodegradation]])—the ability to be disintegrated by biological approaches, including bacteria, fungi, and cells—is another significant property of biomaterials today. Biodegradable materials can minimize the pain of patients from surgeries, especially in tissue engineering, there is no need of surgery in order to remove the scaffold implanted. Wang et al.<ref>{{cite journal |last1=Wang|first1=Yongzhong|last2=Rudym|first2=Darya D.|last3=Walsh|first3=Ashley|last4=Abrahamsen|first4=Lauren|last5=Kim|first5=Hyeon-Joo|last6=Kim|first6=Hyun S.|last7=Kirker-Head|first7=Carl|last8=Kaplan|first8=David L.|title=In vivo degradation of three-dimensional silk fibroin scaffolds|journal=Biomaterials|volume=29|issue=24–25|pages=3415–3428|doi=10.1016/j.biomaterials.2008.05.002|pmc=3206261|pmid=18502501|year=2008}}</ref> showed the in vivo degradation of silk via aqueous 3-D scaffolds implanted into Lewis rats. [[Enzyme]]s are the means used to achieve degradation of silk in vitro. Protease XIV from Streptomyces griseus and α-chymotrypsin from bovine pancreases are the two popular enzymes for silk degradation. In addition, [[gamma radiation]], as well as [[cell metabolism]], can also regulate the degradation of silk.
+
+Compared with synthetic biomaterials such as [[polyglycolide]]s and [[polylactide]]s, silk is obviously advantageous in some aspects in biodegradation. The acidic degraded products of polyglycolides and polylactides will decrease the pH of the ambient environment and thus adversely influence the metabolism of cells, which is not an issue for silk. In addition, silk materials can retain strength over a desired period from weeks to months as needed by mediating the content of beta sheets.
+
+==== Genetic modification ====
+[[Genetic modification]] of domesticated silkworms has been used to alter the composition of the silk.<ref>{{cite journal
+| last1 = Kojima | first1 = K.
+| last2 = Kuwana | first2 = Y.
+| last3 = Sezutsu | first3 = H.
+| last4 = Kobayashi | first4 = I.
+| last5 = Uchino | first5 = K.
+| last6 = Tamura | first6 = T.
+| last7 = Tamada | first7 = Y.
+| title = A new method for the modification of fibroin heavy chain protein in the transgenic silkworm
+| journal = Bioscience, Biotechnology, and Biochemistry
+| volume = 71
+| issue = 12
+| pages = 2943–2951
+| year = 2007
+| pmid = 18071257 | doi=10.1271/bbb.70353
+| s2cid = 44520735
+}}</ref>  As well as possibly facilitating the production of more useful types of silk, this may allow other industrially or therapeutically useful proteins to be made by silkworms.<ref>{{cite journal |last=Tomita|first=Masahiro|date=April 2011|title=Transgenic silkworms that weave recombinant proteins into silk cocoons|journal=Biotechnology Letters|volume=33|issue=4|pages=645–654|doi=10.1007/s10529-010-0498-z|issn=1573-6776|pmid=21184136|s2cid=25310446}}</ref>
+
+==Cultivation==
+[[File:Thai man spools silk at Jim Thompson House photo D Ramey Logan.jpg|thumb|Thai man spools silk]]
+[[File:Bombyx mori Cocon 02.jpg|thumb|[[Pupa#Cocoon|Cocoon]]]]
+Silk [[moth]]s lay eggs on specially prepared paper. The eggs hatch and the caterpillars (silkworms) are fed fresh [[mulberry]] leaves. After about 35 days and 4 moltings, the caterpillars are 10,000 times heavier than when hatched and are ready to begin spinning a cocoon. A straw frame is placed over the tray of caterpillars, and each caterpillar begins spinning a cocoon by moving its head in a pattern. Two glands produce liquid silk and force it through openings in the head called spinnerets. Liquid silk is coated in sericin, a water-soluble protective gum, and solidifies on contact with the air. Within 2–3 days, the caterpillar spins about 1 mile of filament and is completely encased in a cocoon. The silk farmers then heat the cocoons to kill them, leaving some to [[metamorphosis|metamorphose]] into moths to breed the next generation of caterpillars. Harvested cocoons are then soaked in boiling water to soften the sericin holding the silk fibers together in a cocoon shape. The fibers are then unwound to produce a continuous thread. Since a single thread is too fine and fragile for commercial use, anywhere from three to ten strands are spun together to form a single thread of silk.<ref>Gleason, Carrie (2006) ''The Biography of Silk''. Crabtree Publishing Company. p. 12. {{ISBN|0778724875}}.</ref>
+
+==Animal rights==
+As the process of harvesting the silk from the cocoon kills the larvae by boiling them, sericulture has been criticized by animal welfare and rights activists.<ref name=Stancati2011>{{cite news |last1=Stancati|first1=Margherita|title=Taking the Violence Out of Silk|url=https://blogs.wsj.com/indiarealtime/2011/01/04/taking-the-violence-out-of-silk/|access-date=22 January 2015|agency=Wall Street Journal|date=4 January 2011|url-status=live|archive-url=https://web.archive.org/web/20150122231507/http://blogs.wsj.com/indiarealtime/2011/01/04/taking-the-violence-out-of-silk/|archive-date=22 January 2015}}</ref>
+
+[[Mohandas Karamchand Gandhi|Mahatma Gandhi]] was critical of silk production based on the [[Ahimsa]] philosophy, which led to the promotion of cotton and [[Ahimsa silk]], a type of [[wild silk]] made from the cocoons of wild and semi-wild silk moths.<ref name="AlexanderCentenary1968">{{cite book |last1=Alexander|first1=Horace Gundry|last2=Centenary|first2=National Committee for the Gandhi|title=Mahatma Gandhi: 100 years|url={{google books |plainurl=y |id=LGVuAAAAMAAJ|page=349}}|year=1968|publisher=[[Gandhi Peace Foundation]]; Orient Longmans}}</ref>
+
+Since silk cultivation kills silkworms, [[People for the Ethical Treatment of Animals]] (PETA) urges people not to buy silk items.<ref>{{cite web |title=Down and Silk: Birds and Insects Exploited for Feathers and Fabric |publisher=[[PETA]] |url=https://www.peta.org/issues/animals-used-for-clothing/animals-used-clothing-factsheets/silk-birds-insects-exploited-fabric/ |access-date=23 January 2014 |quote=Silk Production Causes Painful Death for Insects |url-status=live |archive-url=https://web.archive.org/web/20140201181101/http://www.peta.org/issues/animals-used-for-clothing/animals-used-clothing-factsheets/silk-birds-insects-exploited-fabric/ |archive-date=1 February 2014}}</ref>
+
+==See also==
+*[[Art silk]]
+*[[Bulletproofing]]
+*[[International Year of Natural Fibres]]
+*[[Mommes]]
+*[[Rayon]]
+*[[Sea silk]]
+*[[Silk waste]]
+*[[Sinchaw]]
+*[[Spider silk]]
+{{Clear}}
+
+== References ==
+===Citations===
+{{Reflist|30em}}
+
+===Bibliography===
+* {{cite journal |last=Callandine |first=Anthony |year=1993 |title=Lombe's Mill: An Exercise in reconstruction|journal=Industrial Archaeology Review|volume=XVI|issue=1|issn=0309-0728}}
+* Hill, John E. (2004). [http://depts.washington.edu/silkroad/texts/weilue/weilue.html ''The Peoples of the West from the Weilüe''] 魏略 ''by Yu Huan'' 魚豢'': A Third Century Chinese Account Composed between 239 and 265 AD.'' Draft annotated English translation. Appendix E.
+* Hill, John E. (2009) ''Through the Jade Gate to Rome: A Study of the Silk Routes during the Later Han Dynasty, 1st to 2nd centuries CE''. BookSurge, Charleston, South Carolina. {{ISBN|978-1-4392-2134-1}}.
+* Magie, David (1924). ''Historia Augusta Life of Heliogabalus''. Loeb Classical Texts No. 140: Harvard University Press.{{ISBN|978-0674991552}}.
+
+==Further reading==
+* Feltwell, John (1990). ''The Story of Silk''. Alan Sutton Publishing. {{ISBN|0-86299-611-2}}.
+* Good, Irene (December 1995). "On the question of silk in pre-Han Eurasia". ''Antiquity''. Vol. 69, Number 266. pp.&nbsp;959–968.
+* Kuhn, Dieter (1995). "Silk Weaving in Ancient China: From Geometric Figures to Patterns of Pictorial Likeness." ''Chinese Science''. 12. pp.&nbsp;77–114.
+* [[Xinru Liu|Liu, Xinru]] (1996). ''Silk and Religion: An Exploration of Material Life and the Thought of People, AD 600–1200''. Oxford University Press.
+* [[Xinru Liu|Liu, Xinru]] (2010). ''The Silk Road in World History''. Oxford University Press. {{ISBN|978-0-19-516174-8}}; {{ISBN|978-0-19-533810-2}} (pbk).
+* {{cite book |last=Rayner|first=Hollins|title=Silk throwing and waste silk spinning |url=https://archive.org/details/silkthrowingand00rayngoog|year=1903|publisher=Scott, Greenwood, Van Nostrand|ol=7174062M}}
+* Sung, Ying-Hsing. 1637. ''Chinese Technology in the Seventeenth Century – T'ien-kung K'ai-wu''. Translated and annotated by E-tu Zen Sun and Shiou-chuan Sun. Pennsylvania State University Press, 1966. Reprint: Dover, 1997. "Chapter 2. Clothing materials".
+* Kadolph, Sara J. (2007). ''Textiles'' (10th ed.). Upper Saddle River: Pearson Prentice Hall. pp.&nbsp;76–81.
+* Ricci, G.; et al. (2004). "Clinical Effectiveness of a Silk Fabric in the Treatment of Atopic Dermatitis". ''British Journal of Dermatology''. Issue 150. pp.&nbsp;127–131.
+
+==External links==
+{{Wiktionary}}
+{{Commons category|Silk}}
+{{Wikiquote}}
+*[https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Sericum.html References to silk by Roman and Byzantine writers]
+*[https://web.archive.org/web/20071202155627/http://www.geospace.co.uk/silk/worldsilk.html A series of maps depicting the global trade in silk]
+*[https://web.archive.org/web/20071231034911/http://www.gather.com/viewArticle.jsp?articleId=281474977152137 History of traditional silk in martial arts uniforms]
+*[http://www.suekayton.com/silk.htm Raising silkworms in classrooms for educational purposes (with photos)]
+*[https://phys.org/news/2009-09-thread-fabric-insect-silks.html New thread in fabric of insect silks|physorg.com]
+
+{{Silk fibre}}
+{{Fibers}}
+{{Textile}}
+{{Clothing materials and parts}}
+{{Insects in culture}}
+{{Authority control}}
+
+[[Category:Silk| ]]
+[[Category:Animal glandular products]]
+[[Category:Articles containing video clips]]
+[[Category:Biomaterials]]
+[[Category:Chinese inventions]]
+[[Category:Insect products]]
+[[Category:Silk Road]]
+[[Category:Woven fabrics]]

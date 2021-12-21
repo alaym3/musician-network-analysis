@@ -1,0 +1,24 @@
+{{about|a real form of solid water|the fictional material called Ice-nine that appears in the Kurt Vonnegut novel|Cat's Cradle}}
+{{other uses|Ice-nine (disambiguation)}}
+
+'''Ice IX''' is a form of solid [[water]] stable at temperatures below 140 [[Kelvin|K]] and pressures between 200 and 400 [[MPa]]. It has a [[tetragonal]] crystal lattice and a density of 1.16 g/cm³, 26% higher than ordinary ice. It is formed by cooling [[ice III]] from 208 K to 165 K (rapidly&mdash;to avoid forming [[ice II]]). Its structure is identical to ice III other than being hydrogen-ordered.{{clarify|date=December 2017}}
+
+Ordinary [[ice|water ice]] is known as [[ice Ih|ice I<sub>h</sub>]] in the [[Percy Williams Bridgman|Bridgman]] nomenclature. Different types of ice, from [[ice II]] to ice XIX, have been created in the laboratory at different temperatures and pressures.
+
+==See also==
+*[[Ice]], for other crystalline forms of ice.
+
+==References==
+{{reflist}}
+* Bridgman, P. W. (1937) J. Chem. Phys. 5, 964.
+*{{cite web |url=http://www.lsbu.ac.uk/water/ice_iii.html |title=Ice-three and ice-nine structures |access-date=2008-01-02 |author=Chaplin, Martin |date=2007-11-11 |work=Water Structure and Science}}
+
+==External links==
+* [http://www.lsbu.ac.uk/water/phase.html London South Bank University Report]
+
+{{ice}}
+{{material-stub}}
+{{physical-chemistry-stub}}
+{{inorganic-compound-stub}}
+
+[[Category:Water ice]]

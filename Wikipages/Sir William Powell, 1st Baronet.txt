@@ -1,0 +1,38 @@
+{{Use dmy dates|date=November 2016}}
+{{Use British English|date=November 2016}}
+'''Sir William Powell, 1st Baronet''' (c. 1624 &ndash; 2 December 1680) was an English politician who sat in the [[House of Commons of England|House of Commons]]  in 1660.
+
+Powell was born as '''William Hinson''', the son of Thomas Hinson of Dubllin and his wife Anne Powell, daughter of Edward Powell of Fulham. His uncle, Sir Edward Powell, 1st Baronet of Pengethly, left him his estates on condition that he changed his name to Powell.<ref>[https://books.google.com/books?id=3WjdEHsAu88C&pg=PA493&lpg=PA493&dq=%22William+Hinson%22+Powell&source=bl&ots=2beRkiGcDa&sig=R5JoGxBgW38u5HUWLfFdfuw8TBk&hl=en&ei=swWOTeCgMIHKhAeB74m8Dg&sa=X&oi=book_result&ct=result&resnum=4&ved=0CCgQ6AEwAw#v=onepage&q=%22William%20Hinson%22%20Powell&f=false Bernard Burke ''The General armory of England, Scotland, Ireland and Wales'']</ref>
+
+He sat on the bench as a [[Justice of the Peace]] for Middlesex from 1650 to 1654 and Herefordshie from 1677 to his death and appointed [[High Sheriff of Herefordshire]] for 1657–58.
+
+In 1660, Powell was elected [[Member of Parliament]] for [[Herefordshire (UK Parliament constituency)|Herefordshire]] in the [[Convention Parliament (1660)|Convention Parliament]].<ref name=HOP>[http://www.historyofparliamentonline.org/volume/1660-1690/member/powell-william-1624-80 History of Parliament Online - Powell (formerly Hinson), William]</ref> He was created [[Powell Baronets|baronet]] on 25 January 1661 under the recreated baronetcy of Pengethly.<ref name=Burke>[https://books.google.com/books?id=K1kBAAAAQAAJ&pg=PA424&lpg=PA424&dq=%22William+Hinson%22+Powell&source=bl&ots=E8LlY7qial&sig=7rFkwrZ4oRG4W9WoNAcZryp9NL0&hl=en&ei=swWOTeCgMIHKhAeB74m8Dg&sa=X&oi=book_result&ct=result&resnum=8&ved=0CD0Q6AEwBw#v=onepage&q=%22William%20Hinson%22%20Powell&f=false John Burke, John Bernard Burke ''A genealogical and heraldic history of the extinct and dormant baronetcies'']</ref>
+ 
+Powell married firstly, Lady Mary Brydges, widow of Sir John Brydges, 2nd Baronet of Wilton Castle, and daughter of John Pearle  of Aconbury, in Herefordshire. He married secondly Katherine Zouch, daughter of [[Richard Zouch|Dr Richard Zouch]], judge of the Admiralty. He had no male heir and the baronetcy became extinct on his death. His daughter Mary married [[Sir John Williams, 2nd Baronet, of Eltham]].<ref name=Burke/>
+
+==References==
+{{Reflist}}
+
+{{s-start}}
+{{s-par|en}}
+{{succession box 
+ | title  = [[Member of Parliament]] for [[Herefordshire (UK Parliament constituency)|Herefordshire]] 
+ | with   = [[Edward Harley (Parliamentarian)|Edward Harley]] 
+ | before = Not represented in the [[Rump Parliament]]
+ | after  = [[James Scudamore (died 1668)|James Scudamore]] 
+ | after2 = [[Thomas Prise]] 
+ | years  = 1660–1661}}
+{{s-reg|en-bt}}
+{{s-new | creation}}
+{{s-ttl | title= [[Powell baronets|Baronet]]<br />'''(of Pengethly)''' | years=1661–1680}}
+{{s-non| reason=Extinct}}
+{{s-end}}
+
+{{DEFAULTSORT:Powell, William}}
+[[Category:1624 births]]
+[[Category:1680 deaths]]
+[[Category:People from Herefordshire]]
+[[Category:English MPs 1660]]
+[[Category:Year of birth uncertain]]
+[[Category:High Sheriffs of Herefordshire]]
+[[Category:Baronets in the Baronetage of England]]

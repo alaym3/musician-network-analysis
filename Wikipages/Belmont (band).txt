@@ -1,0 +1,170 @@
+{{Infobox musical artist
+| name            = Belmont
+| image           = Belmont_live.jpg
+| caption         = Belmont in live show.
+| landscape       = Yes
+| origin          = [[Chicago, Illinois]]
+| genre           = {{flatlist|
+* [[Pop punk]]
+* [[alternative rock]]
+* [[easycore]]}}
+| years_active    = {{start date|2014}}–present
+| label           = {{flatlist|
+* [[Mutant League Records|Mutant League]]
+* [[Pure Noise Records]]
+}}
+| associated_acts = {{flatlist|
+* [[Tiny Moving Parts]]
+* [[The Story So Far (band)|The Story So Far]]
+* [[Knuckle Puck]]
+* [[Neck Deep]]
+}}
+| website         = https://belmont-il.bandcamp.com/
+| current_members = *Taz Johnson
+*Brian Lada
+*Alex Wieringa
+*Jason Inguagiato
+| past_members    = *Matt Fusi 
+*Joey Legittino
+*Amal Sheth
+*Mauro Castillo
+*Alex Ceja
+*Sam Patt
+*Thomas Hollingsworth
+}}
+
+'''Belmont''' is an American [[easycore]] band from [[Chicago]], [[Illinois]].
+
+==History==
+After forming in high school in 2014, Belmont self-released their debut EP titled ''Vicissitude'' which was produced by Mat Kerekes of [[Citizen (band)|Citizen]] and his brother.<ref name="columbiachronicle">{{cite web|last1=EnYart|first1=Frank|title=Belmont hopes to carry on Chicago pop-punk tradition with new EP|url=http://www.columbiachronicle.com/arts_and_culture/article_8b7199ac-5e72-11e5-bf56-773e8a69c249.html|publisher=Columbia Chronicle|accessdate=7 October 2017}}</ref> In 2016, after solidifying their lineup, Belmont announced their signing to [[Mutant League Records]] and released the EP ''Between You & Me''.<ref name="newnoisemagazine">{{cite web|last1=Shrum|first1=Tony|title=Belmont Release ‘Between You & Me’ EP, Stream It Now|url=http://newnoisemagazine.com/belmont-stream-between-you-me-ep/|publisher=New Noise Magazine|accessdate=7 October 2017}}</ref><ref name="altpress">{{cite magazine|last1=Wellendorf|first1=Kiley|title=Mutant League Records signs Chicago pop punks Belmont|url=http://www.altpress.com/features/entry/mutant_league_records_signs_pop_punk_band_belmont|magazine=[[Alternative Press (magazine)|Alternative Press]]|accessdate=7 October 2017}}</ref> In 2017, Belmont released a music video for a new single ''Step Aside''.<ref name="altpress1">{{cite magazine|last1=Dickman|first1=Maggie|title=Pop-punkers Belmont have an epic house show in music video for new song “Step Aside”—watch|url=http://www.altpress.com/features/entry/belmont_step_aside_music_video|magazine=Alternative Press|accessdate=7 October 2017}}</ref> The band released 'Belmont' a self titled full-length album on August 17, 2018.<ref>{{Cite web|url=https://www.facebook.com/belmontband/|title=Belmont|website=www.facebook.com|language=en|access-date=2018-09-28}}</ref>
+
+==Members==
+
+;Current
+*Taz Johnson - lead vocals  (2014-present)
+*Brian Lada - drums, guitars, bass <small>(2014-present) </small>; programming <small>(2019-present)</small>
+*Alex Wieringa - bass, backing vocals <small>(2015-present)</small>
+*Jason Inguagiato - lead guitar <small>(2018-present)</small>; rhythm guitar <small>(2017-2018)</small>
+
+
+;Former
+*Amal Sheth - lead guitar, backing vocals <small>(2014)</small>
+*Joey Legittino - bass <small>(2014-2015)</small>; backing vocals <small>(2014-2016)</small>; lead vocals <small>(2014)</small>
+*Sam Patt - rhythm guitar <small>(2014-2015)</small>; lead guitar <small>(2014, 2015–2020) </small>
+*Matt Fusi - lead guitar <small>(2015)</small>
+*Mauro Armando Castillo - lead guitar <small>(2014-2015)</small>
+*Alex Ceja - bass <small>(2015)</small>
+
+===Timeline===
+
+{{#tag:timeline|
+ImageSize = width:900 height:auto barincrement:20
+PlotArea = left:100 bottom:100 top:0 right:15
+Alignbars = justify
+DateFormat = mm/dd/yyyy
+Period = from:01/01/2014 till:{{#time:m/d/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:ver position:bottom columns:3
+ScaleMajor = increment:2 start:2014
+ScaleMinor = increment:1 start:2014
+
+Colors =
+ id:lv  value:red         legend:Lead_vocals
+ id:bv  value:pink        legend:Backing_vocals
+ id:g   value:green       legend:Guitars,_guitar_effects
+ id:lg  value:teal        legend:Lead_guitar
+ id:rg  value:brightgreen legend:Rhythm_guitar
+ id:b   value:blue        legend:Bass
+ id:d   value:orange      legend:Drums
+ id:p   value:purple      legend:Programming
+ id:alb value:black       legend:Studio_album
+ id:EP  value:gray(0.6)   legend:Other_release
+ id:bars    value:gray(0.93)
+
+LineData =
+ layer:back
+ color:alb
+ at:08/17/2018
+
+ color:EP
+ at:01/16/2015
+ at:07/29/2016
+ at:04/21/2017
+ at:03/13/2020
+
+BarData =
+ bar:JL text:"Joey Legittino"
+ bar:TJ text:"Taz Johnson"
+ bar:AS text:"Amal Sheth"
+ bar:SP text:"Sam Patt"
+ bar:MC text:"Mauro Castillo"
+ bar:MF text:"Matt Fusi"
+ bar:JI text:"Jason Inguagiato"
+ bar:AC text:"Alex Ceja"
+ bar:AW text:"Alex Wieringa"
+ bar:BL text:"Brian Lada"
+
+PlotData=
+ width:13 textcolor:black align:left anchor:from shift:(10,-4)
+
+ bar:JL from:start      till:03/01/2014 color:lv
+ bar:JL from:03/01/2014 till:07/01/2015 color:b
+ bar:JL from:03/01/2014 till:07/01/2015 color:bv width:3
+ bar:JL from:start      till:03/01/2014 color:b  width:3
+ bar:TJ from:03/01/2014 till:end        color:lv
+ bar:TJ from:03/01/2014 till:end        color:rg width:3
+ bar:TJ from:01/01/2019 till:end        color:p  width:7
+ bar:AS from:start      till:07/01/2014 color:lg
+ bar:AS from:start      till:07/01/2014 color:bv width:3
+ bar:SP from:07/01/2014 till:11/01/2014 color:lg
+ bar:SP from:11/01/2014 till:02/01/2017 color:rg
+ bar:SP from:11/01/2015 till:08/01/2020 color:lg
+ bar:MC from:11/01/2014 till:06/01/2015 color:lg
+ bar:MF from:06/01/2015 till:11/01/2015 color:lg
+ bar:JI from:02/01/2017 till:08/01/2018 color:rg
+ bar:JI from:08/01/2018 till:end        color:lg
+ bar:JI from:02/01/2017 till:end        color:bv width:3
+ bar:AC from:07/01/2015 till:09/01/2015 color:b
+ bar:AW from:09/01/2015 till:end        color:b
+ bar:AW from:09/01/2015 till:end        color:bv width:3
+ bar:BL from:10/01/2014 till:end        color:d
+ bar:BL from:01/01/2019 till:end        color:p  width:3
+}}
+
+==Discography==
+
+;Albums
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Title
+! rowspan="2"| Label
+! colspan="3"| Chart positions<ref name="billboard">{{cite magazine|url={{BillboardURLbyName|artist=belmont|chart=all}}|title=Billboard.com|magazine=[[Billboard (magazine)|Billboard]]|accessdate=August 31, 2018}}</ref>
+|-
+! style="width:86px;"| <small>[[Billboard 200|Top 200]]</small>
+! style="width:86px;"| <small>[[Top Independent Albums|US Indie]]</small>
+! style="width:86px;"| <small>[[Top Heatseekers|US Heat]]</small>
+|-
+| 2018
+| ''[[Belmont (album)|Belmont]]''
+|rowspan="3"| [[Mutant League Records|Mutant League]]
+| style="text-align:center;"| 146
+| style="text-align:center;"| 16
+| style="text-align:center;"| 2
+|}
+
+
+'''EPs'''
+*Vicissitude (2015, Self-Released)
+* Between You & Me (2016, [[Mutant League Records|Mutant League]])
+*Water Weight / Step Aside 7" (2017, [[Mutant League Records|Mutant League]])
+*Reflections (2020, [[Pure Noise Records|Pure Noise]])
+
+==References==
+{{reflist}}
+
+[[Category:Musical groups from Chicago]]
+[[Category:Musical groups established in 2014]]
+[[Category:2014 establishments in Illinois]]
+
+{{US-punk-band-stub}}

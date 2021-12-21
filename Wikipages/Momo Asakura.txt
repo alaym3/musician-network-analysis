@@ -1,0 +1,311 @@
+{{Infobox person
+| name               = Momo Asakura
+| image              =
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            =
+| native_name        = 麻倉 もも
+| native_name_lang   = ja
+| birth_name         = <!-- only use if different from name -->
+| birth_date         = {{Birth date and age|1994|06|25|mf=yes}}
+| birth_place        = [[Fukuoka Prefecture]], Japan
+| death_date         = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place        =
+| occupation         = {{flatlist|
+*[[Voice acting in Japan|Voice actress]]
+*singer
+}}
+| years_active       = 2012–present
+| employer           = Music Ray'n
+| height             = 156 cm
+| module             = {{Infobox musical artist
+| embed           = yes
+| genre           = {{flatlist| 
+*[[J-pop]]
+*[[Music in Japanese animation|anison]]
+}}
+| instrument      = Vocals
+| years_active    = 2016–present
+| label           = [[Sony Music Entertainment Japan|Sony Music Entertainment Japan/Music Ray'n]]
+| associated_acts = [[TrySail]]
+}}
+}}
+{{Nihongo|'''Momo Asakura'''|麻倉 もも|Asakura Momo|born June 25, 1994}} is a Japanese [[Voice acting in Japan|voice actress]] and singer. She is part of the Music Ray'n agency.<ref name="yahoo"/><ref name="profile"/> After passing an audition held by Music Ray'n, she made her voice acting debut as Yumi in the anime ''[[My Little Monster]]''. She played her first main role as Ayumi Otosaka in the anime television series ''[[Charlotte (anime)|Charlotte]]''.<ref name=":0">{{Cite journal|date=March 2014|title= Seiyū Anime Media|issue=April 2014|page=86|language=ja}}</ref> She is a member of the voice acting unit [[TrySail]], alongside [[Sora Amamiya]] and [[Shiina Natsukawa]]. Apart from voice acting, she also performed theme song for various anime she acted in.
+
+==Biography==
+Asakura's interest in becoming a voice actress began in middle school and continued through high school.<ref>{{Cite web|title=第35回 麻倉 ももさん {{!}} 先輩から学ぼう！ {{!}} 声優グランプリweb|url=http://seigura.com/senior/future/20140423_6579|website=seigura|access-date=2015-07-11|language=ja|archive-url=https://web.archive.org/web/20150629000922/http://seigura.com/senior/future/20140423_6579|archive-date=2015-06-29|url-status=dead}}</ref> She got her break in 2011 when, together with [[Sora Amamiya]] and [[Shiina Natsukawa]], passed an audition held by [[Sony Music Entertainment Japan]]'s sub-label Music Ray'n.<ref name=":0"/> She made her voice acting debut in 2012, voicing the character Yumi in the anime ''[[My Little Monster]]''.<ref name="vadb"/> Since then, she was given minor roles in various anime.<ref name="vadb"/>
+
+In 2014, she was cast as Sumi Otokawa in ''[[Sakura Trick]]'',<ref name="sumi"/> Rin Kazari in ''[[Witch Craft Works]]''.<ref name="rin"/> She and other cast members performed the series' ending theme "Witch☆Activity". On December 21, 2014, it was announced that Asakura, Amamiya, and Natsukawa would be forming the voice acting unit [[TrySail]], which released its first single "Youthful Dreamer", used as the opening theme song for the anime television series ''[[Ultimate Otaku Teacher]]'', on May 13, 2015.<ref>{{cite journal|title=TRYangle harmony presents トライアングルステージ!!! ～STEP～ in 日本青年館|journal=Seiyū Grand Prix|issue=March 2015|language=ja}}</ref><ref>{{Cite web|url=http://www.oricon.co.jp/prof/646241/products/1123336/1/|title=Youthful Dreamer|publisher=[[Oricon]]|access-date=July 11, 2015|language=ja}}</ref> That same year, she was cast as Ayumi Otosaka in the anime television series ''[[Charlotte]]'' becoming her first main role.<ref name=":0"/><ref name="ayumi"/> She then played the role of [[List of Monster Musume characters#Manako|Manako]] in ''[[Monster Musume]]'',<ref name="manako"/> and Yuyu Aizawa in ''[[Aria the Scarlet Ammo|Aria the Scarlet Ammo AA]]''.<ref name="vadb"/>
+
+In 2016, she made her official debut as a solo artist for Music Ray'n by releasing her first single {{nihongo|"Ashita wa Kimi to."|明日は君と}} which was used as an insert song for the anime film ''[[Suki ni Naru Sono Shunkan o|Suki ni Naru Sono Shunkan o: Kokuhaku Jikkō Iinkai]]''.<ref>{{cite web|url=http://www.sonymusic.co.jp/artist/asakuramomo/discography/SMCL-456|script-title=ja:明日は君と。|website=Official website|publisher=[[Sony Japan]]|access-date=January 28, 2019|language=ja}}</ref> The song peak at number 8 on the [[Oricon]] weekly charts.<ref name="singles-charts"/> Her first solo album ''Peachy!'' was released on October 3, 2018; the album peaked at number 6 on the Oricon weekly charts.<ref name="albums-charts"/> The following year, she was cast as Rona Pricipa O'Lapanesta in ''[[Endro!]]'',<ref name="rona"/> and Nagisa Kashiwagi in ''[[Kaguya-sama: Love Is War]]''.<ref name="nagisa"/>
+
+==Filmography==
+
+===Anime===
+{| class="wikitable sortable plainrowheaders"
+|+ List of voice performances in anime
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+! class="unsortable" | Source<ref name="profile"/>
+|-
+| {{dts|2012|11|26|format=y}} || ''[[My Little Monster]]'' || Yumi || Ep. 9 || <ref name="vadb"/>
+|-
+| {{dts|2013|05|24|format=y}} || ''[[A Certain Scientific Railgun|A Certain Scientific Railgun S]]'' || Minori || Ep. 7 || <ref name="vadb"/><ref name="doi"/>
+|-
+| {{dts|2013|06|12|format=y}} || ''[[Karneval (manga)|Karneval]]'' || Girl || Ep. 11 || <ref name="vadb"/>
+|-
+| {{dts|2013|08|01|format=y}} ||  ''[[Aikatsu!]]'' || Rion  || Ep. 42 ||
+|-
+| {{dts|2013|10|27|format=y}} || ''[[Walkure Romanze: Shōjo Kishi Monogatari]]'' || School girl C || Ep. 4 || <ref name="vadb"/>
+|-
+| {{dts|2014|01|05|format=y}} || ''[[Witch Craft Works]]'' || Rin Kazari || || <ref name="vadb"/><ref name="rin">{{Cite web|url=http://www.witch-cw-anime.jp/kazari_rin.html|title=Rin Kazari|access-date=July 11, 2015|website=Witch Craft Works|publisher=[[J.C.Staff]]|language = ja}}</ref>
+|-
+| {{dts|2014|01|09|format=y}} || ''[[Sakura Trick]]'' || Sumi Otokawa, student || || <ref name="vadb"/><ref name="sumi">{{Cite web|url=http://www.tbs.co.jp/anime/sakura/staffcast/|title=Staff & Cast|access-date=July 11, 2015|website=Sakura Trick|publisher=[[Tokyo Broadcasting System]]|language=ja}}</ref><ref>{{cite news|title=Anime Spotlight - Sakura Trick|url=http://www.animenewsnetwork.com/anime-spotlight/2013/winter-2014/sakura-trick|access-date=July 11, 2015|work=[[Anime News Network]]|date=December 31, 2015}}</ref>
+|-
+| {{dts|2014|01|12|format=y}} || ''[[Noragami]]'' || Student B || Ep. 2 || <ref name="vadb"/>
+|-
+| {{dts|2014|02|26|format=y}} || ''[[Hamatora|Hamatora: The Animation]]'' || Female student B || Ep. 8 || <ref name="vadb"/>
+|-
+| {{dts|2014|09|08|format=y}} || ''[[Bladedance of Elementalers]]'' || Vitte || Ep. 9 || <ref name="vadb"/>
+|-
+| {{dts|2014|12|20|format=y}} || ''[[Sword Art Online|Sword Art Online II]]'' || High school girl || Ep. 24 ||
+|-
+| {{dts|2015|05|09|format=y}} || ''[[Ultimate Otaku Teacher]]'' || Ayaka || Ep. 6 || <ref name="vadb"/><ref name="doi"/>
+|-
+| {{dts|2015|07|04|format=y}} || ''[[Fairy Tail]]'' || Lummy || ||
+|-
+| {{dts|2015|07|04|format=y}}–2016 || ''[[Charlotte (anime)|Charlotte]]'' || Ayumi Otosaka || Also OVA || <ref name="vadb"/><ref name="ayumi">{{Cite web|title=Staff & Cast|url=http://charlotte-anime.jp/staff_cast/|website=TVアニメ「Charlotte(シャーロット)」公式サイト|access-date=July 11, 2015|publisher=[[Aniplex]]|language=ja}}</ref><ref name="doi"/>
+|-
+| {{dts|2015|07|07|format=y}}–2017 || ''[[Monster Musume]]'' || [[List of Monster Musume characters#Manako|Manako]] || Also OVA || <ref name="vadb"/><ref name="manako">{{Cite web|url=http://monmusu.tv/staffcast|title=Staff & Cast|access-date=July 11, 2015|website=Monster Musume|language=ja}}</ref><ref name="doi"/>
+|-
+| {{dts|2015|08|15|format=y}} || ''[[Gate (novel series)|Gate: Jieitai Kano Chi nite, Kaku Tatakaeri]]'' || Aurea || Ep. 7 || <ref name="vadb"/>
+|-
+| {{dts|2015|10|06|format=y}} || ''[[Aria the Scarlet Ammo|Aria the Scarlet Ammo AA]]'' || Yuyu Aizawa || || <ref name="vadb"/>
+|-
+| {{dts|2016|04|07|format=y}} || ''[[Kuromukuro]]'' || Koharu Shirahane || || <ref name="vadb"/>
+|-
+| {{dts|2016|04|09|format=y}}–2017 || ''[[High School Fleet]]'' || Mikan Irako || Also OVA || <ref name="vadb"/><ref name="doi"/>
+|-
+| {{dts|2016|10|01|format=y}} || ''[[Working!!|WWW.Working!!]]'' || Miri Yanagiba || || <ref name="vadb"/><ref name="doi"/>
+|-
+| {{dts|2017|04|15|format=y}} || ''[[PriPri Chi-chan!!]]'' || Yuka Saeki || || <ref name="vadb"/>
+|-
+| {{dts|2017|06|29|format=y}} || ''[[Interviews with Monster Girls]]'' || Shouko Hasegawa || Ep. 13 ||
+|-
+| {{dts|2019|01|12|format=y}} || ''[[Endro!]]'' || Rona Pricipa O'Lapanesta|| || <ref name="rona">{{cite news|url=https://www.animenewsnetwork.com/news/2018-10-12/endro~-anime-5th-character-video-reveals-2-more-cast-members/.138072|title=Endro~! Anime's 5th Character Video Reveals 2 More Cast Members|date=October 12, 2018|work=Anime News Network|access-date=January 28, 2019}}</ref><ref name="doi"/>
+|-
+| {{dts|2019|01|12|format=y}}–present || ''[[Kaguya-sama: Love Is War]]'' || Nagisa Kashiwagi || || <ref name="nagisa">{{cite news|url=https://www.animenewsnetwork.com/news/2018-12-22/kaguya-sama-love-is-war-anime-reveals-2nd-promo-video-more-cast/.141221|title=Kaguya-sama: Love is War Anime Reveals 2nd Promo Video, More Cast|work=Anime News Network|date=December 23, 2018|access-date=January 28, 2019}}</ref>
+|-
+| {{dts|2019|07|format=y}} || ''[[O Maidens in Your Savage Season]]'' || Momoko Sudō || || <ref>{{cite news|url=https://www.animenewsnetwork.com/news/2019-03-01/o-maidens-in-your-savage-season-anime-reveals-main-cast-july-premiere/.144066|title=O Maidens in Your Savage Season Anime Reveals Main Cast, July Premiere|work=[[Anime News Network]]|date=March 1, 2019|access-date=March 1, 2019}}</ref>
+|-
+| {{dts|2020|01|format=y}}–2021 || ''[[Magia Record: Puella Magi Madoka Magica Side Story]]'' || Iroha Tamaki || || <ref>{{cite news|url=https://www.animenewsnetwork.com/news/2019-03-23/magia-record-puella-magi-madoka-magica-gaiden-anime-unveils-new-teaser-video-visual/.144889|title=Magia Record: Puella Magi Madoka Magica Gaiden Anime Unveils New Teaser Video, Visual|work=[[Anime News Network]]|date=March 23, 2019|access-date=March 23, 2019}}</ref>
+|-
+| {{dts|2020|01|format=y}}–2022 || ''[[Science Fell in Love, So I Tried to Prove It]]'' || Rikekuma || || <ref>{{cite news|url=https://www.animenewsnetwork.com/news/2019-07-09/rikei-ga-koi-ni-ochita-no-de-shomei-shite-mita-tv-anime-reveals-cast-staff-2020-premiere/.148846|title=Rikei ga Koi ni Ochita no de Shōmei Shite Mita TV Anime Reveals Cast, Staff, 2020 Premiere|work=[[Anime News Network]]|date=July 9, 2019|access-date=July 9, 2019}}</ref>
+|-
+| {{dts|2021|01|format=y}} || ''[[Hori-san to Miyamura-kun|Horimiya]]'' || Honoka Sawada || || <ref>{{cite web|title=Horimiya TV Anime Unveils 9 More Cast Members, More Staff, New Visual |url=https://www.animenewsnetwork.com/news/2020-11-23/horimiya-tv-anime-unveils-9-more-cast-members-more-staff-new-visual/.166621|website=Anime News Network|access-date=November 23, 2020|date=November 23, 2020}}</ref>
+|-
+| {{dts|2021|01|format=y}} || ''[[Idoly Pride]]'' || Yū Suzumura || || <ref>{{cite news|url=https://www.animenewsnetwork.com/news/2019-12-09/idoly-pride-multimedia-project-gets-tv-anime/.154149|title=Idoly Pride Multimedia Project Gets TV Anime|work=[[Anime News Network]]|date=December 9, 2019|access-date=December 9, 2019}}</ref>
+|-
+| {{dts|2022|01|format=y}} || ''[[Akebi's Sailor Uniform]]'' || Hotaru Hiraiwa || || <ref>{{cite news|url=https://www.animenewsnetwork.com/news/2021-10-19/akebi-sailor-uniform-anime-adds-12-cast-members/.178596|title=Akebi's Sailor Uniform Anime Adds 12 Cast Members|work=[[Anime News Network]]|date=October 19, 2021|access-date=October 19, 2021}}</ref>
+|-
+|}
+
+===Films===
+{| class="wikitable sortable plainrowheaders"
+|+ List of voice performances in feature films 
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+! class="unsortable" | Source<ref name="profile"/>
+|-
+| {{dts|2014|01|25|format=y}} || ''[[The Idolmaster Movie: Beyond the Brilliant Future!]]'' || Serika Hakozaki || || <ref name="vadb"/><ref name=":1">{{Cite web|url=http://www.famitsu.com/news/201311/02042664.htm|title=ゲーム新作『アイドルマスター ワンフォーオール』＆劇場版新情報、さらにSSAライブ出演者情報など盛りだくさんの内容をお届け 【PV映像配信】|date=November 2013|access-date=July 11, 2015|publisher=[[Famitsu]]|language=ja}}</ref>
+|-
+| {{dts|2015|06|13|format=y}} || ''[[Love Live! The School Idol Movie]]'' || School idol || || <ref name="vadb"/>
+|-
+| {{dts|2016|04|23|format=y}} || ''[[Zutto Mae Kara Suki Deshita|Zutto Mae Kara Suki Deshita: Kokuhaku Jikkou Iinkai]]'' || Hina Setoguchi || || <ref name="vadb"/>
+|-
+| {{dts|2016|12|17|format=y}} || ''[[Suki ni Naru Sono Shunkan o: Kokuhaku Jikkō Iinkai]]'' || Hina Setoguchi || || <ref name="vadb"/>
+|-
+| {{dts|2020|format=y}} || ''[[High School Fleet|High School Fleet the Movie]]'' || Mikan Irako || || <ref name="vadb"/>
+|-
+| {{dts|2020|format=y}} || ''[[The Island of Giant Insects]]'' || Miura Mami || ||
+|}
+
+===Video games===
+{| class="wikitable sortable plainrowheaders"
+|+ List of voice performances in video games
+! Year
+! Title
+! Role
+! class="unsortable" | Notes
+! class="unsortable" | Source<ref name="profile"/>
+|-
+| {{dts|2012|10|29|format=y}} || ''[[Girl Friend Beta]]'' || Yuki Hanafusa || [[iOS]], [[Android (operating system)|Android]] || <ref name="vadb"/>
+|-
+| {{dts|2013|02|07|format=y}} || ''[[The Idolmaster#Social network games and spin-offs|The Idolmaster Million Live!]]'' || Serika Hakozaki || iOS, Android || <ref name="vadb"/><ref name="doi"/><ref name=":1"/>
+|-
+| {{dts|2014|05|15|format=y}} || ''[[The Idolmaster One For All]]'' || Serika Hakozaki || [[PS3]] || <ref name=":1"/>
+|-
+| {{dts|2014|06|26|format=y}} || ''[[Freedom Wars]]'' || Anne "Charm" Vito || [[PS Vita]] || <ref>{{Cite web|title=フリーダムウォーズ {{!}} プレイステーション® オフィシャルサイト|url = http://www.jp.playstation.com/scej/title/freedomwars/001/character/character.html|website=フリーダムウォーズ {{!}} プレイステーション® オフィシャルサイト|access-date=July 11, 2015|publisher=Sony Japan|language=ja}}</ref>
+|-
+| {{dts|2015|04|01|format=y}} || ''School Fanfare'' || Kotone Genshouin || iOS, Android || <ref>{{Cite web|publisher=Ameba|url=http://lp.mg.amebagames.com/staff-cast.html|title=Staff&Cast|access-date=2014-12-19|archive-url=https://web.archive.org/web/20150323062433/https://lp.mg.amebagames.com/staff-cast.html|archive-date=2015-03-23|url-status=dead}}</ref>
+|-
+| {{dts|2017|06|29|format=y}} || ''The Idolmaster: Million Live! Theater Days'' || Serika Hakozaki || iOS, Android ||
+|-
+| {{dts|2017|08|22|format=y}} || ''[[Magia Record: Puella Magi Madoka Magica Side Story]]'' || Iroha Tamaki || iOS, Android || <ref>{{cite web|script-title=ja:登場人物 &#124; 「マギアレコード 魔法少女まどか☆マギカ外伝」公式サイト|trans-title=Characters &#124; Magia Record Magical Girl Madoka ☆ Magica Gaiden Official Website|url=http://magireco.com/character/|access-date=January 28, 2019|language=ja}}</ref>
+|-
+| {{dts|2018|09|27|format=y}} || ''[[Dragalia Lost]]'' || Daikokuten || iOS, Android || 
+|-
+|}
+
+==Discography==
+
+===Albums===
+{| class="wikitable plainrowheaders"
+|+ List of albums, with selected chart positions
+! rowspan=2; style="width:7em;" | Title<ref name="songs-title"/>
+! rowspan=2; style="width:20em;" | Album details<ref name="songs-title"/>
+! colspan=2  style="width:12em;" | Catalogue No.
+! colspan=2; style="width:8em;"  | [[Oricon]]<ref name="albums-charts"/>
+|-
+! style="width:6em;" | Regular<br>edition
+! style="width:6em;" | Limited<br>edition
+! style="width:4em;" | Peak<br>position
+! style="width:4em;" | Weeks<br>charted
+|-
+| align="center" | ''Peachy!''
+|
+* Released: October 3, 2018
+* Label: Music Ray'n
+* Format: [[CD]], CD + [[DVD]], CD + [[Blu-ray]], [[Music download|digital download]]
+| align="center" | SMCL-565
+| align="center" | SMCL-561/2<br/>(CD+DVD)<br/>SMCL-563/4<br/>(CD+Blu-ray)
+| align="center" | 6 
+| align="center" | 4
+|-
+| align="center" | ''Agapanthus''
+|
+* Released: April 8, 2020
+* Label: Music Ray'n
+* Format: CD, CD + DVD, CD + Blu-ray, digital download
+| align="center" | SMCL-655
+| align="center" | SMCL-650/1<br/>(CD+DVD)<br/>SMCL-653/4<br/>(CD+Blu-ray)
+| align="center" | 5
+| align="center" | 1
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+ List of singles, with selected chart positions
+! rowspan=2; style="width:2em;"  | Release date
+! rowspan=2; style="width:7em;"  | Title<ref name="songs-title"/>
+! rowspan=2; style="width:6em;"  | Catalogue No.<br>(Regular edition)
+! colspan=2; style="width:8em;"  | [[Oricon]]<ref name="singles-charts"/>
+! rowspan=2; style="width:6em;"  | Album
+! rowspan=2; style="width:10em;" | Notes
+|-
+! style="width:4em;" | Peak<br>position
+! style="width:4em;" | Weeks<br>charted
+|-
+| November 2, 2016 || align=left | {{nihongo|"Ashita wa Kimi to."|明日は君と。}} || SMCL-456 || 8 || 7 || rowspan="4" | ''Peachy!'' || align=left | Insert song for ''[[Suki ni Naru Sono Shunkan o: Kokuhaku Jikkō Iinkai]]''
+|-
+| June 7, 2017 || align=left | {{nihongo|"Tokubetsu Ichiban!!"|トクベツいちばん!!}} || SMCL-485 || 11 || 4 || align=left | 1st opening theme song for ''[[PriPri Chi-chan!!]]''
+|-
+| November 1, 2017 || align=left | {{nihongo|"Colorful"|カラフル}} || SMCL-517 || 7 || 3 || align=left | 3rd opening theme song for ''PriPri Chi-chan!!''
+|-
+| August 22, 2018 || align=left | {{nihongo|"Pumpkin Meat Pie"|パンプキン・ミート・パイ}} || SMCL-554 || 11 || 3 || rowspan="2" {{N/A}}
+|-
+| February 13, 2019 || align=left | "365×LOVE" || SMCL-593 || 14 || 1 || rowspan="3" | ''Agapanthus''
+|-
+| May 22, 2019 || align=left | {{nihongo|"Smash Drop"|スマッシュ・ドロップ}} || SMCL-602 || 6 || 1 || align=left | 3rd ending theme song for ''[[Puzzle & Dragons|PazuDora]]''
+|-
+| September 4, 2019 || align=left | {{nihongo|"Yume Cinderella"|ユメシンデレラ}} || SMCL-616 || 15 || 1 || align=left | Ending theme song for ''[[O Maidens in Your Savage Season]]''
+|}
+
+== References ==
+{{Reflist|refs=
+<ref name="yahoo">{{Cite web
+| title=麻倉もも - Yahoo!検索（人物）
+| url=http://talent.yahoo.co.jp/pf/detail/pp547101|website=Yahoo!検索（人物）
+| access-date=2015-07-11
+| language=ja
+| url-status=dead
+| archive-url=https://web.archive.org/web/20160304093637/http://talent.yahoo.co.jp/pf/detail/pp547101|archive-date=2016-03-04
+}}
+</ref>
+
+<ref name="profile">{{cite web
+| url = http://musicrayn.com/asakura_momo
+| title = Official agency profile
+| access-date = January 28, 2019
+| publisher = Music Ray'n
+| language = ja}}
+</ref>
+
+<ref name="vadb">{{cite web
+| url = http://gph.sakura.ne.jp/va_memo/system/vadb.cgi?action=view_ind&value=05141&namecode=0
+| title = 麻倉もも (Momo Asakura)
+| website = Voice Artist Database
+| publisher = GamePlaza-HARUKA-
+| access-date = January 28, 2019
+| language = ja}}
+</ref>
+
+<ref name="doi">{{cite web
+| url = http://www.usagi.org/doi/seiyuu/asakura-momo/roles.html
+| title = Asakura Momo roles | work = Hitoshi Doi's Seiyuu Database
+| access-date = February 23, 2019
+| last = Doi | first = Hitoshi | author-link = Hitoshi Doi}}
+</ref>
+
+<ref name="songs-title">{{cite web 
+| url = http://www.sonymusic.co.jp/artist/asakuramomo/discography/
+| title = Momo Asakura discography
+| website = Official website
+| publisher = Sony Japan
+| access-date = January 28, 2019
+| language = ja}}
+</ref>
+
+<ref name="singles-charts">{{cite web 
+| script-title = ja:麻倉ももシングル売上ランキング
+| trans-title = Momo Asakura single sales rankings 
+| url = https://www.oricon.co.jp/prof/592571/rank/single/
+| publisher = Oricon
+| access-date = January 28, 2019
+| language = ja}}
+</ref>
+
+<ref name="albums-charts">{{cite web 
+| script-title = ja:麻倉ももアルバム売上ランキング
+| trans-title = Momo Asakura album sales rankings 
+| url = https://www.oricon.co.jp/prof/592571/rank/album/
+| publisher = Oricon
+| access-date = January 28, 2019
+| language = ja}}
+</ref>
+}}
+
+== External links ==
+* {{Official website|http://ameblo.jp/asakuramomoblog/|Official blog}} {{in lang|ja}}
+* {{Official website|http://www.sonymusic.co.jp/artist/asakuramomo/}} {{in lang|ja}}
+* {{Official website|http://musicrayn.com/asakura_momo|Official agency profile}} {{in lang|ja}}
+* {{ann|people|119745}}
+* {{Official website|http://www.oricon.co.jp/prof/592571/|name=Momo Asakura}} at [[Oricon]] {{in lang|ja}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Asakura, Momo}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Anime singers]]
+[[Category:Japanese women pop singers]]
+[[Category:Japanese video game actresses]]
+[[Category:Japanese voice actresses]]
+[[Category:Musicians from Fukuoka Prefecture]]
+[[Category:Voice actresses from Fukuoka Prefecture]]
+[[Category:21st-century Japanese actresses]]
+[[Category:21st-century Japanese singers]]
+[[Category:21st-century Japanese women singers]]

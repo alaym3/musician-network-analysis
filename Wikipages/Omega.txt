@@ -1,0 +1,192 @@
+{{short description|Last letter of the Greek alphabet}}
+{{redirect|Ω|the unit of electrical resistance|Ohm}}
+{{Other uses}}
+{{more citations needed|date=December 2014}}
+{{Use dmy dates|date=July 2021}}
+{{Greek Alphabet|letter=omega}}
+'''Omega''' ({{IPAc-en|ˈ|oʊ|m|ɪ|ɡ|ə|,_|oʊ|ˈ|m|iː|ɡ|ə|,_|oʊ|ˈ|m|ɛ|ɡ|ə|,_|oʊ|ˈ|m|eɪ|ɡ|ə}};<ref>{{OED|omega}}</ref><ref>https://www.dictionary.com/browse/omega</ref> [[capital letter|capital]]: '''Ω''', [[lower case|lowercase]]: '''ω'''; [[Ancient Greek]] ὦ, later ὦ μέγα, [[Modern Greek]] ωμέγα) is the 24th and last letter in the [[Greek alphabet]]. In the [[Greek numerals|Greek numeric system]]/[[isopsephy]] ([[gematria]]), it has a value of 800. The word literally means "great&nbsp;O" (''ō mega'', mega meaning "great"), as opposed to [[omicron]], which means "little&nbsp;O" (''o mikron'', micron meaning "little").<ref>[http://www.quinapalus.com/gr0.1.html The Greek Alphabet]</ref>
+
+In [[Phonetics|phonetic]] terms, the Ancient Greek Ω is a [[vowel length|long]] [[open-mid back rounded vowel|open-mid ''o'']] {{IPA|[ɔː]}}, comparable to the vowel of [[English language|English]] ''raw''{{Clarify|date=November 2021}}. In [[Modern Greek]], Ω represents the [[mid<!-- not close-mid, see Arvanti (1999) - Illustrations of the IPA: Modern Greek. --> back rounded vowel]] {{IPA|/o̞/, the same sound as [[omicron]]. The letter omega is [[transcription (linguistics)|transcribed]] ''ō'' or simply ''o''.
+
+As the final letter in the Greek alphabet, omega is often used to denote the last, the end, or the ultimate limit of a [[set theory|set]], in contrast to [[Alpha (letter)|alpha]], the first letter of the Greek alphabet; see [[Alpha and Omega]].
+
+==History==
+Ω was not part of the early (8th century BC) [[Archaic Greek alphabets|Greek alphabets]]. It was introduced in the late 7th century BC in the Ionian cities of Asia Minor to denote a [[vowel length|long]] [[open-mid back rounded vowel]] {{IPA|[ɔː]}}. It is a variant of omicron (Ο), broken up at the side ([[File:Greek Omega 09.svg|x16px]]), with the edges subsequently turned outward ({{GrGl|Omega 09}}, {{GrGl|Omega 05}}, {{GrGl|Omega 03}}, {{GrGl|Omega 07}}).<ref name=Jeffery37f>Anne Jeffery (1961), ''The local scripts of archaic Greece'', p.37–38.</ref>
+The Dorian city of [[Knidos]] as well as a few Aegean islands, namely [[Paros]], [[Thasos]] and [[Melos]], chose the exact opposite innovation, using a broken-up circle for the short and a closed circle for the long {{IPA|/o/}}.<ref name=Jeffery37f/>
+
+The name Ωμέγα is [[Medieval Greek|Byzantine]]; in [[Ancient Greek|Classical Greek]], the letter was called ''ō'' ({{lang|grc|ὦ}}), whereas the omicron was called ''ou'' ({{lang|grc|οὖ}}).<ref>Herbert Weir Smyth. ''A Greek Grammar for Colleges''. §1</ref> 
+The modern lowercase shape goes back to the [[uncial]] form [[File:Greek uncial Omega.svg|x14px]], a form that developed during the 3rd century BC in ancient handwriting on papyrus, from a flattened-out form of the letter ([[File:Greek Omega 08.svg|x16px]]) that had its edges curved even further upward.<ref>Edward M. Thompson (1912), ''Introduction to Greek and Latin paleography'', Oxford: Clarendon. p.144</ref>
+
+In addition to the Greek alphabet, Omega was also adopted into the [[early Cyrillic alphabet]]. See [[omega (Cyrillic)|Cyrillic omega]] (Ѡ, ѡ). A [[Raetic alphabet|Raetic]] variant is conjectured to be at the origin or parallel evolution of the [[Elder Futhark]] [[ᛟ]].
+
+Omega was also adopted into the Latin alphabet, as a letter of the 1982 revision to the [[African reference alphabet]]. It has had little use. See [[Latin omega]].
+
+== The symbol Ω (uppercase letter) ==
+[[File:Kos città, piazza eleftherias, edificio razionalista, targa.JPG|thumb|Plaque in [[Kos]] with "underlined O" form of omega.]]
+The [[upper case|uppercase]] letter Ω is used as a symbol:
+* In [[chemistry]]:
+** For [[oxygen-18]], a natural, stable isotope of oxygen.<ref name="geoENV2012">{{cite web|last1=Capilla|first1=José E.|last2=Arevalo|first2=Javier Rodriguez|last3=Castaño|first3=Silvino Castaño|last4=Teijeiro|first4=María Fé Díaz|last5=del Moral|first5=Rut Sanchez|last6=Diaz|first6=Javier Heredia|title=Mapping Oxygen-18 in Meteoric Precipitation over Peninsular Spain using Geostatistical Tools|url=http://www.cedex.es/NR/rdonlyres/B8A9522A-5D6F-4675-921A-24BB8458187B/124720/Capilla_et_al_geoENV_2012_Valencia_Espa%C3%B1a_Extended.pdf|website=cedex.es|publisher=Ninth Conference on Geostatistics for Environmental Applications|access-date=8 May 2017|location=Valencia, Spain|date=19 September 2012}}</ref>
+* In [[physics]]:
+** For [[ohm]] – SI unit of electrical resistance; formerly also used upside down (℧) to represent [[mho]], the old name for the inverse of an ohm (now siemens with symbol S) used for electrical conductance. Unicode has a separate code point for the ohm sign (U+2126, Ω), but it is included only for backward compatibility, and the Greek uppercase omega character (U+03A9, Ω) is preferred.<ref>Excerpts from ''[https://www.unicode.org/versions/Unicode4.0.0/ch07.pdf#search=%22character%20U%2B2126%20maps%20OR%20map%20OR%20mapping%22 The Unicode Standard, Version 4.0]''. Retrieved 11 October 2006.</ref>
+** In [[statistical mechanics]], Ω refers to the multiplicity (number of microstates) in a system.
+** The [[solid angle]] or the rate of precession in a gyroscope.
+** In particle physics to represent the [[Omega baryon]]s.
+** In astronomy (cosmology), Ω refers to the density of the universe, also called the [[density parameter]].
+** In astronomy (orbital mechanics), Ω refers to the [[longitude of the ascending node]] of an orbit.
+*In [[mathematics]] and [[computer science]]:
+** In complex analysis, the [[Omega constant]], a solution of Lambert's W function
+** In differential geometry, the space of [[differential form]]s on a [[manifold]] (of a certain degree, usually with a superscript).
+** A variable for a 2-dimensional region in calculus, usually corresponding to the domain of a double integral.
+** In topos theory, the (codomain of the) [[subobject classifier]] of an elementary topos.
+** In [[combinatory logic#Undecidability of combinatorial calculus|combinatory logic]], the looping combinator, ''(S I I (S I I))''
+** In group theory, the [[omega and agemo subgroup]]s of a ''p''-group, Ω(''G'') and ℧(''G'')
+** In group theory, [[Cayley's Ω process]] as a partial differential operator.
+** In statistics, it is used as the symbol for the [[sample space]], or total set of possible outcomes.
+** In [[number theory]], Ω(''n'') is the number of [[prime divisor]]s of ''n'' (counting [[Multiplicity (mathematics)|multiplicity]]).<ref>{{Cite web|last=Weisstein|first=Eric W.|title=Prime Factor|url=https://mathworld.wolfram.com/PrimeFactor.html|access-date=2020-08-12|website=mathworld.wolfram.com|language=en}}</ref>
+** In notation related to [[Big O notation]] to describe the asymptotic behavior of functions.
+** [[Chaitin's constant]].
+**In [[set theory]], the [[Ordinal number|first infinite ordinal number]], ω
+** In [[set theory]], the [[first uncountable ordinal|first uncountable ordinal number]], ω<sub>1</sub> or Ω
+*As part of logo or trademark:
+** The logo of [[Omega Watches]] SA.
+** Part of the original [[Pioneer Corporation|Pioneer]] logo.
+** Part of the [[Supreme Court of the United Kingdom|Badge of the Supreme Court]] of the United Kingdom.
+** Part of the mission patch for [[STS-135]], as it was the last mission of the Space Shuttle program.
+** The logo of the ''[[God of War (franchise)|God of War]]'' video game series based on Greek mythology. In God of War (2018), it is revealed it stands as the symbol of war in Greece. 
+** The logo of [[E-123 Omega]], a ''[[Sonic the Hedgehog (series)|Sonic the Hedgehog]]'' character.
+** The logo of the [[Heroes of Olympus]] series, based on Greek mythology.
+** the logo of the [[Space Marines (Warhammer 40,000)|Ultramarines]] in ''[[Warhammer 40,000]]''
+** The logo of Primal Groudon, the version mascot of ''[[Pokémon Omega Ruby]]''.
+** The logo of [[Darkseid]] in DC comics
+** One of the logos of professional wrestler [[Kenny Omega]]
+** The logo for [[Meow Wolf]]'s [[Omega Mart]] in Area15, Las Vegas, Nevada.
+** The logo for AMPLY Power’s Omega™ Charge Management System.
+*Other  
+** The symbol of the resistance movement against the Vietnam-era draft in the United States
+** Year or date of death
+** In [[eschatology]], the symbol for the end of everything
+**In [[molecular biology]], the symbol is used as shorthand to signify a genetic construct introduced by a [[Crossover (genetic algorithm)#Two-point crossover|two-point crossover]]
+** Omega Particle in the Star Trek universe
+** The final form of NetNavi bosses in some of the ''[[Mega Man Battle Network]]'' games
+** The personal symbol for Death, as worn by Death in the Discworld series by Terry Pratchett
+** The symbol to represent Groudon in ''[[Pokémon Omega Ruby and Alpha Sapphire]]''
+** A secret boss in the ''[[Final Fantasy]]'' series called Omega ( Ω ) Weapon.
+** A character from the series ''[[Doctor Who]]'' called Omega, believed to be one of the creators of the Time Lords of Gallifrey.
+** The symbol for the highest power level of a [[Psionics|PSI]] attack in the ''[[MOTHER]]/[[EarthBound]]'' games
+
+== The symbol ω (lower case letter) ==
+
+The [[lower case|minuscule]] letter ω is used as a symbol:
+* Biology, biochemistry and chemistry:
+** In [[biochemistry]], for one of the [[RNA polymerase]] subunits
+** In biochemistry, for the dihedral angle associated with the peptide group, involving the backbone atoms Cα-C'-N-Cα
+** In biology, for [[Fitness (biology)|fitness]]
+** In [[chemistry]], for denoting the carbon atom furthest from the [[carboxyl group]] of a [[fatty acid]]
+** In [[genomics]], as a measure of [[molecular evolution]] in protein-coding genes (also denoted as d<sub>N</sub>/d<sub>S</sub> or [[Ka/Ks ratio|K<sub>a</sub>/K<sub>s</sub> ratio]])
+* Physics
+**[[Angular velocity]] or [[angular frequency]]
+** In [[computational fluid dynamics]], the specific turbulence dissipation rate
+** In [[meteorology]], the change of pressure with respect to time of a [[Fluid parcel|parcel]] of air
+** In [[circuit analysis]] and [[signal processing]] to represent [[natural frequency]], related to [[frequency]] ''f'' by ω = 2π''f''
+** In [[astronomy]], as a ranking of a star's brightness within a constellation
+** In [[orbital mechanics]], as designation of the [[argument of periapsis]] of an orbit
+** In [[particle physics]] to represent the [[Meson|omega meson]]
+* Computer science:
+** In notation related to [[Big O notation]], the [[asymptotical dominance|asymptotically dominant]] nature of [[function (mathematics)|function]]s
+** In [[relational database]] theory to represent [[Null (SQL)|NULL]], a missing or inapplicable value
+** In [[APL (programming language)|APL]], to represent the right parameter to a function
+*Mathematics:
+** The first and smallest [[transfinite number|transfinite]] [[ordinal number]], often identified with the set of natural numbers including 0 (sometimes written <math>\omega_0</math>)
+** In [[set theory]], ω<sub>1</sub> is the [[first uncountable ordinal|first uncountable ordinal number]]<ref>{{Cite web|title=first uncountable ordinal in nLab|url=https://ncatlab.org/nlab/show/first+uncountable+ordinal|access-date=2020-08-12|website=ncatlab.org}}</ref> (also sometimes written as Ω)
+** A primitive [[roots of unity|root of unity]], like the complex cube roots of 1
+** The [[Wright Omega function]]
+** A generic [[differential form]]
+** In [[number theory]], ω(''n'') is the number of distinct [[prime divisor]]s of ''n''
+** In [[number theory]], an [[arithmetic function]]
+** In [[combinatory logic]], the self-application combinator, ''(λ x. x x)''
+** In mathematical/options finance, the elasticity of financial options
+** In analytical investment management, the [[tracking error]] of an investment manager
+** [[Clique number]] in [[Graph theory]]
+* Other:
+** Used in place of [[N (kana)|ん]] in Japanese typing shorthand.
+** In [[linguistics]], the [[phonological word]]
+** In [[textual criticism]], the [[archetype]] of a manuscript tradition
+** In [[sociology]], used to refer to the lowest ranking member of a group<ref>{{Cite web|title=Definition of Omega Male, BuzzWord from Macmillan Dictionary|url=https://www.macmillandictionary.com/buzzword/entries/omega-male.html|access-date=2021-02-10|website=macmillandictionary.com|language=en}}</ref>
+** In [[shift_JIS art]], used to represent the cat's mouth. (e.g. (´･ω･`) ｼｮﾎﾞｰﾝ)
+** In [[actuarial sciences]], used to represent the maximum life span that characterizes a [[mortality table]]
+
+==Character encodings==
+
+===Greek omega/Coptic oou===
+
+{{charmap
+|03A9|name1=Greek Capital Letter Omega
+|03C9|name2=Greek Small Letter Omega
+|2CB0|name3=Coptic Capital Letter Oou
+|2CB1|name4=Coptic Small Letter Oou
+|map2=DOS Greek|map2char1=97|map2char2=E0
+|map3=DOS Greek-2|map3char1=D5|map3char2=FA
+|map4=Windows 1253|map4char1=D9|map4char2=F9
+|namedref1=[[TeX]]|ref1char1=\Omega|ref1char2=\omega
+}}
+<ref>Unicode Code Charts: [https://www.unicode.org/charts/PDF/U0370.pdf Greek and Coptic (Range: 0370-03FF)]</ref>
+
+===Cyrillic omega===
+
+{{charmap
+|0460|name1=Cyrillic Capital Letter Omega
+|0461|name2=Cyrillic Small Letter Omega
+|A67B|name3=Combining Cyrillic Letter Omega
+}}
+
+{{charmap
+|047A|name1=Cyrillic Capital Letter Round Omega
+|047B|name2=Cyrillic Small Letter Round Omega
+|A64C|name3=Cyrillic Capital Letter Broad Omega
+|A64D|name4=Cyrillic Small Letter Broad Omega 
+}}
+
+===Latin/[[International Phonetic Alphabet|IPA]] omega===
+
+{{charmap
+|0277|name1=Latin Small Letter Closed Omega
+|A7B6|name2=Latin Capital Letter Omega
+|A7B7|name3=Latin Small Letter Omega
+}}
+
+===Technical omega symbols===
+
+{{charmap
+|2375|name1=APL Functional Symbol Omega
+|2379|name2=APL Functional Symbol Omega Underbar
+|2126|name3=Ohm Sign
+|2127|name4=Inverted Ohm Sign
+}}
+
+===Mathematical omega===
+
+{{charmap
+|1D6C0|name1=Mathematical Bold<br />Capital Omega
+|1D6DA|name2=Mathematical Bold<br />Small Omega
+|1D6FA|name3=Mathematical Italic<br />Capital Omega
+|1D714|name4=Mathematical Italic<br />Small Omega
+|1D734|name5=Mathematical Bold Italic<br />Capital Omega
+|1D74E|name6=Mathematical Bold Italic<br />Small Omega
+}}
+
+{{charmap
+|1D76E|name1=Mathematical Sans-Serif<br />Bold Capital Omega
+|1D788|name2=Mathematical Sans-Serif<br />Bold Small Omega
+|1D7A8|name3=Mathematical Sans-Serif<br />Bold Italic Capital Omega
+|1D7C2|name4=Mathematical Sans-Serif<br />Bold Italic Small Omega
+}}
+
+These characters are used only as mathematical symbols. Stylized Greek text should be encoded using the normal Greek letters, with markup and formatting to indicate the style of the text.
+
+== Notes ==
+{{Commons category}}
+{{Wiktionary|Ω|ω}}
+<references />
+
+[[Category:Greek letters]]
+[[Category:Vowel letters]]

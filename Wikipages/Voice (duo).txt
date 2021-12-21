@@ -1,0 +1,34 @@
+{{short description|Cypriot music duo}}
+{{unreferenced|date=December 2020}}
+{{Infobox musical artist <!-- See WP:WikiProject Musicians -->
+| name            = Voice
+| image           =  
+| caption         = 
+| image_size      =
+| background      = group_or_band
+| alias           = Alexandros and Christina
+| origin          = [[Cyprus]]
+| genre           = 
+| years_active    = 2000
+| label           = 
+| associated_acts = 
+| website         = 
+| current_members = 
+| past_members    = Christina Argyri <br> [[Alexandros Panayi]]
+}}
+'''Voice''' also known as '''Alexandros and Christina''' was a Cypriot musical duo made up of Christina Argyri and [[Alexandros Panayi]]. The duo represented Cyprus in [[Eurovision Song Contest 2000|2000 Eurovision Song Contest]] with the song "[[Nomiza]]" ([[Greek alphabet|Greek script]]: Νόμιζα, [[English language|English]] translation: "I Believed").
+
+{{s-start}}
+{{succession box
+| before=[[Marlen Angelidou]]<br>with ''[[Tha'nai Erotas]]''
+| title=[[Cyprus in the Eurovision Song Contest]]
+| years=2000
+| after=[[One (band)|One]]<br>with ''[[Gimme (One song)|Gimme]]''
+}}
+{{s-end}}
+{{Cyprus in the Eurovision Song Contest|state=collapsed}}
+{{Eurovision Song Contest 2000|state=collapsed}}
+{{Authority control}}
+
+[[Category:Musical duos]]
+[[Category:Cypriot musical groups]]

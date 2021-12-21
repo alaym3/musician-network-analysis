@@ -1,0 +1,552 @@
+{{Use dmy dates|date=July 2020}}
+{{ infobox person
+| name = Édouard Baer
+| image = Edouard Baer Cabourg 2018.jpg
+| caption = Édouard Baer in 2018 at the [[Cabourg Film Festival]].
+| birth_date = {{birth date and age|1966|12|1|df=y}}
+| birth_place = Paris, France
+| occupation = Actor, director, screenwriter, producer
+| years_active = 1987–present
+}}
+'''Édouard Baer''' (born 1 December 1966) is a French actor, director, screenwriter, film producer and radio personality.<ref name="PallisterHottell2005">{{cite book|last1=Pallister|first1=Janis L.|last2=Hottell|first2=Ruth A.|title=Francophone women film directors: a guide|url=https://books.google.com/books?id=P15tyiOSRz0C&pg=PA79|access-date=25 September 2011|year=2005|publisher=Fairleigh Dickinson Univ Press|isbn=978-0-8386-4046-3|pages=79–}}</ref><ref>{{Cite web|title=Edouard Baer|url=http://www.imdb.com/name/nm0046347/|access-date=2021-01-12|website=IMDb}}</ref>
+
+In 2009, he participated in the French television programme ''[[Rendez-vous en terre inconnue]]''. On 5 March 2015 he appeared with [[Sandrine Kiberlain]] on the cover of ''[[Paris Match]]'' .<ref>{{cite web|url=http://www.lexpress.fr/styles/vip/sandrine-kiberlain-et-edouard-baer-en-couple_1658546.html#xWvH1wT23fIMtIRm.99|title=Sandrine Kiberlain et Edouard Baer en couple|last=Dormoy|first=Géraldine|date=6 March 2015|website=L'Express|language=fr}}</ref>
+
+==Theatre==
+{| class="wikitable"
+! Year
+! Title
+! Author
+! Director
+! Notes
+|-
+| 1997
+| ''Le Goût de la hiérarchie''
+| Édouard Baer
+| Édouard Baer
+| 
+|-
+| 2000–2001
+| ''[[Cravate club]]''
+| Fabrice Roger-Lacan
+| [[Isabelle Nanty]]
+| [[Molière Award]] for Best Male Newcomer
+|-
+| 2002–2004
+| ''Le Grand Mezze''
+| Édouard Baer & [[François Rollin]]
+| Édouard Baer & [[François Rollin]] 
+| 
+|-
+| 2006
+| ''La Folle et Véritable Vie de Luigi Prizzoti''
+| Édouard Baer
+| Édouard Baer 
+| [[2nd Globes de Cristal Award|Globe de Cristal Award for Best One Man Show]]
+|-
+| 2007–2008
+| ''Looking for Mr Castang''
+| Édouard Baer
+| Édouard Baer 
+| 
+|-
+| 2008–2010
+| ''Un pedigree''
+| [[Patrick Modiano]]
+| Édouard Baer
+| 
+|-
+| 2009–2010
+| ''Miam Miam''
+| Édouard Baer
+| Édouard Baer 
+| [[Globes de Cristal Award|Globe de Cristal Award for Best Play]]<br>Nominated – [[Molière Award]] for Best Comedy
+|-
+| 2012–2013
+| ''À la française''
+| Édouard Baer 
+| Édouard Baer 
+| 
+|-
+| 2014–2016
+| ''La Porte à côté''
+| Fabrice Roger-Lacan 
+| Bernard Murat
+| 
+|-
+| 2016
+| ''Un pedigree''
+| [[Patrick Modiano]]
+| Édouard Baer 
+| 
+|-
+| 2021
+| ''Les élucubrations d'un homme soudain frappé par la grâce''
+| Édouard Baer 
+| Édouard Baer 
+
+|}
+
+== Filmography ==
+===Actor===
+{| class="wikitable"
+! Year
+! Title
+! Role
+! Director
+! Notes
+|-
+| 1989
+| ''Tribunal''
+| Antoine Marin
+| Dominique Masson
+| TV Series (1 Episode)
+|-
+| rowspan=2|1994
+| ''La folie douce''
+| Edouard
+| [[Frédéric Jardin]]
+| 
+|-
+| ''Parlez après le signal sonore''
+|  
+|[[Olivier Dahan|Olivier Jahan]]
+| Short
+|-
+| rowspan=2|1995
+| ''[[Raï (1995 film)|Raï]]''
+|  
+| Thomas Gilou
+| 
+|-
+| ''Fast''
+| The second boy-friend
+| Dante Desarthe
+| 
+|-
+| rowspan=5|1996
+| ''[[The Apartment (1996 film)|The Apartment]]''
+| Theater Actor
+| [[Gilles Mimouni]]
+| 
+|-
+| ''Caméléone''
+| The art critic
+| Benoît Cohen
+| 
+|-
+| ''Velvet 99''
+| Velvet 99
+| Agnès Deygas & Thierry Kuntzel
+| Short
+|-
+| ''15 sans billets''
+|  
+| Samuel Tasinaje
+| Short
+|-
+| ''Coeur de cible''
+| Cyril Maury
+| Laurent Heynemann
+| TV Movie
+|-
+| rowspan=3|1997
+| ''[[Héroïnes]]''
+| Francis
+| [[Gérard Krawczyk]]
+| 
+|-
+| ''Qui va Pino va sano''
+| Robert Fontrobert
+| Fabrice Roger-Lacan
+| Short
+|-
+| ''L'agence Lambert''
+| Michael Lambert
+| Etienne Labroue
+| TV Series (1 Episode)
+|-
+| rowspan=3|1999
+| ''[[Terror Firmer]]''
+| French Cool Cat
+| [[Lloyd Kaufman]]
+| 
+|-
+| ''Rien sur Robert''
+| Alain de Xantras
+| [[Pascal Bonitzer]]
+| 
+|-
+| ''Chico, notre homme à Lisbonne''
+| Various
+| Édouard Baer
+| TV Short
+|-
+| rowspan=3|2000
+| ''La bostella''
+| Edouard
+| Édouard Baer 
+| 
+|-
+| ''Les frères Soeur''
+| Blaise
+| [[Frédéric Jardin]] 
+| 
+|-
+| ''La chambre des magiciennes''
+| Simon
+| [[Claude Miller]]
+| TV Movie
+|-
+| rowspan=4|2001
+| ''[[Alias Betty]]''
+| Alex Basato
+| [[Claude Miller]] 
+| Nominated – [[César Award for Best Supporting Actor]]
+|-
+| ''[[God Is Great and I'm Not]]''
+| François
+| Pascale Bailly
+| 
+|-
+| ''Demain et tous les jours après''
+| Bruno
+| [[Bernard Stora]]
+| TV Movie
+|-
+| ''La cape et l'épée''
+| The minstrel
+| Bernard Faroux
+| TV Series (1 Episode)
+|-
+| rowspan=4|2002
+| ''[[Asterix & Obelix: Mission Cleopatra]]''
+| Otis
+| [[Alain Chabat]]
+| 
+|-
+| ''[[Cravate club]]''
+| Adrien
+| [[Frédéric Jardin]] 
+| 
+|-
+| ''Edouard est marrant''
+| Edouard Baer
+| [[Riton Liebman]]
+| Short
+|-
+| ''Jean Moulin''
+| A motorcycle
+| [[Yves Boisset]]
+| TV Movie
+|-
+| rowspan=4|2003
+| ''[[The Car Keys]]''
+| Himself
+| [[Laurent Baffie]] 
+| 
+|-
+| ''Le bison (et sa voisine Dorine)''
+| Louis Le Bison
+| [[Isabelle Nanty]]
+| 
+|-
+| ''Tournez la page''
+| 
+| Sophie Leys
+| Short
+|-
+| ''Kelif et Deutsch à la recherche d'un emploi''
+| 
+| Frédéric Berthe
+| TV Series (1 Episode)
+|-
+| rowspan=4|2004
+| ''[[The Story of My Life (film)|The Story of My Life]]''
+| Raphaël Jullian
+| [[Laurent Tirard]]
+| 
+|-
+| ''À boire''
+| Pierre-Marie Archambault
+| [[Marion Vernoux]]
+| 
+|-
+| ''Double zéro''
+| The male
+| [[Gérard Pirès]] 
+| 
+|-
+| ''Milady''
+| Viscount of Wardes
+| [[Josée Dayan]]
+| TV Movie
+|-
+| rowspan=2|2005
+| ''[[How Much Do You Love Me?]]''
+| The upset man
+| [[Bertrand Blier]]
+| 
+|-
+| ''Akoibon''
+| Daniel Stain
+| Édouard Baer 
+| 
+|-
+| rowspan=2|2006
+| ''[[Les Brigades du Tigre]]''
+| Inspector Pujol
+| Jérôme Cornuau
+| 
+|-
+| ''Je pense à vous''
+| Hermann
+| [[Pascal Bonitzer]] 
+| 
+|-
+| rowspan=4|2007
+| ''[[A Girl Cut in Two]]''
+| Edouard
+| [[Claude Chabrol]]
+| 
+|-
+| ''[[Molière (2007 film)|Molière]]''
+| Dorante
+| [[Laurent Tirard]] 
+| 
+|-
+| ''J'ai toujours rêvé d'être un gangster''
+| Gino
+| [[Samuel Benchetrit]]
+| 
+|-
+| ''Crosse''
+| The drunk guy
+| Liova Jedlicki
+| Short
+|-
+| rowspan=3|2008
+| ''[[Passe-passe]]''
+| Darry Marzouki
+| [[Tonie Marshall]]
+| 
+|-
+| ''Seuls Two''
+| The priest
+| [[Ramzy Bedia]] & [[Eric Judor]]
+| 
+|-
+| ''Un monde à nous''
+| Marc
+| Frédéric Balekdjian
+| 
+|-
+| rowspan=2|2009
+| ''[[Wild Grass]]''
+| The narrator
+| [[Alain Resnais]]
+| 
+|-
+| ''[[The Barons]]''
+| Jacques
+| [[Nabil Ben Yadir]]
+| 
+|-
+| rowspan=4|2010
+| ''Une exécution ordinaire''
+| Vassilli
+| [[Marc Dugain]]
+| 
+|-
+| ''Mon pote''
+| Victor Gallien
+| [[Marc Esposito]]
+| 
+|-
+| ''HH, Hitler à Hollywood''
+| Edouard Baer
+| Frédéric Sojcher
+| 
+|-
+| ''Le grand restaurant''
+| A client
+| Gérard Pullicino
+| TV Movie
+|-
+| 2011
+| ''[[Chicken with Plums (film)|Chicken with Plums]]''
+| Azraël
+| [[Marjane Satrapi]] & [[Vincent Paronnaud]]
+| 
+|-
+| 2012
+| ''[[Asterix and Obelix: God Save Britannia]]''
+| [[Asterix (character)|Asterix]]
+| [[Laurent Tirard]] 
+| 
+|-
+| rowspan=4|2013
+| ''Cupcakes''
+| Édouard
+| [[Eytan Fox]]
+| 
+|-
+| ''Turf''
+| Freddy
+| [[Fabien Onteniente]]
+| 
+|-
+| ''Le grand retournement''
+| The trader
+| Gérard Mordillat
+| 
+|-
+| ''Les invincibles''
+| Stéphane Darcy
+| Frédéric Berthe 
+| 
+|-
+| rowspan=2|2015
+| ''[[Phantom Boy]]''
+| Alex
+| [[Jean-Loup Felicioli]] & [[Alain Gagnol]]
+| 
+|-
+| ''[[Encore heureux]]''
+| Sam Ogiel
+| [[Benoît Graffin]]
+|
+|-
+| 2016
+| ''[[Open at Night]]''
+| Luigi
+| Édouard Baer
+| 
+|-
+| 2018
+| ''[[Mademoiselle de Joncquières]]''
+| Marquis des Arcis
+| [[Emmanuel Mouret]]
+| Nominated – [[César Award for Best Actor]]
+|-
+|2018
+|Raoul Taburin
+|Hervé Figougne
+|Pierre Godeau
+|
+|-
+|2018
+|C'est quoi ton nom
+|Edouard
+|Emilie Barbault, Sarah Barbault
+|TV Series
+|-
+|2019
+|Black Snake: La légende du serpent noir
+|Henry Thouvenel
+|Thomas N'Gijol, Karole Rocher
+|
+|-
+|2019
+|La lutte des classes
+|Paul Clément
+|[[Michel Leclerc]]
+|
+|-
+|2019
+|Astro Kid
+|Buck (voice)
+|Eric Tosti
+|
+|-
+|2019
+|''Polina and the mystery of a film studio''
+|Chemist
+|Olias Barco
+|
+|-
+|2020
+|La bonne épouse
+|André Grunvald
+|[[Martin Provost]]
+|
+|-
+|2020
+|Capitaine Marleau
+|
+|[[Josée Dayan]]
+|TV Series
+|-
+|
+|Le printemps
+|
+|Santiago Amigorena
+|(rumored)
+|}
+
+===Filmmaker===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role 
+! class="unsortable" | Notes
+|-
+| 1987
+| ''Nulle part ailleurs''
+| rowspan=3|Writer
+| TV Series
+|-
+| rowspan=2|1997
+| ''Qui va Pino va sano''
+| Short
+|-
+| ''L'agence Lambert''
+| TV Series
+|-
+| 1999
+| ''Chico, notre homme à Lisbonne''
+| Director & Writer
+| TV Short
+|-
+| rowspan=2|2000
+| ''La bostella''
+| Director, Writer & Delegate producer
+| 
+|-
+| ''Les frères Soeur''
+| Writer
+| 
+|-
+| 2003
+| ''Le grand plongeoir''
+| Writer
+| TV Mini-Series
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb name|0046347}}
+
+{{Commons category|Édouard Baer}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Baer, Edouard}}
+[[Category:1966 births]]
+[[Category:Living people]]
+[[Category:Male actors from Paris]]
+[[Category:French male film actors]]
+[[Category:French male stage actors]]
+[[Category:Alumni of the Cours Florent]]
+[[Category:20th-century French male actors]]
+[[Category:21st-century French male actors]]
+[[Category:French male television actors]]
+[[Category:French film directors]]
+[[Category:French male screenwriters]]
+[[Category:French screenwriters]]
+[[Category:French film producers]]
+{{France-actor-stub}}

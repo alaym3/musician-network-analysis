@@ -1,0 +1,980 @@
+{{Use dmy dates|date=August 2021}}
+{{other uses}}
+{{pp-vandalism|small=yes}}
+{{short description|Tracked heavy armored fighting vehicle}}
+[[File:Mark I series tank.jpg|thumb|right|The first tank to engage in battle, the British [[Mark I tank]] (pictured in 1916) with the [[Solomon Joseph Solomon|Solomon]] camouflage scheme]]
+[[File:British Sherman tank Italy Dec 1943 IWM NA 9992.jpg|thumb|right|alt=A British Sherman tank in Italy during World War Two| An [[M4 Sherman]] tank in Italy in 1943 during [[WWII]].]]
+[[File:Leopard 2 A7.JPG|alt=|thumb|A [[Leopard 2]]A7 tank in Germany.]]
+
+A '''tank''' is an [[armored fighting vehicle]] intended as a primary offensive weapon in [[front-line]] [[ground combat]]. Tank designs are a balance of heavy [[firepower]], strong [[vehicle armor|armor]], and good [[battlefield]] [[mobility (military)|mobility]] provided by [[continuous track|tracks]] and a powerful engine; usually their main armament is mounted in a [[Gun turret|turret]]. They are a mainstay of modern 20th and 21st century ground forces and a key part of [[combined arms]] combat.
+
+Modern tanks are versatile mobile land [[weapons platform]]s whose main armament is a large-[[caliber]] [[tank gun]] mounted in a rotating [[gun turret]], supplemented by machine guns or other [[ranged weapon]]s such as [[anti-tank guided missile]]s or [[rocket launcher]]s. They have heavy [[vehicle armor]] which provides protection for the crew, the vehicle's munition storage, [[fuel tank]] and propulsion systems. The use of tracks rather than wheels provides improved [[operational mobility]] which allows the tank to overcome rugged terrain and adverse conditions such as mud and ice/snow better than wheeled vehicles, and thus be more flexibly positioned at advantageous locations on the battlefield. These features enable the tank to perform well in a variety of intense combat situations, simultaneously both [[offensive (military)|offensively]] (with [[direct fire]] from their powerful main gun) and [[defence (military)|defensively]] (as [[fire support]] and [[defilade]] for friendly troops due to the near invulnerability to common infantry [[small arm]]s and good resistance against most heavier weapons), all while maintaining the mobility needed to exploit changing tactical situations.<ref>[[#CITEREFvon Senger und Etterlin1960|von Senger and Etterlin (1960)]], ''The World's Armored Fighting Vehicles'', p. 9.</ref> Fully integrating tanks into modern military forces spawned a new era of combat: [[armored warfare]].
+
+Until the arrival of the [[main battle tank]], tanks were typically categorized either by [[weight class]] ([[light tank|light]], [[medium tank|medium]], [[heavy tank|heavy]] or [[superheavy tank]]s) or doctrinal purpose ([[breakthrough (military)|breakthrough-]], [[cavalry tank|cavalry-]], [[infantry tank|infantry-]], [[Cruiser tank|cruiser-]], or [[armored reconnaissance|reconnaissance]] tanks). Some being larger and very heavily armored and with large guns, while others are smaller, lightly armored, and equipped with a smaller caliber and lighter gun. These smaller tanks move over terrain with speed and agility and can perform a reconnaissance role in addition to engaging enemy targets. The smaller, faster tank would not normally engage in battle with a larger, heavily armored tank, except during a surprise [[flanking manoeuvre]].{{TOC limit|limit=4}}
+
+==Development overview==
+The modern tank is the result of a century of development from the first primitive armored vehicles, due to improvements in technology such as the internal combustion engine, which allowed the rapid movement of heavy armored vehicles. As a result of these advances, tanks underwent tremendous shifts in capability in the years since their first appearance. [[Tanks in World War I]] were developed separately and simultaneously by Great Britain and France as a means to break the deadlock of [[trench warfare]] on the [[Western Front (WWI)|Western Front]]. The first British prototype, nicknamed [[Little Willie]], was constructed at [[William Foster & Co.]] in [[Lincoln, England|Lincoln]], England in 1915, with leading roles played by Major [[Walter Gordon Wilson]] who designed the gearbox and hull, and by [[William Tritton]] of [[William Foster & Co.|William Foster and Co.]], who designed the track plates.<ref name="Tank origins">{{cite news|url=https://www.bbc.co.uk/news/uk-england-25109879|title=World War One: The tank's secret Lincoln origins|work=BBC News|date=24 February 2014|access-date=1 April 2015|url-status=live|archive-url=https://web.archive.org/web/20150913032138/http://www.bbc.co.uk/news/uk-england-25109879|archive-date=13 September 2015}}</ref> This was a prototype of a new design that would become the British Army's [[Mark I tank]], the first tank used in combat in September 1916 during the [[Battle of the Somme]].<ref name="Tank origins"/> The name "tank" was adopted by the British during the early stages of their development, as a security measure to conceal their purpose (see [[#Etymology|etymology]]). While the British and French built thousands of tanks in World War I, Germany was unconvinced of the tank's potential, and did not have enough resources, thus it built only twenty.
+
+[[Tanks of the interwar period]] evolved into the much larger and more powerful [[Tanks in World War II|designs of World War II]]. Important new concepts of armored warfare were developed; the Soviet Union launched [[Battles of Khalkhin Gol|the first mass tank/air attack at Khalkhin Gol]] ([[Nomonhan]]) in August 1939,<ref>[[#CITEREFCoox1939|Coox (1985)]], p. 579, 590, 663</ref> and later developed the [[T-34]], one of the predecessors of the [[main battle tank]]. Less than two weeks later, Germany began their large-scale armored campaigns that would become known as [[blitzkrieg]] ("lightning war") – massed concentrations of tanks combined with [[Motorized infantry|motorized]] and [[mechanized infantry]], [[artillery]] and [[air power]] designed to break through the [[front (military)|enemy front]] and collapse enemy resistance.
+
+The widespread introduction of [[high-explosive anti-tank warhead]]s during the second half of World War II led to lightweight infantry-carried anti-tank weapons such as the [[Panzerfaust]], which could destroy some types of tanks. [[Tanks in the Cold War]] were designed with these weapons in mind, and led to greatly improved armor types during the 1960s, especially [[composite armor]]. Improved engines, transmissions and suspensions allowed tanks of this period to grow larger. Aspects of gun technology changed significantly as well, with advances in shell design and aiming technology.
+
+During the [[Cold War]], the [[main battle tank]] concept arose and became a key component of modern armies.<ref name="House1984"/> In the 21st century, with the increasing role of [[asymmetrical warfare]] and the end of the Cold War, that also contributed to the increase of cost-effective [[Rocket propelled grenade|anti-tank rocket propelled grenades]] (RPGs) worldwide and its successors, the ability of tanks to operate independently has declined. Modern tanks are more frequently organized into [[combined arms]] units which involve the support of [[infantry]], who may accompany the tanks in [[infantry fighting vehicle]]s, and supported by [[reconnaissance aircraft|reconnaissance]] or [[ground-attack aircraft]].<ref>{{Citation|first=Roger| last = Trinquier |author-link=Roger Trinquier| title = Modern Warfare. A French View of Counterinsurgency |translator-first= Daniel |translator-last=Lee | quote = Pitting a traditional combined armed force trained and equipped to defeat similar military organizations against insurgents reminds one of a pile driver attempting to crush a fly, indefatigably persisting in repeating its efforts.}}{{Page needed|date=May 2012}}</ref>
+
+==History==
+{{History of the tank|state=expanded}}
+{{Main|History of the tank}}
+
+===Conceptions===
+The tank is the 20th century realization of an ancient concept: that of providing troops with mobile protection and firepower. The [[internal combustion engine]], [[armor plate]], and [[continuous track]] were key innovations leading to the invention of the modern tank.
+
+[[File:DaVinciTankAtAmboise.jpeg|thumb|left|Model of [[Leonardo da Vinci]]'s [[Leonardo's fighting vehicle|fighting vehicle]]]]
+Many sources imply that [[Leonardo da Vinci]] and [[H.G. Wells]] in some way foresaw or "invented" the tank. Leonardo's late 15th century drawings of what some describe as a "tank" show a man-powered, wheeled vehicle with cannons all around it. However the human crew would not have enough power to move it over larger distance, and usage of animals was problematic in a space so confined. In the 15th century, [[Jan Žižka]] built armored wagons containing cannons and used them effectively in several battles. The continuous [[caterpillar track|"caterpillar" track]] arose from attempts to improve the mobility of wheeled vehicles by spreading their weight, reducing ground pressure, and increasing their traction. Experiments can be traced back as far as the 17th century, and by the late nineteenth they existed in various recognizable and practical forms in several countries.
+
+It is frequently claimed that Richard Lovell Edgeworth created a caterpillar track. It is true that in 1770 he patented a "machine, that should carry and lay down its own road", but this was Edgeworth's choice of words. His own account in his autobiography is of a horse-drawn wooden carriage on eight retractable legs, capable of lifting itself over high walls. The description bears no similarity to a caterpillar track.<ref>Edgeworth, R. & E. ''Memoirs of Richard Lovell Edgeworth'', 1820, pp. 164–66</ref> Armored trains appeared in the mid-19th century, and various armored steam and petrol-engined vehicles were also proposed.
+
+The machines described in Wells' 1903 short story ''[[The Land Ironclads]]'' are a step closer, insofar as they are armor-plated, have an internal power plant, and are able to cross trenches.<ref>{{cite journal|last1=Wells|first1=H.G.|title=The Land Ironclads|journal=The Strand Magazine|date=1903|volume=23|issue=156|pages=751–69|url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015011810515;view=1up;seq=767}}</ref> Some aspects of the story foresee the tactical use and impact of the tanks that later came into being. However, Wells' vehicles were driven by steam and moved on [[pedrail wheel]]s, technologies that were already outdated at the time of writing. After seeing British tanks in 1916, Wells denied having "invented" them, writing, "Yet let me state at once that I was not their prime originator. I took up an idea, manipulated it slightly, and handed it on."<ref>{{citation |last=Wells |first=H.G. |title=War and the Future |chapter-url=http://www.gutenberg.org/files/1804/1804-h/1804-h.htm#2H_4_0011 |chapter=V. Tanks |page=1 |year=1916 |url-status=live |archive-url=https://web.archive.org/web/20130327131513/http://www.gutenberg.org/files/1804/1804-h/1804-h.htm#2H_4_0011 |archive-date=27 March 2013 }}</ref> It is, though, possible that one of the British tank pioneers, [[Ernest Swinton]], was subconsciously or otherwise influenced by Wells' tale.<ref>Harris, J.P. Men, Ideas, and Tanks. Manchester University Press, 1995. p. 38</ref><ref>Gannon, Charles E. Rumors of War and Infernal Machines: Liverpool University Press, 2003. p. 67</ref>
+
+The first combinations of the three principal components of the tank appeared in the decade before World War One. In 1903, Captain Léon René Levavasseur of the French artillery [[Levavasseur project|proposed mounting a field gun in an armored box on tracks]]. Major William E. Donohue, of the British Army's Mechanical Transport Committee, suggested fixing a gun and armored shield on a British type of track-driven vehicle.<ref>''The Devil's Chariots: The Birth and Secret Battles of the First Tanks'' John Glanfield (Sutton Publishing, 2001){{Page needed|date=May 2012}}</ref> The first [[armored car (military)|armored car]] was produced in Austria in 1904. However, all were restricted to rails or reasonably passable terrain. It was the development of a practical caterpillar track that provided the necessary independent, all-terrain mobility.
+
+In a memorandum of 1908, Antarctic explorer [[Robert Falcon Scott]] presented his view that man-hauling to the South Pole was impossible and that motor traction was needed.<ref>RF Scott (1908) ''The Sledging Problem in the Antarctic, Men versus Motors''</ref> Snow vehicles did not yet exist however, and so his engineer [[Reginald Skelton]] developed the idea of a caterpillar track for snow surfaces.<ref>Roland Huntford (2003) ''Scott and Amundsen. Their Race to the South Pole. The Last Place on Earth.'' Abacus, London, p. 224</ref> These tracked motors were built by the [[Wolseley Motors|Wolseley Tool and Motor Car Company]] in Birmingham, tested in Switzerland and Norway, and can be seen in action in [[Herbert Ponting]]'s 1911 documentary film of Scott's Antarctic [[Terra Nova Expedition]]<ref>{{cite web |url=https://www.youtube.com/watch?v=PKBttUMKND4 |title=Archived copy |access-date=23 October 2016 |url-status=live |archive-url=https://web.archive.org/web/20161003104603/https://www.youtube.com/watch?v=PKBttUMKND4 |archive-date=3 October 2016 |at=50-minute mark }}</ref>). Scott died during the expedition in 1912, but expedition member and biographer [[Apsley Cherry-Garrard]] credited Scott's "motors" with the inspiration for the British World War I tanks, writing: "Scott never knew their true possibilities; for they were the direct ancestors of the 'tanks' in France".<ref>{{cite book| last = Cherry-Garrard | first = Apsley | author-link = Apsley Cherry-Garrard| title = The Worst Journey in the World chapter 9 | publisher = Penguin Books | location = London| year = 1970| orig-year = 1922| isbn = 978-0-14-009501-2 | oclc = 16589938| title-link = The Worst Journey in the World }}</ref>{{page needed|date=March 2021}}
+
+In 1911, a Lieutenant Engineer in the Austrian Army, [[Günther Burstyn]], presented to the Austrian and Prussian War Ministries plans for a light, three-man tank with a gun in a revolving turret, the so-called [[Burstyn-Motorgeschütz]].<ref>''Gunther Burstyn'' Angwetter, D. & E. (Verlag Der Österreichischen Akademie Der Wissenschaften, 2008){{Page needed|date=May 2012}}</ref> In the same year an Australian civil engineer named [[Lancelot de Mole]] submitted a basic design for a tracked, armored vehicle to the British [[War Office]].<ref>{{cite web|url=http://nla.gov.au/nla.news-article65020239 |title=Australia To The Fore. Invention of the War Tank |publisher=Trove.nla.gov.au |date=12 February 1920 |access-date=13 May 2012}}</ref> In Russia, [[Vasiliy Mendeleev]] designed a tracked vehicle containing a large naval gun.<ref>''Russian tanks, 1900–1970 The Complete Illustrated History of Soviet Armoured Theory and Design'' John Milsom (Stackpole Books, 1971){{Page needed|date=May 2012}}</ref> All of these ideas were rejected and, by 1914, forgotten (although it was officially acknowledged after the war that de Mole's design was at least the equal to the initial British tanks). Various individuals continued to contemplate the use of tracked vehicles for military applications, but by the outbreak of the War no one in a position of responsibility in any army gave much thought to tanks.{{Citation needed|date=May 2012}}
+
+===World War I===
+[[File:Tanks of WWI.ogg|thumb|right|Film clip of World War I-era tanks]]
+{{Main|Tanks in World War I}}
+
+====United Kingdom====
+{{Quote|The direct military impact of the tank can be debated but its effect on the Germans was immense, it caused bewilderment, terror and concern in equal measure. It was also a huge boost to the civilians at home. After facing the Zeppelins, at last Britain had a wonder weapon. Tanks were taken on tours and treated almost like film stars.|David Willey, curator at [[The Tank Museum]], Bovington.<ref name="Tank origins"/>}}
+From late 1914 a small number of middle-ranking [[British Army]] officers tried to persuade the War Office and the Government to consider the creation of armored vehicles. Amongst their suggestions was the use of caterpillar tractors, but although the Army used many such vehicles for towing heavy guns, it could not be persuaded that they could be adapted as armored vehicles. The consequence was that early tank development in the United Kingdom was carried out by the [[Royal Navy]].
+[[File:British Mark V-star Tank.jpg|thumb|left|upright=1.15|British World War I Mark V* tank]]
+As the result of an approach by Royal Naval Air Service officers who had been operating armored cars on the Western Front, the [[First Lord of the Admiralty]], [[Winston Churchill]] formed the [[Landship Committee]], on 20 February 1915.<ref name="Churchill, p. 316">Churchill, p. 316</ref> The [[Director of Naval Construction]] for the Royal Navy, [[Eustace Tennyson d'Eyncourt]], was appointed to head the Committee in view of his experience with the engineering methods it was felt might be required; the two other members were naval officers, and a number of industrialists were engaged as consultants. So many played a part in its long and complicated development that it is not possible to name any individual as the sole inventor of the tank.<ref>Churchill, p. 317</ref>
+
+However leading roles were played by Lt [[Walter Gordon Wilson]] R.N. who designed the gearbox and developed practical tracks and by [[William Tritton]] whose agricultural machinery company, [[William Foster & Co.]] in [[Lincoln, Lincolnshire]], England built the [[prototype]]s.<ref name="Tank origins"/><ref>{{cite book|author=Michael Foley|title=Rise of the Tank: Armoured Vehicles and their use in the First World War|url=https://books.google.com/books?id=f2ZtBQAAQBAJ&pg=PA32|year=2014|publisher=Pen and Sword|isbn=978-1-78346-393-0|page=32|url-status=live|archive-url=https://web.archive.org/web/20180327160324/https://books.google.com/books?id=f2ZtBQAAQBAJ&pg=PA32|archive-date=27 March 2018}}</ref> On 22 July 1915, a commission was placed to design a machine that could cross a trench 4&nbsp;ft wide.<ref name="Tank origins"/> Secrecy surrounded the project with the designers locking themselves in a room at the White Hart Hotel in Lincoln.<ref name="Tank origins"/> The committee's first design, [[Little Willie]], ran for the first time in September 1915 and served to develop the form of the track but an improved design, better able to cross trenches, swiftly followed and in January 1916 the prototype, nicknamed "Mother", was adopted as the design for future tanks. The first order for tanks was placed on 12 February 1916, and a second on 21 April. Fosters built 37 (all "male"), and [[Metro-Cammell|Metropolitan Railway Carriage and Wagon Company]], of Birmingham, 113 (38 "male" and 75 "female"), a total of 150.<ref>Glanfield, Appendix 2.</ref> Production models of [[Male tank|"Male"]] tanks (armed with naval cannon and machine guns) and [[Female tank|"Females"]] (carrying only machine-guns) would go on to fight in history's first tank action at the Somme in September 1916.<ref name="Churchill, p. 316"/><ref>McMillan, N: Locomotive Apprentice at the North British Locomotive Company Ltd Glasgow Plateway Press 1992{{Page needed|date=May 2012}}</ref> Great Britain produced about 2,600 tanks of various types during the war.<ref>Glanfield, Devil's Chariots{{Page needed|date=May 2012}}</ref> The first tank to engage in battle was designated ''D1'', a British [[Mark I tank|Mark I]] Male, during the [[Battle of Flers-Courcelette]] (part of the wider [[battle of the Somme|Somme offensive]]) on 15 September 1916.<ref>Regan (1993), p. 12</ref> Bert Chaney, a nineteen-year-old signaller with the 7th London Territorial Battalion, reported that "three huge mechanical monsters such as [he] had never seen before"  rumbled their way onto the battlefield, "frightening the [[List of terms used for Germans#Jerry (pejorative)|Jerries]] out of their wits and making them scuttle like frightened rabbits."<ref>''The Mammoth Book of How it Happened'', Robinson Publishing, 2000, {{ISBN|978-1-84119-149-2}}, pp. 337–38</ref> When the news of the first use of the tanks emerged, Prime Minister [[David Lloyd George]] commented,
+
+{{quote|text=It is really to Mr Winston Churchill that the credit is due more than to anyone else. He took up with enthusiasm the idea of making them a long time ago, and he met with many difficulties. He converted me, and at the [[Ministry of Munitions]] he went ahead and made them. The admiralty experts were invaluable, and gave the greatest possible assistance. They are, of course, experts in the matter of armor plating. [[Albert Gerald Stern|Major Stern]], (formerly an officer in the Royal Naval Air Service) a business man at the Ministry of Munitions had charge of the work of getting them built, and he did the task very well. [[Ernest Swinton|Col Swinton]] and others also did valuable work.|author=David Lloyd George, 19 September 1916.<ref>"The New Armoured Cars", ''The Motor Cycle'', 21 September 1916, p. 254</ref>}}
+
+[[File:FT-17-argonne-1918.gif|thumb|left|French [[Renault FT]] tanks, here operated by the US army, pioneered the use of a fully traversable turret and served as pattern for most modern tanks.]]
+
+====France====
+Whilst several experimental machines were investigated in France, it was a colonel of artillery, [[Jean Baptiste Eugène Estienne|J.B.E. Estienne]], who directly approached the Commander-in-Chief with detailed plans for a tank on caterpillar tracks, in late 1915. The result was two largely unsatisfactory types of tank, 400 each of the [[Schneider CA1|Schneider]] and [[Saint-Chamond (tank)|Saint-Chamond]], both based on the [[Holt Tractor]].
+
+The following year, the French pioneered the use of a full 360° rotation [[gun turret|turret]] in a tank for the first time, with the creation of the [[Renault FT]] light tank, with the turret containing the tank's main armament. In addition to the traversible turret, another innovative feature of the FT was its engine located at the rear. This pattern, with the gun located in a mounted turret and the engine at the back, has become the standard for most succeeding tanks across the world even to this day.<ref>Steven J. Zaloga, ''The Renault FT Light Tank'', London 1988, p. 3</ref> The FT was the most numerous tank of the war; over 3,000 were made by late 1918.
+
+====Germany====
+Germany fielded very few tanks during [[World War I]], and started development only after encountering British tanks on the Somme.  The [[A7V]], the only type made, was introduced in March 1918. with just 20 being produced during the war.<ref>[[#Willmott2003|Willmott (2003)]], ''First World War'', p. 222</ref> The first tank ''versus'' tank action took place on 24 April 1918 at the [[Second Battle of Villers-Bretonneux]], France, when three British [[Mark IV tank|Mark IVs]] met three German [[A7V]]s. Captured British Mk IVs formed the bulk of Germany's tank forces during World War I; about 35 were in service at any one time. Plans to expand the tank programme were under way when the War ended.
+
+====Other nations====
+The United States [[Tank Corps of the American Expeditionary Force|Tank Corps]] used tanks supplied by France and Great Britain during World War I. Production of American-built tanks had just begun when the War came to an end. Italy also manufactured two [[Fiat 2000]]s towards the end of the war, too late to see service. Russia independently built and trialed two prototypes early in the War; the tracked, two-man [[Vezdekhod]] and the huge [[Tsar Tank|Lebedenko]], but neither went into production. A tracked self-propelled gun was also designed but not produced.<ref>{{cite web |url=http://vadimvswar.narod.ru/ALL_OUT/TiVOut9801/RuTLe/RuTLe008.htm |title=Легенда о русском танке |publisher=Vadimvswar.narod.ru |access-date=13 May 2012 |language=ru |url-status=dead |archive-url=https://web.archive.org/web/20130614054809/http://vadimvswar.narod.ru/ALL_OUT/TiVOut9801/RuTLe/RuTLe008.htm |archive-date=14 June 2013 }}</ref>
+
+Although tank tactics developed rapidly during the war, piecemeal deployments, mechanical problems, and poor mobility limited the military significance of the tank in World War I, and the tank did not fulfil its promise of rendering trench warfare obsolete. Nonetheless, it was clear to military thinkers on both sides that tanks in some way could have a significant role in future conflicts.<ref name = "Willmott2003">[[#Willmott2003|Willmott (2003)]], ''First World War''{{Page needed|date=May 2012}}</ref>
+
+===Interwar period===
+{{Main|Tanks of the interwar period}}
+[[File:Hotchkiss H-39.jpg|thumb|French [[Hotchkiss H35#The Char léger modèle 1935 H modifié 39|Hotchkiss H-39 light tank of 1939]]]]
+In the [[History of the tank#Between the wars|interwar period]] tanks underwent further mechanical development. In terms of tactics, [[J.F.C. Fuller]]'s doctrine of spearhead attacks with massed tank formations was the basis for work by [[Heinz Guderian]] in Germany, [[Percy Hobart]] in Britain, [[Adna R. Chaffee, Jr.]], in the US, [[Charles de Gaulle]] in France, and [[Mikhail Tukhachevsky]] in the USSR. [[B. H. Liddell Hart|Liddell Hart]] held a more moderate view that all arms – cavalry, infantry and artillery – should be mechanized and work together. The British formed the all-arms [[Experimental Mechanized Force]] to test the use of tanks with supporting forces.
+
+In the [[Second World War]] only Germany would initially put the theory into practice on a large scale, and it was their superior tactics and French blunders, not superior weapons, that made the "blitzkrieg" so successful in May 1940.<ref name="Deighton1979"/> For information regarding tank development in this period, see [[History of the tank#Between the wars|tank development between the wars]].
+
+Germany, Italy and the Soviet Union all experimented heavily with tank warfare during their clandestine and "volunteer" involvement in the [[Spanish Civil War]], which saw some of the earliest examples of successful mechanized combined arms&nbsp;—such as when [[Second Spanish Republic|Republican]] troops, equipped with Soviet-supplied tanks and supported by aircraft, eventually routed Italian troops fighting for the [[Nationalists]] in the seven-day [[Battle of Guadalajara]] in 1937.<ref>[[#TimeApril1937|Time (1937)]], ''Chewed up''</ref> However, of the nearly 700 tanks deployed during this conflict, only about 64 tanks representing the ''Franco'' faction and 331 from the ''Republican'' side were equipped with cannon, and of those 64 nearly all were [[World War I]] vintage [[Renault FT]] tanks, while the 331 Soviet supplied machines had 45mm main guns and were of 1930s manufacture.<ref>Manrique p. 311, 321, 324</ref> The balance of ''Nationalist'' tanks were machine gun armed. The primary lesson learned from this war was that machine gun armed tanks had to be equipped with cannon, with the associated armor inherent to modern tanks.
+
+The five-month-long war between the Soviet Union and the Japanese 6th Army at ''Khalkhin Gol'' ([[Nomonhan]]) in 1939 brought home some lessons{{which|date=August 2015}}. In this conflict, the Soviets fielded over two thousand tanks, to the around 73 cannon armed tanks deployed by the Japanese,<ref>Goldman p. 19</ref> the major difference being that Japanese armor were equipped with [[diesel engine|diesel]] engines as opposed to the Russian tanks equipped with petrol engines.<ref>Coox p. 300, 318, 437</ref> After General [[Georgy Zhukov]] inflicted a defeat on the Japanese 6th Army with his massed combined tank and air attack, the Soviets learned a lesson on the use of gasoline engines, and quickly incorporated those newly found experiences into their new [[T-34]] medium tank during [[World War II]].<ref>Coox 998</ref>
+
+Prior to World War II, the tactics and strategy of deploying tank forces underwent a revolution. In August 1939, Soviet General [[Georgy Zhukov]] used the combined force of tanks and airpower at [[Nomonhan]] against the Japanese 6th Army;<ref>Coox p. 579, 590, 663</ref> [[Heinz Guderian]], a tactical theoretician who was heavily involved in the formation of the first independent German tank force, said "Where tanks are, the front is", and this concept became a reality in World War II.<ref>[[#Cooper1979|Cooper and Lucas (1979)]], ''[[Panzer]]: The Armored Force of the Third Reich'', p. 9</ref> Guderian's armored warfare ideas, combined with Germany's existing doctrines of ''Bewegungskrieg'' ("[[maneuver warfare]]") and [[infiltration tactics]] from World War I, became the basis of [[blitzkrieg]] in the opening stages of World War II.
+
+===World War II===
+{{Main|Tanks in World War II}}
+[[File:Bundesarchiv Bild 146-1975-102-14A, Panzer VI (Tiger II, Königstiger).jpg|thumb|alt=A row of seven large German tanks from World War Two lined up with their long cannons pointing up at an angle, as if saluting|German Tiger II tanks of [[503rd heavy tank battalion (Germany)|''Schwere Panzer Abteilung'' 503 (s.Pz.Abt. 503) 'Feldherrnhalle']] posing in formation for a German newsreel in 1944]]
+During [[World War II]], the first conflict in which armored vehicles were critical to battlefield success, the tank and related tactics developed rapidly. Armored forces proved capable of tactical victory in an unprecedentedly short amount of time, yet new [[anti-tank]] weaponry showed that the tank was not invulnerable. During the Invasion of Poland, tanks performed in a more traditional role in close cooperation with infantry units, but in the [[Battle of France]] deep independent armored penetrations were executed by the Germans, a technique later called ''blitzkrieg''. Blitzkrieg used innovative [[combined arms]] tactics and radios in all of the tanks to provide a level of tactical flexibility and power that surpassed that of the Allied armor. The [[French Army]], with tanks equal or superior to the German tanks in both quality and quantity, employed a linear defensive strategy in which the armored cavalry units were made subservient to the needs of the infantry armies to cover their entrenchment in Belgium.<ref name = "Deighton1979">[[#Deighton1979|Deighton (1979)]], ''Blitzkrieg, From the rise of Hitler to the fall of Dunkirk''.</ref> In addition, they lacked radios in many of their tanks and headquarters,<ref>[[#CITEREFForty2004|Forty (2004)]], p. 251.</ref> which limited their ability to respond to German attacks.
+
+In accordance with blitzkrieg methods, German tanks bypassed enemy strongpoints and could radio for [[close air support]] to destroy them, or leave them to the infantry. A related development, [[motorized infantry]], allowed some of the troops to keep up with the tanks and create highly mobile combined arms forces.<ref name = "Deighton1979"/> The defeat of a major military power within weeks shocked the rest of the world, spurring tank and anti-tank weapon development.
+
+[[File:M4A4 cutaway.svg|thumb|upright=1.2|Cutaway of an [[M4 Sherman|M4A4 Sherman]] tank, the primary tank used by the United States and a number of the other western allies during the [[Second World War]].]]
+The [[North African Campaign]] also provided an important battleground for tanks, as the flat, desolate terrain with relatively few obstacles or urban environments was ideal for conducting mobile armored warfare. However, this battlefield also showed the importance of logistics, especially in an armored force, as the principal warring armies, the German [[Afrika Korps]] and the [[British Eighth Army]], often outpaced their supply trains in repeated attacks and counter-attacks on each other, resulting in complete stalemate. This situation would not be resolved until 1942, when during the [[Second Battle of El Alamein]], the Afrika Korps, crippled by disruptions in their supply lines, had 95% of its tanks destroyed<ref>{{cite book | title=The Phantom Army of Alamein | publisher=Bloomsbury | author=Stroud, Rick | year=2012 | pages=219}}</ref> and was forced to retreat by a massively reinforced [[Eighth Army (United Kingdom)|Eighth Army]], the first in a series of defeats that would eventually lead to the surrender of the remaining Axis forces in [[Tunisian Campaign|Tunisia]].
+
+[[File:Bundesarchiv Bild 101III-Merz-014-12A, Russland, Beginn Unternehmen Zitadelle, Panzer.jpg|left|thumb|[[Battle of Kursk]] was credited to be the largest tank battle ever fought, with each side deploying nearly 3,000 tanks.]]
+When Germany launched its invasion of the Soviet Union, [[Operation Barbarossa]], the Soviets had a superior tank design, the [[T-34]].<ref>[[#Zaloga1997|Zaloga ''et al.'' (1997)]]</ref> A lack of preparations for the [[Axis powers|Axis]] surprise attack, mechanical problems, poor training of the crews and incompetent leadership caused the Soviet machines to be surrounded and destroyed in large numbers. However, interference from [[Adolf Hitler]],<ref>Stolfi, ''Hitler's'' Panzer''s East''{{Page needed|date=May 2012}}</ref> the geographic scale of the conflict, the dogged resistance of the Soviet combat troops, and the Soviets' massive advantages in manpower and production capability prevented a repeat of the German successes of 1940.<ref>Deighton (1979), ''Blitzkrieg, From the rise of Hitler to the fall of Dunkirk'', p 307</ref> Despite early successes against the Soviets, the Germans were forced to up-gun their Panzer IVs, and to design and build both the larger and more expensive [[Tiger I|Tiger]] heavy tank in 1942, and the [[Panther tank|Panther]] medium tank the following year. In doing so, the ''Wehrmacht'' denied the infantry and other support arms the production priorities that they needed to remain equal partners with the increasingly sophisticated tanks, in turn violating the principle of combined arms they had pioneered.<ref name = "House1984">[[#CITEREFHouse1984|House (1984)]], ''Toward Combined Arms Warfare:A Survey of 20th Century Tactics, Doctrine, and Organization'' {{Page needed|date=May 2012}}</ref> Soviet developments following the invasion included upgunning the T-34, development of self-propelled anti-tank guns such as the [[SU-152]], and deployment of the [[IS-2]] in the closing stages of the war, with the T-34 being the most produced tank of World War II, totalling up to some 65,000 examples by May 1945.
+
+[[File:Shermans disembarking from LST at Anzio crop.jpg|thumb|[[M4 Sherman|Sherman]] tanks joining the [[U.S. Fifth Army]] forces in the beachhead at [[Anzio]] during the [[Italian Campaign (World War II)|Italian Campaign]], 1944]]
+Much like the Soviets, when entering World War II six months later (December 1941), the United States' [[mass production]] capacity enabled it to rapidly construct thousands of relatively cheap [[M4 Sherman]] medium tanks. A compromise all round, the Sherman was reliable and formed a large part of the Anglo-American ground forces, but in a tank-versus-tank battle was no match for the Panther or Tiger.<ref>[[#CITEREFCawthorne2003|Cawthorne (2003)]], ''Steel Fist: Tank Warfare 1939–45'', p. 211</ref> Numerical and logistical superiority and the successful use of combined arms allowed the Allies to overrun the German forces during the [[Invasion of Normandy|Battle of Normandy]]. Upgunned versions with the [[76 mm gun M1]] and the [[Sherman Firefly|17-pounder]] were introduced to improve the M4's firepower, but concerns about protection remained—despite the apparent armor deficiencies, a total of some 42,000 Shermans were built and delivered to the Allied nations using it during the war years, a total second only to the T-34.
+
+Tank [[Chassis|hulls]]<ref>Starry pp. 45, 79, 129, 143, 153, etc</ref> were modified to produce [[flame tank]]s, mobile [[rocket artillery]], and [[combat engineering]] vehicles for tasks including [[demining|mine-clearing]] and [[bridge|bridging]]. Specialized self-propelled guns, most of which could double as [[tank destroyer]]s, were also both developed by the Germans—with their ''[[Sturmgeschütz]]'', ''[[Panzerjäger]]'' and ''[[Jagdpanzer]]'' vehicles—and the ''[[Samokhodnaya ustanovka]]'' families of AFV's for the Soviets: such turretless, [[Casemate#Armored vehicles|casemate]]-style [[tank destroyer]]s and [[assault gun]]s were less complex, stripped down tanks carrying heavy guns, solely firing forward. The firepower and low cost of these vehicles made them attractive but as manufacturing techniques improved and larger turret rings made larger tank guns feasible, the [[gun turret]] was recognized as the most effective mounting for the main gun to allow movement in a different direction from firing, enhancing tactical flexibility.<ref name="Deighton1979"/>
+
+===Cold War===
+{{Main|Tanks in the Cold War}}
+[[File:T-72A tank on parade.jpg|thumb|upright=.9|The Cold War era Soviet [[T-72]] was the most widely deployed main battle tank across the world.<ref>{{cite book|author1=Steven J. Zaloga|author2=Michael Jerchel|author3=Stephen Sewell|title=T-72 Main Battle Tank 1974–93|url=https://books.google.com/books?id=EouHCwAAQBAJ&pg=PT3|year=2013|publisher=Bloomsbury Publishing|isbn=978-1-4728-0537-9|page=3}}</ref>]]
+
+During the [[Cold War]], tension between the [[Warsaw Pact]] countries and North Atlantic Treaty Organization ([[NATO]]) countries created an [[arms race]] that ensured that tank development proceeded largely as it had during World War II. The essence of tank designs during the Cold War had been hammered out in the closing stages of World War II. Large turrets, capable suspension systems, greatly improved engines, [[sloped armor]] and large-caliber (90&nbsp;mm and larger) guns were standard. Tank design during the Cold War built on this foundation and included improvements to [[fire-control system|fire control]], [[gyroscopic]] gun stabilization, communications (primarily radio) and crew comfort and saw the introduction of [[laser]] rangefinders and [[infrared]] night vision equipment. [[Composite armor|Armour technology]] progressed in an ongoing race against improvements in [[anti-tank weapons]], especially [[guided missiles|antitank guided missiles]] like the [[BGM-71 TOW|TOW]].
+
+[[File:1974 in Golan.ogv|thumb|left|1974 news report about tank warfare on the Golan]]
+Medium tanks of World War II evolved into the ''[[main battle tank]]'' (MBT) of the Cold War and took over the majority of tank roles on the battlefield. This gradual transition occurred in the 1950s and 1960s due to [[anti-tank]] [[guided missiles]], [[armor-piercing discarding sabot|sabot]] ammunition and [[high explosive anti-tank]] warheads. World War II had shown that the speed of a light tank was no substitute for armor & firepower and medium tanks were vulnerable to newer weapon technology, rendering them [[obsolete]].<!-- What is this sentence saying? Light, Heavy and Medium tanks are all vulnerable and obsolete? Why do armies go on using them, then? -->{{citation needed|date=January 2013}}
+
+In a trend started in World War II, [[economies of scale]] led to serial production of progressively upgraded models of all major tanks during the Cold War. For the same reason many upgraded post-World War II tanks and their derivatives (for example, the [[T-55]] and [[T-72]]) remain in active service around the world, and even an obsolete tank may be the most formidable weapon on battlefields in many parts of the world.<ref>Steven Zaloga and Hugh Johnson (2004), ''T-54 and T-55 Main Battle Tanks 1944–2004,'' Osprey, 39–41, {{ISBN|1-84176-792-1}}, p. 43</ref> Among the tanks of the 1950s were the British [[Centurion Tank|Centurion]] and Soviet T-54/55 in service from 1946, and the US [[M48 Patton|M48]] from 1951.<ref>[[#CITEREFvon Senger und Etterlin1960|von Senger und Etterlin (1960)]], ''The World's Armoured Fighting Vehicles'', pp. 61, 118, 183</ref> These three vehicles formed the bulk of the armored forces of NATO and the Warsaw Pact throughout much of the Cold War. Lessons learned from tanks such as the [[Leopard 1]], [[M48 Patton]] series, [[Chieftain tank|Chieftain]], and T-72 led to the contemporary [[Leopard 2]], [[M1 Abrams]], [[Challenger 2 tank|Challenger 2]], [[C1 Ariete]], [[T-90]] and [[Merkava]] IV.
+
+Tanks and anti-tank weapons of the Cold War era saw action in a number of [[proxy war]]s like the [[Korean War]], [[Vietnam War]], [[Indo-Pakistani War of 1971]], [[Soviet–Afghan War]] and Arab-Israeli conflicts, culminating with the [[Yom Kippur War]]. The T-55, for example, has seen action in no fewer than [[T-54/55#Other conflicts|32 conflicts]]. In these wars the U.S. or NATO countries and the Soviet Union or China consistently backed opposing forces. Proxy wars were studied by Western and Soviet [[military intelligence|military analysts]] and provided a contribution to the Cold War tank development process.
+
+===21st century===
+{{Main|Tanks of the post–Cold War era}}
+[[File:Italian MBT.JPG|alt=|thumb|An Italian [[Ariete|C1 Ariete]] in Rome in 2010.]]
+The role of tank vs. tank combat is becoming diminished. Tanks work in concert with infantry in urban warfare by deploying them ahead of the platoon. When engaging enemy infantry, tanks can provide covering fire on the battlefield. Conversely, tanks can spearhead attacks when infantry are deployed in personnel carriers.<ref name="Modern tank tactics, infantry">{{Citation|title=Combat Techniques: An Elite Forces Guide to Modern Infantry Tactics|year=2010|publisher=Macmillan|isbn=978-0-312-36824-1 |first1=Martin J. |last1=Dougherty |first2=Chris |last2=McNab }}{{Page needed|date=May 2012}}</ref>
+
+Tanks were used to spearhead the initial US invasion of Iraq in 2003. As of 2005, there were 1,100 [[M1 Abrams]] used by the [[United States Army]] in the course of the [[Iraq War]], and they have proven to have an unexpectedly high level of vulnerability to [[roadside bomb]]s.<ref>[[#USAToday2005a|USA Today (2005)]], ''Tank takes a beating in Iraq''</ref> A relatively new type of remotely detonated mine, the [[explosively formed penetrator]] has been used with some success against American armored vehicles (particularly the [[Bradley fighting vehicle]]). However, with upgrades to their armor in the rear, M1s have proven invaluable in fighting insurgents in urban combat, particularly at the [[Second Battle of Fallujah|Battle of Fallujah]], where the US Marines brought in two extra brigades.<ref name="USAToday2005b"/> Britain deployed its [[Challenger 2]] tanks to support its operations in southern Iraq.
+
+Israeli [[Merkava]] tanks contain features that enable them to support [[infantry]] in [[low intensity conflict]]s (LIC) and [[counter-terrorism]] operations. Such features are the rear door and rear corridor, enabling the tank to carry infantry and embark safely; the [[Israeli Military Industries|IMI]] [[APAM-MP-T]] multi-purpose ammunition round, advanced [[C4IS]] systems and recently: [[Trophy (countermeasure)|TROPHY active protection system]] which protects the tank from shoulder-launched anti-tank weapons. During the [[Second Intifada]] further modifications were made, designated as "Merkava Mk. 3d Baz LIC".{{citation needed|date=January 2013}}
+
+====Research and development====
+[[File:XM1202 MCS.jpg|thumb|left|Graphic representation of the US Army's cancelled [[Future Combat Systems manned ground vehicles#XM1202 Mounted Combat System|XM1202 Mounted Combat System]]]]
+
+In terms of firepower, the focus of 2010s-era [[Research and development|R&D]] was increased detection capability such as [[Thermography|thermal imagers]], automated fire control systems for the guns and increased [[muzzle energy]] from the gun to improve range, accuracy and armor penetration.<ref>Pengelley, Rupert, ''A new era in tank main armament,'' pp. 1521–531</ref> The most mature future gun technology is the [[Electrothermal-chemical technology|electrothermal-chemical]] gun.<ref>Hilmes, Rolf (30 January 1999), "Aspects of future MBT conception". ''Military Technology'' '''23''' (6): 7. Moench Verlagsgesellschaft Mbh.</ref> The XM291 electrothermal-chemical tank gun has gone through successful multiple firing sequences on a modified [[M8 Armored Gun System]] chassis.<ref>Goodell, Brad (1 January 2007), "Electrothermal Chemical (ETC) Armament Integration into a Combat Vehicle". ''IEEE Transactions on Magnetics'', Volume 23, Number 1, pp. 456–59.</ref> To improve tank protection, one field of research involves making the tank invisible to radar by adapting [[Stealth technology|stealth]] technologies originally designed for aircraft. Improvements to [[camouflage]] or and attempts to render it invisible through [[active camouflage]], which changes according to where the tank is located, are being pursued. Research is also ongoing in [[Electromagnetism|electromagnetic]] armor systems to disperse or deflect incoming [[hollow charge|shaped charges]],<ref>Wickert, Matthias, ''Electric Armor Against Shaped Charges'', pp. 426–29</ref><ref>Xiaopeng, Li, et al., ''Multiprojectile Active Electromagnetic Armor'', pp. 460–62</ref> as well as various forms of [[active protection system]]s to prevent incoming projectiles (RPGs, missiles, etc.) from striking the tank.
+
+Mobility may be enhanced in future tanks by the use of [[Diesel-electric transmission|diesel-electric]] or turbine-electric [[series hybrid]] drives—first used in a primitive, gasoline-engined form with Porsche's ''[[Elefant]]'' German tank destroyer of 1943—improving fuel efficiency while reducing the size and weight of the power plant.<ref>''Electric/Hybrid Electric Drive Vehicles for Military Applications'', pp. 132–44</ref> Furthermore, advances in gas turbine technology, including the use of advanced [[recuperator]]s,<ref>McDonald, Colin F., ''Gas Turbine Recuperator Renaissance'', pp. 1–30</ref> have allowed for reduction in engine volume and mass to less than 1 m<sup>3</sup> and 1 metric ton, respectively, while maintaining fuel efficiency similar to that of a diesel engine.<ref>Koschier, Angelo V. and Mauch, Hagen R., ''Advantages of the LV100 as a Power Producer in a Hybrid Propulsion System for Future Fighting Vehicles,'' p. 697</ref> In line with the new doctrine of [[network-centric warfare]], the 2010s-era modern battle tank shows increasing sophistication in its electronics and communication systems.
+
+==Design==
+{{unreferenced section|date=October 2011}}
+[[File:M1 Abrams-TUSK.svg|frameless|upright=2|border|right]]
+
+The three traditional factors determining a tank's capability effectiveness are its ''firepower'', ''protection'', and ''mobility''.<ref>{{Cite book|title=Tiger Tank Battalions in World War II|last=Forty|first=George|publisher=Compendium Publishing, Ltd.|year=2008|isbn=978-0-7603-3049-4|location=London|pages=107}}</ref><ref>{{Cite book|title=Blood, Sweat and Arrogance: The Myths of Churchill's War|last=Corrigan|first=Gordon|publisher=Weidenfeld & Nicolson|year=2012|isbn=978-1-78022-555-5|location=London}}</ref> Firepower is the ability of a tank's crew to identify, engage, and destroy enemy tanks and other targets using its large-caliber cannon. Protection is the degree to which the tank's armor, profile and camouflage enables the tank crew to evade detection, protect themselves from enemy fire, and retain vehicle functionality during and after combat. Mobility includes how well the tank can be transported by rail, sea, or air to the operational staging area; from the staging area by road or over terrain towards the enemy; and tactical movement by the tank over the battlefield during combat, including traversing of obstacles and rough terrain. The variations of tank designs have been determined by the way these three fundamental features are blended. For instance, in 1937, the French doctrine focused on firepower and protection more than mobility because tanks worked in intimate liaison with the infantry.<ref>{{Cite book|title=The Seeds of Disaster: The Development of French Army Doctrine, 1919–39|last=Doughty|first=Robert|publisher=Stackpole Books|year=1985|isbn=978-0-8117-1460-0|location=Mechanicsburg, PA|pages=162}}</ref> There was also the case of the development of a heavy cruiser tank, which focused on armor and firepower to challenge Germany's Tiger and Panther tanks.<ref>{{Cite book|title=The Centurion Tank|last=Ware|first=Pat|publisher=Pen & Sword Military|year=2012|isbn=978-1-78159-011-9|location=South Yorkshire|pages=7–8}}</ref>
+
+===Classification===
+{{main|Tank classification}}
+{{unreferenced section|date=August 2017}}
+Tanks have been classified by weight, role, or other criteria, that has changed over time and place. Classification is determined by the prevailing theories of armored warfare, which have been altered in turn by rapid advances in technology. No one classification system works across all periods or all nations; in particular, weight-based classification is inconsistent between countries and eras.
+
+In World War I, the first tank designs focused on crossing wide trenches, requiring very long and large vehicles, such as the British Mark I; these became classified as [[heavy tank]]s. Tanks that fulfilled other combat roles were smaller, like the French Renault FT; these were classified as [[light tank]]s or [[tankette]]s. Many late-war and inter-war tank designs diverged from these according to new, though mostly untried, concepts for future tank roles and tactics. Tank classifications varied considerably according to each nation's own tank development, such as "cavalry tanks", "fast tanks", and "breakthrough tanks".
+
+During World War II, many tank concepts were found unsatisfactory and discarded, mostly leaving the more multi-role tanks; these became easier to classify. Tank classes based on weight (and the corresponding transport and logistical needs) led to new definitions of heavy and light tank classes, with [[medium tank]]s covering the balance of those between. The British maintained [[cruiser tank]]s, focused on speed, and [[infantry tank]]s that traded speed for more armor. [[Tank destroyer]]s are tanks or other [[armored fighting vehicle]]s specifically designed to defeat enemy tanks. [[Assault gun]]s are armored fighting vehicles that could combine the roles of infantry tanks and [[tank destroyer]]s. Some tanks were converted to [[flame tank]]s, specializing on close-in attacks on enemy strongholds with [[flamethrower]]s. As the war went on, tanks tended to become larger and more powerful, shifting some tank classifications and leading to [[super-heavy tank]]s.
+
+Experience and technology advances during the [[Cold War]] continued to consolidate tank roles. With the worldwide adoption of the modern [[main battle tank]] designs, which favour a modular universal design, most other classifications are dropped from modern terminology. All main battle tanks tend to have a good balance of speed, armor, and firepower, even while technology continues to improve all three. Being fairly large, main battle tanks can be complemented with light tanks, [[armored personnel carrier]]s, [[infantry fighting vehicle]]s or similar relatively lighter armored fighting vehicles, typically in the roles of [[armored reconnaissance]], [[Amphibious warfare|amphibious]] or [[air assault]] operations, or against enemies lacking main battle tanks.
+
+===Offensive capabilities===
+{{Main|Tank gun}}
+
+[[File:105mm tank gun Rifling.jpg|thumb|upright| A sectioned 105mm [[rifling|rifled]] [[Royal Ordnance L7]] tank gun]]
+
+The [[tank gun|main weapon]] of modern tanks is typically a single, large-[[caliber]] [[cannon]] mounted in a [[Gun laying|fully traversing]] (rotating) [[gun turret]]. The typical modern tank gun is a [[smoothbore]] weapon capable of firing a variety of ammunition, including [[armor-piercing]] [[kinetic energy penetrator]]s (KEP), also known as [[armor-piercing discarding sabot]] (APDS), and/or [[APFSDS|armor piercing fin stabilized discarding sabot]] (APFSDS) and [[high explosive anti-tank]] (HEAT) [[shell (projectile)|shells]], and/or [[high explosive squash head]] (HESH) and/or [[anti-tank guided missile]]s (ATGM) to destroy armored targets, as well as [[High-explosive fragmentation|high explosive]] (HE) [[High-explosive fragmentation|shells]] for shooting at "soft" targets (unarmored vehicles or troops) or [[fortifications]]. [[Canister shot]] may be used in close or urban combat situations where the risk of hitting friendly forces with [[Shrapnel (fragment)|shrapnel]] from HE rounds is unacceptably high.<ref name = "USAToday2005b">[[#USAToday2005b|USA Today (2005)]], ''Tanks adapted for urban fights they once avoided''</ref>
+
+A [[gyroscope]] is used to stabilise the main gun, allowing it to be effectively aimed and fired at the "short halt" or on the move. Modern tank guns are also commonly fitted with [[thermal insulation|insulating]] thermal jackets to reduce gun-barrel warping caused by uneven [[thermal expansion]], [[bore evacuator]]s to minimise gun firing fumes entering the crew compartment and sometimes [[muzzle brake]]s to minimise the effect of [[recoil]] on accuracy and [[rate of fire]].
+
+[[File:German Leopard 2A6 from 3rd Panzer Battalion fires it's main gun during the shoot-off of Strong Europe Tank Challenge (40964003420) (cropped).jpg|left|thumb|German [[Leopard 2]]A6 from a Panzerbattalion fires its main gun during the shoot-off of [[Strong Europe Tank Challenge]].]]
+[[File:Flickr - Israel Defense Forces - 188th Brigade Training Day, March 2008-cropped.jpg|thumb|left|A [[Merkava]] Mk IIID Baz firing]]
+Traditionally, target detection relied on visual identification. This was accomplished from within the tank through [[telescope|telescopic]] [[periscope]]s; often, however, tank commanders would open up the hatch to view the outside surroundings, which improved situational awareness but incurred the penalty of vulnerability to sniper fire. Though several developments in target detection have taken place, these methods are still common practice. In the 2010s, more electronic target detection methods are available.
+
+In some cases [[spotting rifle]]s were used to confirm proper trajectory and range to a target. These spotting rifles were mounted co-axially to the main gun, and fired [[tracer ammunition]] ballistically matched to the gun itself. The gunner would track the movement of the tracer round in flight, and upon impact with a hard surface, it would give off a flash and a puff of smoke, after which the main gun was immediately fired. However this slow method has been mostly superseded by [[laser rangefinder|laser rangefinding]] equipment.
+
+Modern tanks also use sophisticated [[night vision device|light intensification]] and [[thermal imaging]] equipment to improve fighting capability at night, in poor weather and in smoke. The accuracy of modern tank guns is pushed to the mechanical limit by computerized [[fire-control system]]s. A fire-control system uses a laser rangefinder to determine the range to the target, a [[thermocouple]], [[anemometer]] and [[wind vane]] to correct for weather effects and a muzzle referencing system to correct for gun-barrel temperature, warping and wear. Two sightings of a target with the range-finder enable calculation of the target movement [[Vector (geometric)|vector]]. This information is combined with the known movement of the tank and the principles of [[External ballistics|ballistics]] to calculate the [[elevation (ballistics)|elevation]] and [[Aiming point|aim point]] that maximises the probability of hitting the target.
+
+Usually, tanks carry smaller caliber armament for short-range defense where fire from the main weapon would be ineffective or wasteful, for example when engaging [[infantry]], [[Armoured car (military)|light vehicles]] or [[close air support]] aircraft. A typical complement of secondary weapons is a general-purpose machine gun mounted [[coaxial weapon|coaxially]] with the main gun, and a heavier [[anti-aircraft]]-capable machine gun on the turret roof. Some tanks also have a hull-mounted machine gun. These weapons are often modified variants of those used by infantry, and so use the same kinds of ammunition.
+
+===Protection and countermeasures===
+[[File:T-90 tank during the Victory Day parade in 2009.jpg|thumb|right|The Russian [[T-90]] is fitted with a "three-tiered" protection systems:<br />'''1:''' [[Composite armor]] in the turret<br /> '''2:''' Third generation [[Kontakt-5]] [[explosive reactive armor|ERA]]<br /> '''3:''' [[Shtora]]-1 countermeasures suite.]]
+
+{{See also|Anti-tank warfare}}
+The measure of a tank's protection is the combination of its ability to avoid detection (due to having a low profile and through the use of camouflage), to avoid being hit by enemy fire, its resistance to the effects of enemy fire, and its capacity to sustain damage whilst still completing its objective, or at least protecting its crew. This is done by a variety of countermeasures, such as armor plating and reactive defenses, as well as more complex ones such as heat-emissions reduction.
+
+In common with most unit types, tanks are subject to additional hazards in dense wooded and urban combat environments which largely negate the advantages of the tank's long-range firepower and mobility, limit the crew's detection capabilities and can restrict turret traverse. Despite these disadvantages, tanks retain high [[survivability]] against previous-generation [[rocket-propelled grenade]]s aimed at the most-armored sections.
+
+However, as effective and advanced as armor plating has become, tank survivability against newer-generation [[tandem-warhead]] anti-tank missiles is a concern for military planners.<ref>[[#BBCNews2006|BBC News (2006)]] ''Tough lessons for Israeli armor''</ref> Tandem-warhead RPGs use two warheads to fool active protection systems; a first dummy warhead is fired first, to trigger the active defenses, with the real warhead following it. For example, the [[RPG-29]] from the 1980s is able to penetrate the frontal hull armor of the Challenger II<ref>{{cite news|title=MoD kept failure of best tank quiet|author=Sean Rayment|work=[[Sunday Telegraph]]|date=12 May 2007|url=https://www.telegraph.co.uk/news/uknews/1551418/MoD-kept-failure-of-best-tank-quiet.html|url-status=live|archive-url=https://web.archive.org/web/20150704200640/http://www.telegraph.co.uk/news/uknews/1551418/MoD-kept-failure-of-best-tank-quiet.html|archive-date=4 July 2015}}</ref> and also managed to damage a M1 Abrams.<ref>{{cite news |title=Operation in Sadr City Is an Iraqi Success, So Far |author=Michael R. Gordon |work=[[The New York Times]] |date=21 May 2008 |url=https://www.nytimes.com/2008/05/21/world/middleeast/21sadr.html?_r=2&hp&oref=slogin&oref=slogin |url-status=live |archive-url=https://web.archive.org/web/20170623214243/http://www.nytimes.com/2008/05/21/world/middleeast/21sadr.html?_r=2&hp&oref=slogin&oref=slogin |archive-date=23 June 2017 }}</ref> As well, even tanks with advanced armor plating can have their tracks or gear cogs damaged by RPGs, which may render them immobile or hinder their mobility. Despite all of the advances in armor plating, a tank with its hatches open remains vulnerable to [[Molotov cocktail]] (gasoline bombs) and grenades. Even a "buttoned up" tank may have components which are vulnerable to Molotov cocktails, such as optics, extra gas cans and extra ammunition stored on the outside of the tank.
+
+====Avoiding detection====
+{{Further|Military deception}}
+[[File:Type 99 MBT front right.jpg|thumb|left|[[People's Liberation Army|PLA]]'s [[Type 99a tank]] with [[disruptive coloration|disruptive]] camouflage painting]]
+A tank avoids detection using the doctrine of [[countermeasure]]s known as CCD: [[military camouflage|camouflage]] (looks the same as the surroundings), concealment (cannot be seen) and deception (looks like something else).
+
+=====Camouflage=====
+{{further|Military camouflage}}
+[[File:Challenger 2-Megatron MOD 45161486.jpg|alt=|thumb|A British [[Challenger 2]] Theatre Entry Standard fitted with a mobile camouflage system.]]
+Camouflage can include disruptive painted shapes on the tank to break up the distinctive appearance and silhouette of a tank. Netting or actual branches from the surrounding landscape are also used. Prior to development of infrared technology, tanks were often given a coating of camouflage paint that, depending on environmental region or season, would allow it to blend in with the rest of its environment. A tank operating in wooded areas would typically get a green and brown paintjob; a tank in a winter environment would get white paint (often mixed with some darker colors); tanks in the desert often get khaki paintjobs.
+
+The Russian [[Nakidka]] camouflage kit was designed to reduce the [[optical]], [[Thermal radiation|thermal]], [[infrared]], and [[radar]] signatures of a tank, so that acquisition of the tank would be difficult. According to Nii Stali, the designers of Nakidka, Nakidka would reduce the probabilities of detection via "visual and near-IR bands by 30%, the thermal band by 2–3-fold, radar band by 6-fold, and radar-thermal band to near-background levels.<ref>[https://web.archive.org/web/20090707002753/http://www.niistali.ru/pr_secure/nobron_en.htm#7 "Nakidka" kit for protection against surveillance and precision-guided systems](archive)</ref>
+
+=====Concealment=====
+{{unreferenced section|date=November 2018}}
+
+Concealment can include hiding the tank among trees or digging in the tank by having a combat bulldozer dig out part of a hill, so that much of the tank will be hidden. A tank commander can conceal the tank by using "hull down" approaches to going over upward-sloping hills, so that she or he can look out the commander's cupola without the distinctive-looking main cannon cresting over the hill. Adopting a turret-down or [[hull-down]] position reduces the visible silhouette of a tank as well as providing the added protection of a position in [[Enfilade and defilade#Defilade|defilade]].
+
+Working against efforts to avoid detection is the fact that a tank is a large metallic object with a distinctive, angular [[silhouette]] that emits copious [[thermal imaging|heat]] and engine noise. A tank that is operating in cold weather or which needs to use its radio or other communications or target-detecting electronics will need to start its engine regularly to maintain its battery power, which will create engine noise. Consequently, it is difficult to effectively camouflage a tank in the absence of some form of cover or concealment (e.g., woods) it can [[hull-down|hide]] its hull behind. The tank becomes easier to detect when moving (typically, whenever it is in use) due to the large, distinctive auditory, vibration and thermal signature of its engine and power plant. Tank tracks and dust clouds also betray past or present tank movement.
+
+Switched-off tanks are vulnerable to infra-red [[thermal imaging|detection]] due to differences between the [[thermal conductivity]] and therefore [[heat#Heat dissipation|heat dissipation]] of the metallic tank and its surroundings. At close range the tank can be detected even when powered down and fully concealed due to the [[heat haze|column of warmer air]] above the tank and the smell of diesel or gasoline. Thermal blankets slow the rate of heat emission and some thermal camouflage nets use a mix of materials with differing thermal properties to operate in the infra-red as well as the [[visible spectrum]].
+
+[[Grenade launcher]]s can rapidly deploy a [[smoke screen]] that is opaque to [[infrared]] light, to hide it from the thermal viewer of another tank. In addition to using its own grenade launchers, a tank commander could call in an artillery unit to provide smoke cover. Some tanks can produce a smoke screen.
+
+Sometimes camouflage and concealment are used at the same time. For example, a camouflage-painted and branch-covered tank (camouflage) may be hidden in a behind a hill or in a dug-in-emplacement (concealment).
+
+=====Deception=====
+[[File:E04934.jpg|thumb|right|upright=0.9|Troops carry a lightweight wood-framed "dummy" tank into position.]]
+Some [[armored recovery vehicle]]s (often tracked, tank chassis-based "tow trucks" for tanks) have dummy turrets and cannons. This makes it less likely that enemy tanks will fire on these vehicles. Some armies have fake "dummy" tanks made of wood which troops can carry into position and hide behind obstacles. These "dummy" tanks may cause the enemy to think that there are more tanks than are actually possessed.
+
+====Armour====
+{{unreferenced section|date=January 2013}}
+{{Main|Vehicle armor}}
+[[File:Challenger2-Bergen-Hohne-Training-Area-2.jpg|thumb|left|The British [[Challenger 2|Challenger II]] is protected by second-generation [[Chobham armor]]]]
+
+To effectively protect the tank and its crew, tank armor must counter a wide variety of antitank threats. Protection against [[kinetic energy penetrator]]s and [[high explosive anti-tank]] (HEAT) shells fired by other tanks is of primary importance, but tank armor also aims to protect against infantry [[Mortar (weapon)|mortars]], [[grenades]], [[rocket-propelled grenade]]s, [[anti-tank guided missile]]s, [[land mine|anti-tank mines]], [[anti-tank rifles]], [[bomb]]s, direct [[artillery]] hits, and (less often) [[Weapon of mass destruction|nuclear, biological and chemical]] threats, any of which could disable or destroy a tank or its crew.
+[[File:Arjun Mk II turret protection.JPG|thumb|Arjun Mk II turret protection]]
+[[rolled homogeneous armor|Steel armor plate]] was the earliest type of armor. The Germans pioneered the use of [[carbon steel#Case hardening|face hardened]] steel during World War II and the Soviets also achieved improved protection with [[sloped armor]] technology. World War II developments led to the obsolescence of homogeneous steel armor with the development of [[shaped-charge]] warheads, exemplified by the [[Panzerfaust]] and [[bazooka]] infantry-carried weapons which were effective, despite some early success with [[spaced armor]]. Magnetic mines led to the development of [[diamagnetism|anti-magnetic]] paste and paint. From WWII to the modern era, troops have added improvised armor to tanks while in combat settings, such as sandbags or pieces of old armor plating.
+
+British tank researchers took the next step with the development of [[Chobham armor]], or more generally [[composite armor]], incorporating [[ceramic]]s and plastics in a [[resin]] matrix between steel plates, which provided good protection against HEAT weapons. [[High explosive squash head]] warheads led to [[spall|anti-spall]] armor linings, and kinetic energy penetrators led to the inclusion of exotic materials like a matrix of [[depleted uranium]] into a composite armor configuration.
+
+[[File:M60A1-Patton-Blazer-latrun-2.jpg|thumb|Blazer [[explosive reactive armor]] (ERA) blocks on an Israeli M-60]]
+[[Reactive armor]] consists of small explosive-filled metal boxes that detonate when hit by the metallic jet projected by an exploding HEAT warhead, causing their metal plates to disrupt it. [[Tandem warhead]]s defeat reactive armor by causing the armor to detonate prematurely. Modern reactive armor protects itself from Tandem warheads by having a thicker front metal plate to prevent the precursor charge from detonating the explosive in the reactive armor. Reactive armors can also reduce the penetrative abilities of [[kinetic energy penetrator]]s by deforming the penetrator with the metal plates on the Reactive armor, thereby reducing its effectiveness against the main armor of the tank.
+
+====Active protection system====
+[[File:Flickr - Israel Defense Forces - Storming Ahead.jpg|thumb|left|[[Israel Defense Forces|IDF]] [[Merkava]] Mk4 tank with [[Trophy (countermeasure)|Trophy]] [[active protection system|APS]] ("מעיל רוח") during training]]
+
+The latest generation of protective measures for tanks are [[active protection system]]s. The term "active" is used to contrast these approaches with the armor used as the primary protective approach in earlier tanks.
+* [[Soft kill]] measures, such as the Russian [[Shtora]] countermeasure system, provide protection by interfering with enemy targeting and fire-control systems, thus making it harder for the enemy threats to lock onto the targeted tank.
+* [[Hard kill]] systems intercept incoming threats with a projectile(s) of its own, destroying the threat. For example, the Israeli [[Trophy (countermeasure)|Trophy]] destroys an incoming rocket or missile with shotgun-like projectiles. The Soviet [[Drozd]], the Russian [[Arena active protection system|Arena]], the Israeli [[Trophy (countermeasure)|Trophy]] and [[Iron Fist (countermeasure)|Iron Fist]], Polish [[ERAWA]], and the American [[Quick Kill]] systems show the potential to dramatically improve protection for tanks against [[anti-tank missile|missiles]], [[rocket-propelled grenade|RPGs]] and potentially kinetic energy penetrator attacks, but concerns regarding a [[Friendly fire|danger zone for nearby troops]] remain.{{citation needed|date=June 2015}}
+
+===Mobility===
+[[File:Zwei Leopard 2A5 beim durchqueren eines Gewässer.ogv|thumb|right|Two [[German Army]] Leopard 2s demonstrate their [[Amphibious vehicle#Deep fording|deep-wading]] capabilities]]
+
+The mobility of a tank is described by its battlefield or tactical mobility, its operational mobility, and its strategic mobility.
+* '''Tactical mobility''' can be broken down firstly into agility, describing the tank's acceleration, braking, speed and rate of turn on various terrain, and secondly obstacle clearance: the tank's ability to travel over vertical obstacles like low walls or trenches or through water.
+* '''Operational mobility''' is a function of manoeuvre range; but also of size and weight, and the resulting limitations on options for manoeuvre.
+* '''Strategic mobility''' is the ability of the tanks of an armed force to arrive in a timely, cost effective, and synchronized fashion.
+
+====Tactical mobility====
+[[File:M1 strategic mobility.jpg|thumb|right|[[M1 Abrams]] offloading from [[Landing Craft Air Cushioned]] vehicle.]]
+
+Tank agility is a function of the weight of the tank due to its inertia while manoeuvring and its [[ground pressure]], the power output of the installed power plant and the tank [[Transmission (mechanics)|transmission]] and [[Continuous track|track]] design. In addition, rough terrain effectively limits the tank's speed through the stress it puts on the [[suspension (vehicle)#Armoured fighting vehicle suspension|suspension]] and the crew. A breakthrough in this area was achieved during World War II when improved suspension systems were developed that allowed better cross-country performance and limited firing on the move. Systems like the earlier [[Christie suspension|Christie]] or later [[torsion-bar]] suspension developed by [[Ferdinand Porsche]] dramatically improved the tank's cross-country performance and overall mobility.<ref>[[#Deighton1979|Deighton (1979)]], ''Blitzkrieg, From the rise of Hitler to the fall of Dunkirk'', p. 154</ref>
+
+Tanks are highly mobile and able to travel over most types of terrain due to their [[continuous track]]s and advanced suspension. The tracks disperse the weight of the vehicle over a large area, resulting in less [[ground pressure]]. A tank can travel at approximately {{convert|40|km/h|mph}} across flat terrain and up to {{convert|70|km/h|mph}} on roads, but due to the mechanical strain this places on the vehicle and the logistical strain on fuel delivery and tank maintenance, these must be considered "burst" speeds that invite mechanical failure of engine and transmission systems. Consequently, wheeled tank transporters and rail infrastructure is used wherever possible for long-distance tank transport. The limitations of long-range tank mobility can be viewed in sharp contrast to that of wheeled [[armored fighting vehicle]]s. The majority of blitzkrieg operations were conducted at the pedestrian pace of {{convert|5|km/h|mph}}, and that was only achieved on the roads of France.<ref>[[#Deighton1979|Deighton (1979)]], ''Blitzkrieg, From the rise of Hitler to the fall of Dunkirk'', p. 180</ref>
+
+[[File:M88 pulling M1 engine.jpg|right|thumb|The [[M1 Abrams]] is powered by a {{convert|1500|shp}} [[Honeywell]] [[AGT-1500|AGT 1500]] gas turbine engine, giving it a governed top speed of {{convert|45|mph|km/h|abbr=on}} on paved roads, and {{convert|30|mph|km/h|abbr=on}} cross-country.]]
+
+The tank's power plant supplies [[kinetic energy]] to move the tank, and [[electric current|electric]] power via a [[Electrical generator#Vehicle-mounted generators|generator]] to components such as the [[gun turret|turret]] rotation motors and the tank's electronic systems. The tank power plant has evolved from predominantly petrol and adapted large-displacement aeronautical or automotive [[internal combustion engines|engines]] during World Wars I and II, through [[diesel engine]]s to advanced [[multi-fuel]] [[Diesel engine#Quality and variety of fuels|diesel engines]], and powerful (per unit weight) but fuel-hungry [[Gas turbine#Gas turbines in surface vehicles|gas turbines]] in the [[T-80]] and [[M1 Abrams]].
+
+{| class="wikitable" style="text-align:center;"
+|-
+|+Tank power output and [[torque]] in context:{{citation needed|date=December 2013}}
+|-
+! colspan=2 |Vehicle
+! Power output
+! Power/weight
+!Torque
+|-
+| Mid-sized car || [[Toyota Camry]] 2.4&nbsp;L
+| {{convert|158|hp|kW|order=flip|abbr=on}}
+| {{convert|106|hp/t|kW/t|order=flip|abbr=on}}
+| {{convert|218|Nm|abbr=on}}
+|-
+| Sports car || [[Lamborghini Murciélago]] 6.5&nbsp;L
+| {{convert|632|hp|kW|order=flip|abbr=on}}
+| {{convert|383|hp/t|kW/t|order=flip|abbr=on}}
+| {{convert|660|Nm|abbr=on}}
+|-
+| Racing car || [[Formula One car]] 3.0&nbsp;L
+| {{convert|950|hp|kW|order=flip|abbr=on}}
+| {{convert|1428|hp/t|kW/t|order=flip|abbr=on}}
+| {{convert|350|Nm|abbr=on}}
+|-
+| Main battle tank || [[Leopard 2]], [[M1 Abrams]]
+| {{convert|1500|hp|kW|order=flip|abbr=on}}
+| {{convert|24.2|to|24.5|hp/t|kW/t|order=flip|abbr=on}}
+| {{convert|4700|Nm|abbr=on}}
+|-
+| Locomotive || [[SNCF Class T 2000]]
+| {{convert|2581|hp|kW|order=flip|abbr=on}}
+| {{convert|11.5|hp/t|kW/t|order=flip|abbr=on}}
+|
+|}
+
+====Operational mobility====
+{{Expand section|date=September 2016}}
+
+====Strategic mobility====
+Strategic mobility is the ability of the tanks of an armed force to arrive in a timely, cost effective, and synchronized fashion. For good strategic mobility transportability by air is important, which means that weight and volume must be kept within the designated transport aircraft capabilities. Nations often stockpile enough tanks to respond to any threat without having to make more tanks as many sophisticated designs can only be produced at a relatively low rate. The US for instance keeps 6,000 MBTs in storage.<ref>{{cite web |author=John Pike |url=http://www.globalsecurity.org/military/systems/ground/m1-specs.htm |title=M1 Abrams Main Battle Tank |publisher=Globalsecurity.org |access-date=9 June 2009 |url-status=live |archive-url=https://web.archive.org/web/20151025174950/http://www.globalsecurity.org/military/systems/ground/m1-specs.htm |archive-date=25 October 2015 }}</ref>
+
+In the absence of [[combat engineer]]s, most tanks are limited to [[Ford (crossing)|fording]] small rivers. The typical fording depth for MBTs is approximately {{convert|1|m|ft|abbr=on}}, being limited by the height of the engine air intake and driver's position. Modern tanks such as the Russian [[T-90]] and the German [[Leopard 1]] and [[Leopard 2]] tanks can ford to a depth of {{convert|3|to|4|m|ft|abbr=on}} when properly prepared and equipped with a [[Vehicle snorkel|snorkel]] to supply air for the crew and engine. Tank crews usually have a negative reaction towards deep fording but it adds considerable scope for [[List of military tactics|surprise]] and tactical flexibility in water crossing operations by opening new and unexpected avenues of attack.
+
+[[Amphibious tank]]s are specially designed or adapted for water operations, such as by including snorkels and skirts, but they are rare in modern armies, being replaced by purpose-built [[amphibious assault vehicle]]s or [[armored personnel carrier]]s in [[amphibious warfare#Post–World War II|amphibious assaults]]. Advances such as the [[EFA (mobile bridge)|EFA]] mobile bridge and [[armored vehicle-launched bridge|armored vehicle-launched scissors bridges]] have also reduced the impediment to tank advance that rivers posed in World War II.<ref>[[#Deighton1979|Deighton (1979)]], ''Blitzkrieg, From the rise of Hitler to the fall of Dunkirk'', pp. 234–52</ref>
+
+===Crew===
+{{redirect|Tank commander}}
+[[File:Leclerc-IMG 1717.jpg|thumb|The tank commander's position in an [[AMX Leclerc]]]]
+[[File:T72B3-Crew.svg|thumb|Positions of crewmembers in a Russian [[T-72]]B3 tank. The driver (3) is seated in the vehicles front, commander (1) and gunner (2) are positioned in the turret, directly above the carousel (4), which contains the ammunition for the autoloading mechanism.]]
+{{Army units}}
+Most modern tanks most often have four crew members, or three if an [[auto-loader]] is installed.  These are the:
+* [[Commander]] – The commander is responsible for commanding the tank, with all-round vision devices rather than the limited ones of the driver and gunner. He guides the gunner roughly onto target and guides the driver around turns and obstacles.
+* [[Gunner (artillery)|Gunner]] – The gunner is responsible for [[Gun laying|laying the gun]], the process of aiming an artillery piece at targets. It may be laying for direct fire, where the gun is aimed similarly to a rifle, or indirect fire, where firing data is calculated and applied to the sights. The term includes automated aiming using, for example, radar-derived target data and computer-controlled guns. Gun laying means moving the axis of the bore of the barrel in two planes, horizontal and vertical. A gun is "traversed" (rotated in a horizontal plane) to align it with the target, and "elevated" (moved in the vertical plane) to range it to the target.
+* Loader – The loader loads the gun, with a round appropriate to the target (HEAT, smoke, etc.) as ordered by either the commander or the gunner. The loader is usually the lowest ranked member of the crew. In tanks with auto-loaders this position is omitted.
+* [[Driver (person)|Driver]] – The driver drives the tank, and also performs routine maintenance on the automotive features.
+[[File:3rd ID M1A1 Abrams TC and Gunner 2008.jpg|thumb|A view in a M1A1 Abrams tank of the gunner's station (bottom left) and commander's station (top right)]]
+
+Operating a tank is a team effort. For example, the loader is assisted by the rest of the crew in stowing ammunition. The driver is assisted in maintaining the automotive features.<ref>[http://www.theshermantank.com/sherman/the-crew-and-their-stations-the-human-part-of-the-tank/ The Crew And Their Stations: The Human Part Of The Tank, How They Lived, Worked, And Fought]</ref>
+
+Historically, crews have varied from just two members to a dozen. First World War tanks were developed with immature technologies; in addition to the crew needed to man the multiple guns and machine guns, up to four crewmen were needed to drive the tank: the driver, acting as the vehicle commander and manning the brakes, drove via orders to his gears-men; a co-driver operated the gearbox and throttle; and two gears-men, one on each track, steered by setting one side or the other to idle, allowing the track on the other side to slew the tank to one side.  Pre-World War II French tanks were noted for having a two-man crew, in which the overworked commander had to load and fire the gun in addition to commanding the tank.
+
+With World War II the multi-turreted tanks proved impracticable, and as the single turret on a low hull design became standard, crews became standardized around a crew of four or five. In those tanks with a fifth crew member, usually three were located in the turret (as described above) while the fifth was most often seated in the hull next to the driver, and operated the hull machine gun in addition to acting as a co-driver or radio operator. Well-designed crew stations, giving proper considerations to comfort and ergonomics, are an important factor in the combat effectiveness of a tank, as it limits fatigue and speeds up individual actions.
+
+===Engineering constraints===
+[[File:Arjun MBT bump track test.JPG|thumb|The Indian [[Arjun MBT]]'s [[hydropneumatic suspension]] at work, while moving over a bump track.]]
+A noted author on the subject of tank design engineering, Richard M Ogorkiewicz,<ref>Technology of Tanks, Richard M Ogorkiewicz, Jane's Information Group, 1991{{page needed|date=May 2012}}</ref> outlined the following basic engineering sub-systems that are commonly incorporated into tank's technological development:
+* Mobility of tanks (through chassis design)
+* Tank [[Engine#Combustion engine|engines]]
+* Tank [[Transmission (mechanics)|transmissions]]
+* [[Suspension (vehicle)|Suspensions]] and [[running gear]]
+* Soil-vehicle mechanics
+* [[Tank gun]]s and [[Ammunition#Ordnance ammunition|ammunition]]
+* [[Ballistics]] and mechanics of tank guns
+* Vision and sighting systems
+* Illuminating and [[Night Vision#Night vision technologies|night vision]] systems
+* [[Fire-control system|Fire control systems]] for main and auxiliary weapons
+* [[Gun data computer|Gun control systems]]
+* [[Precision-guided munition|Guided weapons]]
+* [[Vehicle armor#Armoured fighting vehicles|Armour]] protection
+* Configuration of tanks
+To the above can be added unit communication systems and electronic anti-tank countermeasures, crew ergonomic and survival systems (including flame suppression), and provision for technological upgrading.
+Few tank designs have survived their entire service lives without some upgrading or modernization, particularly during wartime, including some that have changed almost beyond recognition, such as the latest Israeli [[Magach#Versions|Magach]] versions.
+
+The characteristics of a tank are determined by the performance criteria required for the tank. The obstacles that must be traversed affect the vehicles front and rear profiles. The terrain that is expected to be traversed determines the track ground pressure that may be allowed to be exerted for that particular terrain.<ref name="performance reqs">{{Citation|title=Journal of the United Service Institution of India, Volume 98|year=1968|publisher=United Service Institution of India|url=https://books.google.com/books?id=iZI8AQAAIAAJ|page=58|url-status=live|archive-url=https://web.archive.org/web/20180327160324/https://books.google.com/books?id=iZI8AQAAIAAJ|archive-date=27 March 2018}}</ref>
+
+Tank design is a compromise between its technological and budgetary constraints and its tactical capability requirements. It is not possible to maximise firepower, protection and mobility simultaneously while incorporating the latest technology and retain affordability for sufficient procurement quantity to enter production.
+For example, in the case of tactical capability requirements, increasing protection by adding armor will result in an increase in weight and therefore decrease in mobility; increasing firepower by installing a larger gun will force the designer team to increase armor, the therefore weight of the tank by retaining same internal volume to ensure crew efficiency during combat. In the case of the Abrams MBT which has good firepower, speed and armor, these advantages are counterbalanced by its engine's notably high fuel consumption, which ultimately reduces its range, and in a larger sense its mobility.
+
+Since the Second World War, the economics of tank production governed by the complexity of manufacture and cost, and the impact of a given tank design on logistics and field maintenance capabilities, have also been accepted as important in determining how many tanks a nation can afford to field in its force structure.
+
+Some tank designs that were fielded in significant numbers, such as [[Tiger I]] and [[M60A2 Starship|M60A2]] proved to be too complex or expensive to manufacture, and made unsustainable demands on the logistics services support of the armed forces. The ''affordability of the design'' therefore takes precedence over the combat capability requirements.
+Nowhere was this principle illustrated better than during the Second World War when two Allied designs, the [[T-34]] and the [[M4 Sherman]], although both simple designs which accepted engineering compromises, were used successfully against more sophisticated designs by Germany that were more complex and expensive to produce, and more demanding on overstretched logistics of the Wehrmacht. Given that a tank crew will spend most of its time occupied with maintenance of the vehicle, engineering simplicity has become the primary constraint on tank design since the Second World War despite advances in mechanical, electrical and electronics technologies.
+
+Since the Second World War, tank development has incorporated experimenting with significant mechanical changes to the tank design while focusing on technological advances in the tank's many subsystems to improve its performance. However, a number of novel designs have appeared throughout this period with mixed success, including the Soviet [[IT-1]] and [[T-64]] in firepower, and the Israeli [[Merkava]] and Swedish [[S-tank]] in protection, while for decades the US's [[M551]] remained the only light tank deployable by parachute.
+
+{{Further|Tank classification}}
+
+==Command, control, and communications==
+[[File:Leo2A6M li.jpg|thumb|[[German Army]] [[Leopard 2]]A6M incorporates [[Network-centric warfare|networked battlefield]] technology]]
+
+[[C4ISTAR|Commanding and coordinating]] tanks in the field has always been subject to particular problems, particularly in the area of communications, but in modern armies these problems have been partially alleviated by [[computer network|networked]], [[system integration|integrated systems]] that enable communications and contribute to enhanced [[situational awareness]].
+
+===20th century===
+====World War I and Interwar period====
+Armored [[bulkhead (partition)|bulkheads]], engine noise, intervening terrain, dust and smoke, and the need to operate "buttoned up" (with hatches closed) are severe detriments to communication and lead to a sense of isolation for small tank units, individual vehicles, and tank crew. Radios were not then portable or robust enough to be mounted in a tank, although [[Morse code]] transmitters were installed in some Mark IVs at Cambrai as messaging vehicles.<ref>Macksey, K., Tank vs Tank, Grub Street, London, 1999, p. 32</ref> Attaching [[Tank phone|a field telephone to the rear]] would become a practice only during the next war. During World War I when these failed or were unavailable, situation reports were sent back to headquarters by some crews releasing carrier pigeons through loopholes or hatches<ref>Fletcher, D., British Mark I Tank 1916, Osprey, p. 19</ref> and communications between vehicles was accomplished using hand signals, handheld [[Flag semaphore|semaphore flags]] which continued in use in the [[Red Army]]/[[Soviet Army]] through the Second and Cold wars, or by foot or horse-mounted messengers.<ref>[[#CITEREFWright2002|Wright 2002]], ''Tank: The Progress of a Monstrous War Machine'', p. 48, "To the extent that they communicated at all, the tank crews did so by squeezing carrier pigeons out through a hole in a gun sponson, by brandishing a shovel through the manhole, or by frantic coloured discs in the air."</ref>
+
+====World War II====
+From the beginning, the German military stressed wireless communications, equipping their combat vehicles with radios, and drilled all units to rely on disciplined radio use as a basic element of tactics.  This allowed them to respond to developing threats and opportunities during battles, giving the Germans a notable tactical advantage early in the war; even where Allied tanks initially had better firepower and armor, they generally lacked individual radios.<ref>{{cite book |last=Healy |first=Mark |editor-last=Prigent |editor-first=John |title=Panzerwaffe: The Campaigns in the West 1940 |volume=I |page=23 |location=London |publisher=Ian Allan |year=2008 |isbn=978-0-7110-3240-8}}</ref> By mid-war, Western Allied tanks adopted full use of radios, although Russian use of radios remained relatively limited.
+
+====Cold War era====
+[[File:MerkavaMk4 ZE001m.jpg|thumb|[[Merkava]] Mark 4 [[main battle tank]] is equipped with a digital C4IS battle-management system.]]
+On the modern battlefield an [[intercom]] mounted in the crew helmet provides internal communications and a link to the [[communications network|radio network]], and on some tanks an external intercom on the rear of the tank provides communication with co-operating infantry. Radio networks employ radio [[voice procedure]] to minimize confusion and "chatter".
+A recent {{when|date=January 2013}} development in AFV [[Equipment of the Italian Army|equipment]] and doctrine is integration of information from the [[fire control system]], [[laser rangefinder]], [[Global Positioning System]] and terrain information via [[Electromagnetic pulse|hardened]] military specification [[electronics]] and a [[computer networks|battlefield network]] to display information on enemy targets and friendly units on a [[computer monitor|monitor]] in the tank. The sensor data can be sourced from nearby tanks, planes, [[Unmanned aerial vehicles|UAVs]] or, in the future infantry (such as the US [[Future Force Warrior]] project). This improves the tank commander's [[situational awareness]] and ability to [[navigate]] the battlefield and select and engage targets. In addition to easing the reporting burden by automatically logging all orders and actions, orders are sent via the network with text and graphical overlays. This is known as [[Network-centric warfare]] by the US, [[Network Enabled Capability]] (UK) or [[Digital Army (IDF)|Digital Army Battle Management System]] צי"ד (Israel). Advanced battle tanks, including the [[K2 Black Panther|K-2 Black Panther]], have taken up the first major step forward in adopting a fully [[radar integrated Fire Control System]] which allows it to detect tanks from a further distance and identify it as a friend-or-foe as well as increasing the tank's accuracy as well as its capability to lock onto tanks.
+
+====21st century====
+{{unreferenced section|date=January 2013}}
+{{See also|Military communications|C4ISTAR}}
+[[File:Limpid Armor LCG DSS.jpg|thumb|Circular review system of the company LimpidArmor]] 
+Performing situational awareness and communication is the one of four primary MBT functions in the 21st century.<ref name=MBT>{{cite web | last = Slyusar | first = Vadym | title = Methodology of identification of the critical requirements for armaments and military equipment.| work = VI International Scientific and Practical Conference "Coordination problems of military technical and devensive industrial policy in Ukraine. Weapons and military equipment development perspectives". Abstracts of reports. – October 10–11, 2018. – Kyiv. – DOI: 10.13140/RG.2.2.36335.69281| date = 2018 | url =https://www.researchgate.net/publication/330386141}}</ref> 
+To improve the crew's situational awareness MBTs use [[circular review system]] with a combination of [[Augmented reality]] and [[Artificial Intelligence]] technologies.<ref name=AI>{{cite web | last = Slyusar | first = Vadym | title = Artificial intelligence as the basis of future control networks.  | work = Preprint | date = 2019 | url =https://www.researchgate.net/publication/334573170}}</ref>
+
+Further advancements in tank defense systems have led to the development of [[active protection system]]s. These involve either one of two options:
+
+# '''Soft-kill''' – The Soft-kill protection systems use integrated on-board [[radar warning receiver]]s which can detect incoming anti-tank missiles and projectiles. Once detected, soft-kill measures will be deployed which involves deploying [[smoke screen]]s or [[smoke grenade]]s which interfere with the incoming missile's [[Infrared homing|infra-red]] tracking system. This will cause the incoming missile to miss the tank or to deactivate entirely
+# '''Hard-kill''' – The more advanced approach involves the [[Countermeasure|Hard-kill]] measures.  These involve directly destroying the incoming enemy missile or projectile by deploying the tank's own anti-missile projectile. This is seen as a more reliable approach due to its direct intervention measures rather than interference measures of the soft-kill systems. Both these active protection systems can be found on several [[main battle tank]]s including the K2 Black Panther|K-2 Black Panther, the Merkava and the Leopard 2A7.
+
+==Etymology==
+The word ''tank'' was first applied to the British "landships" in 1915, before they entered service, to keep their nature secret.
+
+===Origins===
+On 24 December 1915, a meeting took place of the Inter-Departmental Conference (including representatives of the Director of Naval Construction's Committee, the Admiralty, the Ministry of Munitions, and the War Office). Its purpose was to discuss the progress of the plans for what were described as "Caterpillar Machine Gun Destroyers or Land Cruisers." In his autobiography, [[Albert Gerald Stern]] (Secretary to the Landship Committee, later head of the Mechanical Warfare Supply Department) says that at that meeting "[[Thomas James Macnamara|Mr. (Thomas J.) Macnamara]] ([[Member of parliament|M.P.]], and [[Secretary to the Admiralty|Parliamentary and Financial Secretary to the Admiralty]]) then suggested, for secrecy's sake, to change the title of the Landship Committee. [[Sir Eustace Tennyson-d'Eyncourt, 1st Baronet|Mr. d'Eyncourt]] agreed that it was very desirable to retain secrecy by all means, and proposed to refer to the vessel as a "Water Carrier". In Government offices, committees and departments are always known by their initials. For this reason I, as Secretary, considered the proposed title totally unsuitable.{{efn|The initials W.C. are a British abbreviation for a [[Flush toilet#Water-closet (WC), the name|water closet]]; in other words, a toilet. However, later in the War, a number of Mk IV Tanks were fitted with grapnels to remove barbed wire. They were designated "Wire Cutters" and had the large letters "W.C." painted on their rear armor.<ref>{{cite book |title=Armoured Fighting Vehicles of the World, Volume One |author=Chamberlain, Peter|publisher=Cannon Publications |year=1998 |pages=49 |isbn=1-899695-02-8|display-authors=etal}}</ref>}} In our search for a synonymous term, we changed the word "Water Carrier" to "Tank," and became the "Tank Supply" or "T.S." Committee. That is how these weapons came to be called Tanks," and incorrectly added, "and the name has now been adopted by all countries in the world."<ref>''Tanks 1914–1918: The Log Book of a Pioneer''. Hodder & Stoughton, 1919, p. 39</ref>
+
+Colonel Ernest Swinton, who was secretary to the meeting, says that he was instructed to find a non-committal word when writing his report of the proceedings. In the evening he discussed it with a fellow officer, [[Walter Dally Jones|Lt-Col Walter Dally Jones]], and they chose the word "tank".  "That night, in the draft report of the conference, the word 'tank' was employed in its new sense for the first time."<ref>''Eye-Witness, And the Origin of the Tanks''; Major-General Sir Ernest D. Swinton; Doubleday, Doran & Co., 1933, p. 161</ref> Swinton's ''Notes on the Employment of Tanks'', in which he uses the word throughout, was published in January 1916.
+
+In July 1918, ''Popular Science Monthly'' reported:
+{{Quotation|Because a fellow of the [[Royal Historical Society]] has unintentionally misled the British public as to the origin of the famous "tanks", [[Sir William Tritton]], who designed and built them, has published the real story of their name&nbsp;... Since it was obviously inadvisable to herald "Little Willie's" reason for existence to the world he was known as the "Instructional Demonstration Unit." "Little Willie's" hull was called in the shop orders a "water carrier for Mesopotamia"; no one knew that the hull was intended to be mounted on a truck. Naturally, the water carrier began to be called a "tank". So the name came to be used by managers and foremen of the shop, until now it has a place in the army vocabulary and will probably be so known in history for all time.<ref>Popular Science Monthly, July 1918, p. 7.</ref>}}
+
+D'Eyncourt's account differs from Swinton's and Tritton's:
+{{Quotation|...&nbsp;when the future arrangements were under discussion for transporting the first landships to France a question arose as to how, from a security point of view, the consignment should be labelled. To justify their size we decided to call them 'water-carriers for Russia'&nbsp;—the idea being that they should be taken for some new method of taking water to forward troops in the battle areas. Lt.-Col. Swinton&nbsp;... raised a humorous objection to this, remarking that the War Office pundits would probably contract the description to 'W.C.'s for Russia', and that we had better forestall this by merely labelling the packages 'Tanks'. So tanks they became, and tanks they have remained."<ref>A Shipbuilder's Yarn; E.H.W.T. d'Eyncourt, Hutchinson & Co., 1948, p. 113</ref>}}
+
+This appears to be an imperfect recollection. He says that the name problem arose "when we shipped the first two vehicles to France the following year" (August 1916), but by that time the name "tank" had been in use for eight months. The tanks were labelled "With Care to Petrograd," but the belief was encouraged that they were a type of snowplough.
+
+===International===
+[[File:１０式戦車（第２戦車連隊）.jpg|thumb|A Japanese [[Type 10]] firing.]]
+The term "tank" is used throughout the English speaking world, but other countries use different terminology. In France, the second country to use tanks in battle, the word ''tank'' or ''tanque'' was adopted initially, but was then, largely at the insistence of [[Jean Baptiste Eugène Estienne|Colonel J.B.E. Estienne]], rejected in favour of ''char d'assaut'' ("assault vehicle") or simply ''char'' ("vehicle"). During World War I, German sources tended to refer to British tanks as ''Tanks''<ref>Die Tankschlacht bei Cambrai: Dr. Georg Strutz, pub 1929.</ref><ref>{{cite web|url=http://www.iwm.org.uk/collections/item/object/8666|title=Die Englischen Tanks bei Cambrai English Tanks Cambrai (Art.IWM PST 8318)|work=Imperial War Museums|access-date=1 April 2015|url-status=live|archive-url=https://web.archive.org/web/20150215232702/http://www.iwm.org.uk/collections/item/object/8666|archive-date=15 February 2015}}</ref> and to their own as ''Kampfwagen''.<ref>Die deutschen Kampfwagen im Weltkriege; Ernst Volckheim, 1937.</ref> Later, tanks became referred to as "Panzer" (lit. "armor"), a shortened form of the full term "''Panzerkampfwagen''", literally "armored fighting vehicle". In the Arab world, tanks are called ''Dabbāba'' (after a type of [[siege engine]]). In Italian, a tank is a "''carro armato''" (lit. "armed wagon"), without reference to its armor. Norway uses the term ''stridsvogn'' and Sweden the similar ''stridsvagn'' (lit. "battle wagon", also used for "chariots"), whereas Denmark uses ''kampvogn'' (lit. fight wagon). Finland uses ''panssarivaunu'' (armored wagon), although ''tankki'' is also used colloquially. The Polish name ''czołg'', derived from verb ''czołgać się'' ("to crawl"), is used, depicting the way of machine's movement and its speed. In Hungarian the tank is called ''harckocsi'' (combat wagon), albeit ''tank'' is also common. In Japanese, the term {{nihongo|''sensha''|戦車||lit. "battle vehicle"}} is taken from Chinese and used, and this term is likewise borrowed into Korean as ''jeoncha'' (전차/戰車); more recent Chinese literature uses the English derived 坦克 ''tǎnkè'' (tank) as opposed to 戰車 ''zhànchē'' (battle vehicle) used in earlier days.
+
+==Combat milestones==
+<!-- Notable milestones only, please; keep list short -->
+{|class="wikitable" style="text-align: left;"
+|-
+! Conflict
+! Year
+! Total<br />number<br />of tanks
+! Notes
+|-
+|| [[Battle of the Somme]]
+|| 1916
+| style="text-align: right;" | 49
+|| Tanks first used in battle<ref>{{cite book |title=The Somme |last=Sheffield |first=G. |publisher=Cassell |year=2003 |location=London |isbn=0-304-36649-8 |url-access=registration |url=https://archive.org/details/somme0000shef }}</ref><ref>{{cite book |last=Philpott |first=W. |title=Bloody Victory: The Sacrifice on the Somme and the Making of the Twentieth Century |year=2009 |publisher=Little, Brown |location=London |edition=1st |isbn=978-1-4087-0108-9}}</ref>
+|-
+|| [[Battle of Cambrai (1917)|Battle of Cambrai]]
+|| 1917
+| style="text-align: right;" | 378
+|| First successful use of tanks<ref>{{cite book|last=Hammond |first=B. |title=Cambrai 1917: The Myth of the First Great Tank Battle |publisher=Orion |location=London |year=2009 |isbn=978-0-7538-2605-8}}</ref>
+|-
+|| [[Second Battle of Villers-Bretonneux]]
+|| 1918
+| style="text-align: right;" | 23
+|| First tank vs. tank battle
+|-
+|| [[Spanish Civil War]]
+|| 1936–1939
+| style="text-align: right;" | ~700
+|| Interwar tanks in combat
+|-
+|| [[Invasion of Poland]]
+|| 1939
+| style="text-align: right;" | ~8,000
+|| Origin of "''[[Blitzkrieg]]''" term
+|-
+|| [[Battle of Hannut]], Belgium
+|| 1940
+| style="text-align: right;" | ~1,200
+|| First large tank vs. tank battle
+|-
+|| [[Battle of France]]
+|| 1940
+| style="text-align: right;" | 5,828
+|| Weaker but better commanded tanks successful in combined arms operations
+|-
+|| [[Battle of Kursk]]
+|| 1943
+| style="text-align: right;" | 10,610
+|| Most tanks in one battle
+|-
+|| [[Battle of the Sinai (1973)|Battle of the Sinai]]
+|| 1973
+| style="text-align: right;" | 1,200
+|| Combat between [[main battle tank]]s
+|-
+|| [[Gulf War]]
+|| 1991
+| style="text-align: right;" | ~6,000
+|| Modern high-tech tanks prove successful
+|-
+|}
+
+==See also==
+{{Columns-list|
+* {{annotated link|Amphibious Combat Vehicle}}
+* {{annotated link|Armored bulldozer}}
+* {{annotated link|Armored car (military)}}
+* {{annotated link|Armored Multi-Purpose Vehicle}}
+* {{annotated link|Armoured personnel carrier|abbreviation=APC}}
+* {{annotated link|Armoured recovery vehicle}}
+* {{annotated link|Armoured vehicle-launched bridge}}
+* {{annotated link|Armoured warfare}}
+* {{annotated link|Tanks in the Cold War}}
+* [[Circular review system]]
+* {{annotated link|Comparison of early World War II tanks}}
+* {{annotated link|Comparison of World War I tanks}}
+* {{annotated link|Expeditionary Fighting Vehicle}}
+* {{annotated link|Future Combat Systems}}
+* {{annotated link|Future Combat Systems Manned Ground Vehicles}}
+* {{annotated link|Ground Combat Vehicle}}
+* {{annotated link|History of the tank}}
+* {{annotated link|Hobart's Funnies}}
+* {{annotated link|Hull-down}}
+* {{annotated link|Infantry fighting vehicle|abbreviation=IFV}}
+* {{annotated link|Infantry mobility vehicle}}
+* {{annotated link|Joint Light Tactical Vehicle}}
+* [[List of main battle tanks by country]]
+* [[List of main battle tanks by generation]]
+* [[List of modern armored fighting vehicles]]
+* [[Lists of armored fighting vehicles]]
+* {{annotated link|Main battle tank}}
+* {{annotated link|Medium Mine Protected Vehicle}}
+* {{annotated link|Military engineering vehicle}}
+* {{annotated link|Tank classification}}
+* {{annotated link|Tank desant}}
+* {{annotated link|Tank destroyer}}
+* {{annotated link|Tankette}}
+* {{annotated link|Tanks in World War I}}
+* {{annotated link|Tanks in World War II}}
+* {{annotated link|Tanks of the interwar period}}
+* {{annotated link|Tanks of the post–Cold War era}}
+* {{annotated link|Unmanned ground vehicle}}
+* [[War wagon]]
+}}
+
+== Notes ==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+{{Refbegin|30em}}
+* {{Citation
+ | title = Electric/Hybrid Electric Drive Vehicles for Military Applications
+ | journal = Military Technology
+ | issue = 9/2007
+ | pages = 132–44
+ | publisher = Moench Verlagsgesellschaft mbH
+ |date=September 2007
+}}
+* {{Citation
+ | last = Barris
+ | first = Ted
+ | title = Victory at Vimy: Canada Comes of Age April 9–12, 1917
+ | publisher = Thomas Allen Publishers
+ | year = 2007
+ | page = 116
+ | isbn = 978-0-88762-253-3
+}}
+* {{Citation
+ | last = Cawthorne
+ | first = Nigel
+ | title = Steel Fist: Tank Warfare 1939–45
+ | publisher = Arcturus Publishing Ltd.
+ | location = London
+ | year = 2003
+ | isbn = 0-572-02872-5
+}}
+* {{Citation
+ | last = Churchill
+ | first = Winston
+ | title = The World Crisis (Abridged)
+ | publisher = Macmillan Publishing Company
+ | location = Canada & New York
+ | year = 1992
+ | isbn = 0-684-19453-8
+ | url = https://archive.org/details/worldcrisisabr00chur
+ }}
+* {{Citation
+ |author1=Cooper, Matthew |author2=Lucas, James
+ | name-list-style=amp
+ | title = Panzer: The Armoured Force of the Third Reich
+ | publisher = Book Club Associates
+ | year = 1979
+}}
+* {{Citation
+ |last=Coox
+ |first=Alvin D.
+ |author-link = Alvin Coox
+ |title= Nomonhan; Japan against Russia, 1939
+ |publisher=[[Stanford University Press]]
+ |year= 1985
+ |isbn= 0-8047-1160-7
+}}
+* {{Citation
+ | last = Deighton
+ | first = Len
+ | title = Blitzkrieg: From the rise of Hitler to the fall of Dunkirk
+ | publisher = Fakenham Press Limited
+ | location = Fakenham
+ | year = 1979
+ | isbn = 0-224-01648-2
+}}
+* {{Citation
+ | last = DiNardo
+ | first = Richard L.
+ | title = The First Modern Tank: Gunther Burstyn and His Motorgeschutz
+ | publisher = Society for Military History
+ | location = JSTOR
+ | jstor = 1988528
+ | date = January 1986
+ | volume = 50
+ | pages = 12–15
+ | journal = Military Affairs
+ | issue = 1
+| doi = 10.2307/1988528
+ }}
+* {{Citation
+ | last = Col. Eshel
+ | first = David
+ | title = Assessing the performance of Merkava Tanks
+ | url = http://www.defense-update.com/analysis/lebanon_war_3.htm
+ | publisher = Defense Update
+ | year = 2007
+ | access-date = 16 May 2008
+}}
+* {{Citation
+ | last = Foley
+ | first = Michael
+ | title = Rise of the Tank: Armoured Vehicles and their use in the First World War
+ | publisher = Pen & Sword Military
+ | year = 2014
+ | isbn = 978-1-78346-393-0
+}}
+* {{Citation
+ | last = Forty
+ | first = George
+ | title = Tank Warfare in World War II
+ | publisher = Constable & Robinson Ltd
+ | location = London
+ | year = 2004
+ | isbn = 1-84119-864-1
+}}
+* {{Citation
+ | last = Forty
+ | first = George
+ | title = The World Encyclopedia of Tanks & Armoured Fighting Vehicles
+ | publisher = Lorenz Books
+ | year = 2006
+ | isbn = 0-7548-1741-5
+}}
+* {{Citation
+ | last = Gilbert
+ | first = Sir Martin
+ | title = Churchill: A Life
+ | publisher = Thomas Allen Publishers
+ | year = 1991
+ | page = 298
+ | isbn = 0-7624-2081-2
+}}
+* {{Citation
+ | last = Goldman
+ | first = Stuart D.
+ | title = Nomonhan 1939; The Red Army's Victory That Shaped World War II
+ | publisher = [[Naval Institute Press]]
+ | year = 2012
+ | isbn = 978-1-59114-329-1
+}}
+* {{Citation
+ | last = Goodell
+ | first = Brad
+ | title = Electrothermal Chemical (ETC) Armament System Integration Into a Combat Vehicle
+ | journal = IEEE Transactions on Magnetics
+ | volume = 43
+ | issue = 1
+ | page = 4
+ | publisher = IEEE
+ |date=January 2007
+ | doi = 10.1109/TMAG.2006.887524
+| bibcode = 2007ITM....43..456G
+ | s2cid = 35796526
+ }}
+* {{Citation
+ | last = Hilmes
+ | first = Rolf
+ | title = Arming Future MBTs – Some Considerations
+ | journal = Military Technology
+ | issue = 12/2004
+ | page = 4
+ | publisher = Moench Verlagsgesellschaft Mbh
+ |date=December 2004
+}}
+* {{Citation
+ | last = House
+ | first = Jonathan M.
+ | title = Toward Combined Arms Warfare: A Survey of 20th-Century Tactics, Doctrine, and Organization
+ | publisher = United States Government Printing
+ | url = http://usacac.army.mil/cac2/cgsc/carl/resources/csi/House/House.asp
+ | year = 1984
+ | access-date = 18 May 2008
+ | oclc = 464265702
+}}
+* {{Citation
+| last = Hunnicutt
+| first = R.P.
+| title = Patton: A History of the American Main Battle Tank
+| publisher = Presidio
+| year = 1984
+| isbn = 0-89141-230-1
+}}
+* {{Citation
+ | last = Komarow
+ | first = Steven
+ | title = Tanks adapted for urban fights they once avoided
+ | publisher = USA Today
+ | url = https://www.usatoday.com/news/world/2005-03-29-tank-inside_x.htm
+ | access-date = 16 May 2008
+| date=29 March 2005
+}}
+* {{Citation
+ | last = Komarow
+ | first = Steven
+ | title = Tanks take a beating in Iraq
+ | publisher = USA Today
+ | url = https://www.usatoday.com/news/world/iraq/2005-03-29-abrams-tank-a_x.htm
+ | access-date = 16 May 2008
+ | date=29 March 2005
+}}
+* {{Citation
+ | last1 = Koschier
+ | first1 = Angelo V.
+ | last2 = Mauch
+ | first2 = Hagen R.
+ | title = Advantages of the LV100 as a Power Producer in a Hybrid Propulsion System for Future Fighting Vehicles
+ | journal = Journal of Engineering for Gas Turbines and Power
+ | volume = 122
+ | issue = October 2000
+ | pages = 693–98
+ | year = 2000
+ | doi = 10.1115/1.1287585
+}}
+* {{citation
+ | last1 = Manrique
+ | first1 = Jose
+ | last2 = Franco
+ | first2 = Lucas M.
+ | title = Las Armas de la Guerra Civil Espanola
+ | publisher = 28002 Madrid; La Los Libros
+ | year = 2006
+ | language = es
+ | isbn = 84-9734-475-8
+}}
+* {{Citation
+ | last = Marcus
+ | first = Jonathan
+ | title = Tough lessons for Israeli armour
+ | work = BBC News
+ | url = http://news.bbc.co.uk/2/hi/middle_east/4794829.stm
+ | access-date = 26 May 2008
+| date=15 August 2006
+}}
+* {{Citation
+ | last = McDonald
+ | first = Colin F.
+ | title = Gas Turbine Recuperator Renaissance
+ | journal = Heat Recovery Systems & CHP
+ | volume = 10
+ | issue = 1
+ | pages = 1–30
+ | publisher = Pergamon Press
+ | year = 1990
+ | doi = 10.1016/0890-4332(90)90246-G
+}}
+*{{Citation
+ | last=Moore
+ | first=Craig
+ | title=Tank Hunter World War One
+ | publisher= The History Press
+ | year = 2017
+ | isbn = 978-0-7509-8246-7
+}}
+* {{Citation
+ | last = Pengelley
+ | first = Rupert
+ | title = A new era in tank man armament: The options multiply
+ | journal = Jane's International Defence Review
+ | issue = November 1989
+ | pages = 1521–31
+ | year = 1989
+}}
+* {{Citation
+ | last = Pöhlmann
+ | first = Markus
+ | title = Der Panzer und die Mechanisierung des Krieges: Eine deutsche Geschichte 1890 bis 1945
+ | location = Paderborn
+ | publisher = Ferdinand Schöningh
+ | year = 2016
+ | isbn = 978-3-506-78355-4
+}}
+* {{Citation
+ | last = Regan
+ | first = Geoffrey
+ | title = The Guinness Book of More Military Blunders
+ | location = London
+ | publisher = Guinness Publishing
+ | year = 1993
+ | isbn = 0-85112-961-7
+ | url = https://archive.org/details/guinnessbookofmi00rega
+ }}
+* {{Citation
+ | title = The Future Combat System (FCS): Technology Evolution Review and Feasibility Assessment
+ | url = http://www.globalsecurity.org/military/library/news/1997/5fcs97.pdf
+ | publisher = GlobalSecurity.org
+ | access-date = 26 May 2008
+ |author1=Sharoni, Asher H. |author2=Bacon, Lawrence D.
+ |name-list-style=amp
+}}
+* Starry, Donn A. GEN: ''Mounted Combat in Vietnam.'' ''Vietnam Studies''; [[Department of the Army]], Washington, DC 1978.
+* {{Citation |author1       = Thompson, William J.
+ |author2       = Sorvig, Kim
+ |name-list-style = amp
+ |title         = Sustainable Landscape Construction: A Guide to Green Building Outdoors
+ |publisher     = Island Press
+ |year          = 2000
+ |page          = [https://archive.org/details/sustainablelands0000thom/page/51 51]
+ |isbn          = 1-55963-646-7
+ |url           = https://archive.org/details/sustainablelands0000thom/page/51
+}}
+* {{Citation
+ | author = Time Life Books editors
+ | title = The Armored Fist
+ | location = Alexandria, Virginia
+ | publisher = Time-Life Books
+ | year = 1990 <!-- | ISBN = 0-8094-8704-7 -->
+ | isbn = 0-8094-8609-1
+ | url-access = registration
+ | url = https://archive.org/details/armoredfist00time
+ }}
+* {{Citation
+ | title = Chewed Up
+ | location = Alexandria, Virginia
+ | publisher = [[Time (magazine)|Time]] magazine
+ | url = http://www.time.com/time/magazine/article/0,9171,757549,00.html
+ | archive-url = https://web.archive.org/web/20090217111036/http://www.time.com/time/magazine/article/0,9171,757549,00.html
+ | url-status = dead
+ | archive-date = 17 February 2009
+| date = 5 April 1937
+| access-date = 16 May 2008
+}}
+* {{Citation
+ | last = Tomes
+ | first = Robert R.
+ | title = Relearning Counterinsurgency Warfare
+ | journal = Parameters
+ | volume = Vol. XXXIV
+ | issue = 1
+ | pages = 16–28
+ | publisher = US Army War College
+ | date =Spring 2004
+ | url = http://www.army.mil/prof_writing/volumes/volume2/march_2004/3_04_1.html
+ | access-date = 26 May 2008
+ |archive-url = https://web.archive.org/web/20080514095825/http://www.army.mil/prof_writing/volumes/volume2/march_2004/3_04_1.html <!-- Bot retrieved archive -->
+ |archive-date = 14 May 2008
+}}
+* {{Citation
+ | last = von Senger und Etterlin
+ | first = Dr. F.M.
+ | title = The World's Armoured Fighting Vehicles
+ | publisher = Macdonald & Co. (Publishers) Ltd.
+ | location = London
+ | year = 1960
+}}
+* {{Citation
+ | last = Wickert
+ | first = Matthias
+ | title = Electric Armor Against Shaped Charges: Analysis of Jet Distortion With Respect to Jet Dynamics and Current Flow
+ | journal = IEEE Transactions on Magnetics
+ | volume = 43
+ | issue = 1
+ | pages = 426–29
+ | publisher = IEEE
+ |date=January 2007
+ | doi = 10.1109/TMAG.2006.887650
+| bibcode = 2007ITM....43..426W
+ | s2cid = 12106623
+ }}
+* {{Citation
+ | last = Willmott
+ | first = H.P.
+ | title = First World War
+ | publisher = Dorling Kindersley
+ | year = 2003
+ | isbn = 1-4053-0029-9
+}}
+* {{Citation
+ | last = Wright
+ | first = Patrick
+ | title = Tank: The Progress of a Monstrous War Machine
+ | year = 2002
+ | isbn = 978-0-670-03070-5
+ | url = https://archive.org/details/tankprogressofmo00wrig
+ }}
+* {{Citation
+ | last1 = Xiaopeng
+ | first1 = Li
+ | author2 = Meng Tao
+ | author3 = Zhao Chun
+ | author4 = Li Liyi
+ | title = Multiprojectile Active Electromagnetic Armor
+ | journal = IEEE Transactions on Magnetics
+ | volume = 43
+ | issue = 1
+ | pages = 460–62
+ | date=January 2007
+ | doi = 10.1109/TMAG.2006.887581
+| bibcode = 2007ITM....43..460L
+ | s2cid = 42968381
+ }}
+* {{Citation
+ |author1=Zaloga, Steven J. |author2=Grandsen, James
+ | name-list-style=amp
+ | title = Soviet Tanks and Combat Vehicles of World War Two
+ | location = London
+ | publisher = Arms and Armour Press
+ | year = 1984
+ | isbn = 0-85368-606-8
+}}
+* {{Citation
+ | last1 = Zaloga
+ | first1 = Steven J.
+ | last2 = Kinnear
+ | first2 = Jim
+ | last3 = Aksenov
+ | first3 = Andrey
+ | last4 = Koshchavtsev
+ | first4 = Aleksandr
+ | year = 1997
+ | title = Soviet Tanks in Combat 1941–45: The T-28, T-34, T-34-85, and T-44 Medium Tanks
+ | location = Hong Kong
+ | publisher = Concord Publication
+ | isbn = 962-361-615-5
+}}
+* {{Citation
+| last = Macksey
+| first = Kenneth
+| title = Tank Warfare, A History of Tanks in Battle
+| year = 1976
+| location = London
+| publisher = Panther
+| isbn = 0-586-04302-0
+}}
+* {{Citation
+|author1=Macksey, Kenneth |author2=Batchelor, John H.
+ |name-list-style=amp | title = Tank: A History of the Armoured Fighting Vehicle
+| location = New York
+| publisher = Scribner
+| year = 1970 <!--| ISBN = 0-684-13651-1 -->
+| isbn = 0-345-02166-5
+}}
+* {{Citation
+| last = Ogorkiewicz
+| first = Richard M.
+| title = Design and Development of Fighting Vehicles
+| year = 1968
+| location = London
+| publisher = MacDonald
+| isbn = 0-356-01461-4
+}}
+* {{Citation
+| last = Ogorkiewicz
+| first = Richard M.
+| title = Armoured Forces: A History of Armoured Forces and Their Vehicles
+| year = 1970
+| publisher = Arms & Armour Press
+| isbn = 0-85368-049-3
+}}
+* {{Citation
+| last = Ogorkiewicz
+| first = Richard M.
+| title = Technology of Tanks
+| year = 1991
+| location = Coulsdon, Surrey
+| publisher = Jane's Information Group
+| isbn = 0-7106-0595-1
+}}
+* {{Citation
+| last = Weeks
+| first = John
+| title = Men Against Tanks: A History of Anti-Tank Warfare
+| location = New York
+| publisher = Mason Charter
+| year = 1975
+| isbn = 0-88405-130-7
+| url = https://archive.org/details/menagainsttanksh00week
+}}
+{{Refend}}
+
+==External links==
+{{Sister project links|tank}}
+{{Spoken Wikipedia|Tank.ogg|date=11 September 2005}}
+* [http://www.onwar.com/tanks/index.htm OnWar's Tanks of World War II] Comprehensive specifications and diagrams of World War II tanks.
+{{TankTopics}}
+{{WWI tanks|style=wide}}
+{{Interwar tanks|style=wide}}
+{{WWII tanks|style=wide}}
+{{Cold War tanks|style=wide}}
+{{Post-Cold War tanks|style=wide}}
+{{Portal bar|Tanks|War}}
+
+{{Authority control}}
+
+[[Category:Tanks| ]]
+[[Category:Armoured fighting vehicles by type]]
+[[Category:English inventions]]
+[[Category:Armoured warfare]]
+[[Category:Tracked armoured fighting vehicles]]
+[[Category:Articles containing video clips]]

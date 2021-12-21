@@ -1,0 +1,73 @@
+{{Short description|Landform created by running water and/or mass movement eroding sharply into soil}}
+{{About|the landform|other uses}}
+[[File:Gully in the Kharkov region.jpg|thumb|A gully in [[Kharkiv oblast]], [[Ukraine]].]]
+[[File:SomaliaLuftaufnahme1993.jpg|thumb|Gullied landscape in [[Somalia]].]]
+<!--LEAVE THIS HERE TO AVOID BLANKINGS-->
+A '''gully''' is a [[landform]] created by running water, mass movement, or commonly a combination of both [[erosion|eroding]] sharply into [[soil]] or other relatively erodible material, typically on a hillside or in river floodplains or terraces. Gullies resemble large [[ditch]]es or small [[valley]]s, but are metres to tens of metres in depth and width and are characterised by a distinct 'headscarp' or '[[headwall]]' and progress by [[Headward erosion|headward (i.e. upstream) erosion]].  Gullies are commonly related to intermittent or ephemeral water flow usually associated with localised intense or protracted rainfall events, or snowmelt. Gullies can be formed and accelerated by cultivation practices on hillslopes (often gentle gradient) in [[Farmland (farming)|farmland]], and they can develop rapidly in rangelands from existing natural erosion forms subject to vegetative cover removal and livestock activity.
+
+==Etymology==
+The earliest known usage of the term is from 1657. It originates from the French word ''goulet'', a diminutive form of ''goule'' which means ''throat''. It is possible that the term is connected to the name of a type of knife used at the time, a ''gully-knife.''{{citation needed|date=March 2015}}
+
+== Formation and consequences ==
+Gully erosion can progress through a variety and combination of processes. The erosion processes include incision and bank erosion by water flow, mass movement of saturated or unsaturated bank or wall material, groundwater seepage - sapping the overlying material, collapse of soil pipes or tunnels in dispersive soils, or a combination of these to a greater or lesser degree.  Hillsides are more prone to gully erosion when they are cleared of vegetation cover, through [[deforestation]], [[over-grazing]] or other means. Gullies in rangelands can be initiated by concentrated water flow down tracks worn by livestock or vehicle tracks  The eroded [[soil]] is easily carried by the flowing water after being dislodged from the ground, normally when [[rainfall]] falls during short, intense storms such as during [[thunderstorms]].
+
+A gully may grow in length by means of [[Headward erosion|headward (i.e. upstream) erosion]] at a [[knick point]]. This erosion can result from [[interflow]] and soil piping ([[internal erosion]]) as well as [[surface runoff]]. Gully erosion may also advance laterally by similar methods, including mass movement, acting on the gully walls (banks) and by developing 'branches' (a type of [[tributary]]).
+
+Gullies reduce the productivity of farmlands where they incise into the land, and produce [[sediment]] that may choke downstream [[waterbodies]], and reduce water quality within the drainage system and lake or coastal system.  Because of this, much effort is invested into the study of gullies within the scope of [[geomorphology]] and [[soil science]], in the prevention of gully erosion, and in remediation and rehabilitation of gullied landscapes.  The total soil loss from gully formation and subsequent downstream [[river]] [[sedimentation]] can be substantial, especially from unstable soil materials prone to [[dispersion (soil)|dispersion]].
+
+== Artificial gullies ==
+Gullies can be formed or enlarged by a number of human activities.
+
+Artificial gullies are formed during [[hydraulic mining]] when jets or streams of water are projected onto soft [[alluvial deposits]] to extract [[gold]] or [[tin ore]]. The remains of such mining methods are very visible landform features in old [[gold mining|goldfield]]s such as in [[California]] and northern Spain. The [[badland]]s at [[Las Medulas]] for example, were created during the Roman period by [[hushing]] or [[hydraulic mining]] of the gold-rich alluvium with water supplied by numerous aqueducts tapping nearby rivers. Each [[Aqueduct (watercourse)|aqueduct]] produced large gullies below by erosion of the soft deposits. The effluvium was carefully washed with smaller streams of water to extract the [[Gold nugget|nuggets]] and gold dust.{{citation needed|date=October 2011}}
+
+==On Mars==
+{{Main|Gully (Mars)}}
+
+Gullies are widespread at mid- to high latitudes on the surface of [[Mars]], and are some of the youngest features observed on that planet, probably forming within the last few 100,000 years. There, they are one of the best lines of evidence for the presence of [[Water on Mars|liquid water]] on Mars in the recent geological past, probably resulting from the slight melting of snowpacks on the surface<ref>Christensen, PR (2003). "Formation of recent martian gullies through melting of extensive water-rich snow deposits.". Nature 422 (6927): 45–8. {{doi|10.1038/nature01436}}. {{PMID|12594459}}.</ref> or ice in the shallow subsurface<ref>Costard, F. , Forget, F. , Mangold, N. & Peulvast, J. P. Formation of recent martian debris flows by melting of near-surface ground ice at high obliquity. Science 295, 110–113</ref> on the warmest days of the Martian year. Flow as springs from deeper seated liquid water [[aquifers]] in the deeper subsurface is also a possible explanation for the formation of some Martian gullies.<ref>Malin M. C. and Edgett K. S. (2000) Science, 288, 2330–2335.</ref>
+
+==Gallery==
+<gallery mode=packed>
+File:A gully (Budanova Gora) 1.jpg|A gully in [[Saratov Oblast]], [[Russia]].
+File:A gully (Budanova Gora) 3.jpg|Inside the gully (to the left) in Saratov Oblast, Russia.
+File:Voçoroca (23 12 24S - 48 47 59W) - REFON 3.JPG|''Voçoroca'' (Portuguese for gully) in [[Avaré]], [[Brasil]]
+File:Montane Savannah Landscape in West Java.png|Gully formed from volcanic sedimentation in [[West Java]], [[Indonesia]]
+</gallery>
+
+==See also==
+{{div col}}
+* {{annotated link|Arroyo (creek)}}
+* {{annotated link|Badlands}}
+* {{annotated link|Coulee}}
+* {{annotated link|Couloir}} – a narrow gully with a steep gradient in a mountainous terrain
+* {{annotated link|Dale (landform)}}
+* {{annotated link|Draw (terrain)}}
+* {{annotated link|Gulch}}
+* {{annotated link|Lavaka}}
+* {{annotated link|Linn (geography)}} - gully in Scotland or Northern England in rock
+* {{annotated link|Ravine}}
+* {{annotated link|Rill}} – a shallow channel cut into soil by erosion from flowing water
+* {{annotated link|Wadi}}
+{{div col end}}
+
+==References==
+* ''Oxford English Dictionary''
+{{Reflist}}
+
+== External links ==
+{{Commons category|Erosion channels|Gully}}
+
+{{Rivers, streams and springs}}
+{{interwikiconflict}}
+{{Authority control}}
+
+[[Category:Environmental soil science]]
+[[Category:Slope landforms]]
+[[Category:Fluvial landforms]]
+[[Category:Erosion landforms]]
+[[Category:Canyons and gorges]]
+[[Category:Soil erosion]]
+[[Category:Valleys]]
+[[Category:Soil landforms]]
+
+[[ca:Xaragall]]
+[[it:Calanco]]

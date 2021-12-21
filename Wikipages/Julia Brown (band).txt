@@ -1,0 +1,114 @@
+{{Infobox musical artist
+| name            = Julia Brown
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Baltimore]], [[Maryland]]
+| genre           = [[Indie rock]], [[indie pop]], [[lo-fi]], [[bedroom pop]]
+| years_active    = {{start date|2013 - 2016}}
+| label           = Birdtapes
+| associated_acts = [[American Pleasure Club]], [[Ricky Eat Acid]], Starry Cat, Mad Dads
+| website         = <!-- {{URL|example.com}} -->
+| members         = *Sam Ray (guitar, vocals)
+*John Toohey (drums)
+*Alec Simke (bass)
+*Caroline White (viola, backing vocals)
+*Dan Collins (guitar, keyboard)
+}}
+
+'''Julia Brown''' is an American [[indie pop]] band from [[Baltimore]], [[Maryland]].
+
+==History==
+Julia Brown began in early 2013 after the break up of the band [[Teen Suicide (band)|Teen Suicide]], with the release of their debut studio album ''to be close to you'' via Birdtapes.<ref>{{cite web|last1=Greene|first1=Jayson|title=Julia Brown - To Be Close to You|url=http://pitchfork.com/reviews/albums/18017-julia-brown-to-be-close-to-you/|publisher=Pitchfork|accessdate=22 June 2015}}</ref><ref>{{cite web|title=EP: Julia Brown – to be close to you|url=http://theup-turn.com/2013/02/22/ep-julia-brown-to-be-close-to-you/|publisher=The Up-Turn|accessdate=22 June 2015}}</ref> They would feature on a split with Modern Baseball and Old Grey the same year and toured throughout the year until their last concert in October, and the band fell inactive as Sam and Torts reformed [[American Pleasure Club|Teen Suicide]] with J2 on guitar soon after.
+
+In 2014, Julia Brown released their second studio album independently (and on Joy Void Recordings in 2016), titled ''An Abundance of Strawberries''.<ref>{{cite web|last1=Ward|first1=Adam|title=Julia Brown - An Abundance of Strawberries|url=http://www.portalsmusic.com/2014/08/album-reflection/julia-brown-abundance-strawberries/|publisher=Portals Music|accessdate=22 June 2015}}</ref><ref>{{cite web|last1=McDermott|first1=Patrick|title=Listen To Julia Brown's Self-Leaked "An Abundance of Strawberries"|url=http://www.thefader.com/2014/11/21/she-wants-to-die-by-an-abundance-of-strawberries|publisher=The Fader|accessdate=22 June 2015}}</ref><ref>{{cite web|last1=Geffen|first1=Sasha|title=Beyonce, D'Angelo, and the albums that don't make year-end lists|url=http://www.chicagoreader.com/Bleader/archives/2014/12/18/beyonce-dangelo-and-the-albums-that-dont-make-year-end-lists|publisher=Chicago Reader|accessdate=23 June 2015}}</ref><ref>{{cite web|last1=Scott|first1=Linzy|title=Music You May Be Interested In (It’s All Really Good!)|url=http://wrvu.org/music-you-may-be-interested-in-its-all-really-good/|publisher=WRVU|accessdate=23 June 2015}}</ref>
+
+In 2018, a compilation titled 'An Abundance of BSides & Shit' was released on the group's Bandcamp page.
+
+In May 2021, the previous compilation was rereleased as ''An Abundance of B-sides,'' which contains one additional song, "Closing, On A Roof (Acoustic Demo)". 
+
+==Band members==
+*Sam Ray&nbsp;– lead vocals, lead guitar (2013 - 2014)
+*Dan "DC" Collins&nbsp;– rhythm guitar, keyboards, bass (2013)
+*Alec "Torts" Simke&nbsp;– bass, keyboards, backing vocals (2013 - 2014)
+*John "J2" Toohey&nbsp;– drums (2013 - 2014)
+*Caroline White&nbsp;– viola, backing vocals (2013 - 2014)
+
+=== Timeline ===
+{{#tag:timeline|
+ImageSize  = width:800  height:auto  barincrement:20
+PlotArea   = left:110  bottom:75  top:0  right:0
+Alignbars  = justify
+DateFormat = mm/dd/yyyy
+Period     = from:01/01/2013 till:01/31/2016
+TimeAxis   = orientation:horizontal format:yyyy
+ScaleMinor = increment:1  start:2013
+ScaleMajor = increment:2  start:2013
+Legend     = position:bottom  orientation:vertical  columns:1
+
+Colors =
+  id:Vocals      value:red           legend:Vocals
+  id:Guitar      value:green         legend:Guitar
+  id:Viola       value:drabgreen     legend:Viola
+  id:Bass        value:blue          legend:Bass
+  id:Electronics value:yellow        legend:Electronics
+  id:Drums       value:orange        legend:Drums
+  id:Lines       value:black         legend:Studio_album
+  id:lines2      value:gray(0.4)     legend:EPs
+  id:lines3      value:gray(0.7)     legend:Singles
+
+LineData =
+  at:02/22/2013 color:lines  layer:back
+  at:01/15/2016 color:lines  layer:back
+
+  at:06/11/2013 color:lines2 layer:back
+
+BarData =
+  bar:Ray          text:"Sam Ray"
+  bar:Dan          text:"Dan Collins"
+  bar:Simke        text:"Alec 'Torts' Simke"
+  bar:White        text:"Caroline White"
+  bar:Toohey       text:"John 'J2' Toohey"
+
+PlotData=
+ width:11   textcolor:black  align:left  anchor:from  shift:(10,-4)
+  bar:Ray        from:01/01/2013 till:12/31/2014  color:Guitar
+  bar:Simke      from:01/01/2013 till:12/31/2014  color:Bass
+  bar:White      from:01/01/2013 till:12/31/2014  color:Viola
+  bar:Dan        from:01/01/2013 till:10/25/2013  color:Guitar
+  bar:Toohey     from:01/01/2013 till:12/31/2014  color:Drums
+
+ width:3  textcolor:black  align:left  anchor:from  shift:(10,-4)
+  bar:Ray       from:start      till:12/31/2014   color:Vocals
+  bar:Simke     from:01/01/2013 till:12/31/2014   color:Vocals
+  bar:Toohey    from:01/01/2013 till:12/31/2014   color:Vocals
+  bar:White     from:01/01/2013 till:12/31/2014   color:Vocals
+  bar:Dan       from:start      till:10/25/2013   color:Electronics
+
+ width:7  textcolor:black  align:left  anchor:from  shift:(10,-4)
+  bar:Ray       from:start      till:12/31/2014   color:Electronics
+  bar:Simke     from:01/01/2013 till:12/31/2014   color:Electronics
+  bar:Dan       from:01/01/2013 till:10/25/2013   color:Bass
+
+}}
+
+==Discography==
+'''Studio albums'''
+*to be close to you (2013, Birdtapes)
+*An Abundance Of Strawberries (2014, Self-released; 2016, Joy Void Recordings)
+
+'''Singles'''
+*"Library" B/W "I Wanna Be A Witch" (2013)
+
+==References==
+{{Reflist|30em}}
+
+{{Authority control}}
+
+[[Category:Indie pop groups from Maryland]]
+[[Category:Musical groups established in 2013]]
+[[Category:Musical groups from Baltimore]]
+[[Category:2013 establishments in Maryland]]

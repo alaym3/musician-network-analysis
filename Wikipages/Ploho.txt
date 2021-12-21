@@ -1,0 +1,77 @@
+{{Infobox musical artist
+| name            = Ploho
+| image           = Ploho.jpg
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Novosibirsk]], Russia
+| genre           = [[Post-punk]], [[Goth rock]]
+| years_active    = 2013–present
+| label           = {{hlist|RDS|Sierpien|Artoffact}}
+| associated_acts =
+| website         =
+| current_members = Viktor Uzhakov<br/>Andrei Smorgonsky<br/>Igor Starshinov
+| past_members    = 
+}}
+
+'''Ploho''' is a Russian [[post-punk]] band from [[Novosibirsk]], formed in 2013.
+
+==History==
+The group was established in Novosibirsk in 2013. In an interview with Post-Punk.com<ref>{{Cite web|date=2020-11-13|title=An Introduction to Russian Post-Punk with Ploho and Molchat Doma|url=https://post-punk.com/russian-post-punk/|access-date=2021-02-26|website=Post-Punk.com|language=en-US}}</ref> the band cited growing up in the "rather cold and dark time" of "total crime and chaos" of Russia in the 1990s as drawing the band members towards punk music from an early age. Most influential to the band in this period was the seminal Soviet 80s post punk band [[Kino (band)|Kino]]. 
+
+In 2018, the American radio station [[KXRY|XRAY.fm]] listed the band's album ''Kuda ptitsy uletayut umirat'' ({{Lang-ru|Куда птицы улетают умирать|lit=Where the birds fly away to die}}) in their ranking of the top 25 best albums of the year.<ref>{{Cite news |title=A Different Kind of Infamy - 2018's 25 Best Albums, Pt 2 - Songs from under the Floorboard /// XRAY.fm |work=XRAY.FM |url=http://xray.fm/broadcasts/26880?url=broadcasts%2F26880 |access-date=2020-10-13}}</ref><ref>{{Cite web|last=Vyun|first=Masha|date=2019-01-05|title=Альбом новосибирской группы Ploho вошел в топ американского радио|url=https://ngs.ru/text/culture/2019/01/05/65813471/|url-status=live|archive-url=https://web.archive.org/web/20200926043918/https://ngs.ru/text/culture/2019/01/05/65813471/|archive-date=2020-09-26|access-date=2021-02-25|website=ngs.ru|language=ru}}</ref>
+
+In June 2020, the band signed with Canadian record label [[Artoffact Records]].<ref>{{Cite web|date=2020-11-13|title=Ploho releases new single from upcoming album on Artoffact|url=https://regenmag.com/news/ploho-releases-new-single-from-upcoming-album-on-artoffact/|access-date=2021-02-26|website=ReGen Magazine}}</ref> In February 2021, the band released ''Fantomniye chuvstva'' ({{Lang-ru|Фантомные Чувства|lit=Phantom Feelings}}), their first album under the label. The album was recorded while the musicians were quarantining during the [[COVID-19 pandemic]].
+
+==Studio albums==
+{| class="wikitable"
+|-
+! Year !! Original title !! Translated title
+|-
+| 2014 || ''Смирение и отрицание'' || ''Humility and denial''
+|-
+| 2014 || ''Добрая песня'' || ''Kind song''
+|-
+| 2016 || ''Культура доминирования'' || ''Dominance culture''
+|-
+| 2016 || ''Тот, кто гасит свет'' || ''One who puts out the light''
+|-
+| 2016 || ''Болевые места'' || ''Pain spots''
+|-
+| 2016 || ''Хотеть тепла'' || ''To want warmth''
+|-
+| 2017 || ''Бумажные бомбы'' || ''Paper bombs''
+|-
+| 2017 || ''Молодость'' || ''Youth''
+|-
+| 2018 || ''Куда птицы улетают умирать'' || ''Where the birds fly away to die''
+|-
+| 2019 || ''Пыль'' || ''Dust''
+|-
+|2021||''Фантомные Чувства''||''Fantom Feelings''
+|-
+|}
+
+==Cameo role in ''Isaac''==
+The group made a [[Cameo appearance|cameo]] in the film ''[[Isaac (film)|Isaac]]'' from the [[Lithuania]]n director Jurgis Matulevičius. They cameo as a band during a scene and play their songs "Crosses" and "Down".<ref>{{Cite web|last=Manko|first=Nikita|date=2017-10-13|title=Новосибирская группа Ploho сыграла в фильме о холокосте в Литве|url=https://sib.fm/news/2017/10/13/novosibirskaja-gruppa-ploho-sygrala-v-filme-o-kholokoste-v-litve|url-status=live|archive-url=https://web.archive.org/web/20190617182154/https://sib.fm/news/2017/10/13/novosibirskaja-gruppa-ploho-sygrala-v-filme-o-kholokoste-v-litve|archive-date=2019-06-17|access-date=2021-02-25|website=sib.fm|language=ru}}</ref><ref>{{Cite web|last=Osintseva|first=Lidiya|date=2017-10-17|title=Новосибирская группа Ploho появится в фильме о холокосте|url=https://www.sobaka.ru/nsk/entertainment/music/63294|url-status=live|access-date=2021-02-25|website={{ill|Sobaka.ru|ru|Собака.ru}}|language=ru}}</ref>
+
+==See also==
+* [[Buerak]]
+*[[Molchat Doma]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Bandcamp}}
+*{{Discogs artist}}
+* [https://eatmusic.ru/gruppa-ploho-novyj-albom-recenziya/ Группа Ploho выпустила новый альбом «Культура Доминирования». Eatmusic.ru.]
+* [https://web.archive.org/web/20190617182151/http://muzstorona.ru/music/ploho-kogda-ploho/ Плохо когда Ploho. Muzstorona.]
+
+{{Authority control}}
+
+[[Category:Musical groups from Novosibirsk]]
+[[Category:Russian post-punk music groups]]
+[[Category:Musical groups established in 2013]]
+[[Category:2013 establishments in Russia]]
+[[Category:Russian rock music groups]]

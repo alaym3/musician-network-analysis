@@ -1,0 +1,58 @@
+{{Short description|English musician and video game producer}}
+{{Infobox musical artist
+| name             = Bo En
+| native_name      =
+| native_name_lang =
+| birth_name       = Calum Thomas Bowen
+| alias            =
+| birth_date       = {{birth date and age|df=yes|1991|02|26}}
+| birth_place      =
+| origin           = [[London]], UK
+| genre            = {{hlist|[[Pop music|Pop]]|[[Electronic music|electronic]]|[[J-pop]]}}
+| occupation       = {{hlist|Musician|composer|record producer}}
+| instrument       =
+| years_active     = <!-- YYYY–YYYY (or –present) -->
+| label            = {{hlist|[[Maltine Records]]}}
+| associated_acts  = {{hlist|[[Kero Kero Bonito]]}}
+| website          = {{URL|https://bo-en.info/}}
+| module           =
+| module2          =
+| module3          = 
+}}
+'''Calum Thomas Bowen''' (born 26 February 1991), also known professionally as '''Bo En''' (stylized as '''bo en'''), is an English musician and video game producer based in [[London]].<ref name="japantimes">{{cite news |last1=St. Michel |first1=Patrick |title=Britain's bo en finds a musical family in Tokyo's electronic scene |url=https://www.japantimes.co.jp/culture/2015/04/09/music/britains-bo-en-finds-musical-family-tokyos-electronic-scene/ |accessdate=13 February 2020 |work=The Japan Times |date=9 April 2015 |archive-date=27 February 2020 |archive-url=https://web.archive.org/web/20200227194045/https://www.japantimes.co.jp/culture/2015/04/09/music/britains-bo-en-finds-musical-family-tokyos-electronic-scene/ |url-status=live }}</ref>
+
+==Career==
+Bowen released his debut album titled ''Pale Machine'' in 2013.<ref name="rising">{{cite news |last1=Powell |first1=Mike |title=bo en |url=https://pitchfork.com/features/rising/9534-bo-en/ |accessdate=12 February 2020 |work=Pitchfork |date=3 November 2014 |archive-date=13 April 2019 |archive-url=https://web.archive.org/web/20190413023817/https://pitchfork.com/features/rising/9534-bo-en/ |url-status=live }}</ref> In 2014, Bowen's remix of "My Party" by [[Kero Kero Bonito]] was featured on their ''Bonito Recycling'' EP.<ref name="diy">{{cite news |last1=Lismore |first1=Kate |title=Kero Kero Bonito, Trading MP3s for Sick Beats |url=https://diymag.com/2015/02/13/kero-kero-bonito-trading-mp3s-for-sick-beats |accessdate=13 February 2020 |work=DIY |date=13 February 2015 |archive-date=13 February 2020 |archive-url=https://web.archive.org/web/20200213090627/https://diymag.com/2015/02/13/kero-kero-bonito-trading-mp3s-for-sick-beats |url-status=live }}</ref>
+
+===Video game composing===
+Bowen composed the soundtrack for the 2014 game ''[[Lovely Planet]]''.<ref name="rising"/> He also composed the soundtrack for ''[[Pikuniku]]'', which was released in 2019, along with ''[[Omori (video game)|Omori]]'', released in late 2020.<ref name="wshu">{{cite news |last1=Remington |first1=Kate |title=Calum Bowen's Funny, Lighthearted Soundtrack For 'Pikuniku' |url=https://www.wshu.org/post/calum-bowens-funny-lighthearted-soundtrack-pikuniku#stream/0 |accessdate=13 February 2020 |work=WSHU |date=7 February 2019 |archive-date=28 April 2019 |archive-url=https://web.archive.org/web/20190428185130/https://www.wshu.org/post/calum-bowens-funny-lighthearted-soundtrack-pikuniku#stream/0 |url-status=live }}</ref><ref name="gem">{{cite news |last1=Romano |first1=Sal |title=Pikuniku launches January 24, 2019 |url=https://www.gematsu.com/2018/12/pikuniku-launches-january-24-2019 |accessdate=13 February 2020 |work=Gematsu |date=26 December 2018 |archive-date=13 February 2020 |archive-url=https://web.archive.org/web/20200213083616/https://www.gematsu.com/2018/12/pikuniku-launches-january-24-2019 |url-status=live }}</ref> Bowen composed the music for ''Voyage'', which was released in 2021.<ref>{{cite web |last1=Smith |first1=Graham |title=Voyage is a hand-painted cinematic adventure |url=https://www.rockpapershotgun.com/voyage-is-a-hand-painted-cinematic-adventure |website=Rock Paper Shotgun |access-date=11 July 2021 |language=en |date=20 February 2021}}</ref>
+
+==Discography==
+
+===Studio albums===
+*''Pale Machine'' (2013, [[Maltine Records|Maltine]])
+
+===Video game soundtracks===
+*Super Ubie Land (2013)
+*Winnose (2014)
+*''[[Lovely Planet]]'' (2014)
+*''Lovely Planet Arcade'' (2016)
+*Pakka Pets (2016)
+*''[[Snipperclips]]'' (2017)
+*''[[Pikuniku]]'' (2019)
+*''Lovely Planet 2: April Skies'' (2019)
+*''[[Omori (video game)|Omori]]''  (2020) 
+*''Voyage'' (2021)
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:Musicians from London]]
+[[Category:1990s births]]
+[[Category:21st-century English musicians]]
+[[Category:English composers]]
+[[Category:English record producers]]
+[[Category:Living people]]
+[[Category:Video game composers]]

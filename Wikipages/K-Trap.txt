@@ -1,0 +1,110 @@
+{{Short description|British rapper and songwriter}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox musical artist
+| name            = K-Trap
+| image           =
+| image_size      =
+| caption         =
+| birth_name      = Devonte Perkins
+| birth_place     = [[Lambeth]], [[London]], England
+| alias           =
+| origin          = [[Gipsy Hill]], [[London]], England
+| genre           = {{flatlist|
+* [[British hip hop]]
+* [[UK drill]]
+* [[road rap]]
+}}
+| occupation      = {{flatlist|
+* Rapper 
+* songwriter
+}}
+| years_active    = 2016–present
+| label           =
+| associated_acts = {{flatlist|
+* [[Blade Brown]]
+* [[DigDat]] 
+* [[Krept and Konan]]
+* [[D-Block Europe]]
+* [[Yxng Bane]]
+}}
+| website         = 
+}}
+
+'''Devonte Perkins''', better known by his stage name '''K-Trap''', is a British rapper and songwriter from [[South London]].<ref>{{Cite web|url=https://trenchtrenchtrench.com/features/ktrap-interview|title=K-Trap Has Dreams Bigger Than The Bando|website=Trenchtrenchtrench.com}}</ref><ref>{{Cite web|url=https://www.theguardian.com/music/2019/jul/20/one-to-watch-k-trap-drill-big-mood|title=One to watch: K Trap|first=Tara|last=Joshi|date=20 July 2019|website=Theguardian.com}}</ref><ref>{{Cite web|url=https://mixmag.net/read/ktrap-no-magic-news|title=K-Trap removes his mask on new music video for 'Big Mood'|website=Mixmag.net}}</ref><ref>{{Cite web|url=https://www.factmag.com/2018/01/04/grime-drill-uk-rap-2018/|title=10 UK rap artists to watch in 2018|website=Factmag.com|date=4 January 2018}}</ref> He is known for his prominence in the [[UK drill]] scene, releasing notable mixtapes such as ''The Last Whip'' (2017), ''The Re-Up'' (2018) and ''No Magic'' (2019).
+
+His debut studio album, ''Street Side Effects'', was released on 13 November 2020.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected details and peak chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="1"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[UK Albums Chart|UK]]<br />
+|-
+! scope="row"| ''Street Side Effects''
+|
+* Released: 13 November 2020
+* Label: Black Butter
+* Format: CD, [[Music download|digital download]], [[Streaming media|streaming]]
+| 26
+|-
+| colspan="4" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===Mixtapes===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of mixtapes, with selected details and peak chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="1"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[UK Albums Chart|UK]]<br />
+|-
+! scope="row"| ''The Last Whip''
+|
+* Released: 25 June 2017
+* Label: [[Self-publishing|Self-released]]
+* Format: [[Music download|Digital download]], [[Streaming media|streaming]]
+| —
+|-
+! scope="row"| ''The Re-Up''
+|
+* Released: 12 July 2018
+* Label: [[SB.TV|Just Jam]]
+* Format: Digital download, streaming
+| 37
+|-
+! scope="row"| ''No Magic''
+|
+* Released: 11 July 2019
+* Label: [[Black Butter Records|Black Butter]] 
+* Format: Digital download, streaming
+| 33<ref>{{Cite web|url=https://www.officialcharts.com/search/albums/no-magic/|title=no magic &#124; full Official Chart History &#124; Official Charts Company|website=Officialcharts.com}}</ref>
+|-
+! scope="row"| ''Trapo''
+|
+* Released: 10 September 2021
+* Label: Thousand8, Black Butter
+* Format: Digital download, streaming
+| 33
+|-
+| colspan="4" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:K-Trap}}
+[[Category:People from Lambeth]]
+[[Category:Rappers from London]]
+[[Category:Living people]]
+[[Category:English male rappers]]
+[[Category:Gangsta rappers]]
+[[Category:UK drill musicians]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{UK-musician-stub}}

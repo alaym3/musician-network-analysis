@@ -1,0 +1,82 @@
+{{Use dmy dates|date=November 2012}}
+{{Use New Zealand English|date=November 2012}}
+{{Infobox musical artist
+| name            = Atlas
+| image           =
+| caption         =
+| alias           =
+| origin          = [[Christchurch]], [[New Zealand]]
+| instrument      =
+| genre           = [[Alternative rock]]
+| occupation      =
+| years_active    = 2005–2008
+| label           = Elements Music
+| associated_acts =
+| website         =
+| current_members = [[Sean Cunningham (musician)|Sean Cunningham]]<br/>[[Ben Campbell (musician)|Ben Campbell]]<br/>[[Andy Lynch (musician)|Andy Lynch]]<br/>Joe McCallum
+}}
+'''Atlas''' were a [[New Zealand]] [[Rock music|rock]] [[Band (music)|band]] which was formed in 2005 and disbanded in late 2008.
+
+==Founding==
+In April 2005, in [[Hollywood, Los Angeles, California|Hollywood, California]], producer [[Hank Linderman]] ([[The Beach Boys]], [[Eagles (band)|Eagles]]) introduced New Zealand rocker [[Ben Campbell (musician)|Ben Campbell]] (a former member of the band [[Zed (band)|Zed]])<ref name="3 News1" /> and his sister Beth Campbell (a [[backing vocalist]] for the band [[Chicago (band)|Chicago]]),<ref name="3 News1" /><ref name=onenews1>{{cite web|last1=Yeoman|first1=Paula|title=Atlas cruises into the big time|url=http://tvnz.co.nz/content/1458746/3362663.xhtml|website=[[One News (New Zealand)]]|date=22 November 2007}}</ref> to 19-year-old American solo artist [[Sean Cunningham (musician)|Sean Cunningham]].<ref name=onenews1/> Together with Joe McCallum,<ref name=onenews1/> the group decided to form the band Atlas.<ref name="3 News1" />
+
+Located in Auckland, New Zealand,<ref name=NZmusician1>{{cite web|last1=Thorne|first1=Richard|title=Feature: Atlas - Running To Follow Crawl|url=http://www.nzmusician.co.nz/index.php/ps_pagename/article/pi_articleid/1264|website=NZ Musician magazine|accessdate=9 November 2014|archive-url=https://web.archive.org/web/20141109063155/http://www.nzmusician.co.nz/index.php/ps_pagename/article/pi_articleid/1264|archive-date=9 November 2014|url-status=dead|df=dmy-all}}</ref> Atlas released their  second single "[[Crawl (Atlas song)|Crawl]]" in March, 2007, and on 5 March, "Crawl" debuted at #9<ref name=OfficialNZchart1>{{cite web|title=Singles 5 MARCH 2007|url=http://nztop40.co.nz/chart/singles?chart=1420|website=[[Official New Zealand Music Chart]]|accessdate=9 November 2014}}</ref> before moving up to claim the top spot of the [[Official New Zealand Music Chart]] the next week,<ref name=OfficialNZchart2>{{cite web|title=Singles 12 MARCH 2007|url=http://nztop40.co.nz/chart/singles?chart=1421|website=[[Official New Zealand Music Chart]]|accessdate=9 November 2014}}</ref> where it stayed for a total of seven weeks.<ref name=crawlchart>{{cite web|title=ATLAS - CRAWL (SONG) |url=https://charts.nz/showitem.asp?interpret=Atlas&titel=Crawl&cat=s |website=charts.nz |publisher=Hung Medien |accessdate=9 November 2014 |df=dmy }}</ref> Their next single was "Magic 8".
+
+Atlas released their debut album ''[[Reasons for Voyaging]]'' on 19 November 2007,<ref name="3 News1">{{cite web|title=Full interview with kiwi band Atlas|url=http://www.3news.co.nz/entertainment/full-interview-with-kiwi-band-atlas-2007112015|website=[[3 News]]|date=20 November 2007}}</ref> entering the Official New Zealand Music Chart the following week at #4, which was its peak position.<ref name=NZChartalbums>{{cite web|title=Albums 26 NOVEMBER 2007|url=http://nztop40.co.nz/chart/albums?chart=1458|website=[[Official New Zealand Music Chart]]|accessdate=9 November 2014}}</ref>
+
+==Discography==
+{| border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|-
+!Date of Release
+!Title
+!Label
+![[New Zealand Albums Chart|NZ Chart]]<ref name="nzchart">{{cite web|url=https://charts.nz/showinterpret.asp?interpret=Atlas |title=Atlas Discography |publisher=charts.nz (Hung Medien) |accessdate=9 November 2014 |df=dmy }}</ref>
+!Certification
+|-
+|19 November 2007
+|''[[Reasons for Voyaging]]''
+| Mental Music
+|align="center"|4
+| NZ: Gold<ref name="teawa-certs">{{cite web|title=Gold and platinum New Zealand albums to 2013|url=http://www.teara.govt.nz/en/interactive/42563/gold-and-platinum-new-zealand-albums-to-2013|website=Te Ara|publisher=Encyclopedia of NZ|accessdate=19 July 2015}}</ref>
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+!Year
+!Single
+!Album
+!NZ Chart<ref name="nzchart"/>
+!NZ Certification
+|-
+|2005
+|"Is This Real"
+|rowspan="3"|''[[Reasons for Voyaging]]''
+|align="center"| -
+| -
+|-
+|rowspan="2"|2007
+| "[[Crawl (Atlas song)|Crawl]]"
+|align="center"| 1
+|Gold<ref>{{cite web |url=http://www.radioscope.net.nz/index.php?option=com_content&task=view&id=77&Itemid=63 |title=Latest Gold / Platinum Singles  |publisher=RadioScope |archiveurl=https://web.archive.org/web/20110728144010/http://www.radioscope.net.nz/index.php?option=com_content&task=view&id=77&Itemid=63 |archivedate=28 July 2011}}</ref>
+|-
+|"[[Magic 8]]"
+|align="center"| 27
+| -
+|-
+|}
+
+==References==
+<references />
+
+==External links==
+*[https://myspace.com/atlastheband Official MySpace]
+
+{{Authority control}}
+
+[[Category:New Zealand alternative rock groups]]
+[[Category:Musical groups established in 2005]]
+[[Category:Musical groups disestablished in 2008]]
+
+
+{{NewZealand-band-stub}}

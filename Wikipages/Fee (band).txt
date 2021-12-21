@@ -1,0 +1,129 @@
+{{pp-semi-blp|small=yes}}
+{{Infobox musical artist
+| name            = Fee
+| image           =
+| caption         =
+| image_size      =
+| alias           = Steve Fee Band, Northpoint Church Worship Band
+| origin          = [[Alpharetta]], [[Georgia (U.S. state)|Georgia]], United States
+| genre           = [[Christian rock]]
+| years_active    = 2005&ndash;2010
+| label           = [[INO Records|INO]]
+| associated_acts =
+| website         = *[https://myspace.com/stevefee Fee] on [[Myspace]]
+| current_members = Steve Fee<br />Heath Balltzglier<br />Matt Adkins<br />Brandon Coker
+| past_members    = Josh Fisher <br> Kirk Barkley
+}}
+
+'''Fee''' was a [[Christian rock]] and [[Contemporary worship music|contemporary worship]] band from [[Alpharetta]], [[Georgia (U.S. state)|Georgia]], United States named for the group's founder and front-man Steve Fee. Fee is most known for their hit single, "All Because of Jesus", which peaked at No.&nbsp;2 on [[Billboard (magazine)|''Billboard'''s]] Hot Christian AC Chart,<ref>{{cite web |title=Christian AC Songs |url=https://www.billboard.com/charts/hot-christian-adult-contemporary/2008-06-03 |website=Billboard |accessdate=2 April 2020 |date=June 7, 2008}}</ref> and at No.&nbsp;4 on the Hot Christian Songs chart.<ref>{{cite web |title=Hot Christian Songs |url=https://www.billboard.com/charts/christian-songs/2008-06-28 |website=Billboard |accessdate=3 May 2020 |date=June 26, 2008 |url-access=subscription}}</ref>
+
+==History==
+In January 2007 Fee released their second independent record, ''Burn For You''.
+
+===''We Shine''===
+On September 25, 2007, Fee released their major-label debut under the name Fee titled ''[[We Shine]]'' with [[INO Records]].
+
+===''Hope Rising''===
+In December 2008, Fee went back to the studio to begin production on their third studio album. The new album, titled ''[[Hope Rising]]'', was released on October 6, 2009.
+
+===Breakup===
+In April 2010, they stopped playing shows, canceled their upcoming tour, and halted their regular updates of their website. No official announcement explaining this was made, though Steve Fee has since admitted to an affair that came to light around that time.<ref>''[https://youtube.com/watch?v=LqSKwBzJ9I0 Steve Fee: Fallen and forgiven]'', Wally Show, 6/5/2014</ref> The group has since disbanded and their website has been taken down. Since then, both the band and Steve Fee have been dropped from their label, INO Records.
+
+==Members==
+* Steve Fee &ndash; [[singing|vocals]], [[rhythm guitar]] (acoustic and electric), [[Keyboard instrument|keyboards]]
+* Matt Adkins &ndash; [[lead guitar]], vocals
+* Heath Balltzglier &ndash; [[bass guitar|bass]], vocals
+* Brandon Coker &ndash; [[drum kit|drums]]
+
+==Former members==
+* Josh Fisher &ndash; drums (recorded and toured before the band changed the name to Fee)
+
+==Discography==
+
+===Albums===
+{| class="wikitable" style="width:70%; text-align:center;"
+|-
+! rowspan="2" style="width:40px;"| Year
+! rowspan="2" style="width:125px;"| Title
+! rowspan="2"| [[Record label|Label(s)]]
+! colspan="4"|Chart positions
+|-
+! <small>[[Billboard 200|''Billboard'' 200]]</small>
+! <small>US [[Top Heatseekers|Heatseekers]]</small>
+! <small>Top Christian albums</small>
+! <small>[[Top Rock Albums]]</small>
+|-
+| 2005
+| style="text-align:left;"| ''Sacred Space''
+| Independent
+| —
+| —
+| —
+| —
+|-
+| 2007
+| style="text-align:left;"| ''Burn for You''
+| Independent
+| —
+| —
+| —
+| —
+|-
+| 2007
+| style="text-align:left;"| ''[[We Shine]]''
+| [[INO Records]]
+| —
+| 21
+| 29
+| —
+|-
+| 2009
+| style="text-align:left;"| ''[[Hope Rising]]''
+| INO Records
+| 101
+| —
+| 6
+| 46
+|}
+
+===Singles===
+{| class="wikitable" style="width:60%; text-align:center;"
+|-
+! Year
+! Title
+! Album
+! Chart Positions ([[Hot Christian Songs]])
+|-
+| 2007
+| style="text-align:left;"| ''Glorious One''
+| rowspan="3"| [[We Shine]]
+| —
+|-
+|  rowspan="2"| 2008
+| style="text-align:left;"| ''All Because of Jesus''
+| 4
+|-
+| style="text-align:left;"| ''We Shine''
+| —
+|-
+| 2009
+| style="text-align:left;"| ''Glory to God Forever''
+| rowspan="2"| [[Hope Rising]]
+| 22
+|-
+| 2010
+| style="text-align:left;"| ''Everything Falls''
+| 11
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://myspace.com/stevefee Fee] on [[Myspace]]
+* {{youtube|user=feeband|Fee}}
+
+{{Authority control}}
+{{DEFAULTSORT:Fee (band)}}
+[[Category:Christian rock groups from Georgia (U.S. state)]]
+[[Category:Musical groups established in 2005]]

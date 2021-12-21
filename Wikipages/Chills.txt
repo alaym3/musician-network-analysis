@@ -1,0 +1,54 @@
+{{about|the physiological symptom|other uses|Chill (disambiguation){{!}}Chill}}
+{{distinguish|Cold chill|Frisson}}
+{{Medical citations needed|date=September 2019}} 
+{{Infobox medical condition (new) 
+| name            = Chills 
+| field           = [[Infectious disease (medical specialty)|Infectious disease]]
+| synonyms        =  
+| symptoms        = 
+| complications   = 
+| onset           = 
+| duration        = 
+| types           = 
+| causes          = 
+| risks           = 
+| diagnosis       = 
+| differential    = 
+| prevention      = 
+| treatment       = 
+| medication      = 
+| prognosis       = 
+| frequency       = 
+| deaths          = 
+}}
+
+'''Chills''' is a feeling of coldness occurring during a high [[fever]], but sometimes is also a common [[symptom]] which occurs alone in specific people. It occurs during fever due to the release of [[cytokine]]s and [[prostaglandin]]s as part of the [[Inflammation|inflammatory response]], which increases the [[Thermoregulation#In humans|set point]] for body temperature in the [[hypothalamus]]. The increased set point causes the body [[temperature]] to rise ([[pyrexia]]), but also makes the patient feel cold or chills until the new set point is reached. [[Shivering]] also occurs along with chills because the patient's body produces heat during muscle contraction in a physiological attempt to increase body temperature to the new set point. When it does not accompany a high fever, it is normally a light chill. Sometimes a chill of medium power and short duration may occur during a scare, especially in scares of fear, commonly interpreted like or confused by [[Tremor|trembling]].
+
+Severe chills with violent shivering are called '''rigors'''.
+
+==Causes==
+
+Chills are commonly caused by inflammatory diseases, such as the [[Influenza|flu]].<ref>{{cite web|author=Stan Tian |url=http://www.healthguidance.org/entry/11805/1/The-Main-Flu-Symptoms-Fever-Aches-and-Chills.html |title=The Main Flu Symptoms Fever, Aches and Chills |publisher=Healthguidance.org |date=2015-04-30 |access-date=2016-05-12}}</ref>{{Better source|reason=Content mill|date=March 2018}} It is also common in urinary tract infections. [[Malaria]] is one of the common reasons for chills and rigors. In malaria, the [[Parasitism|parasites]] enter the [[liver]], grow there and then attack the red blood cells which causes rupture of these cells and release of a toxic substance [[hemozoin]] which causes chills recurring every 3 to 4 days. Sometimes they happen in specific people almost all the time, in a slight power, or it less commonly happens in a generally healthy person.
+
+==See also==
+* [[Cold chill]]
+* [[Goose bumps]]
+* [[Night sweats]]
+
+==References==
+{{reflist}}
+
+== External links ==
+{{Medical resources
+|   ICD10       = {{ICD10|R|50|0|r|50}} 
+|   ICD9        = {{ICD9|780.64}} 
+|   MeshID      = D023341 
+|   MedlinePlus = 003091 
+}}
+{{General symptoms and signs}}
+
+[[Category:Symptoms and signs]]
+[[Category:Cold]]
+[[Category:Thermoregulation]]
+
+[[fr:Frissonnement]]

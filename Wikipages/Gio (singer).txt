@@ -1,0 +1,114 @@
+{{Infobox musical artist
+| name            = Gio
+| image           =
+| image_size      = 200
+| caption         = Gio in 2012
+| birth_name      = Sergio Bermejo Romero
+| alias           = Gio
+| birth_date      = {{birth date and age|1990|04|06|df=yes}}
+| death_date      =
+| origin          = [[Madrid]], [[Spain]]
+| instrument      = [[Vocals]], [[piano]]
+| genre           = [[R&B]], [[Pop music|pop]], [[Soul music|soul]], [[jazz]]
+| occupation      = Singer, actor, songwriter, producer
+| years_active    = 2007 - present
+| label           =
+| associated_acts =
+| website         = [https://www.facebook.com/GioOfficial Official Page]
+}}
+'''Gio''' (born 6 April 1990) is a Spanish singer, actor, songwriter and producer.
+He started his career singing [[gospel music]] in different choirs from Madrid, earlier he becomes one of a member mixband called D-ViNe, who were finalists on the TV show ''Salvemos Eurovision'' in 2008 to represent Spain in the [[Eurovision Song Contest 2008]] with the song "I Do You". In 2008, he signed with AMZ Records after being seen on television by the director of the record company, but that didn't work. After working as an actor in different shows and writing and producing songs for other artists, Gio was a semifinalist on the TV Show ''Destino Eurovision 2011''.<ref>{{Cite web |url=http://www.rtve.es/television/20110127/destino-eurovision-gio/398837.shtml |title=Destino Eurovisión: Gio |publisher=[[RTVE]] |language=Spanish |date=27 January 2011 |access-date=27 February 2017}}</ref> In 2011 Gio released his first solo album ''[[Mentiras, Sexo y Gafas de Sol]]'' signed with Nat Team Media. In 2013 he became a finalist of the Spanish TV talent-show ''[[El Número Uno]]''.<ref>{{Cite web |url=http://teleprograma.diezminutos.es/programas-tv/2013/junio/el-numero-uno/el-numero-uno-gio |title='El número uno': la prueba definitiva |trans-title='Number one': the final test |work=[[Diez Minutos]] |language=Spanish |date=June 2013 |access-date=27 February 2017}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+! width="100" rowspan="2"| Year
+! width="250" rowspan="2"| Album
+! colspan="1"| Peak
+! width="50" rowspan="2"| Sales
+! width="50" rowspan="2"| Certification
+|-
+! width="40"| [[Productores de Música de España|SPA]]
+|-
+| 2011
+| Mentiras, Sexo y Gafas de Sol
+| <center>-</center>
+| <center>-</center> 
+| <center>-</center>
+|-
+| 2021
+| TBA
+| <center>-</center>
+|  
+| <center>-</center>
+|-
+|}
+
+===Singles===
+
+===Other charted songs ===
+{| class="wikitable"
+|-
+!Year|| Title|| [[MTV LAT]]||Album
+|-
+| 2012 || Camera || #1 || Mentiras, Sexo y Gafas de Sol
+|-
+|}
+
+===Music videos===
+{| class="wikitable"
+|-
+!Year|| Song
+|-
+| 2010 || Drama 
+|-
+| 2011 || Sunglasses
+|-
+| 2011 || Mojito
+|-
+| 2012 || Elixir
+|-
+| 2020 || Die Like a Rockstar
+|-
+| 2020 || Esperando el Amor
+|-
+| 2021 || MEMO
+|-
+|}
+
+==Filmography==
+
+===Television===
+{| class="wikitable"
+|-
+!Year|| Show|| Character|| Type
+|-
+| 2008 || ''Objetivo Eurovision'' || Himself || Talentshow
+|-
+| 2011 || ''Destino Eurovision'' || Himself || Talentshow
+|-
+| 2013 || ''El número uno'' || Himself || Talentshow
+|-
+| 2017 || ''La Voz'' || Himself || Talentshow
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.youtube.com/user/GiODTV Official YouTube Channel]
+*{{IMDb name|5704760}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Gio}}
+[[Category:Living people]]
+[[Category:1990 births]]
+[[Category:Spanish male television actors]]
+[[Category:Singers from Madrid]]
+[[Category:Male actors from Madrid]]
+[[Category:Writers from Madrid]]
+[[Category:21st-century Spanish singers]]
+[[Category:21st-century Spanish male singers]]

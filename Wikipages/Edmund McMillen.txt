@@ -1,0 +1,358 @@
+{{short description|American video game designer and artist (born 1980)}}
+{{Infobox person
+| name               = Edmund McMillen
+| image              = Edmund McMillen cropped.jpg
+| image_size         = 250
+| caption            = McMillen at the Game Developers Choice Awards in March 2012
+| birth_date         = {{Birth date and age|1980|3|2}}
+| birth_place        =  [[Santa Cruz, California]] 
+| known_for          = ''[[Super Meat Boy]]'', ''[[The Binding of Isaac (video game)|The Binding of Isaac]]'' (''[[The Binding of Isaac: Rebirth|Rebirth]]''), ''[[The End Is Nigh (video game)|The End Is Nigh]]''
+| spouse             = Danielle McMillen (m. 2005)
+| children           = 2
+| occupation         = [[Video game designer]], [[Video game artist|artist]]
+}}
+
+'''Edmund Charles McMillen'''<ref>{{Cite web|title=Edmund McMillen Breaks Down His Game Design History (Meat Boy, Isaac & More) {{!}} Noclip|url=https://www.youtube.com/watch?v=_97zYunu2w0&t=16s}}</ref> (born March 2, 1980) is an American [[video game designer]] and artist known for his [[Adobe Flash|Flash game]] visual style.<ref name="GayGamer Delightfully Demented">{{Cite web|url=http://gaygamer.net/2006/08/the_delightfully_demented_worl.html |publisher=Gay Gamer |author=Toots |date=2008-08-08 |title=The Delightfully Demented World of Edmund McMillen |access-date=2010-12-18 |quote="Edmund McMillen splashed onto the scene with his signature art style in Gish, a side-scrolling platformer with a dementedly unique style." |url-status=dead |archive-url=https://web.archive.org/web/20110720020921/http://gaygamer.net/2006/08/the_delightfully_demented_worl.html |archive-date=2011-07-20 }}</ref> His most notable works include 2010's [[Side-scrolling video game|side-scroller]] ''[[Super Meat Boy]]'' and 2011's [[roguelike]] game ''[[The Binding of Isaac (video game)|The Binding of Isaac]]'' and its 2014 remake.
+
+==Early life==
+McMillen has been a lifelong resident of [[Santa Cruz, California]].<ref name="IndieGameTheMovie">{{Cite web |url=https://www.youtube.com/watch?v=BpnUIyAk498 |title=IndieGame: The Movie "Growing Up Edmund" |publisher=IndieGameTheMovie via YouTube |access-date=2010-12-18 |date=2010-05-18}}</ref> He went to school at Soquel High School.<ref>{{Cite web|title = MetroActive Features {{!}} Santa Cruz Artists to Watch|url = http://www.metroactive.com/papers/cruz/05.05.99/5art-9918.html|website = www.metroactive.com|access-date = 2015-10-06}}</ref> He is fond of drawing, his favorite subject being monsters.<ref name="IndieGameTheMovie"/> McMillen spent most of his childhood with his grandmother, whom he considers to be the greatest source of support in his creative endeavors. Later in his life, McMillen received a box from his grandmother that contained all of his drawings as a child. Many of these drawings can be seen by unlocking The Box in one of his games, ''[[The Basement Collection]]''.<ref name="IndieGameTheMovie"/> His childhood represents his own game creations, more specifically ''[[The Binding of Isaac: Rebirth]]''. In an interview with ''[[Indie Game: The Movie]]'' he explains that his family was consistently riddled with alcohol and drug addiction, as well as being “born again” [[Christians]]. He was confronted by this extreme faith, which caused him religious guilt and mental problems causing him to grow a desire to fight back, resulting in his acting out against them.
+
+==Career==
+McMillen's initial graphic work was in independent comics.<ref>{{Cite web|url=http://www.gamedev.net/community/forums/topic.asp?topic_id=514436 |title=10 Years of Independent Art on CD from Edmund McMillen |publisher=gamedev.net |first=Drew |last=Sikora |date=2008-11-10 |access-date=2010-12-18 }}{{dead link|date=December 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Cite web |url=http://www.indiegames.com/blog/2008/08/interview_edmund_mcmillen_part.html |title=Interview: Edmund McMillen, Part 2 |date=2008-08-28 |access-date=2010-12-18 |publisher=indiegames.com |author=timw |archive-url=https://web.archive.org/web/20080915165829/http://www.indiegames.com/blog/2008/08/interview_edmund_mcmillen_part.html |archive-date=2008-09-15 |url-status=dead }}</ref> While he has largely abandoned this field in favor of video games, he has released a series of comics featuring Meat Boy, the title character in the video game ''[[Super Meat Boy]]'', as a promotional tie-in for the game.<ref>{{Cite web |url=http://www.joystiq.com/2009/09/28/exclusive-the-new-super-meat-boy-comic/ |title=Exclusive: The new Super Meat Boy comic |publisher=Joystiq |access-date=2010-12-18 |date=2009-09-28 |first=Justin |last=McElroy |archive-url=https://web.archive.org/web/20100505072555/http://www.joystiq.com/2009/09/28/exclusive-the-new-super-meat-boy-comic |archive-date=2010-05-05 |url-status=dead }}</ref>  His most well-known games are the Flash-based game ''Meat Boy'', and its sequel ''Super Meat Boy'', which has been released for PC, Xbox 360 and PlayStation 4. McMillen is also known for the games ''[[Gish (video game)|Gish]]'', ''[[Aether (video game)|Aether]]'', ''[[The Binding of Isaac (video game)|The Binding of Isaac]]'' and ''[[Coil (video game)|Coil]]''. ''Gish'' won Game Tunnel's 2004 Adventure Game of the Year, as well as Indie Game of the Year.<ref>{{cite web |url=http://www.gametunnel.com/html/section-viewarticle-66.html |title=Adventure Game of the Year |date=2004-12-11 |publisher=Game Tunnel |access-date=2010-06-17}}</ref><ref>{{cite web |url=http://www.gametunnel.com/html/section-viewarticle-74.html|title=2004 Independent Game of the Year |date=2004-12-31 |publisher=Game Tunnel |access-date=2010-06-17}}</ref> His game ''Coil'' was nominated for the Innovation Award at the 2009 Independent Games Festival.<ref name="Gamasutra Coil interview">{{Cite web |url=http://www.gamasutra.com/php-bin/news_index.php?story=22106 |title=Road To The IGF: McMillen and Himsl's Coil |work=Gamasutra |access-date=2010-12-18 |date=2009-02-03 |first=Eric |last=Caoili}}</ref>  McMillen was the original character artist and animator on ''[[Braid (video game)|Braid]]'',<ref name="Gamasutra Coil interview"/> before those assets were replaced by the work of David Hellman.<ref>{{cite web |url=http://www.gamasutra.com/view/feature/3753/the_art_of_braid_creating_a_.php?page=4 |title=The Art Of Braid: Creating A Visual Identity For An Unusual Game |date=2008-08-05 |first=David |last=Hellman}}</ref> ''Braid'' went on to win the Innovation Award at the 2006 Independent Games Festival prior to its release, and several awards in 2008, including [[GameSpot]]'s Best Platformer,<ref>{{Cite web |url=http://www.gamespot.com/best-of/special-achievement/index.html?page=9 |title=GameSpot's Best Games of 2008: Best Original Downloadable Console Game |publisher=[[GameSpot]] |access-date=2008-12-25 |url-status=dead |archive-url=https://web.archive.org/web/20081223093239/http://www.gamespot.com/best-of/special-achievement/index.html?page=9 |archive-date=2008-12-23 }}</ref> and Best Original Downloadable Console Game,<ref>{{Cite web |url=http://www.gamespot.com/best-of/special-achievement/index.html?page=14 |title=GameSpot's Best Games of 2008: Best Licensed Music |publisher=GameSpot |access-date=2008-12-25 |url-status=dead |archive-url=https://web.archive.org/web/20081223093052/http://www.gamespot.com/best-of/special-achievement/index.html?page=14 |archive-date=2008-12-23 }}</ref> and the 12th Annual Academy of Interactive Arts & Sciences Awards Casual Game of the Year.<ref>{{Cite web |url=http://www.gamasutra.com/php-bin/news_index.php?story=22406 |title=LittleBigPlanet Dominates At AIAS Awards |publisher=Gamasutra |date=2009-02-20 |access-date=2009-02-20 |first=David |last=Jenkins}}</ref> His game ''Aether'' was a 2009 IndieCade finalist and received an honorable mention.<ref name="Indiecade 2009">{{Cite web |url=http://www.indiecade.com/index.php?/games/ |title=IndieCade 2009 finalists |access-date=2010-12-18}}</ref>
+
+===''Super Meat Boy''===
+McMillen and programmer [[Tommy Refenes]] established Team Meat, an independent game production company, with the intent that they would never utilize a third-party publisher.<ref>{{Cite web |url=http://www.joystiq.com/2010/10/26/if-you-think-super-meat-boy-is-hard-try-developing-it/ |publisher=[[Joystiq]] |access-date=2010-12-18 |title=If you think Super Meat Boy is hard, try developing it |date=2010-10-26 |first=James |last=Ransom-Wiley |archive-url=https://web.archive.org/web/20101101051257/http://www.joystiq.com/2010/10/26/if-you-think-super-meat-boy-is-hard-try-developing-it/ |archive-date=2010-11-01 |url-status=dead }}</ref> Their first game, ''[[Super Meat Boy]]'', was released on October 20, 2010 on the [[Xbox 360]] via [[Xbox Live Arcade]],<ref>{{Cite web |url=http://marketplace.xbox.com/en-US/Product/Super-Meat-Boy/66acd000-77fe-1000-9115-d80258410a5a |publisher=[[xbox.com]] |access-date=2010-12-18 |title=Super Meat Boy}}</ref> and on [[Valve Corporation|Valve]]'s digital distribution system [[Steam (service)|Steam]] on November 30, 2010.<ref name="steam release">{{Cite web |url=http://store.steampowered.com/app/40800/ |title=Super Meat Boy on Steam |publisher=[[Steam (service)|Steam]] |access-date=2010-12-16}}</ref> A release was planned for the [[Nintendo]] [[Wii]], but was canceled. According to [[Kotaku]], problems arose due to the file size limitations of the Wii's [[WiiWare]] Channel.<ref>{{Cite web |url=http://kotaku.com/5678896/size-limit-spoils-super-meat-boys-november-release-on-wiiware |title=Size Limit Spoils Super Meat Boy's November Release On WiiWare |first=Michael |last=McWhertor |date=2010-11-01 |access-date=2010-12-18 |publisher=[[Kotaku]]}}</ref> A retail version of the game was released on April 5, 2011.<ref>{{Cite web |url=https://www.amazon.com/Super-Meat-Boy-Ultra-Pc/dp/B004NS77OM/ref=sr_1_1?ie=UTF8&qid=1303739583&sr=8-1 |publisher=[[amazon.com]] |access-date=2011-04-25|title=Amazon.com: Super Meat Boy Ultra Edition: Video Games}}</ref> Due to Sony's initial lack of interest in the game, Team Meat entered into contractual obligations that prohibit the game from being released for the Sony PlayStation 3.<ref>{{Cite web |url=http://www.destructoid.com/no-super-meat-boy-on-ps3-and-you-can-blame-sony-187645.phtml |publisher=[[Destructoid]] |access-date=2010-12-17 |title=No Super Meat Boy on PS3, and you can blame Sony |first=Jim |last=Sterling |date=2010-11-12}}</ref>  McMillen and Refenes responded to the success of ''Super Meat Boy'' and the impossibility of a sequel in a brief statement that read, "We feel like we did it...the 1st time."<ref>{{Cite web|url=http://supermeatboy.com/52/No_SMB_2_/#b |title=No SMB 2! |publisher=Team Meat |first=Edmund |last=McMillen |date=2010-10-30 |access-date=2010-12-18 |url-status=dead |archive-url=https://web.archive.org/web/20101130075258/http://supermeatboy.com/52/No_SMB_2_/ |archive-date=2010-11-30 }}</ref> McMillen and Refenes' development of ''Super Meat Boy'' was featured in the film ''[[Indie Game: The Movie]]''.
+
+In a 2017 interview with [[Eurogamer]], Refenes revealed that McMillen was no longer a part of Team Meat and would not play a role in developing the game's sequel, ''[[Super Meat Boy Forever]]''.<ref>{{cite web|last1=Phillips|first1=Tom|title=Super Meat Boy Forever and the return of Team Meat|url=http://www.eurogamer.net/articles/2017-09-25-super-meat-boy-forever-and-the-return-of-team-meat|website=Eurogamer|access-date=11 January 2018|language=en-UK|date=26 September 2017}}</ref> McMillen later confirmed this in a blog post.<ref>{{cite web|title=A New Years QA!|url=http://bindingofisaac.com/post/169521328569/a-new-years-qa|language=en}}</ref><ref>{{cite web|last1=Devore|first1=Jordan|title=Super Meat Boy Forever is a 'true sequel' due out in 2018|url=https://www.destructoid.com/super-meat-boy-forever-is-a-true-sequel-due-out-in-2018-458038.phtml|website=Destructoid|access-date=11 January 2018|date=2017-08-30}}</ref> ''Forver'' was eventually released in late 2020 for various platforms.{{cn|date=July 2021}}
+
+=== ''The Binding of Isaac'' ===
+''[[The Binding of Isaac (video game)|The Binding of Isaac]]'' is an [[Indie game|indie]] [[roguelike]] video game designed by Edmund McMillen and Florian Himsl, initially released in 2011 for [[Microsoft Windows]]; the game was later ported for [[OS X]], and [[Linux]] operating systems. The game's title and plot are inspired by the [[Bible|Biblical]] story of the [[Binding of Isaac]]. In the game, Isaac's mother receives a message from [[God]] demanding the life of her son as proof of her [[faith]], and Isaac flees into the monster-filled basement of their home where he must fight to survive. Players control Isaac or one of six other unlockable characters through a [[Procedural generation|procedurally generated]] dungeon in a roguelike manner, fashioned after those of ''[[The Legend of Zelda (video game)|The Legend of Zelda]]'', defeating monsters in real-time combat while collecting items and power-ups to defeat [[Boss (video gaming)|bosses]] and eventually Isaac's mother.
+
+The game was the result of a week-long game jam between McMillen and Himsl to develop a ''The Legend of Zelda''-inspired roguelike that allowed McMillen to showcase his feelings about both positive and negative aspects of religion that he had come to discover from conflicts between his Catholic and [[born again]] Christian family members while growing up. McMillen had considered the title a risk but one he could take after the financial success of ''[[Super Meat Boy]]'', and released it without much fanfare to [[Steam (service)|Steam]] in September 2011, not expecting many sales. The game soon gained popularity partially as a result of various [[Let's Play (video gaming)|Let's Play]] videos showcasing the title. McMillen and Himsl released an expansion "Wrath of the Lamb" in May 2012, but were limited from further expansion due to limitations with the [[Adobe Flash|Flash]] platform. They had started working with [[Nintendo]] in 2012 to release a [[Nintendo 3DS|3DS]] version, but Nintendo later backed out of the deal, citing controversy over the game's religious themes.
+
+Developer [[Nicalis]] worked with McMillen in 2014 to complete a remake of the game, ''[[The Binding of Isaac: Rebirth]]'', bringing additional features that McMillen had planned that exceeded Flash's limitation, as well as to improve the game's graphics and enable ports for other systems beyond personal computers, including [[PlayStation 4]] and [[PlayStation Vita|Vita]], [[Xbox One]], [[Wii U]], [[Nintendo 3DS]], and the [[Nintendo Switch]].
+
+=== ''The End is Nigh'' ===
+''[[The End Is Nigh (video game)|The End Is Nigh]]'' is a [[Platform game|platform]] [[Adventure game|adventure]] [[video game]] developed by Edmund McMillen and Tyler Glaiel. The game was released on July 12, 2017 on [[Microsoft Windows]] via [[Steam (service)|Steam]]. Ports of the game were released on August 15, 2017 on [[macOS]] and on December 12, 2017 for [[Linux]] and [[Nintendo Switch]], with a port for the [[PlayStation 4]] and [[PlayStation Vita]] in development. The game has been described as a spiritual successor to McMillen's ''[[Super Meat Boy]]''.
+
+==Works==
+{| class="wikitable sortable"
+! Game !! Platform
+!Co-developer(s)
+!Publisher(s)!! Release year || Notes
+|-
+| ''The Backup Files'' || [[Adobe Flash]]
+|
+| || 2001 ||
+|-
+| ''The Lonely Hermit'' || Adobe Flash
+|
+| || 2001 ||Included in [[The Basement Collection]]
+|-
+| ''Dead Baby Dressup!'' || Adobe Flash
+|
+| || 2001 ||
+|-
+| ''12 uses of dead babies'' || Adobe Flash
+|
+| || 2001 ||
+|-
+| ''Dead Baby Dressup 2!'' || Adobe Flash
+|
+| || 2001 ||
+|-
+| ''6 more dead baby uses'' || Adobe Flash
+|
+| || 2001 ||
+|-
+| ''Dead Baby Dressup 3'' || Adobe Flash
+|
+| || 2001 ||
+|-
+| ''Stile man Dressup'' || Adobe Flash
+|
+| || 2001 ||
+|-
+| ''WWF baby dressup'' || Adobe Flash
+|
+| || 2001 ||
+|-
+| ''8 More Dead Baby Uses!'' || Adobe Flash
+|
+| || 2001 ||
+|-
+| ''Dead Baby Dress up 4'' || Adobe Flash
+|
+| || 2001 ||
+|-
+| ''The Boy who QuestionedGod'' || Adobe Flash
+|
+| || 2001 ||
+|-
+| ''Dead Baby Dressup X'' || Adobe Flash
+|
+| || 2001 ||
+|-
+| ''Dead Baby Super Hero Dres'' || Adobe Flash
+|
+| || 2002 ||
+|-
+| ''Dead Baby Dressup best of'' || Adobe Flash
+|
+| || 2002 ||
+|-
+| ''Carious Weltling'' || Adobe Flash
+|
+| || 2003 ||
+|-
+| ''SnackOlantern'' || Adobe Flash
+|
+| || 2003 ||Described by Edmund as his worst game
+|-
+| ''Clubby The Seal'' || Adobe Flash
+|
+| || 2004 ||
+|-
+| ''[[Gish (video game)|Gish]]'' || [[Microsoft Windows|Windows]], [[OS X]], [[Linux]]
+|Cryptic Sea
+|Chronic Logic|| 2004 ||First big project game
+|-
+| ''Carious Weltling 2'' || Adobe Flash
+|
+| || 2005 ||
+|-
+| ''Weltling Dressup'' || Adobe Flash
+|
+| || 2005 ||
+|-
+| ''Viviparous Dumpling'' || Adobe Flash
+|
+| || 2005 ||
+|-
+| ''Cerebral Discharge iii'' || Adobe Flash
+|
+| || 2005 ||
+|-
+| ''Blast Miner'' || Windows
+|Cryptic Sea
+| Chronic Logic||{{sort|2006-01|2006}} ||
+|-
+| ''Triachnid'' || Adobe Flash
+|Florian Himsl
+| ||{{sort|2006-11|2006}} ||Included in [[The Basement Collection]]
+|-
+| ''Holiday Snow Wars'' || Adobe Flash
+|
+| || 2006 ||
+|-
+| ''Cereus Peashy'' || Adobe Flash
+|
+| ||{{sort|2007-01|2007}} ||
+|-
+| ''Weltling 2: Regurgitated'' || Adobe Flash
+|
+| || 2007 ||
+|-
+| ''Host'' || Adobe Flash
+|
+| ||{{sort|2007-10|2007}} ||Online multiplayer game
+|-
+| ''Guppy'' || Adobe Flash
+|
+| ||{{sort|2007-10|2007}} (no release) ||A prototype, unreleased
+|-
+|''Blood Car 2000!''
+|Adobe Flash
+|Cryptic Sea
+|
+|2008
+|
+|-
+| ''[[Coil (video game)|Coil'']] || Adobe Flash
+|[[Florian Himsl]]
+| ||{{sort|2008-02|2008}} ||Included in [[The Basement Collection]]
+|-
+| ''Blood car! 2000! Delux!'' || Adobe Flash
+|
+| || 2008 ||
+|-
+| ''DeadBaby VG Dressup'' || Adobe Flash
+|
+| || 2008 ||
+|-
+| ''Twin Hobo Rocket'' || Adobe Flash
+|Florian Himsl
+| || 2008 ||
+|-
+| Cunt || Adobe Flash
+|Florian Himsl
+| ||{{sort|2008-08-13|2008}} ||
+|-
+| ''[[Aether (video game)|Aether]]'' || Adobe Flash
+|[[Tyler Glaiel]]
+| ||{{sort|2008-09|2008}} ||Included in [[The Basement Collection]]
+|-
+| ''Meat Boy'' || Adobe Flash
+|
+| ||{{sort|2008-10|2008}} ||Included in [[The Basement Collection]]
+|-
+| ''Clubby: Killing Season'' || Adobe Flash
+|
+| || 2008 ||
+|-
+| ''Grey-Matter'' || Adobe Flash
+|Team Meat
+| ||{{sort|2008-10|2008}} ||Included in [[The Basement Collection]]
+|-
+| ''Meat boy (map pack)'' || Adobe Flash
+|
+| || 2008 ||
+|-
+| ''AVGM'' || Adobe Flash
+|[[Tyler Glaiel]]
+| || 2009 ||Included in [[The Basement Collection]]
+|-
+| ''[[Spewer]]'' || Adobe Flash
+|
+| ||{{sort|2009-05|2009}} ||Included in [[The Basement Collection]]
+|-
+| ''Time Fcuk'' || Adobe Flash
+|
+| ||{{sort|2009-09|2009}} ||Included in [[The Basement Collection]]
+|-
+| ''[[Super Meat Boy]]'' || Windows, OS X, Linux, [[Xbox 360]], [[PlayStation 4|PS4]], [[Nintendo Switch]],<ref name=":0">{{Cite web|title = Super Meat Boy Coming to PS4, PS Vita (Yes, Really!)|url = http://blog.us.playstation.com/2015/06/08/super-meat-boy-coming-to-ps4-ps-vita-yes-really/|website = PlayStation.Blog|access-date = 2015-10-20}}</ref> [[PlayStation Vita|PS Vita]],<ref name=":0" /> [[Wii U]]
+|[[Team Meat]]
+|Team Meat||{{sort|2010-10|2010}} ||First console game
+|-
+| ''[[The Binding of Isaac (video game)|The Binding of Isaac]]'' || Windows, OS X, Linux, Adobe Flash
+|Florian Himsl
+| ||{{sort|2011-09|2011}} ||
+|-
+|''Wrath of the Lamb''
+|Windows, OS X, Linux
+|Florian Himsl
+|
+|2012
+|Expansion for ''The Binding of Isaac''
+|-
+| ''[[The Basement Collection]]'' || Windows, OS X, Linux
+|[[Tyler Glaiel]]
+| ||{{sort|2012-08|2012}} ||Collection of old Flash games
+|-
+| ''Facist'' || Adobe Flash
+|
+| ||{{sort|2014-06|2014}} || Game jam game
+|-
+| ''[[The Binding of Isaac: Rebirth]]'' || Windows, OS X, Linux, PS4, PS Vita, [[New 3DS]], Wii U, [[Xbox One]], [[iOS]]
+|[[Nicalis]]
+|Nicalis||{{sort|2014-11|2014}} ||Remake of ''The Binding of Isaac''
+|-
+| ''Fingered'' || Windows
+|James Id
+| ||{{Sort|2015-8|2015}} ||
+|-
+| ''[[The Binding of Isaac: Rebirth#Afterbirth expansion|The Binding of Isaac: Afterbirth]]''|| Windows, PS4, Xbox One, OS X, Linux
+|Nicalis
+|Nicalis
+| 2015 ||First Expansion of [[The Binding of Isaac: Rebirth]]
+|-
+| ''[[The Binding of Isaac: Rebirth#Afterbirth+ expansion|The Binding of Isaac: Afterbirth+]]'' || Windows, OS X, Linux, Nintendo Switch, PS4, Xbox One
+|Nicalis
+|Nicalis|| 2017 ||Second Expansion of [[The Binding of Isaac: Rebirth]]
+|-
+| ''[[The End Is Nigh (video game)|The End Is Nigh]]'' || Windows, OS X, Linux, PS4, Nintendo Switch
+|[[Tyler Glaiel]]
+|Tyler Glaiel|| 2017 ||
+|-
+|''[[The Binding of Isaac: Four Souls]]''
+|Card game
+|Danielle McMillen, [[Tyler Glaiel]]
+|Studio71
+|2018
+|
+* Based on [[The Binding of Isaac (video game)]]
+* Funding started on Wednesday 27 June 2018 and funded in less than 2 hours
+|-
+|''[[The Legend of Bum-bo]]''
+|Windows, OS X, Android, iOS, Nintendo Switch
+|James Id
+|
+|2019
+|
+* Prequel to [[The Binding of Isaac (video game)]]
+* Released on PC November 12, 2019 with planned release on iOS and Switch
+|-
+|''Tapeworm''
+| Card game
+|
+|Studio71
+|2020<ref>{{cite magazine | url = https://www.forbes.com/sites/maxthielmeyer/2020/04/28/edmund-mcmillen-launches-kickstarter-for-tapeworm-a-strategic-and-spacial-card-game/#32046bd22c4e | title = Edmund McMillen Launches Kickstarter For ‘Tapeworm’, A Strategic And Spatial Card Game | magazine = [[Forbes]] | date = April 28, 2020 | access-date = April 28, 2020}}</ref>
+|
+|-
+|''[[The Binding of Isaac: Rebirth#Repentance|The Binding of Isaac: Repentance]]''
+|Windows
+|[[Nicalis]]
+|Nicalis
+|2021<ref>{{cite tweet|number=1377151503715102730|user=edmundmcmillen|title=Repentance is live on steam! GO GET IT!|date=31 March 2021}}</ref>
+|Third Expansion to ''[[The Binding of Isaac: Rebirth]]''
+|-
+|}
+
+=== Upcoming games ===
+{| class="wikitable sortable"
+!Name
+!Platform
+!Co-devoper(s)
+!Publisher(s)
+!Release
+!Notes
+|-
+|''[[Mew-Genics]]''
+|Windows
+|[[Tyler Glaiel]]
+|
+|TBA
+|Resumed development in 2018<ref>{{Cite news|url=https://www.destructoid.com/mew-genics-is-back-in-development-481788.phtml|title=Mew-Genics is back in development|work=destructoid|access-date=2018-05-08}}</ref><ref>{{Cite web|url=http://bindingofisaac.com/post/169521328569/a-new-years-qa|title=A New Years QA!|website=†|language=en|access-date=2018-05-08}}</ref>
+|}
+
+===Unreleased games===
+{| class="wikitable sortable"
+! Game !! Platform !! Announced || State
+|-
+|''Gish 2''
+|None
+|2007-2008
+|Announced, later cancelled
+|-
+|''Hitlers Must Die''
+|None
+|2009
+|Announced but then cancelled
+|-
+| ''Øuroboros'' || Windows || 2016 || Became The End is Nigh
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Edmund McMillen}}
+* {{Official website|http://www.edmundm.com/}}
+* [http://edmundmcmillen.blogspot.com/ Edmund McMillen's old blog]
+* [https://web.archive.org/web/20091004170540/http://bluebaby.newgrounds.com/flash/ Edmund McMillen's user page] on [[Newgrounds]]
+* {{IMDb name|4227158}}
+
+{{Edmund McMillen}}
+{{Indie Game: The Movie}}
+{{Authority control}}
+
+{{DEFAULTSORT:McMillen, Edmund}}
+[[Category:American atheists]]
+[[Category:American video game designers]]
+[[Category:American video game programmers]]
+[[Category:People from Santa Cruz, California]]
+[[Category:1980 births]]
+[[Category:Living people]]
+[[Category:Independent video game developers]]
+[[Category:Board game designers]]
+[[Category:Browser game developers]]

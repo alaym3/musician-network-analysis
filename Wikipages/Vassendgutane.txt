@@ -1,0 +1,110 @@
+{{short description|Norwegian band}}
+{{rip|date=April 2021}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Vassendgutane
+| image               = Vassendgutane.jpg 
+| caption             = Vassendgutane live in 2008.
+| image_size          = 
+| alias               = 
+| origin              = [[Ørsta]], Norway
+| genre               = [[Country music|Country]]
+| years_active        = 1996–present
+| label               = 
+| associated_acts     =  
+| website             = [http://www.vassendgutane.no Official site]
+| current_members     = Sindre Aam<BR>Arthur Johan Bjørdal<br>Rune S. Brautaset <br>Ernst O. Brune <br>Lars Egil Vaagseter<br>Eivind Skjerdal<br>Roberth Lien
+| past_members        = 
+}}
+
+'''Vassendgutane''' is a Norwegian [[country music|country]] and [[danseband]] that have defined their own genre, 'party-country', a combination of the two.{{cn|date=April 2021}}
+
+The band was formed in [[Ørsta]] in 1996, and have since released seven albums and two DVDs.{{cn|date=April 2021}}
+
+==Members==
+*Sindre Aam – vocals, bass and lyrics
+*Arthur Johan Bjørdal – vocals, guitar and lyrics
+*Rune S. Brautaset – guitar, vocals and lyrics
+*Ernst O. Brune – accordion
+*Lars Egil Vaagseter – steel
+*Eivind Skjerdal – electric guitar, background vocals
+*Bjørn Marius Øyehaug – drums
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="180"|Album
+!align="center" colspan="1" width="20"|Peak positions
+!align="center" rowspan="2" width="70"|Certification
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[VG-lista|NOR]]<br><ref name="nor">{{cite web | url=http://norwegiancharts.com/showinterpret.asp?interpret=Vassendgutane | title=Vassendgutane discography | website=norwegiancharts.com |accessdate=11 October 2013}}</ref>
+|-
+| style="text-align:center;"|2000
+|''Pylse og konjakk''
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2002
+|''Gi clutch''
+| style="text-align:center;"|—
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2006
+|''Ungkar med dobbelseng''
+| style="text-align:center;"|27<br /><ref>{{cite web|url=http://www.vglista.no/topplister/topp-40-album-2019-30/|title=VG-lista – Topp 40 Album uke 30, 2019|publisher=[[VG-lista]]|accessdate=28 July 2019}}</ref>
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2008
+| ''XO''
+| style="text-align:center;"|1
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2010
+| ''Julefest i vest''
+| style="text-align:center;"|31
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2011
+| ''Riskrem og entrekått''
+| style="text-align:center;"|6
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2010
+| ''Festi e'kje slutt''
+| style="text-align:center;"|9
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2013
+| ''Hesteslepp''
+| style="text-align:center;"|1
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2015
+| ''Skru opp!!''
+| style="text-align:center;"|1
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2018
+| ''Du & ej & MeToo''
+| style="text-align:center;"|4<br /><ref>{{cite web|url=http://www.vglista.no/topplister/topp-40-album-2018-22/|title=VG-lista – Topp 40 Album uke 22, 2018|publisher=[[VG-lista]]|accessdate=2 June 2018}}</ref>
+| style="text-align:center;"|
+|}
+
+===Singles===
+*2001: "Køyr mej ned te vik"
+*2009: "Diggy liggy lo"
+*2012: "Stein, torv og grus"
+
+===DVD===
+*2006: ''Vassendgutane LIVE! Rockefeller''
+*2009: ''Vassendgutane LIVE! treungen''
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+[[Category:Norwegian musical groups]]
+[[Category:People from Ørsta]]
+
+{{norway-band-stub}}

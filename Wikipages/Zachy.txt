@@ -1,0 +1,43 @@
+{{Infobox settlement
+| name = Zachy
+| settlement_type = Village
+| total_type = &nbsp;
+| image_skyline =
+| image_caption =
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{flag icon|Poland}} [[Poland]]
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Warmian-Masurian Voivodeship|Warmian-Masurian]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Nidzica County|Nidzica]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Janowo|Janowo]]
+| latd = 
+| latm = 
+| lats =
+| latNS = 
+| longd = 
+| longm = 
+| longs =
+| longEW = 
+| pushpin_map = 
+| elevation_m =
+| population_total =
+| website = }}
+'''Zachy''' {{IPAc-pl|'|z|a|h|y}} ({{lang-de|Sachen}}) is a [[village]] in the administrative district of [[Gmina Janowo]], within [[Nidzica County]], [[Warmian-Masurian Voivodeship]], in northern Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) - TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref>
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Janowo}}
+
+{{coord|53.2198|N|20.2430|E|source:wikidata-and-enwiki-cat-tree_region:PL|display=title}}
+
+[[Category:Villages in Nidzica County|Zachy]]
+
+
+{{Nidzica-geo-stub}}

@@ -1,0 +1,135 @@
+{{For|the film|Dizziness (film)}}
+{{redirect|Dizzy}}
+{{short description|Neurological condition causing impairment in spatial perception and stability}}
+{{Infobox medical condition (new)
+| name            = Dizziness
+| synonyms        = 
+| image           = Dizziness.jpg
+| caption         = [[Vertigo]], the sensation of one's surroundings spinning around them, is a common symptom of dizziness.
+| pronounce       = 
+| field           = [[ENT surgery]] [[Otorhinolaryngology]]
+| symptoms        = 
+| complications   = 
+| onset           = 
+| duration        = 
+| types           = 
+| causes          = 
+| risks           = 
+| diagnosis       = 
+| differential    = 
+| prevention      = 
+| treatment       = 
+| medication      = 
+| prognosis       = 
+| frequency       = 
+| deaths          = 
+}}
+
+'''Dizziness''' is an imprecise term that can refer to a sense of disorientation in space, [[vertigo]], or [[lightheadedness]].<ref>{{MeshName|Dizziness}}</ref> It can also refer to [[Balance disorder|disequilibrium]]<ref>{{cite book |chapter-url=http://www.dartmouth.edu/~dons/part_2/chapter_14.html#chpt_14_presyncope |chapter=Chapter 14: Evaluation of the Dizzy Patient | vauthors = Reeves AG, Swenson RS |title=Disorders of the Nervous System: A Primer |year=2008 |publisher=Dartmouth Medical School |url=http://www.dartmouth.edu/~dons/index.html}}</ref> or a non-specific feeling, such as giddiness or foolishness.<ref name=UTD>{{cite web |url= http://www.uptodate.com/contents/approach-to-the-patient-with-dizziness |title=Approach to the patient with dizziness | vauthors = Branch Jr WT, Barton JJ |work=UpToDate |date=February 10, 2011}}</ref>
+
+Dizziness is a common medical complaint, affecting 20-30% of persons.<ref>{{cite journal | vauthors = Karatas M | title = Central vertigo and dizziness: epidemiology, differential diagnosis, and common causes | journal = The Neurologist | volume = 14 | issue = 6 | pages = 355–64 | date = November 2008 | pmid = 19008741 | doi = 10.1097/NRL.0b013e31817533a3 | s2cid = 21444226 }}</ref> Dizziness is broken down into 4 main subtypes: [[vertigo]] (~25-50%), [[equilibrioception#Dysfunction|disequilibrium]] (less than ~15%), [[presyncope]] (less than ~15%), and nonspecific dizziness (~10%).<ref>{{cite journal | vauthors = Post RE, Dickerson LM | title = Dizziness: a diagnostic approach | journal = American Family Physician | volume = 82 | issue = 4 | pages = 361–8, 369 | date = August 2010 | pmid = 20704166 }}
+</ref>
+
+* [[Vertigo (medical)|Vertigo]] is the sensation of spinning or having one's surroundings spin about them. Many people find vertigo very disturbing and often report associated nausea and vomiting.<ref name=Epi09/>
+* [[Presyncope]] describes [[lightheadedness]] or feeling faint; the name relates to [[Syncope (medicine)|syncope]], which is actually fainting.
+* [[equilibrioception#Dysfunction|Disequilibrium]] is the sensation of being off balance and is most often characterized by frequent falls in a specific direction.  This condition is not often associated with nausea or vomiting.
+* Non-specific dizziness may be psychiatric in origin.  It is a diagnosis of exclusion and can sometimes be brought about by [[hyperventilation]].<ref name=UTD/>
+
+==Mechanism and causes==
+Many conditions cause dizziness because multiple parts of the body are required for maintaining balance including the [[inner ear]], [[human eye|eyes]], [[muscle]]s, [[human skeleton|skeleton]], and the [[nervous system]].<ref name=merck>{{cite web |title=Dizziness and Vertigo |year=2009 |publisher=Merck Manual |url=http://www.merck.com/mmpe/sec08/ch084/ch084e.html?qt=dizziness&alt=sh}}</ref> Thus dizziness can be caused by a variety of problems and may reflect a focal process (such as one affecting balance or [[motor coordination|coordination]]) or a diffuse one (such as a toxic exposure or low [[perfusion]] state).<ref name=healthroid>{{cite web |title=What Causes Dizziness? Its Symptoms, Control and Risk Factors |date=4 July 2020 |publisher=Healthroid |url=https://www.healthroid.com/symptoms/what-causes-dizziness/14865/|first = Chris |last =Norris | name-list-style = vanc }}</ref>
+
+Common causes of dizziness include:
+* Inadequate blood supply to the [[brain]] due to:
+** A sudden fall in [[blood pressure]]<ref name=merck />
+** [[Cardiovascular disease|Heart problems]] or [[arterial embolism|artery blockages]]<ref name=merck /><ref name=":0">{{Cite web|title=10 Surprising Facts About Dizziness and Vertigo|url=https://www.everydayhealth.com/news/10-surprising-facts-about-dizziness-vertigo/|access-date=2021-11-14|website=EverydayHealth.com|language=en}}</ref>
+** [[Anaemia]]s, such as [[Vitamin B12 deficiency anemia]], [[Iron deficiency anemia]]<ref name=":0" />
+* [[Visual impairment|Loss or distortion of vision]] or [[sensory cue|visual cues]]<ref name=merck />
+* [[Standing]] too quickly/prolonged standing<ref name=healthroid />
+* Disorders of the inner ear<ref name=merck />
+*[[Dehydration]]
+* Distortion of brain/nervous function by medications such as [[anticonvulsant]]s and [[sedative]]s<ref name=merck />
+* Dysfunction of cervical [[proprioception]]<ref>{{cite journal | vauthors = Chu EC, Chin WL, Bhaumik A | title = Cervicogenic dizziness | journal = Oxford Medical Case Reports | volume = 2019 | issue = 11 | pages = 476–478 | date = November 2019 | pmid = 31844531 | pmc = 6902624 | doi = 10.1093/omcr/omz115 }}</ref>
+* Side effects from other prescription drugs, such as [[proton-pump inhibitor]]s<ref>{{cite web|url=https://www.fda.gov/Drugs/DrugSafety/ucm245011.htm|title=Drug Safety and Availability – FDA Drug Safety Communication: Low magnesium levels can be associated with long-term use of Proton Pump Inhibitor drugs (PPIs)| author = Center for Drug Evaluation and Research |website=www.fda.gov|access-date=17 April 2018}}</ref> or Coumadin ([[warfarin]])<ref>{{cite web|url= http://www.rxlist.com/coumadin-side-effects-drug-center.htm|title=Common Side Effects of Coumadin (Warfarin Sodium) Drug Center – RxList|website=rxlist.com|access-date=17 April 2018}}</ref>
+
+==Diagnosis==
+===Differential diagnosis===
+Dizziness may occur from an abnormality involving the brain (in particular the brainstem or cerebellum), inner ear, eyes, heart, vascular system, fluid or blood volume, spinal cord, peripheral nerves, or body electrolytes. Dizziness can accompany certain serious events, such as a concussion or brain bleed, epilepsy and seizures (convulsions), strokes, and cases of meningitis and encephalitis. However, the most common subcategories can be broken down as follows: 40% peripheral vestibular dysfunction, 10% central nervous system lesion, 15% psychiatric disorder, 25% presyncope/disequilibrium, and 10% nonspecific dizziness.<ref name=chan>{{cite journal | vauthors = Chan Y | title = Differential diagnosis of dizziness | journal = Current Opinion in Otolaryngology & Head and Neck Surgery | volume = 17 | issue = 3 | pages = 200–3 | date = June 2009 | pmid = 19365263 | doi = 10.1097/MOO.0b013e32832b2594 | s2cid = 9923013 }}</ref> Some vestibular pathologies have symptoms that are comorbid with mental disorders.<ref>Lawson, B. D., Rupert, A. H., & Kelley, A. M. (2013). Mental Disorders Comorbid with Vestibular Pathology. Psychiatric Annals, 43(7), 324.</ref>
+
+While traditional medical teaching has focused on determining the cause of dizziness based on the category (e.g. vertigo vs presyncope), recent research suggests that this analysis is of limited clinical utility.<ref name="AFP">{{cite journal | vauthors = Muncie HL, Sirmans SM, James E | title = Dizziness: Approach to Evaluation and Management | journal = American Family Physician | volume = 95 | issue = 3 | pages = 154–162 | date = February 2017 | pmid = 28145669 | url = https://www.aafp.org/afp/2017/0201/p154.html }}</ref><ref name="Misdiagnosing">{{cite journal | vauthors = Kerber KA, Newman-Toker DE | title = Misdiagnosing Dizzy Patients: Common Pitfalls in Clinical Practice | journal = Neurologic Clinics | volume = 33 | issue = 3 | pages = 565–75, viii | date = August 2015 | pmid = 26231272 | doi = 10.1016/j.ncl.2015.04.009 }}</ref>
+
+Medical conditions that often have dizziness as a symptom include:<ref name=chan/><ref>{{cite journal | vauthors = Tusa RJ | title = Dizziness | journal = The Medical Clinics of North America | volume = 93 | issue = 2 | pages = 263–71, vii | date = March 2009 | pmid = 19272508 | doi = 10.1016/j.mcna.2008.09.005 }}</ref><ref name=merck /><ref>{{cite journal | vauthors = Bronstein AM, Lempert T | title = Management of the patient with chronic dizziness | journal = Restorative Neurology and Neuroscience | volume = 28 | issue = 1 | pages = 83–90 | year = 2010 | pmid = 20086285 | doi = 10.3233/RNN-2010-0530 }}</ref>
+* [[Benign paroxysmal positional vertigo]]
+* [[Meniere's disease]]
+* [[Labyrinthitis]]
+* [[Otitis media]]
+* [[Brain tumor]]
+* [[Acoustic neuroma]]
+* [[Motion sickness]]
+* [[Ramsay Hunt syndrome]]
+* [[Migraine]]
+* [[Multiple sclerosis]]
+* [[Pregnancy]]
+* Low blood pressure ([[hypotension]])
+* Low blood oxygen content ([[hypoxemia]])
+* [[Heart attack]]<ref>{{cite journal | vauthors = O'Connor RE, Brady W, Brooks SC, Diercks D, Egan J, Ghaemmaghami C, Menon V, O'Neil BJ, Travers AH, Yannopoulos D | display-authors = 6 | title = Part 10: acute coronary syndromes: 2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care | journal = Circulation | volume = 122 | issue = 18 Suppl 3 | pages = S787-817 | date = November 2010 | pmid = 20956226 | doi = 10.1161/CIRCULATIONAHA.110.971028 | url = http://circ.ahajournals.org/cgi/pmidlookup?view=long&pmid=20956226 | doi-access = free }}</ref>
+* Iron deficiency ([[anemia]])
+*[[Vitamin B12 deficiency]]
+* Low blood sugar ([[hypoglycemia]])
+* Hormonal changes (e.g. thyroid disease, menstruation, pregnancy)
+* [[Panic disorder]]
+* [[Hyperventilation]]
+* [[Anxiety]]
+* [[Major depressive disorder|Depression]]
+* Age-diminished visual, balance, and perception of spatial orientation abilities
+* a [[stroke]] is the cause of isolated dizziness in 0.7% of people who present to the [[emergency department]].<ref name=Epi09/>
+
+==Epidemiology==
+About 20–30% of the population report to have experienced dizziness at some point in 2008.<ref name=Epi09>{{cite journal | vauthors = Neuhauser HK, Lempert T | title = Vertigo: epidemiologic aspects | journal = Seminars in Neurology | volume = 29 | issue = 5 | pages = 473–81 | date = November 2009 | pmid = 19834858 | doi = 10.1055/s-0029-1241043 | url = http://edoc.rki.de/oa/articles/redMw1x2qc1PA/PDF/28bPty5WOzjUE.pdf }}</ref>
+
+==Disequilibrium==
+{{About|the loss of sense of balance||Disequilibrium (disambiguation){{!}}Disequilibrium|section=TRUE}}
+In medicine, '''disequilibrium''' refers to impaired [[equilibrioception]] that can be characterised as a sensation of impending fall or of the need to obtain external assistance for proper locomotion. It is sometimes described as a feeling of improper tilt of the floor, or as a sense of floating. This sensation can originate in the inner ear or other motion sensors, or in the central nervous system. Neurologic disorders tend to cause constant vertigo or disequilibrium and usually have other symptoms of neurologic dysfunction associated with the vertigo. Many medications used to treat seizures, depression, anxiety, and pain affect the vestibular system and the central nervous system which can cause the symptom of disequilibrium.<ref>{{cite book | vauthors = Konrad HR | chapter = Chapter 123: Vertigo and Associated Symptoms | chapter-url=https://www.ncbi.nlm.nih.gov/books/NBK228/ | veditors = Walker HK, Hall WD, Hurst JA |title=Clinical Methods: The History, Physical, and Laboratory Examinations. | edition = 3rd | location = Boston | publisher = Butterworths | date = 1990 | isbn = 0-409-90077-X }}</ref>
+
+== See also ==
+{{div col|colwidth=22em}}
+* [[Balance disorder]]
+* [[Broken escalator phenomenon]]
+* [[Chronic subjective dizziness]]
+* [[Coriolis effect (perception)]]
+* [[Equilibrioception]]
+* [[Ideomotor phenomenon]]
+* [[Illusions of self-motion]]
+* [[Motion sickness]]
+* [[Postural orthostatic tachycardia syndrome]]
+* [[Proprioception]]
+* [[Seasickness]]
+* [[Spatial disorientation]]
+* [[The spins]], a state of dizziness and disorientation due to intoxication
+* [[Vertigo]]
+{{div col end}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Medical resources
+| DiseasesDB      = 17771
+| ICD10           = {{ICD10|R|42||r|40}}
+| ICD9            = {{ICD9|780.4}}
+| ICDO            = 
+| OMIM            = 
+| eMedicineSubj   = neuro
+| eMedicineTopic  = 693
+| MeshID          = D004244
+| MedlinePlus     = 003093
+| SNOMED CT       = 404640003
+}}
+* [https://www.dizzytimes.com/ Dizzytimes.com] Online Community for Sufferers of Vertigo and Dizziness
+* [https://www.dynainc.org Dysautonomia Youth Network of America, Inc.]
+{{wikt|dizziness}}
+
+{{Cognition, perception, emotional state and behaviour symptoms and signs}}
+
+{{Authority control}}
+
+[[Category:Neurological disorders]]

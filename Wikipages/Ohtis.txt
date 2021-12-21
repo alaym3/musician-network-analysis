@@ -1,0 +1,51 @@
+{{Infobox musical artist
+| name            = Ohtis
+| image           =
+| image_size      =
+| image_upright   =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Normal, Illinois]], United States
+| genre           = [[Country music|Country]],<ref name=nme/> [[country rock]],<ref name=am/> [[alternative country]]<ref name=nme2/>
+| years_active    = c. {{start date|2004}} – present
+| label           =
+| associated_acts =
+| website         = <!-- {{URL|www.example.com}} or {{Official URL}} -->
+| current_members = * Sam Swinson
+* Adam Pressley
+* Nate Hahn
+| past_members    =
+| module          =
+| module2         =
+| module3         = 
+}}
+
+'''Ohtis''' is an American [[country rock]] band from [[Normal, Illinois]]. Their debut album ''Curve of Earth'' was released in 2019.
+
+==History==
+Singer-songwriter Sam Swinson formed the band with Adam Pressley while in high school; they were later joined by multi-instrumentalist Nate Hahn.<ref name=nme>{{cite web|url=https://www.nme.com/blogs/nme-radar/ohtis-interview-curve-of-earth-album-darkly-beautiful-2462411|title=Ohtis: How 'Curve Of Earth', eight darkly beautiful country songs about heroin, took 15 years to make|date=March 18, 2019|accessdate=November 22, 2019|work=[[NME]]|first=Jordan|last=Bassett}}</ref><ref name=pm/> Despite initial popularity in and around [[Normal, Illinois]], and several [[do-it-yourself]] releases, Swinson's [[heroin addiction]] and recovery caused the band to disintegrate.<ref name=nme/><ref name=am>{{cite web|url=https://www.allmusic.com/album/curve-of-earth-mw0003245360|title=Ohtis: ''Curve of Earth''|accessdate=November 23, 2019|work=[[AllMusic]]|first=Marcy|last=Donelson}}</ref><ref name=pm>{{cite web|url=https://www.popmatters.com/ohtis-curve-of-earth-review-2634611714.html|title=Ohtis' Debut Album 'Curve of Earth' Is About Addiction and Recovery|date=April 15, 2019|accessdate=November 22, 2019|work=[[PopMatters]]|first=Chris|last=Conaton}}</ref> The band were subsequently mostly inactive from 2009 to 2016.<ref name=am/>
+
+==''If This Country Had a Heart, That’s Where I Was Born'' (2008)==
+''If This Country Had a Heart, That’s Where I Was Born'' was [[self-released]] in 2008. Reviewing the album for ''[[Tiny Mix Tapes]]'', Laura Witkowski likened it to "[[Paul Simon]] putting his spin on late-’70s-era [[Talking Heads]] backed by a commune of accomplished hippie musicians", noted its theme of religious uncertainty, and described Swinson's songwriting as that of "a deep thinker with a sharp, wry wit."<ref>{{cite web|url=https://www.tinymixtapes.com/music-review/ohtis-if-country-had-heart-thats-where-i-was-born|title=Ohtis: ''If This Country Had A Heart, That’s Where I Was Born''|access-date=November 8, 2021|work=[[Tiny Mix Tapes]]|first=Laura|last=Witkowski}}</ref>
+
+==''Curve of Earth'' (2019)==
+Ohtis' debut album ''Curve of Earth'' was released on March 29, 2019, 15 years after the band was first formed.<ref name=nme/><ref name=am/> The songs were written while Swinson was in [[drug rehabilitation]] and during [[relapse]], and recorded after Swinson contacted Pressley and Hahn as part of a [[twelve-step program]].<ref name=pm/> The album also draws on religious themes, inspired by Swinson's early life spent in a [[cult]].<ref name=am/>
+
+Chris Conaton of ''[[PopMatters]]'' described the album as characterised by "an unusual musical variety in the songs that makes it an intriguing listening experience" and praised "Swinson's raw honesty and the band's musical creativity".<ref name=pm/> Marcy Donelson of ''[[AllMusic]]'' noted that despite the album's subject matter, its "lyrics are delivered throughout the album with a relaxed, affable tone befitting the group's twangy, sauntering indie rock", and characterized the album as "30-minute set that plays like a character-centered short story."<ref name=am/>
+
+In a five-star review in ''[[NME]]'', Jordan Bassett wrote that "These eight country songs course with pain and regret, although there’s a strong seam of hope and optimism too." Bassett praised "Black Blood" and concluded that the album "contain[s] the chaos of addiction, crystallising mistakes into something much more beautiful. The result is extraordinary and life-affirming."<ref name=nme2>{{cite web|url=https://www.nme.com/reviews/album/ohtis-curve-of-earth-review|title=Ohtis – 'Curve Of Earth' review|date=March 28, 2019|accessdate=November 22, 2019|work=[[NME]]|first=Jordan|last=Bassett}}</ref>
+
+George O'Brien of ''[[London in Stereo]]'' wrote that the album "paints a picture of hope, through examining the bleakest moments",<ref>{{cite web|url=https://www.londoninstereo.com/ohtis-curve-of-earth-album-review/|title=Ohtis – Curve of Earth // album review|date=March 28, 2019|accessdate=November 23, 2019|work=[[London in Stereo]]|first=George|last=O'Brien}}</ref> while Woody Delaney of ''[[Loud and Quiet]]'' described it as having an "aura that’s melancholic yet comforting".<ref>{{cite web|url=https://www.loudandquiet.com/reviews/ohtis-curve-of-earth/|title=Ohtis: Curve of Earth|date=March 28, 2019|accessdate=November 23, 2019|work=[[Loud and Quiet]]|first=Woody|last=Delaney}}</ref> Reviewing the album in ''[[The Line of Best Fit]]'', Evan Lilly wrote that "''Curve of Earth'' is an intimate recollection that's meant to illuminate and heal our spirits, reminding us that even in dark times, light somehow manages to always pass through."<ref>{{cite web|url=https://www.thelineofbestfit.com/reviews/albums/ohtis-curve-of-earth-album-review|title=The debut LP from Ohtis is a minor miracle|date=March 25, 2019|accessdate=November 23, 2019|work=[[The Line of Best Fit]]|first=Evan|last=Lilly}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://ohtis.com/ Official website]
+
+[[Category:American alternative country groups]]
+[[Category:American country rock groups]]
+[[Category:Musical groups from Illinois]]
+[[Category:Musical groups established in the 2000s]]

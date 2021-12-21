@@ -1,0 +1,166 @@
+{{short description|Norwegian singer}}
+{{BLP sources|date=December 2016}}
+{{Infobox musical artist
+| name            = Freddy Kalas
+| image           =
+| caption         =
+| birth_name      = Fredrik Auke
+| alias           = {{hlist|Freddy Kalas|Freddy Genius}}
+| birth_date      = 1990
+| birth_place     = [[Drammen]], Norway
+| origin          =
+| genre           = {{hlist|[[Eurodance]]|[[electro house]]|[[Electronic dance music|EDM]]|[[progressive house]]|[[pop music|pop]]|[[dance-pop]]|[[reggae fusion]]}}
+| occupation      = Singer
+| instrument      = Vocal
+| years_active    = 2009–present
+| label           = {{hlist|Alter Ego Music|[[Universal Music|Universal Music Norway]]}}
+| associated_acts = {{hlist|[[SimenA]]|[[Mikkel Christiansen]]|[[Broiler (DJs)|Broiler]]|Henrik Sæter|[[Robin og Bugge]]|Dudeman|Cloud Nine|Heux|Carl Fredrik G. Løken}}
+| website         = {{URL|freddykalas.no}}
+}}
+'''Fredrik Auke''' (born 1990), also known as '''Freddy Kalas''' and previously as '''Freddy Genius''', is a Norwegian singer signed to Alter Ego Music. His debut hit "[[Pinne for landet]]" topped [[VG lista]], the official Norwegian Singles Chart. The follow-up "Hey Ho" made it to number 2 on the same chart. He is the brother of Simen Auke from the DJ duo [[Broiler (DJ)|Broiler]].<ref>{{cite web|author=Marthe Berg |url=http://www.vg.no/rampelys/musikk/vg-lista/freddy-kalas-vil-gi-det-norske-folk-allsang-i-ekte-dj-broiler-stil/a/23373727/ |title=Freddy Kalas vil gi det norske folk allsang i ekte DJ Broiler-stil - VG-lista - VG |website=Vg.no |date=2015-01-14 |accessdate=2016-12-06}}</ref>
+
+In 2016, he took part in the preselection for Norwegian [[Melodi Grand Prix]] in a bid to represent Norway in [[Norway in the Eurovision Song Contest 2016|Eurovision Song Contest 2016]] with "Feel Da Rush".<ref>{{cite web|author= |url=http://www.dagbladet.no/2016/02/27/kultur/melodi_grand_prix/eurovision/sverige/danmark/43285845/ |title=Freddy Kalas' "Feel Da Rush" er hørt mest av årets MGP-låter. Nordiske eksperter tror ikke han vinner av den grunn - kultur |website=Dagbladet.no |date=2016-02-27 |accessdate=2016-12-06}}</ref> He reached the final four in the preselection process finishing runner-up to the winning song "[[Icebreaker (song)|Icebreaker]]" by [[Agnete Johnsen|Agnete]]. Kalas' song proved popular with the public making it to number 2 on the Norwegian Singles Chart.<ref name=vglista>{{cite web |url=http://lista.vg.no/liste/topp-20-single/1/dato/2016/uke/9 |title=VG-lista - Topp 20 Single uke 9, 2016 |website=Lista.vg.no |date=1970-01-01 |accessdate=2016-12-06 |archive-url=https://web.archive.org/web/20160403135155/http://lista.vg.no/liste/topp-20-single/1/dato/2016/uke/9 |archive-date=2016-04-03 |url-status=dead }}</ref>
+
+==Discography==
+===Singles===
+'''As main artist'''
+{| class="wikitable"
+|-
+! rowspan="2" style="text-align:center; width:190px;"|Song
+! rowspan="2" style="text-align:center; width:10px;"|Year
+! colspan="2" style="text-align:center; width:20px;"|Peak positions
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[VG lista|NOR]]<br><ref name="nor">{{cite web | url=http://norwegiancharts.com/showinterpret.asp?interpret=Freddy+Kalas | title=Freddy Kalas discography |website=Norwegiancharts.com|accessdate=19 February 2016}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[Sverigetopplistan|SWE]]<br><ref name="swe">{{cite web | url=http://swedishcharts.com/showinterpret.asp?interpret=Freddy+Kalas | title=Freddy Kalas discography |website=Swedishcharts.com|accessdate=31 May 2016}}</ref>
+|-
+| colspan="4" style="background:#555;" |
+|-
+| colspan="4"| {{center|Credited as '''Freddy Kalas'''}}
+|- 
+| "[[Pinne for landet]]"
+| style="text-align:center;"|2014
+| style="text-align:center;"|1
+| style="text-align:center;"|78
+|-
+| "Fest hos Kalas"
+| style="text-align:center;" rowspan=5|2015
+| style="text-align:center;"|26
+| style="text-align:center;"|—
+|-
+| "Reidar"
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|-
+| "Hey Ho"
+| style="text-align:center;"|2
+| style="text-align:center;"|4<br /><ref>{{cite web|url=https://www.sverigetopplistan.se/chart/41?dspy=2019&dspp=52|title=Veckolista Singlar, vecka 52|publisher=[[Sverigetopplistan]]|accessdate=27 December 2019}}</ref>
+|-
+| "God sommer"
+| style="text-align:center;"|23
+| style="text-align:center;"|—
+|-
+| "[[Pinne for landet|Pinne for Sverige]]"
+| style="text-align:center;"|—
+| style="text-align:center;"|59
+|-
+| "Feel Da Rush"
+| style="text-align:center;" rowspan="3"|2016
+| style="text-align:center;"|2
+| style="text-align:center;"|72
+|-
+| "Jovial"
+| style="text-align:center;"|1
+| style="text-align:center;"|79
+|-
+| "Sunshine Hits My Face"
+| style="text-align:center;"|31
+| style="text-align:center;"|—
+|-
+| "Gjøre ingenting" 
+| style="text-align:center;" rowspan="2"|2017
+| style="text-align:center;"|15<br /><ref>{{cite web|url=http://lista.vg.no/liste/topp-20-single/1/dato/2017/uke/19|title=VG-lista – Topp 20 Single uke 19, 2017|publisher=[[VG-lista]]|accessdate=14 May 2017}}</ref>
+| style="text-align:center;"|—
+|-
+| "Vibber"
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|-
+| "Blime!" 
+| style="text-align:center;"|2018
+| style="text-align:center;"|14<br /><ref>{{cite web|url=http://www.vglista.no/topplister/topp-20-single-2018-39/|title=VG-lista – Topp 20 Single uke 39, 2018|publisher=[[VG-lista]]|accessdate=29 September 2018}}</ref>
+| style="text-align:center;"|—
+|-
+| "Et sommertegn" 
+| style="text-align:center;"|2021
+| style="text-align:center;"|32<br /><ref>{{cite web|url=https://topplista.no/charts/singles/2021-w29/|title=VG-lista – Topp 20 Single 2021-29|publisher=[[VG-lista]]|access-date=24 July 2021}}</ref>
+| style="text-align:center;"|—
+|-
+| colspan="5" style="font-size:90%" | "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+'''As featuring artist'''
+{| class="wikitable"
+|-
+! rowspan="2" style="text-align:center; width:190px;"|Song
+! rowspan="2" style="text-align:center; width:10px;"|Year
+! colspan="2" style="text-align:center; width:20px;"|Peak positions
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[VG lista|NOR]]<br><ref name="nor"/>
+! scope="col" style="width:3em;font-size:90%;" | [[Sverigetopplistan|SWE]]<br><ref name="swe"/>
+|-
+| colspan="4" style="background:#555;" |
+|-
+| colspan="4"| {{center|Credited as '''Freddy Genius'''}}
+|- 
+| "Cannabus 2011" <br/>{{small|([[SimenA]] featuring Freddy Genius)}}
+| style="text-align:center;" rowspan="2"|2011
+| style="text-align:center;"|2<br/><ref>[https://www.vglista.no/sanger/cannabus-2011-feat-freddy-genius/ Cannabus 2011 (feat. Freddy Genius) by SimenA on VG-Lista]</ref>
+| style="text-align:center;"|—
+|- 
+| "Perfect Strangers"<ref>{{Cite web|url=https://itunes.apple.com/us/album/perfect-strangers-feat-freddy-genius-single/470403123|title=Perfect Strangers (Feat. Freddy Genius) - Single by Mikkel Christiansen on iTunes}}</ref> <br/>{{small|([[Mikkel Christiansen]] featuring Freddy Genius)}}
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|- 
+| "Bongo Drum"<ref>{{Cite web|url=https://itunes.apple.com/no/album/bongo-drum-feat-freddy-genius-single/id711608460?l|title=Bongo Drum (Feat. Freddy Genius) - Single by Robin og Bugge}}</ref> <br/>{{small|([[Robin og Bugge]] featuring Freddy Genius)}}
+| style="text-align:center;"|2013
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|- 
+| "Gaiastova"<ref>{{Cite web|url=https://itunes.apple.com/us/album/gaiastova-feat-freddy-genius-single/id854726832|title=Gaiastova (Feat. Freddy Genius) - Single by Henrik Sæter & Ole Pedersen on iTunes}}</ref> <br/>{{small|(Henrik Sæter and Ole Pedersen featuring Freddy Genius)}}
+| style="text-align:center;"|2014
+| style="text-align:center;"|—
+| style="text-align:center;"|—
+|-
+| colspan="5" style="font-size:90%" | "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Awards and nominations==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! Year
+! Organization
+! Award
+! Work
+! Result
+|-
+| rowspan="1"| 2017
+| [[Spellemannprisen]]
+| Årets Låt (Song of the Year)
+| "Jovial"
+| {{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Kalas, Freddy}}
+[[Category:Norwegian pop singers]]
+[[Category:Musicians from Drammen]]
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Melodi Grand Prix contestants]]
+[[Category:Norwegian singer-songwriters]]
+[[Category:21st-century Norwegian singers]]
+[[Category:21st-century Norwegian male singers]]

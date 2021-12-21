@@ -1,0 +1,170 @@
+{{pp|small=yes}}
+{{short description|American animator and screenwriter}}
+{{Infobox person
+| name         = Rebecca Sugar
+| birth_name   = Rebecca Rea Sugar
+| image        = Rebecca Sugar Speaking at New York Comic Con 2014 - Peter Dzubay (cropped).jpeg
+| caption      = Sugar at the 2014 [[New York Comic Con]]
+| birth_date   = {{birth date and age|1987|07|09}}
+| birth_place  = [[Silver Spring, Maryland]], U.S.
+| alma_mater   = [[School of Visual Arts]]
+| occupation   = {{hlist|Animator|storyboard artist|director|writer|producer|songwriter}}
+| years_active = 2009−present
+| known for =  ''[[Steven Universe]]''
+| spouse       = {{marriage|[[Ian Jones-Quartey]]|2019}}
+| website      = <!-- {{URL|Example.com}} -->
+}}
+
+'''Rebecca Rea Sugar''' (born July 9, 1987) is an American animator, director, screenwriter, producer, and singer-songwriter. She{{efn|Sugar uses [[She (pronoun)|she/her]] and [[Singular They|they/them]] pronouns. This article uses feminine pronouns for consistency.}}<!-- We use "she" because, as the article explains, Sugar uses both "she" and "they" pronouns, and because Sugar is covered by our sources as "she". This avoids confusing readers. --> is the creator of the [[Cartoon Network]] series ''[[Steven Universe]]'', making her both the first woman<ref name="forbes"/> and the first non-binary individual<ref>{{cite book |last1=Thomas |first1=Paul |title=Exploring the Land of Ooo: An Unofficial Overview and Production History of Cartoon Network's "Adventure Time" |date=2020 |publisher=[[University of Kansas|University of Kansas Libraries]] |location=[[Lawrence, KS]] |isbn=9781936153190 |page=154, note 112 |url=https://kuscholarworks.ku.edu/handle/1808/30572 |access-date=July 14, 2021}}</ref> to independently create a series for the network.<ref name="forbes">{{cite web|url=https://www.forbes.com/pictures/mfl45edfge/rebecca-sugar/|title=Rebecca Sugar – 30 Under 30: Hollywood|date=December 17, 2012|work=[[Forbes]]|access-date=April 21, 2013}}</ref> Until 2013, Sugar was a writer and storyboard artist on the animated television series ''[[Adventure Time]]''. Her work on the two series has earned her seven [[Primetime Emmy Award]] nominations.<ref>{{cite web|url=https://www.emmys.com/bios/rebecca-sugar|title=Rebecca Sugar|website=Television Academy|access-date=22 May 2019}}</ref> Sugar is [[bisexual]] and [[non-binary]], using both she/her and they/them pronouns,<ref name=nonbinary/> which has served as the inspiration for her to stress the importance of [[LGBT]] representation in art, especially in children's entertainment.<ref name=queery/>
+
+== Early life ==
+Sugar was raised in the Sligo Park Hills area of [[Silver Spring, Maryland]]. She simultaneously attended [[Montgomery Blair High School]] and the Visual Arts Center at [[Albert Einstein High School]]<ref>{{cite news|title='Steven Universe' creator Rebecca Sugar is a Cartoon Network trailblazer |work=[[The Washington Post]] |first=Michael |last=Cavna |date=November 1, 2013 |access-date=December 27, 2019 |url=https://www.washingtonpost.com/entertainment/tv/steven-universe-creator-rebecca-sugar-is-an-idealistic-trailblazer/2013/11/01/fe622da2-4338-11e3-a751-f032898f2dbc_story.html}}</ref> (where she was an arts semifinalist in the Presidential Scholar competition,<ref>{{cite web |title=Two Students are Named Presidential Scholars |url=http://www.montgomeryschoolsmd.org/press/printPress.aspx?id=1647 |website=[[Montgomery County Public Schools (Maryland)|Montgomery Schools Maryland]] |access-date=October 22, 2016 |archive-url=https://web.archive.org/web/20161022223133/http://www.montgomeryschoolsmd.org/press/printPress.aspx?id=1647 |archive-date=October 22, 2016 |date=May 10, 2005 |url-status=dead}}</ref> and won Montgomery County's prestigious Ida F. Haimovicz Visual Arts Award),<ref>{{cite web| last1=French|first1= Esther|title= Successful Animator Credits Einstein's Visual Arts Center|url=https://patch.com/maryland/wheaton-md/successful-animator-credits-einstein-s-visual-arts-center|publisher=[[Patch Media]]|access-date=April 25, 2017|date= January 14, 2013}}</ref> both of which are located in Maryland. While at Blair, she drew several comics (called "The Strip" for the school's newspaper, ''Silver Chips'') which won first place for comics in the Newspaper Individual Writing and Editing Contest. "The Strip" ran a comic challenging MCPS's new grading policy from 2005.<ref>{{cite web|url=https://silverchips.mbhs.edu/content/silver-chips-silver-chips-online-silver-quill-win-in-journalism-competitions-23752/|access-date=October 19, 2017|publisher=Silver Chips Online|title=Silver Chips, Silver Chips Online, Silver Quill win in journalism competitions|last1=Goldstein|first1=Jordan|last2=Sekaran|first2=Adith|date=November 14, 2005}}</ref> She went on to attend the [[School of Visual Arts]] in New York.<ref>{{cite web|last1=Amidi|first1=Amid|title=Rebecca Sugar Is Cartoon Network's First Solo Woman Show Creator|url=https://www.cartoonbrew.com/ideas-commentary/rebecca-sugar-is-cartoon-networks-first-solo-woman-show-creator-71157.html|publisher=[[Cartoon Brew]]|access-date=June 11, 2014|date=October 5, 2012}}</ref>
+
+According to Sugar's father Rob, Rebecca Sugar and her younger brother Steven were raised with what he called "[[Jewish]] sensibilities", and both siblings observe the lighting of [[Hanukkah]] candles with their parents via [[Skype]].<ref name="jsmicah">{{cite web |last1=Grossman |first1=Ed |last2=Moskowitz |first2=Dan |title=Rebecca Sugar takes Hollywood by storm with hit cartoon show "Steven Universe" |url=https://templemicah.org/newsfolder/newsitems/rebecca-sugar-takes-hollywood-by-storm-with-hit-cartoon-show-steven-universe/ |website=templemicah.org |access-date=December 27, 2019 |archive-url=https://web.archive.org/web/20150125055523/http://www.templemicah.org/newsfolder/newsitems/rebecca-sugar-takes-hollywood-by-storm-with-hit-cartoon-show-steven-universe |archive-date=January 25, 2015 |date=May 14, 2015 |url-status=dead}}</ref>
+
+== Career ==
+=== Early work ===
+During her time at the School of Visual Arts, Sugar directed short animated films, including ''Johnny Noodleneck'' (2008).<ref name="hornet">{{Cite web|last1=Villarreal|first1=Daniel|url=https://hornet.com/stories/rebecca-sugar-before-steven-universe/|title=The Weird, Heartbreaking Pre-'Steven Universe' Work of Rebecca Sugar|date=April 22, 2017|work=Hornet Stories|access-date=October 25, 2018}}</ref> In 2009, she wrote and animated ''Singles'', in which frequent collaborator Ian Jones-Quartey acted as an assistant animator, assistant inker and voice actor on the project, while Sugar's brother Steven Sugar acted as an assistant colorist.<ref name="amidi2009" /> Sugar completed this film as her thesis.<ref name="amidi2009" />
+
+Sugar also played an important role in the creation of ''nockFORCE'', a cartoon series created by Ian Jones-Quartey and Jim Gisriel and launched in 2007 on [[YouTube]]. In particular, she contributed to the cartoon's backgrounds and characters.<ref>{{cite tweet|last=Jones-Quartey|first=Ian|user=ianjq|number=636312476930314244|date=August 25, 2015|title=@captainzulas @rebeccasugar @JimmFORCE actually Rebecca helped a number of things in nockFORCE including backgrounds and characters|access-date=October 28, 2018}}</ref>
+
+In 2010, Sugar published her first graphic novel, ''Pug Davis'', featuring an astronaut dog and his gay sidekick Blouse.<ref>{{Cite web|last1=Homan|first1=Eric|url=http://archives.frederatorblogs.com/adventure_time/2010/12/09/rebecca-sugars-pug-davis/|title=Rebecca Sugar's "Pug Davis"|website=The Adventure Time Blog|date=December 9, 2010|publisher=Frederator Studios Blogs|access-date=October 25, 2018}}</ref><ref>{{Cite web|url=https://www.goodreads.com/book/show/12673887-pug-davis|title=Pug Davis|work=[[Goodreads]]|access-date=October 28, 2018}}</ref>
+
+She is also known for her comic "Don't Cry for Me, I'm Already Dead", a story about two brothers whose shared love of ''[[The Simpsons]]'' takes a tragic turn.<ref name="hornet"/>
+
+=== Television ===
+Sugar first joined the crew of ''Adventure Time'' as a [[storyboard]] revisionist during the show's [[Adventure Time (season 1)|first season]].<ref>Ward, Pendleton (2011). "Rainy Day Daydream" [Animatic commentary track], ''Adventure Time'' Season One [DVD], Los Angeles, CA: [[Cartoon Network]].</ref> Due to the quality of her work, within a month of being hired she was promoted to a storyboard artist, making her debut during the production of the [[Adventure Time (season 2)|second season]].<ref name="jsmicah"/> Her first episode was "[[It Came from the Nightosphere]]".<ref name="firstboard">{{cite web|last1=Homan|first1=Eric|title=Rebecca Sugar's First Board (Nightosphere)|url=http://archives.frederatorblogs.com/adventure_time/2010/10/11/rebecca-sugars-first-board-nightosphere/|publisher=[[Frederator Studios]]|access-date=January 19, 2013|date=October 11, 2010}}</ref> While working on the show, she was encouraged by the creative team to put her "own life experiences into the character of [[Marceline the Vampire Queen|Marceline]]."<ref>{{cite web |last1=Robinson |first1=Joanna |title=Raya and the Last Dragon's Kelly Marie Tran Thinks Her Disney Princess Is Gay |url=https://www.vanityfair.com/hollywood/2021/03/raya-and-the-last-dragon-kelly-marie-tran-gay-namaari-raya |website=[[Vanity Fair (magazine)|Vanity Fair]] |access-date=March 14, 2021 |archive-url=https://web.archive.org/web/20210307025741/https://www.vanityfair.com/hollywood/2021/03/raya-and-the-last-dragon-kelly-marie-tran-gay-namaari-raya |archive-date=March 7, 2021 |date=March 5, 2021 |url-status=live}}</ref> As she put it in an interview with ''[[Paper Magazine]]'', she connected with indie and underground comic artists who worked on the show, like [[Pendleton Ward]], [[Patrick McHale (artist)|Patrick McHale]] and [[Adam Muto]], who told her to do what she would do when drawing comics and to not hold anything back. She stated that some of the changes in animation for years to come were inspired by what the show was able to do by being "very artist-driven," by independent comic artists like herself.<ref>{{cite web |last1=Moen |first1=Matt |title=In Conversation: Rebecca Sugar and Noelle Stevenson |url=https://www.papermag.com/rebecca-sugar-noelle-stevenson-2646446747.html |website=[[Paper Magazine]] |access-date=August 10, 2020 |archive-url=https://web.archive.org/web/20200809164913/https://www.papermag.com/rebecca-sugar-noelle-stevenson-2646446747.html |archive-date=August 9, 2020 |date=August 5, 2020 |url-status=live}}</ref>
+
+Production for ''Steven Universe'' began while Sugar was still working on ''Adventure Time''. She continued working on ''[[Adventure Time]]'' until the show's [[Adventure Time (season 5)|fifth season]], whereupon she left in order to focus on ''Steven Universe''. Her last episode for ''Adventure Time'' was "[[Simon & Marcy]]"; following that episode, working on both series simultaneously "became impossible to do". She had also previously encountered difficulty in the production of the ''Adventure Time'' episode "[[Bad Little Boy]]".<ref>{{cite web|last1=Kohn|first1=Eric|url=https://www.indiewire.com/2013/11/adventure-time-writer-rebecca-sugar-on-steven-universe-being-cartoon-networks-first-female-show-creator-and-why-pop-art-is-offensive-33362/|title='Adventure Time' Writer Rebecca Sugar on 'Steven Universe,' Being Cartoon Network's First Female Show Creator And Why Pop Art Is 'Offensive'|publisher=[[IndieWire]]|date=November 1, 2013|access-date=November 25, 2013}}</ref> Sugar returned temporarily to write the song "Everything Stays" for the [[Adventure Time (season 7)|seventh season]] miniseries ''[[Stakes (miniseries)|Stakes]]''.<ref>{{cite news |last1=Brown |first1=Tracy |title=The 'Adventure Time' songs that make you cry |url=https://www.latimes.com/entertainment/herocomplex/la-et-hc-adventure-time-songs-20180823-story.html |access-date=December 27, 2019 |work=[[Los Angeles Times]] |date=August 23, 2018}}</ref><ref name=stakesairdate>{{cite web|title=[Olivia Olson confirms when 'Stakes' will air]|url=https://instagram.com/p/4-ChaHhw-D/|publisher=[[Instagram]]|date=July 10, 2015|access-date=December 27, 2019}}</ref> 
+
+She was an [[executive producer]] for ''Steven Universe'' for its entire run, and a storyboard artist for several of its episodes; the series premiered on November 4, 2013 and concluded on January 21, 2019. She directed the full-length [[television movie]] taking place after the fifth season of ''Steven Universe'', called ''[[Steven Universe: The Movie]]'', which premiered on September 2, 2019 on Cartoon Network.<ref>{{Cite news|last1=Bojalad|first1=Alec|url=https://www.denofgeek.com/us/movies/steven-universe/275083/steven-universe-movie-release-date-trailer-cast-news|title=Steven Universe: The Movie Toonami Trailer Released|date=August 29, 2019|work=[[Den of Geek]]|access-date=December 27, 2019}}</ref> The movie was followed by an epilogue limited series titled ''[[Steven Universe Future]]'', also with Sugar as executive producer, which premiered on December 7, 2019<ref>{{cite web |last1=Miller |first1=Shannon |title=The titles, air dates, and episode details for ''Steven Universe Future'' are here |url=https://news.avclub.com/the-titles-air-dates-and-episode-details-for-steven-u-1840057147 |website=[[The A.V. Club]] |access-date=December 5, 2019 |date=November 26, 2019}}</ref> and concluded on March 27, 2020.
+
+=== Themes ===
+Sugar has discussed the importance of creating LGBT representation and content, especially in children's entertainment. On [[Cameron Esposito]]'s podcast QUEERY, Sugar stated "I want to champion LGBTQIA, all of it, content...in G-Rated, family entertainment. I want to do that forever".<ref name=queery>{{Cite web|last1=Esposito|first1=Cameron|url=https://www.earwolf.com/episode/rebecca-sugar/|title=Rebecca Sugar, episode #13 of Queery with Cameron Esposito on Earwolf|website=[[Earwolf]]|date=October 9, 2017|access-date=October 29, 2018}}</ref> She also explained how ''Steven Universe'' has helped her come to terms with her own identity as bisexual and non-binary. She believes that early and positive exposure to the [[LGBT community]] can help [[queer]] identifying children avoid experiencing shame in their own identities.<ref>{{cite news |last1=Brown |first1=Tracy |title=Rebecca Sugar's commitment to LGBTQ visibility continues to drive 'Steven Universe' |url=https://www.latimes.com/entertainment/herocomplex/la-et-hc-rebecca-sugar-steven-universe-20180524-story.html |access-date=October 29, 2018 |work=Los Angeles Times |date=May 24, 2018}}</ref><ref>{{cite web |last1=Romano |first1=Nick |title='Steven Universe' creator is doing more for LGBTQ visibility than you might know |url=https://ew.com/tv/2018/08/13/steven-universe-rebecca-sugar-lgbtq-cartoons/ |website=[[EW.com]] |access-date=October 29, 2018 |date=August 13, 2018}}</ref>
+
+=== Other work ===
+Sugar designed the album cover of ''[[True Romance (Estelle album)|True Romance]]'' for [[Estelle (musician)|Estelle]], the voice of Garnet on ''Steven Universe''.<ref>{{cite tweet|last=Sugar|first=Rebecca|user=rebeccasugar|number=568989205931663360|date=February 20, 2015|title=Ahh!!! Completely surreal experience of seeing my album artwork for Estelle's new album True Romance… http://instagram.com/p/zWX0QRqBox/|access-date=December 27, 2019}}</ref> In December 2016, comic book publisher ''Youth in Decline'' featured Sugar's sketches and story notes for her unpublished comic ''Margo in Bed'' as issue #14 of the art/comics anthology series ''Frontier''.<ref name="frontier14">{{cite web|title=Frontier #14: Rebecca Sugar|url=http://www.youthindecline.com/product/frontier-14-rebecca-sugar|publisher=Youth in Decline|date=December 2016|access-date=December 27, 2019}}</ref><ref>{{cite web |last1=Leblanc |first1=Philippe |title=Review – Frontier #14 by Rebecca Sugar: Movement, Poetry & Family |url=https://www.comicsbeat.com/review-frontier-14-by-rebecca-sugar-movement-poetry-family/ |website=The Beat |access-date=December 27, 2019 |date=January 16, 2017}}</ref>
+
+In 2018, Sugar was featured on [[Gallant (singer)|Gallant]]'s 2018 R&B/Soul track ''TOOGOODTOBETRUE'', along with [[Sufjan Stevens]].<ref>{{cite web |last1=Murphy |first1=Sarah |title=Gallant, Sufjan Stevens and Rebecca Sugar Join Forces for "TOOGOODTOBETRUE" |url=http://exclaim.ca/music/article/gallant_sufjan_stevens_and_rebecca_sugar_join_forces_for_toogoodtobetrue |website=[[Exclaim!]] |access-date=December 27, 2019 |language=en-ca |date=September 21, 2018}}</ref>
+
+In April 2020, Sugar narrated a video titled ''Let My People Go'', a video created by the organization [[Never Again Action]]. The video talks about [[U.S. Immigration and Customs Enforcement]] detainees and the poor living conditions they are experiencing in light of the [[COVID-19 pandemic]].<ref>{{cite web |last1=Hughes |first1=William |title=''Steven Universe''{{'}}s Rebecca Sugar narrates video calling for closure of ICE camps |url=https://news.avclub.com/steven-universes-rebecca-sugar-narrates-video-calling-f-1842765283 |publisher=[[The A.V. Club]] |access-date=April 29, 2020 |date=April 8, 2020}}</ref>
+
+In the "Froggy Little Christmas" episode of ''[[Amphibia (TV series)|Amphibia]]'', a 22-minute Christmas special which aired on November 27, 2021, Sugar voiced a street performer who sang a musical number which Sugar had written. Sugar was not credited for her contribution to the episode.<ref>{{cite web|last=Rivera|first=Brett|url=https://screenrant.com/disney-amphibia-season-3-premiere-date/|title=Disney's Amphibia Season 3 Sets October Premiere Date [EXCLUSIVE]|website=[[Screen Rant]]|date=July 24, 2021|access-date=July 24, 2021|archive-url=https://web.archive.org/web/20210724194230/https://screenrant.com/disney-amphibia-season-3-premiere-date/|archive-date=July 24, 2021|url-status=live}}</ref><ref>{{Cite tweet |last=Braly |first=Matt |author-link=Matt Braly |user=Radrappy |number=1464478675991072770 |date=November 27, 2021 |title=Happy holidays you guys!  Thanks for watching the show and we'll see you next year for the roller coaster that is #amphibia s3b!  That @rebeccasugar song has been stuck in my head for half a year now. |language=en |access-date=November 27, 2021 |link=https://twitter.com/Radrappy/status/1464478675991072770 |url-status=live |archive-url=https://archive.today/rNYu7 |archive-date=November 27, 2021}}</ref>
+
+== Personal life ==
+In February 2016, [[Ian Jones-Quartey]] confirmed via [[Twitter]] that he and Sugar were in a romantic relationship; at the time of the tweet, the two had been together for eight years.<ref>{{cite tweet|last=Jones-Quartey|first=Ian|user=ianjq|number=698723352819576832|date=February 13, 2016|title=@CreeperGuy1337 yeah! We've been together over 8 years now|access-date=December 27, 2019}}</ref> He added that they met when Sugar was at the School of Visual Arts in New York. They were married on December 4, 2019.<ref>{{cite tweet|last=Jones-Quartey|first=Ian|user=ianjq|number=1202694027604180992|date=December 5, 2019|title=Hey so @rebeccasugar and I have been a couple for 12 years... and yesterday we got married! To each other!|access-date=December 27, 2019}}</ref>
+
+In July 2016, Sugar said at a [[San Diego Comic-Con]] panel that the LGBT themes in ''Steven Universe'' are in large part based on her own experience as a [[bisexual]] woman.<ref>{{cite news|last1=Rude|first1=Mey|url=https://www.autostraddle.com/rebecca-sugar-is-bisexual-steven-universe-creator-comes-out-at-comic-con-346094/|title=Rebecca Sugar is Bisexual: "Steven Universe" Creator Comes Out at Comic-Con |date=July 22, 2016|work=[[Autostraddle]]|access-date=July 22, 2016}}</ref> In a July 2018 interview on [[NPR]],<ref>{{cite news|last1=Johnson|first1=Joshua|url=https://the1a.org/segments/2018-07-09-the-mind-behind-americas-most-empathetic-cartoon/|title=The Mind Behind America's Most Empathetic Cartoon|work=[[1A (radio program)|1A]]|date=July 9, 2018|access-date=December 25, 2020|publisher=NPR}}</ref> In 2018 Sugar said that she created the series' Gems as non-binary women in order to express herself, as a non-binary woman, through them.<ref name=nonbinary>{{cite news|last1=Pulliam-Moore|first1=Charles|url=https://io9.gizmodo.com/steven-universes-rebecca-sugar-on-how-she-expresses-her-1827624015|title=Steven Universe's Rebecca Sugar on How She Expresses Her Identity Through the Non-binary Crystal Gems|date=July 16, 2018|work=[[io9]]|access-date=July 17, 2018}}</ref><ref>{{cite web |last1=Necessary |first1=Terra |title=Rebecca Sugar Opens Up About Being Non-binary |url=https://www.pride.com/comingout/2018/7/18/rebecca-sugar-opens-about-being-non-binary |website=Pride.com |access-date=December 27, 2019 |date=July 18, 2018}}</ref> In August 2020, she said she "didn't identify as a woman" but had felt pressure to conceal that fact because of her reputation as the first woman to create a Cartoon Network series.<ref>{{cite web|last1=Moen|first1=Matt|date=August 5, 2020|title=In Conversation: Rebecca Sugar and Noelle Stevenson|url=https://www.papermag.com/rebecca-sugar-noelle-stevenson-2646446747.html|url-status=live|archive-url=https://web.archive.org/web/20200809164913/https://www.papermag.com/rebecca-sugar-noelle-stevenson-2646446747.html|archive-date=August 9, 2020|access-date=August 10, 2020|website=[[Paper Magazine]]}}</ref> In October 2020, in the final art book for ''Steven Universe'', Sugar said that she loved being able to place her experiences in a different context "through a nonbinary lens" when writing characters for the show.<ref>{{cite book |last1=McDonnell |first1=Chris |date=October 2020 |chapter=End of An Era |title=Steven Universe: End of An Era |url=https://www.abramsbooks.com/product/steven-universe-end-of-an-era_9781419742842/ |url-status=live |language=en |location=Abrams, New York |publisher=Abrams Books |page=21 |isbn=978-1419742842  |archive-url=https://web.archive.org/web/20190822124553/https://www.abramsbooks.com/product/steven-universe-end-of-an-era_9781419742842/ |archive-date=August 22, 2019 |access-date=July 13, 2021 }}</ref> As of 2021, Sugar goes by both "she/her" and "they/them" pronouns.<ref>{{Cite web|url=https://twitter.com/rebeccasugar|title=Rebecca Sugar (@rebeccasugar)|website=Twitter|access-date=January 31, 2021}}</ref>
+
+== Accolades ==
+=== ''Adventure Time'' ===
+Rebecca Sugar's work on ''Adventure Time'' gained [[Primetime Emmy Award for Short-format Animation]] nominations for the episode "[[It Came from the Nightosphere]]" in 2011 and for the episode "Simon & Marcy" in 2013.<ref>{{Cite web|url=https://www.emmys.com/shows/adventure-time|title=Adventure Time - Emmy Awards, Nominations and Wins|date=2019|work=[[Academy of Television Arts & Sciences]]|access-date=December 27, 2019}}</ref> The show also earned multiple [[Annie Award]] nominations. These included, Best Storyboarding in a Television Production in 2012<ref>{{Cite web|url=https://annieawards.org/legacy/39th-annie-awards|title=39th Annual Annie Awards|date=2012|publisher=[[ASIFA-Hollywood]]|access-date=December 27, 2019}}</ref> and Story-boarding in an Animated Television Production in 2013.<ref>{{Cite web|url=https://annieawards.org/legacy/40th-annie-awards|title=40th Annual Annie Awards|date=2013|publisher=ASIFA-Hollywood|access-date=December 27, 2019}}</ref>
+
+=== ''Steven Universe'' ===
+{{main|Steven Universe#Awards and nominations}}
+For ''Steven Universe'', Sugar has been nominated for several media industry awards, including six Primetime Emmy Awards. She and the series have received, among others, the 2018 [[Peabody Award]] for Children's & Youth Programming and the 2019 [[GLAAD Media Award]] for Outstanding Kids & Family Program; in 2015 the series was named to the [[James Tiptree Jr. Award]] Honor List.
+
+=== Honors ===
+In 2012, ''[[Forbes]]'' magazine included her on its "[[Forbes 30 Under 30|30 Under 30]] in Entertainment" list, noting that she was responsible for writing "many of the best episodes" of ''Adventure Time''.<ref name="forbes" />
+
+''[[Variety (magazine)|Variety]]'' included Sugar in "Hollywood's New Leaders 2016: The Creatives", a list celebrating upcoming filmmakers, show-runners and creators in both [[old media|traditional]] and [[digital media]].<ref>{{Cite news|author=Variety Staff|url=https://variety.com/2016/film/spotlight/varietys-new-leaders-2016-the-creatives-1201893079/|title=Hollywood's New Leaders 2016: The Creatives|date=October 19, 2016|work=Variety|access-date=October 24, 2018}}</ref>
+
+== Filmography ==
+{| class="wikitable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 2009
+| ''Singles''
+| Director, story writer, animator and composer<ref name="amidi2009">{{cite web |last1=Amidi |first1=Amid |title=Cartoon Brew TV #21: "Singles" by Rebecca Sugar |url=https://www.cartoonbrew.com/brewtv/singles-rebecca-sugar-15727.html |website=Cartoon Brew |access-date=December 27, 2019 |date=August 10, 2009}}</ref>
+| Short film
+|-
+| rowspan="2"|2010–13; 2015, 2018
+| rowspan="2"|''[[Adventure Time]]''
+| Story writer, storyboard artist, songwriter, storyboard revisionist
+| rowspan="2"|Television series
+|-
+| Voice role: Marceline's mother
+|-
+| 2012
+| ''[[Hotel Transylvania (film)|Hotel Transylvania]]''
+| Storyboard artist<ref name ="HotelT">{{cite web |url=http://rebeccasugar.tumblr.com/post/36567783012/i-did-some-storyboards-for-hotel-transylvania-i |title=I did some storyboards for Hotel Transylvania! |work=[[Tumblr]] | first=Rebecca |last=Sugar |date=November 25, 2012  |access-date=May 6, 2013}}</ref>
+| Film
+|-
+| 2013–19
+| ''[[Steven Universe]]''
+| Creator, executive producer, storyline writer, storyboard artist, songwriter
+| Television series
+|-
+| 2017–19
+| ''[[OK K.O.! Let's Be Heroes]]''
+| Writer and performer of end titles
+| Television series
+|-
+| 2019
+| ''[[Steven Universe: The Movie]]''
+| Director, executive producer, writer, storyboard artist, composer, songwriter
+| Television film
+|-
+| 2019–20
+| ''[[Steven Universe Future]]''
+| Creator, executive producer
+| [[Limited series (television)|Limited television series]]
+|-
+| rowspan="2"| 2021
+| rowspan="2"| ''[[Amphibia (TV series)|Amphibia]]''
+| Songwriter (uncredited)
+| rowspan="2"| Episode: "Froggy Little Christmas"
+|-
+| Voice role: street performer (uncredited)
+|}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Sister project auto|d=yes}}
+* {{IMDb name}}
+* {{Twitter}}
+
+{{Steven Universe}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sugar, Rebecca}}
+[[Category:American animated film producers]]
+[[Category:1987 births]]
+[[Category:Animators from Maryland]]
+[[Category:21st-century American composers]]
+[[Category:American storyboard artists]]
+[[Category:American television producers]]
+[[Category:American television writers]]
+[[Category:Bisexual artists]]
+[[Category:Bisexual musicians]]
+[[Category:Bisexual writers]]
+[[Category:Cartoon Network Studios people]]
+[[Category:Jewish American composers]]
+[[Category:Jewish American songwriters]]
+[[Category:Jewish American writers]]
+[[Category:Jewish American artists]]
+[[Category:LGBT animators]]
+[[Category:LGBT Jews]]
+[[Category:LGBT people from Maryland]]
+[[Category:LGBT producers]]
+[[Category:LGBT screenwriters]]
+[[Category:LGBT songwriters]]
+[[Category:Living people]]
+[[Category:Non-binary writers]]
+[[Category:Non-binary musicians]]
+[[Category:School of Visual Arts alumni]]
+[[Category:Showrunners]]
+[[Category:Songwriters from Maryland]]
+[[Category:LGBT singers from the United States]]
+[[Category:Forbes 30 Under 30 recipients]]
+[[Category:People from Silver Spring, Maryland]]
+[[Category:21st-century American Jews]]

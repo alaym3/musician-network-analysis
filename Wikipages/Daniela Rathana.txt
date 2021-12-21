@@ -1,0 +1,91 @@
+{{Orphan|date=March 2021}}
+{{Short description|Swedish singer and songwriter}}
+{{Infobox musical artist
+| name             = Daniela Rathana
+| image            = 
+| image_size       = 
+| alt              = 
+| caption          = 
+| birth_name       = Daniela Sörensen
+| alias            = 
+| birth_date       = {{birth based on age as of date|23|2020|01|23}}<ref>{{Cite web|url=https://ng.se/recensioner/musik/daniela-rathana-halva-vagen-fri-ep|title=Daniela Rathana - Halva vägen fri EP|date=23 January 2020|language=sv|work=[[Nöjesguiden]]|first=Sophie|last=Winberg|access-date=16 May 2021}}</ref>
+| birth_place      = [[Akalla]], [[Stockholm Municipality]], Sweden
+| origin           = 
+| genre            = [[Pop music|Pop]]<ref name="red" />
+| occupation       = Singer, songwriter
+| instrument       = 
+| years_active     = <!-- YYYY–YYYY (or –present) -->
+| label            = Dundra
+| associated_acts  = [[Oskar Linnros]]
+| website          = <!-- {{URL|example.com}} or {{Official URL}} -->
+}}
+'''Daniela Sörensen''', better known by her stage name '''Daniela Rathana''' is a Swedish singer and songwriter. She was born and grew up in [[Akalla]] and was a backup singer for [[Sabina Ddumba]], [[Kent (band)|Kent]], [[Zara Larsson]] and [[Seinabo Sey]] before embarking on a solo career.<ref name="red">{{Cite web|url=https://www.redbull.com/se-en/music/7-swedish-acts-to-discover|title=Pandemic Playlist: 7 Swedish Acts To Discover At Home|date=20 May 2020|first=Özgür|last=Kurtoğlu|publisher=[[Red Bull]]|access-date=16 May 2021}}</ref><ref>{{Cite web|url=https://gaffa.se/artikel/141187/jag-fistar-folk-i-oeronen-med-mina-budskap|title="Jag fistar folk i öronen med mina budskap"|website=gaffa.se|accessdate=19 February 2021}}</ref> In 2020, she released her debut EP, ''Halva vägen fri''.<ref>{{Cite web|url=http://popmani.se/daniela-rathana-en-kvinna-kan-gora-allt/|title=Daniela Rathana: "En kvinna kan göra allt"|first=Josefin|last=Östby|date=29 September 2020|accessdate=19 February 2021}}</ref> In February 2021, she released the song "Testamente", a duet with [[Oskar Linnros]].<ref>{{Cite web|url=https://sverigesradio.se/artikel/daniela-rathana-oskar-linnros-testamente|title=Daniela Rathana och Oskar Linnros sluter cirkeln i "Testamente" - P3 Din Gata|first=Sveriges|last=Radio|agency=Sveriges Radio|accessdate=19 February 2021}}</ref> Her debut album is set for release in 2021 via Linnros' label Dundra; it will include the singles "Ansikte" and "Testamente".<ref>{{Cite web|url=https://gaffa.se/nyhet/147451/daniela-rathana-och-oskar-linnros-slaepper-singel-helt-oplanerat-och-spontant|title=Daniela Rathana och Oskar Linnros släpper singel – "helt oplanerat och spontant"|date=5 February 2021|first=Daniel|last=Horn|language=sv|work=[[Gaffa (magazine)|Gaffa]]|access-date=16 May 2021}}</ref>
+
+==Discography==
+===Studio albums===
+* ''Rathana Club'' (2021)<ref name="gp">{{Cite web|url=https://www.gp.se/kultur/kultur/veckans-spellista-ana-diaz-daniela-rathana-macky-jireel-jerlov-1.50454461|title=Veckans spellista: Ana Diaz, Daniela Rathana, Macky, Jireel, Jerlov|date=2 July 2021|first=Anna|last=Rosenström|work=[[Göteborgs-Posten]]|language=sv|access-date=2 July 2021}}</ref> – No. 22 Sweden<ref>{{cite web|url=https://www.sverigetopplistan.se/chart/54?dspy=2021&dspp=39|title=Veckolista Album, vecka 39|publisher=[[Sverigetopplistan]]|access-date=1 October 2021}}</ref>
+
+===EPs===
+* ''Halva vägen fri'' (2020)
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Sverigetopplistan|SWE]]
+|-
+! scope="row"| "Nu till livet"<ref>{{Cite web|url=https://music.apple.com/us/album/nu-till-livet-single/1450247631|title=Nu till livet - Single by Daniela Rathana on Apple Music|publisher=[[Apple Music]]|access-date=16 May 2021}}</ref>
+| rowspan="2"| 2019
+| —
+| {{non-album single}}
+|-
+! scope="row"| "Efterlyst"<ref>{{Cite web|url=https://music.apple.com/us/album/efterlyst-single/1483024967|title=Efterlyst - Single by Daniela Rathana on Apple Music|publisher=[[Apple Music]]|access-date=16 May 2021}}</ref>
+| —
+| ''Halva vägen fri''
+|-
+! scope="row"| "Ansikte"
+| 2020
+| —
+| {{non-album single}}
+|-
+! scope="row"| "Testamente"<br />{{small|(with [[Oskar Linnros]])}}
+| rowspan="4"| 2021
+| 94
+| ''Rathana Club''
+|-
+! scope="row"| "Satan i gatan"<ref>{{Cite web|url=https://open.spotify.com/album/08egoVGkQ3lk0CRf7S0SbB|title=Satan i gatan - Spotify  Studio It's Hits Recording - Single by Daniela Rathana|publisher=[[Spotify]]|access-date=16 May 2021}}</ref>
+| 20<br /><ref>{{cite web|url=https://www.sverigetopplistan.se/chart/41?dspy=2021&dspp=20|title=Veckolista Singlar, vecka 20|publisher=[[Sverigetopplistan]]|access-date=21 May 2021}}</ref>
+| ''[[Satan i gatan]] 10 år''
+|-
+! scope="row"| "Havanna"<ref name="gp" />
+| —
+| rowspan="2"| ''Rathana Club''
+|-
+! scope="row"| "Farstaglitter"
+| —{{efn|group=upper-alpha|"Farstaglitter" did not enter the [[Sverigetopplistan|Swedish Singellista Chart]], but peaked at number two on the Swedish Heatseeker Chart.<ref>{{cite web|url=https://www.sverigetopplistan.se/chart/215?dspy=2021&dspp=39|title=Veckolista Heatseeker, vecka 39|publisher=[[Sverigetopplistan]]|access-date=2 October 2021}}</ref>}}
+|}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+<references />
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rathana, Daniela}}
+[[Category:21st-century Swedish women singers]]
+[[Category:Living people]]
+[[Category:People from Stockholm]]
+[[Category:Singers from Stockholm]]
+[[Category:Swedish women singers]]
+[[Category:Swedish women singer-songwriters]]
+[[Category:Swedish pop singers]]
+[[Category:Swedish singer-songwriters]]
+[[Category:Year of birth missing (living people)]]
+
+{{Sweden-singer-stub}}

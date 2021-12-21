@@ -1,0 +1,119 @@
+{{Infobox musical artist
+| name             = Pentakill
+| image            = 
+| image_size       = 
+| alt              = 
+| caption          = 
+| origin           = ''[[League of Legends]]''<br/>by [[Riot Games]]
+| genre            = [[power metal]],<ref name="rockreportreview">https://www.rockreport.be/albums/pentakill-ii-grasp-of-the-undying</ref> [[progressive metal]]<ref name="rockreportreview"/>
+| years_active     = 2014-present
+| label            = {{hlist|[[Riot Games]]}}
+| website          = [https://pentakill.leagueoflegends.com/ Pentakill]
+| associated_acts  = [[K/DA]]
+| current_members  = 
+}}
+'''Pentakill''' is a [[virtual band|virtual]] [[heavy metal music|heavy metal]] band tied to the [[League of Legends]] universe. Their music is primarily composed and performed by Riot Games' in-house music team but features cameos by various renowned metal musicians.<ref name="nme">{{Cite web|url=https://www.nme.com/blogs/nme-blogs/pentakill-league-legends-gorillaz-2116908|title=Pentakill: is this virtual metal band the gamer's Gorillaz?|date=July 28, 2017|publisher=[[NME]]|first1=Mark|last1=Beaumont}}</ref> Their second album, ''Grasp of the Undying'', reached Number 1 on the [[iTunes]] metal charts in 2017.<ref name=lawson>{{Cite news|last=Lawson|first=Dom|date=August 6, 2017|title=Pentakill: how a metal band that doesn't exist made it to No 1|language=en-GB|work=[[The Guardian]]|url=https://www.theguardian.com/music/shortcuts/2017/aug/06/pentakill-how-a-metal-band-that-doesnt-exist-made-it-to-no-1|access-date=September 6, 2020|issn=0261-3077|archive-date=September 19, 2020|archive-url=https://web.archive.org/web/20200919143031/https://www.theguardian.com/music/shortcuts/2017/aug/06/pentakill-how-a-metal-band-that-doesnt-exist-made-it-to-no-1|url-status=live}}</ref> Their third album ''III: Lost Chapter'' was premiered using an interactive "live" concert.<ref>{{Cite web|url=https://www.pcgamesn.com/league-of-legends/pentakill-concert-2021|title=League of Legends band Pentakill is throwing a virtual concert next week|website=PCGamesN}}</ref><ref>{{Cite web|url=https://www.thegamer.com/league-of-legends-revives-pentakill-in-virtual-concert/|title=League of Legends Revives Its Heavy Metal Band Pentakill With Virtual Concert|date=September 4, 2021|website=TheGamer}}</ref><ref name="altchar"/><ref name="rollingstone">{{Cite web|url=https://www.rollingstone.com/pro/news/riot-games-wave-concert-pentakill-1219232/|title=Wave and Riot Games Are Teaming Up on a Concert for a Fictional Metal Band|first1=Ethan|last1=Millman|publisher=[[Rolling Stone]]|date=September 1, 2021}}</ref>
+
+==Musicians involved==
+
+{| class="wikitable"
+! colspan="4"|Musicians involved
+|-
+!rowspan=2 {{diagonal split header|Musician|Album}}
+|-
+<!--01--> ! ''Smite and Ignite''<br/><small>(2014)</small>
+<!--02--> ! ''Grasp of the Undying''<br/><small>(2017)</small>
+<!--03--> ! ''III: Lost Chapter''<br/><small>(2021)</small>
+|-
+!colspan=4|Vocalists
+|-
+! [[Jørn Lande]]<ref name="smiteprodnotes">{{Cite web|url=http://pentakill.leagueoflegends.com/en_US/archive/smite-and-ignite/|title=Pentakill: Smite and Ignite|website=pentakill.leagueoflegends.com}}</ref>
+<!--01-->|{{ya}}
+<!--02-->|{{ya}}
+<!--03-->|{{ya}}
+|-
+! [[Battle Beast (band)|Noora Louhimo]]<ref name="graspprodnotes"/>
+<!--01-->|
+<!--02-->|{{ya}}
+<!--03-->|{{ya}}
+|-
+! [[Fate (band)|Per Johansson]]<ref name="graspprodnotes"/>
+<!--01-->|
+<!--02-->|{{ya}}
+<!--03-->|{{ya}}
+|-
+! [[ZP Theart]]<ref name="smiteprodnotes"/>
+<!--01-->|{{ya}}
+<!--02-->|
+<!--03-->|
+|-
+! [[Tyler Smith (musician)|Tyler "Telle" Smith]]<ref name="altchar">{{Cite web|url=https://www.altchar.com/game-news/league-of-legends-gets-lost-chapter-the-new-pentakill-album-auuJF6N4RDx6|title=League of Legends gets Lost Chapter, the new Pentakill album|website=www.altchar.com}}</ref>
+<!--01-->|
+<!--02-->|
+<!--03-->|{{ya}}
+|-
+!Tre Watson<ref name="altchar" />
+|
+|||{{ya}}
+|-
+!colspan=4|Instrumentalists
+|-
+! [[Derek Sherinian]]<ref name="smiteprodnotes"/>
+<!--01-->|{{ya}}
+<!--02-->|
+<!--03-->|
+|-
+! [[Danny Lohner]]<ref name="smiteprodnotes"/>
+<!--01-->|{{ya}}
+<!--02-->|{{ya}}
+<!--03-->|
+|-
+! [[Joe Atlan]]<ref name="graspprodnotes">{{Cite web|url=http://pentakill.leagueoflegends.com/en_US/|title=Pentakill: Grasp of the Undying|website=pentakill.leagueoflegends.com}}</ref>
+<!--01-->|
+<!--02-->|{{ya}}
+<!--03-->|{{ya}}
+|-
+! [[Gregg Bissonette]]<ref name="smiteprodnotes"/>
+<!--01-->|{{ya}}
+<!--02-->|
+<!--03-->|
+|-
+! [[Tommy Lee]]<ref name="graspprodnotes"/>
+<!--01-->|
+<!--02-->|{{ya}}
+<!--03-->|
+|-
+! [[The Crystal Method|Scott Kirkland]]<ref name="graspprodnotes"/>
+<!--01-->|
+<!--02-->|{{ya}}
+<!--03-->|
+|-
+! [[Scar Symmetry|Benjamin Ellis]]<ref name="upcomer">{{Cite web|url=https://www.upcomer.com/pentakills-third-album-lost-chapter-to-release-on-sept-8/|title=Pentakill's third album 'Lost Chapter' to release on Sept. 8|date=August 26, 2021}}</ref>
+<!--01-->|
+<!--02-->|
+<!--03-->|{{ya}}
+|-
+! Tre Watson<ref name="altchar"/>
+<!--01-->|
+<!--02-->|
+<!--03-->|{{ya}}
+|}
+
+==Discography==
+* ''Smite and Ignite'' (2014)
+* ''II: Grasp of the Undying'' (2017)
+* ''III: Lost Chapter'' (2021)
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official|https://pentakill.leagueoflegends.com/}}
+
+{{metal-music-stub}}
+
+[[Category:League of Legends]]
+[[Category:Animated musical groups]]
+[[Category:Musical groups established in 2014]]
+[[Category:Heavy metal musical groups]]
+[[Category:Virtual influencers]]

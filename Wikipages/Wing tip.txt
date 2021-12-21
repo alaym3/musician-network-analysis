@@ -1,0 +1,61 @@
+{{short description|Part of an aircraft}}
+{{redirect|Wingtip|the shoe|brogues}}
+
+[[File:winglet and nav light arp.jpg|thumb|upright=1.14|The winglet and red [[navigation light]] on the wing tip of a [[South African Airways]] [[Boeing 747-400]]]]
+
+[[File:Super Constellation at Salisbury Airport Rhodesia.JPG|thumb|right|Many aircraft types, such as the [[Lockheed Constellation|Lockheed Super Constellation]] shown here, have fuel tanks mounted on the wing tips, commonly called tip tanks]]
+[[File:WingTip04.jpg|thumb|right|The wing tip of a [[Quad City Challenger]] II, formed with an aluminum bow]]
+[[File:WingTip05.jpg|thumb|right|The wing tip of a [[Grumman American AA-1]], showing its Hoerner style design]]
+[[File:PiperPA-28CherokeeWithHugeWinglets01.jpg|thumb|right|A [[Piper Cherokee|Piper PA-28 Cherokee]] with winglets]]
+[[File:Aircraft VJ101C LH.jpg|thumb|right|Wingtip mounted engines]]
+
+A '''wing tip''' (or '''wingtip''') is the part of the wing that is most distant from the [[fuselage]] of a [[fixed-wing aircraft]].
+
+Because the wing tip shape influences the size and [[Drag (physics)|drag]] of the [[wingtip vortices]], tip design has produced a diversity of shapes, including:
+* Squared-off
+* Aluminium tube bow
+* Rounded
+* [[Wingtip device#Hoerner wing tips|Hoerner style]]
+* [[Wingtip device#Winglet|Winglets]]
+* Drooped tips
+* [[Wingtip device#Raked wingtip|Raked wingtips]]
+* Tip tanks
+* Sails
+* [[Wingtip device#Wingtip fence|Fences]]
+* [[Wingtip device#Wing end-plates|End plates]]
+
+Winglets have become popular additions to high speed aircraft to increase fuel efficiency by reducing drag from wingtip vortices. In lower speed aircraft, the effect of the wingtip shape is less apparent, with only a marginal performance difference between round, square, and Hoerner style tips<ref>{{cite journal|magazine=Sport Aviation|date=February 1971|title=Comparison Of Square, Round, And Hoerner Wing Tips}}</ref> The slowest speed aircraft, [[STOL]] aircraft, may use wingtips to shape airflow for controlability at low airspeeds.
+
+Wing tips are also an expression of aircraft design style, so their shape may be influenced by [[marketing]] considerations as well as by [[aerodynamics|aerodynamic]] requirements.
+
+Wing tips are often used by aircraft designers to mount [[navigation light]]s, anti-collision [[strobe light]]s, [[Aircraft landing lights|landing lights]], handholds, and identification markings.
+
+Wing tip tanks can act as a winglet and distribute weight more evenly across the wing spar.
+
+On [[fighter aircraft]], they may also be fitted with [[hardpoint]]s, for mounting [[drop tank]]s and weapons systems, such as [[missile]]s and [[electronic countermeasures]]. Wingtip mounted hose/drogue systems allow [[Aerial refueling]] of multiple aircraft with separation.
+
+[[Aerobatics|Aerobatic]] aircraft use wingtip mounted crosses for visual attitude reference.  Wingtip mounted smoke systems and fireworks highlight rolling aerobatic maneuvers. Some airshow acts feature the pilot touching or dragging the wingtip along the ground.
+
+Aircraft with a single main landing gear or very high aspect ratio wings such as [[Glider (sailplane)|gliders]], may place small landing gear in the wingtips. Some uncommon designs, like the [[Rutan Quickie]], and [[Convair XFY]] placed the main landing gear in the wingtips. Some early World War I aircraft used wooded skids on the wingtips to minimize damage on ground looping incidents.
+
+Several amphibious aircraft such as the [[Consolidated PBY Catalina]], use retractable wingtips as floats.
+
+Moveable wingtips can affect the controlability of a wing. [[Wing warping]] the ends of the wing, produced roll control on the earliest of aircraft such as the [[Wright Flyer]]. The [[North American XB-70 Valkyrie]] raised and lowered its wingtips in flight to adjust its stability in supersonic and subsonic flight.
+
+Wingtips can also house the power plant or thrust of an aircraft. The [[EWR VJ 101]] used tip mounted jets, the [[Bell-Boeing V-22 Osprey|V-22]] uses tilting wingtip mounted engines, and the [[McDonnell Douglas AV-8B Harrier II|Harrier]] uses wingtip thrust for stability while hovering.
+
+Rotary wing aircraft wingtips may be swept or curved to reduce noise and vibration. Some rotary wing aircraft place their propulsion in wingtip [[tip jet]]s.
+
+== Folding wingtips ==
+The [[Boeing 777X]] will feature 3.5&nbsp;m (11&nbsp;ft) folding wingtips supplied by [[Liebherr Group|Liebherr Aerospace]] from [[Lindenberg im Allgäu|Lindenberg]]. The mechanism was demonstrated for [[Aviation Week]] at the [[Boeing Everett Factory]] in October 2016. The folding takes 20 seconds to complete.{{Citation needed|date=December 2016}}
+
+==See also==
+{{Commons category|Wingtips (aircraft wings)}}
+* [[Wingtip device]]
+
+==References==
+{{Reflist}}
+
+{{Aircraft components}}
+
+[[Category:Aircraft wing components]]

@@ -1,0 +1,187 @@
+{{Use mdy dates|date=November 2021}}
+{{Short description|American melodic hardcore band}}
+{{Infobox musical artist
+| name                = Ignite
+| image               = Ignite – Reload Festival 2015 02.jpg
+| caption             = Ignite at Reload Festival 2015
+| landscape           = yes
+| origin              = [[Orange County, California]], U.S.
+| genre               = [[Melodic hardcore]]
+| years_active        = 1993–present
+| label               = [[Century Media Records#Abacus Records|Abacus]], [[Century Media Records|Century Media]], [[TVT Records|TVT]], [[Revelation Records|Revelation]], Conversion, Lost & Found
+| associated_acts     = [[Pennywise (band)|Pennywise]], [[Into Another (band)|Into Another]]
+| website             = {{URL|igniteband.com}}
+| current_members     = Eli Santana<br />Brett Rasmussen<br />Craig Anderson<br />Nik Hill<br />Kevin Kilkenny
+| past_members        = [[Zoltán Téglás|Zoltán "Zoli" Téglás]]<br />Brian Balchack<br />Casey Jones<br />Joe Foster<br />Joe Nelson<br />Randy Johnson<br />Gavin Oglesby
+}}
+
+'''Ignite''' is a [[melodic hardcore]] band from [[Orange County, California|Orange County]], [[California]]. Formed in 1993, their commercial breakthrough album, ''[[A Place Called Home (album)|A Place Called Home]]'', was released in 2000 on [[TVT Records]]. Prior to this release, they were well regarded among [[Hardcore punk|hardcore]] fans, thanks in part to constant touring and having visited over 40 countries.
+
+Much of the band's music is socially and politically aware. Ignite actively supports, and has given proceeds to, organizations such as [[Earth First]], [[Doctors Without Borders]], [[Sea Shepherd Conservation Society|Sea Shepherd]], and Pacific Wildlife. Former lead singer [[Zoltán Téglás|Zoltán "Zoli" Téglás]] has taken account of such issues as environmental concerns and vegetarianism—common topics found on ''A Place Called Home''. The legacy of [[Soviet Communism]] in Eastern Europe is another recurring theme, in part because of Teglas' Hungarian background.<ref>Band web site, [http://www.igniteband.com/bio.php "Bio" page] {{webarchive|url=https://web.archive.org/web/20100217052113/http://www.igniteband.com/bio.php |date=February 17, 2010 }}</ref>
+
+== History ==
+On May 9, 2005, they filmed a live DVD at [[The Troubadour (Los Angeles)|The Troubadour]] with [[A Dying Dream]] and [[Eightyonedays]] in [[West Hollywood, California]]. The DVD was never released due to some technical problems with the quality, but on April 20, 2008, they gathered footage for an upcoming live DVD of their show in [[Leipzig]], Germany.<ref>Band web site, [http://www.igniteband.com/2008/08/27/dvd-update.html "DVD Update"] {{webarchive|url=https://web.archive.org/web/20081014223604/http://www.igniteband.com/2008/08/27/dvd-update.html |date=October 14, 2008 }}</ref>
+
+On July 20, 2005, a deal was announced with Abacus Recordings, a subsidiary label of [[Century Media Records]]; the band's album ''Our Darkest Days'' was released on the label in May 2006.<ref>[http://noisefull.com/interviews/ignite-brett-rasmussen "Ignite (Brett Rasmussen)"] {{Webarchive|url=https://web.archive.org/web/20180719234549/http://noisefull.com/interviews/ignite-brett-rasmussen |date=July 19, 2018 }}. ''NoiseFull'', interview  September 7, 2012</ref>
+
+The band toured in Europe in 2008.<ref>[http://www.antimusic.com/dayinrock/12/April/06.shtml " Ignite Releasing Their First Live DVD"]. ''Anti-Music'', June 4, 2012</ref> They headlined shows at [[Persistence Tour]] 2009. The Pennywise website, on February 16, 2010, announced that frontman [[Zoltán Téglás|Zoli Téglás]] just recently joined [[Pennywise (band)|Pennywise]].<ref>[http://www.punknews.org/article/37089 "Pennywise officially names Zoli Teglas of Ignite as new vocalist."]  Punknews.org.  February 16, 2010.</ref>
+
+The band eventually began touring with Zoli in 2014, and began recording the fifth album ''[[A War Against You]]''.<ref>{{cite web|url=http://www.blabbermouth.net/news/ignite-begins-recording-fifth-album|title=IGNITE Begins Recording Fifth Album|date=June 5, 2014}}</ref>
+
+On November 24, 2019, Zoli Teglas stated through a social media post that he will be leaving Ignite in 2020 after their remaining scheduled shows. Teglas has fronted the band since 1994.
+
+On September 17, 2021, they released a new EP with a new singer Eli Santana (of [[Holy Grail (band)|Holy Grail]]) featuring two songs, "Anti Complicity Anthem" and "Turn XXI".
+
+== Members ==
+<gallery perrow="5" caption="Ignite live at [[With Full Force]] 2019" widths="180" heights="180">
+Ignite Full Force 2019 33.jpg|Zoli Téglás
+Ignite Full Force 2019 22.jpg|Brian Balchack
+Ignite Full Force 2019 34.jpg|Kevin Kilkenny
+Ignite Full Force 2019 01.jpg|Brett Rasmussen
+Ignite Full Force 2019 19.jpg|Craig Anderson
+</gallery>
+
+=== Current members ===
+* Kevin Kilkenny (2000–2003, 2006–present) – guitar
+* Nik Hill (2000, 2003, 2005–2015, 2018–present) – guitar
+* Brett Rasmussen (1993–present) – bass
+* Craig Anderson (1997–present) – drums
+* Eli Santana<ref>https://www.instagram.com/reel/CT7jmkBJvHe/?utm_medium=copy_link</ref> (2021–present) – vocals
+
+=== Previous members ===
+* [[Zoltán Téglás|Zoli Téglás]] (1994–2020) – vocals
+* Joe Nelson (1993–1994) – vocals
+* Randy Johnson (1994) – vocals
+* Brian Balchack (1998–2000, 2005–2019) – guitar
+* Joe Foster (1993–1998) – guitar
+* Gavin Oglesby (1993–1994) – guitar
+* Casey Jones (1993–1997) – drums
+
+===Timeline===
+{{#tag:timeline|
+ImageSize = width:800 height:auto barincrement:30
+PlotArea = left:120 bottom:90 top:10 right:20
+Alignbars = justify
+DateFormat = mm/dd/yyyy
+Period = from:01/01/1993 till:{{#time:m/d/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:3
+ScaleMajor = increment:2 start:1993
+ScaleMinor = increment:1 start:1993
+
+Colors =
+ id:vocals  value:red         legend:Lead_vocals
+ id:lguitar  value:teal       legend:Lead_guitar
+ id:rguitar  value:brightgreen      legend:Rhythm_guitar
+ id:bass    value:blue        legend:Bass
+ id:drums   value:orange      legend:Drums
+ id:lines   value:black       legend:Studio_albums
+ id:lines2  value:gray(0.55)       legend:EP
+
+LineData =
+ at:08/01/1994 color:black layer:back
+ at:02/17/1995 color:lines2 layer:back
+ at:07/20/1995 color:black layer:back
+ at:09/13/1996 color:lines2 layer:back
+ at:05/30/2000 color:black layer:back
+ at:05/15/2006 color:black layer:back
+ at:01/08/2016 color:black layer:back
+
+BarData =
+ bar:Nelson    text:"Joe Nelson"
+ bar:Johnson   text:"Randy Johnson"
+ bar:Teglas    text:"Zoli Téglás"
+ bar:Nixon     text:"Eli Santana"
+
+ bar:Oglesby   text:"Gavin Oglesby"
+ bar:Foster    text:"Joe Foster"
+ bar:Balchack  text:"Brian Balchack"
+ bar:Hill      text:"Nik Hill"
+
+ bar:Kilkenny  text:"Kevin Kilkenny"
+
+ bar:Rasmussen text:"Brett Rasmussen"
+
+ bar:Jones     text:"Casey Jones"
+ bar:Anderson  text:"Craig Anderson"
+
+PlotData=
+ width:11 textcolor:black align:left anchor:from shift:(11,-4)
+ bar:Nelson    from:01/01/1993 till:12/01/1993 color:vocals
+ bar:Johnson   from:12/01/1993 till:10/01/1994 color:vocals
+ bar:Teglas    from:10/01/1994 till:11/26/2019 color:vocals
+ bar:Nixon     from:03/01/2021 till:end  color:vocals
+
+ bar:Oglesby   from:start till:06/01/1993 color:lguitar
+ bar:Foster    from:start till:04/01/1998 color:lguitar
+
+ bar:Balchack  from:04/01/1998 till:09/01/2000 color:lguitar
+ bar:Kilkenny  from:09/25/2000 till:05/01/2003 color:lguitar
+ bar:Balchack  from:01/20/2005 till:09/25/2019 color:lguitar
+ bar:Kilkenny  from:11/01/2006 till:end  color:rguitar
+ bar:Hill      from:09/01/2018 till:end  color:lguitar
+ bar:Rasmussen from:01/01/1993 till:end  color:bass
+
+ bar:Jones     from:start till:03/01/1997 color:drums
+ bar:Anderson  from:03/01/1997 till:end  color:drums
+
+ bar:Hill      from:05/01/2003 till:08/01/2003 color:lguitar
+ bar:Hill      from:01/20/2005 till:06/01/2008 color:rguitar
+
+}}
+
+== Discography ==
+=== Studio albums ===
+* [[Scarred for Life (Ignite album)|''Scarred for Life'']] (1994) Lost & Found Records
+* [[Family (Ignite album)|''Family'']] (1995) Lost & Found Records (Europe version of ''Call On My Brothers'')
+* ''[[A Place Called Home (album)|A Place Called Home]]'' (2000) [[TVT Records]]
+* ''[[Our Darkest Days]]'' (2006) [[Century Media Records#Abacus Records|Abacus Recordings]] (US), [[Century Media Records]] (Europe)
+* ''[[A War Against You]]'' (2016) [[Century Media Records]]
+
+=== Other releases ===
+* ''Where They Talk'' EP (1994) Ringside Records
+* ''Slapshot / Ignite'' split (1994) Lost & Found Records
+* ''Battery / Ignite'' split (1994) Lost & Found Records
+* ''In My Time'' EP (1995) Lost & Found Records
+* ''Call On My Brothers'' (1995) Conversion Records
+* ''[[Ignite / Good Riddance]]'' split (1996) Revelation Records
+* ''[[Past Our Means]]'' EP (1996) Revelation Records
+* [[Straight Ahead (Ignite album)|''Straight Ahead'']] (1997) Rovers Records
+* ''Ignite / X-Acto'' split (1997) Ataque Sonoro Records
+* ''Sea Shepherd Conservation Society'' EP (1999) Vacation House Records
+
+=== Compilation appearances ===
+*Punk Bites (1996) Fearless Records
+* ''Guilty by Association'' (1995)
+*''West Coast vs. East Coast Hardcore'' (1995)
+*''As The Sun Sets...'' (1999) The Association Of Welterweights
+*''Never Give In: A Tribute to Bad Brains'' (1999) [[Century Media Records]]
+*''Punk Chunks Vol. 2'' (2002) Lameass Recordz
+*''Revelation 100: A Fifteen Year Retrospective of Rare Recordings'' (2002) [[Revelation Records]]
+*''The Worldwide Tribute to the Real Oi Vol. 2'' (2002) [[I Scream Records|I Scream]]/[[Knockout Records|Knockout]]/[[Triple Crown Records|Triple Crown]]
+*''[[Our Impact Will Be Felt]]'' (2007) [[Century Media Records#Abacus Records|Abacus Recordings]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{commonscat}}
+* {{official website|https://igniteband.com/}}
+* {{allmusic}}
+* [http://www.centurymedia.com/artist.aspx?IdArtist=162 Century Media band page]
+* [https://web.archive.org/web/20070825065009/http://www.revelationrecords.com/index.php Revelation Records band page]
+* [https://www.discogs.com/artist/264947-Ignite Ignite on Discogs]
+
+{{Ignite}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ignite}}
+[[Category:Hardcore punk groups from California]]
+[[Category:Musical groups from Orange County, California]]
+[[Category:Revelation Records artists]]
+[[Category:Musical groups established in 1993]]
+[[Category:1993 establishments in California]]
+[[Category:Melodic hardcore groups]]
+[[Category:TVT Records artists]]
+[[Category:Century Media Records artists]]
+[[Category:Superball Music artists]]

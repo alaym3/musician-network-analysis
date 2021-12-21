@@ -1,0 +1,59 @@
+{{short description|Hip hop and rap group from Helsinki, Finland}}
+{{Use dmy dates|date=November 2013}}
+{{Infobox musical artist
+| name            = Ruger Hauer
+| image           = Ruger Hauer @ Bar Kino 59.jpg
+| caption         = Ruger Hauer in March 2012. From left: Pyhimys, Paperi T and Tommishock.
+| image_size      =
+| alias           =
+| origin          = [[Finland]]
+| genre           = [[Alternative rap]]
+| years_active    = 2008–2016
+| label           = [[Monsp Records]]
+| current_members = [[Paperi T]], [[Pyhimys]], Tommishock
+}}
+'''Ruger Hauer''' were a [[hip hop music|hip hop]] and [[rap music|rap]] group from [[Helsinki]], [[Finland]].
+
+==History==
+
+The band consisted of [[Paperi T]], [[Pyhimys]] and Tommishock<ref>{{cite web|title=Ruger Hauer {{!}} Katin Tavara|url=http://katintavara.fi/ruger-hauer|publisher=Katin Tavara|accessdate=6 February 2013}}</ref> and was named after firearm manufacturing company [[Sturm, Ruger & Co.]] and actor [[Rutger Hauer]].<ref>{{cite web|title=Hauer, Roger Hauer.|url=http://www.pyhimys.com/2010/11/23/hauer-roger-hauer/|publisher=Pyhimys / Yellowmic.|accessdate=6 February 2013}}</ref> Ruger Hauer's first studio album ''Se syvenee syksyllä'' was released in November 2010. Panu Hietaneva of ''Helsingin Sanomat'' wrote that while the album has its moments, it fails to offer real surprises.<ref>{{cite web|last=Hietaneva|first=Panu|title=Ruger Hauer: Se syvenee syksyllä|url=http://www.hs.fi/arviot/Levy/Ruger+Hauer+Se+syvenee+syksyllä/a1353043405033|publisher=Helsingin Sanomat|accessdate=6 February 2013}}</ref> Rumba magazine gave it more positive review, citing it as the best Finnish hip hop album of the year.<ref>{http://img171.imageshack.us/img171/2889/rugerrumba.jpg</ref> The group's second album ''Erectus'' followed in October 2012, reaching number 16 on the [[The Official Finnish Charts|Official Finnish Album Chart]].<ref>{{cite web|title=Ruger Hauer: Erectus|url=http://www.ifpi.fi/tilastot/virallinen-lista/artistit/ruger+hauer/erectus|publisher=Musiikkituottajat ry|accessdate=6 February 2013}}</ref> In his positive review of the album, Arttu Tolonen of ''Soundi'' noticed that the group's lyrics are dark, though funny, and that the sounds of the album are escaping the boundaries of typical hip hop music.<ref>{{cite web|last=Tolonen|first=Arttu|title=RUGER HAUER: Erectus|url=http://www.soundi.fi/levyarviot/ruger-hauer-erectus|publisher=Soundi|accessdate=6 February 2013}}</ref>
+
+==Discography==
+
+===Studio albums===
+{|class="wikitable"
+|-
+! rowspan="2"|Year
+! rowspan="2" style="width:150px;"|Title
+! colspan="2"|Peak position
+|-
+!style="width;font-size:75%"| [[The Official Finnish Charts|FIN]]<ref name="Musiikkituottajat"/>
+|-
+|2010
+|''Se syvenee syksyllä''
+| style="text-align:center;"| 29
+|-
+|2012
+|''Erectus''
+| style="text-align:center;"| 16
+|-
+|2013
+|''Ukraina''
+| style="text-align:center;"| 15
+|-
+|2016
+|''Mature''
+| style="text-align:center;"| 1
+|}
+
+==References==
+{{reflist|refs=
+<ref name="Musiikkituottajat">{{cite web|title=Ruger Hauer|url=http://www.ifpi.fi/tilastot/virallinen-lista/artistit/ruger+hauer|publisher=Musiikkituottajat – IFPI Finland ry|accessdate=27 April 2015}}</ref>
+}}
+
+{{Authority control}}
+{{DEFAULTSORT:Ruger Hauer}}
+[[Category:Finnish hip hop groups]]
+
+
+{{Finland-bio-stub}}

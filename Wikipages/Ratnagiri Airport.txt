@@ -1,0 +1,62 @@
+{{Short description|Airport in Maharashtra, India}}
+{{Use dmy dates|date=August 2013}}
+{{Use Indian English|date=August 2013}}
+{{Infobox airport 
+| name         = Ratnagiri Airport
+| nativename-a = 
+| nativename-r = 
+| image       = 
+| image-width  = 300
+| caption      = 
+| IATA         = RTC
+| ICAO         = VARG
+| type         = Public
+| owner        = 
+| operator     = [[Maharashtra Industrial Development Corporation]]
+| city-served  = [[Ratnagiri]], [[Konkan division]], [[Maharashtra]], [[India]]
+| location     =
+| metric-elev  = y
+| elevation-m  = 93
+| coordinates  = {{coord|17|00|49|N|073|19|40|E|region:IN-MH|display=inline,title}}
+| website      = 
+| pushpin_map            = India Maharashtra#India
+| pushpin_mapsize        = 300
+| pushpin_map_caption    = Location of the airport in Maharashtra
+| pushpin_label          = '''RTC'''
+| pushpin_label_position = top
+| metric-rwy   = y
+| r1-number    = 04/22
+| r1-length-m  = 1,372
+| r1-surface   = [[Asphalt]]
+| stat-year    = 
+| stat1-header = 
+| stat1-data   = 
+| stat2-header = 
+| stat2-data   = 
+| footnotes    = Sources: WAD,<ref name="WAD">{{cite web|url-status=usurped|url=http://worldaerodata.com/wad.cgi?airport=VARG|archive-url=https://web.archive.org/web/20190305143444/http://worldaerodata.com/wad.cgi?airport=VARG|archive-date=2019-03-05|title=Airport information for VARG|website=World Aero Data}} Data current as of October 2006.</ref> GCM,<ref name="GCM">{{GCM|VARG}}</ref> STV<ref name="STV">{{STV|7668579|Ratnagiri Airport|13}}</ref>
+}}
+
+'''Ratnagiri Airport''' {{airport codes|RTC|VARG}} is a public [[airport]] located in Mirjole, [[Ratnagiri]] district, in the [[Konkan division]] of the state of [[Maharashtra]], [[India]].
+
+==History==
+The airport was built in 1973 by the Public Works Department, Government of India.<ref>{{cite web |title=Airstrips in Maharashtra |url=http://www.mahapwd.com/statistics/airstrips.htm |publisher= Maharashtra Public Works Department |access-date=3 February 2012 }}</ref> [[Vayudoot]] operated flights to [[Mumbai]] for a short while before discontinuing due to runway repairs, shortage of aircraft capacity and paucity of resources.<ref>{{cite news|title=Written Answers |url=https://eparlib.nic.in/bitstream/123456789/36824/1/10_I_16071991_p64_p64_t92.pdf |publisher=Parliament Library |date= 16 July 1991 |access-date=18 May 2020}}</ref> The airstrip was transferred to the [[Maharashtra Industrial Development Corporation]](MIDC) for upgradation, expansion and maintenance in 1997.<ref>{{cite web |title=M.I.D.C. Website |url=http://midcindia.org/Pages/SectorialStrength.aspx#8 |access-date=3 February 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120328122747/http://www.midcindia.org/Pages/SectorialStrength.aspx#8 |archive-date=28 March 2012 |df=dmy-all }}</ref> During the 2008 winter session of the state legislature, the Maharashtra State Cabinet decided to hand over the airport to the [[Indian Coast Guard]] for setting up an air station. It proposed to hand over 41 hectares of airport land and another 19 hectares of MIDC land to the defence ministry .<ref>{{cite news|title=Coast Guard gets new airbase |url=https://mumbaimirror.indiatimes.com/mumbai/other/coast-guard-gets-new-airbase/articleshow/15883681.cms |publisher=[[Mumbai Mirror]] |date= 3 January 2009 |access-date=3 Feb 2012}}</ref>
+
+MIDC signed a [[memorandum of understanding]] (MoU) with the [[Airports Authority of India]] on March 5, 2019, to facilitate civil operations under the [[UDAN]] scheme of the Ministry of Civil Aviation. The MIDC agree to provide infrastructure for handling of aircraft and passengers such as building the passenger terminal and taxiway, while AAI would provide communication, navigation and surveillance (CNS) systems for air traffic management at the airport.<ref>{{cite news|title=MoU for activating RCS - UDAN operations at Ratnagiri Airport to be signed tomorrow |url=https://pib.gov.in/PressReleasePage.aspx?PRID=1567261 |publisher=[[Press Information Bureau]] |date= 4 March 2019 |access-date=18 May 2020}}</ref>
+
+==Coast Guard Air Station (CGAS) Ratnagiri==
+CGAS Ratnagiri was commissioned on 26 March 2011<ref>{{cite news|title=Coast Guard station at Ratnagiri commissioned |url=https://www.dnaindia.com/mumbai/report-coast-guard-station-at-ratnagiri-commissioned-1524740 |work=[[Daily News & Analysis]] |date= 26 March 2011 |access-date=18 May 2020}}</ref> as the first full-fledged Coast Guard air station in the state of Maharashtra. The Air station will play a crucial role in maritime surveillance and search & rescue operations.<ref>{{cite news|title=Ratnagiri to have coast guard air station |url=http://expressbuzz.com/biography/ratnagiri-to-have-coast-guard-air-station/260513.html |publisher=ExpressBuzz |date= 29 March 2011 |access-date=3 Feb 2012}}</ref>
+
+== Airlines and destinations ==
+No scheduled commercial air service at this time. Ratnagiri Airport has being upgraded with Coast Guard Air Station, Passenger Terminal, Night Landing Facilities and Air Traffic Control Tower. Commercial air services are scheduled to begin by 2022 <ref>[The Asian Age|https://www.asianage.com/metros/mumbai/050319/civil-flights-to-start-at-ratnagiri-airport.html]</ref> under the Regional Connectivity Scheme of Airports Authority of India (AAI), after lengthening of current runway from 1300 m. to 1800 m.<ref>[http://www.businesstoday.in/sectors/aviation/aai-to-develop-10-airports-in-maharashtra/story/236437.html Business Today - 23.08.2016 - Airport Authority of India]</ref>
+
+== References ==
+{{reflist}}
+
+{{Airports in India}}
+
+https://www.esakal.com/kokan/ratnagiri-airport-start-janevari-month-uday-samant-says-reportres-ratnagiri-338741
+
+[[Category:Airports in Maharashtra]]
+[[Category:Ratnagiri]]
+[[Category:Airports established in 1973]]
+[[Category:1973 establishments in Maharashtra]]

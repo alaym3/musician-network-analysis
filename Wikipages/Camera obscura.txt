@@ -1,0 +1,384 @@
+{{short description|Optical device}}
+{{About|an optical device}}
+{{refimprove|date=January 2021}}
+{{Use dmy dates|date=December 2019}}
+[[File:1755 james ayscough.jpg|thumb|Illustration of the ''camera obscura'' principle from [[James Ayscough]]'s ''A short account of the eye and nature of vision'' (1755 fourth edition)]]
+[[File:Camera obscura Prague.jpg|thumb|An image of the New Royal Palace at [[Prague Castle]] projected onto an [[attic]] wall by a hole in the tile roofing]]
+A '''camera obscura''' (plural ''camerae obscurae'' or ''camera obscuras'', from [[Latin]] {{Lang|la|camera obscūra}}, "dark chamber")<ref>{{cite web|url=https://blog.scienceandmediamuseum.org.uk/introduction-camera-obscura/|title=Introduction to the Camera Obscura|publisher=Science and Media Museum|date=28 January 2011|access-date=6 March 2019}}</ref> is a darkened room with a small hole or lens at one side through which an image is projected onto a wall<ref name="Keener2020">{{Cite web|last=Keener|first=Katherine|date=2020-03-02|title=A Lesson on the Camera Obscura|url=https://www.art-critique.com/en/2020/03/a-lesson-on-the-camera-obscura/|access-date=2021-07-24|website=Art Critique|language=en-US}}</ref><ref name="Keats2021">{{Cite web|last=Keats|first=Jonathon|title=Prior To Demolition, These LACMA Galleries Took Selfies With A Little Help From The Pinhole Photographer Vera Lutter|url=https://www.forbes.com/sites/jonathonkeats/2021/06/30/prior-to-demolition-these-lacma-galleries-took-selfies-with-a-little-help-from-the-pinhole-photographer-vera-lutter/|access-date=2021-07-24|website=Forbes|language=en}}</ref> or table<ref>{{Cite web|title=Table camera obscura, 19th century.|url=http://www.ssplprints.com/image/88083/table-camera-obscura-19th-century|access-date=2021-07-24|website=SSPL Prints|language=en}}</ref> opposite the hole.<ref name="Keener2020"/><ref name="Keats2021"/>
+
+"Camera obscura" can also refer to analogous constructions such as a box or tent in which an exterior image is projected inside. Camera obscuras with a lens in the opening have been used since the second half of the 16th century and became popular as aids for drawing and painting. The concept was developed further into the [[Camera|photographic camera]] in the first half of the 19th century, when camera obscura boxes were used to expose light-sensitive materials to the projected image.
+
+The camera obscura was used to study eclipses without the risk of damaging the eyes by looking directly into the sun. As a drawing aid, it allowed tracing the projected image to produce a highly accurate representation, and was especially appreciated as an easy way to achieve proper [[graphical perspective]].
+
+Before the term ''camera obscura'' was first used in 1604, other terms were used to refer to the devices: ''cubiculum obscurum'', ''cubiculum tenebricosum'', ''conclave obscurum'', and ''locus obscurus''.<ref>{{cite book|title=Optic projection, principles, installation, and use of the magic lantern, projection microscope, reflecting lantern, moving picture machine|publisher=Comstock Publishing Company|year=1914|last=Phelps Gage|first=Henry|url=https://archive.org/details/opticprojection01gagegoog|quote=obscurum cubiculum.}}</ref>
+
+A camera obscura without a lens but with a very small hole is sometimes referred to as a [[pinhole camera]], although this more often refers to simple (homemade) lensless cameras where photographic film or photographic paper is used.
+
+==Physical explanation==
+Rays of light travel in straight lines and change when they are reflected and partly absorbed by an object, retaining information about the color and brightness of the surface of that object. Lighted objects reflect rays of light in all directions. A small enough opening in a barrier admits only the rays that travel directly from different points in the scene on the other side, and these rays form an image of that scene where they reach a surface opposite from the opening.<ref name="amateur work">{{cite book |title=Amateur work, illustrated|volume=4|chapter=The Camera Obscura: Its Uses, Action, and Construction| last = Standage | first =  H. C. |date=1773 |pages=67–71 |chapter-url=https://books.google.com/books?id=myMGAAAAQAAJ&pg=PA67}}</ref>
+
+The [[human eye]] (and those of animals such as birds, fish, reptiles etc.) works much like a camera obscura with an opening ([[pupil]]), a convex [[lens (anatomy)|lens]], and a surface where the image is formed ([[retina]]). Some cameras obscuras use a concave mirror for a focusing effect similar to a convex lens.<ref name="amateur work"/>
+
+==Technology==
+[[File:Camera Obscura box18thCentury.jpg|thumb|A camera obscura box with mirror, with an upright projected image at the top]]
+
+A camera obscura consists of a box, tent, or room with a small hole in one side or the top. Light from an external scene passes through the hole and strikes a surface inside, where the scene is reproduced, inverted (upside-down) and reversed (left to right), but with color and [[perspective (graphical)|perspective]] preserved.<ref name="mass">{{cite book |author=Melvin Lawrence DeFleur, and Sandra Ball-Rokeach |title=Theories of Mass Communication |date=1989 |publisher=Longman |isbn=9780801300073 |page=65 |edition=5 |url=https://books.google.com/books?id=Ywe4AAAAIAAJ |access-date=11 January 2021}}</ref>
+
+To produce a reasonably clear projected image, the aperture is typically smaller than 1/100th the distance to the screen.
+As the pinhole is made smaller, the image gets sharper, but dimmer. With a too small pinhole, however, the sharpness worsens, due to [[diffraction]]. Optimum sharpness is attained with an aperture diameter approximately equal to the geometric mean of the wavelength of light and the distance to the screen.<ref name="physics">{{cite book |author=Heinrich F. Beyer and Viateheslav P. Shevelko |title=Introduction to the Physics of Highly Charged Ions |date=2016 |publisher=CRC Press |isbn=9781420034097 |page=42 |url=https://books.google.com/books?id=5enLBQAAQBAJ&pg=PA42 |access-date=11 January 2021}}</ref>
+
+In practice, camera obscuras use a [[Lens (optics)|lens]] rather than a pinhole because it allows a larger [[aperture]], giving a usable brightness while maintaining focus.<ref name="amateur work"/>
+
+If the image is caught on a translucent screen, it can be viewed from the back so that it is no longer reversed (but still upside-down).  Using mirrors, it is possible to project a right-side-up image. The projection can also be displayed on a horizontal surface (e.g., a table). The 18th-century overhead version in tents used mirrors inside a kind of periscope on the top of the tent.<ref name="amateur work"/>
+
+The box-type camera obscura often has an angled mirror projecting an upright image onto [[tracing paper]] placed on its glass top. Although the image is viewed from the back, it is reversed by the mirror.<ref>{{cite book |last1=Steadman |first1=Philip |title=Vermeer's Camera: Uncovering the Truth Behind the Masterpieces |date=2002 |publisher=Oxford University Press |isbn=9780192803023 |page=9 |url=https://books.google.com/books?id=9Xu6lJc2Nt8C |access-date=11 January 2021}}</ref>
+
+==History==
+===Prehistory to 500 BCE: Possible inspiration for prehistoric art and possible use in religious ceremonies, gnomons===
+There are theories that occurrences of camera obscura effects (through tiny holes in tents or in screens of animal hide) inspired [[paleolithic]] [[cave painting]]s. Distortions in the shapes of animals in many paleolithic cave artworks might be inspired by distortions seen when the surface on which an image was projected was not straight or not in the right angle.<ref>{{cite web|url=http://paleo-camera.com/paleolithic/ |title=Paleolithic |publisher=paleo-camera |access-date=2 May 2017}}</ref>
+It is also suggested that camera obscura projections could have played a role in [[Neolithic]] structures.<ref>{{cite web|url=http://paleo-camera.com/neolithic/ |title=Neolithic |publisher=paleo-camera |access-date=2 May 2017}}</ref><ref>{{cite web|author=Jennifer Ouellette |url=https://gizmodo.com/did-prehistoric-people-watch-the-stars-through-this-6-0-1782759791 |title=deadspin-quote-carrot-aligned-w-bgr-2 |website=Gizmodo |date=29 June 2016}}</ref>
+
+[[File:Osservazione del solstizio 21.06.12, fi, 20.JPG|thumb|The gnomon projection on the floor of [[Florence Cathedral]] during the solstice on 21 June 2012]]
+Perforated [[gnomon]]s projecting a pinhole image of the sun were described in the Chinese [[Zhoubi Suanjing]] writings (1046 BCE–256 BCE with material added until circa 220 CE).<ref>{{cite book|url=https://books.google.com/books?id=CyssAQAAIAAJ&q=%22pierced+gnomon%22|title=The Asiatic Review|year=1969|last1=Boulger|first1=Demetrius Charles}}</ref> The location of the bright circle can be measured to tell the time of day and year. In Arab and European cultures its invention was much later attributed to Egyptian astronomer and mathematician [[Ibn Yunus]] around 1000 CE.<ref>{{cite book|url=https://books.google.com/books?id=msaqctAH8OkC&pg=PA6|title=Sundials: History, Theory, and Practice|last=Rohr|first=René R.J.|year=2012|isbn=978-0-486-15170-0|page=6}}</ref>
+
+===500 BCE to 500 CE: Earliest written observations===
+[[Image:IMG 1650 zonsverduistering Malta.JPG|thumb|Holes in the leaf canopy project images of a [[solar eclipse]] on the ground.]]
+
+One of the earliest known written records of a [[pinhole camera]] for camera obscura effect is found in the Chinese text called ''[[Mozi (book)|Mozi]]'', dated to the 4th century BCE, traditionally ascribed to and named for [[Mozi]] (circa 470 BCE-circa 391 BCE), a [[History of Science and Technology in China|Chinese]] philosopher and the founder of [[Mohism|Mohist School of Logic]].<ref name="needham4 98">{{cite book|last=Needham|first=Joseph|title=Science and Civilization in China, vol. IV, part 1: Physics and Physical Technology|url=https://monoskop.org/images/7/70/Needham_Joseph_Science_and_Civilisation_in_China_Vol_4-1_Physics_and_Physical_Technology_Physics.pdf|access-date=5 September 2016|archive-url=https://web.archive.org/web/20170703010030/https://monoskop.org/images/7/70/Needham_Joseph_Science_and_Civilisation_in_China_Vol_4-1_Physics_and_Physical_Technology_Physics.pdf|archive-date=3 July 2017|p=98|url-status=dead}}</ref> These writings explain how the image in a "collecting-point" or "treasure house"<ref group="note">In the ''Mozi'' passage, a camera obscura is described as a "collecting-point" or "treasure house" ([[wikt:庫|庫]]); the 18th-century scholar Bi Yuan ([[:zh:畢沅|畢沅]]) suggested this was a misprint for "screen" ([[wikt:㢓|㢓]]).</ref> is inverted by an intersecting point (pinhole) that collects the (rays of) light. Light coming from the foot of an illuminated person were partly hidden below (i.e., strike below the pinhole) and partly formed the top of the image. Rays from the head were partly hidden above (i.e., strike above the pinhole) and partly formed the lower part of the image.<ref>{{cite web|url=http://paleo-camera.com/ancient-greece/ |title=Ancient Greece |publisher=paleo-camera |date=9 March 2010}}</ref><ref>{{cite book |date= 2004 |url= https://books.google.com/books?id=BIL2BgAAQBAJ&pg=PA15 |title= Ghost Images: Cinema of the Afterlife |last= Ruffles |first=Tom |pages= 15–17|isbn= 9780786420056 }}</ref>
+
+Another early account is provided by [[List of ancient Greek philosophers|Greek philosopher]] [[Aristotle]] (384–322 BCE), or possibly a follower of his ideas. Similar to the later 11th-century Arab scientist [[Alhazen]], Aristotle is also thought to have used camera obscura for observing [[solar eclipse]]s.<ref name="needham4 98"/> Camera obscura is touched upon as a subject in Aristotle's work ''[[Problems (Aristotle)|Problems]] – Book XV'', asking: {{quote|Why is it that when the sun passes through quadri-laterals, as for instance in wickerwork, it does not produce a figure rectangular in shape but circular?|sign=|source=}} and further on: {{quote|"Why is it that an eclipse of the sun, if one looks at it through a sieve or through leaves, such as a plane-tree or other broadleaved tree, or if one joins the fingers of one hand over the fingers of the other, the rays are crescent-shaped where they reach the earth? Is it for the same reason as that when light shines through a rectangular peep-hole, it appears circular in the form of a cone?"}}
+
+Many philosophers and scientists of the Western world pondered this question before it was accepted that the circular and crescent-shapes described in the "problem" were pinhole image projections of the sun. Although a projected image has the shape of the aperture when the light source, aperture and projection plane are close together, the projected image has the shape of the light source when they are farther apart.
+
+In his book ''[[Euclid's Optics|Optics]]'' (circa 300 BCE, surviving in later manuscripts from around 1000 CE), Euclid proposed mathematical descriptions of vision with "lines drawn directly from the eye pass through a space of great extent" and "the form of the space included in our vision is a cone, with its apex in the eye and its base at the limits of our vision."<ref>{{cite book|url=http://philomatica.org/wp-content/uploads/2013/01/Optics-of-Euclid.pdf|title=Optics of Euclid}}</ref> Later versions of the text, like [[Ignazio Danti]]'s 1573 annotated translation, would add a description of the camera obscura principle to demonstrate Euclid's ideas.<ref>{{cite web|url=http://www.bonnerweb.de/bilder/pinhole/sonnentaler/sonnentaler.htm|language=de|title=Kleine Geschichte der Lochkamera oder Camera Obscura}}</ref>
+
+===500 to 1000: Earliest experiments, study of light===
+[[File:555 anthemius of tralles - light-diagram.jpg|thumb|Anthemius of Tralles's diagram of light-rays reflected with plane mirror through hole (B)]]
+In the 6th century, the [[Byzantine Empire|Byzantine-Greek]] mathematician and architect [[Anthemius of Tralles]] (most famous as a co-architect of the [[Hagia Sophia]]) experimented with effects related to the camera obscura.<ref name="Crombie1990">G. Huxley (1959) ''Anthemius of Tralles: a study of later Greek Geometry'' pp. 6–8, pp.44–46 as cited in {{Harv|Crombie|1990}}, p.205</ref> Anthemius had a sophisticated understanding of the involved optics, as demonstrated by a light-ray diagram he constructed in 555 CE.<ref name=renner2012>{{cite book|url=http://foto.art.br/alternativa/PinholePhoto.pdf|title=Pinhole Photography: From Historic Technique to Digital Application|first=Eric|last=Renner|year=2012|access-date=11 February 2017|archive-url=https://web.archive.org/web/20170212091054/http://foto.art.br/alternativa/PinholePhoto.pdf|archive-date=12 February 2017|url-status=dead}}</ref>
+
+In the 10th century Yu Chao-Lung supposedly projected images of pagoda models through a small hole onto a screen to study directions and divergence of rays of light.<ref>{{cite book|title=The camera obscura: a chronicle|last=Hammond|first=John H.|page=2|url=https://books.google.com/books?id=W-ZTAAAAMAAJ&q=%22Yu+Chao-Lung%22|year=1981|isbn=9780852744512}}</ref>
+
+===1000 to 1400: Optical and astronomical tool, entertainment===
+[[File:Light behaviour through pinhole.svg|thumb|A diagram depicting [[Ibn al-Haytham]]'s observations of light's behaviour through a pinhole]]
+[[Image:Pinhole-camera.svg|right|thumb|[[Pinhole camera]]. Light enters a dark box through a small hole and creates an inverted image on the wall opposite the hole.<ref name='physics_worldview'>{{cite book | last1 = Kirkpatrick | first1 = Larry D. | last2 = Francis | first2 = Gregory E. | title = Physics: A World View | chapter = Light | edition = 6 | publisher = Thomson Brooks/Cole | year = 2007 | location = Belmont, California | pages = 339 | isbn = 978-0-495-01088-3}}</ref>]]
+
+[[Arab]] [[physicist]] [[Ibn al-Haytham]] (known in the West by the Latinised Alhazen) (965–1040) extensively studied the camera obscura phenomenon in the early 11th century.
+
+In his treatise "On the shape of the eclipse" he provided the first experimental and mathematical analysis of the phenomenon.<ref>{{Cite book|title=A Critical Edition of Ibn al-Haytham's On the Shape of the Eclipse. The First Experimental Study of the Camera Obscura|last=Raynaud|first=Dominique|publisher=Springer International|year=2016|location=New York}}</ref><ref>{{cite book|url=https://monoskop.org/images/7/70/Needham_Joseph_Science_and_Civilisation_in_China_Vol_4-1_Physics_and_Physical_Technology_Physics.pdf|title=Science and Civilization in China, vol. IV, part 1: Physics and Physical Technology|last=Needham|first=Joseph|access-date=5 September 2016|archive-url=https://web.archive.org/web/20170703010030/http://monoskop.org/images/7/70/Needham_Joseph_Science_and_Civilisation_in_China_Vol_4-1_Physics_and_Physical_Technology_Physics.pdf|archive-date=3 July 2017|url-status=dead|page=98|quote=it seems that, like Shen Kua, he had predecessors in its study, since he did not claim it as any new finding of his own. But his treatment of it was competently geometrical and quantitative for the first time.}}</ref> 
+He must have understood the relationship between the [[Focus (optics)|focal point]] and the pinhole.<ref>{{cite book|url=https://monoskop.org/images/7/70/Needham_Joseph_Science_and_Civilisation_in_China_Vol_4-1_Physics_and_Physical_Technology_Physics.pdf|title=Science and Civilization in China, vol. IV, part 1: Physics and Physical Technology|last=Needham|first=Joseph|access-date=5 September 2016|archive-url=https://web.archive.org/web/20170703010030/http://monoskop.org/images/7/70/Needham_Joseph_Science_and_Civilisation_in_China_Vol_4-1_Physics_and_Physical_Technology_Physics.pdf|archive-date=3 July 2017|url-status=dead|page=99|quote=The genius of Shen Kua's insight into the relation of focal point and pinhole can better be appreciated when we read in Singer that this was first understood in Europe by Leonardo da Vinci (+ 1452 to + 1519), almost five hundred years later. A diagram showing the relation occurs in the Codice Atlantico, Leonardo thought that the lens of the eye reversed the pinhole effect, so that the image did not appear inverted on the retina; though in fact it does. Actually, the analogy of focal-point and pin-point must have been understood by Ibn al-Haitham, who died just about the time when Shen Kua was born.}}</ref>
+
+In his ''[[Book of Optics]]'' (circa 1027), Ibn al-Haytham explained that rays of light travel in straight lines and are distinguished by the body that reflected the rays, writing:<ref>A. Mark Smith, ed. & trans., “Alhacen’s Theory of Visual Perception: A Critical Edition, with English Translation and Commentary, of the First Three Books of Alhacen’s ''De Aspectibus'', the Medieval Latin Version of Ibn Al-Haytham’s ''Kitāb Al-Manāẓir'',” ''Transactions of the American Philosophical Society'', 91, [https://www.jstor.org/stable/3657358 4]–[https://www.jstor.org/stable/3657357 5] (2001): i–clxxxi, 1–337, 339–819 at 379, paragraph 6.85.</ref>
+{{quote|Evidence that light and color do not mingle in air or (other) transparent bodies is (found in) the fact that, when several candles are at various distinct locations in the same area, and when they all face a window that opens into a dark recess, and when there is a white wall or (other white) opaque body in the dark recess facing that window, the (individual) lights of those candles appear individually upon that body or wall according to the number of those candles; and each of those lights (spots of light) appears directly opposite one (particular) candle along a straight line passing through that window. Moreover, if one candle is shielded, only the light opposite that candle is extinguished, but if the shielding object is lifted, the light will return.|sign=|source=}}He described a "dark chamber", and experimented with light passing through small pinholes, using three adjacent candles and seeing the effects on the wall after placing a cutout between the candles and the wall.<ref name=":1">{{Cite web|url=http://www.kirriemuircameraobscura.com/history-camera-obscuras|title=History of Camera Obscuras – Kirriemuir Camera Obscura|last=User|first=Super|website=www.kirriemuircameraobscura.com|language=en-gb|access-date=24 September 2017}}</ref><ref>{{cite web|url=https://blog.scienceandmediamuseum.org.uk/introduction-camera-obscura/|title=Introduction to the Camera Obscura|publisher=Science and Media Museum|date=28 January 2011|access-date=6 March 2019}}</ref>
+
+{{quote|The image of the sun at the time of the eclipse, unless it is total, demonstrates that when its light passes through a narrow, round hole and is cast on a plane opposite to the hole it takes on the form of a moon-sickle. The image of the sun shows this peculiarity only when the hole is very small. When the hole is enlarged, the picture changes, and the change increases with the added width. When the aperture is very wide, the sickle-form image will disappear, and the light will appear round when the hole is round, square if the hole is square, and if the shape of the opening is irregular, the light on the wall will take on this shape, provided that the hole is wide and the plane on which it is thrown is parallel to it.|sign=|source=}}
+
+Ibn al-Haytham also analyzed the rays of sunlight and concluded that they made a conic shape where they met at the hole, forming another conic shape reverse to the first one from the hole to the opposite wall in the dark room. Latin translations of his writings on optics were very influential in Europe from about 1200 onward. Among those he inspired were [[Witelo]], [[John Peckham]], [[Roger Bacon]], [[Leonardo da Vinci]], [[René Descartes]] and [[Johannes Kepler]].<ref>{{cite book|title=Global History of Philosophy: The Period of scholasticism (part one)|last=Plott|first=John C.|page=460|year=1984|url=https://books.google.com/books?id=ErMRGiNcxJIC&q=euclid+inverted+image&pg=PA460|isbn=9780895816788}}</ref>
+
+In his 1088 book, ''[[Dream Pool Essays]]'', the [[Song Dynasty]] Chinese scientist [[Shen Kuo]] (1031–1095) compared the focal point of a concave burning-mirror and the "collecting" hole of camera obscura phenomena to an oar in a rowlock to explain how the images were inverted:<ref>{{cite book|last=Needham|first=Joseph|title=Science and Civilization in China, vol. IV, part 1: Physics and Physical Technology|url=https://monoskop.org/images/7/70/Needham_Joseph_Science_and_Civilisation_in_China_Vol_4-1_Physics_and_Physical_Technology_Physics.pdf|access-date=5 September 2016|archive-url=https://web.archive.org/web/20170703010030/https://monoskop.org/images/7/70/Needham_Joseph_Science_and_Civilisation_in_China_Vol_4-1_Physics_and_Physical_Technology_Physics.pdf|archive-date=3 July 2017|pp=97–98|url-status=dead}}</ref>
+
+{{quote|"When a bird flies in the air, its shadow moves along the ground in the same direction. But if its image is collected (''shu'')(like a belt being tightened) through a small hole in a window, then the shadow moves in the direction opposite of that of the bird.[...] This is the same principle as the burning-mirror. Such a mirror has a concave surface, and reflects a finger to give an upright image if the object is very near, but if the finger moves farther and farther away it reaches a point where the image disappears and after that the image appears inverted. Thus the point where the image disappears is like the pinhole of the window. So also the oar is fixed at the rowlock somewhere at its middle part, constituting, when it is moved, a sort of 'waist' and the handle of the oar is always in the position inverse to the end (which is in the water)."}}
+
+Shen Kuo also responded to a statement of [[Duan Chengshi]] in ''[[Miscellaneous Morsels from Youyang]]'' written in about 840 that the inverted image of a [[Chinese pagoda]] tower beside a seashore, was inverted because it was reflected by the sea: "This is nonsense. It is a normal principle that the image is inverted after passing through the small hole."<ref name="needham4 98"/>
+
+English statesman and [[scholasticism|scholastic philosopher]] [[Robert Grosseteste]] (c. 1175 – 9 October 1253) was one of the earliest Europeans who commented on the camera obscura.<ref>[https://doi.org/10.1007%2FBF00327235 A reconsideration of Roger Bacon's theory of pinhole images]</ref>
+
+[[File:1292(or earlier) roger bacon - image006.jpg|thumb|Three-tiered camera obscura, 13th century, attributed to Roger Bacon]]
+English philosopher and Franciscan friar [[Roger Bacon]] (c. 1219/20 – c. 1292) falsely stated in his ''De Multiplicatione Specerium'' (1267) that an image projected through a square aperture was round because light would travel in spherical waves and therefore assumed its natural shape after passing through a hole. He is also credited with a manuscript that advised to study solar eclipses safely by observing the rays passing through some round hole and studying the spot of light they form on a surface.<ref name=Mannoni1>{{cite book|url=https://books.google.com/books?id=t_cSAQAAMAAJ|last=Mannoni|first=Laurent|title=The great art of light and shadow|year=2000|pages=5|isbn=9780859895675}}</ref>
+
+A picture of a three-tiered camera obscura (see illustration) has been attributed to Bacon,<ref name=Doble>{{cite book|title=15 Years of Essay-Blogs About Contemporary Art & Digital Photography|last=Doble|first=Rick|year=2012|url=https://books.google.com/books?id=Zt-mCwAAQBAJ&q=roger+bacon+camera+obscura&pg=PT206|isbn=9781300198550}}</ref> but the source for this attribution is not given. A very similar picture is found in [[Athanasius Kircher]]'s ''[[Ars Magna Lucis et Umbrae]]'' (1646).<ref>{{cite book|title=Ars Magna Lucis et Umbrae|last=Kircher|first=Athanasius|year=1646|url=https://books.google.com/books?id=Xggfro5KeRoC&pg=PA130}}</ref>
+
+Polish friar, theologian, physicist, mathematician and natural philosopher [[Vitello|Erazmus Ciołek Witelo]] (also known as Vitello Thuringopolonis and by many different spellings of the name "Witelo") wrote about the camera obscura in his very influential treatise ''Perspectiva'' (circa 1270–1278), which was largely based on Ibn al-Haytham's work.
+
+English archbishop and scholar [[John Peckham]] (circa 1230 – 1292) wrote about the camera obscura in his ''Tractatus de Perspectiva'' (circa 1269–1277) and ''Perspectiva communis'' (circa 1277–79), falsely arguing that light gradually forms the circular shape after passing through the aperture.<ref>{{cite book|title=Tractatus de perspectiva|last1=Lindberg|first1=David C.|last2=Pecham|first2=John|year=1972|url=https://books.google.com/books?id=UytDAAAAIAAJ&q=camera&pg=PA15}}</ref> His writings were influenced by Roger Bacon.
+
+At the end of the 13th century, [[Arnaldus de Villa Nova]] is credited with using a camera obscura to project live performances for entertainment.<ref>{{cite web|last=Burns|first=Paul T.|title=The History of the Discovery of Cinematography|url=http://www.precinemahistory.net/900.htm |access-date=4 January 2014 |archive-url=https://web.archive.org/web/20131231080921/http://www.precinemahistory.net/900.htm |archive-date=31 December 2013}}</ref><ref>{{cite web|last=Smith|first=Roger|title=A Look into Camera Obscuras|url=http://www.camera-obscura.org.uk/Camera_Obscura/Timeline.html|access-date=23 October 2014}}</ref>
+
+French astronomer Guillaume de Saint-Cloud suggested in his 1292 work ''Almanach Planetarum'' that the eccentricity of the sun could be determined with the camera obscura from the inverse proportion between the distances and the apparent solar diameters at apogee and perigee.<ref>{{cite book|first=J.L.|last=Mancha|title=Studies in Medieval Astronomy and Optics|pages=275–297|url=https://books.google.com/books?id=02KQgQNL-P4C&q=%22william+of+saint-cloud%22+camera&pg=PA37|isbn=9780860789963|year=2006}}</ref>
+
+[[Kamāl al-Dīn al-Fārisī]] (1267–1319) described in his 1309 work ''Kitab Tanqih al-Manazir'' (''The Revision of the Optics'') how he experimented with a glass sphere filled with water in a camera obscura with a controlled aperture and found that the colors of the rainbow are phenomena of the decomposition of light.<ref>Nader El-Bizri, "Optics", in ''Medieval Islamic Civilization: An Encyclopedia'', ed. Josef W. Meri (New York – London: Routledge, 2005), Vol. II, pp. 578–580</ref><ref>Nader El-Bizri, "Al-Farisi, Kamal al-Din," in ''The Biographical Encyclopaedia of Islamic Philosophy'', ed. Oliver Leaman (London – New York: Thoemmes Continuum, 2006), Vol. I, pp. 131–135</ref>
+
+French Jewish philosopher, mathematician, physicist and astronomer/astrologer [[Gersonides|Levi ben Gershon]] (1288–1344) (also known as Gersonides or Leo de Balneolis) made several astronomical observations using a camera obscura with a [[Jacob's staff]], describing methods to measure the angular diameters of the sun, the moon and the bright planets Venus and Jupiter. He determined the eccentricity of the sun based on his observations of the summer and winter solstices in 1334. Levi also noted how the size of the aperture determined the size of the projected image. He wrote about his findings in Hebrew in his treatise ''Sefer Milhamot Ha-Shem'' (''The Wars of the Lord'') Book V Chapters 5 and 9.<ref>{{cite book|title=The Astronomy of Levi ben Gerson|pages=140–143|last=Goldstein|first=Bernard R.|date=6 December 2012|isbn=9789401133425|url=https://books.google.com/books?id=ETOtBgAAQBAJ&pg=PA79}}</ref>
+
+===1450 to 1600: Depiction, lenses, drawing aid, mirrors===
+[[File:Da vinci - camera obscura (from notebooks 71) 0071-q75-644x596.jpg|thumb|Da Vinci: Let ''a b c d e'' be the object illuminated by the sun and ''o r'' the front of the dark chamber in which is the said hole at ''n m''. Let ''s t'' be the sheet of paper intercepting the rays of the images of these objects upside down, because the rays being straight, ''a'' on the right hand becomes ''k'' on the left, and ''e'' on the left becomes ''f'' on the right<ref>{{cite web|title=The Notebooks of Leonardo da Vinci|publisher=FromOldBooks.org|editor=[[Jean Paul Richter]]|year=1880|page=71|url=http://www.fromoldbooks.org/Richter-NotebooksOfLeonardo/section-2/item-71.html}}</ref>]]
+Italian polymath [[Leonardo da Vinci]] (1452–1519), familiar with the work of Alhazen in Latin translation,<ref>{{citation |first= Ahmed H. |title= 4D Electron Microscopy: Imaging in Space and Time |date= 2010 |last1= Zewail |last2= Thomas |first2= John Meurig |publisher= World Scientific |isbn= 9781848163904|page=5}}: "The Latin translation of Alhazen's work influenced scientists and philosophers such as (Roger) Bacon and da Vinci, and formed the foundation for the work by mathematicians like Kepler, Descartes and Huygens..."</ref> and after an extensive study of optics and human vision, wrote the oldest known clear description of the camera obscura in mirror writing in a notebook in 1502, later published in the collection ''[[Codex Atlanticus]]'' (translated from Latin):
+
+{{quote|If the facade of a building, or a place, or a landscape is illuminated by the sun and a small hole is drilled in the wall of a room in a building facing this, which is not directly lighted by the sun, then all objects illuminated by the sun will send their images through this aperture and will appear, upside down, on the wall facing the hole.
+You will catch these pictures on a piece of white paper, which placed vertically in the room not far from that opening, and you will see all the above-mentioned objects on this paper in their natural shapes or colors, but they will appear smaller and upside down, on account of crossing of the rays at that aperture. If these pictures originate from a place which is illuminated by the sun, they will appear colored on the paper exactly as they are. The paper should be very thin and must be viewed from the back.<ref>Josef Maria Eder ''History of Photography'' translated by Edward Epstean Hon. F.R.P.S Copyright Columbia University Press</ref>}}
+
+These descriptions, however, would remain unknown until Venturi deciphered and published them in 1797.<ref name=Repstad>{{cite web|url=https://jongrepstad.com/pinhole-photography/pinhole-photography-history-images-cameras-formulas/|title=Pinhole Photography – History, Images, Cameras, Formulas|first=Jon|last=Grepstad|date=20 October 2015}}</ref>
+
+Da Vinci was clearly very interested in the camera obscura: over the years he drew circa 270 diagrams of the camera obscura in his notebooks . He systematically experimented with various shapes and sizes of apertures and with multiple apertures (1, 2, 3, 4, 8, 16, 24, 28 and 32). He compared the working of the eye to that of the camera obscura and seemed especially interested in its capability of demonstrating basic principles of optics: the inversion of images through the pinhole or pupil, the non-interference of images and the fact that images are "all in all and all in every part".<ref>{{cite web|url=http://www.sumscorp.com/leonardo_studies/news_98.html |title=Leonardo and the Camera Obscura / Kim Veltman |publisher=Sumscorp.com |date=2 December 1986 |access-date=2 May 2017}}</ref>
+
+[[File:1545 gemma frisius - camera-obscura-sonnenfinsternis 1545-650x337.jpg|thumb|left|First published picture of camera obscura in Gemma Frisius' 1545 book ''De Radio Astronomica et Geometrica'']]
+The oldest known published drawing of a camera obscura is found in Dutch physician, mathematician and instrument maker [[Gemma Frisius]]’ 1545 book ''De Radio Astronomica et Geometrica'', in which he described and illustrated how he used the camera obscura to study the solar eclipse of 24 January 1544<ref name=Repstad/>
+
+Italian polymath [[Gerolamo Cardano]] described using a glass disc – probably a [[biconvex lens]] – in a camera obscura in his 1550 book ''De subtilitate, vol. I, Libri IV''. He suggested to use it to view "what takes place in the street when the sun shines" and advised to use a very white sheet of paper as a projection screen so the colours wouldn't be dull.<ref name=Ilardi />
+
+Sicilian mathematician and astronomer [[Francesco Maurolico]] (1494–1575) answered Aristotle's problem how sunlight that shines through rectangular holes can form round spots of light or crescent-shaped spots during an eclipse in his treatise ''Photismi de lumine et umbra'' (1521–1554). However this wasn't published before 1611,<ref>{{cite book|title=Photismi de lumine et umbra|year=1611|last=Maurolico|first=Francesco|url=https://books.google.com/books?id=Ug6ywn-D9BgC&pg=PP9}}</ref> after Johannes Kepler had published similar findings of his own.
+
+Italian polymath [[Giambattista della Porta]] described the camera obscura, which he called "obscurum cubiculum", in the 1558 first edition of his book series ''[[Magia Naturalis]]''. He suggested to use a convex lens to project the image onto paper and to use this as a drawing aid. Della Porta compared the human eye to the camera obscura: "For the image is let into the eye through the eyeball just as here through the window". The popularity of Della Porta's books helped spread knowledge of the camera obscura.<ref name=Larsen>{{cite web|url=http://www.williamshakespeare-sonnets.com/sonnet-24|last=Larsen|first=Kenneth|title=Sonnet 24|access-date=2 September 2016|archive-url=https://web.archive.org/web/20160707173823/http://www.williamshakespeare-sonnets.com/sonnet-24|archive-date=7 July 2016|url-status=dead}}</ref><ref>{{cite book|last=Durbin|first=P.T.|year=2012|title=Philosophy of Technology|page=74|url=https://books.google.com/books?id=R2OSBgAAQBAJ&pg=PA74|isbn=9789400923034}}</ref>
+
+In his 1567 work ''La Pratica della Perspettiva'' Venetian nobleman [[Daniele Barbaro]] (1513-1570) described using a camera obscura with a biconvex lens as a drawing aid and points out that the picture is more vivid if the lens is covered as much as to leave a circumference in the middle.<ref name=Ilardi>{{cite book|title=Renaissance Vision from Spectacles to Telescopes|publisher=American Philosophical Society|last=Ilardi|first=Vincent|year=2007|url=https://archive.org/details/bub_gb_peIL7hVQUmwC|page=[https://archive.org/details/bub_gb_peIL7hVQUmwC/page/n231 220]|isbn=9780871692597}}</ref>
+
+[[File:1646 Athanasius Kircher - Camera obscura.jpg|thumb|Illustration of "portable" camera obscura (similar to Risner's proposal) in Kircher's ''Ars Magna Lucis Et Umbrae'' (1645)]]
+In his influential and meticulously annotated Latin edition of the works of Ibn al-Haytham and Witelo, {{lang|la|Opticae thesauru}} (1572), German mathematician [[Friedrich Risner]] proposed a portable camera obscura drawing aid; a lightweight wooden hut with lenses in each of its four walls that would project images of the surroundings on a paper cube in the middle. The construction could be carried on two wooden poles.<ref name=Snyder>{{cite book|title=Eye of the Beholder|last=Snyder|first=Laura J.|year=2015|url=https://books.google.com/books?id=EQJ-BAAAQBAJ&q=friedrich+risner+camera+obscura&pg=PT110|isbn=9780393246520}}</ref> A very similar setup was illustrated in 1645 in [[Athanasius Kircher]]'s influential book ''Ars Magna Lucis Et Umbrae''.<ref>{{cite web |url= https://books.google.com/books?id=wYlDAAAAcAAJ&pg=PA806 |title= Ars Magna Lucis Et Umbrae |year=1645 |last=Kircher |first=Athanasius |language=la |page=806b}}</ref>
+
+Around 1575 Italian Dominican priest, mathematician, astronomer, and cosmographer [[Ignazio Danti]] designed a camera obscura gnomon and a meridian line for the [[Basilica of Santa Maria Novella]], Florence and he later had a massive gnomon built in the [[San Petronio Basilica]] in Bologna. The gnomon was used to study the movements of the sun during the year and helped in determining the new Gregorian calendar for which Danti took place in the commission appointed by [[Pope Gregory XIII|Pope Gregorius XIII]] and instituted in 1582.<ref>{{cite web|last=Cassini|title=1655–2005: 350 Years of the Great Meridian Line|url=http://stelle.bo.astro.it/archivio/2005-anno-cassiniano/meridian_ing.htm}}</ref>
+
+In his 1585 book ''Diversarum Speculationum Mathematicarum''<ref>{{cite book|url=https://books.google.com/books?id=2CJFAAAAcAAJ&q=%22Diversarum%20Speculationum%20Mathematicarum%22&pg=PP1|title=Diversarum Speculationum Mathematicarum|last=Benedetti|first=Giambattista|year=1585|language=la}}</ref> Venetian mathematician [[Giambattista Benedetti]] proposed to use a mirror in a 45-degree angle to project the image upright. This leaves the image reversed, but would become common practice in later camera obscura boxes.<ref name=Ilardi />
+
+Giambattista della Porta added a "lenticular crystal" or biconvex lens to the camera obscura description in the 1589 second edition of ''Magia Naturalis''. He also described use of the camera obscura to project hunting scenes, banquets, battles, plays, or anything desired on white sheets. Trees, forests, rivers, mountains "that are really so, or made by Art, of Wood, or some other matter" could be arranged on a plain in the sunshine on the other side of the camera obscura wall. Little children and animals (for instance handmade deer, wild boars, rhinos, elephants, and lions) could perform in this set. "Then, by degrees, they must appear, as coming out of their dens, upon the Plain: The Hunter he must come with his hunting Pole, Nets, Arrows, and other necessaries, that may represent hunting: Let there be Horns, Cornets, Trumpets sounded: those that are in the Chamber shall see Trees, Animals, Hunters Faces, and all the rest so plainly, that they cannot tell whether they be true or delusions: Swords drawn will glister in at the hole, that they will make people almost afraid." 
+Della Porta claimed to have shown such spectacles often to his friends. They admired it very much and could hardly be convinced by Della Porta's explanations that what they had seen was really an optical trick.<ref name=Larsen /><ref>{{cite book|url=https://quod.lib.umich.edu/e/eebo/A55484.0001.001/1:20?rgn=div1;view=fulltext |title=Natural Magick (Book XVII, Chap. V + VI) |author=Giovanni Battista della Porta|pages=363–365|year=1658}}</ref><ref>{{cite book|title=Magia Naturalis|year=1589|language=la|url=https://books.google.com/books?id=L2kjTEvXAdUC&pg=PT282|last1=Porta|first1=Giovan Battista Della}}</ref>
+
+===1600 to 1650: Name coined, camera obscura telescopy, portable drawing aid in tents and boxes===
+[[File:Kepler - Ad Vitellionem paralipomena quibus astronomiae pars optica traditur, 1604 - 158093 F.jpg|thumb|left|The first use of the term ''"camera obscura"'' was by [[Johannes Kepler]], in his first treatise about optics, ''Ad Vitellionem paralipomena quibus astronomiae pars optica traditur'' (1604)<ref name="Dupre" />]]
+[[File:1619 Scheiner - Oculus hoc est (frontispiece).jpg|thumb|Detail of Scheiner's ''Oculus hoc est'' (1619) frontispiece with a camera obscura's projected image reverted by a lens]]
+The earliest use of the term "camera obscura" is found in the 1604 book ''Ad Vitellionem Paralipomena'' by German mathematician, astronomer, and astrologer [[Johannes Kepler]].<ref name="Dupre">{{cite journal |last1=Dupre |first1=Sven |title=Inside the "Camera Obscura": Kepler's Experiment and Theory of Optical Imagery |journal=Early Science and Medicine |date=2008 |volume=13 |issue=3 |pages=219–244 |jstor=20617729|doi=10.1163/157338208X285026 |hdl=1874/33285 |hdl-access=free }}</ref> Kepler discovered the working of the camera obscura by recreating its principle with a book replacing a shining body and sending threads from its edges through a many-cornered aperture in a table onto the floor where the threads recreated the shape of the book. He also realized that images are "painted" inverted and reversed on the retina of the eye and figured that this is somehow corrected by the brain.<ref>{{cite book|title=Theories of Vision from Al-kindi to Kepler|url=https://books.google.com/books?id=-8A_auBvyFoC&q=kepler+camera+obscura+eye&pg=PA186|last=Lindberg|first=David C.|year=1981|isbn = 9780226482354}}</ref> 
+In 1607, Kepler studied the sun in his camera obscura and noticed a [[sunspot]], but he thought it was Mercury transiting the sun.<ref name =aps>{{cite web|url=https://www.aps.org/publications/apsnews/201503/physicshistory.cfm|title=March 9, 1611: Dutch astronomer Johannes Fabricius observes sunspots}}</ref>
+In his 1611 book ''Dioptrice'', Kepler described how the projected image of the camera obscura can be improved and reverted with a lens. It is believed he later used a telescope with three lenses to revert the image in the camera obscura.<ref name=Ilardi />
+
+In 1611, Frisian/German astronomers [[David Fabricius|David]] and [[Johannes Fabricius]] (father and son) studied sunspots with a camera obscura, after realizing looking at the sun directly with the telescope could damage their eyes.<ref name =aps/> They are thought to have combined the telescope and the camera obscura into camera obscura telescopy.<ref name=aps/><ref>Surdin, V., and M. Kartashev. "Light in a dark room." Quantum 9.6 (1999): 40.</ref>
+
+In 1612, Italian mathematician [[Benedetto Castelli]] wrote to his mentor, the Italian astronomer, physicist, engineer, philosopher, and mathematician [[Galileo Galilei]] about projecting images of the sun through a [[telescope]] (invented in 1608) to study the recently discovered sunspots. Galilei wrote about Castelli's technique to the German Jesuit priest, physicist, and astronomer Christoph Scheiner.<ref name=Whitehouse/>
+
+[[File:Sheiner Viewing Sunspots 1625.jpg|left|thumb|Scheiner's helioscope as illustrated in his book ''Rosa Ursina sive Sol'' (1626–30)]]
+From 1612 to at least 1630, [[Christoph Scheiner]] would keep on studying sunspots and constructing new telescopic solar-projection systems. He called these "Heliotropii Telioscopici", later contracted to [[helioscope]].<ref name=Whitehouse>{{cite book|url=https://books.google.com/books?id=4eHgCgAAQBAJ&q=castelli&pg=PT82|title=The Sun: A Biography|last=Whitehouse|first=David|year=2004|isbn=9781474601092}}</ref> For his helioscope studies, Scheiner built a box around the viewing/projecting end of the telescope, which can be seen as the oldest known version of a box-type camera obscura. Scheiner also made a portable camera obscura.<ref>{{cite news|title=Christoph Scheiner und die Camera obscura|last=Daxecker|bibcode=2006AcHA...28...37D|first=Franz|year=2006}}</ref>
+
+In his 1613 book ''Opticorum Libri Sex''<ref>{{cite book|url=https://archive.org/details/opticorumlibrise00agui|title=Opticorum Libri Sex philosophis juxta ac mathematicis utiles|year=1613|last=d'Aguilon|first=François}}</ref> Belgian Jesuit mathematician, physicist, and architect [[François d'Aguilon]] described how some charlatans cheated people out of their money by claiming they knew [[necromancy]] and would raise the specters of the devil from hell to show them to the audience inside a dark room. The image of an assistant with a devil's mask was projected through a lens into the dark room, scaring the uneducated spectators.<ref name=Mannoni1/>
+
+[[File:1858 - Gagniet (d) Quarteley (g) - Cours de Physique (A. Ganot).jpg|thumb|A camera obscura drawing aid tent in an illustration for an 1858 book on physics]]
+By 1620 Kepler used a portable camera obscura tent with a modified telescope to draw landscapes. It could be turned around to capture the surroundings in parts.<ref name=":0">{{cite book | author1=Steadman, Philip | author2=Vermeer, Johannes, 1632–1675 | title=Vermeer's camera : uncovering the truth behind the masterpieces | date=2001 | publisher=Oxford University Press | isbn=978-0-19-280302-3 | url-access=registration | url=https://archive.org/details/vermeerscameraun0000stea }}</ref>
+
+Dutch inventor [[Cornelis Drebbel]] is thought to have constructed a box-type camera obscura which corrected the inversion of the projected image. In 1622, he sold one to the Dutch poet, composer, and diplomat [[Constantijn Huygens]] who used it to paint and recommended it to his artist friends.<ref name=Snyder/> Huygens wrote to his parents (translated from French):{{quote|I have at home Drebbel's other instrument, which certainly makes admirable effects in painting from reflection in a dark room; it is not possible for me to reveal the beauty to you in words; all painting is dead by comparison, for here is life itself or something more elevated if one could articulate it. The figure and the contour and the movements come together naturally therein and in a grandly pleasing fashion.<ref>{{cite journal|title=Constantijn huygens and early attitudes towards the camera obscura|journal=History of Photography|volume=1|issue=2|pages=93–103|last=Wheelock, Jr|first=Arthur K.|year=2013|doi=10.1080/03087298.1977.10442893}}</ref>}}
+
+[[File:1636 Daniel Schwenter - Deliciae Physico-Mathematicae (scioptic ball).jpg|thumb|left|Illustration of a scioptic ball with a lens from Daniel Schwenter's ''Deliciae Physico-Mathematicae'' (1636)]]
+German [[oriental studies|Orientalist]], mathematician, inventor, poet, and librarian [[Daniel Schwenter]] wrote in his 1636 book ''Deliciae Physico-Mathematicae'' about an instrument that a man from [[Pappenheim]] had shown him, which enabled movement of a lens to project more from a scene through the camera obscura. It consisted of a ball as big as a fist, through which a hole (AB) was made with a lens attached on one side (B). This ball was placed inside two-halves of part of a hollow ball that were then glued together (CD), in which it could be turned around. This device was attached to a wall of the camera obscura (EF).<ref>{{cite book|first=Daniel|last=Schwenter|year=1636|page=255|language=de|url=https://play.google.com/books/reader?id=EWM_AAAAcAAJ&printsec=frontcover&output=reader&hl=en_GB&pg=GBS.PA255|title=Deliciae Physico-Mathematicae|publisher=Endter}}</ref> This [[universal joint]] mechanism was later called a [[scioptric ball]].
+
+In his 1637 book ''Dioptrique'' French philosopher, mathematician and scientist [[René Descartes]] suggested placing an eye of a recently dead man (or if a dead man was unavailable, the eye of an ox) into an opening in a darkened room and scraping away the flesh at the back until one could see the inverted image formed on the retina.<ref>{{cite book|url=https://books.google.com/books?id=YSUUONfamiEC&pg=PA36|title=Theatre and Performance Design: A Reader in Scenographyy|last1=Collins|first1=Jane|year=2012|first2=Andrew|last2=Nisbet|isbn=9781136344527}}</ref>
+
+[[File:1642 Mario Bettini - Apiaria universae philosophiae mathematica.jpg|thumb|Illustration of a twelve-hole camera obscura from Bettini's ''Apiaria universae philosophiae mathematicae'' (1642)]]
+Italian Jesuit philosopher, mathematician, and astronomer [[Mario Bettinus|Mario Bettini]] wrote about making a camera obscura with twelve holes in his ''Apiaria universae philosophiae mathematicae'' (1642). When a foot soldier would stand in front of the camera, a twelve-person army of soldiers making the same movements would be projected.
+
+French mathematician, [[Minim (religious order)|Minim friar]], and painter of [[Anamorphosis|anamorphic art]] [[Jean François Niceron|Jean-François Nicéron]] (1613–1646) wrote about the camera obscura with convex lenses. He explained how the camera obscura could be used by painters to achieve perfect perspective in their work. He also complained how charlatans abused the camera obscura to fool witless spectators and make them believe that the projections were magic or occult science. These writings were published in a posthumous version of ''La Perspective Curieuse'' (1652).<ref>{{cite book|url=https://archive.org/details/bub_gb_7xMOAAAAQAAJ|title=La Perspective curieuse|publisher=Chez la veufue F. Langlois, dit Chartres|year=1652|last=Nicéron|first=Jean François|language=fr}}</ref>
+
+===1650 to 1800: Introduction of the magic lantern, popular portable box-type drawing aid, painting aid===
+The use of the camera obscura to project special shows to entertain an audience seems to have remained very rare. A description of what was most likely such a show in 1656 in France, was penned by the poet [[Jean Loret]]. The Parisian society were presented with upside-down images of palaces, ballet dancing and battling with swords. The performance was silent and Loret was surprised that all the movements made no sound. Loret felt somewhat frustrated that he did not know the secret that made this spectacle possible. There are several clues that this was a camera obscura show, rather than a very early [[magic lantern]] show, especially in the upside-down image and the energetic movements.<ref>http://www.magiclantern.org.uk/new-magic-lantern-journal/pdfs/4008787a.pdf</ref>
+
+German Jesuit scientist [[Gaspar Schott]] heard from a traveler about a small camera obscura device he had seen in Spain, which one could carry under one arm and could be hidden under a coat. He then constructed his own sliding box camera obscura, which could focus by sliding a wooden box part fitted inside another wooden box part. He wrote about this in his 1657 ''Magia universalis naturæ et artis'' (volume 1 – book 4 "Magia Optica" pages 199–201).
+
+By 1659 the [[magic lantern]] was introduced and partly replaced the camera obscura as a projection device, while the camera obscura mostly remained popular as a drawing aid. The magic lantern can be seen as a development of the (box-type) camera obscura device.
+
+The 17th century [[Dutch Masters]], such as [[Johannes Vermeer]], were known for their magnificent attention to detail. It has been widely speculated that they made use of the camera obscura,<ref name=":0" /> but the extent of their use by artists at this period remains a matter of fierce contention, recently revived by the [[Hockney–Falco thesis]].<ref name=Snyder/>
+
+[[File:1676 Johann Sturm - Camerae Obscurae Portatilis.jpg|thumb|Illustration of a portable camera obscura device from [[Johann Sturm]], ''[[Collegium Experimentale]]'' (1676)]]
+German philosopher [[Johann Sturm]] published an illustrated article about the construction of a portable camera obscura box with a 45° mirror and an oiled paper screen in the first volume of the proceedings of the [[Collegium Curiosum]], ''Collegium Experimentale, sive Curiosum'' (1676).<ref>{{cite book|url=https://books.google.com/books?id=nbMWAAAAQAAJ|title=Collegium experimentale, sive curiosum |first=Johann |last=Sturm |year=1676 |language=la |pages=161–163}}</ref>
+
+[[Johann Zahn]]'s ''Oculus Artificialis Teledioptricus Sive Telescopium'', published in 1685, contains many descriptions, diagrams, illustrations and sketches of both the camera obscura and the [[magic lantern]]. A hand-held device with a mirror-reflex mechanism was first proposed by [[Johann Zahn]] in 1685, a design that would later be used in photographic cameras.<ref>Gernsheim, pp. 5–6</ref>
+
+The scientist Robert Hooke presented a paper in 1694 to the Royal Society, in which he described a portable camera obscura. It was a cone-shaped box which fit onto the head and shoulders of its user.<ref>Wenczel, pg. 15</ref>
+
+From the beginning of the 18th century, craftsmen and opticians would make camera obscura devices in the shape of books, which were much appreciated by lovers of optical devices.<ref name=Mannoni1 />
+
+One chapter in the Conte [[Francesco Algarotti|Algarotti's]] ''Saggio sopra Pittura'' (1764) is dedicated to the use of a camera ottica ("optic chamber") in painting.<ref>{{cite book | first= Francesco| last= Algarotti | year=1764 | title= ''Saggio sopra la pittura'' | editor= Presso Marco Coltellini, Livorno| pages= 59–63 | url= https://books.google.com/books?id=SNY9AAAAcAAJ }}</ref>
+
+By the 18th century, following developments by [[Robert Boyle]] and [[Robert Hooke]], more easily portable models in boxes became available. These were extensively used by amateur artists while on their travels, but they were also employed by professionals, including [[Paul Sandby]] and [[Joshua Reynolds]], whose camera (disguised as a book) is now in the [[Science Museum (London)|Science Museum in London]]. Such cameras were later adapted by [[Joseph Nicephore Niepce]], [[Louis Daguerre]] and [[William Fox Talbot]] for creating the first photographs.
+{{Clear}}
+
+[[Image:Camera obscura.jpg|upright|thumb|Camera obscura in [[Encyclopédie|''Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers'']]. 18th century]]
+
+==Role in the modern age==
+[[File:Camerae-obscurae.jpg|thumb|Cameras obscura for [[Daguerreotype]] called "Grand Photographe" produced by [[Charles Chevalier]] ([[Musée des Arts et Métiers]]).]]
+While the technical principles of the camera obscura have been known since antiquity, the broad use of the technical concept in producing images with a [[linear perspective]] in paintings, maps, theatre setups, and architectural, and, later, photographic images and movies started in the Western Renaissance and the scientific revolution. While, e.g., [[Alhazen]] (Ibn al-Haytham) had already observed an optical effect and developed a state of the art theory of the refraction of light, he was less interested to produce images with it (compare [[Hans Belting]] 2005); the society he lived in was even hostile (compare [[Aniconism in Islam]]) toward personal images.<ref name="belt">Hans Belting Das echte Bild. Bildfragen als Glaubensfragen. München 2005, {{ISBN|3-406-53460-0}}</ref> Western artists and philosophers used the Arab findings in new frameworks of epistemic relevance.<ref name=jim>An Anthropological Trompe L'Oeil for a Common World: An Essay on the Economy of Knowledge, Alberto Corsin Jimenez, Berghahn Books, 15 June 2013</ref> E.g. [[Leonardo da Vinci]] used the camera obscura as a model of the eye, [[René Descartes]] for eye and mind and [[John Locke]] started to use the camera obscura as a metaphor of human understanding per se.<ref name=pt>Philosophy of Technology: Practical, Historical and Other Dimensions P.T. Durbin Springer Science & Business Media</ref> The modern use of the camera obscura as an epistemic machine had important side effects for science.<ref name=beh>Contesting Visibility: Photographic Practices on the East African Coast Heike Behrend transcript, 2014</ref><ref name=id>[[Don Ihde]] Art Precedes Science: or Did the Camera Obscura Invent Modern Science? In Instruments in Art and Science: On the Architectonics of Cultural Boundaries in the 17th Century Helmar Schramm, Ludger Schwarte, Jan Lazardzig, Walter de Gruyter, 2008</ref> While the use of the camera obscura has dwindled, for those who are interested in making one it only requires a few items including: a box, tracing paper, tape, foil, a box cutter, a pencil and a blanket to keep out the light.<ref>{{Cite web|url=http://camera-obscura.co.uk/camera_obscura/camera_make.asp|title=Making a portable modern day camera obscura}}</ref>
+
+In 1827, critic Vergnaud complained about the use of camera obscura for many painting at that year's Salon exhibition in Paris: "Is the public to blame, the artists, or the jury, when history paintings, already rare, are sacrificed to genre painting, and what genre at that!... that of the camera obscura."<ref>{{Cite journal|last=Pinson|first=Stephen|date=2003-07-01|title=Daguerre, expérimentateur du visuel|url=http://journals.openedition.org/etudesphotographiques/345|journal=Études photographiques|language=fr|issue=13|pages=110–135|issn=1270-9050}}</ref> (translated from French)
+
+==Examples==
+<gallery>
+Image:CameraObscura.JPG|A freestanding room-sized camera obscura at the [[University of North Carolina at Chapel Hill]]. A pinhole can be seen to the left of the door.
+Image:CameraObscuraSanFranciscoCliffHouse.jpg|A freestanding room-sized camera obscura in the shape of a camera. [[Cliff House, San Francisco]]
+Image:Camara-obscura-image.JPG|Image of the [[South Downs]] of Sussex in the camera obscura of [[Foredown Tower]], [[Portslade]], England
+Image:Camera Obscura.JPG|A camera obscura created by Mark Ellis in the style of an Adirondack mountain cabin, Lake Flower, Saranac Lake, NY
+Image:Modern Camera Obscura.JPG|A modern-day camera obscura
+Image:Camera Obscura in Use.JPG|A modern-day camera obscura used indoors
+</gallery>
+
+==Public access==
+{| Class="wikitable sortable"
+|+ Camera obscuras open to the public
+! scope="col"| Name
+! scope="col" | City or Town
+! scope="col" | Country
+! scope="col" | Comment
+! scope="col"| Corresponding external links
+|-
+| [[Astronomy Centre]] || Todmorden || England || {{convert|80|inch|cm}} table, 40° field of view, horizontal rotation 360°, vertical adjustment ±15°
+| [http://www.astronomycentre.org.uk/index.php/2-uncategorised/7-equipment-on-site Equipment on site#Camera obscura]
+|-
+| [[Sovereign Hill]] || Ballarat || Australia || Within the historical camera demonstration room
+| [https://sovereignhill.com.au/ Sovereign Hill]
+|-
+| [[Observatory, Bristol|Bristol Observatory]] || Bristol || England || View of Clifton Suspension Bridge
+| [http://www.cliftonobservatory.com Clifton Observatory]
+|-
+| [[Buzza Tower]] || [[Hugh Town]], [[Isles of Scilly]] || England || View of the Isles of Scilly
+| [http://www.scillycameraobscura.co.uk Scilly Camera Obscura]
+|-
+|Camera Obscura Whangarei
+|[[Whangārei|Whangarei]]
+|[[New Zealand]]
+|View of the Te Matau ā Pohe Bascule Bridge 
+|[http://www.cameraobscura.nz/ Camera Obscura Whangarei]
+|-
+|[[Rufford Abbey]]
+|Nottingham
+|England
+|View of the garden and house
+|[http://www.parkwoodoutdoors.co.uk/centre/rufford-abbey Rufford Abbey]
+|-
+| Cheverie Camera Obscura || [[Chéverie, Nova Scotia]] || Canada || View of the Bay of Fundy || [https://anotherwalkinthepark.com/2014/12/17/camera-obscura-cheverie-nova-scotia/ Cheverie Camera Obscura]
+|-
+| [[Photographer's Gallery]] || [[London]] || England || View of Ramillies St
+| [https://thephotographersgallery.org.uk Photographer's Gallery]
+|-
+| Constitution Hill || Aberystwyth || Wales || 14-inch (356&nbsp;mm) lens, which is claimed to be the largest in the world
+| [http://www.cardiganshirecoastandcountry.com/cliff-railway-camera-obscura-aberystwyth.php Cliff Railway and Camera Obscura, Aberystwyth]
+[https://www.youtube.com/watch?v=yz_rQowtQqo View from Aberystwyth's camera obscura]
+|-
+| [[Camera Obscura (Edinburgh)|Camera Obscura, and World of Illusions]] || Edinburgh || Scotland || Top of Royal Mile, just below Edinburgh Castle. Fine views of the city
+| [http://www.camera-obscura.co.uk/ Edinburgh's Camera Obscura]
+|-
+| Camera Obscura (Greenwich) || Greenwich || England || Royal Observatory, Meridian Courtyard
+| http://www.rmg.co.uk/see-do/we-recommend/attractions/camera-obscura/
+|-
+| [[Museum zur Vorgeschichte des Films]] || Mülheim || Germany || Claimed to be the biggest "walk-in" Camera Obscura in the world. Installed in Broich Watertower in 1992
+| https://web.archive.org/web/20160921065718/http://www.camera-obscura-muelheim.de/cms/the_camera.html
+|-
+| [[Dumfries Museum]] || Dumfries || Scotland
+| In a converted windmill tower. Claims to be oldest working example in the world
+| [https://www.dumgal.gov.uk/article/15737/Dumfries-Museum-and-Camera-Obscura]
+|-
+| [[Foredown Tower]] || [[Portslade]], Brighton || England
+| One of only two operational camera obscuras in the south of England
+| 
+|-
+|[[Grand Union Camera Obscura]] || Douglas || Isle of Man
+|On Douglas Head. Unique Victorian tourist attraction with eleven lenses
+| [https://www.visitisleofman.com/placestovisit/heritage/cameraobscura.xml Visit Isle of Man]
+|-
+| [[Camera Obscura (San Francisco, California)|Camera Obscura (Giant Camera)]]
+| [[Golden Gate National Recreation Area]], [[San Francisco, California]]
+| [[United States]]
+| Adjacent to the [[Cliff House, San Francisco|Cliff House]] below [[Sutro Heights Park]], with views of the [[Pacific Ocean]]. In the [[Sutro District|Sutro Historic District]], and on the [[National Register of Historic Places]].
+| [http://www.giantcamera.com Giant Camera]
+|-
+| [[Santa Monica Camera Obscura]]
+| [[Santa Monica, California]]
+| [[United States]]
+| In [[Palisades Park (Santa Monica)|Palisades Park]] overlooking [[Santa Monica Beach]], [[Santa Monica Pier]], and the Pacific Ocean. Built in 1898.
+| [http://www.atlasobscura.com/places/camera-obscura-santa-monica Atlas Obscura]
+|-
+| Long Island's Camera Obscura
+| [[Greenport, Suffolk County, New York]]
+| [[United States]]
+| In Mitchell Park overlooking the [[Peconic Bay]] and [[Shelter Island, New York]]. Built in 2004.
+| [http://villageofgreenport.org/camera-obscura-mitchell-park-greenport-village.php Long Island Camera Obscura]
+|-
+| [[Griffith Observatory]]
+| [[Los Angeles, California]] ||[[United States]]
+| Slowly rotates and gives a panoramic view of the Los Angeles Basin.
+| [http://griffithobservatory.org/exhibits/halloftheeye_cameraobscura.html Griffith Park Camera Obscura]
+|-
+| [[The Exploratorium's Bay Observatory Terrace]]
+| [[San Francisco, California]] ||[[United States]]
+| Offers a view of San Francisco Bay, Treasure Island, and the Bay Bridge
+| [http://www.exploratorium.edu]
+|-
+| Cámara Oscura
+| [[Havana]] ||[[Cuba]]
+| Located in [[Plaza Vieja, Havana]]. Offers a view of [[Old Havana]]
+|
+|-
+|Cloud Chamber for the Trees and Sky
+|Raleigh, North Carolina
+|United States
+|On the campus of the North Carolina Museum of Art
+|http://ncartmuseum.org/art/detail/cloud_chamber_for_the_trees_and_sky/ 
+|-
+|Camera Obscura
+|Grahamstown
+|South Africa
+|In the Observatory Museum
+|http://www.sa-venues.com/things-to-do/easterncape/observatory-museum/
+|-
+|[http://www.kirriemuircameraobscura.com/ Kirriemuir Camera Obscura]
+|Kirriemuir
+|Scotland
+|Offers a view of Kirriemuir and the surrounding glens.
+|
+|-
+|Torre Tavira
+|Cadiz
+|Spain
+|Offers a view of the old town
+|https://www.torretavira.com/en/visiting-the-tavira-tower/
+|-
+|Camera Obscura, Tavira
+|Tavira
+|Portugal
+|Uses a repurposed water tower for the viewing room. 
+|http://family.portugalconfidential.com/camera-obscura-in-the-tower-of-tavira/
+|-
+|Camera Obscura, Lisbon
+|Lisbon
+|Portugal
+|Installed in the [[Castle of São Jorge|Castle of Saint George]], [[Lisbon]].
+|
+|}
+
+==See also==
+* [[Bonnington Pavilion]] – the first Scottish Camera Obscura, dating from 1708
+* [[Claude glass|Black mirror]]
+* [[Observatory, Bristol|Bristol Observatory]]
+* [[Camera lucida]]
+* [[History of cinema]]
+* [[Hockney–Falco thesis]]
+* [[Optics]]
+* [[Pepper's ghost]]
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{Reflist|28em}}
+
+==Sources==
+<!-- what are these refs for? –  should be called out with inline refs in main text -->
+*{{Citation|last=Crombie|first=Alistair Cameron|title=Science, optics, and music in medieval and early modern thought|url=https://books.google.com/books?id=zWrH7h9jNgUC|access-date=22 August 2010|year=1990|publisher=Continuum International Publishing Group|isbn=978-0-907628-79-8|page=205}}
+*{{Citation |last1=Kelley |first1=David H. |last2=Milone |first2=E. F. |last3=Aveni |first3=A. F. |year=2005 |title=Exploring Ancient Skies: An Encyclopedic Survey of Archaeoastronomy |publisher=Birkhäuser |isbn=978-0-387-95310-6 |url={{google books|plainurl=yes|id=zNkgyyPr7kwC|p=83}}|oclc=213887290 }}
+*[[Donald Routledge Hill|Hill, Donald R.]] (1993), "Islamic Science and Engineering", [[Edinburgh University Press]], page 70.
+*Lindberg, D.C. (1976), "Theories of Vision from Al Kindi to Kepler", [[The University of Chicago Press]], Chicago and London.
+*Nazeef, Mustapha (1940), "Ibn Al-Haitham As a Naturalist Scientist", {{in lang|ar}}, published proceedings of the Memorial Gathering of Al-Hacan Ibn Al-Haitham, 21 December 1939, Egypt Printing.
+*[[Joseph Needham|Needham, Joseph]] (1986). ''Science and Civilization in China: Volume 4, Physics and Physical Technology, Part 1, Physics''. Taipei: Caves Books Ltd.
+*Omar, S.B. (1977). "Ibn al-Haitham's Optics", Bibliotheca Islamica, Chicago.
+* {{Citation |last=Raynaud|first=D. |title=A Critical Edition of Ibn al-Haytham's On the Shape of the Eclipse. The First Experimental Study of the Camera Obscura |year=2016 |publisher=Springer International |location=New York |isbn=9783319479910}}
+*{{Citation |last1=Wade |first1=Nicholas J. |last2=Finger |first2=Stanley |year=2001 |title=The eye as an optical instrument: from camera obscura to Helmholtz's perspective |journal=Perception |volume=30 |issue=10 |pages=1157–1177 |doi=10.1068/p3210 |pmid=11721819 |s2cid=8185797 }}
+*Lefèvre, Wolfgang (ed.) ''Inside the Camera Obscura: Optics and Art under the Spell of the Projected Image.'' Max Planck Institut Fur Wissenschaftgesichte. Max Planck Institituter for the History of Science [https://www.mpiwg-berlin.mpg.de/Preprints/P333.PDF]
+*[[Burkhard Walther]], [[Przemek Zajfert]]: ''Camera Obscura Heidelberg. Black-and-white photography and texts. Historical and contemporary literature''. edition merid, Stuttgart, 2006, {{ISBN|3-9810820-0-1}}
+
+==External links==
+*{{Commonscatinline}}
+
+{{Mathematics and art}}
+{{Photography}}
+{{Precursors of film}}
+
+{{DEFAULTSORT:Camera Obscura}}
+[[Category:Audiovisual introductions in 1502]]
+[[Category:17th-century neologisms]]
+[[Category:Camera obscuras| ]]
+[[Category:Optical toys]]
+[[Category:Optical devices]]
+[[Category:Artistic techniques]]
+[[Category:Precursors of photography]]
+[[Category:Precursors of film]]

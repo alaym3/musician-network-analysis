@@ -1,0 +1,344 @@
+{{short description|Large carnivore bird}}
+{{About|the bird||Eagle (disambiguation)|and|Eagles (disambiguation)}}
+<noinclude>{{User:RMCD bot/subject notice|1=Eagle (bird)|2=Talk:Eagle#Requested move 1 December 2021}}
+</noinclude>{{Use dmy dates|date=May 2015}}
+{{taxobox
+| image             = Águila calva.jpg
+| image_caption     = [[Bald eagle]]
+| regnum            = [[Animalia]]
+| phylum            = [[Chordata]]
+| classis           = [[Aves]]
+| ordo              = [[Accipitriformes]]
+| familia           = [[Accipitridae]]
+| subdivision_ranks = Species
+| subdivision       = See [[#Species|text]].
+}}
+
+'''Eagle''' is the common name for many large [[Bird of prey|birds of prey]] of the family [[Accipitridae]]. Eagles belong to several groups of [[Genus|genera]], some of which are closely related. Most of the 60 species of eagle are from Eurasia and Africa.<ref>del Hoyo, J.; Elliot, A. & Sargatal, J. (editors). (1994). ''[[Handbook of the Birds of the World]] Volume 2'': New World Vultures to Guineafowl. Lynx Edicions. {{ISBN|84-87334-15-6}}</ref> Outside this area, just 14 species can be found—2 in North America, 9 in Central and South America, and 3 in Australia.
+
+Eagles are not a natural group but denote essentially any [[bird of prey]] large enough to hunt sizeable (about 50&nbsp;cm long or more overall) [[vertebrate]] prey.
+
+==Description==
+Eagles are large, powerfully built [[birds of prey]], with heavy heads and beaks. Even the smallest eagles, such as the [[booted eagle]] (''Aquila pennata''), which is comparable in size to a [[common buzzard]] (''Buteo buteo'') or [[red-tailed hawk]] (''B. jamaicensis''), have relatively longer and more evenly broad wings, and more direct, faster flight – despite the reduced size of aerodynamic feathers. Most eagles are larger than any other raptors apart from some [[vulture]]s. The smallest species of eagle is the [[South Nicobar serpent eagle]] (''Spilornis klossi''), at {{convert|450|g|lb|abbr=on|0}} and {{convert|40|cm|in|abbr=on}}. The largest species are discussed below. Like all birds of prey, eagles have very large hooked [[beak]]s for ripping flesh from their prey, strong, muscular legs, and powerful [[Claw|talons]]. The beak is typically heavier than that of most other birds of prey. Eagles' eyes are extremely powerful. It is estimated that the [[martial eagle]], whose eyes are more than two times larger than the human eye, has a [[visual acuity]] up to 8 times that of humans. This acuity enables eagles to spot potential prey from a very long distance.<ref>{{cite journal|last=Shlaer|first=Robert|year=1972|title=An Eagle's Eye: Quality of the Retinal Image|journal=Science|volume=176|issue=4037|pages=920–922|doi=10.1126/science.176.4037.920|url=http://www.csee.wvu.edu/~xinl/library/papers/biology/eagle_eyes.pdf|access-date=16 April 2012|pmid=5033635|url-status=dead|archive-url=https://web.archive.org/web/20121130130226/http://www.csee.wvu.edu/~xinl/library/papers/biology/eagle_eyes.pdf|archive-date=30 November 2012|df=dmy-all|bibcode=1972Sci...176..920S|s2cid=8034443}}</ref> This keen eyesight is primarily attributed to their extremely large pupils which ensure minimal [[diffraction]] (scattering) of the incoming light. The female of all known species of eagles is larger than the male.<ref>{{cite book|author=Leclerc, Georges|author2=Louis, Comte de Buffon|title=The Natural History of Birds: From the French of the Count de Buffon; Illustrated with Engravings, and a Preface, Notes, and Additions, by the Translator|url=https://books.google.com/books?id=sFmrk6_RBg8C&pg=PA60|year=2010|publisher=Cambridge University Press|isbn=978-1-108-02298-9|pages=60–|url-status=live|archive-url=https://web.archive.org/web/20160429190712/https://books.google.com/books?id=sFmrk6_RBg8C&pg=PA60|archive-date=29 April 2016|df=dmy-all}}</ref><ref name="Grambo2003">{{cite book|author=Grambo, Rebecca L.|title=Eagles|url=https://books.google.com/books?id=O5J8JK07QykC|year=2003|publisher=Voyageur Press|isbn=978-0-89658-363-4|url-status=live|archive-url=https://web.archive.org/web/20160430184052/https://books.google.com/books?id=O5J8JK07QykC|archive-date=30 April 2016|df=dmy-all}}</ref> 
+
+Eagles normally build their nests, called [[Bird nest|eyries]], in tall trees or on high cliffs. Many species lay two eggs, but the older, larger chick frequently kills its younger sibling once it has hatched. The parents take no action to stop the killing.<ref name= gambo>{{cite book | last = Grambo | first = Rebecca L | title = Eagles | year = 2003 | publisher = Voyageur Press | isbn = 978-0-89658-363-4 | page = [https://archive.org/details/eagles00gram/page/32 32] | url = https://archive.org/details/eagles00gram/page/32 }}</ref><ref name= stinson>{{cite journal | last= Stinson | first= Christopher H| year=1979 | title= On the Selective Advantage of Fratricide in Raptors | journal= Evolution | volume= 33 | issue = 4| pages= 1219–1225 | doi =10.2307/2407480 | pmid= 28563923| jstor= 2407480}}</ref>
+The dominant chick tends to be a female, as they are bigger than the male. It is said that eagles fly above clouds but this is not true. Eagles fly during storms and glide from the winds pressure. This saves the bird's energy. 
+Due to the size and power of many eagle species, they are ranked at the top of the food chain as [[apex predator]]s in the avian world. The type of prey varies by genus. The ''[[Haliaeetus]]'' and ''[[Ichthyophaga]]'' eagles prefer to capture fish, though the species in the former often capture various animals, especially other [[water bird]]s, and are powerful [[Kleptoparasitism|kleptoparasites]] of other birds. The snake and serpent eagles of the genera ''[[Circaetus]]'', ''[[Bateleur|Terathopius]]'', and ''[[Spilornis]]'' predominantly prey on the great diversity of [[snake]]s found in the tropics of Africa and Asia. The eagles of the genus ''[[Aquila (genus)|Aquila]]'' are often the top birds of prey in open habitats, taking almost any medium-sized [[vertebrate]] they can catch. Where ''Aquila'' eagles are absent, other eagles, such as the [[Buteoninae|buteonine]] [[black-chested buzzard-eagle]] of South America, may assume the position of top raptorial predator in open areas. Many other eagles, including the species-rich genus ''[[Spizaetus]]'', live predominantly in woodlands and forests. These eagles often target various arboreal or ground-dwelling mammals and birds, which are often unsuspectingly ambushed in such dense, knotty environments. Hunting techniques differ among the species and genera, with some individual eagles having engaged in quite varied techniques based on their environment and prey at any given time. Most eagles grab prey without landing and take flight with it, so the prey can be carried to a perch and torn apart.<ref name=RaptorsWorld>{{cite book|year=2001|title=Raptors of the World| publisher=[[Helm Identification Guides|Christopher Helm]]|location=London|isbn=0-7136-8026-1|author1=Ferguson-Lees, J. |author2=Christie, D. }}</ref>
+
+The [[bald eagle]] is noted for having flown with the heaviest load verified to be carried by any flying bird, since one eagle flew with a {{convert|6.8|kg|lb|frac=4|adj=on|abbr=on}} [[mule deer]] fawn.<ref>{{cite web|title=Amazing Bird Records|publisher=Trails.com|access-date=20 July 2012|url=http://www.trails.com/arts/amazing-bird-records.aspx|url-status=live|archive-url=https://web.archive.org/web/20170620215454/http://www.trails.com/arts/amazing-bird-records.aspx|archive-date=20 June 2017|df=dmy-all}}</ref> However, a few eagles may target prey considerably heavier than themselves; such prey is too heavy to fly with, thus it is either eaten at the site of the kill or taken in pieces back to a perch or nest. [[Golden eagle|Golden]] and [[crowned eagle]]s have killed [[ungulate]]s weighing up to {{convert|30|kg|lb|0|abbr=on}} and a [[martial eagle]] even killed a {{convert|37|kg|lb|0|adj=on|abbr=on}} [[duiker]], 7–8 times heavier than the preying eagle.<ref name=RaptorsWorld/><ref name= Watson>{{cite book| author = Watson, Jeff | title =The Golden Eagle | edition =Second | year = 2011 | isbn = 978-0-30017-019-1}}</ref> Authors on birds [[David Allen Sibley]], [[Pete Dunne (author)|Pete Dunne]], and Clay Sutton described the behavioral difference between hunting eagles and other birds of prey thus (in this case the bald and golden eagles as compared to other North American raptors):<ref>{{cite book|year=1989|title=Hawks in Flight: The Flight Identification of North American Migrant Raptors|publisher=Houghton Mifflin Harcourt|location=Boston|isbn=0-3955-1022-8|author1=Sutton, C.|author2=Dunne, P.|author3=Sibley, D.|url-access=registration|url=https://archive.org/details/hawksinflight00clay}}</ref>
+
+<blockquote>
+They have at least one singular characteristic. It has been observed that most birds of prey look back over their shoulders before striking prey (or shortly thereafter); predation is after all a two-edged sword. All hawks seem to have this habit, from the smallest kestrel to the largest Ferruginous – but not the Eagles.
+</blockquote>
+
+Among the eagles are some of the largest birds of prey: only the [[condor]]s and some of the [[Old World vulture]]s are markedly larger. It is regularly debated which should be considered the largest species of eagle. They could be measured variously in total length, body mass, or wingspan. Different lifestyle needs among various eagles result in variable measurements from species to species. For example, many forest-dwelling eagles, including the very large [[harpy eagle]], have relatively short wingspans, a feature necessary for being able to maneuver in quick, short bursts through densely forested habitats.<ref name=" RaptorsWorld"/> Eagles in the genus ''Aquila'', found almost exclusively in open country, are noted for their ability to soar, and have relatively long wings for their size.<ref name=RaptorsWorld/>
+
+These lists of the top five eagles are based on weight, length, and wingspan, respectively. Unless otherwise noted by reference, the figures listed are the median reported for each measurement in the guide ''Raptors of the World''<ref>Ferguson-Lees, et al.)</ref> in which only measurements that could be personally verified by the authors were listed.<ref name=RaptorsWorld/>
+
+{| class="wikitable"
+|-
+! Rank
+! Common name
+! Scientific name
+! Body mass
+|-
+| 1 || [[Steller's sea eagle]] || ''Haliaeetus pelagicus'' || {{convert|6.7|kg|lb|frac=4|abbr=on}}
+|-
+| 2 || [[Philippine eagle]] || ''Pithecophaga jefferyi'' || {{convert|6.35|kg|lb|frac=4|abbr=on}}
+|-
+| 3 || [[Harpy eagle]] || ''Harpia harpyja'' || {{convert|5.95|kg|lb|frac=4|abbr=on}}
+|-
+| 4 || [[White-tailed eagle]] || ''Haliaeetus albicilla'' || {{convert|4.8|kg|lb|frac=4|abbr=on}}<ref name="HBW">{{cite book|title=Handbook of the Birds of the World |last1=del Hoyo |first1=J | last2=Elliot | first2 = A | last3=Sargatal | first3 = J | year=1996 |publisher=[[Lynx Edicions]] |location=[[Barcelona]] |isbn=84-87334-20-2|volume=3|title-link=Handbook of the Birds of the World }}</ref>
+|-
+| 5 || [[Martial eagle]] || ''Polemaetus bellicosus'' || {{convert|4.6|kg|lb|frac=4|abbr=on}}<ref name="HBW"/>
+|}
+
+{| class="wikitable"
+|-
+! Rank
+! Common name
+! Scientific name
+! Total length
+|-
+| 1 || [[Philippine eagle]] || ''Pithecophaga jefferyi'' || {{convert|100|cm|ftin|0|abbr=on}}<ref name=PhilRaptors>{{cite journal|author1=Gamauf, A.|author2=Preleuthner, M.|author3=Winkler, H.|name-list-style=amp|year=1998|url=http://sora.unm.edu/sites/default/files/journals/auk/v115n03/p0713-p0726.pdf|title=Philippine Birds of Prey: Interrelations among habitat, morphology and behavior|journal=[[The Auk]]|volume=115|issue=3|pages=713–726|doi=10.2307/4089419|jstor=4089419|url-status=live|archive-url=https://web.archive.org/web/20140823062018/http://sora.unm.edu/sites/default/files/journals/auk/v115n03/p0713-p0726.pdf|archive-date=23 August 2014|df=dmy-all}}</ref>
+|-
+| 2 || [[Harpy eagle]] || ''Harpia harpyja'' || {{convert|98.5|cm|ftin|0|abbr=on}}
+|-
+| 3 || [[Wedge-tailed eagle]] || ''Aquila audax'' || {{convert|95.5|cm|ftin|0|abbr=on}}
+|-
+| 4 || [[Steller's sea eagle]] || ''Haliaeetus pelagicus'' || {{convert|95|cm|ftin|0|abbr=on}}
+|-
+| 5 || [[Crowned eagle]] || ''Stephanoaetus coronatus'' || {{convert|87.5|cm|ftin|0|abbr=on}}
+|}
+
+{| class="wikitable"
+|-
+! Rank
+! Common name
+! Scientific name
+! Median wingspan
+|-
+| 1 || [[White-tailed eagle]] || ''Haliaeetus albicilla'' || {{convert|218.5|cm|ftin|0|abbr=on}}
+
+|-
+| 2 || [[Steller's sea eagle]] || ''Haliaeetus pelagicus'' || {{convert|212.5|cm|ftin|0|abbr=on}}
+|-
+| 3 || [[Wedge-tailed eagle]] || ''Aquila audax'' || {{convert|210|cm|ftin|0|abbr=on}}<ref>{{cite journal |url=http://www.birdssa.asn.au/saopdfs/Volume%2011/1932V11P156.pdf |title=The spread and weight of the Wedge-tailed Eagle |journal=South Australian Ornithologist |volume=11 |pages=156–157 |author=Morgan, A.M. |url-status=dead |archive-url=https://web.archive.org/web/20130424140132/http://birdssa.asn.au/saopdfs/Volume%2011/1932V11P156.pdf |archive-date=24 April 2013 |df=dmy-all }}</ref><ref name = "Wood">{{cite book | author = Wood, Gerald | url = https://archive.org/details/guinnessbookofan00wood | title = The Guinness Book of Animal Facts and Feats | year = 1983 | isbn = 978-0-85112-235-9 }}</ref>
+|-
+| 4 || [[Golden eagle]] || ''Aquila chrysaetos'' || {{convert|207|cm|ftin|0|abbr=on}}
+|-
+| 5 || [[Martial eagle]] || ''Polemaetus bellicosus'' || {{convert|206.5|cm|ftin|0|abbr=on}}
+|}
+
+==Distribution==
+*[[Australasian realm|Australasian]]
+** Australia: [[wedge-tailed eagle]] (range extends into southern New Guinea), [[white-bellied sea-eagle]] (range extends into Asia), [[little eagle]].
+** New Guinea: [[Papuan eagle]], [[white-bellied sea-eagle]], [[pygmy eagle]].
+*[[Nearctic realm|Nearctic]] (USA and Canada): [[golden eagle]] (also found in Palearctic), [[bald eagle]].
+*[[Neotropical realm|Neotropical]] (Central and South America): ''[[Spizaetus]]'' (four species), [[Harpyhaliaetus|solitary eagles]] (two spp.), [[harpy eagle]], [[crested eagle]], [[black-chested buzzard-eagle]].
+*[[Palearctic realm|Palearctic]] 
+**[[Eurasia]]: [[Golden eagle]],<ref>{{Cite web|url=http://www.europeanraptors.org/raptors/golden_eagle.html|title=European Raptors: Golden Eagle|website=www.europeanraptors.org|language=de-DE|access-date=2017-09-11|url-status=live|archive-url=https://web.archive.org/web/20170507132405/http://www.europeanraptors.org/raptors/golden_eagle.html|archive-date=7 May 2017|df=dmy-all}}</ref> [[White-tailed eagle]].
+*[[Africa]]: [[African fish eagle]], [[Martial Eagle]], [[Crowned eagle]], [[Verreaux's eagle]], [[Tawny eagle]], [[Long-crested eagle]]
+
+==Groups==
+Eagles are often informally divided into four groups.{{efn|"There are four major groups of eagles: fish eagles, booted eagles, snake eagles and giant forest eagles."<ref name=aae>{{cite web|last=Stalcup|first=Carolyn|title=All About Eagles|url=http://www.eagles.org/programs/eagle-facts/all-about-eagles.php|publisher=The American Eagle Foundation|access-date=25 May 2014|url-status=dead|archive-url=https://web.archive.org/web/20140714180316/http://www.eagles.org/programs/eagle-facts/all-about-eagles.php|archive-date=14 July 2014|df=dmy-all}}</ref>}}<ref name=rutledge>{{cite web|last1=Rutledge|first1=Hope|title=Eagles of the World|url=http://www.baldeagleinfo.com/eagle/eagle6.html|website=American Bald Eagle Information|access-date=11 June 2014|url-status=live|archive-url=https://web.archive.org/web/20140528060325/http://www.baldeagleinfo.com/eagle/eagle6.html|archive-date=28 May 2014|df=dmy-all}} from {{cite book|last1=Grambo|first1=Rebecca L.|title=Eagles|url=https://archive.org/details/eagles00gram|url-access=registration|date=1999|publisher=Voyageur Press, Inc.|isbn=9780896583634}}</ref>
+
+The snake eagles are placed in the subfamily [[Circaetinae]]. The fish eagles, booted eagles, and harpy eagles have traditionally been placed in the subfamily [[Buteoninae]] together with the buzzard-hawks (buteonine hawks) and harriers. Some authors may treat these groups as tribes of the Buteoninae; Lerner & Mindell<ref name=LM2005 /> proposed separating the eagle groups into their own subfamilies of [[Accipitridae]].
+
+===Fish eagles===
+Sea eagles or fish eagles take fish as a large part of their diets, either fresh or as carrion.
+
+Proposed subfamily Haliaeetinae. Genera: ''[[Haliaeetus]]'', ''[[Ichthyophaga]]''.
+
+Some authors include ''Gypohierax angolensis'', the "vulturine fish eagle" (also called the [[palm-nut vulture]]) in this group.<ref name=rutledge /> However, genetic analyses indicate it is related to a grouping of ''Neophron''–''Gypaetus''–''Eutriorchis'' ([[Egyptian vulture]], [[bearded vulture]] (lammergeier), and [[Madagascar serpent eagle]]).<ref name="tol-acciptridae" />
+
+The fish eagles have a close genetic relationship with ''[[Haliastur]]'' and ''[[Milvus]]''; the whole group is only distantly related to the ''Buteo'' group.<ref name="tol-acciptridae" />
+
+===Booted eagles===
+<!-- [[Booted eagles (group)]] redirects here -->
+{{For|the species ''Hieraaetus pennatus'' (''Aquila pennata'')|booted eagle}}
+{{Main|Booted eagles}}
+[[File:Booted eagle in flight.jpg|thumb|Booted eagle, in flight.]]
+Booted eagles or "true eagles"<ref name=rutledge /><ref name="oiseaux-booted">{{cite web|last1=Bouglouan|first1=Nicole|title=The booted eagles throughout the world: introduction|url=http://www.oiseaux-birds.com/article-booted-eagles-intro.html|website=Oiseaux-birds|access-date=11 June 2014|url-status=live|archive-url=https://web.archive.org/web/20140517040832/http://www.oiseaux-birds.com/article-booted-eagles-intro.html|archive-date=17 May 2014|df=dmy-all}}</ref> have feathered tarsi (lower legs).
+
+Tribe Aquililae or proposed subfamily Aquilinae. Genera: ''Aquila'', ''Hieraaetus''; ''Spizaetus'', ''Oroaetus'', ''Spizastur''; ''Nisaetus'';<ref name="tol-acciptridae">{{cite web|last1=Lerner|first1=Heather R. L.|last2=Mindell|first2=David P.|title=Accipitridae|url=http://tolweb.org/Accipitridae/26375/2006.05.09|website=The Tree of Life Web Project|date=9 May 2006|url-status=live|archive-url=https://web.archive.org/web/20141223171046/http://tolweb.org/Accipitridae/26375/2006.05.09|archive-date=23 December 2014|df=dmy-all}}</ref> ''Ictinaetus'', ''Lophoaetus''; ''Polemaetus''; and ''Stephanoaetus''.<ref name=rutledge /><ref name="oiseaux-booted" />
+
+See comments under [[#Species|eagle species]] for changes to the composition of these genera.
+
+===Snake eagles===
+Snake or serpent eagles are, as the name suggests, adapted to hunting reptiles.
+
+* Subfamily [[Circaetinae]]. Genera: ''Circaetus'', ''Spilornis'', ''Dryotriorchis'', ''Terathopius''.<ref name=rutledge />
+* ''Eutriorchis'' (subfamily Gypaetinae or Circaetinae).
+
+Despite filling the niche of a snake eagle, genetic studies suggest that the [[Madagascar serpent eagle]] (''Eutriorchis'') is not related to them.<ref name="tol-acciptridae" />
+
+===Harpy eagles===
+Harpy eagles<ref name=rutledge /> or "giant forest eagles"<ref name=aae /> are large eagles that inhabit tropical forests. The group contains two to six species, depending on the author. Although these birds occupy similar niches and have traditionally been grouped, they are not all related: the solitary eagles are related to the black hawks and the Philippine eagle to the snake eagles.
+
+* Harpy eagles (proposed subfamily Harpiinae)
+** ''Harpia harpyja'', [[harpy eagle]] ― Central and South America.
+** ''Morphnus guianensis'', [[crested eagle]] ― Central and South America.
+** ''Harpyopsis novaeguineae'', [[Papuan eagle]] ― New Guinea.
+* Philippine eagle
+** ''Pithecophaga jefferyi'', [[Philippine eagle]] ― Philippines.
+* Solitary eagles
+** [[Chaco eagle]] or crowned solitary eagle, ''[[Buteogallus]]'' (formerly ''[[Harpyhaliaetus]]'') ''coronatus'' ― South America.
+** [[Solitary eagle]] or montane solitary eagle, ''[[Buteogallus]]'' (formerly ''[[Harpyhaliaetus]]'') ''solitarius'' ― South America.
+
+==Species==
+[[File:Martial Eagle in Namibia.jpg|thumb|Martial eagle in Namibia.]]
+[[File:Pithecophaga jefferyi.jpg|thumb|[[Philippine eagle]], ''Pithecophaga jefferyi'' in Southern Philippines.]]
+[[File:WedgetailEagleCarrion.jpg|thumb|[[Wedge-tailed eagle]] in Australia.]]
+[[File:עיט ניצי.jpg|right|thumb|Eastern imperial eagle – in Israel]]
+Major new research into eagle [[Taxonomy (biology)|taxonomy]] suggests that the important genera ''Aquila'' and ''Hieraaetus'' are not composed of nearest relatives, and it is likely that a reclassification of these genera will soon take place, with some species being moved to ''Lophaetus'' or ''Ictinaetus''.<ref name=LM2005>{{cite journal|last=Lerner|first=H. R. L.|author2=Mindell, D. P. |year=2005|title=Phylogeny of eagles, Old World vultures, and other Accipitridae based on nuclear and mitochondrial DNA|journal=Molecular Phylogenetics and Evolution|pmid=15925523|issue=2|pages=327–346|doi=10.1016/j.ympev.2005.04.010|volume=37}}</ref>
+*[[Bonelli's eagle]] and the [[African hawk-eagle]] have been moved from ''Hieraaetus'' to ''Aquila''.
+*Either the [[greater spotted eagle]] and [[lesser spotted eagle]] should move from ''Aquila'' to join the [[long-crested eagle]] in ''Lophaetus'', or, perhaps better, all three of these species should move to ''Ictinaetus'' with the [[black eagle]].
+*The [[steppe eagle]] and [[tawny eagle]], once thought to be [[conspecificity|conspecific]], are not even each other's nearest relatives.
+
+'''Family Accipitridae'''
+{{main|Accipitridae#Genera|l1=Accipitridae}}
+*'''Subfamily [[Buteoninae]]''' – hawks (buzzards), true eagles and seaeagles
+**Genus ''Geranoaetus''
+***[[Black-chested buzzard-eagle]], ''Geranoaetus melanoleucus''
+**Genus ''[[Harpyhaliaetus]]''
+***[[Chaco eagle]], ''Harpyhaliaetus coronatus''
+***[[Solitary eagle]], ''H. solitarius''
+**Genus ''Morphnus''
+***[[Crested eagle]], ''Morphnus guianensis''
+**Genus ''Harpia''
+***[[Harpy eagle]], ''Harpia harpyja''
+**Genus ''Pithecophaga''
+***[[Philippine eagle]], ''Pithecophaga jefferyi''
+**Genus ''Harpyopsis''
+***[[Papuan eagle]], ''Harpyopsis novaeguineae''
+**Genus ''[[Spizaetus]]''
+***[[Black hawk-eagle]], ''S. tyrannus''
+***[[Ornate hawk-eagle]], ''S. ornatus''
+***[[Black-and-white hawk-eagle]], ''S. melanoleucus'' – formerly ''Spizastur''
+***[[Black-and-chestnut eagle]], ''S. isidori'' – formerly ''Oroaetus''
+**Genus ''[[Nisaetus]]'' – previously included in ''Spizaetus''
+***[[Changeable hawk-eagle]], ''N. cirrhatus''
+****[[Flores hawk-eagle]] ''N. floris'' – earlier a subspecies, ''S. c. floris''
+***[[Sulawesi hawk-eagle]], ''N. lanceolatus''
+***[[Mountain hawk-eagle]], ''N. nipalensis''
+****[[Legge's hawk-eagle]], ''Nisaetus kelaarti'' – previously a race of ''S. nipalensis''
+***[[Blyth's hawk-eagle]], ''N. alboniger''
+***[[Javan hawk-eagle]], ''N. bartelsi''
+***(Northern) [[Philippine hawk-eagle]], ''N. philippensis''
+****[[Pinsker's hawk-eagle]] (Southern Philippine hawk-eagle), ''Nisaetus pinskeri'' – earlier ''S. philippensis pinskeri''
+***[[Wallace's hawk-eagle]], ''N. nanus''
+**Genus ''Lophaetus''
+***[[Long-crested eagle]], ''Lophaetus occipitalis'' – possibly belongs in ''Ictinaetus''
+**Genus ''Stephanoaetus''
+***[[Crowned eagle]], ''Stephanoaetus coronatus''
+***[[Malagasy crowned eagle]], {{extinct}}''Stephanoaetus mahery''
+**Genus ''Polemaetus''
+***[[Martial eagle]], ''Polemaetus bellicosus''
+**Genus ''[[Hieraaetus]]''
+***[[Ayres's hawk-eagle]], ''H. ayresii''
+***[[Little eagle]], ''H. morphnoides''
+***[[Pygmy eagle]], ''H. weiskei'' – previously subspecies ''H. m. weiskei''
+***[[Booted eagle]], ''H. pennatus''
+***[[Haast's eagle]], †H. moorei
+**Genus ''Lophotriorchis''
+***[[Rufous-bellied eagle]], ''L. kienerii'' [[File:Eagle Lahore Zoo June302005.jpg|thumb|A [[steppe eagle]] in [[Lahore Zoo]], Pakistan]]
+**Genus ''[[Aquila (genus)|Aquila]]''
+***[[Bonelli's eagle]], ''Aquila fasciata'' – formerly ''Hieraaetus fasciatus''
+***[[African hawk-eagle]], ''A. spilogaster'' – formerly in ''Hieraaetus''
+***[[Cassin's hawk-eagle]], ''A. africana'' – formerly in ''Hieraaetus'' or ''Spizaetus'' genera
+***[[Golden eagle]], ''A. chrysaetos''
+***[[Eastern imperial eagle]], ''A. heliaca''
+***[[Spanish imperial eagle]] ''A. adalberti''
+***[[Steppe eagle]], ''A. nipalensis''
+***[[Tawny eagle]], ''A. rapax''
+***[[Greater spotted eagle]], ''A. clanga'' – to be moved to ''Lophaetus'' or ''Ictinaetus''
+***[[Lesser spotted eagle]], ''A. pomarina'' – to be moved to ''Lophaetus'' or ''Ictinaetus''
+***[[Indian spotted eagle]], ''A. hastata'' – to be moved to ''Lophaetus'' or ''Ictinaetus''
+***[[Verreaux's eagle]], ''A. verreauxii''
+***[[Gurney's eagle]], ''A. gurneyi''
+***[[Wahlberg's eagle]], ''A. wahlbergi'' – to be moved to ''Hieraaetus''
+***[[Wedge-tailed eagle]], ''A. audax''
+**Genus ''Ictinaetus''
+***[[Black eagle]], ''Ictinaetus malayensis''
+**Genus ''[[Haliaeetus]]''
+***[[White-tailed eagle]], ''Haliaeetus albicilla''
+***[[Bald eagle]], ''H. leucocephalus''
+***[[Steller's sea eagle]], ''H. pelagicus''
+***[[African fish eagle]], ''H. vocifer''
+***[[White-bellied sea eagle]], ''H. leucogaster''
+***[[Sanford's sea eagle]], ''H. sanfordi''
+***[[Madagascar fish eagle]], ''H. vociferoides''
+***[[Pallas' sea eagle]], ''H. leucoryphus''
+**Genus ''[[Ichthyophaga]]''
+***[[Lesser fish eagle]], ''Ichthyophaga humilis''
+***[[Grey-headed fish eagle]], ''I. ichthyaetus''
+[[File:CircaetusGallicus.jpg|thumb|Short-toed snake eagle in flight]]
+*'''Subfamily [[Circaetinae]]''': snake-eagles
+**Genus ''Terathopius''
+***[[Bateleur]], ''Terathopius ecaudatus''
+**Genus ''[[Circaetus]]''
+***[[Short-toed snake eagle]], ''Circaetus gallicus''
+***[[Black-chested snake eagle]], ''C. pectoralis''
+***[[Brown snake eagle]], ''C. cinereus''
+***[[Fasciated snake eagle]], ''C. fasciolatus''
+***[[Western banded snake eagle]], ''C. cinerascens''
+**Genus ''[[Dryotriorchis]]''
+***[[Congo serpent eagle]], ''D. spectabilis''
+**Genus ''[[Spilornis]]''
+***[[Crested serpent eagle]], ''Spilornis cheela''
+****[[Central Nicobar serpent eagle]], ''S. minimus'' (subspecies or species)
+***[[Great Nicobar serpent eagle]], ''S. klossi''
+***[[Mountain serpent eagle]], ''S. kinabaluensis''
+***[[Sulawesi serpent eagle]], ''S. rufipectus''
+***[[Spilornis holospilus|Philippine serpent eagle]], ''S. holospilus''
+***[[Andaman serpent eagle]], ''S. elgini''
+**Genus ''Eutriorchis''
+***[[Madagascar serpent eagle]], ''Eutriorchis astur''
+
+==In culture==
+
+[[File:Lin Liang-Eagles.jpg|thumb|upright=0.8|''Eagles'', a Chinese Ming period painting. Located at the [[National Palace Museum]]]]
+
+===Etymology===
+The modern English term for the bird is derived from {{lang-la|[[wikt:aquila#Latin|aquila]]}} by way of {{lang-fr|[[wikt:aigle#French|aigle]]}}. The origin of {{lang|la|aquila}} is unknown, but it is believed to possibly derive from {{lang|la|[[wikt:aquilus#Latin|aquilus]]}} (meaning dark-colored, swarthy, or blackish) as a reference to the plumage of eagles.
+
+[[Old English]] used the term {{lang|ang|[[wikt:earn#Old English|earn]]}}, related to Scandinavia's ''[[wikt:ørn|ørn]]/[[wikt:örn|örn]]''. It is similar to other [[Indo-European languages|Indo-European]] terms for "bird" or "eagle", including {{lang-el|[[wikt:ὄρνις#Ancient Greek|ὄρνις]]}} ({{transl|el|''ornís''}}), {{lang-ru|[[wikt:орёл#Russian|орёл]]}} ({{transl|ru|''orël''}}), and {{lang-cy|eryr}}.
+
+In the southern part of [[Finland]], near the [[Gulf of Finland]], is the town of [[Kotka]], which literally means "eagle", while the town of [[L'Aquila]] in the central part of [[Italy]] literally means "the eagle".
+
+[[File: Fountain top.JPG|thumb|left|The sculpture of eagle at the top of the fountain at ''Plac Orła Białego'' in [[Szczecin]], Poland]]
+In Britain before 1678, ''eagle'' referred specifically to the [[golden eagle]], with the other native species, the [[white-tailed eagle]], being known as [[wikt:erne#English|''erne'']]. The modern name "golden eagle" for ''aquila chrysaetos'' was introduced by the naturalist [[John Ray]].{{Citation needed|date=December 2012}}
+
+The village of [[Eagle, Lincolnshire|Eagle]] in [[Lincolnshire]], [[England]], has nothing to do with the bird; its name is derived from the Old English words for "oak" and "wood" (compare ''Oakley'').<ref>{{cite book|last=Reaney|first=P.H.|title=The Origin of English Place Names|edition=1964|publisher=Routledge and Kegan Paul|page=166}}</ref>
+
+===Religion and folklore===
+
+[[File:Desfile Portela 2014 (906185).jpg|thumb|left|Representation of an eagle at [[Rio Carnival]], 2014]]
+
+[[File: Garuda by Hyougushi in Delhi.jpg|thumb|upright|[[Garuda]], the [[Vahana]] of Lord [[Vishnu]], depicted with an eagle's beak and wings]]
+
+In ancient [[Sumerian religion|Sumerian mythology]], the mythical king [[Etana]] was said to have been carried into [[heaven]] by an eagle.<ref name="Horowitz1998">{{cite book|last1=Horowitz|first1=Wayne|title=Mesopotamian Cosmic Geography|date=1998|publisher=Eisenbrauns|location=Winona Lake, Indiana|isbn=0-931464-99-4|pages=43–59|url=https://books.google.com/books?id=P8fl8BXpR0MC&q=Etana+eagle&pg=PA44|url-status=live|archive-url=https://web.archive.org/web/20171206144500/https://books.google.com/books?id=P8fl8BXpR0MC&pg=PA44&dq=Etana+eagle&hl=en&sa=X&ved=0ahUKEwi55daPqrXXAhVI5YMKHbFHD88Q6AEILzAC#v=onepage&q=Etana%20eagle&f=false|archive-date=6 December 2017|df=dmy-all}}</ref> Classical writers such as [[Lucan]] and [[Pliny the Elder]] claimed that the eagle was able to look directly at the sun, and that they forced their fledglings to do the same. Those that blinked would be cast from the nest. This belief persisted until the [[Medieval era]].<ref>Badke, David. ''[http://bestiary.ca/beasts/beast232.htm The Medieval Bestiary] {{webarchive|url=https://web.archive.org/web/20161122175138/http://bestiary.ca/beasts/beast232.htm |date=22 November 2016 }}''</ref>
+
+The eagle is the patron animal of the [[Ancient Greek religion|ancient Greek god]] [[Zeus]]. In particular, Zeus was said to have taken the form of an eagle in order to abduct [[Ganymede (mythology)|Ganymede]], and there are numerous artistic depictions of the eagle Zeus bearing Ganymede aloft, from Classical times up to the present (see illustrations in the [[Ganymede (mythology)]] page.)<ref>{{cite book |first=John |last=Hutchinson |title=Philosophical and Theological Works of the Late Truly Learned John Hutchinson |author-link=John Hutchinson (writer) |url=https://books.google.com/books?id=14tPAAAAYAAJ |year=1749 |publisher=James Hedges |location=London, UK |page=402 |url-status=live |archive-url=https://web.archive.org/web/20160425203217/https://books.google.com/books?id=14tPAAAAYAAJ |archive-date=25 April 2016 |df=dmy-all }}</ref>
+
+[[Psalm 103]] (in Greek, Latin, and English) mentions renewing one's youth "as the eagle" (although the Hebrew word '''נשר''' apparently means [[vulture]]). [[Augustine of Hippo]] gives a curious explanation of this in his commentary on the Psalms.<ref>[http://www.ccel.org/ccel/schaff/npnf108.ii.CIII.html Psalm 103] {{webarchive|url=https://web.archive.org/web/20150508120622/http://www.ccel.org/ccel/schaff/npnf108.ii.CIII.html |date=8 May 2015 }} in Augustine's commentary.</ref>
+
+An eagle is a common form in the [[Anglicanism|Anglican]] tradition, often used to support the [[Bible]] because of the symbolism of spreading the [[gospel]] over the world. Additional symbolic meanings for "eagle" include the pronouncements to the [[Israelites]] in [[Book of Exodus|Exodus]] 19:4; [[Psalms]] 103:5 and [[Book of Isaiah|Isaiah]] 40:31.
+The United States [[eagle feather law]] stipulates that only individuals of certifiable [[Native Americans in the United States|Native American]] ancestry enrolled in a federally recognized tribe are legally authorized to obtain eagle feathers for [[religion|religious]] or [[Spirituality|spiritual]] reasons.<ref>{{cite web|url=http://www.fws.gov/mountain-prairie/law/le65.html|title=National Eagle Repository|access-date=20 November 2007|author=Office of Law Enforcement|work= Mountain-Prairie Region|publisher=[[United States Fish and Wildlife Service]] |archive-url = https://web.archive.org/web/20071010032432/http://www.fws.gov/mountain-prairie/law/le65.html |archive-date = 10 October 2007}}</ref> In Canada, the poaching of eagle feathers for the booming U.S. market has sometimes resulted in the arrests of First Nations person for the crime.<ref>{{cite news|first=Lena|last=Sin|title=Charges laid in eagle-poaching case|url=http://www.canada.com/theprovince/news/story.html?id=7037508c-70c7-4c47-9d3e-713a118e6b66&k=55151|work=The Province|publisher=CanWest MediaWorks Publications Inc.|date=30 April 2006|access-date=20 November 2007|url-status=dead|archive-url=https://web.archive.org/web/20090531090255/http://www2.canada.com/theprovince/news/story.html?id=7037508c-70c7-4c47-9d3e-713a118e6b66&k=55151|archive-date=31 May 2009|df=dmy-all}}</ref>
+
+The [[Moche (culture)|Moche]] people of ancient [[Peru]] worshiped the eagle and often depicted eagles in their art.<ref>Larco Herrera, Rafael, and Berrin, Kathleen (1997) ''The Spirit of Ancient Peru'' [[Thames and Hudson]], New York, {{ISBN|0500018022}}</ref>
+
+===Heraldry===
+{{Main|Eagle (heraldry)}}
+{{unreferenced section|date=July 2016}}
+[[File:Greater coat of arms of the United States.svg|thumb|Coat of Arms of United States]]
+[[File:Austria Bundesadler.svg|thumb|left|upright|[[Coat of Arms of Austria]]]]
+[[File:Kotka.vaakuna.svg|thumb|right|upright|Coat of Arms of [[Kotka]], [[Finland]]]]
+
+Eagles are an exceptionally common symbol in heraldry, being considered the "King of Birds" in contrast to the [[lion]], the "King of Beasts".  Whereas the lion (e.g. England) usually represents a kingdom, the eagle is symbolic of an empire. They are particularly popular in Germanic countries such as Austria, due to their association with the [[Holy Roman Empire]]. The eagle of the Holy Roman Empire was two-headed, supposedly representing the two divisions, [[Eastern Roman Empire|East]] and [[Western Roman Empire|West]], of the old Roman Empire.  This motif, derived from the Byzantine (Eastern Roman) Empire was also adopted by the [[Russian Empire]] and is still featured in the [[Flag of Albania]]. The Roman eagle was preceded by the eagle of [[Ptolemaic Kingdom|Ptolemaic Egypt]] and the [[Achaemenid Empire]]. In the coat of arms of [[Kotka]], Finland, the eagle is depicted carrying an [[anchor]] and the [[caduceus]] on its feet.
+
+Heraldic eagles are most often found ''displayed'', i.e. with their wings and legs extended. They can also occur ''close'', i.e. with their wings folded, or ''rising'', i.e. about to take flight. The heads, wings, and legs of eagles can also be found independently.
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Wiktionary|eagle}}
+{{wikiquote|Eagles}}
+{{Wikisource1911Enc|Eagle}}
+{{commons category|Accipitridae|Eagles}}
+* [https://www.pbs.org/wnet/nature/eagles-introduction/3089/ PBS Nature: Eagles]
+* [http://orientalbirdimages.org/search.php?keyword=eagle Eagle photos] on Oriental Bird Images
+* [http://ibc.lynxeds.com/family/hawks-eagles-accipitridae Eagle videos] on the Internet Bird Collection
+* [http://www.ub.edu/aligaperdiguera Web of the Conservation Biology Team-Bonelli's Eagle, of the University of Barcelona]
+* [http://www.ustream.tv/decoraheagles Decorah Eagles: 24/7 Live Webcam from The Raptor Resource Project]
+* [http://www.sea-eaglecam.org/video.html EagleCAM: White-bellied Sea Eagles Live Webcam at Discovery Centre in Sydney, Australia]
+* {{Cite NIE|wstitle=Eagle|short=x}}
+
+{{Buteoninae}}
+
+{{Authority control}}
+
+[[Category:Eagles| ]]
+[[Category:Accipitridae]]
+[[Category:Apex predators]]
+[[Category:Bird common names]]
+[[Category:Vultures]]<!--Old World & New World vultures-->
+[[Category:National symbols of Armenia]]
+[[Category:National symbols of Austria]]
+[[Category:National symbols of the Czech Republic]]
+[[Category:National symbols of Germany]]
+[[Category:National symbols of Ghana]]
+[[Category:National symbols of Liechtenstein]]
+[[Category:National symbols of Mexico]]
+[[Category:National symbols of Nigeria]]
+[[Category:National symbols of Poland]]
+[[Category:National symbols of Romania]]
+[[Category:National symbols of Serbia]]
+[[Category:National symbols of Spain]]
+[[Category:National symbols of Syria]]
+[[Category:National symbols of Yemen]]
+[[Category:National symbols of Zambia]]

@@ -1,0 +1,34 @@
+{{Short description|sefora23}}
+{{about||the compass subdivision called "wind rose"|Compass rose|the [[Ukraine|Ukrainian]] airline called "Windrose"|Wind Rose Aviation|the Italian band|Wind Rose (band)}}
+
+[[File:Wind rose plot.jpg|thumb|180px| Wind rose plot for [[LaGuardia Airport]] (LGA), [[New York, New York]].  2008]]
+A '''wind rose''' is a graphic tool used by [[meteorologist]]s to give a succinct view of how [[wind]] speed and direction are typically distributed at a particular location. Historically, wind roses were predecessors of the [[compass rose]] (found on [[charts]]), as there was no differentiation between a [[cardinal direction]] and the wind which blew from such a direction.  Using a [[polar coordinate system]] of gridding, the frequency of winds over a time period is plotted by wind direction, with colour bands showing wind speed ranges.  The direction of the longest spoke shows the wind direction with the greatest frequency.
+
+== History ==
+[[File:Wind rose.jpg|thumb|A medieval wind rose]]
+Before the development of the [[compass rose]], a wind rose was included on maps in order to let the reader know which directions the 8 major winds (and sometimes 8 half-winds and 16 quarter-winds) blew within the [[plan view]].  No differentiation was made between cardinal directions and the winds which blew from those directions.  North was depicted with a [[fleur de lis]], while east was shown as a [[Christian cross]] to indicate the direction of [[Jerusalem]] from Europe.<ref>Dan Reboussin (2005)[http://web.uflib.ufl.edu/cm/africana/windrose.htm Wind Rose.] [[University of Florida]]. Retrieved on 2009-04-26.</ref><ref>{{cite web|last=Thoen |first=Bill |url=http://www.gisnet.com/notebook/comprose.php |title=Origins of the Compass Rose |publisher=GISNet |access-date=2011-12-18}}</ref>
+
+== Use ==
+Presented in a circular format, the modern wind rose shows the frequency of winds blowing ''from'' particular directions over a specified period.  The length of each "spoke" around the circle is related to the frequency that the wind blows from a particular direction per unit time.  Each concentric circle represents a different frequency, emanating from zero at the center to increasing frequencies at the outer circles.  A wind rose plot may contain additional information, in that each spoke is broken down into colour-coded bands that show wind speed ranges.  Wind roses typically use 16 cardinal directions, such as north (N), NNE, NE, etc., although they may be subdivided into as many as 32 directions.<ref>Jan Curtis (2007). [http://www.wcc.nrcs.usda.gov/climate/windrose.html Wind Rose Data.] [[Natural Resources Conservation Service]]. Retrieved on 2009-04-26.</ref>  In terms of angle measurement in degrees, North corresponds to 0°/360°, East to 90°, South to 180° and West to 270°.
+
+Compiling a wind rose is one of the preliminary steps taken in constructing [[airport]] [[runway]]s, as aircraft can have a lower [[ground speed]] at both landing and takeoff when pointing against the wind.
+
+==See also==
+* [[Pelorus (instrument)]]
+* [[Compass rose]]
+* [[Rhumbline network]]
+* [[Wind Rose (band)]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{commons category|Wind roses}}
+*[https://www.wcc.nrcs.usda.gov/climate/windrose.html Wind Rose Data for the U.S.]
+*[http://cbc.riocean.com/wstat/012006rose.html Carrie Bow Cay - Wind Rose]
+* {{cite web|url=https://www.windroseplot.app/|title=Make wind rose diagrams on line|work=www.windrose.xyz|access-date=22 Oct 2020}}
+
+
+[[Category:Wind]]
+[[Category:Navigation]]
+[[pl:Róża_wiatrów#R.C3.B3.C5.BCa_wiatr.C3.B3w|Róża wiatrów]]

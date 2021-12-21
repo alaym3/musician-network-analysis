@@ -1,0 +1,60 @@
+{{Short description |Indian singer, songwriter and composer (born 1995)}}
+{{Use dmy dates|date=January 2021}}
+{{Use Indian English|date=January 2021}}
+{{Infobox musical artist
+| name         = Anuv Jain
+| image        = Anuv Jain.jpeg
+| image_size   = 220
+| landscape    = yes
+| caption      = Jain in 2021
+| birth_name   = 
+| birth_date   = {{birth date and age|df=yes|1995|03|11}}
+| birth_place  = [[Ludhiana]], Punjab, India
+| occupation   = Singer, songwriter
+| instrument   = Vocals, guitar, ukelele
+| years_active = 2012–present<ref name="ht1">{{cite web |last1=Goyal |first1=Samarth |title=Anuv Jain: An artist cannot be scared of sharing emotions |url=https://www.hindustantimes.com/music/anuv-jain-an-artist-cannot-be-scared-of-sharing-emotions/story-xDn9BP8uFAKG7pr9SdGRnL.html |website=Hindustan Times |access-date=1 November 2021 |language=en |date=18 August 2020}}</ref>
+
+}}
+
+'''Anuv Jain''' is an Indian singer, songwriter and composer. Having made his professional debut with the single ''Baarishein'' in 2018, he has since recorded seven tracks.
+
+==Early life==
+Anuv Jain was born on 11 March 1995 in [[Ludhiana
+]]. He has a twin sister. Jain attended school in Ludhiana, before completing a Bachelor's of Business Administration from Narsee Monjee Institute of Management, Mumbai.<ref name="tie1">{{cite web |title=‘You can turn your sadness into one of your biggest assets’: Anuv Jain |url=https://indianexpress.com/article/lifestyle/life-positive/you-can-turn-your-sadness-into-one-of-your-biggest-assets-anuv-jain-7379768/ |website=The Indian Express |access-date=1 November 2021 |language=en |date=8 September 2021}}</ref>
+
+Jain released his first song, "Meri Baaton Me Tu" on Youtube in 2012, when he was still in high school.<ref>{{cite web |title=Meri Baaton Mein Tu-Anuv Jain |url=https://www.youtube.com/watch?v=6W9S_p9nqgY |access-date=1 November 2021 |language=en|publisher=Aakriti |via=Youtube|date=14 May 2011}}</ref>
+
+==Career==
+Jain released his first single, entitled "Baarishein" in 2016 on his own [[YouTube]] channel. The track has since amassed over 25 million views on the platform.<ref name="yt1">{{cite web |title=Baarishein (Studio) Anuv Jain |url=https://www.youtube.com/watch?v=PJWemSzExXs |publisher=Anuv Jain |access-date=1 November 2021 |language=en |via=Youtube|date=9 July 2016}}</ref>
+
+==Discography==
+{| class="wikitable sortable"
+|-  style="background:#ccc; text-align:center;"
+! Year !! Song Title !! Album !! Notes
+|-
+| rowspan="1"|2016 || "Baarishein"  || Single|| Recoding debut 
+|-
+| rowspan="1"|2018 || "Ocean"  || Single|| 
+|-
+|  rowspan="1"|2019 || "Riha" || Single ||
+|-
+| rowspan="3"| 2020 || "Maula" || Single ||  
+|-
+| "Alag Aasmaan" || Single ||
+|-
+| "Mishri" || Single ||
+|-
+|  rowspan="1" | 2021 || "Gul" || Single ||
+|}
+
+==References==
+
+<references />
+
+{{DEFAULTSORT:Jain, Anuv}}
+[[Category:Indian singer-songwriters]]
+[[Category:Musicians from Ludhiana]]
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Singers from Punjab, India]]
+[[Category:21st-century Indian singers]]

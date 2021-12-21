@@ -1,0 +1,99 @@
+{{redirect2|XXI|Twenty-One||21 (disambiguation){{!}}21}}
+{{example farm|date=March 2016}}
+{{Infobox number
+| number =  21
+| divisor = 1, 3, 7, 21
+}}
+
+'''21''' ('''twenty-one''') is the [[natural number]] following [[20 (number)|20]] and preceding [[22 (number)|22]].
+
+==In mathematics==
+21 is:
+
+* a [[composite number]], its proper [[divisor]]s being [[1 (number)|1]], [[3 (number)|3]] and [[7 (number)|7]], and a [[deficient number]] as the sum of these divisors is less than the number itself.
+* a [[Fibonacci number]] as it is the sum of the preceding terms in the sequence, 8 and 13.<ref>{{Cite web|url=https://oeis.org/A000045|title=Sloane's A000045 : Fibonacci numbers|website=The On-Line Encyclopedia of Integer Sequences|publisher=OEIS Foundation|access-date=2016-05-31}}</ref>
+* the fifth [[Motzkin number]].<ref>{{Cite web|url=https://oeis.org/A001006|title=Sloane's A001006 : Motzkin numbers|website=The On-Line Encyclopedia of Integer Sequences|publisher=OEIS Foundation|access-date=2016-05-31}}</ref>
+* a [[triangular number]],<ref>{{Cite web|url=https://oeis.org/A000217|title=Sloane's A000217 : Triangular numbers|website=The On-Line Encyclopedia of Integer Sequences|publisher=OEIS Foundation|access-date=2016-05-31}}</ref> because it is the sum of the first six natural numbers (1 + 2 + 3 + 4 + 5 + 6 = 21).
+* an [[octagonal number]].<ref>{{Cite web|url=https://oeis.org/A000567|title=Sloane's A000567 : Octagonal numbers|website=The On-Line Encyclopedia of Integer Sequences|publisher=OEIS Foundation|access-date=2016-05-31}}</ref>
+* a [[Padovan sequence|Padovan number]], preceded by the terms 9, 12, 16 (it is the sum of the first two of these) in the padovan sequence.<ref>{{Cite web|url=https://oeis.org/A000931|title=Sloane's A000931 : Padovan sequence|website=The On-Line Encyclopedia of Integer Sequences|publisher=OEIS Foundation|access-date=2016-05-31}}</ref>
+* a [[Blum integer]], since it is a semiprime with both its prime factors being [[Gaussian prime]]s.<ref>{{Cite web|url=https://oeis.org/A016105|title=Sloane's A016105 : Blum integers|website=The On-Line Encyclopedia of Integer Sequences|publisher=OEIS Foundation|access-date=2016-05-31}}</ref>
+* the sum of the divisors of the first 5 [[positive integers]] (i.e., 1 + (1 + 2) + (1 + 3) + (1 + 2 + 4) + (1 + 5))
+* the smallest non-trivial example of a Fibonacci number whose digits are Fibonacci numbers and whose digit sum is also a Fibonacci number.
+* a [[Harshad number]].<ref>{{Cite web|url=https://oeis.org/A005349|title=Sloane's A005349 : Niven (or Harshad) numbers|website=The On-Line Encyclopedia of Integer Sequences|publisher=OEIS Foundation|access-date=2016-05-31}}</ref>* a [[repdigit]] in base 4 (111<sub>4</sub>).
+* the smallest natural number that is not close to a power of 2, 2<sup>''n''</sup>, where the range of closeness is ±''n''.
+* the smallest number of differently sized squares needed to [[squaring the square|square the square]].<ref>C. J. Bouwkamp, and A. J. W. Duijvestijn, "Catalogue of Simple Perfect Squared Squares of Orders 21 Through 25." Eindhoven University of Technology, Nov. 1992.</ref>
+* the largest ''n'' with this property: for any positive integers ''a'',''b'' such that ''a'' + ''b'' = ''n'', at least one of <math>\tfrac{a}{b}</math> and <math>\tfrac{b}{a}</math> is a terminating decimal. See a brief proof below.
+{{Collapse top|title=|width=80%}}
+Note that a necessary condition for ''n'' is that for any ''a'' coprime to ''n'', ''a'' and ''n'' - ''a'' must satisfy the condition above, therefore at least one of ''a'' and ''n'' - ''a'' must only have factor 2 and 5.
+
+Let <math>A(n)</math> denote the quantity of the numbers smaller than ''n'' that only have factor 2 and 5 and that are coprime to ''n'', we instantly have <math>\frac{\varphi(n)}{2} < A(n)</math>.
+
+We can easily see that for sufficiently large ''n'', <math>A(n) \sim \frac{\log_2(n) \log_5(n)}{2} = \frac{\ln^{2}(n)}{2 \ln(2) \ln(5)}</math>, but <math>\varphi(n) \sim \frac {n} {e^\gamma\; \ln \ln n}</math>, <math>A(n) = o(\varphi(n))</math> as ''n'' goes to infinity, thus <math>\frac{\varphi(n)}{2} < A(n)</math> fails to hold for sufficiently large ''n''.
+
+In fact, For every ''n'' > 2, we have
+:<math>A< 1 + \log_2(n) + \frac{3 \log_5(n)}{2} + \frac{\log_2(n) \log_5(n)}{2} </math>
+and
+:<math>\varphi(n) > \frac {n} {e^\gamma\; \log \log n + \frac {3} {\log \log n}} </math>
+so <math>\frac{\varphi(n)}{2} < </math> fails to hold when ''n'' > 273 (actually, when ''n'' > 33).
+
+Just check a few numbers to see that '= 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 15, 21.
+{{Collapse bottom}}
+
+{{wiktionary|twenty-one}}
+
+==In science==
+*The [[atomic number]] of [[scandium]].
+*It is very often the day of the [[Solstice|solstices]] in both June and December, though the precise date varies by year. 
+
+==Age 21==
+*In thirteen countries, 21 is the [[age of majority]]. See also: [[Coming of age]]. 
+*In eight countries, 21 is the minimum age to [[Smoking age|purchase tobacco products]].
+*In seventeen countries, 21 is the [[Legal drinking age|drinking age]]. 
+*In nine countries, it is the [[voting age]].
+*In the United States:
+**21 is the minimum age at which a person may [[gambling|gamble]] or enter [[casino]]s in most states (since alcohol is usually provided).
+**21 is the minimum age to purchase a [[handgun]] or handgun ammunition under federal law.
+**21 is the age at which one can purchase multiple tickets to an [[Motion Picture Association of America film rating system|R-rated]] film.
+**In some states, 21 is the minimum age to accompany a learner driver, provided that the person supervising the learner has held a full driver license for a specified amount of time. See also: [[List of minimum driving ages]].
+
+== In sports ==
+{{Hatnote|For retired sports figures who wore this number, see [[List_of_retired_numbers#21]]}}
+* [[Twenty-one (basketball)|Twenty-one]] is a variation of [[street basketball]], in which each player, of which there can be any number, plays for himself only (i.e. not part of a team); the name comes from the requisite number of baskets.
+* In three-on-three basketball games held under FIBA rules, branded as [[3x3 basketball|3x3]], the game ends by rule once either team has reached 21 points.
+* In [[badminton]], and [[table tennis]] (before 2001), 21 points are required to win a game.
+* In [[AFL Women's]], the top-level league of [[women's Australian rules football]], each team is allowed a squad of 21 players (16 on the field and five interchanges).
+
+==In other fields==
+{{Seealso|List of highways numbered 21}}
+[[File:Zlin3.jpg|thumb|Building called "21" in [[Zlín]], [[Czech Republic]].]]
+[[File:21-Batuv mrakodrap.jpg|thumb|Detail of the building entrance]]
+'''21''' is:
+*The [[Twenty-first Amendment to the United States Constitution|Twenty-first Amendment]] repealed the [[Eighteenth Amendment to the United States Constitution|Eighteenth Amendment]], thereby ending [[Prohibition]].
+*The number of spots on a standard cubical (six-sided) [[Dice|die]] (1+2+3+4+5+6)
+*The number of firings in a [[21-gun salute]] honoring [[Royal family|Royalty]] or leaders of countries
+*"Twenty One", a 1994 song by an Irish rock band [[The Cranberries]]
+*"[[21 Guns (song)|21 Guns]]", a 2009 song by the punk-rock band [[Green Day]]
+*[[Twenty One Pilots]], an American musical duo
+* There are 21 [[trump (card games)|trump]] cards of the [[tarot deck]] if one does not consider [[The Fool (Tarot card)|The Fool]] to be a proper trump card.
+*The standard [[TCP/IP]] [[TCP and UDP port|port]] number for [[File Transfer Protocol|FTP]] connection
+*The [[Twenty-One Demands]] were a set of demands which were sent to the [[China|Chinese]] government by the Japanese government of [[Okuma Shigenobu]] in 1915
+*[[21 Demands of MKS]] led to the foundation of [[Solidarity (Polish trade union)|Solidarity]] in Poland.
+* In [[Israel]], the number is associated with the [[profile 21]] (the military profile designation granting an exemption from the military service)
+* [[Duncan MacDougall (doctor)|Duncan MacDougall]] reported that 21&nbsp;grams is the weight of the soul, according to [[21 grams experiment|an experiment]].
+* The number of the French department [[Côte-d'Or]]
+* [[Twenty-One (card game)]], an ancient card game in which the key value and highest-winning point total is 21
+** [[Blackjack]], a modern version of Twenty-One played in casinos
+* The number of [[shilling]]s in a [[guinea (coin)|guinea]].
+* The number of solar rays in the [[flag of Kurdistan]].
+* ''[[Twenty-One (game show)|Twenty-One]]'', an American game show that became the center of the [[1950s quiz show scandals]] when it was shown to be rigged.
+* The number on the logo for the American game show ''[[Catch 21]]''
+* The total number of Bitcoin to be released is 21 million “[https://en.bitcoin.it/wiki/Controlled_supply]”
+
+==References==
+{{commons category}}
+{{Reflist}}
+
+{{Integers|zero}}
+
+{{DEFAULTSORT:21 (Number)}}
+[[Category:Integers]]

@@ -1,0 +1,87 @@
+{{for|the form of housing|Group home}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Group Home
+| image               = Group Home.png
+| caption             = 
+| image_size          = 
+| background          = group_or_band
+| alias               = 
+| origin              = [[New York City]], [[New York (state)|New York]], U.S.
+| genre               = [[Hip-hop music|Hip hop]]
+| years_active        = 1990–present
+| label               = Payday/FFRR/[[PolyGram Records|PolyGram]]<br>Replay Records
+| associated_acts     = 
+| website             = 
+| current_members     = Melachi the Nutcracker<br>Lil' Dap 
+| past_members        = 
+}}
+
+'''Group Home''' is a [[Hip hop music|hip hop]] duo, composed of members Lil' Dap (birth name '''James Heath''') and Melachi the Nutcracker (birth name '''Jamal Felder''').<ref name="Shapiro">Shapiro, Peter (2005) ''The Rough Guide to Hip-Hop, 2nd ed.'', Rough Guides, {{ISBN|1-84353-263-8}}, p.165</ref> They came to prominence as members of the [[Gang Starr Foundation]]. Lil' Dap made his rhyming debut on Gang Starr's 1992 classic ''[[Daily Operation]]'' on the song "I'm the Man".<ref name="Shapiro" /> Both members appeared on Gang Starr's critically acclaimed 1994 effort ''[[Hard to Earn]]'', on the tracks "Speak Ya Clout" and "Words from the Nutcracker".<ref name="Shapiro" /> In 1995, the group released its debut album, ''[[Livin' Proof]]''.<ref name="Shapiro" /> The album was very well received, mainly due to DJ Premier's advanced production work, described by ''[[Allmusic]]'' as "rhythmic masterpieces".<ref name="Shapiro" /><ref name="DiBella">DiBella, M.F. "[{{Allmusic|class=album|id=r228948/review|pure_url=yes}} ''Livin' Proof'' Review]", ''[[Allmusic]]'', Macrovision Corporation</ref> A second album ''A Tear for the Ghetto'' was released in 1999, this time with only one track produced by DJ Premier.<ref name="Shapiro" />
+
+Since then, little has been heard of the group. Lil' Dap released a solo single, "Brooklyn Zone", in 2001, and guested on several other releases.<ref name="Shapiro" /> {{As of|2007}}, Lil' Dap is an independent artist. He released in 2008 a solo album called ''I.A.Dap''.  He was featured on [[Large Professor]]'s 2008 album ''Main Source''. [[Nas]] referred to Group Home on the track "Where are They Now?" from his album ''[[Hip Hop Is Dead]]''.
+
+Currently, the duo occasionally performs and goes on tour with other artists, such as [[Cypress Hill]]. Melachi currently suffers from emotional turmoil from prior drug abuse.
+
+==Discography==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions
+! rowspan="2" style="width:13em;"| Title
+! rowspan="2" style="width:19em;"| Album details
+! colspan="1"| Peak chart positions
+|-
+! style="width:3em;font-size:90%;" | [[Top R&B/Hip-Hop Albums|US R&B]]<br /><ref name="US-R&B-albums">{{cite web |url={{BillboardURLbyName|artist=Group Home|chart=R&B/Hip-Hop Albums B}} |title=Group Home – Chart history: R&B/Hip-Hop Albums |work=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |access-date=March 8, 2017}}</ref>
+|-
+! scope="row" | ''[[Livin' Proof]]''
+|
+*Released: November 21, 1995
+*Label: Payday, FFRR, [[PolyGram]]
+*Format: CD, LP, cassette, digital download
+| 34
+|-
+! scope="row" | ''[[A Tear for the Ghetto]]''
+|
+*Released: June 1, 1999
+*Label: Replay
+*Format: CD, LP, cassette, digital download
+| —
+|-
+! scope="row" | ''Where Back''
+|
+*Released: April 23, 2008
+*Label: Lastrum
+*Format: CD, digital download
+| —
+|-
+! scope="row" | ''Gifted Unlimited Rhymes Universal''
+|
+*Released: September 28, 2010
+*Label: [[Babygrande Records|Babygrande]]
+*Format: CD, digital download
+| —
+|-
+! scope="row" | ''Forever''
+|
+*Released: February 28, 2017
+*Label: [[Smoke On Records|Smoke On]]
+*Format: CD, digital download
+| —
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.discogs.com/artist/Group+Home Group Home] at discogs.com
+
+{{Gang Starr Foundation}}
+
+{{Authority control}}
+[[Category:African-American musical groups]]
+[[Category:American musical duos]]
+[[Category:Five percenters]]
+[[Category:Hip hop duos]]
+[[Category:Rappers from Brooklyn]]
+[[Category:Hip hop groups from New York City]]
+[[Category:Hardcore hip hop groups]]
+[[Category:FFRR Records artists]]

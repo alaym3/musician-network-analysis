@@ -1,0 +1,122 @@
+{{short description|Person controlling an aircraft in flight}}
+{{redirect-multi|3|Aviator|Jet pilot|Pilot}}
+{{redirects|Aviatrix|a discussion of the role of women in aviation and aeronautics|Women in aviation}}
+{{multiple issues|
+{{undue weight|date=November 2014}}
+{{more citations needed|date=March 2015}}
+}}
+{{use mdy dates|date=May 2012}} 
+
+[[File:Lt Mike Hunter 1.jpg|thumb|right|[[United States Army Air Forces|U.S. Army Air Forces]] test pilot [[Lieutenant|Lt.]] F.W. "Mike" Hunter wearing a [[flight suit]] in October 1942]]
+
+An '''aircraft pilot''' or '''aviator''' is a person who controls the flight of an [[aircraft]] by operating its [[Aircraft flight control system|directional flight controls]]. Some other [[aircrew|aircrew members]], such as [[navigator]]s or [[flight engineer]]s, are also considered aviators, because they are involved in operating the aircraft's navigation and engine systems. Other aircrew members, such as drone operators, [[flight attendant]]s, [[Aircraft maintenance technician|mechanics]] and [[Line technician (aviation)|ground crew]], are not classified as aviators.
+
+In recognition of the pilots' qualifications and responsibilities, most militaries and many airlines worldwide award [[aviator badge]]s to their pilots.
+
+==History==
+[[Image:Basket and crew.jpg|thumb|[[Hot air balloon]] pilot and passenger in basket]]
+{{expand section|date=March 2015}}
+The first recorded use of the term ''aviator'' (''aviateur'' in French) was in 1887, as a variation of "aviation", from the Latin ''avis'' (meaning ''bird''), coined in 1863 by G. de la Landelle in ''Aviation Ou Navigation Aérienne'' ("Aviation or Air Navigation"). The term ''aviatrix'' (''aviatrice'' in French), now archaic, was formerly used for a female aviator. These terms were used more in the [[aviation history|early days of aviation]], when airplanes were extremely rare, and connoted bravery and adventure. For example, a 1905 reference work described the [[Wright brothers]]' first airplane: "The weight, including the body of the aviator, is a little more than 700 pounds".<ref>{{cite encyclopedia|contribution=Aeronautics in 1904 |url=https://books.google.com/books?id=Eb86AQAAMAAJ&pg=PA6|page=6|location=New York|publisher=P. F. Collier & Son|year=1905|title=Collier's Self-Indexing Annual}}</ref>
+
+To ensure the safety of people in the air and on the ground, early [[aviation]] soon required that aircraft be under the operational control of a properly trained, certified pilot at all times, who is responsible for the safe and legal completion of the flight. The  [[Aéro-Club de France]] delivered the first certificate to [[Louis Blériot]] in 1908—followed by [[Glenn Curtiss]], [[Léon Delagrange]], and [[Robert Esnault-Pelterie]]. The British [[Royal Aero Club]] followed in 1910 and the [[Aero Club of America]] in 1911 (Glenn Curtiss receiving the first).
+
+==Civilian==
+[[File:Transaero 777 landing at Sharm-el-Sheikh Pereslavtsev.jpg|thumb|Pilots landing a [[Boeing 777]]]]
+Civilian pilots fly aircraft of all types privately for pleasure, charity, or in pursuance of a business, or commercially for non-scheduled (charter) and scheduled passenger and cargo air carriers (airlines), corporate aviation, agriculture (crop dusting, etc.), forest fire control, law enforcement, etc. When flying for an airline, pilots are usually referred to as airline pilots, with the [[pilot in command]] often referred to as the ''captain''.
+
+===Airline===
+There were 290,000 [[airline]] pilots in the world in 2017 and aircraft simulator manufacturer [[CAE Inc.]] forecasts a need for 255,000 new ones for a population of 440,000 by 2027, 150,000 for growth and 105,000 to offset retirement and attrition : 90,000 in Asia-Pacific (average pilot age in 2016: 45.8 years), 85,000 in Americas (48 years), 50,000 in Europe (43.7 years) and 30,000 in Middle East & Africa (45.7 years).<ref>{{cite web|url=http://www.cae.com/uploadedFiles/Content/BusinessUnit/Civil_Aviation/CAE-Airline-Pilot-Demand-Outlook-Spread.pdf|title=Airline Pilot Demand Outlook|at=10-year view|date=June 2017|publisher=CAE Inc.|access-date=June 21, 2017|archive-url=https://web.archive.org/web/20170712235720/http://www.cae.com/uploadedFiles/Content/BusinessUnit/Civil_Aviation/CAE-Airline-Pilot-Demand-Outlook-Spread.pdf|archive-date=July 12, 2017|url-status=dead}}</ref>
+
+[[Boeing]] expects 790,000 new pilots in 20 years from 2018, 635,000 for [[commercial aviation]], 96,000 for [[business aviation]] and 59,000 for [[helicopter]]s: {{#expr:261/7.9round0}}% in Asia Pacific (261,000), {{#expr:206/7.9round0}}% in North America (206,000), {{#expr:146/7.9round0}}% in Europe (146,000), {{#expr:64/7.9round0}}% in the Middle East (64,000), {{#expr:57/7.9round0}}% in Latin America (57,000), {{#expr:29/7.9round0}}% in Africa (29,000) and {{#expr:27/7.9round0}}% in Russia/ Central Asia (27,000).<ref>{{cite web |title= Pilot Outlook: 2018 - 2037 |date= July 23, 2018 |publisher= Boeing |url= http://www.boeing.com/commercial/market/pilot-technician-outlook/2018-pilot-outlook/}}</ref>
+By November 2017, due a shortage of qualified pilots, some pilots were leaving [[corporate aviation]] to return to airlines.<!--<ref name=AIN21nonv2017/>--> In one example a [[Global 6000]] pilot, making $250,000 a year for 10 to 15 flight hours a month, returned to [[American Airlines]] with full [[Seniority list|seniority]].<!--<ref name=AIN21nonv2017/>-->
+A [[Gulfstream G650]] or Global 6000 pilot might earn between $245,000 and $265,000, and recruiting one may require up to $300,000.<!--<ref name=AIN21nonv2017/>-->
+At the other end of the spectrum, constrained by the available pilots, some small carriers hire new pilots who need 300 hours to jump to airlines in a year.<!--<ref name=AIN21nonv2017/>--> They may also recruit non-career pilots who have other jobs or airline retirees who want to continue to fly.<ref name=AIN21nonv2017>{{cite news|url=https://www.ainonline.com/aviation-news/business-aviation/2017-11-21/bizav-leaders-seeing-shortages-qualified-pilot-pool|title=Bizav Leaders Seeing Shortages in Qualified Pilot Pool|work=AIN|author=Kerry Lynch|date=November 21, 2017|access-date=8 March 2018}}</ref>
+
+====Automation====
+The number of airline pilots could decrease as automation replaces copilots and eventually pilots as well. In January 2017 Rhett Ross, CEO of [[Continental Motors, Inc.|Continental Motors]] said "my concern is that in the next two decades—if not sooner—automated and autonomous flight will have developed sufficiently to put downward pressure on both wages and the number and kind of flying jobs available. So if a kid asks the question now and he or she is 18, 20 years from now will be 2037 and our would-be careerist will be 38—not even mid-career. Who among us thinks aviation and especially for-hire flying will look like it does now?" Christian Dries, owner of [[Diamond Aircraft]] Austria said "Behind the curtain, aircraft manufacturers are working on a single-pilot cockpit where the airplane can be controlled from the ground and only in case of malfunction does the pilot of the plane interfere. Basically the flight will be autonomous and I expect this to happen in the next five to six years for freighters."<ref>{{cite web|url=https://www.avweb.com/blogs/insider/Will-a-Robot-Steal-Your-Pilot-Job-228279-1.html|title = Will A Robot Steal Your Pilot Job?|access-date=31 July 2017|work=AVweb|date=1 January 2017}}</ref>
+
+In August 2017 financial company [[UBS]] predicted pilotless [[airliner]]s are technically feasible and could appear around 2025, offering around $35bn of savings, mainly in pilot costs: $26bn for [[airline]]s, $3bn for [[business jet]]s and $2.1bn for civil [[helicopters]]; $3bn/year from lower pilot training and [[aviation insurance]] costs due to safer flights; $1bn from flight optimisation (1% of global airlines' $133bn [[jet fuel]] bill in 2016); not counting revenue opportunity from increased [[capacity utilization]].<!--<ref name=UBS7Aug2017/>-->
+
+Regulations have to adapt with [[air cargo]] likely at the forefront, but pilotless flights could be limited by [[consumer behaviour]]: 54% of 8,000 people [[Survey (human research)|survey]]ed are defiant while 17% are supportive, with acceptation progressively forecast.<ref name=UBS7Aug2017>{{citation|url=https://files.static-nzz.ch/2017/8/7/93872795-5ab9-4f94-bb3a-f6ed38c6b886.pdf|title=Flying solo – how far are we down the path towards pilotless planes?|work=UBS Global Research|date=7 August 2017|publisher=UBS|author=Jarrod Castle|display-authors=et al|access-date=August 17, 2017|archive-url=https://web.archive.org/web/20170817163517/https://files.static-nzz.ch/2017/8/7/93872795-5ab9-4f94-bb3a-f6ed38c6b886.pdf|archive-date=August 17, 2017|url-status=dead}}</ref>
+
+AVweb reporter Geoff Rapoport stated, "pilotless aircraft are an appealing prospect for airlines bracing for the need to hire several hundred thousand new pilots in the next decade. Wages and training costs have been rapidly rising at regional U.S. airlines over the last several years as the major airlines have hired pilots from the regionals at unprecedented rates to cover increased air travel demand from economic expansion and a wave of retirements".<ref name="Rapoport07Aug17">{{cite web|url = https://www.avweb.com/avwebflash/news/Pilotless-Transport-Aircraft-by-2025-says-UBS-229474-1.html|title=Pilotless Transport Aircraft By 2025 Says UBS|access-date=9 August 2017|last=Rapoport|first=Geoff|work=AVweb|date=7 August 2017}}</ref>
+
+Going to pilotless airliners could be done in one bold step or in gradual improvements like by reducing the cockpit crew for long haul missions or allowing single pilot cargo aircraft. The industry has not decided how to proceed yet. Present [[automated]] systems are not [[autonomous]] and must be monitored; their replacement could require [[artificial intelligence]] with [[machine learning]] while present certified [[software]] is [[deterministic]].<ref>{{cite news|url=https://www.flightglobal.com/news/articles/analysis-how-boeing-is-approaching-the-future-of-pi-440217/|title=How Boeing is approaching the future of pilotless airliners|date=21 Aug 2017|author=Stephen Trimble|work=Flightglobal|access-date=8 March 2018}}</ref>
+As the [[Airbus A350]] would only need minor modifications, [[Air Caraibes]] and [[French Bee]] parent Groupe Dubreuil see two-pilot crews in long-haul operations, without a third pilot for rotation, happening around 2024–2025.<ref>{{cite news |url= https://aviationweek.com/awincommercial/airline-ceo-sees-reduced-long-haul-crew-near-future |title= Airline CEO Sees Reduced Long-Haul Crew In Near Future |date= Dec 11, 2019 |author= Thierry Dubois |work= Aviation Week Network}}</ref>
+
+Single-pilot freighters could start with regional flights.<ref>{{cite news |url= https://www.reuters.com/article/us-singapore-airshow-pilotless/freight-first-as-jetmakers-study-single-pilot-airplanes-idUSKBN1FS0SV|date=February 8, 2018|title=Freight first as jetmakers study single-pilot airplanes|author=Jamie Freed, Tim Hepher|work=[[Reuters]]|access-date=March 8, 2018}}</ref>
+The [[Air Line Pilots Association]] believe removing pilots would threaten [[aviation safety]] and opposes the April 2018 [[FAA]] Reauthorization Act's Section 744 establishing a [[research and development]] program to assist [[Single-pilot resource management|single-pilot]] cargo aircraft by remote and computer piloting.<ref>{{cite news |url= http://aviationweek.com/commercial-aviation/opinion-why-two-pilots-cockpit-remains-essential |title= Opinion: Why Two Pilots In The Cockpit Remains Essential |date= Jul 31, 2018 |author= Tim Canoll |work= Aviation Week & Space Technology}}</ref>
+
+For French aerospace research center [[Onera]] and avionics manufacturer [[Thales Group|Thales]], artificial intelligence (AI) like consumer [[Neural Network]]s learning from large datasets cannot explain their operation and cannot be certified for safe air transport.<!--<ref name=AvWeek26nov2018-->
+Progress towards ‘explainable’ AIs can be expected in the next decade, as the Onera expects “leads” for a certifiable AI system, along [[European Aviation Safety Agency|EASA]] standards evolution.<ref name=AvWeek26nov2018>{{cite news |url= http://aviationweek.com/defense/no-ai-cockpit-anytime-soon-onera-thales-say |title= No AI In Cockpit Anytime Soon, Onera, Thales Say |date= Nov 26, 2018 |author= Thierry Dubois |work= Aviation Week Network}}</ref>
+
+===Africa and Asia===
+In some countries, such as [[Pakistan]], [[Thailand]] and several [[Africa]]n nations, there is a strong relationship between the military and the principal national airlines, and many airline pilots come from the military; however, that is no longer the case in the [[United States]] and [[Western Europe]].{{citation needed|date=June 2012}} While the flight decks of U.S. and European airliners do have ex-military pilots, many pilots are civilians. Military training and flying, while rigorous, is fundamentally different in many ways from civilian piloting.
+
+===Canada===
+Operating an aircraft in Canada is regulated by the ''[[Aeronautics Act]]'' of 1985 and the [[Canadian Aviation Regulations]] provide rules for [[Pilot licensing in Canada]].
+
+Retirement age is provided by each airline with some set to age 60, but changes to the [[Canadian Human Rights Act]] have restricted retirement age set by the airlines.<ref>{{cite web|author=Vanessa Lu|url=https://www.thestar.com/business/2013/01/24/air_canada_pilots_can_continue_flying_past_age_60_under_new_rules.html|title=Air Canada pilots can continue flying past age 60 under new rules|newspaper=Toronto Star|date=January 24, 2013|access-date=November 5, 2013}}</ref>
+
+===United States===
+In the United States in 2020, there were 691,691 active pilot certificates.<ref>{{Cite web|url=https://www.faa.gov/data_research/aviation_data_statistics/civil_airmen_statistics/|title=U.S. Civil Airmen Statistics|website=www.faa.gov|language=en-us|access-date=2019-10-17}}</ref> This was down from a high of over 800,000 active pilots in 1980.<ref>{{cite news |last=Evans |first=Jon |url=https://techcrunch.com/2018/04/22/where-have-all-the-pilots-gone/ |title= Where have all the pilots gone? |work=[[TechCrunch]] |date=2018-04-22 |access-date=2018-04-24 }}</ref> Of the active pilot certificate holders, there were 160,860 Private,  103,879 Commercial, 164,193 Airline Transport, and 222,629 Student.<ref>{{Cite web|url=https://www.faa.gov/data_research/aviation_data_statistics/civil_airmen_statistics/|title=U.S. Civil Airmen Statistics|website=www.faa.gov|language=en-us|access-date=2020-11-01}}</ref>
+  
+In 1930, the [[Air Commerce Act]] established pilot licensing requirements for American civil aviation.
+
+Commercial airline pilots in the United States have a mandatory retirement age of 65, having increased from age 60 in 2007.<ref>{{cite news|url=http://www.dallasnews.com/sharedcontent/dws/bus/stories/DN-pilots_15bus.ART0.State.Edition1.2a48e73.html|title=Retirement age raised to 65 in nick of time for pilots turning 60|work=The Dallas Morning News|date=December 15, 2007|access-date=October 15, 2009|last=Maxon|first=Terry}}</ref>
+
+==Military==
+[[Image:USAF pilot.jpg|thumb|A [[United States Air Force|U.S. Air Force]] [[F-16]] pilot in flight]]
+Military pilots fly with the armed forces, primarily the air forces, of a government or [[nation-state]]. Their tasks involve [[combat]] and non-combat operations, including direct hostile engagements and support operations. Military pilots undergo specialized training, often with [[weapon]]s. Examples of military pilots include [[fighter pilot]]s, bomber pilots, transport pilots, [[test pilot]]s and [[astronaut]]s.
+
+Military pilots are trained with a different syllabus than civilian pilots, which is delivered by military instructors. This is due to the different aircraft, flight goals, flight situations and chains of responsibility. Many military pilots do transfer to civilian-pilot qualification after they leave the military, and typically their military experience provides the basis for a civilian pilot's license.
+
+==Unmanned aerial vehicles==
+{{further|Unmanned aerial vehicle#Degree of autonomy}}
+[[File:6th Reconnaissance Squadron - Operator.jpg|thumb|A United States Air Force RPA pilot.]]
+[[Unmanned aerial vehicles]] (UAVs, also known as "drones") operate without a pilot on-board and are classed into two categories: autonomous aircraft that operate without active<!-- "active" should be included, because I'm sure most autonomous UAVs will have some form of link with a human operator that results in specific actions, eg. giving a UAV a location to travel to while it is in flight --> human control during flight and remotely piloted UAVs which are operated remotely by one or more persons. The person controlling a remotely piloted UAV may be referred to as its pilot or operator. Depending on the sophistication and use of the UAV, pilots/operators of UAVs may require certification or training, but are generally not subject to the licensing/certification requirements of pilots of manned aircraft.
+
+Most jurisdictions have restrictions on the use of UAVs which have greatly limited their use in controlled airspace; UAVs have mostly been limited to military and hobbyist use. In the United States, use of UAVs is very limited in controlled airspace (generally, above 400&nbsp;ft/122m<!-- 400ft is exact, so 121.92m rounds to 122m --> and away from airports) and the FAA prohibits nearly all commercial use. Once regulations are made to allow expanded use of UAVs in controlled airspace, there is expected to be a large surge of UAVs in use and, consequently, high demand for pilots/operators of these aircraft.<ref>{{cite news|last1=Rooney|first1=Ben|title=Drone pilot wanted: Starting salary $100,000|url=https://money.cnn.com/2014/11/25/news/drone-pilot-degree/|access-date=March 24, 2015|work=CNN|date=November 25, 2014}}</ref>
+
+==Space==
+[[File:Astronaut_Pilot.jpg|thumb|Picture of astronaut going through pilot training exercise.]]
+The general concept of an airplane pilot can be applied to [[human spaceflight]], as well. The spacecraft pilot is the [[astronaut]] who directly controls the operation of a [[spacecraft]]. This term derives directly from the usage of the word "pilot" in aviation, where it is synonymous with "aviator".
+
+==Pilot certifications==
+[[File:RAF Pilot Training in Cockpit of Nimrod Aircraft MOD 45152088.jpg|thumb|Military aviation training in a [[Royal Air Force]] Nimrod aircraft]]
+{{Further|Pilot licensing and certification}}
+Pilots are required to go through many hours of [[flight training]] and theoretical study, that differ depending on the country. The first step is acquiring the [[Private Pilot License]] (PPL), or Private Pilot Certificate.  In the United States of America, this includes a minimum of 35 to 40 hours of flight training, the majority of which with a [[Flight_instructor|Certified Flight Instructor]]. 
+
+In the United States, an LSA ([[Light-sport aircraft|Light Sport Aircraft]]) license can be obtained in at least 20 hours of flight time.
+
+The next step in a pilot's progression is either [[Instrument Rating]] (IR), or Multi-Engine Rating (MEP) endorsements.
+
+If a professional career or professional-level skills are desired, a [[Commercial Pilot License]] (CPL) would also be required. To captain an airliner, one must obtain an [[Airline Transport Pilot License]] (ATPL). After 1 August 2013, even when being a First Officer (FO), an ATPL is required.<ref>{{cite magazine|last=Pope|first=Stephen|title=FAA Finalizes ATP Rule for First Officers|url=http://www.flyingmag.com/news/faa-finalizes-atp-rule-first-officers|access-date=October 15, 2014|magazine=Flying Magazine|date=July 11, 2013}}</ref> Some countries/carriers require/use a [[Multi Crew Coordination]] (MCC).
+
+==See also==
+*[[Airline pilot uniforms]]
+*[[Air safety]]
+*[[IMSAFE]] (mnemonic for pilot's fitness to fly)
+*[[List of aerospace engineers]]
+*[[List of aviators]]
+*[[List of Russian aviators]]
+*[[Pilot Fatigue]]
+*[[Pilot logbook]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commons category inline|Aviators}}
+*[http://www.womenofaviationweek.org/five-decades-of-women-pilots-in-the-united-states-how-did-we-do/ U.S. Women Pilots Statistics 1960–2010] {{Webarchive|url=https://web.archive.org/web/20160506005055/http://www.womenofaviationweek.org/five-decades-of-women-pilots-in-the-united-states-how-did-we-do/ |date=May 6, 2016 }}
+*{{cite magazine|last=Pope|first=Stephen|title=AI, autonomy, and airpower: the end of pilots?	
+|journal=Defence Studies|date=12 October 2019|doi=10.1080/14702436.2019.1676156}}
+* {{cite web |url= https://www.flightglobal.com/download?ac=76506 |title= The Pilot Survey 2021 |work= FlightGlobal |authors= Mark Charman and Katie Mann |date= January 2021}}
+
+{{Commercial aviation}}
+
+{{Authority control}}
+
+[[Category:Aviators| ]]
+[[Category:Military aviation occupations]]
+[[Category:Occupations in aviation]]

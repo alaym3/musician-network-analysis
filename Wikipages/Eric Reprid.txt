@@ -1,0 +1,49 @@
+{{Short description|Canadian rapper (born 1998)}}
+{{Use mdy dates|date=July 2021}}
+{{Infobox musical artist
+| image        =
+| caption      = 
+| birth_name   = Shi Yi Liu
+| birth_date   = 
+| origin       = [[Vancouver]], [[British Columbia]], Canada
+| genre        = [[Hip hop music|Hip hop]]
+| occupation   = {{flatlist|
+* Rapper
+* singer
+* songwriter}}
+| years_active = 2017–present
+| website      = {{URL|www.ericreprid.com}}
+}}
+'''Shi Yi Liu''', known professionally as '''Eric Reprid''', is a Canadian independent rapper and songwriter based in Vancouver.<ref>[https://hiphopcanada.com/eric-reprid-cold-world/ "Cold World: Budding Vancouver star Eric Reprid returns with new EP"]. ''HipHopCanada'', December 26, 2020.</ref><ref name=Tik>[https://www.coastmountainnews.com/entertainment/young-juno-nominees-on-why-theyre-moving-to-the-algorithm-of-tiktok/ "Young Juno nominees on why they’re moving to the algorithm of TikTok"], ''The Canadian Press'', via ''Coast Mountain News'', June 2, 2021.</ref> His 2020 single "Cold World" reached 24&nbsp;million plays<ref name=Tik/> and was nominated for [[Juno Award for Rap Recording of the Year|Rap Recording of the Year]] at the [[Juno Awards of 2021]];<ref name="cbc">Holly Gordon, [https://www.cbc.ca/music/junos/news/the-weeknd-jp-saxe-jessie-reyez-and-justin-bieber-lead-2021-juno-award-nominations-1.5940551 "The Weeknd, JP Saxe, Jessie Reyez and Justin Bieber lead 2021 Juno Award nominations"]. [[CBC Music]], March 9, 2021.</ref><ref>Rick Mele, [https://www.complex.com/music/inside-the-push-to-fix-the-juno-awards-rap-category "Inside the Push to Fix the Juno Awards’ Rap Category"], ''Complex Canada'', June 3, 2021.</ref> he was the only independent nominated in that category.<ref>Richard Trapunski, [https://www.straight.com/music/what-2021-juno-awards-nominations-say-about-state-of-canadian-music "What the 2021 Juno Awards nominations say about the state of Canadian music"], ''Straight.com'', March 9, 2021.</ref>
+
+== Awards and nominations ==
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! Organization
+! Work
+! Award
+! Result
+|-
+|-
+|2021
+|[[2021 Juno Awards]]
+|"[[Cold World (Eric Reprid song)|Cold World]]"
+|Rap Recording of the Year
+|{{Nom}}<ref name="cbc"/><ref>{{Cite web|date=November 10, 2021|title=2021 WINNERS + NOMINEES|url=https://junoawards.ca/awards/winners-nominees/}}</ref>
+|-
+|}
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Reprid, Eric}}
+[[Category:Living people]]
+[[Category:Canadian male rappers]]
+[[Category:Canadian musicians of Asian descent]]
+[[Category:Musicians from Vancouver]]
+[[Category:21st-century Canadian male musicians]]
+[[Category:21st-century Canadian rappers]]
+[[Category:Year of birth missing (living people)]]
+
+{{Canada-musician-stub}}

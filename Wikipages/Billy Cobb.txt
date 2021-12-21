@@ -1,0 +1,45 @@
+{{short description|English footballer}}
+{{Use dmy dates|date=June 2016}}
+{{Use British English|date=June 2016}}
+{{Infobox football biography
+| name        = Billy Cobb (footballer)
+| image       = 
+| caption     = 
+| fullname    = Walter William Cobb<ref name=LCFCarchive/>
+| birth_date  = {{birth date|1940|9|29|df=y}}<ref name=LCFCarchive>{{cite web |url=http://www.redimps.com/archive3/index.mv?cat=players&drop=playerdetsdrop&play=cobb01 |title=Billy Cobb |work=The Lincoln City FC Archive |publisher=Lincoln City F.C |access-date=29 March 2013 |archive-url=https://web.archive.org/web/20160303222112/http://www.redimps.com/archive3/index.mv?cat=players&drop=playerdetsdrop&play=cobb01 |archive-date=3 March 2016 |url-status=dead }}</ref>
+| birth_place = [[Newark-on-Trent|Newark]],<ref name=LCFCarchive/> [[Nottinghamshire]], England
+| death_date  = 
+| death_place = 
+| height      = 
+| position    = [[Midfielder]]
+| youthyears1 = – | youthclubs1 = 
+| years1      = –         | clubs1 = [[Ransome & Marles F.C.|Ransome & Marles]]   | caps1 =    | goals1 = 
+| years2      = 1958–1963 | clubs2 = [[Nottingham Forest F.C.|Nottingham Forest]] | caps2 = 30 | goals2 = 5
+| years3      = 1963–1964 | clubs3 = [[Plymouth Argyle F.C.|Plymouth Argyle]]     | caps3 = 31 | goals3 = 0
+| years4      = 1964–1966 | clubs4 = [[Brentford F.C.|Brentford]]                 | caps4 = 71 | goals4 = 23
+| years5      = 1966–1968 | clubs5 = [[Lincoln City F.C.|Lincoln City]]           | caps5 = 67 | goals5 = 10
+| years6      = 1968–1971 | clubs6 = [[Boston United F.C.|Boston United]]         | caps6 =    | goals6 = 
+}}
+'''Walter William Cobb''' (born 29 September 1940), known as '''Billy Cobb''', was an English [[association football|footballer]] who scored 38 goals from 199 appearances in [[the Football League]] playing for [[Nottingham Forest F.C.|Nottingham Forest]], [[Plymouth Argyle F.C.|Plymouth Argyle]], [[Brentford F.C.|Brentford]] and [[Lincoln City F.C.|Lincoln City]]. He played in [[midfielder|midfield]].<ref name=NB>{{cite web |url=http://www.neilbrown.newcastlefans.com/player/billycobb.html |title=Billy Cobb |work=UK A–Z Transfers |publisher=Neil Brown |access-date=22 April 2013}}</ref> He went on to play for [[Boston United F.C.|Boston United]] in the [[Northern Premier League]].<ref>{{cite web |url=http://www.bufc.drfox.org.uk/rollcall.html#Cobb |title=Boston United Roll Call |work=Boston United FC&nbsp;– the original website |publisher=Ken Fox |access-date=22 April 2013}}</ref>
+
+Cobb was the scorer of Nottingham Forest's first goal in European football, in a 5–1 defeat to [[Valencia CF|Valencia]] in the [[1961–62 Inter-Cities Fairs Cup|1961–62 Fairs Cup]].<ref>{{cite news |url=http://www.newarkadvertiser.co.uk/articles/sport/Keeping-it-in-the-family |title=Keeping it in the family |work=Newark Advertiser |date=4 January 2008 |access-date=29 March 2013 |archive-url=https://web.archive.org/web/20130927134943/http://www.newarkadvertiser.co.uk/articles/sport/Keeping-it-in-the-family |archive-date=27 September 2013 |url-status=dead }}</ref> He scored a [[hat-trick]] on his Lincoln City debut, in an 8–1 defeat of [[Luton Town]].<ref>{{cite web |url=http://www.redimps.com/archive3/index.mv?cat=hattrick&drop=matchsearch |title=Hat-trick heroes |work=The Lincoln City FC Archive |publisher=Lincoln City F.C |access-date=29 March 2013 |archive-url=https://web.archive.org/web/20130926193012/http://www.redimps.com/archive3/index.mv?cat=hattrick&drop=matchsearch |archive-date=26 September 2013 |url-status=dead }}</ref> After retiring from football he kept a pub in [[Nottingham]]<ref>{{cite web |archive-url=https://web.archive.org/web/20120722131701/http://www.nottinghamforest.co.uk/page/WhereNow/0%2C%2C10308~233794%2C00.html |url=http://www.nottinghamforest.co.uk/page/WhereNow/0,,10308~233794,00.html |title=Where are they now&nbsp;– from A to I |publisher=Nottingham Forest F.C |archive-date=22 July 2012 |url-status=dead |df=dmy-all }}</ref> and managed the bars at [[Nottingham Ice Stadium]].<ref>{{cite news |url=http://docs.newsbank.com/openurl?ctx_ver=z39.88-2004&rft_id=info:sid/iw.newsbank.com:AWNB:TND1&rft_val_format=info:ofi/fmt:kev:mtx:ctx&rft_dat=131FED8DAEDF4098&svc_dat=InfoWeb:aggregated5&req_dat=0D0CB57AB53DF815 |title=Where are they now? |first=Jon |last=Culley |work=The Independent |location=London |date=21 November 1995 |access-date=22 April 2013}}</ref>
+
+==References==
+{{Reflist|colwidth=40em}}
+
+{{DEFAULTSORT:Cobb, Billy}}
+[[Category:1940 births]]
+[[Category:Living people]]
+[[Category:People from Newark-on-Trent]]
+[[Category:English footballers]]
+[[Category:Association football midfielders]]
+[[Category:Nottingham Forest F.C. players]]
+[[Category:Plymouth Argyle F.C. players]]
+[[Category:Brentford F.C. players]]
+[[Category:Lincoln City F.C. players]]
+[[Category:Boston United F.C. players]]
+[[Category:English Football League players]]
+[[Category:Northern Premier League players]]
+
+
+{{England-footy-midfielder-1940s-stub}}

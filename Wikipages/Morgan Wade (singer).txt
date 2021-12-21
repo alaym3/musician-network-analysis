@@ -1,0 +1,77 @@
+{{Infobox musical artist
+| name             = Morgan Wade
+| image            =
+| alt              = 
+| caption          = 
+| birth_name       = 
+| alias            = 
+| birth_date       = {10 Dec 1994}
+| birth_place      = [[Floyd, Virginia]], U.S.
+| origin           = 
+| genre            = [[Country music|Country]]
+| occupation       = Singer-songwriter
+| instrument       = Vocals
+| years_active     = 2018-present
+| label            = [[Thirty Tigers]]
+| associated_acts  = The Stepbrothers
+}}
+'''Morgan Wade''' is an American country music singer. Active since 2018, she has released one album on [[Thirty Tigers]] in 2021.
+
+==Biography==
+Morgan Wade is a native of [[Floyd, Virginia]]. She began writing songs as a freshman in college, and in 2018, she recruited musicians through [[Craigslist]] to record her first album ''Puppets with My Heart'', which as credited to The Stepbrothers. Wade told ''[[Rolling Stone]] Country'' that she was inspired to do this after breaking up with her boyfriend.<ref name="stone">{{cite web | url=https://www.rollingstone.com/music/music-country/morgan-wade-reckless-album-1150202/ | title=Morgan Wade, Raised on Bluegrass, Excels at Country-Pop on Her Debut Album | publisher=Rolling Stone Country | date=April 1, 2021 | accessdate=October 22, 2021}}</ref> Stone later said that the stress of touring and recording with the Stepbrothers led to her developing an alcohol addiction.<ref name="stone"/>
+
+Later in 2018, she opened for [[Jason Isbell]] at a concert in her hometown. Isbell's guitar technician gave her album to Sadler Vaden, the guitarist in Isbell's band The 400 Unit. Vaden and producer Paul Ebersold then helped her assemble another album over the next two years. Titled ''Reckless'', the album was released via the [[Thirty Tigers]] label in 2021.<ref>{{cite web | url=https://www.allmusic.com/artist/morgan-wade-mn0004015132/biography | title=Morgan Wade biography | publisher=AllMusic | accessdate=October 22, 2021}}</ref> Selling 3,000 copies in its first week, ''Reckless'' charted at number 14 on the ''[[Billboard (magazine)|Billboard]]'' [[Top Heatseekers]] charts. Wade told the publication that the album was inspired by her struggles with her mental health, past relationships, and sobriety.<ref>{{cite web | url=https://www.billboard.com/articles/columns/country/9550454/morgan-wade-interview-reckless-emerging-artists-spotlight/ | title=Sobriety and Mental Health Struggles Shaped Morgan Wade's Debut Album: Emerging Artists Spotlight | publisher=Billboard | date=April 2, 2021 | accessdate=October 22, 2021}}</ref> ''Rolling Stone'' Country describes the album by saying that Wade has "the ragged edge of a singer-songwriter who’s been putting her nose to the grindstone for some time. In a voice like worn leather, Wade describes desperate, spontaneous relationships that feel the strongest when they’re at their breaking point."<ref name="stone"/>
+
+"Wilder Days" was released to radio in 2021 as the album's first single. Billy Dukes of [[Taste of Country]] described Wade's vocal presence on the song as a "hardened [[Sheryl Crow]]" and called the song "complex, with chords and a melancholy shuffle that shouts heartbreak, even if her story is at worst hesitant and thoughtful."<ref>{{cite web | url=https://tasteofcountry.com/morgan-wade-wilder-days/ | title=Morgan Wade’s ‘Wilder Days’ Is a Once-In-a-Decade Kind of Debut [Listen]   Read More: LISTEN: Morgan Wade's 'Wilder Days' Is a Rare Kind of Debut | publisher=Taste of Country | date=September 29, 2021 | accessdate=October 22, 2021}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:12em;"| Title
+! rowspan="2" style="width:16em;"| Album details
+! colspan="1"| Peak positions
+|- style="font-size:smaller;"
+! width="60"| [[Top Heatseekers|US Heat]]
+|-
+! scope="row"| ''Puppets with My Heart''
+| 
+* Release date: 2018
+* Label: Self-released
+| {{em dash}}
+|- 
+! scope="row"| ''Reckless''
+| 
+* Release date: March 19, 2021
+* Label: [[Thirty Tigers]]
+| 14
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:14em;"| Title
+! colspan="1"| Peak positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:65px;"| [[Country Airplay|US<br />Country<br />Airplay]]<br /><ref>{{cite web | url=https://bulletins.billboard.com/country/country_update_2021_1129.pdf | title=Billboard Country Update for November 29 | publisher=Billboard | date=November 29, 2021 | accessdate=November 30, 2021}}</ref>
+|- 
+| 2021
+! scope="row"| "Wilder Days"
+| 52
+| ''Reckless''
+|}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Wade, Morgan}}
+[[Category:1995 births]]
+[[Category:American women country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:Country musicians from Virginia]]
+[[Category:Living people]]
+[[Category:People from Floyd County, Virginia]]
+[[Category:Thirty Tigers artists]]
+[[Category:21st-century American women singers]]

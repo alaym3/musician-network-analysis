@@ -1,0 +1,80 @@
+{{About|the browser|the football player|Lee Falkon}}
+{{otheruses}}
+{{Short description|Web browser with built-in AdBlock}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox web browser
+| name = Falkon
+| logo = File:Breezeicons-apps-48-falkon.svg
+| screenshot = File:Falkon 3.1.0.png
+| screenshot alt = Falkon homepage
+| caption = Falkon 3.1.0
+| collapsible =
+| author = David Rosca
+| developer = [[KDE]]
+| released = {{Start date|2010|12}}
+| latest release version = {{wikidata|property|preferred|reference|edit|Q404293|P348|P548=Q2804309}}
+| latest release date = {{start date and age|{{wikidata|qualifier|Q404293|P348|P548=Q2804309|P577}}}}
+| discontinued =
+| programming language = [[C++]]
+| operating system = [[Unix-like]] ([[Linux]], [[FreeBSD]], etc),<ref>{{cite web|title=Qupzilla at Freshports|url=https://www.freshports.org/www/qupzilla|publisher=Freshports|access-date=2018-11-23}}</ref> [[Windows 7]] or later
+| included with = [[openMandriva]]<ref name="DistroWatch">{{cite web |title=DistroWatch Weekly, Issue 821, 1 July 2019 |url=https://distrowatch.com/weekly.php?issue=20190701 |access-date=4 July 2019 |date=1 July 2019}}</ref>
+| platform = [[Qt framework]]
+| size =
+| language = Multilingual
+| genre = [[Web browser]]
+| license = [[GNU General Public License|GPL-3.0-or-later]]
+| website = {{URL|https://www.falkon.org/}}
+}}
+
+'''Falkon''' (formerly '''QupZilla'''<ref name="falkon 3.0 release">{{cite web|url=https://www.phoronix.com/scan.php?page=news_item&px=Falkon-3.0-Released|title=Falkon 3.0 Released As The Successor To The QupZilla Browser|date=27 February 2018|work=[[Phoronix]]|access-date=28 February 2018}}</ref>) is a [[Free software|free]] and [[open-source software|open-source]] [[web browser]]. It is built on the [[Qt WebEngine]]<ref name="qupzilla2.0">{{cite web|url=http://blog.qupzilla.com/2016/03/qupzilla-200-released-with-qtwebengine.html| title=QupZilla 2.0.0 released with QtWebEngine! |work=QupZilla Blog |date=30 March 2016|author=David Rosca| archive-url=https://web.archive.org/web/20180228161835/http://blog.qupzilla.com/2016/03/qupzilla-200-released-with-qtwebengine.html | archive-date=28 February 2018 }}</ref><ref>{{cite web |url=https://www.root.cz/clanky/softwarova-sklizen-28-12-2011/ |title=Softwarová sklizeň |language=cs |trans-title=Software picks (28 December 2011) |first=Petr |last=Němec |work=[[cz:Root.cz|Root.cz]] |date=28 December 2011 |access-date=25 February 2012 }}</ref> which is a wrapper for the [[Chromium (web browser)|Chromium]] browser core.<ref name=chromium>{{cite web|url=https://doc.qt.io/qt-5/qtwebengine-overview.html|title=Qt WebEngine Overview - Qt WebEngine 5.11|website=doc.qt.io}}</ref>
+
+As of July 2019, [[openMandriva]] uses Falkon as the default browser instead of Firefox.<ref name="DistroWatch"/>
+
+== Features ==
+Falkon provides several icon sets and other elements to match the native look and feel of users' desktop operating systems.<ref>{{cite web |url=https://www.itweek.ru/foss/blog/foss/2406.php |title=QupZilla – браузер на основе Qt и WebKit |language=ru |trans-title=QupZilla – browser based on Qt and WebKit |first=Сергей |last=Голубев |work=[[eWeek|PC Week/RE]] |date=10 February 2012 |access-date=2018-11-23 }}</ref> Some additional features of the browser include the integration of history, [[web feed]]s and [[bookmark (digital)|bookmarks]] in a single location, the ability to take a [[screenshot]] of the entire page, and an [[Opera (web browser)|Opera]]-like "''Speed dial''" home page.<ref>{{cite web |url=http://www.freesoftwaremagazine.com/articles/qupzilla_browser_one_web_browser_three_niche_features |title=QupZilla Browser: one web browser, three niche features |first=Gary |last=Richmond |work=[[Free Software Magazine]] |date=6 January 2012 |access-date=25 February 2012 |archive-url=https://web.archive.org/web/20120111100326/http://www.freesoftwaremagazine.com/articles/qupzilla_browser_one_web_browser_three_niche_features |archive-date=11 January 2012 |url-status=dead }}</ref> It is reported to consume fewer system resources than the major general purpose browsers like [[Firefox]] and [[Google Chrome]].<ref>{{cite web |url=https://www.omgubuntu.co.uk/2011/12/qupzilla-might-just-be-the-best-browser-youve-never-heard-of/ |title=Qupzilla – the Best Browser You've Never Heard of? |first=Joey |last=Sneddon |work=OMG! Ubuntu!|date=22 December 2011 |access-date=25 February 2012 }}</ref>
+
+Falkon uses the [[Qt (software)|Qt]] [[cross-platform]] [[application framework]] and offers a built-in [[AdBlock]]. By default this adblocker whitelists the web page of Falkon's main search engine, [[DuckDuckGo]]. A "portable" (no installation) version for Windows platforms exists. Falkon is also distributed in the [[PortableApps.com|PortableApps format]].<ref>{{cite web|url=http://blog.qupzilla.com/2015/10/qupzilla-188-released.html|title=QupZilla Portable 1.8.8 (web browser) Released|date=21 October 2015|publisher=[[PortableApps.com|PortableApps]]|archive-url=https://web.archive.org/web/20170811144522/http://blog.qupzilla.com/2015/10/qupzilla-188-released.html|archive-date=11 August 2017}}</ref>
+
+== History ==
+[[File:Qupzilla Acid3 test.png|thumb|left|QupZilla v1.7.0 passed [[Acid3]] test.]]
+The project was started as a [[research project]] in 2010. The first preview release, written in [[Python (programming language)|Python]] (using [[PyQt]] library), was ready by December 2010.<ref>{{cite web|url=https://www.falkon.org/about/#history|title=History|work=falkon.org|access-date=4 July 2020}}</ref> In 2011 the [[source code]] was rewritten in [[C++]] with a goal to create a full-featured general purpose [[software portability|portable]] web browser based on [[WebKit|QtWebKit]], with the initial target being visual integration with the look and feel of multiple [[desktop environment]]s including [[Microsoft Windows]], [[GNOME]], and [[KDE|KDE Plasma]].<ref name="opennet">{{cite web |url=https://www.opennet.ru/opennews/art.shtml?num=32663 |title=Qupzilla – новый многоплатформенный web-браузер на базе Qt и WebKit |language=ru |trans-title=Qupzilla – new multiplatform web browser based on Qt and WebKit |editor-first=Maxim |editor-last=Chirkov |work=[[OpenNet (website)|OpenNet]] |date=26 December 2011 |access-date=25 February 2012 }}</ref> Version 1.6.6 (May 2014) still supported [[Windows 2000]].<ref>{{cite web|url=http://blog.qupzilla.com/2014/10/cookies-issue-build-for-mac-os-x.html|title=Cookies issue + Build for Mac OS X available!|work=Development updates on QtWebKit browser QupZilla|author=David Rosca|quote=the latest 1.8 version is not working on Windows 2000|date=10 October 2014|access-date=29 January 2015|archive-url=https://web.archive.org/web/20180326174316/http://blog.qupzilla.com/2014/10/cookies-issue-build-for-mac-os-x.html|archive-date=26 March 2018}}</ref>
+
+On 30 March 2016, QupZilla 2.0 was released. It marked the transition from QtWebKit to Qt WebEngine.<ref name="qupzilla2.0"/>
+
+On 10 August 2017, QupZilla's developer David Rosca announced in a blog post that QupZilla had become a [[KDE]] project.<ref>{{Cite web|url=http://blog.qupzilla.com/2017/08/qupzilla-is-moving-under-kde-and.html|title=QupZilla is moving under KDE and looking for new name|archive-url=https://web.archive.org/web/20180326174407/http://blog.qupzilla.com/2017/08/qupzilla-is-moving-under-kde-and.html|archive-date=26 March 2018}}</ref> After the release of Qupzilla 2.2 the project was renamed to ''Falkon''.<ref>{{cite web|url=https://www.phoronix.com/scan.php?page=news_item&px=QupZilla-Becomes-Falkon|title=QupZilla Web Browser Becomes KDE Falkon|date=25 August 2017|work=[[Phoronix]]|access-date=26 August 2017}}</ref> KDE Falkon 3.0 was released on 27 February 2018.<ref name="falkon 3.0 release"/>
+{{Clear|left}}
+
+Falkon 3.0.1 was included in [[Lubuntu 18.10]] beta but replaced with Firefox in the actual Lubuntu 18.10 release.<ref>Simon Quigley [https://lubuntu.me/cosmic-beta-released/#comment-4122977405 We've replaced Falkon with Firefox], retrieved 21 April 2020</ref>
+
+The most recent release was 3.1.0, made on 19 March 2019.<ref>{{Cite web|url=https://www.falkon.org/2019/03/19/falkon-310-released/|title=Falkon 3.1.0 released - Falkon|website=www.falkon.org|archive-url= https://archive.today/oaNPD|archive-date= 26 March 2019|url-status= live}}</ref>
+
+== See also ==
+{{Portal|Free and open-source software}}
+* [[Comparison of lightweight web browsers]]
+* [[Comparison of web browsers]]
+* [[List of web browsers]]
+* [[List of web browsers for Unix and Unix-like operating systems]]
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Commons category|QupZilla}}
+* {{Official website}}
+* [https://store.falkon.org/ Falkon Add-ons]
+* [https://invent.kde.org/network/falkon Falkon's source code repository]
+* {{Openhub|Falkon}}
+
+{{Lightweight web browsers}}
+{{Web browsers|desktop}}
+{{KDE}}
+
+{{DEFAULTSORT:Falkon}}
+[[Category:Free software programmed in C++]]
+[[Category:Free software projects]]
+[[Category:Free web browsers]]
+[[Category:Portable software]]
+[[Category:POSIX web browsers]]
+[[Category:Software based on WebKit]]
+[[Category:Software that was rewritten in C++]]
+[[Category:Web browsers that use Qt]]

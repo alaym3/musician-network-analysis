@@ -1,0 +1,401 @@
+{{pp|small=yes}}
+{{Short description|Former independent video game developer}}
+{{Use mdy dates|date=April 2020}}
+{{Infobox person
+| name               = Scott Cawthon
+| birth_name         = Scott Braden Cawthon
+| birth_date         = {{birth date and age|1978|06|04}}
+| birth_place        = [[Houston]], [[Texas]], U.S.
+| occupation         = {{hlist|Animator|author|producer|video game developer|voice actor|writer}}
+| years_active       = 1994–2021
+| known_for          = ''[[Five Nights at Freddy's]]''
+| party = [[Republican Party (United States)|Republican]]
+| children           = 5<!--Only count children that have actually been born--><ref>{{Cite web|title=Okay, this is super weird for me to point out, but|url=https://www.reddit.com/r/fivenightsatfreddys/comments/j7gg6r/okay_this_is_super_weird_for_me_to_point_out_but/g84wgaq/?context=3|url-status=live|website=reddit.com|access-date=June 13, 2021}}</ref>
+}}
+
+'''Scott Braden Cawthon''' (born June 4, 1978) is an American former<ref name=":0"/> video game developer and writer. He is the creator of the ''[[Five Nights at Freddy's]]'' media franchise, which began with the development of the [[Five Nights at Freddy's (video game)|eponymous survival horror game]] in 2014. Released [[Indie game|independently]], the game achieved popularity and obtained a [[cult following]]. Cawthon developed 10 games in the main series from 2014 until his retirement in 2021, in addition to three spin-offs. He also wrote several stories based on ''Five Nights at Freddy's'', including the novel ''[[Five Nights at Freddy's: The Silver Eyes|The Silver Eyes]]'' (2015).
+
+==Early life and work==
+Cawthon was born in [[Houston]], [[Texas]] on June 4, 1978. He is a devout [[Christians|Christian]].<ref>{{Cite web|date=2014-10-25|title=Scott Cawthon on Faith, Games and Golden Freddy|url=https://geeksundergrace.com/gaming/developer-spotlight-scott-cawthon/|access-date=2021-06-11|website=Geeks Under Grace|language=en-US}}</ref> He currently lives in [[Salado, Texas]], with his wife and five sons.
+
+Cawthon's career in game design and animation began in the 1990s. Cawthon revealed his first game (titled ''Doofas'') during a live stream;<ref>{{Citation|last=Dawko|title=Dawko's Charity Stream for American Red Cross PART 2|date=September 16, 2017|url=https://www.youtube.com/watch?v=ZEHSb9duykU&t=3s|access-date=September 17, 2017}}</ref> he made the game when he was a child. This game later became a troll game as the "demo" of ''[[Ultimate Custom Night]]''. His first official games were released in the early 2000s, one of the earliest known being ''RPG Max'', released in 2002. He later joined Hope Animation, where he created animations for children based on [[Christianity|Christian]] values.
+
+On March 19, 2007, Cawthon uploaded the first part of an eight-part series titled ''The Pilgrim's Progress'' to his YouTube channel, which was released as a full-length film on DVD two years prior.<ref>{{Cite web|title=Pilgrim’s Progress &#124; Hope Animation|url=https://hopeanimation.com/shop/pilgrims-progress/}}</ref> The animation is a retelling of [[John Bunyan]]'s [[The Pilgrim's Progress|novel of the same name]].<ref>{{Cite news|title=The Pilgrim's Progress – Christian Movie/Film DVD|work=Christian Movies All in One Place, Easy to Find! CFDb!|url=https://www.christianfilmdatabase.com/review/the-pilgrims-progress/|access-date=May 28, 2017}}</ref> After releasing ''The Pilgrim's Progress'', Cawthon developed several games, including ''Sit N' Survive'', ''Chipper and Sons Lumber Co.'', and ''The Desolate Hope''. Some of these were submitted to [[Steam (service)#Steam Greenlight|Steam Greenlight]]. While ''The Desolate Hope'' made it through the process, some games, most notably ''Chipper and Sons Lumber Co.'', were heavily criticized by prominent reviewers for having characters that moved and interacted with each other like animatronic machines. While initially discouraged, almost to the point of stopping game development completely, Cawthon eventually decided to use the animatronic-like characters to his advantage, sparking the development of ''[[Five Nights at Freddy's]]''.<ref>{{cite video game|title=Five Nights at Freddy's 3|developer=Scott Cawthon|date=March 2, 2015|platform=[[Personal computer|PC]]|scene=Ending (Nightmare)}}</ref>
+
+==''Five Nights at Freddy's''==
+{{Cleanup|section|date = June 2021|reason = This is effectively just a list and should be improved with organization.}}
+
+===Video games===
+====2014–2018: First seven installments and first spin-off====
+On June 13, 2014, Cawthon submitted ''Five Nights at Freddy's'' to Steam's Greenlight system. A trailer was released the following day on June 14 with a demo following on July 24, 2014. On July 24, 2014, he then also submitted it to [[Mod DB|IndieDB]], where it gained a massive amount of popularity. He submitted the game a third time to [[Desura]] on August 13, 2014. The game was accepted in Steam's Greenlight on August 8, 2014, and was released for $4.99. The game was well-received by critics,<ref>{{cite web|url=https://www.metacritic.com/game/pc/five-nights-at-freddys|title=Five Nights at Freddy's on Metacritic|publisher=Metacritic|access-date=September 7, 2014}}</ref> and became the subject of numerous popular [[Let's Play (video gaming)|Let's Play]] videos on YouTube. On November 10, 2014, Cawthon released the first sequel titled, ''[[Five Nights at Freddy's 2]]'' for $7.99 on [[Steam (service)|Steam]]. Soon after the release of ''Five Nights at Freddy's 2'', Cawthon removed all information from his official site and replaced it with an image of the word "offline". The website soon began to show teasers of ''[[Five Nights at Freddy's 3]]'', which was released on March 2, 2015.
+
+On July 23, 2015, Cawthon released ''[[Five Nights at Freddy's 4]]''. A free "Halloween" update was released on October 31, 2015. On September 15, 2015, Cawthon announced the development of a new [[role-playing video game]] (RPG), titled ''[[FNaF World]]''. The game is not a horror game; rather, it is a stylized RPG. It was released on January 21, 2016.<ref>{{Cite web|title = Steam Community :: Group Announcements :: Five Nights at Freddy's 4|url = http://steamcommunity.com/games/388090/announcements/detail/124202807772796833|website = steamcommunity.com|access-date = October 22, 2015}}</ref> Four days later, Cawthon pulled it from Steam, not satisfied with the results, and released an improved version on [[Game Jolt]] for free on February 8.<ref>{{Cite web|url=https://steamcommunity.com/games/388090/announcements/detail/92689497772897600|title=Steam Community :: Group Announcements :: Five Nights at Freddy's 4|website=steamcommunity.com|access-date=January 17, 2017}}</ref>
+
+On May 21, 2016, Cawthon released a teaser trailer for ''[[Five Nights at Freddy's: Sister Location]]'', featuring two new animatronics as well as circus-themed variations of Foxy and Freddy from the series. The game was released on October 7, 2016, and was generally well-received. Cawthon then released a free custom night update on December 2, with "Golden Freddy Mode" being added to the update soon after.<ref>{{Cite web|url=https://steamcommunity.com/games/506610/announcements/detail/585862253590407153|title=Steam Community :: Group Announcements :: Five Nights at Freddy's: Sister Location|website=steamcommunity.com|access-date=January 17, 2017}}</ref>
+
+On July 3, 2017, Cawthon announced the cancellation of a sixth main installment to ''Five Nights at Freddy's'', after previously stating a month earlier that a sixth game was in the works. He reasoned that it was because he had been neglecting other important things in his life, but said that he was not planning to abandon the series and may release a ''FNaF World''-styled spin-off game in the future.<ref>{{Cite web|url=https://www.gamespot.com/articles/five-nights-at-freddys-6-was-announced-then-cancel/1100-6451386/|title=Five Nights at Freddy's 6 Was Announced, Then Canceled|website=gamespot.com|date=July 3, 2017}}</ref> However, with the release of ''[[Freddy Fazbear's Pizzeria Simulator]]'' on December 4, 2017, this was confirmed to be a [[Internet troll|troll]].<ref>{{Cite web|url=https://comicbook.com/gaming/2017/12/04/five-nights-at-freddys-pizzeria-simulator/|title=Five Nights at Freddy's Creator Releases New Pizzeria Simulator|website=comicbook.com|date=December 4, 2017}}</ref><ref>{{Cite web|url=https://www.ign.com/articles/2017/12/05/new-five-nights-at-freddys-game-released-disguised-as-a-pizzeria-simulator|title=NEW FIVE NIGHTS AT FREDDY'S GAME RELEASED... DISGUISED AS A PIZZERIA SIMULATOR|website=ign.com|date=December 5, 2017}}</ref>
+
+On June 28, 2018, the seventh main installment to the series, ''[[Ultimate Custom Night]]'', was released on Steam for free. It features over 50 characters from the franchise. In Cawthon's Upcoming Projects post on Steam, he noted that the deals for the console ports have been signed, as well as more info on the [[virtual reality]] and [[augmented reality]] games. He also announced that a new book series, ''Five Nights at Freddy's: Fazbear Frights,'' is coming.<ref name=":1">{{Cite web|title=Upcoming Projects Mega-Thread! :: Ultimate Custom Night General Discussions|url=https://steamcommunity.com/app/871720/discussions/0/1733210552660120120/?tscn=1534704024|access-date=September 13, 2018|website=steamcommunity.com}}</ref> On August 27, 2018, Cawthon commented on a post regarding Fredbear's true voice in UCN, "I have a feeling we'll be seeing more of [[Kellen Goff|Kellen]] in the FNAF universe. His work isn't done yet," hinting that he is possibly developing [[Five Nights at Freddy's: Help Wanted|an eighth game.]]<ref>{{Cite web|url=https://old.reddit.com/r/fivenightsatfreddys/comments/9ajf9h/fredbear_has_a_message/e4wy0m2/?context=0|title=Fredbear has a message • r/fivenightsatfreddys|website=reddit|access-date=September 13, 2018}}</ref>
+
+====2019–2021: Eighth to tenth installments, virtual reality, and retirement====
+In early 2019, Cawthon announced that he teamed up with a small video game studio Steel Wool Studios, they will be the ones to make future ''Five Nights at Freddy's'' games, while Scott will be the main person for the storyline and animatronic designs, as well as gameplay. On May 28, 2019, Cawthon released the teased virtual game, ''[[Five Nights at Freddy's: Help Wanted]]'' for both PC & [[PlayStation VR]]. A DLC update, ''[[Five Nights at Freddy's: Help Wanted#Downloadable content|Curse of Dreadbear]]'', was released on October 23, 2019. On August 8, 2019, during the [[Five Nights at Freddy's (video game)|first game]]'s fifth anniversary, Cawthon posted a new image on his website, teasing the tenth installment for the series. It shows a modernized [[shopping mall]] containing a laser tag arena, an arcade, a large cinema, and a Freddy Fazbear's Pizza restaurant; in the main square, [[1980s|'80s-style]] versions of Freddy Fazbear, Chica, and two completely new animatronics can be seen playing for an excited crowd. In September 2019, a teaser<ref>{{Citation|title=FNAF AR Teaser|url=https://www.youtube.com/watch?v=2nExS-E7M8c|access-date=February 27, 2020}}</ref> and announcement<ref>{{Citation|title=FNAF AR: Special Delivery – Official Announcement Trailer|url=https://www.youtube.com/watch?v=Af2PqVuzexg|access-date=February 27, 2020}}</ref> trailers were posted to Illumix's YouTube channel regarding the AR game. The title was revealed to be ''[[Five Nights at Freddy's: Special Delivery]].'' It was released for free on November 25, 2019, to iOS & Android. Later, on September 29, 2019, Cawthon's website was updated with a new teaser featuring "Glamrock Freddy" and was followed by an updated teaser featuring the character Vanny from ''Five Nights at Freddy's: Help Wanted'' as a shadow.
+
+On March 24, 2020, another teaser featuring a brand new alligator-like character was posted, later revealed to be called Montgomery Gator. On April 21, 2020, the characters' names were leaked from [[Funko]]'s list of upcoming products, and the title was revealed as ''Five Nights at Freddy's: PizzaPlex''. A few hours later, on April 22, 2020, Scott Cawthon confirmed the leaks via [[Reddit]] and revealed that the title is not official and that the title is only for Funko. Cawthon also announced that the game was scheduled to release in late 2020.<ref>{{Cite web|last=Blake|first=Vikki|url=https://www.eurogamer.net/articles/2020-07-04-funko-tweets-five-nights-at-freddys-security-breach-characters-and-hints-of-a-possible-release-date|title=Funko tweets Five Nights At Freddy's Security Breach characters and hints of a possible release date|date=July 4, 2020|website=Eurogamer|language=en|access-date=September 7, 2020}}</ref> On June 12, 2020, another teaser was released, featuring the game's protagonist, an unnamed female security guard. On August 7, 2020, a teaser of Vanny was released. One day later, Scott revealed the characters Glamrock Chica and Roxanne Wolf via Reddit.
+
+On August 21, 2020, Cawthon announced his plan to help fund and publish ''Five Nights at Freddy's'' games developed by fans, bundled with previous installments in their respective series. He will not be involved in any of the creative elements, but will help with marketing and publishing support as well as appropriate licensing. The games included will be the ''One Night at Flumpty's'' series, the ''Five Nights at Candy's'' series, ''The Joy of Creation: Ignited Collection'' (consisting of the original ''The Joy of Creation'', ''The Joy of Creation: Reborn'', and ''The Joy of Creation: Story Mode''), ''Popgoes Evergreen'' (including the prologue game ''Popgoes Arcade''), and ''Five Nights at Freddy's Plus'', a remake/re-imagining of the original game.<ref>{{cite web | url = https://www.eurogamer.net/articles/2020-08-23-scott-cawthon-is-working-with-fans-to-bring-the-best-five-nights-at-freddys-fan-games-to-life | title = Scott Cawthon is working with fans to bring the best Five Nights at Freddy's fan games to life | first = Vikki | last = Blake | date = August 23, 2020 | access-date = August 23, 2020 | work = [[Eurogamer]] }}</ref> Cawthon also stated that these games will also likely come to mobile and consoles and may even have merchandise created for them. The first game to be released under this initiative was a port of ''One Night at Flumpty's'' for Android and iOS on October 31 and November 18, 2020, respectively. The second game to be released was a port of its sequel ''One Night at Flumpty's 2'' on January 20, 2021, again for Android and iOS. The next game to be released was ''One Night at Flumpty's 3'' on October 31, 2021 for PC and mobile devices, and for consoles at a later date.
+
+On September 16, 2020, during a [[PlayStation 5]] Showcase, it was revealed that ''Five Nights at Freddy's: Security Breach'' would come to PlayStation 5 featuring [[Ray tracing (graphics)|real time ray-tracing]].<ref>{{Cite web|url=https://blog.playstation.com/2020/09/16/five-nights-at-freddys-security-breach-revealed-for-ps5/|title=Five Nights at Freddy's: Security Breach revealed for PS5|date=September 16, 2020|website=PlayStation.Blog|language=en-US|access-date=September 16, 2020}}</ref> Its initial release will be on PlayStation 5, [[PlayStation 4]], and PC and will come to other platforms three months later. In December 2020, Scott posted that ''Five Nights at Freddy's: Security Breach'' was getting delayed to 2021 stating that the game was too big to be finished by the end of the year.
+
+In January 2021, on the official GeForce livestream, the second teaser trailer for ''Five Nights at Freddy's: Security Breach'' was revealed showcasing the game with the newest Nvidia GeForce graphics card. A month later, in March 2021, on the PlayStation State of Play event, the official gameplay trailer for ''Five Nights at Freddy's: Security Breach'' was revealed confirming that it will be a free-roam game, unlike the previous FNaF games. It was the most popular game on that livestream, gaining millions of views in the first 24 hours. On March 13, Cawthon also revealed multiple images for ''Security Breach'' on [[YouTuber]] Dawko's live stream.
+
+On June 16, 2021, Cawthon posted a message on his website announcing his retirement from public game development and expressing gratitude towards his followers for their ongoing support. He stated that he wished to retire in order to spend more time with his children.<ref name=":0">{{Cite news|last=McWhertor|first=Michael|title=Five Nights at Freddy’s creator says he's retiring, handing off franchise|url=https://www.polygon.com/22538276/five-nights-at-freddys-creator-retiring-scott-cawthon-fnaf-new-developer|archive-url=https://web.archive.org/web/20210617162335/https://www.polygon.com/22538276/five-nights-at-freddys-creator-retiring-scott-cawthon-fnaf-new-developer|url-status=live|archive-date=June 17, 2021|date=June 17, 2021|work=[[Polygon (website)|Polygon]]|access-date=June 17, 2021}}</ref> He stated his intention to appoint a successor to ensure that the ''Five Nights at Freddy's'' franchise would carry on, while he himself would continue to occupy a lesser role in its development. It is unknown if he will retain the ''Five Nights at Freddy's'' intellectual property, continue working on the movie, or make any further creative decisions regarding the franchise.<ref name=":0"/><ref>{{Cite news|last=Phillips|first=Tom|date=June 17, 2021|title=Days after Trump donation controversy, FNAF creator announces retirement|url=https://www.eurogamer.net/articles/2021-06-17-days-after-trump-donation-controversy-fnaf-creator-announces-retirement|url-status=live|archive-url=https://web.archive.org/web/20210617131311/https://www.eurogamer.net/articles/2021-06-17-days-after-trump-donation-controversy-fnaf-creator-announces-retirement|archive-date=June 17, 2021|access-date=June 17, 2021|website=Eurogamer|language=en}}</ref><ref>{{cite news |last=Kerr |first=Chris |title=''Five Night's At Freddy's'' creator retiring following political donation controversy |url=https://www.gamasutra.com/view/news/383660/Five_Nights_At_Freddys_creator_retiring_following_political_donation_controversy.php |archive-url=https://web.archive.org/web/20210617161839/https://www.gamasutra.com/view/news/383660/Five_Nights_At_Freddys_creator_retiring_following_political_donation_controversy.php |url-status=live |archive-date=June 17, 2021 |date=June 17, 2021 |work=[[Gamasutra]] |access-date=June 17, 2021}}</ref>
+
+===Novels===
+In December 2015, Scott Cawthon released teasers for his first novel, ''Five Nights at Freddy's: The Untold Story,'' soon to be renamed ''[[Five Nights at Freddy's: The Silver Eyes]]''. The book was released on December 17, 2015, as an e-book for [[Amazon Kindle|Amazon]]; a paperback edition is also available. According to Cawthon, the book was released earlier than its planned release date due to a mistake on Amazon's part.<ref>{{Cite news|last=Design&Trend|date=December 17, 2015|title='Five Nights at Freddy's: The Silver Eyes' Novel Released Early in Kindle And Paperback [LINK]|work=Design & Trend|url=http://www.designntrend.com/articles/66870/20151217/five-nights-at-freddys-silver-eyes-novel-released-early-kindle-paperback-link.htm|url-status=dead|access-date=May 28, 2017|archive-url=https://web.archive.org/web/20151218214646/http://www.designntrend.com/articles/66870/20151217/five-nights-at-freddys-silver-eyes-novel-released-early-kindle-paperback-link.htm|archive-date=December 18, 2015}}</ref> On June 24, 2016, Cawthon announced that he had made a three-book deal with [[Scholastic Corporation]] and that the first book (''The Silver Eyes'') would be reprinted on paperback in October that year, with the second and third being released in 2017 and 2018.<ref>{{Cite web|title=Scholastic & Scottgames, LLC Announce a New Book Series Based on the Bestselling Video Game Franchise Five Nights at Freddy's {{!}} Scholastic Media Room|url=http://mediaroom.scholastic.com/press-release/scholastic-scottgames-llc-announce-new-book-series-based-bestselling-video-game-franch|access-date=September 17, 2017|website=mediaroom.scholastic.com}}</ref>
+
+On June 27, 2017, Cawthon's second novel, ''[[Five Nights at Freddy's: The Twisted Ones]]'', was released. It was the sequel to ''The Silver Eyes'', and its story follows the main character, Charlie, who is "drawn back into the world of her father's frightening creations" when she tried to get over the events of ''The Silver Eyes''.<ref>{{Cite web|title=Five Nights at Freddy's: Twisted Ones Novel Early Copy Out, Story Details Leaked|url=https://www.google.com.sg/search?q=fnaf+the+twisted+ones&client=ms-android-xiaomi&prmd=ivn&source=lnms&tbm=nws&sa=X&ved=0ahUKEwj07KftqP7WAhVLOY8KHcNlBqUQ_AUIFCgD&biw=360&bih=564|access-date=October 20, 2017|website=thebitbag.com}}</ref> On August 29, 2017, Cawthon released the first official guidebook of ''Five Nights at Freddy's'', entitled ''The Freddy Files''. It contains character profiles, easter eggs, tips on playing the games, and theories sprouted from the franchise.<ref>{{Cite web|title='Five Nights at Freddy's: The Freddy Files' Guide Book News: New Book Reveals Secrets of the Franchise|url=http://www.christianpost.com/news/five-nights-at-freddys-the-freddy-files-guide-book-news-new-book-reveals-secrets-of-the-franchise-175913/|access-date=October 20, 2017|website=latinpost.com}}</ref>
+
+On December 26, 2017, Cawthon released the second guidebook for ''Five Nights at Freddy's'' called ''Survival Logbook''. Unlike previous book releases, ''Survival Logbook'' has no listed Amazon Kindle editions, implying that it has pages designed for physical writing as opposed to simply reading from a device. The book, disguised as a normal children's activity book, contains many things to do, including a [[word search]], grid drawing, and fill-in-the-blank activities, however, all of these were found to hold secrets involving the lore.<ref>{{Cite web|date=June 11, 2017|title=Five Nights at Freddy's: Survival Logbook': New Details About Scott Cawthon's Upcoming Book|url=https://www.christianpost.com/news/five-nights-at-freddys-survival-logbook-news-new-details-about-scott-cawthons-upcoming-book-revealed-187021/|website=The Christian Post}}</ref><ref>{{Cite web|date=June 12, 2017|title='Five Nights at Freddy's: Survival Logbook' teases at more help after release of 'The Freddy Files'|url=http://www.ibtimes.com.au/five-nights-freddys-latest-update-survival-logbook-teases-more-help-after-release-freddy-files|website=International Business Times}}</ref>
+
+On June 26, 2018, the third novel in the ''Five Nights at Freddy's'' book series, ''[[Five Nights at Freddy's: The Fourth Closet]]'', was revealed on [[Amazon (company)|Amazon.com]] and was slated for release that same day.<ref>{{cite book|last1=Cawthon|first1=Scott|title=Five Nights at Freddy's: Book 3|last2=Breed-Wrisley|first2=Kira|year=2018|isbn=978-1338139327}}</ref>
+
+On December 26, 2019, the first book in the eleven-book series, ''[[Five Nights at Freddy's#Five Nights at Freddy's: Fazbear Frights #1: Into the Pit (2019)|Fazbear Frights #1: Into the Pit]]'' was released on [[Amazon (company)|Amazon.com]] in Kindle & Paperback formats.<ref>{{Cite book|title=Into the Pit (Five Nights at Freddy's: Fazbear Frights #1)|isbn=1338576011}}</ref> The next ten books also had their release dates and titles announced over time.
+
+===Planned film===
+[[Warner Bros. Pictures]] announced in April 2015 that it had acquired the rights to adapt the series to film. [[Roy Lee]], David Katzenberg, and [[Seth Grahame-Smith]] were set to produce. Grahame-Smith stated that they would collaborate with Cawthon "to make an insane, terrifying and weirdly adorable movie".<ref>{{cite news|last=Kit|first=Borys|date=April 7, 2015|title=Video Game 'Five Nights at Freddy's' Getting Movie Treatment|newspaper=[[The Hollywood Reporter]]|url=https://www.hollywoodreporter.com/heat-vision/video-game-five-nights-at-787061|access-date=October 20, 2017}}</ref> In July 2015, [[Gil Kenan]] signed to direct the adaptation and co-write it with Tyler Burton Smith.<ref>{{cite news|last=Fleming|first=Mike Jr.|date=October 20, 2017|title=Gil Kenan To Direct 'Five Nights at Freddy's' For Warner Bros|website=[[Deadline Hollywood]]|url=https://deadline.com/2015/07/five-nights-at-freddys-gil-kenan-warner-bros-1201486628/|access-date=October 20, 2017}}</ref>
+
+In January 2017, Cawthon stated that partially due to "problems within the movie industry as a whole", the film "was met with several delays and roadblocks" and it was "back at square one", but he promised "to be involved with the movie from day one this time, and that's something extremely important to me. I want this movie to be something that I'm excited for the fanbase to see."<ref>{{Cite news|date=February 6, 2017|title=Back to basics: Five Nights at Freddy's movie update|work=Nerdvana|url=https://nerdvanamedia.com/gaming/five-nights-at-freddys-movie-update/117951/|access-date=April 17, 2017}}</ref><ref>{{Cite news|date=February 1, 2017|title='Five Nights at Freddy's' Movie Back at Square One, Says Scott Cawthon|work=iDigitalTimes.com|url=http://www.idigitaltimes.com/five-nights-freddys-movie-release-back-square-one-says-scott-cawthon-581764|access-date=April 17, 2017}}</ref>
+
+In March 2017, Cawthon [[tweeted]] a picture at [[Blumhouse Productions]], suggesting the film had a new production company.<ref>{{Cite news|date=March 28, 2017|title=Five Nights at Freddy's Movie Being Produced by Blumhouse|work=Dread Central|url=https://www.dreadcentral.com/news/220696/five-nights-freddys-movie-produced-blumhouse/|access-date=October 20, 2017}}</ref><ref>{{Cite web|title=Tease from Creator Hints at Blumhouse Making 'Five Nights at Freddy's' Movie|url=https://bloody-disgusting.com/news/3429986/tease-creator-hints-blumhouse-making-five-nights-freddys-movie/|access-date=October 20, 2017|website=Bloody Disgusting}}</ref> In May 2017, producer [[Jason Blum]] confirmed the news, claiming he was excited and working closely with Cawthon on the adaptation.<ref>{{Cite web|title='Five Nights at Freddy's' Movie Adaptation Will Work, Says Producer Jason Blum|url=http://www.christianpost.com/news/five-nights-at-freddys-news-film-adaptation-will-work-says-producer-jason-blum-185102/|access-date=October 20, 2017|website=The Christian Post}}</ref> In June 2017, Gil Kenan said he was no longer directing the ''Five Nights at Freddy's'' film after Warner Bros. Pictures' [[Turnaround (filmmaking)|turnaround]].<ref>{{Cite news|date=June 21, 2017|title=Gil Kenan on Twitter: "this is sadly correct. love FNAF and the community, hoping for a great film!"|work=Twitter|url=https://twitter.com/gilkenan/status/877695573289127936|access-date=June 27, 2017}}{{Primary source inline|date=April 2020}}</ref> On February 13, 2018, Blumhouse Productions revealed on Twitter that [[Chris Columbus (filmmaker)|Chris Columbus]] would be working on the film as a director, alongside producing it with Blum and Cawthon.<ref>{{Cite web|last=Blumhouse|date=<!--9:01&nbsp;am - -->February 12, 2018|title=Mr. Columbus, are you ready for Freddy? #FiveNightsatFreddyspic.twitter.com/4F7QEnw16x|url=https://twitter.com/blumhouse/status/963095697791873025|access-date=February 14, 2018|website=@blumhouse}}</ref>
+
+In August 2018, Scott Cawthon posted a Steam forum, in which he states that the movie will be based on the first game and that if second and third movies are made, they will be based on the second and third game, respectively.<ref name=":1" /> Later that same month, Blum tweeted that the film had a planned release window of 2020.<ref>{{Cite news|title=We are. My guess and just a guess. '20|language=en|work=Twitter|url=https://twitter.com/jason_blum/status/1030818854006448129?s=21|access-date=2018-08-20}}</ref> In November 2018, Cawthon announced that the film's script had been scrapped and it would be further delayed.<ref>{{cite web|last=McWhertor|first=Michael|date=November 12, 2018|title=Five Nights at Freddy's movie delayed, new 'AAA' game in the works|url=https://www.polygon.com/2018/11/12/18088288/five-nights-at-freddys-movie-delayed-new-aaa-game-in-the-works|access-date=November 12, 2018|website=[[Polygon (website)|Polygon]]}}</ref>
+
+On November 20, 2020, Cawthon made a post on Reddit discussing the several scrapped screenplays for the film, followed by the announcement that the film does have a finished screenplay and will begin filming in spring 2021.<ref>{{cite web|author=Aaron Perine|date=November 20, 2020|title=Five Nights at Freddy's Movie Gets Filming Date|url=https://comicbook.com/gaming/news/five-nights-at-freddys-movie-filming-date/|access-date=November 20, 2020|website=Comic Book}}</ref> However, Blum revealed in September 2021 that the film still had script issues and that Columbus was no longer attached to the project as director.<ref>{{cite web| url=https://collider.com/five-nights-at-freddys-movie-is-it-cancelled-2021/| title=‘Five Nights at Freddy's Movie: Jason Blum Reveals Chris Columbus Is No Longer Directing, but the Film Is Still Happening |first=Haleigh| last=Foutch |date=September 29, 2021| access-date=September 30, 2021 |publisher=[[Collider (website)|Collider]] |archive-url=https://web.archive.org/web/20210929200235/https://collider.com/five-nights-at-freddys-movie-is-it-cancelled-2021/ |archive-date=September 29, 2021 |url-status=live}}</ref>
+
+==Public image==
+In November 2019, Cawthon announced that he would be creating a game specifically for a fundraising event for [[St. Jude Children's Research Hospital]] hosted by [[MatPat]], who would play the game with fellow YouTubers Dawko and [[Markiplier]] on a live stream. The game, Freddy in Space 2, was released December 3<ref>{{Cite web|title=Game Jolt – Indie games for the love of it|url=https://gamejolt.com/games/freddyinspace2/452650|access-date=February 27, 2020|website=Game Jolt}}</ref> on [[Game Jolt]], and included dollar amounts hidden throughout that dictated how much Cawthon would donate following the stream. He boasted that a total of $500,000 was available to find, but warned that it was difficult and that he doubted they'd be able to find it all, as his playtester had taken five hours to complete the game. Originally, the game had a two-hour slot to be featured in the live stream; however, Markiplier continued playing after the stream had ended and managed to find a final hidden $100,000 that raised the total donation figure to $451,200. Cawthon went on to donate the full $500,000 to St. Jude's.
+
+On June 10, 2021, Cawthon trended on [[Twitter]] when his publicly available political donations were shared on Twitter. Barring a donation to [[Democratic Party (United States)|Democrat]] representative [[Tulsi Gabbard]], all the donations were to [[Republican Party (United States)|Republican]] candidates and organizations. Cawthon subsequently confirmed in a statement posted on [[Reddit]] that he is a Republican and that he has made significant financial donations in support of [[Conservatism in the United States|conservative]] political candidates, while also describing himself as "[[Anti-abortion movements|pro-life]]". He also claimed that after the donations were uncovered, he had been [[Doxing|doxed]] and had received threats of violence and home invasion. While the reaction to Cawthon's Reddit post was positive, reaction was mixed on social media sites like Twitter, <!-- The following material is removed often for being unproven. It comes from the adjacent PC Gamer citation. --> where some members of the [[LGBTQ|LGBTQ+]] community, who make up a significant portion of the fan base of the ''Five Nights at Freddy's'' franchise,<ref name="Chalk" />{{Better source needed|date=November 2021}} reacted negatively. A few days after the donations were discovered, Cawthon announced that he was retiring from professional game development, with plans to choose someone to oversee the ''Five Nights at Freddy's'' series after his retirement.<ref name="Chalk">{{cite magazine|last=Chalk|first=Andy|title=Five Nights at Freddy's creator 'won't apologize for' Trump support|url=https://www.pcgamer.com/five-nights-at-freddys-creator-wont-apologize-for-trump-support/|date=June 12, 2021|magazine=[[PC Gamer]]|access-date=June 13, 2021}}</ref><ref>{{cite news|last=Crump|first=James|date=June 13, 2021|title=Five Nights at Freddy's Scott Cawthon Won't Apologize for Supporting Trump|work=[[Newsweek]]|url=https://www.newsweek.com/scott-cawthon-donated-donald-trump-mitch-mcconnell-1600132|access-date=June 13, 2021|archive-url=https://web.archive.org/web/20210617010357/https://www.newsweek.com/scott-cawthon-donated-donald-trump-mitch-mcconnell-1600132|archive-date=June 17, 2021}}</ref><ref>{{cite news|last=Blake|first=Vikki|title=Five Nights at Freddy's creator confirms claims he has financially backed Donald Trump|url=https://www.eurogamer.net/articles/2021-06-13-five-nights-at-freddys-creator-confirms-claims-he-has-financially-backed-donald-trump|date=June 13, 2021|work=[[Eurogamer]]|access-date=June 13, 2021}}</ref><ref name="kotaku retire">{{cite web|url= https://kotaku.com/five-nights-at-freddy-s-creator-scott-cawthon-retires-a-1847118164|title=Five Nights At Freddy’s Creator Scott Cawthon Retires Amid Controversy|last=Walker|first=Ian|date=June 16, 2021|accessdate=June 16, 2021|work=[[Kotaku]]}}</ref>
+
+==Video games==
+{| class="wikitable plainrowheaders sortable"
+|-
+! scope="col" |Year
+! scope="col" |Title
+|-
+! scope="row" |1994
+|''Doofas''
+|-
+! scope="row" |1995
+|''Floppy Disk''
+|-
+! scope="row" |2002
+|''RPG Max''
+|-
+! rowspan="16" scope="row" |2003
+|''The Fifth Paradox''
+|-
+|''RPG Max 2''
+|-
+|''Lost Island''
+|-
+|''Elemage''
+|-
+|''Mega Knight''
+|-
+|''Dank Knight''
+|-
+|''Dungeon''
+|-
+|''Dinostria''
+|-
+|''Phantom Core: The Moon Mission''
+|-
+|''War''
+|-
+|''Gunball''
+|-
+|''Stellar Gun''
+|-
+|''Ships of Chaos''
+|-
+|''Legacy of Flan''
+|-
+|''Legacy of Flan 2: Flans Online''
+|-
+|''Legacy of Flan 3: Storm of Hades''
+|-
+! rowspan="3" scope="row" |2004
+|''Flannville''
+|-
+|''Junkyard Apocalypse''
+|-
+|''Moon Minions''
+|-
+! rowspan="4" scope="row" |2005
+|''Flannville 2''
+|-
+|''Metroid: Ripped Worlds''
+|-
+|''Legend of White Whale''
+|-
+|''Chup's Quest''
+|-
+! rowspan="4" scope="row" |2006
+|''The Misadventures of Sigfried the Dark Elf on a Tuesday Night''
+|-
+|''Bogart''
+|-
+|''Bogart 2: Return of Bogart''
+|-
+|''Light from Above''
+|-
+! rowspan="4" scope="row" |2007
+|''Weird Colony''
+|-
+|''M.O.O.N.''
+|-
+|''Legacy of Flan 4: Flan Rising''
+|-
+|''The Desolate Room''
+|-
+! scope="row" |2008
+|''Iffermoon''
+|-
+! rowspan="5" scope="row" |2011
+|''The Powermon Adventure!''
+|-
+|''Doomsday Picnic RPG''
+|-
+|''Slumberfish!''
+|-
+|''Slumberfish!: Catching Z's''
+|-
+|''The Pilgrim's Progress: The Video Game''
+|-
+! scope="row" |2012
+|''The Desolate Hope''
+|-
+! rowspan="8" scope="row" |2013
+|''Aquatic Critters Slots''
+|-
+|''Vegas Fantasy Jackpot''
+|-
+|''Vegas Wild Slots''
+|-
+|''Golden Galaxy''
+|-
+|''Mafia! Slot Machine''
+|-
+|''Platinum Slots Collection''
+|-
+|''Chipper and Sons Lumber Co.''
+|-
+|''Bad Waiter Tip Calculator''
+|-
+! rowspan="29" scope="row" |2014
+|''Forever Quester''
+|-
+|''Snap-A-Game: Classic RPG''
+|-
+|''Jumbo Slots Collection''
+|-
+|''Pimp My Dungeon''
+|-
+|''There is No Pause Button!''
+|-
+|''Slumberfish''
+|-
+|''Fighter Mage Bard''
+|-
+|''Use Holy Water!''
+|-
+|''Rage Quit''
+|-
+|''20 Useless Apps''
+|-
+|''Cropple''
+|-
+|''Spooky Scan''
+|-
+|''Vegas Fantasy Slots''
+|-
+|''Pogoduck''
+|-
+|''Scott's Fantasy Slots''
+|-
+|''VIP Woodland Casino''
+|-
+|''Hawaiian Jackpots''
+|-
+|''8-Bit RPG Creator''
+|-
+|''Bible Story Slots''
+|-
+|''Magnum Slots Collection''
+|-
+|''Gemsa''
+|-
+|''Fart Hotel''
+|-
+|''Chubby Hurdles''
+|-
+|''Shell Shatter''
+|-
+|''Kitty in the Crowd''
+|-
+|''Dark Prisms''
+|-
+|''Sit 'N' Survive''
+|-
+|''[[Five Nights at Freddy's (video game)|Five Nights at Freddy's]]''
+|-
+|''[[Five Nights at Freddy's 2]]''
+|-
+! rowspan="2" scope="row" |2015
+|''[[Five Nights at Freddy's 3]]''
+|-
+|''[[Five Nights at Freddy's 4]]''
+|-
+! rowspan="2" scope="row" |2016
+|''[[FNaF World]]''
+|-
+|''[[Five Nights at Freddy's: Sister Location]]''
+|-
+! scope="row" |2017
+|''[[Freddy Fazbear's Pizzeria Simulator]]''
+|-
+! scope="row" |2018
+|''[[Ultimate Custom Night]]''
+|-
+! rowspan="3" scope="row" |2019
+|''[[Five Nights at Freddy's: Help Wanted]]''
+|-
+|''[[Five Nights at Freddy's: Special Delivery]]''
+|-
+|''Freddy in Space 2''
+|-
+! rowspan="2" scope="row" |2021
+|''Security Breach: Fury's Rage''
+|-
+|''[[Five Nights at Freddy's: Security Breach]]''
+|-
+|}
+
+==Filmography==
+{| class="wikitable plainrowheaders sortable"
+|-
+! scope="col" |Year
+! scope="col" |Title
+|-
+! rowspan="5" scope="row" |2002
+|''Birdvillage: The Movie''
+|-
+|''Birdvillage Beak's Vacation''
+|-
+|''Birdvillage Beak's Adventure''
+|-
+|''Birdvillage Beak's Snowball Fight''
+|-
+|''Birdvillage Second Nest''
+|-
+! rowspan="2" scope="row" |2003
+|''A Mushsnail Tale''
+|-
+|''Return to Mushsnail: The Legend of the Snowmill''
+|-
+! scope="row" |2004
+|''Noah's Ark: Story of the Biblical Flood''
+|-
+! scope="row" |2005
+|''The Pilgrim's Progress''
+|-
+! rowspan="2" scope="row" |2006
+|''A Christmas Journey: About the Blessings God Gives''
+|-
+|''Christmas Symbols''
+|-
+! rowspan="3" scope="row" |2010
+|''Bible Plays'' series
+|-
+|''Rock 'N learn'' series
+|-
+|''The Jesus Kids' Club'' series
+|-
+! scope="row" |TBA
+|''Five Nights at Freddy's''
+|-
+|}
+
+==Bibliography==
+{| class="wikitable plainrowheaders sortable"
+|-
+! scope="col" |Year
+! scope="col" |Title
+|-
+! scope="row" | 2015
+|''[[Five Nights at Freddy's: The Silver Eyes]]''
+|-
+! scope="row" | 2017
+|''Five Nights at Freddy's: The Twisted Ones''
+|-
+! scope="row" | 2018
+|''Five Nights at Freddy's: The Fourth Closet''
+|-
+! scope="row" | 2019
+|''Five Nights at Freddy's: Fazbear Frights #1: Into the Pit''
+|-
+! rowspan="5" scope="row" | 2020
+|''Five Nights at Freddy's: Fazbear Frights #2: Fetch''
+|-
+|''Five Nights at Freddy's: Fazbear Frights #3: 1:35AM''
+|-
+|''Five Nights at Freddy's: Fazbear Frights #4: Step Closer''
+|-
+|''Five Nights at Freddy's: Fazbear Frights #5: Bunny Call''
+|-
+|''Five Nights at Freddy's: Fazbear Frights #6: Blackbird''
+|-
+! rowspan="5" scope="row" | 2021
+|''Five Nights at Freddy's: Fazbear Frights #7: The Cliffs''
+|-
+|''Five Nights at Freddy's: Fazbear Frights #8: Gumdrop Angel''
+|-
+|''Five Nights at Freddy's: Fazbear Frights #9: The Puppet Carver''
+|-
+|''Five Nights at Freddy's: Fazbear Frights #10: Friendly Face''
+|-
+|''Five Nights at Freddy's: Fazbear Frights #11: Prankster''
+|-
+! rowspan="3" scope="row" | 2022
+|''Five Nights at Freddy's: Fazbear Frights #12: Felix the Shark''
+|-
+|''Five Nights at Freddy's: Tales from the Pizzaplex #1: Lally's Game''
+|-
+|''Five Nights at Freddy's: Tales from the Pizzaplex #2''
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+* {{website|scottgames.com}}
+
+{{Five Nights at Freddy's}}
+{{Authority control}}
+
+{{DEFAULTSORT:Cawthon, Scott}}
+[[Category:Living people]]
+[[Category:American Christians]]
+[[Category:American video game designers]]
+[[Category:American video game programmers]]
+[[Category:Animators from Texas]]
+[[Category:Five Nights at Freddy's]]
+[[Category:Independent video game developers]]
+[[Category:Artists from Houston]]
+[[Category:People from Salado, Texas]]
+[[Category:Video game artists]]
+[[Category:1978 births]]
+[[Category:Texas Republicans]]

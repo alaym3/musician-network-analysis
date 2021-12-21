@@ -1,0 +1,584 @@
+{{Use mdy dates|date=October 2020}}
+{{short description|Japanese composer and pianist}}
+{{Infobox musical artist
+| name            = Yoko Shimomura
+| image           = Yoko Shimomura.jpg
+| caption         = Shimomura in 2007
+| native_name     = 下村 陽子
+| native_name_lang= ja
+| background      = non_vocal_instrumentalist
+| birth_date      = {{birth date and age|1967|10|19}}
+| birth_place     = [[Hyōgo Prefecture]], Japan
+| instrument      = [[Piano]]
+| genre           = {{hlist|[[Video game music|Video game]]|[[Electronic music|electronic]]|[[symphonic]]}}
+| occupation      = {{hlist|Composer|arranger|pianist}}
+| years_active    = 1988–present
+| label           = {{hlist|Midiplex|[[Brave Wave Productions]]}}
+| associated_acts =
+| website         = {{URL|midiplex.com}}
+}}
+{{nihongo|'''Yoko Shimomura'''|下村 陽子|Shimomura Yōko|born October 19, 1967}} is a Japanese [[composer]] and [[pianist]] primarily known for her work in [[video games]]. Shimomura has worked in the [[video game industry]] ever since graduating from the [[Osaka College of Music]] in 1988. From then until 1993, she worked for [[Capcom]], where she composed wholly or in part the scores for 16 games, including ''[[Final Fight (video game)|Final Fight]]'' and ''[[Street Fighter II: The World Warrior]]''.
+
+From 1993 until 2002, Shimomura worked for [[Square (video game company)|Square]], where she composed for a further eight games. While working for Square, she was best known for her work on the soundtrack for ''[[Kingdom Hearts (video game)|Kingdom Hearts]]'', which was her last game for the company before leaving. Starting with ''[[Mario & Luigi: Superstar Saga]]'' in 2003, she began working as an active freelancer, starting up a music production company known as Midiplex. Despite going freelance, she has continued to work on projects for [[Square Enix]], including all of the games in the [[Kingdom Hearts|''Kingdom Hearts'' series]], as well as for others such as ''[[The 3rd Birthday]]'' and ''[[Final Fantasy XV]]''.
+
+Other well known games for which she provided the music include ''[[Super Mario RPG]]'', ''[[Parasite Eve (video game)|Parasite Eve]]'', ''[[Legend of Mana]]'', ''[[Xenoblade Chronicles (video game)|Xenoblade Chronicles]]''. Her works have gained a great deal of popularity, and have been performed in multiple video game music concerts, including one, ''Sinfonia Drammatica'', that was focused half on her "greatest hits" album, ''[[Drammatica: The Very Best of Yoko Shimomura]]'', and half on the music of a previous concert. Music from several of her games have been published as arranged albums and as piano scores.
+{{TOClimit|limit=3}}
+
+==Early life==
+Shimomura was born on October 19, 1967, in [[Hyōgo Prefecture]], Japan.<ref name="Yokoprofile"/><ref>{{cite web|url=http://www.wayorecords.net/wayo/yoko-shimomura|title=Yôko Shimomura|website=Wayô Records|lang=fr|access-date=October 17, 2020}}</ref> She developed an interest for music at a young age, and started taking piano lessons "at the age of four or five".<ref name="ROCKETBABYint"/> She began composing her own music by playing the piano randomly and pretending to compose, eventually coming up with her own pieces, the first of which she says she still remembers how to play.<ref name="ROCKETBABYint"/> Shimomura attended [[Osaka College of Music]], and graduated as a piano major in 1988.
+
+Upon graduation, Shimomura intended to become a piano instructor and was extended a job offer to become a piano teacher at a music store, but as she had been an avid gamer for many years she decided to send some samples of her work to various video game companies that were recruiting at the university.<ref name="GAMASUTRAint"/> [[Capcom]] invited her in for an audition and interview, and she was offered a job there. Her family and instructors were dismayed with her change in focus, as video game music was not well respected, and "they had paid [her] tuition for an expensive music school and couldn't understand why [she] would accept such a job", but Shimomura accepted the job at Capcom anyway.<ref name="ROCKETBABYint"/><ref name="GAMASUTRAint"/>
+
+==Career==
+While working for Capcom, Shimomura contributed to the soundtracks of over 16 games, including the successful ''[[Street Fighter II: The World Warrior]]'', which she composed all but three pieces for. The first soundtrack she worked on at the company was for ''Samurai Sword'' in 1988. ''[[Final Fight (video game)|Final Fight]]'', in 1989, was her first work to receive a separate soundtrack album release, on an album of music from several Capcom games.<ref name="FinalFightalbum"/> The first soundtrack album to exclusively feature her work came a year later for the soundtrack to ''Street Fighter II''.<ref name="StreetFighteralbum"/> While she began her tenure at Capcom working on games for [[video game console]]s, by 1990 she had moved to the [[arcade game]] division.<ref name="Yokoprofile"/><ref name="GAMASUTRAint"/> She was a member of the company's in-house band [[Alph Lyla]], which played various Capcom game music, including pieces written by Shimomura. She performed live with the group on a few occasions, including playing piano during Alph Lyla's appearance at the 1992 Game Music Festival.
+
+In 1993, Shimomura left Capcom to join another game company, [[Square (video game company)|Square]]. She stated that the move was done because she was interested in writing "classical-style" music for fantasy [[role-playing game (video games)|role-playing games]]. While working for Capcom, she was in the arcade department and was unable to transfer to the console department to work on their role-playing video game series ''[[Breath of Fire]]'', although she did contribute one track to the [[Breath of Fire (video game)|first game in the series]].<ref name="GAMASUTRAint"/> Her first project at Square was the score for the [[role-playing video game]] ''[[Live A Live]]'' in 1994. While she was working on the score to ''[[Super Mario RPG]]'' the following year, she was asked to join [[Noriko Matsueda]] on the music to the futuristic [[tactical role-playing game|strategy RPG]] ''[[Front Mission]]''. Although she was overworked doing both scores and it was not the genre that she was interested in, she found herself unable to refuse after her first attempt to do so unexpectedly happened in the presence of the president of Square, Tetsuo Mizuno.<ref name="GAMASUTRAint"/> These games were followed by ''[[Tobal No. 1]]'', the last score she worked on with another composer for a decade.<ref name="Yokoprofile"/>
+
+Over the next few years, she composed the soundtrack to several games, including ''[[Parasite Eve (video game)|Parasite Eve]]'' and ''[[Legend of Mana]]''. Of all her compositions, Shimomura considers the soundtrack to ''Legend of Mana'' the one that best expresses herself and the soundtrack remains Shimomura's personal favourite.<ref name="Biography"/><ref name="ROCKETBABYint"/> ''Parasite Eve'' on the [[PlayStation]] had the first soundtrack by Shimomura that included a vocal song, as it was the first game she had written for running on a console system that had the sound capability for one.<ref name="GAMASUTRAint"/> In 2002 she wrote the score for ''[[Kingdom Hearts (video game)|Kingdom Hearts]]'', which she has said is the most "special" soundtrack to her, as well as a turning point in her career; she named the soundtracks to ''Street Fighter II'' and ''Super Mario RPG'' as the other two significant points in her life as a composer.<ref name="GMOint"/>
+
+''Kingdom Hearts'' was wildly successful, shipping more than four million copies worldwide;<ref name="KH4MIL"/> Shimomura's music was frequently cited as one of the highlights of the game, and the title track has been ranked as the fourth-best role-playing game title track of all time.<ref name="KHIGN"/><ref name="titletrack"/> The soundtrack has led to two albums of piano arrangements.<ref name="GMOint"/> ''Kingdom Hearts'' was the last soundtrack that she worked on at Square. After the release of ''Kingdom Hearts'' in 2002, Shimomura left Square for [[maternity leave]], and began work as a freelancer in 2003.<ref>{{cite web|url=http://www.ga-core.net/special/sp005_4_2.php |title=ゲームミュージック＆アニメ専門店 ga-core – ジーエー・コア – |date=May 30, 2009 |url-status=unfit |archive-url=https://web.archive.org/web/20090530082303/http://www.ga-core.net/special/sp005_4_2.php |archive-date=May 30, 2009 }}</ref> She has built on the work she did while at Square; since leaving she has composed or is composing music for eleven ''[[Kingdom Hearts]]'' games and [[Nintendo]]'s [[List of Mario role-playing games#Mario & Luigi series|''Mario & Luigi'' series]]. She has also worked on many other projects, such as ''[[Heroes of Mana]]'' and various arranged albums.<ref name="Yokoprofile"/> In February 2014, Shimomura played piano at a retrospective 25th anniversary concert at Tokyo FM Hall.<ref name="famitsu.com">{{cite web|url=http://www.famitsu.com/news/201402/12047970.html|title=『ストII』や『キングダム ハーツ』など下村陽子さん作曲活動25年間が凝縮された記念ライブが開催 - ファミ通.com}}</ref> She performed songs from games such as ''[[Kingdom Hearts (video game)|Kingdom Hearts]]'', ''[[Live a Live]]'', and ''[[Street Fighter II]]''. During the ''Beware the Forest's Mushrooms'' performance from ''[[Super Mario RPG]]'', Shimomura was joined onstage by fellow game composer [[Yasunori Mitsuda]], who played the [[Irish bouzouki]].<ref name="famitsu.com"/> She most recently composed and produced the majority of the score for ''[[Final Fantasy XV]]'', which she began writing for in 2006, a decade before the game was released.<ref name="FF15 Soundtrack">{{cite web|last1=Summers|first1=Nick|title=The 'Final Fantasy XV' soundtrack was a decade in the making|url=https://www.engadget.com/2016/10/07/yoko-shimomura-final-fantasy-xv-soundtrack/|website=Engadget|access-date=January 18, 2017}}</ref> She is also a member of music label, [[Brave Wave Productions]].<ref>{{cite web|title=Artists|url=http://www.bravewave.net/#artists-1-section|publisher=Brave Wave|access-date=January 1, 2018}}</ref>
+
+==Legacy==
+After composing soundtracks to over 45 different games, Shimomura has become one of the biggest names in video game music industry, and has been described as "one of the most famous video game music composers in the world".<ref name="Biography">{{cite web|url=http://www.vgmonline.net/yokoshimomura|title=Yoko Shimomura Profile|publisher=Game Music Online|author=Chris Greening|access-date=September 21, 2014}}</ref><ref name="GMOint"/> Shimomura's best works compilation album, titled ''[[List of Square Enix compilation albums#Drammatica|Drammatica: The Very Best of Yoko Shimomura]]'', was released in March 2008. The album contains compositions from ''Kingdom Hearts'' and many other games she worked on in full orchestration, with Shimomura stating that she chose music that was popular among fans and well-suited for orchestration, but had never been performed by an orchestra before.<ref name="M4Gint"/> In a 2008 interview with [[Music4Games]] regarding the project, Shimomura commented that with the sheet music generated for the project, she would be interested in pursuing a live performance of ''Drammatica'' for fans if the opportunity arose.<ref name="M4Gint"/> In March 2009, that wish was realized when it was announced that [[Arnie Roth]] would conduct the [[Royal Stockholm Philharmonic Orchestra]] at the concert Sinfonia Drammatica in the [[Stockholm Concert Hall]], which would combine music from the album with performances of [[Chris Hülsbeck]]'s Symphonic Shades concert. The concert took place in August 2009.<ref name="SEMOSDreport"/> In March 2007, Shimomura released her first non-video game album, ''Murmur'', an album of vocal songs sung by [[Chata]].<ref name="GMOint"/>
+
+Shimomura's music for ''Kingdom Hearts'' made up one fourth of the music of the Symphonic Fantasies concerts in September 2009, which were produced by the creators of the [[Symphonic Game Music Concerts|Symphonic Game Music Concert]] series and conducted by [[Arnie Roth]].<ref name="SymFant"/> ''Legend of Mana''{{'}}s title theme was also performed by the Australian [[Eminence Symphony Orchestra]] for its classical gaming music concert ''A Night in Fantasia 2007''.<ref name="IGNFantasia"/>
+
+Music from the original soundtrack of ''Legend of Mana'' was arranged for the piano and published by DOREMI Music Publishing. Two compilation books of music from the series have also been published as ''Seiken Densetsu Best Collection Piano Solo Sheet Music'' first and second editions, with the second including Shimomura's tracks from ''Legend of Mana''. All songs in each book have been rewritten by Asako Niwa as beginning to intermediate level piano solos, though they are meant to sound as much like the originals as possible.<ref name="SEMOsheet"/> Additionally, piano sheet music from ''Kingdom Hearts'' and ''Kingdom Hearts II'' has been published as music books by Yamaha Music Media.<ref name="YAMAHA"/>
+
+Shimomura's first dedicated concert performance outside Japan was held at the Salle Cortot in Paris in November 2015.<ref>{{cite web|last1=Huynh|first1=Christopher|title=Wayô Records to collaborate with Yoko Shimomura for concert|url=http://www.vgmonline.net/wayo-records-to-collaborate-with-yoko-shimomura-for-concert/|publisher=Game Music Online|access-date=March 30, 2015}}</ref> Later that same month, she performed at the El Plaza Condesa in Mexico City.<ref>{{cite web|title=VCON 2015 Features Yoko Shimomura, The OneUps, Metroid Metal, and Royal Corneria Airforce|url=http://www.gamasutra.com/view/pressreleases/260245/VCON_2015_Features_Yoko_Shimomura_The_OneUps_Metroid_Metaland_Royal_Corneria_Airforce.php|website=Gamasutra|access-date=December 10, 2015}}</ref> In September 2016, some of her music for ''[[Final Fantasy XV]]'' was performed by the [[London Philharmonic Orchestra]] at [[Abbey Road Studios]] in [[London]], as well as in [[Boston]], with Shimomura herself performing on piano.<ref>{{cite web|last1=Robinson|first1=Martin|title=Square Enix has taken over Abbey Road for a Final Fantasy concert tonight|url=http://www.eurogamer.net/articles/2016-09-07-square-enix-has-taken-over-abbey-road-for-a-final-fantasy-concert-tonight|website=Eurogamer|access-date=September 11, 2016}}</ref><ref name="FF15 Soundtrack"/>
+
+==Musical style and influences==
+Shimomura lists [[Ludwig van Beethoven]], [[Frédéric Chopin]], and [[Maurice Ravel]] as some of her influences on her personal website.<ref name="Yokoprofile"/> She has also stated that she has enjoyed "lounge-style jazz" for a long time.<ref name="GAMASUTRAint"/> Despite these influences and her classical training, the diverse musical styles that she has used throughout her career and sometimes in the same soundtrack include "rock, [[electronica]], [[Music of Asia|oriental]], [[ambient music|ambient]], [[industrial music|industrial]], pop, symphonic, operatic, [[chiptune]], and more".<ref name="Biography"/><ref name="ROCKETBABYint"/> She draws inspiration for her songs from things in her life that move her emotionally, which she describes as "a beautiful picture, scenery, tasting something delicious, scents that bring back memories, happy and sad things... Anything that moves my emotion gives me inspiration".<ref name="ROCKETBABYint"/> Shimomura has also stated that she comes up with most of her songs when she is doing something that is "not part of [her] daily routine, like traveling."<ref name="ROCKETBABYint"/> Although her influences are mostly classical, she has said that in her opinion her "style has changed dramatically over the years, though the passion for music stays the same."<ref name="GAMASUTRAint"/> Shimomura has said that she believes that an important part of "the creative process behind music" is to "convey a subtle message, something that comes from your imagination and sticks with the listener, without being overly specific about what it means", rather than only writing simple themes with obvious messages.<ref name="GAMASUTRAint"/> She stated her favorite composition was "Dearly Beloved" from ''Kingdom Hearts''.<ref name="GMOint"/>
+
+==Works==
+===Video games===
+====Composition====
+{| class="wikitable sortable" style="text-align:center;" width="auto"
+|+ {{sronly|Video game compositions}}
+! scope="col" | Year
+! scope="col" | Title
+! scope="col" | Notes
+! scope="col" | Ref.
+|-
+!scope="row" | 1988
+|''Samurai Sword''
+|
+|<ref name="ROCKETBABYint" />
+|-
+!scope="row" | 1989
+|''[[Final Fight (video game)|Final Fight]]''
+|Composed "Round 5: Bay Area 2 & 3"
+|<ref name="ROCKETBABYint" />
+|-
+! scope="row" rowspan="6" |1990
+|''[[Code Name: Viper]]''
+|All tracks except Stage 1 by Junko Tamiya (uncredited)
+|<ref>{{cite web|last=Tamiya|first=Junko|title=Junko Tamiya Interview: Creating Capcom's Incredible NES Scores|url=http://www.vgmonline.net/junkotamiyainterview/|access-date=May 20, 2014|publisher=Game Music Online}}</ref>
+|-
+|''[[Gargoyle's Quest]]'' 
+|with [[Harumi Fujita]] (uncredited)
+|<ref name="ROCKETBABYint" />
+|-
+|''[[Adventures in the Magic Kingdom]]''
+|
+|<ref name="ROCKETBABYint" />
+|-
+|''Mizushima Shinji no Daikoushien''
+|
+|<ref name="creditdue2">{{cite web|date=January 1, 2008|title=Yoko Shimomura's Works|url=http://www.midiplex.com/works.html|access-date=May 19, 2020|publisher=Yoko Shimomura’s Website}}</ref>
+|-
+|''[[Nemo (arcade game)|Nemo]]''
+|
+|<ref name="ROCKETBABYint" />
+|-
+|''Mahjong School: The Super O Version''
+|with Masaki Izutani (uncredited)
+|<ref name="creditdue2" />
+|-
+! scope="row" rowspan="3" |1991
+|''[[Street Fighter II: The World Warrior]]''
+|with Isao Abe
+|<ref name="GAMASUTRAint" />
+|-
+|''[[The King of Dragons]]'' 
+|
+|<ref name="ROCKETBABYint" />
+|-
+|''[[Block Block]]''
+| rowspan="2" |with Masaki Izutani
+|<ref name="creditdue2" />
+|-
+!scope="row" | 1992
+|''[[Varth: Operation Thunderstorm]]''
+|<ref name="ROCKETBABYint" />
+|-
+! scope="row" rowspan="2" |1993
+|''[[Breath of Fire (video game)|Breath of Fire]]''
+|composed "Trade City"
+|<ref name="GAMASUTRAint" />
+|-
+|''[[The Punisher (1993 video game)|The Punisher]]''
+|with Isao Abe
+|<ref name="ROCKETBABYint" />
+|-
+!scope="row" | 1994
+|''[[Live A Live]]''
+|
+|<ref name="ROCKETBABYint" />
+|-
+!scope="row" | 1995
+|''[[Front Mission (video game)|Front Mission]]''
+|with [[Noriko Matsueda]]
+|<ref name="ROCKETBABYint" />
+|-
+! scope="row" rowspan="2" |1996
+|''[[Super Mario RPG]]''
+|
+|<ref name="ROCKETBABYint" />
+|-
+|''[[Tobal No. 1]]''
+|with several others
+|<ref name="Yokoprofile" />
+|-
+!scope="row" | 1998
+|''[[Parasite Eve (video game)|Parasite Eve]]''
+|
+|<ref name="ROCKETBABYint" />
+|-
+!scope="row" | 1999
+|''[[Legend of Mana]]''
+|
+|<ref name="legend">{{cite web|author=Goldner, Sam|date=September 6, 2019|title=The Composer of Kingdom Hearts Has Never Stopped Reinventing Herself|url=https://www.vice.com/en_us/article/pa7gnz/the-composer-of-kingdom-hearts-has-never-stopped-reinventing-herself|access-date=May 16, 2020|publisher=Vice}}</ref>
+|-
+!scope="row" | 2000
+|''[[Hataraku Chocobo]]''
+|
+|<ref name="ROCKETBABYint" />
+|-
+!scope="row" | 2002
+|''[[Kingdom Hearts (video game)|Kingdom Hearts]]''
+|
+|<ref name="ROCKETBABYint" />
+|-
+!scope="row" | 2003
+|''[[Mario & Luigi: Superstar Saga]]''
+|
+|<ref name="GMOint" />
+|-
+!scope="row" | 2004
+|''[[Kingdom Hearts: Chain of Memories]]''
+|
+|<ref name="ROCKETBABYint" />
+|-
+! scope="row" rowspan="3" |2005
+|''[[Pop'n Music|Pop'n Music 13 Carnival]]''
+| composed "Majestic Fire"
+|<ref name="popping">{{cite web|author=Greening, Chris|date=September 30, 2009|title=Yoko Shimomura Interview: From Stockholm and Cologne|url=http://www.vgmonline.net/yokoshimomurainterview/|access-date=May 18, 2020|publisher=Video Game Music Online}}</ref>
+|-
+|''[[Mario & Luigi: Partners in Time]]''
+|
+|<ref name="GMOint" />
+|-
+|''[[Kingdom Hearts II]]''
+|
+|<ref name="GMOint" />
+|-
+!scope="row" | 2006
+|''[[Monster Kingdom: Jewel Summoner]]''
+|with several others
+|<ref name="ROCKETBABYint" />
+|-
+! scope="row" rowspan="2" |2007
+|''[[Heroes of Mana]]''
+|
+|<ref name="Yokoprofile" />
+|-
+|''[[Kingdom Hearts: Chain of Memories#Re:Chain of Memories|Kingdom Hearts Re:Chain of Memories]]''
+|
+|<ref name="GMOint" />
+|-
+!scope="row" | 2008
+|''[[Luminous Arc 2]]''
+|with [[Akari Kaida]], [[Yoshino Aoki]], and Shunsuke Nakamura
+|<ref name="luminoustwo">{{cite web|author=Tong, Sophia|date=October 28, 2008|title=Luminous Arc 2 Hands-On|url=https://www.gamespot.com/articles/luminous-arc-2-hands-on/1100-6200151/|access-date=May 18, 2020|publisher=GameSpot}}</ref>
+|-
+! scope="row" rowspan="3" |2009
+|''[[Mario & Luigi: Bowser's Inside Story]]''
+|
+|<ref name="GMOint" />
+|-
+|''[[Kingdom Hearts 358/2 Days]]''
+|
+|<ref name="GMOint" />
+|-
+|''[[Pop'n Music|Pop'n Music 17 The Movie]]''
+| composed "Twin Hero - Oath to Tomorrow"
+|<ref name="popping" />
+|-
+! scope="row" rowspan="7" |2010
+|''[[Kingdom Hearts Birth by Sleep]]''
+|with [[Tsuyoshi Sekito]] and [[Takeharu Ishimoto]]
+|<ref name="GMOint" />
+|-
+|''[[Kingdom Hearts coded]]''
+|
+|<ref name="recoded">{{cite web|author=Hernandez, Pedro|date=January 26, 2011|title=Kingdom Hearts Re:Coded|url=http://www.nintendoworldreport.com/review/24942/kingdom-hearts-recoded-nintendo-ds|access-date=May 16, 2020|publisher=Nintendo World Report}}</ref>
+|-
+|''[[Xenoblade Chronicles (video game)|Xenoblade Chronicles]]''
+|with Manami Kiyota and ACE+{{efn|Tomori Kudo, Hiroyo "CHiCO" Yamanaka, Kenji Hiramatsu}}
+|<ref name="xeno">{{cite web|author=Sahdev, Ishaan|date=May 11, 2011|title=Why Yasunori Mitsuda And Yoko Shimomura Were Chosen For Xenoblade Chronicles|url=https://www.siliconera.com/why-yasunori-mitsuda-and-yoko-shimomura-were-chosen-for-xenoblade-chronicles/|access-date=May 17, 2020|publisher=Siliconera}}</ref>
+|-
+|''[[Last Ranker]]''
+|
+|<ref name="GMOint" />
+|-
+|''[[Kingdom Hearts Re:coded]]''
+|
+|<ref name="recoded" />
+|-
+|''[[Radiant Historia]]''
+|
+|<ref name="Kevin2010">{{cite web|author=Kevin Gifford|date=July 28, 2010|title=Atlus Announces Radiant Historia|url=http://www.1up.com/do/newsStory?cId=3180612|archive-url=https://archive.today/20130116001056/http://www.1up.com/news/atlus-announces-radiant-historia|archive-date=January 16, 2013|access-date=August 1, 2010|publisher=[[1UP.com]]}}</ref>
+|-
+|''[[The 3rd Birthday]]''
+|with Tsuyoshi Sekito and Mitsuto Suzuki
+|<ref name="GMOint" />
+|-
+!scope="row" | 2011
+|''[[Half-Minute Hero: The Second Coming]]''
+|with several others
+|
+|-
+! scope="row" rowspan="2" |2012
+|''[[Kingdom Hearts 3D: Dream Drop Distance]]''
+|with Tsuyoshi Sekito and Takeharu Ishimoto
+|<ref name="IGN Review">{{cite web|author=Drake, Audrey|date=July 17, 2012|title=Kingdom Hearts 3D: Dream Drop Distance Review|url=http://www.ign.com/articles/2012/07/17/kingdom-hearts-3d-dream-drop-distance-review|url-status=live|archive-url=https://www.webcitation.org/6JFGv0AxZ?url=http://www.ign.com/articles/2012/07/17/kingdom-hearts-3d-dream-drop-distance-review|archive-date=August 29, 2013|access-date=July 19, 2012|publisher=[[IGN]]}}</ref>
+|-
+|''[[Demons' Score]]''
+| composed "Azazel del cielo ardiente"
+|<ref name="demonz">{{cite web|author=Kubba, Sinan|date=September 19, 2012|title=Demons' Score, Square Enix's new rhythm game, now available on iOS|url=https://www.engadget.com/2012-09-19-demons-score-square-enixs-new-rhythm-game-now-available-on-i.html|access-date=May 18, 2020|publisher=Engadget}}</ref>
+|-
+! scope="row" rowspan="3" |2013
+|''[[Mario & Luigi: Dream Team]]''
+|
+|<ref>{{cite web|title=マリオ＆ルイージRPG4: 音楽室|url=https://www.nintendo.co.jp/3ds/aymj/music/index.html|access-date=June 13, 2013}}</ref>
+|-
+|''[[Kingdom Hearts χ]]''
+|
+|<ref name="ex">{{cite web|author=Musgrave, Shaun|date=April 15, 2016|title='Kingdom Hearts: Unchained Chi' Review – Neither Simple Nor Clean|url=https://toucharcade.com/2016/04/15/kingdom-hearts-unchained-chi-review/|access-date=May 18, 2020|publisher=Touch Arcade}}</ref>
+|-
+|''[[Exstetra]]''
+| composed "Main Theme"
+|<ref name="exist">{{cite web|author=kevingifford|date=May 29, 2013|title=Exstetra to hit 3DS and Vita in Japan this fall|url=https://www.polygon.com/2013/5/29/4375334/exstetra-a-new-tales-ish-rpg-to-hit-3ds-and-vita-in-japan/comment/165099735|access-date=May 18, 2020|publisher=Polygon}}</ref>
+|-
+!scope="row" rowspan="3" |2014
+|''[[Rise of Mana]]''
+| composed "Where the Heart Beats Free"
+|
+|-
+|''[[Terra Battle]]''
+|three tracks only
+|<ref name="terrific">{{cite web|author=Priestman, Chris|date=February 13, 2015|title=SaGa Composer Kenji Ito Adds Music To Terra Battle|url=https://www.siliconera.com/saga-composer-kenji-ito-adds-music-to-terra-battle/|access-date=May 18, 2020|publisher=Siliconera}}</ref>
+|-
+|''V.D. -Vanishment Day-''
+|
+|<ref>{{cite web|last1=Kotowski|first1=Don|title=V.D. -Vanishment Day- Soundtrack|url=http://www.vgmonline.net/vanishmentday/|access-date=June 24, 2018|website=Video Game Music Online}}</ref>
+|-
+! scope="row" rowspan="4" |2015
+|''Chronos Ring''
+|with [[Kenji Ito]] and Evan Call
+|<ref>{{cite web|last1=Greening|first1=Chris|title=Hamauzu, Shimomura, Ito, and Sakimoto attached to new RPG projects|url=http://www.vgmonline.net/hamauzu-shimomura-ito-and-sakimoto-attached-to-new-rpg-projects/|access-date=September 30, 2014|publisher=Game Music Online}}</ref>
+|-
+|''Chunithm: Seelisch Tact''
+| composed "Tango Rouge"
+|<ref>{{cite web|last1=Greening|first1=Chris|title=CHUNITHM Original Soundtrack -Seelisch Tact-|url=http://www.vgmonline.net/chunithm/|access-date=June 24, 2018|website=Video Game Music Online}}</ref>
+|-
+|''Kakuriyo no Mon''
+| composed "異邦の守護者"
+|<ref>{{cite web|title=かくりよの門 Original Soundtrack|url=https://itunes.apple.com/jp/album/id1053368177|access-date=December 9, 2015|publisher=iTunes|language=ja}}</ref>
+|-
+|''[[Mario & Luigi: Paper Jam]]''
+|
+|<ref name="jam">{{cite web|date=January 1, 2015|title=Miiverse hosts a Miiting with the developers of Mario & Luigi: Paper Jam.|url=https://play.nintendo.com/news-tips/news/mario-luigi-paper-jam-developer-questions-answers/|access-date=May 16, 2020|publisher=Nintendo}}</ref>
+|-
+! scope="row" rowspan="3" |2016
+|''The Alchemist Code''
+|with Shinya Tanaka and Shigeki Hayashi
+|<ref>{{cite web|last1=Couture|first1=Joel|title=Japanese SRPG For Whom The Alchemist Exists To Bring Its Tactical Battles Worldwide|url=http://www.siliconera.com/2017/09/14/japanese-srpg-alchemist-exists-bring-tactical-battles-worldwide/|access-date=January 26, 2018|website=Siliconera}}</ref>
+|-
+|''Black Knight and White Devil''
+|with Shota Kageyama
+|<ref>{{cite web|last1=Greening|first1=Chris|title=Kageyama, Shimomura record orchestral soundtrack for smartphone RPG|url=http://www.vgmonline.net/kageyama-shimomura-record-orchestral-soundtrack-for-smartphone-rpg/|access-date=June 29, 2016|website=Video Game Music Online}}</ref>
+|-
+|''[[Final Fantasy XV]]''
+|with [[Tetsuya Shibata]], [[Yoshino Aoki]], and Yoshitaka Suzuki
+|<ref name="FF15 Soundtrack" />
+|-
+! scope="row" rowspan="5" |2017
+|''[[Kingdom Hearts 0.2: Birth by Sleep – A Fragmentary Passage]]''
+|
+|<ref name="concert">{{cite web|author=Wallace, Kimberley|date=June 12, 2017|title=Kingdom Hearts Composer Talks Orchestra World Tour, Kingdom Hearts III|url=https://www.gameinformer.com/b/features/archive/2017/06/12/-interview-composer-yoko-shimomura-kingdom-hearts.aspx|access-date=May 16, 2020|publisher=Game Informer}}</ref>
+|-
+|''Magicians Dead Next Blazing''
+|with Masato Kouda and Makoto Iida
+|<ref>{{cite tweet|user=midiplex|author=Yoko Shimomura|title=私が3曲参加している『マジシャンズデッド NEXT ブレイジング』のサントラが、が7/21(金)に発売決定です〜。ゲームも大型アップデートされましたー！サントラでも、熱いバトル曲を是非是非聴いて頂けると嬉しいです〜！|number=885847660795576320|language=Japanese|date=July 14, 2017}}</ref>
+|-
+|''Egglia: Legend of the Red Cap''
+|with [[Yoshitaka Hirota]]
+|<ref>{{cite tweet|user=midiplex|author=Yoko Shimomura|title=というわけで、本日、私と弘田佳孝氏（@kulko_yh）で音楽を担当している『エグリア』リリースされました！是非是非遊んで頂けると嬉しいです〜(*´◡`*)|number=852484943435358210|date=April 13, 2017|language=Japanese}}</ref><ref>{{cite web|last1=Romano|first1=Sal|title=Egglia: Legend of the Redcap coming west in August|url=https://gematsu.com/2017/07/egglia-legend-redcap-coming-west-august|access-date=July 13, 2017|website=Gematsu|date=July 13, 2017}}</ref>
+|-
+|''[[Radiant Historia: Perfect Chronology]]''
+|
+|<ref name="RHPCostDetails">{{cite web|date=May 20, 2017|script-title=ja:ラジアントヒストリア パーフェクトクロノロジー オリジナルサウンドトラック発売決定！|url=https://www.atlus.co.jp/news/1611/|url-status=live|archive-url=https://web.archive.org/web/20170705150654/https://www.atlus.co.jp/news/1611/|archive-date=July 5, 2017|access-date=July 6, 2017|publisher=[[Atlus]]|language=ja}}</ref>
+|-
+|''[[Mario & Luigi: Superstar Saga + Bowser's Minions]]''
+|
+|<ref name="minions">{{cite web|author=Kemps, Heidi|date=May 1, 2018|title=Mario & Luigi: Superstar Saga + Bowser's Minions Review|url=https://www.gamespot.com/reviews/mario-and-luigi-superstar-saga-bowsers-minions-rev/1900-6416785/|access-date=May 18, 2020|publisher=GameSpot}}</ref>
+|-
+! scope="row" rowspan="2" |2018
+|''[[Million Arthur: Arcana Blood]]''
+|
+|<ref>{{cite web|last1=Heaney|first1=Duncan|title=Million Arthur: Arcana Blood out now on Steam!|url=https://square-enix-games.com/en_US/news/million-arthur-arcana-blood-out-now-steam|access-date=June 24, 2019|website=square-enix-games.com}}</ref>
+|-
+|''[[Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey]]''
+|
+|<ref name="bowserz">{{cite web|author=Moehnke, Mike|date=February 5, 2019|title=Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey Review|url=https://rpgamer.com/review/mario-luigi-bowsers-inside-story-bowser-jr-s-journey-review/|access-date=May 18, 2020|publisher=RPGamer}}</ref>
+|-
+! scope="row" rowspan="3" |2019
+|''[[Kingdom Hearts III]]''
+|with Tsuyoshi Sekito and Takeharu Ishimoto
+|<ref name="heartz">{{cite web|author=Wallace, Kimberley|date=January 24, 2019|title=Kingdom Hearts III Review|url=https://www.gameinformer.com/review/kingdom-hearts-iii/a-main-attraction-worth-waiting-for|access-date=May 18, 2020|publisher=Game Informer}}</ref>
+|-
+|''Rakugaki Kingdom''
+| composed "夢と幻想の円舞曲"
+|<ref>{{cite web|title=SOUND|url=https://rakugaki-kingdom.com/sound/|access-date=May 19, 2020|website=rakugaki-kingdom.com|language=ja}}</ref>
+|-
+|''Renshin no Astral''
+|with several others
+|<ref>{{cite web|date=December 26, 2019|title=落ち物デッキバトル『錬神のアストラル』配信記念インタビュー作曲家編。光田康典氏、下村陽子氏ら豪華メンバー6人が集う|url=https://automaton-media.com/articles/interviewsjp/20191226-109737/|access-date=March 6, 2020|website=automaton-media.com|language=ja}}</ref>
+|-
+!scope="row" | 2020
+|''[[Streets of Rage 4]]''
+| composed "Shiva"
+|<ref>{{cite web|last1=Hussain|first1=Tamoor|date=July 17, 2019|title=Streets Of Rage 4's Soundtrack Has Four Legendary Artists Including Yuzo Koshiro|url=https://www.gamespot.com/articles/streets-of-rage-4s-soundtrack-has-four-legendary-a/1100-6468474/|access-date=July 17, 2019|website=GameSpot}}</ref>
+|-
+!scope="row" rowspan="3" | 2021
+|''Gran Saga''
+| 
+|<ref>{{cite web |last1=Hashimoto |first1=Kazuma |title=Yoko Shimomura and K-Pop Star Taeyeon Team Up for Gran Saga's Title Song |url=https://www.siliconera.com/yoko-shimomura-taeyeon-team-up-for-gran-sagas-title-song/ |website=Siliconera |date=November 4, 2020 |access-date=1 March 2021}}</ref>
+|-
+|''Xuan-Yuan Sword VII''
+| composed "Mohism"
+|<ref>{{Cite web|last=Romano|first=Sal|date=December 17, 2020|title=Xuan-Yuan Sword VII for PS4 launches in February 2021 in the west; major update adds new boss and difficulty on December 18 |url=https://www.gematsu.com/2020/12/xuan-yuan-sword-vii-for-ps4-launches-in-february-2021-in-the-west-major-update-adds-new-boss-and-difficulty-on-december-18|website=Gematsu|access-date=October 10, 2021}}</ref>
+|-
+|''Sin Chronicle''
+|with several others
+|<ref>{{Cite web|last=Romano|first=Sal|date=October 1, 2021|title=Sega announces ‘choose your own ending RPG’ Sin Chronicle for iOS, Android|url=https://www.gematsu.com/2021/10/sega-announces-choose-your-own-ending-rpg-sin-chronicle-for-ios-android|website=Gematsu|access-date=October 3, 2021}}</ref>
+|}
+
+====Arrangements====
+{| class="wikitable sortable" style="text-align:center;" width="auto"
+|+ {{sronly|Video game arrangements}}
+!scope="col" | Year
+!scope="col" | Title
+!scope="col" | Notes
+|-
+!scope="row" | 1989
+|''[[F-1 Dream]]''
+|original music by [[Manami Matsumae]]<ref name="ROCKETBABYint" />
+|-
+!scope="row" | 1991
+|''[[Buster Bros.]]''
+|original music by [[Tamayo Kawamoto]]<ref name=creditdue>{{cite web|url= http://www.midiplex.com/works.html|access-date=May 19, 2020|date=January 1, 2008|title=Yoko Shimomura's Works|publisher=Yoko Shimomura’s Website}}</ref>
+|-
+!scope="row" | 2008
+|''[[Super Smash Bros. Brawl]]'' 
+|"[[Tetris (Game Boy)|Tetris]]: Type A", "[[Mario & Luigi: Partners in Time|Gritzy Desert]]", and "[[King Dedede]]'s Theme"<ref name="brawl">{{cite journal|author=Kohler, Chris|date=May 22, 2007|title=Smash Bros. To Boast All-Star Lineup of Musicians|journal=Wired|url=https://www.wired.com/2007/05/smash-bros-to-b/|access-date=May 18, 2020|publisher=Wired Magazine}}</ref>
+|-
+!scope="row" | 2009
+|''[[Little King's Story]]''
+|[[Maurice Ravel]]'s ''[[Boléro]]''<ref>{{cite web|last1=Sorlie|first1=Audun|title=Interview with Little King's Story composer Yutaka Minobe|url=http://www.originalsoundversion.com/interview-with-little-kings-story-composer-yutaka-minobe/|access-date=December 18, 2018|website=Original Sound Version}}</ref>
+|-
+!scope="row" | 2013
+|''[[Kingdom Hearts HD 1.5 Remix]]''
+|arrangement and orchestrations of original score<ref>{{cite web|title=Kingdom Hearts HD 1.5 Remix Original Soundtrack|url=http://www.vgmonline.net/kingdomheartshdliners/|date=April 26, 2015|access-date=November 19, 2020|website=Video Game Music Online}}</ref>
+|-
+! scope="row" rowspan="2" |2014
+|''[[Super Smash Bros. for Nintendo 3DS and Wii U]]''
+|"[[Mother (video game)|Magicant / Eight Melodies]]", "[[Mario & Luigi: Dream Team|Try, Try Again]]", "[[Pokémon Black and White|Route 10]]", and "[[Street Fighter II|Ryu Stage]]"<ref name="wiiu">{{cite web|author=Sahdev, Ishaan|date=August 22, 2014|title=These Famous Composers Are Working On Super Smash Bros. For Nintendo 3DS|url=https://www.siliconera.com/famous-composers-working-super-smash-bros-nintendo-3ds/|access-date=May 18, 2020|publisher=Siliconera}}</ref>
+|-
+|''[[Kingdom Hearts HD 2.5 Remix]]''
+|arrangement and orchestrations
+|-
+!scope="row" | 2018
+|''[[Super Smash Bros. Ultimate]]'' 
+|"[[The Legend of Zelda: Breath of the Wild|Kass' Theme]]", "[[Street Fighter II|Vega Stage]]", "[[Banjo-Kazooie (video game)|Treasure Trove Cove]]", "[[Fatal Fury 2|Pasta]]", "[[Minecraft|Dance of the Blocks]]", "[[Final Fantasy VII|Cosmo Canyon]]", "[[Tekken 7|Moonsiders 1st]]",<ref>{{cite web|last1=Farrell|first1=Reilly|title=Smash Bros. Ultimate website features music previews, details|url=http://www.vgmonline.net/smash-bros-ultimate-website-features-music-previews-details/|access-date=June 24, 2018|website=Video Game Music Online}},</ref> and "[[Kingdom Hearts (video game)|Hand in Hand]]"<ref>{{cite web|last1=Beckwith|first1=Michael|title=Super Smash Bros. Ultimate: Every Song Coming with the Sora DLC|url=https://gamerant.com/super-smash-bros-ultimate-sora-dlc-kingdom-hearts-songs/|date=October 7, 2021|access-date=October 13, 2021|website=GameRant}}</ref>
+|-
+!scope="row" | 2020
+|''[[The Wonderful 101: Remastered]]''
+|with several others<ref>{{cite web|date=March 6, 2020|title=The Wonderful 101 will get remixed tracks from Yuzo Koshiro (Etrian Odyssey), Keiichi Okabe (Nier Automata), and Yoko Shimomura (Kingdom Hearts, Street Fighter, Mario & Luigi) (!!!) #AllFor101pic.twitter.com/7lUQvgc82Z|url=https://twitter.com/CartridgeGames/status/1235969062259343360|access-date=March 26, 2020|website=@CartridgeGames|publisher=Twitter|language=en}}</ref>
+|}
+
+===Anime===
+{| class="wikitable sortable" style="text-align:center;" width="auto"
+|+ {{sronly|Other works}}
+!scope="col" | Year
+!scope="col" | Title
+!scope="col" | Notes
+|-
+!scope="row" | 2004
+|''[[Dan Doh!!]]''<ref name="ROCKETBABYint" />
+| rowspan="2" |
+|-
+!scope="row" | 2005
+|''[[Best Student Council]]''<ref name="ROCKETBABYint" />
+|-
+!scope="row" | 2017
+|''[[Napping Princess]]''
+| rowspan="2" |<ref name="napping">{{cite web|date=March 23, 2018|title=Hi Score Girl Anime's Teaser Video Subtitled in English|url=https://www.animenewsnetwork.com/news/2018-03-23/hi-score-girl-anime-teaser-video-subtitled-in-english/.129415|access-date=June 1, 2018|website=[[Anime News Network]]}}</ref>
+|-
+!scope="row" | 2018
+|''[[High Score Girl]]''
+|-
+|}
+
+===Other===
+{| class="wikitable sortable" style="text-align:center;" width="auto"
+|+ {{sronly|Other works}}
+!scope="col" | Year
+!scope="col" | Title
+!scope="col" | Notes
+|-
+!scope="row" | 1989
+|''[[Sweet Home (video game)|G.S.M. 1500 series ~ Sweet Home]]''
+|arranged two tracks
+|-
+! scope="row" rowspan="2" |1992
+|''[[Captain Commando]]'' -G.S.M. Capcom 5
+| rowspan="3" |with [[Alph Lyla]]
+|-
+|''Game Music Festival ~Super Live '92~''
+|-
+!scope="row" | 1993
+|''Street Fighter II Collector's Box''
+|-
+!scope="row" | 1998
+|''Parasite Eve Remixes''<ref name="legend" />
+| rowspan="3" |with several others
+|-
+! scope="row" rowspan="2" |2004
+|''[[Phantasy Star Online Episode I & II]] Premium Arrange''
+|-
+|''[[Dark Chronicle]] Premium Arrange''<ref name="chronicle">{{cite web|author=Gann, Patrick|date=January 1, 2020|title=Dark Chronicle Premium Arrange|url=https://www.rpgfan.com/soundtracks/darkchron-pa/index.html|access-date=May 17, 2020|publisher=RPGamer}}</ref>
+|-
+!scope="row" | 2006
+|''[[Rogue Galaxy]] Premium Arrange''<ref name="ROCKETBABYint" /> 
+|with several others
+|-
+!scope="row" | 2007
+|''Murmur''
+|original album, with lyrics and vocals by [[Chata]]<ref name="GMOint" />
+|-
+!scope="row" | 2008
+|''[[Drammatica: The Very Best of Yoko Shimomura]]''<ref name="M4Gint" />
+|-
+!scope="row" | 2009
+|''[[Mushihimesama]] Double Arrange Album''<ref name="doubling">{{cite web|date=January 1, 2010|title=Mushihimesama Double Arrange Album|url=https://www.squareenixmusic.com/albums/m/mushihimesamaarr.shtml|access-date=May 18, 2020|publisher=Square Enix Music}}</ref>
+|-
+!scope="row" | 2010
+|''GeOnDan Rare Tracks Ver. 2.0''
+| rowspan="2" |with several others
+|-
+!scope="row" | 2011
+|''GeOnDan Super Rare Trax: The LAND of RISING SUN''
+|-
+!scope="row" | 2012
+|''GO! GO! Buriki Daioh!!''
+|-
+!scope="row" | 2013
+|''[[X'mas Collections II]]''<ref name="xmas2">{{cite web|title=X'mas Collections II music from Square Enix|url=http://www.square-enix.co.jp/music/sem/page/xmas2/|url-status=live|archive-url=https://www.webcitation.org/6KiP9ZvWl?url=http://www.square-enix.co.jp/music/sem/page/xmas2/|archive-date=October 28, 2013|access-date=October 28, 2013|publisher=[[Square Enix]]|language=ja}}</ref>
+|with several others
+|-
+! scope="row" rowspan="2" |2014
+|''[[memória! ~ The Very Best of Yoko Shimomura]]''<ref name="memoria">{{cite web|author=Khan, Jahanzeb|date=March 12, 2014|title=Upcoming Yoko Shimomura Album Will Feature Music From Final Fantasy XV|url=https://hardcoregamer.com/2014/03/12/upcoming-yoko-shimomura-album-will-feature-music-from-final-fantasy-xv/78036/|access-date=May 17, 2020|publisher=Hard Core Gamer}}</ref>
+|-
+|''Game Music Prayer II''<ref name="prayer">{{cite web|author=大路政志|date=April 15, 2014|title=東日本大震災義援金チャリティCD「Game Music Prayer 2」がM3などで限定リリース。49組のゲーム音楽作曲家が参加した2枚組みコンピアルバム|url=https://www.4gamer.net/games/999/G999905/20140415037/|access-date=May 17, 2020|publisher=4Gamer}}</ref>
+|with several others
+|-
+! scope="row" rowspan="2" |2019
+|''Ladderless''
+|original album by [[Oldcodex]], composed "Deeply Mind"<ref>{{cite web|title=LADDERLESS|url=https://www.oldcodex.com/disco/ladderless|access-date=October 17, 2019|website=OLDCODEX Official Website}}</ref>
+|-
+|''Nocturne''<ref>{{Cite web|title=Yoko Shimomura dedicates the track "Nocturne" in memory of late musician Jahseh Onfroy (XXXTentacion), a long-time Kingdom Hearts fan|url=https://www.kh13.com/news/yoko-shimomura-dedicates-the-track-nocturne-in-memory-of-late-musician-jahseh-onfroy-xxxtentacion-a-long-time-kingdom-hearts-fan-r3116/|access-date=2020-11-21|website=KH13 · for Kingdom Hearts|language=en-US}}</ref>
+|-
+!scope="row" | 2020
+|''[[Yucho]] Pay Original Image Song #TOKIWOMEKURUYUBI<ref>{{cite web|title=ゆうちょPayオリジナルイメージソング #時をめくる指|url=https://www.universal-music.co.jp/yorushika/products/up1as-01277/|access-date=June 27, 2020|publisher=[[Universal Music Japan]]|language=ja}}</ref>
+|-
+!scope="row" | 2021
+|''Merregnon: Land of Silence''
+| [[concert]]<ref>{{cite web|date=April 20, 2020|title=Yoko Shimomura composes for Merregnon: Land of Silence|url=https://www.gameconcerts.com/en/news/details/article/yoko-shimomura-komponiert-fuer-merregnon-land-of-silence/|access-date=July 3, 2020|website=gameconcerts.com}}</ref>
+|}
+
+==References==
+{{notelist}}
+{{reflist|refs=
+
+<ref name="GMOint">{{cite web|url=http://www.vgmonline.net/yokoshimomurainterview|title=Interview with Yoko Shimomura: From Stockholm and Cologne|last=Shimomura|first=Yoko|date=October 1, 2009|publisher=Game Music Online, GameMusic.net|access-date=October 9, 2009}}</ref>
+
+<ref name="ROCKETBABYint">{{cite web|url=http://www.rocketbaby.net/interviews_yoko_shimomura.shtml |title=RocketBaby's interview with Yoko Shimomura |last=Shimomura |first=Yoko |publisher=RocketBaby.com |access-date=October 9, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20021205101437/http://www.rocketbaby.net/interviews_yoko_shimomura.shtml |archive-date=December 5, 2002 }}</ref>
+
+<ref name="FinalFightalbum">''Final Fight -G.S.M. CAPCOM 3-''. [[Pony Canyon]] (May 21, 1990). PCCB-00030.</ref>
+
+<ref name="StreetFighteralbum">''Street Fighter II Image Album -G.S.M. CAPCOM-''. [[Pony Canyon]] (November 21, 1991). PCCB-00075.</ref>
+
+<ref name="KH4MIL">{{cite web| url = http://www.gamespot.com/ps2/adventure/kingdomhearts/news.html?sid=6091627| publisher = [[GameSpot]]| title = Kingdom Hearts tips scales at 4 million| date = March 17, 2004| access-date=May 18, 2007}}</ref>
+
+<ref name="KHIGN">{{cite web| url = http://ps2.ign.com/articles/371/371125p2.html| publisher = [[IGN]]| title = IGN Kingdom Hearts Review| last = Smith| first = David| date=September 16, 2002| access-date=August 14, 2007}}</ref>
+
+<ref name="titletrack">{{cite web| first = Meghan| last = Sullivan| date = August 8, 2006| title = Top Ten RPG Title Tracks| url = http://music.ign.com/articles/724/724193p1.html| publisher = [[IGN]]| access-date = August 7, 2007| url-status = dead| archive-url = https://web.archive.org/web/20070630082326/http://music.ign.com/articles/724/724193p1.html| archive-date = June 30, 2007}}</ref>
+
+<ref name="SEMOSDreport">{{cite web|url=http://www.squareenixmusic.com/features/reports/sinfoniadrammatica.shtml |title=Sinfonia Drammatica |date=August 13, 2009 |publisher=Square Enix Music Online |access-date=October 9, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20150908021834/http://www.squareenixmusic.com/features/reports/sinfoniadrammatica.shtml |archive-date=September 8, 2015 }}</ref>
+
+<ref name="M4Gint">{{cite web|url=http://www.music4games.net/Features_Display.aspx?id=269 | title=Yoko Shimomura drammatica Interview with Music4Games | publisher=[[Music4Games]] | access-date=May 28, 2008 |archive-url=https://web.archive.org/web/20080802134421/http://www.music4games.net/Features_Display.aspx?id=269 |archive-date=August 2, 2008}}</ref>
+
+<ref name="IGNFantasia">{{cite web | last=Shea | first=Cam | date=March 3, 2007 | title=A Night in Fantasia 2007&nbsp;– The Track List | url=http://cube.ign.com/articles/778/778175p1.html | publisher=[[IGN]] | access-date=August 11, 2009}}</ref>
+
+<ref name="SymFant">{{cite web|publisher=Symphonic Fantasies |url=http://www.symphonicfantasies.com/post/176557691/the-concert-program-for-symphonic-fantasies-is |title=Concert program for download |date=September 1, 2009 |access-date=November 2, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091005180113/http://www.symphonicfantasies.com/post/176557691/the-concert-program-for-symphonic-fantasies-is |archive-date=October 5, 2009 }}</ref>
+
+<ref name="SEMOsheet">{{cite web|title=Mana Series :: Sheet Music Books |url=http://www.squareenixmusic.com/series/mana/sheetmusic.shtml |publisher=Square Enix Music Online |access-date=August 11, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20150722014908/http://www.squareenixmusic.com/series/mana/sheetmusic.shtml |archive-date=July 22, 2015 }}</ref>
+
+<ref name="YAMAHA">{{cite web |url=http://www.ymm.co.jp/ |script-title=ja:ヤマハミュージックメディア − 楽譜／雑誌／音楽ソフト − |publisher=Yamaha Music Media |access-date=September 14, 2008 |language=ja}}</ref>
+
+<ref name="Yokoprofile">{{cite web|url=http://www.midiplex.com/profile.html|title=Profile|last=Shimomura|first=Yoko|publisher=Yoko Shimomura|language=ja|access-date=October 9, 2009}}</ref>
+
+<ref name="GAMASUTRAint">{{cite web|url=http://www.gamasutra.com/php-bin/news_index.php?story=24920|title=Interview: Magical Planet&nbsp;– The Music of Hiroki Kikuta & Yoko Shimomura|author=Jeriaska|date=August 31, 2009|publisher=[[Gamasutra]]|access-date=October 9, 2009}}</ref>
+}}
+
+==External links==
+{{wikiquote}}
+* {{Official website|http://www.midiplex.com/}} {{in lang|ja}}
+* {{Discogs artist|Yoko Shimomura}}
+* {{IMDb name|0793738}}
+
+{{Kingdom Hearts}}
+
+{{Authority control}}
+{{good article}}
+
+{{DEFAULTSORT:Shimomura, Yoko}}
+[[Category:1967 births]]
+[[Category:Alph Lyla members]]
+[[Category:Anime composers]]
+[[Category:Capcom people]]
+[[Category:Freelance musicians]]
+[[Category:Japanese film score composers]]
+[[Category:Japanese music arrangers]]
+[[Category:Japanese pianists]]
+[[Category:Japanese women composers]]
+[[Category:Japanese women musicians]]
+[[Category:Japanese women pianists]]
+[[Category:Living people]]
+[[Category:Musicians from Hyōgo Prefecture]]
+[[Category:Square Enix people]]
+[[Category:Video game composers]]
+[[Category:Women film score composers]]

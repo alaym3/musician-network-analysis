@@ -1,0 +1,91 @@
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist
+| name            = Zacardi Cortez
+| image           =
+| caption         =
+| image_size      =
+| birth_name      = Zacardi Renye Louis Cortez
+| alias           =
+| birth_date      = {{Birth date and age|1985|9|17|mf=y}}
+| birth_place     = [[Houston|Houston, Texas]]
+| origin          =
+| instrument      = Vocals, singer-songwriter
+| genre           = [[Christian R&B]], [[gospel music|gospel]], [[traditional black gospel]], [[urban contemporary gospel]], [[contemporary R&B]]
+| occupation      = Singer, songwriter
+| years_active    = 2012&ndash;present
+| label           = Blacksmoke, WorldWide
+| associated_acts = [[James Fortune]], [[John P. Kee]], [[Cheneta Jones]]
+| website         = {{URL|zacardicortez.com}}
+}}
+
+'''Zacardi Renye Louis Cortez''' (born September 17, 1985) is an American [[gospel music]]ian and [[Christian R&B]] artist. He started his music career, in 2012, with the release of ''The Introduction'' by Blacksmoke Records. His second album, ''REloaded'', was released by WorldWide Records in 2014. Both albums charted on the [[Billboard (magazine)|''Billboard'' magazine]] [[Top Gospel Albums|Gospel Albums]] chart. His first release was more successful with chartings on [[Billboard 200|The ''Billboard'' 200]], [[Independent Albums]], and [[R&B Albums]] charts.
+
+==Early life==
+Cortez was born in [[Houston|Houston, Texas]] on September 17, 1985,<ref name="AM Bio">{{cite web|title=Zacardi Cortez : Biography|url=http://www.allmusic.com/artist/zacardi-cortez-mn0000556650/biography|first=David|last=Jeffries|publisher=[[AllMusic]]|access-date=March 30, 2015}}</ref> as Zacardi Renye Louis Cortez.<ref name="Birth">{{cite web|title=ZACARDI CORTEZ|url=http://www.mocavo.com/Zacardi-Cortez-Texas-Birth-Record-Index-1926-1995/18255946225379598207|publisher=Texas, Birth Record Index, 1926–1995|author=Texas, Birth Record Index, 1926–1995|access-date=March 30, 2015}}</ref> His spiritual and music mentor, [[John P. Kee]], was an influence upon his life, while they were touring together, and Kee even had Cortez featured on his album in 2005, ''Live at the Fellowship''.<ref name="AM Bio"/> After this, Cortez joined in [[James Fortune]]'s band FIYA for a guest spot on ''The Transformation'' that was released in 2007.<ref name="AM Bio"/>
+
+==Music career==
+His music career got started in 2012, with the release of ''The Introduction'' by Blacksmoke Records on May 22, 2012.<ref name="AM Disc">{{cite web|title=Zacardi Cortez : Discography|url=http://www.allmusic.com/artist/zacardi-cortez-mn0000556650/discography|author=AllMusic|publisher=[[AllMusic]]|access-date=March 30, 2015|author-link=AllMusic}}</ref> This was his breakthrough release upon the [[Billboard (magazine)|''Billboard'' magazine]] charts, with it placing on [[Billboard 200|The ''Billboard'' 200]] at No. 73, [[Top Gospel Albums|Gospel Albums]] at No. 2, [[Independent Albums]] at No. 16, and [[R&B Albums]] at No. 8.<ref name="AM Awards">{{cite web|title=Zacardi Cortez : Awards|url=http://www.allmusic.com/artist/zacardi-cortez-mn0000556650/awards|author=Billboard|publisher=[[AllMusic]]|access-date=March 30, 2015|author-link=Billboard (magazine)}}</ref> He released, ''REloaded'', with WorldWide Records in 2014,<ref name="AM Disc"/> yet this only charted on the Gospel Albums at No. 10.<ref name="AM Awards"/> He performs on the single, "It's You (A Love Song)," which was released by [[Cheneta Jones]].
+
+==Discography==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions
+! scope="col" rowspan="2" style="width:16em;" | Title
+! scope="col" rowspan="2" style="width:16em;" | Album details
+! scope="col" colspan="4" | Peak chart positions<ref name="AM Awards"/>
+|-
+!style="width:3em; font-size:90%"|[[Billboard 200|US]]
+!style="width:3em; font-size:90%"|[[Top Gospel Albums|US<br>Gos]]
+!style="width:3em; font-size:90%"|[[Independent Albums|US<br>Indie]]
+!style="width:3em; font-size:90%"|[[R&B Albums|US<br>R&B]]
+|-
+!scope="row"|''The Introduction''
+|
+* Released: May 22, 2012
+* {{nowrap|Label: Blacksmoke}}
+* CD, digital download
+| 73
+| 2
+| 16
+| 8
+|-
+!scope="row"|''REloaded''
+|
+* Released: 2014
+* {{nowrap|Label: WorldWide}}
+* CD, digital download
+| –
+| 10
+| –
+| –
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Title
+! scope="col"| Year
+! scope="col"| Album
+|-
+! scope="row"| "You Don't Know"
+| 2019
+| {{n/a|Non-album single}}
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://zacardicortez.com/ Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cortez, Zacardi}}
+[[Category:1985 births]]
+[[Category:Living people]]
+[[Category:African-American songwriters]]
+[[Category:African-American Christians]]
+[[Category:Musicians from Houston]]
+[[Category:Songwriters from Texas]]
+[[Category:21st-century African-American people]]
+[[Category:20th-century African-American people]]

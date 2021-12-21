@@ -1,0 +1,365 @@
+{{Infobox musical artist
+| name            = Otherwise
+| image           = Otherwise.jpg
+| image_size      =
+| caption         =
+| alias           =
+| origin          = [[Las Vegas Valley|Las Vegas, Nevada]]
+| genre           = [[Hard rock]], [[post-grunge]], [[alternative metal]]
+| years_active    = 2003–present
+| label           = [[Century Media Records|Century Media]], [[Mascot Label Group|Mascot Records]]
+| associated_acts =
+| website         = {{URL|https://otherwisemusic.com/}}
+| current_members = Adrian Patrick<br>Ryan Patrick<br>Nick Bedrosian<br>Joe Conner
+| past_members    = Tony "The Beast" Carboney<br>Flavio Ivan Mendoza<br>Don DW King<br>Vassilios Metropoulos<br>Corky Gainsford<br>Andrew Pugh<br>Jason Juadines<br>Ted Carrasco<br>Ray Kemple<br>Alan Doucette<br>Dave McMahan<br>Brian Medeiros<br>
+}}
+
+'''Otherwise''' is an American [[hard rock]] band from [[Las Vegas Valley|Las Vegas, Nevada]]. They have released four full-length albums on the Sony Music-owned label [[Century Media Records]], titled ''True Love Never Dies'' (2012), ''Peace at All Costs'' (2014) ''Sleeping Lions'' (2017) and Defy (2019). Prior to signing their record deal with Century Media, as an unsigned band they released one self-titled full-length album (2006) and one EP titled ''Some Kind of Alchemy'' (2009). The band was discovered by music industry executive Clay Busch and the bands hit song “Soldiers” was debuted on Sirius XM Octane by Jose Mangin. The band is the first unsigned artist to chart #1 on Sirius XM Octane with the song “Soldiers”.
+
+In 2018, it was announced that the band had signed to [[Mascot Records]], with a new studio album released on the label on November 8, 2019.<ref>{{cite web |title=Mascot Label Group Celebrates Breakthrough Year |url=https://usa.mascotlabelgroup.com/Mascot-Label-Group-Celebrates-Breakthrough-Year |website=Mascot Label Group |access-date=12 July 2018}}</ref>
+
+==Members==
+'''Current members'''
+* Adrian Patrick – lead vocals (2003–present)
+* Ryan Patrick – lead guitar, backing vocals (2004–present)
+* Nick Bedrosian - bass (2019–present)
+* Joe Conner - drums (2019–present)
+
+'''Former members'''
+* Ted Carrasco – rhythm guitar (2003–2007)
+* Ray Kemple – bass (2004)
+* Alan Doucette – drums (2004–2007)
+* Don "DW" King – bass, backing vocals (2004–2007)
+* Radley Riego – bass (2007)<ref>{{cite web |last1=Wilson |first1=Blake |title=Issue 23 - Features - Otherwise |url=https://web.archive.org/web/20210715200636/http://www.smashmagazine.com/magazine/issue22-features-otherwise.html |website=SMASH Magazine}}</ref>
+* Walker Warren – rhythm guitar (2007)<ref>{{cite web |last1=Wilson |first1=Blake |title=Issue 23 - Features - Otherwise |url=https://web.archive.org/web/20210715200636/http://www.smashmagazine.com/magazine/issue22-features-otherwise.html |website=SMASH Magazine}}</ref>
+* Jason Juadines – rhythm guitar, backing vocals (2007–2011)
+* Flavio Ivan Mendoza – bass, backing vocals (2007–2012)
+* Dave McMahan – drums, backing vocals (2007–2010)
+* Corky Gainsford – drums, backing vocals (2010–2015)
+* Vassilios Metropolous – rhythm guitar (2011–2012), bass (2012–2014), backing vocals (2011–2014)
+* Andrew Pugh – rhythm guitar, backing vocals (2012–2016)
+* Tony "The Beast" Carboney – bass guitar, Backing Vocals (2015–2019)
+* Brian Medeiros – drums (2016–2019) (now in [[Red (band)|Red]])
+
+===Timeline===
+
+<div class="left">{{#tag:timeline|
+ImageSize = width:800 height:auto barincrement:25
+PlotArea = left:135 bottom:100 top:0 right:10
+Alignbars = justify
+DateFormat = mm/dd/yyyy
+Period = from:01/01/2003 till:{{#time: m/d/Y }}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:3
+ScaleMajor = increment:2 start:2003
+ScaleMinor = increment:1 start:2003
+
+Colors =
+ id:lv       value:red               legend:Lead_vocals
+ id:bv       value:pink              legend:Backing_vocals
+ id:lg       value:teal              legend:Lead_guitar
+ id:rg       value:brightgreen       legend:Rhythm_guitar
+ id:b        value:blue              legend:Bass
+ id:d        value:orange            legend:Drums
+ id:alb      value:black             legend:Studio_album
+ id:oth      value:gray(0.5)         legend:Other_release
+
+LineData =
+ layer:back
+ at:10/05/2006 color:alb
+ at:05/08/2012 color:alb
+ at:09/16/2014 color:alb
+ at:09/22/2017 color:alb
+ at:11/08/2019 color:alb
+ at:12/07/2009 color:oth
+ at:10/31/2013 color:oth
+ at:10/28/2016 color:oth
+ at:07/13/2018 color:oth
+ 
+BarData =
+ bar:AP        text:"Adrian Patrick"
+ bar:RP        text:"Ryan Patrick"
+ bar:TC        text:"Ted Carrasco"
+ bar:JJ        text:"Jason Juadines"
+ bar:VM        text:"Vassilios Metropolous"
+ bar:AP2       text:"Andrew Pugh"
+ bar:RK        text:"Ray Kemple"
+ bar:DD        text:"Don DW King"
+ bar:FIM       text:"Flavio Ivan Mendoza"
+ bar:TC2       text:"Tony Carboney"
+ bar:NB        text:"Nick Bedrosian"
+ bar:AD        text:"Alan Doucette"
+ bar:DM        text:"Dave McMahan"
+ bar:CG        text:"Corky Gainsford"
+ bar:BM        text:"Brian Medeiros"
+ bar:JC        text:"Joe Conner"
+
+PlotData=
+ width:15 textcolor:black align:left anchor:from shift:(11,-4)
+ bar:AP        from:start        till:end          color:lv      
+ bar:RP        from:01/01/2004   till:end          color:lg      
+ bar:RP        from:01/01/2004   till:end          color:bv      width:3
+ bar:TC        from:start        till:01/01/2007   color:rg      
+ bar:JJ        from:01/01/2007   till:01/01/2011   color:rg      
+ bar:VM        from:01/01/2011   till:01/01/2012   color:rg      
+ bar:VM        from:01/01/2012   till:01/01/2014   color:b       
+ bar:VM        from:01/01/2011   till:01/01/2014   color:bv      width:3
+ bar:AP2       from:01/01/2012   till:01/01/2016   color:rg      
+ bar:AP2       from:01/01/2012   till:01/01/2016   color:bv      width:3
+ bar:RK        from:01/01/2004   till:10/01/2004   color:b       
+ bar:DD        from:10/01/2004   till:01/01/2007   color:b       
+ bar:DD        from:10/01/2004   till:01/01/2007   color:bv      width:3
+ bar:FIM       from:01/01/2007   till:01/01/2012   color:b       
+ bar:FIM       from:01/01/2007   till:01/01/2012   color:bv      width:3
+ bar:TC2       from:01/01/2015   till:01/01/2019   color:b       
+ bar:TC2       from:01/01/2015   till:01/01/2019   color:bv      width:3
+ bar:NB        from:01/01/2019   till:end          color:b       
+ bar:NB        from:01/01/2019   till:end          color:bv      width:3
+ bar:AD        from:01/01/2004   till:01/01/2007   color:d       
+ bar:DM        from:01/01/2007   till:01/01/2010   color:d       
+ bar:DM        from:01/01/2007   till:01/01/2010   color:bv      width:3
+ bar:CG        from:01/01/2010   till:01/01/2015   color:d       
+ bar:CG        from:01/01/2010   till:01/01/2015   color:bv      width:3
+ bar:BM        from:01/01/2016   till:01/01/2019   color:d
+ bar:BM        from:01/01/2016   till:01/01/2019   color:bv      width:3
+ bar:JC        from:01/01/2019   till:end          color:d
+ bar:JC        from:01/01/2019   till:end          color:bv      width:3
+}}
+</div>
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:10em;"| Title
+! rowspan="2" style="width:24em;"| Details
+! colspan="4"| Peak chart positions
+|- style="font-size:smaller;"
+! style="width:35px;"| [[Billboard 200|US]]<br /><ref>{{cite web|url={{BillboardURLbyName|artist=Otherwise|chart=Billboard 200}}|title=Chart History - Billboard 200|work=[[Billboard (magazine)|Billboard]]|access-date=August 6, 2013}}</ref>
+! style="width:35px;"| [[Independent Albums|US<br />Independent]]<br /><ref>{{cite web|url={{BillboardURLbyName|artist=Otherwise|chart=Independent Albums}}|title=Chart History - Independent Albums|work=Billboard|access-date=August 6, 2013}}</ref>
+! style="width:35px;"| [[Top Rock Albums|US Rock]]<br /><ref>{{cite web|url={{BillboardURLbyName|artist=Otherwise|chart=all}}|title=Chart History - Hard Rock Albums|work=Billboard|access-date=August 6, 2013}}</ref>
+! style="width:40px;"| [[Top Heatseekers#Heatseekers Albums chart|US<br>Heat]]<br><ref>{{cite web|url={{BillboardURLbyName|artist=Otherwise|chart=Heatseekers Albums}}|title=Chart History - Heatseekers Albums|work=Billboard|access-date=August 6, 2013}}</ref>
+|-
+! scope="row"| ''Otherwise''
+| 
+* Released: October 5, 2006
+* Label: Independent
+* Formats: [[Compact Disc|CD]], [[music download]]
+| —
+| —
+| —
+| —
+|-
+! scope="row"| ''True Love Never Dies''
+| 
+* Released: May 8, 2012
+* Label: [[Century Media Records]], [[Mascot Records]]
+* Formats: CD, music download
+| 123
+| 18
+| 10
+| 2
+|-
+! scope="row"| ''Peace at All Costs''
+| 
+* Released: September 16, 2014
+* Label: Century Media Records
+* Formats: CD, music download
+| 49
+| 10
+| 5
+| —
+|-
+! scope="row"| ''Sleeping Lions''
+| 
+* Released: September 22, 2017
+* Label: Century Media Records
+* Formats: CD, music download
+| —
+| 30
+| —
+| —
+|-
+! scope="row"| ''Defy''
+|
+*Released: November 8, 2019
+*Label: Mascot Records
+*Formats: CD, music download
+| —
+| —
+| —
+| —
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! style="width:13em;" | Title
+! style="width:16em;" | Details
+|-
+! scope="row" | ''Some Kind of Alchemy EP''
+| 
+* Released: December 7, 2009
+* Label: Independent
+* Formats: EP, music download
+|-
+! scope="row" | ''Enjoy the Pain EP''
+| 
+* Released: October 31, 2013
+* Label: [[Century Media Records]]
+* Formats: music download
+|-
+! scope="row" | ''From the Roots: Vol. 1''
+| 
+* Released: October 28, 2016
+* Label: [[Another Century]]
+* Formats: music download
+|-
+! scope="row" | ''From the Roots: Vol. 2 EP''
+| 
+* Released: July 13, 2018
+* Label: Independent
+* Formats: music download
+|}
+
+===Singles===
+{|class="wikitable"
+!rowspan="2"|Year
+!rowspan="2"|Song
+!colspan="4"|Peak chart positions
+!rowspan="2"|Album
+|-
+!scope="col" style="width:3em;font-size:75%;" | Rock Airplay <ref name="US-Rock Airplay-singles">{{cite web|url={{BillboardURLbyName|artist=Otherwise|chart=Rock Airplay}} | title=Otherwise – Chart History: Rock Airplay | work=[[Billboard (magazine)|Billboard]] | access-date=Aug 6, 2013}}</ref>
+!scope="col" style="width:3em;font-size:75%;" | [[Active rock|US<br />Act. Rock]]<br /><ref name="US-Active-Rock-singles">{{cite web|url={{BillboardURLbyName|artist=Otherwise|chart=Active Rock}} | title=Otherwise – Chart History: Active Rock | work=[[Billboard (magazine)|Billboard]] | access-date=Aug 6, 2013}}</ref>
+!style="width:3em;font-size:75%"| [[Rock Songs|US Rock]]<ref name="US-Hot-Rock-singles">{{cite web|url={{BillboardURLbyName|artist=Otherwise|chart=Rock Songs}} | title=Otherwise – Chart History: Hot Rock Songs | work=[[Billboard (magazine)|Billboard]] | access-date=Aug 6, 2013}}</ref>
+!style="width:3em;font-size:75%"| [[Mainstream rock|US<br />Main.]] <br /><ref name="US-Mainstream-Rock-singles">{{cite web|url=https://www.billboard.com/music/otherwise/chart-history/RTT | title=Otherwise – Chart History: Mainstream Rock | work=[[Billboard (magazine)|Billboard]] | access-date=November 12, 2019}}</ref>
+|-
+|2011
+|"Soldiers"
+|align="center"|41
+|align="center"|17
+|align="center"|41
+|align="center"|20
+|align="left" rowspan="3"|''True Love Never Dies''
+|- 
+|2012
+|"I Don't Apologize (1000 Pictures)"
+|align="center"|37
+|align="center"|13
+|align="center"| —
+|align="center"|16
+|-
+|2013
+|"Die for You"
+|align="center"| —
+|align="center"|23
+|align="center"|—
+|align="center"|26
+|-
+|2014
+|"Darker Side of the Moon"
+|align="center"| —
+|align="center"|16
+|align="center"| —
+|align="center"|19
+|align="left" rowspan="2"|''Peace at All Costs''
+|- 
+|2015
+|"Coming for the Throne"
+|align="center"| —
+|align="center"|16
+|align="center"| —
+|align="center"|18
+|- 
+|2017
+|"Angry Heart"
+|align="center"| —
+|align="center"| —
+|align="center"| —
+|align="center"| —
+|''Sleeping Lions''
+|- 
+|rowspan="2"| 2019
+|"Lifted"
+|align="center"| —
+|align="center"| —
+|align="center"| —
+|align="center"| 27
+|align="left" rowspan="3"|''Defy''
+|- 
+|"Bad Trip"
+|align="center"| —
+|align="center"| —
+|align="center"| —
+|align="center"| —
+|-
+|2021
+|"Halo"
+|align="center"|-
+|align="center"|-
+|align="center"|-
+|align="center"|-
+|}
+
+===Music videos===
+{|class="wikitable"
+|-
+! Year
+! Song
+! Director
+|-
+| 2006
+| "Necropolis"
+|
+|-
+|rowspan="2"| 2010
+| "Lighthouse"
+| Allan Duncan
+|-
+| "Bloody Knuckles, Broken Glass"
+| Robert John Kley
+|-
+| 2011
+| "Soldiers"
+|
+|-
+| 2012
+| "I Don't Apologize (1000 Pictures)"
+| Robert John Kley
+|-
+| 2014
+| "Darker Side of the Moon"
+|
+|-
+| 2015
+| "Coming for the Throne"
+| Robert John Kley
+|-
+| 2017
+| "Angry Heart"
+| Mike Watts
+|-
+|rowspan="2"| 2019
+| "The Ballad of Ivan Patrick"
+| Brian Medeiros
+|-
+| "Lifted"
+| Robyn August
+|-
+| 2020
+| "Crossfire"
+| Larry Hinson
+|}
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+[[Category:American hard rock musical groups]]
+[[Category:Musical groups established in 2006]]
+[[Category:Another Century Records artists]]
+
+
+{{US-metal-band-stub}}

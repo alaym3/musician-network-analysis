@@ -1,0 +1,56 @@
+{{EngvarB|date=June 2018}}
+{{Use dmy dates|date=May 2017}}{{Infobox musical artist
+| name         = Hearts & Colors
+| image        =
+| image_size   =
+| caption      =
+| birth_place  = [[Gothenburg]], [[Sweden]]
+| Origin       = Gothenburg, Sweden
+| genre        = {{hlist|[[Pop music|Pop]]}}
+| years_active = 2014–present
+| label        = [[Island Records]]
+| website      = {{URL|facebook.com/heartsandcolors}}
+}}
+
+'''Hearts & Colors''' is a singer-songwriter duo from Gothenburg, Sweden, consisting of [[Philip Tillström]] & [[Nicolai Kjellberg]].<ref>{{Cite news|url=http://www.bornmusiconline.com/podcast/hearts-colors-share-the-feel-good-and-vibrant-too-many-friends/|title=Hearts & Colors share the feel-good and vibrant 'Too Many Friends' – Born Music|work=Born Music|access-date=2018-07-27|language=en-US}}</ref> The band formed in 2014, and started off as an [[Indie folk|indie-folk]] duo, covering artists like [[One Direction]]<ref>{{Cite news|url=https://www.youtube.com/watch?v=y0PbTHwU5OM|title=One Direction – Steal My Girl (Hearts & Colors Cover)|work=YouTube|access-date=2018-06-13|language=en}}</ref> and [[Bruno Mars]]<ref>{{Cite news|url=https://www.youtube.com/watch?v=6r1e1Q--8gY|title=Bruno Mars – The Lazy Song (Hearts & Colors Cover)|work=YouTube|access-date=2018-06-13|language=en}}</ref> on [[YouTube]]. They were initially signed to independent label Firefly entertainment,<ref>{{Cite web|url=http://hellofirefly.com/?p=763|title=Hearts & Colors – FIREFLY ENTERTAINMENT|website=hellofirefly.com|language=en-US|access-date=2018-07-27}}</ref> with their track "[[Lighthouse (Hearts & Colors song)|Lighthouse]]" by Swedish producer [[Andrelli]], amassing over 1 million views on [[YouTube]].<ref>{{Citation|last=play & cue music|title=Hearts & Colors – Lighthouse (Andrelli Remix)|date=2016-11-30|url=https://www.youtube.com/watch?v=yVE1NUwmk-Q|access-date=2018-07-27}}</ref> They later moved on to writing their own material,<ref>{{Cite news|url=https://nervemedia.org.uk/nerve/bournemouths-an-inspiring-place-qa-with-hearts-and-colors/|title="Bournemouth’s an inspiring place" – Q&A with Hearts and Colors|work=Nerve Media|access-date=2018-06-26|language=en}}</ref> and are signed with Island Records.<ref>{{Cite news|url=https://www.islandrecords.co.uk/island-artists/hearts-colors/|title=Hearts & Colors|work=Island records|access-date=2018-06-13|language=en}}</ref>
+
+The band has released four songs: "Too Many Friends" in February 2018,<ref>{{Cite news|url=http://www.clashmusic.com/news/track-of-the-day-13-hearts-colors|title=Track Of The Day – Hearts & Colors|work=Clash Magazine|access-date=2018-06-26|language=en}}</ref> and "Lying to Myself" and "Waterbed" simultaneously in June of the same year.<ref>{{Cite web|url=https://themusicsite.com/music-news/news/hearts-colors-unveil-two-new-singles|title=Hearts & Colors Unveil Two New Singles for Summer  {{!}} The Music Site|website=themusicsite.com|language=en-GB|access-date=2018-07-27}}</ref> Their fourth song "LA On A Saturday Night" was released in October 2018.<ref>{{Cite web|url=https://itunes.apple.com/us/album/la-on-a-saturday-night-single/1438180997|title=LA on a Saturday Night – Single|publisher=Itunes|access-date=2019-01-29}}</ref>
+
+==Discography==
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" | Title
+! scope="col" | Details
+|-
+| scope="row" | "Too Many Friends"<ref>{{Cite web|url=https://www.discogs.com/Hearts-And-Colors-Too-Many-Friends/master/1338389|title=Hearts & Colors – Too Many Friends|website=Discogs|language=en|access-date=2018-07-27}}</ref>
+|
+* Released: 21 Feb 2018
+* Formats: Digital download
+|-
+| scope="row" | "Waterbed"<ref>{{Cite web|url=https://www.houseofsolo.co.uk/premiere-hearts-colors-unleash-the-video-for-their-debut-single-waterbed/|title=Premiere: Hearts & Colors Unleash The Video For Their Debut Single ‘Waterbed’|website=www.houseofsolo.co.uk|language=en-GB|access-date=2018-07-27}}</ref>
+|
+* Released: 8 Jun 2018
+* Formats: Digital download
+|-
+| scope="row" | "Lying To Myself"<ref>{{cite web|url=http://ventsmagazine.com/2018/06/05/scandi-pop-hearts-colors-unveil-two-new-singles-for-summer/|title=Scandi-pop Hearts & Colors unveil two new singles for Summer|publisher=VENTS Magazine|accessdate=13 June 2018}}</ref>
+|
+* Released: 8 Jun 2018
+* Formats: Digital download
+|-
+| scope="row" | "LA On A Saturday Night"<ref>{{Cite web|url=https://celebmix.com/hearts-colors-new-single-la-on-a-saturday-night/|title=Hearts & Colors Debut New Single ‘LA On A Saturday Night’|publisher=CelebMix|access-date=2019-01-29}}</ref>
+|
+* Released: 19 Oct 2018
+* Formats: Digital download
+|}
+==References==
+{{reflist}}
+
+==External links==
+*{{Facebook|heartsandcolors|Official page}}
+{{DEFAULTSORT:Hearts and Colors}}
+[[Category:Swedish singer-songwriters]]
+[[Category:2014 establishments in Sweden]]
+[[Category:Swedish musical duos]]
+[[Category:Island Records artists]]
+[[Category:Musical groups from Gothenburg]]

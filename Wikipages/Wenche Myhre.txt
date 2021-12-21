@@ -1,0 +1,101 @@
+{{Use dmy dates|date=December 2019}}
+{{Infobox musical artist
+| honorific_prefix    = 
+| name                = Wenche Myhre
+| honorific_suffix    = 
+| image               = WenckeMyhreErfurt042009.jpg
+| image_size          = 200px
+| landscape           = 
+| alt                 = 
+| caption             = 
+| background          = solo_singer
+| birth_name          = 
+| native_name         = 
+| native_name_lang    = 
+| alias               = 
+| birth_date          = {{birth date and age|df=y|1947|02|15}}
+| birth_place         = [[Kjelsås]], Norway
+| origin              = 
+| death_date          = 
+| death_place         = 
+| genre               = [[schlager]], [[revue]]
+| occupation          = singer
+| instrument          = 
+| years_active        = 1960&ndash;present
+| label               = 
+| associated_acts     = 
+| website             = 
+}}
+[[File:Gitte, Wencke, Siw 2005 in Frankfurt.jpg|thumb|Myhre performing in 2005 in [[Frankfurt am Main]] with [[Gitte Hænning]] and [[Siw Malmkvist]]]]
+'''Wenche Synnøve Myhre''' (born 15 February 1947), in some countries known as '''Wencke Myhre''', is a Norwegian singer and actress who has had a great number of hit songs since the 1960s in the Norwegian, Danish, German as well as the [[Sweden|Swedish]] markets and languages.<ref>[http://www.snl.no/Wenche_Myhre Wenche Myhre] in [[Store norske leksikon]] {{in lang|no}}</ref><ref>[http://www.snl.no/.nbl_biografi/Wenche_Myhre/utdypning Wenche Myhre (utdyping)] in [[Store norske leksikon]] {{in lang|no}}</ref>
+
+==Early career==
+Myhre was born in [[Kjelsås]], Oslo. She got her first recording contract with composer and producer [[Arne Bendiksen]] at the age of 13, after winning a talent contest staged by ''[[Verdens Gang]]'' newspaper at the [[Chat Noir]] theatre in [[Oslo]] in 1960.<ref name=Billboard>{{cite news|title=Triple Play|url=https://books.google.com/books?id=UwsEAAAAMBAJ&pg=PA42|access-date=16 April 2015|work=[[Billboard (magazine)|Billboard]]|date=12 October 1963|page=42}}</ref> In 1963 she became the first performer to have three songs in the Top 10 at the same time. She got her first film role the same year.<ref name=Billboard/>
+
+==Eurovision==
+Myhre made her first appearance in the Norwegian heats for the [[Eurovision Song Contest 1964]] with the song "God gammel firkantet vals" which the juries placed second. She also participated in 1966, this time with two songs, "Lørdagstripp" which was placed fourth and "Vims" which came fifth.
+
+Myhre represented (Germany) in the [[Eurovision Song Contest 1968]] with the song "Ein Hoch der Liebe" where she placed sixth. It would be another fifteen years before she attempted Eurovision again and did so via the German national heat, singing "Wir beide gegen den Wind" with her son. In the same year (1983) she was one of [[Jahn Teigen]]'s chorus girls in the Norwegian final.  When Teigen won, the potential prospect of singing both for Norway and for Germany became too much and she was replaced by [[Anita Skorgan]] in the international final in Munich. In 1992 she took the third place in the Norwegian selection with "Du skal få din dag i morgen". She participated in the [[Norway in the Eurovision Song Contest 2009|Norwegian selection again]] for the [[Eurovision Song Contest 2009]] in Moscow, Russia. Wencke performed the song "Alt har en mening nå" in the second semi-final on Saturday 31 January, but she was eliminated from the competition.
+
+==Television appearances==
+In 1974 she had the first in a long series of TV shows on the German channel [[ZDF]]. The show was called ''Das ist meine Welt'' and was a musical journey through many countries with Wenche as guide. Myhre hosted the German qualifying heat for the [[Eurovision Song Contest 1986]], "Ein Lied für Bergen".
+
+In Sweden, she has worked together with [[Povel Ramel]], and has become very popular with a wide audience. She has starred in movies both in Norway and Sweden.
+
+Myhre has been married to Danish dentist Torben Friis-Møller, German movie director [[Michael Pfleghar]] and Norwegian investor [[Arthur Buchardt]]. She has four children from her two first marriages. She currently (2017) lives with Swedish musician and conductor [[Anders Eljas]] in [[Nesøya, Akershus|Nesøya]] in [[Asker]], Norway.
+
+==Major hits in Germany==
+*''Hey, kennt Ihr schon meinen Peter'' (1964)
+*''Geht ein Boy vorbei'' (1965)
+*''Beiß nicht gleich in jeden Apfel'' (1966)  # 1
+*''Komm allein'' (1967)                       # 9
+*''Ein Hoch der Liebe'' (1968)                No. 18
+*''Flower Power Kleid'' (1968)                No. 17
+*''Abendstunde hat Gold im Munde'' (1969)     No. 36
+*''Er steht im Tor'' (1969)                   # 4
+*''Er hat ein knallrotes Gummiboot'' (1970)   # 1
+*''Eine Mark für Charlie'' (1977)             # 9
+*''Lass mein Knie, Joe'' (1978)               # 5
+*''[[When Will I See You Again (Thomas Anders album)|Für immer und ewig (I'll Love You Forever)]]'' (1994)<ref>{{cite web|url= http://www.musicme.com/#/Wencke-Myhre/titres/F%C3%BCr-Immer-Und-Ewig-t549339.html?play=0731452762726-01_10 |title= musicme.com}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [http://www.kjentfolk.no/artister/myhre-wenche/ Home page]
+* [http://members.fortunecity.co.uk/wenchemyhre/wenchemyhrediscno.html Discography]
+* {{IMDb name|nm0616927}}
+
+{{s-start}}
+{{succession box |
+  before=[[Inge Brück]]<br>with ''[[Anouschka]]'' |
+  title=[[Germany in the Eurovision Song Contest]] |
+  years='''[[Eurovision Song Contest 1968|1968]]''' |
+  after=[[Siw Malmkvist]]<br>with ''[[Primaballerina]]'' |
+}}
+{{succession box
+| before= {{flagicon|SWE}} [[Pernilla Wahlgren]]
+| title= [[OGAE Second Chance Contest]] winner
+| years= [[OGAE Second Chance Contest 1992|1992]]
+| after= {{flagicon|NOR}} [[Merethe Trøan]]
+}}
+{{s-end}}
+
+{{Germany in the Eurovision Song Contest|state=collapsed}}
+{{Eurovision Song Contest 1968|state=collapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Myhre, Wenche}}
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:Eurovision Song Contest entrants of 1968]]
+[[Category:Eurovision Song Contest entrants for Germany]]
+[[Category:Schlager musicians]]
+[[Category:Melodi Grand Prix contestants]]
+[[Category:Norwegian artists]]
+[[Category:Eurovision Song Contest entrants for Norway]]
+[[Category:Norwegian women singers]]
+[[Category:People from Asker]]
+[[Category:Musicians from Oslo]]

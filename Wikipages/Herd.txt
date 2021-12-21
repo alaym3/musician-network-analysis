@@ -1,0 +1,116 @@
+{{Short description|Similar as Group}}{{Redirect|Covey|other uses|Covey (disambiguation)}}
+{{Other uses}}
+
+[[File:Sheep and herder India.jpg|right|thumb|Boy herding a flock of [[sheep]], India; a classic example of the domestic herding of animals]]
+
+[[File:Wilderbeest.jpg|thumb|[[Wildebeest]] at the Ngorongoro Crater; an example of a herd in the wild]]
+
+A '''herd''' is a social group of certain animals of the same species, either [[wildness|wild]] or [[Domestication|domestic]]. The form of [[collective animal behavior]] associated with this is called ''[[herding]]''.
+
+The term ''herd'' is generally applied to mammals, and most particularly to the grazing [[ungulate]]s that classically display this behaviour. Different terms are used for similar groupings in other species; in the case of birds, for example, the word is ''[[Flocking (behaviour)|flocking]]'', but ''flock'' may also be used for mammals, particularly [[sheep]] or [[goat]]s. Large groups of [[Carnivora|carnivores]] are usually called ''[[Pack (canine)|packs]]'', and in nature a herd is classically subject to [[predation]] from [[pack hunter]]s.
+
+Special [[collective noun]]s may be used for particular taxa (for example a flock of geese, if not in flight, is sometimes called a ''gaggle'') but for theoretical discussions of behavioural [[ecology]], the generic term ''herd'' can be used for all such kinds of assemblage.{{Citation needed|reason=Date, August 2010|date=August 2010}}
+
+The word ''herd'', as a noun, can also refer to one who controls, possesses and has care for such groups of animals when they are domesticated. Examples of herds in this sense include [[shepherd]]s (who tend to sheep), [[goatherd]]s (who tend to goats), and [[Pastoral farming|cowherds]] (who tend to cattle).
+
+==The structure and size of herds==
+{{Multiple image
+| direction = horizontal
+| align = top
+| header = 
+| width1 = 195
+| image1 = Herd Of Goats.jpg
+| caption1 = Traditional herding of [[goat]]s in Greece. [[Overgrazing]] by poorly managed traditional herding is one of the primary causes of desertification and [[Maquis shrubland|maquis degradation]].
+| width2 = 295
+| image2 = Wildebeest-during-Great-Migration.JPG
+| caption2 = Wildebeest in Masai Mara during the Great Migration. Overgrazing is not caused by nomadic [[grazing|grazers]] in huge populations of travel herds,<ref>{{cite book |last=Laduke |first=Winona |date=1999 |title=All Our Relations: Native Struggles for Land and Life |url=https://archive.org/details/allourrelationsn00ladu |location=Cambridge, MA |publisher=South End Press |page=[https://archive.org/details/allourrelationsn00ladu/page/146 146] |isbn=0896085996 |access-date=30 March 2015 |url-access=registration }}</ref><ref name="Duke University">{{cite web |url=https://twp.duke.edu/uploads/assets/Duval.pdf |title=Bison Conservation: Saving an Ecologically and Culturally Keystone Species |last1=Duval |first1=Clay |publisher=Duke University |access-date=April 13, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20120308011257/http://twp.duke.edu/uploads/assets/Duval.pdf |archive-date=March 8, 2012 }}</ref> nor by [[Holistic management (agriculture)|holistic]] planned grazing.<ref name="Forbes-AS">[https://www.forbes.com/sites/terrywaghorn/2012/12/20/holistic-land-management-key-to-global-stability/ "Holistic Land Management: Key to Global Stability"] by Terry Waghorn. Forbes. 20 December 2012.</ref>}}
+
+When an association of animals (or, by extension, people) is described as a herd, the implication is that the group tends to act together (for example, all moving in the same direction at a given time), but that this does not occur as a result of planning or coordination. Rather, each individual is choosing behaviour in correspondence with most other members, possibly through imitation or possibly because all are responding to the same external circumstances. A herd can be contrasted with a coordinated group where individuals have distinct roles. Many human groupings, such as army detachments or sports teams, show such coordination and differentiation of roles, but so do some animal groupings such as those of eusocial insects, which are coordinated through pheromones and other forms of animal communication.
+
+A herd is, by definition, relatively unstructured. However, there may be two<ref>http://econdse.org/wp-content/uploads/2013/04/herd-scharfstein.pdf</ref>{{explain|date=November 2021}} or a few animals which tend to be imitated by the bulk of the herd more than others. An animal in this role is called a "control animal", since its behaviour will predict that of the herd as a whole. It cannot be assumed, however, that the control animal is deliberately taking a leadership role; control animals are not necessarily [[dominance hierarchy|socially dominant]] in conflict situations, though they often are. [[Group size measures|Group size]] is an important characteristic of the social environment of gregarious species.
+
+==Costs and benefits of animals in groups==
+The reason why animals form herds can not always be stated easily, since the underlying mechanisms are diverse and complex. Understanding the social behaviour of animals and the formation of groups has been a fundamental goal in the field of [[sociobiology]] and [[behavioural ecology]]. Theoretical framework is focused on the costs and benefits associated with living in groups in terms of the [[Fitness (biology)|fitness]] of each individual compared to living solitarily. Living in groups [[Evolution|evolved]] independently multiple times in various [[Taxon|taxa]] and can only occur if its benefits outweigh the costs within an evolutionary timescale. Thus, animals form groups whenever this increases their fitness compared to living in solitary.<ref name="Majolo2020">Majolo, B., & Huang, P. (2020). [https://doi.org/10.1007/978-3-319-47829-6 Group living]. In J. Vonk & T. Shackelford (Eds.), Encyclopedia of Animal Cognition and Behavior.</ref>
+
+The following includes an outline about some of the major effects determining the [[trade-off]]s for living in groups.
+
+===Dilution effect===
+Perhaps the most studied effect of herds is the so called dilution effect. The key argument is that the risk of being preyed upon for any particular individual is smaller within a larger group, strictly due to the fact that a predator has to decide which individual to attack. Although the dilution effect is influenced by so called [[selfish herd theory|selfish herding]], it is primarily a direct effect of group size instead of the position within a herd. Greater group sizes result in higher visibility and detection rates for predators, but this relation is not directly proportional and saturates at some point, while the risk of being attacked for an individual is directly proportional to group size. Thus, the net effect for an individual in a group concerning its predation risk is beneficial.<ref>Coster-Longman, C., Landi, M., & Turillazzi, S. (2002). [https://doi.org/10.1023/A:1016213125161 The role of passive defense (selfish herd and dilution effect) in the gregarious nesting of Liostenogaster wasps (Vespidae, Hymenoptera, Stenogastrinae).] Journal of Insect Behavior, 15(3), 331–350.</ref><ref>Foster, W. A., & Treherne, J. E. (1981). [https://doi.org/10.1038/293466a0 Evidence for the dilution effect in the selfish herd from fish predation on a marine insect.] Nature, 293(5832), 466–467.</ref>
+
+Whenever groups, such as shoals of fish, synchronize their movements, it becomes harder for predators to focus on particular individuals. However, animals that are weak and slower or on the periphery are preferred by predators, so that certain positions within the group are better than others (see [[selfish herd theory]]). For fit animals, being in a group with such vulnerable individuals may thus decrease the chance of being preyed upon even further.<ref name="Majolo2020" />
+
+===Collective vigilance===
+[[File:Chen caerulescens 32956.JPG|thumb|right|A [[snow goose]] gaggle may contain thousands.]]
+[[File:Meerkat (Suricata suricatta) Tswalu.jpg|thumb|Meerkats (Suricata suricatta) take turn to keep guard while other members of the group are resting or feeding.]]
+
+The effect of collective [[vigilance (behavioural ecology)|vigilance]] in social groups has been widely studied within the framework of [[optimal foraging theory]] and animal decision making. While animals under the risk of predation are feeding or resting, they have to stay vigilant and watch for predators. It could be shown in many studies (especially for birds) that with increase in group size individual animals are less attentive, while the overall vigilance suffers little (many eyes effect). This means food intake and other activities related to fitness are optimized in terms of time allocation when animals stay in groups.<ref name="Lima1990">Lima, S. L., & Dill, L. M. (1990). [https://doi.org/10.1139/z90-092 Behavioral decisions made under the risk of predation: a review and prospectus.] Canadian Journal of Zoology, 68(4), 619–640.</ref>
+
+However, some details about this concepts remain unclear. Being the first to detect predators and react accordingly can be advantageous, implying individuals may not fully be able to rely only on the group. Moreover, the competition for food can lead to the misuse of warning calls, as was observed for great tits: If food is scarce or monopolized by dominant birds, other birds (mainly subordinates) use antipredatory warning calls to induce an interruption of feeding and gain access to resources.<ref>Møller, A. P. (2010). [https://doi.org/10.1111/j.1439-0310.1988.tb00697.x False Alarm Calls as a Means of Resource Usurpation in the Great Tit Parus major.] Ethology, 79(1), 25–30.</ref>
+
+Another study concerning a flock of geese suggested that the benefits of lower vigilance concerned only those in central positions, due to the fact that the possibly more vulnerable individuals in the flock's periphery have a greater need to stay attentive. This implies that the decrease in overall vigilance arises simply because the geese on the edge of the flock comprise a smaller group when groups get large.
+<ref>Inglis, I. R., & Lazarus, J. (1981). [https://doi.org/10.1111/j.1439-0310.1981.tb01921.x Vigilance and Flock Size in Brent Geese: The Edge Effect.] Zeitschrift Für Tierpsychologie, 57(3–4), 193–200.</ref><ref name="Lima1990" />
+A special case of collective vigilance in groups is that of sentinels. Individuals take turn in keeping guard, while all others participate in other activities.<ref name="Majolo2020" /> Thus, the strength of social bonds and trust within these groups have to be much higher than in the former cases.
+
+===Foraging===
+Hunting together enables group-living predators, such as wolves and wild dogs, to catch large prey, what they are unable to achieve when hunting alone. Working together significantly improves [[foraging]] efficiency, meaning the net energy gain of each individual is increased when animals are feeding collectively. A group of [[Spinner dolphin]]s is for instances able to force fish into a small confined space, which makes capturing prey particularly easy, as there is no way for the latter to flee. Furthermore, large groups are able to monopolize resources and defend them against solitary animals or smaller groups of the same or different species. It was shown that larger groups of lions tend to be more successful in protecting prey from hyenas than small ones.<ref name="Majolo2020" /> Being able to communicate the location and type of food to other group members may increase the chance for each individual to find profitable food sources, a mechanism which is commonly known to be used by bees, which use a so called [[Waggle dance]], and several species birds using food calls.
+
+In terms of [[Optimal foraging theory]], animals always try to maximize their net energy gain when feeding, because this is positively correlated to their fitness. If their energy requirement is fixed and additional energy is not increasing fitness, they will use as little time for foraging as possible (time minimizers). If on the other hand time allocated to foraging is fixed, an animal’s gain in fitness is related to the quantity and quality of resources it feeds on (Energy maximizers).<ref name="Pyke1977">Pyke, G. H., Pulliam, H. R., & Charnov, E. L. (1977). Pyke etal-1977. Optimal foraging-a selective review of theory and tests. the quarterly review of biology. In The Quarternarly Review of Biology (Vol. 52, Issue 2, pp. 137–154).</ref>
+
+Since foraging may be energetically costly (searching, hunting, handling, etc.) and may induce [[Predation risk allocation hypothesis|risk of predation]], animals in groups may have an advantage, since their combined effort in locating and handling food will reduce time needed to forage sufficiently. Thus, animals in groups may have shorter searching and handling times as well as an increased chance of finding (or monopolizing) highly profitable food, which makes foraging in groups beneficial for time minimizers and energy maximizers alike.<ref name="Pyke1977" /><ref name="Majolo2020" />
+
+The obvious disadvantage of foraging in groups is (scramble or direct) [[Competition (biology)|competition]] with other group members. In general, it is clear that the amount of resources available for each individual decreases with group size. If the resource availability is critical, competition within the group may get so intense, that animals no longer experience benefits from living in groups. However, only the relative importance of within- and between-group competition determines the optimal group size and ultimately the decision of each individual whether or not to stay in the group.<ref name="Majolo2020" />
+
+===Diseases and parasites===
+Since animals in groups stay near each other and interact frequently, [[Infection|infectious]] diseases and parasites spread much easier between them compared to solitary animals. Studies have shown a positive correlation between herd size and intensity of infections, but the extent to which this sometimes drastic reduction in fitness governs group size and structure is still unclear.<ref name="Majolo2020" /> However, some animals have found countermeasures such as [[propolis]] in beehives or [[Social grooming|grooming]] in social animals.
+
+===Energetic Advantages===
+Staying together in groups often brings energetic advantages. Birds flying together in a flock use aerodynamic effects to reduce energetic costs, e.g. by positioning themselves in a V shaped formation.<ref>Portugal, S. J., Hubel, T. Y., Fritz, J., Heese, S., Trobe, D., Voelkl, B., Hailes, S., Wilson, A. M., & Usherwood, J. R. (2014). [https://doi.org/10.1038/nature12939 Upwash exploitation and downwash avoidance by flap phasing in ibis formation flight.] Nature, 505(7483), 399–402.</ref> A similar effect can be observed when fish swim together in fixed formations.
+
+Another benefit of group living occurs when climate is harsh and cold: By staying close together animals experience better thermoregulation, because their overall surface to volume ratio is reduced. Consequently, maintaining adequate body temperatures becomes less energetically costly.<ref name="Majolo2020" />
+
+===Antipredatory behaviour===
+The collective force of a group [[Mobbing (animal behavior)|mobbing]] predators can reduce risk of predation significantly. Flocks of raven are able to actively defend themselves against eagles and baboons collectively mob lions, which is impossible for individuals alone. This behaviour may be based on reciprocal altruism, meaning animals are more likely to help each other if their conspecifics did so earlier.<ref name="Majolo2020" />
+
+===Mating===
+Animals living in groups are more likely to find mates than those living in solitary and are also able to compare potential partners in order to optimize genetic quality for their offspring.<ref name="Majolo2020" />
+
+==Domestic herds==
+[[File:Morroco-arid-climate.jpg|thumb|right|A shepherd guiding his sheep through the high desert outside of [[Marrakech]], [[Morocco]]]]
+Domestic animal herds are assembled by humans for practicality in raising them and controlling them. Their behaviour may be quite different from that of wild herds of the same or related species, since both their composition (in terms of the distribution of age and sex within the herd) and their history (in terms of when and how the individuals joined the herd) are likely to be very different.
+
+== Human parallels ==
+The term herd is also applied metaphorically to human beings in [[social psychology]], with the concept of [[herd behaviour]]. However both the term and concepts that underlie its use are controversial.
+
+The term has acquired a semi-technical usage in [[behavioral finance]] to describe the largest group of market [[investor]]s or market [[speculator]]s who tend to "move with the market", or "follow the general market trend". This is at least a plausible example of genuine herding, though according to some researchers it results from rational decisions through processes such as [[information cascade]] and [[rational expectations]]. Other researchers, however, ascribe it to non-rational process such as [[mimicry]], fear and greed [[Emotional contagion|contagion]]. "Contrarians" or [[Contrarian investing|contrarian investor]]s are those who deliberately choose to invest or speculate counter to the "herd".
+
+==See also==
+{{columns-list|colwidth=15rem|
+*[[Stampede]]
+*[[Herding]]
+*[[Herd behavior]]
+*[[Selfish herd theory]]
+*[[Herder]]
+*[[Catalina Island buffalo herd]]
+*[[Shoaling and schooling]]
+*[[Primate sociality]]
+*[[Flock (birds)]]
+*[[Pack (canine)]]
+*[[List of animal names]]
+}}
+
+==Literature==
+*Krause, J., & Ruxton, G. D. (2002). Living in groups. Oxford: Oxford University Press.
+
+==References==
+{{Commons category|Herds}}
+{{Wikisource1911Enc|Herd}}
+{{Wiktionary|herd}}
+
+{{Reflist}}
+
+{{collective animal behaviour}}
+{{Authority control}}
+
+[[Category:Ethology]]
+[[Category:Group processes]]
+[[Category:Herding]]

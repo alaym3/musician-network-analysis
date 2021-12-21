@@ -1,0 +1,155 @@
+{{short description|American video game company}}
+{{Infobox company
+| name             = Hi-Rez Studios
+| logo             = Hi-Rez-2021-RebrandedLOGO_Black.png
+| logo_size        = 
+| logo_caption     = Logo since 2021
+| type             = [[Privately held company|Private]]
+| foundation       = 2005
+| location_city    = [[Alpharetta, Georgia]]
+| location_country = United States
+| location         = 
+| locations        = 
+| area_served      = 
+| key_people       = {{plainlist|
+*Erez Goren
+*Todd Harris
+*Stew Chisam
+*Mike Dudgeon}}
+| industry         = [[Video game industry|Video games]]
+| products         = {{plainlist|
+*''[[Global Agenda]]''
+*''[[Tribes: Ascend]]''
+*''[[Smite (video game)|Smite]]''
+*''[[Paladins (video game)|Paladins]]''
+*''[[Rogue Company]]''
+*''[[Realm Royale]]''}}
+| services         = 
+| revenue          = 
+| operating_income = 
+| net_income       = 
+| owner            = 
+| num_employees    = 450+<ref name="empcount">{{cite web|url=https://www.playstationlifestyle.net/2019/01/19/paladins-developer-gets-new-ceo/#/slide/1 |title=Hi-Rez Founder and CEO Steps Down After a Successful Year of Growth to Pursue Other Interests |publisher=playstationlifestyle|access-date=January 19, 2019}}</ref>
+| parent           = 
+| divisions        = {{plainlist|
+*Alacrity Arthouse
+*Evil Mojo Games
+*First Watch Games
+*Heroic Leap Games
+*Red Beard Games
+*Titan Forge Games}}
+| subsid           = {{plainlist|
+*Hi-Rez China
+*Hi-Rez UK}}
+| homepage         = {{url|hirezstudios.com}}
+| dissolved        = 
+| footnotes        = 
+}}
+
+'''Hi-Rez Studios''' is an independent, privately held American [[video game company]]. The company was established in 2005 by Erez Goren and Todd Harris. Hi-Rez Studios' games include the squad-based shooter ''[[Global Agenda]]'', the critically acclaimed ''[[Tribes: Ascend]]'', the third-person MOBA ''[[Smite (video game)|Smite]]'', the [[Shooter game#Hero shooters|hero shooter]] ''[[Paladins (video game)|Paladins]]'', and the third-person shooter ''[[Rogue Company]]''.<ref name="website">{{cite web|url=http://www.hirezstudios.com/ |title=Hi-Rez Studios The Official Website of Hi-Rez Studios Alpharetta GA |publisher=Hirezstudios.com |access-date=2014-07-03}}</ref> In 2012, Hi-Rez Studios was recognized as a Top 30 Video-Game Developer by Game Developer Magazine and Gamasutra.<ref>{{cite web|url=http://www.gamasutra.com/view/feature/174451/our_top_30_developers.php?print=1 |title=Our Top 30 Developers |publisher=Game Developer and Gamasutra |access-date=2014-07-03}}</ref> Hi-Rez are the current owners of the ''Metaltech'' license, including ''[[Metaltech: Battledrome|Battledrome]]'', ''[[Metaltech: Earthsiege|Earthsiege]]'', ''[[Starsiege]]'', the ''[[MissionForce: CyberStorm|CyberStorm]]'' series, and the ''[[Tribes (video game series)|Tribes]]'' series. With the exception of ''Battledrome'' and ''CyberStorm'', the games were released as freeware by Hi-Rez on October 30, 2015.<ref>https://www.polygon.com/2015/10/30/9646074/tribes-free-downloads-pc-ps2</ref>
+
+==History==
+[[File:Hi-Rez Studios offices in Alpharetta, March 2017.jpg|thumb|Hi-Rez Studios offices in [[Alpharetta, Georgia]]]]
+Erez Goren founded Hi-Rez Studios with Todd Harris in 2005. They hired experienced game developers from other successful titles, including ''[[City of Heroes]]'', ''[[The Elder Scrolls IV: Oblivion]]'', and ''[[Call of Duty]]''.<ref name="empcount"/> Hi-Rez Studios employs more than 200 people at its development facility in the northern [[Atlanta metropolitan area|Atlanta suburb]] of [[Alpharetta]].<ref name="empcount"/> In August 2018, the company split into three separate development studios.
+The Hi-Rez Studios Twitter account tweeted on February 5, 2019, that they had fired [[Online community manager|community manager]] Thomas Cheung <ref>{{Citation |title=A brief statement on @Elvinelol |year=2019 |publisher=Hi-Rez Studios |publication-place=Twitter |url=https://twitter.com/schisam/status/1092790209056522240/photo/1 |access-date=2019-02-10}}</ref>  after being arrested on charges of child sex solicitation along with 20 others in a joint [[sting operation]] by the [[Georgia Bureau of Investigation]] and Georgia Internet Crimes Against Children Task Force.<ref>{{Citation |year=2019 |title="Operation Interception" Targets Those Seeking Sex with a Minor - 21 Arrested in Five-Day Undercover Operation |publisher=Georgia Bureau of Investigation |publication-place=Georgia government website |url=https://gbi.georgia.gov/press-releases/2019-02-04/operation-interception-targets-those-seeking-sex-minor-21-arrested-five |access-date=2019-02-10 }}</ref>
+[[File:Hi-Rez Studios logo.png|thumb|The Original Hi-Rez Studios logo]]
+
+==Games developed==
+
+{| class="wikitable sortable"
+|-
+! | Title
+! | Platform(s)
+! | Year<ref group=lower-alpha name="LeagueCup">Year of first release, game might have released on other platforms at a later date.</ref>
+! | Notes
+|-
+| ''[[Global Agenda]]''
+| Microsoft Windows
+| 2010
+| Servers shut down in 2018
+|-
+| ''[[Tribes: Ascend]]''
+| Microsoft Windows
+| 2012
+|
+|-
+| ''[[Smite (video game)|Smite]]''
+| [[Microsoft Windows]], [[macOS]], [[Xbox One]], [[PlayStation 4]], [[Nintendo Switch]]
+| 2014
+|
+|-
+| ''Jetpack Fighter''
+| [[iOS]], [[Android (operating system)|Android]]
+| 2016
+|
+|-
+| ''Hand of the Gods: Smite Tactics''
+| Microsoft Windows, Xbox One, PlayStation 4
+| rowspan="4"| 2018
+| Servers shut down on Jan.1st, 2020
+|-
+| ''Paladins Strike''
+| iOS, Android
+| Servers shut down in late 2020
+|-
+|''[[Paladins (video game)|Paladins]]''
+| Microsoft Windows, macOS, Xbox One, PlayStation 4, Nintendo Switch
+|
+|-
+|''[[Realm Royale]]''
+| Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch
+| rowspan="2"|Early access
+|-
+| ''[[Rogue Company]]''
+| Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch, [[Xbox Series X and Series S|Xbox Series X/S]], [[PlayStation 5]]
+| 2020
+|-
+| ''Smite Rivals''
+| Microsoft Windows, iOS, Android
+| TBA
+| On hold
+|-
+| ''Tribes Universe''
+| Microsoft Windows
+| 
+| Cancelled
+|}
+{{Reflist|group=lower-alpha}}
+
+===''Global Agenda''===
+''[[Global Agenda]]'' is an [[multiplayer online game|online team-based game]]. The game went live on February 1, 2010. In April 2011, ''Global Agenda'' became the first [[free-to-play]] game released on the [[Steam (service)|Steam]] platform, introducing Elite and Free Agents and an in-game cash shop featuring Agenda Points.<ref name="wret">{{cite web |url=http://store.steampowered.com/app/17020/ |title=Global Agenda: Free Agent on Steam |publisher=Valve |access-date=2014-03-23 |url-status=dead |archive-url=https://web.archive.org/web/20140326132648/http://store.steampowered.com/app/17020/ |archive-date=2014-03-26 }}</ref>
+
+===''Tribes Universe''===
+''[[Tribes Universe]]'' was a [[massively multiplayer online]] shooter developed by Hi-Rez Studios based on the ''Tribes'' series. The game, along with Hi-Rez Studios' ''Tribes'' intellectual property acquisition from InstantAction, was first announced on October 23, 2010. While alpha testing was said to begin at the start of 2011, development on ''Tribes Universe'' was canceled when Hi-Rez Studios decided to start working on ''Tribes: Ascend''.<ref name="rfaf">https://www.vg247.com/2012/01/05/hi-rez-tribes-universe-on-hold-priority-for-now-is-ascend/</ref><ref>[https://www.reddit.com/r/Tribes/comments/4ua3fo/what_ever_happened_to_tribes_universe_officially/d5o6zu5 What ever happened to Tribes Universe, officially?]</ref>
+
+===''Tribes: Ascend''===
+''[[Tribes: Ascend]]'' is a [[free-to-play]] multiplayer-only [[first-person shooter]] and part of the ''[[Tribes (video game series)|Tribes]]'' franchise. It was announced by Hi-Rez Studios on March 11, 2011, at the [[Penny Arcade Expo#PAX East 2011|PAX East]], and released on April 12, 2012. ''Tribes: Ascend'' earned a metascore of 86, and PC Gamer ranked it at #8 in an article on the Best Shooters of All Time.<ref>{{cite web|url=http://www.pcgamer.com/gallery/the-best-shooters-of-all-time/ |title=The Best Shooters of All Time |publisher=PC Gamer |date=2013-07-04 |access-date=2014-07-03 |url-status=dead |archive-url=https://web.archive.org/web/20140708204819/http://www.pcgamer.com/gallery/the-best-shooters-of-all-time/ |archive-date=2014-07-08 }}</ref> Aspects from previous ''Tribes'' games such as jetpacks and skiing are featured in the game.<ref name="beta">{{cite web|url=http://www.hirezstudios.com/tribesascend |archive-url=https://archive.today/20140107184551/http://www.hirezstudios.com/tribesascend |url-status=dead |archive-date=2014-01-07 |title=Tribes Ascend Home |publisher=Hi-Rez Studios |access-date=2014-03-23 }}</ref>
+
+Hi-Rez Studios representative Todd Harris announced the company's abandonment of the game on July 12, 2013.<ref>{{cite web|url=https://www.reddit.com/r/Tribes/comments/1i4jrr/open_letter_to_hirez_response/ |title=Tribes Ascend Reddit |publisher=HiRezTodd |date=2013-07-12 |access-date=2016-03-08}}</ref>
+
+===''Smite''===
+''[[Smite (video game)|Smite]]'' is a [[free-to-play]] third-person [[multiplayer online battle arena|MOBA]] for [[Microsoft Windows]], [[Xbox One]], [[PlayStation 4]], [[Nintendo Switch]], and [[OS X]]. Players take on the visage of mythological deities from different pantheons and take part in arena combat, using powers and team tactics against other player-controlled deities and non-player controlled minions. Hi-Rez Studios announced ''Smite'' on April 21, 2011, at PAX East, and began its closed beta period on May 31, 2012, for PC. An open beta followed on January 24, 2013. The beta process produced more than 74 million hours of playtime and a large competitive community.<ref>{{cite web|url=http://www.hirezstudios.com/smite/latest-news/view/smite-blog/2014/03/25/hi-rez-studios-releases-smite-in-north-america-and-europe |title=Hi-Rez Studios releases SMITE in North America and Europe |publisher=Hi-Rez Studios |date=25 Mar 2014 |access-date=20 Jun 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140613115428/http://www.hirezstudios.com/smite/latest-news/view/smite-blog/2014/03/25/hi-rez-studios-releases-smite-in-north-america-and-europe |archive-date=2014-06-13 }}</ref> Throughout the beta, Hi-Rez Studios also hosted a series of LAN and online events with cash prize pools.<ref>{{cite web|url=http://www.hirezstudios.com/esports/blog-post/esports/2013/10/14/smite-tournament-series-week-24-recap |title=SMITE Tournament Series: Week 24 Recap |publisher=Hi-Rez Studios |date=14 Oct 2013 |access-date=20 Jun 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140714222932/http://www.hirezstudios.com/esports/blog-post/esports/2013/10/14/smite-tournament-series-week-24-recap |archive-date=2014-07-14 }}</ref> ''Smite'' was officially released in North America and Western Europe on March 25, 2014, for the PC. On August 19, 2015, Hi-Rez Studios released the Xbox One version,<ref>[http://www.vg247.com/2015/08/13/smite-makes-its-official-xbox-one-debut-next-week/ Smite makes its official Xbox One debut next week]</ref> on May 31, 2016, the PlayStation 4 version was released.<ref>[http://blog.us.playstation.com/2016/05/27/smite-on-ps4-launches-may-31/ Smite on PS4 Launches May 31]</ref> and on February 19, 2019, the Nintendo Switch version was released <ref>[https://www.nintendo.com/games/detail/smite-switch/]</ref>
+
+=== ''Paladins'' ===
+''[[Paladins (video game)|Paladins]]'' is a [[free-to-play]] [[online game|online]] team-based game. The player has to pick a champion each with unique abilities to fight. There are four types of groups: Damage, Support, Flank and Front Line.<ref>{{cite web | url = https://mmos.com/review/paladins | title = Paladins Game Preview | work = mmos.com}}</ref> The current version of the card system permits pre-designed loadouts that provide augments to various abilities and stats, as well as “items" that can be purchased by credits. To get credits the player has to play and fight others. Items can be upgraded mid-match to provide additional performance bonuses.The game was announced on August 5, 2015. ''[[Paladins (video game)|Paladins]]'' went into open beta on September 16, 2016, and released on Steam as an early access title the same day.<ref>https://mmos.com/review/paladins</ref>
+
+===''Rogue Company''===
+''[[Rogue Company]]'' is a [[free-to-play]] [[Multiplayer video game|multiplayer]] [[third-person shooter]] [[video game]] developed by First Watch Games. Rogue Company entered closed beta in June 2020 on [[Nintendo Switch]], [[PlayStation 4]], [[Xbox One]], and on [[Microsoft Windows]] via the [[Epic Games Store]],<ref>{{Cite web|url=https://venturebeat.com/2019/09/05/hi-rez-studios-rogue-company-will-be-an-epic-games-store-exclusive-on-pc/|title=Hi-Rez Studios' Rogue Company will be an Epic Games Store exclusive on PC|date=2019-09-05|website=VentureBeat|language=en-US|access-date=2019-12-12}}</ref> and included full support for [[cross-platform play]] and cross-progression.<ref>{{Cite magazine|url=https://www.pcgamer.com/uk/hi-rez-announces-a-new-cross-platform-shooter-called-rogue-company/|title=Hi-Rez announces a new cross-platform shooter called Rogue Company|last=Chalk|first=Andy|date=2019-09-05|magazine=PC Gamer|language=en-US|access-date=2019-12-12}}</ref>
+
+===''Jetpack Fighter''===
+''Jetpack Fighter'' is a [[free-to-play]] high speed platformer for mobile. The game was released first for iOS on January 7, 2016, and Apple editors featured it as a Best New Game. As of July 27, 2016, the game has been released on Android. The game has earned a metascore of 83.<ref>{{Cite web|url=http://www.metacritic.com/game/ios/jetpack-fighter|title=Jetpack Fighter|website=Metacritic|access-date=2016-06-24}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.hirezstudios.com/ Official website]
+
+{{Hi-Rez Studios}}
+[[Category:2005 establishments in Georgia (U.S. state)]]
+[[Category:American companies established in 2005]]
+[[Category:Companies based in Fulton County, Georgia]]
+[[Category:Video game companies established in 2005]]
+[[Category:Video game companies of the United States]]
+[[Category:Video game development companies]]
+[[Category:Privately held companies based in Georgia (U.S. state)]]

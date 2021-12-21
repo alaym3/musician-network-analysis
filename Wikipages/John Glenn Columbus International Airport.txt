@@ -1,0 +1,285 @@
+{{short description|Airport in Columbus, Ohio, United States}}
+{{Redirect|CMH}}
+{{Use mdy dates|date=May 2014}}
+{{Coord|39|59|53|N|082|53|31|W|type:airport_region:US|display=title}}
+{{Infobox airport
+| name              = John Glenn<br />Columbus International Airport
+| image             = John Glenn Columbus International Airport logo 2018.jpg
+| image2            = John Glenn International Airport Departure level.jpg
+| image2-width      = 270
+| caption2          = Ticketing area
+| FAA               = CMH
+| IATA              = CMH
+| ICAO              = KCMH
+| type              = Public
+| owner-oper        = [[Columbus Regional Airport Authority]]
+| city-served       = Columbus, [[Ohio]]
+| location          = 4600 International Gateway [[Columbus, Ohio]], U.S.
+| elevation-f       = 815
+| elevation-m       = 248
+| coordinates       = {{coord|39|59|53|N|082|53|31|W|type:airport_region:US}}
+| publictransit     = {{bus icon}} {{rint|COTA}} {{COTA link|7|AirConnect}}
+| website           = [https://flycolumbus.com/ flycolumbus.com]
+| mapframe          = yes
+| r1-number         = 10R/28L
+| r1-length-f       = 10,114
+| r1-length-m       = 3,083
+| r1-surface        = [[Asphalt]]
+| r2-number         = 10L/28R
+| r2-length-f       = 8,000
+| r2-length-m       = 2,438
+| r2-surface        = Asphalt
+| stat-year         = 2020
+| stat1-header      = Total passengers
+| stat1-data        = 3,269,127
+| stat2-header      = Aircraft operations
+| stat2-data        = 27,432
+| stat3-header      = Area
+| stat3-data        = 2,265 acres (917 ha)
+| footnotes         = Source: John Glenn Columbus International Airport<ref name="traffic2009">{{cite web|url=http://www.columbusairports.com/media/docs/PR_325_Jan2010updated.pdf |title=Columbus Regional Airport Authority |url-status=dead |archive-url=https://web.archive.org/web/20101214021053/http://columbusairports.com/media/docs/PR_325_Jan2010updated.pdf |archive-date=December 14, 2010 }}</ref><ref name="traffic">{{cite web|url= http://www.port-columbus.com/news/press/release.asp?PID=276|title=Port Columbus Sets New Passenger Record in 2007|publisher=Columbus Regional Airport Authority|date= January 25, 2008|access-date  = February 11, 2008|url-status=dead|archive-url=https://web.archive.org/web/20090903005646/http://www.port-columbus.com/news/press/release.asp?PID=276|archive-date =September 3, 2009|df=mdy-all}}
+</ref><ref name     = FAA>{{FAA-airport|ID=CMH|use=PU|own=PU|site=17788.*A}} effective March 25, 2021.</ref>
+| image_map         = File:KCMH Airport Map.png
+| image_map_caption = FAA airport diagram
+}}
+
+'''John Glenn Columbus International Airport''' {{Airport codes|CMH|KCMH|CMH}} is an international airport located {{convert|6|mi|km}} east of [[Downtown Columbus, Columbus, Ohio|downtown]] [[Columbus, Ohio]]. Formerly known as  '''Port Columbus International Airport''', it is managed by the [[Columbus Regional Airport Authority]], which also oversees operations at [[Rickenbacker International Airport]] and [[Bolton Field]]. The airport code 'CMH' stands for "Columbus Municipal Hangar," the original name for the airport.<ref>{{cite web| url        = http://www.skygod.com/asstd/abc.html| title        = Airport ABCs: An Explanation of Airport Identifier Codes| publisher        = skygod.com| access-date        = July 22, 2007| archive-url        = https://web.archive.org/web/20090207201206/http://skygod.com/asstd/abc.html| archive-date        = February 7, 2009| url-status        = dead}}</ref>
+
+John Glenn Columbus International Airport is primarily a passenger airport. It provides 148 non-stop flights to 31 airports via 9 airlines daily.<ref name="destinations">{{cite web|url=https://flycolumbus.com/storage/production/20200123114025-sample-flight-schedule-from-columbus-2020.pdf|title=2020 Sample Flight Schedule|date=March 2020|publisher=Columbus Regional Airport Authority|access-date=April 4, 2020}}</ref>
+
+On May 25, 2016, the [[Ohio General Assembly]] passed a bill to rename the airport from Port Columbus International Airport to its current name, in honor of astronaut and four-term U.S. senator [[John Glenn]].<ref>{{cite web|url=http://hosted2.ap.org/APDEFAULT/f70471f764144b2fab526d39972d37b3/Article_2016-05-25-US--John%20Glenn-Ohio%20Airport-The%20Latest/id-3548abfd7d4c4b6087445af5b924e123|title=Bill naming John Glenn airport passes in Ohio|agency=Associated Press}}</ref> The name change was unanimously approved by the airport's nine-member board on May 24, 2016.<ref>{{cite web|url=http://bigstory.ap.org/article/c1fdb694e67c4c4495c3c1dec2cb7fe0/ohio-airport-be-named-honor-astronaut-john-glenn|title=Ohio Airport to Be Named in Honor of Astronaut John Glenn|date=May 25, 2016|access-date=June 16, 2016|author=Julie Carr Smyth|agency=Associated Press}}</ref> Ohio Governor [[John Kasich]] signed the bill into law on June 14, 2016, with the name change becoming official 90 days later.<ref>{{Cite web|url=http://www.dispatch.com/content/blogs/the-daily-briefing/2016/06/06.14.2016-glenn-airport.html|title=Law signed naming John Glenn International Airport|last=Johnson|first=Alan|date=June 14, 2016|website=The Columbus Dispatch|access-date=2016-06-16}}</ref> On June 28, 2016, a celebration of the renaming was held and new signage bearing the airport's new name was unveiled.<ref>{{Cite web|url=https://www.usatoday.com/story/travel/flights/todayinthesky/2016/06/30/john-glenn-hopes-airport-being-named-him-inspires-kids/86547632/|title=Ohio's Columbus airport renamed for astronaut John Glenn|website=[[USA Today]]|access-date=2016-07-01}}</ref>
+
+==History==
+===Early history===
+[[File:Old Port Columbus Airport Control Tower and Terminal, Columbus, OH, US (06).jpg|thumb|left|The [[Old Port Columbus Terminal]], the airport's first control tower and terminal]]
+The airport opened July 8, 1929, on a site selected by [[Charles Lindbergh]], as the eastern air terminus of the [[Transcontinental Air Transport]] air-rail New York to Los Angeles transcontinental route. Passengers traveled overnight on the [[Pennsylvania Railroad]]'s Airway Limited from New York to Columbus; by air from Columbus to [[Waynoka, Oklahoma|Waynoka]], Oklahoma; by rail again on the [[Atchison, Topeka & Santa Fe]] from Waynoka to [[Clovis, New Mexico|Clovis]], New Mexico; and by air from Clovis to Los Angeles.<ref>{{cite journal|journal=Flying Magazine|date=January 1959|title=Columbus Prepared for Progress|author=Fred J. Bunyan}}</ref> The original [[airport terminal|terminal]] building and [[hangar]]s remain; the hangars are still in use, but the old terminal sits derelict.<ref name="history">{{cite web|url=http://columbusairports.com/about-us/our-history/|title=Port Columbus Milestones|publisher=Columbus Regional Airport Authority|year=2012|access-date=July 28, 2012}}</ref>
+
+During World War II, most of the facility was taken over by the [[U.S. Navy]], which established '''Naval Air Station Columbus''' in 1942. NAS Columbus was closed and the facility relinquished back to civilian authorities in 1946.<ref>{{cite web |url=http://epa.ohio.gov/portals/30/FFS/docs/fuds/COLUMBUS_NAVAL_AIR_STATION.pdf |title=Data|website=epa.ohio.gov}}</ref><ref>{{cite web|url=http://www.navalaviationmuseum.org/attractions/aircraft-exhibits/item/?item=p2v_truculentturtle|title=Item - National Naval Aviation Museum}}</ref> Also, during the war, the government established a government-owned aviation factory on the grounds of the airport known as Air Force Factory 85, eventually operated by [[North American Aviation]]. The plant produced the [[North American F-100 Super Sabre|F-100 Super Saber]], [[North American A-5 Vigilante|RA-5 Vigilante]], [[T-2 Buckeye]], [[T-28 Trojan]], [[OV-10 Bronco]] and [[North American Sabreliner|T-39 Sabreliner]].
+
+The diagram on the February 1951 Coast & Geodetic Survey instrument-approach chart shows runways 006/186 3550&nbsp;ft long, 052/232 4400&nbsp;ft, 096/276 4500&nbsp;ft, and 127/307 5030&nbsp;ft.
+
+A new $12 million terminal building opened on September 21, 1958.<ref name="history" /> Jet airline flights (American 707s) started in April 1964.
+[[File:KCMH ATC Tower 1.jpg|thumb|Current control tower, completed in 2004]]
+
+===Historical airline service===
+The April 1957 Official Airline Guide shows 72 airline departures each weekday: 41 [[Trans World Airlines|TWA]], 16 [[American Airlines|American]], 6 [[Eastern Air Lines|Eastern]], 6 [[Lake Central Airlines|Lake Central]] and 3 [[Piedmont Airlines|Piedmont]].<ref>{{Citation |year=1957 |title=Official Airline Guide |publisher= American Aviation Publications |location=Washington DC }}</ref>
+
+The first major airline to fly into Columbus was [[Trans World Airlines|TWA]], and it kept a presence at Columbus over 70 years during the era of airline regulation.<ref name="history" /> [[Trans World Airlines|TWA]] offered a club for exclusive passengers up until 2000 when [[America West Airlines|America West]] took over a gate held by [[Trans World Airlines|TWA]] and the club itself due to financial problems.<ref name="amwest" />
+
+Columbus was formerly a hub of [[America West Airlines]] in the 1990s, but the company closed the hub in 2003 due to financial losses and the post 9/11-decline in air travel.<ref name="amwest">{{cite web|url=http://www.psa-history.org/awa/cmh.html |title=America West in Columbus |publisher=PSA History Page |date=2003–2007 |access-date=July 22, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070810045729/http://www.psa-history.org/awa/cmh.html |archive-date=August 10, 2007 }}
+</ref>
+
+The airport was the home base of short-lived [[Skybus Airlines]], which began operations from Columbus on May 22, 2007. The airline touted themselves as the cheapest airline in the [[United States]], offering a minimum of ten seats for $10 each on every flight. [[Skybus Airlines|Skybus]] ceased operations April 4, 2008.<ref>{{cite news|url=https://www.10tv.com/article/skybus-end-operations|title=Skybus To End Operations|publisher=10TV.com|date=April 4, 2008|access-date=March 9, 2018}}</ref>
+
+===Recent improvements===
+[[File:Port Columbus International Airport aerial view 01.jpg|thumb|upright|The airport's terminal in 1979]]
+A $70 million renovation of airport facilities, designed by Brubaker, Brandt Inc., was initiated in 1979 for the airport's 50th anniversary and completed in 1981.<ref>{{cite journal|title=Engineering News-Record|journal=Engineering News-Record|year=1979|volume=202|issue=1–13|pages=271|url=https://books.google.com/books?id=eR5QAAAAYAAJ&q=%22port+columbus%22+airport|access-date=June 28, 2012}}</ref> This upgraded the airport's capacity to 250 flights per day by adding what is known today as Concourse B and added fully enclosed [[jetway]]s at every gate.<ref name="history" /> Ten years later in 1989, a second, $15.5 million, seven-gate south concourse (now Concourse A) was dedicated.<ref name="history" /> The concourse was used exclusively by [[US Airways]] at the time, and later housed hubs for both [[America West Airlines]] until 2003, and [[Skybus Airlines]] until they shut it down in 2008 due to their bankruptcy. A north concourse was completed in 1996, which is now Concourse C, and was expanded in 2002.<ref name="history" />
+
+Between 1998 and 2000, numerous airport expansion and renovation projects were completed, including a $25 million terminal renovation in 1998 that included additional retail shops, new flight information displays, enhanced lighting, upgraded flooring, and a new food court. Also, new hangars and office spaces were completed for [[NetJets]] in 1999, as well as a $92 million parking garage including an underground terminal entrance, new rental car facilities, dedicated ground transportation area, improved eight-lane terminal access on two levels, and a new atrium and entrances in 2000, which were designed by [[URS Corporation]].<ref name="history" /><ref>{{cite web|url=http://www.urscorp.com/Projects/projView.php?s=609&sec=19&pn=5|title=AECOM|access-date=June 28, 2012|archive-url=https://web.archive.org/web/20131216163819/http://www.urscorp.com/Projects/projView.php?s=609&sec=19&pn=5|archive-date=December 16, 2013|url-status=dead}}</ref>
+
+On April 25, 2004, a new {{convert|195|ft|m|0|sing=on}} [[control tower]] directed its first aircraft. This began several major facility enhancements to be constructed through 2025.<ref name="history" /> On October 21, 2010, a new arrivals/departures board replaced the old one in the main entrance area
+
+Columbus began its Terminal Modernization Program in late 2012, which included new terrazzo flooring throughout the airport, new ceilings, new restrooms, more [[Transportation Security Administration|TSA]] security lanes, and new LED lighting. Construction started on Concourse A in late 2012 and was completed throughout the terminal in early 2016.<ref>{{cite web|url=http://flycolumbus.com/at-port-columbus/terminal-modernization-program|title=Terminal Modernization Program – At Port Columbus – FlyColumbus}}</ref>
+
+In 2013, the airport completed a $140 million runway improvement that moved the south runway farther from the north runway. This created a buffer distance that enables simultaneous takeoffs and landings on the north and south runways, increasing air traffic volume. Columbus mayor [[Michael B. Coleman]] commented, "As the city grows, the airport needs to grow with it."<ref>{{cite web | last = Weese | first = Evan | title = Port Columbus 'Staying Ahead of Demand Curve' With New South Runway | publisher = Columbus Business First | date = August 22, 2013 | url = http://www.bizjournals.com/columbus/blog/2013/08/port-columbus-staying-ahead-of-demand.html?s=print}}</ref>
+
+In 2019, construction began on a new car rental facility at the airport, with an estimated budget of $140 million.<ref>{{Cite web|date=2019-04-18|title=New Rental Car Facility Under Construction at CMH|url=https://www.columbusunderground.com/new-rental-car-facility-under-construction-at-cmh-tm1|access-date=2021-04-06|website=Columbus Underground|language=en-US}}</ref> This facility moves car rental out of the parking garage, opening up more spaces for travelers. The new building opened in late 2021, and utilizes electric buses to transport passengers.<ref>{{Cite web|title=New Rental Car Facility Fact Sheet|url=https://flycolumbus.com/storage/production/20200827102322-new-rental-car-facility-fact-sheet.pdf|url-status=live|access-date=2021-04-05}}</ref>
+
+===Recent History===
+
+Many airlines introduced new routes in the late 2010s, with the addition of [[Alaska Airlines]] with one daily flight to Seattle. Occasionally, larger aircraft that the airport is not used to receiving on a regular basis, such as the Boeing 767 and 777, are chartered through John Glenn and serviced by Lane Aviation.
+
+As of the end of 2020, many new, current, and to-be-expanded routes have been cancelled or reduced due to the [[COVID-19 pandemic]]. Since the initial lockdowns in March, Air Canada temporarily suspended service to Columbus, while airlines such as United, American, and Delta used smaller aircraft for some of their mainline routes. Many of these routes are seeing an increase of service mid-2021 as restrictions lift and demand for air travel grows. Startup [[Breeze Airways]] also selected Columbus as one of its launch destinations in July with five routes.
+
+==Facilities==
+[[File:Port Columbus International Airport aerial view 02a.jpg|thumb|The airport in 1987, predominantly as it stands today]]
+[[File:John Glenn International Airport Flight Information Board.jpg|thumb|Main flight information board at the entrance to Concourse B]]
+
+===Terminal===
+John Glenn Columbus International Airport has one terminal with concourses and a total of 34 gates.<ref name="CMHMap">{{cite web |title=Terminal Maps |url=https://flycolumbus.com/at-the-airport/terminal-maps |access-date=13 March 2021}}</ref> Non-precleared international flights are processed in Concourse C, which contains the airports customs facility. 
+
+*'''Concourse A''' contains 7 gates.<ref name="CMHMap" /> 
+*'''Concourse B''' contains 16 gates.<ref name="CMHMap" />
+*'''Concourse C''' contains 11 gates.<ref name="CMHMap" />
+
+===Ground transportation===
+The airport is accessible directly by taking exit number nine on [[Interstate 670 (Ohio)|Interstate 670]] to International Gateway. Alternatively, drivers can also get to the airport from the east via Hamilton Road, just south of [[Interstate 270 (Ohio)|Interstate 270]], and enter at Sawyer Road or from the west via Stelzer Road.
+
+Connected to the terminal is a six-story parking garage that provides long-term and short-term parking. Lower cost satellite parking options, with continuous free shuttle service, can be found in the Blue, Red and Green parking lots along International Gateway. The Blue lot is the closest to the terminal and also offers some covered parking. The cost of parking a car in the blue lot is $9 per 24 hours. The Red Lot costs $7 per 24 hours and the green lost costs $5 per 24 hours to park. The Green lot is the furthest away from the terminal. Additionally, there is a free cell phone lot accessed from the outbound side of International Gateway.<ref>{{cite web|url= http://www.port-columbus.com/parking/parking/maps.asp|title = Parking Maps|publisher= Columbus Regional Airport Authority|year = 2007|access-date  = August 16, 2007|url-status= dead|archive-url= https://web.archive.org/web/20070816061558/http://www.port-columbus.com/parking/parking/maps.asp|archive-date = August 16, 2007|df = mdy-all}}</ref><ref>{{cite web|url= http://www.port-columbus.com/maps/lots.asp|title= Shuttle Lots and Airport Property|publisher= Columbus Regional Airport Authority|year= 2009|access-date= December 5, 2009|url-status = dead|archive-url  = https://web.archive.org/web/20091207223238/http://www.port-columbus.com/maps/lots.asp|archive-date = December 7, 2009 |df= mdy-all}}</ref>
+
+The Columbus Metropolitan Area's bus service, the [[Central Ohio Transit Authority]] (COTA), has two bus services between the airport and downtown Columbus. AirConnect, a service that began in 2016, stops at the arrival and departure levels every 30 minutes.<ref name="AirConnect">{{cite web| url=http://www.dispatch.com/content/stories/local/2016/01/27/COTA_plans_line_between_airport_and_Downtown.html| title=COTA plans bus line between airport and Downtown| access-date=2016-02-20}}</ref> COTA's 7 Mt. Vernon route is operated from downtown, with every other bus serving either the airport or Easton Transit Center.<ref>{{Cite web|url=https://flycolumbus.com/getting-to-from/public-transportation|title = Public Transportation}}</ref><ref>https://www.cota.com/wp-content/themes/gotravel-child/PDF/lines/7.pdf</ref>
+
+The GoBus Rural Inter-City Bus Service operates a thrice daily schedule to [[Athens, Ohio|Athens]], via [[Lancaster, Ohio|Lancaster]], [[Logan, Ohio|Logan]], and [[Nelsonville, Ohio|Nelsonville]].<ref>{{cite web|url=http://ridegobus.com/routes/columbus-athens/columbus-schedule/#/poloko////search|title=Route A: Columbus // Athens // Parkersburg Schedule -|website=ridegobus.com|access-date=June 26, 2017|archive-url=https://web.archive.org/web/20170621224321/http://ridegobus.com/routes/columbus-athens/columbus-schedule/#/poloko////search|archive-date=June 21, 2017|url-status=dead}}</ref>
+
+Inbound taxi services operate through numerous taxi businesses in the Columbus area. A number of taxi services provide outbound transportation in the taxi lane.<ref>{{cite web|url = http://www.port-columbus.com/parking/transportation/taxis.asp|title= Taxi Services|publisher= Columbus Regional Airport Authority|year = 2007|access-date  = July 22, 2007|url-status= dead|archive-url  = https://web.archive.org/web/20070713130248/http://www.port-columbus.com/parking/transportation/taxis.asp|archive-date = July 13, 2007|df = mdy-all}}</ref>
+
+===Other facilities===
+In 2001, Executive Jet Aviation (now known as [[NetJets]]), opened up a {{convert|200000|sqft|m2|adj=on}} operational headquarters.<ref>{{cite web|url=http://www.netjets.com/Learn_More/Press_Releases/2000/pr2000_06_14.asp |title=Executive Jet, Inc. Inaugurates New Operations Center |publisher=Netjets Inc. |date=June 14, 2000 |access-date=August 16, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070927064027/http://www.netjets.com/Learn_More/Press_Releases/2000/pr2000_06_14.asp |archive-date=September 27, 2007}}</ref>
+
+In November 2006, [[Skybus Airlines]] began leasing {{convert|100000|sqft|m2}} of office and hangar facilities at the Columbus International AirCenter adjacent to the airport.<ref>{{cite web|url=http://www3.skybus.com/skybusNews_detail.aspx?NewsPressReleaseID=6 |title=Skybus will establish headquarters at Columbus International AirCenter |publisher=Skybus Airlines Inc. |date=November 10, 2006 |access-date=August 16, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070710130005/http://www3.skybus.com/skybusNews_detail.aspx?NewsPressReleaseID=6 |archive-date=July 10, 2007 }}</ref>
+
+Regional carrier [[Republic Airways]] operates a large crew and maintenance base at the airport.
+
+The airport has its own police and fire departments (ARFF-C).
+
+==Airlines and destinations==
+{{CMH destinations map|width=360}}
+{{Airport destination list |3rdcoltitle = {{Abbr|Refs.|References}} | 3rdcolunsortable=yes
+<!-- -->
+| {{nowrap|[[Air Canada Express]]}} | [[Toronto Pearson International Airport|Toronto–Pearson]]| 
+<!-- -->
+| [[Alaska Airlines]] | [[Seattle–Tacoma International Airport|Seattle/Tacoma]] | <ref name="AlaskaRoutes">{{cite web|title=Flight Timetable|url=https://www.alaskaair.com/content/travel-info/timetables.aspx|access-date=29 August 2018}}</ref>
+<!-- -->
+| [[American Airlines]] | [[Charlotte Douglas International Airport|Charlotte]], [[Dallas/Fort Worth International Airport|Dallas/Fort Worth]], [[Miami International Airport|Miami]], [[Phoenix Sky Harbor International Airport|Phoenix–Sky Harbor]]<br />'''Seasonal:''' [[Cancún_International_Airport|Cancún]], [[O'Hare International Airport|Chicago–O'Hare]], [[LaGuardia Airport|New York–LaGuardia]], [[Philadelphia International Airport|Philadelphia]] | <ref name="AmericanRoutes">{{cite web|title=Flight schedules and notifications|url=https://www.aa.com/travelInformation/flights/schedule|access-date=7 January 2017}}</ref>
+<!-- -->
+| [[American Eagle (airline brand)|American Eagle]] | [[Logan International Airport|Boston]], [[Charlotte Douglas International Airport|Charlotte]], [[O'Hare International Airport|Chicago–O'Hare]], [[Miami International Airport|Miami]], [[John F. Kennedy International Airport|New York–JFK]], [[LaGuardia Airport|New York–LaGuardia]], [[Philadelphia International Airport|Philadelphia]], [[Ronald Reagan Washington National Airport|Washington–National]] | <ref name="AmericanRoutes"/>
+<!-- -->
+| [[Breeze Airways]] | [[Charleston International Airport|Charleston (SC)]], [[Bradley International Airport|Hartford]], [[Louis Armstrong New Orleans International Airport|New Orleans]], [[Norfolk International Airport|Norfolk]], [[Tampa International Airport|Tampa]] | <ref>{{Cite web|url=https://www.flybreeze.com/home|title=Breeze Airways}}</ref> 
+<!-- -->
+| [[Delta Air Lines]] | [[Hartsfield–Jackson Atlanta International Airport|Atlanta]], [[Minneapolis–Saint Paul International Airport|Minneapolis/St. Paul]], [[Salt Lake City International Airport|Salt Lake City]] (resumes June 6, 2022) | <ref name="DeltaRoutes">{{cite web|title=FLIGHT SCHEDULES|url=https://www.delta.com/flightinfo/viewFlightSchedulesSetup.action|access-date=7 January 2017}}</ref>
+<!-- -->
+| [[Delta Connection]] | [[Logan International Airport|Boston]], [[Detroit Metropolitan Airport|Detroit]], [[Minneapolis–Saint Paul International Airport|Minneapolis/St. Paul]], [[John F. Kennedy International Airport|New York–JFK]], [[LaGuardia Airport|New York–LaGuardia]] | <ref name="DeltaRoutes"/>
+<!-- -->
+| [[Frontier Airlines]] | [[Denver International Airport|Denver]], [[Orlando International Airport|Orlando]], [[Tampa International Airport|Tampa]] (begins December 17, 2021)<ref>{{Cite web|url=https://news.flyfrontier.com/frontier-airlines-expands-at-its-new-tampa-base-with-5-more-nonstop-routes/|title = Frontier Airlines Expands at its New Tampa Base with 5 More Nonstop Routes}}</ref><br />'''Seasonal:''' [[Cancún_International_Airport|Cancún]] (begins January 21, 2022)<ref>{{Cite web|url=https://news.flyfrontier.com/frontier-airlines-expands-its-international-route-map-with-6-new-nonstop-routes-to-cancun-this-winter/|title = Frontier Airlines Expands its International Route Map with 6 New Nonstop Routes to Cancun This Winter}}</ref> | <ref name="FrontierRoutes">{{cite web|title=Frontier|url=https://www.flyfrontier.com|access-date=7 January 2017}}</ref>
+<!-- -->
+| {{nowrap|[[Southwest Airlines]]}} | [[Hartsfield–Jackson Atlanta International Airport|Atlanta]], [[Austin Bergstrom International Airport|Austin]], [[Baltimore–Washington International Airport|Baltimore]], [[Midway International Airport|Chicago–Midway]], [[Dallas Love Field|Dallas–Love]], [[Denver International Airport|Denver]], [[Fort Lauderdale–Hollywood International Airport|Fort Lauderdale]], [[Southwest Florida International Airport|Fort Myers]], [[William P. Hobby Airport|Houston–Hobby]], [[McCarran International Airport|Las Vegas]], [[Nashville International Airport|Nashville]], [[Orlando International Airport|Orlando]], [[Phoenix Sky Harbor International Airport|Phoenix–Sky Harbor]], [[St. Louis Lambert International Airport|St. Louis]], [[Tampa International Airport|Tampa]], [[Ronald Reagan Washington National Airport|Washington–National]]<br />'''Seasonal:''' [[Cancún_International_Airport|Cancún]], [[Miami International Airport|Miami]], [[Myrtle Beach Airport|Myrtle Beach]], [[Northwest Florida Beaches International Airport|Panama City (FL)]], [[Sarasota-Bradenton International Airport|Sarasota]] | <ref name="SouthwestRoutes">{{cite web|title=Check Flight Schedules|url=https://www.southwest.com/air/flight-schedules/index.html|access-date=7 April 2018}}</ref>
+<!-- -->
+| [[Spirit Airlines]] | [[Fort Lauderdale–Hollywood International Airport|Fort Lauderdale]], [[McCarran International Airport|Las Vegas]], [[Los Angeles International Airport|Los Angeles]], [[Orlando International Airport|Orlando]], [[Pensacola International Airport|Pensacola]]<br />'''Seasonal:''' [[Southwest Florida International Airport|Fort Myers]], [[Myrtle Beach International Airport|Myrtle Beach]], [[Louis Armstrong New Orleans International Airport|New Orleans]], [[Tampa International Airport|Tampa]] | <ref>{{cite web|url=http://www.globenewswire.com/news-release/2017/11/08/1177925/0/en/Spirit-Airlines-Adds-Columbus-Ohio-to-its-Growing-Network.html|title=Spirit Airlines Adds Columbus, Ohio to its Growing Network|first=Spirit Airlines|last=Inc.|date=November 8, 2017}}</ref>
+<!-- -->
+| [[United Airlines]] | [[O'Hare International Airport|Chicago–O'Hare]], [[Denver International Airport|Denver]], [[George Bush Intercontinental Airport|Houston–Intercontinental]], [[San Francisco International Airport|San Francisco]] (resumes February 11, 2022), [[Washington Dulles International Airport|Washington–Dulles]] | <ref name="UnitedRoutes">{{cite web|title=Timetable|url=https://www.united.com/web/en-US/apps/travel/timetable/default.aspx|access-date=7 January 2017}}</ref>
+<!-- -->
+| [[United Express]] | [[O'Hare International Airport|Chicago–O'Hare]], [[Denver International Airport|Denver]], [[George Bush Intercontinental Airport|Houston–Intercontinental]], [[Newark Liberty International Airport|Newark]], [[Washington Dulles International Airport|Washington–Dulles]]<br />'''Seasonal:''' [[Charleston International Airport|Charleston (SC)]], [[Southwest Florida International Airport|Fort Myers]], [[Hilton Head Airport|Hilton Head]], [[Portland International Jetport|Portland (ME)]] | <ref name="UnitedRoutes"/>
+}}
+
+==Statistics==
+===Top destinations===
+{| class="wikitable sortable" style="font-size: 95%" width= align=
+|+ '''Busiest domestic routes from CMH (September 2020 - August 2021)'''<ref>{{cite web|url=https://www.transtats.bts.gov/airports.asp?20=E&Nv42146=PZU&Nv42146_anzr=P1y7zo75,%20bU:%20W1u0%20Tyr00%20P1y7zo75%20V06r40n6v10ny&pn44vr4=SNPgf|title=RITA – BTS – Transtats|publisher=Bureau of Transportation Statistics|access-date=November 29, 2021}}</ref>
+|-
+! Rank
+! City
+! Passengers
+! Carriers
+|-
+| 1
+| [[Hartsfield–Jackson Atlanta International Airport|Atlanta, Georgia]]
+| 273,000
+| Delta, Southwest
+|-
+| 3
+| [[Orlando International Airport|Orlando, Florida]]
+| 165,000
+| Frontier, Southwest, Spirit
+|-
+| 3
+| [[Charlotte Douglas International Airport|Charlotte, North Carolina]]
+| 145,000
+| American
+|-
+| 4
+| [[O'Hare International Airport|Chicago–O'Hare, Illinois]]
+| 140,000
+| American, United
+|-
+| 5
+| [[Denver International Airport|Denver, Colorado]]
+| 138,000
+| Frontier, Southwest, United
+|-
+| 6
+| [[Dallas/Fort Worth International Airport|Dallas/Fort Worth, Texas]]
+| 119,000
+| American
+|-
+| 7
+| [[Southwest Florida International Airport|Fort Myers, Florida]]
+| 100,000
+| Southwest, Spirit, United
+|-
+| 8
+| [[Fort Lauderdale–Hollywood International Airport|Fort Lauderdale, Florida]]
+| 91,000
+| Southwest, Spirit
+|-
+| 9
+| [[Phoenix Sky Harbor International Airport|Phoenix, Arizona]]
+| 90,000
+| American, Southwest
+|-
+| 10
+| [[Midway International Airport|Chicago–Midway, Illinois]]
+| 86,000
+| Southwest
+|-
+|}
+
+===Airline market share===
+{| class="wikitable sortable" style="text-align: center;"
+|-
+|+Airline market share (2020)<ref>{{Cite web|last=Katz|first=Ezra|date=January 28, 2020|title=Fly Columbus Traffic Report|url=https://flycolumbus.com/flights/airline-stats|url-status=live|access-date=April 4, 2020|publisher=Columbus Regional Airport Authority}}</ref>
+! Rank !! style="width:90px;"| Carrier !! Passengers
+!Percentage
+|-
+| 1 || {{nowrap|[[Southwest Airlines]]}} || 1,155,670
+|35.49%
+|-
+| 2 || [[American Airlines]]|| 769,026
+|23.62%
+|-
+| 3 || [[Delta Air Lines]] || 589,301
+|18.10%
+|-
+|4
+|[[United Airlines]]
+|391,700
+|12.03%
+|-
+| 5 || [[Spirit Airlines]] || 247,693
+|7.61%
+|-
+| 6 || [[Alaska Airlines]] || 47,143
+|1.45%
+|-
+|7
+|[[Frontier Airlines]]
+|46,425
+|1.43%
+|-
+|8
+|[[Air Canada Express]]
+|9,500
+|0.29%
+|}
+
+===Airport traffic===
+{{Airport-Statistics|iata=CMH}}
+
+==Accidents and incidents==
+* On June 27, 1954 an [[American Airlines]] [[Convair 240|Convair CV-240]] (N94263) from [[Dayton International Airport]] was on approach to Runway 27 at {{convert|300|ft|m}} when the left side of the plane collided with a [[United States Navy|US Navy]] [[Beechcraft Model 18|Beechcraft SNB-2C Navigator]] (BuA23773), also on approach. The Convair recovered and landed, though the nose gear collapsed on landing. The Beechcraft crashed short of the runway, killing two on board. The probable cause was attributed to ''"A traffic control situation created by the tower local controller which he allowed to continue without taking the necessary corrective action. A contributing factor was the failure of both crews to detect this situation by visual and/or aural vigilance."''<ref name="convair">{{cite web| url        = http://aviation-safety.net/database/record.php?id=19540627-0| title      = ASN Aircraft accident description Convair CV-240-0 N94263| publisher=Aviation Safety Network| year       = 1954| access-date =November 13, 2007}}</ref>
+
+*On January 7, 1994, [[United Express Flight 6291]] was a [[BAe Jetstream 41]] being operated by [[Atlantic Coast Airlines]]; it was on approach to runway 28L when it entered into a stall at {{convert|430|ft|m}} above runway level. The aircraft collided with a stand of trees and came to rest inside a commercial building {{convert|1.2|mi|km}} short of the runway and burst into flames. The accident killed all three crewmembers and two of five passengers. The probable cause was attributed to ''"(1) An aerodynamic stall that occurred when the flight crew allowed the airspeed to decay to stall speed following a very poorly planned and executed approach characterized by an absence of procedural discipline; (2) Improper pilot response to the stall warning, including failure to advance the power levers to maximum, and inappropriately raising the flaps; (3) Flight crew experience in 'glass cockpit' automated aircraft, aircraft type and in seat position, a situation exacerbated by a [[Side letter (collective bargaining)|side letter]] of agreement between the company and its pilots; and (4) the company's failure to provide adequate stabilized approach criteria, and the FAA's failure to require such criteria. Member Vogt concluded that the last factor was contributory but not causal to the accident. Additionally, for the following two factors, Chairman Hall and Member Lauber concluded that they were causal to the accident, while Members Vogt and Hammerschmidt concluded they were contributory to the accident: (5) The company's failure to provide adequate crew resource management training, and the FAA's failure to require such training; and (6) the unavailability of suitable training simulators that precluded fully effective flight crew training."''<ref name="jetstream">{{cite web| url        = http://aviation-safety.net/database/record.php?id=19940107-0| title      = ASN Aircraft accident description British Aerospace BAe 4101 Jetstream 41 N304UE| publisher=Aviation Safety Network| year       = 1994| access-date =November 13, 2007}}</ref>
+
+==See also==
+{{Portal|Ohio|Aviation}}
+* ''[[Brushstrokes in Flight]]''
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category}}
+*[https://web.archive.org/web/20051229055745/http://cmh.natca.net/ National Air Traffic Controllers Association (NATCA) CMH Local]
+*[https://flycolumbus.com/ John Glenn Columbus International Airport] (official site)
+*[https://flycolumbus.com/flights/flight-status Real-Time Flight Information for John Glenn Columbus International Airport]
+*{{FAA-diagram|00094}}
+*{{US-airport|CMH}}
+{{Transportation in Columbus, Ohio}}
+{{Authority control}}
+{{good article}}
+
+[[Category:Buildings and structures in Columbus, Ohio]]
+[[Category:Transportation in Columbus, Ohio]]
+[[Category:Airports in Ohio]]
+[[Category:Airports established in 1929]]
+[[Category:John Glenn|Columbus International Airport]]
+[[Category:Transportation buildings and structures in Franklin County, Ohio]]
+[[Category:1929 establishments in Ohio]]

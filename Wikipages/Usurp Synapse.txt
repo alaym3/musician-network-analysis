@@ -1,0 +1,277 @@
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name             = Usurp Synapse
+| image            = 
+| caption          = 
+| image_size       = 
+| background       = group_or_band
+| alias            = 
+| origin           = [[Lafayette, Indiana]]
+| genre            = [[Screamo]], [[grindcore]], [[emoviolence]]
+| years_active     = 1998&ndash;2001, 2004
+| label            = Clean Plate Records<br />Electric Human Project<br />[[Happy Couples Never Last]]<br />[[Level Plane Records]]<br />Magister Ludi Records<br />Witching Hour Records
+| associated_acts  = I Am The Resurrection, The State Secedes, Mara'akate, Fax Arcana, The Drago Miette, Rep Seki, Thin Fevers, Basshaters, Mt. Gigantic, No Ritual
+| website          = 
+| current_members  = John Scott<br />Travis Chance<br />Don Kirkland <br />Tony Dryer
+| past_members     = Dustin Redington<br />Brandon Harris<br />Dean Duval<br />Antonio Leiriao<br />Mike Dixon
+}}
+
+'''Usurp Synapse''' was a [[screamo]] band from [[Lafayette, Indiana]]. The group combined fast and frantic [[grindcore]] influenced [[drum]]ming and  [[guitar]] work, and raw [[screaming (music)|screams]].
+
+==History==
+Usurp Synapse formed in 1998 in [[Lafayette, Indiana]].<ref name="Photos from 1999 [Archived]">{{cite web|title=Photos from 1999 [archived] |url=http://ellipsometer.rice.edu/stewarmp/thinking/usurp/usurp.htm |access-date=October 16, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20030610043747/http://ellipsometer.rice.edu/stewarmp/thinking/usurp/usurp.htm |archive-date=June 10, 2003 }}</ref>  Their line up changed somewhat frequently during their initial run. Antonio Leiriao, their second vocalist, originally lived in New York<ref name="FMF"/> before he moved to Indiana in 1999 to join the group. Most of their music was released through [[split albums]] with other artists, perhaps their most famous split being their ''Just Do It!'' record with Hassan I Sabbah, which included razor blades. Unconventional marketing methods such as this was utilized by the band throughout their run.
+
+In 2000, they toured the United States along with [[Jeromes Dream]], who they also released a split with, and [[Racebannon]] from May to June. This would become the only major nationwide tour for the band. In 2001, they announced plans to do another tour in the United States, Europe, and Japan over the summer. They also announced plans to release a split with [[Pg. 99]], an EP that would have only been obtainable by selling your soul away to the band, a split with Mara'akate shaped as Indiana,<ref name="AMG">{{cite web|last1=Morris|first1=Kurt|title=AllMusic Guide Review Of Disinformation Fix|url=http://www.allmusic.com/album/disinformation-fix-mw0000773682|website=Allmusic.com|publisher=AllMusic Guide}}</ref> and what would have been the band's first full-length album, which was under the working title of ''ATM Diatribe''. That same year Mike Dixon (who previously worked in the band Rep Seki) joined Usurp Synapse as the keyboardist.
+
+Later that same year it was announced that all plans, except for ''ATM Diatribe'', had to be cancelled. ''ATM Diatribe'' was initially supposed to be released on [[compact disc]] and [[LP Record|vinyl]] through [[Happy Couples Never Last]], however that too was cancelled when the band broke up in the spring of 2001. The tracks from the ''ATM Diatribe'' sessions, along with the rest of the band's recorded discography, was eventually released on ''[[Disinformation Fix]]'', a discography compilation released through Alone Records.
+
+In 2008, the group released ''A Vile Contamina'' through their Myspace page for free. The EP included material recorded during their reformative period.
+
+Former members of the band would later join other projects such as Fax Arcana and The Drago Miette, both of whom are now disbanded. Antonio Leirao would move on to the [[indie rock]] band Thin Fevers<ref name="MFT">{{cite web|last1=n/a|title=Thin Fevers Biography|url=http://www.musicalfamilytree.com/band/thin_fevers|website=musicalfamilytree.com|publisher=Musical Family Tree|access-date=2017-02-13}}</ref> and is now a [[Funk (music)|funk]] [[DJ]].<ref name="FMF">{{cite web|last1=n/a|title=Big Ups with Antonio Leiriao|url=https://fleamarketfunk.com/2016/07/25/big-ups-with-antonio-leiriao/|website=fleamarketfunk.com|publisher=Flea Market Funk|access-date=2016-07-25}}</ref>  Chance now works as a session drummer in New York<ref name="Mike Dixon's blogspot page">{{cite web|title=Interview with Travis Chance|url=http://fullergoeasy.blogspot.com/2006/09/sugar-sugar-sugar-nahhhh.html|author=Micheal Dixon|access-date=October 16, 2015}}</ref> and was one of the many drummers who played in [[The Boredoms]] 2008 88 Boadrums event.<ref name="Rolling Stone Magazine">{{cite web|title=The Boredoms Revel in Rhythm, Numerology for 88 BoaDrums|url=https://www.rollingstone.com/music/news/the-boredoms-revel-in-rhythm-numerology-for-88-boadrums-20080811|author=Trent Moorman|access-date=October 16, 2015}}</ref>
+
+==Band members==
+===Final lineup===
+*John Scott - Vocals, keyboards (1998-2001, 2004)
+*Don Kirkland - Guitar (1998-2001, 2004)
+*Tony Dryer - Bass  (1999-2001, 2004)
+*Travis Chance - Drums (1998-2001, 2004)
+
+===Past members===
+*Mike Dixon - Keyboards (2001)
+*Antonio Leiriao - Vocals (1999 - 2001)
+*Brandon Harris - Guitar (1999 - 2001)
+*Dustin Redington - Bass (1998 - 1999)
+*Dean Duval - Guitar (1998 - 1999)
+
+===Timeline===
+{{#tag:timeline|
+ImageSize  = width:800  height:auto  barincrement:20
+PlotArea   = left:110  bottom:75  top:5  right:10
+Alignbars  = justify
+DateFormat = mm/dd/yyyy
+Period     = from:01/01/1998 till:07/01/2004
+TimeAxis   = orientation:horizontal format:yyyy
+ScaleMinor = increment:1  start:1998
+ScaleMajor = increment:2  start:1998
+Legend     = position:bottom  orientation:vertical  columns:4
+
+Colors =
+ id:Vocals    value:red        legend:Vocals
+ id:Guitar    value:green      legend:Guitar
+ id:Keyboards value:purple     legend:Keyboards
+ id:Bass      value:blue       legend:Bass
+ id:Drums     value:orange     legend:Drums
+ id:Lines1    value:gray(0.4)  legend:EP
+ id:Lines2    value:gray(0.7)  legend:Split
+ id:bars      value:gray(0.95)
+
+BackgroundColors = bars:bars
+
+BarData =
+ bar:John      text:"John Scott"
+ bar:Antonio   text:"Antonio Leiriao"
+ bar:Dean        text:"Dean Duval"
+ bar:Brandon      text:"Brandon Harris"
+ bar:Don        text:"Don Kirkland"
+ bar:Mike         text:"Mike Dixon"
+ bar:Dustin       text:"Dusting Redington"
+ bar:Tony    text:"Tony Dryer"
+ bar:Travis         text:"Travis Chance"
+
+LineData =
+ at:03/04/1999  color:Lines1  layer:back
+ at:09/01/1999  color:Lines1  layer:back
+ at:06/01/2000  color:Lines1  layer:back
+
+ at:01/01/1999  color:Lines2  layer:back
+ at:04/01/1999  color:Lines2  layer:back
+ at:01/01/2000  color:Lines2  layer:back
+ at:05/01/2000  color:Lines2  layer:back
+ at:07/03/2000  color:Lines2  layer:back
+ at:08/01/2000  color:Lines2  layer:back
+
+PlotData=
+ width:11  textcolor:black align:left anchor:from shift:(10,-4)
+ bar:John     from:start      till:06/01/2001 color:Vocals
+ bar:John     from:01/01/2004 till:07/01/2004 color:Vocals
+ bar:Antonio    from:01/01/1999      till:06/01/2001 color:Vocals
+
+ bar:Brandon     from:06/01/1999      till:06/01/2001 color:Guitar
+ bar:Dean       from:start      till:06/01/1999 color:Guitar
+ bar:Don      from:06/01/1999 till:06/01/2001 color:Guitar
+ bar:Don       from:01/01/2004 till:07/01/2004 color:Guitar
+
+ bar:Dustin       from:start      till:06/01/1999 color:Bass
+ bar:Tony  from:06/01/1999 till:06/01/2001 color:Bass
+ bar:Tony   from:01/01/2004 till:07/01/2004 color:Bass
+
+ bar:Mike        from:04/01/2001 till:06/01/2001 color:Keyboards
+
+ bar:Travis       from:start      till:06/01/2001 color:Drums
+ bar:Travis       from:01/01/2004 till:07/01/2004 color:Drums
+
+ width:3 textcolor:black align:left anchor:from shift:(11,-4)
+ bar:John   from:start till:04/01/2001 color:Keyboards
+ bar:John from:01/01/2004 till:07/01/2004 color:Keyboards
+}}
+
+==Discography==
+===Split releases===
+{| class ="wikitable"
+|-
+! style="width: 5%" | Year
+! style="width:10%" | Album Details
+! style="width:30%" | Notes
+|-
+|1999
+|'''Index For Potential Suicide/Usurp Synapse'''
+*Released: 1999
+*Label: Witching Hour Records
+*Format: 7"
+|1100 black copies, 200 orange copies. 100 copies had special tour edition covers, 20 came with xerox'd covers Split with Index For Potential Suicide.
+|-
+|1999
+|'''''Index Of Isolation'''''
+*Released: 1999
+*Label: [[Happy Couples Never Last Records]]
+*Format: 7"
+|1000 black colored copies. Split with Emotion Zero.
+|-
+|2000
+|'''Rep Seki/Usurp Synapse'''
+*Released: 2000
+*Label: Magester Ludi Records
+*Format: 5" [[picture disc]]
+|1000 picture disc copies, split with Rep Seki
+|-
+|2000
+|'''''The Chilling Tale Of Usurp Synapse, As Told By Neil Perry'''''
+*Released: May 1, 2000
+*Label: [[Level Plane Records]]
+*Format: 7"
+|1100 black copies, 100 copies had alternative artwork under the name '''''Comes Around, Goes Around'''''. Split with [[Neil Perry (band)|Neil Perry]].
+|-
+|2000
+|'''''Just Do It!'''''
+*Released: July 3, 2000
+*Label: Electric Human Project
+*Format: 7"
+|1000 black copies, 100 white, 5 test pressings. All white copies came with a razor blade with "have fun!" written on it, some copies also included a bandage stuck onto the front cover. Split with Hassan I Sabbah.
+|-
+|2000
+|'''''An Aspirin, An X-Ray'''''
+*Released: August 2000
+*Label: Clean Plate Records/[[Level Plane Records]]
+*Format: 7"
+|1300 white copies, 200 black copies, 20 test pressings. 15 copies had alternative cover art. Some copies included a tour pin. Split with [[Jeromes Dream]]
+|}
+
+===Extended plays===
+{| class ="wikitable"
+|-
+! style="width: 5%" | Year
+! style="width:10%" | Album Details
+! style="width:30%" | Notes
+|-
+|1999
+|'''''In Examination Of'''''
+*Released: March 4, 1999 [6"] <br/> May 1, 2000 [7"]
+*Label: [[Level Plane Records]]/Witching Hour Records
+*Format: 6", 7"
+|First released in 1999 as a 6" consisting of 666 black copies. 25 copies were sold at live shows with alternative artwork. Reissued in 2000 as a 7" consisting of 200 translucent red copies which was only available through mail-order. The first 99 copies of the 6" version came with "blood pills" (pills with fake blood in them)
+|-
+|1999
+|'''''This Endless Breath'''''
+*Released: September 1999
+*Label: [[Happy Couples Never Last Records]]
+*Format: [[Compact Disc|CD]]
+|1000 copies were wrapped in paper, 50 copies were tour editions that came with black covers, 50 copies came with cobra covers. All copies came with stickers.
+|- 
+|2000
+|'''''The Main Ingredient'''''
+*Released: 2000
+*Label: Self-released
+*Format: 7"
+|Known as "the penis 7 inch" due to its packaging: The front side of the cover included a flap designed as a penis, and the back side included a hole shaped as a vagina. The 7" only included the title track on both sides, however the second side has "Tour Release of 200" etched on it, making it impossible to play. Limited to 200 pink copies.
+|-
+|2008
+|'''''A Vile Contamina'''''
+*Released: August 2008
+*Label: Self-released
+*Format: [[Music download|DL]]
+|Intended to be released sometime in 2004, but shelved soon after completion. It was eventually released for free download on the band's [[Myspace]] page in 2008.
+|}
+
+===Compilation albums===
+{| class ="wikitable"
+|-
+! style="width: 5%" | Year
+! style="width:10%" | Album Details
+! style="width:30%" | Notes
+|-
+|2003
+|'''''[[Disinformation Fix]]'''''
+*Released: 2003
+*Label: Alone Records
+*Format: [[Compact Disc|2xCD]]
+|Discography compilation that included every single song Usurp Synapse recorded up to that point, including songs from the sessions for the scrapped ''ATM Diatribe'' album.
+|}
+
+===Compilation Appearances===
+{| class ="wikitable"
+! style="width: 5%" | Year
+! style="width:10%" | Album Details
+! style="width:30%" | Song
+|-
+|2000
+|'''''Summertime'''''
+*Released: 2000
+*Label: Kordava Milk Bar Records
+*Format: [[Compact Disc|CD]]
+|"More Than Meets The Eye"
+|-
+|2000
+|''''HCNL Sampler V1.07.00'''''
+*Released: 2000
+*Label: [[Happy Couples Never Last Records]]
+*Format: [[CD-R]]
+|"Oh, You Are Sick"
+|-
+|2000
+|'''''Songs Of The Dead 2: Idle Hands'''''
+*Released: September 2000
+*Label: And Heres Where My Troubles Began Records
+*Format: [[Compact Disc|CD]]
+|"Brundle Fly"
+|-
+|2000
+|'''''Antipodes'''''
+*Released: October 2000
+*Label: [[Level Plane Records]]
+*Format: 7"
+|"Good Luck With Your Book"
+|-
+|2001
+|'''''Relics Of Ordinary Life'''''
+*Released: 2001
+*Label: [[Happy Couples Never Last Records]]
+*Format: [[Compact Disc|CD]]
+|"..."
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20050313213616/http://www.level-plane.com/php/band_detail.php?band_id=26 Level Plane information regarding Usurp Synapse (Archived)]
+*[https://web.archive.org/web/20021030045404/http://www.level-plane.com/usurp/news.htm Old Usurp Synapse Index (Archived)]
+*[https://web.archive.org/web/20050214001408/http://www.myspace.com/usurpsynapse Official Myspace page (Archive)]
+
+{{Authority control}}
+
+[[Category:Musical groups from Indiana]]
+[[Category:American screamo musical groups]]
+[[Category:American emo musical groups]]
+[[Category:Musical groups established in 1998]]
+[[Category:Musical groups disestablished in 2001]]
+[[Category: Powerviolence groups]]
+[[Category:Level Plane Records artists]]

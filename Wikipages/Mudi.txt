@@ -1,0 +1,60 @@
+{{about||the village in Iran|Mudi, Iran|the town in Nepal|Mudi, Nepal}}
+{{distinguish|Mudie}}
+
+<!-- Begin Infobox Dogbreed. The text of the article should go AFTER this section. See: -->
+<!-- http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Dog_breeds#Infobox_Dogbreed_template -->
+<!-- for full explanation of the syntax used in this template. -->
+{{Infobox Dogbreed
+| name = Mudi
+| image = Hondenras_Mudi.jpg
+| image_caption= A black Mudi
+| altname = 
+| country = [[Hungary]]
+<!-----Traits----->
+| weight         = 
+| maleweight     = {{cvt|11|-|13|kg|}}
+| femaleweight   = {{cvt|8|-|11|kg|}}
+| height         = 
+| maleheight     = {{cvt|41|-|47|cm|in}}
+| femaleheight   = {{cvt|38|-|44|cm|in}}
+| coat           = Head and front of limbs are covered by short, straight, and smooth hair. Elsewhere the coat is uniformly wavy or slightly curled {{cvt|3|-|7|cm|in}} long. 
+| colour         = Fawn. Black. Brown. Ash coloured (blue grey). Blue-merle, i.e. black speckled, estriped, -brindle or -spotted on lighter or darker bluish-grey primary colour. 
+| litter_size    = 
+| life_span      = 
+| fcistd = http://www.fci.be/Nomenclature/Standards/238g01-en.pdf
+}}
+
+The '''Mudi''' is a [[herding dog|herding]] [[dog breed]] from [[Hungary]]. It is closely related to the [[Puli dog|Puli]] and [[Pumi (dog)|Pumi]], from which it was separated in the 1930s. They continue to be used in herding, as well as participating in a variety of [[dog sports]].
+
+==History== 
+The Mudi was first discovered as a breed in 1936 by Dr. Dezso Fenyes in Hungary, where it became known as the "driver dog." Mudis nearly disappeared shortly after their recognition, as many were killed during World War II. The breed became recognized by The Federation Cynologique Internationale in 1966, followed by the United Kennel Club in 2006.
+
+== Description ==
+
+=== Appearance ===
+[[Image:Mudi fawn.JPG|thumb|left|A fawn Mudi]]
+Mudis are born with various lengths of tails from bobtails to long full length tails. Dogs born with short or natural bobtail will be indicated on the FCI pedigree.
+
+=== Exercise and activities ===
+The Mudi is a very active breed. They need to be taken on daily, long, brisk walks or jogs. In addition, they will benefit from a large safe area where they can run free. They need a lot of running and other exercises to be in good condition. They love to play and will excel in all kinds of dog sports such as Frisbee. The Mudi can compete in [[dog agility]] trials, [[obedience training|obedience]], [[Rally obedience]], [[Schutzhund]], [[Dog showmanship|showmanship]], [[flyball]], [[tracking (dog)|tracking]], and [[herding]] events. [[Herding]] instincts and trainability can be measured at noncompetitive herding tests. Mudi that exhibit basic herding instincts can be trained to compete in herding trials.<ref name="Hartnagle-Taylor and Ty Taylor">{{cite book|first1 = Jeanne Joy | last1 = Hartnagle-Taylor | first2 = Ty | last2 = Taylor |year = 2010|title=Stockdog Savvy|publisher=Alpine Publications|isbn=978-1-57779-106-5|page=81}}</ref>
+
+[[File:Mudi blue merle.jpg|thumb|right|A [[merle (dog coat)|blue merle]] Mudi]]
+
+==See also==
+* [[Hungarian dog breeds]]
+* [[Portal:Dogs|Dogs portal]]
+* [[List of dog breeds]]
+
+==References==
+{{Reflist}}
+
+== External links==
+{{commons}}
+
+{{Hungarian dogs}}
+{{Pastoral dogs}}
+
+[[Category:FCI breeds]]
+[[Category:Dog breeds originating in Hungary]]
+[[Category:Herding dogs]]
+[[Category:Rare dog breeds]]

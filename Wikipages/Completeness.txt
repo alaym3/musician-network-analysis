@@ -1,0 +1,62 @@
+{{wiktionary|completeness|complete|completed|incompleteness}}
+
+'''Complete''' may refer to:
+{{TOC right}}
+==Logic==
+* [[Completeness (logic)]]
+* [[Complete theory|Completeness]] of a theory, the property of a theory that every formula in the theory's language or its negation is provable
+
+==Mathematics==
+* The [[completeness of the real numbers]], which implies that there are no "holes" in the real numbers
+* [[Complete metric space]], a metric space in which every Cauchy sequence converges
+* [[Uniform space#Completeness|Complete uniform space]], a uniform space where every Cauchy net in converges (or equivalently every Cauchy filter converges)
+* [[Complete measure]], a measure space where every subset of every null set is measurable
+* [[Completion (algebra)]], at an ideal
+* [[Completeness (cryptography)]]
+* [[Completeness (statistics)]], a statistic that does not allow an unbiased estimator of zero
+* [[Complete graph]], an undirected graph in which every pair of vertices has exactly one edge connecting them
+* [[Complete category]], a category ''C'' where every diagram from a small category to ''C'' has a limit; it is ''cocomplete'' if every such functor has a colimit
+* [[Completeness (order theory)]], a notion that generally refers to the existence of certain suprema or infima of some partially ordered set
+* [[Complete variety]], an algebraic variety that satisfies an analog of compactness
+* Complete orthonormal basis—see [[Orthonormal basis#Incomplete orthogonal sets]]
+* [[Complete sequence]], a type of integer sequence
+
+== Computing ==
+* [[Complete (complexity)]], a notion referring to a problem in computational complexity theory that all other problems in a class reduce to
+** [[Turing complete set]], a related notion from recursion theory
+* [[Completeness (knowledge bases)]], found in knowledge base theory
+* Complete [[search algorithm]], a search algorithm that is guaranteed to find a solution if there is one
+
+== Physics ==
+* [[Complete set of commuting operators]] (or CSCO), a set of commuting operators in quantum mechanics whose eigenvalues are sufficient to specify the physical state of a system
+
+==Economics, finance, and industry==
+* [[Complete market]], a market with negligible transaction costs and a price for every asset
+* [[Completion (oil and gas wells)]], the process of making a well ready for production
+
+== Botany ==
+* Complete flower, a flower with both male and female reproductive structures as well as petals and sepals. See [[Sexual reproduction in plants]].
+
+== Entertainment ==
+
+=== Music ===
+* ''Completeness'', a 1998 collection of [[Miki Nakatani#Videos|Miki Nakatani music videos]]
+* [[Complete (Jaimeson song)|"Complete" (Jaimeson song)]], a 2003 song by the British electronic music artist Jaimeson
+* [[Complete (Lila McCann album)|''Complete'' (Lila McCann album)]], the third album by country music artist Lila McCann
+* [[Complete (News from Babel album)|''Complete'' (News from Babel album)]], a three-CD box set by the English avant-rock band News from Babel
+* [[Complete (The Smiths album)|''Complete'' (The Smiths album)]], a box set released by British band The Smiths on 26 September 2011
+* [[Complete (The Veronicas album)|''Complete'' (The Veronicas album)]], 2009
+* "Complete", a song by Kutless from ''[[To Know That You're Alive]]''
+* "Complete", a 2007 song by Girls' Generation from the album ''[[Girls' Generation (2007 album)|Girls' Generation]]''
+* [[Complete (BtoB album)|''Complete'' (BtoB album)]], 2015
+* "[[My Completeness]]", a 2004 song by Thirsty Merc
+
+== See also ==
+{{Wikiquote}}
+* [[Completion (disambiguation)]]
+* [[Completely (disambiguation)]]
+* [[Compleat (disambiguation)]]
+* [[Wholeness (disambiguation)]]
+* {{intitle|incompleteness}}
+
+{{disambiguation}}

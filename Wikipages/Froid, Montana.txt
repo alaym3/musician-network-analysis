@@ -1,0 +1,138 @@
+{{Infobox settlement
+|official_name            = Froid, Montana
+|settlement_type          = [[Town]]
+|nickname                 = 
+|motto                    = "Last Best Place"
+
+<!-- Images -->
+|image_skyline            = 
+|imagesize                = 
+|image_caption            = 
+|image_flag               = 
+|image_seal               =
+
+<!-- Maps -->
+|image_map = Roosevelt_County_Montana_Incorporated_and_Unincorporated_areas_Froid_Highlighted.svg
+|mapsize                  = 250px
+|map_caption              = Location of Froid, Montana
+|image_map1               = 
+|mapsize1                 = 
+|map_caption1             =
+
+<!-- Location -->
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = United States
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = [[Montana]]
+|subdivision_type2        = [[List of counties in Montana|County]]
+|subdivision_name2        = [[Roosevelt County, Montana|Roosevelt]]
+|government_footnotes     = 
+|government_type          = 
+|leader_title             = 
+|leader_name              = 
+|leader_title1            = 
+|leader_name1             = 
+|established_title        = 
+|established_date         =
+
+<!-- Area -->
+|unit_pref                = Imperial
+|area_footnotes           = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_30.txt|publisher=United States Census Bureau|access-date=July 26, 2020}}</ref>
+|area_magnitude           = 
+|area_total_km2           = 1.62
+|area_land_km2            = 1.62
+|area_water_km2           = 0.00
+|area_total_sq_mi         = 0.62
+|area_land_sq_mi          = 0.62
+|area_water_sq_mi         = 0.00
+
+<!-- Population -->
+|population_as_of         = [[2020 United States Census|2020]]
+|population_est           = 
+|pop_est_as_of            = 
+|population_footnotes     = <ref name ="wwwcensusgov"/>
+|population_total         = 195
+|population_density_km2   = 120.37
+|population_density_sq_mi = 314.52
+
+<!-- General information -->
+|timezone                 = [[Mountain Time Zone|Mountain (MST)]]
+|utc_offset               = -7
+|timezone_DST             = MDT
+|utc_offset_DST           = -6
+|elevation_footnotes      = 
+|elevation_m              = 619
+|elevation_ft             = 2031
+|coordinates              = {{coord|48|20|9|N|104|29|25|W|region:US_type:city|display=inline,title}}
+|postal_code_type         = [[ZIP code]]
+|postal_code              = 59226
+|area_code                = [[Area code 406|406]]
+|blank_name               = [[Federal Information Processing Standard|FIPS code]]
+|blank_info               = 30-29500
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = 0771647
+|website                  = 
+|footnotes                = 
+|pop_est_footnotes =
+}}
+'''Froid''' is a town in [[Roosevelt County, Montana|Roosevelt County]], [[Montana]], United States. The population was 195 at the [[2020 United States Census|2020 census]].<ref name ="wwwcensusgov">{{cite web|title=U.S. Census website|url=https://data.census.gov/cedsci/|publisher=[[United States Census Bureau]]|access-date=November 2, 2021}}</ref> Froid was named for the French word for "cold".<ref name="MT Place Names">{{cite web|title=Montana Place Names Companion|url=http://mtplacenames.org/|work=Montana Place Names From Alzada to Zortman|publisher=Montana Historical Society Research Center|access-date=9 May 2011}}</ref>
+
+==History==
+The land that is now Froid was homesteaded by James and Alice Baker, and who erected a building that housed a dry goods store, livery stable, and meat house.  One family currently residing in Froid (the Johnsons) are descendants of this couple.{{citation needed|date = September 2019}}
+
+Froid was incorporated in 1910.<ref>{{cite web|url=http://www.froidmt.com/timeline.html |title=Our Story: Highlights of the Life and Times of Froid|website= Town of Froid|access-date=January 12, 2009}}</ref> The town made headlines in 2007, when Governor [[Brian Schweitzer]] gave the commencement address to the high school graduating class, which consisted entirely of one student, Roxie Britton. The act received considerable [[soft news]] coverage for this distinction.<ref>{{cite news |title= Governor Speaks to Graduating Class of One |url= http://www.billingsgazette.net/articles/2007/05/15/news/state/73-gov.txt |publisher= [[Billings Gazette]] |date= 2007-05-15 |access-date= 2007-09-22}}</ref>
+
+==Geography==
+Froid is located at {{Coord|48|20|9|N|104|29|25|W|type:city}} (48.335950, -104.490264),<ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=2011-04-23|date=2011-02-12|title=US Gazetteer files: 2010, 2000, and 1990}}</ref> near the [[North Dakota]] border and north of [[Culbertson, Montana|Culbertson]], on [[Montana Highway 16|Highway 16]].
+
+According to the [[United States Census Bureau]], the town has a total area of {{convert|0.28|sqmi|sqkm|2}}, all land.<ref name="Gazetteer files">{{cite web |title=US Gazetteer files 2010 |url=https://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |publisher=[[United States Census Bureau]] |access-date=2012-12-18 |url-status=dead |archive-url=https://web.archive.org/web/20120702145235/http://www.census.gov/geo/www/gazetteer/files/Gaz_places_national.txt |archive-date=2012-07-02 }}</ref>
+
+==Demographics==
+{{US Census population
+|1920= 410
+|1930= 434
+|1940= 441
+|1950= 555
+|1960= 418
+|1970= 330
+|1980= 323
+|1990= 195
+|2000= 195
+|2010= 185
+|2020= 195
+|footnote=[https://www.census.gov/programs-surveys/decennial-census.html U.S. Decennial Census]<ref name ="wwwcensusgov"/>
+}}
+
+===2010 census===
+As of the [[census]]<ref name ="2010 Census">{{cite web|title=U.S. Census website|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2012-12-18}}</ref> of 2010, there were 185 people, 92 households, and 49 families residing in the town. The [[population density]] was {{convert|660.7|PD/sqmi|PD/km2|1}}. There were 117 housing units at an average density of {{convert|417.9|/sqmi|/km2|1}}. The racial makeup of the town was 97.3% [[White (U.S. Census)|White]], 0.5% [[Native American (U.S. Census)|Native American]], and 2.2% from two or more races.
+
+There were 92 households, of which 21.7% had children under the age of 18 living with them, 46.7% were [[Marriage|married couples]] living together, 5.4% had a female householder with no husband present, 1.1% had a male householder with no wife present, and 46.7% were non-families. 43.5% of all households were made up of individuals, and 21.8% had someone living alone who was 65 years of age or older. The average household size was 2.01 and the average family size was 2.84.
+
+The median age in the town was 50.9 years. 23.2% of residents were under the age of 18; 1.7% were between the ages of 18 and 24; 16.2% were from 25 to 44; 31.3% were from 45 to 64; and 27.6% were 65 years of age or older. The gender makeup of the town was 45.4% male and 54.6% female.
+
+===2000 census===
+As of the [[census]]<ref name="GR2">{{cite web |url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website }}</ref> of 2000, there were 195 people, 97 households, and 51 families residing in the town. The [[population density]] was 688.1 people per square mile (268.9/km<sup>2</sup>). There were 122 housing units at an average density of 430.5 per square mile (168.2/km<sup>2</sup>). The racial makeup of the town was 90.77% [[White (U.S. Census)|White]], 5.64% [[Native American (U.S. Census)|Native American]], 1.54% from [[Race (United States Census)|other races]], and 2.05% from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 1.54% of the population.
+
+There were 97 households, out of which 20.6% had children under the age of 18 living with them, 41.2% were [[Marriage|married couples]] living together, 4.1% had a female householder with no husband present, and 47.4% were non-families. 45.4% of all households were made up of individuals, and 29.9% had someone living alone who was 65 years of age or older. The average household size was 2.01 and the average family size was 2.88.
+
+In the town, the population was spread out, with 24.6% under the age of 18, 2.1% from 18 to 24, 21.5% from 25 to 44, 24.1% from 45 to 64, and 27.7% who were 65 years of age or older. The median age was 48 years. For every 100 females there were 114.3 males. For every 100 females age 18 and over, there were 96.0 males.
+
+The median income for a household in the town was $24,583, and the median income for a family was $31,250. Males had a median income of $21,111 versus $16,875 for females. The [[per capita income]] for the town was $15,021. About 11.8% of families and 7.6% of the population were below the [[poverty line]], including 2.0% of those under the age of eighteen and 7.1% of those 65 or over.
+
+==Education==
+Froid Public Schools serves students from kindergarten through 12th grade.<ref name="fps">{{cite web |title=Froid Public Schools |url=https://www.froidschool.com/ |publisher=Froid Public Schools |access-date=12 April 2021}}</ref> [[Froid High School]]'s team name is the Red Hawks.<ref>{{cite web |title=Member Schools |url=https://www.mhsa.org/memberschools |publisher=Montana High School Association |access-date=19 April 2021}}</ref>
+
+Roosevelt County Library, headquartered in Wolf Point, has a branch location in Froid.<ref name="rcl">{{cite web |title=Roosevelt County Library |url=https://rooseveltcountylibrary.org/ |publisher=Roosevelt County Library |access-date=12 April 2021}}</ref>
+
+The international bestseller '''The Paris Library''', a novel written by Montanan author [[Janet Skeslien Charles]] is set in Froid.
+
+==References==
+{{Reflist|1}}
+
+==External links==
+* {{cite web|url=https://townoffroid.com/|website=Town of Froid, Montana|title=Official city website}}
+
+{{Roosevelt County, Montana}}
+{{Authority control}}
+
+[[Category:Towns in Roosevelt County, Montana]]

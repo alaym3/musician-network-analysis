@@ -1,0 +1,70 @@
+{{Short description|US rugby union player}}
+{{EngvarB|date=December 2020}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox rugby biography
+| name = Will Porter
+| image = 
+| caption = 
+| birth_name = William Porter
+| nickname =
+| birth_date = {{birth date and age|1998|12|14|df=yes}}
+| birth_place = [[Philadelphia]], [[United States|USA]]
+| height = {{convert|1.73|m|ftin|0|abbr=on}}
+| weight = {{convert|83|kg|stlb|abbr=on}}
+| ru_position = [[Scrum-half (rugby union)|Scrum-half]]
+| ru_amateuryears =
+| ru_amateurclubs = 
+| ru_amupdate = 
+| ru_nationalteam = 
+| ru_nationalyears = 
+| ru_nationalcaps =  
+| ru_nationalpoints = 
+| ru_ntupdate = 28 December 2020
+| ru_clubyears = 2016–
+| ru_proclubs = [[Wasps RFC|Wasps]]
+| ru_clubcaps = 
+| ru_clubpoints = 
+| ru_clubupdate = 28 December 2020
+| ru_currentclub = [[Wasps RFC|Wasps]]
+| ru_province = 
+| ru_provinceyears = 
+| ru_provincecaps = 
+| ru_provincepoints = 
+| ru_provinceupdate =
+| ru_sevensnationalyears =
+| ru_sevensnationalteam =
+| ru_sevensnationalcaps =
+| ru_sevensnationalpoints =
+| ru_sevensupdate =
+| ru_coachclubs =
+| ru_coachyears =
+| ru_coachupdate =
+| other =
+| occupation =
+| family =
+| spouse = 
+| children = 
+| relatives =
+| school = Merchant Taylors' School, Northwood
+| university = 
+}}
+
+'''Will Porter''' (born 14 December 1998) is an [[England|English]] [[rugby union]] player who plays for [[Wasps RFC|Wasps]] in the [[Premiership Rugby]].<ref>{{cite web |title=Will Porter |url=http://en.espn.co.uk/scrum/rugby/player/27103.html?source=opta |publisher=ESPN |access-date=28 December 2020}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.wasps.co.uk/players-staff/senior-squad/will-porter/ Wasps Profile]
+*[http://en.espn.co.uk/scrum/rugby/player/27103.html?source=opta ESPN Profile]
+*[https://www.ultimaterugby.com/will-porter Ultimate Rugby Profile]
+
+{{Wasps squad}}
+
+{{DEFAULTSORT:Porter, Will}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:American rugby union players]]
+[[Category:English rugby union players]]
+
+{{England-rugbyunion-bio-stub}}

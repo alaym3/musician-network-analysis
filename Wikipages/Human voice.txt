@@ -1,0 +1,161 @@
+{{short description|Sound made by a human being using the vocal tract}}
+{{redirect|Voice}}
+{{pp|small=yes}}
+{{Use dmy dates|date=March 2021}}
+[[File:Human voice spectrogram.jpg|thumb|300px|The [[spectrogram]] of the human voice reveals its rich [[harmonic]] content.]]
+The '''human voice''' consists of [[sound]] [[Voice production|made]] by a [[human being]] using the [[vocal tract]], including [[Speech|talking]], [[singing]], [[Laughter|laughing]], [[crying]], [[screaming]], shouting, or [[yelling]]. The human voice frequency is specifically a part of human sound production in which the [[vocal folds]] (vocal cords) are the primary sound source. (Other sound production mechanisms produced from the same general area of the body involve the production of [[Voicelessness|unvoiced consonants]], [[Click consonant|clicks]], [[whistling]] and [[whispering]].)
+
+Generally speaking, the mechanism for generating the human voice can be subdivided into three parts; the lungs, the vocal folds within the [[larynx]] (voice box), and the articulators. The [[lungs]], the "pump" must produce adequate [[airflow]] and air pressure to vibrate vocal folds. The vocal folds (vocal cords) then vibrate to use airflow from the lungs to create audible pulses that form the laryngeal sound source.<ref>{{Cite web|url=http://www.lionsvoiceclinic.umn.edu/page2.htm#physiology101|title=About the voice|website=Lionsvoiceclinic.umn.edu|access-date=2018-02-08}}</ref> The muscles of the larynx adjust the length and tension of the vocal folds to 'fine-tune' [[Pitch (music)|pitch]] and [[Tone (linguistics)|tone]]. The articulators (the parts of the vocal tract above the larynx consisting of [[tongue]], [[Soft palate|palate]], [[cheek]], [[lip]]s, etc.) [[Manner of articulation|articulate]] and [[Band-pass filter|filter]] the sound emanating from the larynx and to some degree can interact with the laryngeal airflow to strengthen or weaken it as a sound source.
+
+The vocal folds, in combination with the [[speech organ|articulators]], are capable of producing highly intricate arrays of sound.<ref>Stevens, K.N.(2000), Acoustic Phonetics, MIT Press, {{ISBN|0-262-69250-3}}, 978-0-262-69250-2
+</ref><ref>Titze, I.R. (1994). Principles of Voice Production, Prentice Hall (currently published by NCVS.org), {{ISBN|978-0-13-717893-3}}.</ref><ref>Titze, I. R. (2006). The Myoelatic Aerodynamic Theory of Phonation, Iowa City:National Center for Voice and Speech, 2006.</ref> The tone of voice may be modulated to suggest [[emotion]]s such as [[anger]], [[surprise (emotion)|surprise]], [[fear]], [[happiness]] or [[Sadness#Vocal patterns|sadness]]. The human voice is used to express emotion,<ref name="johar-book">{{cite book |last=Johar |first=Swati |date=22 December 2015 |title=Emotion, Affect and Personality in Speech: The Bias of Language and Paralanguage |url=https://www.springer.com/us/book/9783319280455 |publisher=[[Springer Science+Business Media|Springer]] |pages=10; 12 |isbn=978-3-319-28047-9 |series=SpringerBriefs in Speech Technology }}</ref> and can also reveal the age and sex of the speaker.<ref>{{Cite journal|last=Bachorowski|first=Jo-Anne|date=1999|title=Vocal Expression and Perception of Emotions|url=http://www.columbia.edu/~rmk7/HC/HC_Readings/Bachorowski.pdf|journal=Current Directions in Psychological Science|volume=8|issue=2|pages=53–57|doi=10.1111/1467-8721.00013|s2cid=18785659}}</ref><ref>{{cite journal | last1 = Smith | first1 = BL | last2 = Brown | first2 = BL | last3 = Strong | first3 = WJ | last4 = Rencher | first4 = AC | title = Effects of speech rate on personality perception. | journal = Language and Speech | volume = 18 | issue = 2 | pages = 145–52 | year = 1975 | pmid = 1195957 | doi = 10.1177/002383097501800203 | s2cid = 23498388 }}</ref><ref>{{cite journal | doi = 10.1121/1.1913238 | last1 = Williams | first1 = CE | last2 = Stevens | first2 = KN | title = Emotions and speech: some acoustical correlates. | journal = The Journal of the Acoustical Society of America | volume = 52 | issue = 4 | pages = 1238–50 | year = 1972 | pmid = 4638039 | bibcode = 1972ASAJ...52.1238W }}</ref> [[Singer]]s use the [[human voice as an instrument]] for creating [[music]].<ref>{{cite journal | doi = 10.1121/1.408461 | last1 = Titze | first1 = IR | last2 = Mapes | first2 = S | last3 = Story | first3 = B | title = Acoustics of the tenor high voice. | journal = The Journal of the Acoustical Society of America | volume = 95 | issue = 2 | pages = 1133–42 | year = 1994 | pmid = 8132903 | bibcode = 1994ASAJ...95.1133T }}</ref>
+
+==Voice types and the folds (cords) themselves==
+{{Main|Vocal folds|Voice types}}
+[[File:Gray1204.png|right|401x400px|thumb|A labeled anatomical diagram of the [[vocal folds]] or cords.]]
+Adult men and women typically have different sizes of vocal fold; reflecting the male-female differences in larynx size. Adult male voices are usually lower-pitched and have larger folds. The male vocal folds (which would be measured vertically in the opposite diagram), are between 17&nbsp;mm and 25&nbsp;mm in length.<ref>Thurman, Leon & Welch, ed., Graham (2000), Body mind & voice: Foundations of voice education (revised ed.), Collegeville, Minnesota: The Voice Care Network et al., {{ISBN|0-87414-123-0}}</ref> The female vocal folds are between 12.5&nbsp;mm and 17.5&nbsp;mm in length.
+
+The folds are within the [[larynx]]. They are attached at the back (side nearest the spinal cord) to the ''arytenoids cartilages'', and at the front (side under the chin) to the [[thyroid]] cartilage. They have no outer edge as they blend into the side of the [[Vertebrate trachea|breathing tube]] (the illustration is out of date and does not show this well) while their inner edges or "margins" are free to vibrate (the hole). They have a three layer construction of an [[epithelium]], vocal ligament, then muscle ([[vocalis muscle]]), which can shorten and bulge the folds. They are flat triangular bands and are pearly white in color. Above both sides of the vocal cord is the [[vestibular fold]] or ''false vocal cord'', which has a small [[wikt:sac|sac]] between its two folds.
+
+The difference in vocal folds size between men and women means that they have differently pitched voices. Additionally, [[genetics]] also causes variances amongst the same sex, with men's and women's [[singing]] voices being categorized into types. For example, among men, there are [[Bass (vocal range)|bass]], [[bass-baritone]], [[baritone]], [[baritenor]], [[tenor]] and [[countertenor]] (ranging from [[scientific pitch notation|E2 to C#7 and higher]]), and among women, [[contralto]], [[alto]], [[mezzo-soprano]] and [[soprano]] (ranging from F3 to C6 and higher). There are additional categories for [[Opera#Operatic voices|operatic voices]], see [[voice type]]. This is not the only source of difference between male and female voice. Men, generally speaking, have a larger [[vocal tract]], which essentially gives the resultant voice a lower-sounding [[timbre]]. This is mostly independent of the vocal folds themselves.
+
+==Voice modulation in spoken language==
+Human spoken language makes use of the ability of almost all people in a given society to dynamically modulate certain parameters of the laryngeal voice source in a consistent manner. The most important communicative, or phonetic, parameters are the voice pitch (determined by the vibratory frequency of the vocal folds) and the degree of separation of the vocal folds, referred to as vocal fold adduction (coming together) or abduction (separating).<ref name="Rothenberg_BSD">{{Cite web|url=http://www.rothenberg.org/Breath-Stream/BSD_contents.htm|title=Breath-Stream Dynamics|website=Rothenberg.org|access-date=18 April 2021}}</ref>
+
+The ability to vary the ab/adduction of the vocal folds quickly has a strong genetic component, since vocal fold adduction has a life-preserving function in keeping food from passing into the lungs, in addition to the covering action of the epiglottis. Consequently, the muscles that control this action are among the fastest in the body.<ref name="Rothenberg_BSD" /> Children can learn to use this action consistently during speech at an early age, as they learn to speak the difference between utterances such as "apa" (having an abductory-adductory gesture for the p) as "aba" (having no abductory-adductory gesture).<ref name="Rothenberg_BSD" /> Surprisingly enough, they can learn to do this well before the age of two by listening only to the voices of adults around them who have voices much different from their own, and even though the laryngeal movements causing these phonetic differentiations are deep in the throat and not visible to them.
+
+If an abductory movement or adductory movement is strong enough, the vibrations of the vocal folds will stop (or not start). If the gesture is abductory and is part of a speech sound, the sound will be called [[voiceless]]. However, voiceless speech sounds are sometimes better identified as containing an abductory gesture, even if the gesture was not strong enough to stop the vocal folds from vibrating. This anomalous feature of voiceless speech sounds is better understood if it is realized that it is the change in the spectral qualities of the voice as abduction proceeds that is the primary acoustic attribute that the listener attends to when identifying a voiceless speech sound, and not simply the presence or absence of voice (periodic energy).<ref name="Rothenberg_IF">{{Cite web|url=http://www.rothenberg.org/Glottal/glottal.pdf|title=Rothenberg, M. The glottal volume velocity waveform during loose and tight voiced glottal adjustments, Proceedings of the Seventh International Congress of Phonetic Sciences, 22–28 August 1971 ed. by A. Rigault and R. Charbonneau, published in 1972 by Mouton, The Hague – Paris|website=Rothenberg.org|access-date=18 April 2021}}</ref>
+
+An adductory gesture is also identified by the change in voice spectral energy it produces. Thus, a speech sound having an adductory gesture may be referred to as a "glottal stop" even if the vocal fold vibrations do not entirely stop.<ref name="Rothenberg_IF"/>
+
+Other aspects of the voice, such as variations in the regularity of vibration, are also used for communication, and are important for the trained voice user to master, but are more rarely used in the formal phonetic code of a spoken language.
+
+==Physiology and vocal timbre==
+The sound of each individual's voice is entirely unique {{citation needed|date=November 2020}} not only because of the actual shape and size of an individual's vocal cords but also due to the size and shape of the rest of that person's body, especially the vocal tract, and the manner in which the speech sounds are habitually formed and articulated. (It is this latter aspect of the sound of the voice that can be mimicked by skilled performers.) Humans have vocal folds that can loosen, tighten, or change their thickness, and over which breath can be transferred at varying pressures. The shape of chest and neck, the position of the tongue, and the tightness of otherwise unrelated muscles can be altered. Any one of these actions results in a change in pitch, volume, timbre, or tone of the sound produced. Sound also resonates within different parts of the body, and an individual's size and bone structure can affect somewhat the sound produced by an individual.
+
+Singers can also learn to project sound in certain ways so that it resonates better within their vocal tract. This is known as [[vocal resonation]]. Another major influence on vocal sound and production is the function of the larynx, which people can manipulate in different ways to produce different sounds. These different kinds of laryngeal function are described as different kinds of [[vocal registers]].<ref name=Vennard>{{cite book
+|title= singing: The Mechanism and the Technic
+|last= Vennard
+|first= William
+|year= 1967
+|publisher= Carl Fischer
+|isbn= 978-0-8258-0055-9}}</ref> The primary method for singers to accomplish this is through the use of the [[Singer's Formant]], which has been shown to be a resonance added to the normal resonances of the vocal tract above the frequency range of most instruments and so enables the singer's voice to carry better over musical accompaniment.<ref>Sundberg, Johan, The Acoustics of the Singing Voice, Scientific American Mar 77, p82
+</ref><ref>E. J. Hunter, J. G. Svec, and I. R. Titze. Comparison of the Produced and Perceived Voice Range Profiles in Untrained and Trained Classical Singers. J. Voice 2005.</ref>
+
+===Vocal registration===
+
+'''Vocal registration''' refers to the system of vocal registers within the human voice. A register in the human voice is a particular series of tones, produced in the same vibratory pattern of the [[vocal folds]], and possessing the same quality. Registers originate in ''[[larynx|laryngeal]]'' functioning. They occur because the vocal folds are capable of producing several different vibratory patterns.<ref>{{Cite journal|title = Chest‐ and falsetto‐like oscillations in a two‐mass model of the vocal folds|journal = The Journal of the Acoustical Society of America|date = 1996|issn = 0001-4966|pages = 3355–3359|volume = 100|issue = 5|doi = 10.1121/1.416976|first = Jorge C.|last = Lucero|bibcode = 1996ASAJ..100.3355L}}</ref> Each of these vibratory patterns appears within a particular ''Vocal range'' of [[pitch (music)|pitches]] and produces certain characteristic sounds.<ref name=Large>{{cite journal
+|last=Large
+|first= John
+|date=February–March 1972
+|title= Towards an Integrated Physiologic-Acoustic Theory of Vocal Registers
+|journal= The NATS Bulletin
+|volume= 28
+|pages= 30–35}}</ref> The occurrence of registers has also been attributed to effects of the acoustic interaction between the vocal fold oscillation and the vocal tract.<ref>{{Cite journal|title = Effect of source–tract acoustical coupling on the oscillation onset of the vocal folds|journal = The Journal of the Acoustical Society of America|date = 2012|issn = 0001-4966|pages = 403–411|volume = 132|issue = 1|doi = 10.1121/1.4728170|pmid = 22779487|first1 = Jorge C.|last1 = Lucero|first2 = Kélem G.|last2 = Lourenço|first3 = Nicolas|last3 = Hermant|first4 = Annemie Van|last4 = Hirtum|first5 = Xavier|last5 = Pelorson|bibcode = 2012ASAJ..132..403L|url = https://hal.archives-ouvertes.fr/hal-00726367/file/LucEtAlJASA2012.pdf}}</ref> The term register can be somewhat confusing as it encompasses several aspects of the human voice. The term register can be used to refer to any of the following:<ref name = McKinney/>
+* A particular part of the [[vocal range]] such as the upper, middle, or lower registers.
+* A [[resonance]] area such as [[chest voice]] or [[head voice]].
+* A [[phonation|phonatory]] process.
+* A certain vocal [[timbre]].
+* A region of the voice that is defined or delimited by vocal breaks.
+* A subset of a [[language]] used for a particular purpose or in a particular social setting.
+
+In [[linguistics]], a '''register language''' is a language that combines [[tone (linguistics)|tone]] and vowel [[phonation]] into a single [[phonology|phonological]] system.
+
+Within [[speech pathology]], the term vocal register has three constituent elements: a certain vibratory pattern of the vocal folds, a certain series of pitches, and a certain type of sound. Speech pathologists identify four vocal registers based on the physiology of laryngeal function: the [[vocal fry register]], the [[modal register]], the [[falsetto register]], and the [[whistle register]]. This view is also adopted by many vocal pedagogists.<ref name=McKinney />
+
+===Vocal resonation===
+{{main|Vocal resonation}}
+'''Vocal resonation''' is the process by which the basic product of phonation is enhanced in timbre and/or intensity by the air-filled cavities through which it passes on its way to the outside air. Various terms related to the resonation process include amplification, enrichment, enlargement, improvement, intensification, and prolongation; although in strictly scientific usage acoustic authorities would question most of them. The main point to be drawn from these terms by a singer or speaker is that the end result of resonation is, or should be, to make a better sound.<ref name=McKinney>{{cite book
+|title= The Diagnosis and Correction of Vocal Faults
+|last= McKinney
+|first= James
+|year= 1994
+|publisher= Genovex Music Group
+|isbn= 978-1-56593-940-0}}</ref>
+There are seven areas that may be listed as possible vocal resonators. In sequence from the lowest within the body to the highest, these areas are the chest, the tracheal tree, the larynx itself, the pharynx, the oral cavity, the nasal cavity, and the sinuses.<ref name=Greene>{{cite book
+|title= The Voice and its Disorders
+|last= Greene
+|first= Margaret
+|author2=Lesley Mathieson
+|year= 2001
+|publisher= John Wiley & Sons; 6th Edition
+|isbn= 978-1-86156-196-1}}</ref>
+
+==Influences of the human voice==
+{{main|Voice projection|Evolution}}
+The [[Chromatic scale|twelve-tone musical scale]], upon which a large portion of all music (western popular music in particular) is based, may have its roots in the sound of the human voice during the course of [[evolution]], according to a study published by the [[New Scientist]]. Analysis of recorded speech samples found peaks in acoustic energy that mirrored the distances between notes in the twelve-tone scale.<ref>{{Cite web|url=https://www.newscientist.com/article/dn4031-musical-roots-may-lie-in-human-voice/|title=Musical roots may lie in human voice|first=Peter|last=Farley|website=New Scientist|access-date=18 April 2021}}</ref>
+
+==Voice disorders==
+{{main|Vocal loading|Voice disorders}}
+
+There are many [[Voice disorders|disorders]] that affect the human voice; these include [[speech impediment]]s, and growths and [[Vocal fold nodule|lesions]] on the [[vocal folds]]. Talking improperly for long periods of time causes [[vocal loading]], which is stress inflicted on the [[speech organs]]. When vocal injury is done, often an [[Otorhinolaryngology#Laryngology|ENT]] specialist may be able to help, but the best treatment is the prevention of injuries through good vocal production.<ref>{{cite web|url=http://stayhealthymn.com/article.php?articleID=122|title=Fine Tuning Your Voice|work=stayhealthymn.com|url-status=dead|archive-url=https://web.archive.org/web/20110716133228/http://stayhealthymn.com/article.php?articleID=122|archive-date=16 July 2011}}</ref> Voice therapy is generally delivered by a [[speech-language pathologist]].
+
+==Vocal cord nodules and polyps==
+[[Vocal nodules]] are caused over time by repeated abuse of the vocal cords which results in soft, swollen spots on each vocal cord.<ref>{{Cite web|url=http://thevoiceusa.com/category/thevoice/|title=The Voice - Casting, Contestants, Auditions, Voting and Winners|website=The Voice 2020 Season 18|language=en-US|access-date=2020-04-25}}</ref> These spots develop into harder, callous-like growths called nodules. The longer the abuse occurs the larger and stiffer the nodules will become. Most polyps are larger than nodules and may be called by other names, such as polypoid degeneration or Reinke's edema. Polyps are caused by a single occurrence and may require surgical removal.  Irritation after the removal may then lead to nodules if additional irritation persists.  Speech-language therapy teaches the patient how to eliminate the irritations permanently through habit changes and vocal hygiene.
+[[Dysphonia|Hoarseness]] or breathiness that lasts for more than two weeks is a common symptom of an underlying voice disorder such as nodes or polyps and should be investigated medically.<ref>{{cite journal|url=http://www.aafp.org/afp/980600ap/rosen.html|title=Evaluating Hoarseness: Keeping Your Patient's Voice Healthy|volume=57|issue=11|pages=2775|author=Clark A. Rosen-Deborah Anderson-Thomas Murry|website=aafp.org|date=June 1998}}</ref>
+
+==See also==
+{{colbegin}}<!-- Please respect alphebatical order -->
+*[[Accent (dialect)]]
+*[[Acoustic phonetics]]
+*[[Belt (music)]]
+*[[Histology of the Vocal Folds]]
+*[[Intelligibility (communication)]]
+*[[List of voice actors]]
+*[[Lombard effect]]
+*[[Manner of articulation]]
+*[[Paralanguage]]: [[nonverbal communication|nonverbal voice cues]] in communication
+*[[Phonation]]
+*[[Phonetics]]
+*[[Puberphonia]]
+*[[Speaker recognition]]
+*[[Speaker verification]]
+*[[Speech synthesis]]
+*[[Vocal rest]]
+*[[Vocal warm up]]
+*[[Vocology]]
+*[[Voice analysis]]
+*[[Puberty#Voice change and Adam.27s apple|Voice change in boys]]
+*[[Voice disorders]]
+*[[Voice frequency]]
+*[[Voice organ]]
+*[[Voicing (music)]], a representation of a chord
+*[[Voice pedagogy]]
+*[[Voice (phonetics)]]: a property of speech sounds (especially [[consonants]])
+*[[Voice risk analysis]]
+*[[Voice synthesis]]
+*[[Voice vote]]
+*[[World Voice Day]]
+{{colend}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Howard, D.M., and Murphy, D.T.M. (2009). [https://web.archive.org/web/20100407013351/http://www.pluralpublishing.com/publication_vsaar.htm Voice Science, Acoustics, and Recording] Voice science acoustics and recording, San Diego: Plural Press.
+* Titze, I. R. (2008). The human instrument. Sci. Am. 298 (1):94–101. [http://www.scientificamerican.com/article.cfm?id=the-human-instrument The Human Instrument]
+* Thurman, Leon & Welch, ed., Graham (2000), Bodymind & voice: Foundations of voice education (revised ed.), Collegeville, Minnesota: The VoiceCare Network et al., {{ISBN|0-87414-123-0}}
+
+==External links==
+{{Commons category|Human voice}}
+{{wiktionary|voice|vocal}}
+{{wikiquote|Voice}}
+{{wikibooks|singing}}
+* [https://web.archive.org/web/20060924104333/http://www.phon.ucl.ac.uk/resource/sfs/wasp.htm Free Voice analyzer and Biometrics displaying software from] [[University College London]]
+* [https://www.gutenberg.org/ebooks/19493 The Head Voice and Other Problems], 1917, by D. A. Clippinger, from [[Project Gutenberg]]
+* [http://www.voicefoundation.org/ The Voice Foundation's official website]
+* [http://www.singwise.com/cgi-bin/main.pl?section=articles&doc=AnatomyOfVoice The Anatomy of Singing]
+* [https://web.archive.org/web/20090911233946/http://www.opera-opera.com.au/archive/davidharper.htm David Harper, vocal coach: A passion for the voice that never wanes – Opera article]
+*[http://www.spiritofvoice.com/ Irish Voice festival official website]
+* [https://www.youtube.com/watch?v=-zXGGRiQbCo How the voice works –  ''The Voice Works Like a Car'']
+* [http://www.phys.unsw.edu.au/jw/voice.html Voice acoustics: an introduction] from the University of New South Wales.
+* [http://www.abc.net.au/science/articles/2002/03/19/502634.htm Speak and Choke 1], by Karl S. Kruszelnicki, ABC Science, News in Science, 2002.
+
+{{Instrument tunings}}
+
+{{Authority control}}
+
+[[Category:Human voice| ]]
+[[Category:Phonetics]]
+[[Category:Voice registers]]
+[[Category:Vocal music]]

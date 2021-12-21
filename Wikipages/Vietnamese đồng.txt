@@ -1,0 +1,401 @@
+{{short description|Currency of Vietnam}}
+{{use dmy dates|date=October 2020}}
+{{Redirect|VND}}
+{{Infobox currency
+| currency_name_in_local = Đồng Việt Nam {{in lang|vi}}
+| image_1 = 50dong1985.jpg
+| image_2 = 500 dong.jpg
+| image_title_1 = 50 đồng
+| image_title_2 = 500 đồng
+| iso_code = VND
+| iso_number = 
+| using_countries = {{flagicon|Vietnam}} [[Vietnam]]
+| inflation_rate = {{decreasePositive}} 2.7% (2019)<ref>{{Cite web|url=https://www.imf.org/en/Countries/VNM|title=Vietnam and the IMF}}</ref>
+| subunit_ratio_1 = 1/10
+| subunit_name_1 = hào
+| subunit_ratio_2 = 1/100
+| subunit_name_2 = xu
+| subunit_inline_note_2 = both subunits have been unused in Vietnam for several years
+| symbol = ₫/đ<br/>{{unichar|20AB|DONG SIGN|html=}}
+| rarely_used_coins = 200₫, 500₫, 1000₫, 2000₫, 5000₫ (no longer minted or in active use; still legal tender)
+| frequently_used_banknotes = 500₫, 1,000₫, 2,000₫, 5,000₫, 10,000₫, 20,000₫, 50,000₫, 100,000₫, 200,000₫, 500,000₫
+| rarely_used_banknotes = 50₫, 70₫, 100₫, 200₫
+| issuing_authority = [[State Bank of Vietnam]]
+| issuing_authority_website = {{URL|www.sbv.gov.vn}}
+}}
+The '''đồng''' ({{IPAc-en|d|ɒ|ŋ}}; {{IPA-vi|ˀɗɜwŋ͡m˨˩|lang}}; [[currency sign|sign]]: '''₫''' or informally '''đ'''; [[ISO 4217|code]]: '''VND''') has been the [[currency]] of [[Vietnam]] since 3 May 1978. It is issued by the [[State Bank of Vietnam]]. The '''đồng''' was also the currency of the predecessor states of North Vietnam and South Vietnam, having replaced the previously used [[French Indochinese piastre]].
+
+Formerly, it was subdivided into 10 ''hào'', which were further subdivided into 10 ''xu'', neither of which are now used. The Vietnamese đồng has increasingly moved towards exclusively using banknotes; as of 2012 the use of coins has decreased greatly, and since 2014 coins are generally not accepted in retail, but will still be accepted in some, but not all, banks.{{citation needed|date=October 2017}}
+
+The Vietnamese đồng is currently the third weakest circulating currency as of May 2021 (behind [[Venezuelan bolivar]] and [[Iranian rial]]), with one [[United States dollar]] equalling 23112.04 đồng. 
+
+==Etymology==
+The word đồng is from the material which the pennies were made (bronze), 
+The term refers to [[Cash (Chinese coin)|Chinese bronze coins]] used as currency during the dynastic periods of China and Vietnam.
+The term ''hào'' is a loanword from the Chinese ''háo'' (Chinese: 毫), meaning a tenth of a currency unit.
+The term ''xu'' comes from French ''sou'' meaning "penny".  
+The sign is encoded {{unichar|20AB|DONG SIGN|html=}}.
+
+==History==
+
+===French Indochina===
+{{Main|French Indochinese piastre}}
+
+The [[French Indochinese piastre|piastre]] was the currency of [[French Indochina]] between 1885 and 1952.
+
+===North Vietnam===<!-- This section is linked from [[North Vietnam]] -->
+{{Main|North Vietnamese đồng}}
+
+In 1946, the [[Viet Minh]] government (later to become the government of North Vietnam) introduced its own currency, the đồng, to replace the [[French Indochinese piastre]] at [[par value|par]]. Two revaluations followed, in 1951 and 1959; the first was at a rate of 100:1, the second at a rate of 1,000:1.
+
+===South Vietnam===
+{{Main|South Vietnamese đồng}}
+[[File:South Vietnam 500 Dong 1966.jpg|thumb|150px|South Vietnam 500 đồng banknote issued in 1966.]]
+
+Notes dually denominated in piastres and đồng were issued in 1953 for the [[State of Vietnam]], which evolved into South Vietnam in 1954. On 22 September 1975, after the [[fall of Saigon]], the currency in South Vietnam was changed to a "liberation đồng<nowiki>''</nowiki> worth 500 old Southern đồng.
+
+===United Vietnam===
+After Vietnam was reunified, the đồng was also unified, on 3 May 1978. One new đồng equalled one Northern đồng or 0.8 Southern "liberation" đồng.
+
+On 14 September 1985, the đồng was revalued, with the new đồng worth 10 old đồng. This started a cycle of [[chronic inflation]] that continued through much of the early 1990s.<ref>{{cite web|url=http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+vn0091) |title=LOC Country Study Vietnam. |publisher=Lcweb2.loc.gov |access-date=2014-01-07}}</ref>
+
+==Coins==
+For the earlier modern Vietnamese coins, please see [[North Vietnamese đồng]] or [[South Vietnamese đồng]].
+
+===First đồng===
+In 1978, aluminium coins (dated 1976), were introduced in denominations of 1, 2, and 5 hào and 1 đồng. The coins were minted by the Berlin mint in the [[German Democratic Republic]] and bear the state crest on the obverse and denomination on the reverse. Due to [[chronic inflation]], these coins lost all their relevant value and no coins circulated for many years after this series.
+
+===Second đồng===
+
+====Commemorative Issues====
+
+Commemorative coins in copper, brass, copper-nickel, silver, and gold have been issued since 1986, but none of these have ever been used in circulation.
+
+====2003 Issue====
+The State Bank of Vietnam resumed issuing coins on December 17, 2003.<ref name="official spec"/>  The new coins, minted by the [[Mint of Finland]], were in denominations of 200, 500, 1,000, 2,000, and 5,000 đồng in either nickel-clad steel or brass-clad steel. Prior to its reintroduction, Vietnamese consumers had to exchange banknotes for tokens with a clerk before purchasing goods from vending machines. This was also to help the state ease the cost of producing large quantities of small denomination banknotes, which tended to wear easily. Many residents expressed excitement at seeing coins reappear after many years, as well as concern for the limited usefulness of the 200 đồng coins due to ongoing inflationary pressures.<ref name="Curious Vietnamese sneak a peek at no-tear notes, coins"/>
+
+Since the launch of the 2003 coin series, the State Bank has had some difficulties with making the acceptance of coins universal despite the partial discontinuation of smaller notes, to the point of some banks refusing coin cash deposits or the cashing in of large numbers of coins. This has prompted laws requiring private and municipal banks to transact and offer services for coins and the full discontinuation of small denomination and cotton-based notes. Also, the coins did not gain popularity from the Vietnamese people.<ref>{{cite web|url=http://vietstock.vn/2013/12/tai-sao-tien-xu-khong-duoc-ua-chuong-757-324037.htm|title=Tại sao tiền xu không được ưa chuộng?|publisher=Vietstock|access-date=2013-05-12}}</ref> Eventually, State Bank of Vietnam withdrew its distribution in April 2011.<ref>{{cite web|url=http://www.nguoiduatin.vn/nen-thu-hoi-tien-xu-khi-gia-tri-thanh-toan-khong-con-a47915.html|title=Nên thu hồi tiền xu khi giá trị thanh toán không còn|date=27 December 2012|publisher=Người Đưa Tin|access-date=2012-12-27}}</ref>
+
+{|class="wikitable" 
+|+ 2003 Series<ref name="official spec"/>
+|-
+!rowspan=2| Image !!rowspan=2| Value !!colspan=4| Technical parameters !!colspan=3| Description !!colspan=2| Date of
+|-
+! Diameter !! Thickness !! Mass !! Composition !! Edge !! Obverse !! Reverse !! first minting !! issue
+|- {{Coin-silver-color}}
+|  style="text-align:center; background:#fff;"|<ref name="art-hanoi">{{cite web|url=http://art-hanoi.com/collection/vncoins/vn-20003-o.jpg|title=collection/vncoins/vn-20003-o|publisher=art-hanoi.com|access-date=2014-04-03}}</ref><ref name="art-hanoi2">{{cite web|url=http://art-hanoi.com/collection/vncoins/vn-20003-r.jpg|title=collection/vncoins/vn-20003-r|publisher=art-hanoi.com|access-date=2014-01-25}}</ref>
+| 200₫
+| 20&nbsp;mm
+| 1.45&nbsp;mm
+| 3.2&nbsp;g
+| Nickel-plated steel
+| Plain
+|rowspan=2| [[Coat of arms of Vietnam|Coat of arms]]
+|rowspan=2| Denomination
+|rowspan=2| 2003
+| December 17, 2003
+|- {{Coin-silver-color}}
+|  style="text-align:center; background:#fff;"| [[File:500 dong.jpg|121px]]
+| 500₫
+| 22&nbsp;mm
+| 1.75&nbsp;mm
+| 4.5&nbsp;g
+| Nickel-plated steel
+| Segmented (3 groups)
+| April 1, 2004
+|- {{Coin-yellow-color}}
+|  style="text-align:center; background:#fff;"|<ref name="art-hanoi3">{{cite web|url=http://art-hanoi.com/collection/vncoins/vn-1k03-o.jpg|title=collection/vncoins/vn-1k03-o|publisher=art-hanoi.com|access-date=2014-04-03}}</ref><ref name="art-hanoi4">{{cite web|url=http://art-hanoi.com/collection/vncoins/vn-1k03-r.jpg|title=collection/vncoins/vn-1k03-r|publisher=art-hanoi.com|access-date=2014-01-25}}</ref>
+| 1,000₫
+| 19&nbsp;mm
+| 1.95&nbsp;mm
+| 3.8&nbsp;g
+| Brass-plated steel
+| Reeded
+|rowspan=3| [[Coat of arms of Vietnam|Coat of arms]]
+| Water Temple, Đô Temple
+|rowspan=3| 2003
+| December 17, 2003
+|- {{Coin-yellow-color}}
+|  style="text-align:center; background:#fff;"|<ref name="art-hanoi5">{{cite web|url=http://art-hanoi.com/collection/vncoins/vn-2k03-o.jpg|title=collection/vncoins/vn-2k03-o|publisher=art-hanoi.com|access-date=2014-04-03}}</ref><ref name="art-hanoi6">{{cite web|url=http://art-hanoi.com/collection/vncoins/vn-2k03-r.jpg|title=collection/vncoins/vn-2k03-r|publisher=art-hanoi.com|access-date=2014-01-25}}</ref>
+| 2,000₫
+| 23.5&nbsp;mm
+| 1.8&nbsp;mm
+| 5.1&nbsp;g
+| Brass-plated steel
+| Segmented (6 groups)
+| Highland Stilt house in Tay Nguyen
+| April 1, 2004
+|- {{Coin-yellow-color}}
+|  style="text-align:center; background:#fff;"|
+| 5,000₫
+| 25.5&nbsp;mm
+| 2.2&nbsp;mm
+| 7.7&nbsp;g
+| Brass ([[Copper|Cu]]<sub>92</sub>[[Aluminium|Al]]<sub>6</sub>[[Nickel|Ni]]<sub>2</sub>)
+| Micro-scalloped
+| Một Cột Pagoda ([[One Pillar Pagoda]])
+| December 17, 2003
+|-
+|colspan=11|{{Standard coin table notice|standard_scale=Y}}
+|}
+
+==Banknotes==
+<!-- [[File:Vietnam 1 dong 1976.jpg|thumb|1 đồng 1976(1978)]] -->
+
+===First đồng===
+In 1978, the [[State Bank of Vietnam]] (''Ngân hàng Nhà nước Việt Nam'') introduced notes in denominations of 5 hào, 1, 5, 10, 20, and 50 đồng dated 1976. In 1980, 2 and 10 đồng notes were added, followed by 30 and 100 đồng notes in 1981. These notes were discontinued in 1985 as they gradually lost value due to inflation and economic instability.
+
+===Second đồng===
+In 1985, notes were introduced in denominations of 5 hào, 1, 2, 5, 10, 20, 30, 50, 100, and 500 đồng. As inflation became endemic, these first banknotes were followed by 200, 1,000, 2,000, and 5,000 đồng notes in 1987, by 10,000 and 50,000 đồng notes in 1990, by a 20,000 đồng note in 1991, a 100,000 đồng note in 1994, a 500,000 đồng note in 2003, and a 200,000 đồng note in 2006. Banknotes with denominations of 5,000 đồng and under have been discontinued from production, but as of 2015 are still in wide circulation.<ref>{{Cite web |url= https://www.banknoteworld.com/shop/blog/500000-vietnamese-dong-the-story-of-a-historic-banknote/ |title=500,000 Vietnamese Dong: The Story of a Historic Banknote |website= www.banknoteworld.com |language=en |access-date=2017-03-24}}</ref>
+
+Five banknote series have appeared. Except for the current series, dated 2003, all were confusing to the user, lacking unified themes and coordination in their designs. The first table below shows the latest banknotes, of 100 đồng or higher, prior to the current series.
+On 7 June 2007, the government ordered cessation of the issuance of the cotton 50,000 and 100,000₫ notes.{{Citation needed|date=October 2014}} They were taken out of circulation by 1 September 2007. State Bank of Vietnam 10,000 and 20,000₫ cotton notes are no longer in circulation as of 1 January 2013.<ref>{{Cite web |url= http://english.vovnews.vn/Home/Cotton-banknotes-to-go-out-of-circulation/20129/142580.vov}}</ref>
+
+{|class="wikitable"
+|+ Second đồng<ref name="official spec"/>
+|-
+!rowspan="2"| Image !!rowspan=2| Value !!rowspan=2| Dimensions !!rowspan=2| Main Color !!colspan=2| Description !!colspan=2| Date of
+|-
+! Obverse !! Reverse !! printing !! issue
+|-
+|  style="text-align:center"|
+| 100₫
+| class="nowrap"| 120 × 60&nbsp;mm
+| Green
+| Coat of Arms
+| [[Phổ Minh Temple]]
+| 1991
+| 2 May 1991
+|-
+|  style="text-align:center"|
+| 200₫
+| 130 × 65&nbsp;mm
+| Orange
+|rowspan=9| [[Ho Chi Minh]]
+| Agricultural production
+| 1987
+| 30 September 1987
+|-
+|  style="text-align:center"|
+| 500₫
+| 130 × 65&nbsp;mm
+| Pink
+| Port [[Haiphong]]
+| rowspan=3| 1988
+| 15 August 1989
+|-
+|  style="text-align:center"|
+| 1,000₫
+| 134 × 65&nbsp;mm
+| Multicolor on lime background
+| Lumber productions
+| rowspan=2| 20 October 1989
+|-
+|  style="text-align:center"|
+| 2,000₫
+| 134 × 65&nbsp;mm
+| Multicolour
+| Textile factory
+|-
+|  style="text-align:center"|
+| 5,000₫
+| 134 × 65&nbsp;mm
+| Blue
+| Trị An [[hydropower]] plant
+| 1991
+| 15 January 1993
+|-
+|  style="text-align:center"|
+| 10,000₫
+| 140 × 68&nbsp;mm
+| Red
+| [[Hạ Long Bay]]
+| 1993
+| 15 October 1994
+|-
+|  style="text-align:center"|
+| 20,000₫
+| 140 × 68&nbsp;mm
+| Blue
+| Canned food factory
+| 1991
+| 2 March 1993
+|-
+|  style="text-align:center"|
+| 50,000₫
+| 140 × 68&nbsp;mm
+| Green
+| Nhà Rồng Port
+|rowspan=2| 1994
+| 15 October 1994
+|-
+|  style="text-align:center"|
+| 100,000₫
+| 145 × 71&nbsp;mm
+| Brown
+| Ho Chi Minh's ethnic house
+| 1 September 2000 <!--
+|-
+|colspan=9|{{Standard banknote table notice|standard_scale=Y}} -->
+|}
+
+In 2003 Vietnam began replacing its cotton banknotes with plastic [[polymer banknote]]s, claiming that this would reduce the cost of printing.<ref name="censorship" />  Many newspapers in the country criticized these changes, citing mistakes in printing and alleging that the son of the governor of the State Bank of Vietnam benefited from printing contracts.<ref name="censorship" />  The government clamped down on these criticisms by banning two newspapers from publishing for a month and considering other sanctions against other newspapers.<ref name="censorship" />
+Even though the 2003 series banknotes listed in the table below have now completely replaced the old notes of the same denominations, as of 2019 the cotton fiber banknotes of 200, 500, 1000, 2000 and 5,000 đồng still remain in wide circulation and are universally accepted.{{Citation needed|date=October 2015}}
+
+{|class="wikitable"
+|+ 2003 [[Polymer banknote|Polymer]] Series<ref name="official spec"/><ref>[http://www.sbv.gov.vn/Tintuc/VP/levietcuong/Tin/thongcao_2006_08_15_092246.doc?tin=73 NGÂN HÀNG NHÀ NƯỚC VIỆT NAM THÔNG BÁO PHÁT HÀNH TIỀN MỚI VÀO LƯU THÔNG] {{webarchive |url=https://web.archive.org/web/20060927150331/http://www.sbv.gov.vn/Tintuc/VP/levietcuong/Tin/thongcao_2006_08_15_092246.doc?tin=73 |date=27 September 2006 }}</ref>
+|-
+!colspan=2| Image !!rowspan=2| Value !!rowspan=2| Dimensions !!rowspan=2| Main Color !!colspan=2| Description !!colspan=2| Date of
+|-
+! Obverse !! Reverse !! Obverse !! Reverse !! printing !! issue
+|-
+|  style="text-align:center"|
+|  style="text-align:center"|
+| 10,000₫
+| class="nowrap"| 132 × 60&nbsp;mm
+| Dark brown on greenish yellow
+|rowspan=6| [[Ho Chi Minh]]
+| Offshore platform
+|rowspan=6| The first two digits of the serial number give the last two digits of the year of issue.
+| 30 August 2006
+|-
+|  style="text-align:center"|
+|  style="text-align:center"|
+| 20,000₫
+| 136 × 65&nbsp;mm
+| Blue
+| Covered bridge in [[Hội An]]
+| 17 May 2006
+|-
+|  style="text-align:center"|
+|  style="text-align:center"|
+| 50,000₫
+| 140 × 65&nbsp;mm
+| Pink
+| [[Huế]]
+| 17 December 2003
+|-
+|  style="text-align:center"|
+|  style="text-align:center"|
+| 100,000₫
+| 144 × 65&nbsp;mm
+| Yellowish green
+| [[Temple of Literature, Hanoi|Temple of Literature]]
+| 1 September 2004
+|-
+|  style="text-align:center"|
+|  style="text-align:center"|
+| 200,000₫
+| 148 × 65&nbsp;mm
+| Brownish-red
+| [[Hạ Long Bay]]
+| 30 August 2006
+|-
+|  style="text-align:center"|
+|  style="text-align:center"|
+| 500,000₫
+| 152 × 65&nbsp;mm
+| Cyan-Purple
+| Ho Chi Minh's birthplace in [[Kim Liên, Nghệ An|Kim Liên]]
+| 17 December 2003
+|-
+|colspan=9|{{Standard banknote table notice|standard_scale=Y}}
+|}
+
+A commemorative polymer 50-đồng banknote dedicated to the fiftieth anniversary of the [[State Bank of Vietnam]] was issued in 2001, but its face value is so tiny that it clearly was meant only for collectors. The note is available in three forms, by itself, in a presentation folder or in a presentation folder in an envelope. In 2016, a 100-đồng banknote was issued on cotton-based paper to commemorate the 65th anniversary of central banking.
+
+==Bearer's checks 1992–2002==
+To support the growing industrial need for large money transactions,
+the State Bank issued "Bearer's Checks" or "State Bank Settlement Checks"
+(''Ngân Phiếu Thanh Toán'') in denominations from 100,000 to 5,000,000 đồng.<ref>[http://art-hanoi.com/collection/vnpaper/np.html Ngan Phieu (Bearer's Checks) 1992-2002] Coins and banknotes of Vietnam and French Indochina</ref>
+To prevent counterfeiting, these notes had many degrees of protection,
+their designs were changed every five to six months, and they had expiration dates five or six months after the date of issue.
+The checks worked until the banking system was upgraded to handle electronic transfers of large amounts of ''đồng'', making most large cash transactions unnecessary.
+
+==Other uses of ''đồng''==
+In the Vietnamese language, ''đồng'' can be used as a generic term for any currency by adding the name of a country as a qualifier. This practice is more common for more esoteric units of currency.
+
+In present-day Vietnam, when mentioning an amount of money, the currency can be (and usually is) omitted.
+
+==Exchange rate==
+{{Exchange rate|VND|INR|CNY}}
+
+After the revaluation of the [[Zimbabwean dollar]] on 1 August 2006,<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/world/africa/5231836.stm | work=BBC News | title=Zimbabwe money loses three zeros | date=31 July 2006}}</ref> the đồng became the least valued currency unit for months. Around 21 March 2007, the revalued [[Zimbabwean dollar]] regained least valued currency status (in terms of [[black market]] exchange rate), and on 7 September 2007 in terms of official exchange rate. After the use of the [[Zimbabwean dollar]] ceased on 12 April 2009,<ref>{{cite news|url=http://www.voanews.com/english/news/a-13-2009-04-12-voa9-69816747.html |title=Zimbabwe Suspends Use of Own Currency &#124; News &#124; English |publisher=Voanews.com |date=12 April 2009 |access-date=7 January 2010 |url-status=unfit |archive-url=https://web.archive.org/web/20110629064750/http://www.voanews.com/english/news/a-13-2009-04-12-voa9-69816747.html |archive-date=June 29, 2011 }}</ref> the đồng was the second least valued currency unit after the [[Iranian rial]] as of 28 November 2014. Since 19 June 2014, the Vietnamese dong has been devalued a total of five times in an effort to help spur exports and to ensure the stability of the currency.<ref>{{Cite web|url=http://globalcurrencyreset.net/vietnamese-dong/devaluations/|title=Vietnamese Dong Devaluations 2014-2016|date=2016-05-23|website=globalcurrencyreset.net|access-date=2016-05-23}}</ref>
+{| class="wikitable"
+!Year
+!USD Exchange rate
+|-
+|1960
+|97
+|-
+|1970
+|410
+|-
+|1980
+|2,050
+|-
+|1990
+|6,500
+|-
+|2000
+|14,428
+|-
+|2010
+|19,495
+|-
+|2020
+|23,173
+|}
+''(Sources: tradingeconomics.com, imf.org)''
+
+==See also==
+*[[Vietnamese cash]]
+*[[VND Index]]
+*[[Economy of Vietnam]]
+
+==References==
+{{reflist|30em|refs=
+
+<ref name="Curious Vietnamese sneak a peek at no-tear notes, coins">{{cite web |date=2003-12-19 |url=http://vietnamnews.vnagency.com.vn/2003-12/18/Stories/12.htm |title=Curious Vietnamese sneak a peek at no-tear notes, coins |archive-url=https://web.archive.org/web/20040601230923/http://vietnamnews.vnagency.com.vn/2003-12/18/Stories/12.htm |archive-date=2004-06-01}}</ref>
+
+<ref name="censorship">{{cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/6073038.stm|author=BBC|title=Vietnam censorship concern grows|date=2006-10-21|work=BBC News}}</ref>
+
+<ref name="official spec">{{cite web|author=State Bank of Vietnam |url=http://www.sbv.gov.vn/CdeHTTT/kthuat.asp |title=Technical characteristics of Vietnamese currency |access-date=2006-08-09 |language=vi |archive-url=https://web.archive.org/web/20060722002337/http://www.sbv.gov.vn/CdeHTTT/kthuat.asp |archive-date=2006-07-22 |url-status=dead }}</ref>
+}}
+{{Refbegin}}
+*{{numis cite SCWC|date=1991}}
+*{{numis cite SCWPM|date=1994}}
+{{Refend}}
+
+== External links ==
+{{commons category|Money of Vietnam}}
+*[http://art-hanoi.com/collection Coins and Banknotes of Vietnam and French Indochina]
+
+{{n-start|title=First đồng}}
+{{n-before|location=[[North Vietnam]]|currency=[[North Vietnamese đồng]]|reason=currency unification|ratio=at par}}
+{{n-currency|rowspan=2|location=[[Vietnam]]|start=1978|end=1985|note=banknotes are dated 1976}}
+{{n-after|rowspan=2|currency=Second đồng|reason=inflation|ratio=1 second đồng = 10 first đồng}}
+
+{{n-before|location=[[Provisional Revolutionary Government of the Republic of South Vietnam|South Vietnam]]|currency=[[South Vietnamese đồng|South Vietnamese liberation đồng]]|reason=currency unification|ratio=1 new đồng = 0.8 liberation đồng}}
+
+{{n-before|currency=Moneyless economy|reason=Vietnamese invasion of Cambodia|note=It is unclear whether the North, the South đồng, or nothing at all was used after the invasion in January 1980 and before the issuance of a united đồng in May}}
+{{n-currency|location=[[Cambodia]]|start=1978|end=1980|concurrent=[[Thai baht]] and some other foreign currencies, to some extent}}
+{{n-after|currency=[[Cambodian riel]]|reason=reintroduction of a national currency|ratio=1 riel = 3 đồng = 0.25 U.S. dollar = 1kg rice}}
+{{n-end}}
+
+{{n-start|title=Second đồng}}
+{{n-before|currency=First đồng|reason=inflation|ratio=1 second đồng = 10 first đồng}}
+{{n-currency|location=[[Vietnam]]|start=1985}}
+{{n-after}}
+{{n-end}}
+
+{{Currency signs}}
+{{Vietnamese currency and coinage}}
+{{Currencies of Asia}}
+{{Portal bar|Asia|Money|Numismatics|Vietnam}}
+{{Vietnam topics}}
+
+{{DEFAULTSORT:Vietnamese Dong}}
+[[Category:Currency symbols]]
+[[Category:Currencies of Vietnam]]
+[[Category:Currencies introduced in 1978]]

@@ -1,0 +1,48 @@
+{{short description|Moroccan rapper (born 1993)}}
+{{Use dmy dates|date=December 2019}}
+{{Infobox person
+| name               = Informations
+| image              = 
+| caption            = 
+| birth_name         = Issam Harris
+| birth_date         = {{Birth date and age|year=1993|month=5|day=22}}
+| birth_place        = [[Casablanca]], Morocco
+| occupation         = [[Rapper]]
+| years_active       = 2016–present<ref>{{Cite web|url=https://www.musiqueurbaine.fr/artiste/issam/|title=Issam ⋆ Musique Urbaine ⋆ Le portail Hip Hop Rap RnB|website=Musique Urbaine}}</ref>
+| module             = {{Infobox musical artist
+| embed      = yes
+| background = solo_singer <!-- mandatory field -->
+| instrument = Vocals
+
+| }}
+}}
+'''Issam Harris''' ({{lang-ar|عصام}} born 22 May 1993<ref>{{Cite web|title=https://twitter.com/issamharrris/status/1396165561470574596|url=https://twitter.com/issamharrris/status/1396165561470574596|access-date=2021-05-22|website=Twitter|language=en}}</ref>), known by his stage name '''Issam''', is a [[Moroccan hip hop|Moroccan rapper]] and songwriter specialized in [[trap music]]. He was born in [[Casablanca]] and became known in 2018 with his song and music video, "Trap Beldi". This track allowed him to gain popularity being one of the first Moroccan trap songs to reach over 10&nbsp;million views on YouTube.<ref>{{Citation|title= ISSAM – Trap Beldi |date=8 July 2019|url=https://www.youtube.com/watch?v=pcpAh78saoo|accessdate=8 July 2019}}</ref><ref>{{Cite web|url=https://www.gqmiddleeast.com/culture/the-gritty-rise-of-issam|title=The Gritty Rise Of Issam|website=Gentlemen's Quarterly|access-date=18 September 2019}}</ref>
+
+What is particular of Issam's music is the blending of [[Auto-Tune]]d vocals delivered in [[Moroccan Arabic|Darija]], or Moroccan vernacular [[Arabic]], and classic [[Roland TR-808|TR 808]]-generated beats with elements from traditional North African music. Many of Issam's works are influenced by [[raï]]—specifically by [[Cheb Hasni]].<ref>{{Cite web|url=http://naar.fr/|title=Issam - NAAR|website=naar.fr}}</ref>
+
+In May 2019, Issam signed a contract with [[Universal Music Group|Universal Music France]], in what was considered the biggest ever deal for Arab hip-hop.<ref>[https://www.huffpostmaghreb.com/entry/le-rappeur-issam-signe-un-contrat-avec-universal-france_mg_5ce66e41e4b09b23e65e4d76]{{dead link|date=January 2021}}</ref> His debut album '''"''Crystal''"''' has officially been released on May 6 2021.
+
+==Singles discography==
+* "Taba Taba" (September 2016)
+* "Rolex" (February 2017)
+* "Hasni" (August 2017)
+* "Bavra" (January 2018)
+* "Caviar" (September 2018)
+*:The “Caviar” video was originally planned to be partially shot in Paris, but Issam's visa application was denied by the French government. The track and its video showcase an increasingly globalized scene in which Arab artists nonetheless remain peripheral participants, due in part to the significant political difficulties in bypassing borders and enjoying the freedom of movement granted to Western performers.<ref name="auto">{{Cite web|title=Meet ISSAM, the Moroccan rapper making globalized ‘trap’|url=https://www.thefader.com/2018/09/13/issam-naar-caviar-morroccan-trap-interview|website=The FADER}}</ref>
+* "Trap Beldi" (November 2018)
+* "Makinch Zhar" (April 2019)
+* "Nike" (March 2020)
+* "wra tabi3a" (February 2021)
+
+
+==Albums==
+"Crystal"(Released May 2021)
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:Living people]]
+[[Category:1993 births]]
+[[Category:Moroccan rappers]]

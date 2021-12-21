@@ -1,0 +1,20 @@
+{{Short description|Genus of moths}}
+{{About|a genus of moths|OCHA, the United Nations body |Office for the Coordination of Humanitarian Affairs|the green tea from Japan|Green tea}}
+{{Automatic taxobox
+| image =
+| taxon = Ocha
+| authority = ([[Francis Walker (entomologist)|Walker]], 1855)
+| synonyms = 
+}}
+
+'''''Ocha''''' is a genus of [[moth]]s in the family [[Lasiocampidae]]. The Global Lepidoptera Names Index described it as a synonym of ''[[Nesara]]''.<ref name="nathis">{{LepIndex |id=73850 |name=Nesara |accessdate=May 11, 2018}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q7076290}}
+
+[[Category:Lasiocampidae]]
+
+
+{{Lasiocampidae-stub}}

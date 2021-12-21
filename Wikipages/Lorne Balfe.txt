@@ -1,0 +1,819 @@
+{{short description|Scottish composer}}
+{{BLP sources|date=September 2019}}
+{{Use dmy dates|date=January 2018}}
+{{Use British English|date=January 2018}}
+{{Infobox musical artist
+| name             = Lorne Balfe
+| image            = Lorne Balfe.jpg
+| image_size       = 
+| birth_date       = 
+| birth_place      = 
+| background       = non_performing_personnel
+| genre            = [[Film score]]s, [[video game music|video game score]], [[Electronic music|electronic]], [[New age music|new age]], [[Ambient (music)|ambient]], [[Rock music|rock]], [[alternative rock]], [[jazz]]
+| instruments      = [[Keyboard instrument|Keyboards]], [[guitar]]
+| occupation       = Composer, music producer
+| years_active     = 1999–present
+| labels           = 
+| website          = [http://www.lornebalfe.com/ Lorne Balfe]
+| associated_acts  = [[Hans Zimmer]], [[Remote Control Productions (American company)|Remote Control Productions]]
+| caption          = Balfe in 2007
+| alias            = Oswin Mackintosh
+}}
+
+'''Lorne Balfe''' is a Scottish [[composer]] and [[Record producer|producer]] of [[film]], [[Television program|television]], and [[video game]] scores. A veteran of [[Hans Zimmer]]'s [[Remote Control Productions (American company)|Remote Control Productions]], Balfe is known for his composing music for big-budget films like ''[[13 Hours: The Secret Soldiers of Benghazi]],'' ''[[Terminator Genisys]]'', ''[[Mission: Impossible – Fallout]]'', and the [[DreamWorks Animation|DreamWorks animated films]] ''[[Home (2015 animated film)|Home]]'' and ''[[Penguins of Madagascar]]'', as well as the video games ''[[Assassin's Creed: Revelations]]'', ''[[Assassin's Creed III]]'', ''[[Crysis 2]]'', ''[[Skylanders]]'' and the ''[[Call of Duty]]'' franchise. He has also scored the television series ''[[The Bible (miniseries)|The Bible]]'', ''[[Marcella (TV series)|Marcella]]'', ''[[The Crown (TV series)|The Crown]]'', and ''[[Genius (U.S. TV series)|Genius]]'', the latter for which he was nominated for a [[Primetime Emmy Award for Outstanding Original Main Title Theme Music]].
+
+Balfe went to [[Fettes College]] in Edinburgh, where he had a music scholarship.<ref>{{Cite web|url=https://www.scotsman.com/arts-and-culture/music/composing-a-career-of-note-in-la-1-846507|title=Composing a career of note in LA|website=[[The Scotsman]]|date=9 July 2002}}</ref>
+
+==Discography==
+
+=== Feature films ===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Director(s)
+! Studio(s)
+! Notes
+|-
+| 2004
+| ''Crazy in Love''
+| Matt Routledge
+| United Home Entertainment<br>Studio Bangkok Entertainment Co. Ltd.
+| {{N/A}}
+|-
+| 2009
+|''Crying with Laughter''
+| Justin Molotnikov
+| Brit Films<br>Cinetic Rights Management
+| Nominated- [[World Soundtrack Academy|World Soundtrack Award for Discovery of the Year]]
+|-
+| 2010
+|''[[Megamind]]''
+|[[Tom McGrath (animator)|Tom McGrath]]
+|[[Paramount Pictures]]<br>[[DreamWorks Animation]]<br>[[Pacific Data Images]]
+| rowspan="2" | Composed with [[Hans Zimmer]]
+|-
+| rowspan="2" | 2011
+|''[[The Dilemma]]''
+|[[Ron Howard]]
+|[[Universal Pictures]]<br>[[Imagine Entertainment]]<br>[[Spyglass Entertainment]]
+|-
+|''[[Ironclad (film)|Ironclad]]''
+|[[Jonathan English]]
+|[[Warner Bros. Pictures]]
+| {{N/A}}
+|-
+| 2012
+|''[[The Sweeney (2012 film)|The Sweeney]]''
+|[[Nick Love]]
+|[[Entertainment One]]<br>[[Vertigo Films]]
+| {{N/A}}
+|-
+| rowspan="4" |2013
+|''[[The Frozen Ground]]''
+| Scott Walker
+| [[Lionsgate]]
+| {{N/A}}
+|-
+|''[[Red Wing (film)|Red Wing]]''
+|[[Will Wallace]]
+|Gravitas Ventures
+| {{N/A}}
+|-
+|''Side by Side''
+| Arthur Landon
+| Newtide Films<br/>Nanny Films
+| {{N/A}}
+|-
+|''[[Not Another Happy Ending]]''
+|[[John McKay (director)|John McKay]]
+|Kaleidoscope Home Entertainment<br>Synchronicity Films Ltd.<br>British Film Company
+| Composed with [[Dan Michaelson]]
+|-
+| rowspan="5" |2014
+|''[[Son of God (film)|Son of God]]''
+| Christopher Spencer
+| [[20th Century Fox]]<br>[[Lightworkers Media]]
+| Composed with [[Hans Zimmer]] & [[Lisa Gerrard]]
+|-
+|''Blackwood''
+| Adam Wimpenny
+| Wildcard Films
+| {{N/A}}
+|-
+|''[[Words with Gods]]''
+|[[Guillermo Arriaga]]
+|{{N/A}}
+|Segment: "God's Blood"
+|-
+|[[Gloria (2014 film)|''Gloria'']]
+|Christian Keller
+|[[Picturehouse (company)|Picturehouse]]
+|{{N/A}}
+|-
+|''[[Penguins of Madagascar]]''
+|[[Eric Darnell]]<br>[[Simon J. Smith]]
+| rowspan="2" |[[20th Century Fox]]<br>[[DreamWorks Animation]]
+| First solo work on a DreamWorks film without Hans Zimmer
+|-
+| rowspan="7" | 2015
+|''[[Home (2015 film)|Home]]''
+|[[Tim Johnson (film director)|Tim Johnson]]
+| Composed with [[Stargate (music producers)|Stargate]]
+|-
+|''[[Bone in the Throat]]''
+|Graham Henman
+|Upload Films<br>Hello and Company<br>Dignity Film Finance
+|{{N/A}}
+|-
+|[[Dough (film)|''Dough'']]
+|[[John Goldschmidt]]
+|{{N/A}}
+|{{N/A}}
+|-
+|''[[Terminator Genisys]]''
+|[[Alan Taylor (director)|Alan Taylor]]
+|[[Paramount Pictures]]<br />[[Skydance Productions]]
+| Replaced [[Christophe Beck]]<br>''Terminator'' themes by [[Brad Fiedel]]
+|-
+|''[[Sommeren '92]]''
+|[[Kasper Barfoed]]
+|SF Film
+|Composed with Jeppe Kaas
+|-
+|''[[Captive (2015 film)|Captive]]''
+|[[Jerry Jameson]]
+|[[Paramount Pictures]]
+| {{N/A}}
+|-
+|[[American Hero (film)|''American Hero'']]
+|[[Nick Love]]
+|[[Screen Media Films]]<br/>[[Vertigo Films]]
+|{{N/A}}
+|-
+| rowspan="2" | 2016
+|''[[13 Hours: The Secret Soldiers of Benghazi]]''
+|[[Michael Bay]]
+|[[Paramount Pictures]]<br>[[3 Arts Entertainment]]<br>[[Michael Bay|Bay Films]]
+| {{N/A}}
+|-
+|''[[War on Everyone]]''
+|[[John Michael McDonagh]]
+|[[Icon Productions|Icon Film Distribution]]
+| {{N/A}}
+|-
+| rowspan="5" | 2017
+|''[[The Lego Batman Movie]]''
+|[[Chris McKay]]
+|[[Warner Bros. Pictures]]<br>[[Warner Animation Group]]
+| {{N/A}}
+|-
+|''[[Ghost in the Shell (2017 film)|Ghost in the Shell]]''
+|[[Rupert Sanders]]
+|[[Paramount Pictures]]<br>[[DreamWorks Pictures]]
+| Composed with [[Clint Mansell]]
+|-
+|''[[Churchill (film)|Churchill]]''
+|[[Jonathan Teplitzky]]
+|[[Lionsgate]]
+| {{N/A}}
+|-
+|''[[The Florida Project]]''
+|[[Sean Baker (film director)|Sean Baker]]
+|[[A24 (company)|A24]]<br>Cre Film<br>Freestyle Picture Company<br>[[Cinereach]]<br>[[June Pictures]]
+| Orchestral version of "[[Celebration (Kool & the Gang song)|Celebration]]" by [[Kool & The Gang]]
+|-
+|''[[Geostorm]]''
+|[[Dean Devlin]]
+|[[Warner Bros. Pictures]]
+| Replaced [[Pinar Toprak]]
+|-
+| rowspan="4" | 2018
+|''[[12 Strong]]''
+|[[Nicolai Fuglsig]]
+|[[Warner Bros. Pictures]]<br />[[Lionsgate]]
+| {{N/A}}
+|-
+|''[[The Hurricane Heist]]''
+|[[Rob Cohen]]
+|[[Entertainment Studios]]
+| {{N/A}}
+|-
+|''[[Pacific Rim: Uprising]]''
+|[[Steven S. DeKnight]]
+|[[Universal Pictures]]<br>[[Legendary Pictures]]<br>Double Dare You Productions
+| Replaced [[John Paesano]]
+|-
+|''[[Mission: Impossible – Fallout]]''
+|[[Christopher McQuarrie]]
+|[[Paramount Pictures]]<br>[[Skydance Media]]<br>[[Bad Robot Productions]]
+|''Mission: Impossible'' themes by [[Lalo Schifrin]]
+|-
+| rowspan="5" |2019
+|''[[Georgetown (film)|Georgetown]]''
+|[[Christoph Waltz]]
+|[[Vertical Entertainment]]<br>[[Paramount Pictures]]
+| {{N/A}}
+|-
+|''[[Gemini Man (film)|Gemini Man]]''
+|[[Ang Lee]]
+|[[Paramount Pictures]]
+| Replaced [[Marco Beltrami]]
+|-
+|[[Jungleland (film)|''Jungleland'']]
+|[[Max Winkler (director)|Max Winkler]]
+|[[Vertical Entertainment]]<br/>Romulus Entertainment<br/>[[Scott Free Productions]]
+|{{N/A}}
+|-
+|''[[Military Wives (film)|Military Wives]]''
+|[[Peter Cattaneo]]
+|[[Lionsgate]]
+|{{N/A}}
+|-
+|''[[6 Underground (film)|6 Underground]]''
+|Michael Bay
+|[[Netflix]]
+|{{N/A}}
+|-
+| rowspan="2" |2020
+|''[[Bad Boys for Life]]''
+|[[Adil El Arbi and Bilall Fallah|Adil El Arbi<br>Bilall Fallah]]
+|[[Columbia Pictures]]
+|{{N/A}}
+|-
+| ''[[Songbird (2020 film)|Songbird]]''
+| Adam Mason
+|[[STX Entertainment|STXfilms]]
+| {{N/A}}
+|-
+| rowspan="5" | 2021
+| ''[[Outside the Wire]]''
+| [[Mikael Håfström]]
+| [[Netflix]]
+|{{N/A}}
+|-
+| ''[[The Tomorrow War]]''
+| Chris McKay
+| [[Amazon Studios]]<br>[[Paramount Pictures]]
+| {{N/A}}
+|-
+|''[[Black Widow (2021 film)|Black Widow]]''
+|[[Cate Shortland]]
+| [[Walt Disney Studios Motion Pictures]]<br>[[Marvel Studios]]
+| Replaced [[Alexandre Desplat]]<ref name="DesplatBalfe">{{Cite web |url=https://www.indiewire.com/2020/05/alexandre-desplat-interview-black-widow-pinocchio-french-dispatch-1202232702/ |title=Alexandre Desplat on Wes Anderson's Amazing 'French Dispatch' and del Toro's Musical 'Pinocchio'|last=Erlich |first=David |date=May 21, 2020 |publisher=[[IndieWire]] |url-status=live |archive-url=https://web.archive.org/web/20200522122655/https://www.indiewire.com/2020/05/alexandre-desplat-interview-black-widow-pinocchio-french-dispatch-1202232702/ |archive-date=May 22, 2020 |access-date=May 22, 2020}}</ref>
+|-
+| ''[[The Forgiven (upcoming film)|The Forgiven]]''
+| John Michael McDonagh
+| [[Focus Features]]
+| {{N/A}}
+|-
+|''[[Rumble (2021 film)|Rumble]] 
+|Hamish Grieve
+|[[Paramount Pictures]]<br>[[Paramount Animation]]<br>[[WWE Studios]]
+|
+|-
+| rowspan="3" |2022
+|'' [[Ambulance (film)|Ambulance]]''
+|Michael Bay<ref>{{cite web|url=https://filmmusicreporter.com/2021/08/04/lorne-balfe-scoring-michael-bays-ambulance/|title=Lorne Balfe Scoring Michael Bay's 'Ambulance'|date=August 4, 2021|website=Film Music Reporter|access-date=August 4, 2021}}</ref>
+|[[Universal Pictures]]
+|
+|-
+|''[[Transformers: Rise of the Beasts]]''
+|''[[Steven Caple Jr.]]''
+| rowspan="3" |[[Paramount Pictures]]
+|
+|-
+|''[[Mission: Impossible 7]]''
+| rowspan="2" |Christopher McQuarrie<ref>{{Cite web|title=Lorne Balfe to Return for Christopher McQuarrie's 'Mission: Impossible 7 & 8' {{!}} Film Music Reporter|url=https://filmmusicreporter.com/2020/05/13/lorne-balfe-to-return-for-christopher-mcquarries-mission-impossible-7-8/|access-date=2020-10-11|language=en-US}}</ref>
+|
+|-
+|2023
+|''Mission: Impossible 8'' 
+|
+|-
+|TBA
+| ''[[Silent Night (upcoming film)|Silent Night]]''
+| Camille Griffin
+| {{TBA}}
+| {{N/A}}
+|-
+|TBA
+| ''[[Argylle (film)|Argylle]]''
+| [[Matthew Vaughn]]
+|{{TBA}}
+|
+|-
+|}
+
+==== As composer of additional music ====
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Director(s)
+!Composer(s)
+! Notes
+|-
+|2002
+|''[[666 – Traue keinem, mit dem du schläfst!]]''
+|Rainer Matsutani
+| rowspan="3" |[[Henning Lohner]]
+|{{N/A}}
+|-
+|2003
+|''[[Mimic 3: Sentinel]]''
+|[[J. T. Petty]]
+|{{N/A}}
+|-
+| rowspan="2" | 2004
+|''[[Incident at Loch Ness]]''
+|[[Zak Penn]]
+|{{N/A}}
+|-
+|''[[Laura's Star]]''
+|Piet De Rycker<br>Thilo Rothkirch
+|[[Hans Zimmer]]<br>[[Henning Lohner]]<br>[[Nick Glennie-Smith]]
+|{{N/A}}
+|-
+| rowspan="4" |2005
+|''[[Hellraiser: Deader]]''
+|Rick Bota
+| rowspan="3" |[[Henning Lohner]]
+|{{N/A}}
+|-
+|[[BloodRayne (film)|''BloodRayne'']]
+|[[Uwe Boll]]
+|{{N/A}}
+|-
+|''[[Santa's Slay]]''
+|David Steiman
+|Uncredited
+|-
+|''[[Wallace and Gromit: The Curse of the Were-Rabbit]]''
+|[[Steve Box]]<br>[[Nick Park]]
+|[[Julian Nott]]
+|{{N/A}}
+|-
+| rowspan="4" |2006
+|[[The Da Vinci Code (film)|''The Da Vinci Code'']]
+|[[Ron Howard]]
+| rowspan="2" |[[Hans Zimmer]]
+|{{N/A}}
+|-
+|''[[Pirates of the Caribbean: Dead Man's Chest]]''
+|[[Gore Verbinski]]
+|{{N/A}}
+|-
+|''[[The Killing of John Lennon]]''
+|[[Andrew Piddington]]
+|[[Martin Kiszko]]<br>[[Makana (musician)|Makana]]
+|{{N/A}}
+|-
+|''[[The Holiday]]''
+|[[Nancy Meyers]]
+| rowspan="2" |[[Hans Zimmer]]
+|{{N/A}}
+|-
+| rowspan="4" |2007
+|''[[Pirates of the Caribbean: At World's End]]''
+|[[Gore Verbinski]]
+|{{N/A}}
+|-
+|[[Transformers (film)|''Transformers'']]
+|[[Michael Bay]]
+|[[Steve Jablonsky]]
+|{{N/A}}
+|-
+|''[[The Simpsons Movie]]''
+|[[David Silverman (animator)|David Silverman]]
+|[[Hans Zimmer]]
+|{{N/A}}
+|-
+|''[[Bee Movie]]''
+|[[Simon J. Smith]]
+[[Steve Hickner]]
+|[[Rupert Gregson-Williams]]
+|{{N/A}}
+|-
+| rowspan="4" |2008
+|[[Iron Man (2008 film)|''Iron Man'']]
+|[[Jon Favreau]]
+|[[Ramin Djawadi]]
+|Also arranger
+|-
+|[[The Dark Knight (film)|''The Dark Knight'']]
+|[[Christopher Nolan]]
+|[[Hans Zimmer]]
+[[James Newton Howard]]
+|{{N/A}}
+|-
+|[[Frost/Nixon (film)|''Frost/Nixon'']]
+|[[Ron Howard]]
+| rowspan="3" |[[Hans Zimmer]]
+|Also orchestrator
+|-
+|''[[Madagascar: Escape 2 Africa]]''
+|[[Eric Darnell]]<br>[[Tom McGrath (animator)|Tom McGrath]]
+|{{N/A}}
+|-
+| rowspan="3" |2009
+|[[Angels & Demons (film)|''Angels & Demons'']]
+|[[Ron Howard]]
+|{{N/A}}
+|-
+|''[[Transformers: Revenge of the Fallen]]''
+|[[Michael Bay]]
+|[[Steve Jablonsky]]
+|{{N/A}}
+|-
+|[[Sherlock Holmes (2009 film)|''Sherlock Holmes'']]
+|[[Guy Ritchie]]
+| rowspan="3" |[[Hans Zimmer]]
+| rowspan="3" |Also score producer
+|-
+|2010
+|''[[Inception]]''
+|[[Christopher Nolan]]
+|-
+| rowspan="3" |2011
+|[[Rango (2011 film)|''Rango'']]
+|[[Gore Verbinski]]
+|-
+|''[[Kung Fu Panda 2]]''
+|[[Jennifer Yuh Nelson]]
+|[[Hans Zimmer]]<br>[[John Powell (film composer)|John Powell]]
+|{{N/A}}
+|-
+|''[[Sherlock Holmes: A Game of Shadows]]''
+|[[Guy Ritchie]]
+| rowspan="5" |[[Hans Zimmer]]
+|Also score producer
+|-
+| rowspan="2" |2012
+|''[[Madagascar 3: Europe's Most Wanted]]''
+|[[Eric Darnell]]<br>[[Conrad Vernon]]<br>[[Tom McGrath (animator)|Tom McGrath]]
+|{{N/A}}
+|-
+|''[[The Dark Knight Rises]]''
+|[[Christopher Nolan]]
+|{{N/A}}
+|-
+| rowspan="3" |2013
+|[[The Lone Ranger (2013 film)|''The Lone Ranger'']]
+|[[Gore Verbinski]]
+|{{N/A}}
+|-
+|[[Rush (2013 film)|''Rush'']]
+|[[Ron Howard]]
+|{{N/A}}
+|-
+|[[Captain Phillips (film)|''Captain Phillips'']]
+|[[Paul Greengrass]]
+|[[Henry Jackman]]
+|Uncredited
+|-
+|2016
+|''[[Kung Fu Panda 3]]''
+|[[Jennifer Yuh Nelson]]<br>[[Alessandro Carloni]]
+| rowspan="2" |[[Hans Zimmer]]
+| rowspan="2" |Also score producer
+|-
+|2017
+|[[Dunkirk (2017 film)|''Dunkirk'']]
+|[[Christopher Nolan]]
+|-
+| rowspan="2" |2019
+|''Looking Up''
+|[[Deng Chao]]
+|Steffen Thum
+|Also executive score producer
+|-
+|[[Ad Astra (film)|''Ad Astra'']]
+|[[James Gray (director)|James Gray]]
+|[[Max Richter]]
+|{{N/A}}
+|-
+|}
+
+=== Documentary films ===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Director(s)
+! Notes
+|-
+| rowspan="2" |2013
+|''Girl Rising''
+|Richard Robbins
+|{{N/A}}
+|-
+|[[Salinger (film)|''Salinger'']]
+|[[Shane Salerno]]
+|{{N/A}}
+|-
+| rowspan="4" |2014
+|[[Manny (film)|''Manny'']]
+|[[Leon Gast]]<br>Ryan Moore
+|{{N/A}}
+|-
+|''The Last Man on the Moon''
+|Mark Craig
+|{{N/A}}
+|-
+|''[[Pantani: The Accidental Death of a Cyclist]]''
+|James Erskine
+|{{N/A}}
+|-
+|[[Above and Beyond (2014 film)|''Above and Beyond'']]
+|[[Roberta Grossman]]
+|{{N/A}}
+|-
+| rowspan="2" |2016
+|''Le Mans: 3D''
+|James Erskine
+|{{N/A}}
+|-
+|''The Fresco Fiasco''
+|Victoria Wimpenny
+|{{N/A}}
+|-
+|2018
+|''[[Studio 54 (film)|Studio 54]]''
+| rowspan="2" |[[Matt Tyrnauer]]
+|{{N/A}}
+|-
+|2019
+|''[[Where's My Roy Cohn?]]''
+|{{N/A}}
+|-
+| 2020
+| ''[[Rebuilding Paradise]]''
+| [[Ron Howard]]
+| Composed With [[Hans Zimmer]]
+|}
+
+===Short films===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Director(s)
+! Notes
+|-
+| 2002
+| ''Cigarette''
+| Oliver Moran
+| {{N/A}}
+|-
+| 2003
+| ''Loved, Alone''
+| Indra Bhose
+| {{N/A}}
+|-
+| rowspan="2" | 2010
+| ''Uganda: Friends of the Gorilla''
+| Rachel Layne McDonald
+| {{N/A}}
+|-
+| ''Sodales''
+| [[Jessica Biel]]
+| {{N/A}}
+|-
+| rowspan="2" | 2011
+| ''When You Find Me''
+| [[Bryce Dallas Howard]]
+| {{N/A}}
+|-
+| ''J.A.W.''
+| [[Nate Parker]]
+| {{N/A}}
+|-
+| rowspan="3" | 2013
+| ''Evermore''
+| [[Biz Stone]]
+| {{N/A}}
+|-
+| ''Making a Scene''
+| [[Janusz Kamiński]]
+| {{N/A}}
+|-
+| ''The Championship Rounds''
+| Daniel Stine
+| {{N/A}}
+|-
+| 2014
+| ''Almost Home''
+| Todd Wilderman
+| {{N/A}}
+|-
+| 2015
+| ''Wasted Beauty''
+| Martin Paves
+| {{N/A}}
+|-
+| rowspan="2" | 2016
+| ''[[Kung Fu Panda: Secrets of the Scroll]]''
+| Rodolphe Guenoden
+| Composed with [[John Powell (film composer)|John Powell]] & Hans Zimmer
+|-
+| ''Alibi''
+| Cameron Burnett
+| {{N/A}}
+|-
+| rowspan="6" | 2017
+| ''Them''
+| Nate James Williams
+| {{N/A}}
+|-
+| ''[[Rakka (film)|Rakka]]''
+| rowspan="4| [[Neill Blomkamp]]
+| rowspan="4| Main composer
+|-
+| ''Firebase''
+|-
+| ''Zygote''
+|-
+| ''Adam: The Mirror''
+|-
+| ''Happy Birthday to Me''
+| Michael Reilly
+| Composed with Max Aruj
+|}
+
+===Television===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Notes
+|-
+| 2004
+| ''[[Shoebox Zoo]]<ref>{{cite tweet|user=Lornebalfe|author=Lorne Balfe|number=766394418215653376|date=18 August 2016|title=#TBT Shoebox Zoo for the BBC . This was my first TV show . Listen to the main theme}}</ref>''
+| 
+|-
+|2005-06
+|[[Nova (American TV program)|''Nova'']]
+| rowspan="3" |Documentary series
+|-
+|2006-07
+|''[[How to Look Good Naked]]''
+|-
+| rowspan="2" |2007
+|''The Science of Superstorms''
+|-
+|''[[River City]]''
+|Main theme by Hard Todd
+|-
+|2009
+|''[[WWII in HD]]''
+|Documentary series
+|-
+|2012
+|''[[Restless (TV series)|Restless]]''
+|
+|-
+| 2013
+| ''[[The Bible (miniseries)|The Bible]]''
+|[[Miniseries]]<br>Composed with [[Hans Zimmer]] & [[Lisa Gerrard]]
+|-
+|2014
+|[[The Driver (TV series)|''The Driver'']]
+|
+|-
+| rowspan="3" |2015
+|[[Sons of Liberty (miniseries)|''Sons of Liberty'']]
+|[[Miniseries]]<br>Main theme composed by Hans Zimmer
+|-
+|''[[A.D. The Bible Continues]]''
+|[[Miniseries]]<br>Composed with Hans Zimmer
+|-
+|''[[Saints & Strangers]]''
+|[[Miniseries]]
+|-
+|2016
+|''[[The Story of God with Morgan Freeman]]''
+| rowspan="2" |Documentary series
+|-
+| rowspan="2" |2016-18
+|''[[The Investigator: A British Crime Story]]''
+|-
+|''[[Marcella (TV series)|Marcella]]''
+| 
+|-
+| rowspan="2" |2017
+|''Le Mans: Racing Is Everything''
+|Documentary series
+|-
+|''[[The Crown (TV series)|The Crown]]''
+| Main theme composed by Hans Zimmer<br>Composed with [[Rupert Gregson-Williams]]
+|-
+| 2017–present
+|''[[Genius (U.S. TV series)|Genius]]''
+| Main theme composed with Hans Zimmer
+Nominated- [[Primetime Emmy Award for Outstanding Original Main Title Theme Music]]
+|-
+|2018
+|[[The Cry (2018 TV series)|''The Cry'']]
+|[[Miniseries]]
+|-
+|2019
+|''This is Football''
+|Documentary series
+|-
+|2019–present
+|''[[His Dark Materials (TV series)|His Dark Materials]]''<ref>{{cite web |title=Lorne Balfe to Score BBC's & HBO's 'His Dark Materials' |url=https://filmmusicreporter.com/2019/08/14/lorne-balfe-to-score-bbcs-hbos-his-dark-materials/ |website=Film Music Reporter |access-date=15 August 2019}}</ref>
+|
+|-
+|2020
+|''[[Pennyworth (TV series)|Pennyworth]]''
+|
+|-
+|2021
+|''[[The Wheel of Time (TV series)|The Wheel of Time]]''
+|Replaced [[David Buckley]]
+|}
+
+===Video games===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Notes
+|-
+| 2009
+| ''[[Call of Duty: Modern Warfare 2]]''
+| Composed with Hans Zimmer
+Nominated- [[6th British Academy Games Awards|BAFTA Award for Best Original Score]]<br>Nominated- [[International Film Music Critics Association|IMFCA Award for Best Original Score for a Video Game or Interactive Media]]
+|-
+| rowspan="4" | 2011
+| ''[[Rango (video game)|Rango]]''
+|{{N/A}}
+|-
+| ''[[Crysis 2]]''
+| Main theme composed by Hans Zimmer<br>Composed with Borislav Slavov, Hans Zimmer & Tilman Sillescu
+|-
+| ''[[Skylanders: Spyro's Adventure]]''
+| Main theme composed by Hans Zimmer<br>Additional music by Andrew Kawczynski & Pete Adams
+|-
+| ''[[Assassin's Creed: Revelations]]''
+| Cinematics and multiplayer music with [[Jesper Kyd]]
+Nominated- [[8th British Academy Games Awards|BAFTA Award for Best Original Music]]
+|-
+| rowspan="2" | 2012
+| ''[[Skylanders: Giants]]''
+| {{N/A}}
+|-
+| ''[[Assassin's Creed III]]''
+| Nominated- [[9th British Academy Games Awards|BAFTA Award for Best Original Music]]
+|-
+| rowspan="2" | 2013
+| ''[[Beyond: Two Souls]]''
+| Finished score due to the death of [[Normand Corbeil]]
+Nominated- [[10th British Academy Games Awards|BAFTA Award for Best Original Music]]<br>Nominated- [[International Film Music Critics Association|IMFCA Award for Best Original Score for a Video Game or Interactive Media]]
+|-
+| ''[[Skylanders: Swap Force]]''
+| {{N/A}}
+|-
+| 2014
+| ''[[Skylanders: Trap Team]]''
+| {{N/A}}
+|-
+| rowspan="2" | 2015
+| ''[[Skylanders: SuperChargers]]''
+| {{N/A}}
+|-
+| ''[[Arena of Valor|Honor of Kings]]''
+| Composed with Hans Zimmer, Duncan Watt & Jeff Broadbent
+|-
+| 2016
+| ''[[Skylanders: Imaginators]]''
+| {{N/A}}
+|-
+| 2018
+| ''[[FIFA 19]]''
+| Composed with Hans Zimmer<br><ref>{{cite web|title=Full FIFA 19 Soundtrack Revealed; Hans Zimmer Working on The Journey's Score|url=https://twinfinite.net/2018/08/full-fifa-19-soundtrack-revealed-hans-zimmer-working-on-the-journeys-score/|last=Hopkins|first=Tom|publisher=Twinfinite|date=August 31, 2018|access-date=August 31, 2018}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikiquote}}
+{{commons category}}
+*{{IMDb name|1154632}}
+*[http://www.reviewgraveyard.com/00_interviews/12-01-03_lorne-balfe.html Lorne Balfe Interview] at www.reviewgraveyard.com
+*[http://www.filmmusicsite.com/en/composers.cgi?go=interview&coid=364&firstname=Lorne&lastname=Balfe Interview with Lorne Balfe] at FilmMusicSite.com
+*[https://www.scotsman.com/arts-and-culture/music/composing-a-career-of-note-in-la-1-846507/ Composing a career of note (Scotsman)]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Balfe, Lorne}}
+[[Category:Animation composers]]
+[[Category:British film score composers]]
+[[Category:Living people]]
+[[Category:British male film score composers]]
+[[Category:People educated at Fettes College]]
+[[Category:Scottish film score composers]]
+[[Category:Video game composers]]
+[[Category:Year of birth missing (living people)]]

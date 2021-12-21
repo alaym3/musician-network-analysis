@@ -1,0 +1,61 @@
+{{Use dmy dates|date=November 2020}}
+{{Infobox musical artist
+| name            = Jakuzi
+| image           =
+| image_size      =
+| image_upright   =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Istanbul]], Turkey
+| genre           = {{hlist|[[Synthpop]]|[[dark wave]]|[[New wave music|new wave]]}}
+| years_active    = {{start date|2015}}–present
+| label           = {{hlist|Domuz|[[City Slang]]}}
+| website         = {{URL|jakuzi.bandcamp.com}}
+| current_members = *Kutay Soyocak
+*Can Kalyoncu
+*Meriç Erseçgen
+*Ahmetcan Gökçeer
+| past_members    = Taner Yücel
+| module          =
+| module2         =
+| module3         = 
+}}
+
+'''Jakuzi''' is a Turkish [[synthpop]] band, formed in [[Istanbul]] in 2015. The band consists of Kutay Soyocak, Can Kalyoncu, Meriç Erseçgen and Ahmetcan Gökçeer. Kutay Soyocak and Taner Yücel formed the project to move away from their previous [[punk rock|punk]]-oriented music projects. The duo rose to prominence in Istanbul's [[underground music]] scene<ref name="quietus"/> after the release of their debut album ''Fantezi Müzik''. Originally released in 2016 through Domuz Records,<ref name="to">[https://www.timeout.com/istanbul/tr/muezik/jakuzi Jakuzi]. ''[[Time Out (magazine)|Time Out İstanbul]]''</ref> it was reissued by [[City Slang]] on 24 March 2017.<ref name="quietus"/>
+
+The band's sound has been described as synthpop, [[dark wave]]<ref>{{Cite web |url=https://www.dailysabah.com/music/2016/09/03/countdown-starts-for-salon-iksvs-concerts |title=Countdown starts for Salon İKSV's concerts |last=Koca |first=Zeynep Esra |date=2 September 2016 |publisher=[[Sabah (newspaper)|The Daily Sabah]] |access-date=18 February 2017}}</ref><ref>{{Cite web |url=http://www.hurriyetdailynews.com/salon-iksv-opens-new-season-.aspx?pageID=238&nID=104064&NewsCatID=385 |title=Salon İKSV opens new season |publisher=[[Hürriyet|Hürriyet Daily News]] |access-date=18 January 2017}}</ref> and [[New wave music|new wave]].<ref name="to"/> Jakuzi is influenced by [[Turkish pop music]], as well as genres ranging from [[krautrock]], [[disco]] and [[post-punk]].<ref name="quietus">{{Cite web |url=http://thequietus.com/articles/21817-new-jakuzi-track |title=Listen: New Jakuzi Track  |last=Smith |first=Matthew |date=17 February 2017 |website=[[The Quietus]] |access-date=18 February 2017}}</ref>
+
+==Band members==
+*Kutay Soyocak - vocals (2015–present)
+*Can Kalyoncu - drums (2016–present)
+*Meriç Erseçgen - bass guitar (2017–present)
+*Ahmetcan Gökçeer - guitar, synths (2018–present)
+
+==Former members==
+*Taner Yücel - bass guitar, synths, sampler (2015–2017)
+
+==Discography==
+* ''Fantezi Müzik'' (2016)
+* ''Hata Payı'' (2019)
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{official website|jakuzi.bandcamp.com}}
+
+{{Authority control}}
+
+[[Category:Musical groups established in 2015]]
+[[Category:Turkish pop music groups]]
+[[Category:Turkish rock music groups]]
+[[Category:Turkish synthpop groups]]
+[[Category:New wave groups]]
+[[Category:Dark wave musical groups]]
+[[Category:Musical groups from Istanbul]]
+[[Category:City Slang artists]]
+[[Category:2015 establishments in Turkey]]
+
+{{Turkey-band-stub}}

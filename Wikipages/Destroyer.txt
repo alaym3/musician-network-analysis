@@ -1,0 +1,315 @@
+{{other uses}}
+{{short description|Type of warship}}
+[[File:USS Winston S. Churchill.jpg|thumb|{{USS|Winston S. Churchill}}, an {{sclass|Arleigh Burke|destroyer|0}} [[guided missile destroyer]] of the [[United States Navy]]]]
+
+In [[navy|naval]] terminology, a '''destroyer''' is a fast, maneuverable, long-endurance [[warship]] intended to escort
+larger vessels in a [[Naval fleet|fleet]], [[convoy]] or [[Carrier battle group|battle group]] and defend them against  powerful short range attackers. They were originally developed in 1885 by [[Fernando Villaamil]] for the [[Spanish Navy]]<ref name="Bernie" /><ref name="smith">Smith, Charles Edgar: ''A short history of naval and marine engineering.'' Babcock & Wilcox, ltd. at the University Press, 1937, page 263</ref> as a defense against [[torpedo boat]]s, and by the time of the [[Russo-Japanese War]] in 1904, these "torpedo boat destroyers" (TBDs) were "large, swift, and powerfully armed torpedo boats designed to destroy other torpedo boats".<ref>Gove p. 2412</ref> Although the term "destroyer" had been used interchangeably with "TBD" and "torpedo boat destroyer" by navies since 1892, the term "torpedo boat destroyer" had been generally shortened to simply "destroyer" by nearly all navies by the [[First World War]].<ref>Lyon pp. 8, 9</ref>
+
+Before [[World War II]], destroyers were light vessels with little endurance for unattended ocean operations; typically a number of destroyers and a single [[destroyer tender]] operated together. After the war, the advent of the guided missile allowed destroyers to take on the surface combatant roles previously filled by battleships and cruisers. This resulted in larger and more powerful [[guided missile destroyer]]s more capable of independent operation.
+
+At the start of the 21st century, destroyers are the global standard for [[surface combatant]] ships, with only two nations ([[United States Navy|United States]] and [[Russian Navy|Russia]]) officially operating the heavier class [[cruiser]]s, with no [[battleship]]s or true [[battlecruiser]]s remaining.{{NoteTag|Although the Russian {{sclass|Kirov|battlecruiser|4}} are sometimes classified as battlecruisers, due to their displacement they are described by Russia as large missile cruisers.}} Modern guided missile destroyers are equivalent in [[tonnage]] but vastly superior in firepower to cruisers of the World War II era, and are capable of carrying [[nuclear missile|nuclear-tipped]] [[cruise missile]]s. At {{convert|510|ft|m}} long, a displacement of 9,200&nbsp;tons, and with armament of more than 90 missiles,<ref>[https://web.archive.org/web/20120301123441/http://www.armybase.us/2010/04/northrop-grumman-christened-its-28th-aegis-guided-missile-destroyer-william-p-lawrence-ddg-110/ Northrop Grumman christened its 28th Aegis guided missile destroyer, William P. Lawrence (DDG 110)] April 19, 2010. Retrieved August 29, 2014.</ref> guided missile destroyers such as the {{sclass|Arleigh Burke|destroyer|4}} are actually larger and more heavily armed than most previous ships classified as guided missile cruisers. The Chinese [[Type 055 destroyer]] has been described as a cruiser in some US Navy reports due to its size and armament.<ref>{{cite web |url=https://www.defense.gov/Portals/1/Documents/pubs/2017_China_Military_Power_Report.PDF |title=Annual Report to Congress: Military and Security Developments Involving the People's Republic of China 2017 |publisher=Office of the Secretary of Defense |access-date=1 July 2021 |url-status=live}}</ref>
+
+Some [[NATO]] navies, such as the [[Royal Canadian Navy|Canadian]], [[French Navy|French]], [[Spanish Navy|Spanish]], [[Dutch Navy|Dutch]] and [[German Navy|German]], use the term "[[frigate]]" for their destroyers, which leads to some confusion.
+
+After the Second World War, destroyers grew in size.  The American {{sclass|Allen M. Sumner|destroyer|1}}s had a displacement of 2,200 tons, while the ''Arleigh Burke'' class has a displacement of up to 9,600 tons, thus growing in size almost 340%.
+
+==Origins==
+[[File:Fernando Villaamil (ca 1897).jpg|thumb|left|[[Fernando Villaamil]], credited as the inventor of the destroyer concept, died in action during the [[Battle of Santiago de Cuba]] in 1898]]
+The emergence and development of the destroyer was related to the invention of the self-propelled [[torpedo]] in the 1860s. A navy now had the potential to destroy a superior enemy battle fleet using steam [[launch (boat)|launches]] to fire torpedoes. Cheap, fast boats armed with torpedoes called [[torpedo boat]]s were built and became a threat to large capital ships near enemy coasts. The first seagoing vessel designed to launch the self-propelled [[Whitehead torpedo]] was the 33-ton {{HMS|Lightning|1876|6}} in 1876.<ref name=ast>{{cite journal |last=Toby |first=A. Steven |year=1985 |title=The "Can-Do" Tin Can |journal=Proceedings |volume=111 |issue=10 |pages=108–113 |publisher=[[United States Naval Institute]] }}</ref> She was armed with two drop collars to launch these weapons, these were replaced in 1879 by a single [[torpedo tube]] in the bow. By the 1880s, the type had evolved into small ships of 50–100 tons, fast enough to evade enemy picket boats.
+
+At first, the threat of a torpedo boat attack to a battle fleet was considered to exist only when at anchor; but as faster and longer-range torpedo boats and torpedoes were developed, the threat extended to cruising at sea. In response to this new threat, more heavily gunned picket boats called "catchers" were built which were used to escort the battle fleet at sea. They needed significant seaworthiness and endurance to operate with the battle fleet, and as they necessarily became larger, they became officially designated "torpedo boat destroyers", and by the First World War were largely known as "destroyers" in English. The anti-torpedo boat origin of this type of ship is retained in its name in other languages, including [[French language|French]] ({{lang|fr|contre-torpilleur}}), [[Italian language|Italian]] ({{lang|it|cacciatorpediniere}}), [[Portuguese language|Portuguese]] ({{lang|pt|contratorpedeiro}}), [[Czech language|Czech]] ({{lang|cs|torpédoborec}}), [[Greek language|Greek]] ({{transl|grc|antitorpiliko}}, ''αντιτορπιλικό''), [[Dutch language|Dutch]] ({{lang|nl|torpedobootjager}}) and, up until the Second World War, [[Polish language|Polish]] ({{lang|pl|kontrtorpedowiec}}, now obsolete).<ref>Lyon p.  8</ref>
+
+Once destroyers became more than just catchers guarding an anchorage, it was realized that they were also ideal to take over the offensive role of torpedo boats themselves, so they were also fitted with torpedo tubes in addition to their anti torpedo-boat guns. At that time, and even into [[World War I]], the only function of destroyers was to protect their own battle fleet from enemy torpedo attacks and to make such attacks on the battleships of the enemy. The task of escorting merchant convoys was still in the future.
+
+===Early designs===
+[[File:Kotaka.jpg|thumb|The [[Imperial Japanese Navy]]'s ''Kotaka'' (1887)]]
+An important development came with the construction of [[HMS TB 81 (1885)|HMS ''Swift'']] in 1884, later redesignated TB 81.<ref>{{cite web |url=http://www.battleships-cruisers.co.uk/torpedo_boats.htm |title=Torpedo Boats |publisher=Battleships-Cruisers.co.uk}}</ref> This was a large (137 ton) torpedo boat with four [[QF 3-pounder Hotchkiss|47&nbsp;mm quick-firing guns]] and three torpedo tubes. At {{convert|23.75|kn|lk=in}}, while still not fast enough to engage enemy torpedo boats reliably, the ship at least had the armament to deal with them.
+
+Another forerunner of the torpedo boat destroyer was the Japanese torpedo boat<ref>Jentschura p. 126</ref> {{ship|Japanese warship|Kotaka||2}} (''Falcon''), built in 1885.<ref>{{cite book |last=Evans and Peattie |first=David C. and Mark R. |title=''Kaigun: Strategy, Tactics, and Technology in the Imperial Japanese Navy, 1887–1941'' |year=1997 |publisher=[[Naval Institute Press]] |location=Annapolis, Maryland  |isbn=978-0-87021-192-8}}</ref> Designed to Japanese specifications and ordered from the Isle of Dogs, London [[Yarrow shipyards|Yarrow shipyard]] in 1885, she was transported in parts to Japan, where she was assembled and launched in 1887. The {{convert|165|ft|m|adj=on}} long vessel was armed with four 1-pounder (37&nbsp;mm) quick-firing guns and six [[torpedo]] tubes, reached {{convert|19|knot|km/h}}, and at 203&nbsp;tons, was the largest torpedo boat built to date. In her trials in 1889, ''Kotaka'' demonstrated that she could exceed the role of coastal defense, and was capable of accompanying larger [[warship]]s on the high seas. The Yarrow shipyards, builder of the parts for ''Kotaka'', "considered Japan to have effectively invented the destroyer".<ref>{{cite book |last=Howe |first=Christopher |title=''The Origins of Japanese Trade Supremacy: Development and Technology in Asia from 1540 to the Pacific War'' |year=1996 |publisher=University of Chicago Press |location=Chicago, Illinois |isbn=978-0-226-35485-9}}</ref>
+
+The German [[aviso]] {{SMS|Greif|1886|2}}, launched in 1886, was designed as a "''torpedojäger''" (torpedo hunter), intended to screen the fleet against attacks by torpedo boats. The ship was significantly larger than torpedo boats of the period, displacing some {{cvt|2266|t|LT}}, with an armament of {{cvt|10.5|cm}} guns and {{cvt|3.7|cm}} [[Hotchkiss revolver cannon]].<ref>{{cite book| last1 = Hildebrand| first1 = Hans H.| last2 = Röhr| first2 = Albert| last3 = Steinmetz| first3 = Hans-Otto| year = 1993| title = Die Deutschen Kriegsschiffe: Biographien: ein Spiegel der Marinegeschichte von 1815 bis zur Gegenwart (Band 4)| trans-title=The German Warships: Biographies: A Reflection of Naval History from 1815 to the Present (Vol. 4)| language = de| publisher = Mundus Verlag| location = Ratingen| isbn = 978-3-7822-0382-1|name-list-style=amp|pages=17–18}}</ref>
+
+===Torpedo gunboat===
+{{Main|Torpedo gunboat}}
+[[File:HMS Spider.png|thumb|HMS ''Spider'', an early model of torpedo gunboat]]
+The first vessel designed for the explicit purpose of hunting and destroying torpedo boats was the [[torpedo gunboat]]. Essentially very small [[cruiser]]s, torpedo gunboats were equipped with torpedo tubes and an adequate gun armament, intended for hunting down smaller enemy boats. By the end of the 1890s torpedo gunboats were made obsolete by their more successful contemporaries, the torpedo boat destroyers, which were much faster.
+
+The first example of this was {{HMS|Rattlesnake|1886|6}}, designed by [[Nathaniel Barnaby]] in 1885, and commissioned in response to the [[Panjdeh Incident|Russian War scare]].<ref name="L&W">{{cite book |last=Lyon & Winfield |title=The Sail and Steam Navy List|chapter=10|pages=82–3}}</ref> The gunboat was armed with torpedoes and designed for hunting and destroying smaller [[torpedo boat]]s. Exactly {{convert|200|ft|m}} long and {{convert|23|ft|m}} in beam, she displaced 550 tons. Built of steel, ''Rattlesnake'' was un-armoured with the exception of a {{fraction|3|4}}-inch protective deck. She was armed with a single [[BL 4 inch naval gun Mk I – VI|4-inch/25-pounder breech-loading gun]], six [[QF 3 pounder Hotchkiss|3-pounder QF guns]] and four {{convert|14|in|mm|adj=on}} torpedo tubes, arranged with two fixed tubes at the bow and a set of torpedo dropping carriages on either side. Four torpedo reloads were carried.<ref name="L&W" />
+
+A number of torpedo gunboat classes followed, including the ''Grasshopper'' class, the {{sclass|Sharpshooter|torpedo gunboat|4}}, the {{sclass|Alarm |torpedo gunboat|4}} and the {{sclass|Dryad|torpedo gunboat|4}} – all built for the [[Royal Navy]] during the 1880s and the 1890s.
+
+[[Fernando Villaamil]], second officer of the Ministry of the [[Spanish Navy|Navy of Spain]], designed his own torpedo gunboat to combat the threat from the torpedo boat.<ref>{{cite web|url=http://www.spanamwar.com/Vilamil.htm#prof|title=Villaamil}}</ref> He asked several British shipyards to submit proposals capable of fulfilling these specifications. In 1885 the Spanish Navy chose the design submitted by the shipyard of James and [[George Thomson (shipbuilder)|George Thomson]] of [[Clydebank]]. {{ship|Spanish warship|Destructor|1886|2}} (''Destroyer'' in Spanish) was laid down at the end of the year, launched in 1886, and commissioned in 1887. Some authors considered her as the first destroyer ever built.<ref>"Under the influence of Fernando Villamil (1845–1898), Spain in 1886 produced the first torpedo boat destroyer." Kern, Robert & Dodge, Meredith: ''Historical dictionary of modern Spain, 1700–1988.'' Greenwood Press, 1990, page 361. {{ISBN|0-313-25971-2}}</ref><ref>{{Cite book|last1=Polmar|first1=Norman|title=Navy's Most Wanted™: The Top 10 Book of Admirable Admirals, Sleek Submarines, and Other Naval Oddities|last2=Cavas|first2=Christopher|publisher=Potomac Books|year=2009|isbn=978-1597976558|pages=44}}</ref>
+
+[[File:Contratorpedero Destructor (en 1890).svg|thumb|Spanish warship [[Spanish warship Destructor|''Destructor'']] in 1890, the first destroyer ever built]]
+
+She displaced 348 tons, and was the first warship<ref>{{Cite book|title=The illustrated history of ships|last=Cornwell|first=Edward Lewis|publisher=Crescent Books|year=1979|isbn=0517287951|pages=150}}</ref> equipped with twin [[triple-expansion engine]]s generating {{convert|3784|ihp|0|abbr=on}}, for a maximum speed of {{convert|22.6|kn|km/h}},<ref name=dest>[http://sites.google.com/site/rlmbuquesdeguerra/contratorpedero-destructor#prof ''Contratorpedero Destructor''] {{Webarchive|url=https://web.archive.org/web/20100226031523/http://sites.google.com/site/rlmbuquesdeguerra/contratorpedero-destructor#prof |date=2010-02-26 }} {{in lang|es}}</ref> which made her one of the faster ships in the world in 1888.<ref>Illustrated Naval and Military Magazine: A monthly journal devoted to all subjects connected with Her Majesty's land and sea forces, 1888, v 9, page 280</ref> She was armed with one {{convert|90|mm|in|adj=on|abbr=on}} Spanish-designed [[Hontoria]] [[Breech-loading weapon|breech-loading]] gun,<ref name=Bernie>Fitzsimmons, Bernard: ''The Illustrated encyclopedia of 20th century weapons and warfare.'' Columbia House, 1978, v. 8, page 835</ref> four {{convert|57|mm|in|adj=on|abbr=on}} ([[QF 6 pounder Nordenfelt|6-pounder]]) [[Thorsten Nordenfelt|Nordenfelt]] guns, two {{convert|37|mm|in|adj=on|abbr=on}} (3-pdr) [[Hotchkiss et Cie|Hotchkiss]] cannons and two {{convert|15|in|cm|adj=on}} [[Schwartzkopff torpedo]] tubes.<ref name=dest /> The ship carried three torpedoes per tube.<ref name=Bernie /> She was manned by a crew of 60.<ref name=dest />
+
+In terms of gunnery, speed and dimensions, the specialised design to chase torpedo boats and her high seas capabilities, ''Destructor'' was an important precursor to the torpedo boat destroyer.<ref>{{Cite web|url=http://www.quarterdeck.org/100th/DDs.htm#prof|title=The Destructor -100 Years|website=www.quarterdeck.org|access-date=2019-04-28}}</ref><ref name="Bernie2">Fitzsimmons, Bernard: ''The Illustrated encyclopedia of 20th century weapons and warfare.'' Columbia House, 1978, v. 8, page 835</ref>
+
+==Development of the modern destroyer==
+[[File:HMS Havock (1893).jpg|thumb|{{HMS|Havock|1893|6}}, the first modern destroyer, commissioned in 1894]]
+The first classes of ships to bear the formal designation "torpedo boat destroyer" (TBD) were the {{sclass|Daring|destroyer|4||1893}} of two ships and {{sclass|Havock|destroyer|4}} of two ships of the [[Royal Navy]].
+
+Early [[torpedo gunboat]] designs lacked the range and speed to keep up with the fleet they were supposed to protect. In 1892, the [[Third Sea Lord]], [[Rear Admiral]] [[John Fisher, 1st Baron Fisher|John "Jacky" Fisher]] ordered the development of a new type of ships equipped with the then novel [[water-tube boiler]]s and [[British ordnance terms#QF|quick-firing]] small calibre guns. Six ships to the specifications circulated by the Admiralty were ordered initially, comprising three different designs each produced by a different shipbuilder: {{HMS|Daring|1893|6}} and {{HMS|Decoy|1894|6}} from [[John I. Thornycroft & Company]], {{HMS|Havock|1893|6}} and {{HMS|Hornet|1893|6}} from [[Yarrow Shipbuilders|Yarrows]], and {{HMS|Ferret|1893|6}} and {{HMS|Lynx|1894|6}} from [[Cammell Laird|Laird, Son & Company]].<ref>{{cite book|title=The British Destroyer|author=Captain T.D. Manning|publisher=Putnam and Co|year=1961}}</ref>
+
+These torpedo boat destroyers all featured a turtleback (i.e. rounded) [[forecastle]] that was characteristic of early British TBDs. {{HMS|Daring|1893|6}} and {{HMS|Decoy|1894|6}} were both built by [[Thornycroft]], displaced 260 tons (287.8 tons full load) and were 185 feet in length. They were armed with one [[QF 12 pounder 12 cwt naval gun|12-pounder gun]] and three 6-pounder guns, with one fixed 18-in torpedo tube in the bow plus two more torpedo tubes on a revolving mount abaft the two funnels. Later the bow torpedo tube was removed and two more 6-pounder guns added instead. They produced 4,200&nbsp;hp from a pair of Thornycroft water-tube boilers, giving them a top speed of 27 knots, giving the range and speed to travel effectively with a battle fleet. In common with subsequent early Thornycroft boats, they had sloping sterns and double rudders.<ref>{{cite book|last=Lyon|first=David|title=The First Destroyers|year=1996|isbn=978-1-84067-364-7}}</ref>
+
+The French navy, an extensive user of torpedo boats, built its first torpedo boat destroyer in 1899, with the {{sclass|Durandal|destroyer|0}} 'torpilleur d'escadre'. The United States commissioned its first torpedo boat destroyer, {{USS|Bainbridge|DD-1|6}}, Destroyer No. 1, in 1902 and by 1906 there were 16 destroyers in service with the US Navy.<ref>Simpson p. 151</ref>
+
+===Subsequent improvements===
+[[File:Yarrow plan.png|thumb|right|Builders' plans for the British {{sclass|Charger|destroyer|4}}, built 1894–95]]
+Torpedo boat destroyer designs continued to evolve around the turn of the 20th century in several key ways. The first was the introduction of the [[steam turbine]]. The spectacular unauthorized demonstration of the turbine-powered {{ship||Turbinia}} at the 1897 Spithead Navy Review, which, significantly, was of torpedo boat size, prompted the Royal Navy to order a prototype turbine powered destroyer, {{HMS|Viper|1899|6}} of 1899. This was the first turbine warship of any kind and achieved a remarkable {{convert|34|kn}} on sea trials. By 1910 the turbine had been widely adopted by all navies for their faster ships.<ref name=ast/>
+
+The second development was the replacement of the torpedo-boat-style turtleback foredeck by a raised [[forecastle]] for the new {{sclass2|River|destroyer|2}}s built in 1903, which provided better sea-keeping as well as more space below deck.
+
+The first warship to use only [[fuel oil]] propulsion was the Royal Navy's torpedo boat destroyer {{HMS|Spiteful|1899|6}}, after experiments in 1904, although the obsolescence of coal as a fuel in British warships was delayed by its availability.<ref>{{cite journal|author=Anon. |title=The British Admiralty&nbsp;... |journal=Scientific American |volume=91 |issue=2 |year=1904 |url=https://archive.org/stream/scientific-american-1904-07-09/scientific-american-v91-n02-1904-07-09#page/n0/mode/2up |issn=0036-8733}}</ref><ref>{{cite journal|last=Dahl |first=E.J. |title=Naval innovation: From coal to oil |journal=Joint Force Quarterly |issue=Winter 2000–01 |year=2001 |url=http://www.dtic.mil/dtic/tr/fulltext/u2/a524799.pdf |archive-url=https://web.archive.org/web/20161022194856/http://www.dtic.mil/dtic/tr/fulltext/u2/a524799.pdf |archive-date=22 October 2016 |pages=50–6|access-date=14 February 2017}}</ref> Other navies also adopted oil, for instance the USN with the {{sclass|Paulding|destroyer|4}} of 1909.
+In spite of all this variety, destroyers adopted a largely similar pattern. The hull was long and narrow, with a relatively shallow draft. The bow was either raised in a forecastle or covered under a turtleback; underneath this were the crew spaces, extending {{fraction|1|4}} to {{fraction|1|3}} the way along the hull. Aft of the crew spaces was as much engine space as the technology of the time would allow: several boilers and engines or turbines. Above deck, one or more quick-firing guns were mounted in the bows, in front of the bridge; several more were mounted amidships and astern. Two tube mountings (later on, multiple mountings) were generally found amidships.
+
+Between 1892 and 1914 destroyers became markedly larger: initially 275&nbsp;tons with a length of {{convert|165|ft|m}} for the Royal Navy's first {{sclass|Havock|destroyer|4}} of torpedo boat destroyers,<ref>Lyon p. 53</ref> up to the First World War with {{convert|300|ft|m|adj=on}} long destroyers displacing 1,000&nbsp;tons was not unusual. However, construction remained focused on putting the biggest possible engines into a small hull, resulting in a somewhat flimsy construction. Often hulls were built of [[high-tensile steel]]<ref name=ast/> only {{cvt|1/8|in}} thick.
+
+By 1910 the steam-driven displacement (that is, not [[Planing (sailing)|hydroplaning]]) torpedo boat had become redundant as a separate type. Germany nevertheless continued to build such boats until the end of World War I, although these were effectively small coastal destroyers. In fact Germany never distinguished between the two types, giving them pennant numbers in the same series and never giving names to destroyers. Ultimately the term ''torpedo boat'' came to be attached to a quite different vessel – the very fast hydroplaning motor driven [[Motor Torpedo Boat|MTB]].
+
+==Early use and World War I==
+Navies originally built torpedo boat destroyers to protect against torpedo boats, but admirals soon appreciated the flexibility of the fast, multi-purpose vessels that resulted. Vice-Admiral Sir [[Baldwin Walker]] laid down destroyer duties for the Royal Navy:<ref>Brett, Bernard: "History of World Sea Power", Deans International (London) 1985. {{ISBN|0-603-03723-2}}</ref>
+* screening the advance of a fleet when hostile torpedo craft are about
+* searching a hostile coast along which a fleet might pass
+* watching an enemy's port for the purpose of harassing his torpedo craft and preventing their return
+* attacking an enemy fleet
+
+Early destroyers were extremely cramped places to live, being "without a doubt magnificent fighting vessels... but unable to stand bad weather".<ref>Grant p. 136</ref> During the [[Russo-Japanese War]] in 1904, the commander of the Imperial Japanese Navy torpedo boat destroyer ''Akatsuki''<ref>Grant, image, frontispiece</ref><ref>Lyon p. 58</ref><ref>Jentschura p. 132 <!-- (''Akatsuki'' built by ''Yarrow & Co.'' in 1902; 224' long, displaced 415 tons, two 18", two 3" guns, four 57&nbsp;mm Quick Firing Guns, complement 60 officers/men. Sunk by mine at ''Port Arthur'' on 17 May 1904) --></ref> described "being in command of a destroyer for a long period, especially in wartime... is not very good for the health". Stating that he had originally been strong and healthy, he continued, "life on a destroyer in winter, with bad food, no comforts, would sap the powers of the strongest men in the long run. A ''destroyer'' is always more uncomfortable than the others, and rain, snow, and ''sea-water'' combine to make them damp; in fact, in bad weather there is not a dry spot where one can rest for a moment."<ref name="Grant">Grant p. 102, 103</ref>
+
+The Japanese destroyer-commander finished with, "Yesterday I looked at myself in a mirror for a long time; I was disagreeably surprised to see my face thin, full of wrinkles, and as old as though I were fifty. My clothes (uniform) cover nothing but a skeleton, and my bones are full of [[rheumatism]]."<ref name="Grant" />
+
+In 1898, the US Navy officially classified {{USS|Porter|TB-6|6}}, a {{convert|175|ft|m|adj=on}} long all steel vessel displacing 165 tons, as a ''torpedo boat.'' However, her commander, LT. John C. Fremont, described her as "...a compact mass of machinery not meant to keep the sea nor to live in... as five sevenths of the ship are taken up by machinery and fuel, whilst the remaining two sevenths, fore and aft, are the crew's quarters; officers forward and the men placed aft. And even in those spaces are placed anchor engines, steering engines, steam pipes, etc. rendering them unbearably hot in tropical regions."<ref>Simpson p. 100</ref>
+
+===Early combat===
+[[File:HMS Loyal (1913) IWM SP 001136.jpg|thumb|{{HMS|Loyal|1913|6}}, of the {{sclass|Laforey|destroyer (1913)|4}}]]
+The torpedo boat destroyer's first major use in combat came during the [[Battle of Port Arthur|Japanese surprise attack on the Russian fleet]] anchored in [[Lüshunkou District|Port Arthur]] at the opening of the [[Russo-Japanese War]] on 8 February 1904.
+
+Three destroyer divisions attacked the Russian fleet in port, firing a total of 18 torpedoes. However, only two Russian battleships, {{ship|Russian battleship|Tsesarevich||2}} and {{ship|Russian battleship|Retvizan||2}}, and a [[protected cruiser]], {{ship|Russian cruiser|Pallada|1899|2}}, were seriously damaged due to the proper deployment of [[torpedo net]]s. ''Tsesarevich'', the Russian flagship, had her nets deployed, with at least four enemy torpedoes "hung up" in them,<ref>Grant p. 42</ref> and other warships were similarly saved from further damage by their nets.<ref>Grant p. 33, 34, 40</ref>
+
+While capital ship engagements were scarce in World War I, destroyer units engaged almost continually in raiding and patrol actions. The first shot of the war at sea was fired on 5 August 1914 by {{HMS|Lance|1914|6}}, one of the [[3rd Destroyer Flotilla]], in an engagement with the German auxiliary [[minelayer]] {{SS|Königin Luise|1913|2}}.<ref>The ''Königin Luise'' was abandoned and scuttled by its crew but the British patrol later passed through the area it had mined and a cruiser was damaged and abandoned</ref>
+
+Destroyers were involved in the skirmishes that prompted the [[Battle of Heligoland (1914)|Battle of Heligoland Bight]], and filled a range of roles in the [[Battle of Gallipoli]], acting as troop transports and as fire-support vessels, as well as their fleet-screening role. Over 80 British destroyers and 60 German torpedo-boats took part in the [[Battle of Jutland]], which involved pitched small-boat actions between the main fleets, and several foolhardy attacks by unsupported destroyers on capital ships. Jutland also concluded with a messy night action between the German [[High Seas Fleet]] and part of the British destroyer screen.
+
+[[File:Wickes dd75.jpg|thumb|left|{{USS|Wickes|DD-75|6}}, a {{sclass|Wickes|destroyer|2}}]]
+The threat evolved by [[World War I]] with the development of the [[submarine]], or [[U-boat]]. The submarine had the potential to hide from gunfire and close underwater to fire torpedoes. Early-war destroyers had the speed and armament to intercept submarines before they submerged, either by gunfire or by ramming. Destroyers also had a shallow enough draft that torpedoes would find it difficult to hit them.
+
+[[File:HMS Badger (1911).jpg|thumb|{{HMS|Badger|1911|6}} was the first destroyer to successfully ram a submarine]]
+The desire to attack submarines underwater led to rapid destroyer evolution during the war. They were quickly equipped with strengthened bows for ramming, and [[depth charge]]s and [[hydrophone]]s for identifying submarine targets. The first submarine casualty to a destroyer was the German {{SMU|U-19|Germany|2}}, rammed by {{HMS|Badger|1911|6}} on 29 October 1914. While ''U-19'' was only damaged, the next month {{HMS|Garry}} successfully sank {{SMU|U-18|Germany|2}}. The first depth-charge sinking was on 4 December 1916, when {{SMU|UC-19|3=2}}<ref>''U-Boats Destroyed'', Paul Kemp (1997), {{ISBN|1-85409-515-3}}</ref> was sunk by HMS ''Llewellyn''.
+
+The submarine threat meant that many destroyers spent their time on anti-submarine patrol. Once Germany adopted [[unrestricted submarine warfare]] in January 1917, destroyers were called on to escort merchant [[convoy]]s. US Navy destroyers were among the first American units to be dispatched upon the American entry to the war, and a squadron of Japanese destroyers even joined Allied patrols in the Mediterranean. Patrol duty was far from safe; of the 67 British destroyers lost in the war, collisions accounted for 18, while 12 were wrecked.
+
+At the end of the war, the state-of-the-art was represented by the British [[V and W-class destroyer|W class]].
+
+==1918–1945==
+{{See also|List of destroyers of the Second World War}}
+
+[[File:Velox.jpg|right|thumb|V-class destroyer, {{HMS|Velox|D34|6}}]]
+
+The trend during World War I had been towards larger destroyers with heavier armaments. A number of opportunities to fire at capital ships had been missed during the War, because destroyers had expended all their torpedoes in an initial salvo. The British [[V and W-class destroyer|V and W classes]] of the late war had sought to address this by mounting six torpedo tubes in two triple mounts, instead of the four or two on earlier models. The 'V' and 'W's set the standard of destroyer building well into the 1920s.
+
+The two Romanian destroyers {{ship|NMS|Mărăști||2}} and {{ship|NMS|Mărășești||2}}, on the other hand, had the greatest firepower of all destroyers in the world throughout the first half of the 1920s. This was largely due to the fact that, between their commissioning in 1920 and 1926, they retained the armament that they had while serving in the Italian Navy as [[scout cruiser]]s (''[[esploratori]]''). When initially ordered by Romania in 1913, the Romanian specifications envisioned three 120&nbsp;mm guns, a caliber which would eventually be adopted as the standard for future Italian destroyers. Armed with three 152&nbsp;mm and four 76&nbsp;mm guns after being completed as scout cruisers, the two warships were officially re-rated as destroyers by the [[Romanian Navy]]. The two Romanian warships were thus the destroyers with the greatest firepower in the world throughout much of the interwar period. As of 1939, when the Second World War started, their artillery, although changed, was still close to cruiser standards, amounting to nine heavy naval guns (five of 120&nbsp;mm and four of 76&nbsp;mm). In addition, they retained their two twin 457&nbsp;mm torpedo tubes as well as two machine guns, plus the capacity to carry up to 50 mines.<ref>''Brassey's Annual: The Armed Forces Year-book'', Praeger Publishers, 1939, p. 276</ref>
+
+[[File:Uranami II.jpg|left|thumb|''Fubuki''-class destroyer, {{ship|Japanese destroyer|Uranami|1928|2}}]]The next major innovation came with the Japanese {{sclass|Fubuki|destroyer|4}} or 'special type', designed in 1923 and delivered in 1928. The design was initially noted for its powerful armament of six five-inch (127&nbsp;mm) guns and three triple torpedo mounts. The second batch of the class gave the guns high-angle turrets for anti-aircraft warfare, and the {{convert|24|in|cm|adj=on}} oxygen-fueled 'Long Lance' [[Type 93 torpedo]]. The later {{sclass|Hatsuharu|destroyer|4}} of 1931 further improved the torpedo armament by storing its reload torpedoes close at hand in the superstructure, allowing reloading within 15 minutes.
+
+Most other nations replied with similar larger ships. The US {{sclass|Porter|destroyer|4}} adopted twin five-inch (127&nbsp;mm) guns, and the subsequent {{sclass|Mahan|destroyer|4}} and {{sclass|Gridley|destroyer|4}}es (the latter of 1934) increased the number of torpedo tubes to 12 and 16 respectively.
+
+[[File:Fantasque.jpg|thumb|France's {{sclass|Fantasque|destroyer|4}}, the fastest destroyer class ever built.]]
+In the Mediterranean, the Italian Navy's building of very fast light cruisers of the {{sclass|Condottieri|cruiser|4}} prompted the French to produce exceptional destroyer designs. The French had long been keen on large destroyers, with their {{sclass|Chacal|destroyer|4}} of 1922 displacing over 2,000&nbsp;tons and carrying 130&nbsp;mm guns; a further three similar classes were produced around 1930. The {{sclass|Fantasque|destroyer|4}} of 1935 carried five {{convert|138|mm|in}} guns and nine torpedo tubes, but could achieve speeds of {{convert|45|kn|kph|0}}, which remains the record speed for a steamship and for any destroyer.<ref>{{cite book|last1=Jordan|first1=John|last2=Moulin|first2=Jean|title=French Destroyers: Torpilleurs d'Escadre & Contre-Torpilleurs 1922–1956|year=2015|publisher=Seaforth Publishing|location=Barnsley, UK|isbn=978-1-84832-198-4 |name-list-style=amp}}</ref> The Italians' own destroyers were almost as swift, most Italian designs of the 1930s being rated at over {{convert|38|knot|km/h|0}}, while carrying torpedoes and either four or six 120&nbsp;mm guns.
+
+Germany started to build destroyers again during the 1930s as part of Hitler's rearmament program. The Germans were also fond of large destroyers, but while the initial [[German World War II destroyers|Type 1934]] displaced over 3,000&nbsp;tons, their armament was equal to smaller vessels. This changed from the Type 1936 onwards, which mounted heavy {{convert|150|mm|in}} guns. German destroyers also used innovative high-pressure steam machinery: while this should have helped their efficiency, it more often resulted in mechanical problems.
+
+Once German and Japanese rearmament became clear, the British and American navies consciously focused on building destroyers that were smaller but more numerous than those used by other nations. The British built a series of destroyers (the {{sclass2|A|destroyer|4||1929}} to {{sclass2|I|destroyer|4}}) which were about 1,400&nbsp;tons standard displacement, had four {{convert|4.7|in|mm|0|adj=on}} guns and eight torpedo tubes; the American {{sclass|Benson|destroyer|4}} of 1938 similar in size, but carried five {{convert|5|in|mm|0|adj=on}} guns and ten torpedo tubes. Realizing the need for heavier gun armament, the British built the {{sclass2|Tribal|destroyer (1936)|4}} of 1936 (sometimes called ''Afridi'' after one of two lead ships). These ships displaced 1,850&nbsp;tons and were armed with eight {{convert|4.7|in|mm|0|adj=on}} guns in four twin turrets and four torpedo tubes. These were followed by the [[J-, K- and N-class destroyer|J-class]] and L-class destroyers, with six {{convert|4.7|in|mm|0|adj=on}} guns in twin turrets and eight torpedo tubes.
+
+Anti-submarine sensors included [[sonar]] (or ASDIC), although training in their use was indifferent. Anti-submarine weapons changed little, and ahead-throwing weapons, a need recognized in World War I, had made no progress.
+
+===Later combat===
+[[File:USS McGowan (DD-678) at sea, circa in 1945.jpg|thumb|{{USS|McGowan|DD-678|6}}, a {{sclass|Fletcher|destroyer|2}} during World War II]]
+{{further|American World War II destroyers|British World War II destroyers|French World War II destroyers|German World War II destroyers|Italian World War II destroyers|Japanese World War II destroyers|Soviet World War II destroyers|Romanian World War II destroyers}}
+During the 1920s and 1930s, destroyers were often deployed to areas of diplomatic tension or humanitarian disaster. British and American destroyers were common on the Chinese coast and rivers, even supplying landing parties to protect colonial interests.
+
+By [[World War II]] the threat had evolved once again. Submarines were more effective, and [[aircraft]] had become important weapons of naval warfare; once again the early-war fleet destroyers were ill-equipped for combating these new targets. They were fitted with new light [[anti-aircraft]] guns, [[radar]], and [[Hedgehog (weapon)|forward-launched ASW]] weapons, in addition to their existing [[dual-purpose gun]]s, [[depth charge]]s, and torpedoes. Increasing size allowed improved internal arrangement of propulsion machinery with [[compartmentation]] so ships were less likely to be sunk by a single hit.<ref name=ast/> In most cases torpedo and/or dual-purpose gun armament was reduced to accommodate new [[anti-air warfare|anti-air]] and [[anti-submarine warfare|anti-submarine]] weapons. By this time the destroyers had become large, multi-purpose vessels, expensive targets in their own right. As a result, casualties on destroyers were among the highest.  In the US Navy, particularly in World War II, destroyers became known as [[Tin Can Sailors|tin cans]] due to their light armor compared to battleships and cruisers.
+
+The need for large numbers of anti-submarine ships led to the introduction of smaller and cheaper specialized anti-submarine warships called [[corvette]]s and [[frigate]]s by the Royal Navy and [[destroyer escort]]s by the USN. A similar programme was belatedly started by the Japanese (see {{sclass|Matsu|destroyer|2}}). These ships had the size and displacement of the original torpedo boat destroyers that the contemporary destroyer had evolved from.
+
+==Post-World War II==
+[[File:Blyskawica l d.jpg|thumb|[[Polish Navy|Polish]] destroyer {{ORP|Błyskawica}}, currently preserved as a [[museum ship]] in [[Gdynia]].]]
+Some conventional destroyers were completed in the late 1940s and 1950s which built on wartime experience. These vessels were significantly larger than wartime ships and had fully automatic main guns, unit machinery, radar, sonar, and antisubmarine weapons such as the [[Squid (weapon)|Squid mortar]]. Examples include the British {{sclass|Daring|destroyer (1949)|0}}, US {{sclass|Forrest Sherman|destroyer|0}}, and the Soviet {{sclass|Kotlin|destroyer|2}}s.
+
+Some World War II–vintage ships were modernized for anti-submarine warfare, and to extend their service lives, to avoid having to build (expensive) brand-new ships. Examples include the US [[FRAM I]] programme and the British [[Type 15 frigate]]s converted from fleet destroyers.
+
+The advent of [[surface-to-air missile]]s and [[surface-to-surface missile]]s, such as the [[Exocet]], in the early 1960s changed naval warfare. [[Guided missile destroyer]]s (DDG in the US Navy) were developed to carry these weapons and protect the fleet from air, submarine and surface threats. Examples include the Soviet {{sclass|Kashin|destroyer|4}}, the British {{sclass2|County|destroyer|4}}, and the US {{sclass|Charles F. Adams|destroyer|4}}.
+
+21st century destroyers tend to display features such as large, slab sides without complicated corners and crevices to keep the [[radar cross-section]] small, [[vertical launch system]]s to carry a large number of missiles at high readiness to fire and [[helicopter]] flight decks and [[hangars]].
+
+==Operators==
+{{update|date=October 2021}}
+* {{navy|Argentina}} Operates four {{sclass|Almirante Brown|destroyer|2}}s and a single modified [[Type 42 destroyer]].
+* {{navy|Australia}} Operates three {{sclass|Hobart|destroyer|2}}s. They are the first Australian warships to use the AEGIS Combat System and are based on Spain's ''Álvaro de Bazán''-class destroyers.
+[[File:PLANS Taiyuan (DDG-131) 20190729.jpg|thumb|right|A [[People's Liberation Army Navy|Chinese Navy]] [[Type 052D destroyer|''Luyang III''-class (Type 052D)]] destroyer]]
+* {{navy|China}} Operates three [[Type 055 destroyer|''Renhai''-class destroyer]]s,<ref>{{Cite web|last=Johnson|first=Jesse|date=2020-01-12|title=China's navy commissions biggest and 'most powerful' surface warship|url=https://www.japantimes.co.jp/news/2020/01/12/asia-pacific/china-navy-commissions-biggest-most-powerful-warship/|access-date=2020-11-17|website=The Japan Times|language=en-US}}</ref> two [[Type 052B destroyer|''Luyang I''-class destroyer]]s, six [[Type 052C destroyer|''Luyang II''-class destroyer]]s, 18 [[Type 052D destroyer|''Luyang III''-class destroyer]]s and two [[Type 051C destroyer|''Luzhou'']]-class destroyers. China also operates two [[Type 052 destroyer|''Luhu'']]-class destroyers, one [[Type 051B destroyer|''Luhai'']]-class destroyer and 4 [[Sovremenny-class destroyer|''Sovremenny'']]-class destroyers that are of older models. It is notable that the ''Renhai''-class (Type 055) is considered to be a [[cruiser]] by [[NATO]] and the [[United States Department of Defense|U.S. Department of Defense]] for its tonnage and capability matching that of the {{sclass|Ticonderoga|cruiser}}.<ref>{{Cite web|title=2017 China Military Power Report|url=https://dod.defense.gov/Portals/1/Documents/pubs/2017_China_Military_Power_Report.PDF|website=dod.defense.gov}}</ref>
+* {{navy|Taiwan}} (Taiwan) Operates four {{sclass|Kidd|destroyer|2}}s, purchased from the United States.
+* {{navy|Egypt}} Operates a single [[FREMM multipurpose frigate]] purchased from France, and a single [[W and Z-class destroyer|Z-class destroyer]] for training use. 
+* {{navy|France}} Operates eight [[FREMM multipurpose frigate]]s, two {{sclass|Horizon|frigate|2}}s, a single {{sclass|Georges Leygues|frigate|2}}. The French Navy does not use the term "destroyer" but rather "first-rate frigate" to these ship types, but they are marked with the NATO "D" hull code which places them in the destroyer type, as opposed to "F" for frigate.
+* {{navy|Germany}} operates three {{sclass|Sachsen|frigate|2}}s and three{{sclass|Baden-Württemberg|frigate|2}}s. These ships are officially classified as frigates by Germany, but regarded as destroyers internationally due to size and capability.
+* {{navy|Greece}} [[USS Charrette|HS ''Velos'' (D-16)]], a {{sclass|Fletcher|destroyer|2}}, remains ceremonially in commission due to her historical significance.
+[[File:Visakhapatnam (D66) - P15B destroyer of Indian Navy during sea trials.jpg|thumb|A {{sclass|Visakhapatnam|destroyer|0}} [[guided missile destroyer]] of the [[Indian Navy]].]]
+* {{navy|India}} Operates the {{sclass|Kolkata|destroyer|2}}<nowiki/>s, {{sclass|Delhi|destroyer|5}} and {{sclass|Rajput|destroyer|0}} destroyers. These ships are armed with [[BrahMos]] missiles, World's fastest cruise missile.which have a range of {{convert|300|km|mi}}, in the anti-ship role. ([[Barak 8 (missile)|Barak-8]]) system is installed to counter airborne threats. These destroyers also carry anti-submarine rockets and torpedoes. The destroyers have the capability to carry two Sea King helicopters. The ''Kolkata'' class is getting augmented by the new [[Visakhapatnam-class destroyer]] (''Visakhapatnam''-class destroyer) the induction of which started in 2021.
+* {{navy|Iran}} operates three {{sclass|Moudge|frigate|2}}s. These ships are classified as destroyers by Iran, but internationally regarded as light frigates.
+[[File:JS Akizuki in the Sagami Bay during the SDF Fleet Review 2012, -14 Oct. 2012 a.jpg|thumb|[[Japan Maritime Self-Defense Force]] ''Akizuki'']]
+* {{navy|Italy}} Operates two {{sclass|Durand de la Penne|destroyer|2}}s and two [[Horizon-class frigate|''Orizzonte''-class destroyer]]s.
+* {{navy|Japan}} Operates the {{sclass|Maya|destroyer|0}}, {{sclass|Atago|destroyer|0}}, and {{sclass|Kongō|destroyer|0}} destroyers which all employ the Aegis combat system. Japan also operates two {{sclass|Hatakaze|destroyer|0}}, four {{sclass|Akizuki|destroyer|0}}, five {{sclass|Takanami|destroyer|0}}, nine {{sclass|Murasame|destroyer|0||1994}}, eight {{sclass|Asagiri|destroyer|0}}, three {{sclass|Hatsuyuki|destroyer|0}}, and six {{sclass|Abukuma|destroyer escort|0}} destroyers, as well as three [[Hatsuyuki-class destroyer#Sub-class|''Shimayuki''-class]] destroyers for training use.
+* {{navy|South Korea}} Operates several classes of destroyers including the {{sclass|Sejong the Great|destroyer|0}} (KDX-III), the {{sclass|Chungmugong Yi Sun-shin|destroyer|0}} (KDX-II) and {{sclass|Gwanggaeto the Great|destroyer|0}} (KDX-I) destroyers. The KDX-III is equipped with the [[Aegis combat system]], [[Goalkeeper CIWS]], [[Hyunmoo]] [[cruise missile]] and the [[Hae Sung]] [[anti-ship missile]].
+* {{navy|Morocco}} operates a single [[FREMM multipurpose frigate]] ordered from France.
+* {{navy|Netherlands}} operates four {{sclass|De Zeven Provinciën|frigate|2}}s. These ships are classified as frigates by The Netherlands, but regarded as destroyers internationally due to size and capability.
+* {{navy|Norway}} operates four {{sclass|Fridtjof Nansen|frigate|2}}s. These ships are officially classified as frigates by Norway, but are regarded both internationally and by their officers as destroyers. They carry the AEGIS combat system. They are a subclass of Spain's ''Álvaro de Bazán''-class destroyers.
+* {{navy|Pakistan}} Operates three {{sclass|Tariq|destroyer|2}}s purchased from the United Kingdom.
+* {{navy|Poland}} The {{sclass|Grom|destroyer|2}}, {{ORP|Blyskawica}} remains ceremonially in commission due to her historical significance.
+* {{navy|Romania}} operates the [[Romanian frigate Mărășești|''Mărășești'']]. This ship was classified as a destroyer from 1990 to 2001, when she was reclassified as a frigate. No official reason was given for this and there was no change in armament or capability, thus remaining in the destroyer type. 
+* {{navy|Russia}} The Russian Navy operates 4 {{sclass|Sovremenny|destroyer|4}} and 8 {{sclass|Udaloy|destroyer|0}} destroyers.
+* {{navy|Spain}} operates five {{sclass|Álvaro de Bazán|frigate|2}}s. These ships are officially classified as a frigates by Spain, but due to their size and capabilities are regarded internationally as destroyers. the design draws elements from the American ''Arleigh Burke''-class destroyers and carry the AEGIS combat system and inspired the design of the ''Hobart'' and ''Fridtjof Nansen''-class destroyers.
+* {{navy|Thailand}} Operates a single {{sclass|Cannon|destroyer escort|2}} purchased from the United States for training use.
+[[File:HMS Daring-1.jpg|thumb|{{HMS|Daring|D32|6}}, a [[Type 45 destroyer|Type 45]] [[guided missile destroyer]] of the [[Royal Navy]].]]
+* {{navy|United Kingdom}} Operates the [[Type 45 destroyer|Type 45]], or ''Daring''-class, stealth destroyer which displaces roughly 8,000 tonnes. Six ships of the class are operational. They are equipped with the UK variant of the [[PAAMS|Principal Anti-Air Missile System]] (PAAMS) and [[BAE Systems]] [[SAMPSON]] radar. 
+* {{navy|United States}} Operates 68 active {{sclass|Arleigh Burke|destroyer|4}} [[guided missile]] destroyers (DDGs) of a planned class of 89, and also has one active {{sclass|Zumwalt|destroyer|0}} destroyer of a planned class of three, all {{as of|lc=y|January 2021}}.
+
+===Former operators===
+
+* {{navy|Austria-Hungary}} lost its entire navy upon the Empire's collapse following World War I.
+* {{navy|Ukrainian People's Republic}} lost its entire navy upon its reintegration into the Soviet Union in 1921.
+* {{navy|Estonia}} sold its two {{sclass|Orfey|destroyer|2}} and {{sclass|Izyaslav|destroyer|2}}s to Peru in 1933, to prevent their capture by the Soviet Union.
+* {{navy|Manchukuo}} transferred its only {{sclass|Momo|destroyer|2}} back to Japan in 1942.
+* {{navy|Bulgaria}} decommissioned its only {{sclass|Ognevoy|destroyer|2}} in 1963.
+* {{navy|Denmark}} decommissioned its last {{sclass|Hunt|destroyer|2}} in 1965.
+* {{navy|Portugal}} decommissioned its last {{sclass|Douro|destroyer|2}} in 1967.
+* {{navy|Israel}} decommissioned its last [[W and Z-class destroyer|''Z''-class destroyer]] in 1972.
+* {{navy|Dominican Republic}} decommissioned its [[G and H-class destroyer|''H''-class destroyer]] in 1972.
+* {{navy|South Vietnam}} transferred its remaining {{sclass|Edsall|destroyer escort|2}} to The Philippines in 1975 following the [[Fall of Saigon]].
+* {{navy|South Africa}} decommissioned its last [[W and Z-class destroyer|''W''-class destroyer]] in 1976.
+* {{navy|Yugoslavia}} decommissioned its only destroyer, [[Yugoslav destroyer Split|''Split'']] in 1980.
+* {{navy|Sweden}} decommissioned both its {{sclass|Halland|destroyer|2}} and four {{sclass|Östergötland|destroyer|2}}s in 1982 following defense reviews.
+* {{navy|Colombia}} decommissioned both its {{sclass|Halland|destroyer|2}}s and its lone {{sclass|Allen M. Sumner|destroyer|2}} in 1986.
+* {{navy|Uruguay}} decommissioned its last {{sclass|Cannon|destroyer escort|2}} in 1991.
+* {{navy|Tunisia}} lone {{sclass|Edsall|destroyer escort|2}} was destroyed by a fire in 1992.
+* {{navy|Ecuador}} decommissioned its lone {{sclass|Dealey|destroyer escort|2}} in 1994.
+* {{navy|Vietnam}} decommissioned its lone {{sclass|Edsall|destroyer escort|2}} in 1997.
+* {{navy|Turkey}} decommissioned its last {{sclass|Gearing|destroyer|2}} in 2000.
+* {{navy|Poland}} decommissioned its lone {{sclass|Kashin|destroyer|2}} in 2003.
+* {{navy|Indonesia}} decommissioned all four {{sclass|Claud Jones|destroyer escort|2}}s in 2003.
+* {{navy|Greece}} decommissioned its last {{sclass|Charles F. Adams|destroyer|2}} in 2004.
+* {{navy|Chile}} decommissioned its last {{sclass|County|destroyer|2}} in 2006.
+* {{navy|Peru}} decommissioned its last {{sclass|Daring|destroyer (1949)|2}} in 2007.
+* {{navy|Brazil}} decommissioned its last [[Garcia-class frigate|''Garcia''-class destroyer escort]] in 2008.
+* {{navy|Venezuela}} decommissioned its last {{sclass|Almirante Clemente|destroyer|2}} in 2011.
+* {{navy|Mexico}} decommissioned its last {{sclass|Edsall|destroyer escort|2}} in 2015.
+* {{navy|Canada}} decommissioned its last {{sclass|Iroquois|destroyer|2}} in 2017.
+* {{navy|Philippines}} decommissioned its last {{sclass|Cannon|destroyer escort|2}} in 2018.
+
+==Future development==
+[[File:BADEN-WURTTEMBERG 00257 (cropped).jpg|thumb|''Baden-Württemberg'', an [[F125-class frigate]] of the [[German Navy]]; currently the biggest frigates worldwide. In size and role they are qualified as destroyers]]
+
+{{navy|Brazil}} plans to build 7,000-ton destroyers after the delivery of the new frigates, and TKMS presented to the Navy its most modern 7,200-ton MEKO A-400 air defense destroyer, an updated version of the German [[Baden-Württemberg-class frigate|F-125]]-class frigates. The similarities between the projects and the high rate of commonality between requirements were also crucial for the consortium's victory.<ref>{{Cite news|url=http://www.defesanet.com.br/cct/noticia/31694/CCT-%E2%80%93-thyssenkrupp-Marine-Systems---Dr-Rolf-Wirtz--O-nosso-diferencial-e-a-Qualidade-do-Produto/|title=CCT – thyssenkrupp Marine Systems - Dr Rolf Wirtz: O nosso diferencial é a Qualidade do Produto|date=9 January 2019|website=Defesa Net|language=pt}}</ref>
+
+{{navy|China}} is adding [[Type 052D destroyer]] and [[Type 055 destroyer]] class ships to its navy.
+
+{{navy|France}} is adding [[FREMM multipurpose frigates]] to their fleet.
+
+{{navy|Germany}} is currently building {{sclass2|F125|frigate|2}}s. They are to replace the aging {{sclass|Bremen|frigate|2}}s. In addition, six multi-mission surface combat ships are planned under the name 'Mehrzweckkampfschiff 180' (MKS 180), which will have destroyer-size and corresponding capabilities (length: 163m, displacement: 10,400 tons)<ref>{{cite web|url=http://www.bundeswehr-journal.de/2017/zwei-weitere-mks-180-fuer-die-deutsche-marine/|title=Zwei weitere MKS 180 für die deutsche Marine – bundeswehr-journal|date=14 February 2017}}</ref>
+
+{{navy|India}} is constructing {{sclass|Visakhapatnam|destroyer|2}}s, with first decided to be commissioned by July 2021 but due to pandemic delays it is to be commissioned in early or mid 2022. It is an improved version of the ''Kolkata''-class destroyers.
+
+{{navy|Iran}} is currently building 1-2 {{sclass|Khalije Fars|destroyer|2}}s.
+
+{{navy|Italy}} is currently research development into their new DDX project to replace their ''Durand da le Penne''-class destroyers.<ref>{{Cite web|url=https://www.defensenews.com/global/europe/2020/11/09/italy-plans-new-destroyers-for-2028-delivery/|title = Italy plans new destroyers for 2028 delivery|date = 9 November 2020}}</ref>
+
+{{navy|Japan}} Is developing plans for its [[DDR Destroyer Revolution]] Project. 
+
+{{navy|South Korea}} has begun development of its [[KDX-IIA]] destroyers. These ships are to be a subclass of South Korea's {{sclass|Chungmugong Yi Sun-shin|destroyer|2}}s. The first unit is expected to enter service in 2019. Additionally, {{sclass|Sejong the Great|destroyer|2}}s are being built.
+
+{{navy|Russia}} has begun development of its {{sclass2|Leader|destroyer|2}}. Design work was ongoing as of 2020.<ref>{{Cite web|url=https://militarywatchmagazine.com/article/russia-s-ambitious-shkval-nuclear-powered-destroyer-program-isn-t-dead-yet|title = Military Watch Magazine}}</ref>
+
+{{navy|Turkey}} is currently developing its [[TF2000-class frigate|TF2000-class destroyer]] as the largest part of the [[MILGEM project]]. A total of seven ships will be constructed and will specialise in [[anti-air warfare]].
+
+{{navy|United Kingdom}} is in the early stages of developing a [[Type 83 destroyer]] design after the unveiling of these plans in the [[Defence in a Competitive Age|2021 defence white paper]]. The class is projected to replace the current [[Type 45 destroyer]] fleet beginning in the latter 2030s.<ref>{{Cite web|url=https://ukdefencejournal.org.uk/uk-announces-new-type-83-destroyer/|title = UK announces new Type 83 Destroyer|date = 22 March 2021}}</ref>
+
+{{navy|United States}}, as of 2018, has 67 active ''Arleigh Burke'' destroyers and 15 planned or under construction. The new ships will be the upgraded "flight III" version.<ref name=CRS_summary>{{cite web |url=https://news.usni.org/2018/07/11/report-congress-u-s-navy-destroyer-programs-4 |title=Report to Congress on U.S. Navy Destroyer Programs |publisher=usni.org |date=11 July 2018 |access-date=21 August 2018 |archive-url=https://web.archive.org/web/20180821223318/https://news.usni.org/2018/07/11/report-congress-u-s-navy-destroyer-programs-4 |archive-date=21 August 2018 |url-status=live }}</ref>
+
+== Preserved destroyers ==
+A number of countries have destroyers preserved as museum ships. These include:
+* {{HMAS|Vampire|D11}} in [[Sydney]], [[New South Wales]].
+* BNS ''Bauru'', formerly {{USS|McAnn|DE-179}} in [[Rio de Janeiro]], [[Brazil]].
+* {{HMCS|Haida|G63}} in [[Hamilton, Ontario|Hamilton]], [[Ontario]].
+* {{Ship|Chinese destroyer|Anshan|101}} in [[Qingdao]], [[China]].
+* {{Ship|Chinese destroyer|Changchun|103}} in [[Rushan, Shandong|Rushan]], China
+* {{Ship|Chinese destroyer|Taiyuan|104}} in [[Dalian]], China
+* [[Type 051 destroyer|Chinese ''Luda''-class]] destroyers, ''Jinan'', ''Yinchuan'', ''Nanjing'', ''Nanchang'', ''Chongqing'', ''Xining'', ''Zhanijiang'', ''Zhuhai'', ''Xi'an'', ''Hefei'', & ''Dalian'', ''Zunyi'' – on display in [[China]].
+* ARC ''Boyaca'' (DE-16), formerly {{USS|Hartley|DE-1029}} in [[Guatape]], [[Colombia]].
+* {{Ship|French destroyer|Maille-Breze|D627}} in [[Nantes]], [[France]].
+* {{Ship|German destroyer|Mölders|D186}} in [[Wilhelmshaven]], [[Germany]].
+* HS ''Velos'' (D-16), formerly {{USS|Charrette|DD-581}} in [[Palaio Faliro]], [[Greece]].{{NoteTag|''Velos'' is still a commissioned warship within the [[Hellenic Navy]], but is strictly ceremonial and no longer sees action.}}
+* {{BRP|Rajah Humabon|PS-11}} in [[Sangley Point]], [[Philippines]]
+* {{ORP|Blyskawica}} in [[Gdynia]], [[Poland]]. The oldest preserved destroyer in the world.{{NoteTag|''Blyskawica'' is still a commissioned warship within the [[Polish Navy]], but is strictly ceremonial and no longer sees action.}}
+* [[Russian destroyer Bespokoynyy|Russian destroyer ''Bespokoynyy'']] in [[Kronstadt]], [[Russia]]
+* [[Russian destroyer Smetlivy|Russian destroyer ''Smetlivy'']] in [[Sevastopol]], [[Crimea]]
+* ROKS ''Jeong Buk'' (DD-916), formerly  {{USS|Everett F. Larson|DD-830}} in [[Gangneung]], [[South Korea]].
+* ROKS ''Jeong Ju'' (DD-925), formerly {{USS|Rogers|DD-876}} in [[Dangjin]], [[South Korea]].
+* {{HSWMS|Småland|J19}} in [[Gothenburg]], [[Sweden]].
+* ROCS ''Te Yang'' (DDG-925), formerly {{USS|Sarsfield|DD-837}} in [[Tainan City]], [[Taiwan]]
+* TCG ''Gayret'' (D352), formerly {{USS|Eversole|DD-789}} in [[Izmit]], [[Turkey]].
+* {{HMS|Cavalier|R73}} in [[Chatham, Kent|Chatham]], [[Kent]].
+* {{USS|Cassin Young|DD-793}} in [[Boston]], [[Massachusetts]].
+* {{USS|The Sullivans|DD-537}} in [[Buffalo, New York|Buffalo]], [[New York (state)|New York]].
+* {{USS|Kidd|DD-661}} in [[Baton Rouge]], [[Louisiana]].
+* {{USS|Slater|DE-766}} in [[Albany, New York|Albany]], [[New York (state)|New York]].
+* {{USS|Stewart|DE-238}} in [[Galveston, Texas|Galveston]], [[Texas]].
+* {{USS|Orleck|DD-886}} in [[Lake Charles, Louisiana|Lake Charles]], [[Louisiana]].
+* {{USS|Turner Joy|DD-951}} in [[Bremerton]], [[Washington (state)|Washington]].
+* {{USS|Laffey|DD-724}} in [[Mount Pleasant, South Carolina|Mount Pleasant]], [[South Carolina]].
+* {{USS|Edson|DD-946}} in [[Bay City, Michigan|Bay City]], [[Michigan]].
+* {{USS|Joseph P. Kennedy Jr.|DD-850}} in [[Fall River]], [[Massachusetts]].
+
+===Former museums===
+
+* {{HMCS|Fraser|DDH 233}} was on display in [[Bridgewater, Nova Scotia]] from 1994 to 2011. Later scrapped due to her deteriorating condition.
+* [[Ukuru-class escort ship|IJN ''Shiga'']] was on display in [[Chiba City]], Japan from 1964 to 1998 when she was scrapped due to her deteriorating condition.
+* [[USS William R. Rush (DD-714)|ROKS ''Kang Won'' (DD-922)]] was on display from 2000 to 2016, when she was closed due to her deteriorating condition, and later scrapped.
+* [[ORP Burza|ORP ''Burza'']] was on display in [[Gdynia]], Poland from 1951 to 1977, until she was replaced in the role by ''Blyskawica'' due to her deteriorating condition, and later scrapped.
+* {{USS|Barry|DD-933}} was on display in [[Washington, D. C.]] from 1984 to 2015, until she was closed to make room for a bridge expansion. She is currently in lay up in Philadelphia awaiting scrapping.
+
+==See also==
+* [[List of destroyer classes]]
+* [[United States Navy 1975 ship reclassification]]
+* [[Bombardment of Cherbourg]]
+* [[List of destroyers of the Second World War]]
+
+== Notes ==
+{{NoteFoot}}
+
+== References ==
+{{Reflist}}
+
+==Further reading==
+* Evans, David C. ''Kaigun'': Strategy, Tactics, and Technology in the Imperial Japanese Navy'', 1887–1941, [[Mark Peattie|Mark R. Peattie]]. Naval Institute Press, Annapolis, Maryland {{ISBN|0-87021-192-7}}
+* Gardiner, Robert (Editor). ''Conway's All the World's Fighting Ships (1860–1905)'': Naval Institute Press, 1985.
+* Gove, Philip Babock (Editor in Chief). ''Webster's Third New International Dictionary of the English Language Unabridged.'' (2002) Merriam-Webster Inc., Publishers, Massachusetts, USA.
+* Grant, R. Captain. ''Before Port Arthur in a Destroyer; The Personal Diary of a Japanese Naval Officer.'' London, John Murray; first and second editions published in 1907.
+* Howe, Christopher. ''Origins of Japanese Trade Supremacy: Development and Technology in Asia from 1540 to the Pacific War,'' The University of Chicago Press, {{ISBN|0-226-35485-7}}
+* Jentschura, Hansgeorg. ''Warships of the Imperial Japanese Navy, 1869–1945.'' United States Naval Institute, Annapolis, Maryland, 1977. {{ISBN|0-87021-893-X}}.
+* Lyon, David, ''The First Destroyers.'' Chatham Publishing, 1 & 2 Faulkner's Alley, Cowcross St. London, Great Britain; 1996. {{ISBN|1-55750-271-4}}.
+* Sanders, Michael S. (2001) ''[https://books.google.com/books?id=VkBWTGGzGNUC The Yard: Building a Destroyer at the Bath Iron Works]'', HarperCollins, {{ISBN|978-0-06-092963-3}}
+* Simpson, Richard V. ''Building The Mosquito Fleet, The US Navy's First Torpedo Boats.'' Arcadia Publishing, (2001); Charleston, South Carolina, USA. {{ISBN|0-7385-0508-0}}.
+* Preston, Anthony. ''Destroyers'', Bison Books (London) 1977. {{ISBN|0-600-32955-0}}
+* Van der Vat, Dan. ''The Atlantic Campaign''.
+* [http://www.globalsecurity.org/military/systems/ship/dd-963.htm DD-963 Spruance-class]
+* [http://www.defenselink.mil/releases/2006/nr20060407-12772.html Navy Designates Next-Generation Zumwalt Destroyer]
+
+==External links==
+{{Wiktionary|destroyer}}
+{{Commons category-inline|Destroyers}}
+
+{{Warship types of the 19th & 20th centuries}}
+{{Authority control}}
+
+[[Category:Destroyers| ]]
+[[Category:Ship types]]

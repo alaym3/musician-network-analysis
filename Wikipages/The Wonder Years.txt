@@ -1,0 +1,538 @@
+{{short description|American television series}}
+{{about|the 1988 American television series|the reboot of the series|The Wonder Years (2021 TV series)|the band|The Wonder Years (band)}}
+{{use mdy dates|date=June 2013}}
+{{Infobox television
+ | name = The Wonder Years 
+ | image = The Wonder Years logo.svg
+ | genre = {{Plainlist|
+*[[Situation Comedy]]
+*[[Slice of life]] 
+*[[Coming of age]]
+}}
+ | creator = {{Plain list|
+*[[Neal Marlens]]
+*[[Carol L. Black|Carol Black]]
+}}
+ | starring = {{Plain list|
+*[[Fred Savage]]
+*[[Dan Lauria]]
+*[[Alley Mills]]
+*[[Olivia d'Abo]]
+*[[Jason Hervey]]
+*[[Danica McKellar]]
+*[[Josh Saviano]]
+}}
+ | theme_music_composer = [[Lennon–McCartney]]
+ | opentheme = "[[With a Little Help from My Friends#Joe Cocker version|With a Little Help from My Friends]]" by [[Joe Cocker]]
+ | narrated = [[Daniel Stern (actor)|Daniel Stern]]
+ | country = United States
+ | language = English
+ | num_seasons = 6
+ | num_episodes = 115
+ | list_episodes = List of The Wonder Years episodes
+ | executive_producer = {{Plain list|
+*[[Bob Brush]]
+*[[Michael Dinner]]
+*Carol Black
+*Neal Marlens
+}}
+ | producer = {{Plain list|
+*Ken Topolsky
+*Michael Dinner
+*Bruce J. Nachbar
+*David Chambers
+}}
+ | runtime = 22&ndash;24 minutes
+ | camera = [[Single-camera setup|Single-camera]]
+ | company = {{Plain list|
+*The Black-Marlens Company
+*[[New World Television]]
+}}
+ | distributor = {{Plain list|
+*[[20th Television]]
+}}
+ | network = [[American Broadcasting Company|ABC]]
+ | picture_format =
+ | audio_format = [[Stereo]]
+ | first_aired = {{Start date|1988|1|31}}
+ | last_aired = {{End date|1993|5|12}}
+}}
+'''''The Wonder Years''''' is an American [[coming-of-age story|coming-of-age]], [[situation comedy]] television series created by [[Neal Marlens]] and [[Carol L. Black|Carol Black]].<ref>{{cite web|url=https://articles.latimes.com/1988-04-08/entertainment/ca-1019_1_white-bread |title='Wonder Years' Pays Its Respects to '60s Suburbia - Los Angeles Times |publisher=Articles.latimes.com |date=April 8, 1988 |access-date=2013-03-26}}</ref> It ran on [[American Broadcasting Company|ABC]] from March 15, 1988, until May 12, 1993. The pilot aired on January 31, 1988, following ABC's coverage of [[Super Bowl XXII]].<ref>{{cite news|title= TV: 'Wonder Years,' A New Series on ABC
+|work= New York Times|date=January 30, 1988|url= https://www.nytimes.com/1988/01/30/arts/tv-wonder-years-a-new-series-on-abc.html?scp=3&sq=wonder%20years&st=cse|access-date=2010-08-11|first=John J.|last=O'Connor}}</ref><ref name="LA Times">{{cite news|title= Success Turns Into Mixed Blessing for Creators of 'Wonder Years' |newspaper= LA Times|date=November 30, 1988|url= https://articles.latimes.com/1988-11-30/entertainment/ca-630_1|access-date=2010-08-24|first=Diane|last=Haithman}}</ref><ref>{{cite news|title= 'The Wonder Years' Faces Growing Pains |newspaper= LA Times|date=October 3, 1989|url= https://articles.latimes.com/1989-10-03/entertainment/ca-621_1_kevin-arnold|access-date=2010-08-24|first=Steve|last=Weinstein}}</ref> The series stars [[Fred Savage]] as Kevin Arnold, a teenager growing up in a suburban [[middle class]] family in the late 1960s and early 1970s. It co-stars [[Dan Lauria]] as his father Jack, [[Alley Mills]] as his mother Norma, [[Jason Hervey]] as his brother Wayne, [[Olivia d'Abo]] as his sister Karen, [[Josh Saviano]] as his best friend Paul Pfeiffer, and [[Danica McKellar]] as his girlfriend Winnie Cooper. It takes place from 1968 to 1973, and is narrated by [[Daniel Stern (actor)|Daniel Stern]] as an adult version of Kevin.
+
+The show earned a spot in the [[Nielsen ratings|Nielsen Top 30]] during its first four seasons.<ref name="museum">{{cite web|url=http://www.museum.tv/eotv/wonderyears.htm|title=The Museum of Broadcast Communications - Encyclopedia of Television|access-date=March 22, 2015}}</ref> ''[[TV Guide]]'' named it one of the 20 best shows of the 1980s.<ref name="museum" /> After six episodes, ''The Wonder Years'' won a [[Primetime Emmy Award for Outstanding Comedy Series]] in 1988.<ref name="museum" /> In addition, at age 13, Fred Savage became the youngest actor ever nominated as [[Primetime Emmy Award for Outstanding Lead Actor - Comedy Series|Outstanding Lead Actor for a Comedy Series]]. The show was also awarded a [[George Foster Peabody Award|Peabody Award]] in 1989 for "pushing the boundaries of the sitcom format and using new modes of storytelling".<ref>[http://www.peabody.uga.edu/archives/ Peabody Award Winners Archive] {{webarchive |url=https://web.archive.org/web/20060415181656/http://www.peabody.uga.edu/archives/ |date=April 15, 2006 }}</ref> In total, the series won 22 awards and was nominated for 54 more.<ref>{{cite web|url=https://www.imdb.com/title/tt0094582/awards|title=The Wonder Years|via=www.imdb.com}}</ref> In 1997, "My Father's Office" was ranked number 29 on [[TV Guide's 100 Greatest Episodes of All Time|''TV Guide''{{'}}s 100 Greatest Episodes of All Time]],<ref>{{cite journal |year=1997 |title=Special Collectors' Issue |journal=[[TV Guide]] |issue=June 28–July 4 }}</ref> and in the 2009 revised list, the pilot episode was ranked number 43.<ref>{{cite web|url=https://www.imdb.com/list/mDwYpIpc8m8|title=IMDb|access-date=March 22, 2015}}</ref> In 2016, ''[[Rolling Stone]]'' ranked ''The Wonder Years'' number 63 on its list of 100 Greatest TV Shows of All Time.<ref>{{cite web |url=https://www.rollingstone.com/tv/lists/100-greatest-tv-shows-of-all-time-w439520/breaking-bad-w439638 |title=100 Greatest TV Shows of All Time |work=Rolling Stone |first=Rob |last=Sheffield |date=September 21, 2016 |access-date=September 22, 2016}}</ref> In 2017, James Charisma of ''[[Paste (magazine)|Paste]]'' ranked the show's opening sequence number 14 on a list of the 75 Best TV Title Sequences of All Time.<ref name="Paste">{{cite magazine | title = The 75 Best TV Title Sequences of All Time | magazine = [[Paste (magazine)|Paste]] | url = https://www.pastemagazine.com/articles/2017/01/the-75-best-tv-title-sequences-of-all-time.html | author = Charisma, James | date = January 4, 2017 | access-date = January 16, 2017}}</ref> As of recent years, many critics and fans consider ''The Wonder Years'' to be a classic<ref>{{cite web |url=https://collider.com/the-wonder-years-dvd-release-date/ |title=''The Wonder Years'' Complete Series Finally coming to DVD with Complete Soundtrack |date=February 12, 2014 |access-date=December 27, 2017}}</ref> with tremendous impact on the industry over the years, inspiring many other shows and how they are structured.<ref>{{cite web |url=https://www.denofgeek.com/tv/wonder-years/32540/the-tv-shows-that-owe-a-debt-to-the-wonder-years |title=The TV Shows That Owe a Debt to ''The Wonder Years'' |date=October 17, 2014 |access-date=December 27, 2017}}</ref>
+
+==Plot==
+{{Long plot|section|date=June 2020}}<!--Word count: 1,268 as of 2 September 2020 - should be 400-700 per [[WP:FILMPLOT]] -->
+The series depicts the social and family life of a boy in a stereotypical American suburban middle-class family from 1968 to 1973, covering the ages of 12 through 17. Where the Arnold family lives is never specified other than being a suburb, but some episodes have license plates showing [[California]] and New York. Each year in the series takes place exactly 20 years before airing (1988 to 1993).
+
+The show's plot centers on Kevin Arnold, son of Jack and Norma Arnold. Kevin's father holds a management job at NORCOM, a [[defense contractor]], while his mother is a [[housewife]]. Kevin also has an older brother, Wayne, and an older sister, Karen. Two of Kevin's friends and neighbors are prominently featured throughout the series: his best friend, Paul Pfeiffer, and his crush-turned-girlfriend Gwendolyn "Winnie" Cooper. Storylines are told through Kevin's reflections as an adult in his mid-30s, voiced by Daniel Stern.
+
+In the pilot episode, Winnie's older brother Brian, whom Kevin admires, is killed in action in [[Vietnam War|Vietnam]] in 1968. Kevin meets Winnie in a nearby wooded area called Harpers Woods, and they share a kiss. This unsaid relationship between Winnie and Kevin remains dormant for a long while, with Winnie starting to date a popular eighth-grader named Kirk McCray and Kevin briefly going steady with Becky Slater. After Kevin breaks up with Becky due to his feelings for Winnie, Becky becomes a recurring nuisance for Kevin. Winnie eventually dumps Kirk, as well, and Kevin and Winnie share a second kiss at the start of the 1969 summer vacation. Around Valentine's Day 1970, Winnie temporarily dates Paul, who has broken up with his girlfriend Carla. Winnie and Kevin start dating each other soon after.
+
+Just before the summer break, Winnie and her family move to a house four miles away. Although Winnie attends a new school, Lincoln Junior High, she and Kevin decide to remain together and maintain a successful long-distance relationship. A beautiful new student named Madeline Adams joins Kevin's school and quickly catches Kevin's eye, but it is Winnie who breaks up with Kevin after meeting Roger, a [[Jock (athlete)|jock]] at her new school. Neither relationship lasts long, but Winnie and Kevin don't reunite until she is injured in a car crash. After graduating from junior high, Kevin and Winnie both go to McKinley High and Paul attends a prep school. Paul would later transfer to McKinley High and join Kevin and Winnie.
+
+Earlier seasons of the show tended to focus on plots involving events within the Arnold household and Kevin's academic struggles, whereas later seasons focused much more on plots involving dating and Kevin's friends.
+
+Kevin has several brief flings during the summer of 1971 and the 1971–1972 academic year. After Kevin's grandfather gets his driver's license revoked, he sells his car to Kevin for a dollar. Paul transfers to McKinley High after his first semester at preparatory school when his father runs into financial troubles. Wayne decides to join the army as a result of his inability to do well in school. This gets turned around when Wayne is not able to pass his physical. Winnie and Kevin are reunited when they go on a double date to a school dance, and find themselves more attracted to each other than their respective partners. In late 1972, Kevin's older brother Wayne starts working at NORCOM, and dates his co-worker Bonnie, a divorcée with a son, but the relationship does not last. Kevin's father quits NORCOM, and buys a furniture-manufacturing business.
+
+===Final episode and epilogue===
+In the series finale, Winnie decides to take a job for the summer of 1973 as a lifeguard at a resort. Kevin, meanwhile, is at his job at his father's furniture factory and calls Winnie, who is distant and seems to be enjoying her time away from Kevin. Eventually, Kevin and his father fight and Kevin announces that he is leaving, reasoning that he needs to "find himself". Kevin drives to the resort where Winnie is working, hopeful that she can secure him a job and they can spend the rest of the summer together.<ref>{{cite news |title= Television: Closing the Album On 'The Wonder Years' |work= New York Times|date=May 9, 1993|url = https://www.nytimes.com/1993/05/09/arts/television-closing-the-album-on-the-wonder-years.html |access-date= 2010-08-11| first = Peter |last=Kaufman}}</ref><ref>{{cite news|title= Reeling in the Bittersweet 'Wonder Years': With Rising Costs, Aging Cast, Series Comes to a Close |work= the Los Angeles Times|date=May 12, 1993|url= https://articles.latimes.com/1993-05-12/entertainment/ca-34310_1_kevin-arnold |access-date=2011-03-23|first=Steve|last= Weinstein}}</ref>
+
+Kevin eventually secures a job at the resort and plays a round of poker with the house band. He wins big and goes out to search for Winnie to tell her of his good fortune. To his surprise, he sees Winnie engaged in a passionate kiss with another lifeguard.
+
+The next day, Kevin confronts her and they fight. Kevin then plays another round of poker, losing his car in a bet. Desperate, Kevin confronts Winnie and her new boyfriend at the restaurant and ends up punching him in the face. Kevin then leaves the resort on foot.
+
+On a desolate stretch of highway, Kevin decides to begin hitchhiking. He finally gets picked up by an elderly couple and much to his surprise finds Winnie in the backseat. Winnie was fired over the fight Kevin instigated at the resort. Kevin and Winnie begin to argue and the elderly couple lose patience and kick them out of the car. A rainstorm begins and Kevin and Winnie search for shelter. They find a barn and discuss how much things are changing and the future. They make up and kiss passionately. (It is heavily implied that they lose their [[virginity]] to each other.)
+
+The narrator's monologue states: {{Quote|Once upon a time, there was a girl I knew who lived across the street. Brown hair. Brown eyes. When she smiled, I smiled. When she cried, I cried. Every single thing that ever happened to me that mattered, in some way, had to do with her. That day, Winnie and I promised each other that, no matter what, we would always be together. It was a promise full of passion, truth, and wisdom. It was the kind of promise that can only come from the hearts of the very young.}}
+
+They soon find their way back to their hometown and arrive hand-in-hand to a Fourth of July parade. During this parade, the adult Kevin ([[Daniel Stern (actor)|Daniel Stern]]) describes the fate of the show's main characters. Kevin makes up with his father, graduates from high school in 1974, and leaves for college, later becoming a writer. Paul studies law at Harvard. Karen, Kevin's sister, gives birth to a son in September 1973. Kevin's mother becomes a businesswoman and corporate board chairwoman. Kevin's father dies in 1975 and Wayne takes over his father's furniture business. Winnie studies art history in Paris while Kevin stays in the United States. Winnie and Kevin end up writing to each other once a week for the next eight years. When Winnie returns to the United States in 1982, Kevin meets her at the airport, with his wife and eight-month-old son.
+
+The final sounds, voice-over narration, and dialogue of the episode and series is that of Kevin as an adult, with children heard in the background:
+{{Quote|Growing up happens in a heartbeat. One day you're in diapers, the next day you're gone. But the memories of childhood stay with you for the long haul. I remember a place, a town, a house like a lot of houses. A yard like a lot of other yards. On a street like a lot of other streets. And the thing is, after all these years, I still look back ... with wonder.}}
+
+A little boy (Stern's real life son, [[Henry Stern (California politician)|Henry]]) can be heard asking "Hey, Dad, want to play catch?" during a break in the final narration. Kevin responds, "I'll be right there."
+
+In 2011, the finale was ranked number 11 on the [[TV Guide Network]] special, ''TV's Most Unforgettable Finales''.<ref>{{Citation | title = TV's Most Unforgettable Finales | date = May 22, 2011 | publisher = TV Guide Network}}.</ref>
+
+==Episodes==
+{{Main |List of The Wonder Years episodes}}
+{{:List of The Wonder Years episodes}}
+
+==Cast==
+{{Main|List of The Wonder Years characters}}
+[[File:WonderYears.jpg|thumb|Paul, Kevin and Winnie]]
+
+* Kevin Arnold ([[Fred Savage]]): Character born March 18, 1956, Kevin grew up in the turbulent late 1960s and early 1970s.<ref>{{cite news|title= A Sitcom 70's Child Grows Up to Be an Alter Ego|newspaper = [[The New York Times]]|date=January 19, 2006|url= https://query.nytimes.com/gst/fullpage.html?res=9D07EEDB153FF93AA25752C0A9609C8B63|access-date=2010-08-11|first=Felicia R.|last=Lee}}</ref> The voice of Kevin as an adult (and the show's narrator) is supplied by [[Daniel Stern (actor)|Daniel Stern]] ([[Arye Gross]] in the original broadcast of the pilot).
+* John "Jack" Arnold ([[Dan Lauria]]): Character born on November 6, 1927, died in 1975. Kevin's father was a gruff, [[laconic]] man and a [[Korean War]] veteran; he grew up during [[the Great Depression]], served in the [[US Marine Corps]], and is seen in photographs wearing the uniform of a [[First Lieutenant]]. He works at NORCOM, a large military defense corporation, in a [[middle management]] position he loathes. Later, he starts his own business, building and selling handcrafted furniture. The series's last episode reveals that he dies in 1975 near the end of Kevin's freshman year of college&nbsp;– that is, two years after the time of the show's finale&nbsp;– although in a previous episode, an adult Kevin says his father would later be the grandfather of Kevin's sons. Jack represents the viewpoint of the "[[Silent Generation]]" that grew up during the Depression and came of age during the [[Second World War]]; it was confused and angered by the rapid changes taking place in the 1960s. He is described as a [[Republican Party (United States)|Republican]] who voted for [[Richard Nixon]] twice in the presidential elections of [[1968 United States presidential election|1968]] and [[1972 United States presidential election|1972]].
+* Norma Arnold (née Gustavson) ([[Alley Mills]]): Character born March 22nd, 1928, Kevin's housewife mother. Unlike her husband, Norma is friendly and upbeat. She met Jack as a college freshman. When he graduated, she moved across the country with him and did not finish college. She eventually gets her degree late in the series and begins work at a software startup called Micro Electronics. Although she came of age at the same time as her husband, she is less conservative than her husband and increasingly yearns to break out of her homemaker role, reflecting the rise of [[feminism]] in the 1960s.
+* Karen Arnold ([[Olivia d'Abo]]): Character born circa 1952, Kevin's hippie, but mature older sister. Her free-spirited ways clash with her overbearing father's conservatism, and she depends upon her mother as a mediator. When Karen moves in with her boyfriend Michael ([[David Schwimmer]]) during her freshman year of college, she has a falling out with her father. The pair marry one year later and move to [[Alaska]], where Michael has secured a good job. Karen ultimately accepts some of her parents' viewpoints and has a baby, while her husband learns to support his wife and child.
+* Wayne Arnold ([[Jason Hervey]]): Character born April 6th, 1954, Kevin's annoying older brother. Wayne enjoys physically tormenting Kevin and Paul, calling Kevin "[[wikt:butthead|butthead]]" or "[[scrotum|scrote]]". He ultimately takes over the family furniture business, after his father passes away. (Wayne attempted to follow in Jack's footsteps by joining the military, but [[psoriasis]] kept him out.) Wayne is usually portrayed as a loser in romantic relationships. For a time, he dated a girl named Dolores, but that was more casual than serious. In later seasons, Wayne matures. In the final season, he begins a serious relationship with a divorcée named Bonnie, but is left heartbroken when she reconciles with her husband.
+* Paul Joshua Pfeiffer ([[Josh Saviano]]): Character born March 14, 1956, Paul is Kevin's long time best friend, a bright and excellent student, and an allergy sufferer. He is also Jewish and in one episode celebrates his [[Bar Mitzvah]]. Although Kevin and Paul are best friends in the series's early seasons, their relationship becomes somewhat strained later. Kevin begins to spend more time with Chuck and Jeff, causing tension with Paul. Paul also attends a private prep school for one season, leaving Kevin alone to start public high school. In another episode, Kevin tattles on Paul after the latter loses his virginity. In the final episode, it is revealed that Paul eventually attends [[Harvard]] and becomes a lawyer (in real life, Saviano quit acting, went to Yale, and became a lawyer).
+* Gwendolyn "Winnie" Cooper ([[Danica McKellar]]): Winnie is Kevin's main love interest and neighbor. Her older brother's death in the Vietnam War plays a big part in the pilot. In another episode, Winnie's parents separate in grief over the death of their son. In the epilogue of the final episode,  Winnie travels overseas to study art history in [[Paris]]. Kevin and Winnie write to each other every week for eight years until she returns; in the concluding moments of the finale, Kevin says that when Winnie returned to the States, Kevin met her accompanied by his wife and first child, despite the hope among ''Wonder Years'' fans that Kevin and Winnie would themselves marry. "Like I said," says Kevin at the end, "things never turn out exactly the way you plan them." As suggested in an episode entitled "The Accident" and in the finale episode of the series, every important event in Kevin's life has somehow involved Winnie.
+
+==Production==
+
+===Conception===
+The series was conceived by writers Neal Marlens and Carol Black. They set out to create a family show that would appeal to the baby-boomer generation by setting the series in the late '60s, a time of radical change in America's history. They also wanted the series to tie this setting in to the life of a normal boy growing up during the period. After writing the script for the pilot episode, Marlens and Black began pitching the series to television networks. None of them were interested, except for [[American Broadcasting Company|ABC]], with whom Marlens and Black reached an agreement.<ref>{{cite web|url=http://the-wonder-years.com/?i=documentary|title=The Wonder Years - Documentary|access-date=March 22, 2015}}</ref>
+
+Marlens had originally wanted the setting to be [[Huntington, New York|Huntington, Long Island]], where he grew up. Elements were also taken from Black's childhood from the White Oak section of [[Silver Spring, Maryland]].<ref name=Setting>{{cite web|url=http://www.justupthepike.com/2009/03/wonder-years-were-set-in-white-oak-sort.html|title=just up the pike: the wonder years were set in white oak, sort of|access-date=March 22, 2015}}</ref> ABC, however, insisted that the location remain nonspecific (the colloquial "Anytown, USA").<ref>{{cite news |url=https://www.nytimes.com/1996/12/01/nyregion/can-sitcom-make-it-with-li-setting.html?pagewanted=all&src=pm |title=Can Sitcom Make It With L.I. Setting? |date=December 1, 1996 |first=Carol |last=Strickland |access-date=2011-11-29 |quote=Mr. Marlens wanted to set the series, based on his childhood in the suburbs, on Long Island. ... "Everybody felt 'Wonder Years' was set in their home street." |work=The New York Times}}</ref><ref>{{cite web|url=https://www.cbsnews.com/pictures/the-wonder-years-celebrates-25-years-where-are-they-now/|title=The Wonder Years|access-date=March 22, 2015}}</ref><ref>{{cite web|url=http://www.peter-reynders.de/WY/Wonder17.htm|title=The Wonder Years|access-date=March 22, 2015}}</ref><ref>{{cite web|url=http://www.newsday.com/entertainment/theater/lindenhurst-native-dan-lauria-stars-in-a-christmas-story-at-madison-square-garden-1.6554418|title=Lindenhurst native Dan Lauria stars in 'A Christmas Story' at Madison Square Garden|work=Newsday|access-date=March 22, 2015}}</ref>
+
+===Writing===
+When they started writing the series, Marlens and Black took a script for a future film with which they had been toying, which featured an off-screen narrator. Black explained, "We liked the concept that you could play with what people think and what they're saying, or how they would like to see themselves as opposed to how the audience is seeing them."<ref name="articles.philly.com">{{cite web|url=http://articles.philly.com/1988-04-05/news/26253529_1_teen-idols-kids-boomers|title=Twelvesomething|work=philly-archives|access-date=March 22, 2015}}</ref> They based the show, in part, on their own childhood growing up in the suburbs. Black recalled that "we naturally [took] elements of our experience and [threw] them into the pot. The basic setup, the neighborhood, the era&nbsp;– that's the time and place where we grew up."<ref name="articles.philly.com"/>  The show's title was a satirical nod to a famous 1970s [[Wonder Bread]] ad campaign promoting the highly processed white bread as perfect for "The Wonder Years," ages 1 through 12. <ref name="LA Times 1988">{{cite web|url=https://www.latimes.com/archives/la-xpm-1988-04-08-ca-1019-story.html|title='Wonder Years' Pays Its Respects to '60s Suburbia|work=Los Angeles Times|date=April 4, 1988|access-date=March 4, 2021}}</ref>
+
+===Casting===
+[[File:Fred Savage in 1990.PNG|thumb|right|150px|alt=Fred Savage at the Governor's Ball held immediately after the 1990 Emmy Awards 9/16/90 - Permission granted to copy, publish, broadcast or post but please credit "photo by Alan Light" if you can|Fred Savage in 1990]]
+The search for the main lead of the show did not take long. Marlens and Black went to five casting directors and interviewed them for recommendations. All five of them recommended Fred Savage, who at the time was famous for his roles as the grandson in ''[[The Princess Bride (film)|The Princess Bride]]'' and as Charlie/Marshall in ''[[Vice Versa (1988 film)|Vice Versa]]''. Marlens and Black, having never heard of Savage, decided to see the rough cut of ''Vice Versa''. Said Marlens, "[We saw] a marvelous actor with a natural quality&nbsp;– which essentially means he has no quality at all except being a kid. It sounds funny, but it's a rare thing to find in a child actor." Marlens and Black took this approach when casting the other kids for the show, looking for natural ability rather than professionalism. According to Marlens, they saw 300 to 400 kids before narrowing it down to 70, "My wife and I made the final choice ... each of whom had to be approved by the network."<ref name="ReferenceA">{{cite web|url=http://articles.philly.com/1988-12-18/living/26228101_1_unraveling-mystery-child-actor-danica-mckellar|title=One Boy's 'Wonder Years' At Age 12, Fred Savage Is Already An Acting Pro As He Portrays A 1960s Child.|work=philly-archives|access-date=March 22, 2015}}</ref>
+
+For the choice of Savage's character's main love interest, the choice came down to actress Danica McKellar and her sister, [[Crystal McKellar]]. With just days to go before shooting, the producers eventually selected Danica to play Winnie Cooper. However, Mary Buck, the head of casting, noted, "it was practically a tossup". Crystal McKellar was liked so much by the producers that they eventually created the character of Becky Slater so that they could have her on the show.<ref>{{cite web|url=https://articles.latimes.com/1990-04-23/news/vw-336_1_sisters-rivals|title=NAMES IN THE NEWS : Sisters Rivals on 'Wonder Years'|work=latimes|access-date=March 22, 2015}}</ref> Danica later reflected on the experience, "I auditioned, like everyone else. They had read lots of girls but hadn't found their 'Winnie' yet, and I was thrilled to be chosen."<ref>{{cite web|url=http://the-wonder-years.com/?i=interview.danicamckellar|title=The Wonder Years - Interview with Danica McKellar (Winnie Cooper)|access-date=March 22, 2015}}</ref>
+
+===Filming===
+At the end of the first season, Marlens and Black departed from the show. Although they never gave a reason for their sudden departure, it may have been due to Black's pregnancy. She hinted at it in an interview in April 1988, saying "We have secret plans to leave Los Angeles before our kids reach the age of cognizance."<ref name="articles.philly.com"/> One challenge for the cast and crew was filming around a child actor, meaning that the show had to obey child labor laws. Savage at the time explained, "You have to get at least three hours of school in every day. So whenever I'm on a break, I go to school. It's really intense because I have to get a lot done in short periods. And it's hard because if they need you back on the set, they pull you away every 20 minutes. If you're writing an essay and suddenly get inspired, you've got to stop and go back to work."<ref>{{cite web|url=http://www.peter-reynders.de/WY/wonder40.htm|title=Talking with Fred Savage: My parents never push me.|access-date=March 22, 2015}}</ref> Many exterior shots were filmed in Burbank, California.<ref>{{cite web|url=http://www.lamag.com/citythinkblog/scene-it-before-the-wonder-years-neighborhood/|title=Scene It Before: The Wonder Years Neighborhood - Los Angeles Magazine|date=January 7, 2016}}</ref>
+
+===Title sequence===
+Three different versions of the opening were made, each set to the [[Joe Cocker]] rendition of "[[With a Little Help from My Friends]]".
+
+====First version (pilot)====
+This first version of the opening was very basic: Nothing but a black screen was shown, after the title logo, with each cast member's name appearing in the center one by one. Much like the Arye Gross narration, this version of the opening was only used once when the pilot first aired after Super Bowl XXII.
+
+====Second version (seasons one through five)====
+This opening consists of home-movie footage from the pilot, after the title logo is shown, ending with the "Created by" credit. In season five, more footage is added to show how much the cast has aged.
+
+====Third version (season six)====
+The opening was overhauled completely in this version. It consisted of stock footage and images of various moments throughout 1960s and early 1970s culture (i.e. [[John Lennon]] and [[Yoko Ono]]'s [[Bed-in]], the [[Kent State shootings]], [[the Moon Landing]], and an [[anti-war protest|antiwar protest]]), and was set to a new edit of Cocker's rendition of the song (starting with the chorus, versus the opening of the song, as was the case in seasons one through five). The final image in this version is of Kevin, Paul, Winnie, and presumably some of their classmates in a group photograph edited to look like it belonged in the time period.
+
+===Music===
+{{Main|The Wonder Years: Music from the Emmy Award-Winning Show & Its Era}}
+The official soundtrack released in 1988 by Atlantic/WEA contains a total of 13 tracks, featuring Joe Cocker's cover of [[The Beatles]]' "With a Little Help from My Friends", which is the show's theme song.<ref>{{cite web|author=The Wonder Years (1988-93 Television Series) |url=https://www.amazon.com/dp/B000002IOQ/ |title=The Wonder Years OST |access-date=2013-03-26}}</ref>
+
+After the series' original run was over, Laserlight Digital released a five-disc compilation box set under the title ''Music from 'The Wonder Years'' in 1994. This same company later released the first two DVDs for the series, ''The Best of The Wonder Years'' and ''The Christmas Wonder Years''. The disc included 40 oldies favorites and five original songs (each is repeated twice in the set) written exclusively for the series by [[W. G. Snuffy Walden]].
+
+In 2014, [[Time Life]] released a new soundtrack for the show that accompanies deluxe versions of its complete series DVD set. The CD is not available for purchase separately from the DVD box set, however.
+
+====DVD music replacements====
+The Time Life DVD releases feature around 96% of the original music soundtrack, including Joe Cocker's cover of "With a Little Help From My Friends" at the opening. Fourteen songs were replaced, in most instances featuring generic studio replacement music in place of the original song, while on a few occasions, the original soundtrack song was replaced with another version of the same song. None of the necessary music replacements resulted in footage from the episodes being removed.
+
+*In the episode "The Phone Call", the "[[Love Theme from Romeo and Juliet|Love Theme from ''Romeo and Juliet'']]" was replaced with a song called "Star Crossed Lovers", which has been used in many other TV shows and movies, including ''[[The Brady Bunch]]''.
+*In "Dance With Me", Joe Cocker's cover of "[[The Letter (Box Tops song)|The Letter]]" was replaced with the original version by [[The Box Tops]], while the [[Herman's Hermits]] version of "[[There's a Kind of Hush]]" was replaced with a rerecording by the Craggy Blue Project.
+*The episode "Heart of Darkness" had two replacements: "[[Riders on the Storm]]" by [[The Doors]] was replaced with "Children of the Night", while [[Richie Havens]]' cover of The Beatles' "[[Here Comes the Sun]]" was replaced by "Train to Nowhere".
+*In the episode "Whose Woods Are These?", the [[Blood, Sweat & Tears]] recording entitled "Variations on a Theme" by [[Erik Satie]] (1st and 2nd Movements, adapted from Satie's "[[Gymnopédie|Three ''Gymnopédies'']]") was replaced with "Le Suenne Fite".
+*The episode "How I Am Spending My Summer Vacation" replaced the Doors' "[[Light My Fire]]" with "Love's on Fire", while the episode "Summer Song" replaced Blood, Sweat and Tears' "[[Spinning Wheel]]" with a rerecording by former BS&T frontman [[David Clayton Thomas]].
+*In "Family Car", The Stills-Young Band's "[[Long May You Run]]" was replaced with "Keep Your Motor Running".
+*In "Wayne on Wheels", "Love Theme from ''Romeo and Juliet''" was again replaced by "Star Crossed Lovers".
+*In the episode "The Treehouse", [[Doris Day]]'s "[[Que Sera, Sera (Whatever Will Be, Will Be)]]" was replaced with "Call the Whole Thing Off".
+*In the episode "Little Debbie", "[[Tammy (song)|Tammy]]" by [[Liberace]] was replaced with a song called "Sammy".
+*"Clip Show" contains the scene from "Heart of Darkness" in which "Here Comes the Sun" is replaced with "Train to Nowhere".
+*The episode "Kevin Delivers" dropped Blood, Sweat and Tears' "[[You've Made Me So Very Happy]]" with a re-recording by David Clayton Thomas.
+*In the episode "Alice in Autoland", [[Al Green]]'s "[[Let's Stay Together (Al Green song)|Let's Stay Together]]" was replaced with a re-recording by him.
+*In the final episode "Independence Day", the [[Ennio Morricone]] song "Brothers" from the 1986 motion picture ''[[The Mission (1986 film)|The Mission]]'', which was played over the pivotal barn scene featuring Kevin and Winnie's last kiss, was replaced with the generic tune "Pastorale" (for this instance alone, the same replacement was used in the 1998 ''The Best of The Wonder Years'' DVD release).
+
+Also, not a music change per se, but the Daniel Stern redub of the pilot is used, with the standard opening sequence.
+
+Other than the above music changes, all other music is intact.
+
+The UK DVD release from Fabulous Films was intended to have no replaced music, but reviews on online retailers and fan websites show that this is not the case.<ref name="wonder-years.tv"/>
+
+===Cancellation===
+''The Wonder Years'' wrapped its sixth and final season in May 1993. Its cancellation was partially blamed on conflict between producers and executives at ABC. As Kevin matured, the producers wanted the storylines to mature, as well. The executives at ABC, though,  felt uncomfortable with more explicit content given the time slot, saying, "We felt it was inappropriate to present Kevin's awakening because of the setting in the 1960s, the gentle tone of the series, and most importantly, the 8 pm time period." Bob Brush noted, "When Kevin became 16 and 17, there were really things he needed to get to that we couldn't do at 8 pm, especially with the kind of venerable cachet that the show had obtained with its audience. We would get notes from the network saying, "You could do this on any show besides ''The Wonder Years''." Other reasons for the show's cancellation were escalating costs and declining ratings. The cast's salary increases, coupled with location shooting (which was due to the producers wanting to reflect Kevin obtaining his driver's license), led to Brush claiming that they were spending $1.2 million an episode. The final episode aired on May 12, 1993. Bob Brush noted that the finale was not what he would have wanted it to be, but because the cast and crew were unsure at the time of filming if the sixth season would be the last, he was forced to have the ending be open-ended, until the recording of Daniel Stern's narration.<ref name="youtube.com">{{cite av media|url=https://www.youtube.com/watch?v=LHdJcznU1SE|title=TVography ~ The Wonder Years ~ Comedy Coming of Age|date=August 22, 2013|work=YouTube|access-date=March 22, 2015}}</ref> Fans were somewhat disappointed with the ending, in particular the revelation that Kevin and Winnie do not end up as a couple. Brush acknowledged this disappointment, saying, "Some viewers [were] surprised that nothing works out the way your fondest wish would be," and explained, "The message I wanted in there is that that's part of the beauty of life. It's fine to say, 'I'd like everything to be just the way it was when I was 15 and I was happy,' but it seemed more nurturing to me to say that we leave these things behind and we go on to forge new lives for ourselves."<ref>{{cite web|url=https://articles.latimes.com/1993-05-12/entertainment/ca-34310_1_kevin-arnold|title=Reeling in the Bittersweet 'Wonder Years': With Rising Costs, Aging Cast, Series Comes to a Close|work=latimes|access-date=March 22, 2015}}</ref>
+
+====Lawsuit====
+As the show was in the process of wrapping its final season, a costume designer on the show named Monique Long filed a sexual harassment charge against stars Fred Savage and Jason Hervey.<ref>{{cite web|url=https://articles.latimes.com/1993-03-18/entertainment/ca-12378_1_sexual-harassment|title='Wonder Years' Stars Accused of Sexual Harassment: Television: Fred Savage and Jason Hervey are named by former costume designer. Show's spokesmen deny charges.|work=latimes|access-date=March 22, 2015}}</ref> The suit brought forward unwanted publicity to the show. In the end, the case was settled out of court, with Savage stating that he was "completely exonerated", adding that it was a "terrible experience".<ref>{{cite web|url=http://www.sfgate.com/entertainment/article/Fred-Savage-s-Post-Wonder-Years-He-s-all-2983854.php|title=Fred Savage's Post-'Wonder Years' / He's all grown up, a Stanford student and a bad guy on TV|work=SFGate|access-date=March 22, 2015}}</ref>
+
+In January 2018, Alley Mills said that a "completely ridiculous" sexual harassment lawsuit against Savage and Hervey was a significant factor in the show's cancellation.<ref>{{cite web|url=https://pagesix.com/2018/01/28/fred-savage-accused-of-sex-harassment-years-ago/|title=Fred Savage accused of sex harassment years ago|date=January 28, 2018}}</ref><ref>{{cite web|url=https://www.vulture.com/2018/01/alley-mills-says-harassment-claim-ended-the-wonder-years.html|title=Alley Mills Says The Wonder Years Canceled Over Sexual-Harassment Lawsuit|first=Halle|last=Kiefer}}</ref>
+
+==Release==
+===Syndication and streaming=== 
+Reruns of the show aired in syndication between September 1992 and September 1997. [[Nick at Nite]] then reran the show from October 13, 1997, to January 21, 2001.<ref>Nick at Nite Log</ref> It also reran on [[The New TNN]] (January 22, 2001, to September 28, 2001), [[Freeform (TV channel)|ABC Family]] (November 12, 2001, to October 2, 2004), [[Ion Television]] (April 2, 2007, to October 4, 2007), and [[Discovery Family|The Hub]] (October 11, 2010, to August 31, 2012). The complete series is currently available on streaming service, [[Hulu]].  
+
+In Canada, the show aired on [[CITS-TV|CTS Ontario]] from September 2010 until September 2, 2011. In Australia, the show aired on Network Ten between 1989 and 1995, then from March 31, 2012 on [[ABC1]]. In the Philippines, the show aired on [[GMA Network]].
+
+In Spain, the series initially aired Mondays 9:30 pm on TVE2 (now [[La2]]) as part of the Monday-night comedy block, which also featured ''[[Murphy Brown]]''. The series was later promoted to main channel [[TVE1]], where it aired Fridays 9:00 pm. Years later, in the late '90s, commercial station [[Antena 3TV]] recovered the series and aired it first in its 2:00 pm comedy hour, later relocating it to a 5:30&nbsp;pm slot as part of the youth macroshow ''La Merienda''.{{Citation needed|date=August 2012}}
+
+===Home media===
+Initially, the first four episodes were released on two VHS cassettes by Anchor Bay in 1997, with most of the music intact (a select few songs, however, were re-recordings).<ref>{{cite web |url=https://www.amazon.com/s/field-keywords=wonder+years+vhs |title=Amazon.com search page: wonder+year+vhs |access-date=2011-06-27}}</ref> In the coming years, fees for licensing music prevented further episodes from being released on VHS. The two volumes that were released on VHS were later released on DVD in 2000. Four episodes of the series were also included in two official "best-of" DVD sets (''The Best of The Wonder Years'' and ''The Christmas Wonder Years''), without much of the original music.<ref name="Denver Post mirror"/><ref>{{cite web |url=http://www.tvshowsondvd.com/releases/Wonder-Years-Best-Of-Release/178 |title=The Wonder Years - Best of the Wonder Years DVD Information - TVShowsOnDVD.com |access-date=2011-06-27 |quote=Most, if not all, of the original soundtrack has been changed to either covers or generic music. |url-status=dead |archive-url=https://web.archive.org/web/20111126171048/http://www.tvshowsondvd.com/releases/Wonder-Years-Best-Of-Release/178 |archive-date=November 26, 2011 |df=mdy-all }}</ref>
+
+For many years, full seasons of ''The Wonder Years'' remained unreleased on DVD due to [[music licensing]] issues.<ref>{{cite web |last=Thommes |first=Matt |url=http://matthom.com/archive/2007/06/24/the-wonder-years-on-dvd-costly-music-licensing |archive-url=https://archive.today/20120712024724/http://matthom.com/archive/2007/06/24/the-wonder-years-on-dvd-costly-music-licensing |url-status=dead |archive-date=July 12, 2012 |title=The Wonder Years on DVD: costly music licensing &#124; Matt Thommes |publisher=Matthom.com |date=June 24, 2007 |access-date=2013-03-26 }}</ref> Because of this issue, ''The Wonder Years'' routinely appeared on the list of TV shows in high demand for a DVD release.<ref name="Denver Post mirror">{{cite web |url=https://www.azcentral.com/ent/movies/articles/0712wonderdvd0712.html |title=Pricey nostalgia |author=Lieber, Scott |work=The Denver Post |date=July 11, 2006 |access-date=2011-06-27}}</ref><ref>{{cite news|url=https://query.nytimes.com/gst/fullpage.html?res=9E02E6D81531F937A1575AC0A9619C8B63&pagewanted=2 |title=What to Watch? How About a 'Simpsons' Episode From 1999? |author=Atkinson, Claire |work=The New York Times |date=September 24, 2007 |access-date=2011-06-27 |quote=Among the 300,000 registered users of the Web site www.tvshowsondvd.com, ''The Wonder Years'' is the most in-demand unreleased show}}</ref><ref>{{cite web |url=http://www.tvshowsondvd.com/shows/Wonder-Years/4714 |title=The Wonder Years on DVD, Release Info, News at TVShowsOnDVD.com (login required to see voting results) |access-date=2011-06-27 |quote=Voting Results - Unreleased Rank: 1st / Overall Rank: 3rd |url-status=dead |archive-url=https://web.archive.org/web/20111113021652/http://www.tvshowsondvd.com/shows/Wonder-Years/4714 |archive-date=November 13, 2011 |df=mdy-all }}</ref>
+
+In a blog update on the [[Netflix]] website on March 30, 2011,<ref>{{cite web |url=http://blog.netflix.com/2011/03/glee-available-to-watch-instantly.html |title=The Netflix Blog: GLEE AVAILABLE TO WATCH INSTANTLY |date=March 30, 2011}}</ref> and a press release issued the next day,<ref>{{cite press release |url=http://netflix.mediaroom.com/index.php?s=43&item=387 |title=Twentieth Century Fox and Netflix announce distribution deal which makes "Glee" and "Sons of Anarchy" available to watch instantly from Netflix starting April 1, 2011 |date=April 1, 2011 |access-date=2011-06-27 |quote=In addition, library series such as “Ally McBeal” and “The Wonder Years” will stream instantly for the first time from Netflix. |url-status=dead |archive-url=https://web.archive.org/web/20110603192948/http://netflix.mediaroom.com/index.php?s=43&item=387 |archive-date=June 3, 2011 |df=mdy-all }}</ref> Netflix stated that they would be adding ''The Wonder Years'' to their instant streaming service. The other three [[20th Century Fox]] series noted as part of the deal were added to the [[Watch Instantly]] service by April 2, 2011<ref>{{cite web |url=http://movies.netflix.com/WiMovie/Glee/70143843 |title=Netflix: Glee |access-date=2011-06-27}}</ref><ref>{{cite web |url=http://movies.netflix.com/WiMovie/Sons_of_Anarchy/70143844 |title=Netflix: Sons of Anarchy |access-date=2011-06-27}}</ref><ref>{{cite web |url=http://movies.netflix.com/WiMovie/Ally_McBeal/70157513 |archive-url=https://web.archive.org/web/20120713224012/http://movies.netflix.com/WiMovie/Ally_McBeal/70157513 |url-status=dead |archive-date=2012-07-13 |title=Netflix: Ally McBeal |access-date=2011-06-27 }}</ref> while ''The Wonder Years'' remained unavailable. On October 1, 2011,<ref>{{cite web |url=http://blog.netflix.com/2011/10/rediscovering-wonder-years.html |title=The Netflix Blog: Rediscovering The Wonder Years |author=McCauley, Heather |date=October 3, 2011 |access-date=2011-10-10}}</ref> 114 full-length episodes of the series were added to Netflix. The clip show from the end of Season 4, which was released on DVD, was not included.<ref>{{cite web |url=http://movies.netflix.com/Movie/The-Wonder-Years/70172454 |title=Netflix: The Wonder Years |access-date=2011-10-01 }}{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}</ref>
+
+On September 26, 2011, [[Amazon Prime]]'s [[Amazon Instant Video|streaming video]] service announced it would be adding ''The Wonder Years'', describing the series as "available on digital video for the first time",<ref>{{cite news |url=https://www.reuters.com/article/idUS196078200620110926 |title=Fox, Amazon Prime Make Streaming Deal |work=Reuters |access-date=2011-10-01 |quote=The new additions from the FOX library include 24, Arrested Development, The X-Files, Ally McBeal, Buffy the Vampire Slayer, and - available on digital video for the first time - The Wonder Years. |date=September 26, 2011}}</ref> although Netflix added the series ahead of Amazon's release. All 115 episodes (including the clip show) became available to Prime members starting October 6, 2011.<ref>{{cite web |url=https://www.amazon.com/gp/product/B005SH5E06/ |title=Amazon.com: The Wonder Years Season 1, Ep. 1 "Pilot" |access-date=2011-10-06}}</ref>
+
+On both digital streaming services, portions of the soundtrack have been replaced. The show's opening theme has been replaced on Netflix<ref>{{cite web |url=http://www.studiodaily.com/main/technique/tprojects/Post-Haste-Sound-Remasters-The-Wonder-Years-for-Digital-Video-Release_13486.html |title=Post Haste Sound Remasters The Wonder Years for Digital Video Release |author=Frazer, Bryant |work=Studio Daily |date=October 5, 2011 |access-date=2011-10-08 |quote=showed up on Netflix (streaming only) this month, sans iconic Joe Cocker theme song}}</ref> and Amazon with the version of the song that played in the UK and other overseas airings. The majority of the show's soundtrack remains unchanged. Songs such as "[[Light My Fire]]" by The Doors and "[[Foxy Lady]]" by Jimi Hendrix have been replaced by generic sound-alikes with different lyrics.
+
+On February 11, 2014, StarVista/Time Life announced the upcoming DVD release of the complete series in the second half of the year, noting that it was "painstakingly securing the rights for virtually every song."<ref>{{cite web |url=http://www.tvshowsondvd.com/news/Wonder-Years-The-Complete-Series/19455 |title=The Wonder Years - StarVista/Time-Life Press Release Announces 'The Complete Series' on DVD! |date=February 11, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140222142918/http://www.tvshowsondvd.com/news/Wonder-Years-The-Complete-Series/19455 |archive-date=February 22, 2014 |df=mdy-all }}</ref> On June 11, packaging details for complete set were revealed. The packaging consists of a miniature school locker featuring a replica yearbook with signatures from cast members, behind-the-scenes photos, and classic show memorabilia. Also included are two notebooks similar to those carried by the two lead characters, each featuring detailed episode information, production photos, all 115 episodes, and over 15 hours of bonus features on 26 DVDs. Customized ''Wonder Years'' magnets are also included. On September 30, 2014, the complete series was released to those who ordered the set through mail order from Time Life/Star Vista. A box set for the first four seasons was also released. October 10, 2014, though, was considered the official release date.<ref>[http://tvshowsondvd.com/news/Wonder-Years-The-Complete-Series/19916 The Wonder Years - A Pic of the Collectible Packaging, General Contents for {{'}}''The Complete Series''{{'}}] {{webarchive|url=https://web.archive.org/web/20140614010607/http://www.tvshowsondvd.com/news/Wonder-Years-The-Complete-Series/19916 |date=June 14, 2014 }}</ref>
+
+On October 7, 2014, Star Vista released the season-one on DVD in Region 1 for the first time.<ref>{{cite web|url=http://www.tvshowsondvd.com/news/Wonder-Years-Season-1/20287|title=The Wonder Years DVD news: Announcement for The Wonder Years - Season 1 - TVShowsOnDVD.com|access-date=March 22, 2015|url-status=dead|archive-url=https://web.archive.org/web/20150508132459/http://www.tvshowsondvd.com/news/Wonder-Years-Season-1/20287|archive-date=May 8, 2015|df=mdy-all}}</ref> Season two was released on February 3, 2015. Season three was released on May 26, 2015. Season four was released on January 12, 2016. Season five was released on May 24, 2016. Season six was released on September 27, 2016.
+
+On October 6, 2015, Star Vista released ''The Wonder Years- The Complete Series: Collectors Box Set'' and ''The Wonder Years- The Complete Series'' DVD collections in a wide general retail release.<ref>{{cite web|url=http://tvshowsondvd.com/news/Wonder-Years-The-Complete-Series/21429|title=The Wonder Years DVD news: General Release for The Wonder Years - The Complete Series - TVShowsOnDVD.com|website=tvshowsondvd.com|url-status=dead|archive-url=https://web.archive.org/web/20150816184805/http://tvshowsondvd.com/news/Wonder-Years-The-Complete-Series/21429|archive-date=August 16, 2015|df=mdy-all}}</ref>
+
+On May 9, 2016, Fabulous Films released ''The Wonder Years - The Deluxe Edition'' on 26 DVDs in the UK. It was intended to be the first release to contain every episode in its original transmission presentation, although in the end this did not happen.<ref name="wonder-years.tv">{{cite web|url=http://www.wonder-years.tv/twyondvd.html|title=The Wonder Years (TV Show) > TWY on DVD|website=www.wonder-years.tv}}</ref> The set includes over 23 hours of bonus material.
+
+{| class="wikitable"
+! rowspan="2"|DVD Name !! rowspan="2"|Ep # !! colspan="3"|Release dates !! rowspan="2"|DVD Special Features
+|-
+! Region 1 !! Region 2 !! Region 4
+|-
+|| Season one || style="text-align:center;"|6 || October 7, 2014<ref name="S1R1DVD">{{cite web|url=https://www.amazon.com/Wonder-Years-Season-1/dp/B00L9OPFTC/ref=sr_1_1?ie=UTF8&qid=1426264954&sr=8-1&keywords=The+Wonder+Years|title=The Wonders Years: The Complete First Season (1988)|access-date=February 11, 2012}}</ref> || N/A|| June 8, 2016
+|
+*Highlights from ''The Wonder Years'' cast reunion, May 28, 2014
+*Featurette: With a Little Help from My Friends: The Early Days of ''The Wonder Years''
+*Interviews with:
+**Creators Neal Marlens and Carol Black
+**Fred Savage
+**Danica McKellar
+**Josh Saviano 
+|-
+|| Season two || style="text-align:center;"|17 || February 3, 2015<ref name="S2R1DVD">[https://www.amazon.com/Wonder-Years-Season-2-4DVD/dp/B00OGD8PX6/ref=sr_1_3?ie=UTF8&qid=1426264954&sr=8-3&keywords=The+Wonder+Years/ The Wonder Years: The Complete Second Season (1988)]. Amazon.com Retrieved February 11, 2012.</ref> || N/A|| June 8, 2016
+| 
+*Interview with Fred Savage (Part 1)
+*Interview with Danica McKellar (Part 1)
+*Highlights from ''The Wonder Years'' cast reunion
+*Interview with ''The Wonder Years'' creators Neal Marlins and Carol Black 
+|-
+|| Season three || style="text-align:center;"|23 || May 26, 2015|| N/A|| June 8, 2016
+|
+*Cast interviews
+*Hall Pass: Roundtable with Danica McKellar, Fred Savage, and Josh Saviano
+*A Family Affair: At Home with the Arnolds
+|-
+|| Season four || style="text-align:center;"|23 || January 12, 2016|| N/A|| June 8, 2016
+| 
+*Teachers That [sic] Made a Difference
+*Cast interviews
+|-
+|| Season five || style="text-align:center;"|24 || May 24, 2016 || N/A|| June 8, 2016
+| 
+*That's a Wrap!: Mark B. Perry's Farewell Set Tour Season 5
+*Will You Love Me Tomorrow: ''The Wonder Years'' Love Stories
+*Cast interviews
+|-
+|| Season six || style="text-align:center;"|22 || September 27, 2016 || N/A || June 8, 2016
+| 
+*One-hour ABC broadcast of the series finale
+*At Last: The Final Episode
+*Interview with Bob Brush, executive producer
+*From the Vault: Alley Mills and Bob Brush Letters
+|-
+|| The Complete Series || style="text-align:center;"|115 || September 30, 2014 || N/A||April 20, 2016
+|Two notebooks, each featuring detailed episode information and production photos.
+
+Replica yearbook embellished with signatures from cast members, behind-the-scenes photos, classic show memorabilia, and liner notes penned by Fred Savage, series creators Neal Marlens and Carol Black, and executive producer Bob Brush
+
+A 2014 Los Angeles cast reunion, featuring all key cast together for the first time in 16 years
+
+Extensive individual interviews with all seven key cast members (Fred Savage, Danica McKellar, Josh Saviano, Dan Lauria, Alley Mills, Olivia d'Abo, and Jason Hervey), as well as with notable actors featured as guest stars or in recurring roles, such as David Schwimmer, Ben Stein, Bob Picardo and Seth Green
+
+In-depth interviews with narrator Daniel Stern, Neal Marlens, Carol Black, Bob Brush, and other production personnel
+
+Ten new featurettes: "With a Little Help From My Friends": The Early Days of ''The Wonder Years'', "The Times They Are A-Changin'": The Era, "My Generation": The Kids Grow Up, "When a Man Loves a Woman": Kevin & Winnie Forever, "Bookends": Kevin & Paul, "A Family Affair": At Home with the Arnolds, "I Love You for Sentimental Reasons": Fan-Favorite Episodes, "Will You Love Me Tomorrow": ''The Wonder Years'' Love Stories, "ABC": Teachers That Made a Difference, "Both Sides Now": The Music That Made the Moments.
+
+"That's a Wrap! Mark B. Perry's Farewell Set Tour Season 5" - Writer/Producer Mark B. Perry's home video set tour from the end of his final season on the show, which includes new commentary from him.
+
+"From the Vault: Alley Mills and Bob Brush Letters" - Alley Mills reads her emotional, written conversation with executive producer Bob Brush about the show's finale.
+
+The one-hour finale as it was originally aired on ABC on May 12, 1993, including a deleted scene not included in the half-hour broadcasts of the final two episodes (both the one-hour finale and half-hour versions of the final two episodes will be included in the extras).<ref>{{cite web|url=http://www.tvshowsondvd.com/releases/Wonder-Years-Complete-Series/14737#ixzz3UHp3mPt0|title=The Wonder Years - The Complete Series DVD Information - TVShowsOnDVD.com|website=www.tvshowsondvd.com|url-status=dead|archive-url=https://web.archive.org/web/20150315032855/http://www.tvshowsondvd.com/releases/Wonder-Years-Complete-Series/14737#ixzz3UHp3mPt0|archive-date=March 15, 2015|df=mdy-all}}</ref>
+
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+! Year
+! Award
+! Category
+! Recipient
+! Result
+|-
+| 1991 || rowspan=2|[[American Cinema Editors|American Cinema Editors' Eddie Award]] || Best Edited Episode from a Television Series || Dennis C. Vejar <small>(For episode "[[Good-bye (The Wonder Years)|Goodbye]]")</small> || {{nom}}
+|-
+| 1993 || Best Edited Half Hour Series for Television || Dennis C. Vejar <small>(For episode "The Wedding")</small> || {{nom}}
+|-
+| 1989 || [[American Society of Composers, Authors and Publishers|ASCAP Film and Television Music Award]] || Top TV Series || [[Stewart Levin]] || {{won}}
+|-
+| 1988 || rowspan=3|[[Broadcast Music, Inc.|BMI Film & TV Awards]] || rowspan=3|BMI TV Music Award || rowspan=3|[[W. G. Snuffy Walden]], [[John Lennon]] and [[Paul McCartney]] || {{won}}
+|-
+| 1989 || {{won}}
+|-
+| 1990 || {{won}}
+|-
+| 1988 || rowspan=3|[[Casting Society of America|Casting Society of America's Artios Award]] || rowspan=3|Best Casting for TV, Comedy Episodic || rowspan=2|Mary V. Buck and Susan Edelman || {{won}}
+|-
+| 1989 || {{nom}}
+|-
+| 1990 || Meg Liberman and Marc Hirschfeld || {{nom}}
+|-
+| 1989 || rowspan=2|[[Directors Guild of America Award]] || rowspan=2|[[Directors Guild of America Award for Outstanding Directing – Comedy Series|Outstanding Directing – Comedy Series]] || [[Steve Miner]] <small>(For the pilot episode)</small> || {{won}}
+|-
+| 1991 || [[Peter Baldwin (director)|Peter Baldwin]] <small>(For episode "The Ties That Bind")</small> || {{nom}}
+|-
+| 1989 || rowspan=4|[[Golden Globe Award]] || rowspan=2|[[Golden Globe Award for Best Television Series – Musical or Comedy|Best Television Series – Musical or Comedy]] || rowspan=2| || {{won}}
+|-
+| rowspan=2|1990 || {{nom}}
+|-
+| rowspan=2|[[Golden Globe Award for Best Actor – Television Series Musical or Comedy|Best Actor – Television Series Musical or Comedy]] || rowspan=2|[[Fred Savage]] || {{nom}}
+|-
+| 1991 || {{nom}}
+|-
+| 1988 || rowspan=8|[[Humanitas Prize]] || rowspan=8|30 Minute Category || [[Carol L. Black|Carol Black]] and [[Neal Marlens]] <small>(For the pilot episode)</small> || {{nom}}
+|-
+| 1989 || [[Matthew Carlson]] || {{won}}
+|-
+| rowspan=2|1990 || Todd W. Langen || {{won}}
+|-
+| [[David M. Stern]] <small>(For episode "The Powers That Be")</small> || {{nom}}
+|-
+| rowspan=2|1991 || [[Bob Brush]] || {{won}}
+|-
+| [[Mark B. Perry]] <small>(For episode "The Ties That Bind")</small> || {{nom}}
+|-
+| 1992 || Craig Hoffman <small>(For episode "Hardware Store")</small> || {{nom}}
+|-
+| 1993 || Sy Rosen <small>(For episode "The Nose")</small> || {{nom}}
+|-
+| 1990 || [[Peabody Award]] || || [[American Broadcasting Company|ABC Television]] and Black/Marlens Company in association with [[New World Television]] || {{won}}
+|-
+| rowspan=2|1988 || rowspan=28|[[Primetime Emmy Award]] || [[Primetime Emmy Award for Outstanding Comedy Series|Outstanding Comedy Series]] || [[Carol L. Black|Carol Black]], [[Neal Marlens]] and Jeffrey Silver || {{won}}
+|-
+| [[Primetime Emmy Award for Outstanding Writing for a Comedy Series|Outstanding Writing for a Comedy Series]] || [[Carol L. Black|Carol Black]] and [[Neal Marlens]] <small>(For the pilot episode)</small> || {{nom}}
+|-
+| rowspan=14|1989 || Outstanding Comedy Series || [[Carol L. Black|Carol Black]], [[Neal Marlens]], [[Bob Brush]], [[Steve Miner]] and Jeffrey Silver || {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Outstanding Lead Actor in a Comedy Series]] || [[Fred Savage]] <small> (For episode "Birthday Boy")</small> || {{nom}}
+|-
+| rowspan=4|Outstanding Writing for a Comedy Series || [[Matthew Carlson]] <small>(For episode "Pottery Will Get You Nowhere")</small> || {{nom}}
+|-
+| Todd W. Langen <small>(For episode "Coda")</small> || {{nom}}
+|-
+| [[David M. Stern]] <small>(For episode "Loosiers")</small> || {{nom}}
+|-
+| [[Michael J. Weithorn]] <small>(For episode "Our Miss White")</small> || {{nom}}
+|-
+| rowspan=3|[[Primetime Emmy Award for Outstanding Directing for a Comedy Series|Outstanding Directing for a Comedy Series]] || [[Peter Baldwin (director)|Peter Baldwin]] <small>(For episode "Our Miss White")</small> || {{won}}
+|-
+| [[Michael Dinner]] <small>(For episode "How I'm Spending My Summer Vacation")</small> || {{nom}}
+|-
+| [[Steve Miner]] <small>(For episode "Birthday Boy")</small> || {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series|Outstanding Guest Actor in a Comedy Series]] || [[Robert Picardo]] <small>(For episode "Loosiers")</small> || {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Guest Actress in a Comedy Series|Outstanding Guest Actress in a Comedy Series]] || [[Maxine Stuart]] <small>(For episode "Coda")</small>  || {{nom}}
+|-
+| Outstanding Editing for a Series - Single Camera Production || Stuart Bass <small>(For episode "Loosiers")</small> || {{nom}}
+|-
+| [[Primetime Emmy Award for Outstanding Costumes for a Series|Outstanding Costume Design for a Series]] || Scilla Andreen <small>(For episode "Birthday Boy")</small> || {{nom}}
+|-
+| Outstanding Sound Mixing for a Comedy Series or a Special || Agamemnon Andrianos, David John West, Ray West and John L. Mack <small>(For episode "Birthday Boy")</small> || {{nom}}
+|-
+| rowspan=7|1990 || Outstanding Comedy Series || [[Bob Brush]], Bob Stevens, Jill Gordon, [[Matthew Carlson]], [[Michael Dinner]], [[Ken Topolsky]] and [[Kerry Ehrin]] || {{nom}}
+|-
+| Outstanding Lead Actor in a Comedy Series || [[Fred Savage]] <small>(For episode "[[Good-bye (The Wonder Years)|Goodbye]]")</small> || {{nom}}
+|-
+| Outstanding Writing for a Comedy Series || [[Bob Brush]] <small>(For episode "[[Good-bye (The Wonder Years)|Goodbye]]")</small> || {{won}}
+|-
+| Outstanding Directing for a Comedy Series || [[Michael Dinner]] <small>(For episode "[[Good-bye (The Wonder Years)|Goodbye]]")</small> || {{won}}
+|-
+| Outstanding Guest Actor in a Comedy Series || [[David Huddleston]] <small>(For episode "The Powers That Be")</small> || {{nom}}
+|-
+| Outstanding Editing for a Series - Single Camera Production || Dennis C. Vejar <small>(For episode "[[Good-bye (The Wonder Years)|Goodbye]]")</small> || {{nom}}
+|-
+| Outstanding Sound Mixing for a Comedy Series or a Special || Agamemnon Andrianos, David John West, Ray West and John L. Mack <small>(For episode "St. Valentine's Day Massacre")</small> || {{nom}}
+|-
+| rowspan=3|1991 || Outstanding Comedy Series || [[Bob Brush]], Jill Gordon, [[Ken Topolsky]], David Chambers and [[Michael Dinner]] || {{nom}}
+|-
+| Outstanding Directing for a Comedy Series || [[Peter Baldwin (director)|Peter Baldwin]] <small>(For episode "The Ties That Bind")</small> || {{nom}}
+|-
+| rowspan=3|Outstanding Sound Mixing for a Comedy Series or a Special || Agamemnon Andrianos, David John West, Nello Torri and John L. Mack <small>(For episode "Little Debbie")</small> || {{nom}}
+|-
+| 1992 || Agamemnon Andrianos, David John West, Nello Torri and Craig Hunter <small>(For episode "Grandpa's Car")</small> || {{nom}}
+|-
+| 1993 || Agamemnon Andrianos, David John West, Nello Torri and Craig Hunter <small>(For episodes "Summer" and "Independence Day")</small> || {{nom}}
+|-
+| rowspan=2|1988 || rowspan=4|[[TCA Awards|Television Critics Association Award]] || [[TCA Award for Program of the Year|Program of the Year]] || rowspan=4| || {{nom}}
+|-
+| rowspan=3|[[TCA Award for Outstanding Achievement in Comedy|Outstanding Achievement in Comedy]] || {{won}}
+|-
+| 1989 || {{nom}}
+|-
+| 1990 || {{nom}}
+|-
+| 2006 || rowspan=3|[[TV Land Award]] || Favorite Series Finale || || {{nom}}
+|-
+| 2007 || Favorite Heard-But-Not-Seen Character || [[Daniel Stern (actor)|Daniel Stern]] || {{nom}}
+|-
+| 2008 || Character You'd Pay to Do Your Homework for You || [[Danica McKellar]] || {{nom}}
+|-
+| rowspan=2|1989 || rowspan=10|[[Viewers for Quality Television|Viewers for Quality Television Award]] || Best Quality Comedy Series || || {{nom}}
+|-
+| Best Actor in a Quality Comedy Series || [[Fred Savage]] || {{won}}
+|-
+| rowspan=2|1990 || Best Quality Comedy Series || || {{nom}}
+|-
+| Best Actor in a Quality Comedy Series || [[Fred Savage]] || {{won}}
+|-
+| rowspan=4|1991 || Best Quality Comedy Series || || {{nom}}
+|-
+| Best Actor in a Quality Comedy Series || [[Fred Savage]] || {{nom}}
+|-
+| Best Writing in a Quality Comedy Series || || {{nom}}
+|-
+| Best Specialty Player || [[Robert Picardo]] || {{nom}}
+|-
+| rowspan=2|1992 || Best Quality Comedy Series || || {{nom}}
+|-
+| Best Actor in a Quality Comedy Series || [[Fred Savage]] || {{nom}}
+|-
+| rowspan=2|1989|| rowspan=7|[[Writers Guild of America Award]] || rowspan=7|[[Writers Guild of America Award for Television: Episodic Comedy|Episodic Comedy]] || [[Carol L. Black|Carol Black]] and [[Neal Marlens]] <small>(For episode "My Father's Office")</small> || {{won}}
+|-
+| [[Carol L. Black|Carol Black]] and [[Neal Marlens]] <small>(For the pilot episode)</small> || {{nom}}
+|-
+| rowspan=2|1990|| [[Matthew Carlson]] <small>(For episode "Pottery Will Get You Nowhere")</small> || {{nom}}
+|-
+| Todd W. Langen <small>(For episode "Coda")</small> || {{won}}
+|-
+| rowspan=3|1991|| [[Bob Brush]] <small>(For episode "[[Good-bye (The Wonder Years)|Goodbye]]")</small> || {{nom}}
+|-
+| [[David M. Stern]] <small>(For episode "The Powers That Be")</small> || {{nom}}
+|-
+| Bob Stevens <small>(For episode "Rock 'N' Roll")</small> || {{nom}}
+|-
+| rowspan=5|1989 || rowspan=18|[[Young Artist Award]] || [[10th Youth in Film Awards|Best Family Television Series]] || || {{won}}
+|-
+| Best Young Actor Starring in a Television Comedy Series || [[Fred Savage]] || {{won}}
+|-
+| Best Young Actor Guest-Starring in a Drama or Comedy Series || [[Robin Thicke]] || {{nom}}
+|-
+| Best Young Actor in a Featured, Co-Starring, Supporting, Recurring Role in a Comedy, Drama Series, or Special || [[Josh Saviano]] || {{nom}}
+|-
+| Best Young Actress in a Featured, Co-Starring, Supporting, Recurring Role in a Comedy, Drama Series, or Special || [[Danica McKellar]] || {{won}}
+|-
+| rowspan=5|1990 || rowspan=2|[[11th Youth in Film Awards|Best Young Actor Starring in a Television Series]] || [[Fred Savage]] || {{nom}}
+|-
+| [[Jason Hervey]] || {{nom}}
+|-
+| Best Young Actress Starring in a Television Series || [[Danica McKellar]] || {{nom}}
+|-
+| rowspan=2|Best Young Actor Guest Starring in a Television Series || [[Robert Jayne]] || {{nom}}
+|-
+| [[Joshua John Miller]] || {{nom}}
+|-
+| rowspan=4|1992 || [[13th Youth in Film Awards|Best Young Actress Co-Starring in a Television Series]] || [[Danica McKellar]] || {{nom}}
+|-
+| Best Young Actor Guest-Starring or Recurring Role in a TV Series || Brandon Crane || {{won}}
+|-
+| rowspan=2|Best Young Actress Guest-Starring or Recurring Role in a TV Series || [[Crystal McKellar]] || {{nom}}
+|-
+| Lisa Paige Robinson || {{nom}}
+|-
+| rowspan=4|1993 || [[14th Youth in Film Awards|Best Young Actor Co-Starring in a Television Series]] || [[Josh Saviano]] || {{nom}}
+|-
+| Best Young Actress Co-Starring in a Television Series || [[Danica McKellar]] || {{nom}}
+|-
+| Best Young Actor Recurring in a Television Series || [[Giovanni Ribisi]] || {{nom}}
+|-
+| Best Young Actress Guest-Starring in a Television Series || Wendy J. Cooke || {{nom}}
+|}
+
+==Book==
+In 1990, the book ''The Wonder Years - Growing up in the Sixties'' by Edward Gross was published by [[Pioneer Books]] ({{ISBN|1-55698-258-5}}). It contains information about the creation and production of the show, interviews with cast and crew, and an extensive episode guide (up to the middle of the 4th season when the book was published). While long out of print and hard to find, the author gave permission to a fan website to publish the book online for free in its entirety.<ref>{{cite web |url=http://www.wonder-years.tv/twybook.php |title=The Wonder Years - Growing up in the Sixties |access-date=2014-08-10 |url-status=dead |archive-url=https://web.archive.org/web/20140808045337/http://www.wonder-years.tv/twybook.php |archive-date=August 8, 2014 |df=mdy-all }}</ref>
+
+==Reboot==
+{{Main|The Wonder Years (2021 TV series)}}
+On July 8, 2020, ABC announced that they were rebooting the series with film director, producer, and screenwriter [[Lee Daniels]], longtime television writer and producer Saladin Patterson, and original series star Fred Savage as executive producers. Savage would also direct the pilot episode, and original  series co-creator [[Neal Marlens]] will be a consultant on the project. The new series would once again take place in the late 1960s—but this time, it would focus on the life of a black middle-class family living in [[Montgomery, Alabama]].<ref>{{cite web |url=https://www.usatoday.com/story/entertainment/tv/2020/07/08/abc-commits-pilot-the-wonder-years-featuring-black-family/5399295002/|title=Lee Daniels' 'The Wonder Years' reboot focusing on a Black family gets ABC pilot commitment|date=July 8, 2020|website=USA Today|last=Keveney|first=Bill|access-date=July 8, 2020}}</ref> In March 2021, it was announced that [[Don Cheadle]] would serve as the series narrator.<ref>{{cite web |last1=Otterson |first1=Joe |title=‘Wonder Years’ Reboot Pilot at ABC Sets Don Cheadle as Narrator |url=https://www.msn.com/en-us/tv/news/e2-80-98wonder-years-e2-80-99-reboot-pilot-at-abc-sets-don-cheadle-as-narrator/ar-BB1f0lBI?ocid=uxbndlbing |website=Variety |access-date=March 26, 2021}}</ref> In May 2021, ABC officially picked up the series.<ref>{{cite web|url=https://deadline.com/2021/05/the-wonder-years-queens-maggie-abbott-elementary-picked-up-to-series-abc-1234756301/|title='The Wonder Years', 'Queens', 'Maggie' & 'Abbott Elementary' Picked Up To Series At ABC|last1=Andreeva|first1=Nellie|last2=White|first2=Peter|date=May 14, 2021|work=[[Deadline Hollywood]]|language=en|accessdate=May 15, 2021}}</ref> The series premiered on September 22, 2021.<ref>{{cite web|title=ABC Fall Premiere Dates: New 'Wonder Years' & 'Queens' Join 'Grey's Anatomy', 'Good Doctor', 'Bachelorette', 'Goldbergs' & More|url=https://deadline.com/2021/07/abc-2021-fall-premiere-dates-greys-anatomy-good-doctor-bachelorette-goldbergs-wonder-years-1234793381/|website=[[Deadline Hollywood]]|date=July 15, 2021|first=Erik|last=Pedersen|access-date=July 15, 2021}}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Wikiquote|The Wonder Years}}
+{{Commons category|The Wonder Years (TV series)}}
+* {{IMDb title|0094582|The Wonder Years}}
+* [http://www.wonder-years.tv Episode and Music Guide] plus the official ''The Wonder Years'' book by Edward Gross
+* [http://the-wonder-years.com/?i=documentary Documentary ''The Wonder Years – Coming of Age''] at the-wonder-years.com
+* [http://www.peter-reynders.de/WY/wy-head.htm Peter's "The Wonder Years" fansite]
+* [http://www.endedtvseries.com/years/ The Show “The Wonder Years”, Cast, Pictures, and Trivia]
+
+<!-- For data for this template, use the page http://en.wikipedia.org/wiki/List_of_Super_Bowl_lead-out_programs -->
+{{sequence
+|prev=''Hard Copy''<br>[[1987 Super Bowl|1987]]
+|list=''The Wonder Years''<br>[[List of Super Bowl lead-out programs|Super Bowl lead-out program]]<br>[[1988 Super Bowl|1988]]
+|next=''[[Brotherhood of the Rose (mini-series)|Brotherhood of the Rose]]''<br>[[1989 Super Bowl|1989]]
+}}
+
+{{The Wonder Years (TV series)}}
+{{Navboxes
+|title = Awards for ''The Wonder Years''
+|list =
+{{EmmyAward ComedySeries 1976-2000}}
+{{GoldenGlobeTVComedy 1969-1989}}
+{{TCA Award for Outstanding Achievement in Comedy}}
+}}
+{{Joe Cocker}}
+
+{{DEFAULTSORT:Wonder Years, The}}
+[[Category:The Wonder Years| ]]
+[[Category:1980s American comedy-drama television series]]
+[[Category:1980s American high school television series]]
+[[Category:1980s American teen drama television series]]
+[[Category:1988 American television series debuts]]
+[[Category:1990s American comedy-drama television series]]
+[[Category:1990s American high school television series]]
+[[Category:1990s American teen drama television series]]
+[[Category:1993 American television series endings]]
+[[Category:American Broadcasting Company original programming]]
+[[Category:Best Musical or Comedy Series Golden Globe winners]]
+[[Category:Coming-of-age television shows]]
+[[Category:English-language television shows]]
+[[Category:Middle school television series]]
+[[Category:Peabody Award-winning television programs]]
+[[Category:Period family drama television series]]
+[[Category:Primetime Emmy Award for Outstanding Comedy Series winners]]
+[[Category:Super Bowl lead-out shows]]
+[[Category:Television series about families]]
+[[Category:Television series about teenagers]]
+[[Category:Television series by New World Television]]
+[[Category:Television series created by Carol Black]]
+[[Category:Television series created by Neal Marlens]]
+[[Category:Television series set in the 1960s]]
+[[Category:Television series set in the 1970s]]
+[[Category:Television shows set in the United States]]

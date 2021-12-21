@@ -1,0 +1,85 @@
+{{EngvarB|date=October 2017}}
+{{Use dmy dates|date=October 2017}}
+{{Infobox musical artist
+| name            = The Correspondents
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = London, England
+| genre           = {{flatlist}}
+* [[Electronica]]
+* [[electro swing]]
+* [[alternative hip hop]]
+* [[drum and bass]]
+{{endflatlist}}
+| years_active    = {{start date|2007}}<ref name="Facebook">{{cite web | url=https://www.facebook.com/TheCorrespondents/info?tab=page_info | title=The Correspondents - About &#124; Facebook | work=Facebook | accessdate=9 January 2015}}</ref> - {{end date|2020}}
+| label           =
+| associated_acts = [[Ian Bruce (painter)|Mr. Bruce]]
+| website         = {{URL|thecorrespondents.co.uk}}
+| current members =
+| Past_members    = [[Ian Bruce (painter)|Ian Bruce]]<br/>Tim "Chucks" Cole
+}}
+
+'''The Correspondents''' were a British [[electro swing]] duo based in London, formed by vocalist and MC [[Ian Bruce (painter)|Mr. Bruce]] and producer Tim Cole in 2007.<ref name="LondonEveningStandard">{{ cite news | first=Victoria | last=Stewart | title=Hail the kings of hip-hop swing | newspaper=[[London Evening Standard]] | date=18 October 2010 | url=https://www.standard.co.uk/lifestyle/hail-the-kings-of-hiphop-swing-6525511.html | accessdate=9 January 2015}}</ref>
+
+Their music has been described as electro swing with a mixture of early 20th century jazz and electro and drum and bass.<ref name="BournemouthEcho"/> Their live shows and recorded music consisted of multi-genre dance music spanning blues, jazz, soul, funk and out and out electro pop.<ref name="ClashMusic"/>
+
+The band played at major festivals such as [[World of Music, Arts and Dance|WOMAD]],<ref name="WOMAD" /> [[Glastonbury Festival|Glastonbury]],<ref name="IndyGlasto2014" /> [[Bestival]],<ref name="GuardianBestival"/> [[Boomtown (festival)|Boomtown]] and [[Secret Garden Party]].<ref name="SecretGarden"/>
+
+Their song "Fear and Delight" was used as the theme tune to [[BBC Three]] comedy ''[[Crims (TV series)|Crims]]''.
+
+The project was retired on 20 October 2020 after Bruce published a status on The Correspondents' Facebook page stating that Cole had died unexpectedly of a pulmonary embolism a few days prior.<ref>{{Cite web|title=The Correspondents|url=https://www.facebook.com/TheCorrespondents/posts/10158251238566523|access-date=2020-10-20|website=www.facebook.com|language=en}}</ref><ref>{{Cite web|title=The Correspondents|url=https://www.facebook.com/TheCorrespondents/posts/10158360097526523|access-date=2020-12-03|website=www.facebook.com|language=en}}</ref>
+
+==Awards and recognition==
+The band was included in [[The Daily Telegraph|The Telegraph]]'s top 10 Glastonbury highlights two years in a row<ref name="TelegraphGlasto2010"/><ref name="TelegraphGlasto2011"/> and has also been featured in [[Rob da Bank]]'s 2-hour ''Electro Swing Special'' on [[BBC Radio 1]].<ref name="BBCSwing"/>
+
+The music video to their single ''Fear & Delight'' won the "Best VFX" award at the Berlin Music Video Awards 2014, while its director, Naren Wilks, was named overall winner for "Best Production".<ref name="BerlinAwards"/>
+
+==Discography==
+
+===Albums===
+* ''Puppet Loosely Strung'', released 10 March 2014<ref name="RFSPuppetReview"/><ref name="MusicBrainzPuppet"/>
+* ''Foolishman'', released 22 September 2017<ref name="KudosFoolishman">{{cite web|title=Foolishman – The Correspondents|url=https://www.kudosrecords.co.uk/release/tc008/the-correspondents-foolishman.html|website=Kudos Records|accessdate=16 September 2017}}</ref>
+* ''10 Years'', released December 2017 as a limited edition vinyl compilation only.
+
+===EPs===
+* ''Rogue'', released 2008<ref name="MusicBrainzRogue"/>
+* ''What's Happened To Soho'', released 11 April 2011<ref name="MusicBrainzSoho"/> under the Freshly Squeezed music label
+* ''Who Knew - EP'', released 2 November 2018 under the From.Our.Own label.
+
+===Singles===
+* ''Cheating With You'', released 7 November 2011
+* ''Well Measured Vice'', released 28 January 2013
+* ''Fear & Delight'', released 9 December 2013
+* ''Finally', released 4 May 2016
+* ''Inexplicable'', released 5 August 2016
+* ''Who Knew'', released 10 October 2018
+
+==References==
+{{Reflist|refs=
+{{citation needed|date=October 2017}}<!-- WP:RS needed; removed link to WP:SPS (Twitter, FB, WP)-->
+<ref name="BournemouthEcho">{{cite news| first=Tom | last=Blay | title=The Correspondents, Mr Kyps | newspaper=The Bournemouth Echo | date=21 February 2011 | url=http://www.bournemouthecho.co.uk/leisure/reviews/8865977.The_Correspondents__Mr_Kyps | accessdate=9 January 2015}}</ref>
+<ref name="ClashMusic">{{ cite news | first=Robin | last=Murray | title=Premiere: The Correspondents Puppet Loosely Strung | website=[[Clash Magazine]] | date=4 March 2013 | url=http://www.clashmusic.com/features/premiere-the-correspondents-puppet-loosely-strung | accessdate=13 June 2017}}</ref>
+<ref name="WOMAD">{{cite web | url=http://www.thebigidea.co.nz/news/interviews/2013/jan/126091-womad-nz-the-correspondents | title=Womad NZ: The Correspondents | work=The Big Idea | accessdate=9 January 2015}}</ref>
+<ref name="IndyGlasto2014">{{cite news | first=Jess | last=Denham | title=Glastonbury 2014 line-up: Best bands to see that might have slipped your radar | newspaper=[[The Independent]] | date=24 June 2014 | url=https://www.independent.co.uk/arts-entertainment/music/features/glastonbury-2014-lineup-best-bands-to-see-that-might-have-slipped-your-radar-9559118.html | accessdate=9 January 2015}}</ref>
+<ref name="GuardianBestival">{{cite news | first=Mark | last=Beaumont | newspaper=[[The Guardian]] | date=6 September 2013 | title=Bestival 2013 day one: MIA, Wu Tang – review | url=https://www.theguardian.com/music/2013/sep/06/bestival-2013-day-one-mia-wu | accessdate=9 January 2015}}</ref>
+<ref name="SecretGarden">{{cite web | title=Secret Garden Party Unveils First Acts For 2014 | website=Radio City | date=13 December 2013 | url=http://www.radiocity.co.uk/festivals/news/secret-garden-party-unveils-acts-for-2014 | accessdate=9 January 2015}}</ref>
+<ref name="TelegraphGlasto2010">{{cite news | first=Lucy | last=Jones | title=Top ten highlights of Glastonbury 2010 | newspaper=[[The Daily Telegraph]] | date=29 June 2010 | url=http://blogs.telegraph.co.uk/culture/lucyjones/100044496/top-ten-highlights-of-glastonbury-2010/ | archive-url=https://web.archive.org/web/20100702060914/http://blogs.telegraph.co.uk/culture/lucyjones/100044496/top-ten-highlights-of-glastonbury-2010/ | url-status=dead | archive-date=2 July 2010 | accessdate=9 January 2015}}</ref>
+<ref name="TelegraphGlasto2011">{{cite news | first=Lucy | last=Jones | title=Glastonbury 2011: Top ten highlights | newspaper=[[The Daily Telegraph]] | date=28 June 2011 | url=http://blogs.telegraph.co.uk/culture/lucyjones/100054411/glastonbury-2011-top-ten-highlights/ | archive-url=https://web.archive.org/web/20110701112853/http://blogs.telegraph.co.uk/culture/lucyjones/100054411/glastonbury-2011-top-ten-highlights/ | url-status=dead | archive-date=1 July 2011 | accessdate=9 January 2015}}</ref>
+<ref name="BBCSwing">{{cite web|url=http://www.bbc.co.uk/programmes/b00v11p9|title=BBC Radio 1 – Rob da Bank, Electro Swing Special|publisher=[[BBC]]|accessdate=9 January 2015}}</ref>
+<ref name="BerlinAwards">{{cite web | title=Berlin Music Video Awards | date=4 June 2014 | url=http://www.berlinmva.com/bmva2014_winners | accessdate=9 January 2015}}</ref>
+<ref name="RFSPuppetReview">{{cite web | title=Album Review: The Correspondents – Puppet Loosely String | first1=Janelle | last1=Tucknott | website=Renowned For Sound | date=5 March 2014 | url=http://renownedforsound.com/index.php/album-review-the-correspondents-puppet-loosely-strung | accessdate=9 January 2015}}</ref>
+<ref name="MusicBrainzPuppet">{{cite web | work=MusicBrainz |url=https://musicbrainz.org/release/e62507a6-0c0e-412a-bf4a-34809ba3755d | title=The Correspondents Puppet Loosely Strung | accessdate=9 January 2015}}</ref>
+<ref name="MusicBrainzRogue">{{cite web | work=MusicBrainz |url=https://musicbrainz.org/release/cf63c371-b137-4ef2-87c8-14019c682651 | title=The Correspondents Rogue EP | accessdate=9 January 2015}}</ref>
+<ref name="MusicBrainzSoho">{{cite web | work=MusicBrainz |url=https://musicbrainz.org/release/f03b37b2-a75f-4e85-8a9c-68984925ec14 | title=The Correspondents Rogue EP | accessdate=9 January 2015}}</ref>
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Correspondents}}
+[[Category:Musical groups from London]]
+[[Category:English electronic music duos]]
+[[Category:Electro swing musicians]]

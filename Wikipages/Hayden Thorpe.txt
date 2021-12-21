@@ -1,0 +1,75 @@
+{{Infobox musical artist
+| Name             = Hayden Thorpe
+| image            = Hayden Thorpe at Rough Trade.jpg
+| landscape        = yes
+| caption          = Hayden Thorpe performing at [[Rough Trade East]] on 25 May 2019
+| Background       = solo_singer
+| Birth_name       = Hayden Norman Thorpe
+| birth_date       = {{birth date and age|1986|1|18|df=y}}
+| birth_place      = [[Kendal]], [[Cumbria]], England
+| Genre            = 
+| Occupation       = {{flatlist|
+*Singer-songwriter
+*musician
+}}
+| Instrument       = {{flatlist|
+<!-- Please don't add instruments to this list. It should only contain instruments Yorke is primarily known for using, per [[Template:Infobox_musical_artist/doc#instrument]]-->
+*Vocals
+*guitar
+*bass guitar
+*piano
+*[[Keyboard instrument|keyboards]]
+}}
+| Years_active     = 2002–present
+| Label            = [[Domino Recording Company|Domino]]
+| Associated_acts  = {{flatlist|
+[[Wild Beasts]]
+}}
+}}
+
+'''Hayden Norman Thorpe''' (born 18 January 1986)<ref>{{Cite web|url=https://www.ticketline.co.uk/wild-beasts|title=Buy Wild Beasts tickets, Wild Beasts tour details, Wild Beasts reviews|website=Ticketline.co.uk|accessdate=2020-04-14}}</ref> is an English singer, songwriter and multi-instrumentalist, originally from [[Kendal]], [[Cumbria]] and currently based in [[Walthamstow]], London.<ref>{{Cite web|url=https://www.nme.com/music-interviews/hayden-thorpe-wild-beasts-solo-interview-diviner-2471520|title=Wild Beasts frontman Hayden Thorpe goes solo: "it's like playing chess against yourself..."|last=Connick|first=Tom|date=2019-04-09|website=NME|language=en-US|access-date=2019-04-24}}</ref>
+
+==Career==
+From 2002 to 2018, Thorpe was the frontman of the indie pop band [[Wild Beasts]],<ref>{{Cite web|url=https://www.thefourohfive.com/music/article/track-of-the-day-hayden-thorpe-formerly-of-wild-beasts-arrives-strong-as-ever-on-his-own-with-love-crimes-155|title=Track Of The Day: Hayden Thorpe, formerly of Wild Beasts, is strong as ever on his own with 'Love Crimes'|last=http://thefourohfive.com|website=The 405|language=en|access-date=2019-04-24}}</ref> which he initially co-founded as a duo with guitarist Ben Little.<ref>{{Cite web|url=https://pitchfork.com/news/wild-beasts-hayden-thorpe-shares-first-new-solo-song-listen/|title=Wild Beasts' Hayden Thorpe Shares First New Solo Song: Listen|website=Pitchfork|language=en|access-date=2019-04-24}}</ref> Eventually expanding into a four-piece, the band released five studio albums on [[Domino Recording Company|Domino Records]] to much critical acclaim, yet only modest commercial success. Following the band's dissolution, Thorpe pursued a solo career, and released his debut album ''[[Diviner (album)|Diviner]]'' through Domino in May 2019.<ref>{{Cite web|url=http://diymag.com/2019/02/21/wild-beasts-hayden-thorpe-debut-solo-track-diviner-watch|title=Former Wild Beasts frontman Hayden Thorpe returns with debut solo track 'Diviner'|last=Subscribe|website=DIY|language=en|access-date=2019-04-24}}</ref>
+
+In July 2021, Thorpe announced his second album, ''[[Moondust for My Diamond]]'' to be released 15 October 2021 via [[Domino Recording Company|Domino Records]], the announcement came with a video for the song "The Universe Is Always Right".<ref>{{Cite web|url=https://www.nme.com/news/music/hayden-thorpe-announces-details-of-second-solo-album-moondust-for-my-diamond-2986425}}</ref>
+
+==Musical style and influences==
+
+Thorpe is often noted for his distinct, operatic [[countertenor]] vocal style, which critics commonly described as being both unusual and an [[acquired taste]] in the field of indie rock.<ref>{{Cite web|url=https://www.nme.com/news/music/wild-beasts-36-1274855|title=Wild Beasts' Hayden Thorpe: 'I never realised my voice was like Marmite'|website=[[NME]]|language=en|access-date=2019-04-24}}</ref> Thorpe has cited [[Leonard Cohen]], [[Kate Bush]] and [[The Smiths]] as amongst his musical influences, as well as writer [[Arthur Rimbaud]] on his lyrics.
+
+== Discography ==
+
+=== Albums ===
+
+* ''[[Diviner (album)|Diviner]]'' (2019)<ref>{{Cite web|url=https://www.thefader.com/2019/04/09/hayden-thorpe-diviner-love-crimes|title=Wild Beasts' Hayden Thorpe announces Diviner solo album|website=The Fader|language=en|access-date=2019-04-24}}</ref>
+* ''[[Moondust for My Diamond]]'' (2021)<ref>{{Cite web|url=https://pitchfork.com/news/hayden-thorpe-announces-new-album-shares-new-song-listen/|title=Hayden Thorpe Announces New Album, Shares New Song: Listen|website=Pitchfork|last=Bloom|first=Madison|date=9 July 2021|access-date=26 July 2021}}</ref>
+
+=== EPs ===
+
+* ''Aerial Songs'' (2020)<ref>{{Cite web|url=https://www.nme.com/news/music/wild-beasts-hayden-thorpe-announces-aerial-songs-ep-and-shares-new-track-2761821|title=Wild Beasts' Hayden Thorpe announces 'Aerial Songs' EP and shares new track|website=NME|date=25 September 2020|language=en|access-date=2020-09-25}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Wild Beasts}}
+{{Authority control}}
+
+{{DEFAULTSORT:Thorpe, Hayden}}
+[[Category:1986 births]]
+[[Category:21st-century English singers]]
+[[Category:English male singers]]
+[[Category:English bass guitarists]]
+[[Category:English male guitarists]]
+[[Category:Male bass guitarists]]
+[[Category:English people of Australian descent]]
+[[Category:Rhythm guitarists]]
+[[Category:Countertenors]]
+[[Category:Domino Recording Company artists]]
+[[Category:Living people]]
+[[Category:People from Kendal]]
+[[Category:21st-century British male singers]]
+[[Category:People from Walthamstow]]
+
+
+{{UK-singer-stub}}

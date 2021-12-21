@@ -1,0 +1,240 @@
+{{Use dmy dates|date=March 2018}}
+{{Use Australian English|date=March 2018}}
+{{Missing information|line-up changes, tours, musical style and other biographical information|date=August 2020}}
+{{Infobox musical artist
+| name            = Alpha Wolf
+| image           =
+| caption         =
+| origin          = [[Burnie, Tasmania]], Australia
+| genre           = {{flatlist|
+*[[Metalcore]]
+*[[nu metal]]
+*[[deathcore]] (early)}}
+| label           = Greyscale, [[SharpTone Records|SharpTone]]
+| years_active    = 2013-present
+| associated_acts =
+| current_members = Sabian Lynch<br />Scottie Simpson<br />Mitch Fogarty<br />John Arnold<br />Lochie Keogh
+| past_members    = Hayden Dargavel<br />Lloyd Hornidge<br />Aidan Ellaz<br />Jackson Arnold
+}}
+
+'''Alpha Wolf''' is an Australian [[metalcore]] band originally from [[Burnie, Tasmania]] and currently located in [[Melbourne, Australia|Melbourne]], [[Victoria (Australia)|Victoria]]. Bassist/founding vocalist John Arnold stated that "the name Alpha Wolf came from the movie ''[[The Grey (film)|The Grey]]''". Their debut album ''[[Mono (Alpha Wolf album)|Mono]]'' was released in July 2017 and peaked at number 29 on the [[ARIA Charts|ARIA Albums Chart]].
+
+==Biography==
+===2013-2016: Formation and ''Origin''===
+The band formed in 2013{{cn|date=August 2020}} and released their debut EP ''Origin'' on 9 June 2014.<ref name="Origin EP"/>
+The EP was proceeded by three singles.
+
+===2017-2018: ''Mono'' and line-up change===
+In July 2017, the band's 2017 released its debut studio album titled, ''[[Mono (Alpha Wolf album)|Mono]]''. This is short for ''[[monochromatic]]'', which means, "involving or producing visual images in a single color or in varying tones of a single color".<ref>{{Cite web|url=https://www.merriam-webster.com/dictionary/monochrome|title=Definition of MONOCHROME|website=www.merriam-webster.com|accessdate=12 October 2020}}</ref> This title and its association tease the lyrical content which deals strongly in themes of trauma and depression.<ref>{{Cite web|url=https://genius.com/albums/Alpha-wolf/Mono|title=Mono by Alpha Wolf|website=Genius|accessdate=12 October 2020}}</ref>
+
+On 9 February 2018, lead vocalist Aidan Ellaz was ejected from the band due to allegations of sexual assault. In June 2018, Lochie Keogh and Mitch Fogarty were announced as new members.<ref>{{cite web|url= http://musicfeeds.com.au/news/melbournes-alpha-wolf-reveal-new-members-after-splitting-from-their-frontman/ |title=Melbourne's Alpha Wolf Reveal New Members, After Splitting From Their Frontman |last=Mack |first=Emmy |website=musicfeeds.com.au |date=5 June 2018|accessdate=11 June 2018}}</ref>
+
+===2019-present: ''Fault'' and ''A Quiet Place to Die''===
+In April 2019, the band released ''Fault'' EP, with guitarist Sabian Lynch saying "Fault is our way of opening up, and doing our best to show that it's okay to mess up, it's okay to fail, it's okay make mistakes, as long as we can find ways grow from it. We always want to be honest with our song writing and these songs showcase a realisation within ourselves, thus creating the best music we've ever been a part of."<ref name="Fault">{{cite web|url=https://www.jbhifi.com.au/products/cd-alpha-wolf-fault-ep-cd|title=ALPHA WOLF Fault EP|website=JBHiFi|accessdate=25 August 2020}}</ref>
+
+The band's second studio album, ''A Quiet Place to Die'' was released on September 25, 2020.
+
+==Members==
+'''Current members'''
+* Sabian Lynch – rhythm guitar <small>(2013–present)</small>
+* John Arnold – bass guitar, vocals <small>(2016–present)</small>, lead vocals <small>(2013–2016)</small>
+* Scottie Simpson – lead guitar <small>(2016–present)</small>, bass guitar <small>(2015–2016)</small>
+* Mitch Fogarty – drums <small>(2018–present)</small>
+* Lochie Keogh – lead vocals <small>(2018–present)</small>
+
+'''Former members'''
+* Hayden Dargavel – bass guitar <small>(2013–2015)</small>
+* Lloyd Hornidge – guitar <small>(2015–2016)</small>
+* Saugat Nepali – drums <small>(2013–2017)</small>
+* Aidan Ellaz – lead vocals <small>(2016–2018)</small>
+
+===Timeline===
+{{#tag:timeline|
+ImageSize = width:900 height:auto barincrement:20
+PlotArea = left:120 bottom:120 top:10 right:20
+Alignbars = justify
+DateFormat = dd/mm/yyyy
+Period = from:01/01/2013 till:{{#time:d/m/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:3
+ScaleMajor = increment:1 start:2013
+
+Colors =
+  id:V         value:red         legend:Vocals
+  id:LGuitar   value:teal        legend:Lead_Guitar
+  id:RGuitar   value:green       legend:Rhythm_Guitar
+  id:B         value:blue        legend:Bass
+  id:D         value:orange      legend:Drums
+  id:Lines     value:black       legend:Studio_album
+  id:Lines1    value:gray(0.6)   legend:Other_release
+
+LineData =
+ at:14/07/2017 color:Lines layer:back
+ at:25/09/2020 color:Lines layer:back
+ at:09/06/2014 color:Lines1 layer:back
+ at:17/09/2015 color:Lines1 layer:back
+ at:19/04/2019 color:Lines1 layer:back
+
+BarData =
+ bar:Sabian text:"Sabian Lynch"
+ bar:Lloyd text:"Lloyd Hornidge"
+ bar:Hayden text:"Hayden Dargavel"
+ bar:Scottie text:"Scottie Simpson"
+ bar:John  text:"John Arnold"
+ bar:Aidan text:"Aidan Ellaz"
+ bar:Lochie text:"Lochie Keogh"
+ bar:Saugat text:"Saugat Nepali"
+ bar:Mitch text:"Mitch Fogarty"
+
+PlotData =
+ width:11 textcolor:black align:left anchor:from shift:(11,-4)
+ bar:Aidan   from:01/01/2016  till:09/02/2018 color:V
+ bar:Lochie  from:09/02/2018  till:end color:V
+ bar:Sabian  from:01/01/2015  till:end color:RGuitar
+ bar:Sabian  from:01/01/2013  till:01/01/2015 color:LGuitar
+ bar:Sabian  from:01/01/2013  till:01/01/2015 color:RGuitar width:3
+ bar:Lloyd   from:01/01/2015  till:01/01/2016 color:LGuitar
+ bar:Scottie from:01/01/2016  till:end color:LGuitar
+ bar:John    from:01/01/2013  till:01/01/2016 color:V
+ bar:John    from:01/01/2016  till:end color:B
+ bar:John    from:01/01/2016  till:end color:V width:3
+ bar:Hayden  from:01/01/2013  till:01/01/2015 color:B
+ bar:Scottie from:01/01/2015  till:01/01/2016 color:B
+ bar:Saugat from:01/01/2013  till:05/02/2017 color:D
+ bar:Mitch   from:09/02/2018  till:end        color:D
+}}
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+! scope="col" rowspan="2" style="width:11em;"| Title
+! scope="col" rowspan="2" style="width:17em;"| Details
+! scope="col" colspan="1" | Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[ARIA Charts|AUS]]<br><ref>{{cite web|url=https://www.auspop.com.au/2017/07/aria-chart-watch-430/|title=ARIA CHART WATCH #430|publisher=Auspop.com.au|date=22 July 2017|accessdate=22 July 2017}}</ref>
+|-
+! scope="row"| ''[[Mono (Alpha Wolf album)|Mono]]''
+|
+* Released: 14 July 2017
+* Label: Greyscale Records <small>(GSRCD005)</small>
+* Format: [[Compact Disc|CD]], [[Music download|digital download]], [[Media streaming|streaming]]
+| 29
+|-
+! scope="row"| ''A Quiet Place to Die''
+|
+* Released: 25 September 2020
+* Label: Greyscale Records <small>(GSRCD038),</small> [[SharpTone Records]]
+* Format: CD, digital download, LP
+| 6<br /><ref>{{cite web|url=http://www.ariacharts.com.au/charts/albums-chart|title=ARIA Australian Top 50 Albums|publisher=[[Australian Recording Industry Association]]|date=5 October 2020|accessdate=3 October 2020}}</ref>
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+! scope="col" style="width:11em;"| Title
+! scope="col" style="width:17em;"| Details
+|-
+! scope="row"| ''Origin''
+|
+* Released: 9 June 2014<ref name="Origin EP">{{Cite web|url=https://alphawolfcvlt.bandcamp.com/album/origin|title=Origin|website=Alphawolfcvlt.bandcamp.com|date=25 August 2020}}</ref>
+* Label: Alpha Wolf <small>(ALP002)</small> 
+* Format: CD, digital download, streaming
+|-
+! scope="row"| ''Fault''
+|
+* Released: 19 April 2019<ref>{{cite web|url=https://music.apple.com/au/album/fault-ep/1452761771|title=Fault EP (DD)|website=Apple Music|date=19 April 2019|accessdate=25 August 2020}}</ref><ref name="Fault"/> 
+* Label: Greyscale Records <small>(GSRCD014)</small>
+* Format: CD, LP, streaming
+|}
+
+
+===Singles===
+{| class="wikitable" style="text-align:center;"
+|-
+! scope="col"| Year
+! scope="col"| Title
+! scope="col" width="220"| Album
+|-
+| rowspan="3"| 2014
+| align="left"| "Death Bringer"<ref>{{cite web|url=https://www.youtube.com/watch?v=XG11HVWtDmE|title=Alpha Wolf - Death Bringer|website=YouTube|date=14 May 2014|accessdate=24 August 2020}}</ref>
+| rowspan="3"| ''Origin''
+|-
+| align="left"| "I Am; Horror"<ref>{{cite web|url=https://www.youtube.com/watch?v=IoxIBQnofGs|title=Alpha Wolf - I Am; Horror|website=YouTube|date=27 May 2014|accessdate=24 August 2020}}</ref>
+|-
+| align="left"| "Dead Wing"<ref>{{cite web|url=https://www.youtube.com/watch?v=cgASGnUueCY|title=Alpha Wolf - Deadwing|website=YouTube|date=November 2014|accessdate=24 August 2020}}</ref>
+|-
+| 2015
+| align="left"| "Dark Soul"<ref>{{cite web|url=https://music.apple.com/au/album/dark-soul-single/1055637577|title=Dark Soul - single|website=Apple Music|date=4 November 2015|accessdate=24 August 2020}}</ref>
+| {{n/a|non album single}}
+|-
+| 2016
+| align="left"| "Nail Biter"<ref>{{cite web|url=https://music.apple.com/au/album/nail-biter-single/1158928086|title=Nail Biter - single|website=Apple Music|date=28 October 2016|accessdate=24 August 2020}}</ref>
+| {{n/a|non album single}}
+|-
+| rowspan="4"| 2017
+| align="left"| "#104"<ref>{{cite web|url=https://www.youtube.com/watch?v=pw87CbniSIE|title=Alpha Wolf - #104 (Official Music Video)|website=[[YouTube]]|date=14 March 2017|accessdate=24 August 2020}}</ref>
+| rowspan="4"| ''Mono''
+|-
+| align="left"| "Golden Fate; Gut Ache"<ref>{{cite web|url=https://www.youtube.com/watch?v=lLwBJ-R-GM0|title=Alpha Wolf - Golden Fate; Gut Ache (Official Music Video)|website=[[YouTube]]|date=30 May 2017|accessdate=24 August 2020}}</ref>
+|-
+| align="left"| "Ward of the State"<ref>{{cite web|url=https://www.youtube.com/watch?v=Bi8iI7X4Jxo|title=Alpha Wolf - Ward Of The State (Official Music Video)|website=[[YouTube]]|date=22 June 2017|accessdate=24 August 2020}}</ref>
+|-
+| align="left"| "Golden Fate; Water Break"<ref>{{cite web|url=https://www.youtube.com/watch?v=nQKM0apeG5M|title=Alpha Wolf - Golden Fate; Water Break (Official Music Video)|website=[[YouTube]]|date=10 July 2017|accessdate=24 August 2020}}</ref>
+|-
+| rowspan="2"| 2018
+| align="left"| "Black Mamba"<ref>{{cite web|url=https://music.apple.com/au/album/black-mamba-single/1386063796|title=Black Mamba - single|website=Apple Music|date=13 June 2018|accessdate=24 August 2020}}</ref>
+| {{n/a|non album single}}
+|-
+| align="left"| "No Name"<ref>{{cite web|url=https://music.apple.com/au/album/no-name-single/1441948422|title=No Name - single|website=Apple Music|date=4 December 2018|accessdate=24 August 2020}}</ref>
+| rowspan="3"| ''Fault''
+|-
+| rowspan="2"|2019
+| align="left"| "Sub-Zero"<ref>{{cite web|url=https://www.youtube.com/watch?v=NTjHztdiOe8|title=Alpha Wolf - Sub-Zero (Official Music Video)|website=[[YouTube]]|date=18 March 2019|accessdate=24 August 2020}}</ref>
+|-
+| align="left"| "Russian roulette"<ref>{{cite web|url=https://www.youtube.com/watch?v=4Zgc6_sTft0|title=Alpha Wolf - Russian Roulette (Official Music Video)|website=[[YouTube]]|date=2 July 2019|accessdate=24 August 2020}}</ref>
+|-
+| rowspan="3"| 2020
+| align="left"| "Akudama"<ref>{{cite web|url=https://www.youtube.com/watch?v=3ENMe1rlA0M|title=Alpha Wolf - Akudama (Official Music Video)|website=[[YouTube]]|date=3 June 2020|accessdate=24 August 2020}}</ref>
+| rowspan="3"| ''A Quiet Place to Die''
+|-
+| align="left"| "Creep"<ref>{{cite web|url=https://www.youtube.com/watch?v=NLbTT89kSFg|title=Alpha Wolf - Creep (Official Visualizer)|website=[[YouTube]]|date=22 July 2020|accessdate=24 August 2020}}</ref>
+|-
+| align="left"| "Bleed 4 You"<ref>{{cite web|url=https://www.youtube.com/watch?v=S0RAyGpgigA|title=Alpha Wolf - bleed 4 you (Official Music Video)|website=[[YouTube]]|date=12 August 2020|accessdate=24 August 2020}}</ref>
+|}
+
+==Awards==
+===AIR Awards===
+The Australian Independent Record Awards (commonly known informally as [[AIR Awards]]) is an annual awards night to recognise, promote and celebrate the success of Australia's Independent Music sector.
+{{awards table}}
+|-
+| [[AIR Awards of 2020]]<ref name="2020nom">{{cite web|url=https://scenestr.com.au/music/2020-air-awards-nominees-20200707|title=2020 AIR Awards Nominees|website=scenestr|date=7 July 2020|accessdate=8 August 2020}}</ref><ref name="2020wins">{{cite web|url=https://theindustryobserver.thebrag.com/2020-air-award-winners/|title=That's a wrap: 2020 AIR Awards winners and celebrations|website=the industry observer|date=1 October 2020 |accessdate=1 October 2020}}</ref>
+| ''Fault''
+| Best Independent Heavy Album or EP
+| {{nom}}
+|-
+{{end}}
+
+===ARIA Music Awards===
+The [[ARIA Music Awards]] is an annual ceremony presented by [[Australian Recording Industry Association]] (ARIA), which recognise excellence, innovation, and achievement across all genres of the [[music of Australia]]. They commenced in 1987.
+{{Awards table}}
+! {{Abbr|Ref.|Reference}}
+|-
+| [[2021 ARIA Music Awards|2021]]|| ''A Quiet Place to Die'' || [[ARIA Award for Best Hard Rock or Heavy Metal Album]] || {{nom}}
+| <ref>{{cite web |url=https://themusicnetwork.com/2021-aria-awards-nominees/ |title=ARIA Awards nominees revealed: Amy Shark & Genesis Owusu lead the charge |work=[[The Music Network]] |date=20 October 2021 |access-date=24 October 2021 |author=Kelly, Vivienne |archive-url=https://web.archive.org/web/20211020000045/https://themusicnetwork.com/2021-aria-awards-nominees/ |archive-date=20 October 2021 |url-status=live}}</ref>
+|-
+{{end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Facebook|alphawolfcvlt|Alpha Wolf}}
+
+{{Authority control}}
+
+[[Category:Australian heavy metal musical groups]]
+[[Category:Australian nu metal musical groups]]
+[[Category:Musical groups established in 2013]]
+[[Category:Musicians from Tasmania]]
+[[Category:Australian metalcore musical groups]]
+[[Category:Victoria (Australia) musical groups]]
+[[Category:2013 establishments in Australia]]

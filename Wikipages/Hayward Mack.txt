@@ -1,0 +1,173 @@
+{{short description|American actor}}
+{{Use mdy dates|date=March 2020}}
+{{Infobox person
+|name        = Hayward Mack
+|image       = Hayward Mack newspaper 1919.jpg
+|imagesize   = 220px
+|caption     = Mack, 1919
+|birth_date  = {{birth date|1882|03|20|mf=y}}
+|birth_place = [[Albany, New York]], USA
+|death_date  = {{death date and age|1921|12|24|1882|03|20|mf=y}}
+|death_place = [[Los Angeles]], [[California]], USA
+|occupation  = Actor
+|yearsactive = 1910–1921
+}}
+'''Hayward Seaton Mack''' (March 20, 1882 – December 24, 1921)<ref>[http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=mack&GSfn=hayward+&GSbyrel=all&GSdyrel=all&GSob=n&GRid=135370754&df=all& Hayward Mack;findagrave.com] Retrieved August 23, 2015</ref> was an American actor of the [[silent film|silent era]]. 
+
+Born in [[Albany, New York]], in 1882, Mack appeared in more than 80 films between 1910 and 1921. Mack's motion picture career began in 1910; he appeared in films of many leading motion picture companies of the time.  He had also worked in [[vaudeville]] and in stage productions. Before embarking on an entertainment career Mack was a civil engineer and also worked as a newspaper man.<ref>{{cite news|url=https://www.newspapers.com/clip/6150182/hayward_mack_bio/|title=Film Flickers\date=January 17, 1918|page=9|publisher=The Tennessean|accessdate=August 7, 2016|via=[[Newspapers.com]]}}{{openaccess}}</ref>
+
+Mack died in [[Los Angeles|Los Angeles, California]], in 1921. Mack committed suicide in Los Angeles' [[Lafayette Park, Los Angeles|Lafayette Park]] by taking poison.<ref>{{cite news|url=https://www.newspapers.com/clip/6149957/hayward_mack_suicide_1921/|title=L.A. Suicide Wills Remains to College|date=December 24, 1921|publisher=The Santa Ana Register|page=1|accessdate=August 7, 2016|via=[[Newspapers.com]]}}{{openaccess}}</ref><ref>{{cite news|url=https://www.newspapers.com/clip/6150051/hayward_mack_suicide_2/|title=Film Actor Drinks Poison, Dies in Park|date=December 24, 1921|publisher=Oakland Tribune|page=1|accessdate=August 7, 2016|via=[[Newspapers.com]]}}{{openaccess}}</ref>
+
+==Selected filmography==
+{| class="wikitable"
+! style="background:#B0C4DE;" | Year
+! style="background:#B0C4DE;" | Film
+! style="background:#B0C4DE;" | Role
+! style="background:#B0C4DE;" | Notes
+|-
+|rowspan=4|1912
+|''[[Percy Learns to Waltz]]''
+|Harry 
+|
+|-
+|''[[A Millionaire for a Day]]''
+|The Bank Teller
+|
+|-
+|''Betty, the Coxswain''
+|Ralph Cummings
+| 
+|-
+|''An Eventful Bargain Day''
+|Robert Lee, the Husband 
+|
+|-
+|rowspan=2|1913
+|''The Baldheaded Club''
+|
+|
+|-
+|''The Wedding Gown''
+|
+|
+|-
+|rowspan=2|1914
+|''[[The Master Cracksman]]''
+|District attorney 
+|Alternative titles: ''The Martin Mystery''<br>''The Square Shooter''
+|-
+|''A Foolish Agreement''
+|
+|
+|-
+|rowspan=2|1915
+|''[[Graft (1915 serial)|Graft]]'' 
+|
+|
+|-
+|''[[Father and the Boys]]'' 
+|Major Bellamy Didsworth 
+|
+|-
+|rowspan=5|1916
+|''[[Dolly's Scoop]]''
+|James Fairfax 
+|
+|-
+|''[[The Grip of Jealousy]]''
+|Phillip Grant 
+|
+|-
+|''[[Tangled Hearts]]''
+|Montgomery Seaton 
+|
+|-
+|''[[The Gilded Spider]]''
+|Burton Armitage 
+|Alternative title: ''The Full Cup''
+|-
+|''[[The Jackals of a Great City]]''
+| 
+|
+|-
+|rowspan=2|1917
+|''[[The Flame of Youth]]''
+|Sir Beverly Wyndham 
+|
+|-
+|''[[Love Letters (1917 film)|Love Letters]]''
+|Robert Maxwell 
+|
+|-
+|rowspan=4|1918
+|''[[The Winding Trail (1918 film)|The Winding Trail]]''
+|Alvin Steele
+|
+|-
+|''[[The Guilty Man]]''
+|Jacques Ristac 
+|
+|-
+|''[[The Goddess of Lost Lake]]''
+|Chester Martin
+|
+|-
+|''[[All the World to Nothing]]''
+|Charles Renalls 
+|
+|-
+|rowspan=3|1919
+|''[[It Happened in Paris (1919 film)|It Happened in Paris]]''
+|Leon Naisson 
+|
+|-
+|''The Speed Maniac''
+|Philip Malcolm 
+|
+|-
+|''[[Fighting Through]]''
+|Raymond Haynes
+|
+|-
+|rowspan=3|1920
+|''[[Going Some]]''
+|Laden
+|
+|-
+|''[[The Girl in the Web]]''
+|Chapman Price
+|
+|-
+|''[[The Gamesters]]''
+|Jim Welch
+|
+|-
+|rowspan=2|1921
+|''[[Oliver Twist, Jr.]]''
+|Monk
+|
+|-
+|''[[Playing with Fire (1921 Universal film)|Playing with Fire]]''
+|Bruce Tilford 
+|
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb name|id=0532996}}
+*{{Amg name|186156}}
+{{Commons category|Hayward Mack}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mack, Hayward}}
+[[Category:1882 births]]
+[[Category:1921 deaths]]
+[[Category:1921 suicides]]
+[[Category:American male film actors]]
+[[Category:American male silent film actors]]
+[[Category:Male actors from New York (state)]]
+[[Category:Actors from Albany, New York]]
+[[Category:20th-century American male actors]]

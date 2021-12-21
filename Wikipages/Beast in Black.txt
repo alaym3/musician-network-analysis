@@ -1,0 +1,125 @@
+{{Short description|Finnish-Greek-Hungarian heavy metal band}}
+{{Infobox musical artist
+| name            = Beast in Black
+| origin          = [[Helsinki]], Finland
+| image           = Beast In Black - South Park Festival 2018 - 09.jpg
+| genre           = {{hlist|[[Heavy metal music|Heavy metal]]|[[power metal]]|[[arena rock]]}}
+| years_active    = 2015–present
+| label           = [[Nuclear Blast]]<ref name=nuclearBlast201802>{{Cite web|url=http://www.nuclearblast.com/en/music/band/news/details/4892406.4882021.beast-in-black-sign-with-nuclear-blast.html|title=BEAST IN BLACK - sign with Nuclear Blast, debut album "Berserker" due in November!|website=Nuclearblast.com|language=en|access-date=2017-08-31}}</ref>
+| current_members = * Yannis Papadopoulos
+* Anton Kabanen
+* [[Kasperi Heikkinen]]
+* Mate Molnar
+* Atte Palokangas
+| associated_acts = [[Battle Beast (band)|Battle Beast]]
+| website         = {{URL|beastinblack.com}}
+}}
+
+'''Beast in Black''' is a Finnish-Greek-Hungarian [[Heavy metal music|heavy metal]] band that was founded in 2015 in [[Helsinki]] by guitarist and songwriter Anton Kabanen.
+
+The musical influences of the band include [[Judas Priest]], [[Manowar]], [[W.A.S.P. (band)|W.A.S.P.]], [[Accept (band)|Accept]] and [[Black Sabbath]].<ref>{{cite web | url = https://www.facebook.com/pg/beastinblackofficial/about/?ref=page_internal| title = Beast In Black Facebook info|website=Facebook.com| access-date = 11 November 2017}}</ref>
+
+== History ==
+Anton Kabanen founded the band in 2015 after he left his former band [[Battle Beast (band)|Battle Beast]] earlier in the same year.<ref>{{Cite web|url=http://teamrock.com/feature/2017-11-20/new-band-of-the-week-beast-in-black|title=A New Band Of The Week: Beast In Black|website=Teamrock.com|access-date=2017-11-20}}</ref> Like Battle Beast, the band's name is a tribute to the Japanese [[manga]] and [[anime]] series ''[[Berserk (manga)|Berserk]]''. 
+
+Beast in Black signed with the [[Nuclear Blast]] label and released the first album, ''Berserker'' in November 3, 2017, which received a very positive response worldwide.<ref>{{Cite web|url=http://www.nuclearblast.com/en/music/band/discography/details/4882159.4882021.berserker.html|title=BERSERKER|website=Nuclearblast.com|access-date=2017-11-03}}</ref> The debut album ranked seventh on Finnish charts albums. In addition, ''Berserker'' also charted in Germany, United Kingdom, Sweden, Switzerland and France.<ref>{{cite web | url = http://kaaoszine.fi/beast-in-blackin-debyytti-menestyksekas-pelinavaus-levyn-listasijoitukset-julki/| title = Beast In Blackin debyytti menestyksekäs pelinavaus – levyn listasijoitukset julki| website=KaaosZine.fi| date = 17 November 2017| access-date = 17 November 2017}}</ref>
+
+[[File:Yannis Papadopoulos.jpg|thumb|upright|Yannis Papadopoulos at [[Kuopio Rock]] 2019]]
+On February 7, 2018 it was announced that Atte Palokangas will replace Sami Hänninen as the permanent drummer.<ref>{{Cite web|url=http://bravewords.com/news/beast-in-black-introduce-new-drummer-atte-palokangas-video|title=BEAST IN BLACK INTRODUCE NEW DRUMMER ATTE PALOKANGAS|website=Bravewords.com|access-date=2018-02-20}}</ref> The band includes the Greek vocalist Yannis Papadopoulos (ex-Wardrum), the Hungarian bassist Mate Molnar ([[Wisdom (band)|Wisdom]]) and [[Kasperi Heikkinen]] (former guitarist of bands as [[U.D.O.]], [[Amberian Dawn]] etc.). 
+
+On March 21, 2018, it was announced that Beast in Black would be opening for [[Nightwish]] on the European leg of their [[Decades: World Tour]].<ref>{{Cite web|url=https://www.hardwiredmagazine.com/beast-in-black-supporting-nightwish-european-decades-tour-2018/?lang=en|title=BEAST IN BLACK Supporting Nightwish on European DECADES tour|website=Hardwiredmagazine.com|access-date=2018-03-21}}</ref>
+
+The band's second album, ''From Hell with Love'', was released on February 8, 2019.<ref>{{Cite web|url=https://www.nuclearblast.de/en/label/music/band/discography/details/5660426.4882021.from-hell-with-love.html|title=From Hell With Love Beast in Black | website=Nuclearblast.de | access-date = 30 November 2018}}</ref> After the release of the album, the band did their first headline tour in Europe with the Finnish industrial metal band [[Turmion Kätilöt]] as support.<ref>[https://www.nordicmetal.net/beast-in-black-announce-european-headline-tour-2019-with-turmion-katilot/ BEAST IN BLACK announce European headline tour 2019 with TURMION KÄTILÖT] {{Webarchive|url=https://web.archive.org/web/20190412051847/https://www.nordicmetal.net/beast-in-black-announce-european-headline-tour-2019-with-turmion-katilot/ |date=2019-04-12 }}, Nordicmetal.net</ref>
+
+==Lineup==
+'''Current members'''
+
+*Anton Kabanen – lead guitar, backing vocals, keyboards (2015–present)
+*Yannis Papadopoulos – lead vocals (2015–present)
+*[[Kasperi Heikkinen]] – rhythm guitar (2015–present)
+*Máté Molnár – bass (2015–present)
+*Atte Palokangas – drums (2018–present)
+
+'''Former members'''
+*Sami Hänninen – drums (2015–2018)
+
+'''Timeline'''
+{{#tag:timeline|
+ImageSize = width:1000 height:auto barincrement:18
+PlotArea = left:110 bottom:80 top:0 right:10
+Alignbars = justify
+DateFormat = mm/dd/yyyy
+Period = from:03/01/2015 till:{{#time:m/d/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+
+Colors =
+  id:vocals      value:red          legend:Lead_vocals
+  id:lead        value:teal         legend:Lead_guitar,_backing_vocals,_keyboards
+  id:rhythm      value:brightgreen  legend:Rhythm_guitar
+  id:bass        value:blue         legend:Bass
+  id:drums       value:orange       legend:Drums
+  id:studio      value:black        legend:Studio_albums
+  id:bars        value:gray(0.95)
+
+BackgroundColors = bars:bars
+Legend = orientation:vertical position:bottom columns:4
+ScaleMajor = increment:1 start:2016
+
+LineData =
+ layer:back
+ color:studio
+ at:11/03/2017
+ at:02/08/2019
+ at:10/29/2021
+
+BarData =
+ bar:Yannis  text:"Yannis Papadopoulos"
+ bar:Anton   text:"Anton Kabanen"
+ bar:Kasperi text:"Kasperi Heikkinen"
+ bar:Mate    text:"Máté Molnár"
+ bar:Sami    text:"Sami Hänninen"
+ bar:Atte    text:"Atte Palokangas"
+
+PlotData=
+ width:11 textcolor:black align:left anchor:from shift:(10,-4)
+ bar:Yannis  from:03/01/2015 till:end        color:vocals
+ bar:Anton   from:03/01/2015 till:end        color:lead
+ bar:Kasperi from:03/01/2015 till:end        color:rhythm
+ bar:Mate    from:03/01/2015 till:end        color:bass
+ bar:Sami    from:03/01/2015 till:02/07/2018 color:drums
+ bar:Atte    from:02/07/2018 till:end        color:drums
+ }}
+
+==Discography==
+===Albums===
+*''Berserker'' (2017)
+*''From Hell with Love'' (2019)
+*''Dark Connection'' (2021)
+
+===Singles===
+*"Blind and Frozen" (2017)
+*"Beast in Black" (2017)
+*"Born Again" (2017)
+*"Zodd the Immortal" (2017)
+*"Sweet True Lies" (2018)
+*"Die by the Blade" (2019)
+*"From Hell with Love" (2019)
+*"Moonlight Rendezvous" (2021)
+*"One Night in Tokyo" (2021)
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.beastinblack.com/ Official Beast In Black Website]
+* [https://www.metal-archives.com/bands/Beast_in_Black/3540433441 Metallum Archives]
+
+{{Authority control}}
+
+[[Category:Finnish musical groups]]
+[[Category:Finnish power metal musical groups]]
+[[Category:Finnish heavy metal musical groups]]
+[[Category:Musical groups established in 2015]]
+[[Category:Musical groups from Helsinki]]
+[[Category:Musical quintets]]
+[[Category:Nuclear Blast artists]]

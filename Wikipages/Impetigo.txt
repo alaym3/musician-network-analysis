@@ -1,0 +1,120 @@
+{{for|the band|Impetigo (band)}}
+{{short description|Human disease (bacterial infection)}}
+{{Infobox medical condition (new)
+| name            = Impetigo
+| synonyms        = School sores,<ref name=Vic2017/> impetigo contagiosa
+| image           = Impetigo2020.jpg
+| alt             =
+| caption         = A case of impetigo on the chin
+| field           = [[Dermatology]], [[infectious disease (medical specialty)|infectious disease]]
+| pronounce       = {{IPAc-en|ɪ|m|p|ᵻ|ˈ|t|aɪ|ɡ|oʊ}}
+| symptoms        = Yellowish skin crusts, painful<ref name=Ib2015/><ref name=AFP2014/>
+| complications   = [[Cellulitis]], [[poststreptococcal glomerulonephritis]]<ref name=AFP2014/>
+| onset           = Young children<ref name=AFP2014/>
+| duration        = Less than 3 weeks<ref name=AFP2014/>
+| causes          = ''[[Staphylococcus aureus]]'' or ''[[Streptococcus pyogenes]]'' which spreads by [[direct contact]]<ref name=AFP2014/>
+| risks           = [[Day care]], crowding, [[malnutrition|poor nutrition]], [[diabetes mellitus]], [[contact sport]]s, breaks in the skin<ref name=AFP2014/><ref name=Adam2002/>
+| diagnosis       =
+| differential    =
+| prevention      = [[Hand washing]], avoiding infected people, cleaning injuries<ref name=AFP2014/>
+| treatment       = Based on symptoms<ref name=AFP2014/>
+| medication      = [[Antibiotic]]s ([[mupirocin]], [[fusidic acid]], [[cefalexin]])<ref name=AFP2014/><ref name=Kon2012/>
+| prognosis       =
+| frequency       = 140 million (2010)<ref name=LancetEpi2012/>
+| deaths          =
+}}
+<!-- Definition and symptoms -->
+'''Impetigo''' is a [[bacterial infection]] that involves the superficial [[skin]].<ref name=Ib2015/> The most common presentation is yellowish crusts on the face, arms, or legs.<ref name=Ib2015/> Less commonly there may be [[bullous|large blisters]] which affect the [[groin]] or [[armpits]].<ref name=Ib2015>{{cite journal |last1=Ibrahim|first1=F|last2=Khan|first2=T|last3=Pujalte|first3=GG|title=Bacterial Skin Infections.|journal=Primary Care|date=December 2015|volume=42|issue=4|pages=485–99|pmid=26612370|doi=10.1016/j.pop.2015.08.001}}</ref> The lesions may be painful or itchy.<ref name=AFP2014/> [[Fever]] is uncommon.<ref name=AFP2014/>
+
+<!-- Cause and diagnosis -->
+It is typically due to either ''[[Staphylococcus aureus]]'' or ''[[Streptococcus pyogenes]]''.<ref name=AFP2014/> Risk factors include attending [[day care]], crowding, [[malnutrition|poor nutrition]], [[diabetes mellitus]], [[contact sport]]s, and breaks in the skin such as from [[mosquito bite]]s, [[eczema]], [[scabies]], or [[herpes]].<ref name=AFP2014/><ref name=Adam2002>{{cite journal |last1=Adams|first1=BB|s2cid=34948265|title=Dermatologic disorders of the athlete.|journal=Sports Medicine|date=2002|volume=32|issue=5|pages=309–21|pmid=11929358|doi=10.2165/00007256-200232050-00003}}</ref> With contact it can spread around or between people.<ref name=AFP2014/> Diagnosis is typically based on the symptoms and appearance.<ref name=AFP2014/>
+
+<!-- Prevention and treatment -->
+Prevention is by [[hand washing]], avoiding people who are infected, and cleaning injuries.<ref name=AFP2014/> Treatment is typically with [[antibiotic]] creams such as [[mupirocin]] or [[fusidic acid]].<ref name=AFP2014/><ref name=Kon2012>{{cite journal |last1=Koning|first1=S|last2=van der Sande|first2=R|last3=Verhagen|first3=AP|last4=van Suijlekom-Smit|first4=LW|last5=Morris|first5=AD|last6=Butler|first6=CC|last7=Berger|first7=M|last8=van der Wouden|first8=JC|title=Interventions for impetigo.|journal=The Cochrane Database of Systematic Reviews|date=18 January 2012|volume=1|pages=CD003261|pmid=22258953|doi=10.1002/14651858.CD003261.pub3|pmc=7025440}}</ref> Antibiotics by mouth, such as [[cefalexin]], may be used if large areas are affected.<ref name=AFP2014>{{cite journal |last1=Hartman-Adams|first1=H|last2=Banvard|first2=C|last3=Juckett|first3=G|title=Impetigo: diagnosis and treatment.|journal=American Family Physician|date=15 August 2014|volume=90|issue=4|pages=229–35|pmid=25250996}}</ref> [[Antibiotic resistance|Antibiotic-resistant]] forms have been found.<ref name=AFP2014/>
+
+<!-- Epidemiology and prognosis -->
+Impetigo affected about 140&nbsp;million people (2% of the world population) in 2010.<ref name=LancetEpi2012>{{cite journal |last=Vos|first=T|title=Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990-2010: a systematic analysis for the Global Burden of Disease Study 2010.|journal=Lancet|date=Dec 15, 2012|volume=380|issue=9859|pages=2163–96|pmid=23245607|pmc=6350784|doi=10.1016/S0140-6736(12)61729-2|url=http://www.documentation.ird.fr/hor/fdi:010059240}}</ref> It can occur at any age, but is most common in young children.<ref name=AFP2014/> In some places the condition is also known as "school sores".<ref name=Vic2017>{{cite web|title=Impetigo - school sores|url=https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/impetigo-school-sores|website=Bettel Health Channel|access-date=10 May 2017|url-status=live|archive-url=https://web.archive.org/web/20170705235520/https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/impetigo-school-sores|archive-date=5 July 2017}}</ref> Without treatment people typically get better within three weeks.<ref name=AFP2014/> Recurring infections can occur due to [[Colonisation (biology)|colonization]] of the nose by the bacteria.<ref>{{cite web|access-date=2020-05-26|title=Impetigo symptoms and treatments|url=https://www.nhsinform.scot/illnesses-and-conditions/infections-and-poisoning/impetigo|website=www.nhsinform.scot}}</ref><ref>{{cite web|access-date=2020-05-26|title=Impetigo and Ecthyma - Skin Disorders|url=https://www.merckmanuals.com/home/skin-disorders/bacterial-skin-infections/impetigo-and-ecthyma|website=Merck Manuals Consumer Version}}</ref> Complications may include [[cellulitis]] or [[poststreptococcal glomerulonephritis]].<ref name=AFP2014/> The name is from the [[Latin]] ''impetere'' meaning "attack".<ref>{{cite book|last1=Limited|first1=Wordsworth Editions|title=Concise English Dictionary|date=1993|publisher=Wordsworth Editions|isbn=9781840224979|page=452|url=https://books.google.com/books?id=qYHPuEwaBswC&pg=PA452|language=en|url-status=live|archive-url=https://web.archive.org/web/20161003055957/https://books.google.ca/books?id=qYHPuEwaBswC&pg=PA452|archive-date=2016-10-03}}</ref>
+
+==Signs and symptoms==
+
+===Contagious impetigo===
+This most common form of impetigo, also called nonbullous impetigo, most often begins as a red sore near the nose or mouth which soon breaks, leaking [[pus]] or fluid, and forms a honey-colored [[wound healing|scab]],<ref name=Cole>{{cite journal|vauthors=Cole C, Gazewood J|title=Diagnosis and treatment of impetigo|journal=Am Fam Physician|date=2007|volume=75|issue=6|pages=859–64|pmid=17390597|issn=0002-838X|url=http://www.aafp.org/afp/2007/0315/p859.html|url-status=live|archive-url=https://web.archive.org/web/20150430100234/http://www.aafp.org/afp/2007/0315/p859.html|archive-date=2015-04-30}}</ref> followed by a red mark which heals without leaving a scar. Sores are not painful, but they may be itchy. [[Lymph node]]s in the affected area may be swollen, but fever is rare. Touching or scratching the sores may easily spread the infection to other parts of the body.<ref name=Mayo>{{cite web|url= http://semj.sums.ac.ir/vol8/jul2007/impetigo.htm|title= Impetigo|author= Mayo Clinic staff|date= 5 October 2010|work= Mayo Clinic Health Information|publisher= Mayo Clinic|access-date= 25 August 2012|url-status= dead|archive-url= https://web.archive.org/web/20121128081224/http://semj.sums.ac.ir/vol8/jul2007/impetigo.htm|archive-date= 28 November 2012}}</ref>
+
+[[Ulcer (dermatology)|Skin ulcers]] with [[erythema|redness]] and scarring also may result from scratching or abrading the skin.{{citation needed|date=May 2020}}
+
+{{Gallery|width=200
+|File:Woman's face infected with impetigo Wellcome L0074829 (cropped).jpg|Illustration of a woman with a severe facial impetigo.
+|File:Impetigo-infected.jpg|Impetigo on the back of the neck.
+|File:Impetigo2011.jpg|A severe case of facial impetigo.
+}}
+
+===Bullous impetigo===
+[[File:Bullous impetigo1.jpg|thumb|[[Bullous impetigo]] after the bulla have broken]]
+[[Bullous impetigo]], mainly seen in children younger than 2 years, involves painless, fluid-filled [[blister]]s, mostly on the arms, legs, and trunk, surrounded by red and itchy (but not sore) skin. The blisters may be large or small. After they break, they form yellow scabs.<ref name=Mayo/>
+
+===Ecthyma===
+[[Ecthyma]], the nonbullous form of impetigo, produces painful fluid- or pus-filled sores with redness of skin, usually on the arms and legs, become [[ulcer (dermatology)|ulcers]] that penetrate deeper into the [[dermis]]. After they break open, they form hard, thick, gray-yellow scabs, which sometimes leave scars. Ecthyma may be accompanied by swollen [[lymph node]]s in the affected area.<ref name= Mayo/>
+
+==Causes==
+Impetigo is primarily caused by ''[[Staphylococcus aureus]]'', and sometimes by ''[[Streptococcus pyogenes]]''.<ref name=Robbins>Kumar, Vinay; Abbas, Abul K.; Fausto, Nelson; & Mitchell, Richard N. (2007). ''Robbins Basic Pathology'' (8th ed.). Saunders Elsevier. pp. 843 {{ISBN|978-1-4160-2973-1}}</ref> Both [[bullous]] and nonbullous are primarily caused by ''S. aureus'', with ''Streptococcus ''also commonly being involved in the nonbullous form.<ref>{{cite journal |vauthors=Stulberg DL, Penrod MA, Blatny RA |title=Common bacterial skin infections. |journal=American Family Physician |volume=66 |issue=1 |pages=119–24 |year=2002 |pmid=12126026 |url=http://www.aafp.org/afp/20020701/119.html |url-status=live |archive-url=https://web.archive.org/web/20070929104522/http://www.aafp.org/afp/20020701/119.html |archive-date=2007-09-29 }}</ref>
+
+===Predisposing factors===
+Impetigo is more likely to infect children ages 2–5, especially those that attend school or day care.<ref name=AFP2014/><ref name=school1>{{cite web|title=Impetigo (school sores)|url=http://www.health.govt.nz/your-health/conditions-and-treatments/diseases-and-illnesses/impetigo-school-sores|website=www.health.govt.nz|publisher=Ministry of Health|access-date=14 September 2017}}</ref><ref name=Vic2017/> 70% of cases are the nonbullous form and 30% are the bullous form.<ref name=AFP2014/> Other factors can increase the risk of contracting impetigo such as diabetes mellitus, dermatitis, immunodeficiency disorders, and other irritable skin disorders.<ref>{{cite web|title=Impetigo|url=http://www.healthline.com/health/impetigo#Causes5|website=Healthline|date=25 June 2012|access-date=7 October 2016|url-status=live|archive-url=https://web.archive.org/web/20161007042532/http://www.healthline.com/health/impetigo#Causes5|archive-date=7 October 2016}}</ref> Impetigo occurs more frequently among people who live in warm climates.<ref name=":0">{{cite book |title=Diseases of the Human Body|last1=Tamparo|first1=Carol|last2=Lewis|first2=Marcia|publisher=F.A. Davis Company|year=2011|isbn=9780803625051|location=Philadelphia, PA|pages=194}}</ref>
+
+===Transmission===
+The [[infection]] is spread by direct contact with [[lesion]]s or with [[human nose|nasal]] [[asymptomatic carrier|carriers]]. The [[incubation period]] is 1–3 days after exposure to ''Streptococcus'' and 4–10 days for ''Staphylococcus''.<ref>{{cite web|url=http://www.state.in.us/isdh/23303.htm|title=ISDH: Impetigo|work=state.in.us|access-date=11 December 2014|url-status=dead|archive-url=https://web.archive.org/web/20141211025205/http://www.state.in.us/isdh/23303.htm|archive-date=11 December 2014}}</ref> Dried streptococci in the air are not infectious to intact skin. Scratching may spread the lesions.{{citation needed|date=May 2020}}
+
+==Diagnosis==
+Impetigo is usually diagnosed based on its appearance. It generally appears as honey-colored scabs formed from dried [[serum (blood)|serum]] and is often found on the arms, legs, or face.<ref name=Robbins/> If a visual diagnosis is unclear a culture may be done to test for resistant bacteria.<ref>{{cite web|title=Impetigo: MedlinePlus Medical Encyclopedia|url=https://medlineplus.gov/ency/article/000860.htm|website=medlineplus.gov|url-status=live|archive-url=https://web.archive.org/web/20161107092650/https://medlineplus.gov/ency/article/000860.htm|archive-date=2016-11-07}}</ref>
+
+===Differential diagnosis===
+Other conditions that can result in symptoms similar to the common form include [[contact dermatitis]], [[herpes simplex virus]], [[discoid lupus]], and [[scabies]].<ref name=AFP2014/>
+
+Other conditions that can result in symptoms similar to the blistering form include other [[bullous]] skin diseases, [[burn]]s, and [[necrotizing fasciitis]].<ref name=AFP2014/>
+
+==Prevention==
+To prevent the spread of impetigo the skin and any open wounds should be kept clean and covered. Care should be taken to keep fluids from an infected person away from the skin of a non-infected person. Washing hands, linens, and affected areas will lower the likelihood of contact with infected fluids. Scratching can spread the sores; keeping nails short will reduce the chances of spreading. Infected people should avoid contact with others and eliminate sharing of clothing or linens.<ref>{{cite web|title=Self-management - Impetigo - Mayo Clinic|url=http://www.mayoclinic.org/diseases-conditions/impetigo/manage/ptc-20202600|website=www.mayoclinic.org|access-date=7 October 2016|url-status=live|archive-url=https://web.archive.org/web/20161016100459/http://www.mayoclinic.org/diseases-conditions/impetigo/manage/ptc-20202600|archive-date=16 October 2016}}</ref> Children with impetigo can return to school 24 hours after starting antibiotic therapy as long as their draining lesions are covered.<ref name=":1">{{Cite web|url=https://www.uptodate.com/contents/impetigo?search=impetigo&source=search_result&selectedTitle=1~119&usage_type=default&display_rank=1|title=Impetigo|last=Baddour|first=Larry|website=UpToDate|access-date=2018-08-15}}</ref>
+
+==Treatment==
+[[Antibiotic]]s, either as a cream or by mouth, are usually prescribed. Mild cases may be treated with [[mupirocin]] ointments. In 95% of cases, a single 7-day antibiotic course results in resolution in children.<ref name=":1" /><ref>{{cite book|url=https://books.google.com/books?id=a7CqcE1ZrFkC&q=impetigo&pg=PA925|title=Textbook of Pediatric Emergency Medicine|last1=Fleisher|first1=Gary R.|last2=Ludwig|first2=Stephen|date=2010-01-01|publisher=Lippincott Williams & Wilkins|isbn=9781605471594|pages=925|language=en|url-status=live|archive-url=https://web.archive.org/web/20170908221933/https://books.google.com/books?id=a7CqcE1ZrFkC&pg=PA925&dq=impetigo|archive-date=2017-09-08}}</ref> It has been advocated that topical [[antiseptic]]s are inferior to topical antibiotics, and therefore should not be used as a replacement.<ref name=AFP2014/> However, the [[National Institute for Health and Care Excellence]] (NICE) as of February 2020 recommends a hydrogen peroxide 1% cream antiseptic rather than topical antibiotics for localised non-bullous impetigo in otherwise well individuals.<ref name="NICE 2020">{{cite web|access-date=2020-05-26|title=Impetigo: antimicrobial prescribing - NICE guideline [NG153]|url=https://www.nice.org.uk/guidance/ng153/chapter/Recommendations|website=www.nice.org.uk}}</ref> This recommendation is part of an effort to reduce the overuse of antimicrobials that may contribute to the development of resistant organisms<ref name="BMJ 2019">{{cite journal|first1=Elisabeth|last1=Mahase|s2cid=201018620|title=Doctors should treat impetigo with antiseptics not antibiotics, says NICE|url=https://www.bmj.com/content/366/bmj.l5162|journal=BMJ|date=15 August 2019|issn=1756-1833|volume=366|pages=l5162|pmid=31416810|doi=10.1136/bmj.l5162}}</ref> such as [[MRSA]].
+
+More severe cases require oral antibiotics, such as [[dicloxacillin]], [[flucloxacillin]], or [[erythromycin]]. Alternatively, [[amoxicillin]] combined with [[clavulanate potassium]], [[cephalosporin]]s (first-generation) and many others may also be used as an antibiotic treatment. Alternatives for people who are seriously allergic to penicillin or infections with [[methicillin-resistant Staphylococcus aureus|methicillin-resistant ''Staphococcus aureus'']] include [[doxycycline]], [[clindamycin]], and [[Trimethoprim/sulfamethoxazole|trimethoprim-sulphamethoxazole]], although doxycycline should not be used in children under the age of eight years old due to the risk of drug-induced [[Tooth discoloration|tooth discolouration]].<ref name=":1" /> When streptococci alone are the cause, penicillin is the drug of choice.When the condition presents with [[ulcer (dermatology)|ulcer]]s, [[valacyclovir]], an antiviral, may be given in case a viral infection is causing the ulcer.<ref>{{cite web |title=Valacyclovir Hydrochloride Monograph for Professionals |url=https://www.drugs.com/monograph/valacyclovir-hydrochloride.html |website=Drugs.com |publisher=American Society of Health-System Pharmacists |access-date=17 March 2019 }}</ref>
+
+===Alternative medicine===
+There is not enough evidence to recommend alternative medicine such as [[tea tree oil]] or [[honey]].<ref name=AFP2014/>
+
+==Prognosis==
+Without treatment, individuals with impetigo typically get better within three weeks.<ref name=AFP2014/> Complications may include [[cellulitis]] or [[poststreptococcal glomerulonephritis]].<ref name=AFP2014/> [[Rheumatic fever]] does not appear to be related.<ref name=AFP2014/>
+
+==Epidemiology==
+Globally, impetigo affects more than 162 million children in low- to middle-income countries.<ref name=Mah2015/> The rates are highest in countries with low available resources and is especially prevalent in the region of [[Oceania]].<ref name=Mah2015>{{cite journal |last1=Bowen |first1=Asha |last2=Mahe |first2=Antoine |last3=Hay |first3=Roderick |last4=Andrews |first4=Ross |last5=Steer |first5=Andrew |last6=Tong |first6=Steven |last7=Carapetis |first7=Jonathan |date=2015 |title=The Global Epidemiology of Impetigo: A Systematic Review of the Population Prevalence of Impetigo and Pyoderma |journal=PLOS ONE |volume=10 |issue=8 |doi=10.1371/journal.pone.0136789 |pmid=26317533 |pmc=4552802 |page=e0136789 |bibcode=2015PLoSO..1036789B|doi-access=free }}</ref> The [[tropical climate]] and high population in lower socioeconomic regions contribute to these high rates.<ref name="sciencedirect.com">{{cite journal |last2=Steer |first2=Andrew |last3=Whitfeld |first3=Margot |last4=Kaldor |first4=John |date=2015 |title=Prevalence of scabies and impetigo worldwide: a systematic review |journal=The Lancet Infectious Diseases |volume=15 |issue=8 |pages=960–7 |doi=10.1016/S1473-3099(15)00132-2 |pmid=26088526 |last1=Romani |first1=Lucia}}</ref> Children under the age of 4 in the United Kingdom are 2.8% more likely than average to contract impetigo; this decreases to 1.6% for children up to 15 years old.<ref>{{cite journal |last2=Rubin |first2=Greg |date=2003 |title=A systematic review and meta-analysis of treatments for impetigo |journal=British Journal of General Practice |last1=George |first1=Ajay |pmc=1314624 |pmid=12939895 |volume=53 |issue=491 |pages=480–7}}</ref> As age increases, the rate of impetigo declines, but all ages are still susceptible.<ref name="sciencedirect.com"/>
+
+==History==
+Impetigo was originally described and differentiated by [[William Tilbury Fox]].<ref>{{cite journal |title=Impetigo |journal=The British Medical Journal |volume=1 |issue=4185 |year=1941 |pages=448 |jstor=20319413 |doi=10.1136/bmj.1.4185.445-a|s2cid=214846855 }}</ref> The word ''impetigo'' is the generic [[Latin]] word for 'skin eruption', and it stems from the verb ''impetere'' 'to attack' (as in ''impetus'').<ref>{{cite book |title=The Barnhart Concise Dictionary of Etymology |publisher=Harper Collins |year=1995 |isbn=978-0-06-270084-1 }}</ref> Before the discovery of antibiotics, the disease was treated with an application of the antiseptic [[gentian violet]], which was an effective treatment.<ref>{{cite journal |author=MacDonald RS |title=Treatment of impetigo: Paint it blue |journal=BMJ |volume=329 |issue=7472 |page=979 |date=October 2004 |pmid=15499130 |pmc=524121 |doi=10.1136/bmj.329.7472.979 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{curlie|Health/Health/Conditions_and_Diseases/Infectious_Diseases/Bacterial/Staphylococcal/}}
+* {{MerckManual|10|119|i||Impetigo and Ecthyma}}
+
+{{Medical resources
+| eMedicine_mult  = {{eMedicine2|emerg|283}} {{eMedicine2|med|1163}} {{eMedicine2|ped|1172}}
+|  DiseasesDB     = 6753
+|  ICD10          = {{ICD10|L|01||l|00}}
+|  ICD9           = {{ICD9|684}}
+|  ICDO           =
+|  OMIM           =
+|  MedlinePlus    = 000860
+|  eMedicineSubj  = derm
+|  eMedicineTopic = 195
+|  MeshID         = D007169
+}}
+{{Diseases of the skin and appendages by morphology}}
+{{Bacterial cutaneous infections}}
+
+[[Category:Bacterium-related cutaneous conditions]]
+[[Category:Pediatrics]]
+[[Category:Wikipedia medicine articles ready to translate]]
+[[Category:Wikipedia emergency medicine articles ready to translate]]

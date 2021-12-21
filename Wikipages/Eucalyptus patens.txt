@@ -1,0 +1,79 @@
+{{Short description|Species of eucalyptus}}
+{{Redirect|Yarri|the cryptid|Queensland Tiger|other uses}}
+{{Speciesbox
+|name = Yarri
+|image = Eucalyptus patens.jpg
+|image_caption = ''Eucalyptus patens'' at [[Walpole, Western Australia|Walpole]] - [[Manjimup, Western Australia|Manjimup]]
+|status =
+|status_system = 
+|genus = Eucalyptus
+|species = patens
+|authority = [[Benth.]] 
+|}}
+[[File:Eucalyptus patens buds.jpg|thumb|225px|flower buds]][[File:Eucalyptus patens fruit.jpg|thumb|225px|fruit]][[File:Eucalyptus patens bark.jpg|thumb|225px|bark]]
+[[File:The Dominator tree.jpg|thumb|The Dominator, the largest yarri tree]]
+'''''Eucalyptus patens''''', commonly known as '''yarri''' or '''blackbutt''',<ref name="forest"/> is a species of flowering plant in the family [[Myrtaceae]] and is [[Endemism|endemic]] to the south-west of Western Australia. It has rough bark on the trunk and branches, lance-shaped leaves, creamy-white flowers and spherical to oval fruit.
+
+==Description==
+''Eucalyptus patens'' is a tree that may grow to a height of {{cvt|45|m}} with a [[Diameter at breast height|dbh]] of {{cvt|1.8|m}} but is a smaller tree or [[Mallee (habit)|mallee]] on less favourable sites. The thick, corky, friable bark has a rough texture and is deeply longitudinally furrowed. It is grey on the outside with a yellow tinge on the inside surface. The dull bluish green adult leaves are arranged alternately. The leaf blade is lance-shaped, sometimes curved, tapers to a fine point and is typically {{cvt|10–16|mm}} long and {{cvt|12–30|mm}} wide on a flat or channelled [[Petiole (botany)|petiole]] {{cvt|10–20|mm}} long. The flower buds are arranged in leaf axils in groups of between seven and eleven on an unbranched peduncle {{cvt|10–20|mm}} long, the individual buds on pedicels {{cvt|1–4|mm}} long. Mature buds are club-shaped, with a hemispherical to conical operculum {{cvt|5–6|mm}} long and {{cvt|6–7|mm}} with on a bell-shaped, similarly-sized [[Hypanthium|floral cup]]. The flowers are creamy-white and appear between July and August or November and February. The fruit is a woody, more or less spherical to oval [[Capsule (botany)|capsule]] {{cvt|9–14|mm}} long and {{cvt|9–12|mm}} wide with the valves below rim level.<ref name="forest" /><ref name="French" /><ref name=FloraBase/><ref name="CANBR">{{cite web |title=''Eucalyptus patens'' |url=https://apps.lucidcentral.org/euclid/text/entities/eucalyptus_patens.htm |publisher=Centre for Australian National Biodiversity Research |access-date=30 May 2020}}</ref>
+
+==Taxonomy==
+The species was first formally described by the [[botanist]] [[George Bentham]] in 1867 in ''[[Flora Australiensis]]''. The [[Type (biology)|type]] specimens included material collected by [[Augustus Oldfield]] near the [[Harvey River, Western Australia|Harvey River]] sometime in 1840s.<ref name="APNI" /><ref name="Benth." />{{sfn|Powell|1990|p=127}}
+
+The epithet ''patens'' is [[Latin]], meaning spreading or outspread, referring to the form of the tree "standing open", although this is not a characteristic that distinguishes the species.<ref name="French"/><ref name=Euclid/> The common name, yarri, is [[Aboriginal Australians|Aboriginal]] in origin.<ref name=forest/>
+
+The common name "blackbutt", distinguished as [[Swan River (Western Australia)|Swan River]] or [[Western Australia]]n blackbutt, is shared by other dissimilar [[List of Eucalyptus species|''Eucalyptus'' species]] in the centre and east of Australia.  The vernacular "blackbutt" is a reference to the colour of the trunk, sometimes blackened by fire.<ref name="French" /> Because of this ambiguity, the extant name yarri has become preferred for the tree, wood, and forest type.<ref name=forest/><ref>Powell, [[Stephen Hopper|Hopper]], [[George Seddon (academic)|Seddon]], ''et al''. [''op cit.'']</ref>
+
+==Distribution==
+''Eucalyptus patens'' grows well in gravelly soils with sandy clay or loam. It is often found in depressions, along stream banks or in valleys in the [[Peel (Western Australia)|Peel]], [[South West (Western Australia)|South West]] and [[Great Southern (Western Australia)|Great Southern]] regions.<ref name=FloraBase/> The range extends as far north as the [[Avon River, Western Australia|Avon River]].{{sfn|Powell|1990|p=126}} The species still occurs in the Darling range, near the reservoirs [[Canning Dam]], [[Mundaring Weir]] and [[Serpentine Dam, Western Australia|Serpentine Dam]], and at [[Mount Cooke]], the range's highest peak.<ref name="French" />{{sfn|Powell|1990|p=126}}
+
+==Ecology==
+On the [[Darling Scarp|Darling Plateau]], yarri is found in deeper valleys with jarrah or marri above the freshwater paperbark and flooded gum, moitch, and on slopes above swamp plant communities on minor tributaries.{{sfn|Powell|1990|p=10}}{{sfn|Powell|1990|p=94}} The species sometimes occurs in stands of several close growing individuals.{{sfn|Powell|1990|p=217}} The juvenile leaves are broad and face upward, allowing the sapling to compete in the shadows of other trees and tall shrubs, assuming the usual elongate and down facing leaves of eucalypts when mature.{{sfn|Powell|1990|p=126}}
+
+The flowers attract many insects and birds, feeding on the nectar or preying on others. Insects are also likely to be diverse and numerous on the foliage, due to the rich soil fertility and associated trees in its habitat. [[Rosella]]s (''Platycercus''), [[honeyeater]]s (Meliphagidae) and [[Australian ringneck|ringneck parrot]]s are often observed feeding around the tree. The roughly textured bark provides diverse habitat and refuge for insects, which are searched out by sitellas ([[Neosittidae]]) moving along the branches. The grey honeyeater (''[[Conopophila whitei]]'') also seeks insects along the furrows, instead of its usual method of aerial hunting.{{sfn|Powell|1990|p=126}}
+
+==Uses==
+It is in short supply as a harvestable timber<ref>{{cite web|url=http://www.agric.wa.gov.au/content/lwe/vegt/trees/tan04.htm|title=Trees|publisher=Department of Agriculture and Food|access-date=2008-03-02|archive-url=https://web.archive.org/web/20080904194003/http://www.agric.wa.gov.au/content/LWE/VEGT/TREES/TAN04.HTM|archive-date=2008-09-04|url-status=dead}}</ref> as significant areas of its distribution are now covered by conservation reserves.<ref>{{cite web|url=http://www.conservation.wa.gov.au/media/20301/20130282%20web%20forest%20mgt%20plan_web.pdf|title=Forest Management Plan 2014-2023|year=2014|publisher=Department of Conservation|access-date=2014-01-08|archive-url=https://web.archive.org/web/20140108111927/http://www.conservation.wa.gov.au/media/20301/20130282%20web%20forest%20mgt%20plan_web.pdf|archive-date=2014-01-08|url-status=dead}}</ref>  In addition, even in forest where timber harvesting is allowed, informal reserves placed around streams exclude the tree, which predominantly occurs in the wetter parts of the landscape.<ref name=FloraBase/> The timber is amongst the world's most non-flammable.<ref name="French" />
+
+The heartwood is light to dark brown in colour. It is hard, durable and has a coarse to intermediate texture and interlocked to straight grain. The air dried density of the wood is {{convert|690|to|915|kg/m3|lb/cuft|0}} and is it suitable for construction, railway sleepers and flooring.<ref name=forest/> The timber has similar properties to jarrah (''Eucalyptus marginata''), though it is paler and has more limited availability.{{sfn|Powell|1990|p=126}}
+
+It is a viable tree to cultivate, and numbers of publications and websites have clear information on cultivation well away from its normal habitat.<ref>{{cite web|url=http://www.australiaplants.com/eucalyptus_patens.htm|title=''Eucalyptus patens''|publisher=Australia Plants|access-date=2008-03-02|archive-url=https://web.archive.org/web/20080222200427/http://www.australiaplants.com/eucalyptus_patens.htm|archive-date=2008-02-22|url-status=dead}}</ref> The seed is contained in a capsule that can be collected at any time of the year and will germinate without special treatment.{{sfn|Powell|1990|p=221}}
+
+The tree produces a large amount of pollen and flowers before marri, a major source of nectar, so this can be used to increase the beehive's brood.{{sfn|Powell|1990|p=126}}
+
+==References==
+{{Reflist|1|refs=
+
+<ref name="forest">{{cite book |last1=Boland |first1=Douglas J. |last2=Brooker |first2=Ian |last3=McDonald |first3=Maurice W. |title=Forest trees of Australia |date=2006 |publisher=CSIRO Pub |location=Collingwood, Victoria |isbn=0643069690 |page=516 |edition=5th}}</ref>
+
+<ref name=APNI>{{cite web|title=''Eucalyptus patens''|url= https://id.biodiversity.org.au/instance/apni/455329|publisher=APNI|access-date=28 January 2021}}</ref>
+
+<ref name=Benth.>{{cite book |last1=Bentham |first1=George |last2=von Mueller |first2=Ferdinand |title=Flora Australiensis |volume=3|date=1867 |publisher=Lovell Reeve & Co. |location=London |page=247 |url=https://www.biodiversitylibrary.org/item/41807#page/255/mode/1up |access-date=28 January 2021}}</ref>
+
+<ref name=FloraBase>{{FloraBase|name=''Eucalyptus patens''|id=5739}}</ref>
+
+<ref name="French">{{cite book | author = French, Malcolm | title = The special Eucalypts of Perth and the south-west | year = 1997 | isbn = 0-646-29394-X}}</ref>
+
+<ref name=Euclid>{{cite web|url=http://keyserver.lucidcentral.org:8080/euclid/data/02050e02-0108-490e-8900-0e0601070d00/media/Html/Eucalyptus_patens.htm|title=Factsheet - ''Eucalyptus patens''|work=Euclid|access-date=16 August 2018|publisher=[[CSIRO]]}}</ref>
+}}
+* {{cite book |last1=Powell |first1=Robert |last2=Jane Emberson |first2=Jane |last3=Hopper |first3=Stephen |last4=McMillan |first4=Peter |last5=Pieroni |first5=Margaret |last6=Patrick |first6=Susan |last7=Seddon |first7=George |title=Leaf and branch : trees and tall shrubs of Perth |date=1990 |publisher=Dept. of Conservation and Land Management |location=Perth, W.A. |isbn=9780730939160 |edition=2nd|ref={{sfnRef|Powell|1990}} }}
+
+<gallery>
+Image:Eucalyptus patens from "Eucalyptographia. A descriptive atlas of the eucalypts of Australia and the adjoining islands"; (1879) (20165942804).jpg|Details of ''Eucalyptus patens'' from ''Eucalyptographia. A descriptive atlas'' (1879)
+Image:Yarri in Primer of Forestry Poole 1922.png|Yarri with man at left, c. 1922
+</gallery>
+
+==External links==
+* [http://www.anbg.gov.au/photo/apii/id/a/16761 Photo of tree at ANH database]
+* [http://www.anbg.gov.au/photo/apii/id/a/649 Photo of flower at ANH database]
+* [https://web.archive.org/web/20090521133448/http://www.watimbers.com/yarri.html watimbers.com/yarri]
+
+{{Taxonbar|from=Q5405668}}
+
+[[Category:Myrtales of Australia]]
+[[Category:Eucalyptus|patens]]
+[[Category:Eucalypts of Western Australia]]
+[[Category:Trees of Australia]]
+[[Category:Trees of Mediterranean climate]]
+[[Category:Plants described in 1867]]
+[[Category:Taxa named by George Bentham]]

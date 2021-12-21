@@ -1,0 +1,81 @@
+{{For|the rapper|Pressa (rapper)}}
+{{For|the type face|Pressa (typeface)}}
+{{italic title}}
+{{Infobox World's Fair
+| box_width       =
+| class           =
+| category        =
+| image           =
+| image_width     =
+| caption         =
+| year            = 1928
+| name            = Pressa
+| motto           =
+| building        = HAG-Turm
+| area            =
+| invent          =
+| visitors        =
+| organized       =
+| mascot          =
+| cnt             =
+| org             =
+| biz             =
+| country         =
+| city            = [[Cologne]], [[German Reich]]
+| venue           =
+| coord           =
+| cand            =
+| award           =
+| open            = May 1928
+| close           = October 1928
+| prevexpo        =
+| prevcity        =
+| nextexpo        =
+| nextcity        =
+| suppl           =
+| prevsuppl       =
+| prevsupcity     =
+| nextsuppl       =
+| nextsupcity     =
+| prevunho        =
+| prevunhocity    =
+| nextunho        =
+| nextunhocity    =
+| simuni          =
+| simspe          =
+| simhor          =
+| simoth          =
+| website         =
+}}
+'''''Pressa''''' was an International Press Exhibition held in [[Cologne]] between May and October, 1928.
+
+As German exhibitors were barred from participating in the ''Exposition International des Arts Décoratifs et Industriels Modern'' held in [[Paris]] in 1925, that this exhibition was held in Germany indicated the rehabilitation of Germany as regards international projects of this kind.<ref name=Aynsley>{{cite journal|last1=Aynsley|first1=Jeremy|title=Pressa Cologne, 1928: Exhibitions and Publication Design in the Weimar Period|journal=Design Issues|date=1994|volume=10|issue=3|pages=52–76|jstor=1511692}}</ref>
+
+==Pavilions==
+[[File:El Lissitsky 1928 foldout.jpg|thumb|El Lissitzky's photomontage brochure, showing his designs for the Soviet pavilion. ]]
+===Soviet Pavilion===
+[[El Lissitzky]] was responsible for the [[Soviet Union|Soviet]] pavilion, which received critical acclaim.<ref>{{cite web|title=Untitled (Pressa catalogue)|url=http://www.artgallery.nsw.gov.au/collection/works/61.1997/|website=Art Gallery NSW|publisher=Art Gallery of New South Wales|accessdate=4 October 2015}}</ref> He had the support of [[Aleksandr Naumov (1899-1928)|Aleksandr Naumov]],<ref name="GRAD">{{cite web |title=Grad: cultural platform and forum for debate {{!}} Explore |url=https://www.grad-london.com/explore/naumov-aleksandr/ |website=www.grad-london.com |publisher=GRAD |accessdate=5 November 2018}}</ref> [[Sergei Senkin]] and [[Gustav Klutsis]].<ref>{{cite book |last1= Tupitsyn |first1=Margarita |article=Back to Moscow |title=El Lissitzky: beyond the Abstract Cabinet : photography, design, collaboration |date=1999 |publisher= Yale Univ. Press |location= New Haven, Conn. |isbn= 978-0300081701 |edition= English}}</ref>
+
+===Czechoslovak Pavilion===
+[[Ladislav Sutnar]] was responsible for the [[Czechoslovakia|Czechoslovak]] pavilion. In this he was aided by [[Augustin Tschinkel]].<ref name=Kap>{{cite web |last1= Kapounová |first1= Eliška |title= Grafická tvorba Augustina Tschinkela v kontextu moderního designu (1928 – 1940) |url= https://is.muni.cz/th/110838/ff_b/bak_Tschinkel_muni.pdf |publisher= Masarykova univerzita |date= 2009 |accessdate= 4 October 2015}}</ref>
+
+===Advertising constructions===
+As well as country pavilions, companies also contributed buildings.
+[[File:Pressa-Ausstellung 1928 Immakulata-Kapelle, D. Böhm. by Hugo Schmölz.jpg|thumb|Contribution by [[Dominikus Böhm]]]]
+====HAG-Turm====
+The HAG-Turm was a 42m tower<ref name="HAG promotional leaflet">{{cite book |title= HAG-TURM auf der Pressa |date=1928 |publisher= Kaffee Hag}}</ref> built for [[Café HAG]].<ref name="adverts">{{cite book |p=54 |title= El Lissitzky: Beyond the Abstract Cabinet : Photography, Design, Collaboration |authors= Margarita Tupitsyn, Matthew Drutt, El Lissitzky, Ulrich Pohlmann}}</ref> This was built in 70 days.<ref name="HAG promotional leaflet"/> The architect was [[Bernhard Hoetger]], an architect who had previously worked for [[Ludwig Roselius]], the founder of Café Hag.<ref name="DW">{{cite web |title= Deutscher Werkbund NW - Hoetger |url= http://www.deutscherwerkbund-nw.de/index.php?id=277 |website= www.deutscherwerkbund-nw.de |publisher= Deutscher Werkbund, Nordrhein-Westfalen |accessdate= 15 April 2017 |language= de}}</ref> The building had ten storeys which contained all the working machinery necessary to create a working factory. 37 flags were on display on the front of tower representing the global reach of the company. Statistical and historical information was provided about coffee production, highlighting the part played by Café HAG. Scientific and medical experts were also present to provide further information to the public. Café HAG had become famous for their process of [[decaffination]] and so there was also information about the bad effects of [[caffeine]] on human and animal health.<ref name="CA">{{cite journal|last1=Milau|first1=Gerhard Ludwig|title=A World-wide Campaign for Selling Coffee|journal=Commercial Art|date=1928|volume=V|pages=244–261|url=http://magazines.iaddb.org/issue/CAI/1928-12-01/edition/null/page/260?query=Decorative%20Art&sort=pagenumber%20descending|accessdate=15 April 2017|archive-url=https://web.archive.org/web/20170416045233/http://magazines.iaddb.org/issue/CAI/1928-12-01/edition/null/page/260?query=Decorative%20Art&sort=pagenumber%20descending|archive-date=16 April 2017|url-status=dead}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.fostinum.org/pressa-exhibition-in-cologne.html Fostinum: Photos from the Pressa Exhibition]
+{{List of world's fairs in Germany}}
+{{coord missing|North Rhine-Westphalia}}
+
+[[Category:1928 in Germany]]
+[[Category:Art exhibitions in Germany]]
+[[Category:20th century in Cologne]]
+
+
+{{Germany-art-display-stub}}

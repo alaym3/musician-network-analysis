@@ -1,0 +1,142 @@
+{{redirect|Oceano|the band|Oceano (band)|the Portuguese former footballer|Oceano da Cruz}}
+{{Infobox settlement
+<!-- See the table at Template:Infobox settlement for all fields and descriptions of their usage. -->
+|official_name            = Oceano
+|other_name               = 
+|nickname                 = 
+|settlement_type          = [[Census designated place]]
+<!-- images and maps  ----------->
+|image_skyline            = Oceano Train Depot.jpg
+|imagesize                = 
+|image_caption            = Oceano Depot
+|image_map                = San_Luis_Obispo_County_California_Incorporated_and_Unincorporated_areas_Oceano_Highlighted.svg
+|map_caption              = Location in [[San Luis Obispo County, California|San Luis Obispo County]] and the state of [[California]]
+<!-- Location ------------------>
+|subdivision_type         = [[List of sovereign states|Country]]
+|subdivision_name         = {{USA}}
+|subdivision_type1        = [[U.S. state|State]]
+|subdivision_name1        = {{flag|California}}
+|subdivision_type2        = [[List of counties in California|County]]
+|subdivision_name2        = [[San Luis Obispo County, California|San Luis Obispo]]
+
+|established_title        =
+|established_date         = 
+<!-- Area------------------>
+| unit_pref               =US
+| area_footnotes          = <ref>{{Cite US Gazetteer|2010|places|CA}}</ref>
+| area_total_sq_mi        = 1.547
+| area_land_sq_mi         = 1.532
+| area_water_sq_mi        = 0.015
+| area_total_km2          = 4.006
+| area_land_km2           = 3.967
+| area_water_km2          = 0.039
+| area_water_percent      = 0.98
+|area_metro_km2           = 
+|area_metro_sq_mi         = 
+<!-- Elevation ------------>
+|elevation_footnotes      = <ref>{{Cite GNIS|1652760|Oceano|access-date=May 18, 2015}}</ref>
+|elevation_ft             = 30
+|elevation_m              = 9
+<!-- Population ----------->
+|population_as_of         = [[2010 United States Census|April 1, 2010]]
+|population_footnotes     = 
+|population_total         = 7286
+|population_density_sq_mi = auto
+|population_metro         = 
+|population_density_metro_sq_mi   = 
+<!-- General information  --------------->
+|timezone                 = [[Pacific Time Zone|Pacific]]
+|utc_offset               = -8
+|timezone_DST             = [[Pacific Daylight Time|PDT]]
+|utc_offset_DST           = -7
+|coordinates              = {{coord|35|6|10|N|120|36|41|W|display=inline,title}}
+|postal_code_type         = [[ZIP codes]]
+|postal_code              = 93445, 93475
+|area_code_type           = [[North American Numbering Plan|Area code]]
+|area_code                = [[Area code 805|805]]
+|blank_name               = [[Federal Information Processing Standard|FIPS]] code
+|blank_info               = {{FIPS|06|53294}}
+|blank1_name              = [[Geographic Names Information System|GNIS]] feature ID
+|blank1_info              = {{GNIS 4|1652760}}
+}}
+'''Oceano''' ([[Spanish language|Spanish]]: ''Océano'', meaning "Ocean") is a [[census-designated place]] (CDP) in [[San Luis Obispo County, California|San Luis Obispo County]], [[California]], [[United States]]. The population was 7,286 at the 2010 census, up from 7,260 at the 2000 census. 
+
+==Geography==
+[[Image:Sand dunes - Oceano CA.jpg|thumb|left|Oceano Dunes State Vehicular Recreation Area]]
+Oceano is located at {{Coord|35|6|10|N|120|36|41|W|type:city}} (35.102680, -120.611471).<ref name="GR1">{{cite web|url=https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html|publisher=[[United States Census Bureau]]|access-date=2011-04-23|date=2011-02-12|title=US Gazetteer files: 2010, 2000, and 1990}}</ref>
+
+Oceano is part of the 5 Cities Metropolitan Area. According to the [[United States Census Bureau]], the CDP has a total area of {{convert|1.5|sqmi|km2}}, of which, {{convert|1.5|sqmi|km2}} of it is land and {{convert|0.02|sqmi|km2}} of it (0.98%) is water.
+
+Oceano's [[beach]] is the [[Oceano Dunes State Vehicular Recreation Area]], a {{convert|1500|acre|km2}} coastal [[dune|sand dune]]. As the only state park in [[California]] where visitors may drive [[vehicle]]s on the beach, tourists are attracted from all over the United States. Activities on this beach include riding the sand dunes on all-terrain-vehicles, swimming, clamming, camping, surfing, surf fishing, hiking, and bird watching.
+
+==Demographics==
+
+===2010===
+At the [[2010 United States Census|2010 census]] Oceano had a population of 7,286. The population density was {{convert|4710.2|PD/sqmi|PD/km2|abbr=off|sp=us}}. The ethnic makeup of Oceano was 5,105 (70.1%) White, 62 (0.9%) African American, 120 (1.6%) Native American, 165 (2.3%) Asian, 7 (0.1%) Pacific Islander, 1,509 (20.7%) from other races, and 318 (4.4%) from two or more races. Hispanic or Latino of any race were 3,484 persons (47.8%).<ref>{{cite web|url=http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0653294|archive-url=https://archive.today/20140715032145/http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0653294|url-status=dead|archive-date=July 15, 2014|title=2010 Census Interactive Population Search: CA - Oceano CDP|publisher=U.S. Census Bureau|access-date=July 12, 2014}}</ref>
+
+The whole population lived in households, no one lived in non-institutionalized group quarters and no one was institutionalized.
+
+There were 2,603 households, 904 (34.7%) had children under the age of 18 living in them, 1,147 (44.1%) were [[marriage|opposite-sex married couples]] living together, 360 (13.8%) had a female householder with no husband present, 197 (7.6%) had a male householder with no wife present.  There were 197 (7.6%) [[POSSLQ|unmarried opposite-sex partnerships]], and 38 (1.5%) [[same-sex partnerships|same-sex married couples or partnerships]]. 680 households (26.1%) were one person and 266 (10.2%) had someone living alone who was 65 or older. The average household size was 2.80.  There were 1,704 families (65.5% of households); the average family size was 3.39.
+
+The population was spread out, with 1,738 people (23.9%) under the age of 18, 747 people (10.3%) aged 18 to 24, 2,028 people (27.8%) aged 25 to 44, 1,870 people (25.7%) aged 45 to 64, and 903 people (12.4%) who were 65 or older.  The median age was 35.4 years. For every 100 females, there were 101.9 males.  For every 100 females age 18 and over, there were 100.7 males.
+
+There were 3,117 housing units at an average density of 2,015.1 per square mile, of the occupied units 1,355 (52.1%) were owner-occupied and 1,248 (47.9%) were rented. The homeowner vacancy rate was 3.7%; the rental vacancy rate was 5.9%.  3,444 people (47.3% of the population) lived in owner-occupied housing units and 3,842 people (52.7%) lived in rental housing units.
+
+===2000===
+At the [[2000 United States Census|2000 census]] there were 7,260 people, 2,447 households, and 1,722 families in the CDP.  The population density was 4,774.4 people per square mile (1,844.1/km{{sup|2}}).  There were 2,762 housing units at an average density of 1,816.4 per square mile (701.6/km{{sup|2}}).  The [[Race and ethnicity in the United States Census#2000 census|racial makeup]] of the CDP was 68.73% White, 1.12% African American, 1.29% Native American, 1.80% Asian, 0.03% Pacific Islander, 21.78% from other races, and 5.25% from two or more races. Hispanic or Latino of any race were 44.63%.<ref name="GR2">{{cite web|url=https://www.census.gov|publisher=[[United States Census Bureau]]|access-date=2008-01-31|title=U.S. Census website}}</ref>
+
+Of the 2,447 households, 38.8% had children under the age of 18 living with them, 50.2% were married couples living together, 14.8% had a female householder with no husband present, and 29.6% were non-families. 23.0% of households were one person, and 9.2% were one person aged 65 or older.  The average household size was 2.96 and the average family size was 3.50.
+
+The age distribution was 29.5% under the age of 18, 10.2% from 18 to 24, 29.8% from 25 to 44, 20.1% from 45 to 64, and 10.4% 65 or older.  The median age was 32 years. For every 100 females, there were 97.2 males.  For every 100 females age 18 and over, there were 96.3 males.
+
+The median household income was $38,014 and the median family income was $39,254. Males had a median income of $28,180 versus $21,310 for females. The per capita income for the CDP was $16,561.  About 14.1% of families and 16.3% of the population were below the [[poverty line]], including 22.0% of those under age 18 and 6.2% of those age 65 or over.
+
+==History==
+
+The environs of Oceano were the home of "Halcyon," a utopian religious community established in 1903 by the [[Theosophy (Blavatskian)|theosophical]] [[Temple of the People]], based in [[Syracuse, New York]].<ref name=Hay>Amy M. Hay, Review of Paul Eli Ivey's ''Radiance from Halcyon,'' ''Journal of American History,'' vol. 101, no. 1 (June 2014), pp. 283-284.</ref> The group, which believed in channeling unseen electromagnetic forces in an effort to attain human perfection, constructed a number of buildings in association with their colonizing effort, including the Blue Star Memorial Temple and the Halcyon Hotel and Sanatorium.<ref name=Hay />
+
+In 1948, Oceano, was the site of the founding by [[Catherine Nimmo]] (a registered nurse and [[Doctor of Chiropractic]] who had recently moved there from [[The Netherlands]]<ref>Austin, Linda; Hammond, Norm. (2010). ''Oceano''. Arcadia Publishing. p. 39. {{ISBN |9780738580876}}</ref>) and Rubin Abramowitz (an engineer) of the U.S. Vegan Society, the first [[vegan]] society in the United States.<ref>[https://ericbrightwell.com/2018/11/07/vegetarian-and-vegan-los-angeles/ Brightwell E. Vegetarian and Vegan Los Angeles. 07/11/2018.  Accessed 10/6/2021.]</ref><ref>Iacobbo, Karen; Iacobbo, Michael. (2004). ''Vegetarian America: A History''. Praeger Publishing. p. 167. {{ISBN|978-0-275-97519-7}}</ref><ref>Stepaniak, Joanne. (2000). ''The Vegan Sourcebook''. McGraw-Hill Education. pp. 6-7. {{ISBN|9780071392211}}</ref> The Society lasted from 1948–1960 and was a predecessor to the [[American Vegan Society]].<ref>Inness, Sherrie A. (2005). ''Secret Ingredients: Race, Gender, and Class at the Dinner Table''. Palgrave Macmillan. p. 156. {{ISBN|978-1-34-953164-6}}</ref>
+
+==Culture==
+*The [[Great American Melodrama]][http://www.americanmelodrama.com/] performs original plays nightly in Oceano.
+*Irish poet and Celtic mythologist [[Ella Young]]'s final years were spent in Oceano (she died there in 1956).
+
+==Government==
+The [https://oceanocsd.org/ Oceano Community Services District] provides the following services: fire and emergency, water, wastewater collection, solid waste, parks and recreation, and limited street lighting.
+
+As an unincorporated town in San Luis Obispo County, Oceano is in the [https://www.slocounty.ca.gov/Departments/Board-of-Supervisors.aspx Board of Supervisors] 4th District.
+
+In the [[California State Legislature|state legislature]] Oceano is in {{Representative|casd|17|fmt=sdistrict}}, and in {{Representative|caad|35|fmt=adistrict}}.<ref>{{Cite web
+ | url = http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | title = Statewide Database
+ | publisher = UC Regents
+ | access-date = December 30, 2014
+ | archive-url = https://web.archive.org/web/20150201113744/http://statewidedatabase.org/gis/gis2011/index_2011.html
+ | archive-date = February 1, 2015
+ | url-status = dead
+ }}</ref>
+
+In the [[United States House of Representatives]], Oceano is in {{Representative|cacd|24|fmt=district}}.<ref>{{Cite GovTrack|CA|24|accessdate=September 29, 2014}}</ref>
+
+==See also==
+* [[Oceano County Airport]]
+
+==Footnotes==
+{{reflist|2}}
+
+==Further reading==
+
+* Paul Eli Ivey, ''Radiance from Halcyon: A Utopian Experiment in Religion and Science.'' Minneapolis, MN: University of Minnesota Press, 2013.
+
+==External links==
+{{wiktionary|Oceano}}
+* [http://www.duneguide.com/sand_dune_guide_oceano_dunes.htm Oceano Dunes State Vehicle Recreation Area - Dune Guide]
+
+{{San Luis Obispo County, California}}
+
+{{authority control}}
+
+[[Category:Oceano, California| ]]
+[[Category:Populated coastal places in California]]
+[[Category:Census-designated places in San Luis Obispo County, California]]
+[[Category:Census-designated places in California]]

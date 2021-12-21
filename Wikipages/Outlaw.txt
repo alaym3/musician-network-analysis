@@ -1,0 +1,122 @@
+{{short description|Person declared as outside the protection of the law}}
+{{about|the legal concept}}
+{{more citations needed|date=December 2017}}
+
+An '''outlaw''' is a person declared as outside the protection of the [[law]]. In pre-modern societies, all legal protection was withdrawn from the criminal, so that anyone was legally empowered to [[persecute]] or kill them. Outlawry was thus one of the harshest penalties in the legal system. In [[early Germanic law]], the [[death penalty]] is conspicuously absent, and outlawing is the most extreme punishment, presumably amounting to a death sentence in practice. The concept is known from [[Roman law]], as the status of ''[[homo sacer]]'', and persisted throughout the [[Middle Ages]].
+
+In the [[common law]] of England, a "Writ of Outlawry" made the pronouncement ''[[Caput lupinum]]'' ("Let his be a wolf's head", literally "May he bear a wolfish head") with respect to its subject, using "head" [[Synecdoche|to refer to the entire]] person (cf. "per capita") and equating that person with a wolf in the eyes of the law: not only was the subject deprived of all legal rights, being outside the "law", but others could kill him on sight as if he were a wolf or other wild animal.{{citation needed|date=July 2012}} Women were declared "waived" rather than outlawed but it was effectively the same punishment.<ref name=NAstaff-2012>{{cite web |author=National Archives staff |date=26 January 2012 |title=Outlaws and outlawry in medieval and early modern England |url=https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/outlaws-outlawry-medieval-early-modern-england/ |publisher= British [[National Archives]] |access-date=June 20, 2012}}</ref>
+
+==Legal history==
+
+===Ancient Rome===
+{{see also|Homo sacer}}
+Among other forms of [[exile]], [[Roman law]] included the penalty of ''interdicere aquae et ignis'' ("to forbid water and fire"). People so penalized were required to leave Roman territory and forfeit their property. If they returned, they were effectively outlaws; providing them the use of fire or water was illegal, and they could be killed at will without legal penalty.{{sfn|Berger|p=507}}
+
+''Interdicere aquae et ignis'' was traditionally imposed by the [[tribune of the plebs]], and is attested to have been in use during the [[First Punic War]] of the third century BC by [[Cato the Elder]].{{sfn|Kelly|2006|p=28}} It was later also applied by many other officials, such as the [[Roman Senate|Senate]], magistrates,{{sfn|Berger|p=507}} and [[Julius Caesar]] as a [[general]] and provincial governor during the [[Gallic Wars]].<ref>Caesar, Julius. ''De Bello Gallico'', book VI, section XLIV.</ref> It fell out of use during the [[Principate|early Empire]].{{sfn|Berger|p=507}}
+
+===England===
+[[File:Robin Hood Memorial.jpg|thumb|upright|left|A statue of [[Robin Hood]], a heroic outlaw in English folklore]]
+{{see also|Outlawries Bill}}
+In [[English law|English]] [[common law]], an outlaw was a person who had defied the laws of the realm, by such acts as ignoring a [[summons]] to court, or fleeing instead of appearing to plead when charged with a [[crime]].<ref name=NAstaff-2012/> The earliest reference to outlawry in English legal texts appears in the 8th century.<ref>{{cite journal |last1=Carella |first1=B |title=The Earliest Expression for Outlawry in Anglo-Saxon Law |journal=Traditio |date=2015 |volume=70 |pages=111–43 |doi=10.1017/S0362152900012356|s2cid=233360789 }}</ref>
+
+====Criminal====
+The term ''outlawry ''referred to the formal procedure of declaring someone an outlaw, i.e. putting him outside the sphere of legal protection.<ref name=NAstaff-2012/> In the [[common law]] of England, a judgment of (criminal) outlawry was one of the harshest penalties in the legal system, since the outlaw could not use the legal system for protection, e.g. from [[mob justice]]. To be declared an outlaw was to suffer a form of [[civil death|civil]] or [[social death|social]]<ref>{{cite book|first=Zygmunt |last=Bauman |year=n.d. |title=Modernity and Holocaust |page={{page needed|date=July 2012}}}}</ref> death. The outlaw was debarred from all civilized society. No one was allowed to give him food, shelter, or any other sort of support—to do so was to commit the crime of [[aiding and abetting]], and to be in danger of the ban oneself. A more recent concept of "[[Wanted poster#Dead or alive|wanted dead or alive]]" is similar, but implies that a trial is desired (namely if the wanted person is returned alive), whereas outlawry precludes a trial. {{citation needed|date=July 2012}}
+
+[[File:Portrait-of-Henry-Danvers-Earl-of-Danby.jpg|thumb|[[Henry Danvers, 1st Earl of Danby|Henry Danvers, Earl of Danby]], was outlawed in 1597 by a coroner's court for the murder of Henry Long. He went to France and joined the French army; two years later he was pardoned by Queen [[Elizabeth I of England|Elizabeth]] and returned to England.]]
+An outlaw might be killed with impunity, and it was not only lawful but meritorious to kill a thief fleeing from justice—to do so was not [[Murder in English law|murder]]. A man who slew a thief was expected to declare the fact without delay, otherwise the dead man's kindred might [[Compurgation|clear his name by their oath]] and require the slayer to pay [[weregild]] as for a true man.{{sfn|Pollock|Maitland|1968|p=53}}
+
+By the rules of common law, a criminal outlaw did not need to be guilty of the crime for which he was an outlaw. If a man was accused of treason or [[felony]] but failed to appear in court to defend himself, he was deemed to be convicted of the said offence.<ref>''[[Archbold Criminal Pleading, Evidence and Practice]]'' (30th ed., 1938) p. 71</ref> If he was accused of a [[misdemeanour]], then he was guilty of a serious contempt of court which was itself a capital crime.{{citation needed|date=July 2012}}
+
+In the context of [[criminal law]], outlawry faded out, not so much by legal changes as by the greater population density of the country, which made it harder for wanted fugitives to evade capture; and by the adoption of international [[extradition]] pacts.{{citation needed|date=July 2012}} It was obsolete by the time the offence was abolished in 1938.<ref>'' Archbold'' (30th ed., 1938) p. 71</ref><ref>'' Archbold'' (31st ed., 1943) p. 98</ref><ref>Administration of Justice (Miscellaneous Provisions) Act 1938, section 12</ref> Outlawry was, however, a living practice as of 1855: in 1841, [[William John Bankes]], who had previously been an MP for several different constituencies between 1810 and 1835, was outlawed by due process of law for absenting himself from trial for homosexuality and died in 1855 in Venice as an outlaw.
+
+====Civil====
+There was also a doctrine of civil outlawry. Civil outlawry did not carry the sentence of capital punishment. It was however imposed on defendants who fled or evaded justice when sued for civil actions like debts or torts. The punishments for civil outlawry were nevertheless harsh, including confiscation of chattels (movable property) left behind by the outlaw.<ref>William Blackstone (1753), ''Commentaries on the Laws of England'', Book 3, Chapter XIX "Of Process"</ref>
+
+In the civil context, outlawry became obsolescent in [[civil procedure]] by reforms that no longer required summoned [[defendant]]s to appear and plead. Still, the possibility of being declared an outlaw for derelictions of [[Civil law (common law)|civil]] duty continued to exist in English law until 1879 and, in [[Scots law]] until the late 1940s. Since then, failure to find the defendant and serve process is usually interpreted in favour of the plaintiff, and harsh penalties for mere nonappearance (merely presumed flight to escape justice) no longer apply. {{citation needed|date=July 2012}}<!--For the whole paragraph-->
+
+===In other countries===
+[[File:Eric the Red.png|thumb|left|[[Erik the Red]] was outlawed by the [[Iceland]]ic [[Althing]] for three years (so in about 982 he went [[viking]] and explored Greenland).]]
+[[File:Ned Kelly in 1880.png|thumb|In 1878, [[Ned Kelly]] and his gang of [[bushranger]]s were outlawed by the [[Government of Victoria]], Australia]]
+Outlawry also existed in other ancient legal codes, such as the ancient [[Norsemen|Norse]] and [[Icelandic Commonwealth|Icelandic legal code]].
+
+In early modern times, the term [[Vogelfrei]] and its cognates came to be used in Germany, the [[Low Countries]] and [[Scandinavia]], referring to a person stripped of his civil rights being "free" for the taking like a bird.<ref>Schmidt–Wiegand, Ruth (1998). "Vogelfrei". Handwörterbuch der Deutschen Rechtsgeschichte [Dictionary of the History of German Law]. 5: Straftheorie [Penal theory]. Berlin: Schmidt. pp. 930–32. {{ISBN|3-503-00015-1}}</ref>
+In Germany and Slavic countries in 15th–19th centuries groups of outlaws composed from former prisoners, soldiers etc. became an important social phenomenon. They lived off robbery and their activity was often supported by local inhabitants from lower classes. The best known are [[Juraj Jánošík]] and [[Jakub Surovec]] in Slovakia, [[Oleksa Dovbush]] in Ukraine, [[Rózsa Sándor]] in Hungary, [[Schinderhannes]] and [[Hans Kohlhase]] in Germany.
+
+The concept of outlawry was reintroduced to British law by several Australian colonial governments in the late 19th century to deal with the menace of [[bushranging]]. The Felons Apprehension Act (1865 No 2a)<ref>{{cite web |url= https://www.legislation.nsw.gov.au/view/pdf/asmade/act-1865-2a |title= Felons Apprehension Act (1865 No 2a) |website=New South Wales legislation |access-date=4 September 2013}}</ref> of [[New South Wales]] provided that a judge could, upon proof of sufficiently notorious conduct, issue a special [[bench warrant]] requiring a person to submit themselves to police custody before a given date, or be declared an outlaw. An outlawed person could be apprehended "alive or dead" by any of the Queen's subjects, "whether a constable or not", and without "being accountable for using of any deadly weapon in aid of such apprehension." Similar provisions were passed in [[Victoria (Australia)|Victoria]] and [[Queensland]].<ref>{{cite web |url=http://www.anzlhsejournal.auckland.ac.nz/pdfs_2005/Eburn.pdf |author=ANZLH E-Journal |title=Outlawry in Colonial Australia: The Felons Apprehension Acts 1865–1899 |access-date=4 September 2013}}</ref> Although the provisions of the New South Wales Felons Apprehension Act were not exercised after the end of the bushranging era, they remained on the statute book until 1976.<ref>{{cite web |url=http://www.anzlhsejournal.auckland.ac.nz/pdfs_2005/Eburn.pdf |author=ANZLH E-Journal |title=Outlawry in Colonial Australia: The Felons Apprehension Acts 1865–1899 |access-date=4 September 2013}}</ref>
+
+==As a political weapon==
+[[File:Eastlake - Napoleon on the Bellerophon.jpg|thumb|[[Napoleon|Napoleon Bonaparte]] on [[HMS Bellerophon (1786)|HMS ''Bellerophon'']] after his surrender to the British in 1815.]]
+There have been many instances in military and/or political conflicts throughout history whereby one side declares the other as being "illegal", notorious cases being the use of [[proscription]] in the civil wars of the [[Roman Republic]].{{citation needed|date=July 2012}}<!--For the whole paragraph--> In later times there was the notable case of [[Napoleon|Napoleon Bonaparte]] whom the [[Congress of Vienna]], on 13 March 1815, [[s:Declaration at the Congress of Vienna|declared had "deprived himself of the protection of the law"]].<ref>[http://dl.lib.brown.edu/napoleon/time7.html Timeline: The Congress of Vienna, the Hundred Days, and Napoleon's Exile on St Helena], Center of Digital Initiatives, [[Brown University]] Library</ref>
+
+In modern times, the government of the [[First Spanish Republic]], unable to reduce the [[Cantonal rebellion]] centered in [[Cartagena, Spain]], declared the Cartagena fleet to be "[[piracy|piratic]]", which allowed any nation to prey on it.<ref> {{cite news | title = Cartagena Public Salvation Board | url = http://hemeroteca.regmurcia.com/issue.vm?id=0000192635&lang=en | date = July 24, 1873 | access-date = January 7, 2015 | publisher = The Murciano Canton | format = pdf|language=es}} </ref>
+
+Taking the opposite road, some outlaws became political leaders, such as [[Ethiopia]]'s Kassa Hailu who became Emperor [[Tewodros II of Ethiopia]].<ref> Rubenson, King of Kings, pp. 36–39 </ref>
+
+==Popular usage==
+{{main|Outlaw (stock character)}}
+{{further|Social banditry}}
+Though the judgment of outlawry is now obsolete (even though it inspired the ''pro forma'' [[Outlawries Bill]] which is still to this day introduced in the [[British House of Commons]] during the [[State Opening of Parliament]]), romanticised outlaws became [[stock character]]s in several fictional settings. This was particularly so in the United States, where outlaws were popular subjects of newspaper coverage and stories in the 19th century, and 20th century fiction and [[Western movie]]s. Thus, "outlaw" is still commonly used to mean those violating the law<ref>Black's Law Dictionary at 1255 (4th ed. 1951), citing ''Oliveros v. Henderson'', 116 S.C. 77, 106 S.E. 855, 859.</ref> or, by extension, those living that lifestyle, whether actual criminals evading the law or those merely opposed to "law-and-order" notions of conformity and authority (such as the "[[outlaw country]]" music movement in the 1970s).
+{{-}}
+
+==See also==
+{{div col|colwidth=15em}}
+*[[Abrek]]
+*[[American Old West]]
+*[[Attainder]]
+*[[Banditry]]
+*[[Bill of attainder]]
+*[[Border reivers]]
+*[[Bounty hunter]]
+*[[Brigandage]]
+*[[Buccaneer]]
+*[[Bushranger]]
+*[[Cangaço]]
+*[[Caput lupinum]]
+*[[Civil death]]
+*[[Dacoity]]
+*[[List of depression-era outlaws]]
+*[[Gangster]]
+*[[List of Old West gunfighters]]
+*[[Hajduk]]
+*[[Highwayman]]
+*[[Homo sacer]]
+*[[Honghuzi]] ("red beards")
+*[[Klepht]]
+*[[Merchant raider]]
+*[[Nazi hunter]]
+*[[Nithing]]
+*[[Ostracism]]
+*[[Outlaw (stock character)]]
+*[[Outlaw motorcycle club]]
+*[[Piracy]]
+*[[River pirate]]
+*[[Robber baron (feudalism)]]
+*[[Robbery|Robber]]
+*[[Shanlin]]
+*[[Shifta]]
+*[[Social banditry]], a term invented by [[Eric Hobsbawm]]
+*[[Thuggee|Thug]]
+*[[Untouchability]]
+*[[Vigilante]]
+*[[Warg]]
+*[[Wolf's Head (secret society)|Wolf's Head]], a [[Yale University]] senior society named for the legal maxim associated with outlawry
+{{div col end}}
+
+==Notes==
+{{Reflist|2}}
+
+==References==
+*{{cite encyclopedia|last=Berger |first=Adolf |title= Interdicere aqua et igni |encyclopedia=Encyclopedic Dictionary of Roman Law |page=507}}
+*{{cite book|last=Kelly |first=Gordon P. |year=2006 |title=A history of exile in the Roman republic |url=https://archive.org/details/historyexileroma00kell |url-access=limited |publisher=Cambridge University Press |page=[https://archive.org/details/historyexileroma00kell/page/n38 28]}}
+*{{cite book|last=McLoughlin |first=Denis |title=The Encyclopedia of the Old West |publisher=Taylor & Francisb|year=1977 |isbn=9780710009630}}
+*{{cite book|last1=Pollock |first1=F. |last2=Maitland |first2=F. W. |year=1968 |title=The History of English Law Before the Time of Edward I |orig-year=1895 |edition=2nd (1898), reprint|location=Cambridge}}
+{{Capital punishment}}
+{{Social class}}
+{{Conformity}}
+
+{{Authority control}}
+
+[[Category:Outlaws| ]]
+[[Category:Criminal law]]
+[[Category:Legal history]]
+[[Category:Punishments]]

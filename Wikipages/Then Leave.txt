@@ -1,0 +1,73 @@
+{{short description|2020 single by BeatKing featuring Queendome Come}} {{Infobox song
+| name       = Then Leave
+| type       = single
+| album      = Gangsta Stripper Music 4
+| artist     = BeatKing featuring Queendome Come
+| cover      = Then Leave.png
+| alt        =
+| released   = {{Start date|2020|3|25|mf=yes}}
+| recorded   =
+| studio     =
+| genre      =
+| length     = 2:32
+| label      = [[Columbia Records|Columbia]]
+| writer     = * BeatKing  
+* Queendome Come
+| producer   = BeatKing
+| chronology = BeatKing
+| prev_title = Pink Slip
+| prev_year  = 2020
+| next_title = Uncle Club God
+| next_year  = 2020
+| misc       = {{Extra chronology 
+| artist     = Queendom Come 
+| type       = singles 
+| prev_title = Queen Birthday Song | prev_year  = 2020 
+| title      = Then Leave 
+| year       = 2020 
+| next_title = 
+| next_year  = 
+}}
+{{External music video|{{YouTube|Qqlw8iQeTHs|"Then Leave"}}}}
+}}
+
+"'''Then Leave'''" is a song by American rapper and producer BeatKing featuring fellow rapper Queendome Come, released as a single on March 25, 2020, from BeatKing's album ''Gangsta Stripper Music 4'' (2020).<ref>{{cite web|url=https://music.apple.com/us/album/then-leave-feat-queendome-come-single/1519344411|title=Then Leave (feat. Queendome Come) - Single by Beatking on Apple Music|via=[[Apple Music]]|accessdate=July 9, 2020}}</ref> In June 2020, the song went viral on video-sharing app [[TikTok]].
+
+==Background==
+"Then Leave" garnered popularity after various choreographed dances were posted on [[TikTok]], based on the user Boujee.Tay's moves.<ref>{{cite web|url=https://stayhipp.com/media/tiktok/the-best-tiktok-trends-to-try-in-july-2020/|title=The Best TikTok Trends To Try In July 2020|work=Stay Hipp|last=Sommer|first=Liz|date=June 30, 2020|accessdate=July 6, 2020}}</ref> As of July 2020, the song's audio was used in over 151,000 videos.<ref>{{cite web|url=https://stayhipp.com/internet/then-leave-tiktok-dance/|title="Then Leave" TikTok Dance|work=Stay Hipp|last=Spence|first=Sade|date=June 19, 2020|accessdate=July 9, 2020}}</ref> In the midst of the song's growing popularity, Columbia Records removed the song's parent album from streaming services. BeatKing announced, however, a new version of the album would be released "soon".<ref>{{cite web|url=https://twitter.com/BEATKINGKONG/status/1275239493570826240?s=19|title=To all my fans y'all probably noticed my album with "Then Leave: got taken down off all the streaming services. @ColumbiaRecords did that lol A new version of GSM4 will be up there soon with new songs on it...|via=BeatKing on [[Twitter]] (confirmed account)|date=June 22, 2020|accessdate=July 9, 2020}}</ref>
+
+==Chart performance==
+On the US [[Rolling Stone Top 100|''Rolling Stone'' Top 100]], for the week ending July 9, 2020, the song debuted at number 88, with over four million streams.<ref>{{cite web|url=https://twitter.com/RS_Charts/status/1280229254396084226?s=19|title=.@BEATKINGKONG and @theequeendom_'s "Then Leave" enters this week's RS 100 at Number 88, with over 4 million on-demand audio streams last week...|via=[[Rolling Stone charts|''Rolling Stone'' Charts]] on [[Twitter]] (confirmed account)|date=July 6, 2020|accessdate=July 9, 2020}}</ref> The song also debuted at number 3 on the [[Bubbling Under Hot 100]].<ref name=":0" />
+
+==Music video== 
+The song's official video was released on March 27, 2020, directed by OG Visions. The video's description simply reads "Ratchet Ass Shit".<ref>{{cite web|url=https://m.youtube.com/watch?v=Qqlw8iQeTHs|title=THEN LEAVE (Official Video) - Beatking feat. Queendome Come (Directed by og_visions) - YouTube|via=[[YouTube]]|date= March 27, 2020|accessdate=July 6, 2020}},</ref>
+
+==Charts==
+{|class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2020)
+! scope="col"| Peak<br />position
+|-
+|-
+! scope="row"| US [[Bubbling Under Hot 100]] (''[[Billboard (magazine)|Billboard]]'')<ref name=":0">{{cite web|url=https://www.billboard.com/charts/bubbling-under-hot-100-singles/2020-07-11|title=Bubbling Under Hot 100 Chart - Week of July 11, 2020|work=[[Billboard (magazine)|Billboard]]|accessdate=July 9, 2020}}</ref>
+| 3
+|-
+! scope="row"| US [[Hot R&B/Hip-Hop Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{Cite web|url=https://www.billboard.com/charts/r-b-hip-hop-songs/2020-07-11|title=Hot R&B/Hip-Hop Songs: July 11, 2020|work=[[Billboard (magazine)|Billboard]]|accessdate=July 9, 2020}}</ref>
+| 48
+|-
+! scope="row"| US [[Rolling Stone Top 100|''Rolling Stone'' Top 100]]<ref>{{Cite web|url=https://www.rollingstone.com/charts/songs/2020-07-22|title=Top 100 Songs, June 26, 2020 - July 2, 2020|work=[[Rolling Stone]]|accessdate=July 7, 2020}}</ref> 
+| 88
+|-
+|}
+
+==Certifications==
+<!--usually US-->
+{{Certification Table Top}}
+{{Certification Table Entry|region=United States|artist=BeatKing|title=Then Leave|award=Gold|type=single|relyear=2020|certyear=2021|access-date=February 17, 2021}}
+{{Certification Table Bottom|streaming=true|noshipments=true|nosales=true}}
+
+==References== 
+{{reflist}}
+
+[[Category:2020 songs]]
+[[Category:2020 singles]]

@@ -1,0 +1,53 @@
+{{Wiktionary}}
+'''Gibbs''' or '''GIBBS''' may refer to:
+{{TOC right}}
+==Places==
+* [[Gibbs (crater)]], on the Moon
+* [[Gibbs, Missouri]], US
+* [[Gibbs, Tennessee]], US
+* [[Gibbs Island (South Shetland Islands)]], Antarctica
+* [[2937 Gibbs]], an asteroid
+
+==Science==
+===Mathematics and statistics===
+* [[Gibbs phenomenon]]
+* [[Gibbs' inequality]]
+* [[Gibbs sampling]]
+
+===Physics===
+* [[Gibbs phase rule]]
+* [[Gibbs free energy]]
+* [[Entropy (statistical thermodynamics)#Gibbs entropy formula|Gibbs entropy]]
+* [[Gibbs paradox]]
+* [[Gibbs–Helmholtz equation]]
+* [[Gibbs algorithm]]
+* [[Gibbs state]]
+* [[Gibbs-Marangoni effect]]
+* Gibbs phenomenon, an [[MRI artifact#Gibbs phenomenon (ringing artifact)|MRI artifact]]
+
+==Organisations==
+* [[Gibbs & Cox]] naval architecture firm
+* [[Gothenburg International Bioscience Business School]]
+* [[Gibbs College]], several US locations
+* [[Gibbs Technologies]], developer and manufacturer of amphibious vehicles
+* [[Gibbs High School (disambiguation)]], several schools of this name exist
+* [[Antony Gibbs & Sons]], a British trading company, established in London in 1802
+
+==Other uses==
+* [[Gibbs (surname)]]
+* [[Gibbs SR]], former name of the toothpaste Mentadent
+* [[Gibbs Stadium]], Spartanburg, South Carolina, US
+* [[Leroy Jethro Gibbs]], a main character from the American TV series ''NCIS''
+
+==See also==
+{{canned search|gibbs}}
+* {{lookfrom}}
+* {{intitle}}
+* [[Gibbs' Reflective Cycle]]
+* [[List of things named after Josiah W. Gibbs]]
+* [[Gibbes (disambiguation)]]
+* [[Gibb (disambiguation)]]
+* [[Gib (disambiguation)]]
+* [[Gipps (disambiguation)]]
+
+{{disambiguation|geo}}

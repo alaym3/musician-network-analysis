@@ -1,0 +1,997 @@
+{{Short description|none}}
+{{Redirect|+44|the band|+44 (band)}}
+{{Use British English|date=September 2015}}
+{{Use dmy dates|date=June 2014}}
+{{Infobox country telephone plan
+| country              = United Kingdom
+| country_link         = United Kingdom
+| continent            = Europe
+| map_image            = Map of the Telephone Dialling Codes in the United Kingdom.png
+| map_caption          = Telephone Dialling Codes in the United Kingdom
+| map_size             = 200px
+| map_alt              =
+| country_calling_code = +44
+| international_prefix = 00
+| trunk_prefix         = 0
+| nsn_length           = 7, 9, 10<ref group="notes">7 for two special 08xx numbers; 9 in some 01xxx areas, one 01xxxx area, all 0500 numbers, and some 0800 numbers; 10 in all other areas</ref>
+| plan_type            = [[Telephone numbering plan|Open]]
+| number_format        = [[#Format|various, see text]]
+| regulator            = [[Ofcom]]
+| plan_membership      =
+| plan_link            = {{URL|https://www.ofcom.org.uk/__data/assets/pdf_file/0013/102613/national-numbering-plan.pdf|The National Telephone Numbering Plan}}
+| plan_date            = 18 September 2010
+| codes_list           = List of dialling codes in the United Kingdom
+}}
+
+''' Telephone numbers in the United Kingdom''' are administered by the Office of Communications ([[Ofcom]]). For this purpose, Ofcom established a [[telephone numbering plan]], known as the ''National Telephone Numbering Plan'', which is the system for assigning [[telephone number]]s to subscriber stations.
+
+The numbers are of variable length. Local numbers are supported from land-lines or numbers can be dialled with a '0'-lead prefix that denotes either a geographical region or another service. Mobile phone numbers have their own prefixes which are not geographical and are completely portable between providers.
+{{TOC limit|2}}
+
+==Structure==
+Since 28 April 2001, almost all geographic numbers and most non-geographic numbers have 9 or 10 national (significant) numbers after the "0" [[Trunk prefix|trunk code]]. All mobile telephone numbers have 10 national (significant) numbers after the "0" trunk code. The overall structure of the UK's National Numbering Plan is:<ref name="2003guide">{{cite web | url=http://www.ofcom.org.uk/static/archive/oftel/publications/numbering/2003/num_guide.htm | title=A User's Guide to Telephone Numbering | author=Oftel | publisher=Office of Telecommunications | date=7 May 2003 | access-date=5 May 2005 | archive-url = https://web.archive.org/web/20130528140218/http://www.ofcom.org.uk/static/archive/oftel/publications/numbering/2003/num_guide.htm | archive-date = 28 May 2013| url-status=live}}</ref>
+{| class="wikitable" style="margin-left: 1.5em;"
+|-
+! scope="col" | Prefix
+! scope="col" | Service type
+|-
+! scope="row" |00
+| International
+|-
+! scope="row" |01
+| Geographic area codes.
+|-
+! scope="row" |02
+| Geographic area codes (introduced in 2000).
+|-
+! scope="row" |03
+| Non-geographic numbers charged at standard geographic area code rates (introduced 2007).
+|-
+! scope="row" |04
+| Reserved.
+|-
+! scope="row" |05
+| Corporate numbering and [[Voice over IP|VoIP]] services. Freephone (toll free) on 0500 until June 2017.
+|-
+! scope="row" |06
+| Was reserved for possible use by [[personal numbering]] (PNS) instead of 070 following [[consumer confusion]] with mobile phones.
+|-
+! scope="row" |07
+| Mostly for mobile phones on 071xx, 072xx, 073xx, 074xx, 075xx, 077xx, 078xx and 079xx. [[Personal numbering]] on 070. Pagers and "non-inclusive" mobiles on 076xx.
+|-
+! scope="row" |08
+| [[Toll-free telephone number|Freephone]] (toll free) on 080 and Special Services (formerly known as local and national rate) on 084 and 087.
+|-
+! scope="row" |09
+| Premium Rate services (PRS).
+|}
+
+A short sample of geographic numbers, set out in the officially approved ([[Ofcom]]) number groups:<ref>{{cite web |title=The National Telephone Numbering Plan |url=https://www.ofcom.org.uk/__data/assets/pdf_file/0013/102613/national-numbering-plan.pdf |publisher=Ofcom |access-date=23 June 2018}}</ref>
+{|class="wikitable
+|-
+!Number
+!Location
+|-
+|{{mono|(020) xxxx xxxx}}
+|[[London]]
+|- 
+|{{mono|(024) 7xxx xxxx}}
+|[[Coventry]]
+|- 
+|{{mono|(029) xxxx xxxx}}
+|[[Cardiff]]
+|-
+|{{mono|(0113) xxx xxxx}}
+|[[Leeds]]
+|-
+|{{mono|(0114) xxx xxxx}}
+|[[Sheffield]]
+|-
+|{{mono|(0121) xxx xxxx}}
+|[[Birmingham]]
+|-
+|{{mono|(0131) xxx xxxx}}
+|[[Edinburgh]]
+|-
+|{{mono|(0141) xxx xxxx}}
+|[[Glasgow]]
+|-
+|{{mono|(0151) xxx xxxx}}
+|[[Merseyside]]
+|-
+|{{mono|(0161) xxx xxxx}}
+|[[Greater Manchester]]
+|-
+|{{mono|(01642) xx xxxx}}
+|[[Teesside]]
+|-
+|{{mono|(01223) xx xxxx}}
+|[[Cambridge]]
+|-
+|{{mono|(01257) xx xxxx}}
+|[[Chorley]]
+|-
+|{{mono|(01382) xx xxxx}}
+|[[Dundee]]
+|-
+|{{mono|(01386) xx xxxx}}
+|[[Evesham]]
+|-
+|{{mono|(01935) xx xxxx}}
+|[[Yeovil]]
+|-
+|{{mono|(01865) xx xxxx}}
+|[[Oxford]]
+|-
+|{{mono|(01772) xx xxxx}}
+|[[Preston, Lancashire|Preston]]
+|-
+|{{mono|(01792) xx xxxx}}
+|[[Swansea]]
+|-
+|{{mono|(01204) xx xxxx}}
+|[[Bolton]]
+|-
+|{{mono|(01539 6) xx xxx}}
+|[[Sedbergh]]
+|-
+|{{mono|(0169 77) xxxx}}
+|[[Brampton, Carlisle|Brampton]]
+|}
+
+In the United Kingdom, area codes are two, three, four or, rarely, five digits long (after the initial zero). Regions with shorter area codes, typically large cities, permit the allocation of more telephone numbers as the local number portion has more digits. Local customer numbers are four to eight figures long. The total number of digits is ten but, in a very few areas, the total may be nine digits (after the initial zero). The "area code" is also referred to as an "STD (code)" ([[subscriber trunk dialling]]) or a "dialling code" in the UK.
+
+The code allocated to the largest population is ([[020]]) for [[London]]. The code allocated to the largest area is (028) for all of [[Northern Ireland]]. The UK Numbering Plan also applies to three British [[Crown dependencies]]&nbsp;– [[Bailiwick of Guernsey|Guernsey]], [[Jersey]], and the [[Isle of Man]]&nbsp;– even though they are not part of the UK.
+
+==Format==
+{{more citations needed section|date=April 2018}}
+Possible number formats for UK telephone numbers are:
+{| class="wikitable" style="margin-left: 1.5em;"
+|-
+!  Number length
+!  10 digit NSN
+!  9 digit NSN
+!  7 digit NSN
+!  6 digits
+!  5 digits
+!  4 digits
+!  3 digits
+|-
+! Number formats
+| valign=top | (01xx xx) xx xxx<br />(01xxx) xxx xxx<br />(01x1) xxx xxxx<br />(011x) xxx xxxx<br />(02x) xxxx xxxx<br />03xx xxx xxxx<br />055 xxxx xxxx<br />056 xxxx xxxx<br />07x xxxx xxxx<br />07xxx xxx xxx<br />0800 xxx xxxx<br />08xx xxx xxxx<br />09xx xxx xxxx
+| valign=top | (0169 77) xxxx<br />(01xxx) xx xxx<br />0800 xxx xxx
+| valign=top | [[Childline|0800 11 11]]<br />0845 46 4x
+|valign=top|118 xxx<br />116 xxx
+|valign=top|17070
+|valign=top|1470<br />1471<br />1472<br />1474<br />1475<br />1476<br />1477<br />1478<br />1479<br />1571<br />1572
+|valign=top |[[999 (emergency telephone number)|999]]<br />[[112 (emergency telephone number)|112]]<br />[[NHS 111|111]]<br />[[Speaking clock#United Kingdom|123]]<br />141<br />[[Police 101|101]]<br />100<br />155<br />105
+119
+|}
+
+Number ranges starting 01 can have [[National Significant Number|National Significant Number (NSN)]] length as 10 or 9 digits. NSN is the number of digits after the leading 0 trunk code or +44 international prefix. The 0800 range can have NSN length as 10, 9 or 7 digits. The 0845 range can have NSN length as 10 or 7 digits. The 0500 range had NSN length as 9 digits only, and was withdrawn from use on 3 June 2017. All other UK numbers have NSN length of 10 digits. There are no telephone numbers in the UK with an NSN length of 8 digits.
+
+==Geographic numbers==
+{{Main|List of dialling codes in the United Kingdom}}
+
+===Standard geographic numbers===
+Geographic telephone numbers in the UK always have nine or ten digits after the 0 trunk code or +44 international dialling prefix.
+
+====Four-digit area codes====
+Four-digit area codes have either six-digit subscriber numbers or a mix of five- and six-digit subscriber numbers.
+* '''(01xxx)''' xxx xxx
+
+This is the format used by most areas. It has a four-digit area code (after the initial zero) and a six digit subscriber number, and is known as 4+6 format. These area codes were changed by adding a "1" directly after the initial zero as a part of [[PhONEday]] in 1995. Just short of 581 areas use this format, and the area codes range from 01200 to 01998. Almost all (01xxx) area codes now have only six digit subscriber numbers, but a small number of these areas also have some subscriber numbers only five digits in length (see next section).
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" | 01224
+| [[Aberdeen]] || 22 = AB ||
+|-
+! scope="row" | 01244
+| [[Chester]] || 24 = CH ||
+|-
+! scope="row" | 01382
+| [[Dundee]] || 38 = DU ||
+|-
+! scope="row" | 01387
+| [[Dumfries]] (mixed) || 38 = DU || local numbers cannot begin with 3
+|-
+! scope="row" | 01452
+| [[Gloucester]] || 45 = GL ||
+|-
+! scope="row" | 01472
+| [[Grimsby]] || 47 = GR ||
+|-
+! scope="row" | 01473
+| [[Ipswich]] || 47 = IP ||
+|-
+! scope="row" | 01429
+| [[Hartlepool]] || 42 = HA ||
+|-
+! scope="row" | 01482
+| [[Kingston upon Hull|Hull]] || 48 = HU ||
+|-
+! scope="row" | 01539
+| [[Kendal]] (mixed) || 53 = KE || local numbers cannot begin with 4, 5 or 6
+|-
+! scope="row" | 01582
+| [[Luton]] || 58 = LU ||
+|-
+! scope=“row” | 01642
+| [[Teesside]] <small>or [[Middlesbrough]]</small> || 64 = MI ||
+|-
+! scope="row" | 01670
+| [[Morpeth, Northumberland|Morpeth]] || 67 = MP ||
+|-
+! scope="row" | 01697
+| [[Brampton, Carlisle|Brampton]], North West (mixed) || 69 = NW || local numbers cannot begin with 3, 4 or 7
+|-
+! scope="row" | 01733
+| [[Peterborough]] || 73 = PE ||
+|-
+! scope="row" | 01736
+| [[Penzance]] || 73 = PE ||
+|-
+! scope="row" | 01772
+| [[Preston, Lancashire|Preston]] || 77 = PR ||
+|-
+! scope="row" | 01792
+| [[Swansea]] || 79 = SW ||
+|-
+! scope="row" | 01793
+| [[Swindon, Wiltshire|Swindon]] || 79 = SW ||
+|-
+! scope="row" | 01854
+| [[Ullapool]] || 85 = UL ||
+|-
+! scope="row" | 01947
+| [[Whitby]] || 94 = WH ||
+|}
+
+Six of the four-digit area codes are known as "mixed" areas as they share those four digits with the twelve five-digit area codes. This leads to a restriction as to which initial digits can be used for subscriber numbers within those four-digit area codes, e.g. in the 01387 four-digit area code, subscriber numbers cannot begin with a 3 because 013873 is a separate five-digit area code; likewise in the 01946 four-digit area code, subscriber numbers cannot begin with a 7 because 019467 is a separate five-digit area code.
+* '''(01xxx)''' xx xxx
+
+This is used for forty smaller towns which have a mixture of six and five digit local numbers, each type allocated in specific DE blocks*; e.g. in the 01647 area code numbers beginning 24 and 61 have five digits (24xxx and 61xxx; known as 4+5 format) whereas all other DE blocks* within that area code have six digit numbers. The number of places with five digit subscriber numbers and an 01xxx area code has declined rapidly in recent decades. There were 511 ranges allocated across 56 different area codes in January 1998. The [[Big Number Change]] removed many, especially in Northern Ireland, and by July 2005 there were only 329 ranges in 42 codes. By April 2010 this had reduced to 324 ranges in 40 codes, with still the same number in November 2012. The 40 area codes are listed in the table below.
+
+<nowiki>*</nowiki>A DE block is a block of numbers where (taking the area code and the subscriber number together) the initial 0 and the next six digits after it are the same for all the subscriber numbers in the block.
+
+(These area codes, like many others, were changed by adding a "1" directly after the initial zero as a part of PhONEday in 1995.)
+
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" | 01204
+| [[Bolton]] || 20 = BO || 61–64 ||
+|-
+! scope="row" | 01208
+| [[Bodmin]] || 20 = BO || 72–79 ||
+|-
+! scope="row" | 01254
+| [[Blackburn]] || 25 = BL || 51–57, 59 ||
+|-
+! scope="row" | 01276
+| [[Camberley]] || 27 = CR || 20–29, 31–38, 61–66 ||
+|-
+! scope="row" | 01297
+| [[Axminster]] || 29 = AX || 20–24, 32–35 ||
+|-
+! scope="row" | 01298
+| [[Buxton]] || 29 = BX || 22–28, 70–74, 77–79, 83–85 ||
+|-
+! scope="row" | 01363
+| [[Crediton]] || 36 = CN || 82–85 ||
+|-
+! scope="row" | 01364
+| [[Ashburton, Devon|Ashburton]], [[Devon]] || 36 = DN || 72, 73 ||
+|-
+! scope="row" | 01384
+| [[Dudley]] || 38 = DU || 70, 74–79 ||
+|-
+! scope="row" | 01386
+| [[Evesham]] || 38 = EV || 40, 41, 45, 47–49 ||
+|-
+! scope="row" | 01404
+| [[Honiton]] || 40 = HO || 41–47 ||
+|-
+! scope="row" | 01420
+| [[Alton, Hampshire|Alton]], [[Hampshire]] || 42 = HA || 22, 23, 80–89 ||
+|-
+! scope="row" | 01460
+| [[Chard, Somerset|Chard]], [[Ilminster]] || 46 = IM || 30, 52–55, 57, 61–68, 72–78 ||
+|-
+! scope="row" | 01461
+| [[Gretna, Scotland|Gretna]] || 46 = GN || 40 ||
+|-
+! scope="row" | 01480
+| [[Huntingdon]] || 48 = HU || 52 ||
+|-
+! scope="row" | 01488
+| [[Hungerford]] || 48 = HU || 71–73 ||
+|-
+! scope="row" | 01524
+| [[Lancaster, Lancashire|Lancaster]] (mixed) || 52 = LA || 32–37, 39, 60–69 || local numbers cannot begin with 2
+|-
+! scope="row" | 01527
+| [[Redditch]] ||  || 60–69 ||
+|-
+! scope="row" | 01562
+| [[Kidderminster]] || 56 = KM || 60, 66–69 ||
+|-
+! scope="row" | 01566
+| [[Launceston, Cornwall|Launceston]] || 56 = LN || 86 ||
+|-
+! scope=“row” | 01595
+| [[Lerwick, Shetland Islands|Lerwick]] || 56 = LW || 86 ||
+|- 
+! scope="row" | 01606
+| [[Northwich]], [[Winsford]] || 60 = NO || 40–49, 74–77, 79 ||
+|-
+! scope="row" | 01629
+| [[Matlock, Derbyshire|Matlock]] || 62 = MA || 55–57 ||
+|-
+! scope="row" | 01635
+| [[Newbury, Berkshire|Newbury]] || 63 = NE || 30–39, 40–49 ||
+|-
+! scope="row" | 01647
+| [[Moretonhampstead]] || 64 = MH || 24, 61 ||
+|-
+! scope="row" | 01659
+| [[Sanquhar]], [[Nithsdale]] || 65 = NL || 50, 58, 66, 67, 74 ||
+|-
+! scope="row" | 01695
+| [[Skelmersdale]]/[[Ormskirk]] ||  || 50–54 ||
+|-
+! scope="row" | 01726
+| [[St Austell]] || 72 = SA || 61, 63–69, 70–77 ||
+|-
+! scope="row" | 01744
+| [[St Helens, Merseyside|St Helens]] || 74 = SH || 20–29 ||
+|-
+! scope="row" | 01750
+| [[Selkirk, Scottish Borders|Selkirk]] || 75 = SK || 20–23, 32, 42, 52, 62, 76, 82 ||
+|-
+! scope="row" | 01768
+| [[Penrith, Cumbria|Penrith]] (mixed) || 76 = PN || 882, 883, 884, 886, 887, 888 || local numbers cannot begin with 3, 4 or 7
+|-
+! scope="row" | 01827
+| [[Tamworth, Staffordshire|Tamworth]] || 82 = TA || 50–59, 60–69 ||
+|-
+! scope="row" | 01837
+| [[Okehampton]] ||  || 52–55, 82, 83, 89 ||
+|-
+! scope="row" | 01884
+| [[Tiverton, Devon|Tiverton]] || 88 = TV || 32–35, 38 ||
+|-
+! scope="row" | 01900
+| [[Workington]] || 90 = WO || 61–68, 85 ||
+|-
+! scope="row" | 01905
+| [[Worcester, England|Worcester]] || 90 = WO || 20–29 ||
+|-
+! scope="row" | 01935
+| [[Yeovil]] || 93 = YE || 83 ||
+|-
+! scope="row" | 01946
+| [[Whitehaven]] (mixed) || 94 = WH || 61–68 || local numbers cannot begin with 7
+|-
+! scope="row" | 01949
+| [[Whatton-in-the-Vale|Whatton]] || 94 = WH || 20, 21, 81 ||
+|-
+! scope="row" | 01963
+| [[Wincanton]] || 96 = WN || 23, 31–34 ||
+|-
+! scope="row" | 01995
+| [[Garstang]], [[Borough of Wyre|Wyre]] || 99 = WY || 61 ||
+|}
+
+=====Three-digit area codes=====
+Three-digit area codes always have seven-digit subscriber numbers and always begin 011x or 01x1.
+* '''(01x1)''' xxx xxxx
+
+This is the geographic number format for the first round of five large cities moved to [[all figure dialling]] in the 1960s, and subsequently also used in the metropolitan county of Tyne and Wear, eastern County Durham and south-eastern Northumberland from the 1980s onwards. These six areas have a three-digit area code matching the pattern ''1x1'' (after the initial zero) and a seven digit subscriber number, and this is known as 3+7 format. These area codes were changed by adding a "1" directly after the initial zero as a part of PhONEday in 1995.
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" | 0121
+| [[Birmingham]] || formerly 021 (2 = B)
+|-
+! scope="row" | 0131
+| [[Edinburgh]] || formerly 031 (3 = E)
+|-
+! scope="row" | 0141
+| [[Glasgow]] || formerly 041 (4 = G)
+|-
+! scope="row" | 0151
+| [[Liverpool]] || formerly 051 (5 = L)
+|-
+! scope="row" | 0161
+| [[Manchester]] || formerly 061 (6 = M)
+|-
+! scope="row" | 0171
+| colspan="2" | ''Used for [[Inner London]] from 1990 until 2000''
+|-
+! scope="row" | 0181
+| colspan="2" | ''Used for [[Outer London]] from 1990 until 2000''
+|-
+! scope="row" | 0191
+| County of [[Tyne and Wear]], eastern [[County Durham]],<br />south-eastern [[Northumberland]] || formerly [[History of telephone numbers in the United Kingdom#All figure dialling|091]] (9 = tYne)
+|}
+* '''(011x)''' xxx xxxx
+
+This is the geographic number format for the second round of large cities and towns moved to brand-new three-digit area codes. Five of these were moved in 1995 as a part of [[PhONEday]], with Reading then following a year later. At the time of the change, an extra digit was added to the subscriber number. These six areas have a three-digit area code matching the pattern ''11x'', with a seven-digit subscriber number, and this is known as 3+7 format. The first three digits of the local number identifies a small area within the town or city. The former Reading area code had already been changed once, by adding a "1" directly after the initial zero as a part of PhONEday in 1995.
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" | 0113
+| [[Leeds]] || formerly 0532 (53 = LE)
+|-
+! scope="row" | 0114
+| [[Sheffield]] || formerly 0742 (74 = SH)
+|-
+! scope="row" | 0115
+| [[Nottingham]] || formerly 0602 (60 = NO)
+|-
+! scope="row" | 0116
+| [[Leicester]] || formerly 0533 (53 = LE)
+|-
+! scope="row" | 0117
+| [[Bristol]] || formerly 0272 (27 = BR)
+|-
+! scope="row" | 0118
+| [[Reading, Berkshire|Reading]] || formerly 0734, then 01734 (73 = RE)
+|}
+
+====Two-digit area codes====
+Two-digit area codes always have eight-digit subscriber numbers and always begin 02.
+* '''(02x)''' xxxx xxxx
+
+This is the newest geographic number format. It is used for the third tier of large cities and for Northern Ireland, and was formed as a part of the [[Big Number Change]] in 2000. The new area code is much shorter than the old one, and begins 02 unlike the previous 01 area codes. Numbers in these five areas are commonly [[UK telephone code misconceptions|misquoted]], e.g. London as 0207 or Cardiff as 02920. The numbers consist of a two-digit area code matching the pattern ''02x'', and an eight-digit subscriber number, and this is known as 2+8 format.
+
+The first four digits of the local number identifies a small area within the town or city. At the time of the change, the subscriber part of the number gained an extra digit in London, those in Northern Ireland gained two or three digits, and the subscriber part of the number in the other areas gained two digits. All of these areas were also subject to a previous code change, one that added a "1" directly after the initial zero, as a part of PhONEday in 1995.
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+!   !!Location!!Number!!Formerly
+|-
+! rowspan="5" scope="row" | 020
+|-
+| rowspan="4" |[[London]] || (020) 3xxx xxxx ||New since 2005
+|-
+|(020) 4xxx xxxx
+|New since 2019 <ref>{{Cite web|url=https://www.ofcom.org.uk/about-ofcom/latest/features-and-news/new-020-4-phone-numbers|title=London calling: Ofcom to release new '(020) 4' phone numbers|date=30 August 2019|website=Ofcom}}</ref>
+|-
+|(020) 7xxx xxxx || 0171 (1995–2000)<br />071 (1990–1995)<br />01 (1960s–1990)
+|-
+|(020) 8xxx xxxx || 0181 (1995–2000)<br />081 (1990–1995)<br />01 (1960s–1990)
+|-
+! scope="row" rowspan="2" | 023
+| [[Southampton]] || (023) 8xxx xxxx || 01703 (70 = SO)
+|-
+| [[Portsmouth]] || (023) 9xxx xxxx || 01705 (70 = PO)
+|-
+! scope="row" | 024
+| [[Coventry]] || (024) 7xxx xxxx || 01203 (20 = CO)
+|-
+! scope="row" rowspan="8" | 028
+| scope="row" rowspan="8" | [[Northern Ireland]]
+| (028) 25xx xxxx [[Ballymena]] || (01266) xxx xxx
+|-
+| (028) 28xx xxxx [[Larne]] || (01574) xxx xxx
+|-
+| (028) 37xx xxxx [[Armagh]] || (01861) xxx xxx
+|-
+| (028) 71xx xxxx [[Derry]]<ref>{{cite web | url=http://consumers.ofcom.org.uk/phone/numbering/telephone-area-codes-tool/ | title=Telephone area codes | publisher=Ofcom | access-date=1 August 2014}}</ref><ref>{{cite web | url=http://www.thephonebook.bt.com/publisha.content/en/search/uk_codes/index.bycounty.publisha?County=Co.+Londonderry | title=Co. Londonderry – UK Codes – The Phone Book from BT | publisher=British Telecom | access-date=1 August 2014}}</ref> || (01504) xxx xxx
+|-
+| (028) 82xx xxxx [[Omagh]] || (01662) xxx xxx
+|-
+| (028) 90xx xxxx [[Belfast]] || (01232) xxx xxx
+|-
+| (028) 92xx xxxx [[Lisburn]] || [[Lisburn telephone exchange code|(01846) xxx xxx]]
+|-
+| (028) 95xx xxxx [[Belfast]] ||New number range
+|-
+! scope="row" | 029
+| [[Cardiff]] || (029) 2xxx xxxx || 01222 (22 = CA)
+|}
+
+====Five-digit area codes====
+Five-digit area codes have either five-digit subscriber numbers or a mix of four- and five-digit subscriber numbers.
+Five-digit area codes always share their first four digits with four-digit area codes.
+* '''(01xx xx)''' xx xxx and '''(01xx xx)''' xxxx
+
+This is the oldest geographic number format and is used for twelve smaller towns and villages where the subscriber number is either five or (in one area code) four digits long. These are known as 5+5 and 5+4 format. Therefore, the STD code and the subscriber number does not always total ten digits after the initial zero trunk code. These area codes were changed by adding a "1" directly after the initial zero as a part of PhONEday in 1995. The number of places using these two formats has declined rapidly in recent decades and Brampton is the last place in the UK with four-digit local numbers.
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" | 0138 73
+| [[Langholm]]
+|-
+! scope="row" | 0152 42
+| [[Hornby, Lancashire|Hornby]]
+|-
+! scope="row" | 0153 94
+| [[Hawkshead]]
+|-
+! scope="row" | 0153 95
+| [[Grange-over-Sands]]
+|-
+! scope="row" | 0153 96
+| [[Sedbergh]]
+|-
+! scope="row" | 0169 73
+| [[Wigton]]
+|-
+! scope="row" | 0169 74
+| [[Raughton Head]]
+|-
+! scope="row" | 0169 77
+| [[Brampton, Carlisle|Brampton]]<ref name="Brampton">{{cite web | url=http://www.ofcom.org.uk/static/archive/oftel/publications/responses/2003/ntnp0303/bt.pdf | title=BT's Response to the Consultation by OFTEL on Proposals to Publish a National Telephone Numbering Plan | first=Howard | last=Erdunast | publisher=British Telecommunications PLC | date=16 May 2003 | access-date=2 April 2010}} Page 7: '01697 – Brampton should be 016977; not 01697'.</ref><ref name="Plan">{{cite web | url=http://www.ofcom.org.uk/static/archive/oftel/publications/numbering/2003/ntnp0703_b.pdf | title=The National Telephone Numbering Plan | author=Director General of Telecommunications | work=Oftel | publisher=Office of Telecommunications | date=9 July 2003 | access-date=2 April 2010}} Page 20 shows Brampton listed as 0169 77.</ref>
+|-
+! scope="row" | 0176 83
+| [[Appleby-in-Westmorland|Appleby]]
+|-
+! scope="row" | 0176 84
+| [[Pooley Bridge]]
+|-
+! scope="row" | 0176 87
+| [[Keswick, Cumbria|Keswick]]
+|-
+! scope="row" | 0194 67
+| [[Gosforth, Cumbria|Gosforth]]
+|}
+The above twelve area codes and their six 'parent' area codes (01387, 01524, 01539, 01697, 01768 and 01946) are known as 'Mixed' areas due to multiple area codes sharing the same SABC digits (i.e. the initial zero and the following four digits).
+
+===National dialling only ranges===
+These ranges have subscriber numbers beginning with the digits "0" or "1", e.g.:
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" | 0169 770 xxxx
+| [[Brampton, Carlisle|Brampton]]
+|-
+! scope="row" | 01332 050 xxx
+| [[Derby]]
+|-
+! scope="row" | 01382 006 xxx
+| [[Dundee]]
+|-
+! scope="row" | 0141 005 xxxx
+| [[Glasgow]]
+|-
+! scope="row" | 0117 101 xxxx
+| [[Bristol]]
+|-
+! scope="row" | 0118 00x xxxx
+| [[Reading, Berkshire|Reading]]
+|-
+! scope="row" | 020 0003 xxxx
+| [[London]]
+|}
+Currently, these numbers are mostly used as the termination points for non-geographic numbers, and by some automated systems such as alarms. As such they are not usually meant to be directly dialled. Using these numbers directly has been problematic as some mobile phone operators in the UK do not allow access to these ranges,<ref name="servicelevel">{{cite web|url=http://www.ofcom.org.uk/static/archive/oftel/publications/numbering/2003/num_guide.htm|title=A User's Guide to Telephone Numbering|author=Oftel|date=7 May 2003|publisher=Office of Telecommunications|access-date=5 May 2005|quote=Only BT and Kingston Communications (Hull) are obliged to ensure that their customers can dial all numbers within the UK.}}<!-- found from discussion at: http://www.saynoto0870.com/cgi-bin/forum/YaBB.cgi?num=1090685614 --></ref> and there may also be difficulty accessing these numbers from outside the UK.
+
+Regulator Ofcom proposes that in future these ranges be released for wider, general-purpose use in up to 70 area codes facing number shortage<ref name="geonumbers">{{cite web | url=http://stakeholders.ofcom.org.uk/consultations/geographic-numbers | title=Ofcom &#124; Geographic telephone numbers | author=[[Ofcom]] | publisher=Office of Communications | date=25 November 2010 | access-date=7 November 2012 | archive-url = https://web.archive.org/web/20130626084747/http://stakeholders.ofcom.org.uk/consultations/geographic-numbers/ | archive-date = 26 June 2013| url-status=live}}</ref> but then, in order to avoid confusion with codes beginning with these digits, the area code would always have to be dialled for all calls, even from within the same geographic exchange. Accordingly, if these numbers are eventually released for general use, Ofcom proposes completely removing the ability to dial locally without the area code in areas affected.
+
+Requiring the use of the area code also allows additional local numbers starting with normally protected Special Services numbers (such as 999, 101, 111, 112 etc.) to be used, significantly increasing the quantity of numbers available for use. This occurred on 1 November 2012 for the 01202 area code, which covers the [[Bournemouth]] area.<ref>{{cite web|url=http://stakeholders.ofcom.org.uk/consultations/geographic-telephone-numbers/statement/|title=Geographic telephone numbers|website=Ofcom|access-date=5 July 2017}}</ref>
+
+Recently, the carrier TalkTalk have inadvertently released parts of the '''020 0011''' range to the general public,<ref>{{cite web|url=http://www.area-codes.org.uk/london-0200-0201-numbers.php|title=0200 Numbers and 0201 Numbers|work=UK Area Codes and Phone Number Information|access-date=28 January 2016}}</ref> with these numbers currently being in use. For example, the charity Give a Car used the number 020 0011 1664 for a while, but recently switched to a proper London number.
+
+== Mobile telephones ==
+* '''07xxx''' xxx xxx—mobile phones and WiFi numbers.
+
+Individual mobile phone companies are allocated different ranges within the '''073xx''', '''074xx''', '''075xx''', '''07624''', '''077xx''', '''078xx''' and '''079xx''' area codes. Changes to mobile phone numbers in the [[Big Number Change]] were mostly straight replacements, such as [[Vodafone UK|Vodafone]] customers on the '''03'''78 block became '''077'''78.
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" style="font-weight: normal;" | '''071xx''' xxx xxx
+| Mobile phones (in use since January 2017) 
+|-
+! scope="row" style="font-weight: normal;" | '''073xx''' xxx xxx
+| Mobile phones (in use since November 2014)
+|-
+! scope="row" style="font-weight: normal;" | '''074xx''' xxx xxx
+| Mobile phones (in use since November 2009)
+|-
+! scope="row" style="font-weight: normal;" | '''075xx''' xxx xxx
+| Mobile phones (in use since May 2007)
+|-
+! scope="row" style="font-weight: normal;" | '''07624''' xxx xxx
+| Mobile phones on the Isle of Man
+|-
+! scope="row" style="font-weight: normal;" | '''077xx''' xxx xxx
+| Mobile phones (former 03xx and 04xx—mostly [[Vodafone UK|Vodafone]] and [[O2 (United Kingdom)|O2 (formerly Cellnet]]))
+|-
+! scope="row" style="font-weight: normal;" | '''078xx''' xxx xxx
+| Mobile phones (former 05xx, 06xx and 08xx—mostly [[Vodafone UK|Vodafone]] and [[O2 (United Kingdom)|O2 (formerly Cellnet]]))
+|-
+! scope="row" style="font-weight: normal;" | '''079xx''' xxx xxx
+| Mobile phones (former 09xx—mostly [[EE Limited|EE]] (formerly  [[Orange (UK)|Orange]] and [[T-Mobile UK|one2one]]))
+|-
+! scope="row" style="font-weight: normal;" | '''07911''' 2xx xxx<br />'''07911''' 8xx xxx
+| WiFi numbers (e.g. 3G/LTE-enabled tablet computers)
+|}
+
+Since the advent of [[Mobile number portability]], mobile phone number prefixes can no longer be relied on to determine the current operator of a particular mobile phone – only the original operator.
+
+==Pagers and personal numbering==
+* '''07x''' xxxx xxxx—pagers and [[personal numbering]] (PNS).
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" style="font-weight: normal;" | '''070''' xxxx xxxx
+| [[Personal numbering]]
+|-
+! scope="row" style="font-weight: normal;" | '''076''' xxxx xxxx
+| Pagers (excluding 07624, used for mobile phones on the Isle of Man)
+|}
+
+Personal numbers beginning 070 are regulated by [[Phone-paid Services Authority]].
+
+Calls to 070 and 076 numbers are often charged at a much higher rate than the similar-looking 07xxx mobile telephone numbers and often they are not included in "inclusive minutes" in phone contracts.
+
+From 1 October 2019, Ofcom has capped the termination or wholesale rate for calls to 070 numbers to be at the same level as for calls to mobile numbers. Ofcom "''expect[s] this will allow phone companies to price calls to these numbers or include them in call allowances in the same way that they do for calls to mobile [number]s''".<ref name="ofcom_costs_070">{{cite web |url=https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/costs-and-billing/how-much-does-a-phone-call-really-cost | title=Call Costs Guide |author=[[Ofcom]] |publisher=[[Ofcom]] |date=2019-08-01 |archive-url=https://web.archive.org/web/20190821130909/https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/costs-and-billing/how-much-does-a-phone-call-really-cost |archive-date=2019-08-21 |url-status=live }}</ref>
+
+==Non-geographic numbers==
+{{Main|Non-geographic telephone numbers in the United Kingdom}}
+
+===Non-geographic numbers charged at geographic rate===
+* '''03xx''' xxx xxxx—[[UK-wide numbers|"UK-wide" numbering]].
+
+On 27 July 2006, [[Ofcom]] announced that companies will soon be able to use an "03" non-geographic number, in place of other non-geographic numbers (such as [[0870]] or [[0845]] numbers). Callers would be charged at the same rate as if they were calling a geographic number (01 or 02).<ref name="ofcom-09prs">{{cite web | url=http://stakeholders.ofcom.org.uk/binaries/consultations/entertainment_services/statement/statement.pdf | title=Conditions regulating Sexual Entertainment Services | author=[[Ofcom]] | publisher=Office of Communications | date=26 April 2007 | access-date=10 October 2010 | archive-url=https://web.archive.org/web/20110526094331/http://stakeholders.ofcom.org.uk/binaries/consultations/entertainment_services/statement/statement.pdf | archive-date=26 May 2011 | url-status=live}}</ref> This means that customers who are benefiting from inclusive minutes on mobile phone or landline calling plans would also be able to call these numbers using their inclusive minutes.<ref name="intro03numbers">{{cite web | url=http://media.ofcom.org.uk/2007/02/13/ofcom-introduces-uk-wide-03-numbers/ | title=Ofcom introduces UK-wide 03 numbers | author=[[Ofcom]] | publisher=Office of Communications | date=13 February 2007 | access-date=28 July 2010 | archive-url=https://web.archive.org/web/20130813045353/http://media.ofcom.org.uk/2007/02/13/ofcom-introduces-uk-wide-03-numbers/ | archive-date=13 August 2013 | url-status=dead | df=dmy-all }}</ref> On 13 February 2007, Ofcom released more details on their plans for the 03 range and announced that allocations of 03 numbers to providers would begin in March 2007. Whilst 01, 02 and 07 numbers can receive text messages, currently the majority of cellular network providers do not support the sending of text messages to 03 numbers. Three different ranges of numbers were announced; those beginning 030x are reserved for qualifying public bodies and non-profit organisations, those beginning 033x, which are available for allocation to anyone, and those beginning 034x and 037x which will be used for migration from the matching 084x and 087x number ranges respectively. Ofcom itself began using 03 numbers on 13 November 2007 for public use.<ref name="contactOfcom">{{cite web | url=http://www.ofcom.org.uk/contact-us/ | title=Contacting Ofcom | author=[[Ofcom]] | publisher=Office of Communications | access-date=10 October 2010 | archive-url = https://web.archive.org/web/20140208073438/http://www.ofcom.org.uk/contact-us/ | archive-date = 8 February 2014| url-status=live}}</ref>
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" style="font-weight: normal;" | [[UK-wide numbers|'''030x''' xxx xxxx]]
+| For qualifying public bodies and non-profit organisations as defined by Ofcom
+|-
+! scope="row" style="font-weight: normal;" | '''033x''' xxx xxxx
+| For any end user
+|-
+! scope="row" style="font-weight: normal;" | '''034x''' xxx xxxx
+| Migration range for operators who have 084x numbers
+|-
+! scope="row" style="font-weight: normal;" | '''037x''' xxx xxxx
+| Migration range for operators who have 087x numbers
+|}
+
+===Corporate and VoIP numbering===
+* '''05x''' xxxx xxxx—Corporate and VoIP numbering.
+
+Unlike 03 numbers there is no uniform pricing for 05 numbers; BT charge a number of different rates depending on the number dialled.<ref name="BTpriceS2P11">{{cite web | url=http://www.bt.com/pricing/current/Call_Charges_boo/0025_d0e5.htm | title=(Section 2, Part 11) 05xx Numbers | author=BT | work=BT Price List | publisher=British Telecommunications PLC | access-date=5 May 2005 | archive-url = https://web.archive.org/web/20120708073713/http://www.bt.com/pricing/current/Call_Charges_boo/0025_d0e5.htm | archive-date = 8 July 2012| url-status=live}}</ref> Some are charged at geographic rate, others not. Other operators are not required to charge the same rates as BT for calling 05 numbers.
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" style="font-weight: normal;" | '''055''' xxxx xxxx
+| Corporate Numbering (but also used by BT for its Broadband Voice service)
+|-
+! scope="row" style="font-weight: normal;" | '''056''' xxxx xxxx
+| Allocated by Ofcom for LIECS (Location Independent Electronic Communications Services), e.g. [[Voice over IP|VoIP]] services
+|}
+
+===Freephone numbers===
+* '''0500''' xxx xxx—[[Toll-free telephone number|Freephone]] services allocated before 1999.
+
+Until July 2017, the '''0500''' range was used for some freephone services which were originally provided by [[Mercury Communications]] Ltd (now [[Cable & Wireless Worldwide]]). These numbers were different from the rest of the 05 range in that they are only 9 digits in length after the 0 trunk code, e.g. 0500&nbsp;007&nbsp;007 ([[National Savings and Investments]]), 0500&nbsp;2&nbsp;88&nbsp;2&nbsp;91 ([[BBC Radio 2]], 88 to 91 FM), 0500&nbsp;600&nbsp;600 ([[Crimewatch]]), 0500&nbsp;600&nbsp;700 (Watchdog{{clarify|date=December 2017}}) and 0500&nbsp;909&nbsp;693 ([[BBC Radio 5 Live]], 909 and 693&nbsp;kHz). Numerous universities, government departments, airlines, banks and businesses also used these numbers. They were allocated before the general trend of using longer numbers started in 1997 and long before the rest of the 05 range was assigned to corporate and VoIP numbering after 2000.
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" style="font-weight: normal;" | '''0500''' xxx xxx<ref group="notes" name="0500code">Older pre-PhONEday nine-digit 0500 numbers were left as nine-digit numbers after PhONEday. No new 0500 number ranges were released after PhONEday.</ref>
+| Special Services – No charge to Customer a.k.a. "[[Toll-free telephone number|Freephone]]"
+| Free to call from landline, up to 40p per minute from mobile.
+|}
+
+The range was withdrawn by Ofcom in July 2017<ref>{{cite web | url=https://www.ofcom.org.uk/phones-telecoms-and-internet/information-for-industry/numbering | title=Telecoms numbering: 0500 Freephone numbers withdrawn | author=[[Ofcom]]}}</ref> as a result of a series of consultations starting from 2012.<ref name="ofcom0500cons">{{cite web | url=http://stakeholders.ofcom.org.uk/consultations/0500-number-range/ | title=Proposal for the withdrawal of 0500 Freephone telephone numbers | author=[[Ofcom]] | publisher=Office of Communications | date=23 October 2012 | access-date=23 October 2012 | archive-url = https://web.archive.org/web/20130827124700/http://stakeholders.ofcom.org.uk/consultations/0500-number-range/ | archive-date = 27 August 2013| url-status=live}}</ref> The number range
+08085 xxx xxx was made available to owners of 0500 xxx xxx to enable a smooth transition.
+
+* '''0800''' xxx xxx, '''0800''' xxx xxxx and '''0808''' xxx xxxx—Freephone services.
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" style="font-weight: normal;" | '''0800''' xxx xxx<ref group="notes" name="0800code">Older pre-PhONEday nine-digit 0800 numbers were left as nine-digit numbers after PhONEday. All new 0800 number ranges released after PhONEday have ten digits after the 0 trunk code.</ref>
+| rowspan="3" | Special Services – No charge to Customer a.k.a. "[[Toll-free telephone number|Freephone]]"
+| rowspan="3" | Free to call from landline, and was up to 40p per minute from mobile, until July 2015 when calls to 080 numbers from mobiles became free. Calls to certain charity and similar services were always free from most mobiles.<br />'''0808''' 9xx xxxx numbers are used by freephone internet services.
+|-
+! scope="row" style="font-weight: normal;" | [[Non-geographic telephone numbers in the United Kingdom#0500, 0800 and 0808 prefix|'''0800''' xxx xxxx]]
+|-
+! scope="row" style="font-weight: normal;" | '''0808''' xxx xxxx
+|}
+
+There is one short "special" number in this range, '''0800 11 11''' for Childline.
+
+Additionally, numbers in the range 0808 80x xxxx are reserved for not-for-profit helplines and as such are usually free to call from most mobile telephones. A number of other numbers can also called for free from mobiles,<ref name="voda-free">{{cite web | url=http://www.vodafone.co.uk/cs/groups/public/documents/webcontent/vftst004274.pdf | title=Free-to-caller charity numbers | author=Vodafone | publisher=Vodafone Limited | date=28 October 2010 | access-date=11 November 2012 | archive-url=https://web.archive.org/web/20130222092739/http://www.vodafone.co.uk/cs/groups/public/documents/webcontent/vftst004274.pdf | archive-date=22 February 2013 | url-status=live}}</ref><ref name="O2-free">{{cite web | url=http://www.o2.co.uk/support/generalhelp/howdoi/freenumbers | title=Free numbers | author=O<sub>2</sub> | publisher=Telefónica UK Limited | access-date=11 November 2012 }}</ref><ref name="virgin-free">{{cite web | url=http://www.virginmobile.com/vm/genericContent.do?contentId=freephone.charities.helplines.howdoi.sm117 | title=Freephone numbers and Charity Helplines | author=Virgin | publisher=Virgin Mobile Telecoms Ltd | access-date=11 November 2012 | archive-url=https://web.archive.org/web/20140501090536/http://www.virginmobile.com/vm/genericContent.do?contentId=freephone.charities.helplines.howdoi.sm117 | archive-date=1 May 2014 | url-status=dead | df=dmy-all }}</ref><ref name="tmobile-free">{{cite web | url=http://support.t-mobile.co.uk/library/TMOBILE/Billing%20and%20topping%20up/Price%20plan%20brochures/Free%20to%20call%20helplines/v1/Free%20to%20Call%20Helpline%20Services.pdf | title=Free to Call Helpline Services | author=T-Mobile | publisher=Everything Everywhere Limited | date=30 January 2012 | access-date=11 November 2012 | archive-url=https://web.archive.org/web/20120503115003/http://support.t-mobile.co.uk/library/TMOBILE/Billing%20and%20topping%20up/Price%20plan%20brochures/Free%20to%20call%20helplines/v1/Free%20to%20Call%20Helpline%20Services.pdf | archive-date=3 May 2012 | url-status=dead | df=dmy-all }}</ref><ref name="orange-charity">{{cite web | url=http://newsroom.orange.co.uk/2005/02/07/orange-make-it-free-to-call/ | title=Orange make it free to call | author=Orange | publisher=[[Orange (UK)]] | date=7 February 2005 | access-date=11 November 2012 | archive-url=https://web.archive.org/web/20130421170248/http://newsroom.orange.co.uk/2005/02/07/orange-make-it-free-to-call/ | archive-date=21 April 2013 | url-status=live}}</ref><ref name="orange-free">{{cite web | url=http://www.orange.co.uk/about/community/charity_freehelpline.html | title=Free Charity and Helpline Calls | author=Orange | publisher=[[Orange (UK)]] | date=7 February 2005 | access-date=11 November 2012 | archive-url=https://web.archive.org/web/20050305084920/http://www.orange.co.uk/about/community/charity_freehelpline.html | archive-date=5 March 2005 | url-status=dead}}</ref><ref name="dwp-150110">{{cite web | url=http://www.dwp.gov.uk/previous-administration-news/press-releases/2010/january-2010/dwp007-150110.shtml | title=Free mobile calls for benefit claimants starting from 18 January 2010 | author=DWP | publisher=[[Department for Work and Pensions]] | date=15 January 2010 | access-date=11 November 2012 | archive-url=https://web.archive.org/web/20140103080014/http://www.dwp.gov.uk/previous-administration-news/press-releases/2010/january-2010/dwp007-150110.shtml | archive-date=3 January 2014 | url-status=dead | df=dmy-all }}</ref><ref name="orange-dwp">{{cite web | url=http://orange.co.uk/dwp/ | title=Free numbers of Department of Work and Pensions | author=Orange | publisher=[[Orange (UK)]] | date=1 February 2011 | access-date=11 November 2012 | archive-url=https://archive.today/20110212160841/http://www1.orange.co.uk/dwp/ | archive-date=12 February 2011 | url-status=dead}}</ref> but this varies by network.
+
+===Fixed-rate or special-rate services===
+* '''084x''' xxx xxxx (Special Services basic rate) – non-geographic fixed-rate or special-rate services
+*'''087x''' xxx xxxx (Special Services higher rate) – non-geographic fixed-rate or special-rate services.
+
+With the exception of 080x freephone numbers, 08xx numbers are charged above geographic rates, with some of the extra revenue going to the terminating telco. This additional revenue may be shared with the subscriber, but is often used instead to subsidise additional network services, such as [[fax]]-to-[[email]], [[virtual office]] applications, call queuing, voicemail and easy number redirection. None of these call management services is exclusive to 08xx numbers and they could be provided on any number range.
+
+Special Services basic rate range:
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" style="font-weight: normal;" | '''0845''' xxx xxxx
+| Up to 5p a minute, varies daytime/evening/weekend, from BT landline, other providers may charge more; up to 42p a minute from mobiles.
+|-
+! scope="row" style="font-weight: normal;" | '''0844''' 00x xxxx
+| Non-BT Discount Scheme—Internet Services incorporating unmetered access up to and including 5p for BT customers
+|-
+! scope="row" style="font-weight: normal;" | '''0844''' 01x xxxx<br />to<br />'''0844''' 09x xxxx
+| ''currently unused''
+|-
+! scope="row" style="font-weight: normal;" | '''0844''' 1xx xxxx
+|''currently unused''
+|-
+! scope="row" style="font-weight: normal;" | '''0844''' 2xx xxxx<br />to<br />'''0844''' 9xx xxxx
+| Up to 4.26p a minute (plus VAT), varies daytime/evening/weekend, from BT landline, other providers may charge more; up to 42p a minute from mobiles.
+|-
+! scope="row" style="font-weight: normal;" | '''0843''' xxx xxxx
+| Up to 4.26p a minute (plus VAT), but fixed (e.g. always 3p/minute or always 4p/minute) from BT landline, other providers may charge more; up to 42p a minute from mobiles.
+|-
+! scope="row" style="font-weight: normal;" |'''0842''' xxx xxxx
+| Up to 4.26p a minute (plus VAT), but fixed (e.g. always 3p/minute or always 4p/minute) from BT landline, other providers may charge more; up to 42p a minute from mobiles.
+|}
+There were a few short "special" number in this range, such as '''0845 46 47''' for NHS Direct; this was closed in 2014 and replaced by [[NHS 111]], except in Wales where the transition took place in 2015.
+
+Special Services higher rate range:
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" style="font-weight: normal;" |'''0870''' xxx xxxx
+| Up to 8p a minute (plus VAT), varies daytime/evening/weekend (charged at no more than the caller would pay for a call to a Geographic Number) from landline; up to 42p a minute from mobiles.
+|-
+! scope="row" style="font-weight: normal;" |'''0871''' 0xx xxxx
+| Internet Services metered access, up to and including 10p/minute for BT customers.
+|-
+! scope="row" style="font-weight: normal;" |'''0871''' 1xx xxxx
+|''currently unused''
+|-
+! scope="row" style="font-weight: normal;" |'''0871''' 2xx xxxx<br />to<br />'''0871''' 9xx xxxx
+| Up to 8.5p a minute (plus VAT) but fixed (e.g. always 6p/minute or always 8.5p/minute) from BT landline, other providers may charge more; up to 50p a minute from mobiles.
+|-
+! scope="row" style="font-weight: normal;" |'''0872''' xxx xxxx
+| Up to 8.5p a minute (plus VAT) but fixed (e.g. always 6p/minute or always 8.5p/minute) from BT landline, other providers may charge more; up to 50p a minute from mobiles.
+|-
+! scope="row" style="font-weight: normal;" |'''0873''' xxx xxxx
+| Up to 8.5p a minute (plus VAT) but fixed (e.g. always 6p/minute or always 8.5p/minute) from BT landline, other providers may charge more; up to 50p a minute from mobiles.
+|}
+The usage of '''0871''', '''0872''' and '''0873''' numbers is regulated by [[PhonepayPlus]].<ref name="PP">{{cite web | url=http://www.phonepayplus.org.uk/ | title=PhonepayPlus – the UK premium rate phone number and service regulator | author=PP | publisher=[[PhonepayPlus]] | access-date=11 November 2012 | archive-url = https://web.archive.org/web/20140419021625/http://www.phonepayplus.org.uk/ | archive-date = 19 April 2014| url-status=live}}</ref>
+
+There was widespread confusion about the cost of calling 084 and 087 numbers until 2015. They often do not qualify for discounts and bundled minutes, and can be prohibitively expensive when called from mobiles and payphones. Many major companies persist in misdescribing them as "Local Rate", "Lo Call" (often as '{{not a typo|locall rate}}' which can be easily misread as 'local rate') or "National Rate" for which the [[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] can take action.<ref name="asa-39577">{{cite web | url=http://www.asa.org.uk/Rulings/Adjudications/2005/4/Emap-Active-Ltd/CS_39577.aspx | title=Emap Active Ltd | author=ASA | work=Non-broadcast Adjudications | publisher=[[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] | date=6 April 2005 | access-date=7 November 2012 | quote=the claim "Lo-call" was misleading, because calls to 0870 numbers were not charged at a low rate as implied. | archive-url=https://web.archive.org/web/20130704185401/http://www.asa.org.uk/Rulings/Adjudications/2005/4/Emap-Active-Ltd/CS_39577.aspx | archive-date=4 July 2013 | url-status=live}}</ref><ref name="asa-40724">{{cite web | url=http://www.asa.org.uk/Rulings/Adjudications/2006/1/Windsor-Telecom-plc/CS_40724.aspx | title=Windsor Telecom plc | author=ASA | work=Non-broadcast Adjudications | publisher=[[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] | date=4 January 2006 | access-date=7 November 2012 | quote=we told Windsor Telecom to stop describing 0845 numbers as 'local rate' | archive-url=https://web.archive.org/web/20130320124010/http://www.asa.org.uk/Rulings/Adjudications/2006/1/Windsor-Telecom-plc/CS_40724.aspx | archive-date=20 March 2013 | url-status=live}}</ref><ref name="asa-42507">{{cite web | url=http://www.asa.org.uk/Rulings/Adjudications/2007/4/NET-Homeworkers/TF_ADJ_42507.aspx | title=NET Homeworkers | author=ASA | work=Non-broadcast Adjudications | publisher=[[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] | date=25 April 2007 | access-date=7 November 2012 | quote=We therefore concluded that the description of the '0845' number as a 'local rate' call was misleading. | archive-url=https://web.archive.org/web/20130320124034/http://www.asa.org.uk/Rulings/Adjudications/2007/4/NET-Homeworkers/TF_ADJ_42507.aspx | archive-date=20 March 2013 | url-status=live}}</ref><ref name="asa-43684">{{cite web | url=http://www.asa.org.uk/Rulings/Adjudications/2007/12/Datel-Group-plc/TF_ADJ_43684.aspx | title=Datel Group plc | author=ASA | work=Broadcast Adjudications | publisher=[[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] | date=12 December 2007 | access-date=7 November 2012 | quote=We told Max TV not to describe calls to 0845 numbers as 'local rate' calls. | archive-url=https://web.archive.org/web/20130320124114/http://www.asa.org.uk/Rulings/Adjudications/2007/12/Datel-Group-plc/TF_ADJ_43684.aspx | archive-date=20 March 2013 | url-status=live}}</ref><ref name="asa-39587">{{cite web | url=http://www.asa.org.uk/Rulings/Adjudications/2005/4/Langley-Miniature-Models/CS_39587.aspx | title=Langley Miniature Models | author=ASA | work=Non-broadcast Adjudications | publisher=[[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] | date=6 April 2005 | access-date=7 November 2012 | quote=The Authority considered that the description "National Rate Calls" for an 0870 number was misleading and likely to confuse consumers. The Authority told the advertisers not to refer to 0870 numbers as 'national rate'. Marketing communications should also state that the price of calls originating from non-BT call providers varies. | archive-url=https://web.archive.org/web/20130610131355/http://www.asa.org.uk/Rulings/Adjudications/2005/4/Langley-Miniature-Models/CS_39587.aspx | archive-date=10 June 2013 | url-status=live}}</ref><ref name="asa-41766">{{cite web | url=http://www.asa.org.uk/asa/adjudications/Public/TF_ADJ_41766.htm | title=British Sky Broadcasting Ltd t/a Sky Travel Shop | author=ASA | work=Broadcast Adjudications | publisher=[[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] | date=20 September 2006 | access-date=7 November 2012 | quote=Because most UK callers now paid more for calls to non-geographic 0870 numbers than for calls to geographic national destinations, we considered that the term "national rate" was inaccurate. | archive-url=https://web.archive.org/web/20060925183912/http://www.asa.org.uk/asa/adjudications/Public/TF_ADJ_41766.htm | archive-date=25 September 2006 | url-status=dead}}</ref><ref name="asa-44430">{{cite web | url=http://www.asa.org.uk/Rulings/Adjudications/2008/5/Men-at-Work-Ltd/TF_ADJ_44430.aspx | title=Men at Work Ltd | author=ASA | work=Non-broadcast Adjudications | publisher=[[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] | date=21 May 2008 | access-date=7 November 2012 | quote=(we) ruled that the costs of making calls to such numbers (0870) should be stated in the ad. | archive-url=https://web.archive.org/web/20130320124137/http://www.asa.org.uk/Rulings/Adjudications/2008/5/Men-at-Work-Ltd/TF_ADJ_44430.aspx | archive-date=20 March 2013 | url-status=live}}</ref><ref name="cap-onandon">{{cite web | url=http://www.cap.org.uk/cap/news_events/news/2005/Hanging+on+the+telephone+on+and+on+and+on.htm | title=Hanging on the telephone. On and on and on. | author=[[Committee of Advertising Practice]] | work=CAP News | publisher=[[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] | date=10 March 2005 | access-date=7 November 2012 | archive-url=https://web.archive.org/web/20060629065713/http://www.cap.org.uk/cap/news_events/news/2005/Hanging+on+the+telephone+on+and+on+and+on.htm | archive-date=29 June 2006 | url-status=dead }}</ref><ref name="cap-2005">{{cite web | url=http://www.cap.org.uk/cap/news_events/news/2005/Stop+the+call+confusion.htm | title=Stop the call confusion | author=[[Committee of Advertising Practice]] | work=CAP News | publisher=[[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] | date=8 September 2005 | access-date=7 November 2012 | archive-url=https://web.archive.org/web/20060102213933/http://www.cap.org.uk/cap/news_events/news/2005/Stop+the+call+confusion.htm | archive-date=2 January 2006 | url-status=dead | quote=The Committee of Advertising Practice (CAP) ... has told advertisers who quote 084 and 087 numbers ... that they must not describe calls to those numbers as being charged at 'local' or 'national' rate. ... On their introduction, calls to 084(5) numbers were charged at the BT standard local rate and those to 087(0) numbers were charged at BT standard national rate. Calls made from other phone companies were often more expensive. BT has abolished its standard rate for the majority of its customers, making the description of calls being charged at 'local' or 'national' rate meaningless for them.}}</ref><ref name="cap-alert">{{cite web | url=http://www.cap.org.uk/cap/advice_online/ad_alerts/Advertising+0845+and+087+numbers.htm | title=Advertising 0845 and 087 numbers | author=[[Committee of Advertising Practice]] | work=CAP Alerts | publisher=[[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] | date=8 September 2005 | access-date=7 November 2012 | archive-url=https://web.archive.org/web/20060118040346/http://www.cap.org.uk/cap/advice_online/ad_alerts/Advertising+0845+and+087+numbers.htm | archive-date=18 January 2006 | url-status=dead }}</ref><ref name="cap-08">{{cite web | url=http://www.cap.org.uk/Advice-Training-on-the-rules/Advice-Online-Database/Chargeable-08-numbers-General.aspx | title=Chargeable 08 numbers: General | author=[[Committee of Advertising Practice]] | work=Advice Online database | publisher=[[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] | date=8 August 2012 | access-date=7 November 2012 | archive-url=https://web.archive.org/web/20130328101127/http://www.cap.org.uk/Advice-Training-on-the-rules/Advice-Online-Database/Chargeable-08-numbers-General.aspx | archive-date=28 March 2013 | url-status=live}}</ref>
+<ref name="cap-0845">{{cite web | url=http://www.cap.org.uk/Advice-Training-on-the-rules/Advice-Online-Database/Chargeable-0845-numbers.aspx | title=Chargeable 0845 numbers | author=[[Committee of Advertising Practice]] | work=Advice Online database | publisher=[[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] | date=12 July 2010 | access-date=7 November 2012 | archive-url=https://web.archive.org/web/20130328101152/http://www.cap.org.uk/Advice-Training-on-the-rules/Advice-Online-Database/Chargeable-0845-numbers.aspx | archive-date=28 March 2013 | url-status=dead | df=dmy-all }}</ref><ref name="cap-084">{{cite web | url=http://www.cap.org.uk/Advice-Training-on-the-rules/Advice-Online-Database/Chargeable-0844-and-0871-numbers.aspx | title=Chargeable (0842) 0843 and 0844 numbers | author=[[Committee of Advertising Practice]] | work=Advice Online database | publisher=[[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] | date=8 August 2012 | access-date=7 November 2012 | archive-url=https://web.archive.org/web/20130328101226/http://www.cap.org.uk/Advice-Training-on-the-rules/Advice-Online-Database/Chargeable-0844-and-0871-numbers.aspx | archive-date=28 March 2013 | url-status=dead | df=dmy-all }}</ref><ref name="cap-087">{{cite web | url=http://www.cap.org.uk/Advice-Training-on-the-rules/Advice-Online-Database/Premium-rate-Services-General.aspx | title=Premium-rate Services: 09, 0871, 0872 and 0873 numbers | author=[[Committee of Advertising Practice]] | work=Advice Online database | publisher=[[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] | date=7 June 2013 | access-date=7 June 2013 | archive-url=https://web.archive.org/web/20130610124719/http://www.cap.org.uk/Advice-Training-on-the-rules/Advice-Online-Database/Premium-rate-Services-General.aspx | archive-date=10 June 2013 | url-status=live}}</ref>
+
+====Access charge and service charge====
+From 1 July 2015, the charge for calls to 084, 087, 09 and 118 numbers has been simplified. It is split into two parts: An access charge, payable to the telephone service provider – e.g. BT, EE, Sky – plus a service charge paid to the company offering the service.
+
+Companies with 084, 087, and 09 numbers must declare the service charge element of the call cost when advertising their phone number; for example, a number may be advertised saying "Calls cost 20p per minute plus your phone company's access charge".<ref>{{Cite web |title=UK Calling |author= |website=Ofcom |date= |access-date=14 August 2021 |url= https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/advice/uk-calling}}</ref> Telecoms companies must inform their customers about their access charge for calling each number range. The [[EU Consumer Rights Directive]] requires that many entities that held 084 and 087 numbers will no longer be allowed to use them. The directive bans the usage of numbers that cost more than calling a geographic number for customer service and complaints lines, and other such purposes.<ref name="bis_crd">{{cite web | url=http://www.bis.gov.uk/policies/consumer-issues/consumer-rights/consumer-rights-directive | title=Consumer Rights Directive | author=BIS | publisher=[[Department for Business, Innovation and Skills|Department for Business, Innovation & Skills]] | access-date=11 November 2012 }}</ref><ref name="eu-2011-83">{{cite web | url=http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:304:0064:0088:EN:PDF | format=PDF | title=Directive 2011/83/EU on Consumer Rights | author=EU | publisher=European Union | access-date=11 November 2011 }}</ref> Since Britain left the EU the Directive as such no longer applies, but its provisions may have been incorporated into British law.{{Update needed|date=August 2021}}
+
+===Other 08xx number ranges===
+* '''08xx''' xxx xxxx—Internet for schools and Inbound routing codes.
+
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" style="font-weight: normal;" | '''0820''' xxx xxxx
+| Special Services: Internet for schools
+|-
+! scope="row" style="font-weight: normal;" | '''0899''' 9xx xxxx
+| Inbound routing codes
+|}
+
+===Premium rate content services (PRS and SES)===
+* '''09xx''' xxx xxxx—Premium Rate Content Services
+
+Numbers in the 09xx range are charged at the highest rates of any calls within the United Kingdom, and are controlled by various regulations regarding their use. The regulator is the [[Phone-paid Services Authority]], formerly PhonepayPlus.<ref name="PP" /> There are a large number of charge bands, some with high pence-per-minute rates, others with a high fixed-price for the entire call.
+{| class="wikitable" style="width: auto; margin-left: 1.5em;"
+|-
+! scope="row" style="font-weight: normal;" | '''090x''' xxx xxxx
+| Premium rate content services (PRS)
+|-
+! scope="row" style="font-weight: normal;" | '''0908''' xxx xxxx<br />'''0909''' xxx xxxx
+| Sexual entertainment services (SES) (not available for new allocations)
+|-
+! scope="row" style="font-weight: normal;" | '''091x''' xxx xxxx
+| Premium rate non-content services (PRS)
+|-
+! scope="row" style="font-weight: normal;" | '''098x''' xxx xxxx
+| Sexual entertainment services (SES)
+|}
+
+The earlier unused 092x xxx xxxx – 099x xxx xxxx allocation for "Broadband Internet Services" no longer exists and was removed from the number plan in 2005.
+
+== Crown dependencies ==
+Although calls from UK landlines to landlines in the islands are charged at the same rate as those to other UK landlines (i.e. they are not treated as international calls), calls may be excluded from calling plans offering unlimited UK fixed line calls.
+
+Mobile operators may also charge more for calls to the islands and these calls are usually excluded from calling plans. Calls and SMS messages sent to island mobile phone numbers are not charged at the same rate as calls to UK mobile phone numbers.
+
+===Guernsey===
+This area code is used for the [[Bailiwick of Guernsey]], i.e. including [[Alderney]] and [[Sark]].
+
+{| class="wikitable" style="margin-left: 1.5em;"
+|-
+! scope="row" style="min-width: 8em;" | (01481) xxx xxx
+| style="min-width: 20em;" | Fixed line
+| style="min-width: 4em;" rowspan=6 | 48 = GU
+|-
+! (01481) 822 xxx
+| rowspan=3 | Fixed line (Alderney)
+|-
+! (01481) 823 xxx
+|-
+! (01481) 824 xxx
+|-
+! (01481) 832 xxx
+| rowspan=2 | Fixed line (Sark)
+|-
+! (01481) 833 xxx
+|-
+! 07781 xxx xxx
+| [[Sure (Cable and Wireless)|Sure]] mobile phones and pagers
+|
+|-
+! 07839 xxx xxx
+| Airtel Vodafone mobile phones
+|
+|-
+! 07911 xxx xxx
+| Wave Telecom mobile phones, not for UK
+|
+|}
+
+===Jersey===
+{| class="wikitable" style="margin-left: 1.5em;"
+|-
+! scope="row" style="min-width: 8em;" | (01534) xxx xxx
+| style="min-width: 20em;" | Fixed line
+| style="min-width: 4em;" | 53 = JE
+|-
+! 07509 xxx xxx
+| rowspan=3 | [[Jersey Telecom]] mobile phones and pagers
+| rowspan="5" |
+|-
+! 07797 xxx xxx
+|-
+! 07937 xxx xxx
+|-
+! 07700 xxx xxx
+| [[Sure (Cable and Wireless)|Sure]] mobile network
+|-
+! 07829 xxx xxx
+| Airtel Vodafone mobile network
+|}
+Several [[Jersey]] companies also have non-geographic numbers allocated.<ref name="Jersey">{{cite web | url=http://www.cicra.gg/telecoms/legal_framework.aspx#Number | title=Jersey telephone number allocations | author=JCRA | publisher=Jersey Competition Regulatory Authority | date=9 September 2009 | access-date=11 November 2012 | archive-url = https://web.archive.org/web/20131015012114/http://www.cicra.gg/telecoms/legal_framework.aspx | archive-date = 15 October 2013| url-status=live}}</ref>
+
+===Isle of Man===
+{| class="wikitable" style="margin-left: 1.5em;"
+|-
+! scope="row" style="min-width: 8em;" | (01624) xxx xxx
+| style="min-width: 20em;" | Fixed line
+| style="min-width: 4em;" | 62 = MA
+|-
+! 07624 xxx xxx
+| Mobile phones and paging services
+| rowspan="3" |
+|-
+! 07524 xxx xxx
+| rowspan=2 | Mobile phones additional capacity
+|-
+! 07924 xxx xxx
+|}
+On the [[Isle of Man]], both fixed (01624) and mobile phone (07624) numbers can be dialled locally in the six-digit format.
+
+== Fictitious numbers ==
+Ofcom has also reserved certain number ranges for use in television dramas and films, so as to avoid the risk of people having their telephone numbers displayed and receiving unwanted calls. This is similar to the use of [[fictitious telephone number]]s in the United States and Canada starting with the digits '''[[555 telephone number|555]]'''.
+
+In most of the large cities with three-digit area codes, a range of numbers is reserved, usually all the numbers starting with the digits '''496'''. For fictitious numbers in other areas, the area code '''01632''' is reserved; this code is not in use, although 0632 was used for [[Newcastle upon Tyne]] until the late 1980s (63 = NE) and briefly reallocated for use by premium rate services in the 1990s. There are also reserved ranges for fictitious mobile, freephone and premium rate numbers.<ref name="nb38-drama1999">{{cite web | url=http://www.ofcom.org.uk/static/archive/oftel/publications/1995_98/numbering/nb38.htm | title=Numbers Used For Drama. ca. 1999 | author=Oftel | work=Oftel Numbering Bulletin 38 | publisher=Office of Telecommunications | date=1 June 1999 | access-date=19 July 2009 | archive-url = https://web.archive.org/web/20130528133347/http://www.ofcom.org.uk/static/archive/oftel/publications/1995_98/numbering/nb38.htm | archive-date = 28 May 2013| url-status=live}}</ref><ref name="drama2004">{{cite web | url=http://stakeholders.ofcom.org.uk/telecoms/numbering/guidance-tele-no/numbers-for-drama | title=Telephone Numbers for drama purposes (TV, Radio etc) revised 2004 | author=[[Ofcom]] | publisher=Office of Communications | date=26 October 2004 | access-date=16 July 2010 | archive-url = https://web.archive.org/web/20140216214400/http://stakeholders.ofcom.org.uk/telecoms/numbering/guidance-tele-no/numbers-for-drama | archive-date = 16 February 2014| url-status=live}}</ref>
+
+The Post Office even produced dial centre labels for use in advertisements and film/TV with a mythical exchange called VINcent plus four digits. The numerical equivalent of VIN was 846 and all the caller got was the speaking clock (i.e. 846 is also numerical equivalent of TIM) in the big city "Director" areas.<ref name="reynolds-numbers">{{cite web | url=http://phil.tinsleyviaduct.com/phonenumbers.html | title=Phone numbers | first=Phil | last=Reynolds | date=23 November 2012 | access-date=12 December 2012 | archive-url = https://web.archive.org/web/20130606124352/http://phil.tinsleyviaduct.com/phonenumbers.html | archive-date = 6 June 2013| url-status=live}}</ref>
+
+At around the same time as the other [[Big Number Change]] changes, Ofcom revised their recommendations to update the prefixes, add additional areas and increase the size of the allocation from 10 to 1000 numbers per block. Those changes are listed in the [[Big Number Change#Numbers for drama|Big Number Change]] article.
+
+In ''[[Coronation Street]]'', the fictional Manchester suburb of Weatherfield uses the unallocated range (0161) 715 xxxx.<ref name="sabcde4xls">{{cite web | url=http://www.ofcom.org.uk/static/numbering/sabcde4.xls | format=XLS | title=Code and number blocks – 1600 00 to 1799 99 | author=[[Ofcom]] | publisher=Office of Communications | access-date=28 July 2010 | archive-url=https://web.archive.org/web/20120918011856/http://www.ofcom.org.uk/static/numbering/sabcde4.xls | archive-date=18 September 2012 | url-status=live}}</ref>
+
+== Special service numbers ==
+=== Emergency services and helplines ===
+The UK has two free emergency numbers: the traditional '''999''', which is still widely used, and the EU standard '''112''', which can be used in all member states of the European Union. Both [[999 (emergency telephone number)|999]] and [[1-1-2|112]] are used to contact all emergency services: Police, Fire Service, Ambulance Service and Coastguard. (Standard advice for Mountain Rescue or Cave Rescue is to ask the emergency operator for the police, who oversee the communication with these two services.<ref>{{cite web |url=http://www.mountain.rescue.org.uk/mountain-advice/in-case-of-accident |title=Archived copy |access-date=2015-04-20 |url-status=dead |archive-url=https://web.archive.org/web/20150427022443/http://www.mountain.rescue.org.uk/mountain-advice/in-case-of-accident |archive-date=27 April 2015 |df=dmy-all }}</ref><ref>{{cite web|url=http://www.mountainrescuescotland.org/advice/who-to-call/ |title=Scottish Mountain Rescue |website=Mountainrescuescotland.org |date=2014-06-20 |access-date=2017-07-06}}</ref><ref>{{cite web|url=http://cro.org.uk/contact-cro/ |title=contact cave rescue &#124; The Cave Rescue Organisation |website=Cro.org.uk |access-date=2017-07-06}}</ref>)
+
+Both numbers can be called from mobile phones with the keylock on or without entering the PIN where that would otherwise be required. Although some mobile phones allow emergency calls to be attempted without a SIM card, at present the UK networks reject such calls. Since November 2009, an emergency call can be made through any UK mobile network as long as there is a SIM for any valid UK network in the handset. Although UK VOIP phone providers are required to offer 999 / 112 service, this is subject to a registration for the service and with a verified service address and users need to be aware such service may not work in a power blackout; however, International VOIP providers may not provide this service.
+
+The chargeable number '''[[Police 101|101]]''' was introduced for non-urgent crime and community safety calls on a trial basis in 2006. In Wales, the scheme was taken forward by all four police forces, who adopted the number for non-emergency calls on a permanent basis in early 2009. In England, the scheme was on trial until 2012, when it was adopted nationwide and the cost to call changed from 10p per call to 15p per call. In Northern Ireland, the number was introduced by the [[Police Service of Northern Ireland]] in March 2014.<ref>{{cite web|url=http://www.psni.police.uk/index/updates/101_non_emergency_info.htm|title=Police Service of Northern Ireland|website=www.psni.police.uk|access-date=5 July 2017}}</ref> Since 1 April 2020 the number is free to call.
+
+The operator is obtained via '''100''' from landlines, while [[directory enquiries]], formerly ''192'', is now provided in the '''118xxx''' range, (not to be confused with 0118, the area code For Reading.) e.g. 118 212, 118 800, 118 500, [[118 118 (UK)|118 118]], by different companies. International Operator assistance is reached through '''155'''.
+
+From early 2010, the pan-European '''116''' number range came into use for social helplines. The first three numbers allocated were [[Missing People]] using '''116 000''' for a missing children helpline, the NSPCC [[ChildLine]] on '''116 111''', and [[Samaritans (charity)|Samaritans]] using '''116 123''' for an emotional support helpline. A recent consultation for the numbers 116 106 and 116 117 has yet to see any result.
+
+The [[National Health Service (England)|National Health Service]] (NHS) can be reached on '''111''' for non-emergency calls (from landlines and mobiles only). In other European countries, the number 116 117 is used for a similar purpose.
+
+The NHS has also launched a COVID-19 helpline on '''119''' relating to swabbing so these calls do not go through the 111 call centre.
+
+Local [[Electric power distribution|electricity network operators]] can be reached on '''[[105 (telephone number)|105]]''' to report power cuts.<ref>{{cite news|url=https://www.telegraph.co.uk/news/2016/09/06/new-national-phone-line-launched-for-power-cuts/|title=New national phone line launched for power cuts|newspaper=[[The Daily Telegraph|The Telegraph]]|first=Lexi|last=Finnigan|date=6 September 2016|access-date=12 January 2018}}</ref>
+
+Two telephone helplines within the regular code space have only eight digits, namely '''0800 11 11''' for [[ChildLine]] and '''0845 4647''' for [[NHS Direct]] in Wales.
+
+=== Speaking clock ===
+Since the mid-1990s, [[speaking clock]] services have been available throughout Great Britain using the number '''123'''. Before this, exchanges in "Director" areas (Birmingham, Edinburgh, Glasgow, Liverpool, London and Manchester) dialled 846 (TIM), later changing to 123; main exchanges in "non-Director" areas originally used "952", later changing to "80" with the introduction of STD and eventually to "8081" as other recorded services were introduced on 80X1 codes. Some mobile operators allocate other services to 123, such as customer services or voicemail.
+
+=== Automated services and access codes ===
+Short codes beginning with '''1''' are reserved for telecom service providers' own functionality; some of the most well-known are codes for use with [[Caller ID|Caller Display]]:
+{| class="wikitable" style="margin-left: 1.5em;"
+|-
+! scope="row" | 141
+| Withhold number || when normally released
+|-
+! scope="row" | 1470
+| Release number || when normally withheld
+|-
+! scope="row" | 1471
+| Last call information and return || caller may press 3 to return call on most networks
+|-
+! scope="row" | 1475
+| 1471 erasure || removes details of last call from 1471 service.  May need to be prefixed with 1470 if number is normally withheld
+|-
+! 1477
+| Automatic Call Trace
+| Stores number (even if withheld) of nuisance caller at terminating exchange for subsequent investigation and enforcement, 
+but service is seldom enabled by default
+|-
+! scope="row" | 1571
+| Voicemail service || For people who do not have answering machines.<br />If there is a new message, the dial tone will be stuttered.
+|-
+! scope="row" | 1572
+| BT Call Protect || To divert nuisance calls to junk voicemail.
+|-
+! #31#
+| Withhold number
+| 141 equivalent for use on mobile networks
+|}
+
+Many fixed line telephone subscribers, e.g. of BT,<ref name="elReg-20010629">{{cite news | url=https://www.theregister.co.uk/2001/06/29/bt_to_offer_free_voicemail/ | title=BT to offer free voicemail from Monday | first=Tim | last=Richardson | publisher=The Register | date=29 June 2001 | access-date=5 May 2005 | archive-url = https://web.archive.org/web/20140302202815/https://www.theregister.co.uk/2001/06/29/bt_to_offer_free_voicemail/ | archive-date = 2 March 2014| url-status=live}}</ref> [[Virgin Media]],<ref name="NTLprice">{{cite web | url=http://www.ntl.com/home/telephone/pdf/TelcoTariff.pdf | title=Other telephone features | work=Telephone price guide | publisher=[[Virgin Media]] | page=3 | date=20 October 2006 | access-date=5 May 2007 | archive-url=https://web.archive.org/web/20061105053417/http://www.ntl.com/home/telephone/pdf/TelcoTariff.pdf | archive-date=5 November 2006 | url-status=dead}}</ref> SkyTalk, [[TalkTalk (telecommunications company)|TalkTalk]], and PlusNet, have the opportunity to use an automated messaging service which takes messages when the called number is either engaged ("busy") or not answered within a given time. This can be accessed by calling '''[[1-5-7-1|1571]]'''.
+
+For fixed line users, it is possible to override the carrier pre-selection (CPS) on a per-call basis, dialling a special code before the number, e.g. 1280 for BT, 1664 for LowerCall, or 1844 for Daisy. Ofcom defines the range for these as: "124 to 140, 143 to 146, 148 to 149, 160 to 169, and 181 to 189 inclusive. Numbers of up to 5-digits used to access an Indirect Access Provider (‘Type B Access Codes’)".<ref name="numberingplan">{{cite web | url=http://stakeholders.ofcom.org.uk/binaries/telecoms/numbering/numbering-plan201212.pdf | title=The National Telephone Numbering Plan | author=[[Ofcom]] | publisher=Office of Communications | page=34 | date=20 December 2012 | access-date=15 February 2013 | archive-url=https://web.archive.org/web/20130217082048/http://stakeholders.ofcom.org.uk/binaries/telecoms/numbering/numbering-plan201212.pdf | archive-date=17 February 2013 | url-status=dead | df=dmy-all }}</ref>
+
+== History ==
+{{main|History of telephone numbers in the United Kingdom}}
+
+== Telephone numbers in Overseas Territories ==
+Telephone numbers in British Overseas Territories do not come under the UK telephone numbering plan. These calls are treated as international calls. Below are the access codes for the overseas territories:
+
+=== North American Numbering Plan ===
+{{See also|North American Numbering Plan}}
+* [[Anguilla]] '''+1 (264)''' xxx xxxx
+* [[Bermuda]] '''+1 (441)''' xxx xxxx
+* [[British Virgin Islands]] '''+1 (284)''' xxx xxxx
+* [[Cayman Islands]] '''+1 (345)''' xxx xxxx
+* [[Montserrat]] '''+1 (664)''' xxx xxxx
+* [[Turks and Caicos Islands]] '''+1 (649)''' xxx xxxx
+
+=== Others ===
+* [[British Antarctic Territory]] '''[[+44]]''' (Shared with the [[United Kingdom|UK]])
+* [[British Indian Ocean Territory]] '''[[+246]]'''
+* [[Falkland Islands]] and [[South Georgia and the South Sandwich Islands]] '''[[+500]]'''
+* [[Gibraltar]] '''[[+350]]'''
+* [[Saint Helena]] and [[Tristan da Cunha]] '''[[+290]]'''
+* [[Ascension Island]] '''[[+247]]'''
+* [[Akrotiri and Dhekelia]] '''[[+357]]''' (Shared with [[Cyprus]])
+* [[Pitcairn Islands]] '''[[+64]]''' (Shared with [[New Zealand]])
+
+== See also ==
+* [[Big Number Change]]
+* [[List of dialling codes in the United Kingdom]]
+* [[List of UK dialling codes covering Wales]]
+* [[Non-geographic telephone numbers in the United Kingdom]]
+* [[Telecommunications in the United Kingdom]]
+* [[Telephone number]]
+* [[Mobile number portability|Telephone number portability]]
+* [[Telephone numbering plan]]
+* [[Telephone numbers in the Republic of Ireland|Telephone numbers in Ireland]]
+* [[UK telephone code misconceptions]]—includes the common "0207" and "0208" misconceptions
+* [[Calling party pays]]
+
+== Notes ==
+{{Reflist|group=notes}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://www.ofcom.org.uk/phones-telecoms-and-internet/information-for-industry/numbering UK Numbering Policy section of Ofcom's website]
+* [https://www.ofcom.org.uk/__data/assets/pdf_file/0013/102613/national-numbering-plan.pdf UK National Telephone Numbering Plan] (PDF)
+* [https://web.archive.org/web/20140329000124/http://consumers.ofcom.org.uk/2009/09/telephone-area-codes-tool/ Ofcom – Telephone Area Code Tool – UK dialling code lookup] <!-- Currently there are several errors in this Ofcom list -->
+* [[DOI:10.1108/EUM0000000006957|Ralph Adam, 'Send a boy – or dial it yourself? numbering for the information society', ASLIB Proceedings, 51:1, January 1999]]{{subscription required}}
+* [http://www.aa-asterisk.org.uk/index.php/Category:UK_Number_Plan UK telephone numbering plan in detail]
+* [http://www.aa-asterisk.org.uk/index.php/Regular_Expressions_for_Validating_and_Formatting_GB_Telephone_Numbers Regular Expressions for Validating and Formatting GB Telephone Numbers]
+* [http://www.samhallas.co.uk/repository/documents/std_equivalents.pdf The first 25 years of STD code changes summarised] (PDF)
+* [https://areacodesfinder.com/ UK Area Codes lookup]
+
+{{Telephone numbers in the United Kingdom|state=expanded}}
+{{Telephone numbers in Europe}}
+{{Telecommunications industry in the United Kingdom}}
+{{Telecommunications}}
+
+{{DEFAULTSORT:Telephone Numbers In The United Kingdom}}
+[[Category:Telephone numbers in the United Kingdom| ]]
+[[Category:Telephone numbers by country|United Kingdom]]
+[[Category:United Kingdom communications-related lists|Telephone numbers]]

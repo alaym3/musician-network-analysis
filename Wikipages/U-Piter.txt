@@ -1,0 +1,81 @@
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name             = U-Piter
+| image            = Ю-Питер.jpg
+| caption          = Toronto (June 2016)
+| image_size       = 250px
+| background       = group_or_band
+| alias            = 
+| origin           = [[Russia]]
+| genre            = [[Russian rock]] <br> [[Post-punk]]
+| years_active     = 2001 – 2017
+| label            = 
+| associated_acts  = [[Nautilus Pompilius (band)|Nautilus Pompilius]]<br> [[Kino (band)|Kino]]
+| website          = 
+| current_members  = [[Vyacheslav Butusov]]<br>[[Yuri Kasparyan]]<br>Yevgeny Kulakov<br>Aleksey Andreev
+| past_members     = Oleg Sakmarov<br>Sergey Vyrvich
+}}
+
+'''U-Piter''' ({{lang-ru|Ю-Питер|links=no}}) was a [[Russia]]n [[rock music|rock]] band from [[Saint-Petersburg]]. The group was formed by [[Vyacheslav Butusov]] in 2001.<ref>{{Cite web|date=2003-08-22|title=Ю-ПИТЕР - Неземная география|url=https://www.zvuki.ru/R/P/10041/|url-status=live|access-date=2021-04-28|website={{ill|Zvuki.ru|ru|Звуки.ру}}|language=ru}}</ref> The group disbanded in 2017.<ref>{{Cite web|date=2017-03-04|title=Ю-ПИТЕР - Нет жизни на Марсе|url=https://www.zvuki.ru/R/P/76940/|url-status=live|access-date=2021-04-28|website={{ill|Zvuki.ru|ru|Звуки.ру}}|language=ru}}</ref> 
+
+==Members==
+
+=== Final line-up ===
+* [[Vyacheslav Butusov]] ({{Lang-ru|Вячеслав Бутусов|links=no}}) - lead vocals, guitar
+* [[Yuri Kasparyan]] ({{Lang-ru|Юрий Каспарян|links=no}}) - guitar
+* {{Interlanguage link|Yevgeny Kulakov|ru|Кулаков, Евгений Владимирович}} ({{Lang-ru|Евгений Кулаков|links=no}}) - drums
+* Aleksey Andreyev ({{Lang-ru|Алексей Андреев|links=no}}) - bass guitar, keyboards, guitar
+
+=== Former members ===
+*{{Interlanguage link|Oleg Sakmarov|ru|Сакмаров, Олег Адольфович}} ({{Lang-ru|Олег Сакмаров|links=no}}) - keyboards, wind instruments
+* Sergey Vyrvich ({{Lang-ru|Сергей Вырвич|links=no}}) - bass guitar
+
+==Discography==
+{| class="wikitable"
+|-
+!width="10%"| Year
+!width="30%"| Russian name
+!width="30%"| English transliteration (translation)
+|-
+| 2001
+| '''Ударная любовь''' (сингл)
+| ''Udarnaya Lyubov'' (Shocking Love) — single
+|-
+| 2003
+| '''Имя рек'''
+| ''Imya Rek'' (Name the Name)
+|-
+| 2004
+| '''Биографика'''
+| ''Biografika'' (Biographica)
+|-
+| 2008
+| '''Богомол'''
+| ''Bogomol'' (Mantis)
+|-
+| 2008
+| '''Mutatis Mutandis'''
+|-
+| 2010
+| '''Цветы и тернии'''
+| ''Tsvety i ternii'' (Flowers and thorns)
+|-
+| 2015
+| '''Гудгора'''
+| ''Goodgora''
+|-
+|}
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{Official website}}
+*{{Discogs artist}}
+
+{{Authority control}}
+
+[[Category:Musical groups from Saint Petersburg]]
+[[Category:Russian rock music groups]]
+
+
+{{Asia-band-stub}}

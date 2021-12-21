@@ -1,0 +1,190 @@
+{{short description|French metalcore band}}
+{{Infobox musical artist
+| name             = Novelists
+| image            = Novelists_2016230204034_2016-08-17_Summer_Breeze_-_Sven_-_5DS_R_-_0109_-_5DSR7728_mod.jpg
+| image_size       = 
+| landscape        = yes<!-- yes, if wide image, otherwise leave blank -->
+| alt              = 
+| caption          = Novelists at [[Summer Breeze Open Air]] 2016.
+| alias            = 
+| origin           = [[Paris]], France
+| genre            = {{hlist|[[Metalcore]]|[[progressive metal]]|[[djent]]}}
+| years_active     = {{start date|2013}}–present
+| label            = {{flatlist|
+* [[Out of Line Music]]
+* [[Arising Empire]]
+* [[SharpTone Records|SharpTone]]
+* NDSE Recordings
+}}
+| associated_acts  = 
+| website          = {{URL|novelistsofficial.com}}
+| current_members  = * Florestan Durand
+* Amael Durand
+* Nicolas Delestrade
+* Tobias Rische
+| past_members     = * Matteo Gelsomino
+* Charles-Henri Teule
+}}
+
+'''Novelists''' (often known in print as '''Novelists FR''') are a French [[progressive metalcore]] band from [[Paris]] who formed in 2013. They are currently signed to [[Out of Line Music]].
+
+==History==
+Novelists was founded in 2013 by brothers Amael and Florestan Durand. Shortly after, Matteo Gelsomino, Nicolas Delestrade, and Charles-Henri Teule joined.<ref name="Souvenirs">{{cite web | url=https://metal-heads.de/reviews/novelists-souvenirs-album-review-voe-13-11-2015/ | title=Novelists - Souvenirs - Album Review | work=Metal-heads.de | date=23 November 2015 | accessdate=14 September 2019 | language=de}}</ref> In April 2014, they released a demo with 6 songs. In July 2015, they signed with the [[record label]] [[Arising Empire]], and in November they released their debut [[studio album]], ''Souvenirs''.<ref>{{cite web | url=https://www.stormbringer.at/reviews/12614/novelists-souvenirs.html | title=Novelists-Souvenirs | work=Stormbringer.com | date=18 January 2016 | accessdate=14 September 2019 | language=de | author=Staub, Pascal}}</ref> In June 2017, the band released the single "The Light, the Fire". After this, they toured with [[While She Sleeps]] and [[Northlane]]. A month later, they signed with [[SharpTone Records]], and released their second studio album, ''Noir'', in September 2017.
+
+Novelists released their third studio album, titled ''C'est La Vie'', in January 2020.<ref>{{cite web|title=Novelists FR release 'Head Rush' and announce new album 'C'est La Vie' |url=http://sharptonerecords.co/novelists-fr-release-head-rush-and-announce-new-album-cest-la-vie/ |website=sharptonerecords.co |date=11 October 2019 |accessdate=23 October 2019}}</ref><ref>{{cite web|title=Le groupe de metal francais Novelists FR annonce son nouvel album C'est La Vie & publie le single Head Rush |url=https://www.metalzone.fr/news/91763-le-groupe-de-metal-francais-novelists-annonce-son-nouvel-album-cest-la-vie-publie-le-single-head-rush/ |website=metalzone.fr |date=11 October 2019 |accessdate=23 October 2019 |language=fr |trans-title=French metal band Novelists FR announce new album 'C'est La Vie' and release single 'Head Rush'}}</ref>
+
+In April 2020, the band parted ways with Gelsomino as vocalist and started an online audition process to find a new singer.<ref>{{Cite web |last=Duffour |first=Adrien |date=2020-04-07 |title=Novelists FR et le chanteur Mattéo Gelsomino se séparent |url=https://www.metalzone.fr/news/130894-novelists-fr-matteo-gelsomino-separation/ |url-status=live |archive-url= |archive-date= |access-date=2020-09-23 |website=MetalZone |language=fr-FR}}</ref>
+
+On October 27, 2020, Novelists announced that Tobias Rische, formerly of Alazka, will be replacing Gelsomino as their new vocalist.<ref>{{cite tweet|number=1321093319334760451|user=novelists_fr|title=NOVELISTS2020 welcome Tobias Rische'Lost Cause' out November 27th.<!-- full text of tweet that Twitter returned to the bot (excluding links) added by TweetCiteBot. This may be better truncated or may need expanding (TW limits responses to 140 characters) or case changes. --> |date=27 October 2020}}</ref>
+A month later, the band signed with Out of Line Music, a record label based in Berlin, and released the single "Lost Cause".<ref>{{cite web|title=Novelists FR - Lost Cause (Official Music Video) |url=https://www.youtube.com/watch?v=sn_HqE5wDYE |website=youtube.com |date=27 November 2020 |accessdate=1 December 2020}}</ref>
+
+==Musical style==
+The band's sound has been described as [[metalcore]], with guitar styles heavily inspired by [[progressive metal]] and [[djent]].<ref>{{cite web | url=https://www.metal-hammer.de/reviews/novelists-souvenirs/ | title=Novelists Souvenirs Review | work=[[Metal Hammer]] | date=3 November 2015 | accessdate=14 September 2019 | language=de | author=Grundke, Vincent}}</ref> They have been noted for primarily relying on clean vocals rather than screamed vocals, an uncommon practice in metalcore.
+
+==Members==
+'''Current'''
+* Florestan Durand  – guitar
+* Amael Durand – drums
+* Nicolas Delestrade  – bass guitar
+* Tobias Rische – lead vocals
+'''Former'''
+* Charles-Henri Teule – guitar (2013-2018)
+* Matteo Gelsomino – lead vocals (2013-2020)
+
+===Timeline===
+{{#tag:timeline|
+ImageSize = width:900 height:auto barincrement:19
+PlotArea = left:120 bottom:120 top:10 right:20
+Alignbars = justify
+DateFormat = dd/mm/yyyy
+Period = from:01/01/2013 till:{{#time:d/m/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:3
+ScaleMajor = increment:1 start:2013
+
+Colors =
+  id:LV      value:red         legend:Lead_vocals
+  id:LG      value:teal        legend:Lead_guitar
+  id:RG      value:brightgreen legend:Rhythm_guitar
+  id:B       value:blue        legend:Bass_guitar
+  id:D       value:orange      legend:Drums
+  id:A       value:black       legend:Albums
+  id:EP      value:gray(0.6)   legend:Extended_plays
+
+LineData =
+ at:01/01/2014 color:EP layer:back
+ at:01/01/2015 color:A  layer:back
+ at:01/01/2017 color:A  layer:back
+ at:01/01/2020 color:A  layer:back
+
+BarData =
+ bar:Matteo text:"Matteo Gelsomino"
+ bar:Tobias text:"Tobias Rische"
+ bar:Florestan text:"Florestan Durand"
+ bar:Charles text:"Charles-Henri Teule"
+ bar:Nicolas text:"Nicolas Delestrade"
+ bar:Amael text:"Amael Durand"
+
+PlotData =
+ width:11 textcolor:black align:left anchor:from shift:(11,-4)
+ bar:Matteo from:01/01/2013 till:06/04/2020  color:LV
+ bar:Tobias from:01/10/2020 till:end         color:LV
+ bar:Florestan from:01/01/2013 till:end      color:LG
+ bar:Florestan from:01/01/2018 till:end      color:RG width:3
+ bar:Charles from:01/01/2013 till:01/01/2018 color:RG
+ bar:Nicolas from:01/01/2013 till:end        color:B
+ bar:Amael from:01/01/2013 till:end          color:D
+}}
+
+==Discography==
+'''Studio albums'''
+* ''Souvenirs'' (2015)
+* ''Noir'' (2017)
+* ''C'est La Vie'' (2020)
+
+'''EPs'''
+* ''Demo EP'' (2014)
+
+'''Singles'''
+* "Gravity" (2015)
+* "The Light, the Fire" (2017)
+* "Eyes Wide Shut" (2018)
+* "After the Rain" (2020)
+* "Lost Cause" (2020)
+* "Terrorist" (2021)
+* "Do You Really Wanna Know?" (2021)
+
+===Music videos===
+{| class="wikitable"
+! Year
+! Album
+! Title
+! Director
+|-
+! 2013
+| ''Demo EP''
+| "Immedicable"
+| Dissension production
+|-
+! rowspan="3"| 2015
+| rowspan="5"| ''Souvenirs''
+| "Gravity"
+| Renaud Kritzinger
+|-
+| "Voyager"
+| Pavel Trebukhin
+|-
+| "Echoes"
+| Tuan Nguyen
+|-
+! rowspan="2"| 2016
+| "Souvenirs"
+| Pavel Trebukhin
+|-
+| "5:12 am"
+| Pavel Trebukhin
+|-
+! rowspan="3"| 2017
+| rowspan="3"| ''Noir''
+| "The Light, The Fire"
+| Pavel Trebukhin
+|-
+| "A Bitter End"
+| Pavel Trebukhin
+|-
+| "L’appel Du Vide"
+| Pavel Trebukhin
+|-
+! rowspan="2" |2019
+| rowspan="3" |C'est La Vie
+|"Head Rush"
+|Nicolas Delestrade
+|-
+|"C'est La Vie"
+|Alexis Fontaine & Nicolas Delestrade
+|-
+! rowspan="2" |2020
+|"Modern Slave"
+|Pavel Trebukhin
+|-
+| rowspan="2" | -
+|"Lost Cause"
+|Pavel Trebukhin
+|-
+!2021
+|"Terrorist"
+|Pavel Trebukhin
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{official|novelistsofficial.com}}
+
+{{Authority control}}
+
+[[Category:French metalcore musical groups]]
+[[Category:Musical groups from Paris]]
+[[Category:2013 establishments in France]]
+[[Category:Musical groups established in 2013]]

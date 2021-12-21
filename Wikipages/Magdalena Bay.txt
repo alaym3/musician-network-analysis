@@ -1,0 +1,84 @@
+{{For|the musical group|Magdalena Bay (group)}}
+{{Infobox body of water
+| name = Magdalena Bay
+| native_name = Bahía Magdalena
+| native_name_lang = es
+| image = 
+| alt = 
+| caption = 
+| pushpin_map = Mexico Baja California Sur#Mexico
+| pushpin_map_alt = 
+| pushpin_label_position = bottom
+| pushpin_map_caption = 
+| image_bathymetry = 
+| alt_bathymetry = 
+| caption_bathymetry = 
+| location = 
+| coords = {{Coord|24|35|N|112|00|W|region:MX_type:waterbody_scale:500000|display=inline,title}}
+| type = 
+| inflow = 
+| rivers = 
+| outflow = 
+| oceans = [[Pacific Ocean]]
+| catchment = 
+| basin_countries = 
+| agency = 
+| designation = 
+| length = {{convert|50|km|abbr=on}}
+| width = 
+| area = 
+| depth = 
+| max-depth = 
+| volume = 
+| residence_time = 
+| salinity = 
+| shore = 
+| elevation = 
+| frozen = 
+| islands = 
+| sections = 
+| islands_category = 
+| trenches = 
+| benches = 
+| cities = 
+| website = 
+| reference = 
+}}
+'''Magdalena Bay''' ({{lang-es|Bahía Magdalena}}) is a {{cvt|50.|km}} long [[bay]] in [[Comondú Municipality]] along the western coast of the [[Mexico|Mexican]] [[States of Mexico|state]] of [[Baja California Sur]].  It is protected from the [[Pacific Ocean]] by the unpopulated sandy barrier islands of Isla Magdalena and Isla Santa Margarita.
+
+== Ecology ==
+
+This bay is particularly noted for the seasonal migration of the California [[gray whale]]s that come here during winter to calve. The bay is also popular for commercial and sports [[fishing]]. Nearby [[mangrove]] [[swamp]]s provide sanctuaries for sea birds. The bay includes the small fishing port of [[San Carlos, Baja California Sur|San Carlos]], as well as [[Puerto López Mateos]], which provides a good place to observe the whales.
+
+== Islands ==
+
+Sandy [[barrier islands]] Isla Magdalena and Isla Santa Margarita separate the bay from the Pacific Ocean. Magdalena, mostly to the north and facing northwest, is a long, slender, segmented island that parallels the coast a few miles north. There is a small settlement, [[Puerto Magdalena, Baja California Sur|Puerto Magdalena]]<ref>{{Cite web|url=https://en.mexico.pueblosamerica.com/i/puerto-magdalena/|title = Puerto Magdalena (Baja California Sur) Comondú}}</ref> mostly active during whale watching season. The entire island's area is {{convert|231|km²|0|abbr=on}}.
+
+Santa Margarita, to the south, parallels the southwest-facing coast and has an area of 314&nbsp;km².  On its inland side is [[Puerto Cortés, Baja California Sur|Puerto Cortés]], the only settlement on the island, the site of a naval base administered from the 2nd Military Naval Region in [[Ensenada, Baja California|Ensenada]], [[Baja California]].  It has a military-only [[Puerto Cortés Airstrip|airstrip]] and no official registered population.
+
+==History==
+
+[[File:Man of War Cove, Magdalena Bay, March 13, 1908 LCCN2007664327.tif|right|thumb|"Man of War Cove", Magdalena Bay, March 1908]]
+
+As early as 1837 [[United States|American]] [[whaler|whaleship]]s visited the bay to cooper their [[sperm oil|oil]] and hunt [[sperm whale]]s outside the bay. Between 1845-46 and 1865–66, American, as well as a few [[France|French]], [[Netherlands|Dutch]], and [[Russia]]n, whaleships hunted gray whales in the bay during their winter calving season.<ref name=Henderson1972>{{cite book| last = Henderson| first = David A.| title = Men & Whales at Scammon's Lagoon| publisher = Dawson’s Book Shop| year = 1972| location = Los Angeles}}</ref><ref name=Lindholm>''Storfursten Constantin'', of Helsinki, winters of 1858-59 and 1859-60. In Lindholm, O. V., Haes, T. A., & Tyrtoff, D. N. (2008). ''Beyond the frontiers of imperial Russia: From the memoirs of Otto W. Lindholm''. Javea, Spain: A. de Haes OWL Publishing.</ref> They primarily caught cows and calves, but began catching bulls as the former became scarce. During the peak years from the winters of 1855-56 to 1864–65, an estimated 1,250 gray whales were caught in the bay, with a peak of about 250 whales taken by seventeen vessels in the winter of 1856–57.<ref name=Henderson1972/> They also visited the bay to obtain wood, catch [[fish]] and [[turtle]]s, and harvest [[oyster]]s.<ref>''Tiger'', of Stonington, Nov. 19, 1846-Feb. 25, 1847, George Blunt White Library; ''Bowditch'', of Warren, Oct. 14, 1847-Feb. 18, 1848, Nicholson Whaling Collection.</ref>
+
+In 1908, an American fleet of sixteen battleships on a cruise around the world, the [[Great White Fleet]], stopped in the Bay and carried out gunnery practice.
+
+In 1912, there were rumors that Japan tried to purchase the harbor from Mexico.<ref>"Japan and International Coaling Stations,"  ''The Advocate of Peace'' (1894-1920), Vol. 73, No. 5 (May, 1911), p. 98.</ref>  [[Barbara Tuchman]]'s book ''The Zimmerman Telegram'' mentions both the German kaiser and the Japanese Emperor as attempting to utilize this bay and perhaps Whale Bay for military naval purposes.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.sustainablefish.org/fisheries-improvement/shrimp/magdalena-bay-shrimp/magdalena-bay-shrimp-fishery-improvement-project Magdalena Bay Shrimp Fishery Improvement Project]
+
+{{Baja California Sur}}
+{{Authority control}}
+
+[[Category:Bays of Mexico on the Pacific Ocean]]
+[[Category:Comondú Municipality]]
+[[Category:Landforms of Baja California Sur]]
+[[Category:Islands of Baja California Sur]]
+
+
+{{BajaCaliforniaSur-geo-stub}}

@@ -1,0 +1,194 @@
+{{about|the Swedish band|the salute|Raised fist}}
+{{short description|Swedish hardcore punk band}}
+{{Use dmy dates|date=July 2021}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name                = Raised Fist
+| image                 = Raised Fist 01 by notwist.jpg
+| caption            = Live at Sticky Fingers
+| landscape           = Yes
+| background          = group_or_band
+| alias               = RF
+| origin              = [[Luleå]], [[Norrbotten]], Sweden
+| genre               = [[Hardcore punk]]
+| years_active        = 1993–present
+| label               = [[Burning Heart Records|Burning Heart]]/[[Epitaph Records|Epitaph]]
+| associated_acts     = [[Dark Funeral]], [[Defleshed]]
+| website             = {{url|raisedfist.com/}}
+| current_members     = Jimmy Tikkanen<br/> Daniel Holmgren<br/> Andreas Johansson<br/> [[Alexander Hagman]]<br/> Robert Wiiand
+| past_members        = [[#Members|See members section]]
+}}
+
+'''Raised Fist''' is a Swedish [[hardcore punk]] band formed in 1993 in [[Luleå]]. It currently consists of guitarists Jimmy Tikkanen and Daniel Holmgren, bassist Andreas Johansson, vocalist [[Alexander Hagman]] and drummer Robert Wiiand.
+
+==History==
+Raised Fist was formed in 1993 in the Swedish city [[Luleå]], with Alexander Hagman as the lead singer.<ref>[http://rollingstoneaus.com/reviews/post/raised-fist-from-the-north/1050 "Raised Fist From The North Epitaph"] {{webarchive|url=https://web.archive.org/web/20151117002119/http://rollingstoneaus.com/reviews/post/raised-fist-from-the-north/1050 |date=17 November 2015 }}. ''Rolling Stone'', by Simon Jones | 14 January 2015.</ref> The name "Raised Fist" refers to the [[Rage Against the Machine]] song "Know Your Enemy", which include the lyrics: "Born with an insight and a raised fist..."
+
+The band played at the  [[Scandinavia]]n [[Roskilde Festival]] in 2004. At one time they were signed to [[Burning Heart Records]], which houses a number of Swedish [[punk rock]] and [[hardcore punk]] bands.
+
+In 2010 Hagman received a serious electrical shock during a concert in Sundsvall when he touched a power cable which had been punctured by a riot fence. He collapsed on the stage.<ref>[http://www.expressen.se/noje/musik/rockstjarnan-kollapsade-av-elchock---pa-scenen/ "'Rockstjärnan kollapsade av elchock – på scenen"]. ''Expressen'', 6 September 2010. Article in Expressen about Alexander Hagman collapsing of an electric shock</ref>
+
+The band's album ''[[Veil of Ignorance (album)|Veil of Ignorance]]'', released in 2009, placed on the Swedish charts<ref>[http://www.sverigetopplistan.se/netdata/ghl002.mbr/lista?liid=54&dfom=20090909&newi=0&mode=list&navi=no&platform=Win32&browser=MSIE/ Raised Fists "Veil Of Ignorance" enters at nr: 22 on the Swedish albumchart]</ref> and was nominated for a Swedish Grammy Award.<ref>[http://www.expressen.se/noje/musik/de-ar-nominerade-till-grammis-2010/ Raised Fist nominated for a Swedish Grammy award]</ref>  Many of the songs on this album were written by Hagman.
+
+In 2013 Raised Fist signed a two-album contract with [[Epitaph Records]]. In 2015, after working on the songs for five years, Raised Fist released an album ''[[From the North (Raised Fist album)|From the North]]''.<ref>[http://www.soundspheremag.com/reviews/album-review-raised-fist-from-the-north/ "Album Review: Raised Fist – ‘From The North’"]. ''SoundSphere'' By Danielle Barge– 19 January 2015</ref>
+
+==Appearances==
+Vocalist Alexander appeared in an interview on Swedish television [[TV4 (Sweden)|TV4]] where he criticizes the EU [[Directive on the enforcement of intellectual property rights]] in EU countries.<ref>{{cite web|url=https://www.youtube.com/watch?v=pVnBBTtwItc |title=Raised Fist Alexander Hagman om IPRED-lagen |publisher=YouTube |date=14 April 2009 |accessdate=2 March 2015}}</ref>
+
+==Members==
+{{col-begin}}
+{{col-2}}
+'''Current'''
+* [[Alexander Hagman|Alexander "Alle" Hagman]] – vocals (1993–present)
+* Jimmy Tikkanen – guitar (2011–present)
+* Daniel Holmgren – guitar (2002–present)
+* Andreas "Josse" Johansson – bass (1993–present)
+* Robert Wiiand – drums (2017–present)
+{{col-2}}
+'''Former'''
+* Petri "Pecka" Rönnberg – guitars (1993–1996)
+* "Peson" – guitars (1993–1996)
+* Marco Eronen – guitars (1996–2011)
+* Peter "Pita" Karlsson – drums (1993–1996)
+* Oskar Karlsson – drums (1996–2005)
+* Matte Modin – drums (2005–2017)
+{{col-end}}
+
+'''Timeline'''
+{{#tag:timeline|
+ImageSize = width:800 height:auto barincrement:20
+PlotArea = left:100 bottom:80 top:0 right:10
+Alignbars = justify
+DateFormat = dd/mm/yyyy
+Period = from:01/01/1993 till:14/07/2021 # it is best not to use auto-updating timelines as it can cause problems when the graphic updates on a daily basis
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:3
+ScaleMajor = increment:5 start:1995
+ScaleMinor = increment:1 start:1993
+
+Colors =
+ id:vocals  value:red       legend:Vocals
+ id:guitar  value:green     legend:Guitars
+ id:bass    value:blue      legend:Bass
+ id:drums   value:orange    legend:Drums,_percussion
+ id:studio  value:black     legend:Studio_release
+ id:other   value:gray(0.5) legend:Other_release
+ id:bars    value:gray(0.95)
+
+BackgroundColors = bars:bars
+
+LineData =
+ layer:back
+  at:06/06/1994 color:other 
+  at:02/06/1996 color:other
+  at:09/12/1998 color:studio
+  at:22/05/2000 color:studio
+  at:24/09/2001 color:other
+  at:21/10/2002 color:studio
+  at:10/04/2006 color:studio
+  at:07/09/2009 color:studio
+  at:19/01/2015 color:studio
+  at:15/11/2019 color:studio
+
+BarData =
+ bar:Alle    text:"Alexander Hagman"
+ bar:Peson   text:"Peson"
+ bar:Pecka   text:"Petri Rönnberg"
+ bar:Marco   text:"Marco Eronen"
+ bar:Daniel  text:"Daniel Holmgren"
+ bar:Jimmy   text:"Jimmy Tikkanen"
+
+ bar:Josse   text:"Andreas Johansson"
+ bar:Pita    text:"Peter Karlsson"
+ bar:Oskar   text:"Oskar Karlsson"
+ bar:Matte   text:"Matte Modin"
+ bar:Robert  text:"Robert Wiiand"
+
+PlotData=
+ width:11
+ bar:Alle    from:01/01/1993 till:end        color:vocals
+ bar:Pecka   from:01/01/1993 till:02/01/1995 color:guitar
+ bar:Marco   from:02/01/1995 till:04/03/2011 color:guitar
+ bar:Jimmy   from:04/03/2011 till:end        color:guitar
+ bar:Peson   from:01/01/1993 till:01/01/1995 color:guitar
+ bar:Daniel  from:01/01/2002 till:end        color:guitar
+ bar:Josse   from:01/01/1993 till:end        color:bass
+ bar:Pita    from:01/01/1993 till:08/08/1996 color:drums
+ bar:Oskar   from:08/08/1996 till:11/01/2005 color:drums
+ bar:Matte   from:11/01/2005 till:20/05/2017 color:drums
+ bar:Robert  from:20/05/2017 till:end        color:drums
+}}
+
+==Discography==
+===Studio albums===
+{| class="wikitable"
+|-
+! rowspan="2" style="text-align:center; width:10px;"|Year
+! rowspan="2" style="text-align:center; width:220px;"|Album
+!  style="text-align:center; width:20px;"|Peak positions
+! rowspan="2" style="text-align:center; width:70px;"|Certification
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Sverigetopplistan|SWE]]<br><ref name="swe">{{cite web | url=http://swedishcharts.com/showinterpret.asp?interpret=Raised+Fist | title=Raised Fist discography | website=swedishcharts.com |accessdate=24 January 2015}}</ref>
+|-
+| style="text-align:center;"|1998
+|''Fuel''
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2000
+|''Ignoring the Guidelines''
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2002
+|''[[Dedication (Raised Fist album)|Dedication]]''
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2006
+|''[[Sound of the Republic]]''<ref>[http://www.fasterlouder.com.au/reviews/music/4431/Raised-Fist--Sound-of-the-Republic Raised Fist – Sound of the Republic<!-- Bot generated title -->] ''Faster Louder''. Jade Matheson 7 April 2006</ref>
+| style="text-align:center;"|{{spaced ndash}}
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2009
+|''[[Veil of Ignorance (album)|Veil of Ignorance]]''<ref>[http://punktastic.com/reviews/raised-fist-veil-of-ignorance/ Raised Fist – Veil of Ignorance | Punktastic<!-- Bot generated title -->]</ref>
+| style="text-align:center;"|22
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2015
+|''[[From the North (Raised Fist album)|From the North]]''
+| style="text-align:center;"|6
+| style="text-align:center;"|
+|-
+| style="text-align:center;"|2019
+|''Anthems''
+| style="text-align:center;"|13<br /><ref>{{cite web|url=https://www.sverigetopplistan.se/chart/54?dspy=2019&dspp=47|title=Veckolista Album, vecka 47|publisher=[[Sverigetopplistan]]|accessdate=23 November 2019}}</ref>
+| style="text-align:center;"|
+|}
+
+===EP===
+* ''[[You're Not Like Me]]'' (1994)
+* ''[[Stronger Than Ever (EP)|Stronger Than Ever]]'' (1996)
+
+===Compilations===
+* ''Heartattack Vol. 1: Burning Heart Compilation (Disc 2)''
+* ''[[Watch Your Step (Raised Fist album)|Watch Your Step]]'' (2001)
+* '' Punk-o-Rama 6, 8 ''
+* '' Cheap Shots 1,2,3,4 ''
+* ''[[Hardcore for Syria]]''
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.raisedfist.com/ Raised Fist official website]
+* [http://www.myspace.com/raisedfist MySpace – Raised Fist]
+* [http://www.burningheart.com/bands/index.php?id=232 burningheart.com]
+* [https://web.archive.org/web/20101204211231/http://www.truepunk.com/interviews/interview-with-raised-fist/ Raised Fist Interview 2009]
+
+{{Raised Fist}}
+
+{{Authority control}}
+
+[[Category:Swedish hardcore punk groups]]
+[[Category:Epitaph Records artists]]
+[[Category:Burning Heart Records artists]]

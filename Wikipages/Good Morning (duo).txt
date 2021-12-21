@@ -1,0 +1,81 @@
+{{Short description|Australian indie rock duo}}
+{{notability|Music|date=October 2021}}
+{{Use dmy dates|date=October 2021}}
+{{Use Australian English|date=October 2021}}
+{{Infobox musical artist
+| name            = Good Morning
+| image           = 
+| caption         = 
+| image_size      = 
+| alias           = 
+| origin          = [[Melbourne]], Victoria, Australia
+| genre           = {{hlist|[[indie rock]]<ref name="themusicnetwork"/>}}
+| years_active    = 2014–present
+| label           = {{hlist|Good Morning Music|Polyvinyl Records (2021-)}}
+| associated_acts = 
+| website         = 
+| current_members = * Liam Parsons 
+* Stefan Blair
+}}
+
+'''Good Morning''' is an Australian [[indie rock]] duo<ref name="themusicnetwork"/> from [[Melbourne]], [[Australia]].
+
+==History==
+The group began in 2014 with the release of their debut EP, ''Shawcross''.<ref name="nme1">{{cite web |last1=Martin |first1=Josh |title=Good Morning share new singles "Mollyduker" and "Keep It", sign to Polyvinyl |url=https://www.nme.com/en_au/news/music/good-morning-share-new-singles-mollyduker-and-keep-it-sign-to-polyvinyl-2929947 |publisher=[[NME]] |access-date=15 October 2021}}</ref> In January 2016, the duo released their second EP titled ''Glory''.<ref name="cerealandsounds">{{cite web |last1=Chin |first1=Jonathan |title=Good Morning ''Glory' |url=https://www.cerealandsounds.com/2016/01/27/good-morning-glory/ |publisher=Cereal and Sounds |access-date=15 October 2021}}</ref>
+
+Good Morning released their debut studio album in March 2018.<ref name="vice">{{cite web |last1=Gillespie |first1=Katherine |title=Good Morning's "Escalator" and "Mirror Freak" Will Make Your Day |url=https://www.vice.com/en/article/8xkq94/good-morning-escalator-mirror-freak-new-songs-prize-reward-2018 |publisher=[[Vice (magazine)|Vice]]}}</ref>
+
+In 2019, Good Morning released two EPs, ''The Option'' and ''Basketball Breakups''.<ref name="pastemagazine">{{cite web |last1=Gomez |first1=Jade |title=Good Morning Announce New Album, Share Single |url=https://www.pastemagazine.com/music/good-morning/good-morning-announces-new-album-shares-single/ |publisher=[[Paste (magazine)|Paste]] |access-date=15 October 2021}}</ref>
+
+In 2021, the duo announced they had signed with Illinois-based record label Polyvinyl Records<ref name="nme"/> along with their second full-length album titled ''Barnyard''.<ref name="nme">{{cite web |last1=Triscari |first1=Caleb |title=Good Morning announce new album ‘Barnyard’ |url=https://www.nme.com/en_au/news/music/good-morning-announce-new-album-barnyard-share-lead-single-country-3016998 |publisher=[[NME]] |access-date=15 October 2021}}</ref> The album was released on 22 October 2021.<ref name="alternativepress">{{cite web |last1=Battoclette |first1=Augusta |title=Good Morning announce new album and share latest single "Country"—watch |url=https://www.altpress.com/news/good-morning-country-barnyard-announcement/ |publisher=[[Alternative Press (magazine)|Alternative Press]] |access-date=15 October 2021}}</ref> In addition to signing with Polyvinyl, the duo also signed a publishing deal with [[Sub Pop]].<ref name="themusicnetwork">{{cite web |last1=Brewster |first1=Will |title=Good Morning sign publishing deal with Sub Pop |url=https://themusicnetwork.com/good-morning-sub-pop-signing/ |publisher=[[The Music Network]] |date=12 August 2021|access-date=15 October 2021}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable" style="text-align:center;"
+|-
+! Title
+! Details
+|-
+| ''Prize//Reward''
+|
+* Released: March 2018
+* Label: Bedroom Suck Records
+|-
+| ''Barnyard''
+|
+* Released: 22 October 2021
+* Label: Good Morning Music / Polyvinyl Records
+|}
+
+===Extended plays===
+{| class="wikitable" style="text-align:center;"
+|-
+! Title
+! Details
+|-
+| ''Shawcross''
+|
+* Released: November 2014
+* Label: Good Morning Music, Caroline Australia
+|-
+| ''Glory''
+|
+* Released: January 2016
+* Label: Good Morning Music, Caroline Australia
+|-
+| ''The Option ''
+|
+* Released: April 2019
+* Label: Good Morning Music, Caroline Australia
+|-
+| ''Basketball Breakups''
+|
+* Released: October 2019
+* Label: Good Morning Music, Caroline Australia
+|}
+
+==References==
+{{reflist}}
+
+[[Category:Polyvinyl Record Co. artists]]
+[[Category:Musical groups from Melbourne]]

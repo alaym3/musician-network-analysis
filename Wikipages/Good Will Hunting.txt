@@ -1,0 +1,348 @@
+{{Short description|1997 American drama film directed by Gus Van Sant}}
+{{Use American English|date=March 2021}}
+{{Use mdy dates|date=March 2021}}
+{{Infobox film
+| name           = Good Will Hunting
+| image          = Good Will Hunting.png
+| alt            = Photo of Robin Williams (right, name superimposed at top left) and a smiling Matt Damon (left, name superimposed at top right)
+| caption        = Theatrical release poster
+| director       = [[Gus Van Sant]]
+| producer       = [[Lawrence Bender]]
+| writer         = {{Plainlist|
+* [[Ben Affleck]]
+* [[Matt Damon]]
+}}
+| starring       = {{Plainlist|
+<!-- Per BILLING BLOCK -->
+* [[Robin Williams]]
+* Matt Damon
+* Ben Affleck
+* [[Stellan Skarsgård]]
+* [[Minnie Driver]]
+}}
+| music          = [[Danny Elfman]]
+| cinematography = [[Jean-Yves Escoffier]]
+| editing        = [[Pietro Scalia]]
+| studio         = Be Gentlemen<ref name="afi">{{cite web|url=https://catalog.afi.com/Catalog/moviedetails/60750|title=Good Will Hunting (1997)|work=[[AFI Catalog of Feature Films]]|access-date=2018-01-19|archive-date=2018-01-19|archive-url=https://web.archive.org/web/20180119175520/https://catalog.afi.com/Catalog/moviedetails/60750|url-status=live}}</ref>
+| distributor    = [[Miramax Films]]<ref name="afi" />
+| released       = {{film date|1997|12|02|[[Bruin Theater]]|1997|12|05|United States}}
+| runtime        = 126 minutes<ref name="afi" />
+| country        = United States<ref name="afi" />
+| language       = English
+| budget         = $10&nbsp;million<ref name="Numbers">{{cite web |title=Good Will Hunting (1997) - Financial Information |url=http://www.the-numbers.com/movie/Good-Will-Hunting#tab=summary |website=[[The Numbers (website)|The Numbers]] |access-date=April 17, 2016 |archive-date=April 10, 2016 |archive-url=https://web.archive.org/web/20160410031819/http://www.the-numbers.com/movie/Good-Will-Hunting#tab=summary |url-status=live }}</ref>
+| gross          = $225.9&nbsp;million<ref name="Mojo">{{cite web |title=Good Will Hunting (1997) |url=http://www.boxofficemojo.com/movies/?id=goodwillhunting.htm |website=[[Box Office Mojo]] |access-date=January 27, 2015 |archive-date=January 28, 2015 |archive-url=https://web.archive.org/web/20150128214312/http://www.boxofficemojo.com/movies/?id=goodwillhunting.htm |url-status=live }}</ref>
+}}
+
+'''''Good Will Hunting''''' is a 1997 American [[Psychological drama (subgenre)|psychological drama]] film directed by [[Gus Van Sant]], and starring [[Robin Williams]], [[Matt Damon]], [[Ben Affleck]], [[Minnie Driver]] and [[Stellan Skarsgård]]. Written by Affleck and Damon, the film follows 20-year-old [[South Boston]] janitor Will Hunting (Damon), an unrecognized genius who, as part of a [[deferred prosecution]] agreement after assaulting a police officer, becomes a patient of a therapist and studies advanced mathematics with a renowned professor (Skarsgård). Through his therapy sessions, Will re-evaluates his relationships with his best friend (Affleck), his girlfriend, and himself, facing the significant task of confronting his past and thinking about his future.
+
+The film received positive reviews from critics and grossed over $225&nbsp;million during its theatrical run against a $10&nbsp;million budget. At the [[70th Academy Awards]], it received nominations in nine categories, including [[Academy Award for Best Picture|Best Picture]] and [[Academy Award for Best Director|Best Director]], and won in two: [[Academy Award for Best Supporting Actor|Best Supporting Actor]] for Williams and [[Academy Award for Best Original Screenplay|Best Original Screenplay]] for Affleck and Damon.
+
+In 2014, it was ranked at number 53 in ''[[The Hollywood Reporter]]''{{'}}s "100 Favorite Films" list.<ref>{{cite web|url=http://www.hollywoodreporter.com/person/good-will-hunting|title=Best Hollywood Movies of All Time - Hollywood Reporter|work=The Hollywood Reporter|access-date=2014-11-22|archive-date=2014-11-26|archive-url=https://web.archive.org/web/20141126114246/http://www.hollywoodreporter.com/person/good-will-hunting|url-status=live}}</ref>
+
+==Plot==
+
+Twenty-year-old Will Hunting of [[South Boston]] is a natural genius who is self-taught. He works as a janitor at [[MIT]] and spends his free time drinking with his friends Chuckie, Billy, and Morgan. When Professor Gerald Lambeau posts a difficult [[combinatorial]] mathematics problem on a blackboard as a challenge for his graduate students, Will solves the problem anonymously, stunning both the students and Lambeau. As a challenge to the unknown genius, Lambeau posts an even more difficult problem. Will flees when Lambeau catches him writing the solution on the blackboard late at night. At a bar, Will meets Skylar, a British woman about to graduate from [[Harvard College]], who plans on attending medical school at [[Stanford University School of Medicine|Stanford]].
+
+The next day, Will and his friends fight a gang that contains a member who used to bully Will as a child. Will is arrested after he attacks a responding police officer. Lambeau sits in on his court appearance and watches Will defend himself. He arranges for him to avoid jail time if he agrees to study mathematics under Lambeau's supervision and participate in psychotherapy sessions. Will tentatively agrees but treats his therapists with mockery. In desperation, Lambeau calls on Dr. Sean Maguire, his college roommate, who now teaches psychology at [[Bunker Hill Community College]]. Unlike other therapists, Sean actually challenges Will's [[defense mechanism]]s. During the first session, Will insults Sean's deceased wife, and Sean threatens him—but after a few unproductive sessions, Will finally begins to open up.
+
+Will is particularly struck by Sean's story of how he met his wife, who later died of cancer, by giving up his ticket to the historic game six of the [[1975 World Series]], after falling in [[love at first sight]]. Sean does not regret his decision. This encourages Will to build a relationship with Skylar, though he lies to her about his past and is reluctant to introduce her to his friends or show her his rundown neighborhood. Will also challenges Sean to take an objective look at his own life, since Sean cannot move on from his wife's death.
+
+Lambeau sets up a number of job interviews for Will, but Will scorns them by sending Chuckie as his "chief negotiator", and by turning down a position at the [[National Security Agency|NSA]] with a scathing critique of the agency's moral position. Skylar asks Will to move to California with her, but he refuses and tells her he is an orphan, and that his foster father physically abused him. Will breaks up with Skylar and later storms out on Lambeau, dismissing the mathematical research he has been doing. Sean points out that Will is so adept at anticipating future failure in his interpersonal relationships that he deliberately sabotages them in order to avoid emotional pain. Chuckie likewise challenges Will over his resistance to taking any of the positions he interviews for, telling Will he owes it to his friends to make the most of opportunities they will never have, even if it means leaving one day. He then tells Will that the best part of his day is a brief moment when he waits on his doorstep thinking Will has moved on to something greater.
+
+Will walks in on a heated argument between Sean and Lambeau over his potential. Sean and Will share and find out that they were both victims of [[child abuse]]. Sean helps Will to see that he is a victim of his own inner demons and to accept that it is not his fault, causing him to break down in tears. Will accepts one of the job offers arranged by Lambeau. Having helped Will overcome his problems, Sean reconciles with Lambeau, deciding to take a sabbatical. Will's friends present him with a [[Chevrolet Nova]] for his 21st birthday so he can commute to work. Later, Chuckie goes to Will's house to pick him up, only to find that he is not there, much to his happiness. Will sends Sean a letter telling him to tell Lambeau that he had to go "see about a girl", revealing he passed on the job offer and instead is heading to California to reunite with Skylar.
+
+==Cast==
+{{Cast listing|
+* [[Robin Williams]] as Dr. Sean Maguire
+* [[Matt Damon]] as Will Hunting
+* [[Ben Affleck]] as Chuckie Sullivan
+* [[Stellan Skarsgård]] as Professor Gerald Lambeau
+* [[Minnie Driver]] as Skylar
+* [[Casey Affleck]] as Morgan O'Mally
+* [[Cole Hauser]] as Billy McBride
+* [[John Mighton]] as Tom
+* [[Scott William Winters]] as Clark
+* [[Jimmy Flynn]] as Judge George H. Malone
+* [[Christopher Britton (actor)|Christopher Britton]] as Executive #2
+* [[Alison Folland]] as MIT Student
+* [[George Plimpton]] as Henry Lipkin
+}}
+
+==Production==
+===Development===
+[[Matt Damon]] started writing the film as a final assignment for a playwriting class he was taking at [[Harvard University]].<ref name="boston">{{Cite news|url=https://www.bostonmagazine.com/arts-entertainment/2013/01/02/good-will-hunting-oral-history/|title=Good Will Hunting: An Oral History|work=[[Boston (magazine)|Boston]]|date=January 2, 2013|access-date=July 13, 2017|archive-date=December 23, 2019|archive-url=https://web.archive.org/web/20191223234200/https://www.bostonmagazine.com/arts-entertainment/2013/01/02/good-will-hunting-oral-history/|url-status=live}}</ref> Instead of writing a one-act play, Damon submitted a 40-page script.<ref name="boston" /> He wrote his then-girlfriend, medical student Skylar Satenstein (credited in the closing credits of the film), into his script. (Satenstein later married [[Metallica]] drummer [[Lars Ulrich]].)<ref>{{Cite news|url=http://www.mtv.com/news/1432111/the-unlikely-link-between-metallica-and-matt-damon/|title=The Unlikely Link Between Metallica And Matt Damon|date=1998-03-11|work=MTV News|access-date=2018-05-08|archive-date=2017-06-27|archive-url=https://web.archive.org/web/20170627051540/http://www.mtv.com/news/1432111/the-unlikely-link-between-metallica-and-matt-damon/|url-status=live}}</ref> Damon said the only scene from that script that survived – "it survived verbatim" – was when Will Hunting (Damon) meets his therapist, Sean Maguire ([[Robin Williams]]).<ref name="boston" /> Damon asked [[Ben Affleck]] to develop the screenplay together. They completed the script in 1994.<ref name="boston" /> At first, it was written as a thriller about a young man in the rough-and-tumble streets of [[South Boston]] who possesses a superior intelligence and is targeted by the government with heavy-handed recruitment.<ref name="boston" />
+
+[[Castle Rock Entertainment]] bought the script for $675,000 against $775,000, meaning that Damon and Affleck would stand to earn an additional $100,000 if the film was produced and they retained sole writing credit.{{citation needed|date=May 2018}} Castle Rock president [[Rob Reiner]] urged them to drop the thriller aspect of the story and to focus on the relationship between Will and his therapist. [[Terrence Malick]] told Affleck and Damon over dinner that the film ought to end with Will's decision to follow his girlfriend Skylar to California, not them leaving together.<ref>{{Cite web|url=http://tomshone.blogspot.com/2011/01/how-good-will-hunting-got-its-ending.html|title=THESE VIOLENT DELIGHTS: Malick gave Good Will Hunting its ending|date=2011-01-05|website=THESE VIOLENT DELIGHTS|access-date=2018-05-08|archive-date=2018-07-16|archive-url=https://web.archive.org/web/20180716111732/http://tomshone.blogspot.com/2011/01/how-good-will-hunting-got-its-ending.html|url-status=live}}</ref>
+
+At Reiner's request, screenwriter [[William Goldman]] read the script. Goldman consistently denied the persistent rumor that he wrote ''Good Will Hunting'' or acted as a [[script doctor]]. In his book ''[[Which Lie Did I Tell?]]'' Goldman jokingly writes, "I did not just doctor it. I wrote the whole thing from scratch," before dismissing the rumor as false and saying his only advice was agreeing with Reiner's suggestion.<ref>{{Cite book|url=https://books.google.com/books?id=PmE9DwAAQBAJ&pg=PA332|title=Which Lie Did I Tell?: More Adventures in the Screen Trade|last=Goldman|first=William|year=2001|publisher=Vintage Books|pages=332–333|isbn=9780375703195|access-date=2018-05-08|archive-date=2021-02-06|archive-url=https://web.archive.org/web/20210206031537/https://books.google.com/books?id=PmE9DwAAQBAJ&pg=PA332|url-status=live}}</ref>
+
+Affleck and Damon proposed to act in the lead roles, but many studio executives said they wanted [[Brad Pitt]] and [[Leonardo DiCaprio]].<ref>{{cite web | last=Juul | first=Matt | title='Good Will Hunting' Might've Been Very Different Without Sylvester Stallone | url=http://www.bostonmagazine.com/arts-entertainment/2016/01/06/matt-damon-sylvester-stallone-rocky/ | work=[[Boston Magazine]] | date=January 6, 2016 | access-date=March 11, 2018 | archive-date=February 15, 2018 | archive-url=https://web.archive.org/web/20180215143637/https://www.bostonmagazine.com/arts-entertainment/2016/01/06/matt-damon-sylvester-stallone-rocky/ | url-status=live }}</ref> Meanwhile, [[Kevin Smith]] was working with Affleck on ''[[Mallrats]]'' and with both Damon and Affleck on ''[[Chasing Amy]].''<ref>Smith's comments on the ''[[Mallrats]]'' DVD audio commentary</ref> Castle Rock put the script in turnaround, and gave Damon and Affleck 30 days to find another buyer for the script who would reimburse Castle Rock the money paid, otherwise the script reverted to the studio, and Damon and Affleck would be out. All the studios that were involved in the original bidding war for the screenplay now turned the pair down, taking meetings with Affleck and Damon only to tell them this to their face. As a last resort, Affleck passed the script to his ''Chasing Amy'' director Kevin Smith, who read it and promised to walk the script directly into [[Harvey Weinstein]]'s office at Miramax. Weinstein read the script, loved it, and paid Castle Rock their due, while also agreeing to let Damon and Affleck star in the film. In his recollection of the meeting, Weinstein asked about an out-of-place, mid-script [[oral sex]] scene, which Damon and Affleck explained was a test to see which studio executives had actually read the script.<ref>{{Cite AV media|url = https://www.youtube.com/watch?v=623Es9ZYmt8&t=25s|title = Harvey Weinstein - The Graham Norton Show|date = Mar 15, 2015 |publisher = BBC America|via= [[YouTube]] }}</ref><ref name="boston" />
+[[File:Dunkin' Donuts, Cambridge, MA.JPG|thumb|right|The [[Baskin-Robbins]]/[[Dunkin' Donuts]], in front of which Will mocked Harvard student Clark]]
+
+After buying the rights from Castle Rock, Miramax put the film into production. Several well-known filmmakers were originally considered to direct, including [[Mel Gibson]] and [[Michael Mann]].<ref>{{cite web|url=https://collider.com/chris-moore-the-chair-good-will-hunting-interview/|title=Chris Moore Talks THE CHAIR, Choosing Shane Dawson and Anna Martemucci for the Competition, GOOD WILL HUNTING, SURVIVOR'S REMORSE and More|website=Collider|date=September 6, 2014|first=Christina|last=Radish|access-date=September 5, 2020|archive-date=November 12, 2020|archive-url=https://web.archive.org/web/20201112034828/https://collider.com/chris-moore-the-chair-good-will-hunting-interview/|url-status=live}}</ref> Originally, Affleck asked Kevin Smith whether he was interested in directing. He declined, saying they needed a "good director" and that he only directs things he writes and is not much of a visual director, but still served as one of the film's executive producers. Damon and Affleck later chose [[Gus Van Sant]] for the job, whose work on previous films like ''[[Drugstore Cowboy]]'' (1989) had left a favorable impression on the fledgling screenwriters. Miramax was persuaded and hired Van Sant to direct the film.
+
+===Filming===
+[[File:Au Bon Pain, Cambridge, MA.JPG|thumb|left|The [[Au Bon Pain]] in [[Harvard Square]] where Skylar asked Will to explain his "[[photographic memory]]" to her (as seen in 2013; it has since been redeveloped by Harvard).]]
+Filming took place between April and June 1997. Although the story is set in Boston, and many of the scenes were shot on location in the Greater Boston area, many of the interior shots were filmed at locations in Toronto, with the [[University of Toronto]] standing in for [[MIT]] and [[Harvard University]]. The classroom scenes were filmed at McLennan Physical Laboratories (of the University of Toronto) and [[Central Technical School]]. Harvard normally disallows filming on its property, but permitted limited filming by the project after intervention by Harvard alumnus [[John Lithgow]].<ref>{{cite web | last=Ba Tran | first=Andrew | title=Then and Now: Revisiting 'Good Will Hunting' | url=http://archive.boston.com/yourtown/boston/southboston/gallery/good_will_hunting_15_years_later?pg=2 | work=Boston.com | page=2 | access-date=January 25, 2017 | archive-date=February 2, 2017 | archive-url=https://web.archive.org/web/20170202031302/http://archive.boston.com/yourtown/boston/southboston/gallery/good_will_hunting_15_years_later?pg=2 | url-status=live }}</ref> Likewise, only the exterior shots of [[Bunker Hill Community College]] were filmed in Boston; however, Sean's office was built in Toronto as an exact replica of one at the college.<ref>{{cite web | last=Ba Tran | first=Andrew | title=Then and Now: Revisiting 'Good Will Hunting' | url=http://archive.boston.com/yourtown/boston/southboston/gallery/good_will_hunting_15_years_later?pg=21 | work=Boston.com | page=21 | access-date=January 25, 2017 | archive-date=February 2, 2017 | archive-url=https://web.archive.org/web/20170202031104/http://archive.boston.com/yourtown/boston/southboston/gallery/good_will_hunting_15_years_later?pg=21 | url-status=live }}</ref>
+
+The interior bar scenes set in "[[South Boston|Southie]]" were shot on location at Woody's L St. Tavern.<ref>{{cite web | last=Dunn | first=Gabrielle | title=Famous Movie Locations: Woody's L Street Tavern in 'Good Will Hunting' (Boston) | url=http://blog.moviefone.com/2010/06/03/famous-movie-locations-woodys-l-street-tavern-good-will-hunting-boston/ | work=Blog.moviefone.com | date=June 3, 2010 | access-date=January 25, 2017 | archive-url=https://archive.today/20121203101349/http://blog.moviefone.com/2010/06/03/famous-movie-locations-woodys-l-street-tavern-good-will-hunting-boston/ | archive-date=December 3, 2012 | url-status=dead }}</ref> Meanwhile, the homes of Will (190 West 6th Street) and Sean (259 E Street), while some distance apart in the movie, actually back up to each other on Bowen Street, the narrow street Chuckie drives down to walk up to Will's back door.<ref>{{cite web | last=Ba Tran | first=Andrew | title=Then and Now: Revisiting 'Good Will Hunting' | url=http://archive.boston.com/yourtown/boston/southboston/gallery/good_will_hunting_15_years_later?pg=6 | work=Boston.com | page=6 | access-date=January 25, 2017 | archive-date=February 2, 2017 | archive-url=https://web.archive.org/web/20170202031200/http://archive.boston.com/yourtown/boston/southboston/gallery/good_will_hunting_15_years_later?pg=6 | url-status=live }}</ref><ref name=scenery>{{cite web | url=http://www.boston.com/bostonglobe/magazine/articles/2007/11/25/behind_the_scenery/ | title=Behind the Scenery | work=The Boston Globe | date=November 25, 2007 | access-date=January 25, 2017 | archive-date=March 5, 2016 | archive-url=https://web.archive.org/web/20160305000217/http://www.boston.com/bostonglobe/magazine/articles/2007/11/25/behind_the_scenery/ | url-status=live }}</ref>
+
+The Bow and Arrow Pub, which was located at the corner of Bow Street and Massachusetts Avenue in Cambridge, doubled as the Harvard bar in which Will met Skylar for the first time.<ref>{{cite web | last=Ba Tran | first=Andrew | title=Then and Now: Revisiting 'Good Will Hunting' | url=http://archive.boston.com/yourtown/boston/southboston/gallery/good_will_hunting_15_years_later?pg=8 | work=Boston.com | page=8 | access-date=January 25, 2017 | archive-date=February 2, 2017 | archive-url=https://web.archive.org/web/20170202031102/http://archive.boston.com/yourtown/boston/southboston/gallery/good_will_hunting_15_years_later?pg=8 | url-status=live }}</ref> The [[Baskin-Robbins]]/[[Dunkin' Donuts]] featured in the "How do you like ''them'' apples?" scene was next door to the pub at the time of the film's release.<ref name=scenery/>
+
+[[Tasty Sandwich Shop|The Tasty]], at the corner of JFK and Brattle Streets, was the scene of Will and Skylar's first kiss.<ref>{{cite web | last=Ba Tran | first=Andrew | title=Then and Now: Revisiting 'Good Will Hunting' | url=http://archive.boston.com/yourtown/boston/southboston/gallery/good_will_hunting_15_years_later?pg=20 | work=Boston.com | page=20 | access-date=January 25, 2017 | archive-date=April 3, 2020 | archive-url=https://web.archive.org/web/20200403121714/http://archive.boston.com/yourtown/boston/southboston/gallery/good_will_hunting_15_years_later?pg=20 | url-status=live }}</ref> The [[Au Bon Pain]], where Will and Skylar discuss the former's [[photographic memory]], was at the corner of Dunster Street and Mass Ave.<ref>{{cite web | last=Ba Tran | first=Andrew | title=Then and Now: Revisiting 'Good Will Hunting' | url=http://archive.boston.com/yourtown/boston/southboston/gallery/good_will_hunting_15_years_later?pg=23 | work=Boston.com  | page=23 | access-date=January 25, 2017}}</ref>
+
+The [[Boston Public Garden]] bench on which Will and Sean sat for a scene in the film became a temporary shrine after Williams' death in 2014.<ref>[http://www.boston.com/news/2014/08/12/good-will-hunting-bench-boston-public-garden-becomes-robin-williams-memorial/9NupwfvGMPMUolDr9IpsYL/story.html "‘Good Will Hunting’ Bench in Boston Public Garden Becomes Robin Williams Memorial"] {{Webarchive|url=https://web.archive.org/web/20141103222321/http://www.boston.com/news/2014/08/12/good-will-hunting-bench-boston-public-garden-becomes-robin-williams-memorial/9NupwfvGMPMUolDr9IpsYL/story.html |date=2014-11-03 }} - Boston.com, August 12, 2014</ref>
+
+==Soundtrack==
+{{Infobox album
+| name       = Good Will Hunting: Music from the Miramax Motion Picture
+| type       = soundtrack
+| artist     = Various artists
+| cover      =
+| alt        =
+| released   = December 2, 1997
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Soundtrack]], [[indie rock]], [[acoustic rock]], [[indie folk]]
+| length     =
+| label      = [[Capitol Records|Capitol]]
+| producer   =
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+The musical score for ''Good Will Hunting'' was composed by [[Danny Elfman]], who had previously collaborated with [[Gus Van Sant]] on ''[[To Die For]]'' and would go on to score many of the director's other films.<ref>{{Cite news|url=https://www.parkrecord.com/entertainment/filmmaker-gus-van-sant-and-composer-danny-elfman-talk-of-their-collaborations/|title=Filmmaker Gus Van Sant and composer Danny Elfman talk of their collaborations|access-date=2018-05-11|archive-date=2018-05-11|archive-url=https://web.archive.org/web/20180511081905/https://www.parkrecord.com/entertainment/filmmaker-gus-van-sant-and-composer-danny-elfman-talk-of-their-collaborations/|url-status=live}}</ref> The film also features many songs written and recorded by singer-songwriter [[Elliott Smith]]. His song "[[Miss Misery]]" was nominated for the [[Academy Award for Best Original Song]], but lost to "[[My Heart Will Go On]]" from ''[[Titanic (1997 film)|Titanic]]''.<ref>{{Cite news|url=https://www.bostonmagazine.com/news/2013/01/10/elliott-smiths-music-good-hunting/|title=How Elliott Smith's Music Transformed Good Will Hunting – Boston Magazine|date=2013-01-10|work=Boston Magazine|access-date=2018-05-10|archive-date=2018-05-11|archive-url=https://web.archive.org/web/20180511081722/https://www.bostonmagazine.com/news/2013/01/10/elliott-smiths-music-good-hunting/|url-status=live}}</ref> Elfman's score was also nominated for an [[Academy Award|Oscar]], but lost to ''Titanic'' as well. On September 11, 2006, ''[[Today (NBC program)|The Today Show]]'' used Elfman's song "Weepy Donuts" while [[Matt Lauer]] spoke during the opening credits.
+
+A soundtrack album for the film was released by [[Capitol Records]] on November 18, 1997, though only two of Elfman's cues appear on the release.<ref>{{cite web|title=Good Will Hunting – Original Soundtrack|url=http://www.allmusic.com/album/good-will-hunting-mw0000030450|work=[[AllMusic]]|publisher=All Media Network, LLC|access-date=February 20, 2014|archive-date=March 17, 2014|archive-url=https://web.archive.org/web/20140317074641/http://www.allmusic.com/album/good-will-hunting-mw0000030450|url-status=live}}</ref><ref>{{Cite news|url=https://consequenceofsound.net/2009/08/cinema-sounds-good-will-hunting-original-motion-picture-soundtrack/|title=Cinema Sounds: Good Will Hunting|date=2009-08-26|work=Consequence of Sound|access-date=2018-05-11|archive-date=2018-05-11|archive-url=https://web.archive.org/web/20180511145627/https://consequenceofsound.net/2009/08/cinema-sounds-good-will-hunting-original-motion-picture-soundtrack/|url-status=live}}</ref>
+
+{{Track listing
+| all_writing =
+| music9 = Elliott Smith
+| length15 = 3:48
+| music1 = [[Elliott Smith]]
+| music2 = [[Jeb Loy Nichols]]
+| music3 = Elliott Smith
+| music4 = Elliott Smith
+| music5 = [[The Waterboys]]
+| music6 = [[Luscious Jackson]]
+| music7 = Danny Elfman
+| music8 = Elliott Smith
+| music10 = [[Gerry Rafferty]]
+| length13 = 6:18
+| music11 = [[Andru Donalds]]
+| music12 = [[The Dandy Warhols]]
+| music13 = [[Al Green]]
+| music14 = Elliott Smith
+| music15 = Danny Elfman
+| title11 = Somebody's Baby
+| title12 = [[Boys Better]]
+| title13 = How Can You Mend a Broken Heart?
+| title14 = [[Miss Misery]]
+| length14 = 3:12
+| length12 = 4:32
+| title1 = Between the Bars (Orchestral)
+| title6 = Why Do I Lie?
+| length1 = 1:09
+| title2 = As the Rain
+| length2 = 4:51
+| title3 = Angeles
+| length3 = 2:55
+| title4 = No Name #3
+| length4 = 3:10
+| title5 = [[Fisherman's Blues (song)|Fisherman's Blues]]
+| length5 = 4:19
+| length6 = 3:27
+| length11 = 3:10
+| title7 = Will Hunting" (Main Titles)
+| length7 = 2:41
+| title8 = [[Between the Bars]]
+| length8 = 2:21
+| title9 = [[Say Yes (Elliott Smith song)|Say Yes]]
+| length9 = 2:15
+| title10 = [[Baker Street (song)|Baker Street]]
+| length10 = 4:08
+| total_length = 52:16
+| headline = ''Good Will Hunting: Music from the Miramax Motion Picture''
+| title15 = Weepy Donuts
+}}
+
+"[[Afternoon Delight]]" by the [[Starland Vocal Band]] was featured in the film, but did not appear on the soundtrack album.
+
+{{Infobox album
+| name       = Good Will Hunting: Original Motion Picture Soundtrack
+| type       = soundtrack
+| artist     = Danny Elfman, Elliott Smith
+| cover      =
+| alt        =
+| released   = March 3, 2014
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Soundtrack]]
+| length     =
+| label      = Music Box Records
+| producer   =
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+A limited edition soundtrack album featuring Elfman's complete score from the film was released by Music Box Records on March 3, 2014. The soundtrack, issued in 1500 copies, includes all of Elfman's cues (including music not featured on the rare Miramax Academy promo) and also contains the songs by Elliott Smith. One of the tracks is Smith's songs with Elfman's arrangements added into the mix.<ref>{{cite web|title=Good Will Hunting – Danny Elfman|url=http://www.musicbox-records.com/en/cd-catalog/60-good-will-hunting.html|work=Music Box Records|access-date=March 3, 2014|archive-date=March 9, 2014|archive-url=https://web.archive.org/web/20140309150201/http://www.musicbox-records.com/en/cd-catalog/60-good-will-hunting.html|url-status=live}}</ref>
+
+# Main Title (2:44)
+# Genie Mopper (0:37)
+# First Calculation (1:08)
+# Theorem (0:42)
+# Kick Ass Choir (0:59)
+# Mystery Math (2:28)
+# Them Apples (0:57)
+# Jail (1:13)
+# Second Shrink (1:14)
+# Any Port (1:25)
+# Times Up (1:14)
+# Oliver Twist (1:58)
+# Staring Contest (0:49)
+# Secret Weapon (0:57)
+# Retainer (Part A) (0:58)
+# Retainer (Part B) (0:20)
+# Tell You Something (0:48)
+# No Love Me (0:47)
+# Fire Music (1:11)
+# Whose Fault (2:34)
+# End Titles (3:50)
+# Between the Bars (Orchestral) (1:09) – Performed by Elliott Smith / Arr. by Elfman
+# No Name #3 (3:04) – Performed by Elliott Smith
+# Say Yes (2:15) – Performed by Elliott Smith
+# Between the Bars (2:21) – Performed by Elliott Smith
+# Angeles (2:55) – Performed by Elliott Smith
+# Miss Misery (3:12) – Performed by Elliott Smith
+
+==Mathematics==
+In an early version of the script, Will Hunting was going to be a physics prodigy, but Nobel Laureate in Physics [[Sheldon Lee Glashow|Sheldon Glashow]] at Harvard told Damon that the subject should be math instead of physics. Glashow referred Damon to his brother-in-law, [[Daniel Kleitman]], a mathematics professor at MIT. In the spring of 1997, Damon and Affleck asked Kleitman to "speak math to us" for writing realistic dialogue, so Kleitman invited postdoc [[Tom Bohman]] to join him, giving them a "quick lecture". When asked for a problem that Will could solve, Kleitman and Bohman suggested the unsolved computer science [[P versus NP problem]], but the movie used other problems. [[Columbia University]]'s physics and math professor [[Brian Greene]] at the [[Tribeca Film Festival|Tribeca]] [[Alfred P. Sloan Foundation|Sloan]] retrospective explained that for physics, "Having some deep insight about the universe [⁠ ⁠.⁠ ⁠.⁠ ⁠.⁠ ⁠] typically [⁠ ⁠is ⁠] a group project in the modern era," while "doing some mathematical theorem is a singular undertaking very often."<ref name="bi">{{Cite news|url=http://www.businessinsider.com/good-will-hunting-matt-damon-harvard-professor-helped-change-movie-2015-4|title=One of Matt Damon's Harvard professors gave him a small note that completely changed 'Good Will Hunting'|work=Business Insider|access-date=2018-05-10|archive-date=2018-05-10|archive-url=https://web.archive.org/web/20180510184841/http://www.businessinsider.com/good-will-hunting-matt-damon-harvard-professor-helped-change-movie-2015-4|url-status=live}}</ref><ref name="mit">{{Cite news|url=https://alum.mit.edu/slice/how-mit-professor-helped-good-will-hunting-get-math-right-and-landed-tiny-role-film|title=How an MIT Professor Helped Good Will Hunting Get the Math Right—and Landed a Tiny Role in the Film|access-date=2018-05-10|last=London|first=Jay|work=MIT Alumni - Slice of MIT|archive-date=2020-10-23|archive-url=https://web.archive.org/web/20201023051200/https://alum.mit.edu/slice/how-mit-professor-helped-good-will-hunting-get-math-right-and-landed-tiny-role-film|url-status=live}}</ref>
+
+Patrick O'Donnell, professor of physics at the [[University of Toronto]], served as the mathematical consultant for the film.<ref>O'Donnell relied on ''Graph Theory and Theoretical Physics'' by [[Frank Harary]] where at page 63 P.W. Kasteleyn wrote on "Graph theory and crystal physics".</ref>
+
+The main hallway blackboard is used twice to reveal Will Hunting's talent, first to the audience, second to Professor Lambeau. Matt Damon based it on his artist brother Kyle visiting MIT's [[Infinite Corridor]] and writing "an incredibly elaborate, totally fake, version of an equation" on a blackboard, which lasted for months. Kyle returned to Matt, saying that MIT needed those blackboards "because these kids are so smart they just need to, you know, drop everything and solve problems!"<ref>{{Cite news|url=https://news.mit.edu/2016/matt-damon-commencement-address-0603|title=Matt Damon's Commencement address|work=MIT News|access-date=2018-05-11|archive-date=2018-04-30|archive-url=https://web.archive.org/web/20180430161028/http://news.mit.edu/2016/matt-damon-commencement-address-0603|url-status=live}}</ref>
+
+===The first blackboard problem===
+Near the start of the film, Will sets aside his mop to study a difficult problem posed by Lambeau on the blackboard.<ref>[[Burkard Polster]] & Marty Ross (2012) ''Math goes to the Movies'', [[Johns Hopkins University Press]], page 9, {{ISBN|1-4214-0483-4}}</ref> The problem has to do with intermediate-level [[graph theory]], but Lambeau describes it as an advanced "[[Fourier analysis|Fourier]] system."
+
+To answer the first part of the question, Will chalks up an [[adjacency matrix]]:
+:<math>A=\begin{pmatrix} 0 & 1 & 0& 1 \\ 1 & 0 & 2 & 1 \\ 0 & 2 & 0 & 0 \\ 1 & 1 & 0 & 0 \end{pmatrix}.</math> 
+To answer the second part, he determines the number of 3-step [[walk (graph theory)|walks]] in the graph, and finds the third power matrix:
+:<math>A^3=\begin{pmatrix} 2 & 7 & 2 & 3 \\ 7 & 2 & 12 & 7 \\ 2 & 12 & 0 & 2 \\ 3 & 7 & 2 & 2 \end{pmatrix}.</math>
+The third and fourth parts of the question concern [[Generating function#Example: Spanning trees of fans and convolutions of convolutions|generating functions]]. The other characters are astounded that a janitor shows such facility with [[matrix (mathematics)|matrices]].
+
+===The second blackboard problem===
+Lambeau subsequently poses a new challenge on the blackboard: state [[Cayley's formula]] and "draw all the homeomorphically irreducible trees with <math>n=10</math>." Will writes eight of the ten trees correctly before Lambeau interrupts.<ref>{{cite web|url=https://www.cantorsparadise.com/the-math-problems-from-good-will-hunting-w-solutions-b081895bf379|title=The Math Problems from Good Will Hunting, w/ solutions|author=Jorgen Veisdal|date=31 July 2019}}</ref>
+
+==Reception==
+===Box office===
+In the film's opening weekend in limited release, it earned $272,912. In its January 1998 wide-release opening weekend, it earned $10,261,471. It went on to gross $138,433,435 in North America and a total worldwide gross of $225,933,435.<ref name="Mojo" />
+
+===Critical response===
+On the [[review aggregator]] [[Rotten Tomatoes]], the film holds an approval rating of 98% based on 82 reviews, with an average rating of 8.00/10. The website's critical consensus reads, "It follows a predictable narrative arc, but ''Good Will Hunting'' adds enough quirks to the journey – and is loaded with enough powerful performances – that it remains an entertaining, emotionally rich drama."<ref name="Tomatoes">{{cite web |url=http://www.rottentomatoes.com/m/good_will_hunting/ |title=Good Will Hunting |work=[[Rotten Tomatoes]] |publisher=[[Fandango Media|Fandango]] |access-date=November 16, 2020 |archive-date=August 17, 2010 |archive-url=https://web.archive.org/web/20100817024212/http://www.rottentomatoes.com/m/good_will_hunting/ |url-status=live }}</ref> On [[Metacritic]], the film has a [[Weighted arithmetic mean|weighted average]] score of 70 out of 100, based on 28 critics, indicating "generally favorable reviews".<ref name="Metacritic">{{cite web |url=http://www.metacritic.com/movie/good-will-hunting |title=Good Will Hunting Reviews, Ratings, Credits, and More at Metacritic |work=[[Metacritic]] |publisher=[[CBS Interactive]] |access-date=July 11, 2020 |archive-date=September 19, 2020 |archive-url=https://web.archive.org/web/20200919092209/https://www.metacritic.com/movie/good-will-hunting |url-status=live }}</ref> Audiences surveyed by [[CinemaScore]] gave the film an average grade of "A" on an A+ to F scale.<ref>{{cite web |url= https://www.cinemascore.com/publicsearch/index/title/ |title= Cinemascore |url-status= dead |archive-url= https://web.archive.org/web/20181220122629/https://www.cinemascore.com/publicsearch/index/title/ |archive-date= 2018-12-20 |access-date= 2019-07-22 }}</ref>
+
+[[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' gave the film three stars out of four, writing that while the story is "predictable", it is "the individual moments, not the payoff, that make it so effective".<ref>{{cite web |last= Ebert |first= Roger |author-link= Roger Ebert |url= http://www.rogerebert.com/reviews/good-will-hunting-1997 |title= Good Will Hunting Movie Review (1997) |publisher= [[Chicago Sun-Times]] |date= 1997-12-25 |access-date= 2013-09-01 |archive-date= 2013-08-02 |archive-url= https://web.archive.org/web/20130802052628/http://www.rogerebert.com/reviews/good-will-hunting-1997 |url-status= live }}</ref> Duane Byrge of ''[[The Hollywood Reporter]]'' praised the performances of the cast, writing "The acting is brilliant overall, with special praise to Matt Damon for his ragingly tender portrayal of the boy cursed with genius".<ref>{{Cite web|url=https://www.hollywoodreporter.com/review/good-will-hunting-1997-review-952640|title='Good Will Hunting': THR's 1997 Review|last=Byrge|first=Duane|date=1991-12-01|website=The Hollywood Reporter|language=en|access-date=2020-04-28}}</ref> Peter Stack of the ''[[San Francisco Chronicle]]'' was equally positive, writing "The glow goes well beyond a radiant performance by Matt Damon ... Intimate, heartfelt and wickedly funny, it's a movie whose impact lingers".<ref>{{Cite web|url=https://www.sfgate.com/movies/article/FILM-REVIEW-Will-Has-a-Way-About-It-2788001.php|title=FILM REVIEW -- 'Will' Has a Way About It / Williams, Damon are funny and heartfelt in Van Sant's sure-handed drama|last1=Stack|first1=Peter|last2=Critic|first2=Chronicle Staff|date=1997-12-25|website=SFGate|access-date=2020-04-28|archive-date=2020-09-25|archive-url=https://web.archive.org/web/20200925131551/https://www.sfgate.com/movies/article/FILM-REVIEW-Will-Has-a-Way-About-It-2788001.php|url-status=live}}</ref> [[Owen Gleiberman]], writing for ''[[Entertainment Weekly]]'', gave the film a "B", stating "''Good Will Hunting'' is stuffed – indeed, overstuffed – with heart, soul, audacity, and blarney. You may not believe a minute of it, but you don't necessarily want to stop watching". He also noted Damon's and Williams' chemistry, describing it as "a quicksilver intercepting each other's thoughts".<ref>{{Cite web|url=https://ew.com/article/1997/12/05/good-will-hunting-3/|title=Good Will Hunting|last=Gleiberman|first=Owen|date=1997-12-05|website=EW.com|language=EN|access-date=2020-04-28|archive-date=2020-04-04|archive-url=https://web.archive.org/web/20200404230223/https://ew.com/article/1997/12/05/good-will-hunting-3/|url-status=live}}</ref> [[Janet Maslin]] of ''[[The New York Times]]'', called the screenplay "smart and touching", and praised Van Sant for directing with "style, shrewdness and clarity". She also complimented the [[Production designer|production design]] and [[cinematography]], which were able to effortlessly move the viewer from "classroom to dorm room to neighborhood bar", in a small setting.<ref>{{Cite news|last=Maslin|first=Janet|url=https://www.nytimes.com/1997/12/05/movies/film-review-logarithms-and-biorhythms-test-a-young-janitor.html|title=FILM REVIEW; Logarithms and Biorhythms Test a Young Janitor|date=1997-12-05|work=The New York Times|access-date=2020-04-28|language=en-US|issn=0362-4331|archive-date=2020-04-02|archive-url=https://web.archive.org/web/20200402173351/https://www.nytimes.com/1997/12/05/movies/film-review-logarithms-and-biorhythms-test-a-young-janitor.html|url-status=live}}</ref>
+
+Quentin Curtis of ''[[The Daily Telegraph]]'' opined Williams' performance brought "sharpness and tenderness", calling the film a "crowd-pleaser, with bags of charm to spare. It doesn't bear thinking too much about its message ... Damon and Affleck's writing has real wit and vigour, and some depth".<ref>{{Cite news|last=Curtis|first=Quentin|url=https://www.telegraph.co.uk/culture/film/filmreviews/11035949/Good-Will-Hunting-review-Robin-Williams-brings-off-sharpness-and-tenderness.html|title=Good Will Hunting, review: 'Robin Williams brings off sharpness and tenderness'|newspaper=The Daily Telegraph|date=2014-08-15|access-date=2020-04-28|language=en-GB|issn=0307-1235|archive-date=2020-06-05|archive-url=https://web.archive.org/web/20200605122758/https://www.telegraph.co.uk/culture/film/filmreviews/11035949/Good-Will-Hunting-review-Robin-Williams-brings-off-sharpness-and-tenderness.html|url-status=live}}</ref> Andrew O'Hehir of ''[[Salon (website)|Salon]]'' stated that despite the "enjoyable characters", he thought the film was somewhat superficial, writing "there isn't a whole lot of movie to take home with you ... many will wake the next morning wondering why, with all that talent on hand, it amounts to so little in the end".<ref>{{Cite web|url=https://www.salon.com/1997/12/05/goodwill/|title=Good Will Hunting|last=O'Hehir|first=Andrew|date=1997-12-06|website=Salon|language=en|access-date=2020-04-28|archive-date=2020-08-05|archive-url=https://web.archive.org/web/20200805234736/https://www.salon.com/1997/12/05/goodwill/|url-status=live}}</ref> Writing for the [[BBC]], Nev Pierce gave the film four stars out of five, describing the film as "touching, without being sentimental", although he felt some scenes were "odd lapses into self-help speak".<ref>{{Cite web|url=http://www.bbc.co.uk/films/2001/12/06/good_will_hunting_1998_review.shtml|title=BBC - Films - review - Good Will Hunting|last=Pierce|first=Nev|date=2001-12-06|website=www.bbc.co.uk|access-date=2020-04-28|archive-date=2020-02-17|archive-url=https://web.archive.org/web/20200217060829/http://www.bbc.co.uk/films/2001/12/06/good_will_hunting_1998_review.shtml|url-status=live}}</ref> [[Emanuel Levy]] of [[Variety (magazine)|''Variety'']] called the film a "beautifully realized tale ... engaging and often quite touching". He felt that the film's visual style showcased Van Sant's talent, but the plot was "quite predictable".<ref>{{Cite web|url=https://variety.com/1997/film/reviews/good-will-hunting-3-1200452429/|title=Good Will Hunting|last1=Levy|first1=Emanuel|date=1997-12-01|website=Variety|language=en|access-date=2020-04-28|archive-date=2014-12-26|archive-url=https://web.archive.org/web/20141226120724/http://variety.com/1997/film/reviews/good-will-hunting-3-1200452429/|url-status=live}}</ref>
+
+===Academic response===
+Several scholars have examined the film as a portrayal of [[Anti-Catholicism in the United States|residual Catholic–Protestant tensions in Boston]], as [[Irish Catholic]]s from [[South Boston|Southie]] are aligned against ostensibly [[White Anglo-Saxon Protestant|Protestant]] characters who are affiliated with [[Harvard University|Harvard]] and [[Massachusetts Institute of Technology|MIT]].<ref name="Herlihy-Mera">{{cite journal |last=Herlihy-Mera |first=Jeffrey |url=https://www.academia.edu/1548918 |title=Revisioning Migration: On the Stratifications of Irish Boston in Good Will Hunting |journal=ALIF: Journal of Comparative Poetics |volume=32 |date=2012 |pages=1–22 |isbn=9789774165283 |access-date=2013-09-01 |archive-date=2021-02-06 |archive-url=https://web.archive.org/web/20210206031437/https://www.academia.edu/1548918/Revisioning_Migration_On_the_Stratifications_of_Irish_Boston_in_Good_Will_Hunting |url-status=live }}</ref>
+
+===Accolades===
+;'''[[70th Academy Awards]]'''<ref>{{cite web|url=http://www.oscars.org/oscars/ceremonies/1998/G?qt-honorees=1#block-quicktabs-honorees|title=70th Annual Academy Awards Nominees & Winners|publisher=Academy of Motion Picture Arts and Sciences|access-date=August 27, 2016|archive-date=August 28, 2016|archive-url=https://web.archive.org/web/20160828151345/http://www.oscars.org/oscars/ceremonies/1998/G?qt-honorees=1#block-quicktabs-honorees|url-status=live}}</ref>
+: '''Won''': [[Academy Award for Best Supporting Actor]] – [[Robin Williams]]
+: '''Won''': [[Academy Award for Best Original Screenplay]] – [[Ben Affleck]] & [[Matt Damon]]
+: Nominated: [[Academy Award for Best Picture]] – [[Lawrence Bender]] (producer)
+: Nominated: [[Academy Award for Best Director]] – [[Gus Van Sant]]
+: Nominated: [[Academy Award for Best Actor]] – Matt Damon
+: Nominated: [[Academy Award for Best Supporting Actress]] – [[Minnie Driver]]
+: Nominated: [[Academy Award for Best Film Editing]] – [[Pietro Scalia]]
+: Nominated: [[Academy Award for Best Original Score|Academy Award for Best Original Dramatic Score]] – [[Danny Elfman]]
+: Nominated: [[Academy Award for Best Original Song]] – "Miss Misery" (music and lyrics by [[Elliott Smith]])
+
+;'''[[55th Golden Globe Awards]]''':
+: '''Won''': [[Golden Globe Award for Best Screenplay]] – Ben Affleck & Matt Damon<ref>{{cite web | url=https://www.nytimes.com/1998/01/19/movies/titanic-wins-top-golden-globe-award.html | title='Titanic' Wins Top Golden Globe Award | last=Sterngold | first=James | date=January 19, 1998 | access-date=August 27, 2016 | work=[[The New York Times]] | archive-date=December 22, 2014 | archive-url=https://web.archive.org/web/20141222194644/http://www.nytimes.com/1998/01/19/movies/titanic-wins-top-golden-globe-award.html | url-status=live }}</ref>
+: Nominated: [[Golden Globe Award for Best Motion Picture – Drama]]<ref name="globes">{{cite web | url=http://www.cnn.com/SHOWBIZ/9712/18/golden.globes.list/index.html | title=Nominees for Golden Globe Awards | date=1997 | access-date=August 27, 2016 | work=[[CNN]] | archive-date=June 10, 2020 | archive-url=https://web.archive.org/web/20200610135458/http://www.cnn.com/SHOWBIZ/9712/18/golden.globes.list/index.html | url-status=live }}</ref>
+: Nominated: [[Golden Globe Award for Best Actor – Motion Picture Drama]] – Matt Damon<ref name="globes" />
+: Nominated: [[Golden Globe Award for Best Supporting Actor – Motion Picture]] – Robin Williams<ref name="globes" />
+
+;'''[[4th Screen Actors Guild Awards]]''':<ref>{{Cite web|url=https://www.sagawards.org/awards/nominees-and-recipients/4th-annual-screen-actors-guild-awards|title=The 4th Annual Screen Actors Guild Awards {{!}} Screen Actors Guild Awards|website=www.sagawards.org|access-date=2018-05-10|archive-date=2018-05-11|archive-url=https://web.archive.org/web/20180511145611/https://www.sagawards.org/awards/nominees-and-recipients/4th-annual-screen-actors-guild-awards|url-status=live}}</ref>
+: '''Won''': [[Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Supporting Role]] – Robin Williams
+: Nominated: [[Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture]]
+: Nominated: [[Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role]] – Matt Damon
+: Nominated: [[Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Supporting Role]] – Minnie Driver
+
+;'''Other Major Awards / Nominations''':
+: '''Won''': [[Berlin International Film Festival|Silver Bear for an outstanding single achievement]], Berlin International Film Festival  – Matt Damon<ref name="Berlinale">{{cite web |url=https://www.berlinale.de/en/archive/jahresarchive/1998/03_preistraeger_1998/03_preistraeger_1998.html |title=Berlinale: Prizes & Honours 1998 |access-date=July 31, 2020 |work=[[Berlinale]].de |archive-date=August 3, 2020 |archive-url=https://web.archive.org/web/20200803205849/https://www.berlinale.de/en/archive/jahresarchive/1998/03_preistraeger_1998/03_preistraeger_1998.html |url-status=live }}</ref>
+: '''Won''': [[Humanitas Prize]] for Feature Film – Matt Damon & Ben Affleck<ref>{{Cite news|url=https://variety.com/1998/film/news/damon-affleck-win-humanitas-pic-prize-1117478325/|title=Damon, Affleck win Humanitas pic prize|last=Olson|first=Eric J.|date=1998-07-10|work=Variety|access-date=2018-05-10|language=en-US|archive-date=2018-05-11|archive-url=https://web.archive.org/web/20180511145644/http://variety.com/1998/film/news/damon-affleck-win-humanitas-pic-prize-1117478325/|url-status=live}}</ref>
+: Nominated: [[Directors Guild of America|Directors Guild of America Award for Outstanding Directorial Achievement in Motion Pictures]] – Gus Van Sant<ref>{{Cite web|url=https://www.dga.org/News/PressReleases/1998/0126-DGA-Announces-Five-Nominees-for-Outstanding-Directorial-Achievement-in-Feature-Film.aspx|title=DGA Announces Five Nominees for Outstanding Directorial Achievement in Feature Film for 1997 -|website=www.dga.org|access-date=2018-05-10|archive-date=2018-05-11|archive-url=https://web.archive.org/web/20180511081253/https://www.dga.org/News/PressReleases/1998/0126-DGA-Announces-Five-Nominees-for-Outstanding-Directorial-Achievement-in-Feature-Film.aspx|url-status=live}}</ref>
+: Nominated: [[Writers Guild of America, west|Writers Guild of America Award for Best Screenplay Written Directly for the Screen]] – Ben Affleck & Matt Damon<ref>{{Cite web|url=http://awards.wga.org/wga-awards/2015-valentine-davies-award-ben-affleck|title=Screenwriter-Director-Actor Ben Affleck to Receive WGAW's 2015 Valentine Davies Award|website=awards.wga.org|access-date=2018-05-10|archive-date=2018-05-11|archive-url=https://web.archive.org/web/20180511081556/http://awards.wga.org/wga-awards/2015-valentine-davies-award-ben-affleck|url-status=live}}</ref>
+
+==See also==
+{{Portal|Film|United States|1990s}}
+* [[The Man Who Knew Infinity (film)|''The Man Who Knew Infinity'']]
+* [[Ramanujan (film)|''Ramanujan'']]<!-- a different biopic about the same man -->
+* [[List of films about mathematicians]]
+* ''[[Farmers and Fishermen: Two Centuries of Work in Essex County, Massachusetts, 1630–1850]]''
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikiquote}}
+* {{IMDb title|0119217|Good Will Hunting}}
+* {{tcmdb title|324221|Good Will Hunting}}
+* {{AllMovie title|160083|Good Will Hunting}}
+* {{rotten-tomatoes|good_will_hunting/reviews|Good Will Hunting}}
+* {{mojo title|goodwillhunting|Good Will Hunting}}
+* [http://www.imsdb.com/scripts/Good-Will-Hunting.html Screenplay on IMSDb]
+* {{cite web|last=Grime|first=James|title=The Real Good Will Hunting|url=http://www.numberphile.com/videos/who_was_good_will_hunting.html|work=Numberphile|publisher=[[Brady Haran]]|access-date=2013-04-07|archive-url=https://web.archive.org/web/20170419123013/http://www.numberphile.com/videos/who_was_good_will_hunting.html|archive-date=2017-04-19|url-status=dead}}
+* [http://www.boston.com/yourtown/boston/southboston/gallery/good_will_hunting_15_years_later/ Then & Now: Revisiting ''Good Will Hunting''] – Boston.com
+
+{{Gus Van Sant}}
+{{Ben Affleck}}
+{{Matt Damon}}
+{{Authority control}}
+
+[[Category:1990s coming-of-age drama films]]
+[[Category:1997 drama films]]
+[[Category:1997 independent films]]
+[[Category:1997 films]]
+[[Category:American coming-of-age drama films]]
+[[Category:American independent films]]
+[[Category:Boston Red Sox]]
+[[Category:Cultural depictions of mathematicians]]
+[[Category:Elliott Smith]]
+[[Category:English-language films]]
+[[Category:Films about academia]]
+[[Category:Films about child abuse]]
+[[Category:Films about educators]]
+[[Category:Films about mathematics]]
+[[Category:Films about orphans]]
+[[Category:Films about psychiatry]]
+[[Category:Films directed by Gus Van Sant]]
+[[Category:Films featuring a Best Supporting Actor Academy Award-winning performance]]
+[[Category:Films produced by Lawrence Bender]]
+[[Category:Films scored by Danny Elfman]]
+[[Category:Films set in 1997]]
+[[Category:Films set in Boston]]
+[[Category:Films set in Harvard University]]
+[[Category:Films set in universities and colleges]]
+[[Category:Films shot in Boston]]
+[[Category:Films shot in Massachusetts]]
+[[Category:Films shot in Toronto]]
+[[Category:Films whose writer won the Best Original Screenplay Academy Award]]
+[[Category:Films with screenplays by Ben Affleck]]
+[[Category:Films with screenplays by Matt Damon]]
+[[Category:Harvard Square]]
+[[Category:Miramax films]]
+[[Category:Works about janitors]]
+[[Category:American films]]
+[[Category:1990s psychological drama films]]
+[[Category:Psychological drama films]]
+[[Category:American psychological drama films]]

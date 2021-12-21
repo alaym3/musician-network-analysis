@@ -1,0 +1,322 @@
+{{Short description|Swiss rock band}}{{About|the Swiss band|for the band's eponymous album|The Young Gods (album)|For other uses |Young God (disambiguation){{!}}Young God}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name             = The Young Gods
+| image            = {{CSS image crop
+|Image = Hellfest2019TheYoungGods 08.jpg
+|bSize = 385
+|cWidth = 275
+|cHeight = 180
+|Location = center
+|oTop = 30
+|oLeft = 75
+}}
+| landscape        = yes
+| background       = group_or_band
+| alias            =
+| origin           = [[Geneva]], [[Switzerland]]<!-- According to The Young Gods: Documents 1985-2015 (cited in prose) and other supporting interviews, the band formed in Geneva after Treichler relocated to there from Fribourg. -->
+| caption          = The Young Gods performing at [[Hellfest (French music festival)|Hellfest]] 2019. From left to right, Trontin, Treichler, Pizzi
+| genre            = {{flatlist|
+*[[Industrial rock]]<!-- Sourced in the musical style section -->
+*[[Industrial music|industrial]]
+*{{nowrap|[[experimental rock|avant-rock]]}}
+*[[post-industrial music|post-industrial]]
+}}
+| occupation       = 
+| years_active     = 1985–present
+| label            = {{hlist|Organik|[[Wax Trax! Records|Wax Trax!]]|[[PIAS Recordings|Play It Again Sam]]|[[Interscope Records|Interscope]]|[[Ipecac Recordings|Ipecac]]|Intoxygene|[[RecRec Music|Make Up]]|Two Gentlemen}}
+| website          = {{official|www.younggods.com|younggods.com}}
+| associated_acts  = 
+| current_members  = 
+*[[Franz Treichler]]
+*Bernard Trontin
+*Cesare Pizzi
+| past_members     = 
+*Frank Bagnoud
+*Urs Hiestand
+*Alain Monod
+*Vincent Hänni
+}}
+
+'''The Young Gods''' are a Swiss [[industrial rock]] band from [[Geneva]], formed in 1985.<ref name="Bio"/> The original lineup of the band featured singer [[Franz Treichler]], [[Sampler (musical instrument)|sampler]] player Cesare Pizzi and drummer Frank Bagnoud. For most of their history, the band maintained a trio format with a singer, a sampler player and a drummer, albeit with multiple line-up changes. Treichler is the band's sole consistent member; the current line-up also features Pizzi and drummer Bernard Trontin. During their career, the band have extensively collaborated with producer [[Roli Mosimann]].
+
+The band's music is largely based on [[Sampling (music)|sampling]] and sound manipulation; the tracks are constructed from various samples, such as distorted guitar riffs and [[string section]]s. Their later releases have incorporated elements from [[ambient music|ambient]] and [[electronic music]]. Their sample-based approach to rock music influenced numerous musicians such as [[David Bowie]], [[The Edge]] and [[Mike Patton]].<!-- cited in article body -->
+
+==History==
+=== Formation, ''The Young Gods'' and ''L'eau rouge'' (1985–1991)===
+Circa 1984, [[Fribourg]]-native guitarist [[Franz Treichler]] relocated to [[Geneva]] and started experimenting with [[sound collage]]s on his [[multitrack recording|4-track recorder]],<ref name="documents"/><ref name="redbull"/> following the dissolution of his [[punk rock|punk]] band Jof & The Ram, previously known as Johnny Furgler & the Raclette Machine.<ref name="documents"/><ref name="fri-son"/> Inspired by the sampling synthesizer [[E-mu Emulator]],<ref name="melody-maker-1987-int"/> he started composing songs from these sound collages in early 1985 and introduced his roommate, former the Raclette Machine bassist Cesare Pizzi, to the sampler.<ref name="decibel-interview"/> The band started rehearsing with the addition of drummer Frank Bagnoud, who previously played in the same band as Pizzi.<ref name="documents"/>
+
+The band took their name from the track "Young God" from [[Swans (band)|Swans]]'s [[Young God (EP)|1984 EP of the same name]];<ref name="rough-guide-rock"/><ref name="mtv-young-gods"/> Treichler was exposed to the track after booking the band for a performance in Switzerland in 1984.<ref name="mtv-young-gods"/> The band made their live debut in the late 1985.<ref name="panagram"/> Their early performances were mostly [[guerrilla gig]]s, in which the band played at [[Squatting|squats]], factories and occupied public places illegally.<ref name="elgarajedefrank"/> In these very early performances, Pizzi operated the samples through tape-playing keyboards and a [[Live looping|loop pedal]]; the samples were stored in cassettes and taped through an [[answering machine]]. While they were able to obtain an [[Akai]] sampler after 10 performances, their debut single "Envoyé" was produced with this setup.<ref name="panagram"/> The band signed to Belgian [[PIAS Recordings|Play It Again Sam]] record label after the release of "Envoyé" on Organik and [[Wax Trax! Records]] in 1986.<ref name="rough-guide-rock"/><ref name="popmatters-super-ready"/> A music video for the track was also produced.<ref name="popmatters-super-ready"/> The single cover art featured the band's logo [[Scarification|carved onto]] Treichler's chest; in 2005, he stated that the scar "disappeared after five or six years."<ref name="independent-sounds-like"/> For their debut album, the band started working with former Swans member [[Roli Mosimann]], who went on to become a long-time studio collaborator. The band's [[The Young Gods (album)|self-titled debut]] was released in 1987 to critical acclaim in the United Kingdom:<ref name="rough-guide-rock"/> the record was named as the best album of 1987 by [[music magazine]] ''[[Melody Maker]]''.<ref name="melody-maker-1987"/> "[[Hello, Hello, I'm Back Again|Did You Miss Me?]]", a [[Gary Glitter]] cover from the album, was released as an accompanying single. During this period, the band regularly relocated to [[London]].<ref name="decibel-interview"/>
+
+Bagnoud left the band in 1987. Drummer Urs Hiestand then joined the band and the band began working on the follow-up album with Mosimann.<ref name="rough-guide-rock"/> The drumming duties were first offered to Bernard Trontin, a friend of Treichler and band's then-future drummer; he refused due to his conflicting touring schedule.<ref name="daily-rock-interview"/> ''[[L'eau rouge]]'' was released in 1989 on Play It Again Sam, with non-album track "[[L'Amourir]]" and "Longue route" as singles.<ref name="trouserpress"/> Like its predecessor, the record ranked among the year's best on ''Melody Maker''.<ref name="melody-maker-1989-int"/> Pizzi departed the band following the release of the album and was replaced by Alain Monod, who performed on the subsequent tour.<ref name="rough-guide-rock"/> The tour featured the band's first performances in the [[United States]].<ref name="decibel-interview"/> [[Kurt Weill]]'s "[[September Song]]" became a staple of the band's live set;<ref name="rough-guide-rock"/> they subsequently performed covers of Weill's compositions on Switzerland's Festival du Bois de la Bâtie. The studio versions of the tracks were released as ''[[The Young Gods Play Kurt Weill]]'' in 1991.<ref name="trouserpress"/>
+
+===''T.V. Sky'', ''Only Heaven'' and ''Heaven Deconstruction'' (1992–1997)===
+{{external media
+| float  = right
+| width = 275px
+| video1 = [https://www.youtube.com/watch?v=36PnotCVYLM Official music video for "Skinflowers"], which was described as an underground hit.<ref name="allmusic-tv-sky"/>
+}}
+For the recording of the band's fourth album with Mosimann, Treichler located to [[New York City|New York]], where he subsequently lived in for couple years; other members joined them for six months.<ref name="decibel-interview"/> The band's first English-language album, ''[[T.V. Sky]]'', was released in 1992, with the single "[[Skinflowers]]" becoming an [[Underground music|underground]] [[Hit song|hit]].<ref name="allmusic-tv-sky"/> North American leg of the accompanying tour was documented on the television documentary ''TV-Sky - The Young Gods US Tour 92''.<ref name="tv-sky-doc"/> The band's 1992 live performance in [[Australia]] was released as the live album ''[[Live Sky Tour]]'' in 1993.<ref name="trouserpress"/>
+
+Amidst the commercial success of acts such as [[Nine Inch Nails]], the band signed to [[Interscope Records]].<ref name="allmusic-only-heaven"/> As a part of the label's request, the band worked with a [[Sampling (music)#Legal and ethical issues|sample clearance]] expert.<ref name="pennyblackmusic"/> The band's [[ambient music|ambient]]-influenced record, ''[[Only Heaven]]'', was released in 1995.<ref name="trouserpress"/><ref name="allmusic-only-heaven"/> Music video for the album's lead single, "Kissing the Sun", was directed by Eric Zimmerman of [[H-Gun]],<ref name="billboard-zimmerman"/> who is known for his work on Nine Inch Nails's "[[Head Like a Hole]]" and [[Soundgarden]]'s "[[Jesus Christ Pose]]."<ref name="hgun-musicvid"/> To support ''Only Heaven'', the band joined [[Ministry (band)|Ministry]]'s 1996 tour, touring extensively for two years. Hiestand, feeling that the touring lifestyle was tiring, left the band in 1996. Treichler and Monod, then living in New York, regarded his departure as a sign and relocated back to Switzerland.<ref name="decibel-interview"/> To fill in for drumming duties, Bernard Trontin joined the band in 1997.<ref name="allmusic-bio"/>
+
+A companion record to ''Only Heaven'', titled ''[[Heaven Deconstruction]]'', was [[independent record label|independently]] released in 1996. The instrumental album featured fully-ambient compositions and soundscapes produced during ''Only Heaven'' recording sessions. Treichler originally anticipated ''Only Heaven'' to be a [[double album]] featuring those outtakes; nevertheless, Interscope vetoed the idea.<ref name="redbull"/> Towards the end of the decade, the label dropped the band, citing low commercial performance.<ref name="trebuchet"/> During this time, the band entered a [[lawsuit]] with their former label, Play It Again Sam, regarding their contract.<ref name="bagarregenerale"/><ref name="concertandco"/>
+
+===''Second Nature'', ''Super Ready/Fragmenté'' and ''Everybody Knows'' (1998–2011)===
+{{CSS image crop
+|Image = TYG Racher 01.jpg
+|bSize = 300
+|cWidth = 275
+|cHeight = 150
+|Location = right
+|oTop = 10
+|oLeft = 0
+| Description =The Young Gods in 2007. From left to right: Trontin, Treichler, Monod
+}}
+In 2000, the band released their [[electronic music]]-influenced seventh album, ''[[Second Nature (The Young Gods album)|Second Nature]]''. Citing the past problems with major labels such as Play It Again Sam, the band sought to release their album on their manager's label, Intoxygene, which Treichler subsequently regretted.<ref name="trebuchet"/> The track "Lucidogen" was also released as a single in that year.<ref name="intoxygene-lucidogen"/> Following the release of the 2001 live album ''[[Live Noumatrouff, 1997]]'', the band was commissioned to compose instrumentals for [[Federal Office of Public Health|Swiss Federal Office of Public Health]] at [[Expo.02]];<ref name="rough-guide-rock"/> these compositions were later reinterpreted and released under the name ''[[Music for Artificial Clouds]]'' in 2004.<ref name="redbull"/> The record was later performed live as a part of which was a collaboration with [[anthropologist]] [[Jeremy Narby]].<ref name="amazonia-ambient" /> In 2003, [[Ipecac Recordings]] issued ''Second Nature'' in North America.<ref name="cmj-second-nature"/>
+
+Between 2003 and 2004, the band was left without a manager and a label. In 2005, the band started working on new material<ref name="trebuchet"/> and released the [[compilation album]] ''[[XXY (album)|XXY: 20 Years (1985-2005)]]'', featuring [[Greatest hits album|career highlights]] and rarities. The album was released on Play It Again Sam with a new track, titled "Secret", as a [[promotional single]]. In that year, the band played their anniversary shows in [[Montreux Jazz Festival]] and [[Willisau]], Switzerland, followed by a European tour in November.<ref name="redbull"/><ref name="billboard-xxy"/> The band's performance in Montreux, which was a collaboration with Lausanne Sinfonietta and featured guest vocals from [[Mike Patton]], was later released as a live album in 2010.<ref name="montreux-yg"/> The band's former drummer, Frank Bagnoud, passed away after a long illness in June.<ref name="frank-bagnoud"/>
+
+In 2006, the band issued ''Truce Diaries'', which was recorded exclusively for the Swiss magazine ''Truce''.<ref name="truce-diaries"/> The following year's ''[[Super Ready/Fragmenté]]'' marked a return to a guitar-oriented sound in contrast to ''Second Nature''.<ref name="pennyblackmusic"/> Around this time, multi-instrumentalist Vincent Hänni started collaborating with the band, eventually becoming a full member.<ref name="Bio"/><ref name="decibel-interview"/><ref name="trebuchet"/> In 2008, the band released ''[[Knock on Wood (The Young Gods album)|Knock on Wood]]'', which featured [[Acoustic music|acoustic]] interpretations of their past material.<ref name="Bio"/> The band paid homage to the original [[Woodstock]] festival at their 2009 [[Paléo Festival]] gig, scoring the documentary ''[[Woodstock (film)|Woodstock]]'' live with samples from the original artists.<ref name="trebuchet"/><ref name="swissinfo-woodstock"/> Hänni was involved in the recording of the band's tenth studio album, 2010's ''[[Everybody Knows (The Young Gods album)|Everybody Knows]]''; the band sought an [[Musical improvisation|improvisation]]-oriented direction with the addition of a fourth member.<ref name="decibel-interview"/> The record was succeeded by live albums, ''Super Ready/Fragmenté Tour – Live at Rote Fabrik, Zürich''<ref name="yg-fabrik"/> and ''Griots and Gods – Live at Eurockéennes Festival, Belfort''; the latter featured the live collaboration between the band and [[experimental hip hop]] duo [[Dälek]] at [[Eurockéennes|Eurockéennes 2007]].<ref name="yg-dalek"/>
+
+===Pizzi's return and ''Data Mirage Tangram'' (2012–present)===
+{{CSS image crop
+|Image = The Young Gods at SKIF 2014.jpg
+|bSize = 385
+|cWidth = 240
+|cHeight = 140
+|Location = right
+|oTop = 30
+|oLeft = 55
+| Description =Trontin and Pizzi performing in 2014
+}}
+Following the tour for ''Everybody Knows'', Monod and Hänni departed the band in 2012. Treichler approached the band's former sampler player, Cesare Pizzi, who rejoined the band. The band toured in that year, performing tracks from the first two studio albums, ''The Young Gods'' and ''L'eau rouge'', on which Pizzi had performed.<ref name="trebuchet"/> The band also supplied original music for the animated short film, ''[[Kali the Little Vampire]]'', which was released in that year.<ref name=kali-vampire/>
+
+In 2015, the band began working on new material.<ref name="academy-music"/> The album was inspired by their [[Artist-in-residence|residency]] at [[Cully, Switzerland|Cully]]'s Off Festival. The band performed to small crowds and regularly improvised; Treichler has started playing guitar.<ref name="decibel-interview"/><ref name="trebuchet"/> The resulting record, ''Data Mirage Tangram'', was released in 2019.<ref name="allmusic-dmt"/> [[Audio mixing (recorded music)|Mixed]] by [[Alan Moulder]],<ref name="sans-fin"/> the album was nominated for [[Independent Music Companies Association|IMPALA]]{{'}}s European Independent Album of the Year Award (2019).<ref name="impala"/> The band had approached Wax Trax! Records, which released their early work, for the record's North American release, which was turned down by the label.<ref name="decibel-wax-trax"/> On 17 July 2020, the band released the accompanying live album, ''Data Mirage Tangram: Live at La Maroquinerie, Paris 2019'' on Two Gentlemen.<ref name="data-mirage-live"/>
+
+==Musical style and legacy==
+{{Listen
+| filename    = The Young Gods - Envoye.ogg
+| title       = The Young Gods - Envoyé
+| description = A 13 second sample from the 1987 single "Envoyé". The track was described as a "two-minute-long explosion of percussion, [[gunshot]]s, a roughly abbreviated [[hair metal]] riff."<ref name="allmusic-1987"/>
+| pos         = right
+}}
+The Young Gods's sound has been described as [[industrial rock]],<ref name="decibel-interview"/><ref name="skinny-ipecac"/> [[Industrial music|industrial]],<ref name="cmj-only-heaven"/> [[experimental rock|avant-rock]],<ref name="indepedent-super-ready"/> [[post-industrial music]]<ref name="exclaim-rouyn"/> and "[[Sampledelia|sampledelic]] rock;"<ref name="melody-maker-1995-only"/> Treichler favours the term "[[electronic rock]] music."<ref name="rpmonline-interview"/> 
+Since their early career, the band have used sampling as a compositional and performance tool,<ref name="allmusic-1987"/> constructing tracks electronically with treated electric guitar samples, [[musique concrète]], [[classical music|classical]] vignettes and [[electronica]].<ref name="independent-sounds-like"/> ''[[Trouser Press]]'' remarked that The Young Gods's "unusual vocals/sampler/drums configuration reconstructs rock from the ground up, producing a fiery collage of roaring guitars, blistering rhythms and [[Richard Wagner|Wagnerian]] orchestras, all presided over by Franz Treichler's leering, guttural voice."<ref name="trouserpress" /> Treichler has regarded "abstraction" and "element of surprise" as important factors for using the sampler, since they rendered the listeners to "the first time you’re listening to music because you don’t know what it is."<ref name="redbull" /> He has cited [[Psychedelic music#1960s: Original psychedelic era|60s psychedelia]], [[Einstürzende Neubauten]], [[Kraftwerk]], [[punk rock]] movement and [[post-punk]] acts such as [[Killing Joke]] and [[Wire (band)|Wire]] as influences on The Young Gods.<ref name="redbull" /><ref name="rpmonline-interview"/> Kurt Weill, whose compositions were covered on 1991's ''The Young Gods Play Kurt Weill'', is also an influence:<ref name="redbull" /><ref name="independent-sounds-like"/> Treichler has credited him as a model for the band's "experiments with music but still in a song format."<ref name="independent-sounds-like"/>
+
+The band has infused various styles of music to their sound through sampling:<ref name="decibel-interview"/> 1987's ''The Young Gods'' made use of classical and [[heavy metal music|metal]] guitar samples:<ref name="allmusic-1987"/> the band have described their sound on this record as "new sonic architecture."<ref name="melody-maker-reynolds"/> Their second album, ''L{{'}}eau rouge'', incorporated [[cabaret]] and [[chanson]] influences.<ref name="rough-guide-rock"/><ref name="allmusic-1989"/> 1995's ''Only Heaven'' delved into ambient territories while "being cherished equally by heavy metal, [[indie rock|indie]], [[techno]] and industrial";<ref name="rough-guide-rock"/> the ambient elements were explored on instrumental albums such as ''Heaven Deconstruction''.<ref name="quietus"/> Focusing on [[Synthesizer|synthesized]], [[Found object (music)|found sounds]] and [[Audio plug-in|computer plug-in]]s on 2000's ''Second Nature'',<ref name="spike-second-nature"/><ref name="chaos-control-interview"/> The Young Gods also occasionally strayed away from their sampler-based formula: multi-instrumentalist Vincent Hänni was employed for the recording of ''Everybody Knows'' and the acoustic record ''Knock on Wood''. Treichler also played the guitar on those albums and ''Data Mirage Tangram''.<ref name="decibel-interview"/><ref name="chaos-control-interview"/>
+
+Treichler's lyrics are mostly sung in [[French language|French]] and [[English language|English]]. ''The Young Gods'' and ''L'eau rouge'' largely featured French vocals while 1992's ''T.V. Sky'' became the band's first English-language record. On the subsequent records Treichler mixed the two languages; in 2005, he stated: "I hope to find a solution in between. But they're very different to sing; they both have their rules."<ref name="independent-sounds-like"/> Lyricwise, Treichler often uses [[double entendre]]s: the track "L'Amourir" from ''L'eau rouge'' can be interpreted as "an intense love song or the end of a love affair."<ref name="independent-sounds-like"/> The title track from ''L'eau rouge'' is regarded as "a celebration of <nowiki>'red water'</nowiki>" and is a reference to [[menstruation]].<ref name="allmusic-1989"/> The track "Lucidogen" from ''Second Nature'' illustrates "a fictitious drug which would make people more [[clairvoyance|clairvoyant]]" and was inspired by an anti-[[World Trade Organization]] riot that Treichler witnessed in Geneva in 1998.<ref name="spike-second-nature"/> On ''The Sex Revolts: Gender, Rebellion and Rock 'n' Roll'', authors [[Simon Reynolds]] and [[Joy Press]] argued: "Treichler's lyrics brought out all the militaristic, fascistic tendencies inherent in [[Romanticism]], [[Friedrich Nietzsche|Nietzsche]] et al., only to transcend and transfigure them;"<ref name="sex-revolts"/> in a 1995 interview, Treichler dismissed Reynolds's and Press's Nietzschean interpretation of his lyrics.<ref name="mtv-young-gods"/>
+{{Quote box
+ |title = 
+ |width=340px
+ |align=left
+ |quote = I thought they had some extraordinary ideas, by taking one chunk guitar riff and then sampling it, looping it, and having that as the consistent pattern through a piece of music. That became very much something that I thought, yes, I like that a lot, I’ll try to employ that. They’re quite something; I’d be very interested to see where they go.
+ |source = [[David Bowie]] on The Young Gods, in 1995<ref name="bowie"/>
+ |quoted = yes
+}}
+
+David Bowie has cited the band as an influence when he was asked in 1995 if his record ''[[Outside (David Bowie album)|Outside]]'' was influenced by Nine Inch Nails, stating: "The band that I was actually quite taken with was three guys from Switzerland called the Young Gods... I’d been aware of them previous to knowing about Nine Inch Nails." Bowie further praised the band's approach in sampling and looping guitar riffs, which he tried to employ in his record.<ref name="bowie"/> [[U2]] guitarist [[The Edge]] namedropped the band as an influence on his soundtrack work for 1990 musical adaptation of ''[[A Clockwork Orange (novel)|A Clockwork Orange]]'' and 1991's ''[[Achtung Baby]]''.<ref name="u2-1"/><ref name="u2-2"/> [[Devin Townsend]] reported ''Only Heaven'' and ''Second Nature'' to be among his favourite albums.<ref name="quietus-townsend"/> Other artists influenced by The Young Gods include [[Disco Inferno (band)|Disco Inferno]] guitarist Ian Crause,<ref name="disco-inferno"/> [[Sepultura]],<ref name="sepultura"/> [[Napalm Death]],<ref name="napalm-death"/> [[Mike Patton]],<ref name="redbull"/> [[Ministry (band)|Ministry]],<ref name="assimilate"/> [[Nine Inch Nails]],<ref name="redbull"/> [[The Chemical Brothers]],<ref name="observer-superready"/> [[Kill the Thrill]]<ref name="kill-the-thrill"/> and [[Laika (band)|Laika]].<ref name=laika/>
+{{clear}}
+
+==Members==
+{{multiple image
+ | align =
+ | direction = vertical
+ | width = 240
+ | header = 
+ | image1 = Al Monod The Young Gods 2011.jpg
+ | alt1 = Man with keyboard
+ | caption1 = Monod with The Young Gods in 2011
+ | image2 = Franz Treichler of The Young Gods at SKIF 2014 2.jpg
+ | alt2 = Singer
+ | caption2 = Treichler in 2014
+}}
+Band members as adapted from the official website:<ref name="Bio"/><ref name="yg-members"/>
+;Current
+* [[Franz Treichler]] (aka Franz Muse) – vocals, sampler, computer, guitar (1985–present)
+* Cesare Pizzi (aka Ludan Dross) – sampler, computer (1985–1988, 2012–present)
+* Bernard Trontin – drums, electronics (1997–present)
+
+;Past
+* Frank Bagnoud (born Patrice Bagnoud)<ref name="frank-bagnoud"/> – drums (1985–1987)
+* Urs "Üse" Hiestand – drums (1987–1996)
+* Alain Monod (aka Al Comet) – sampler, keyboards, guitar (1989–2012)
+* Vincent Hänni – guitar, bass guitar, electronics (2006–2011)
+
+==Discography==
+{{Main|The Young Gods discography}}
+* ''[[The Young Gods (album)|The Young Gods]]'' (1987)
+* ''[[L'eau rouge]]'' (1989)
+* ''[[The Young Gods Play Kurt Weill]]'' (1991)
+* ''[[T.V. Sky]]'' (1992)
+* ''[[Only Heaven]]'' (1995)
+* ''[[Heaven Deconstruction]]'' (1996)
+* ''[[Second Nature (The Young Gods album)|Second Nature]]'' (2000)
+* ''[[Music for Artificial Clouds]]'' (2004)
+* ''[[Super Ready/Fragmenté]]'' (2007)
+* ''[[Everybody Knows (The Young Gods album)|Everybody Knows]]'' (2010)
+* ''Data Mirage Tangram'' (2019)
+
+==References==
+{{Reflist|refs=
+<ref name="academy-music">{{Cite web|url=https://www.academymusicgroup.com/o2academybirmingham/blogs/interview-young-gods|title=An Interview With: The Young Gods: O2 Academy Birmingham|website=www.academymusicgroup.com|access-date=20 January 2019}}</ref>
+
+<ref name="allmusic-1987">{{cite web |first=Ned |last=Raggett |url={{AllMusic|class=album|id=mw0000198166|pure_url=yes}}|title=The Young Gods: ''The Young Gods'' |website=[[AllMusic]] |access-date=27 February 2020}}</ref>
+
+<ref name="allmusic-1989">{{cite web |first=Ned |last=Raggett |url=https://www.allmusic.com/album/l-eau-rouge-red-water-mw0000654523|title=The Young Gods: ''L'eau rouge'' |website=[[AllMusic]] |access-date=27 February 2020}}</ref>
+
+<ref name="allmusic-bio">{{cite web |first=Jason |last=Ankeny |url=https://www.allmusic.com/artist/young-gods-mn0000584287/biography|title=The Young Gods biography|website=[[AllMusic]] |access-date=27 February 2020}}</ref>
+
+<ref name="allmusic-dmt">{{cite web |url=https://www.allmusic.com/album/data-mirage-tangram-mw0003247618|title=The Young Gods - Data Mirage Tangram |website=[[AllMusic]] |access-date=1 March 2020}}</ref>
+
+<ref name="allmusic-only-heaven">{{cite web |first=Ned |last=Raggett |url=https://www.allmusic.com/album/only-heaven-mw0000173411|title=The Young Gods: ''Only Heaven'' |website=[[AllMusic]] |access-date=29 February 2020}}</ref>
+
+<ref name="allmusic-tv-sky">{{cite web |first=Ned |last=Raggett |url=https://www.allmusic.com/album/tv-sky-mw0000678792|title=The Young Gods: ''T.V. Sky'' |website=[[AllMusic]] |access-date=29 February 2020}}</ref>
+
+<ref name="amazonia-ambient">{{cite web |url=https://www.arte-amazonia.com/music/amazonia-ambient-project/ |title= Amazonia Ambient Project |website=arte-amazonia.com|access-date=1 March 2020 }}</ref>
+
+<ref name="assimilate">{{cite book|last1=Reed|first1=S. Alexander|title=Assimilate: A Critical History of Industrial Music|year=2013|location=New York|publisher=Oxford University Press|isbn=9780199832583|oclc=1147729910|via=the Internet Archive|url-access=registration|url=https://archive.org/details/assimilatecritic0000reed |pages=250-251}}</ref>
+
+<ref name="bagarregenerale">{{cite web |title=Interview: The Young Gods |url=http://www.bagarregenerale.com/2019/05/02/interview-the-young-gods/ |website=bagarregenerale.com |access-date=6 September 2020 |language=fr |date=2 May 2019}}</ref>
+
+<ref name="billboard-xxy">{{cite magazine |last=Adams |first=Steve |date=12 November 2005 |title=Global Pulse: Swiss Gods |magazine=[[Billboard (magazine)|Billboard]] | volume= 117 |issue=46 |page=32 }}</ref>
+
+<ref name="billboard-zimmerman">{{cite magazine |date=29 July 1995 |title=Music Video: Production Notes |magazine=[[Billboard (magazine)|Billboard]] | volume=107|issue=30 |page=36 }}</ref>
+
+<ref name="Bio">{{cite web|last=The Young Gods|title=Everybody Knows (Biography)|url=http://www.younggods.com/cms/front_content.php?idcat=26|publisher=The Young Gods (Official Site)|access-date=5 August 2011|url-status=dead|archive-url=https://web.archive.org/web/20110718144211/http://www.younggods.com/cms/front_content.php?idcat=26|archive-date=18 July 2011}}</ref>
+
+<ref name="bowie">{{Cite journal|title=No Longer a Lad Insane|journal=Guitar|date=January 1996|last=Newquist|first=HP| url=http://guitarinternational.com/wpmu/2010/08/23/david-bowie-no-longer-a-lad-insane/|url-status=dead |archive-url=https://web.archive.org/web/20110106124800/http://guitarinternational.com/wpmu/2010/08/23/david-bowie-no-longer-a-lad-insane/ |archive-date=6 January 2011}}</ref>
+
+<ref name="chaos-control-interview">{{cite web |archive-url=https://web.archive.org/web/20071014002140/http://www.chaoscontrol.com/content_article.php?article=younggods_2007 |url=http://www.chaoscontrol.com/content_article.php?article=younggods_2007 |url-status= dead |archive-date=14 October 2007 |title=Interview: Franz Treichler of The Young Gods |website=chaoscontrol.com |access-date=4 March 2020}}</ref>
+
+<ref name="cmj-only-heaven">{{cite journal | title=Young Gods – Only Heaven | author=Framp, Scott | journal=[[CMJ]] | date=September 1995 | issue=25 | pages=15}}</ref>
+
+<ref name="cmj-second-nature">{{cite journal | title=Young Gods – Second Nature | author=Mallon, Tom | journal=[[CMJ]] | date= April 2003 | issue=111 }}</ref>
+
+<ref name="concertandco">{{cite web |last1=Andrieu |first1=Pierre |title=The Young Gods (Interview) |url=https://www.concertandco.com/interview/concert-the-young-gods-interview/cooperative-mai-clermont-fd/4290.htm |website=concertandco.com |access-date=6 September 2020 |language=fr |date=18 November 2002}}</ref>
+
+<ref name="daily-rock-interview">{{cite web |url=https://www.daily-rock.com/the-young-gods-lucidogenies |title=The Young Gods – Lucidogénies |last=Saenger |first=Frederic |date=5 May 2019 |website=daily-rock.com |access-date=9 August 2020 }}</ref>
+
+<ref name="data-mirage-live">{{cite web |title=The Young Gods: Data Mirage Tangram – Live at La Maroquinerie, Paris 2019 |url=https://www.younggods.com/discography/data-mirage-tangram-live-at-la-maroquinerie-paris-2019/ |website=younggods.com |access-date=6 September 2020}}</ref>
+
+<ref name="decibel-interview">{{cite web |url=https://www.decibelmagazine.com/2019/09/12/everybody-should-know-an-interview-with-the-young-gods/ |title= Everybody Should Know: An Interview with The Young Gods |last=Stewart-Panko |first=Kevin |date=12 September 2019 |work=[[Decibel (magazine)|Decibel]] |access-date=27 February 2020}}</ref>
+
+<ref name="decibel-wax-trax">{{cite web |url=https://www.decibelmagazine.com/2019/04/25/live-film-review-industrial-accident-the-story-of-wax-trax-records/ |title= Live/Film Review: ‘Industrial Accident: The Story of Wax Trax! Records’ |last=Stewart-Panko |first=Kevin |date=25 April 2019 | work=[[Decibel (magazine)|Decibel]] |access-date=1 March 2020 }}</ref>
+
+<ref name="disco-inferno">{{cite web |first=Andy |last=Kellman |url=https://www.allmusic.com/artist/disco-inferno-mn0000135196/biography|title=Disco Inferno biography |website=[[AllMusic]] |access-date=1 March 2020}}</ref>
+
+<ref name="documents">{{cite book |editor-first=Vincent |editor-last=de Roguin |date=2017 |title=The Young Gods: Documents 1985-2015 |publisher=La Baconnière |page=694 |isbn= 9782940431540}}</ref>
+
+<ref name="elgarajedefrank">{{cite web |url=https://elgarajedefrank.es/en/interview-the-young-gods/ |title=Interview: The Young Gods |last=Zappa |first= François |date= 21 March 2020 |website=elgarajedefrank.es |access-date=9 August 2020 }}</ref>
+
+<ref name="exclaim-rouyn">{{cite web |title= Millimetrik, Kid Koala, the Young Gods and Ellemetue Kick Off Festival de Musique Émergente|url=https://exclaim.ca/music/article/millimetrik_kid_koala_the_young_gods_and_ellemetue_kick_off_day_one_of_festival_de_musique_mergente-fme_rouyn-noranda_qc_august_29 |last=Carlick |first=Stephen |date=30 August 2019 |work=[[Exclaim!]] |access-date=1 March 2020 }}</ref>
+
+<ref name="frank-bagnoud">{{cite web |url=http://www.younggods.com/cms/front_content.php?client=1&lang=1&idcat=88&idart=138 |title=R.I.P. Frank Bagnoud |access-date=27 February 2020 |url-status=dead |archive-url=https://web.archive.org/web/20140223033027/http://www.younggods.com/cms/front_content.php?client=1&lang=1&idcat=88&idart=138 |archive-date=23 February 2014}}</ref>
+
+<ref name="fri-son">{{cite book |first1=Matthieu |last1=Chavaz |first2=Julia |last2=Crottet |first3=Diego|last3=Latelin |display-authors=2 |date=2013 |title=Fri-son 1983-2013 |publisher= [[JRP-Ringier]] |isbn= 3037643498 |language=fr}}</ref>
+
+<ref name="hgun-musicvid">{{cite magazine |last=Harris |first=Michael G. |date=October 1992 |title=The Spirit of Video |magazine=[[Spin (magazine)|Spin]] |page=24 |volume=8 |issue=7 }}</ref>
+
+<ref name="impala">{{Cite web|url=https://www.impalamusic.org/content/22-nominees-shortlisted-impala%E2%80%99s-european-independent-album-year-award|title=22 nominees shortlisted for IMPALA’s European Independent Album of the Year Award {{!}} Impala|website=www.impalamusic.org|access-date=3 February 2020}}</ref>
+
+<ref name="independent-sounds-like">{{cite web |url=https://www.independent.co.uk/arts-entertainment/music/features/the-young-gods-sounds-like-heaven-517571.html |title= The Young Gods: Sounds like heaven |last=Nash |first=Rob |date= 30 November 2005 |work=[[The Independent]] |access-date=27 February 2020}}</ref>
+
+<ref name="indepedent-super-ready">{{cite web | url=https://www.independent.co.uk/arts-entertainment/music/reviews/album-the-young-gods-448280.html | title=Album: The Young Gods: Super Ready/Fragmente | work=[[The Independent]] | date=11 May 2007 | access-date=28 October 2016 | author=Gill, Andy}}</ref>
+
+<ref name="intoxygene-lucidogen">{{cite web |url=http://www.intoxygene.com/catalog/intox005cds.html |title= The Young Gods - Lucidogen |website= intoxygene.com |access-date=29 February 2020 }}</ref>
+
+<ref name=kali-vampire>{{cite web |url= http://www.publico.pt/culturaipsilon/noticia/unesco-da-estatuto-de-patrimonio-cultural-internacional-a-kali-o-pequeno-vampiro-de-regina-pessoa-1621729|title= Kali, o Pequeno Vampiro exibido enquanto "património cultural internacional" em festival da UNESCO|date=30 January 2014|access-date=6 October 2014|work= [[publico.pt]]|language= pt}}</ref>
+
+<ref name="kill-the-thrill">{{cite web |url=https://nihilistic-webzine-distro.fr/Interviews/killthethrilluk.htm |title=Interview: Kill the Thrill |website=nihilistic-webzine-distro.fr |publisher=5 August 2020 }}</ref>
+
+<ref name=laika>{{cite web|url=http://thedumbingofamerica.net/2009/10/26/history-lesson-laika-moonshake-and-the-great-margaret-fiedler/ |title= History Lesson: Laika, Moonshake and the great Margaret Fiedler |date= 26 October 2009 |access-date=1 March 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100612030559/http://thedumbingofamerica.net/2009/10/26/history-lesson-laika-moonshake-and-the-great-margaret-fiedler/ |archive-date=12 June 2010 }}</ref>
+
+<ref name="melody-maker-1987">{{cite magazine |author=<!--Staff writer(s); no by-line.-->| title=The Vinyl Curtain - Melody Maker Best Albums of 1987| date =19 December 1987 | magazine=[[Melody Maker]]|page=56}}</ref>
+
+<ref name="melody-maker-1987-int">{{cite magazine |author=<!--Staff writer(s); no by-line.-->| title=The Immaculate Inferno| date =19 December 1987 | magazine=[[Melody Maker]]|pages=14–15}}</ref>
+
+<ref name="melody-maker-1989-int">{{cite magazine | url=http://www.rocklistmusic.co.uk/mmpage.html#1989| title=Melody Maker – Albums of the Year| access-date=12 March 2009 | magazine=[[Melody Maker]]}}</ref>
+
+<ref name="melody-maker-1995-only">{{cite magazine | title=The Young Gods - Only Heaven |first=Simon |last=Reynolds|author-link=Simon Reynolds | magazine=[[Melody Maker]]}}</ref>
+
+<ref name="melody-maker-reynolds">{{cite magazine |last=Reynolds|first=Simon|author-link=Simon Reynolds| title=The Young Gods - The Young Gods| date =20 June 1987 | magazine=[[Melody Maker]]}}</ref>
+
+<ref name="montreux-yg">{{cite web |url=https://www.younggods.com/discography/20th-anniversary-show-montreux-jazz-festival/ |title= 20th Anniversary show – Montreux Jazz Festival |website= younggods.com |access-date=1 March 2020 }}</ref>
+
+<ref name="mtv-young-gods">{{cite web |url=http://www.mtv.com/news/506205/meet-the-young-gods-pt-1/ |title=Meet The Young Gods, Part 1 |date= 7 August 1995 |website=mtv.com |publisher=[[MTV]] |access-date=21 March 2020}}</ref>
+
+<ref name="napalm-death">{{cite web |url=https://blabbermouth.net/news/napalm-deaths-barney-greenway-on-brexit-i-think-the-whole-things-really-fking-stupid/ |title=Napalm Death's Barney Greenway On Brexit: 'I Think The Whole Thing's Really F**king Stupid' |date= 14 September 2019 |website=[[Blabbermouth.net]] |access-date=5 August 2020 }}</ref>
+
+<ref name="observer-superready">{{cite web |url=https://www.theguardian.com/music/2007/may/20/electronicmusic.shopping |title= The Young Gods, Super Ready/ Fragmenté |last=Campion |first=Chris |date=20 May 2007 |work=[[The Observer]] |access-date=1 March 2020 }}</ref>
+
+<ref name="panagram">{{cite magazine |first1=Ankeny |last1=Jason |url=https://issuu.com/pangram/docs/pangram2/132 |title=Interview: The Young Gods |magazine=Panagram Magazine |date= 5 March 2009 |access-date=6 April 2020}}</ref>
+
+<ref name="pennyblackmusic">{{cite web |url=http://www.pennyblackmusic.co.uk/MagSitePages/Article/4306/Young-Gods |title= Interview: Young Gods |last=Raven |first=Paul |date=18 May 2007 |website= www.pennyblackmusic.co.uk |access-date=29 February 2020 }}</ref>
+
+<ref name="popmatters-super-ready">{{cite web |url= https://www.popmatters.com/the-young-gods-super-ready-fragmente-2496237875.html|title= The Young Gods: Super Ready / Fragmente |last=Schiller |first=Mike |date=25 July 2007 |work=[[PopMatters]] |access-date=27 February 2020}}</ref>
+
+<ref name="quietus">{{cite web |url=https://thequietus.com/articles/18973-young-gods-only-heaven-review-anniversary |title= 25 Years On: The Young Gods' Only Heaven Revisited |last= Raggett |first=Ned |date=16 October 2016 |work=[[The Quietus]] |access-date=29 February 2020 }}</ref>
+
+<ref name="quietus-townsend">{{cite web |url=https://thequietus.com/articles/11006-devin-townsend-strapping-young-lad-favourite-albums?page=9 |title= Really Heavy Things: Devin Townsend's Favourite Albums |last= Cook |first=Toby |date=18 December 2012 |work=[[The Quietus]] |access-date=1 March 2020 }}</ref>
+
+<ref name="redbull">{{cite web |url=https://daily.redbullmusicacademy.com/2015/01/young-gods-interview |title= Interview: The Young Gods’ Franz Treichler on 30 Years of Music |date=2015 |work=[[Red Bull Music Academy]] |access-date=27 February 2020 }}</ref>
+
+<ref name="rough-guide-rock">{{cite book |last=Bousfield |first=Jonathan |editor-first= Peter |editor-last=Buckley |title= The Rough Guide to Rock |publisher=[[Rough Guides]] |pages=1208–1209 |isbn= 9781843531050}}</ref>
+
+<ref name="rpmonline-interview">{{cite web |url=http://rpmonline.co.uk/2019/11/26/the-young-gods-interview-franz-treichler/ |title= The Young Gods interview: Franz Treichler |date=26 November 2019 |website= rpmonline.co.uk |access-date= 29 February 2020 }}</ref>
+
+<ref name="sans-fin">{{cite news |last=Gobbo |first=Stéphane |date= 22 February 2019 |title= The Young Gods, une histoire sans fin |url=https://www.letemps.ch/culture/the-young-gods-une-histoire-fin |work=[[Le Temps]] |location=Lausanne |access-date= 6 March 2020 |language=fr}}</ref>
+
+<ref name="sepultura">{{cite book |last1=Barcinski |first1=André |last2=Gomes |first2=Sílvio |date=1999 |title=Sepultura: Toda a história |location= São Paulo |publisher=Editora 34 |page=90 |isbn=85-7326-156-0|language=pt}}</ref>
+
+<ref name="sex-revolts">{{cite book |last1=Reynolds |first1=Simon |last2=Press |first2=Joy  |author1-link=Simon Reynolds |author2-link=Joy Press |date=1995 |title= The Sex Revolts: Gender, Rebellion, and Rock 'n' Roll |publisher=[[Serpent's Tail]] |page=116 |isbn= 9781852422547}}</ref>
+
+<ref name="skinny-ipecac">{{cite web | url=http://www.theskinny.co.uk/music/interviews/ipecac-records-the-industry-can-change-but-we-will-continue-to-do-our-thing | title=Ipecac Records: "The industry can change, but we will continue to do our thing" | work=[[The Skinny (magazine)|The Skinny]] | date=29 August 2011 | access-date=28 October 2016 | author=Cusack, Chris}}</ref>
+
+<ref name="spike-second-nature">{{cite web |url=https://spikemagazine.com/0501younggods/ |title= The Young Gods : Second Nature : The Sound In Your Eyes |last= Brunet |first= Thierry |date=1 May 2001 |work=[[Spike Magazine]] |access-date= 27 February 2020 }}</ref>
+
+<ref name="swissinfo-woodstock">{{cite web |url=https://www.swissinfo.ch/fre/young-gods--woodstock-sur-paléo/284872 |title= Young Gods, Woodstock sur Paléo |last= Miserez |first=Marc-André |date=5 May 2009 |work=[[Swissinfo]] |access-date=1 March 2020 |language=fr}}</ref>
+
+<ref name="trebuchet">{{cite web |url=https://www.trebuchet-magazine.com/every-song-was-a-little-world-in-itself/ |title=Every Song was a Little World in Itself: Interview with Franz Treichler |date=26 April 2019 |website=trebuchet-magazine.com |access-date= 27 February 2020}}</ref>
+
+<ref name="trouserpress">{{cite magazine |first1=Jem |last1=Aswad |first2=Greg |last2=Fasolino |url=http://trouserpress.com/entry.php?a=young_gods |title=Young Gods |magazine=[[Trouser Press]] |year=2007 |access-date=27 February 2020}}</ref>
+
+<ref name="truce-diaries">{{cite web |url=https://www.younggods.com/discography/truce-diaries/ |title=The Young Gods: Truce Diaries |website= younggods.com |access-date=1 March 2020 }}</ref>
+
+<ref name="tv-sky-doc">{{cite AV media |people= Steinmann, Jean-Lou (Director) |date=1992 |title=TV Sky - The Young Gods US Tour 92 |medium= Television production |language=fr, en }}</ref>
+
+<ref name="u2-1">{{cite book |author1=McCormick, Neil |author2=U2 |author2-link=U2 |year=2006 |title=[[U2 by U2]] |edition=1st U.S. |location=New York |publisher=[[HarperCollins]] |isbn=0-06-077675-7 |page=215}}</ref>
+
+<ref name="u2-2">{{cite magazine |url=https://www.rollingstone.com/news/coverstory/u2s_serious_fun |title=U2 Finds What It's Looking For |magazine=[[Rolling Stone]] |first=David |last=Fricke |author-link=David Fricke |date=1 October 1992 |access-date=1 March 2020 |issue=640 |url-status=dead |archive-url=https://web.archive.org/web/20090420033949/http://www.rollingstone.com/news/coverstory/u2s_serious_fun/page/5 |archive-date=20 April 2009 }}</ref>
+
+<ref name="yg-dalek">{{cite web |url=https://www.younggods.com/discography/super-ready-fragmente-tour-live-rote-fabrik-zurich/ |title= Griots and Gods – Live at Eurockéennes Festival – Belfort |website=younggods.com |access-date=1 March 2020 }}</ref>
+
+<ref name="yg-members">{{cite web |url=https://www.younggods.com/band/members/ |title=The Young Gods: Members |website=younggods.com|access-date=1 March 2020}}</ref>
+
+<ref name="yg-fabrik">{{cite web |url=https://www.younggods.com/discography/super-ready-fragmente-tour-live-rote-fabrik-zurich/ |title= Super Ready / Fragmente Tour – Live at Rote Fabrik – Zürich |website=younggods.com |access-date=1 March 2020 }}</ref>
+
+<!-- {{cite web |url= |title= |last= |first= |date= |website= |publisher= |access-date= |quote=}} -->
+<!-- {{cite magazine |last= |first= |date= |title= |url= |magazine= |location= |publisher= |access-date= }} -->
+<!-- {{cite book |last= |first= |author-link= |date= |title= |url= |location= |publisher= |page= |isbn=}} -->
+}}
+
+==External links==
+{{Commons category|The Young Gods}}
+*{{official|www.younggods.com}}
+{{The Young Gods}}
+{{Authority control}}
+
+{{DEFAULTSORT:Young Gods, The}}
+[[Category:1985 establishments in Switzerland]]
+[[Category:Experimental rock groups]]
+[[Category:Industrial rock musical groups]]
+[[Category:Interscope Records artists]]
+[[Category:Ipecac Recordings artists]]
+[[Category:Musical groups established in 1985]]
+[[Category:Swiss alternative rock groups]]
+[[Category:Swiss electronic music groups]]
+[[Category:Swiss industrial music groups]]
+[[Category:PIAS Recordings artists]]
+[[Category:Swiss musical trios]]
+[[Category:Wax Trax! Records artists]]

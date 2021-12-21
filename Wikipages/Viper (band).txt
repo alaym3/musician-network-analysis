@@ -1,0 +1,188 @@
+{{More citations needed|date=November 2020}}
+{{Infobox musical artist
+|name = Viper
+|image =
+|image_size =
+|caption =
+|background = group_or_band
+|origin = Brazil
+|genre = {{flatlist|
+* [[Heavy metal music|Heavy metal]]
+* [[progressive metal]]
+* [[power metal]]
+* [[thrash metal]]
+* [[alternative rock]]
+}}
+|years_active = {{flatlist|
+* 1985–1996
+* 2004–2009
+* 2012–present
+}}
+|label = 
+|associated_acts = 
+|website = [https://web.archive.org/web/20070630022815/http://www.viperbrazil.com.br/ viperbrazil.com.br] (archived)
+|current_members = 
+* [[Andre Matos]]
+* [[Pit Passarell]]
+* [[Felipe Machado]]
+* Renato Graccia
+|}}
+
+'''Viper''' is a Brazilian [[Heavy metal music|heavy metal]] band formed in 1985 initially influenced by [[Iron Maiden]] and the [[new wave of British heavy metal]], later developing a very particular sound.
+
+==Biography==
+Viper recorded their first demo tape in 1985, ''[[The Killera Sword]]'', and in 1987, they released their first album, ''Soldiers of Sunrise'' — which, despite the simple production, and the somewhat flawed English in the lyrics, showcased the degree of talent and skill of the band's members, all of them teenagers at the time.{{citation needed|date=June 2016}}
+
+In 1989, they released ''Theatre of Fate'', notable for the metal and [[classical music]] mix, with a song based on [[Ludwig van Beethoven|Beethoven]]'s ''Moonlight Sonata''; another noteworthy song is ''Living for the Night'' - possibly the favorite one of most Viper fans. This album was released in several countries and granted them international fame - especially in Japan, where it outsold renowned groups like [[Nirvana (band)|Nirvana]] and [[Van Halen]].{{citation needed|date=June 2021}}
+
+Not long after that, however, singer [[Andre Matos]] left Viper to go to complete his education in music<ref name=drmetal>{{cite web|title=Interview with Andre Matos (Part 1 of 2)|url=http://www.metalmeltdown.com/dr-metals-blog/interviews-andrematos1|website=Metal Meltdown|access-date=9 December 2015|date=27 March 2013}}</ref> at a University in Germany. Upon returning to Brazil he joined the band [[Angra (band)|Angra]].
+
+Rather than look for another singer, bassist (and main composer) Pit Passarel took over the microphone. This led to the first major change in the band's style, noticeable in their next album, ''Evolution'', released in 1992 - heavier, more direct, with a more [[thrash metal]] sounding. Again, it is a commercial success with good reviews.
+
+On April 18, 1993, Viper played in Club Cittá, [[Tokyo]]; this concert's record was later released as ''Maniacs in Japan''.
+
+In 1995, they released their next album, ''Coma Rage'', in which a punk influence is quite strong - as the presence of a cover version of "[[I Fought the Law]]" makes very clear. Despite mixed reviews, it is again a fine seller. However, the band has stated later that, in hindsight, they are far from satisfied with the album's [[Audio mixing (recorded music)|mixing]].
+
+1996 was possibly the band's darkest moment: soon after the release of ''Tem Pra Todo Mundo'' - their first album with lyrics in Portuguese, and a lighter, pop-like sound - their record label at the time (the Brazilian arm of [[Castle Communications]]) went bankrupt; legal disputes and the disappearance of the album's [[Master recording|masters]] prevented the re-release of the album by some other label, or the recording of another album by Viper. The band's activities came to a halt, despite never officially breaking up.
+
+In 1999, the compilation ''Everybody Everybody – The Best of Viper'' was released to celebrate fifteen years of Viper.
+
+In 2001, the band officially returned to their activities, doing some concerts around the Brazil. Soon after, guitarist Yves Passarel left Viper to keep his focus on his new band, [[Capital Inicial]], a renowned Brazilian pop-rock band; his brother Pit also works with this band as a composer.
+
+In 2004, with a new singer, Ricardo Bocci, Viper resumed touring in Brazil, and in 2005 they released a DVD documentary, ''20 Years Living for the Night''.
+
+In December 2005, the band released a "20 years of Viper" DVD, telling all the story of the band in all its existence. They also started working in the pre-production of a new album, and recorded a demo; in February 2006 they started recording the album. ''All My Life'' was finally released in June 2007. After a tour in Brazil, Viper went into hiatus again; in February 2010, Bocci announced that, given the band's inactive status, he had left it to work in his solo career.<ref>{{Cite web|title=blogs.myspace.com|url=http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=406745997&blogId=528911256|access-date=9 November 2020|website=[[Myspace]]}}</ref>
+
+Andre Matos joined the band again in 2012 for a new Brazilian tour. Commenting on this reunion, he said:<ref name=drmetal/>
+
+{{cquote|"I was friends with everybody again, and we started seeing each other again. [...] When the idea came now last year [2012] that we should do an anniversary tour and celebrate the first album, everybody was very, very positive about it. So we just needed to figure out when it would be the best time to do it, when everyone would have some free spots in their agendas to match together and to actually make it work, and it did work."}}
+
+==Members==
+===Current===
+* [[Pit Passarell]] - bass (1985–present), lead vocals (1991–2004)
+* Felipe Machado - guitars (1985–present)
+* Guilherme Martin - drums (1989–1990, 2004–2005, 2012–present)
+* Leandro Caçoilo - vocals (2017–present)
+
+===Former===
+* [[Andre Matos]] - lead vocals (1985–1990, 2012–2016; died 2019)
+* Yves Passarell - guitars (1985–1996)
+* Cassio Audi - drums (1985–1989)
+* Gustavo Rodrigues - drums (2000-2004)
+* Val Santos - guitars (2004–2007), drums (1989)
+* Ricardo Bocci - lead vocals (2004–2009)
+* Marcelo Mello - guitars (2007–2009)
+* Renato Graccia - drums (1991–1996, 2005–2009)
+* [[Hugo Mariutti]] - guitars (2012–2020)
+
+===Timeline===
+{{#tag:timeline|
+ImageSize  = width:800 height:auto barincrement:18
+PlotArea   = left:170 bottom:80 top:0 right:40
+Alignbars  = justify
+DateFormat = mm/dd/yyyy
+Period     = from:01/01/1985 till:{{#time:m/d/Y}}
+TimeAxis   = orientation:horizontal format:yyyy
+ScaleMinor = increment:1 start:1985
+ScaleMajor = increment:3 start:1985
+Legend     = orientation:horizontal position:bottom
+
+Colors =
+ id:vocals  value:red        legend:Vocals
+ id:guitar  value:green      legend:Guitars
+ id:bass    value:blue       legend:Bass
+ id:drums   value:orange     legend:Drums
+ id:studio  value:black      legend:Studio_album
+
+LineData =
+ at:05/27/1987 color:black layer:back
+ at:10/10/1989 color:black layer:back
+ at:06/01/1992 color:black layer:back
+ at:07/01/1995 color:black layer:back
+ at:06/01/1996 color:black layer:back
+ at:06/05/2007 color:black layer:back
+
+BarData =
+ bar:Andre   text:"Andre Matos"
+ bar:Ricky   text:"Ricardo Bocci"
+ bar:Leandro text:"Leandro Caçoilo"
+ bar:Felipe  text:"Felipe Machado"
+ bar:Yves    text:"Yves Passarell"
+ bar:Marcelo text:"Marcelo Mello"
+ bar:Hugo    text:"Hugo Mariutti"
+ bar:Pit     text:"Pit Passarell"
+ bar:Cassio  text:"Cassio Audi"
+ bar:Val     text:"Valdécio Santos"
+ bar:Guil    text:"Guilherme Martin"
+ bar:Renato  text:"Renato Graccia"
+ bar:Gustavo  text:"Gustavo Rodrigues"
+
+
+PlotData =
+ width:11
+ bar:Andre     from:start till:12/31/1990  color:vocals
+ bar:Ricky     from:04/01/2004 till:04/01/2009  color:vocals
+ bar:Andre     from:04/01/2012 till:12/31/2016  color:vocals
+ bar:Leandro   from:01/01/2017 till:end color:vocals
+ bar:Felipe    from:start till:10/01/1996  color:guitar
+ bar:Felipe    from:04/01/2000 till:04/01/2009  color:guitar
+ bar:Felipe    from:04/01/2012 till:end color:guitar
+ bar:Yves      from:start till:10/01/1996  color:guitar
+ bar:Val         from:04/01/2004 till:10/01/2007  color:guitar
+ bar:Marcelo   from:10/01/2007 till:04/01/2009 color:guitar
+ bar:Hugo     from:04/01/2012 till:01/03/2020  color:guitar
+ bar:Pit          from:start till:10/01/1996  color:bass
+ bar:Pit          from:01/01/1991 till:10/01/1996 color:vocals width:3
+ bar:Pit          from:04/01/2000 till:04/01/2009  color:bass
+ bar:Pit          from:04/01/2000 till:04/01/2004 color:vocals width:3
+ bar:Pit          from:04/01/2012 till:end  color:bass
+ bar:Cassio    from:start till:02/01/1989  color:drums
+ bar:Val          from:02/01/1989 till:06/01/1989  color:drums
+ bar:Guil         from:06/01/1989 till:12/31/1990  color:drums
+ bar:Renato   from:01/01/1991 till:10/01/1996  color:drums
+ bar:Guil     from:04/04/2004 till:04/01/2005 color:drums
+ bar:Gustavo     from:05/05/2000 till:04/05/2004 color:drums
+ bar:Renato   from:04/01/2005 till:04/01/2009  color:drums
+ bar:Guil        from:04/01/2012 till:end  color:drums
+ }}
+
+==Discography==
+===Studio albums===
+* ''[[Soldiers of Sunrise]]'' (1987)
+* ''[[Theatre of Fate]]'' (1989)
+* ''[[Evolution (Viper album)|Evolution]]'' (1992)
+* ''[[Coma Rage]]'' (1995)
+* ''[[Tem Pra Todo Mundo]]'' (1996)
+* ''[[All My Life (Viper album)|All My Life]]'' (2007)
+
+===Other releases===
+* ''[[The Killera Sword]]'' (demo, 1985)
+* ''[[Vipera Sapiens]]'' (EP, 1992)
+* ''[[Maniacs in Japan]]'' (live album, 1993)
+* ''[[Everybody Everybody (album)|Everybody Everybody]]'' (compilation, 1999)
+* ''[[Do It All Again]]'' (demo, 2005)
+* ''To Live Again - 25 years'' (live album, 2015)
+* "The Spreading Soul Forever" (single, 2020)
+
+===Documentaries===
+* ''[[20 Years Living for the Night]]'' (2005)
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20070630022815/http://www.viperbrazil.com.br/ Viper's official site]
+*[http://www.myspace.com/viperbrazil Viper's MySpace page]
+*[https://www.youtube.com/viperbraziltv Viper's YouTube channel]
+
+{{Viper}}
+{{Authority control}}
+
+{{DEFAULTSORT:Viper}}
+[[Category:Musical groups established in 1985]]
+[[Category:Brazilian power metal musical groups]]
+[[Category:Musical quartets]]
+[[Category:Musical groups disestablished in 1996]]
+[[Category:Musical groups reestablished in 2004]]
+[[Category:Musical groups from São Paulo]]
+[[Category:1985 establishments in Brazil]]

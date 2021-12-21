@@ -1,0 +1,185 @@
+{{Short description|Species of flowering plant in the elm family Ulmaceae}}
+{{Speciesbox
+|image = RN Ulmus glabra (alnarp sweden).jpg
+|image_caption = Wych elm
+| status = DD| status_system = IUCN3.1
+| status_ref = <ref name="iucn status 19 November 2021">{{cite iucn |author=Barstow, M. |author2=Rivers, M.C. |date=2017 |title=''Ulmus glabra'' |volume=2017 |page=e.T61966807A61966819 |doi=10.2305/IUCN.UK.2017-3.RLTS.T61966807A61966819.en |access-date=19 November 2021}}</ref>
+| parent = Ulmus sect. Ulmus
+| display_parents = 2
+| genus = Ulmus
+| species = glabra
+| authority = [[William Hudson (botanist)|Huds.]]
+| range_map = Ulmus glabra range.svg
+| range_map_caption = Distribution map
+| synonyms ={{collapsible list|
+* ''Ulmus campestris'' <small>L. Mill., Wilkomm</small>
+* ''Ulmus corylacea'' <small>Dumrt.</small>
+* ''[[Ulmus elliptica]]'' <small>Koch</small>
+* ''Ulmus effusa'' <small>Sibth.</small>
+* ''Ulmus excelsa''<small> Borkh.</small>
+* ''Ulmus expansa'' <small>Rota</small>
+* ''Ulmus leucocarpa'' <small>Schur.</small>
+* ''Ulmus macrophylla'' <small>Mill.</small>
+* ''Ulmus major'' <small>Sm.</small>
+* ''Ulmus montana'' <small>Stokes, Smith, Loudon, Mathieu, [[William Withering|With.]]</small>
+* ''Ulmus nuda'' <small>Ehrh.</small>
+* ''Ulmus podolica'' <small>(Wilcz.) Klok.</small>
+* ''Ulmus popovii'' <small>Giga.</small>
+* ''Ulmus scabra'' <small>Mill., C. K. Schneid., Ley, Ascherson & Graebner</small>
+* ''Ulmus scotica'' <small>Gand.</small>
+* ''Ulmus suberosa'' <small>Michx. </small>
+* ''Ulmus sukaczevii'' <small>Andronov</small>
+  }}
+}}
+'''''Ulmus glabra''''', the '''wych elm''' or '''Scots elm''', has the widest range of the European elm species, from Ireland eastwards to the [[Urals]], and from the [[Arctic Circle]] south to the mountains of the [[Peloponnese]] in Greece; it is also found in Iran. A large [[deciduous]] tree, it is essentially a [[montane]] species, growing at elevations up to {{convert|1500|m|ft|abbr=on}}, preferring sites with moist soils and high humidity.<ref name="Heybroek,1">Heybroek, H. M., Goudzwaard, L, Kaljee, H. (2009). ''Iep of olm, karakterboom van de Lage Landen'' (:Elm, a tree with character of the Low Countries). KNNV, Uitgeverij. {{ISBN|9789050112819}}</ref> The tree can form pure forests in [[Scandinavia]] and occurs as far north as [[67th parallel north|latitude 67°N]] at [[Beiarn]] in Norway. It has been successfully  introduced as far north as [[Tromsø]], [[Norway]] and [[Alta, Norway]] (70°N).<ref>{{Cite web|url=https://www.nhm.uio.no/besok-oss/botanisk-hage/avdelinger/arboretet/trar/alm/utbredelse/|title=Utbredelse - Naturhistorisk museum}}</ref> It has also been successfully introduced to [[Narsarsuaq]], near the southern tip of Greenland ([[61st parallel north|61°N]]).
+
+The tree was by far the most common elm in the north and west of the [[British Isles]] and is now acknowledged as the only indisputably British native elm species. Owing to its former abundance in Scotland, the tree is occasionally known as the Scotch or Scots elm; [[Loch Lomond]] is said to be a corruption of the Gaelic ''Lac Leaman'' interpreted by some as 'Lake of the Elms', 'leaman' being the plural form of leam or lem, 'elm'.<ref name=Richens>Richens, R. H. (1983). ''Elm''. Cambridge University Press. {{ISBN|9780521294621}}</ref>
+
+Closely related species, such as [[Bergmann's Elm|Bergmann's elm ''U. bergmanniana'']] and [[Manchurian Elm|Manchurian elm ''U. laciniata'']], native to northeast [[Asia]], were once sometimes included in ''U. glabra'';<ref name=Elwes>Elwes, H. J. & Henry, A. (1913). ''[http://fax.libs.uga.edu/QK488xE4/1f/trees_of_britain_and_ireland_vol_7.pdf The Trees of Great Britain & Ireland]''. Vol. VII. 1848&ndash;1929. Republished 2014 Cambridge University Press, {{ISBN|9781108069380}}</ref> another close relative is the [[Ulmus wallichiana|Himalayan or Kashmir elm ''U. wallichiana'']]. Conversely, ''[[Ulmus elliptica]]'' from the Caucasus, considered a species by some authorities,<ref>Elwes, Henry John, & Henry, Augustine, (1913) ''The Trees of Great Britain & Ireland'', Vol.7, pp.1863-1864 [https://archive.org/stream/treesofgreatbrit07elweuoft#page/1863/mode/2up]</ref><ref>Bean, W. J. (1988) ''Trees and shrubs hardy in Great Britain'', 8th edition, Murray, London</ref><ref>Krüssman, Gerd, ''Manual of Cultivated Broad-Leaved Trees & Shrubs'' (1984 vol. 3)</ref> is often listed as a regional form of ''Ulmus glabra''.<ref>Richens, R. H., ''Elm'' (Cambridge 1983), p.279</ref>
+
+==Etymology==
+The word "wych" (also spelled "witch") comes from the Old English {{lang|ang|wice}}, meaning pliant or supple, which also gives definition to [[wicker]] and weak. [[Jacob George Strutt]]'s 1822 book, ''Sylva Britannica'' attests that the Wych Elm was sometimes referred to as the "Wych Hazel".<ref>{{cite book | title = Sylva Britannica | author = Jacob George Strutt | year = 1822 | page = 66 }} [https://archive.org/stream/sylvabritannicao00strurich Full text] of expanded 1830 edition.</ref> (not to be confused with ''[[Hamamelis]]'' wych hazels).
+
+==Classification==
+===Subspecies===
+Some botanists, notably Lindquist (1931), have proposed two [[subspecies]]:<ref name="botexc1931v9p785">{{cite journal|last1=Bertil|first1=Lindguist|title=Two varieties of North West European Ulmus glabra|journal=Botanical Society Report |date=1931|volume=9|pages=785|url=https://archive.org/stream/reportbotanicals9192bota#page/785/mode/2up/|access-date=29 August 2017}}</ref>
+* ''U. glabra'' subsp. ''glabra'' in the south of the species' range: broad leaves with short tapering base and acute lobes;<ref name="Myking&Yakovlev"/> trees often with a short, forked trunk and a low, broad crown;
+[[File:Ulmus glabra subsp. montana. Near Jack Kane Sports Centre, Edinburgh (1).jpg|thumb|left|140px|''U. glabra'' subsp. ''montana'', Edinburgh]]
+* ''U. glabra'' subsp. ''montana'' <small>(Stokes) Lindqvist</small> in the north of the species' range (northern Britain, Scandinavia): leaves narrower, with a long tapering base and without acute lobes;<ref name="Myking&Yakovlev">Myking & Yakovlev: 'Variation in leaf morphology and chloroplast DNA in Ulmus glabra in the northern suture zone: Effects of distinct glacial refugia'; Scandinavian Journal of Forest Research, 21(2):99-107, April 2006</ref> trees commonly with a long single trunk and a tall, narrow crown.<ref>[http://bioportal.naturalis.nl/nba/result?nba_request=http%253A%252F%252Fapi.biodiversitydata.nl%252Fv0%252F%252Fmultimedia%252Fget-multimedia-object-for-specimen-within-result-set%252F%253FunitID%253DL.1587168_802534720%2526searchID%253Db8d223826c5c3693e0505034d8ec4229 bioportal.naturalis.nl L.1587168 ''Ulmus glabra'' Huds. subsp. ''montana'' (Stokes) Lindq., Thirsk, Yorkshire, 1937]</ref> 
+
+Much overlap is seen between populations with these characters, and the distinction may owe to environmental influence, rather than genetic variation; the subspecies are not accepted by ''Flora Europaea''.<ref name=Flora>[http://rbg-web2.rbge.org.uk/cgi-bin/nph-readbtree.pl/feout?FAMILY_XREF=&GENUS_XREF=Ulmus&SPECIES_XREF=glabra&TAXON_NAME_XREF=&RANK= Flora Europaea: ''Ulmus glabra'']</ref>
+
+==Description==
+The type sometimes reaches heights of {{convert|40|m|ft|abbr=on}}, typically with a broad crown where open-grown, supported by a short [[Bole (botany)|bole]] up to {{convert|2|m|ft|abbr=on}} [[diameter at breast height]] (DBH). Normally, root suckers are not seen; natural reproduction is by seed alone. The tree is notable for its very tough, supple young shoots, which are always without the corky ridges or 'wings' characteristic of many elms. The alternate leaves are deciduous, 6&ndash;17&nbsp;cm long by 3&ndash;12&nbsp;cm broad, usually [[leaf shape|obovate]] with an asymmetric base, the lobe often completely covering the short (<5&nbsp;mm) [[petiole (botany)|petiole]]; the upper surface is rough. Leaves on juvenile or shade-grown shoots sometimes have three or more lobes near the apex.<ref name=Coleman>Coleman, M (ed.). (2009). ''Wych Elm''. Royal Botanic Garden Edinburgh. {{ISBN|978-1-906129-21-7}}.</ref> The [[perfect flower|perfect]] [[plant sexuality|hermaphrodite]] [[flower]]s appear before the leaves in early spring, produced in clusters of 10&ndash;20; they are 4&nbsp;mm across on 10&nbsp;mm long stems, and being wind-pollinated, are [[apetalous]]. The fruit is a winged [[Samara (fruit)|samara]] 20&nbsp;mm long and 15&nbsp;mm broad, with a single, round, 6&nbsp;mm seed in the centre, maturing in late spring.<ref name=Bean>Bean, W. J. (1981). ''Trees and shrubs hardy in Great Britain'', 7th edition. Murray, London.
+</ref><ref name=White>White, J. & More, D. (2003). ''Trees of Britain and Northern Europe''. Cassell's, London</ref>
+<gallery>
+File:Ulmus glabra flowers - Keila.jpg|Flowers
+File:Wych elm flowers and nascent seeds.jpg|Nascent seeds
+File:Ulmus glaba. Hawthornvale Path, Edinburgh. Samarae.jpg|Samarae, showing seed on stalk side of centre
+File:Ulmus glabra 001.jpg|Leaves with extra lobes
+File: Wych elm bark.jpg|Bark, estimated age 100 years
+File:Klijavac ulmus glabra goc 0427.jpg|Seedling, showing [[cotyledon]]s (K)
+</gallery>
+
+==Pests and diseases==
+While the species is highly susceptible to [[Dutch elm disease]],<ref name=Forestry>[http://www.forestry.gov.uk/fr/HCOU-4U4JCL Forestry Commission. ''Dutch elm disease in Britain'', UK]</ref><ref name=Brasier>Brasier, C. M. (1996). New horizons in Dutch elm disease control. Pages 20&ndash;28 in: ''Report on Forest Research'', 1996. Forestry Commission. HMSO, London, UK.[http://www.forestry.gov.uk/pdf/New_horizons_DED.pdf/$FILE/New_horizons_DED.pdf]</ref> it is less favoured as a host by the elm bark beetles, which act as vectors. Research in Spain has indicated the presence of a [[triterpene]], [[alnulin]], rendering the tree bark less attractive to the beetle than the [[Ulmus minor|field elm]], though at 87&nbsp;μg/g dried bark, its concentration is not as effective as in ''[[Ulmus laevis]]'' (200&nbsp;μg/g).<ref name="Martín">Martín-Benito D., Concepción García-Vallejo M., Alberto Pajares J., López D. 2005. Triterpenes in elms in Spain. ''Can. J. For. Res.'' 35: 199&ndash;205 (2005). {{cite web |url=http://pubs.nrc-cnrc.gc.ca/rp/rppdf/x04-158.pdf |title=Archived copy |access-date=2007-06-18 |url-status=dead |archive-url=https://web.archive.org/web/20070628155809/http://pubs.nrc-cnrc.gc.ca/rp/rppdf/x04-158.pdf |archive-date=2007-06-28 }}</ref> Moreover, once the tree is dying, its bark is quickly colonized by the [[fungus]] ''[[Phoma]]'', which radically reduces the amount of bark available for the beetle to breed on.<ref name=Webber>Webber, J. (1980). A natural biological control of Dutch elm disease. ''Nature'', 292, 449&ndash;451</ref> In European trials, clones of apparently resistant trees were inoculated with the pathogen, causing 85 &ndash; 100% wilting, resulting in 68% mortality by the following year. DNA analysis by [[Cemagref]] (now [[Irstea]]) in France has determined the genetic diversity within the species is very limited, making the chances of a resistant tree evolving rather remote.<ref name=Solla>Solla et al. (2005). Screening European Elms for Resistance to Ophiostoma novo-ulmi. ''Forest Science'', 134&ndash;141. 51 (2) 2005. Society of American Foresters.</ref>
+
+The Swedish Forest Tree Breeding Association at [[Källstorp]] produced [[triploid]] and [[tetraploid]] forms of the tree, but these proved no more resistant to Dutch elm disease than the normal [[diploid]] form.<ref name=Went>Went, J. (1954). The Dutch Elm Disease - Summary of fifteen years' hybridization and selection work (1937&ndash;1952). ''European Journal of Plant Pathology''. 02(1954); 60(2): 109&ndash;1276.</ref>
+
+In trials conducted in Italy, the tree was found to have a slight to moderate susceptibility to [[Elm Yellows|elm yellows]], and a high susceptibility to the elm leaf beetle ''[[Xanthogaleruca luteola]]''.<ref name=Mittempergher>{{cite journal|last1=Mittempergher|first1=L|last2=Santini|first2=A|journal=Investigacion Agraria: Sistemas y Recursos Forestales|title=The history of elm breeding|volume=13|issue=1|pages=161–177|date=2004|url=http://www.inia.es/gcontrec/Pub/161-177-(14)-The_history_1161943529015.pdf}}</ref>
+
+==Cultivation==
+The wych elm is moderately shade-tolerant, but requires deep, rich soils as typically found along river valleys.<ref name=Edlin>Edlin, H. L. (1949). ''British woodland trees''. Batsford, London.</ref> The species is intolerant of acid soils and flooding,<ref name=Thomas>Thomas, P. A., Stone, D., La Porta, N. (2018). Biological Flora of the British Isles: Ulmus glabra. ''Journal of Ecology'', Volume 106, Issue 4. British Ecological Society. [https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.12994]</ref> as it is of prolonged drought.<ref name=CAB>CAB International (2005) ''Forestry Compendium''. CAB International, Wallingford, UK</ref> Although rarely used as a street tree owing to its shape, it can be surprisingly tolerant of urban air pollution, constricted growing conditions, and severe pollarding.
+
+As wych elm does not sucker from the roots, and any seedlings are often consumed by uncontrolled deer populations, regeneration is very restricted, limited to sprouts from the stumps of young trees. The resultant decline has been extreme, and the wych elm is now uncommon over much of its former range. It is best propagated from seed or by layering stooled stock plants, although softwood cuttings taken in early June will root fairly reliably under mist.<ref name=Beckett>Beckett, K. & G. (1979). ''Planting Native Trees and Shrubs''. Jarrold & Sons, Norwich, UK.</ref>
+
+Wych elm was widely planted in Edinburgh in the 19th century as a park and avenue tree, and despite losses, it remains abundant there, regenerating through seedlings.<ref>Coleman, Max, ed., ''Wych Elm'' (Edinburgh, 2009)</ref><ref name="Richens"/> It was introduced to New England in the 18th century,<ref>{{cite book|last=Browne|first=Daniel Jay|date=1851| title=The Trees of America|publisher=Harper & Brothers|place=New York|pages=481|url=https://archive.org/stream/treesofamerican00brow#page/490/mode/2up}}</ref> to Canada (as ''U. montana'' at the [[Dominion Arboretum]], [[Ottawa]]) <ref name = Ottawa1899>{{Cite book|last1=Saunders|first1=William|last2=Macoun|first2=William Tyrrell|url=https://archive.org/stream/bulletinissues00ottogoog#page/n80/mode/2up/|title=Catalogue of the trees and shrubs in the arboretum and botanic gardens at the central experimental farm|year=1899|edition=2|pages=74–75|publisher=Ottawa}}</ref><ref>[http://canadiantreetours.org/species-pages/Scotch_elm.html canadiantreetours.org]</ref> and Australia in the 19th century.<ref>Spencer, Roger, ed., ''Horticultural Flora of South-Eastern Australia'', Vol. 2 (Sydney, 1995), ''Ulmus'', p.&nbsp;103-118 [https://books.google.co.uk/books?id=jLabuEqJNNsC&pg=PA105&lpg=PA105&dq=Horticultural+Flora+Of+South-+Eastern+Australia+ulmus&source=bl&ots=J1ckDVhE1t&sig=8zfXcZxnlrLdLVtuEXjMT11Pihg&hl=en&sa=X&ei=r6CqVLqkKaGd7gaepoDoDg&ved=0CCUQ6AEwAA#v=onepage&q=Horticultural%20Flora%20Of%20South-%20Eastern%20Australia%20ulmus&f=false]</ref>
+
+<gallery>
+Image:Wych Elm in Bloom - geograph.org.uk - 1277831.jpg|Tree near [[Castle Douglas]], [[Galloway]], late April
+Image:Ulmus glabra. Duddingston, Edinburgh (1).jpg|Bole of old specimen
+</gallery>
+
+==Uses==
+
+===Lumber===
+Wych elm wood is prized by craftsmen for its colouring, its crazy grain, its 'partridge-breast' or 'catspaw' markings, and when worked, its occasional iridescent greenish sheen or 'bloom'. The bosses on old trees produce the characteristic fissures and markings of 'burr elm' wood.<ref>Coleman, Max, ed., Wych Elm (Royal Botanic Garden publications, Edinburgh, 2009)</ref> Bosses fringed with shoots are burrs, whereas unfringed bosses are burls. 
+<gallery> 
+Image: Wych elm wood grain.jpg|Untreated wood grain of wych elm
+Image: Burr_Wych_Elm.jpg|Waxed wood grain of burr wych elm
+File:Ulmus glabra. Burr on trunk. Royal Terrace Gardens, Edinburgh (2).jpg|Burr on wych bole, Royal Terrace Gardens, Edinburgh 
+File:Ulmus glabra. Burr or burl on trunk. Regent Road, Edinburgh.jpg|Burl on wych bole, Regent Road, Edinburgh
+</gallery>
+
+===Medicine===
+[[File:Ulmus campestris-Dijon.png|thumb|Medical properties of Ulmus campestris, Dijon, 1783]]
+In 18th century France, the inner bark of ''Ulmus glabra'', ''orme pyramidale'', had a brief reputation as a [[panacea]];<ref>Simon Morelot, ''Cours élémentaire d'histoire naturelle pharmaceutique...'', 1800, [https://books.google.com/books?id=9JUT4F0xFaYC&pg=PA349 p. 349] "the elm, pompously named ''pyramidal''...it had an ephemeral reputation"</ref><ref name="gdb">Georges Dujardin-Beaumetz, ''Formulaire pratique de thérapeutique et de pharmacologie'', 1893, [https://archive.org/details/bub_gb_L_6gFIvUKCcC/page/n706 p. 260]</ref>
+"it was taken as a powder, as an extract, as an elixir, even in baths. It was good for the nerves, the chest, the stomach — what can I say? — it was a true panacea."<ref name="levis">Gaston de Lévis, ''Souvenirs et portraits, 1780-1789'', 1813, [https://books.google.com/books?id=bxXZmvs_15gC&pg=PA240 p. 240]</ref> It was this so-called "pyramidal elm bark" about which [[Michel-Philippe Bouvart]] famously quipped "Take it, Madame... and hurry up while it [still] cures."<ref name="levis"/> It still appeared in a pharmacopeia of 1893.<ref name="gdb"/>
+
+==Notable trees==
+[[File:ID 1481 Bergulme 001.jpg|thumb|Ancient ''U. glabra'' in [[Styria]], Austria]]
+[[E. M. Forster]] cites a particular wych elm, one that grew at his childhood home of Rooks Nest, [[Stevenage]], [[Hertfordshire]], 16 times in his novel ''[[Howards End]]''.  This tree overhangs the house of the title and is said to have a "...girth that a dozen men could not have spanned..."  Forster describes the tree as "...a comrade, bending over the house, strength and adventure in its roots."  The wych elm of the novel had pigs' teeth embedded in the trunk by country people long ago and it was said that chewing some of the bark could cure toothache.  In keeping with the novel's epigraph, "Only connect...", the wych elm may be seen by some as a symbol of the connection of humans to the earth.  Margaret Schlegel, the novel's protagonist, fears that any "....westerly gale might blow the wych elm down and bring the end of all things..."  The tree is changed to a chestnut in the 1991 film adaptation of ''[[Howards End (film)|Howards End]]''.
+
+The UK Champion listed in [[The Tree Register|the Tree Register of the British Isles]] is at [[Brahan Castle|Brahan]] in the [[Scottish Highlands]];<ref>[http://www.forestry.gov.uk/forestry/INFD-6UFDYA The Brahan Elm, forestry.gov.uk]</ref> it has a girth of 703&nbsp;cm (2.23 m DBH) and a height of 24 m.<ref>{{Cite web|url=http://www.woodland-trust.org.uk/ancient-tree-forum/future.pdf|title = The Woodland Trust}}</ref> Possibly the oldest specimen in England was found in 2018 in a field north of [[Hopton Castle]] in Shropshire. Coppiced long ago, its bole girth measured 6.3 &nbsp;m in 2018. The oldest specimen in [[Edinburgh]] is believed to be the tree (girth 5.2&nbsp;m) in the former grounds of [[Duddingston House]], now Duddingston Golf Course.<ref>CEC information; tree may be seen on Google Streetview, beside Cavalry Park Drive, E. of Holy Rood High School.</ref> Other notable specimens in Edinburgh are to be found in Learmonth Gardens and [[The Meadows (park)|The Meadows]].<ref>Edinburgh Wych-elm photographs [http://www.fombl.org.uk/tr_Wych_elm_1.html] [http://www.fombl.org.uk/tr_Wych_elm_2.html]</ref>
+
+In Europe, a large tree planted in 1620 grows at Bergemolo, 5&nbsp;km south of [[Demonte]] in [[Piedmont]], Italy (bole-girth 6.2&nbsp;m, 2.0&nbsp;m  DBH, height 26&nbsp;m., 2008).<ref name="patriarchinatura.it">Association of Nature Patriarchs in Italy: [http://www.patriarchinatura.it/contenuti/it/patriarchi_regione/piemonte.php Piemonte - Olmo di Bergemolo], access-date: November 23, 2016</ref><ref>{{cite web|url=https://www.google.co.uk/maps/@44.2952739,7.2854889,3a,90y,354.01h,119.16t/data=!3m6!1e1!3m4!1sEkU0qTaS1t1B9tSkt-9CEQ!2e0!7i13312!8i6656|title=Google Maps|work=Google.co.uk|access-date=7 February 2017}}</ref> Other ancient specimens grow at Styria, in Austria, and at Grenzhammer, Germany (see Gallery). In 1998, over 700 healthy, mature trees were discovered on the upper slopes of Mount Šimonka in [[Slovakia]], but they are believed to have survived courtesy of their isolation from disease-carrying beetles rather than any innate resistance; 50 clones of these trees were presented to [[the Prince of Wales]] for planting at his [[Highgrove Estate]], and at [[Clapham, North Yorkshire|Clapham]], [[Yorkshire]].<ref>http://www.ecosystems.sk/pages/news41.html</ref>
+
+<gallery>
+File:Ilmenau Grenzhammer Ulme.JPG|thumb|300-year-old ''U. glabra'' (after lopping), Grenzhammer, [[Ilmenau]], Germany<ref name="ilme_Ilme">{{Cite web | title = Ilmenaus bekannteste und vermutlich Europas älteste Ulme fiel dem Unwetter zum Opfer | work = ilmenau.de | date = 2015 | access-date = 2017-08-29 | url = http://ilmenau.de/2183-0-Ilmenaus+bekannteste+und+vermutlich+Europas+aelteste+Ulme+fiel+dem+Unwetter+zum+Opfer.html }}</ref>
+File:U. glabra at Bergemolo 2017, 2.jpg|''U. glabra'', planted 1620, Bergemolo, near [[Demonte]], Italy
+File:Hopton Castle ancient coppiced wych elm.jpg|''U. glabra'', Hopton Castle, Shropshire, England
+File:Ulmus glabra. Duddingston, Edinburgh (2).jpg|The Duddingston elm (girth 5.2 m), Edinburgh
+</gallery>
+
+==Cultivars==
+About 40 cultivars have been raised, although at least 30 are now probably lost to cultivation as a consequence of Dutch elm disease and/or other factors:
+{{#section:List of elm cultivars, hybrids and hybrid cultivars|Ulmus_glabra_cultivars}}
+NB: [[Ulmus 'Exoniensis'|'Exoniensis', Exeter Elm]], has traditionally been classified as a form of ''U. glabra'', but its identity is now a matter of contention.
+
+==Hybrids and hybrid cultivars==
+''U. glabra'' hybridises naturally with ''[[U. minor]]'', producing elms of the ''[[Ulmus × hollandica]]'' group, from which have arisen a number of cultivars:
+{{#section:List of elm cultivars, hybrids and hybrid cultivars|Ulmus_x_hollandica_cultivars}}
+However, hybrids of ''U. glabra'' and ''[[Ulmus pumila|U. pumila]]'', the Siberian elm, have not been observed in the field and only achieved in the laboratory, though the ranges of the two species, the latter introduced by man, overlap in parts of Southern Europe, notably Spain.<ref name="Martín"/> A crossing in Russia of ''U. glabra'' and ''U. pumila'' produced the hybrid named ''[[Ulmus × arbuscula]]''.
+
+Hybrids with ''U. glabra'' in their ancestry have featured strongly in recent artificial hybridization experiments in Europe, notably at [[Wageningen]] in the [[Netherlands]], and a number of hybrid cultivars have been commercially released since 1960.<ref name=Green>{{cite journal |last=Green |first=Peter Shaw |author-link=Peter Shaw Green |date=1964 |title=Registration of cultivar names in Ulmus|url=https://archive.org/stream/arnoldiaarno_21#page/40/mode/2up/|journal=Arnoldia |volume=24|pages=41–80 |number=6–8 |publisher=[[Arnold Arboretum]], [[Harvard University]] |access-date=16 February 2017}}</ref> The earlier trees were raised in response to the initial Dutch elm disease pandemic that afflicted Europe after the [[First World War]], and were to prove vulnerable to the much more virulent strain of the disease that arrived in the late 1960s. However, further research eventually produced several trees effectively immune to disease, which were released after 1989.<ref name=Heybroek,2>{{cite book|last1=Heybroek|first1=H.M.|editor1-last=Sticklen|editor1-first=Mariam B.|editor2-last=Sherald|editor2-first=James L.|title=Dutch Elm Disease Research|date=1993|publisher=Springer-Verlag|location=New York, USA|pages=16–25|access-date=26 October 2017|chapter=The Dutch Elm Breeding Program|chapter-url=https://books.google.com/books?id=avvxBwAAQBAJ&pg=PA16|isbn=978-1-4615-6874-2}}</ref>
+*[[Ulmus 'Arno'|Arno]], [[Ulmus 'Clusius'|Clusius]], [[Ulmus 'Columella'|Columella]], [[Ulmus 'Commelin'|Commelin]], [[Ulmus 'Den Haag'|Den Haag]], [[Ulmus 'Dodoens'|Dodoens]], [[Ulmus 'Groeneveld'|Groeneveld]], [[Ulmus 'Homestead'|Homestead]], [[Ulmus 'Lobel'|Lobel]], [[Ulmus 'Nanguen' = Lutece|Nanguen = {{tdes|Lutèce|caps}}]], [[Ulmus × hollandica 'Pioneer'|Pioneer]], [[Ulmus 'Plinio'|Plinio]], [[Ulmus 'Regal'|Regal]], [[Ulmus 'San Zanobi'|San Zanobi]], [[Ulmus 'Urban'|Urban]], [[Ulmus 'Wanoux' = Vada|Wanoux = {{tdes|Vada|caps}}]].
+
+==Accessions==
+;North America
+*[[Arnold Arboretum]], US. Acc. no. 391&ndash;2001, wild collected in Georgia
+*Bartlett Tree Experts, US. Acc. nos. 1505, 5103, origin undisclosed
+*[[Dawes Arboretum]] [https://web.archive.org/web/20071025005915/http://www.dawesarb.org/collectionsgardens/plant-search.asp], US. 6 trees, no acc. details available
+*[[Missouri Botanical Garden]] [http://www.mobot.org/], US. Acc. nos. 1969&ndash;6164, 1986&ndash;0160
+*[[Morton Arboretum]], US. Acc. nos. 591&ndash;54, 255&ndash;81, and by its synonym ''U. sukaczevii'', acc. nos. 949&ndash;73, 181&ndash;76
+
+;
+;Europe
+*[Held in nearly all arboreta]
+;
+;Australasia
+*Eastwoodhill Arboretum [https://web.archive.org/web/20080311122431/http://www.eastwoodhill.org.nz/gardens--collection/collection.aspx?Type=&G=Ulmus], [[Gisborne, New Zealand|Gisborne]], New Zealand. 8 trees, details not known.
+
+==In art==
+<gallery>
+Image:Samuel Bough Edinburgh Castle from Princes Street.jpg|Wych elms, [[Samuel Bough]], ''Edinburgh Castle from Princes Street'', c.1878
+</gallery>
+
+==See also==
+* [[Who put Bella in the Wych Elm?]] – graffiti that appeared in 1944 following the discovery of the remains of a woman inside a wych elm in Worcestershire, England
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*Coleman, Max, ed.: ''Wych Elm'' (Edinburgh, 2009; {{ISBN|978-1-906129-21-7}}). A study of the species, with particular reference to the wych elm in Scotland and its use by craftsmen.
+{{Commons|Ulmus glabra}}
+
+==External links==
+*''Ulmus glabra'' distribution map: linnaeus.nrm.se [http://linnaeus.nrm.se/flora/di/ulma/ulmus/ulmuglav.jpg]
+*[http://www.forestry.gov.uk/pdf/FCBK042.pdf/$FILE/FCBK042.pdf Jobling & Mitchell, 'Field Recognition of British Elms', Forestry Commission Booklet]
+*[http://northernontarioflora.ca/chklst.cfm?speciesid=1005114  ''Synonymy list'']
+*[http://en.sl.life.ku.dk/Faciliteter/GroenlandsArboretet/Skovplantninger.aspx ''The Forest Plantations'' (Greenland)]
+*[http://treegrowing.tcv.org.uk/grow/tree-recipes/wychelm ''Grow wych elm from seed'']
+*[http://www.euforgen.org/species/ulmus-glabra/ ''Ulmus glabra'']- information, genetic conservation units and related resources. [[European Forest Genetic Resources Programme]] (EUFORGEN) 
+*Myking & Yakovlev: 'Variation in leaf morphology and chloroplast DNA in ''Ulmus glabra'' in the northern suture zone: Effects of distinct glacial refugia'; ''Scandinavian Journal of Forest Research'', 21(2):99-107, April 2006 [https://www.researchgate.net/publication/233231433_Variation_in_leaf_morphology_and_chloroplast_DNA_in_Ulmus_glabra_in_the_northern_suture_zone_Effects_of_distinct_glacial_refugia/link/02e7e535ebe9831a06000000/download]
+*{{Royal Botanic Garden Edinburgh |id=E00824735 }} Sheet labelled ''Ulmus scabra'' <small>Mill.</small> = ''Ulmus montana'' <small>[[William Withering|With.]]</small>
+* {{Royal Botanic Garden Edinburgh |id=E00824732 }}  Sheet labelled ''Ulmus montana'' = ''Ulmus glabra'' <small>Huds.</small> RBGE specimen, 1900
+* {{Royal Botanic Garden Edinburgh |id=E00824730 }} Sheet described as ''Ulmus glabra'' <small>Huds.</small> from [[Bridge of Allan]], Scotland, 1899
+* {{Royal Botanic Garden Edinburgh |id=E00824764 }} [[Cotyledon]] and seedling leaves, ''Ulmus scabra'' <small>Mill.</small> = ''Ulmus montana'' <small>[[William Withering|With.]]</small>
+
+{{Elm species, varieties, hybrids, hybrid cultivars and species cultivars |state=collapsed}}
+{{Taxonbar|from=Q147498}}
+{{Authority control}}
+
+[[Category:Ulmus|glabra]]
+[[Category:Trees of Europe]]
+[[Category:Flora of Estonia]]
+[[Category:Flora of Finland]]
+[[Category:Flora of Russia]]
+[[Category:Flora of Ukraine]]
+[[Category:Trees of mild maritime climate]]
+[[Category:Trees of humid continental climate]]
+[[Category:Garden plants of Europe]]
+[[Category:Ornamental trees]]
+[[Category:Ulmus articles with images]]
+[[Category:Elm species and varieties]]

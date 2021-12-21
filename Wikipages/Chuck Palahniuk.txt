@@ -1,0 +1,222 @@
+{{Short description|American novelist (born 1962)}}
+{{Use mdy dates|date=January 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name         = Chuck Palahniuk
+| image        = Chuck Palahniuk (21955).jpg
+| imagesize    = 250px
+| caption      = Palahniuk at [[BookCon]] in June 2018
+| birth_name   = Charles Michael Palahniuk
+| birth_date   = {{birth date and age|mf=yes|1962|2|21}}
+| birth_place  = [[Pasco, Washington]], U.S.
+| death_date   = 
+| death_place  = 
+| occupation   = {{hlist|Novelist|essayist}}
+| alma_mater   = [[University of Oregon]]
+| period       = 1996{{ndash}}present
+| genre        = {{hlist|Fiction|[[Horror fiction|horror]]|satire}}
+| subject      = 
+| movement     = [[Minimalism]]
+| notableworks = {{hlist|[[Fight Club (novel)|''Fight Club'']]|[[Choke (novel)|''Choke'']]|[[Rant (novel)|''Rant'']]|''[[Invisible Monsters]]''}}
+| website      = {{url|https://www.chuckpalahniuk.net}}
+| influenced   = 
+| signature    = ChuckPalahniukSig.png
+}}
+'''Charles Michael "Chuck" Palahniuk''' ({{IPAc-en|ˈ|p|ɔː|l|ə|n|ɪ|k}};<ref>{{cite web|url=https://www.youtube.com/watch?v=yGapse2GwTY|title=Chuck Palahniuk Book Signing & Interview &#124; "Fight Club 3"|access-date=9 April 2021}}</ref> born February 21, 1962) is an American freelance journalist and novelist who describes his work as [[transgressive fiction|transgressional fiction]]. He has published 19 novels, 3 nonfiction books, 2 [[graphic novel]]s, and 2 [[adult coloring books]], as well as several short stories. He is most notably the author of the novel ''[[Fight Club (novel)|Fight Club]]'', which also was made into a [[Fight Club|film of the same name]], starring [[Brad Pitt]], [[Helena Bonham Carter]], and [[Edward Norton]].
+
+==Early life==
+Palahniuk was born in [[Pasco, Washington]], the son of Carol Adele (née Tallent) and Fred Palahniuk.<ref>{{cite web | url= http://www.youthquakemagazine.com/author_articles/chuckpalahniuk.htm | title= Chuck Palahniuk | work= YouthQuake Magazine | date= May 27, 2004 | access-date= December 4, 2013 | archive-url= https://web.archive.org/web/20131210090129/http://youthquakemagazine.com/author_articles/chuckpalahniuk.htm | archive-date= December 10, 2013 | url-status= dead }}</ref><ref>{{cite web|url=http://www.memorialsolutions.com/sitemaker/sites/pentti0/obit.cgi?user=cmeader |title=In Memory of Carol Adele Meader | work= memorialsolutions.com |access-date= December 4, 2013}}</ref> He has [[French people|French]] and [[Ukrainians|Ukrainian]] ancestry.<ref name=":1">{{cite news| first= Arifa |last= Akbar |url= https://www.independent.co.uk/arts-entertainment/books/features/chuck-palahniuk-i-shy-away-from-nonconsensual-violence-7851425.html |title=Chuck Palahniuk: 'I shy away from non-consensual violence' – Features – Books |work= [[The Independent]] |date=June 16, 2012 |access-date=December 4, 2013}}</ref> His paternal grandfather migrated from Ukraine to Canada and then to New York in 1907.<ref>{{cite news| last= Kochetkova| first= Natalia| url= http://www.izvestia.ru/culture/article1703451/ |title= Я действительно ходил в группы поддержки для неизлечимо больных| trans-title= I really went to support groups for terminally ill patients| archive-url= https://web.archive.org/web/20090505180939/http://www.izvestia.ru/culture/article1703451/ |archive-date= May 5, 2009 |format= Interview |language= ru| work= [[Izvestia]]| date= April 29, 2005}}</ref> Palahniuk grew up living in a mobile home in [[Burbank, Washington|Burbank]], Washington. His parents separated when he was 14 and subsequently divorced, often leaving him and his three siblings to live with their maternal grandparents at their cattle ranch in [[eastern Washington]].<ref>{{cite news| last= Jenkins| first= Emily| url= http://www.villagevoice.com/books/9941,jenkins,9013,10.html |title= Extreme Sport| work= [[The Village Voice]]| date= October 19, 1999}}</ref> Palahniuk acknowledged in a 2007 interview that he is a distant nephew of actor [[Jack Palance]], and that his family had talked of distant relations with Palance.<ref>{{cite web|date= June 12, 2007|title=Chuck Palahniuk Answers Your Questions |url= http://www.avclub.com/article/chuck-palahniuk-answers-your-questions-about-every-14113|work=[[The A.V. Club]] | access-date= July 8, 2018}}</ref>
+
+In his twenties, Palahniuk attended the [[University of Oregon]] School of Journalism, graduating in 1986. While attending college, he worked as an intern for [[National Public Radio]] member station [[KLCC (FM)|KLCC]] in [[Eugene, Oregon|Eugene]], Oregon. He moved to [[Portland, Oregon|Portland]], Oregon soon after. He wrote for the local newspaper for a short while and then began working for [[Freightliner (truck)|Freightliner]] as a diesel mechanic, continuing until his writing career took off. During that time, he wrote manuals on fixing trucks and had a stint as a journalist, a job to which he did not return until after he became a successful novelist. After casually attending a seminar held by an organization called [[Landmark Education]], Palahniuk quit his job as a journalist in 1988.<ref>{{cite news| url= http://observer.guardian.co.uk/magazine/story/0,11913,1477930,00.html | title= Fright club| work= [[The Observer]]| first= Sean| last= O'Hagan| date= May 7, 2005| access-date= July 8, 2018}}</ref> He performed volunteer work for a [[homeless shelter]] and volunteered at a [[hospice]] as an escort, providing transportation for terminally ill people and bringing them to support group meetings. He ceased volunteering upon the death of a patient to whom he had grown attached.<ref>{{cite book| last= Palahniuk| first= Chuck| title= [[Stranger than Fiction: True Stories]]| location= Garden City| publisher= [[Doubleday (publisher)|Doubleday]]| year= 2004| pages= [https://archive.org/details/strangerthanfict00pala/page/195 195–199]| isbn= 0-385-50448-9}}</ref>
+
+==Career==
+
+===Early career===
+Palahniuk began writing fiction in his mid-30s. By his account, he started writing while attending workshops for writers that were hosted by [[Tom Spanbauer]], which he attended to meet new friends. Spanbauer largely inspired Palahniuk's minimalistic writing style.
+
+===''Fight Club''===
+After his first novel, ''[[Invisible Monsters]]'', was rejected by all publishers he submitted it to, he began work on his most famous novel, ''Fight Club''.<ref name="chuckpalahniuk.net">{{cite web |author=Dennis |url=http://chuckpalahniuk.net/news/the-invisible-monsters-remix-is-now-out |title=The 'Invisible Monsters Remix' Is Now Out! &#124; The Cult |publisher=Chuckpalahniuk.net |date=June 22, 2012 |access-date=December 4, 2013 |archive-date=October 15, 2012 |archive-url=https://www.webcitation.org/6BQxB0eFy?url=http://chuckpalahniuk.net/news/the-invisible-monsters-remix-is-now-out |url-status=dead }}</ref> Palahniuk wrote this story in his spare time while working for Freightliner. After initially publishing it as a short story (which became chapter 6 of the novel) in the 1995 compilation ''Pursuit of Happiness'', Palahniuk expanded it into a full novel, which, contrary to his expectations, a publisher accepted.<ref>Tomlinson, Sarah. "[http://www.salon.com/ent/movies/int/1999/10/13/palahniuk/index.html Is it fistfighting, or just multi-tasking?]". ''Salon''. October 13, 1999.</ref> While the original hardcover edition of the book received positive reviews and some awards, it had a short shelf life.
+
+Initially, Palahniuk struggled to find a [[literary agent]] and went without one until after the publication of ''[[Fight Club (novel)|Fight Club]]''.<ref name=agent>[http://www.chuckpalahniuk.net/author/faq#How%20did%20he%20land%20an%20agent Author FAQ:] {{Webarchive|url=https://web.archive.org/web/20151029072017/http://chuckpalahniuk.net/author/faq#How%20did%20he%20land%20an%20agent |date=October 29, 2015 }} "How did he land an agent? Believe it or not, Chuck had to go through hell and back to land an agent..."</ref> After he began receiving attention from [[20th Century Fox]], Palahniuk was signed by actor and literary agent, [[Edward Hibbert]].<ref name=agent/><ref>[http://www.chuckpalahniuk.net/author/faq Author FAQ:] {{Webarchive|url=https://web.archive.org/web/20151029072017/http://chuckpalahniuk.net/author/faq |date=October 29, 2015 }} "Who is his agent? Edward Hibbert of Donadio & Olson, Inc. is Chuck's book agent. Check out Edward's double life as an actor..."</ref><ref>{{cite news|last=Glitz|first=Michael|title=Hibbert on: out actor Edward Hibbert talks about the Noises Off revival, his side career as an agent, and the best antidote to anthrax|publisher=The Advocate|date=December 25, 2001|url=http://findarticles.com/p/articles/mi_m1589/is_2001_Dec_25/ai_83451277|archive-url=https://web.archive.org/web/20071101100455/http://findarticles.com/p/articles/mi_m1589/is_2001_Dec_25/ai_83451277|url-status=dead|archive-date=November 1, 2007|access-date=May 23, 2008}}</ref> Hibbert eventually guided and brokered the deal that took ''Fight Club'' to the big screen.<ref name=agent /> In 1999, three years after the novel's publication, the film adaptation by director [[David Fincher]] was released. The film was a [[box office bomb|box office disappointment]] (although it was No. 1 at the U.S. box office in its first weekend) and critical reaction was mixed, but a [[cult film|cult following]] soon emerged as the DVD of the film became popular upon release. Three editions of the novel have been published in paperback, in 1999, in 2004 (with a new introduction by the author about the success of the film adaptation), and in 2005 (with an afterword by Palahniuk).
+
+Palahniuk was cajoled to continue ''[[Fight Club (novel)|Fight Club]]'' in comics form by fellow novelist [[Chelsea Cain]] and comic writers [[Brian Michael Bendis]], [[Matt Fraction]] and [[Kelly Sue DeConnick]].<ref name=OC>[http://www.orbitalcomics.com/orbital-in-conversation-episode-150-talking-fight-club-with-chuck-palahniuk/ Orbitalcomics.com] {{Webarchive|url=https://web.archive.org/web/20151003174005/http://www.orbitalcomics.com/orbital-in-conversation-episode-150-talking-fight-club-with-chuck-palahniuk/ |date=October 3, 2015 }} Orbital in Conversation with Chuck Palaniuk</ref> A teaser was released by [[Dark Horse Comics]] for [[Free Comic Book Day]] 2015, with ''[[Fight Club 2]]'' No. 1 following in late May of that year. The series explores [[Joseph Campbell]]'s concept of the 'second father' as being vital to the hero's journey, which is something that has always fascinated Palahniuk.<ref name=OC/>
+
+On the ''Orbital in Conversation'' podcast, Palahniuk stated that he is already working on ''Fight Club 3'', which will also be in comic form. He also confirmed that he is working on a series of original short stories for comics which will appear as one-shots before eventually being collected into a single book.<ref name=OC/>
+
+===''Invisible Monsters'', ''Survivor'', and ''Choke''===
+A revised version of ''Invisible Monsters'', as well as his fourth novel, ''[[Survivor (Chuck Palahniuk novel)|Survivor]]'', were published in 1999. A few years later Palahniuk managed to make his first [[New York Times bestseller list|''New York Times'' bestseller]], the novel ''[[Choke (novel)|Choke]]'', which later was made into a movie.
+
+===''Lullaby''===
+[[File:Palahniuk, Chuck.jpg|thumb|Palahniuk at the [[Miami Book Fair International]] 2011]]
+The year 1999 brought a series of great personal tragedies to Palahniuk's life. At that time, his father, Fred Palahniuk, had started dating a woman named Donna Fontaine, whom he had met through a [[personal ad]] under the title "[[wikt:kismet|Kismet]]".<ref name="McDonough">{{cite news |last1=McDonough |first1=Ted |title=Latah murder inspires novel; 'Choke' a dark story of sexual addiction |url=https://dnews.com/local/latah-murder-inspires-novel-choke-a-dark-story-of-sexual-addiction/article_e59f0598-74e2-5ef0-b712-e5176dd555cd.html |access-date=August 16, 2020 |work=Moscow-Pullman Daily News |date=June 15, 2001 |language=en}}</ref> Her former boyfriend, Dale Shackelford, had previously been imprisoned for sexual abuse, and had vowed to kill Fontaine as soon as he was released from prison. Palahniuk believes that, using a personal ad, Fontaine was looking for "the biggest man she could find" to protect her from Shackelford, and Palahniuk's father qualified.<ref>"Palahniuk, Slapstick, Skyspace". ''[[Studio 360]]'', [[NPR]]. February 12, 2006.</ref> After his release, Shackelford followed Fontaine and the senior Palahniuk to Fontaine's home in [[Kendrick, Idaho]], after they had gone out for a date. Shackelford then shot them both and dragged their bodies into Fontaine's cabin home, which he then set alight. In the spring of 2001, Shackelford was found guilty for two counts of murder in the first degree and sentenced to death. In the wake of these events, Palahniuk began working on the novel ''[[Lullaby (Palahniuk novel)|Lullaby]]''. He has stated that he wrote the novel to help him cope with having participated in the decision to have Shackelford receive the [[capital punishment|death sentence]].<ref>{{cite magazine |last1=Morton |first1=K. Willis |title=Lullaby at the Fight Club: The Chuck Palahniuk Gob Q & A |journal=[[Gobshite Quarterly]] |date=February 2003 |issue=1 |url=http://www.gobshitequarterly.com/arkive/issue001/morton_lullaby_gobqa_eng.htm |access-date=August 16, 2020}}</ref>
+
+==="Guts" and ''Haunted''===
+While on his 2003 tour to promote his novel, ''[[Diary (novel)|Diary]]'', Palahniuk read to his audiences a short story entitled "Guts", a sensational tale of accidents involving [[masturbation]], which appears in his book, ''[[Haunted (Palahniuk novel)|Haunted]]''. The story begins with the author telling his listeners to inhale deeply and that "this story should last about as long as you can hold your breath." It was reported that forty people had fainted listening to the readings while holding their breath.<ref>"[http://books.guardian.co.uk/departments/generalfiction/story/0,6000,1168227,00.html I dare you]". ''[[The Guardian]]''. March 13, 2004.</ref> ''[[Playboy]]'' magazine later published the story in their March 2004 issue and Palahniuk offered to let them publish another story along with it, but the publishers found the second work too disturbing to publish. On his tour to promote ''[[Stranger than Fiction: True Stories]]'' during the summer of 2004, he read "Guts" to audiences again, bringing the total number of fainters up to 53 (and later up to 60 while on tour to promote the softcover edition of ''Diary''). In the fall of that year, he began promoting ''Haunted'', and continued to read "Guts". In June 2005, Palahniuk noted that his number of fainters was up to 67.<ref>{{cite news|author=Books |url=https://www.telegraph.co.uk/culture/books/3643352/67-people-fainted-as-I-read-my-horror-story.html |title=67 people fainted as I read my horror story |newspaper=The Daily Telegraph |date=June 7, 2005 |access-date=June 30, 2014}}</ref> The last fainting occurred on May 28, 2007, in [[Victoria, British Columbia|Victoria]], British Columbia, Canada, where 5 people fainted, one of whom fell and hit his head on the door while trying to leave the auditorium. Since then audio recordings of his readings of the story have been circulated on the Internet. In the afterword of the latest edition of "Haunted", Palahniuk reported that "Guts" had been responsible for 73 fainting events.
+
+At a 2005 appearance in Miami, Florida, during the ''Haunted'' tour, Palahniuk commented that ''Haunted'' represented the last of a "[[horror fiction|horror]] trilogy" (including ''Lullaby'' and ''Diary''). He also indicated that his then-forthcoming novel, ''[[Rant (novel)|Rant]]'', would be the first of a "science fiction trilogy".
+
+In 2008, Palahniuk spent a week at the [[Clarion West Writers Workshop]], instructing eighteen students about his writing methods and theory of fiction.<ref>"Clarion West Turns 25". Locus Magazine, September 2008: Page 5</ref>
+
+===Adaptations===
+In addition to the film, ''Fight Club'' was adapted into a [[Fight Club (video game)|fighting video game]] loosely based on the film, which was released in October 2004, receiving poor reviews universally.<ref>{{cite web |url=http://gamerankings.com/htmlpages2/919413.asp?q=fight%20club |title=Fight Club |publisher=Game Rankings |date=November 16, 2004 |access-date=December 4, 2013 |archive-url=https://web.archive.org/web/20060101173831/http://www.gamerankings.com/htmlpages2/919413.asp?q=fight%20club |archive-date=January 1, 2006 |url-status=dead }}</ref> Palahniuk has mentioned at book readings that he is working on a musical based on ''Fight Club'' with David Fincher and [[Trent Reznor]].<ref>Chang, Jade. "[https://www.bbc.co.uk/dna/collective/A2799633 tinseltown: fight club and fahrenheit] {{Webarchive|url=https://web.archive.org/web/20150610183132/http://www.bbc.co.uk/dna/collective/A2799633 |date=June 10, 2015 }}". ''[[BBC]].co.uk''. July 2, 2004.</ref> [[Edward Norton]] has said that he thinks it is unlikely that he and [[Brad Pitt]], who "can't sing," would reprise their film roles in a musical.<ref>{{cite web |title= The Scoop: Elisabeth Hasselbeck invited to Palin rallies/Plus: Ed Norton disses Brad Pitt's singing; Katie Holmes no ratings winner|url= https://www.today.com/popculture/elisabeth-hasselbeck-invited-palin-rallies-wbna27329218|date= October 23, 2008|work= [[Today.com]]|access-date=July 9, 2009}}</ref>
+
+Graphic novel adaptations of ''Invisible Monsters'' and ''Lullaby'', drawn by comic artist, Kissgz, aka Gabor, are available online.<ref>{{cite web|url=http://www.chuckpalahniuk.net/features/comics/ |title=The Cult |url-status=dead |archive-url=https://web.archive.org/web/20131015144958/http://chuckpalahniuk.net/features/comics |archive-date=October 15, 2013 }}</ref>
+
+Following the success of the movie of ''Fight Club'', interest began to build about adapting ''Survivor'' to film. The film rights to ''Survivor'' were sold in early 2001, but no [[movie studio]] had committed to filming the novel. After the [[September 11 attacks|attacks on the Pentagon and World Trade Center on September 11, 2001]], movie studios apparently deemed the novel too controversial to film because it includes the hijacking and crashing of a civilian airplane.<ref>''Postcards from the Future: The Chuck Palahniuk Documentary. Kinky Mule Films. DVD Video. 2003.''</ref> In mid-2004, however, 20th Century Fox committed to adapting Palahniuk's novel. Palahniuk has said that the same people who made the film ''[[Constantine (movie)|Constantine]]'' will be working on this film.<ref>Epstein, Daniel Robert. "[http://suicidegirls.com/words/Chuck+Palahniuk+-+Haunted/ Chuck Palahniuk: Author of Haunted]". ''[[SuicideGirls]].com''. Retrieved May 12, 2006.</ref>
+
+Following that, the film rights to ''Invisible Monsters'' and ''Diary'' also were sold. While little is known about some of these projects, it is known that [[Jessica Biel]] was signed on to play the roles of both Shannon and Brandy in ''Invisible Monsters'', which was supposed to begin filming in 2004, but {{As of|2010|lc=on}} is still in development.<ref>[https://www.imdb.com/title/tt0756666/ IMDb] {{webarchive|url=https://web.archive.org/web/20100930145651/http://www.imdb.com/title/tt0756666/|date=September 30, 2010}}</ref>
+
+Palahniuk helped write some of the video game ''[[Manhunt 2]]'' in his freelance writing in 2007.
+
+On January 14, 2008, [[Choke (2008 film)|the film version of ''Choke'']] premiered at the [[Sundance Film Festival]], starring [[Sam Rockwell]], [[Kelly Macdonald]] and [[Anjelica Huston]] with [[Clark Gregg]] directing.<ref>Widmyer, Dennis. [http://www.chuckpalahniuk.net/community/showthread.php?threadid=28409 ''Chuckpalahniuk.net'']. April 30, 2007. {{webarchive |url=https://web.archive.org/web/20131012213144/http://chuckpalahniuk.net/community/showthread.php?threadid=28409 |date=October 12, 2013 }}</ref> David Fincher has expressed interest in filming ''Diary'' as an [[HBO]] miniseries.<ref>Sciretta, Peter. [http://www.cinematical.com/2005/06/17/the-chuck-palahniuk-update/ The Chuck Palahniuk Update]. ''Cinematical.com''. June 17, 2005. {{webarchive |url=https://web.archive.org/web/20090924020625/http://www.cinematical.com/2005/06/17/the-chuck-palahniuk-update/ |date=September 24, 2009 }}</ref><ref>''Chuckpalahniuk.net''. Retrieved October 12, 2006.</ref>
+
+On September 11, 2014, the film version of ''Rant'' was announced, starring [[James Franco]], with [[Pamela Romanowsky]] writing and directing.<ref>{{cite web|url=http://litreactor.com/news/news-exclusive-james-franco-options-chuck-palahniuks-rant|title=EXCLUSIVE: James Franco Options Chuck Palahniuk's 'Rant' UPDATED}}</ref>
+
+===Television appearances===
+Beside his various promotional outings, Palahniuk has made several television appearances to discuss cultural issues, including ''[[Anthony Bourdain: No Reservations]]'' exploring his beloved [[Pacific Northwest]] in 2007<ref>{{cite web|url=https://www.imdb.com/title/tt0943559/|title=Pacific NW|date=January 15, 2007|publisher=IMDb}}</ref> and the [[BBC]]'s ''[[Hardtalk]] Extra'' in 2004.<ref>{{cite web|url=https://www.imdb.com/title/tt0951807/|title=Chuck Palahniuk|date=September 15, 2006|publisher=IMDb}}</ref>
+
+==Writing style and themes==
+
+===Style===
+The narratives of Palahniuk's books often are structured [[in medias res]], starting at the temporal end, with the protagonist recounting the events that led up to the point at which the book begins. ''Lullaby'' used a variation of this, alternating between the normal, linear narrative and the temporal end, after every few chapters. Exceptions to this narrative form, however, include the more linear ''Choke'' and ''Diary''. Often a major plot twist exists that is revealed near the end of the book, which relates in some way to this temporal end (what Palahniuk refers to as "the hidden gun").<ref name=LAWeekly2002>Chuck Palahniuk (September 18, 2002). She Breaks Your Heart. LaWeekly.com. Retrieved November 21, 2019).</ref> His more linear works also include similar plot twists.
+
+Palahniuk says that his writing style has been influenced by authors such as the minimalist [[Tom Spanbauer]] (whose weekly workshop Palahniuk attended in Portland from 1991 to 1996),<ref>{{cite web |author=CultAdmin |url=http://chuckpalahniuk.net/interviews/authors/tom-spanbauer |title=Tom Spanbauer – The Man Who Taught Chuck |publisher=Chuckpalahniuk.net |date=April 18, 2011 |access-date=December 4, 2013 |archive-date=October 15, 2012 |archive-url=https://www.webcitation.org/6BQxSZoAs?url=http://chuckpalahniuk.net/interviews/authors/tom-spanbauer |url-status=dead }}</ref> [[Amy Hempel]], [[Mark Richard]], [[Denis Johnson]], [[Thom Jones]], [[Bret Easton Ellis]] and philosophers [[Michel Foucault]], [[Friedrich Nietzsche]] and [[Albert Camus]].<ref>[http://www.alternet.org/story/11049 The Unexpected Romantic: An Interview with Chuck Palahniuk], ''[[AlterNet]]''.</ref><ref>[https://web.archive.org/web/20080107152635/http://www.authorsontheweb.com/features/0012author-influences/author-influences.asp "What Authors Influenced You?"], Authorsontheweb.com. Retrieved July 10, 2007.</ref> In what the author refers to as a [[minimalism|minimalistic]] approach, his writings include a limited vocabulary and short sentences to mimic the way that an average person telling a story would speak. In an interview, he said that he "prefers to write in verbs instead of adjectives." Repetitions of certain lines or phrases in the story narrative (what Palahniuk refers to as "choruses") are one of the most common characteristics of his writing style, being dispersed within most chapters of his novels.<ref name=LAWeekly2002/> Palahniuk has said that there also are some choruses between novels, noting that the color [[cornflower blue]] and the city of [[Missoula, Montana]] appear in many of his novels. The characters in Palahniuk's stories often break into philosophical asides (either by the narrator to the reader, or spoken to the narrator through dialogue), offering numerous odd theories and opinions, often [[misanthropy|misanthropic]] or darkly [[absurdism|absurdist]] in nature, on complex issues such as death, morality, childhood, parenthood, sexuality, and a deity. Other concepts borrowed from Spanbauer include the avoidance of "received text" (clichéd phrases or wording) and use of "burnt tongue" (intentionally odd wording).<ref name=LAWeekly2002/>
+
+Palahniuk's rewriting process is also its own style. In an interview with [[Jason Tanamor]], he said, "It’s pathetic how much I rewrite. I’ll rework every scene a hundred times before my agent sees it. Then rework it a dozen times before my editor sees it. Then rework it all - almost beyond recognition - before it goes to the copy editor. My first draft is almost a bare-bones outline, fleshed out with every subsequent pass through. I’ll “test” the scenes in workshop and with friends, then revise them based on audience reaction and feedback. The only time a book is “done” is when the type is set. By then I'm in love with a new idea, so the old one is officially finished."<ref>[https://web.archive.org/web/20080107152635/http://www.zoiksonline.com/2008/10/chuck-palahniuk-is-pathetic-when-he.html "Chuck Palahniuk is 'pathetic' when he rewrites."], zoiksonline.com. Retrieved October 10, 2008.</ref>
+
+When not writing fiction, Palahniuk tends to write short non-fiction works. Working as a freelance journalist, he writes essays and reports on a variety of subjects. He sometimes participates in the events about which he writes, which are heavy in field research. He also has written interviews with celebrities, namely, [[Juliette Lewis]] and [[Marilyn Manson]]. These works appear in various magazines and newspapers, such as the ''[[Los Angeles Times]]'' and ''[[Gear (magazine)|Gear]]'' magazine. Some of these writings have shown up in his book, ''Stranger than Fiction: True Stories''. Palahniuk also includes some non-fiction [[factoid]]s within his fictional works and according to the author, these are included to further immerse the reader in his work.
+
+===Themes===
+Palahniuk's books prior to ''Lullaby'' have distinct similarities. The characters are people who have been marginalized in one way or another by society, and often react with self-destructive aggressiveness. He labels these stories as [[transgressional fiction]]. Beginning with ''Lullaby'', the style of his novels changed to mostly satirical horror stories.
+
+Palahniuk's writing often contains anti-consumerist themes. Writing about ''Fight Club'', Paul Kennett argues that because the Narrator's fights with Tyler Durden are fights with himself, and because he fights himself in front of his boss at the hotel, the Narrator is using the fights as a way of asserting himself as his own boss. These fights are a representation of the struggle of the [[Proletariat|proletarian]] at the hands of a higher capitalist power; by asserting himself as capable of having the same power he thus becomes his own master. Later when fight club is formed, the participants are all dressed and groomed similarly, allowing them to symbolically fight themselves at the club and gain the same power.<ref name="kennett5354">Kennett, pp. 53–54.</ref> In an interview with ''[[HuffPost]]'', Palahniuk says that "the central message of ''Fight Club'' was always about the empowerment of the individual through small, escalating challenges."<ref>{{cite web |url=https://www.huffingtonpost.com/entry/fight-club-2-chuck-palahniuk_us_5845c35ae4b028b32338a632 |title='Fight Club' Author Reflects On Violence And Masculinity, 20 Years Later |last=Crum |first=Maddie |date=December 6, 2016 |website=[[HuffPost]] |access-date=August 24, 2018}}</ref>
+
+===Reception and criticism===
+The content of Palahniuk's works has been described as [[nihilism|nihilistic]].<ref>{{Cite news|url=https://www.avclub.com/chuck-palahniuk-1798208302|title=Chuck Palahniuk|last=Robinson|first=Tasha|work=The A.V. Club|access-date=July 20, 2018}}</ref><ref>{{Cite news|url=http://www.slate.com/articles/news_and_politics/the_middlebrow/2005/06/chuck_palahniuk.html|title=Chuck Palahniuk|last=Curtis|first=Bryan|date=June 22, 2005|work=Slate|access-date=July 20, 2018|issn=1091-2339}}</ref> Palahniuk has rejected this label, stating that he is a [[romanticism (literature)|romantic]], and that his works are mistakenly seen as nihilistic because they express ideas that others do not believe in.<ref>{{Cite web|url=https://www.theguardian.com/books/2014/nov/01/chuck-palahniuk-this-much-i-know|title=Chuck Palahniuk: 'I'm fascinated by low fiction that disgusts the reader or makes them sexually aroused'|last=Cumming|first=Ed|date=November 1, 2014|website=The Guardian|access-date=July 20, 2018}}</ref><ref>Williams, Laura J. "[http://www.annarborpaper.com/content/issue24/palahniuk_24.html Knock Out] {{webarchive|url=https://web.archive.org/web/20050416074813/http://www.annarborpaper.com/content/issue24/palahniuk_24.html |date=16 April 2005 }}". ''Ann Arbor Paper''. Retrieved June 20, 2005.</ref>
+
+==Personal life==
+As an adult, Palahniuk became a member of the rebellious [[Cacophony Society]]. He is a regular participant in their events, including the annual [[Santa Rampage]] (a public Christmas party involving pranks and drunkenness) in [[Portland, Oregon]]. His participation in the Society inspired some of the events in his writings, both fictional and non-fictional.<ref>Palahniuk, Chuck. ''Stranger than Fiction: True Stories''. Garden City: [[Doubleday (publisher)|Doubleday]], 2004. p. 56. {{ISBN|0-385-50448-9}}</ref> Most notably, he used the Cacophony Society as the basis for Project Mayhem in ''Fight Club''.
+
+In May 1999, Palahniuk's father and Donna Fontaine, a woman his father was dating, were murdered by Fontaine's ex-partner. Palahniuk was asked to help determine the sentence for the man who killed his father; he asked for the death penalty.<ref>{{cite news| last= Green| first= Graeme | url= http://graemegreen.org/Interviews/tabid/64/articleType/ArticleView/articleId/67/Chuck-Palahniuk.aspx| date= August 21, 2008| archive-url= https://archive.today/20141102110821/http://graemegreen.org/Interviews/tabid/64/articleType/ArticleView/articleId/67/Chuck-Palahniuk.aspx | archive-date= November 2, 2014| title= Chuck Palahniuk: The Fight Club Author Discusses Blood, Guts and Babar the Elephant| work= Dazed and Confused | place= London| format= Interview |via= graemegreen.org}}</ref>
+
+Palahniuk [[coming out|came out]] as gay after an interview with Karen Valby, a reporter for ''[[Entertainment Weekly]]''. Believing that he would be "outed" by Valby after confidentially referring to his male partner, he openly declared his homosexuality on his website.<ref>{{cite news| last= Chalmers| first= Robert| url= https://www.independent.co.uk/arts-entertainment/books/features/chuck-palahniuk-stranger-than-fiction-554764.html |title= Chuck Palahniuk: Stranger than fiction| work= [[The Independent]]| date= August 1, 2004}}</ref> According to an interview with ''[[The Advocate (LGBT magazine)|The Advocate]]'' in May 2008, he and his unnamed male partner live in a former church compound outside [[Vancouver, Washington]].<ref name="openbook">{{cite news|last=Bunn|first=Alstin|title=Open Book: Chuck Palahniuk writes stories that fearlessly expose the darkest parts of the human experience. So why is it that when it comes to his sexuality there are still some things he likes to keep hidden?| work= [[The Advocate (LGBT magazine)|The Advocate]] |date= May 21, 2008| url= http://www.advocate.com/article.aspx?id=22541|access-date=August 31, 2011|url-status=dead|archive-url=http://web.archive.org/web/20150402235759/http://www.advocate.com/news/2008/04/23/open-book|archive-date=2015-04-02}}</ref><ref>{{cite news| url= http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article4396841.ece|work=The Times|location=London|title=Fight Club author Chuck Palahniuk is talking dirty| date= July 25, 2008|access-date=April 30, 2010}}</ref> He and his partner have been together since the 1990s, having met while Palahniuk was working at Freightliner. He told one interviewer, "We both had these very [[blue-collar]] lives, and now our lives are completely different."<ref>{{cite news| last= Perry| first= Kevin | url= http://thequietus.com/articles/15159-chuck-palahniuk-interview-doomed |title= All Of Creation Just Winks Out: Chuck Palahniuk Interviewed| work= [[The Quietus]]| date= May 4, 2014}}</ref><ref name="personal website">{{cite news|last=Palahniuk|first=Chuck|title=Chuck Palahniuk F.A.Q.|url=http://chuckpalahniuk.net/author/faq#biographical-6|website=chuckpalahniuk.net|access-date=August 8, 2011|archive-url=https://www.webcitation.org/6BQxBm27G?url=http://chuckpalahniuk.net/author/faq#biographical-6|archive-date=October 15, 2012|url-status=dead}}</ref>
+
+==Awards==
+Palahniuk has won the following awards:
+* 1997 [[Pacific Northwest Booksellers Association Award]] (for ''Fight Club'')<ref name=":0">{{Cite web|url=http://poweroftheword.americanwritersmuseum.org/writers/chuck-palahniuk/|title=Chuck Palahniuk " Power of the Word|website=poweroftheword.americanwritersmuseum.org|access-date=March 11, 2018|archive-url=https://web.archive.org/web/20180311202508/http://poweroftheword.americanwritersmuseum.org/writers/chuck-palahniuk/|archive-date=March 11, 2018|url-status=dead}}</ref>
+* 1997 [[Oregon Book Award]] for Best Novel (for ''Fight Club'')<ref>[https://web.archive.org/web/20051226102328/http://www.literary-arts.org/oba_poetry.htm Oregon Book Awards]. Literary Arts, Inc. Retrieved June 20, 2005.</ref>
+* 2003 Pacific Northwest Booksellers Association Award (for ''Lullaby'')<ref name=":0" />
+
+He was nominated for the 1999 Oregon Book Award for Best Novel for ''Survivor'' and for the [[Bram Stoker Award for Best Novel]] for ''Lullaby'' in 2002 and for ''Haunted'' in 2005.
+
+==Bibliography==
+
+===Fiction===
+* ''[[Fight Club (novel)|Fight Club]]'' (1996)
+* ''[[Survivor (Palahniuk novel)|Survivor]]'' (1999)
+* ''[[Invisible Monsters]]'' (1999)
+* ''[[Choke (novel)|Choke]]'' (2001)
+* ''[[Lullaby (Palahniuk novel)|Lullaby]]'' (2002)
+* ''[[Diary (novel)|Diary]]'' (2003)
+* ''[[Haunted (Palahniuk novel)|Haunted]]'' (2005)
+* ''[[Rant (novel)|Rant]]'' (2007)
+* ''[[Snuff (Palahniuk novel)|Snuff]]'' (2008)
+* ''[[Pygmy (novel)|Pygmy]]'' (2009)
+* ''[[Tell-All]]'' (2010)<ref>{{cite web|url=http://chuckpalahniuk.net/news/first-details-for-chuck-palahniuks-2010-novel-tell-all|date=March 7, 2009|access-date=March 7, 2009|title=First Details For Chuck Palahniuk's 2010 Novel, "Tell-All"|work=Chuckpalahniuk.net|archive-date=May 10, 2009|archive-url=https://web.archive.org/web/20090510063837/http://chuckpalahniuk.net/news/first-details-for-chuck-palahniuks-2010-novel-tell-all|url-status=dead}}</ref>
+* ''[[Damned (Palahniuk novel)|Damned]]'' (2011)<ref>{{cite web|url=http://chuckpalahniuk.net/books/damned|date=May 2, 2010|access-date=May 2, 2010|title=Chuck's Next Novel Is "Damned"|archive-url=https://web.archive.org/web/20100502135226/http://chuckpalahniuk.net/books/damned|archive-date=May 2, 2010|url-status=dead}}</ref>
+* ''[[Invisible Monsters#Invisible Monsters Remix|Invisible Monsters Remix]]'' (2012)
+* ''[[Doomed (novel)|Doomed]]'' (2013)
+* ''[[Burnt Tongues]]'' (2014) (editor)
+* ''[[Beautiful You (novel)|Beautiful You]]'' (2014)
+* ''[[Make Something Up]]'' (2015)
+* ''[[Fight Club 2]]'' (2015–16) (graphic novel with [[Cameron Stewart]])
+* ''[[Bait (book)|Bait: Off-Color Stories for You to Color]]'' (2016)<ref>{{cite web|last1=Yandoli|first1=Krystie|title=Here's The First Look at Chuck Palahniuk's Coloring Book For Adults|url=https://www.buzzfeed.com/krystieyandoli/heres-the-first-look-at-chuck-palahniuks-coloring-book|website=Buzzfeed|date=June 14, 2016}}</ref>
+* ''[[Legacy (novella)|Legacy: An Off-Color Novella for You to Color]]'' (2017)<ref>{{cite news|url=http://www.latimes.com/books/jacketcopy/la-et-jc-chuck-palahniuk-legacy-20170620-htmlstory.html|title=Chuck Palahniuk wrote 'Fight Club.' His next work of fiction will be a coloring book|last=Schaub|first=Michael|work=Los Angeles Times|access-date=October 30, 2017|issn=0458-3035}}</ref>
+* ''[[Adjustment Day]]'' (2018)<ref>{{cite web|url=http://chuckpalahniuk.net/news/chuck-returns-to-ww-norton-for-new-novel-adjustment-day|date=October 5, 2017|access-date=October 6, 2017|title=Chuck Returns to WW Norton for New Novel, "Adjustment Day"}}</ref>
+* ''[[Fight Club 3]]'' (2019) (graphic novel with [[Cameron Stewart]])<ref name=THR>{{cite web|work=[[The Hollywood Reporter]]|url=https://www.hollywoodreporter.com/heat-vision/fight-club-3-chuck-palahniuk-explains-new-comic-1180375|title='Fight Club 3' Team on Bringing Tyler Durden to Comics|date=January 29, 2019|author=McMillan, Graeme}}</ref>
+* ''[[The Invention of Sound]]'' (2020)<ref>{{cite web|work=[[Grand Central Publishing]]|url=https://www.grandcentralpublishing.com/titles/chuck-palahniuk/the-invention-of-sound/9781538718001/|title=The Invention of Sound}}</ref>
+
+===Short fiction===
+* "Negative Reinforcement" in ''Modern Short Stories'' (1990)
+* "The Love Theme of Sybil and William" in ''Modern Short Stories'' (1990)<ref>{{cite web |url=http://chuckpalahniuk.net/features/shorts/love-theme-sybil-and-william |title=The Love Theme of Sybil and William &#124; The Cult |publisher=Chuckpalahniuk.net |access-date=December 4, 2013 |archive-date=February 9, 2014 |archive-url=https://web.archive.org/web/20140209204511/http://chuckpalahniuk.net/features/shorts/love-theme-sybil-and-william |url-status=dead }}</ref>
+* "Insiders" in ''Best Life'' (2007)
+* "Mister Elegant" in ''[[Vice (magazine)|VICE]]'' (2007)<ref>{{cite web|url=https://www.vice.com/read/mister-v13n12|year=2007|access-date=September 25, 2012|title="Mister Elegant" by Chuck Palahniuk}}</ref>
+* "Fetch" in ''Dark Delicacies III'' (2009)
+* "Loser" in ''Stories'' (2010)
+* "Knock, Knock" in ''[[Playboy]]'' (2010)
+* "Romance" in ''Playboy'' (2011)
+* "Phoenix" (2013)<ref>{{cite web|url=http://news.cision.com/byliner/r/byliner-publishes-phoenix,c9370950 |title=Byliner Publishes PHOENIX – Byliner |publisher=News.cision.com |date=February 15, 2013 |access-date=December 4, 2013}}</ref>
+* "Cannibal" in ''Playboy'' (2013)
+* "Zombie" in ''Playboy'' (2013)
+* "Let's See What Happens" in ''Nightmare Magazine'', Issue 37 (2015)
+* "One Day You'll Thank Me" in ''Fangoria'', Volume 2, Issue 1 (2018)
+* "Unlawful Entry" in ''Playboy'' (2018)
+* "Repercussions" in ''Playboy'' (2019)
+
+===Non-fiction===
+* ''[[Fugitives and Refugees: A Walk in Portland, Oregon]]'' (2003)
+* ''[[Stranger than Fiction: True Stories]]'' (2004)
+* ''You Do Not Talk About Fight Club: I Am Jack's Completely Unauthorized Essay Collection'' (2008) (introduction)
+* ''Consider This: Moments In My Writing Life After Which Everything Was Different'' (2020)
+
+===Films===
+* ''[[Fight Club]]'' (1999) (feature based on the novel)
+* ''[[Choke (2008 film)|Choke]]'' (2008) (feature based on the novel)
+* ''Romance'' (2012) (short based on the short story)
+* ''Lullaby'' (TBD) (feature based on the novel)
+* ''Rant'' (TBD) (feature based on the novel)
+
+==Scholarship==
+* Francisco Collado-Rodriguez, editor, (2013) ''Chuck Palahniuk: Fight Club, Invisible Monsters, Choke''. London, UK: Bloomsbury.
+*Douglas Keesey (2016) ''Understanding Chuck Palahniuk''. Columbia, SC: The University of South Carolina Press.
+*Cynthia Kuhn and Lance Rubin, editors, (2009) ''Reading Chuck Palahniuk: American Monsters and Literary Mayhem''. New York, NY: Routledge.
+* David McCracken (2016) ''Chuck Palahniuk, Parodist: Postmodern Irony in Six Transgressive Novels''. Jefferson, NC: McFarland & Company, Inc.
+*Jeffrey A. Sartain, editor, (2009) ''Sacred and Immoral: On the Writings of Chuck Palahniuk''. Newcastle upon Tyne, UK: Cambridge Scholars Publishing.
+*Read Mercer Schuchardt, editor (2008) ''You Do Not Talk About Fight Club: I Am Jack's Completely Unauthorized Essay Collection.'' Dallas, TX: Benbella Books.
+
+==See also==
+{{portal|Novels}}
+* [[List of American novelists]]
+* [[List of LGBT people from Portland, Oregon]]
+
+==Notes==
+{{reflist}}
+
+==External links==
+{{wikiquote}}
+{{commons|Chuck Palahniuk}}
+* {{official website|http://www.chuckpalahniuk.net/}}
+* {{IMDb name|657333}}
+
+{{ChuckPalahniuk}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Palahniuk, Chuck}}
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:Anti-consumerists]]
+[[Category:American horror writers]]
+[[Category:American male journalists]]
+[[Category:American male novelists]]
+[[Category:American people of French descent]]
+[[Category:American people of Ukrainian descent]]
+[[Category:American people of Polish descent]]
+[[Category:American satirists]]
+[[Category:Cacophony Society]]
+[[Category:American gay writers]]
+[[Category:LGBT journalists from the United States]]
+[[Category:American LGBT novelists]]
+[[Category:LGBT people from Washington (state)]]
+[[Category:Minimalist writers]]
+[[Category:University of Oregon alumni]]
+[[Category:Novelists from Oregon]]
+[[Category:Writers from Pasco, Washington]]
+[[Category:Obscenity controversies in literature]]
+[[Category:Writers from Vancouver, Washington]]
+[[Category:Novelists from Washington (state)]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]

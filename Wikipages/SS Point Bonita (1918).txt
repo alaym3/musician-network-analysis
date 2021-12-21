@@ -1,0 +1,158 @@
+{{Use dmy dates|date=July 2021}}
+
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=S.S. Point Bonita.jpg
+|Ship caption=S.S. ''Point Bonita'' (American freighter, 1918) on a trial trip on 22 June 1918, near the yard of her builder, the Albina Engine & Machine Works, Portland, Oregon. This ship was in commission as USS ''Point Bonita'' (ID-3496) from October 1918 to April 1919 
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United States
+|Ship flag={{USN flag|1942}}
+|Ship name=*''Point Bonita''
+*''San Pedro''
+*''Oliver Olson''
+*''Camanga''
+|Ship namesake=*Point Bonita at the San Francisco Bay entrance
+*Camanga, one of the [[Philippine Islands]]
+|Ship owner=       
+|Ship operator=
+|Ship registry=   
+|Ship route=
+|Ship ordered=by foreign owners, requisitioned by USSB 1918
+|Ship awarded=     
+|Ship builder=Albina Engine and Machine Works, [[Portland, Oregon]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=29 May 1917
+|Ship launched=27 March 1918     
+|Ship sponsor=          
+|Ship christened=                 
+|Ship completed=delivered 24 June 1918 
+|Ship acquired=by the Navy, 7 October 1918; reacquired 25 April 1942 
+|Ship commissioned=7 October 1918 as USS ''Point Bonita'' (ID-3496)
+|Ship recommissioned=              
+|Ship decommissioned=7 April 1919, at [[New York City]]      
+|Ship maiden voyage=             
+|Ship in service=25 April 1942 as USS ''Camanga'' (AG-42)
+|Ship out of service=10 December 1945, at [[San Francisco, California]]
+|Ship renamed=        
+|Ship reclassified=               
+|Ship refit=
+|Ship struck=date unknown
+|Ship reinstated=
+|Ship homeport=[[Nouméa]]          
+|Ship identification=
+|Ship motto=
+|Ship nickname=
+|Ship honours=                     
+|Ship honors=              
+|Ship captured=           
+|Ship fate=3 November 1953; ran aground at the tip of the south [[jetty]] at [[Bandon, Oregon]], and subsequently made part of the jetty.
+|Ship status=
+|Ship notes=United States O/N 216512{{sfn|Colton}}           
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=           
+|Ship type=commercial [[cargo ship]]
+|Ship tonnage=*{{GRT|2235}}
+*{{DWT|3760}}{{sfn|MARAD Vessel Status Card: ''Oliver Olson''}}
+|Ship displacement=5,200 tons{{sfn|Dictionary of American Naval Fighting Ships: ''Point Bonita''}}
+|Ship tons burthen=
+|Ship length=300'
+|Ship beam=44'        
+|Ship height=
+|Ship draught=      
+|Ship draft=21' 2"  
+|Ship depth=
+|Ship hold depth=           
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=
+|Ship propulsion=     triple expansion reciprocating [[steam engine]], single screw, 1,470shp
+|Ship sail plan=             
+|Ship speed=    9 knots
+|Ship range=
+|Ship endurance=
+|Ship test depth=
+|Ship boats=             
+|Ship capacity=           
+|Ship troops=             
+|Ship complement=     60 officers and enlisted
+|Ship crew=          
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=*3 x [[3-inch/50-caliber gun|3"/50 dual purpose]] gun mounts
+*4 x [[Oerlikon 20 mm cannon|20mm AA gun]] mounts
+|Ship armour=
+|Ship armor=             
+|Ship aircraft=           
+|Ship aircraft facilities=
+|Ship notes= 
+}}
+|}
+
+'''SS ''Point Bonita''''' was constructed in 1918 and launched 27 March 1918 after a hull being built for foreign owners at [[Albina Engine and Machine Works]] was requisitioned during World War I by the [[United States Shipping Board]] (USSB). The ship saw service as the Navy transport '''USS ''Point Bonita''''', assigned Identification Number 3496, from 7 October 1918 to 7 April 1919, was returned to the USSB and saw civilian service with several commercial companies as '''''San Pedro''''' and '''''Oliver Olson''''' before again seeing service in [[World War II]] as '''USS ''Camanga'' (AG-42)'''. After return to commercial service as ''Oliver Olson'' the ship was wrecked at the entrance to [[Bandon, Oregon|Bandon]] harbor in Oregon.
+
+== Construction ==
+The ship was built in 1918, by Albina Engine and Machine Works, [[Portland, Oregon]] as the yard's hull #3 being built for foreign owners with keel laid on 29 May 1917.{{sfn|McKellar}}{{sfn|Pacific Marine Review (September 1918)|p=117}} The hull was requisitioned by the United States Shipping Board and launched 27 March 1918 as ''Point Bonita''.{{sfn|Colton}}{{sfn|Dictionary of American Naval Fighting Ships: ''Point Bonita''}}{{sfn|McKellar}} The ship was delivered on 24 June 1918.{{sfn|Pacific Marine Review (September 1918)|p=117}}
+
+== World War I service==
+''Point Bonita'' was acquired on 7 October 1918 by the Navy and commissioned the same date Lieutenant Commander P. J. Hansen, USNRF, in command. The ship was assigned to the [[Naval Overseas Transportation Service]]. The ship departed New York 19 October in convoy and arrived at [[Nantes]] on 7 November with a cargo of military supplies and high explosives. After unloading she departed 15 November for [[Brest, France|Brest]] to join a westbound convoy on 18 November arriving at New York 16 December. There she loaded a cargo for the USSB, picked up Navy coal at Norfolk and departed for Hawaii 8 January 1919 arriving at Pearl Harbor 7 February. Upon arrival back at New York ''Point Bonita'' decommissioned and was transferred to the USSB on 7 April 1919.{{sfn|Dictionary of American Naval Fighting Ships: ''Point Bonita''}}
+
+== Interwar civilian service ==
+In 1920 ''Point Bonita'' was sold to the [[Pacific Mail Steamship Company]] where she was engaged in freight only trade between San Francisco and Baltimore with a call at New York.{{sfn|Dictionary of American Naval Fighting Ships: ''Point Bonita''}}{{sfn|Pacific Mail Steamship Company advertisement}}
+
+== World War II service==
+''Oliver Olson'' was delivered to the [[War Shipping Administration]] (WSA) 25 April 1942 from Oliver J. Olson company at Honolulu, Hawaii and delivered to the Navy the same day under a sub bareboat charter with WSA.{{sfn|MARAD Vessel Status Card: ''Oliver Olson''}}
+
+Commissioned on the day of delivery under the command of Lieutenant R. M. Baughman, [[USNR]] as ''Camanga'' the ship was designated AG-42.{{sfn|Dictionary of American Naval Fighting Ships: ''Camanga''}} Illustrating graphically the need for all available shipping in meeting the Navy's enormous logistic assignment in the [[Pacific Ocean]], ''Camanga'', already 24 years old, sailed from [[Pearl Harbor]] 1 June 1942 for [[Pago Pago]], Samoa, where she took up duty carrying cargo and fuel drums between the Samoan and [[Ellice Islands]].{{sfn|Dictionary of American Naval Fighting Ships: ''Camanga''}}
+
+After overhaul at [[San Francisco, California]], between 30 March and 6 June 1943, ''Camanga'' returned to [[Nouméa]] for operations throughout the South [[Pacific Ocean]]. She continued this essential back-area support of fleet operations from [[Guadalcanal]] to the islands of the [[Bismarck Archipelago]] between April and October 1944, returning then to base at Nouméa.{{sfn|Dictionary of American Naval Fighting Ships: ''Camanga''}}
+
+An overhaul at [[Auckland]], New Zealand, from November 1944 to January 1945 was the only further interruption to her busy schedule in the [[New Caledonia]] area until 1 October 1945 when she cleared for the [[U.S. West Coast]].{{sfn|Dictionary of American Naval Fighting Ships: ''Camanga''}} During this period ''Camanga'' was assigned to [[Service Force Pacific Fleet]] and under the command of Lieutenant F.A. Muller and Lieutenant Commander J. W. Baldwin.{{sfn|Beans, Bullets, and Black Oil}}
+
+''Camanga'' was decommissioned at [[San Francisco, California]], 10 December 1945 and returned to the [[War Shipping Administration]] the same day.{{sfn|Dictionary of American Naval Fighting Ships: ''Camanga''}}
+
+==Wreck==
+[[File:Oliver Olson wreck at Brandon, OR. Photo by Howard O. Wahlen spring 1954..jpg|alt=Oliver Olson's last days.|thumb|303x303px|Wreck of the Oliver Olson at Bandon, OR, South Jetty. Photo by Howard O. Wahlen spring 1954.]]
+After decommissioning, the ship was reacquired by the Oliver J. Olson Steamship Company. She returned to her former name, ''Oliver Olson'', and was employed in the transportation of lumber. On 3 November 1953, she ran aground at the entrance to [[Bandon, Oregon|Bandon]] harbor in Oregon, becoming stuck on [[Coquille River (Oregon)|Coquille River]]'s south jetty.<ref>[https://news.google.com/newspapers?id=nx1WAAAAIBAJ&sjid=t-IDAAAAIBAJ&pg=5821,5111832&hl=en "Schooner Hits Bandon Beach"], ''Eugene Register-Guard'', 3 November 1963. Retrieved 27 April 2012.</ref> The 29 members of crew were rescued, but the ship was declared a total loss and offered for sale to the scrap industry.<ref>[https://news.google.com/newspapers?id=kC9WAAAAIBAJ&sjid=POYDAAAAIBAJ&pg=2684,4184726&hl=en "Owners try to sell grounded lumber ship"], ''The Spokesman-Review'', 24 November 1953. Retrieved 27 April 2012.</ref> The wreck was only partially salvaged, however, and what remained of the hull was eventually filled with rocks to form an extension of the jetty.<ref>[http://www.cimorelli.com/cgi-bin/magellanscripts/ship_dates_volume.asp?ShipName=Oliver+Olson+(steamer) Oliver Olson (steamer)], Magellan - The Ships Navigator.</ref> The ship can still be seen today at low tide.
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin|2}}
+*{{cite web |url=http://www.shipbuildinghistory.com/history/shipyards/2large/inactive/albina.htm |title=Albina Engine & Machine Works, Portland OR |last=Colton |first=T |date=1 September 2014 |work=Shipbuilding History |publisher=T. Colton |access-date=26 June 2015 |ref={{sfnref|Colton}}}}
+*{{cite web |url=http://www.marad.dot.gov/sh/ShipHistory/Detail/10089 |title=''Oliver Olson'' |author=Maritime Administration |work=Ship History Database Vessel Status Card |publisher=U.S. Department of Transportation, Maritime Administration |access-date=26 June 2015 |ref={{sfnref|MARAD Vessel Status Card: ''Oliver Olson''}}}}
+*{{cite web |url=http://www.shipscribe.com/mckellar/Requisition1.pdf |title=Requisitioned Steel Ships, Part I |last=McKellar |first=Norman L. |work=Steel Shipbuilding under the U. S. Shipping Board, 1917-1921 |publisher=ShipScribe |access-date=26 June 2015 }}
+*{{cite web |url=http://www.history.navy.mil/research/histories/ship-histories/danfs/p/point-bonita.html |title=''Point Bonita'' |author=Naval History And Heritage Command |work=Dictionary of American Naval Fighting Ships |publisher=Naval History And Heritage Command |access-date=26 June 2015 |ref={{sfnref|Dictionary of American Naval Fighting Ships: ''Point Bonita''}}}}
+*{{cite web |url=http://www.history.navy.mil/research/histories/ship-histories/danfs/c/camanga.html |title=''Camanga'' |author=Naval History And Heritage Command |work=Dictionary of American Naval Fighting Ships |publisher=Naval History And Heritage Command |access-date=26 June 2015 |ref={{sfnref|Dictionary of American Naval Fighting Ships: ''Camanga''}}}}
+*{{cite web |url=http://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/b/beans-bullets-black-oil.html |title=Beans, Bullets, and Black Oil—The Story of Fleet Logistics Afloat in the Pacific During World War II |author=Naval History And Heritage Command |publisher=Naval History And Heritage Command |access-date=26 June 2015 |ref={{sfnref|Beans, Bullets, and Black Oil}}}}
+* [http://www.navsource.org/archives/09/49/49042.htm NavSource Online: Service Ship Photo Archive - USS Camanga (AG-42) – ex - USS Point Bonita (ID#3496) (1918 - 1919)]
+*{{cite web |url=https://archive.org/stream/trafficworld26trafuoft#page/43/mode/1up |title=Pacific Mail Steamship Company advertisement |last=Pacific Mail Steamship Company |date=6 November 1920 |access-date=26 June 2015 |ref={{sfnref|Pacific Mail Steamship Company advertisement}}}}
+*{{cite journal |last=Pacific American Steamship Association; Shipowners Association of the Pacific Coast |year=1918 |title=Portland Ship Deliveries |journal=Pacific Marine Review |volume=15 |issue=September |page=127 |location=San Francisco |publisher=J.S. Hines |url=https://archive.org/stream/pacificmarinerev1518paci#page/n766/mode/1up |access-date=27 June 2015 |ref={{sfnref|Pacific Marine Review (September 1918)}}}}
+{{refend}}
+
+== External links ==
+* [http://www.shipscribe.com/mckellar/pix/1049.html EFC Design 1049: Illustrations] (Profiles of 1049, photo ''Point Bonita'')
+
+{{Camanga class miscellaneous auxiliary ships}}
+{{1953 shipwrecks}}
+
+{{DEFAULTSORT:Point Bonita}}
+[[Category:1918 ships]]
+[[Category:Design 1049 ships]]
+[[Category:Ships built in Portland, Oregon]]
+[[Category:World War I auxiliary ships of the United States]]
+[[Category:Camanga-class auxiliary ships]]
+[[Category:World War II auxiliary ships of the United States]]
+[[Category:Maritime incidents in 1953]]
+[[Category:United States Navy Philippines-related ships]]

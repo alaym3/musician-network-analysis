@@ -1,0 +1,1065 @@
+{{Short description|Prefecture of Japan}}
+{{Redirect|Okinawa}}
+{{Use mdy dates|date=October 2012}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->
+| name                            = Okinawa Prefecture
+| native_name                     = 沖縄県
+| native_name_lang = ja
+| settlement_type                 = [[Prefectures of Japan|Prefecture]]
+| translit_lang1                  = Native
+| translit_lang1_type1            = [[Romanization of Japanese|Japanese]]
+| translit_lang1_info1            = {{lang|ja-Latn|Okinawa-ken}}
+| translit_lang1_type2            = [[Okinawan language|Okinawan]]
+| translit_lang1_info2            = {{lang|ryu|ʔUchinā-chin}}
+| image_flag                      = Flag of Okinawa Prefecture.svg
+| flag_size                       = 100px
+| image_blank_emblem              = Emblem of Okinawa Prefecture.svg
+| blank_emblem_size               = 80px
+| blank_emblem_type               = Symbol
+| image_map                       = File:Map of Japan with 47 Okinawa prefecture.svg
+| coordinates                     = {{Coord|26|30|N|128|0|E|display=inline,title|type:adm1st}}
+| subdivision_type                = Country
+| subdivision_name                = {{flag|Japan}}
+| subdivision_type1               = [[List of regions of Japan|Region]]
+| subdivision_name1               = [[Kyushu]]
+| subdivision_type2               = [[List of islands of Japan|Island]]
+| subdivision_name2               = [[Okinawa Islands|Okinawa]], [[Daitō Islands|Daitō]], [[Sakishima Islands|Sakishima]] and [[Senkaku Islands|Senkaku]] (disputed)
+| seat_type                       = [[List of capitals in Japan|Capital]]
+| seat                            = [[Naha]]
+| parts_type                      = Subdivisions
+| parts_style                     = para
+| p1                              = [[Districts of Japan|Districts]]: 5
+| p2                              = [[Municipalities of Japan|Municipalities]]: 41
+| leader_title                    = [[List of prefectural governors in Japan|Governor]]
+| leader_name                     = [[Denny Tamaki]]
+| area_total_km2                  = 2281
+| area_water_percent              = 0.5
+| area_rank                       = [[List of Japanese prefectures by area|44th]]
+| population_footnotes            = 
+| population_total                = 1457162
+| population_as_of                = February 2, 2020
+| population_rank                 = [[List of Japanese prefectures by population|29th]]
+| population_density_km2          = auto
+| iso_code                        = JP-47
+| website                         = {{URL|https://www.pref.okinawa.lg.jp/}}
+| module                          = {{Infobox place symbols| embedded=Yes
+| country  = Japan
+| bird     = [[Okinawa woodpecker]] (''Sapheopipo noguchii'')
+| fish     = [[Pterocaesio|Banana fish]] (''Pterocaesio diagramma'', "takasago", "gurukun")
+| flower   = Deego (''[[Erythrina variegata]]'')
+| tree     = ''[[Pinus luchuensis]]'' ("ryūkyūmatsu")
+}}
+| official_name                   = 
+}}
+{{Nihongo|'''Okinawa Prefecture'''|沖縄県|extra=[[Japanese language|Japanese]]: ''Okinawa-ken'', [[Okinawan language|Okinawan]]: ''ʔUchinā-chin''<ref name=":0">{{Cite book|title=Okinawago jiten|url=https://www.worldcat.org/oclc/47773506|publisher=Zaimushō Insatsukyoku|date=2001-03-30|language=ja|location=Tōkyō|isbn=4-17-149000-6|oclc=47773506|others=Kokuritsu Kokugo Kenkyūjo, 国立国語研究所|pages=549}}</ref>}} is a [[Prefectures of Japan|prefecture]] of [[Japan]] located on the [[Ryukyu Islands]].<ref>Nussbaum, Louis-Frédéric. (2005). "Okinawa-shi" in {{Google books|p2QnPijAEmEC|''Japan Encyclopedia'', p. 746-747|page=746}}</ref> Okinawa Prefecture is the southernmost and westernmost prefecture of Japan, has a population of 1,457,162 (2 February 2020) and has a geographic area of 2,281 [[Square kilometre|km<sup>2</sup>]] (880 [[sq mi]]).
+
+[[Naha]] is the capital and largest city of Okinawa Prefecture, with other major cities including [[Okinawa (city)|Okinawa]], [[Uruma]], and [[Urasoe, Okinawa|Urasoe]].<ref>Nussbaum, "Naha" in {{Google books|p2QnPijAEmEC|p. 686|page=686}}</ref> Okinawa Prefecture encompasses two thirds of the Ryukyu Islands, including the [[Okinawa Islands|Okinawa]], [[Daitō Islands|Daitō]] and [[Sakishima Islands|Sakishima]] groups, extending {{convert|1000|km}} southwest from the [[Satsunan Islands]] of [[Kagoshima Prefecture]] to [[Taiwan]] ([[Hualien County|Hualien]] and [[Yilan County, Taiwan|Yilan Counties]]). Okinawa Prefecture's largest island, [[Okinawa Island]], is the home to a majority of Okinawa's population. Okinawa Prefecture's [[indigenous people|indigenous ethnic group]] are the [[Ryukyuan people]], who also live in the [[Amami Islands]] of Kagoshima Prefecture.
+
+Okinawa Prefecture was ruled by the [[Ryukyu Kingdom]] from 1429 and unofficially [[annexed]] by Japan after the [[Invasion of Ryukyu]] in 1609. Okinawa Prefecture was officially founded in 1879 by the [[Empire of Japan]] after seven years as the [[Ryukyu Domain]], the last domain of the [[Han system]]. Okinawa Prefecture was occupied by the [[United States of America]] during the [[Allied occupation of Japan]] after [[World War II]], and governed by the [[United States Military Government of the Ryukyu Islands|Military Government of the Ryukyu Islands]] from 1945 to 1950 and [[United States Civil Administration of the Ryukyu Islands|Civil Administration of the Ryukyu Islands]] from 1950 until the prefecture was returned to Japan in 1972. Okinawa Prefecture comprises just 0.6 percent of Japan's total land mass but about 26,000 (75%) of [[United States Forces Japan]] personnel are assigned to the prefecture; the continued [[United States Forces Japan#United States presence debate|U.S. military presence in Okinawa]] is controversial.<ref>{{citation|last=Inoue|first=Masamichi S.|title=Okinawa and the U.S. Military: Identity Making in the Age of Globalization|url=https://books.google.com/books?id=TnsVoSw8hRgC|year=2017|publisher=Columbia University Press|isbn=978-0-231-51114-8|access-date=February 12, 2017|archive-date=February 17, 2017|archive-url=https://web.archive.org/web/20170217032309/https://books.google.com/books?id=TnsVoSw8hRgC|url-status=live}}</ref><ref>{{Cite web|url=http://www.japantimes.co.jp/news/2016/06/26/national/crime-legal/u-s-civilian-arrested-fresh-okinawa-dui-case-man-injured/#.V54kfSOLTZs|title=U.S. civilian arrested in fresh Okinawa DUI case; man injured|website=The Japan Times|date=26 June 2016|archive-url=https://web.archive.org/web/20170731204831/http://www.japantimes.co.jp/news/2016/06/26/national/crime-legal/u-s-civilian-arrested-fresh-okinawa-dui-case-man-injured/|archive-date=31 July 2017|quote=Under a decades-old security alliance, Okinawa hosts about 26,000 U.S. service personnel, more than half the total Washington keeps in all of Japan, in addition to base workers and family members.}}</ref>
+
+[[File:Nago, Okinawa Prefecture, Japan - panoramio.jpg|thumb|Nago, Okinawa Prefecture, Japan]]
+
+==History==
+{{History of Ryukyu}}
+{{More citations needed|date=July 2021}}
+[[File:East China Sea Map.jpg|thumb|270px|Location of Ryukyu Islands]]
+{{See also|History of the Ryukyu Islands|Historic Sites of Okinawa}}
+The oldest evidence of human existence on the Ryukyu islands is from the [[Stone Age]] and was discovered in [[Naha, Okinawa|Naha]]<ref name="yamashita01">{{cite journal|last=Oda|first=Shizuo|title= Yamashitachō dai-1 dōketsu shutsudo no kyūsekki ni tsuite (山下町第１洞穴出土の旧石器について)|trans-title= Paleolithic Artifacts Excavated from Cave No.1, Yamashitachō Site|language= ja|url= http://ao.jpn.org/kuroshio/yamashitacho/200306.htm|archive-url=https://web.archive.org/web/20071012182308/http://ao.jpn.org/kuroshio/yamashitacho/200306.htm |archive-date= 2007-10-12 |journal= Nantō Kōko [南島考古]|number= 22|date= March 2003|pages=1–19}}</ref> and [[Yaeyama, Okinawa|Yaeyama]].<ref name="Taneishi">{{cite book|last= Taneishi|first= Yū|title= Tsukuba-daigaku shūzō no Taiwan Taipei-shi Enzan kaizuka shūshū masei sekifu-rui ni tsuite [筑波大学収蔵の台湾台北市円山貝塚収集磨製石斧類について]|trans-title= Polished stone axes from the Enzan shell mound in Taipei, Taiwan; from among the collection at Tsukuba University|language= ja|url= https://www.tsukuba.repo.nii.ac.jp/action=repository_action_common_download%26item_id%3D24692%26item_no%3D1%26attribute_id%3D17%26file_no%3D1&usg=AOvVaw027zz_Aibm5abPkMNNDYTQ|journal= Senshigaku/Kōkogaku kenkyū [先史学・考古学研究]|number= 19|year= 2008|publisher= Tsukuba University|page= 86|isbn= 9784886216717|oclc= 747328754|access-date= 2018-02-12}}{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Some human bone fragments from the [[Paleolithic]] era were unearthed from a site in Naha, but the artifact was lost in transportation before it was examined to be Paleolithic or not.<ref name="yamashita01"/> Japanese [[Jōmon period|Jōmon]] influences are dominant on the [[Okinawa Islands]], although clay vessels on the [[Sakishima Islands]] have a commonality with those in [[Taiwan]].{{Refn|Naoichi Kokubu at the 1943 excavation of Enzan shell mound in Taipei city noted the clay pottery on Yaeyama island resembled the red coloring of those found in Taiwan,<ref name="Taneishi"/><ref>{{cite journal|last=Kokubu|first=Naoichi|title=Yūken sekifu, yūdan sekifu oyobi kokutō bunka |trans-title=Shouldered and stepped stone axes with black pottery civilization|language= ja| journal= Taiwan Bunka Ronsō|number=1|year= 1943}}</ref><ref>{{cite book|last1= Kanaseki|first1= Takeo|last2= Kokubu|first2= Naoichi|title= Taiwan Kōkoshi|trans-title=Archaeology of Taiwan|pages=121–179|oclc= 10917186|publisher= Hosei University Press|year= 1979}}</ref> while Hiroe Takamiya disapproved it by discussing the unique Yaeyama style stone axe independent from Chinese influence.<ref name="Taneishi"/><ref>{{cite journal|title= Yaeyama-gata sekifu no kisoteki kenkyū (3)|trans-title=Basic studies on Yaeyama type stone axe|language=ja|journal= Nantō Kōko [南島考古]|number= 15|pages=1–30|year= 1995}}</ref>|group=note}}
+
+The first mention of the word ''Ryukyu'' was written in the ''[[Book of Sui]]''.{{Refn|Though the name [[:zh:隋書/卷81#流求國|Ryukyu]] appears in the [[Book of Sui]], it is not defined clearly if it refers to the Okinawa island, the islands east of the [[Sea of China]] except Japan, or Taiwan.<ref>{{cite book|title=The Dongyi |volume= 81|series=The Book of Sui|year=607}}</ref>|group=note}} ''Okinawa'' was the Japanese word identifying the islands, first seen in the biography of [[Jianzhen]], written in 779.{{Refn|Kanjun Higashionna introduces that Jianzhen's biography notes Ryūkyū, however he argues that the location could have been Taiwan actually, reasoned that it was not accessible in five days' voyage from mainland China to Okinawa island in the 8th century.<ref>{{cite book|title= Ryūkyū no rekishi|trans-title= The History of Ryūkyū|language=ja|series= Nihon rekishi shinsho|last= Higashionna|first= Kanjun (東恩納 寬惇)|location=Tokyo|publisher= Shibundō|page=13|url= https://books.google.com/books?id=4BVBAQAAIAAJ&q=%E9%91%91%E7%9C%9F|access-date=2018-02-14|year= 1957}}</ref>|group=note}} Agricultural societies begun in the 8th century slowly developed until the 12th century.{{Refn|Masahide Takemoto suggested in his 1972 paper that the 10th century sites he excavated were formed on hillsides suited to agriculture, where remains of Chinese celadonware were also excavated as signs of the beginning of the Gusuku period or centralized governing system.<ref>{{cite journal|last=Takemoto|first= Masahide|editor-last=Shinzato |editor-first=Keiji|title= Kōkogaku no shomondai to sono genjō |trans-title= Challenges in Archaeology and the Present Condition|language=ja|journal= Rekishi-hen|series= Okinawa bunka ronsō|volume=1|oclc=20843495 |year=1972}}</ref>|group=note}}<ref>{{cite book|chapter= Okinawa ni okeru genshi shakai no shūmatsu-ki (沖縄における原始社会の終末期)|trans-title= The Terminal Stage of the Primitive Society in Okinawa|last=Takemoto|first= Masahide|title= Nantō shiron : Tomimura Shin'en kyōju kanreki kinen ronbunshu (富村真演教授還暦記念論文集)|oclc=703826209|publisher= Ryūkyū Daigaku Shigakkai|year= 1972}}</ref><ref>{{cite book|last=Asato|title=Kōkogaku kara mita Ryūkyū-shi|trans-title= History of Ryūkyū Seen from Archeological Principles|language=ja|volume=1|year=1990|pages=69–70}}</ref> Since the islands are located at the eastern perimeter of the [[East China Sea]] relatively close to Japan, China and South-East Asia, the [[Ryukyu Kingdom]] became a prosperous trading nation. Also during this period, many [[Gusuku]]s, similar to castles, were constructed. The Ryukyu Kingdom entered into the [[Imperial Chinese tributary system]] under the [[Ming dynasty]] beginning in the 15th century, which established economic relations between the two nations.
+
+In 1609, the [[Shimazu clan]], which controlled the region that is now [[Kagoshima Prefecture]], [[Invasion of Ryukyu|invaded the Ryukyu Kingdom]]. The Ryukyu Kingdom was obliged to agree to form a suzerain-vassal relationship with the [[Satsuma Domain|Satsuma]] and the [[Tokugawa shogunate]], while maintaining its previous role within the Chinese tributary system; Ryukyuan sovereignty was maintained since complete annexation would have created a conflict with China. The Satsuma clan earned considerable profits from trade with China during a period in which foreign trade was heavily restricted by the shogunate.
+
+[[File:Ryukyuan mission in Edo.jpg|thumb|A Ryukyuan [[Ryukyuan missions to Edo|embassy]] in [[Edo]].]]
+
+Although Satsuma maintained strong influence over the islands, the Ryukyu Kingdom maintained a considerable degree of domestic political freedom for over two hundred years. Four years after the 1868 [[Meiji Restoration]], the Japanese government, through military incursions, officially annexed the kingdom and renamed it Ryukyu [[Han (administrative division)|han]]. At the time, the Qing Empire asserted a nominal suzerainty over the islands of the Ryukyu Kingdom, since the Ryūkyū Kingdom was also a member state of the Chinese tributary system. Ryukyu han became Okinawa Prefecture of Japan in 1879, even though all other hans had become prefectures of Japan in 1872. In 1912, Okinawans first obtained the right to vote for representatives to the {{Nihongo|[[National Diet]]|国会}} which had been established in 1890.<ref>Steve Rabson, "Meiji Assimilation Policy in Okinawa: Promotion, Resistance, and "Reconstruction" in ''New Directions in the Study of Meiji Japan'' ([[Helen Hardacre]], ed.). Brill, 1997. p. 642.</ref>
+
+===1945–1965===
+Near the end of World War II, in 1945, the [[US Army]] and [[United States Marine Corps|Marine Corps]] invaded Okinawa with 185,000 troops. A third of Okinawa's civilian population died;<ref name="economist">{{cite news | url=http://www.economist.com/displaystory.cfm?story_id=5097132 | work=[[The Economist]] | title=No home where the dugong roam | date=October 27, 2005 | quote=some of the bloodiest campaigns anywhere in the second world war were fought in Okinawa, and a third of the civilian population died. | access-date=September 7, 2006 | archive-date=September 5, 2006 | archive-url=https://web.archive.org/web/20060905210944/http://www.economist.com/displaystory.cfm?story_id=5097132 | url-status=live }}</ref> a quarter of the civilian population died during the 1945 [[Battle of Okinawa]] alone.<ref name=Guardian110307/> The dead, of all nationalities, are commemorated at the [[Cornerstone of Peace]].
+
+After the end of World War II, the United States set up the United States [[United States Military Government of the Ryukyu Islands|Military Government of the Ryukyu Islands]] administration, which ruled Okinawa for 27 years. During this "trusteeship rule", the United States established numerous military bases on the Ryukyu islands. The [[Ryukyu independence movement]] was an Okinawan movement that clamored against U.S. rule.
+
+====Continued U.S. military buildup====
+During the [[Korean War]], [[B-29 Superfortress]]es flew bombing missions over [[Korea]] from [[Kadena Air Base]] on Okinawa. The military buildup on the island during the [[Cold War]] increased a division between local inhabitants and the American military. Under the 1952 [[Treaty of Mutual Cooperation and Security between the United States and Japan]], United States [[United States Forces Japan|Forces Japan]] (USFJ) have maintained a large military presence.
+ 
+During the mid-1950s, the U.S. seized land from Okinawans to build new bases or expand currently-existing ones. According to the Melvin Price Report, by 1955, the military had displaced 250,000 residents.<ref>{{Cite web|url=http://ryukyu-okinawa.net/pages/archive/price.html|title=The Melvin Price Report|last=Special Subcommittee of the Armed Services Committee, House of Representatives|date=1955|website=via Ryukyu-Okinawa History and Culture Website|access-date=23 May 2019|archive-date=August 6, 2020|archive-url=https://web.archive.org/web/20200806025243/http://ryukyu-okinawa.net/pages/archive/price.html|url-status=live}}</ref>
+
+====Secret U.S. deployment of nuclear weapons====
+Since 1960, the U.S. and Japan have maintained an agreement that allows the U.S. to secretly bring nuclear weapons into Japanese ports.<ref name="NHK01">{{cite web |url= http://www.gwu.edu/~nsarchiv/japan/okinawa/okinawa.htm |title= Revelations in Newly Released Documents about U.S. Nuclear Weapons and Okinawa Fuel; NHK Documentary |date= 1997-05-14 |first= Robert A. |last= Wampler |editor= The National Security Archive, The Gelman Library |publisher= George Washington University |access-date= 2018-02-11 |archive-date= January 16, 2013 |archive-url= https://web.archive.org/web/20130116025521/http://www.gwu.edu/~nsarchiv/japan/okinawa/okinawa.htm |url-status= live }}</ref><ref name="NHK02">{{cite document |title= Memorandum, Ambassador Brown to Secretary Rogers, 4/29/69, Subject: NSC Meeting April 30 - Policy Toward Japan: Briefing Memorandum (Secret), with attached |page= 1 |url= https://nsarchive2.gwu.edu//japan/okinawa/oki1_a.htm |date= 1969-04-30 |access-date= 2018-02-11 |archive-date= February 13, 2018 |archive-url= https://web.archive.org/web/20180213021557/https://nsarchive2.gwu.edu//japan/okinawa/oki1_a.htm |url-status= live }}</ref><ref name="NHK03">{{cite document|title= NSSM 5 - Japan, Table of Contents and Part III: Okinawa Reversion (Secret)|page= 22|url= https://nsarchive2.gwu.edu//japan/okinawa/oki3_f.htm|year= 1969|access-date= 2018-02-11|archive-date= August 25, 2017|archive-url= https://web.archive.org/web/20170825014344/http://nsarchive2.gwu.edu/japan/okinawa/oki3_f.htm|url-status= live}}</ref> The Japanese people tended to oppose the introduction of nuclear arms into Japanese territory<ref name="NHK04">{{cite document|title= Memorandum of Conversation, Nixon/Sato, 11/19/69 (Top Secret/Sensitive)|page= 2|url= https://nsarchive2.gwu.edu//japan/okinawa/oki5_b.htm|date= 1969-11-19|access-date= 2018-02-11|archive-date= August 25, 2017|archive-url= https://web.archive.org/web/20170825011212/http://nsarchive2.gwu.edu/japan/okinawa/oki5_b.htm|url-status= live}}</ref> and the Japanese government's assertion of [[Japan's non-nuclear policy]] and a statement of the [[Three Non-Nuclear Principles]] reflected this popular opposition. Most of the weapons were alleged to be stored in ammunition bunkers at [[Kadena Air Base]].<ref>{{Cite web|url=https://apjjf.org/2013/11/1/Jon-Mitchell/3883/article.html|title="Herbicide Stockpile" at Kadena Air Base, Okinawa: 1971 U.S. Army report on Agent Orange {{!}} The Asia-Pacific Journal: Japan Focus|last=Journal|first=The Asia Pacific|website=apjjf.org|access-date=2018-11-15|archive-date=August 16, 2020|archive-url=https://web.archive.org/web/20200816141552/https://apjjf.org/2013/11/1/Jon-Mitchell/3883/article.html|url-status=live}}</ref> Between 1954 and 1972, 19 different types of nuclear weapons were deployed in Okinawa, but with fewer than around 1,000 warheads at any one time.<ref name="NHK05">{{cite journal|last1=Norris|first1=Robert S.|last2=Arkin|first2=William M.|author-link2=William Arkin|last3=Burr|first3=William|author-link3=William Burr|title=Where They Were|journal=Bulletin of the Atomic Scientists|date=November 1999|volume=55|issue=6|pages=26–35|doi=10.2968/055006011|url=https://www.archives.gov/declassification/pidb/meetings/where-they-were.pdf|archive-url=https://web.archive.org/web/20130623080403/http://www.archives.gov/declassification/pidb/meetings/where-they-were.pdf|url-status=live|archive-date=2013-06-23}}</ref> In Fall 1960, U.S. commandos in [[Green Light Teams]] secret training missions carried actual small nuclear weapons on the east coast of Okinawa Island.<ref>Annie Jacobsen, "Surprise, Kill, Vanish: The Secret History of CIA Paramilitary Armies, Operators, and Assassins," (New York: Little, Brown and Company, 2019), p. 102</ref>
+
+===1965–1972 (Vietnam War)===
+Between 1965 and 1972, Okinawa was a key staging point for United States in its military operations directed towards [[North Vietnam]]. Along with [[Guam]], it presented a geographically strategic launch pad for covert bombing missions over [[Cambodia]] and [[Laos]].<ref>John Morrocco. Rain of Fire. (United States: Boston Publishing Company), pg 14</ref> Anti-Vietnam War sentiment became linked politically to the movement for reversion of Okinawa to Japan.
+In 1965, the US military bases, earlier viewed as paternal post war protection, were increasingly seen as aggressive. The Vietnam War highlighted the differences between United States and Okinawa, but showed a commonality between the islands and mainland Japan.<ref name="NYT65">{{cite news|first=Robert|last=Trumbull|newspaper=The New York Times|title=OKINAWA B-52'S ANGER JAPANESE: Bombing of Vietnam From Island Stirs Public Outcry.|date=1 August 1965|url=http://0-www.proquest.com.mercury.concordia.ca/|access-date=27 September 2009|archive-date=December 9, 2019|archive-url=https://web.archive.org/web/20191209143838/http://0-www.proquest.com.mercury.concordia.ca/|url-status=live}}</ref>
+
+As controversy grew regarding the alleged placement of [[nuclear weapons]] on Okinawa, fears intensified over the escalation of the [[Vietnam War]]. Okinawa was then perceived, by some inside Japan, as a potential target for China, should the communist government feel threatened by United States.<ref>Mori, Kyozo, Two Ends of a Telescope Japanese and American Views of Okinawa, Japan Quarterly, 15:1 (1968:Jan./Mar.) p.17</ref> American military secrecy blocked any local reporting on what was actually occurring at bases such as [[Kadena Air Base]]. As information leaked out, and images of air strikes were published, the local population began to fear the potential for retaliation.<ref name=NYT65 />
+
+Political leaders such as Oda Makoto, a major figure in the [[Beheiren]] movement (Foundation of Citizens for Peace in Vietnam), believed, that the return of Okinawa to Japan would lead to the removal of U.S. forces ending Japan's involvement in Vietnam.<ref name="Havens, T. R. H. 1987 Pg 120">Havens, T. R. H. (1987) Fire Across the Sea: The Vietnam War and Japan, 1965–1975. Princeton, NJ: Princeton University Press. Pg 120</ref> In a speech delivered in 1967 Oda was critical of Prime Minister Sato's unilateral support of America's War in Vietnam claiming "Realistically we are all guilty of complicity in the Vietnam War".<ref name="Havens, T. R. H. 1987 Pg 120"/> The Beheiren became a more visible anti-war movement on Okinawa as the American involvement in Vietnam intensified. The movement employed tactics ranging from demonstrations, to handing leaflets to soldiers, sailors, airmen and Marines directly, warning of the implications for a third World War.<ref>Havens, T. R. H. (1987) Fire Across the Sea: The Vietnam War and Japan, 1965–1975. Princeton, NJ: Princeton University Press. Pg 123</ref>
+
+The US military bases on Okinawa became a focal point for [[Opposition to United States involvement in the Vietnam War|anti-Vietnam War]] sentiment. By 1969, over 50,000 American military personnel were stationed on Okinawa.<ref>Christopher T. Sanders (2000) America’s Overseas Garrisons the Leasehold Empire Oxford University Press PG 164</ref> United States [[United States Department of Defense|Department of Defense]] began referring to Okinawa as the "Keystone of the Pacific". This slogan was imprinted on local U.S. military license plates.<ref>Havens, T. R. H. (1987) Fire Across the Sea: The Vietnam War and Japan, 1965–1975. Princeton, NJ: Princeton University Press Pg 88</ref>
+
+In 1969, chemical weapons leaked from the US storage depot at Chibana in central Okinawa, under [[Operation Red Hat]]. Evacuations of residents took place over a wide area for two months. Even two years later, government investigators found that Okinawans and the environment near the leak were still suffering because of the depot.<ref name="APJ2014">{{cite journal|first=Steve|last=Rabson|url=http://www.japanfocus.org/-Steve-Rabson/3884|title=Okinawa's Henoko was a 'Storage Location' for Nuclear Weapons: Published Accounts|journal=The Asia-Pacific Journal: Japan Focus|volume=11|issue=1(6)|access-date=14 January 2012|archive-url=https://web.archive.org/web/20130213003429/http://japanfocus.org//-Steve-Rabson/3884|archive-date=February 13, 2013|url-status=dead}}</ref>
+
+In 1972, the U.S. government handed over the islands to Japanese administration.<ref>{{cite book |url=https://books.google.com/books?id=ChGQAAAAMAAJ&pg=PA449 |title=Reversion to Japan of the Ryukyu and Daito Islands, official text |access-date=2014-08-05 |year=1973 |last1=States |first1=United |archive-date=January 1, 2016 |archive-url=https://web.archive.org/web/20160101093357/https://books.google.com/books?id=ChGQAAAAMAAJ&pg=PA449 |url-status=live }}</ref>
+
+===1973–2006===
+In a 1981 interview with the ''[[Mainichi Shimbun]]'', [[Edwin O. Reischauer]], former U.S. ambassador to Japan, said that U.S. naval ships armed with nuclear weapons stopped at Japanese ports on a routine duty, and this was approved by the Japanese government.{{citation needed|date=August 2014}}
+
+The [[1995 Okinawa rape incident|1995 rape]] of a 12-year-old girl by U.S. servicemen triggered large protests in Okinawa. Reports by the local media of accidents and crimes committed by U.S. servicemen have reduced the local population's support for the U.S. military bases. A strong emotional response has emerged from certain incidents. As a result, the media has drawn renewed interest in the [[Ryukyu independence movement]].
+
+Documents declassified in 1997 proved that both tactical and strategic weapons have been maintained in Okinawa.<ref name=APJ2014/><ref>{{cite web|url=http://wsws.org/articles/2010/mar2010/japa-m24.shtml|title=Japanese government reveals secret nuclear agreement with the US|last=Chan|first=John|publisher=[[World Socialist Web Site]]|date=March 24, 2010|access-date=March 24, 2010|archive-url=https://web.archive.org/web/20100327155642/http://www.wsws.org/articles/2010/mar2010/japa-m24.shtml|archive-date=March 27, 2010|url-status=dead}}</ref> In 1999 and 2002, the ''Japan Times'' and the ''Okinawa Times'' reported speculation that not all weapons were removed from Okinawa.<ref>{{cite web|url=http://search.japantimes.co.jp/cgi-bin/nn20020515b9.html |archive-url=https://web.archive.org/web/20110606022049/http://search.japantimes.co.jp/cgi-bin/nn20020515b9.html |url-status=dead |archive-date=June 6, 2011 |title=Nuclear pact ensured smooth Okinawa reversion |date=May 15, 2002 |work=The Japan Times |first=Eric |last=Johnston }}</ref><ref>[https://web.archive.org/web/20070930155511/http://www.okinawatimes.co.jp/edi/19990516.html 疑惑が晴れるのはいつか]{{in lang|ja}}, Okinawa Times, May 16, 1999</ref> On October 25, 2005, after a decade of negotiations, the governments of the US and Japan officially agreed to move [[Marine Corps Air Station Futenma]] from its location in the densely populated city of [[Ginowan, Okinawa|Ginowan]] to the more northerly and remote [[Camp Schwab]] in [[Nago, Okinawa|Nago]] by building a heliport with a shorter runway, partly on Camp Schwab land and partly running into the sea.<ref name=economist/> The move is partly an attempt to relieve tensions between the people of Okinawa and the Marine Corps.
+
+Okinawa prefecture constitutes 0.6 percent of Japan's land surface,<ref name=economist /> yet {{As of|2006|lc=y}}, 75 percent of all USFJ bases were located on Okinawa, and U.S. military bases occupied 18 percent of the main island.<ref name="USMilitaryBases">[http://www.clearing.mod.go.jp/hakusho_data/2006/2006/html/i4262000.html 沖縄に所在する在日米軍施設・区域] {{Webarchive|url=https://web.archive.org/web/20071001004730/http://www.clearing.mod.go.jp/hakusho_data/2006/2006/html/i4262000.html |date=October 1, 2007 }}{{in lang|ja}}, Japan Ministry of Defense</ref>
+
+[[File:US military bases in Okinawa.svg|thumb|U.S. military facilities in Okinawa]]
+
+===2007–present===
+According to a 2007 ''Okinawa Times'' poll, 85 percent of Okinawans opposed the presence of the U.S. military,<ref>{{cite web |url=http://www.okinawatimes.co.jp/edi/20070513.html |script-title=ja:語り継ぎたい「沖縄戦」 |date=13 May 2007 |work=Okinawa Times |language=ja |url-status=dead |archive-url=https://web.archive.org/web/20070930160334/http://www.okinawatimes.co.jp/edi/20070513.html |archive-date=30 September 2007}}</ref> because of [[noise pollution]] from military drills, the risk of aircraft accidents,{{Refn|[[1959 Kadena Air Base F-100 crash|One in 1959]] killed 17 people.|group=note}} [[environmental degradation]],<ref>[http://www3.pref.okinawa.jp/site/view/contview.jsp?cateid=14&id=586&page=1 Impact on the Lives of the Okinawan People (Incidents, Accidents and Environmental Issues)] {{webarchive |url=https://web.archive.org/web/20070930030528/http://www3.pref.okinawa.jp/site/view/contview.jsp?cateid=14&id=586&page=1 |date=September 30, 2007 }}, Okinawa Prefectural Government</ref> and crowding from the number of personnel there,<ref>[http://www.jtu-net.or.jp/kiji/heiwa/01.htm 沖縄・米兵による女性への性犯罪(Rapes and murders by the U.S. military personnel 1945–2000)] {{webarchive|url=https://web.archive.org/web/20090107044333/http://www.jtu-net.or.jp/kiji/heiwa/01.htm |date=January 7, 2009 }}{{in lang|ja}}, 基地・軍隊を許さない行動する女たちの会</ref> although 73.4 percent of Japanese citizens appreciated the mutual security treaty with the U.S. and the presence of the USFJ.<ref>[http://www8.cao.go.jp/survey/h14/h14-bouei/2-6.html 自衛隊・防衛問題に関する世論調査] {{webarchive |url=https://web.archive.org/web/20101022060139/http://www8.cao.go.jp/survey/h14/h14-bouei/2-6.html |date=October 22, 2010 }}, The Cabinet Office of Japan</ref> In another poll conducted by the ''[[Asahi Shimbun]]'' in May 2010, 43 percent of the Okinawan population wanted the complete closure of the U.S. bases, 42 percent wanted reduction and 11 percent wanted the maintenance of the status quo.<ref>{{cite web|url=http://www.asahi.com/politics/update/0513/SEB201005130037.html|title=普天間移設首相方針、県民７６％反対 朝日新聞世論調査|website=Asahi.com|date=May 23, 2010|archive-url=https://web.archive.org/web/20100523062343/http://www.asahi.com/politics/update/0513/SEB201005130037.html|archive-date=May 23, 2010}}</ref> Okinawan feelings about the U.S. military are complex, and some of the resentment towards the U.S. bases is directed towards the government in [[Tokyo]], perceived as being insensitive to Okinawan needs and using Okinawa to house bases not desired elsewhere in Japan.
+
+In early 2008, U.S. Secretary of State [[Condoleezza Rice]] apologized after a series of crimes involving American troops in Japan, including the rape of a young girl of 14 by a Marine on Okinawa. The U.S. military also imposed a temporary 24-hour curfew on military personnel and their families to ease the anger of local residents.<ref>{{cite news |url=https://www.theguardian.com/world/2008/feb/28/japan.usa |title=Rice says sorry for US troop behaviour on Okinawa as crimes shake alliance with Japan |date=February 28, 2008 |first=Justin |last=McCurry |newspaper=The Guardian |location=UK |access-date=December 17, 2016 |archive-date=March 8, 2017 |archive-url=https://web.archive.org/web/20170308040714/https://www.theguardian.com/world/2008/feb/28/japan.usa |url-status=live }}</ref> Some cited statistics that the crime rate of military personnel is consistently less than that of the general Okinawan population.<ref>{{cite web |url=http://search.japantimes.co.jp/cgi-bin/fl20080226zg.html |archive-url=https://web.archive.org/web/20080305003905/http://search.japantimes.co.jp/cgi-bin/fl20080226zg.html |url-status=dead |archive-date=March 5, 2008 |title=U.S. military crime: SOFA so good?The stats offer some surprises in wake of the latest Okinawa rape claim |first=Michael |last=Hassett |date=February 26, 2008 |work=The Japan Times |df=mdy-all }}</ref> However, some criticized the statistics as unreliable, since violence against women is under-reported.<ref>{{cite web |url=http://www.genuinesecurity.org/partners/report/Okinawa.pdf |title=Okinawa: Effects of long-term US Military presence |access-date=October 26, 2011 |archive-url=https://web.archive.org/web/20110726082729/http://www.genuinesecurity.org/partners/report/Okinawa.pdf |archive-date=July 26, 2011 |url-status=dead }}</ref>
+
+Between 1972 and 2009, U.S. servicemen committed 5,634 criminal offenses, including 25 murders, 385 burglaries, 25 arsons, 127 rapes, 306 assaults and 2,827 thefts.<ref name="Guardian110307">{{cite news |url=https://www.theguardian.com/world/2011/mar/07/okinawa-japan-military-tension |title=Second battle of Okinawa looms as China's naval ambition grows |date=March 11, 2011 |first=David |last=Hearst |newspaper=The Guardian |location=UK |access-date=December 17, 2016 |archive-date=August 1, 2016 |archive-url=https://web.archive.org/web/20160801003102/https://www.theguardian.com/world/2011/mar/07/okinawa-japan-military-tension |url-status=live }}</ref> Yet, per [[Marine Corps Installations Pacific]] data, U.S. service members are convicted of far fewer crimes than local Okinawans.<ref>{{cite web|url=http://www.okinawa.usmc.mil/Documents/Ethos.pdf|title=米国海兵隊： 品位と名誉の精神|publisher=Marine Corps Installations Pacific Ethos Data|archive-url=https://web.archive.org/web/20161223233725/http://www.okinawa.usmc.mil/Documents/Ethos.pdf|archive-date=December 23, 2016 }}</ref>
+
+In 2009, a new Japanese government came to power and froze the US forces relocation plan, but in April 2010 indicated their interest in resolving the issue by proposing a modified plan.<ref>{{cite news |title=Japan moves to settle dispute with U.S. over Okinawa base relocation |first=John |last=Pomfret |newspaper=The Washington Post |date=April 24, 2010 |url=https://www.washingtonpost.com/wp-dyn/content/article/2010/04/23/AR2010042305080.html |access-date=September 30, 2020 |archive-date=October 29, 2018 |archive-url=https://web.archive.org/web/20181029191659/http://www.washingtonpost.com/wp-dyn/content/article/2010/04/23/AR2010042305080.html |url-status=live }}</ref>
+
+A study done in 2010 found that the prolonged exposure to aircraft noise around the [[Kadena Air Base]] and other military bases cause health issues such as a disrupted sleep pattern, high blood pressure, weakening of the immune system in children, and a loss of hearing.<ref>{{Cite journal|last=Cox|first=Rupert|date=2010-12-01|title=The Sound of Freedom: US Military Aircraft Noise in Okinawa, Japan|journal=Anthropology News|language=en|volume=51|issue=9|pages=13–14|doi=10.1111/j.1556-3502.2010.51913.x|issn=1556-3502|url=https://www.research.manchester.ac.uk/portal/en/publications/the-sound-of-freedom-us-military-aircraft-noise-in-okinawa(bd1a3f91-6c6c-46e5-a214-db1378c92156).html}}</ref>
+
+In 2011, it was reported that the U.S. military—contrary to repeated denials by [[the Pentagon]]—had kept tens of thousands of barrels of [[Agent Orange]] on the island. The Japanese and American governments have angered some U.S. veterans, who believe they were poisoned by Agent Orange while serving on the island, by characterizing their statements regarding Agent Orange as "dubious", and ignoring their requests for compensation. Reports that more than a third of the barrels developed leaks have led Okinawans to ask for environmental investigations, but {{As of|2012|lc=y}} both Tokyo and Washington refused such action.<ref>Jon Mitchell, [http://www.japanfocus.org/-Jon-Mitchell/3838 "Agent Orange on Okinawa – The Smoking Gun: U.S. army report, photographs show 25,000 barrels on island in early '70s"] {{Webarchive|url=https://web.archive.org/web/20130123192055/http://japanfocus.org/-Jon-Mitchell/3838 |date=January 23, 2013 }}, ''The Asia-Pacific Journal: Japan Focus'', Vol 11, Issue 1, No. 6, January 14, 2012.</ref> [[Jon Mitchell (journalist)|Jon Mitchell]] has reported concern that the U.S. used American Marines as chemical-agent guinea pigs.<ref>Jon Mitchell, [http://www.japanfocus.org/-Jon-Mitchell/3868 "Were U.S marines used as guinea pigs on Okinawa?"] {{Webarchive|url=https://web.archive.org/web/20130213121129/http://japanfocus.org/-Jon-Mitchell/3868 |date=February 13, 2013 }} ''The Asia-Pacific Journal: Japan Focus'', Vol 10, Issue 51, No. 2, December 17, 2012.</ref>
+
+On September 30, 2018, [[Denny Tamaki]] was elected as the next governor of Okinawa prefecture, after a campaign focused on sharply reducing the U.S. military presence on the island.<ref>{{Cite web|url=https://www.washingtonpost.com/world/asia_pacific/opponent-of-us-military-bases-wins-okinawa-gubernatorial-election/2018/09/30/18f13d5a-c36a-11e8-9451-e878f96be19b_story.html?noredirect=on|title=Opponent of U.S. Military bases wins Okinawa gubernatorial election|first=Simon|last=Denyer|work=The Washington Post|date=September 30, 2018|access-date=September 30, 2020|archive-date=February 17, 2019|archive-url=https://web.archive.org/web/20190217030311/https://www.washingtonpost.com/world/asia_pacific/opponent-of-us-military-bases-wins-okinawa-gubernatorial-election/2018/09/30/18f13d5a-c36a-11e8-9451-e878f96be19b_story.html?noredirect=on|url-status=live}}</ref>
+
+==== Marine Corps Air Station Futenma relocation, 2006–present ====
+{{Main|Relocation of Marine Corps Air Station Futenma}}
+
+{{As of|2014|12}}, one ongoing issue is the relocation of [[Marine Corps Air Station Futenma]]. First promised to be moved off the island and then later within the island, {{as of|2014|11|lc=y}} the future of any relocation is uncertain with the election of base-opponent Onaga as Okinawa governor.<ref name="bbc-onaga">{{cite news | url=https://www.bbc.com/news/world-asia-30074445 | title=Okinawa US base move in doubt after governor elections | publisher=BBC | date=16 November 2014 | access-date=17 November 2014 | work=BBC News | archive-date=July 3, 2017 | archive-url=https://web.archive.org/web/20170703214832/http://www.bbc.com/news/world-asia-30074445 | url-status=live }}</ref> Onaga won against the incumbent Nakaima who had earlier approved landfill work to move the base to [[Camp Schwab]] in Henoko. However, Onaga has promised to veto the landfill work needed for the new base to be built and insisted Futenma should be moved outside of Okinawa.<ref name="japantoday-onaga">{{cite news | url=http://www.japantoday.com/category/politics/view/u-s-base-relocation-opponent-elected-okinawan-governor | title=U.S. base relocation opponent elected Okinawan governor | newspaper=Japan Today | date=17 November 2014 | access-date=17 November 2014 | url-status=dead | archive-url=https://web.archive.org/web/20141129055807/http://www.japantoday.com/category/politics/view/u-s-base-relocation-opponent-elected-okinawan-governor | archive-date=November 29, 2014 | df=mdy-all }}</ref>
+
+{{As of|2006}}, some 8,000 U.S. Marines were removed from the island and relocated to [[Guam]].<ref>{{cite web|url=http://www.defense.gov/news/newsarticle.aspx?id=15356|publisher=DOD|work=American Forces Press Service|author=Steven Donald Smith|title=Eight Thousand U.S. Marines to Move From Okinawa to Guam|date=April 26, 2006|access-date=1 August 2014|archive-date=September 24, 2014|archive-url=https://web.archive.org/web/20140924194813/http://www.defense.gov/news/newsarticle.aspx?id=15356|url-status=live}}</ref> In November 2008, U.S. Pacific Command Commander Admiral [[Timothy Keating]] stated the move to Guam would probably not be completed before 2015.<ref>{{cite news|newspaper=Kyodo News|title=Marines' Exit May Take Till '15: U.S.|publisher=Japan Times|date=9 November 2008}}</ref>
+
+In 2009, Japan's former foreign minister [[Katsuya Okada]] stated that he wanted to review the deployment of U.S. troops in Japan to ease the burden on the people of Okinawa (Associated Press, October 7, 2009){{citation needed|date=August 2014}} 5,000 of 9,000 Marines will be deployed at Guam and the rest will be deployed at Hawaii and Australia. Japan will pay $3.1 billion cash for the moving and for developing joint training ranges on Guam and on Tinian and Pagan in the U.S.-controlled Northern Mariana Islands.<ref>{{cite news |url=http://uk.reuters.com/article/usa-japan-okinawa-idUKL2E8FR0D920120427 |title=U.S., Japan unveil revised plan for Okinawa |date=April 27, 2012 |newspaper=Reuters |access-date=April 28, 2012 |archive-date=June 20, 2012 |archive-url=https://web.archive.org/web/20120620150431/http://uk.reuters.com/article/2012/04/27/usa-japan-okinawa-idUKL2E8FR0D920120427 |url-status=live }}</ref><ref>{{cite web|url=http://www.globalsecurity.org/military/facility/okinawa.htm|title=Okinawa, Japan|publisher=Globalsecurity.org|access-date=June 23, 2013|archive-date=August 7, 2013|archive-url=https://web.archive.org/web/20130807015604/http://www.globalsecurity.org/military/facility/okinawa.htm|url-status=live}}</ref><ref>{{Cite web|url=http://www.japan-press.co.jp/2009/2644/USF4.html|title=A closer look at U.S. Futenma base's 'relocation' issue|publisher=Japan Press Weekly|date=November 1, 2009|access-date=July 31, 2016|archive-date=November 13, 2019|archive-url=https://web.archive.org/web/20191113122927/https://www.japan-press.co.jp/2009/2644/USF4.html|url-status=live}}</ref> {{as of|2014}}, the US still maintains Air Force, Marine, Navy, and Army military installations on the islands. These bases include [[Kadena Air Base]], [[Camp Foster]], [[Marine Corps Air Station Futenma]], [[Camp Hansen]], [[Camp Schwab]], [[Torii Station]], [[Camp Kinser]], and [[Camp Gonsalves]]. The area of 14 U.S. bases are {{convert|233|km2|sqmi|0}}, occupying 18 percent of the main island. Okinawa hosts about two-thirds of the 50,000 American forces in Japan although the islands account for less than one percent of total lands in Japan.<ref name="USMilitaryBases"/>
+
+Suburbs have grown towards and now surround two historic major bases, Futenma and Kadena. One third ({{convert|9852|acre|km2}}){{citation needed|date=July 2016}} of the land used by the U.S. military is the [[Marine Corps Northern Training Area]] (known also as Camp Gonsalves or JWTC) in the north of the island.<ref>{{Cite news| url=http://www.japantimes.co.jp/life/2012/08/19/travel/rumbles-in-the-jungle/#.V53t7COLTZs| title=Rumbles in the jungle| newspaper=The Japan Times Online| date=2012-08-19| last1=Mitchell| first1=Jon| access-date=July 31, 2016| archive-date=September 10, 2016| archive-url=https://web.archive.org/web/20160910165311/http://www.japantimes.co.jp/life/2012/08/19/travel/rumbles-in-the-jungle/#.V53t7COLTZs| url-status=live}}</ref> On December 21, 2016, 10,000 acres of Okinawa Northern Training Area were returned to Japan.<ref>{{cite web|url=https://www.defense.gov/News/Article/Article/1036252/us-returns-10000-acres-of-okinawan-training-area-to-japan|title=U.S. Returns 10,000 Acres of Okinawan Training Area to Japan|publisher=U.S. Department of Defense|first=Jim|last=Garamone|date=December 21, 2016|access-date=December 22, 2016|archive-date=December 22, 2016|archive-url=https://web.archive.org/web/20161222192639/https://www.defense.gov/News/Article/Article/1036252/us-returns-10000-acres-of-okinawan-training-area-to-japan|url-status=live}}</ref> On June 25, 2018, Okinawa residents held a protest demonstration at sea against scheduled land reclamation work for the relocation of a U.S. military base within Japan's southernmost island prefecture. A protest gathered hundreds of people.<ref>{{Cite web|url=https://english.kyodonews.net/news/2018/06/58c834fec085-protest-held-in-okinawa-against-landfill-for-us-base-transfer.html|title=Protest held in Okinawa against landfill for U.S. base transfer|publisher=Kyodo News|date=June 25, 2018|access-date=September 30, 2020|archive-date=August 6, 2020|archive-url=https://web.archive.org/web/20200806013452/https://english.kyodonews.net/news/2018/06/58c834fec085-protest-held-in-okinawa-against-landfill-for-us-base-transfer.html|url-status=live}}</ref>
+
+====Helipads construction in Takae (Yanbaru forest)====
+Since the early 2000s, Okinawans have opposed the presence of American troops [[helipad]]s in the [[Takae]] zone of the [[Yanbaru]] forest near [[Higashi, Okinawa|Higashi]] and [[Kunigami, Okinawa|Kunigami]].<ref>{{cite web |url=http://okinawa-takae.org/index.php/takaes-story/ |title=Takae's Story |access-date=2016-07-31 |url-status=dead |archive-url=https://web.archive.org/web/20160220082950/http://okinawa-takae.org/index.php/takaes-story/ |archive-date=February 20, 2016 |df=mdy-all }}</ref> This opposition grew in July 2016 after the construction of six new helipads.<ref>{{Cite web|url=http://english.ryukyushimpo.jp/2016/07/17/25465/|title=Tensions between protesters and riot police mount over construction of U.S. Marine Corps helipads in Takae|publisher=Ryukyu Shimpo|date=July 12, 2016|access-date=July 31, 2016|archive-url=https://web.archive.org/web/20160722150749/http://english.ryukyushimpo.jp/2016/07/17/25465/|archive-date=July 22, 2016|url-status=dead}}</ref><ref>{{Cite news| url=http://www.japantimes.co.jp/news/2016/07/22/national/politics-diplomacy/central-government-sues-okinawa-futenma-relocation/| title=Okinawa protests erupt as U.S. Helipad construction resumes| newspaper=The Japan Times Online| date=2016-07-22| last1=Mie| first1=Ayako| access-date=July 31, 2016| archive-date=August 5, 2016| archive-url=https://web.archive.org/web/20160805142651/http://www.japantimes.co.jp/news/2016/07/22/national/politics-diplomacy/central-government-sues-okinawa-futenma-relocation/| url-status=live}}</ref>
+
+==Geography==
+{{main|Ryukyu Islands}}
+{{More citations needed|date=July 2021}}
+
+===Major islands===
+[[File:Map-okinawa-pref.png|thumb|The islands of Okinawa Prefecture]]
+
+The islands comprising the prefecture are the southern two thirds of the archipelago of the {{nihongo|Ryūkyū Islands|琉球諸島|Ryūkyū-shotō}}. Okinawa's inhabited islands are typically divided into three geographical archipelagos. From northeast to southwest:
+* {{nihongo|[[Okinawa Islands]]|沖縄|ʔucinā}}
+** [[Ie-jima]] ({{Lang|ryu|ʔiijima}})
+** [[Kumejima, Okinawa|Kume-jima]] ({{Lang|ryu|kumijima}})
+** [[Okinawa Island]] ({{Lang|ryu|ʔuhuji}})
+** [[Kerama Islands]] ({{Lang|ryu|kirama}})
+* [[Miyako Islands]] ({{Lang|ryu|myāku}})
+** [[Miyako-jima]]
+* [[Yaeyama Islands]] ({{Lang|ryu|’ēma}})
+** [[Iriomote-jima]] ({{Lang|ryu|ʔiriʔumuti}})
+** [[Ishigaki Island]] ({{Lang|ryu|ʔishigaci}})
+** [[Yonaguni]] ({{Lang|ryu|’yunaguni}})
+* [[Senkaku Islands]] ({{Lang|ryu|ʔiyukubajima}})
+* [[Daitō Islands]] ({{Lang|ryu|ʔuhuʔagarijima}})
+** [[Minamidaitōjima]] ({{Lang|ryu|fēʔuhuʔagarijima}})
+** [[Kitadaitōjima]] ({{Lang|ryu|nishiʔuhuʔagarijima}})
+** [[Okidaitōjima]] ({{Lang|ryu|ʔuciʔuhuʔagarijima}})
+
+===Natural parks===
+As of 31 March 2019, 36 percent of the total land area of the prefecture was designated as [[Prefectural Natural Park|Natural Parks]], namely the [[Iriomote-Ishigaki National Park|Iriomote-Ishigaki]], [[Kerama Shotō National Park|Kerama Shotō]], and [[Yanbaru National Park|Yanbaru]] National Parks; [[Okinawa Kaigan Quasi-National Park|Okinawa Kaigan]] and [[Okinawa Senseki Quasi-National Park|Okinawa Senseki]] Quasi-National Parks; and [[Irabu Prefectural Natural Park|Irabu]], [[Kumejima Prefectural Natural Park|Kumejima]], [[Tarama Prefectural Natural Park|Tarama]], and [[Tonaki Prefectural Natural Park|Tonaki]] Prefectural Natural Parks.<ref>{{cite web |url=https://www.env.go.jp/park/doc/data/natural/naturalpark_4.pdf |script-title=ja:自然公園都道府県別面積総括 |trans-title=General overview of area figures for Natural Parks by prefecture |language=ja |publisher=[[Ministry of the Environment (Japan)|Ministry of the Environment]] |access-date=13 June 2019 |archive-date=August 6, 2020 |archive-url=https://web.archive.org/web/20200806004612/https://www.env.go.jp/park/doc/data/natural/naturalpark_4.pdf |url-status=live }}</ref>
+
+===Fauna===
+The [[dugong]] is an endangered marine mammal related to the [[manatee]].<ref name="CBD">{{cite web|title=Lawsuit Seeks to Halt Construction of U.S. Military Airstrip in Japan That Would Destroy Habitat of Endangered Okinawa Dugongs|url=http://www.biologicaldiversity.org/news/press_releases/2014/okinawa-dugong-07-31-2014.html|publisher=Center for Biological Diversity|access-date=2 August 2014|date=31 July 2014|archive-date=August 3, 2014|archive-url=https://web.archive.org/web/20140803070141/http://www.biologicaldiversity.org/news/press_releases/2014/okinawa-dugong-07-31-2014.html|url-status=live}}</ref> [[Iriomote]] is home to one of the world's rarest and most endangered cat species, the [[Iriomote cat]]. The region is also home to at least one [[endemism|endemic]] [[pit viper]], ''[[Trimeresurus elegans]]''. [[Coral reef]]s found in this region of Japan provide an environment that is home to a rare blue coral among greater biodiversity.<ref>{{Cite book|last=VerfasserIn.|first=Claus, C. Anne|url=http://worldcat.org/oclc/1197574567|title=Drawing the sea near satoumi and coral reef conservation in Okinawa|isbn=978-1-5179-0662-7|oclc=1197574567}}</ref> The [[sea turtle]]s return yearly to the southern islands of Okinawa to lay their eggs. The summer months carry warnings to swimmers regarding venomous [[jellyfish]] and other dangerous sea creatures.
+
+===Flora===
+Okinawa is a major producer of [[sugar cane]], [[pineapple]], [[papaya]], and other tropical fruit, and the [[Southeast Botanical Gardens]] represent tropical plant species.
+
+[[File:GusukuArch.jpg|thumb|right|Arch at an Okinawan Castle ruin.]]
+[[File:Naha Shuri Castle50s3s4500.jpg|thumb|right|[[Shuri Castle]], Naha]]
+[[File:Ishigaki center city.jpg|thumb|Ishigaki]]
+[[File:Asahi-machi Naha Okinawa01s3s4410.jpg|thumb|Naha|center]]
+
+===Geology===
+The island is largely composed of [[coral]], and rainwater filtering through that coral has given the island many caves, which played an important role in the [[Battle of Okinawa]]. Gyokusendo<ref>{{cite web |url=http://www.japan-guide.com/e/e7106.html |title=Gyokusendo Cave |publisher=Japan-guide.com |date=2013-05-29 |access-date=2014-08-05 |archive-url=https://web.archive.org/web/20111001222651/http://www.japan-guide.com/e/e7106.html |archive-date=October 1, 2011 |url-status=dead }}</ref> is an extensive [[Limestone cave#Solutional cave|limestone cave]] in the southern part of Okinawa's main island.
+
+===Climate===
+The island experiences temperatures above {{convert|20|C}} for most of the year. The climate of the islands ranges from [[humid subtropical climate]] ([[Köppen climate classification]] ''Cfa'') in the north, such as [[Okinawa Island]], to [[tropical rainforest climate]] (Köppen climate classification ''Af'') in the south such as [[Iriomote Island]]. The islands of Okinawa are surrounded by some of the most abundant coral reefs found in the world.<ref>{{cite web |title=Establishing World-Class Coral Reef Ecosystem Monitoring in Okinawa |url=https://www.oist.jp/news-center/press-releases/establishing-world-class-coral-reef-ecosystem-monitoring-okinawa |publisher=Okinawa Institute of Science and Technology Graduate University |access-date=2016-02-20 |date=2013-09-05 |archive-url=https://web.archive.org/web/20160302155239/https://www.oist.jp/news-center/press-releases/establishing-world-class-coral-reef-ecosystem-monitoring-okinawa |archive-date=March 2, 2016 |url-status=dead }}</ref><ref>{{cite web |title=Coral Reefs |url=http://en.okinawastory.jp/learn/blue_ocean/coral/ |publisher=Okinawa Convention & Visitors Bureau |access-date=2016-02-20 |archive-url=https://web.archive.org/web/20160302135347/http://en.okinawastory.jp/learn/blue_ocean/coral/ |archive-date=March 2, 2016 |url-status=dead |df=mdy-all }}</ref> The world's largest colony of rare blue coral is found off of Ishigaki Island.<ref>{{cite iucn |author=Obura, D. |author2=Fenner, D. |author3=Hoeksema, B. |author4=Devantier, L. |author5=Sheppard, C. |date=2008 |title=''Heliopora coerulea'' |volume=2008 |page=e.T133193A3624060 |doi=10.2305/IUCN.UK.2008.RLTS.T133193A3624060.en |access-date=11 November 2021}}{{Dead link|date=August 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Snowfall is unheard of at sea level. However, on January 24, 2016, sleet was reported in [[Nago]] on Okinawa Island for the first time on record.<ref>{{cite news |date=2016-01-25 |title=沖縄本島で観測史上初のみぞれ 名護 |url=http://www.asahi.com/articles/ASJ1T0352J1SUEHF00F.html |newspaper=The Asahi Shimbun Company |access-date=2016-02-20 |archive-date=February 27, 2016 |archive-url=https://web.archive.org/web/20160227142117/http://www.asahi.com/articles/ASJ1T0352J1SUEHF00F.html |url-status=live }}</ref>
+
+==Municipalities==
+
+===Cities===
+{{See also|List of cities in Okinawa Prefecture by population}}
+
+[[File:Map of Okinawa Prefecture Ja.svg|thumb|300px|Map of Okinawa Prefecture<br />{{legend0|#EAB|City}} {{legend0|#ED9|Town}} {{Legend0|#BFE|Village}}|left]]
+
+Eleven cities are located within the Okinawa Prefecture:
+{| class="wikitable sortable"
+! colspan="5" |Name
+! rowspan="3" |Area (km<sup>2</sup>)
+! rowspan="3" |Population
+! rowspan="3" |Map
+|-
+! rowspan="2" |[[Romanization of Japanese|Rōmaji]]
+! rowspan="2" |[[Kanji]]
+! colspan="2" |Okinawan<ref name=":0" />
+! rowspan="2" |other languages [script]
+(name in brackets)
+|-
+!Kana
+!Rōmaji
+|-
+|[[File:Flag of Ginowan, Okinawa.svg|frameless|25x25px]] [[Ginowan, Okinawa|Ginowan]]
+|宜野湾市
+|じのーん
+|''Jinōn''
+|
+|19.51
+|94,405
+|[[File:Ginowan in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Ishigaki, Okinawa.svg|frameless|25x25px]] [[Ishigaki, Okinawa|Ishigaki]]
+|石垣市
+|いしがち
+|''ʔIshigaci''
+|Isïgaksï, Ishanagzï ([[Yaeyama language|Yaeyama]])
+|229
+|47,562
+|[[File:IshigakiCityMap.png|frameless|50x50px]]
+|-
+|[[File:Flag of Itoman Okinawa.JPG|frameless|25x25px]] [[Itoman, Okinawa|Itoman]]
+|糸満市
+|いちゅまん
+|''ʔIcuman''
+|
+|46.63
+|59,605
+|[[File:Itoman in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Miyakojima, Okinawa.svg|frameless|25x25px]] [[Miyakojima, Okinawa|Miyakojima]]
+|宮古島市
+|なーく、みゃーく
+|''Nāku, Myāku''
+|Myaaku ([[Miyakoan language|Miyakoan]])
+|204.54
+|54,908
+|[[File:Miyakojima in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Nago, Okinawa.svg|frameless|25x25px]] [[Nago]]
+|名護市
+|なぐ
+|''Nagu''
+|Naguu [ナグー] ([[Kunigami language|Kunigami]])
+|210.37
+|61,659
+|[[File:Nago in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Naha, Okinawa.svg|frameless|25x25px]] [[Naha]] (capital)
+|那覇市
+|な[[File:Okinawan_kana_hwa.png|17px]]
+|''Nafa''
+|
+|39.98
+|317,405
+|[[File:Naha in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Nanjo, Okinawa.svg|frameless|25x25px]] [[Nanjō]]
+|南城市
+|[[File:Okinawan_kana_hwe.png|17px]]ーぐ[[File:Okinawan_kana_si.png|17px]]く
+|''Fēgusiku''
+|
+|49.69
+|41,305
+|[[File:Nanjo in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Okinawa, Okinawa.svg|frameless|25x25px]] [[Okinawa (city)|Okinawa]]
+|沖縄市
+|うちなー
+|''ʔUcinā''
+|
+|49
+|138,431
+|[[File:Okinawa-shi in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Tomigusuku Okinawa.JPG|frameless|25x25px]] [[Tomigusuku, Okinawa|Tomigusuku]]
+|豊見城市
+|[[File:Okinawan_kana_ti.png|17px]]みぐ[[File:Okinawan_kana_si.png|17px]]く
+|''Timigusiku''
+|
+|19.6
+|61,613
+|[[File:Tomigusuku in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Urasoe, Okinawa.svg|frameless|25x25px]] [[Urasoe, Okinawa|Urasoe]]
+|浦添市
+|うら[[File:Okinawan_kana_si.png|17px]]ー
+|''ʔUrasī''
+|
+|19.09
+|113,992
+|[[File:Urasoe in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Uruma, Okinawa.svg|frameless|25x25px]] [[Uruma]]
+|うるま市
+|うるま
+|''ʔUruma''
+|
+|86
+|118,330
+|[[File:Uruma in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|}
+
+===Towns and villages===
+These are the towns and villages in each [[Districts of Japan|district]]:
+{| class="wikitable sortable"
+! colspan="5" |Name
+! rowspan="3" |Area (km<sup>2</sup>)
+! rowspan="3" |Population
+! rowspan="3" |District
+! rowspan="3" |Type
+! rowspan="3" |Map
+|-
+! rowspan="2" |[[Romanization of Japanese|Rōmaji]]
+! rowspan="2" |[[Kanji]]
+! colspan="2" |Okinawan<ref name=":0" />
+! rowspan="2" |other languages [script]
+
+(name in brackets)
+|-
+!Kana
+!Rōmaji
+|-
+|[[File:Flag of Aguni Okinawa.JPG|frameless|25x25px]] [[Aguni, Okinawa|Aguni]]
+|粟国村
+|あぐに
+|''ʔAguni''
+|
+|7.63
+|772
+|[[Shimajiri District, Okinawa|Shimajiri District]]
+|Village
+|[[File:Aguni in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Chatan Okinawa.JPG|frameless|25x25px]] [[Chatan, Okinawa|Chatan]]
+|北谷町
+|ちゃたん
+|''Catan''
+|
+|13.62
+|28,578
+|[[Nakagami District, Okinawa|Nakagami District]]
+|Town
+|[[File:Chatan in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Ginoza Okiwana.JPG|frameless|25x25px]] [[Ginoza, Okinawa|Ginoza]]
+|宜野座村
+|じぬざ
+|''Jinuza''
+|
+|31.28
+|5,544
+|[[Kunigami District, Okinawa|Kunigami District]]
+|Village
+|[[File:Ginoza in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Haebaru Okinawa.JPG|frameless|25x25px]] [[Haebaru, Okinawa|Haebaru]]
+|南風原町
+|[[File:Okinawan_kana_hwe.png|17px]]ーばる
+|''Fēbaru''
+|
+|10.72
+|37,874
+|[[Shimajiri District, Okinawa|Shimajiri District]]
+|Town
+|[[File:Haebaru in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Higashi Okinawa.JPG|frameless|25x25px]] [[Higashi, Okinawa|Higashi]]
+|東村
+|[[File:Okinawan_kana_hwi.png|17px]]がし
+|''Figashi''
+|Agaarijimaa [アガーリジマー] 
+([[Kunigami language|Kunigami]])
+|81.79
+|1,683
+|[[Kunigami District, Okinawa|Kunigami District]]
+|Village
+|[[File:Higashi in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Ie Okinawa.JPG|frameless|25x25px]] [[Ie, Okinawa|Ie]]
+|伊江村
+|いい
+|''ʔIi''
+|Ii [イー] ([[Kunigami language|Kunigami]])
+|22.75
+|4,192
+|[[Kunigami District, Okinawa|Kunigami District]]
+|Village
+|[[File:Ie Village in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Iheya Okinawa.JPG|frameless|25x25px]] [[Iheya, Okinawa|Iheya]]
+|伊平屋村
+|いひゃ、後地
+|''ʔIhya, Kushijī''
+|
+|21.72
+|1,214
+|[[Shimajiri District, Okinawa|Shimajiri District]]
+|Village
+|[[File:Iheya in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Izena Okinawa.JPG|frameless|25x25px]] [[Izena, Okinawa|Izena]]
+|伊是名村
+|いじな、前地
+|''ʔIjina, Mējī''
+|
+|15.42
+|1,518
+|[[Shimajiri District, Okinawa|Shimajiri District]]
+|Village
+|[[File:Izena in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Kadena Okinawa.JPG|frameless|25x25px]] [[Kadena, Okinawa|Kadena]]
+|嘉手納町
+|か[[File:Okinawan_kana_di.png|17px]]なー
+|''Kadinā''
+|
+|15.04
+|13,671
+|[[Nakagami District, Okinawa|Nakagami District]]
+|Town
+|[[File:Kadena in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Kin Okinawa.JPG|frameless|25x25px]] [[Kin, Okinawa|Kin]]
+|金武町
+|ちん
+|''Cin''
+|Chin [チン] ([[Kunigami language|Kunigami]])
+|37.57
+|11,259
+|[[Kunigami District, Okinawa|Kunigami District]]
+|Town
+|[[File:Kin in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Kitadaito, Okinawa.svg|frameless|25x25px]] [[Kitadaitō, Okinawa|Kitadaitō]]
+|北大東村
+|うふあがりじま
+|''{{Lang|ryu|ʔUhuʔagarijima}}''
+|
+|13.1
+|615
+|[[Shimajiri District, Okinawa|Shimajiri District]]
+|Village
+|[[File:Kitadaito in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Kitanakagusuku Okinawa.JPG|frameless|25x25px]] [[Kitanakagusuku, Okinawa|Kitanakagusuku]]
+|北中城村
+|にしなかーぐ[[File:Okinawan_kana_si.png|17px]]く
+|''Nishinakāgusiku''
+|
+|11.53
+|16,040
+|[[Nakagami District, Okinawa|Nakagami District]]
+|Village
+|[[File:Kitanakagusuku in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Kumejima flag.png|frameless|25x25px]] [[Kumejima, Okinawa|Kumejima]]
+|久米島町
+|くみじま
+|''Kumijima''
+|
+|63.5
+|7,647
+|[[Shimajiri District, Okinawa|Shimajiri District]]
+|Town
+|[[File:Kumejima in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Kunigami Okinawa.JPG|frameless|25x25px]] [[Kunigami, Okinawa|Kunigami]]
+|国頭村
+|くんじゃん
+|''Kunjan''
+|Kunzan ([[Kunigami language|Kunigami]])
+|194.8
+|4,908
+|[[Kunigami District, Okinawa|Kunigami District]]
+|Village
+|[[File:Kunigami in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Minamidaito, Okinawa.svg|frameless|25x25px]] [[Minamidaitō, Okinawa|Minamidaitō]]
+|南大東村
+|[[File:Okinawan_kana_hwe.png|17px]]ーうふあがりじま
+|''{{Lang|ryu|Hwēʔuhuʔagarijima}}''
+|
+|30.57
+|1,418
+|[[Shimajiri District, Okinawa|Shimajiri District]]
+|Village
+|[[File:Minamidaito in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Motobu Okinawa.JPG|frameless|25x25px]] [[Motobu, Okinawa|Motobu]]
+|本部町
+|む[[File:Okinawan_kana_tu.png|17px]]ぶ
+|''Mutubu''
+|Mutubu ([[Kunigami language|Kunigami]])
+|54.3
+|13,441
+|[[Kunigami District, Okinawa|Kunigami District]]
+|Town
+|[[File:Motobu in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Nakagusuku Okinawa.JPG|frameless|25x25px]] [[Nakagusuku, Okinawa|Nakagusuku]]
+|中城村
+|なかーぐ[[File:Okinawan_kana_si.png|17px]]く
+|''Nakāgusiku''
+|
+|15.46
+|20,030
+|[[Nakagami District, Okinawa|Nakagami District]]
+|Village
+|[[File:Nakagusuku in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Nakijin Okinawa.JPG|frameless|25x25px]] [[Nakijin, Okinawa|Nakijin]]
+|今帰仁村
+|なちじん
+|''Nacijin''
+|Nachizin ([[Kunigami language|Kunigami]])
+|39.87
+|9,529
+|[[Kunigami District, Okinawa|Kunigami District]]
+|Village
+|[[File:Nakijin in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Nishihara Okinawa.JPG|frameless|25x25px]] [[Nishihara, Okinawa|Nishihara]]
+|西原町
+|にしばる
+|''Nishibaru''
+|
+|15.84
+|34,463
+|[[Nakagami District, Okinawa|Nakagami District]]
+|Town
+|[[File:Nishihara in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Ogimi Okinawa.JPG|frameless|25x25px]] [[Ōgimi]]
+|大宜味村
+|[[File:Okinawan_kana_u.png|17px]]じみ
+|''’Ujimi''
+|Uujimii ([[Kunigami language|Kunigami]])
+|63.12
+|3,024
+|[[Kunigami District, Okinawa|Kunigami District]]
+|Village
+|[[File:Ogimi in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Onna Okinawa.JPG|frameless|25x25px]] [[Onna, Okinawa|Onna]]
+|恩納村
+|うんな
+|''ʔUnna''
+|Unna ([[Kunigami language|Kunigami]])
+|50.77
+|10,443
+|[[Kunigami District, Okinawa|Kunigami District]]
+|Village
+|[[File:Onna in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Tarama, Okinawa.png|frameless|25x25px]] [[Tarama, Okinawa|Tarama]]
+|多良間村
+|たらま
+|''Tarama''
+|Tarama ([[Miyakoan language|Miyakoan]])
+|21.91
+|1,194
+|[[Miyako District, Okinawa|Miyako District]]
+|Village
+|[[File:Tarama in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Taketomi, Okinawa.svg|frameless|25x25px]] [[Taketomi, Okinawa|Taketomi]]
+|竹富町
+|だき[[File:Okinawan_kana_du.png|17px]]ん
+|''Dakidun''
+|Teedun ([[Yaeyama language|Yaeyama]])
+|334.02
+|4,050
+|[[Yaeyama District, Okinawa|Yaeyama District]]
+|Town
+|[[File:Taketomi in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Tokashiki Okinawa.JPG|frameless|25x25px]] [[Tokashiki, Okinawa|Tokashiki]]
+|渡嘉敷村
+|[[File:Okinawan_kana_tu.png|17px]]かしち
+|''Tukashici''
+|
+|19.18
+|697
+|[[Shimajiri District, Okinawa|Shimajiri District]]
+|Village
+|[[File:Tokashiki in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Tonaki Okinawa.JPG|frameless|25x25px]] [[Tonaki, Okinawa|Tonaki]]
+|渡名喜村
+|[[File:Okinawan_kana_tu.png|17px]]なち
+|''Tunaci''
+|
+|3.74
+|406
+|[[Shimajiri District, Okinawa|Shimajiri District]]
+|Village
+|[[File:Tonaki in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Yaese Okinawa logo type version.JPG|frameless|25x25px]] [[Yaese, Okinawa|Yaese]]
+|八重瀬町
+|え゙ー[[File:Okinawan_kana_si.png|17px]]
+|''’Ēsi''
+|
+|26.9
+|29,488
+|[[Shimajiri District, Okinawa|Shimajiri District]]
+|Town
+|[[File:Yaese in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Yomitan Okinawa.JPG|frameless|25x25px]] [[Yomitan]]
+|読谷村
+|[[File:Okinawan_kana_'yu.png|17px]]んたん
+|''’Yuntan''
+|
+|35.17
+|40,517
+|[[Nakagami District, Okinawa|Nakagami District]]
+|Village
+|[[File:Yomitan in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Yonabaru Okinawa.JPG|frameless|25x25px]] [[Yonabaru, Okinawa|Yonabaru]]
+|与那原町
+|[[File:Okinawan_kana_'yu.png|17px]]なばる
+|''’Yunabaru''
+|
+|5.18
+|18,410
+|[[Shimajiri District, Okinawa|Shimajiri District]]
+|Town
+|[[File:Yonabaru in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Yonaguni, Okinawa.svg|frameless|25x25px]] [[Yonaguni, Okinawa|Yonaguni]]
+|与那国町
+|[[File:Okinawan_kana_'yu.png|17px]]なぐに
+|''’Yunaguni''
+|Dunan, Juni ([[Yonaguni language|Yonaguni]])
+Yunoon ([[Yaeyama language|Yaeyama]])
+|28.95
+|2,048
+|[[Yaeyama District, Okinawa|Yaeyama District]]
+|Town
+|[[File:Yonaguni in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|-
+|[[File:Flag of Zamami Okinawa.JPG|frameless|25x25px]] [[Zamami, Okinawa|Zamami]]
+|座間味村
+|ざまみ
+|''Zamami''
+|
+|16.74
+|924
+|[[Shimajiri District, Okinawa|Shimajiri District]]
+|Village
+|[[File:Zamami in Okinawa Prefecture Ja.svg|frameless|50x50px]]
+|}
+
+===Town mergers===
+{{main|List of mergers in Okinawa Prefecture}}
+
+==Demography==
+
+=== Ethnic groups ===
+The indigenous [[Ryukyuan people]] make up the majority of Okinawa Prefecture's population, and are also the main ethnic group of the [[Amami Islands]] to the north. Large Okinawan diaspora communities persist in places such as [[South America]]<ref>{{Cite web|last=Aug 2015|first=Mina Otsuka / 18|title=Immigration—Missing Link in Japanese History: Why Are There So Many Okinawan Immigrants? – Part 1|url=http://www.discovernikkei.org/en/journal/2015/8/18/okinawan-1/|access-date=2020-10-12|website=Discover Nikkei|language=en}}</ref> and [[Hawaii]].<ref>{{Cite web|title=Center for Okinawan Studies|url=https://manoa.hawaii.edu/okinawa/wordpress/?page_id=78|access-date=2020-10-12}}</ref> With the introduction of American military bases, there are an increasing number of half-[[Americans|American]] children in Okinawa, including prefecture governor [[Denny Tamaki]].<ref>{{Cite news|last=Rich|first=Motoko|date=2018-09-25|title=A Marine's Son Takes On U.S. Military Bases in Okinawa|language=en-US|work=The New York Times|url=https://www.nytimes.com/2018/09/25/world/asia/okinawa-governor-election.html|access-date=2020-09-28|issn=0362-4331|archive-date=December 7, 2019|archive-url=https://web.archive.org/web/20191207122625/https://www.nytimes.com/2018/09/25/world/asia/okinawa-governor-election.html|url-status=live}}</ref> The prefecture also has a sizable minority of [[Yamato people]] from mainland Japan; exact population numbers are difficult to establish, as the [[Japanese government]] does not officially recognise Ryukyuans as a distinct ethnic group from Yamatos.
+
+The overall ethnic identity of Okinawa residents is rather split. According to a telephone poll conducted by Lim John Chuan-tiong, an associate professor with the [[University of the Ryukyus]], 40.6% of respondents identified as “{{Nihongo2|沖縄人}} (Okinawan)”, 21.3% identified as “{{Nihongo2|日本人}} (Japanese)” and 36.5% identified as both.
+
+=== Population ===
+<div style="width:33%;float:left"><!-- 1pix=1,000x1.06 -->
+Okinawa prefecture [[age pyramid]] as of October 1, 2003<ref>{{citation | url = http://www.stat.go.jp/data/jinsui/2003np/ | place = Japan | publisher = Statistics Bureau (総務省 統計局) | year = 2003 | title = Jinsui | access-date = June 4, 2006 | archive-date = May 19, 2006 | archive-url = https://web.archive.org/web/20060519075755/http://www.stat.go.jp/data/jinsui/2003np/ | url-status = live }}</ref><br/>
+(per thousands of people)
+{|
+|-
+! Age
+! People
+|-
+|0–4
+|[[File:g50.png|link=]][[File:g30.png|link=]][[File:g05.png|link=]][[File:g03.png|link=]][[File:g01.png|link=]] 84
+|-
+|5–9
+|[[File:g50.png|link=]][[File:g30.png|link=]][[File:g10.png|link=]] 85
+|-
+|10–14
+|[[File:g50.png|link=]][[File:g30.png|link=]][[File:g10.png|link=]][[File:g01.png|link=]][[File:g01.png|link=]] 87
+|-
+|15–19
+|[[File:g50.png|link=]][[File:g30.png|link=]][[File:g10.png|link=]][[File:g05.png|link=]][[File:g03.png|link=]][[File:g01.png|link=]] 94
+|-
+|20–24
+|[[File:g50.png|link=]][[File:g30.png|link=]][[File:g10.png|link=]][[File:g05.png|link=]][[File:g01.png|link=]] 91
+|-
+|25–29
+|[[File:g100.png|link=]][[File:g01.png|link=]][[File:g01.png|link=]] 97
+|-
+|30–34
+|[[File:g100.png|link=]][[File:g03.png|link=]][[File:g01.png|link=]] 99
+|-
+|35–39
+|[[File:g50.png|link=]][[File:g30.png|link=]][[File:g10.png|link=]][[File:g01.png|link=]][[File:g01.png|link=]] 87
+|-
+|40–44
+|[[File:g50.png|link=]][[File:g30.png|link=]][[File:g10.png|link=]][[File:g05.png|link=]][[File:g01.png|link=]] 91
+|-
+|45–49
+|[[File:g100.png|link=]][[File:g01.png|link=]] 96
+|-
+|50–54
+|[[File:g100.png|link=]][[File:g05.png|link=]][[File:g01.png|link=]] 100
+|-
+|55–59
+|[[File:g50.png|link=]][[File:g10.png|link=]][[File:g05.png|link=]][[File:g01.png|link=]][[File:g01.png|link=]] 64
+|-
+|60–64
+|[[File:g50.png|link=]][[File:g10.png|link=]][[File:g05.png|link=]][[File:g03.png|link=]] 65
+|-
+|65–69
+|[[File:g50.png|link=]][[File:g10.png|link=]][[File:g05.png|link=]][[File:g03.png|link=]][[File:g01.png|link=]] 66
+|-
+|70–74
+|[[File:g50.png|link=]][[File:g05.png|link=]][[File:g01.png|link=]] 53
+|-
+|75–79
+|[[File:g30.png|link=]][[File:g05.png|link=]][[File:g03.png|link=]][[File:g01.png|link=]] 37
+|-
+|80 +
+|[[File:g50.png|link=]][[File:g05.png|link=]][[File:g03.png|link=]] 55
+|}
+</div>
+<div style="width:33%; float:left; padding-left: 25px;">
+Okinawa Prefecture age pyramid, divided by sex, as of October 1, 2003<br/>
+(per thousands of people)
+{|
+|-
+! align=right|Males
+! align=center|Age
+! Females
+|-
+| align=right|43 [[File:g30.png|link=]][[File:g10.png|link=]][[File:g05.png|link=]]
+| align=center|0–4
+|[[File:r30.png|link=]][[File:r10.png|link=]][[File:r03.png|link=]] 41
+|-
+| align=right|44 [[File:g30.png|link=]][[File:g10.png|link=]][[File:g05.png|link=]][[File:g01.png|link=]]
+| align=center|5–9
+|[[File:r30.png|link=]][[File:r10.png|link=]][[File:r03.png|link=]] 41
+|-
+| align=right|45 [[File:g30.png|link=]][[File:g10.png|link=]][[File:g05.png|link=]][[File:g01.png|link=]][[File:g01.png|link=]]
+| align=center|10–14
+|[[File:r30.png|link=]][[File:r10.png|link=]][[File:r03.png|link=]][[File:r01.png|link=]] 42
+|-
+| align=right|48 [[File:g50.png|link=]]
+| align=center|15–19
+|[[File:r30.png|link=]][[File:r10.png|link=]][[File:r05.png|link=]][[File:r03.png|link=]] 46
+|-
+| align=right|46 [[File:g30.png|link=]][[File:g10.png|link=]][[File:g05.png|link=]][[File:g03.png|link=]]
+| align=center|20–24
+|[[File:r30.png|link=]][[File:r10.png|link=]][[File:r05.png|link=]][[File:r01.png|link=]][[File:r01.png|link=]] 45
+|-
+| align=right|49 [[File:g50.png|link=]][[File:g01.png|link=]]
+| align=center|25–29
+|[[File:r50.png|link=]] 48
+|-
+| align=right|49 [[File:g50.png|link=]][[File:g01.png|link=]]
+| align=center|30–34
+|[[File:r50.png|link=]][[File:r03.png|link=]] 50
+|-
+| align=right|43 [[File:g30.png|link=]][[File:g10.png|link=]][[File:g05.png|link=]]
+| align=center|35–39
+|[[File:r30.png|link=]][[File:r10.png|link=]][[File:r05.png|link=]][[File:r01.png|link=]] 44
+|-
+| align=right|46 [[File:g30.png|link=]][[File:g10.png|link=]][[File:g05.png|link=]][[File:g03.png|link=]]
+| align=center|40–44
+|[[File:r30.png|link=]][[File:r10.png|link=]][[File:r05.png|link=]][[File:r01.png|link=]][[File:r01.png|link=]] 45
+|-
+| align=right|49 [[File:g50.png|link=]][[File:g01.png|link=]]
+| align=center|45–49
+|[[File:r30.png|link=]][[File:r10.png|link=]][[File:r05.png|link=]][[File:r03.png|link=]][[File:r01.png|link=]] 47
+|-
+| align=right|52 [[File:g50.png|link=]][[File:g05.png|link=]]
+| align=center|50–54
+|[[File:r50.png|link=]] 48
+|-
+| align=right|32 [[File:g30.png|link=]][[File:g03.png|link=]]
+| align=center|55–59
+|[[File:r30.png|link=]][[File:r03.png|link=]] 32
+|-
+| align=right|32 [[File:g30.png|link=]][[File:g03.png|link=]]
+| align=center|60–64
+|[[File:r30.png|link=]][[File:r03.png|link=]][[File:r01.png|link=]] 33
+|-
+| align=right|32 [[File:g30.png|link=]][[File:g03.png|link=]]
+| align=center|65–69
+|[[File:r30.png|link=]][[File:r05.png|link=]][[File:r01.png|link=]] 34
+|-
+| align=right|24 [[File:g10.png|link=]][[File:g10.png|link=]][[File:g05.png|link=]]
+| align=center|70–74
+|[[File:r30.png|link=]] 29
+|-
+| align=right|14 [[File:g10.png|link=]][[File:g03.png|link=]][[File:g01.png|link=]]
+| align=center|75–79
+|[[File:r10.png|link=]][[File:r10.png|link=]][[File:r03.png|link=]][[File:r01.png|link=]] 23
+|-
+| align=right|17 [[File:g10.png|link=]][[File:g05.png|link=]][[File:g03.png|link=]]
+| align=center|80 +
+|[[File:r30.png|link=]][[File:r10.png|link=]] 38
+|}
+</div>
+{{clear left}}
+
+Per Japanese census data,<ref>{{Cite web |url=http://www.citypopulation.de/Japan-Okinawa.html |title=Okinawa 1995-2020 population statistics |access-date=September 30, 2020 |archive-date=August 6, 2020 |archive-url=https://web.archive.org/web/20200806033605/http://www.citypopulation.de/Japan-Okinawa.html |url-status=live }}</ref><ref>{{Cite web |url=http://www.demographia.com/db-japanpref.htm |title=Okinawa 1920-2000 population statistics |access-date=September 30, 2020 |archive-date=April 29, 2017 |archive-url=https://web.archive.org/web/20170429232102/http://www.demographia.com/db-japanpref.htm |url-status=live }}</ref> Okinawa prefecture has had continuous positive population growth since 1960.
+
+{{Historical populations
+| 1873 |   166,789
+| 1920 |   572,000
+| 1930 |   578,000
+| 1940 |   575,000
+| 1950 |   915,000
+| 1960 |   883,000
+| 1970 |   945,000
+| 1980 | 1,107,000
+| 1990 | 1,222,000
+| 2000 | 1,318,220
+| 2010 | 1,392,818
+| 2020 | 1,457,162
+|align       = none
+| footnote = 
+}}
+
+==Language and culture==
+{{More citations needed section|date=November 2006}}
+
+{{See also|Okinawan cuisine}}
+
+[[File:Tomori stonelion1.jpg|thumb|right|[[Shisa]]]]
+[[File:OkinawaPottery.jpg|thumb|right|[[Awamori]] pots]]
+
+Having been a separate nation until 1879, Okinawan language and culture differ in many ways from those of mainland Japan.
+
+===Language===
+{{main|Ryukyuan languages}}
+
+There remain six [[Ryukyuan languages]] which, although related, are incomprehensible to speakers of [[Japanese language|Japanese]]. [[Amami Ōshima language|One of the Ryukyuan languages]] is spoken in [[Kagoshima Prefecture]], rather than in Okinawa Prefecture. These languages are in decline as the younger generation of Okinawans uses Standard Japanese. Mainland Japanese - and some Okinawans themselves - generally perceive the Ryukyuan languages as "dialects". Standard Japanese is almost always used in formal situations. In informal situations, ''de facto'' everyday language among Okinawans under age 60 is Okinawa-accented mainland Japanese ("[[Okinawan Japanese]]"), which is often mistaken by non-Okinawans as the Okinawan language proper. The actual traditional Okinawan language is still used in traditional cultural activities, such as [[Okinawan music|folk music]] and [[Kumi Odori|folk dance]]. There is a radio-news program in the language as well.<ref>
+[http://www.okinawabbtv.com/news/h_news.htm おきなわBBtv★沖縄の方言ニュース★沖縄の「今」を沖縄の「言葉」で！ラジオ沖縄で好評放送中の「方言ニュース」をブロードバンドでお届けします。] {{webarchive|url= https://web.archive.org/web/20140102192753/http://www.okinawabbtv.com/news/h_news.htm |date= January 2, 2014 }}. Okinawabbtv.com. Retrieved on 2013-08-16.
+</ref>
+
+===Religion===
+{{main|Ryukyuan religion}}
+Okinawans have traditionally followed Ryukyuan religious beliefs, generally characterized by [[ancestor worship]] and the respecting of relationships between the living, the dead, and the gods and spirits of the natural world.<ref>{{Cite web|url=http://sitereports.nabunken.go.jp/15945|title=陶磁器から古の神事（祭祀・儀式）を考える|last=Okinawa Prefectural reserve cultural assets center|date=2006|website=Comprehensive Database of Archaeological Site Reports in Japan|access-date=2016-09-02|archive-date=July 28, 2020|archive-url=https://web.archive.org/web/20200728031104/https://sitereports.nabunken.go.jp/en/15945|url-status=live}}</ref>
+
+===Cultural influences===
+Okinawan culture bears traces of its various trading partners. One can find [[Chinese Culture|Chinese]], [[Culture of Thailand|Thai]] and [[Austronesian peoples|Austronesian]] influences in the island's customs. Perhaps Okinawa's most famous cultural export is [[karate]], probably a product of the close ties with and influence of China on Okinawan culture. Karate is thought to be a synthesis of Chinese [[kung fu]] with traditional Okinawan martial arts.
+
+A traditional Okinawan product that owes its existence to Okinawa's trading history is [[awamori]]—an Okinawan distilled spirit made from ''indica'' rice imported from [[Thailand]].
+
+===Other cultural characteristics===
+<!-----no article on Kinjo, nn. no citations despite months of waiting--
+The people of Okinawa maintain a strong tradition of [[pottery]], textiles, and glass making. Potter [[Jiro Kinjo]] was designated a Living National Treasure for traditional Okinawan pottery in 1985,<ref>[http://www.e-yakimono.net/html/living-natl-treasures.htm]</ref> making him the first Okinawan person to receive this designation in Japan.{{Citation needed|date=September 2010}} He died in December 2004, aged 92 and his original works of pottery are prized by collectors.{{Citation needed|date=September 2010}}
+--->
+
+Other prominent examples of Okinawan culture include the [[sanshin]]—a three-stringed Okinawan instrument, closely related to the Chinese [[sanxian]], and ancestor of the Japanese [[shamisen]], somewhat similar to a [[banjo]]. Its body is often bound with snakeskin (from [[Pythonidae|pythons]], imported from elsewhere in Asia, rather than from Okinawa's venomous [[Trimeresurus flavoviridis]], which are too small for this purpose). Okinawan culture also features the [[Eisa (dance)|eisa dance]], a traditional drumming dance. A traditional craft, the fabric named [[bingata]], is made in workshops on the main island and elsewhere.<ref>{{Cite journal|last=Trimillos|first=Ricardo D.|date=2009|title=Review of Drumming Out a Message: Eisa and the Okinawan Diaspora|url=https://www.jstor.org/stable/25652439|journal=Asian Music|volume=40|issue=2|pages=161–165|doi=10.1353/amu.0.0035|jstor=25652439|s2cid=191601292|issn=0044-9202}}</ref>
+
+The [[Okinawa diet|Okinawan diet]] consists of low-fat, low-salt foods, such as whole fruits and vegetables, legumes, tofu, and seaweed. Okinawans are particularly well known for consuming purple potatoes, also known as Okinawan sweet potatoes.<ref>{{Cite web|url=https://www.downtoearth.org/health/nutrition/okinawan-sweet-potato-purple-powerhouse-nutrition|title=The Okinawan Sweet Potato: A Purple Powerhouse of Nutrition|last=Earth|first=Down to|date=2011-11-11|website=Down to Earth Organic and Natural|language=en|access-date=2019-10-07|archive-date=August 6, 2020|archive-url=https://web.archive.org/web/20200806033443/https://www.downtoearth.org/health/nutrition/okinawan-sweet-potato-purple-powerhouse-nutrition|url-status=live}}</ref> Okinawans are known for their [[longevity]]. This particular island is a so-called [[Blue Zone]], an area where the people live longer than most others elsewhere in the world. Five times as many Okinawans live to be 100 as in the rest of Japan, and Japanese are already the longest-lived ethnic group globally.<ref>''[[National Geographic (magazine)|National Geographic]]'' magazine, June 1993</ref> {{as of|2002}} there were 34.7 centenarians for every 100,000 inhabitants, which is the highest ratio worldwide.<ref name="Santrock">{{cite book|author=Santrock, John W. A|title= Topical Approach to Life-Span Development|url=https://archive.org/details/topicalapproacht00john_0|url-access=registration|edition=4|location=New York|publisher= McGraw-Hill|year= 2002}}</ref>{{rp|131–132}} Possible explanations are diet, low-stress lifestyle, caring community, activity, and spirituality of the inhabitants of the island.<ref name="Santrock"/>{{page needed|date=August 2014}}
+
+A cultural feature of the Okinawans is the forming of [[Moai (social support groups)|''moais'']]. A {{Nihongo3|||moai}} is a community social gathering and groups that come together to provide financial and emotional support through emotional bonding, advice giving, and social funding. This provides a sense of security for the community members and as mentioned in the Blue Zone studies, may be a contributing factor to the longevity of its people.<ref>{{cite web|title=Okinawa's Longevity Lessons|url=https://www.bluezones.com/2014/03/okinawas-longevity-lessons/|website=Blue Zones|publisher=Admin|access-date=29 September 2015|archive-url=https://web.archive.org/web/20151001104107/https://www.bluezones.com/2014/03/okinawas-longevity-lessons/|archive-date=October 1, 2015|url-status=dead}}</ref>
+
+In recent years,{{when|date=August 2014}} Okinawan literature has been appreciated outside of the Ryukyu [[archipelago]]. Two Okinawan writers have received the [[Akutagawa Prize]]: [[Matayoshi Eiki]] in 1995 for {{Nihongo|''The Pig's Retribution''|豚の報い|Buta no mukui}} and [[Medoruma Shun]] in 1997 for ''A Drop of Water'' (''Suiteki''). The prize was also won by Okinawans in 1967 by [[Tatsuhiro Oshiro]] for ''Cocktail Party'' ({{Nihongo3|||Kakuteru Pāti}}) and in 1971 by [[Mineo Higashi]] for ''Okinawan Boy'' ({{Nihongo3|||Okinawa no Shōnen}}).<ref name="O-times">{{cite news|url=http://www.okinawatimes.co.jp/summit/english/2000/20000721_6.html |title=Okinawa Writers Excel in Literature|date=July 21, 2000|work=The Okinawa Times|publisher=Okinawa Times|access-date=September 3, 2009 |archive-url = https://web.archive.org/web/20000823030320/http://www.okinawatimes.co.jp/summit/english/2000/20000721_6.html |archive-date = August 23, 2000}}</ref><ref>{{cite web|url=http://www.bunshun.co.jp/award/akutagawa/list1.htm|script-title=ja:芥川賞受賞者一覧|year=2009|publisher=Bungeishunju Ltd.|language=ja|access-date=September 3, 2009|title=Archived copy|archive-url=https://web.archive.org/web/20080213000347/http://www.bunshun.co.jp/award/akutagawa/list1.htm|archive-date=February 13, 2008|url-status=dead}}</ref>
+
+===Karate===
+{{main|Karate}}
+
+[[Karate]] originated in Okinawa. Over time, it developed into several styles and sub-styles. On Okinawa, the three main styles are considered to be [[Shōrin-ryū]], [[Gōjū-ryū]] and [[Uechi-ryū]]. Internationally, the various styles and sub-styles include [[Matsubayashi-ryū]], [[Wadō-ryū]], [[Isshin-ryū]], [[Shōrinkan]], [[Shotokan]], [[Shitō-ryū]], [[Shōrinjiryū Kenkōkan Karate|Shōrinjiryū Kenkōkan]], [[Shorinjiryu Koshinkai Karatedo|Shorinjiryu Koshinkai]], and [[Shōrinji-ryū]].
+
+===Architecture===
+[[File:Nakamura House Kitanakagusuku01n3104.jpg|thumb|right|Nakamura house]]
+[[File:Naha Shuri Castle20s5s3200.jpg|thumb|right|[[Shuri Castle]] in Naha]]
+
+Despite widespread destruction during World War II, there are many remains of a unique type of castle or fortress known as ''[[gusuku]]''; the most [[Values (heritage)|significant]] are now inscribed on the UNESCO World Heritage List ([[Gusuku Sites and Related Properties of the Kingdom of Ryukyu]]).<ref>{{cite web |url=https://whc.unesco.org/en/list/972/ |title=Gusuku Sites and Related Properties of the Kingdom of Ryukyu |publisher=[[UNESCO]] |access-date=May 29, 2012 |archive-date=May 13, 2012 |archive-url=https://web.archive.org/web/20120513102456/http://whc.unesco.org/en/list/972 |url-status=live }}</ref> In addition, [[List of Important Cultural Properties of Japan (Okinawa: structures)|twenty-three Ryukyuan architectural complexes]] and [[List of Historic Sites of Japan (Okinawa)|forty historic sites]] have been [[Cultural Properties of Japan|designated for protection]] by the national government.<ref>{{cite web |url=https://kunishitei.bunka.go.jp/bsys/index_pc.asp |title=Database of National Cultural Properties: 国宝・重要文化財 (建造物): 沖縄県 |language=ja |publisher=[[Agency for Cultural Affairs]] |access-date=13 June 2019 |archive-url=https://web.archive.org/web/20190722215103/https://kunishitei.bunka.go.jp/bsys/index_pc.asp |archive-date=July 22, 2019 |url-status=dead }}</ref> [[Shuri Castle]] in [[Naha]] is an [[UNESCO]] [[World Heritage Site]].
+
+Whereas most [[Housing in Japan|homes in Japan]] are made from wood and allow free-flow of air to combat humidity, typical modern homes in Okinawa are made from concrete with barred windows to protect from flying plant debris and to withstand regular [[typhoon]]s. Roofs are designed with strong winds in mind, in which each tile is cemented on and not merely layered as seen with many homes in Japan.{{citation needed|date=August 2014}} The Nakamura House ([[:ja:中村家住宅 (沖縄県)]]) is an original 18th century farmhouse in Kitanakagusuki.
+
+Many roofs also display a lion-dog statue, called a ''[[shisa]]'', which is said to protect the home from danger. Roofs are typically red in color and are inspired by Chinese design.<ref>{{Cite web|title=The Chinese and Japanese Influence In Ryukyuan Architecture - Okinawa Prefecture|url=https://artsandculture.google.com/exhibit/the-chinese-and-japanese-influence-in-ryukyuan-architecture/ZwLild7YMwcxIg|access-date=2021-07-21|website=Google Arts & Culture|language=en}}</ref>
+
+==Education==
+{{More citations needed|date=July 2021}}
+The [[Public school (government funded)|public schools]] in Okinawa are overseen by the [[Okinawa Prefectural Board of Education]]. The agency directly operates several public high schools<ref>{{cite web|url=http://www-edu.pref.okinawa.jp/somu/gakkoichiran/ko.html|title=沖縄県内の高等学校|publisher=Okinawa Prefectural Board Of Education|archive-url=https://web.archive.org/web/20130121141423/http://www-edu.pref.okinawa.jp/somu/gakkoichiran/ko.html|archive-date=January 21, 2013}}</ref> including [[Okinawa Shogaku High School]]. The U.S. [[Department of Defense Dependents Schools]] (DoDDS) operates 13 schools total in Okinawa. Seven of these schools are located on Kadena Air Base.
+
+Okinawa has many types of private schools. Some of them are [[cram school]]s, also known as [[juku]]. Others, such as [[Nova (eikaiwa)|Nova]], solely teach language. People also attend small [[language school]]s.<ref>{{Cite web|url=https://study.gaijinpot.com/school/iclc-japanese-language-institute/|title=ICLC Japanese Language Institute|website=GaijinPot Study|language=en|access-date=2019-02-01|archive-date=September 26, 2020|archive-url=https://web.archive.org/web/20200926052854/https://study.gaijinpot.com/school/iclc-japanese-language-institute/|url-status=live}}</ref> {{Citation needed|reason=There needs to be a source that talks about private schools in Okinawa specifically|date=July 2013}}
+
+There are 10 [[list of universities in Japan|colleges/universities in Okinawa]], including the [[University of the Ryukyus]], the only [[List of national universities in Japan|national university]] in the prefecture, and the [[Okinawa Institute of Science and Technology]], a new international research institute. Okinawa's American military bases also host the Asian Division of the [[University of Maryland University College]].
+
+==Sports==
+{{More citations needed|date=July 2021}}
+;Association football
+* [[FC Ryukyu]] ([[Naha, Okinawa|Naha]])
+;Basketball
+* [[Ryukyu Golden Kings]] ([[Naha, Okinawa|Naha]])
+;Handball
+* [[Ryukyu Corazon]]<ref>{{cite web |url=http://www.ryukyu-corazon.com/ |title=Ryukyu Corazon |publisher=Ryukyu Corazon |access-date=2014-08-05 |archive-url=https://web.archive.org/web/20101218130153/http://www.ryukyu-corazon.com/ |archive-date=December 18, 2010 |url-status=dead }}</ref> ([[Naha, Okinawa|Naha]])
+;Baseball
+
+Announced on July 18, 2019, BASE Okinawa Baseball Club will be forming the first-ever professional baseball team on Okinawa, the Ryukyu Blue Oceans. The team is expected to be fully organized by January 2020 and intends on joining the [[Nippon Professional Baseball]] league.<ref>{{Cite web|url=http://english.ryukyushimpo.jp/2019/07/24/30779/|title=Ryukyu Blue Oceans: Okinawa's first-ever pro baseball team|website=Ryukyu Shimpo - Okinawa, Japanese newspaper, local news|language=en-US|access-date=2019-07-25|archive-url=https://web.archive.org/web/20190725075655/http://english.ryukyushimpo.jp/2019/07/24/30779/|archive-date=July 25, 2019|url-status=dead}}</ref>
+
+In addition, various baseball teams from Japan hold training during the winter in Okinawa prefecture as it is the warmest prefecture of Japan with no snow and higher temperatures than other prefectures.
+
+* [[SoftBank Hawks]]
+* [[Yokohama BayStars]]
+* [[Chunichi Dragons]]
+* [[Yakult Swallows]]
+;Golf
+There are numerous golf courses in the prefecture, and there was formerly a professional tournament called the [[Okinawa Open]].
+
+==Transportation==
+{{More citations needed|date=July 2021}}
+
+===Air transportation===
+* [[Aguni Airport]]
+* [[Hateruma Airport]]
+* [[Iejima Airport]]
+* [[New Ishigaki Airport]]
+* [[Kerama Airport]]
+* [[Kitadaito Airport]]
+* [[Kumejima Airport]]
+* [[Minami-Daito Airport]]
+* [[Miyako Airport]]
+* [[Naha Airport]]
+* [[Shimojishima Airport]]
+* [[Tarama Airport]]
+* [[Yonaguni Airport]]
+
+===Highways===
+* {{jct|country=JPN|Exp|E58}}
+* {{jct|country=JPN|Exp|E58|dab1=Airport}}
+* {{jct|country=JPN|Route|58}}
+* {{jct|country=JPN|Route|329}}
+* {{jct|country=JPN|Route|330}}
+* {{jct|country=JPN|Route|331}}
+* {{jct|country=JPN|Route|332}}
+* {{jct|country=JPN|Route|390}}
+* {{jct|country=JPN|Route|449}}
+* {{jct|country=JPN|Route|505}}
+* {{jct|country=JPN|Route|507}}
+
+===Rail===
+{{See also|Rail transportation in Okinawa}}
+* [[Okinawa Urban Monorail]]
+
+===Ports===
+The major ports of Okinawa include:
+* [[Naha Port]]<ref>[http://www.nahaport.jp/pro_us/index.htm Naha port] {{Webarchive|url=https://web.archive.org/web/20060328025939/http://www.nahaport.jp/pro_us/index.htm |date=March 28, 2006 }}. Nahaport.jp. Retrieved on 2013-08-16.</ref>
+* Port of [[Unten]]<ref>{{in lang|ja}} [http://www.pref.okinawa.jp/kowan/unten.html 運天港] {{Webarchive|url=https://web.archive.org/web/20060719040004/http://www.pref.okinawa.jp/kowan/unten.html |date=July 19, 2006 }}. Pref.okinawa.jp. Retrieved on 2013-08-16.</ref>
+* Port of [[Kinwan]]<ref>{{in lang|ja}} [http://www.pref.okinawa.jp/kowan/kinwan.html 金武湾港] {{Webarchive|url=https://web.archive.org/web/20160304052641/http://www.pref.okinawa.jp/kowan/kinwan.html |date=March 4, 2016 }}. Pref.okinawa.jp. Retrieved on 2013-08-16.</ref>
+* [[Nakagusukuwan Port]]<ref>[http://www.dc.ogb.go.jp/nakagusukuwankou/ 沖縄総合事務局 那覇港湾・空港整備事務所 中城湾港出張所] {{Webarchive|url=https://web.archive.org/web/20060501210023/http://www.dc.ogb.go.jp/nakagusukuwankou/ |date=May 1, 2006 }}. Dc.ogb.go.jp. Retrieved on 2013-08-16.</ref>
+* [[Hirara Port]]<ref>[http://www.dc.ogb.go.jp/hirarakou/ 平良港湾事務所] {{Webarchive|url=https://web.archive.org/web/20060526002749/http://www.dc.ogb.go.jp/hirarakou/ |date=May 26, 2006 }}. Dc.ogb.go.jp. Retrieved on 2013-08-16.</ref>
+* Port of [[Ishigaki Island|Ishigaki]]<ref>{{cite web|url=http://www.city.ishigaki.okinawa.jp/140000/140400/index.htm|title=石垣市建設部港湾課|archive-url=https://web.archive.org/web/20130115170801/http://www.city.ishigaki.okinawa.jp/140000/140400/index.htm|archive-date=January 15, 2013}}</ref>
+
+==Economy==
+The 34 US military installations on Okinawa are financially supported by the U.S. and Japan.<ref name=huff/> The bases provide jobs for Okinawans, both directly and indirectly; In 2011, the U.S. military employed over 9,800 Japanese workers in Okinawa.<ref name="huff">{{cite web|first1=Stephen|last1=Nessen|title=Okinawa U.S. Marine Base Angers Residents And Governor|website=[[HuffPost]]|url=http://www.huffingtonpost.com/stephen-nessen/okinawa-us-marine-base-an_b_804460.html|access-date=19 August 2014|date=4 January 2011|archive-date=November 17, 2013|archive-url=https://web.archive.org/web/20131117095535/http://www.huffingtonpost.com/stephen-nessen/okinawa-us-marine-base-an_b_804460.html|url-status=live}}</ref>
+{{as of|2012}} the bases accounted for 4 or 5 percent of the economy.<ref>Hongo, Jun. (2012-05-16) [http://www.japantimes.co.jp/text/nn20120516f2.html Economic reliance on bases won't last, trends suggest] {{Webarchive|url=https://web.archive.org/web/20120530071820/http://www.japantimes.co.jp/text/nn20120516f2.html |date=May 30, 2012 }}. The Japan Times. Retrieved on 2013-08-16.</ref> However, Koji Taira argued in 1997 that because the U.S. bases occupy around 20 percent of Okinawa's land, they impose a [[deadweight loss]] of 15 percent on the Okinawan economy.<ref>Taira, Koji (1997). [http://www.jpri.org/publications/workingpapers/wp28.html#Taira 'The Okinawan Charade'] {{Webarchive|url=https://web.archive.org/web/20141010012128/http://www.jpri.org/publications/workingpapers/wp28.html#Taira |date=October 10, 2014 }} Japan Policy Research Institute, Working Paper No. 28</ref> The Tokyo government also pays the prefectural government around ¥10 billion per year<ref name=huff/> in compensation for the American presence, including, for instance, rent paid by the Japanese government to the Okinawans on whose land American bases are situated.<ref name="g2mil.com">[http://www.g2mil.com/okinawa-solution.htm The Okinawa Solution]. {{webarchive |url=https://web.archive.org/web/20120626020236/http://www.g2mil.com/okinawa-solution.htm |date=June 26, 2012 }}. G2mil.com. Retrieved on 2013-08-16.</ref><!---these figures are from a very pov anti-American source---> A 2005 report by the U.S. Forces Japan Okinawa Area Field Office estimated that in 2003 the combined U.S. and Japanese base-related spending contributed $1.9 billion to the local economy.<ref name="JapanTimes">{{cite news|first1=Eric|last1=Johnston|title=Okinawa base issue not cut and dried with locals|url=http://www.japantimes.co.jp/news/2006/03/28/national/okinawa-base-issue-not-cut-and-dried-with-locals/|access-date=21 November 2014|date=28 March 2006|newspaper=The Japan Times Online|archive-date=September 4, 2015|archive-url=https://web.archive.org/web/20150904010323/http://www.japantimes.co.jp/news/2006/03/28/national/okinawa-base-issue-not-cut-and-dried-with-locals/|url-status=live}}</ref> On January 13, 2015, In response to the citizens electing governor [[Takeshi Onaga]], the national government announced that Okinawa's funding will be cut, due to the governor's stance on removing the US military bases from Okinawa, which the national government does not want happening.<ref name="JapanTimes2">{{cite web|first1=Isabel|last1=Reynolds|first2=Maiko|last2=Takahashi|title=Japan cuts Okinawa budget after election of Anti-base governor|website=[[Bloomberg News]]|url=https://www.bloomberg.com/news/articles/2015-01-14/japan-cuts-okinawa-budget-after-election-of-anti-base-governor|access-date=21 November 2014|date=January 13, 2015|archive-date=April 27, 2016|archive-url=https://web.archive.org/web/20160427194715/http://www.bloomberg.com/news/articles/2015-01-14/japan-cuts-okinawa-budget-after-election-of-anti-base-governor|url-status=live}}</ref><ref name="JapanTimes3">{{cite web|title=Gov't cuts budget for Okinawa economic development|url=http://www.japantoday.com/category/politics/view/govt-cuts-budget-for-okinawan-economic-development|access-date=4 February 2015|date=January 15, 2015|archive-date=February 5, 2015|archive-url=https://web.archive.org/web/20150205035920/http://www.japantoday.com/category/politics/view/govt-cuts-budget-for-okinawan-economic-development|url-status=live}}</ref>
+
+The Okinawa Convention and Visitors Bureau is exploring the possibility of using facilities on the military bases for large-scale [[Meetings, incentives, conferencing, exhibitions]] events.<ref>{{cite news|title=Okinawa looks to offer more unique venues|url=http://www.ttgmice.com/article/okinawa-looks-to-offer-more-unique-venues/|access-date=15 November 2012|newspaper=TTGmice|date=September 6, 2012|archive-date=January 15, 2013|archive-url=https://web.archive.org/web/20130115170808/http://www.ttgmice.com/article/okinawa-looks-to-offer-more-unique-venues/|url-status=live}}</ref>
+
+==Military==
+{{Main|U.S.–Japan Status of Forces Agreement|United States Forces Japan}}
+{{More citations needed|date=July 2021}}
+
+===United States military installations===
+* [[United States Marine Corps]]
+** [[Marine Corps Base Camp Smedley D. Butler]]
+*** [[Camp Foster]]
+*** [[Marine Corps Air Station Futenma]]
+*** [[Camp Kinser]]
+*** [[Camp Courtney]]
+*** [[Camp McTureous]]
+*** [[Camp Hansen]]
+*** [[Camp Schwab]]
+*** [[Camp Gonsalves]] (Jungle Warfare Training Center)
+* [[United States Air Force]]
+**[[Kadena Air Base]]
+**[https://web.archive.org/web/20190321171347/https://kadenafss.com/okuma/ Okuma Beach Resort]
+* [[United States Navy]]
+** [[Camp Lester]] ([[Camp Kuwae]])<ref>[http://www.globalsecurity.org/military/facility/camp-kuwae.htm Camp Lester (Camp Kuwae)] {{Webarchive|url=https://web.archive.org/web/20090417125800/http://www.globalsecurity.org/military/facility/camp-kuwae.htm |date=April 17, 2009 }}. Globalsecurity.org (1996-12-02). Retrieved on 2013-08-16.</ref>
+** [[Camp Shields]]
+** [[Naval Facility White Beach]]
+* [[United States Army]]
+** [[Torii Station]]
+** [[Fort Buckner]]
+** [[Naha Military Port]]
+
+==Notable people==
+<!---below list needs to be integrated alphabetically.--->
+* [[Chōjun Miyagi]] founder of [[Gōjū-ryū]], "hard/soft" style of Okinawan Karate.
+* [[Uechi Kanbun]] was the founder of [[Uechi-ryū]], one of the primary karate styles of Okinawa.
+* [[Mitsuru Ushijima]] was the Japanese general at the Battle of Okinawa during the final stages of World War II.
+* [[Isamu Chō]] was an officer in the Imperial Japanese Army known for his support of ultranationalist politics and involvement in a number of attempted military and right-wing coup d'états in pre-World War II Japan.
+* [[Ōta Minoru]] was an admiral in the Imperial Japanese Navy during World War II, and the final commander of the Japanese naval forces defending the Oroku Peninsula during the Battle of Okinawa.
+* [[Sato Eisaku]] was a Japanese politician and the 61st, 62nd and 63rd Prime Minister of Japan. While he was premier in 1972, Okinawa was returned to Japan.
+* [[Yabu Kentsū]] was a prominent teacher of [[Shōrin-ryū]] karate in Okinawa from the 1910s until the 1930s, and was among the first people to demonstrate karate in Hawaii.
+* [[Takuji Iwasaki]] was a meteorologist, biologist, ethnologist historian.
+* [[Matayoshi Eiki]] Okinawan novel writer, winner of [[Akutagawa prize]]
+* [[Gackt]] Japanese pop rock singer-songwriter, actor, author
+* [[Namie Amuro]] Japanese R&B, hip hop and pop singer
+* [[Beni (singer)|Beni]] Japanese pop and R&B singer
+*[[Ben Shepherd]] Bassist of the band Soundgarden 
+*[[Noriyuki Sugasawa]] basketball player
+* [[Orange Range]] Japanese rock band
+* [[Stereopony]] Japanese all-female pop rock band
+* [[Tamlyn Tomita]] actress and singer
+* [[Rino Nakasone Razalan]] professional dancer and choreographer.
+* [[Yukie Nakama]] singer, musician and actress
+* [[Daichi Miura]] Japanese pop singer, dancer and choreographer.
+* [[Yui Aragaki]] actress, singer, and model
+* [[Hearts Grow]] Japanese band
+* [[Aisa Senda]], Japanese singer, actress and TV presenter in Taiwan
+* [[Robert Griffin III]], [[American football]] [[quarterback]], [[Heisman Trophy]] winner
+* [[Dave Roberts (outfielder)|Dave Roberts]], Major League Baseball player and manager
+*[[Rimi Natsukawa]] (夏川 りみ ''Natsukawa Rimi),'' [[:Category:Japanese women pop singers|Japanese women pop singers]]
+*[[Yuken Teruya]] interdisciplinary artist 
+*[[Chikako Yamashiro]] filmmaker and video artist 
+*[[Byron Fija]] Okinawan language practitioner and activist
+*[[Merle Dandridge]] Japanese American actress and singer
+*Sho Yonashiro, singer, member of [[JO1]], a former contestant on [[Produce 101 Japan]]
+*[[Tina Tamashiro]], Fashion Model and Actress
+*Jin Matsuda, singer, member of [[INI (Japanese boy group)]], a former contestant on [[Produce 101 Japan (season 2)]]
+
+==See also==
+* [[Okinawa Prefectural Assembly]]
+* [[:Category:American people of Okinawan descent|Okinawan Americans]]
+* [[:Category:People from Okinawa Prefecture|People from Okinawa Prefecture]]
+* [[Ryukyuan people]]
+
+== Notes ==
+{{NoteFoot}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+{{Commons|Okinawa Prefecture}}
+{{Wikivoyage|Okinawa}}
+{{NIE Poster|Okinawa}}
+*[http://dc-office.org/brochure/ Okinawa Prefectural Government Washington DC Office] 
+*[https://www.pref.okinawa.lg.jp/ Official Okinawa Prefecture website] {{in lang|ja}}
+*[https://www.pref.okinawa.lg.jp/site/chijiko/kohokoryu/foreign/english/index.html Official Okinawa Prefecture website] 
+*[http://rca.open.ed.jp/web_e/ Ryukyu Cultural Archives]
+*[http://www.peace-museum.okinawa.jp/english/ Okinawa Prefectural Peace Memorial Museum]
+*{{OSM relation|3795635}}
+
+{{Okinawa}}
+{{Regions and administrative divisions of Japan}}
+{{Authority control}}
+
+[[Category:Okinawa Prefecture| ]]
+[[Category:Blue Zones]]
+[[Category:Former regions and territories of the United States]]
+[[Category:Japan–United States relations]]
+[[Category:Kyushu region]]
+[[Category:Prefectures of Japan]]
+[[Category:Ryukyu Islands]]

@@ -1,0 +1,168 @@
+{{short description|Substance that causes death, injury or harm to organs}}
+{{other uses}}
+[[File:GHS-pictogram-skull.svg|thumb|The [[Globally Harmonized System of Classification and Labelling of Chemicals|international]] [[GHS hazard pictograms|pictogramme]] for poisonous substances. The [[Skull and crossbones (poison)|skull and crossbones]] has long been a standard symbol for poison.]]
+
+In [[biology]], '''poisons''' are [[Chemical substance|substances]] that can cause [[death]], injury or harm to [[organs]], [[Tissue (biology)|tissues]], [[Cell (biology)|cells]], and [[DNA]] usually by chemical reactions or other [[activity (chemistry)|activity]] on the [[molecular]] scales, when an organism is exposed to a sufficient quantity.<ref>{{DorlandsDict|six/000084583|poison}} {{dead link|date=December 2019}}</ref><ref>[http://www.merriam-webster.com/dictionary/poison "Poison"] at ''Merriam-Webster''. Retrieved December 26th, 2014.</ref>
+
+In a metaphorical broader use of term it may refer to any thing deemed harmful.
+
+The fields of [[medicine]] (particularly veterinary) and [[zoology]] often distinguish a poison from a [[toxin]], and from a [[venom]]. Toxins are poisons produced by organisms in nature, and venoms are toxins injected by a bite or sting. The difference between venom and other poisons is the delivery method.
+
+[[Industrial sector|Industry]], [[agriculture]], and other sectors employ poisonous substances for reasons other than their [[toxicity]]. Most poisonous industrial compounds have associated [[material safety data sheet]]s and are classed as [[hazardous substance]]s. Hazardous substances are subject to extensive regulation on production, procurement and use in overlapping domains of [[occupational safety and health]], [[public health]], [[drinking water quality standards]], [[air pollution]] and [[environmental protection]]. Due to the mechanics of [[molecular diffusion]], many poisonous compounds rapidly diffuse into biological tissues, air, water, or [[soil]] on a molecular scale. By the principle of [[entropy]], [[chemical hazard|chemical contamination]] is typically costly or infeasible to reverse, unless specific [[chelating]] agents or [[filtration|micro-filtration]] processes are available. Chelating agents are often broader in scope than the acute target, and therefore their ingestion necessitates careful medical or [[veterinarian]] supervision.
+
+[[Pesticide]]s are one group of substances whose toxicity to various insects and other animals deemed to be pests (e.g., [[rat]]s and [[cockroach]]es) is their prime purpose. Natural pesticides have been used for this purpose for thousands of years (e.g. concentrated [[table salt]] is toxic to many [[slug]]s). [[Bioaccumulation]] of chemically-prepared agricultural [[insecticide]]s is a matter of concern for the many species, especially [[bird]]s, which [[insectivore|consume insects]] as a primary food source. Selective toxicity, controlled application, and controlled [[biodegradation]] are major challenges in [[herbicide]] and pesticide development and in [[chemical engineering]] generally, as all lifeforms on earth share an underlying [[biochemistry]]; organisms exceptional in their environmental resilience are classified as [[extremophile]]s, these for the most part exhibiting radically different susceptibilities.
+
+A poison which enters the [[food chain]]—whether of industrial, agricultural, or [[plant defense against herbivory|natural]] origin—might not be immediately toxic to the first organism that [[foodborne illness|ingests]] the toxin, but can become further concentrated in [[predator]]y organisms further up the food chain, particularly [[carnivore]]s and [[omnivore]]s, especially concerning [[fat soluble]] poisons which tend to become stored in biological tissue rather than excreted in [[urine]] or other water-based [[excretion|effluents]].
+
+Apart from food, many poisons readily enter the body through the [[skin]] and [[lung]]s. [[Hydrofluoric acid]] is a notorious contact poison, in addition to its [[corrosion|corrosive]] damage. Naturally occurring [[sour gas]] is a notorious, fast-acting atmospheric poison (as released by [[volcanic]] activity or [[drilling rig]]s). Plant-based contact irritants, such as that possessed by [[poison ivy]] or [[poison oak]], are often classed as [[allergen]]s rather than poisons; the effect of an allergen being not a poison as such, but to turn the body's [[immune system|natural defenses]] against itself. Poison can also enter the body through faulty [[implant (medicine)|medical implants]], or by [[injection (medicine)|injection]] (which is the basis of [[lethal injection]] in the context of [[capital punishment]]).
+
+In 2013, 3.3 million cases of unintentional human poisonings occurred.<ref>{{cite journal|last1=Global Burden of Disease Study 2013|first1=Collaborator |title=Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013|journal=Lancet|date=22 August 2015|volume=386|issue=9995|pages=743–800|pmid=26063472|doi=10.1016/s0140-6736(15)60692-4|pmc=4561509}}</ref> This resulted in 98,000 deaths worldwide, down from 120,000 deaths in 1990.<ref name=GDB2013>{{cite journal|last1=GBD 2013 Mortality and Causes of Death|first1=Collaborators|title=Global, regional, and national age-sex specific all-cause and cause-specific mortality for 240 causes of death, 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013|journal=Lancet|date=17 December 2014|pmid=25530442|doi=10.1016/S0140-6736(14)61682-2|volume=385|issue=9963|pages=117–71|pmc=4340604}}</ref> In modern society, cases of [[suspicious death]] elicit the attention of the [[Coroner]]'s office and [[forensic science|forensic investigators]].
+
+Of increasing concern since the isolation of natural [[radium]] by [[Marie Curie|Marie]] and [[Pierre Curie]] in 1898—and the subsequent advent of [[nuclear physics]] and nuclear technologies—are [[radioactive contamination|radiological poisons]]. These are associated with [[ionizing radiation]], a mode of toxicity quite distinct from chemically active poisons. In [[mammal]]s, chemical poisons are often passed from mother to offspring through the [[placenta]] during gestation, or through [[breast milk]] during [[breastfeeding|nursing]]. In contrast, radiological damage can be passed from mother or father to offspring through genetic [[mutation]], which—if not fatal in [[gestation|miscarriage]] or [[list of genetic disorders|childhood]], or a direct cause of [[infertility]]—can then be passed along again to a subsequent generation. Atmospheric [[radon]] is a natural radiological poison of increasing impact since humans moved from [[hunter-gatherer]] lifestyles though [[cave dweller|cave dwelling]] to increasingly enclosed structures able to [[radium and radon in the environment|contain radon]] in dangerous concentrations. The 2006 [[poisoning of Alexander Litvinenko]] was a  novel use of radiological assassination, presumably meant to evade the normal investigation of chemical poisons.
+
+Poisons widely dispersed into the environment are known as [[pollution]]. These are often of [[human impact on the environment|human origin]], but pollution can also include unwanted biological processes such as toxic [[red tide]], or acute changes to the natural chemical environment attributed to [[invasive species]], which are toxic or detrimental to the prior ecology (especially if the prior ecology was associated with human economic value or an established industry such as [[shellfish]] harvesting).
+
+The scientific disciplines of [[ecology]] and [[environmental resource management]] study the environmental life cycle of toxic compounds and their complex, diffuse, and highly interrelated effects.
+
+==Etymology==
+The word "poison" was first used in 1200 to mean "a deadly potion or substance"; the English term comes from the "...Old French poison, puison (12c., Modern French poison) "a drink", especially a medical drink, later "a (magic) potion, poisonous drink" (14c.), from Latin potionem (nominative potio) "a drinking, a drink", also "poisonous drink" (Cicero), from potare "to drink".<ref name="etymonline.com">{{cite web|url=http://www.etymonline.com/index.php?allowed_in_frame=0&search=poison|title=poison - Search Online Etymology Dictionary|website=www.etymonline.com|access-date=3 November 2017}}</ref>
+The use of "poison" as an adjective ("poisonous") dates from the 1520s. Using the word "poison" with plant names dates from the 18th century. The term "[[poison ivy]]", for example, was first used in 1784 and the term "poison oak" was first used in 1743. The term "[[poison gas]]" was first used in 1915.<ref name="etymonline.com"/>
+
+==Terminology==
+The term "poison" is often used [[colloquial]]ly to describe any harmful substance—particularly [[corrosive]] substances, [[carcinogen]]s, [[mutagen]]s, [[teratogen]]s and harmful [[pollutant]]s, and to exaggerate the dangers of chemicals. [[Paracelsus]] (1493–1541), the father of [[toxicology]], once wrote: "Everything is poison, there is poison in everything. [[The dose makes the poison|Only the dose makes a thing not a poison]]"<ref>
+Latin: ''Dosis sola venenum facit.'' Paracelsus: ''Von der Besucht'', Dillingen, 1567
+</ref>
+(see [[median lethal dose]]). The term "poison" is also used in a figurative sense: "His brother's presence poisoned the atmosphere at the party". The law defines "poison" more strictly. Substances not legally required to carry the label "poison" can also cause a medical condition of poisoning.
+
+Some poisons are also toxins, which is any poison produced by animals, vegetables or bacteria, such as the [[bacteria]]l [[protein]]s that cause [[tetanus]] and [[botulism]]. A distinction between the two terms is not always observed, even among scientists. The derivative forms "toxic" and "poisonous" are synonymous. Animal poisons delivered [[subcutaneously]] (e.g., by [[sting (biology)|sting]] or [[bite]]) are also called ''venom''. In normal usage, a poisonous organism is one that is harmful to consume, but a venomous organism uses venom to kill its prey or defend itself while still alive. A single organism can be both poisonous and venomous, but that is rare.<ref>{{cite journal |vauthors=Hutchinson DA, Mori A, Savitzky AH, Burghardt GM, Wu X, Meinwald J, Schroeder FC |title=Dietary sequestration of defensive steroids in nuchal glands of the Asian snake Rhabdophis tigrinus |journal=Proceedings of the National Academy of Sciences of the United States of America |volume=104 |issue=7 |pages=2265–70 |year=2007 |pmid=17284596 |pmc=1892995 |doi=10.1073/pnas.0610785104 |bibcode=2007PNAS..104.2265H |doi-access=free }}</ref>
+
+All living things produce substances to protect them from getting eaten, so the term "poison" is usually only used for substances which are poisonous to humans, while substances that mainly are poisonous to a common pathogen to the organism and humans are considered [[antibiotic]]s. Bacteria are for example a common adversary for ''[[Penicillium chrysogenum]]'' mold and humans, and since the mold's poison only targets bacteria humans may use it for getting rid of bacteria in their bodies. Human [[antimicrobial peptide]]s which are toxic to viruses, fungi, bacteria and cancerous cells are considered a part of the immune system.<ref name="pmid15555874">{{cite journal|vauthors=Reddy KV, Yedery RD, Aranha C | title= Antimicrobial peptides: premises and promises| journal=International Journal of Antimicrobial Agents | year= 2004 | volume= 24 | issue= 6 | pages= 536–547 | pmid=15555874 | doi=10.1016/j.ijantimicag.2004.09.005}}</ref>
+
+In nuclear [[physics]], a poison is a substance that obstructs or inhibits a nuclear reaction. For an example, see [[nuclear poison]].
+
+[[Environmentally hazardous]] substances are not necessarily poisons, and vice versa. For example, food-industry wastewater—which may contain potato juice or milk—can be hazardous to the ecosystems of streams and rivers by consuming oxygen and causing [[eutrophication]], but is nonhazardous to humans and not classified as a poison.
+
+Biologically speaking, any substance, if given in large enough amounts, is poisonous and can cause death. For instance, several kilograms worth of water would constitute a lethal dose. Many substances used as medications—such as [[fentanyl]]—have an {{LD50}} only one order of magnitude greater than the [[Effective dose (pharmacology)|ED50]]. An alternative classification distinguishes between lethal substances that provide a therapeutic value and those that do not.
+
+==Poisoning==
+{{Main|Poisoning}}
+Poisoning can be either acute or chronic, and caused by a variety of natural or synthetic substances. Substances that destroy tissue but do not absorb, such as [[lye]], are classified as [[corrosive]]s rather than poisons.
+
+=== Acute ===
+Acute poisoning is exposure to a poison on one occasion or during a short period of time. Symptoms develop in close relation to the exposure. Absorption of a poison is necessary for systemic poisoning. Furthermore, many common household medications are not labeled with skull and crossbones, although they can cause severe illness or even death. Poisoning can be caused by excessive consumption of generally safe substances, as in the case of [[water intoxication]].
+
+Agents that act on the [[nervous system]] can paralyze in seconds or less, and include both biologically derived [[neurotoxin]]s and so-called [[nerve gas]]es, which may be synthesized for [[chemical warfare|warfare]] or industry.
+
+Inhaled or ingested [[cyanide]], used as a method of [[execution]] in [[gas chamber]]s, or as a [[suicide method]], almost instantly starves the body of energy by [[enzyme inhibitor|inhibiting]] the [[enzyme]]s in [[mitochondria]] that make [[Adenosine triphosphate|ATP]]. Intravenous injection of an unnaturally high concentration of [[potassium chloride]], such as in the execution of prisoners in parts of the United States, quickly stops the [[heart]] by eliminating the [[Membrane potential|cell potential]] necessary for [[muscle contraction]].
+
+Most biocides, including [[pesticide]]s, are created to act as acute poisons to target organisms, although acute or less observable chronic poisoning can also occur in non-target organisms ([[secondary poisoning]]), including the [[human]]s who apply the biocides and other [[beneficial organism]]s. For example, the herbicide [[2,4-D]] imitates the action of a plant hormone, which makes its lethal toxicity specific to plants. Indeed, 2,4-D is not a poison, but classified as "harmful" (EU).
+
+Many substances regarded as poisons are toxic only indirectly, by [[toxication]]. An example is "wood alcohol" or [[methanol]], which is not poisonous itself, but is chemically converted to toxic [[formaldehyde]] and [[formic acid]] in the [[liver]]. Many [[Medication|drug]] molecules are made toxic in the liver, and the genetic variability of certain liver [[enzyme]]s makes the toxicity of many compounds differ between individuals.
+
+Exposure to radioactive substances can produce [[radiation poisoning]], an unrelated phenomenon.
+
+Two common cases of acute natural poisoning are [[theobromine poisoning]] of [[dog]]s and [[cat]]s, and [[mushroom poisoning]] in humans. Dogs and cats are not natural herbivores, but a chemical defense developed by ''[[Theobroma cacao]]'' can be incidentally fatal nevertheless. Many omnivores, including humans, readily consume edible [[fungi]], and thus many fungi have evolved to become [[Amanita phalloides|decisively inedible]], in this case as a direct defense.
+
+=== Chronic ===
+Chronic poisoning is long-term repeated or continuous exposure to a poison where symptoms do not occur immediately or after each exposure. The person gradually becomes ill, or becomes ill after a long latent period. Chronic poisoning most commonly occurs following exposure to poisons that [[bioaccumulate]], or are [[biomagnification|biomagnified]], such as [[mercury (element)|mercury]], [[gadolinium]], and [[lead]].
+
+==Management==
+* Initial management for all poisonings includes ensuring adequate [[Cardiopulmonary resuscitation|cardiopulmonary function]] and providing treatment for any symptoms such as [[seizures]], [[shock (circulatory)|shock]], and [[pain]].
+* Injected poisons (e.g., from the sting of animals) can be treated by binding the affected body part with a [[pressure bandage]] and placing the affected body part in hot water (with a temperature of 50&nbsp;°C). The pressure bandage prevents the poison being pumped throughout the body, and the hot water breaks it down. This treatment, however, only works with poisons composed of protein-molecules.<ref>Complete diving manual by Jack Jackson</ref>
+* In the majority of poisonings the mainstay of management is providing supportive care for the patient, i.e., treating the symptoms rather than the poison.
+
+===Decontamination===
+* Treatment of a recently ingested poison may involve gastric decontamination to decrease absorption. Gastric decontamination can involve [[activated charcoal]], [[gastric lavage]], [[whole bowel irrigation]], or [[nasogastric aspiration]]. Routine use of emetics ([[syrup of Ipecac]]), [[cathartic]]s or laxatives are no longer recommended.
+** [[Activated charcoal]] is the treatment of choice to prevent poison absorption. It is usually administered when the patient is in the emergency room or by a trained emergency healthcare provider such as a Paramedic or EMT. However, charcoal is ineffective against [[metal]]s such as [[sodium]], [[potassium]], and [[lithium]], and [[alcohol]]s and [[glycol]]s; it is also not recommended for ingestion of corrosive chemicals such as [[acid]]s and [[alkali]]s.<ref>{{cite journal |vauthors=Chyka PA, Seger D, Krenzelok EP, Vale JA |title=Position paper: Single-dose activated charcoal |journal=Clin Toxicol |volume=43 |issue=2 |pages=61–87 |year=2005 |pmid=15822758|doi=10.1081/CLT-51867 }}</ref>
+** [[Cathartic]]s were postulated to decrease absorption by increasing the expulsion of the poison from the [[gastrointestinal tract]]. There are two types of cathartics used in poisoned patients; saline cathartics ([[sodium sulfate]], [[magnesium citrate]], [[magnesium sulfate]]) and saccharide cathartics ([[sorbitol]]). They do not appear to improve patient outcome and are no longer recommended.<ref name="jtoxclintox2004-cathartics">{{cite journal | title=Position paper: cathartics | journal=J Toxicol Clin Toxicol | year=2004 | pages=243–253 | volume=42 | issue=3 | pmid=15362590 | doi=10.1081/CLT-120039801 | author=Toxicology, American Academy of Clinical| s2cid=46629852 }}</ref>
+** [[Emesis]] (i.e. induced by [[ipecac]]) is no longer recommended in poisoning situations, because vomiting is ineffective at removing poisons.<ref name="jtoxclintox2004-emesis">{{cite journal | title=Position paper: Ipecac syrup | journal=J Toxicol Clin Toxicol | year=2004 | pages=133–143 | volume=42 | issue=2 | pmid=15214617 | doi=10.1081/CLT-120037421 | vauthors=((American Academy of Clinical Toxicology; European Association of Poisons Centres Clinical Toxicologists))}}</ref>
+** [[Gastric lavage]], commonly known as a stomach pump, is the insertion of a tube into the stomach, followed by administration of water or saline down the tube. The liquid is then removed along with the contents of the stomach. Lavage has been used for many years as a common treatment for poisoned patients. However, a recent review of the procedure in poisonings suggests no benefit.<ref name="pmid15641639">{{cite journal | vauthors = Vale JA, Kulig K | title = Position paper: gastric lavage | journal = J Toxicol Clin Toxicol | volume = 42 | issue = 7 | pages = 933–43 | date = 2004 | pmid = 15641639 | doi = 10.1081/clt-200045006 | s2cid=29957973}}</ref> It is still sometimes used if it can be performed within 1 hour of ingestion and the exposure is potentially life-threatening.
+** [[Nasogastric aspiration]] involves the placement of a tube via the nose down into the stomach, the stomach contents are then removed by suction. This procedure is mainly used for liquid ingestions where activated charcoal is ineffective, e.g. [[ethylene glycol poisoning]].
+** [[Whole bowel irrigation]] cleanses the bowel. This is achieved by giving the patient large amounts of a [[polyethylene glycol]] solution. The osmotically balanced polyethylene glycol solution is not absorbed into the body, having the effect of flushing out the entire [[gastrointestinal tract]]. Its major uses are to treat ingestion of sustained release drugs, toxins not absorbed by activated charcoal (e.g., [[lithium]], [[iron]]), and for removal of ingested drug packets ([[body packing]]/smuggling).<ref name="jtoxclintox2004-wbi">{{cite journal | title=Position paper: whole bowel irrigation | journal=J Toxicol Clin Toxicol | year=2004 | pages=843–854 | volume=42 | issue=6 | pmid=15533024 | doi=10.1081/CLT-200035932| s2cid=800595 }}</ref>
+
+===Enhanced excretion===
+* In some situations elimination of the poison can be enhanced using [[Forced diuresis|diuresis]], [[hemodialysis]], [[hemoperfusion]], [[hyperbaric medicine]], [[peritoneal dialysis]], [[exchange transfusion]] or [[chelation]]. However, this may actually worsen the poisoning in some cases, so it should always be verified based on what substances are involved.
+
+==Epidemiology==
+[[File:Poisonings world map-Deaths per million persons-WHO2012.svg|thumb|upright=1.3|Deaths from poisonings per million persons in 2012 {{refbegin|3}}{{legend|#ffff20|0-2}}{{legend|#ffe820|3-5}}{{legend|#ffd820|6-7}}{{legend|#ffc020|8-10}}{{legend|#ffa020|11-12}}{{legend|#ff9a20|13-19}}{{legend|#f08015|20-27}}{{legend|#e06815|28-41}}{{legend|#d85010|42-55}}{{legend|#d02010|56-336}}{{refend}}]]
+[[Image:Poisonings world map - DALY - WHO2004.svg|thumb|upright=1.3|[[Disability-adjusted life year]] for poisonings per 100,000&nbsp;inhabitants in 2004.<ref>{{cite web |url=https://www.who.int/healthinfo/global_burden_disease/estimates_country/en/index.html |title=WHO Disease and injury country estimates |year=2004 |website=World Health Organization |access-date=Nov 11, 2009}}</ref>{{refbegin|2}}
+{{legend|#b3b3b3|no data}}
+{{legend|#ffff65|<10}}
+{{legend|#fff200|10–90}}
+{{legend|#ffdc00|90–170}}
+{{legend|#ffc600|170–250}}
+{{legend|#ffb000|250–330}}
+{{legend|#ff9a00|330–410}}
+{{legend|#ff8400|410–490}}
+{{legend|#ff6e00|490–570}}
+{{legend|#ff5800|570–650}}
+{{legend|#ff4200|650–700}}
+{{legend|#ff2c00|700–880}}
+{{legend|#cb0000|>880}}
+{{refend}}]]
+
+In 2010, poisoning resulted in about 180,000 deaths down from 200,000 in 1990.<ref name=Loz2012>{{cite journal|last=Lozano|first=R|title=Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010|journal=Lancet|date=Dec 15, 2012|volume=380|issue=9859|pages=2095–128|pmid=23245604|doi=10.1016/S0140-6736(12)61728-0|hdl=10536/DRO/DU:30050819|s2cid=1541253|url=https://zenodo.org/record/2557786|hdl-access=free}}</ref> There were approximately 727,500 emergency department visits in the United States involving poisonings—3.3% of all injury-related encounters.<ref>Villaveces A, Mutter R, Owens PL, Barrett ML. ''Causes of Injuries Treated in the Emergency Department, 2010.'' HCUP Statistical Brief #156. Agency for Healthcare Research and Quality. May 2013.[http://hcup-us.ahrq.gov/reports/statbriefs/sb156.jsp] {{Webarchive|url=https://web.archive.org/web/20170120235127/https://www.hcup-us.ahrq.gov/reports/statbriefs/sb156.jsp |date=2017-01-20 }}</ref>
+
+== Applications ==
+Poisonous compounds may be useful either for their toxicity, or, more often, because of another chemical property, such as specific chemical reactivity. Poisons are widely used in industry and agriculture, as chemical reagents, solvents or complexing reagents, e.g. [[carbon monoxide]], [[methanol]] and [[sodium cyanide]], respectively. They are less common in household use, with occasional exceptions such as [[ammonia]] and [[methanol]]. For instance, [[phosgene]] is a highly reactive [[nucleophile]] acceptor, which makes it an excellent reagent for polymerizing [[diol]]s and [[diamine]]s to produce [[polycarbonate]] and [[polyurethane]] plastics. For this use, millions of tons are produced annually. However, the same reactivity makes it also highly reactive towards proteins in human tissue and thus highly toxic. In fact, phosgene has been used as a [[chemical weapon]]. It can be contrasted with [[sulfur mustard|mustard gas]], which has only been produced for chemical weapons uses, as it has no particular industrial use.
+
+Biocides need not be poisonous to humans, because they can target metabolic pathways absent in humans, leaving only incidental toxicity. For instance, the herbicide [[2,4-dichlorophenoxyacetic acid]] is a mimic of a plant growth hormone, which causes uncontrollable growth leading to the death of the plant. Humans and animals, lacking this hormone and its receptor, are unaffected by this, and need to ingest relatively large doses before any toxicity appears. Human toxicity is, however, hard to avoid with pesticides targeting mammals, such as [[rodenticide]]s.
+
+The risk from toxicity is also distinct from toxicity itself. For instance, the preservative [[thiomersal]] used in vaccines is toxic, but the quantity administered in a single shot is negligible.
+
+==History==
+{{Main Article|History of poison}}
+[[Image:Jan Matejko-Poisoning of Queen Bona.jpg|thumb|"Poisoning of Queen [[Bona Sforza|Bona]]" by [[Jan Matejko]].]]
+
+Throughout human history, intentional application of poison has been used as a method of [[murder]], [[pest-control]], [[suicide]], and [[execution]].<ref>[[Kautilya]] suggests employing means such as seduction, secret use of weapons, poison etc. S.D. Chamola, ''Kautilya Arthshastra and the Science of Management: Relevance for the Contemporary Society'', p. 40. {{ISBN|81-7871-126-5}}.</ref><ref>Kautilya urged detailed precautions against assassination—tasters for food, elaborate ways to detect poison. {{cite journal | doi = 10.1163/156851602760586671 | volume=3 | title=Moderate Machiavelli? Contrasting ''The Prince'' with the ''Arthashastra'' of Kautilya | year=2002 | journal=Critical Horizons: A Journal of Philosophy | pages=253–276 | author=Boesche Roger| issue=2 | s2cid=153703219 }}.</ref> As a method of execution, poison has been ingested, as the ancient Athenians did (see [[Socrates]]), inhaled, as with [[carbon monoxide]] or [[hydrogen cyanide]] (see [[gas chamber]]), or injected (see [[lethal injection]]). Poison's lethal effect can be combined with its allegedly [[magic (paranormal)|magical]] powers; an example is the [[China|Chinese]] [[gu (poison)|''gu'' poison]]. Poison was also employed in [[gunpowder warfare]]. For example, the 14th-century Chinese text of the ''[[Huolongjing]]'' written by [[Jiao Yu]] outlined the use of a poisonous gunpowder mixture to fill [[cast iron]] [[grenade]] bombs.<ref name="needham volume 5 part 7 180">Needham, Joseph (1986). ''Science and Civilization in China: Volume 5, Part 7''. Taipei: Caves Books, Ltd. Page 180.</ref>
+
+While [[arsenic poisoning|arsenic]] is a naturally occurring environmental poison, its artificial concentrate was once nicknamed [[slayer rule|inheritance powder]].<ref>{{cite web|url=https://prezi.com/3fp7yroxhyek/arsenic-the-inheritance-powder/|title=Arsenic The "Inheritance Powder."|last1=Yap|first1=Amber|date=14 November 2013|website=prezi.com|publisher=[[Prezi]]|access-date=19 March 2018}}</ref> In [[Middle Ages|Medieval]] Europe, it was common for [[monarch]]s to employ personal [[food taster]]s to thwart royal [[assassination]], in the dawning age of the [[Apothecary]].
+
+==Figurative use==
+The term '''poison''' is also used in a figurative sense. The slang sense of alcoholic drink is first attested 1805, American English. (e.g., a bartender might ask a customer "what's your poison?") <ref name="etymonline.com"/>
+Figurative use of the term dates from the late 15th century.<ref name="etymonline.com1">{{cite web|url=http://www.etymonline.com/index.php|title=Online Etymology Dictionary|website=www.etymonline.com|access-date=3 November 2017|archive-date=5 December 2015|archive-url=https://web.archive.org/web/20151205085150/http://www.etymonline.com/index.php|url-status=dead}}</ref> Figuratively referring to persons as poison dates from 1910.<ref name="etymonline.com1"/> The figurative term poison-pen letter became well known in ...1913 by a notorious criminal case in Pennsylvania, U.S.; the phrase dates to 1898.
+
+==See also==
+
+{{div col|colwidth=27em}}
+* [[Agency for Toxic Substances and Disease Registry]] (ATSDR)
+* [[Antidote]]
+* [[Biosecurity]]
+* [[Contaminated haemophilia blood products]]
+* [[Food taster]]
+* [[List of extremely hazardous substances]]
+* [[List of poisonings]]
+* [[List of poisonous plants]]
+* [[List of types of poison]]
+* [[Mr. Yuk]]
+* [[Poison ring]]
+* [[Saxitoxin]]
+* [[Toxics use reduction]]
+* [[Toxic waste]]
+
+{{div col end}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{wikiquote}}
+{{commons category|Poisons}}
+* [http://www.atsdr.cdc.gov/ Agency for Toxic Substances and Disease Registry]
+* [http://www.aapcc.org/ American Association of Poison Control Centers]
+* [http://www.acmt.net American College of Medical Toxicology]
+* [http://curriculum.toxicology.wikispaces.net/entire+curriculum/ Clinical Toxicology Teaching Wiki] {{Webarchive|url=https://web.archive.org/web/20090422091707/http://curriculum.toxicology.wikispaces.net/entire+curriculum |date=2009-04-22 }}
+* [https://www.who.int/ipcs/poisons/centre/directory/en/ Find Your Local Poison Control Centre Here (Worldwide)]
+* [http://www.poisons.co.nz/ Poison Prevention and Education Website]
+* [http://injuries.cochrane.org/ Cochrane Injuries Group], Systematic reviews on the prevention, treatment and rehabilitation of traumatic injury (including poisoning)
+* [http://science.nationalgeographic.com/science/health-and-human-body/human-body/poison-toxic-tales/ Pick Your Poison—12 Toxic Tales] by Cathy Newman
+
+{{Poisoning and toxicity}}
+{{Toxicology}}
+
+{{Authority control}}
+
+[[Category:Poisons| ]]
+[[Category:Execution methods]]
+[[Category:Execution equipment]]
+[[Category:Suicide methods]]

@@ -1,0 +1,110 @@
+{{Use dmy dates|date=October 2013}}
+{{Refimprove|date=August 2009}}
+{{Infobox musical artist
+|name              = Kaliber 44
+|image             = Kaliber44Londyn.jpg
+|caption           = Polish music group "Kaliber 44" in London
+|background        = group_or_band
+|alias             = K44
+|origin            = [[Katowice]], Poland
+|genre             = [[Hip hop music|Hip hop]], [[horrorcore]], [[psychedelic hip hop]]
+|years_active      = 1994–2003, 2013–
+|label             = [[S.P. Records]]
+|associated_acts   = [[Paktofonika]]
+|current_members   = [[Abradab]], [[Joka (rapper)|Joka]]
+|past_members    = [[Magik (rapper)|Magik]], [[DJ Feel-X]]
+}}
+
+'''Kaliber 44''' is a [[hip hop music|hip hop]] band formed at the end of 1994 in [[Katowice]], Poland. The group is dubbed the most influential Polish hip hop band, while their so-called ''hardcore psycho rap'' style is the most prominent. As revealed by Abradab in an interview aired on TVP, "the name comes from the time we weren't completely sane and played gangsta". Later on members provided a revised interpretation: first part of the name indicates the [[wikt:calibre|calibre]] of problems the group sings about. The number ''44'' is a reference to a prophetic poem [[Dziady (poem)|Dziady]] written by Polish poet [[Adam Mickiewicz]].
+
+:Nad ludy i nad króle podniesiony;
+:Na trzech stoi koronach, a sam bez korony;
+:A życie jego – trud trudów,
+:A tytuł jego – lud ludów;
+:Z matki obcej, krew jego dawne bohatery,
+:A imię jego '''czterdzieści i cztery'''.
+
+:Elevated above peoples and kings;
+:He stands on three crowns, but himself is without a crown;
+:And his life – the hardest of hardships,
+:And his title – the people above other peoples;
+:From a foreign mother, his blood is of ancient heroes;
+:And his name '''forty and four'''.
+
+"[[Księga Tajemnicza. Prolog]]", released in 1996 was the first Polish hardcore psychorap album and the second one where live-scratching technique was used. Their two other albums – "[[W 63 minuty dookoła świata]]" (released in 1998) and "3:44" (released in 2000) were completely devoid of psychorap style.{{fact|date=December 2019}}
+
+== Piotr Łuszcz ==
+Soon after release of the second album "W 63 minuty dookoła świata" Magik retired from Kaliber 44, and formed new band called "[[Paktofonika]]" together with Sebastian "Rahim" Salbert and Wojciech "Fokus" Alszer.{{fact|date=December 2019}}
+
+On 26 December 2000, at around 6:15, "Magik" committed suicide by jumping out of the window of his apartment situated on the ninth floor of the building, in Katowice. At around 6:45, he was pronounced dead in a local hospital, leaving his wife Justyna, and a 3-year-old son, Filip.{{fact|date=December 2019}}
+
+== Discography ==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2" style="width:16em;"| Album details
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2" style="width:9em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:3.5em;font-size:90%;"| [[OLiS|POL]]<br /><ref name="POL">Peak chart positions in Poland:
+*''[[W 63 minuty dookoła świata]]'': {{cite web|url=http://olis.onyx.pl/listy/index.asp?idlisty=820&lang=en |title=OLiS - Official Retail Sales Chart |publisher=[[OLiS]] |accessdate=5 November 2013}}
+*''3:44'': {{cite web|url=http://olis.onyx.pl/listy/index.asp?idlisty=3&lang=en |title=OLiS - Official Retail Sales Chart |publisher=[[OLiS]] |accessdate=5 November 2013}}</ref>
+|-
+! scope="row"|''[[Księga Tajemnicza. Prolog]]''
+|
+* Released: 10 November 1996
+* Label: S.P. Records
+| —
+|
+|-
+! scope="row"|''[[W 63 minuty dookoła świata]]''
+|
+* Released: 2 March 1998
+* Label: S.P. Records
+| 50
+|
+*ZPAV: Gold<ref name="Gold">{{cite web|url=http://www.zpav.pl/rankingi/wyroznienia/zlote/index.php |title=Bestseller charts and awards :: Gold certification awards |publisher=[[Polish Society of the Phonographic Industry]] |accessdate=5 November 2013 |url-status=dead |archiveurl=https://web.archive.org/web/20110721133154/http://www.zpav.pl/rankingi/wyroznienia/zlote/index.php |archivedate=21 July 2011 }}</ref>
+|-
+! scope="row"|''[[3:44]]''
+|
+* Released: 2 September 2000 
+* Label: S.P. Records
+| 49
+|
+|-
+! scope="row"|''[[Ułamek tarcia]]''
+|
+* Released: 13 February 2016 
+* Label: [[Mystic Production]]
+|1
+|
+* ZPAV: Gold<ref>{{cite web|title=ZPAV :: Bestsellery i wyróżnienia - Wyróżnienia - Złote płyty CD|url=http://bestsellery.zpav.pl/wyroznienia/zloteplyty/cd.php|publisher=[[ZPAV]]|accessdate=23 March 2016}}</ref>
+|-
+|}
+
+===Demo albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+! scope="col" style="width:12em;"| Title
+! scope="col" style="width:16em;"| Album details
+|-
+! scope="row"| ''Usłysz nasze demo''
+|
+* Released: 1994
+* Label: Self-released
+|}
+
+=== Singles ===
+
+*"Magia i miecz" (The Magic and the Sword) (1996)
+*"Film" (The Trip) (1998)
+*"Konfrontacje" (Confrontations) (2000)
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.culture.pl/web/english/resources-music-full-page/-/eo_event_asset_publisher/eAN5/content/kaliber-44 Kaliber 44] at Culture.pl
+{{Kaliber 44}}
+{{Authority control}}
+[[Category:Polish hip hop groups]]

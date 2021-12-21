@@ -1,0 +1,300 @@
+{{Infobox musical artist
+| name            = 666
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Germany]]
+| genre           = [[Electronica]]
+| years_active    = 1997-2005
+| label           =
+| associated_acts =
+| website         =
+| current_members =
+| past_members    = Thomas Detert<br/>Mike Griesheimer
+}}'''666''' was a [[Germany|German]] [[Disc jockey|DJ]] act, formed by Thomas Detert and Mike Griesheimer in 1997. They produced a mix of [[electronic music]] and often included [[lyrics]] in [[Spanish language|Spanish]] and [[English language|English]]. The act disbanded in 2005.
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of albums, with selected chart positions, sales figures and certifications
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2" style="width:17em;"| Album details
+! scope="col" colspan="5"| Peak chart positions
+! scope="col" rowspan="2" style="width:14em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:2.5em;font-size:90%;"|[[Hitlisten|DEN]]<br><ref>Chart positions in Denmark:
+*For ''Paradoxx'': {{cite news |title=Listen - Danmarks Officielle Hitliste - Udarbejdet af AIM Nielsen for IFPI Danmark - Uge 36 |work=[[Ekstra Bladet]] |location=[[Copenhagen]] |language=Danish |date=1998-09-06 }}
+*For ''Who's Afraid Of...?'': {{cite news |title=Listen - Danmarks Officielle Hitliste - Udarbejdet af AIM Nielsen for IFPI Danmark - Uge 29 |work=[[Ekstra Bladet]] |location=[[Copenhagen]] |language=Danish |date=2000-07-23 }}
+</ref>
+! scope="col" style="width:2.5em;font-size:90%;"|[[The Official Finnish Charts|FIN]]<br><ref name="hung">http://finnishcharts.com/showitem.asp?interpret=666&titel=Paradoxx&cat=a</ref>
+! scope="col" style="width:2.5em;font-size:90%;"|[[Syndicat National de l'Édition Phonographique|FRA]]<br><ref name="hung"/>
+! scope="col" style="width:2.5em;font-size:90%;"|[[VG-lista|NOR]]<br><ref name="hung"/>
+! scope="col" style="width:2.5em;font-size:90%;"|[[Sverigetopplistan|SWE]]<br><ref name="hung"/>
+|-
+! scope="row" | ''Paradoxx''
+|
+*Released: 1998
+*Label: House Nation
+*Formats: [[LP record|LP]], [[Compact disc|CD]], [[Compact Cassette|cassette]]
+| 1 || 17 || 9 || 2 || 4
+|
+*DEN: Platinum<ref>{{cite news |title=Listen - Danmarks Officielle Hitliste - Udarbejdet af AIM Nielsen for IFPI Danmark - Uge 47 |work=[[Ekstra Bladet]] |location=[[Copenhagen]] |language=Danish |date=1998-11-22 }}</ref>
+|-
+! scope="row" | ''Nitemare''
+|
+*Released: 1999
+*Label: House Nation
+*Formats: CD, cassette
+| — || — || — || — || —
+|
+|-
+! scope="row" | ''Who's Afraid Of...?''
+|
+*Released: 2000
+*Label: House Nation
+*Formats: LP, CD, cassette
+| 7 || — || 27 || — || 26
+|
+|}
+
+===Singles===
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="8"| Peak chart positions
+! rowspan="2"| [[Music recording sales certification|Certifications]]<br /><small>([[List of music recording sales certifications|sales thresholds]])</small>
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="35"| [[German Singles Chart|GER]]
+! width="35"| [[Austrian Singles Chart|AUT]]
+! width="35"| [[Ultratop 40|BEL]]
+! width="35"| [[French Singles Chart|FRA]]
+! width="35"| [[Dutch Singles Chart|NLD]]
+! width="35"| [[Norwegian Singles Chart|NOR]]
+! width="35"| [[Swedish Singles Chart|SWE]]
+! width="35"| [[UK Singles Chart|UK]]<br><ref name="British Hit Singles & Albums">{{cite book| first= David| last= Roberts| year= 2006| title= British Hit Singles & Albums| edition= 19th| publisher= Guinness World Records Limited | location= London| page=504|isbn= 1-904994-10-5}}</ref>
+|-
+| 1997
+| align="left"| "Alarma!" 
+| 56
+| 24
+| —
+| 6
+| 45
+| 5
+| 31
+| 58
+|
+| align="left" rowspan="6"| ''Paradoxx''
+|-
+| rowspan="3"| 1998
+| align="left"| "Diablo" 
+| 37
+| 24
+| —
+| 6
+| —
+| 10
+| 38
+| —
+|
+|-
+| align="left"| "Amokk" 
+| 46
+| 20
+| 25
+| 8
+| —
+| 4
+| 16
+| —
+|
+|-
+| align="left"| "Paradoxx"
+| 94
+| 32
+| 22
+| 29
+| —
+| —
+| 26
+| —
+|
+*SWE: Gold
+|-
+| rowspan="4"| 1999
+| align="left"| "I'm Your Nitemare" 
+| —
+| —
+| —
+| —
+| —
+| —
+| 36
+| —
+|
+|-
+| align="left"| "Get Up 2 Da Track" 
+| —
+| —
+| 58
+| —
+| —
+| —
+| —
+| —
+|
+|-
+| align="left"| "Bomba!"
+| —
+| —
+| —
+| 19
+| —
+| —
+| 30
+| —
+|
+| align="left" rowspan="2"| ''Nitemare''
+|-
+| align="left"| "The Demon" 
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+|
+|-
+| rowspan="3"| 2000
+| align="left"| "D.E.V.I.L." 
+| —
+| —
+| —
+| 35
+| —
+| —
+| 19
+| 18
+|
+| align="left" rowspan="3"| ''Who's Afraid Of...?''
+|-
+| align="left"| "Dance 2 Disco" 
+| —
+| —
+| —
+| 58
+| —
+| —
+| —
+| —
+|
+|-
+| align="left"| "The Millenium Megamix"
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+|
+|-
+| 2001
+| align="left"| "Supa-Dupa-Fly" 
+| 76
+| 51
+| —
+| 36
+| —
+| —
+| 48
+| —
+|
+| align="left" rowspan="1"| ''Hellraiser (The Best of)''
+|-
+| 2002
+| align="left"| "Rhythm Takes Control" 
+| —
+| —
+| —
+| 65
+| —
+| —
+| 48
+| —
+|
+| align="left" rowspan="3"| ''Insanity''
+|-
+| 2003
+| align="left"| "Insanity" 
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+|
+|-
+| 2004
+| align="left"| "Dance Now!" 
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+|
+|-
+| 2005
+| align="left"| "Policia" 
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+|
+| align="left" rowspan="1"| Single only
+|-
+| 2017
+| align="left"| "Exit The Arena" 
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+| —
+|
+| align="left" rowspan="1"| Single only
+|-
+| colspan="15" style="font-size:8pt"| "—" denotes releases that did not chart
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.discogs.com/artist/10739-666 Discogs.com 666 Band Information]
+
+{{Authority control}}
+{{DEFAULTSORT:666}}
+[[Category:German house music groups]]
+[[Category:German electronic music groups]]
+
+{{Germany-electronic-band-stub}}
+{{house-band-stub}}

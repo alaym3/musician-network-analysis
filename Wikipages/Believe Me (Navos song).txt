@@ -1,0 +1,54 @@
+{{Short description|2021 single by Navos}}
+{{Use dmy dates|date=November 2021}}
+{{Infobox song
+| name       = Believe Me
+| cover      = Believe Me Navos.png
+| caption    = 
+| alt        =
+| written    = 
+| type       = single
+| artist     = Navos
+| album      = 
+| released   = {{start date|2021|1|22|df=y}}
+| recorded   =
+| studio     =
+| genre      = [[Deep house]]<ref>{{cite web|url=https://www.edm-lab.com/en/release/release-navos-believe-me/|title=#Release – Navos – Believe Me|work=EDM Lab|last=Mancinelli|first=Ale|date=31 March 2021|access-date=17 November 2021}}</ref>
+| length     = 3:08
+| label      = [[Island Records|Island]]
+| writer     = Ross Harrington
+| producer   =
+* Ross Harrington
+* Tom Demac
+| prev_title = 
+| prev_year  = 
+| next_title = You & I
+| next_year  = 2021
+| misc       = {{External music video|{{YouTube|sOaxnRClzPw|"Believe Me"}}}}
+}}
+
+"'''Believe Me'''" is a song by British producer Navos. It was released on 22 January 2021, via [[Island Records]]. The song went viral on [[TikTok]]<ref>https://www.tiktok.com/music/Believe-Me-6925124562560485378</ref> and reached number 23 on the UK Singles Chart.<ref>{{cite web|url=https://www.officialcharts.com/artist/59335/navos/|title=Navos Chart History|publisher=[[Official Charts Company]]|access-date=17 November 2021}}</ref>
+
+==Music video==
+An accompanying music video was released on 19 March 2021.
+
+==Charts==
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+ Chart performance for "Believe Me"
+! scope="col"| Chart (2021)
+! scope="col"| Peak<br />position
+|-
+{{single chart|Ireland4|27|date=20210430|rowheader=true|access-date=17 November 2021}}
+|-
+{{single chart|UK|23|date=20210430|rowheader=true|access-date=17 November 2021}}
+|-
+! scope="row"| US [[Hot Dance/Electronic Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite web|url=https://www.billboard.com/charts/dance-electronic-songs/2021-10-02|title= Hot Dance/Electronic Songs Chart: Week of October 2, 2021|work=[[Billboard (magazine)|Billboard]]|access-date=17 November 2021}}</ref>
+| 15
+|}
+
+==References==
+{{Reflist}}
+
+[[Category:2021 singles]]
+[[Category:2021 songs]]
+[[Category:Island Records singles]]
+[[Category:Universal Music Group singles]]

@@ -1,0 +1,48 @@
+{{Short description|Mixture of sand, silt or clay with water, which creates a liquefied soil when agitated}}
+{{about|the geological feature}}
+{{expert needed|Geology|reason=there is too much unsourced information|date=July 2015}}
+[[File:Quicksand warning.jpg|thumb|right|Quicksand and a warning sign about it at a gravel quarry in England]]
+[[File:Quicksand (4596511338).jpg|thumb|Quicksand on the [[River Thames|Thames]]]]
+'''Quicksand''' is a [[colloid]] consisting of fine [[granular material]] (such as [[sand]], [[silt]] or [[clay]]) and [[water]]. It forms in saturated loose sand when the sand is suddenly agitated. When water in the sand cannot escape, it creates a [[Liquefaction|liquefied]] soil that loses strength and cannot support weight. Quicksand can form in standing water or in upward flowing water (as from an [[Artesian aquifer|artesian spring]]). In the case of upward flowing water, [[effective stress| forces]] oppose the force of gravity and suspend the soil particles.
+
+The saturated sediment may appear quite solid until a sudden change in pressure or shock initiates liquefaction. This causes the sand to form a suspension and lose strength. The cushioning of water gives quicksand, and other liquefied sediments, a spongy, fluid-like texture. Objects in liquefied sand sink to the level at which the weight of the object is equal to the weight of the displaced soil/water mix and the submerged object floats due to its buoyancy.
+
+[[Soil liquefaction]] may occur in partially saturated soil when it is shaken by an [[earthquake]] or similar forces. The movement combined with an increase in [[pore pressure]] (of groundwater) leads to the loss of particle [[Cohesion (chemistry)|cohesion]], causing buildings or other objects on that surface to sink.
+
+== Properties ==
+[[File:Stuck in Quicksand (13944309974).jpg|thumb|A group of hikers encountering quicksand on the banks of the [[Paria River]], Utah]]
+[[File:Quicksandwarning.JPG|thumb|Quicksand warning sign near [[Lower King, Western Australia|Lower King]] Bridge, Western Australia]]
+Quicksand is a [[shear thinning]] [[non-Newtonian fluid]]: when undisturbed, it often appears to be [[phase (matter)|solid]] ("[[gel]]" form), but a less than 1% change in the [[stress (physics)|stress]] on the quicksand will cause a sudden decrease in its [[viscosity]] ("[[sol (colloid)|sol]]" form). After an initial disturbance—such as a person attempting to walk on it—the water and sand in the quicksand separate and dense regions of sand [[sediment]] form; it is because of the formation of these high [[volume fraction]] regions that the viscosity of the quicksand seems to decrease suddenly. Someone stepping on it will start to sink. To move within the quicksand, a person or object must apply sufficient [[pressure]] on the compacted sand to re-introduce enough water to [[liquefaction|liquefy]] it. The [[force]]s required to do this are quite large: to remove a foot from quicksand at a speed of 1&nbsp;cm/s would require the same amount of force as needed to lift a car.<ref name="Bonn">Khaldoun, A., E. Eiser, G. H. Wegdam, and Daniel Bonn. 2005. [http://www.nature.com/nature/journal/v437/n7059/full/437635a.html "Rheology: Liquefaction of quicksand under stress."] ''Nature'' 437 (29 Sept.): 635. {{doi|10.1038/437635a}}</ref>
+
+It is impossible for a human to sink entirely into quicksand,<ref name=":0">{{Cite web|url=http://thescienceexplorer.com/nature/will-quicksand-really-kill-you|title=Will Quicksand Really Kill You?|website=The Science Explorer|language=en|access-date=2020-04-08}}</ref> due to the higher [[density]] of the fluid. Quicksand has a density of about 2 grams per cubic centimeter, whereas the density of the human body is only about 1 gram per cubic centimeter. At that level of density, sinking beyond about waist height in quicksand is impossible. Even objects with a higher density than quicksand will float on it if stationary. Aluminium, for example, has a density of about 2.7 grams per cubic centimeter, but a piece of aluminium will float on top of quicksand until motion causes the sand to liquefy.<ref name=Bakalar>{{cite web |url=https://www.nationalgeographic.com/science/article/quicksand-science-why-it-traps-how-to-escape/ |title=Quicksand Science: Why It Traps, How to Escape |first1=Nicholas |last1=Bakalar |publisher=[[National Geographic News]] |date=September 28, 2005 |access-date=October 9, 2011}}</ref>
+
+Continued or panicked movement, however, may cause a person to sink further in the quicksand. Since this increasingly impairs movement, it can lead to a situation where other factors such as weather exposure (i.e. [[heat stroke|sun stroke]]), [[dehydration]], [[hypothermia]], [[drowning]] in a rising [[tide]] or predatory animals may harm a trapped person.<ref>[[Discovery Channel]]. ''[[MythBusters]]''. Season 2. [[MythBusters (2004 season)#Episode 19 .E2.80.93 .22Killer Quicksand.22|"Killer Quicksand."]] October 20, 2004.</ref>
+
+Quicksand may be escaped by slow movement of the legs in order to increase viscosity of the fluid, and rotation of the body so as to float in the [[supine position]] (lying horizontally with the face and torso facing up).<ref name=Bakalar/>
+
+==In popular culture==
+Quicksand is a [[Trope (literature)|trope]] of [[adventure fiction]], particularly in film, where it is typically and unrealistically depicted with a suction effect that causes people or animals that walk into it to sink until fully submerged and risk drowning. This has led to the [[List of common misconceptions|common misconception]] that humans can be completely immersed and drown in quicksand; however, this is physically impossible.<ref>{{Cite web|url=https://www.abc.net.au/science/articles/2005/09/29/1471116.htm|title=Quicksand myth exposed|last=Thursday|first=29 September 2005 Patricia ReaneyReuters|date=2005-09-29|website=www.abc.net.au|language=en-AU|access-date=2020-04-08}}</ref> According to a 2010 article by ''[[Slate (magazine)|Slate]]'', this gimmick had its heyday in the 1960s, when almost 3% of all films showed characters sinking in clay, mud, or sand.<ref name="Engber 2010">{{cite news|last=Engber|first=Daniel|title=Terra Infirma: The rise and fall of quicksand.|url=http://www.slate.com/id/2264312/|access-date=23 August 2010|newspaper=Slate|date=23 August 2010}}</ref>
+
+== See also ==
+* [[Bulldust]]
+* [[Dry quicksand]]
+* [[Grain entrapment]]
+* [[Quick condition]]
+* [[Sapric]]
+* [[Tar pit]]
+* [[Thixotropy]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Quicksand}}
+{{Wikiquote}}
+*[http://science.howstuffworks.com/quicksand.htm Howstuffworks.com - How quicksand works]
+*{{cite news | title=What is quicksand? | url =http://www.sciam.com/article.cfm?id=what-is-quicksand | work =Scientific American }}
+*[https://www.youtube.com/watch?v=Swdm4j4tpN0 Video showing quicksand in a sandpit] YouTube
+
+[[Category:Sand]]
+[[Category:Sediments]]
+[[Category:Geological hazards]]
+[[Category:Soil mechanics]]

@@ -1,0 +1,141 @@
+{{Short description|Piston engine with six cylinders in a "V" configuration}}
+{{Redirect|V6}}
+[[File:IC engine.JPG|thumb|right|upright=1.25|Cutaway view of a V6 engine with double overhead camshafts]]
+
+A '''V6 engine''' is a six-[[Cylinder (engine)|cylinder]] [[piston engine]] where the cylinders share a common [[crankshaft]] and are arranged in a [[V engine|V configuration]].
+
+The first V6 engines were designed and produced independently by [[Marmon Motor Car Company]], [[Deutz Gasmotoren Fabrik]] and [[Delahaye]]. Engines built after World War II include the [[Lancia V6 engine]] in 1950 for the [[Lancia Aurelia]],<ref name="ritzsite.net">{{Cite web|url=http://www.ritzsite.net/Lancia/02_LanciaCC.htm|title=Lancia Coupés & Convertibles|access-date=2007-09-15|work=ritzsite.net}}</ref> and the [[Buick V6 engine]] in 1962 for the [[Buick Special#1961–1963|Buick Special]].  The V6 layout has become the most common layout for six-cylinder automotive engines.
+
+{{toc limit|3}}
+
+== Design ==
+Due to their short length, V6 engines are often used as the larger engine option for vehicles which are otherwise produced with inline-four engines, especially in [[transverse engine]] vehicles. A downside for [[Luxury vehicle|luxury cars]] is that V6 engines produce more vibrations than [[straight-six engine]]s. Some sports cars use [[flat-six engine]]s instead of V6 engines, due to their lower [[centre of gravity]] (which improves the [[Automobile handling|handling]]).
+
+The displacement of modern V6 engines is typically between {{convert|2.5|to|4.0|L|cuin|0|abbr=on}}, though larger and smaller examples have been produced, such as the {{convert|1.8|L|cuin|0|abbr=on}} [[Mazda K engine|Mazda V6]] used in the 1991–1998 [[Mazda MX-3]],<ref>{{cite web |last1=Herriott |first1=Richard |title=Engines: The Road Less Traveled |url=https://driventowrite.com/2014/08/22/small-six-cylinder-engines/ |website=Driven to Write |access-date=2019-12-30 |date=22 August 2014}}</ref> or the {{convert|1.6|L|cuin|0|abbr=on}} [[Mitsubishi 6A1 engine#6A10|Mitsubishi V6]] engine used in the 1992–1998 [[Mitsubishi Mirage|Mirage]]/[[Mitsubishi Lancer|Lancer]], while the largest V6 built was the {{convert|7.8|L|cuin|0|abbr=on}} [[GMC V6 engine#478|GMC V6]] used in the 1962 [[Chevrolet C/K#Medium- & heavy-duty models|GMC C/K series 6500]].
+
+=== Balance and smoothness ===
+All V6 engines—regardless of the V-angle between the cylinder banks—are subject to a primary imbalance caused by each bank consisting of an [[inline-three engine]], due to the odd number of cylinders in each bank. Straight-six engines and flat-six engines do not experience this imbalance. To reduce the vibrations caused by this imbalance, most V6 engines use a [[harmonic damper]] on the crankshaft and/or a counter-rotating [[balance shaft]].
+
+Six-cylinder designs have less pulsation in the power delivery than four-cylinder engines, due to the overlap in the power strokes of the six-cylinder engine. In a four-cylinder engine, only one piston is on a power stroke at any given time. Each piston comes to a complete stop and reverses direction before the next one starts its power stroke, which results in a gap between power strokes, especially at lower engine speeds (RPM). In a six-cylinder engine with an even firing interval, the next piston starts its power stroke 60° before the previous one finishes, which results in smoother delivery of power to the flywheel.
+
+Comparing engines on a dynamometer, a V6 engine shows instantaneous torque peaks of 154% above mean torque and valleys of 139% below mean torque, with a small amount of negative torque (engine torque reversals) between power strokes. In the case of a four-cylinder engine, the peaks are approximately 270% above mean torque and 210% below mean torque, with 100% negative torque being delivered between strokes. However, a V6 with uneven firing intervals of 90° and 150° shows large torque variations of 185% above and 172% below mean torque.<ref name="Kane">{{cite conference|first=Jack|last=Kane|title=Torsional Output of Piston Engines|work=Aircraft Engine Technology|publisher=EPI, Inc|year=2006|url=http://www.epi-eng.com/piston_engine_technology/torsional_excitation_from_piston_engines.htm}}</ref>
+
+=== Cylinder bank angles ===
+==== 10 to 15 degrees ====
+[[File:Klepbediening VR6 24V.PNG|thumb|left|upright=0.5 |Cross-section of a VR6 engine]]
+{{main |VR6 engine}}
+
+Since 1991, Volkswagen has produced narrow angle ''VR6'' engines with V-angles of 10.5 and 15 degrees. These engines use a single cylinder head shared by both banks of cylinders, in a design similar to the 1922-1976 [[Lancia V4 engine]]. The VR6 engines were used in [[transverse engine]] front-wheel drive cars which were originally designed for inline-four engines. Due to the minimal extra length and width of the VR6 engine, it could be fitted to the engine compartments relatively easily, in order to provide a displacement increase of 50 percent.
+
+Since there is no room in the V between the cylinder banks for an intake system, all the intakes are on one side of the engine, and all the exhausts are on the other side. It uses a firing order of 1-5-3-6-2-4 (which is the firing order used by most straight-six engines), rather than the common V6 firing order of 1-2-3-4-5-6 or 1-6-5-4-3-2.
+{{clear left}}
+
+==== 60 degrees ====
+[[File:VG30E.jpg|right|thumb|1984-1999 [[Nissan VG engine#VG30E|Nissan VG30E]] 60-degree engine]]
+
+A V-angle of 60 degrees is the optimal configuration for V6 engines regarding engine balance.<ref name="caranddriver.com">{{cite web |title=The Physics of: Engine Cylinder-Bank Angles |url=https://www.caranddriver.com/features/a15126436/the-physics-of-engine-cylinder-bank-angles-feature/ |website=www.caranddriver.com |access-date=21 December 2019 |date=14 January 2011}}</ref> When individual [[crank pin]]s are used for each cylinder (i.e. using a six-throw crankshaft), an even firing interval of 120 degrees can be used. This firing interval is a multiple of the 60 degree V-angle, therefore the combustion forces can be balanced through use of the appropriate [[firing order]].
+
+The inline-three engine that forms each cylinder bank, however, produces unbalanced rotating and reciprocal forces. These forces remain unbalanced in all V6 engines, often leading to the use of a [[balance shaft]] to reduce the vibration.
+
+The 1950 Lancia V6 engine was pioneering in its use of a six-throw crankshaft in order to reduce vibration. More recent designs often use a three-throw crankshaft with 'flying arms' between the crankpins to allow an even firing interval of 120 degrees to be achieved. A pair of counterweights on the crankshaft can then be used to almost perfectly cancel out the primary forces<ref name="Nunney"/>{{refpage|page=16}} and reduce the secondary vibrations to acceptable levels.<ref name="Nunney"/>{{refpage|pages=13–16}} The engine mounts can be designed to absorb these remaining vibrations.<ref name="Nunney"/>{{refpage|pagges=40–41}}
+
+A 60 degree V-angle results in a narrower engine overall than V6 engines with larger V-angles. This angle often results in the overall engine size being a cube shape,{{citation needed|date=December 2019}} making the engine easier to fit either longitudinally or transversely in the engine compartment.
+
+==== 90 degrees ====
+[[File:ZS KV6.jpg|thumb|1996-2005 [[Rover KV6 engine|Rover KV6]] 90-degree engine<ref>{{cite web |title=1998 Rover 75 2.0 KV6 specifications, fuel economy, emissions, dimensions 79673 |url=https://www.carfolio.com/specifications/models/car/?car=79673 |website=www.carfolio.com |access-date=21 December 2019}}</ref>]]
+
+Many manufacturers, particularly American ones, built V6 engines with a V-angle of 90 degrees based on their existing 90-degree V8 engines. Such configurations were easy to design by removing two cylinders and replacing the V8 engine's four-throw crankshaft with a three-throw crankshaft. This reduced design costs, allowed the new V6 to share components with the V8 engine, and sometimes allowed manufacturers to build the V6 and V8 engines on the same production line.
+
+The downsides of a 90 degree design are a wider engine which is more vibration-prone than a 60 degree V6. The initial 90 degree V6 engines (such as the [[Buick V6 engine#Fireball V6|Buick Fireball V6]] engine) had three shared crankpins arranged at 120 degrees from each other, due to their origins from the V8 engines. This resulted in an uneven firing order, with half of the cylinders using a firing interval of 90 degrees and other half using an interval of 150 degrees. The uneven firing intervals resulted in rough-running engines with "unpleasant" vibrations at low engine speeds.
+
+Several modern 90 degree V6 engines reduce the vibrations using split crankpins offset by 30 degrees between piston pairs, which creates an even firing interval of 120 degrees for all cylinders.<ref name="caranddriver.com"/> For example, the 1977 [[Buick V6 engine#231|Buick 231]] "even-fire" V6 engine was an upgraded version of the Buick Fireball engine with a split-pin crankshaft to reduce vibration by achieving an even firing order.<ref name="Nunney"/>{{refpage|page=16}}<ref>{{cite web |title=The Strange Tale of the Buick Special, Buick-Rover V8, and 3800 V6 |url=https://ateupwithmotor.com/model-histories/buick-special-skylark-rover-v8-3800-v6-history/ |website=www.ateupwithmotor.com |access-date=24 December 2019 |date=9 April 2008}}</ref> Such a 'split' crankpin is weaker than a straight one, but modern [[metallurgy|metallurgical techniques]] can produce a crankshaft that is adequately strong.
+
+A balance shaft and/or crankshaft counterweights can be used to reduce vibrations in 90 degree V6 engines.<ref name="Nunney">{{cite book|last=Nunney|first=M J|title=Light and Heavy Vehicle Technology|edition=4th|publisher= Butterworth-Heinemann|year=2007|isbn=978-0-7506-8037-0}}</ref>{{refpage|pages=14–44}}
+
+==== 120 degrees ====
+At first glance, 120 degrees might seem to be the optimal V-angle for a V6 engine, since pairs of pistons in alternate banks can share crank pins in a three-throw crankshaft and the combustion forces are balanced by the firing interval being equal to the angle between the cylinder banks. A 120 degree configuration, unlike the 60 degree or 90 degree configurations, would not require crankshafts with flying arms, split crankpins, or seven main bearings to be even-firing. However, the primary imbalance caused by odd number of cylinders in each bank still remains in a 120 degree V6 engine. This differs from the perfect balance achieved by a 90 degree V8 engine with a commonly used [[crossplane]] crankshaft, because the inline-four engine in each bank of the V8 engine does not have this primary imbalance.
+
+A 120 degree design also results in a large width for the engine, being only slightly narrower than a [[flat-six engine]] (which does not have the balance problems of the V6 engine). Therefore, the flat-six engine has been used in various automobiles, whereas use of the 120 degree V6 engine has been limited to a few truck and racing car engines, with the exception of McLaren Automotive's M630 V6 engine, which uses a 120 degree bank angle with a single balance shaft to eliminate all primary couples. The McLaren M630 engine also takes advantage of the wide angle by placing the turbochargers inside the vee, commonly referred to as a 'hot vee' configuration. The Ferrari 296 GTB is the first Ferrari road car to sport a V6 turbo with a vee angle of 120 degrees between the cylinder banks.
+
+==== Other angles ====
+Other angle V6 engines are possible but can suffer from severe vibration problems unless very carefully designed. Notable V-angles include:
+* 45 degrees — [[EMD 567]] and [[EMD 645]] locomotive, marine and stationary Diesel engines. These engines were based on V8 and V16 engines which also used a V-angle of 45 degrees.
+* 54 degrees — 1994-2004 [[GM 54-Degree V6 engine|General Motors 54-degree]] automotive engine. A slightly smaller than usual V-angle was used to reduce the width of the engine, allowing it to be used in small transverse-engine front-wheel drive cars.
+* 65 degrees — 1956-1975 [[Ferrari Dino engine#65°|Ferrari Dino]] automobile engine. The V-angle was increased from the then-common 60 degree angle to allow larger carburetors to be used (for potentially higher power in race tuning). Crankpins with an offset of 55 degrees within every pair of cylinders were used to achieve the even firing interval of a 60 degree V6 engine. The 2009–present [[V9X engine|Nissan-Renault V9X]] automobile engine also used a 65 degree bank angle, to allow a turbocharger to fit between the cylinder banks.
+* 72 degrees — Mercedes-Benz Bluetec automotive diesel engine. This engine uses crank pins offset by 48 degrees, to achieve an even firing interval.
+* 75 degrees — 1992-2004 [[Isuzu V engine]] used in the [[Isuzu Rodeo]] and [[Isuzu Trooper]]. These engines were produced in both SOHC and DOHC versions. A 75 degree V6 engine is also used by the 2016–present [[Honda NSX (second generation)|Honda NSX]]. 
+* 80 degrees — 1988 ''Honda RA168-E'' engine used in the [[McLaren MP4/4]] Formula One racing car.
+
+== Use in automobiles ==
+[[File:Lancia V6 engine v TCE.jpg|thumb|right |1950-1970 [[Lancia V6 engine]] ]]
+[[File:GTAengine32.jpg|right|thumb|2002-2005 [[Alfa Romeo V6 engine]] ]]
+
+In 1906, a few years after 4 cylinder engines and V8 engines had come into existence, the first known V6 engine was built. This V6 engine was a single prototype automotive engine built by [[Marmon Motor Car Company]] in the United States.<ref>{{cite web |title=The Marmon Automobile 1902-1908 Part 1 & The Nordyke and Marmon Co. |url=https://www.american-automobiles.com/Marmon-1902-1908.html |website=www.american-automobiles.com |access-date=17 December 2019}}</ref> The engine did not reach production. Similarly, a single prototype engine was produced by [[Buick]] in 1918.<ref name="Borgeson">{{cite book|last=Borgeson|first=Griffith|title=The Golden Age of the American Racing Car|edition= 2nd|publisher=Society of Automotive Engineers|year=1998|isbn=0-7680-0023-8}}</ref>{{refpage|pages=77–78}}
+
+In 1911 [[Delahaye]] produced the first 30° 3.2-litre DOHC installed in the Delahaye Type 44 automobile.<ref>Hull, Peter. "Delahaye: Famous on Road and Race Track", in Ward, Ian, executive editor. ''World of Automobiles'' (London: Orbis, 1974), Volume 5, p.523.</ref>
+
+The [[Lancia V6 engine]] was introduced in the 1950 [[Lancia Aurelia]]. Lancia had been producing V4 engines for approximately 30 years, and one of the key goals was to reduce the vibrations compared with the V4 engine. The V6 engine used a 60 degree V-angle and six crankpins, resulting in an evenly-spaced firing order to reduce vibrations.<ref>{{cite book | last= Goldberg | first= Geoffrey | date= 2014 | title= Lancia and De Virgilio: At the Centre | publisher= David Bull Publishing | location= Phoenix, Arizona | isbn= 978-1935007258 }}</ref>{{page needed|date=September 2018}}
+
+Other manufacturers took note and soon other V6 engines were designed. In 1959, the [[GMC V6 engine]] was introduced in the form of a 60-degree {{convert|305|cuin|L|0|abbr=on}} petrol engine used in pickup trucks and [[Carryall#Automobile|carryalls]]. The [[Buick V6 engine]] was introduced in 1962 and was based on Buick's contemporary V8 engine. It therefore used a 90-degree V-angle and uneven firing order, resulting in high vibrations.
+
+Ford introduced its European road car engines in 1965 with the German division's [[Ford Cologne V6 engine|Cologne V6]], and the [[Ford Essex V6 engine (UK)|Ford Essex V6 engine]], introduced by Ford's United Kingdom division in 1966; both engines used a 60-degree V-angle. The 1967 [[Dino 206 GT and 246 GT#Dino 206 GT|Dino 206 GT]] was Ferrari's first V6 road car, which had a 65-degree V-angle.
+
+The 1979-2005 [[Alfa Romeo V6 engine]] was introduced in the [[Alfa Romeo Alfa 6]] luxury sedan and later used in many other Alfa Romeo models. This engine used a 60 degree V-angle, an all-aluminium construction and two valves per cylinder. A turbocharged version was introduced in 1991 and a four valve per cylinder version was introduced in 1997. Also in 1970, the [[Citroën SM]] grand tourer was introduced, powered by a 90-degree V6 built by Maserati. The [[General Motors 90° V6 engine]] was introduced in 1978 and produced for 36 years.
+
+The first mass-produced Japanese V6 engine was the [[Nissan VG engine]], a 60-degree design which was produced from 1983 to 2004. The [[Honda C engine]] was introduced in 1985, followed by the [[Mitsubishi 6G7 engine]] in 1986, the [[Toyota VZ engine]] in 1988, the [[Mazda K engine]] in 1991, and the [[Isuzu V engine]] in 1992. Hyundai introduced the first South Korean [[Hyundai Sigma engine]] based on technology shared from the Mitsubishi unit in 1995.
+
+German car manufacturers were relatively slow to adopt V6 engines, because engineers believed that they lacked the smoothness of an inline-6 engine. Eventually, the first German V6 engine was a 2.8 liter 90-degree V6 that was launched in the 1990 [[Audi 100]], and the VR6 engine, which was introduced across Volkswagen's mid-size and sports car lineup in the 1990s. Mercedes-Benz introduced its first V6 engine in 1998, the [[Mercedes-Benz M112 engine|M112,]] while BMW continues to use inline-6 engines. Mercedes-Benz discontinued its V6 engines in 2017, and has since returned to making inline-6 engines.
+
+The first independently designed British V6 engine was the [[Rover KV6 engine]], which replaced the [[Honda C engine|Honda V6 engine]] that was previously used in the [[Rover 800 series|Rover 800]]. Jaguar used the Ford-based [[Jaguar AJ-V6 engine|AJ-V6 engine]] until 2011 in their smaller cars, but also shared a V6 version of the 90'''°''' [[Jaguar AJ-V8 engine|AJ-V8 engine]] with Land Rover for use in the XE, XF, XJ, F-Type and the F-Pace. Land Rover used it in the Range Rover, Range Rover Sport, Range Rover Velar, and the Discovery 4.
+
+The V6 engine was discontinued in 2020, and JLR replaced it with the new [[Ingenium engine family|Ingenium engine,]] which has an inline-6 variant for JLR's bigger cars and SUVs.
+
+By the mid-1990s, the V6 layout was the most common configuration for six-cylinder automotive engines, with V6 engines having replaced most of the straight-six engines. Today, it is being progressively replaced across the car industry by turbocharged 4-cylinder engines, which can produce similar power, but in a smaller package that produce cleaner emissions, have better fuel economy, and are less expensive to produce.
+
+=== Motor racing ===
+[[File:Mercedes V6 DTM Rennmotor 1996.png|right|thumb|Mercedes-Benz V6 [[Deutsche Tourenwagen Masters|DTM]] engine]]
+
+The Lancia Aurelia (the first series production car with a V6 engine) was also successful in motor racing. Four of the ''Aurelia B20 Coupes'' were entered in the 1951 [[Mille Miglia]] with the best placed cars finishing second and fourth.<ref>{{cite web |title=1951 ex-Mille Miglia, ex-Le Mans, Lancia Aurelia B20GT |url=https://www.thornleykelham.com/1950-ferrari-195s/1951-mille-miglia-lancia-aurelia-b20gt-series-1/ |website=www.thornleykelham.com}}</ref><ref>{{cite web |title=Mille Miglia - 1951 |url=http://grandprixhistory.org/mille_miglia_1951.htm |website=www.grandprixhistory.org |access-date=25 December 2019}}</ref> A tuned {{convert|3102|cc|cuin|0|abbr=on}} version of the Lancia V6 engine producing was {{convert|230|PS|kW|0|abbr=on|order=flip}} used in the [[Lancia D24]]. The D24 competed in sports car racing and won the 1953 [[Carrera Panamericana]] with [[Juan Manuel Fangio]] at the wheel.<ref>{{cite web |title=Lancia D24 |url=http://petergiddings.com/Cars/LanciaD24.html |website=www.petergiddings.com |access-date=25 December 2019}}</ref><ref>{{cite web |title=F.I.A. World Sports Car Championship 1953 |url=http://wsrp.ic.cz/wsc1953.html |website=www.wsrp.ic.cz |archive-url=https://web.archive.org/web/20150222005144/http://wsrp.ic.cz/wsc1953.html |archive-date=22 February 2015 |url-status=dead}}</ref>
+
+The initial version of the [[Ferrari Dino engine]] was a {{convert|1.5|L|cuin|0|abbr=on}} racing engine used in Formula Two racing in the 1957 season. It had a V-angle of 65 degrees and dual overhead camshafts. The Dino V6 underwent several evolutions, including a {{convert|2.4|L|cuin|0|abbr=on}} version used in the 1958 [[Ferrari 246 F1|Ferrari 246]] Formula One racing car.<ref>{{cite web |title=Ferrari 246 F1 |url=https://www.f1technical.net/f1db/cars/116 |website=www.f1technical.net |access-date=14 December 2019}}</ref><ref>{{cite web |url=https://www.allf1.info/engines/ferrari.php |title=Ferrari engines |website=www.allf1.info |archive-url=https://web.archive.org/web/20180531045018/http://www.allf1.info/engines/ferrari.php |archive-date=31 May 2018 |url-status=dead}}</ref> A few years later, the 1961-1964 [[Ferrari 156 F1|Ferrari 156]] Formula One car used a new V6 engine with a V-angle of 120 degrees and a displacement of {{convert|1.5|L|cuin|0|abbr=on}}.<ref>{{cite web |title=Ferrari Dino 156 |url=https://www.f1technical.net/f1db/cars/148 |website=www.f1technical.net |access-date=14 December 2019}}</ref> This engine was shorter and lighter than the Ferrari Dino engine, and the simplicity and low center of gravity of the engine was an advantage in racing. It won a large number of races between {{f1|1961}} and {{f1|1964}}. However, Ferrari's founder had a personal dislike of the 120 degree layout, preferring a 65 degree layout, and after that time it was replaced by other engines.<ref name="Ludvigsen">{{cite book|last=Ludvigsen|first=Karl|title=Classic Racing Engines|publisher=Haynes Publishing| year=2001|isbn=978-1-85960-649-0}}</ref>{{refpage|pages=138–141}} The Dino engine was also used in the [[Lancia Stratos]], which was a highly successful rally car that won the World Rally Championship in 1974, 1975 and 1976.
+
+A notable racing use of the Alfa Romeo V6 engine was the [[Alfa Romeo 155#155 V6 TI|Alfa Romeo 155 V6 TI]], designed for the [[1993 Deutsche Tourenwagen Meisterschaft season|1993 DTM season]] and equipped with a {{convert|2.5|L|cuin|abbr=on}} engine making a peak power of {{convert|490|PS|kW|abbr=on|order=flip}} at 11,900 rpm.
+
+The ''Renault-Gordini CH1'' was a 90 degree V6 engine with an iron block. It was introduced in the 1973 ''Alpine -Renault A440'' sportscar racing car. This engine won the European 2&nbsp;L prototype championship in 1974 and several [[European Formula Two Championship]]s. A turbocharged {{convert|2.0|L|cuin|0|abbr=on}} version was used in the [[Renault Alpine A442]], which won the [[24 Hours of Le Mans]] in 1978.
+
+A turbocharged {{convert|1.5|L|cuin|0|abbr=on}} version of the ''Renault-Gordini CH1'' engine was introduced in the 1977 [[Renault RS01]] Formula One car. Renault struggled with reliability issues in 1977 and 1978, however the 1979 season saw some good results at a few races. In 1981, the [[Ferrari 126C]] Formula One car used a turbocharged V6 engine.<ref>{{cite web |title=Ferrari 126CK |url=http://www.f1technical.net/f1db/cars/469 |website=www.f1technical.net |access-date=14 December 2019}}</ref> Ferrari won the [[Formula One constructors' championship]] with turbocharged V6 engines in 1982 and 1983. Initial versions used a 120 degree V-angle, before switching to a 90 degree V-angle for the 1987 [[Ferrari F1/87]] racing car. Other successful turbocharged V6 Formula One cars in the era of 1982-1988 were the [[McLaren MP4/2]], [[McLaren MP4/3]], [[McLaren MP4/4]], [[Williams FW10]], [[Williams FW11]], [[Williams FW12]], [[Lotus 95T]], [[Lotus 97T]], [[Lotus 98T]], [[Lotus 99T]] and [[Lotus 100T]].
+
+The [[Nissan GTP ZX-Turbo]] and [[Nissan NPT-90]] competed in the [[IMSA (racing)|IMSA]] sports car prototype category from 1985 to 1994 and used a turbocharged V6 engine loosely based on the Nissan VG30ET production car engine.<ref>{{cite web |title=1989 - 1994 Nissan 300ZX IMSA - Images, Specifications and Information |url=https://www.ultimatecarpage.com/car/5983/Nissan-300ZX-IMSA.html |website=www.ultimatecarpage.com |access-date=26 December 2019}}</ref><ref>{{cite web |title=Steve Millen's IMSA 300ZX and the Dream Season of 1994 |url=https://autoweek.com/article/car-life/steve-millens-imsa-300zx-and-his-dream-season-1994 |website=www.autoweek.com |access-date=26 December 2019 |language=en |date=11 November 2014}}</ref> The [[Nissan 300ZX]] used a similar engine to compete in the 1996-1997 [[All Japan Grand Touring Car Championship]] (now known as the 'Super GT' championship).<ref>{{cite web |title=JGTC 1996 |url=https://www.classicscars.com/wspr/results/jgtc/jgtc1996.html |website=www.classicscars.com |access-date=26 December 2019}}</ref><ref>{{cite web |title=JGTC 1997 |url=https://www.classicscars.com/wspr/results/jgtc/jgtc1997.html |website=www.classicscars.com |access-date=26 December 2019}}</ref>
+
+Downsizing to V6 engines in open-wheeler racing became more common:
+
+* the [[IndyCar Series]] switched to turbocharged V6 engines in 2012.
+* the [[GP3 Series]] switched to [[Naturally aspirated engine|naturally aspirated]] V6 engines in 2013.
+* the [[Formula One|Formula One World Championship]] switched to turbocharged V6 engines in 2014.
+* the [[FIA Formula 2 Championship]] (formerly known as the GP2 Series) switched to turbocharged V6 engines in 2018.
+* the [[FIA Formula 3 Championship]] (created from the merger of the GP3 Series and the FIA Formula 3 European Championship) began using naturally aspirated V6 engines from 2019.
+
+== Use in marine vessels and railway engines==
+V6 engines are popular powerplants in medium to large [[outboard motor]]s.{{citation needed|date=December 2019}}
+
+The first V6 engine to reach production was built from 1908 to 1913 by the [[Deutz Gasmotoren Fabrik]] in Germany. These V6 engines were used as the generator for gasoline-electric railway engines.<ref name="Matschoss">{{cite book|last=Matschoss|first=Conrad|title=Geschichte der Gasmotorenfabrik Deutz|publisher= Berlin|year=1921}}</ref>
+
+== Use in motorcycles ==
+The [[Laverda#V6|Laverda V6]] was a racing motorcycle which was unveiled at the 1977 Milan show.<ref>{{cite web |title=1977 Laverda V6 |url=https://www.motorcycleclassics.com/classic-italian-motorcycles/1977-laverda-v6 |website=www.motorcycleclassics.com |access-date=14 December 2019 |language=en }}</ref> It entered the 1978 [[Bol d'Or]] 24 hour endurance race, however it retired with mechanical issues after approximately 8 hours.<ref>{{cite web |title=The Laverda V6 |url=https://silodrome.com/laverda-v6/ |website=www.silodrome.com |access-date=26 December 2019 |date=27 August 2013}}</ref>
+
+[[Horex]] has produced road motorcycles with VR6 engines since 2012.<ref>{{cite web |title=Horex VR6 |url=https://www.roadandtrack.com/car-culture/a4581/silodrome-horex-vr6/ |website=www.roadandtrack.com |access-date=19 November 2019 |date=24 May 2013}}</ref><ref>{{cite web |title=The Horex VR6 Raw is a V6 Two-Wheeled Monster |url=https://www.rideapart.com/articles/272814/horex-vr6-raw-v6-motorcycle/ |website=www.rideapart.com |access-date=19 November 2019 |language=en}}</ref>
+
+== See also ==
+* [[Flat-six engine]]
+* [[Straight-six engine]]
+{{clear right}}
+
+== References ==
+{{Reflist|colwidth=30em}}
+{{commons category|V6 automobile engines}}
+
+{{Piston engine configurations}}
+{{Authority control}}
+
+[[Category:V6 engines| ]]
+[[Category:V engines|6]]

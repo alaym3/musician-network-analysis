@@ -1,0 +1,129 @@
+{{Infobox musical artist
+| name            = XXI
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           = A Feast for Kings
+| origin          = [[Carrollton, Kentucky]], United States
+| genre           = [[Christian rock]]
+| years_active    = {{start date|2010}}–present
+| label           = [[Tooth & Nail Records|Tooth & Nail]]
+| associated_acts =
+| website         = {{URL|facebook.com/XXIband}}
+| current_members = Carson Butcher<br>Seth Weigand<br>Jamie King<br>Christian Madrinich
+| past_members    = Eric Gentry<br>Robbie Barnett<br>Scott Chappell
+}}
+
+'''XXI''' (formerly, '''A Feast for Kings (AFFK)''') is an American [[Christian metal]] band that also takes influences from [[Alternative metal]] and [[Post-hardcore]]. They come from [[Carrollton, Kentucky]], where they were formed in 2010, with lead vocalist Eric Gentry. Eric's death in 2014 was the reasoning behind the band's name change, with 'XXI' (Roman numerals for '21') being Eric's age at the time of his death. Their first extended play, ''Hell on Earth'', was released in 2014, shortly before Eric's death, and under their former name. The debut studio album, ''[[Inside Out (XXI album)|Inside Out]]'', was released with Carson Butcher as lead vocalist on [[Tooth & Nail Records]] in 2015. This album was their breakthrough album on both the [[Billboard (magazine)|''Billboard'' magazine]] [[Christian Albums]] and [[Top Heatseekers|Heatseekers Albums]] charts.
+
+==Background==
+The band is from [[Carrollton, Kentucky]], where they formed in 2010 under the name A Feast for Kings, with their members being lead vocalist, Eric Gentry; background vocalist and guitarist, Seth Weigand; guitarist, Jamie King; bassist, Robbie Barnett; and drummer Carson Butcher.<ref name="Jesus Freak Hideout">{{cite web |author=Jesus Freak Hideout |title=XXI Discography |url=http://jesusfreakhideout.com/artists/XXI.asp |publisher=Jesus Freak Hideout |access-date=September 30, 2015}}</ref> After Gentry's death, the group changed their name to XXI to memorialize his age at his time of death.<ref name="Alternative Press">{{cite web |first=Tyler |last=Sharp |title=A Feast For Kings vocalist Eric Gentry passes away at 21 |url=http://www.altpress.com/news/entry/a_feast_for_kings_vocalist_eric_gentry_passes_away_at_21 |journal=[[Alternative Press (music magazine)|Alternative Press]] |access-date=September 30, 2015 |date=May 18, 2014}}</ref> Their drummer went on to become their lead vocalist, and the bassist took over on the drums.<ref name="Jesus Freak Hideout"/>
+
+==History==
+The band commenced as a musical entity in 2010, with their first extended play, ''Hell on Earth'', which was released on April 17, 2014, as A Feast for Kings.<ref name="HM Magazine">{{cite web |first=Hailey |last=Ray |title=A Feast for Kings – ''Hell on Earth'' |url=http://hmmagazine.com/blog/album-reviews/feast-kings-hell-earth/ |journal=[[HM (magazine)|HM Magazine]] |access-date=September 30, 2015}}</ref><ref name="Indie Vision Music">{{cite web |first=Lee |last=Brown |title=Review - A Feast For Kings – Hell On Earth |url=http://www.indievisionmusic.com/2014/04/04/a-feast-for-kings-hell-on-earth/ |publisher=Indie Vision Music |access-date=September 30, 2015 |date=April 4, 2014}}</ref>  Their second release, ''[[Inside Out (XXI album)|Inside Out]]'', a studio album, was released on September 18, 2015, with [[Tooth & Nail Records]].<ref name="Jesus Freak Hideout Bert Gangl">{{cite web |first=Bert |last=Gangl |title=XXI, "Inside Out" Review |url=http://jesusfreakhideout.com/cdreviews/XXIInsideOut.asp |publisher=Jesus Freak Hideout |access-date=September 30, 2015 |date=August 26, 2015}}</ref><ref name="Jesus Freak Hideout Scott Fryberger">{{cite web |first=Scott |last=Fryberger |title=XXI, "Inside Out" Review – Second Staff Opinion|url=http://jesusfreakhideout.com/cdreviews/XXIInsideOut.asp |publisher=Jesus Freak Hideout |access-date=September 30, 2015 |date=September 5, 2015}}</ref> This album was their breakthrough release upon the [[Billboard (magazine)|''Billboard'' magazine]] charts, where it placed at No. 20 on the [[Christian Albums]],<ref name="Christian Albums">{{cite web|url=http://www.billboard.com/biz/search/charts?f%5b0%5d=is_bmdb_album_id%3A6708944&f%5b1%5d=itm_field_chart_id%3A310&refine=1|title=XXI Album & Song Chart History (Christian Albums)|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]] |access-date=September 30, 2015}}</ref> and No. 19 on the [[Top Heatseekers|Heatseekers Albums]].<ref name="Heatseekers Albums">{{cite web|url=http://www.billboard.com/biz/search/charts?f%5b0%5d=is_bmdb_album_id%3A6708944&f%5b1%5d=itm_field_chart_id%3A324&refine=1|title=XXI Album & Song Chart History (Heatseekers Albums)|work=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=September 30, 2015}}</ref>
+
+==Band members==
+===Current members===
+* Carson Butcher - vocals (2014–present) drums (2010-2014)
+* Seth Weigand - lead guitar, vocals (2010–present)
+* Jamie King - rhythm guitar (2010–present)
+* Christian Madrinich - drums (2016–present)
+
+===Former Members===
+* Eric Gentry - vocals (2010-2014, died 2014)
+* Robbie Barnett - bass guitar (2010-2016), drums (2014-2016)
+* Scott Chappell - guitar (2010-2014)
+
+'''Timeline'''
+{{#tag:timeline|
+ImageSize = width:800 height:auto barincrement:18
+PlotArea = left:110 bottom:80 top:0 right:10
+Alignbars = justify
+DateFormat = mm/dd/yyyy
+Period = from:01/01/2010 till:{{#time:m/d/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+
+Colors =
+  id:vocals      value:red          legend:Vocals
+  id:lead        value:teal         legend:Lead_Guitar
+  id:rhythm      value:green        legend:Rhythm_Guitar
+  id:bass        value:blue         legend:Bass
+  id:drums       value:orange       legend:Drums
+  id:studio      value:black        legend:Studio_Album
+  id:other       value:gray(0.5)    legend:EP
+  id:bars        value:gray(0.95)
+
+BackgroundColors = bars:bars
+Legend = orientation:vertical position:bottom columns:4
+ScaleMajor = increment:1 start:2010
+
+LineData =
+ layer:back
+ color:studio
+ at:09/18/2015
+
+LineData =
+ layer:back
+ color:other
+ at:04/17/2014
+
+BarData =
+ bar:Eric   text:"Eric Gentry"
+ bar:Seth   text:"Seth Weigand"
+ bar:Jamie  text:"Jamie King"
+ bar:Scott  text:"Scott Chappell"
+ bar:Robbie text:"Robbie Barnett"
+ bar:Carson text:"Carson Butcher"
+ bar:Chris  text:"Christian Madrinich"
+
+PlotData=
+ width:11 textcolor:black align:left anchor:from shift:(10,-4)
+ bar:Eric   from:01/01/2010 till:07/01/2014 color:vocals
+ bar:Carson from:01/01/2010 till:07/01/2014 color:drums
+ bar:Carson from:07/01/2014 till:end        color:vocals
+ bar:Seth   from:01/01/2010 till:end        color:lead
+ bar:Seth   from:01/01/2010 till:end        color:vocals width:2.5
+ bar:Jamie  from:01/01/2010 till:end        color:rhythm
+ bar:Scott  from:01/01/2010 till:08/01/2014 color:rhythm
+ bar:Scott  from:01/01/2010 till:08/01/2014 color:lead   width:2.5
+ bar:Robbie from:01/01/2010 till:06/01/2016 color:bass
+ bar:Robbie from:07/01/2014 till:06/01/2016 color:drums  width:2.5
+ bar:Chris  from:06/01/2016 till:end        color:drums
+ }}
+
+==Discography==
+;Studio albums
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions
+! scope="col" rowspan="2" style="width:11em;" | Title
+! scope="col" rowspan="2" style="width:16em;" | Album details
+! scope="col" colspan="2" | Peak chart positions
+|-
+!style="width:3em; font-size:90%"|[[Christian Albums|US<br>Christ]]<br><ref name="Christian Albums"/>
+!style="width:3em; font-size:90%"|[[Heatseekers Albums|US<br>Heat]]<br><ref name="Heatseekers Albums"/>
+|-
+!scope="row"|''[[Inside Out (XXI album)|Inside Out]]''
+|
+* Released: September 18, 2015
+*{{nowrap|Label: [[Tooth & Nail Records|Tooth & Nail]]}}
+* Format: [[Compact Disc|CD]], [[Music download|digital download]]
+| 20 || 19
+|}
+;Independent albums
+* ''Hell on Earth - EP'' (April 17, 2014, as A Feast for Kings)
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.facebook.com/A-Feast-for-KingsXXI-107107531255648/ Facebook page]
+
+{{Authority control}}
+
+[[Category:Musical groups from Kentucky]]
+[[Category:Christian rock groups from Kentucky]]
+[[Category:2010 establishments in Kentucky]]
+[[Category:Musical groups established in 2010]]
+[[Category:Tooth & Nail Records artists]]

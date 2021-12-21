@@ -1,0 +1,92 @@
+{{short description|American country music singer}}
+{{Infobox musical artist
+| name          = Elvie Shane
+| image         =
+| image_upright =
+| image_size    =
+| landscape     =
+| alt           =
+| caption       =
+| birth_name    =
+| alias         =
+| birth_date    =
+| birth_place   = [[Caneyville, Kentucky]], U.S.
+| origin        = [[Nashville, Tennessee]], U.S.
+| genre         = [[Country music|Country]]
+| occupation    = Singer-songwriter
+| instrument    = Vocals, guitar
+| years_active  = 2020-present
+| label         = [[BBR Music Group|BBR]]
+}}
+'''Elvie Shane''' is an American [[country music]] singer. He is signed to [[BBR Music Group]] and in 2020 he released his debut single "[[My Boy (Elvie Shane song)|My Boy]]", which has charted on [[Country Airplay]].
+
+Shane was born in [[Caneyville, Kentucky]], where he grew up singing in his church and listening to country music that his father played. After attending [[Western Kentucky University]], he dropped out of college to focus on music. He began performing publicly in 2012, which led to him competing on ''[[American Idol]]'' in 2016. Although he was eliminated in the first round, he released multiple songs online including "County Roads" and "My Boy". In 2020, he was signed to [[BBR Music Group]], which released "My Boy" to country radio.<ref>{{cite web | url=https://www.allmusic.com/artist/elvie-shane-mn0003938176/biography | title=Elvie Shane biography | publisher=AllMusic | accessdate=February 13, 2021}}</ref>
+
+Shane wrote the song with Russell Sutton, Lee Starr, and Nick Columbia.<ref>{{cite web | url=https://tasteofcountry.com/elvie-shane-my-boy/ | title=Elvie Shane's 'My Boy' Tells a Loving Stepfather’s Story [Listen] | work=Taste of Country | accessdate=February 13, 2021}}</ref> In December 2020, he released a music video which was directed by [[Peter Zavadil]].<ref>{{cite web | url=https://www.soundslikenashville.com/music/elvie-shane-honors-stepdads-my-boy-video/ | title=Elvie Shane Honors Stepdads in Moving 'My Boy' Video | website=Sounds Like Nashville | accessdate=February 13, 2021}}</ref> "My Boy" also made the [[Country Airplay]] charts, reaching the top 10 of the chart in September 2021.<ref>{{cite web|url=https://www.billboard.com/charts/country-airplay/2021-09-18|title=Country Airplay Songs: September 18, 2021|work=Billboard|access-date=September 21, 2021|url-access=subscription}}</ref>
+
+==Discography==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|-
+! scope="col" style="width:10em;"| Title
+! scope="col" style="width:19em;"| Album details
+|-
+! scope="row"| ''Backslider''
+|
+* Release date: October 29, 2021{{efn-ua|''Backslider'' was released on October 29, 2021 exclusively for digital download/streaming. It will be released to CD on January 14, 2022.<ref>{{cite web|url=https://www.elvieshane.com/release/backslider/|title=Elvie Shane - Backslider|accessdate=October 6, 2021}}</ref>}}
+* Label: Wheelhouse Records
+* Formats: Digital download
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|-
+! scope="col" style="width:10em;"| Title
+! scope="col" style="width:19em;"| EP details
+|-
+! scope="row"| ''County Roads''
+|
+* Release date: April 23, 2021
+* Label: Wheelhouse Records
+* Formats: Digital download
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! colspan="3"| Peak positions
+! scope="col" rowspan="2" style="width:12em;"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="65"| [[Billboard Hot 100|US]]<br /><ref>{{cite web|url=https://www.billboard.com/charts/hot-100/2021-10-23|title=The Hot 100 Chart: Week of October 23, 2021|work=[[Billboard (magazine)|Billboard]]|access-date=October 19, 2021}}</ref>
+! width="65"| [[Hot Country Songs|US<br />Country]]<br /><ref>{{cite web|url=https://www.billboard.com/charts/country-songs/2021-10-23|title=The Hot Country Songs Chart: Week of October 23, 2021|work=[[Billboard (magazine)|Billboard]]|url-access=subscription|access-date=October 19, 2021}}</ref>
+! width="65"| [[Country Airplay|US<br />Country<br />Airplay]]<br /><ref>{{cite web|url=https://www.billboard.com/charts/country-airplay/2021-10-23|title=Country Airplay Songs: October 23, 2021|work=Billboard|access-date=October 19, 2021|url-access=subscription}}</ref>
+|- 
+! scope="row"| "[[My Boy (Elvie Shane song)|My Boy]]"
+| 2020
+| 28 || 4 || 1
+|
+*[[Recording Industry Association of America|RIAA]]: Gold<ref name="RIAA">{{cite web|title=Gold & Platinum: Elvie Shane |url=https://www.riaa.com/gold-platinum/?tab_active=default-award&se=elvie+shane#search_section|url-status=live|access-date=November 4, 2021}}</ref>
+| ''Backslider''
+|}
+
+== Notes ==
+{{notelist-ua}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Shane, Elvie}}
+[[Category:American country singers]]
+[[Category:American country singer-songwriters]]
+[[Category:BBR Music Group artists]]
+[[Category:Country musicians from Kentucky]]
+[[Category:Living people]]
+[[Category:People from Grayson County, Kentucky]]
+[[Category:Year of birth missing (living people)]]
+[[Category:American male singer-songwriters]]
+
+
+{{singer-stub}}

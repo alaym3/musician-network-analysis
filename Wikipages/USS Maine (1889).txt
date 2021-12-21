@@ -1,0 +1,822 @@
+{{short description|19th-century battleship of the United States Navy}}
+{{About|the ship sunk in Havana, 1898|other ships of the same name|USS Maine}}
+{{Redirect|The Maine|the American rock band|The Maine (band)}}
+{{Use dmy dates|date=February 2015}}
+{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image   = USS Maine (ACR-1) starboard bow view, 1898 (26510673494).jpg
+| Ship caption = Starboard bow view of USS ''Maine'', 1898
+}}
+{{Infobox ship class overview
+|Name=
+|Builders=[[New York Naval Shipyard]], Brooklyn
+|Operators={{navy|United States|1888}}
+|Class before=
+|Class after={{USS|New York|ACR-2}}
+|Cost=
+|Built range=1888–1895
+|In commission range=1895–1898
+|Total ships completed=1
+|Total ships lost=1
+}}
+{{Infobox ship career
+| Hide header =
+| Ship country = United States
+| Ship flag = {{USN flag|1898}}
+| Ship name = ''Maine''
+| Ship namesake = State of [[Maine]]
+| Ship ordered = 3 August 1886
+| Ship awarded =
+| Ship builder = [[New York Naval Shipyard]], [[Brooklyn]], [[New York (state)|New York]], U.S.
+| Ship original cost = $4,677,788
+| Ship way number =
+| Ship laid down = 17 October 1888
+| Ship launched = 18 November 1889
+| Ship sponsor = Alice Tracy Wilmerding
+| Ship christened =
+| Ship completed =
+| Ship commissioned = 17 September 1895
+| Ship motto =
+| Ship nickname =
+| Ship fate = Sunk by explosion in [[Havana Harbor]], Havana, Cuba, 15 February 1898
+| Ship status = Remains scuttled in the [[Strait of Florida]], 16 March 1912
+| Ship notes =
+| Ship badge =
+}}
+{{Infobox ship characteristics
+| Hide header =
+| Header caption =
+| Ship type = [[Armored cruiser]] or second-class [[battleship]]
+| Ship displacement = {{convert|6682|LT|t|0}}
+| Ship length = {{convert|324|ft|4|in|m|abbr=on|1}} overall length
+| Ship beam = {{convert|57|ft|m|abbr=on|1}}
+| Ship draft = {{convert|22|ft|6|in|m|abbr=on|1}} (max)
+| Ship power = * 8 × [[Boiler]]s
+* {{convert|9293|ihp|kW|lk=in|abbr=on}}
+| Ship propulsion =* 2 × [[Marine steam engine#Triple or multiple expansion|Triple-expansion steam engines]]
+* 2 × [[Propeller|screw]]s
+| Ship speed = {{convert|16.5|kn|lk=in}}
+| Ship range ={{cvt|3600|nmi|lk=in}} at {{convert|10|kn}}
+| Ship capacity =
+| Ship complement = 374 officers and men
+| Ship armament =* 2 × twin [[10"/30 caliber gun|{{convert|10|in|mm|abbr=on|0}} guns]]
+* 6 × single [[6"/30 caliber gun|{{convert|6|in|mm|abbr=on|0}} guns]]
+* 7 × single 6-pdr ({{convert|57|mm|in|abbr=on}}) guns
+* 4 × single 1-pdr ({{convert|37|mm|in|abbr=on}}) [[Hotchkiss gun]]s
+* 4 × single [[Driggs-Schroeder]] 1-pdr guns
+* 4 × [[.45-70]] [[Gatling gun]]s
+* 4 × [[American 18 inch torpedo|18&nbsp;in (450&nbsp;mm)]] [[torpedo tube]]s
+| Ship armor =* [[Belt armor|Belt]]: {{convert|12|in|mm|abbr=on|0}}
+* [[Deck (ship)|Deck]]: {{convert|2|-|3|in|mm|abbr=on|0}}
+* [[Gun turret|Turrets]]: {{convert|8|in|mm|abbr=on|0}}
+* [[Conning tower]]: {{convert|10|in|mm|abbr=on|0}}
+* [[Bulkhead (partition)|Bulkheads]]: {{convert|6|in|mm|abbr=on|0}}
+| Ship notes =
+}}
+|}
+[[File:Victor Gillam Unlucky 13 1898 Cornell CUL PJM 1132 01.jpg|thumb|This cartoon followed the explosion of the cruiser ''Maine'' in Havana harbor on February 15, 1898. King Alphonso XIII is shown playing with toy boats in Cuba and is about to suffer "Retribution".]]
+
+'''''Maine''''' was a [[United States Navy]] ship that sank in [[Havana Harbor]] on February 15, 1898, contributing to the outbreak of the [[Spanish–American War]] in April. American newspapers, engaging in [[yellow journalism]] to boost circulation, claimed that the [[Spanish Empire|Spanish]] were responsible for the ship's destruction. The phrase, "Remember the ''Maine!'' To hell with Spain!" became a rallying cry for action. Although the ''Maine'' explosion was not a direct cause, it served as a catalyst that accelerated the events leading up to the war.
+
+''Maine'' is described as an [[armored cruiser]] or second-class [[battleship]], depending on the source. Commissioned in 1895, she was the first U.S. Navy ship to be named after the state of [[Maine]].{{efn|name=commissioning}}{{sfn|Reilly & Scheina|p=35}}{{sfn|DANFS Maine}} ''Maine'' and the similar  battleship {{USS|Texas|1892|2}} were both represented as an advance in American warship design, reflecting the latest European naval developments. Both ships had two gun turrets staggered [[Glossary of nautical terms#en echelon|''en échelon'']], and full masts were omitted due to the increased reliability of steam engines.<ref name="hazegray">{{cite web | url=http://www.hazegray.org/navhist/battleships/us_pd.htm#maine | title=World Battleships List: US Predreadnought Battleships | publisher=Hazegray.org | date=6 October 2001 | access-date=10 November 2015 | author=Toppan, Andrew}}</ref> Due to a protracted 9-year construction period, ''Maine'' and ''Texas'' were obsolete by the time of completion.<ref name="hazegray" /> Far more advanced vessels were either in service or nearing completion that year.
+
+''Maine'' was sent to [[Havana Harbor]] to protect U.S. interests during the [[Cuban War of Independence]]. She exploded and sank on the evening of 15 February 1898, killing 268 sailors, or three-quarters of her crew. In 1898, a U.S. Navy board of inquiry ruled that the ship had been sunk by an external explosion from a mine. However, some U.S. Navy officers disagreed with the board, suggesting that the ship's magazines had been ignited by a spontaneous fire in a coal bunker. The coal used in ''Maine'' was bituminous, which is known for releasing [[firedamp]], a mixture of gases composed primarily of flammable [[methane]] that is prone to spontaneous explosions. An investigation by Admiral [[Hyman Rickover]] in 1974 agreed with the coal fire hypothesis. The cause of her sinking remains a subject of debate.<ref name="lawlibrary" />
+
+The ship lay at the bottom of the harbor until 1911, when a [[cofferdam]] was built around it.<ref name="CoE" /> The hull was patched up until the ship was afloat, then she was towed to sea and sunk. ''Maine'' now lies on the sea-bed {{convert|3600|feet|metres}} below the surface. The ship's main mast is now [[USS Maine Mast Memorial|a memorial in Arlington National Cemetery]].
+
+== Background ==
+[[File:Riachuelo 1885.jpg|thumb|The Brazilian battleship ''Riachuelo'', which prompted the building of ''Maine'']]
+In response to the delivery of the {{ship|Brazilian battleship|Riachuelo}} in 1883 and the acquisition of other modern armored warships from Europe by Brazil, Argentina and [[Chile]], the head of the House Naval Affairs Committee, [[Hilary A. Herbert]], stated to Congress: "if all this old navy of ours were drawn up in battle array in mid-ocean and confronted by ''Riachuelo'' it is doubtful whether a single vessel bearing the American flag would get into port."{{sfn|Reilly & Scheina|p=21}} These developments helped bring to a head a series of discussions that had been taking place at the Naval Advisory Board since 1881. The board knew at that time that the U.S. Navy could not challenge any major European fleet; at best, it could wear down an opponent's merchant fleet and hope to make some progress through general attrition there. Moreover, projecting naval force abroad through the use of battleships ran counter to the government policy of [[isolationism]]. While some on the board supported a strict policy of commerce raiding, others argued it would be ineffective against the potential threat of enemy battleships stationed near the American coast. The two sides remained essentially deadlocked until ''Riachuelo'' manifested.{{sfn|Friedman, ''Battleships''|pp=17, 20}}
+
+The board, now confronted with the concrete possibility of hostile warships operating off the American coast, began planning for ships to protect it in 1884. The ships had to fit within existing docks and had to have a shallow [[draft (hull)|draft]] to enable them to use all the major American ports and bases. The maximum [[beam (nautical)|beam]] was similarly fixed, and the board concluded that at a length of about {{convert|300|ft|m}}, the maximum displacement would be about 7,000 tons. A year later the [[Bureau of Construction and Repair]] (C & R) presented two designs to Secretary of the Navy [[William Collins Whitney]], one for a 7,500-ton battleship and one for a 5,000-ton [[armored cruiser]]. Whitney decided instead to ask Congress for two 6,000-ton warships, and they were authorized in August 1886. A design contest was held, asking [[naval architect]]s to submit designs for the two ships: armored cruiser ''Maine'' and battleship {{USS|Texas|1892|2}}. It was specified that ''Maine'' had to have a speed of {{convert|17|kn|lk=in}}, a [[ram bow]], and a double bottom, and be able to carry two [[torpedo boat]]s. Her armament was specified as: four {{convert|10|in|mm|adj=on|0}} guns, six {{convert|6|in|mm|adj=on|0}} guns, various light weapons, and four torpedo tubes. It was specifically stated that the main guns "must afford heavy bow and stern fire."{{sfn|Reilly & Scheina|p=24}} Armor thickness and many details were also defined. Specifications for ''Texas'' were similar, but demanded a main battery of two {{convert|12|in|mm|adj=on|0}} guns and slightly thicker armor.{{sfn|Friedman, ''Battleships''|pp=20–21}}
+
+The winning design for ''Maine'' was from [[Theodore D. Wilson]], who served as chief constructor for C & R and was a member on the Naval Advisory Board in 1881. He had designed a number of other warships for the navy.<ref>"Theodore Delevan Wilson," ''Encyclopedia Americana''.</ref> The winning design for ''Texas'' was from a British designer, William John, who was working for the [[Barrow Shipbuilding Company]] at that time. Both designs resembled the Brazilian battleship ''Riachuelo'', having the main gun turrets sponsoned out over the sides of the ship and [[En echelon (turret arrangement)|echeloned]].{{sfn|Friedman, ''Battleships''|p=21}} The winning design for ''Maine'', though conservative and inferior to other contenders, may have received special consideration due to a requirement that one of the two new ships be American–designed.{{sfn|Cowan & Sumrall|p=19}}
+
+Congress authorized construction of ''Maine'' on 3 August 1886, and her keel was laid down on 17 October 1888, at the [[Brooklyn Navy Yard]]. She was the largest vessel built in a U.S. Navy yard up to that time.<ref name="navy_report_1890" />
+
+== Design ==
+[[File:USS Maine ACR-1 in Havana harbor before explosion 1898.jpg|thumb|left|Stern view of ''Maine'']]
+''Maine''{{'}}s building time of nine years was unusually protracted, due to the limits of U.S. industry at the time. (The delivery of her armored plating took three years and a fire in the drafting room of the building yard, where ''Maine''{{'}}s working set of [[blueprint]]s were stored, caused further delay.) In the nine years between her being laid down and her completion, naval tactics and technology changed radically and left ''Maine''{{'}}s role in the navy ill-defined. At the time she was laid down, armored cruisers such as ''Maine'' were intended to serve as small battleships on overseas service and were built with heavy belt armor. Great Britain, France and Russia had constructed such ships to serve this purpose and sold others of this type, including ''Riachuelo'', to second-rate navies. Within a decade, this role had changed to commerce raiding, for which fast, long-range vessels, with only limited armor protection, were needed. The advent of lightweight armor, such as [[Harvey armor|Harvey steel]], made this transformation possible.{{sfn|Friedman, ''Battleships''|pp=17, 20–21, 23}}
+
+As a result of these changing priorities, ''Maine'' was caught between two separate positions and could not perform either one adequately. She lacked both the armor and firepower to serve as a ship-of-the-line against enemy battleships and the speed to serve as a cruiser. Nevertheless, she was expected to fulfill more than one tactical function.{{sfn|Love|p=357}} In addition, because of the potential of a warship sustaining blast damage to herself from cross-deck and end-on fire, ''Maine''{{'}}s main-gun arrangement was obsolete by the time she entered service.{{sfn|Friedman, ''Battleships''|p=21}}
+
+=== General characteristics ===
+''Maine'' was {{convert|324|ft|4|in|m|1}} long [[Length overall|overall]], with a beam of {{convert|57|ft|m|1}}, a maximum draft of {{convert|22|ft|6|in|m|1}} and a displacement of {{convert|6682|LT|t|1}}.{{sfn|Reilly & Scheina|p=32}} She was divided into 214 watertight compartments.{{sfn|Morley}} A centerline longitudinal watertight [[bulkhead (partition)|bulkhead]] separated the engines and a [[double bottom]] covered the hull only from the foremast to the aft end of the armored citadel, a distance of {{convert|196|ft|m|1}}. She had a [[metacentric height]] of {{convert|3.45|ft|m|1}} as designed and was fitted with a ram bow.{{sfn|Reilly & Scheina|pp=28, 33}}
+
+[[File:Plan of the first battleship Maine.JPG|thumb|left|alt=Drawing of ''Maine'' showing its echeloned turret placement|Deck plan of ''Maine'']]
+''Maine''{{'}}s hull was long and narrow, more like a cruiser than that of ''Texas'', which was wide-beamed. Normally, this would have made ''Maine'' the faster ship of the two. ''Maine''{{'}}s weight distribution was ill-balanced, which slowed her considerably. Her main turrets, awkwardly situated on a cut-away gundeck, were nearly awash in bad weather. Because they were mounted toward the ends of the ship, away from its center of gravity, ''Maine'' was also prone to greater motion in heavy seas. While she and ''Texas'' were both considered seaworthy, the latter's high hull and guns mounted on her main deck made her the drier ship.{{sfn|Cowan & Sumrall|p=134}}
+
+The two main gun turrets were [[sponson]]ed out over the sides of the ship and echeloned to allow both to fire fore and aft. The practice of ''en echelon'' mounting had begun with Italian battleships designed in the 1870s by [[Benedetto Brin]] and followed by the British Navy with {{HMS|Inflexible|1876|6}}, which was laid down in 1874 but not commissioned until October 1881.{{sfn|Parkinson|pp=125, 127}} This gun arrangement met the design demand for heavy end-on fire in a ship-to-ship encounter, tactics which involved [[ramming]] the enemy vessel.{{sfn|Friedman, ''Battleships''|p=21}} The wisdom of this tactic was purely theoretical at the time it was implemented. A drawback of an ''en echelon'' layout limited the ability for a ship to fire [[Broadside (naval)|broadside]], a key factor when employed in a [[line of battle]]. To allow for at least partial broadside fire, ''Maine''{{'}}s [[superstructure]] was separated into three structures. This technically allowed both turrets to fire across the ship's deck (cross-deck fire), between the sections. This ability was limited as the superstructure restricted each turret's arc of fire.{{sfn|Reilly & Scheina|p=24}}
+
+This plan and profile view show ''Maine'' with eight six-pounder guns (one is not seen on the port part of the bridge but that is due to the bridge being cut away in the drawing). Another early published plan shows the same. In both cases the photographs show a single extreme bow mounted six-pounder.  Careful examination of ''Maine'' photographs confirms that she did not carry that gun. ''Maine''{{'}}s armament set up in the bow was not identical to the stern which had a single six-pounder mounted at extreme aft of the vessel.  ''Maine'' carried two six-pounders forward, two on the bridge and three on the stern section, all one level above the abbreviated gun deck that permitted the ten-inch guns to fire across the deck.  The six-pounders located in the bow were positioned more forward than the pair mounted aft which necessitated the far aft single six-pounder.
+
+=== Propulsion ===
+[[File:USS Wisconsin (BB-9) engines cropped.JPG|thumb|upright|Vertical triple expansion engine of {{USS|Wisconsin|BB-9|2}}, similar in general layout to that of ''Maine'']]
+''Maine'' was the first U.S. capital ship to have its power plant given as high a priority as its fighting strength.{{sfn|Putnam|p=266}} Her machinery, built by the N. F. Palmer Jr. & Company's Quintard Iron Works of New York,{{sfn|Reilly & Scheina|p=26}} was the first designed for a major ship under the direct supervision of Arctic explorer and soon-to-be [[Commodore (rank)|commodore]], [[George W. Melville|George Wallace Melville]].{{sfn|Putnam|pp=266, 271}} She had two inverted [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engines]], mounted in watertight compartments and separated by a fore-to-aft bulkhead, with a total designed output of {{convert|9293|ihp|kW}}. Cylinder diameters were {{convert|35.5|in|mm}} (high-pressure), {{convert|57|in|mm}} (intermediate-pressure) and {{convert|88|in|mm}} (low-pressure). Stroke for all three pistons was {{convert|36|in|mm}}.{{sfn|Morley}}
+
+Melville mounted ''Maine''{{'}}s engines with the cylinders in vertical mode, a departure from conventional practice. Previous ships had had their engines mounted in horizontal mode, so that they would be completely protected below the waterline. Melville believed a ship's engines needed ample room to operate and that any exposed parts could be protected by an armored deck. He therefore opted for the greater efficiency, lower maintenance costs and higher speeds offered by the vertical mode.{{sfn|Putnam|p=271}}<ref name="Brandt 1920 p72">{{cite journal | last = Brandt | first = Walther Immanuel | year = 1920 | title = Steel and the new Navy, 1882–1895 | page = 72 | publisher = University of Wisconsin | url = https://books.google.com/books?id=MPtJAAAAMAAJ&pg=PA72 | access-date =17 April 2012 }}</ref> Also, the engines were constructed with the high-pressure cylinder aft and the low-pressure cylinder forward. This was done, according to the ship's chief engineer, A. W. Morley, so the low-pressure cylinder could be disconnected when the ship was under low power. This allowed the high and intermediate-power cylinders to be run together as a [[compound steam engine|compound engine]] for economical running.{{clarify|date=September 2013}}
+
+[[File:Scotch marine boiler (Brockhaus).jpg|thumb|left|upright|Scotch two-furnace marine boiler]]
+Eight single-ended [[Scotch marine boiler]]s provided steam to the engines at a working pressure of {{convert|135|psi|kPa kg/cm2|lk=on}} at a temperature {{convert|364|°F|°C}}. On trials, she reached a speed of {{convert|16.45|kn}}, failing to meet her contract speed of {{convert|17|kn}}. She carried a maximum load of {{convert|896|LT|kg|lk=on}} of coal{{sfn|Reilly & Scheina|pp=32–33}} in 20 bunkers, 10 on each side, which extended below the protective deck. Wing bunkers at each end of each fire room extended inboard to the front of the boilers.{{sfn|Morley}} This was a very low capacity for a ship of ''Maine''{{'}}s rating, which limited her time at sea and her ability to run at [[flank speed]], when coal consumption increased dramatically. ''Maine''{{'}}s overhanging main turrets also prevented coaling at sea, except in the calmest of waters; otherwise, the potential for damage to a [[collier (ship)|collier]], herself or both vessels was extremely great.
+
+''Maine'' also carried two small [[dynamo]]s to power her searchlights and provide interior lighting.{{sfn|Reilly & Scheina|p=28}}
+
+''Maine'' was designed initially with a three-mast [[barque]] rig for auxiliary propulsion, in case of engine failure and to aid long-range cruising.{{sfn|Paine|p=100}} This arrangement was limited to "two-thirds" of full sail power, determined by the ship's tonnage and immersed cross-section.{{sfn|Friedman, ''Battleships''|p=20}} The mizzen [[mast (sailing)|mast]] was removed in 1892, after the ship had been launched, but before her completion.{{sfn|Paine|p=100}} ''Maine'' was completed with a two-mast military rig and the ship never spread any canvas.<ref name="cityofart">{{cite web|url=http://www.cityofart.net/bship/maine.html |title=Battleship USS Maine (1895–1898) |publisher=Cityofart.net |date=11 September 1905 |access-date=16 November 2012}}</ref>
+
+=== Armament ===
+
+==== Main guns ====
+''Maine''{{'}}s main armament consisted of four [[10"/30 caliber gun|{{convert|10|in|mm|adj=on|0}}/30]] [[caliber (artillery)|caliber]] Mark II guns, which had a maximum elevation of 15° and could depress to −3°. Ninety rounds per gun were carried. The ten-inch guns fired a {{convert|510|lb|kg|0|adj=on}} shell at a [[muzzle velocity]] of {{convert|2000|ft/s|m/s}} to a range of {{convert|20000|yd|m}} at maximum elevation.<ref>{{cite web | url = http://www.navweaps.com/Weapons/WNUS_10-30_mk1.htm | title = United States of America 10"/31 (25.4&nbsp;cm) Mark 1 Mod 0 and Mod 1 10"/35 (25.4&nbsp;cm) Mark 1 Mod 2 10"/30 (25.4&nbsp;cm) Mark 2 | date = 19 September 2008 | publisher = NavWeaps.com | access-date =9 March 2010 }}</ref> These guns were mounted in twin hydraulically powered Mark 3 turrets, the fore turret sponsoned to starboard and the aft turret sponsoned to port.{{sfn|Miller|p=158}}
+
+[[File:Battleship Maine litho.png|thumb|left|''Battleship Maine'' by Frederick Nelson Atwood with the fore 10-inch turret visible]]
+The 10" guns were initially to be mounted in open [[barbette]]s (the C & R proposal [[blueprint]] shows them as such). During ''Maine''{{'}}s extended construction, the development of rapid-fire intermediate-caliber guns, which could fire high-explosive shells, became a serious threat and the navy redesigned ''Maine'' with enclosed turrets. Because of the corresponding weight increase, the turrets were mounted one deck lower than planned originally.<ref name="cityofart" />{{sfn|Friedman, ''Battleships''|p=22}} Even with this modification, the main guns were high enough to fire unobstructed for 180° on one side and 64° on the other side.{{sfn|Morley}} They could also be loaded at any angle of train; initially the main guns of ''Texas'', by comparison, with external rammers, could be loaded only when trained on the centerline or directly abeam, a common feature in battleships built before 1890.{{sfn|Friedman, ''Battleships''|p=21}} By 1897, ''Texas''{{'}} turrets had been modified with internal rammers to permit much faster reloading.
+
+The ''en echelon'' arrangement proved problematic. Because ''Maine''{{'}}s turrets were not counterbalanced, she heeled over if both were pointed in the same direction, which reduced the range of the guns. Also, cross-deck firing damaged her deck and superstructure significantly due to the vacuum from passing shells.<ref name="morrison17" /> Because of this, and the potential for undue hull stress if the main guns were fired end-on, the ''en echelon'' arrangement was not used in U.S. Navy designs after ''Maine'' and ''Texas''.{{sfn|Friedman, ''Battleships''|p=21}}<ref name="morrison17" />
+
+==== Secondary and light guns ====
+[[File:U.S.S. Newark, 6-inch gun LOC 4a14470v.jpg|thumb|Six-inch gun on {{USS|Newark|C-1|2}}. USS ''Maine'' mounted six of these.]]
+The six [[6"/30 caliber gun|{{convert|6|in|mm|adj=on|0}}/30]] caliber Mark 3 guns were mounted in [[casemate]]s in the hull, two each at the bow and stern and the last two amidships.{{sfn|Reilly & Scheina|p=26}} Data is lacking, but they could probably depress to −7° and elevate to +12°. They fired shells that weighed {{convert|105|lb|kg}} with a muzzle velocity of about {{convert|1950|ft/s|m/s}}. They had a maximum range of {{convert|9000|yd|m}} at full elevation.<ref>{{cite web | url = http://www.navweaps.com/Weapons/WNUS_6-30_mk1.htm | title = United States of America 6"/30, 6"/35 and 6"/40 (15.2&nbsp;cm) Marks 1, 2, 3, 4 and 7 | date = 25 December 2008 | publisher = NavWeaps.com | access-date =9 March 2010 }}</ref>
+
+The anti-[[torpedo boat]] armament consisted of seven {{convert|57|mm|in|adj=on|sp=us}} [[Driggs-Schroeder]] six-pounder guns mounted on the superstructure deck.{{sfn|Reilly & Scheina|p=26}} They fired a shell weighing about {{convert|6|lb|kg|abbr=on}} at a muzzle velocity of about {{convert|1765|ft/s|m/s}} at a rate of 20 rounds per minute to a maximum range of {{convert|8700|yd|m|0}}.<ref>{{cite web | url = http://www.navweaps.com/Weapons/WNUS_6pounder_m1.htm | title = United States of America 6-pdr (2.72&nbsp;kg) <nowiki>[2.244" (57 mm)]</nowiki> Marks 1 through 13 | date = 6 April 2008 | publisher = NavWeaps.com | access-date =22 December 2009 }}</ref> The lighter armament comprised four each {{convert|37|mm|in|adj=on|sp=us}} [[Hotchkiss gun|Hotchkiss]] and Driggs-Schroeder one-pounder guns. Four of these were mounted on the superstructure deck, two were mounted in small casemates at the extreme stern and one was mounted in each [[top (sailing ship)|fighting top]].{{sfn|Reilly & Scheina|p=26}} They fired a shell weighing about {{convert|1.1|lb|kg}} at a muzzle velocity of about {{convert|2000|ft/s|m/s}} at a rate of 30 rounds per minute to a range about {{convert|3500|yd|m|0}}.<ref>{{cite web | url = http://www.navweaps.com/Weapons/WNUS_1pounder_m1.htm | title = United States of America 1-pdr (0.45&nbsp;kg) <nowiki>[1.46" (37 mm)]</nowiki> Marks 1 through 15 | date = 15 August 2008 | publisher = NavWeaps.com | access-date =22 December 2009 }}</ref>
+
+[[File:Maine after torpedo-tube.jpg|thumb|Aft torpedo tubes of ''Maine'']]
+''Maine'' had four {{convert|18|in|mm|adj=on|0}} above-water [[torpedo tube]]s, two on each [[Broadside (naval)|broadside]]. In addition, she was designed to carry two {{convert|14.8|LT|t}} steam-powered torpedo boats, each with a single {{convert|14|in|mm|adj=on|0}} torpedo tube and a one-pounder gun. Only one was built, but it had a top speed of only a little over {{convert|12|kn}} so it was transferred to the [[Naval Torpedo Station]] at [[Newport, Rhode Island]], as a training craft.{{efn|name=torpedos}}{{sfn|Reilly & Scheina|pp=28, 30}}
+
+=== Armor ===
+The main waterline [[belt armor|belt]], made of nickel steel, had a maximum thickness of {{convert|12|in|mm|0}} and tapered to {{convert|7|in|mm|0}} at its lower edge. It was {{convert|180|ft|m|1}} long and covered the machinery spaces and the 10-inch [[magazine (artillery)|magazines]]. It was {{convert|7|ft|m|1}} high, of which {{convert|3|ft|m|1}} was above the design waterline. It angled inwards for {{convert|17|ft|m|1}} at each end, thinning to {{convert|8|in|mm|0}}, to provide protection against [[raking fire]]. A 6-inch transverse bulkhead closed off the forward end of the [[armored citadel]]. The forward portion of the {{convert|2|in|mm|adj=mid|-thick}} protective deck ran from the bulkhead all the way to the bow and served to stiffen the ram. The deck sloped downwards to the sides, but its thickness increased to {{convert|3|in|mm}}. The rear portion of the protective deck sloped downwards towards the stern, going below the waterline, to protect the propeller shafts and steering gear. The sides of the circular [[gun turret|turrets]] were 8 inches thick. The barbettes were 12 inches thick, with their lower portions reduced to 10 inches. The [[conning tower]] had 10-inch walls. The ship's [[voicepipe]]s and electrical leads were protected by an armored tube {{convert|4.5|in|mm|0}} thick.{{sfn|Reilly & Scheina|pp=26–28}}
+
+Two flaws emerged in ''Maine''{{'}}s protection, both due to technological developments between her laying-down and her completion. The first was a lack of adequate topside armor to counter the effects of rapid-fire intermediate-caliber guns and high-explosive shells. This was a flaw she shared with ''Texas''.<ref name="morrison17">Morrison, p. 17.</ref> The second was the use of nickel-steel armor. Introduced in 1889, nickel steel was the first modern steel [[alloy]] armor and, with a [[figure of merit]] of 0.67, was an improvement over the 0.6 rating of [[carbon steel#Mild and low carbon steel|mild steel]] used until then. Harvey steel and [[Krupp armour|Krupp armors]], both of which appeared in 1893, had merit figures of between 0.9 and 1.2, giving them roughly twice the tensile strength of nickel steel. Although all three armors shared the same density (about 40 pounds per square foot for a one-inch-thick plate), six inches of Krupp or Harvey steel gave the same protection as 10&nbsp;inches of nickel. The weight thus saved could be applied either to additional hull structure and machinery or to achieving higher speed. The navy would incorporate Harvey armor in the {{sclass|Indiana|battleship}}s, designed after ''Maine'', but commissioned at roughly the same time.{{sfn|Friedman, ''Battleships''|pp=13, 27}}{{sfn|Friedman, ''Cruisers''|p=16}}
+
+== Launching and delay ==
+[[File:19-N-19-9-12 (26914288185).jpg|thumb|''Maine'' in drydock at the New York Navy Yard while fitting out]]
+''Maine'' was launched on 18 November 1889, sponsored by Alice Tracey Wilmerding, the granddaughter of Navy Secretary [[Benjamin F. Tracy]]. Not long afterwards, a reporter wrote for ''Marine Engineer and Naval Architect'' magazine, "it cannot be denied that the navy of the United States is making rapid strides towards taking a credible position among the navies of the world, and the launch of the new armoured battleship ''Maine'' from the Brooklyn Navy Yard ... has added a most powerful unit to the United States fleet of turret ships."<ref name="marine375" /> In his 1890 annual report to congress, the Secretary of the Navy wrote, "the ''Maine'' ... stands in a class by herself" and expected the ship to be [[ship commissioning|commissioned]] by July 1892.<ref name="navy_report_1890" />
+
+A three-year delay ensued, while the shipyard waited for nickel steel plates for ''Maine''{{'}}s armor. [[Bethlehem Steel Company]] had promised the navy 300 tons per month by December 1889 and had ordered heavy [[casting]]s and [[forging press]]es from the British firm of [[Armstrong Whitworth]] in 1886 to fulfil its contract. This equipment did not arrive until 1889, pushing back Bethlehem's timetable. In response, Navy Secretary Benjamin Tracy secured a second contractor, the newly expanded [[Homestead Steel Works|Homestead mill]] of Carnegie, Phipps & Company. In November 1890, Tracy and [[Andrew Carnegie]] signed a contract for Homestead to supply 6000 tons of nickel steel.{{sfnm|Krause||1p=285|Misa||2p=102}} Homestead was, what author Paul Krause calls, "the last union stronghold in the steel mills of the Pittsburgh district." The mill had already weathered one strike in 1882 and a lockout in 1889 in an effort to break the union there. Less than two years later, came the [[Homestead Strike]] of 1892, one of the largest, most serious disputes in [[Labor history of the United States|U.S. labor history]].{{sfn|Krause|p=209–10}}
+
+A photo of the christening shows Mrs. Wilmerding striking the bow near the plimsoll line depth of 13 which lead to many comments (much later of course) that the ship was "unlucky" from the launching.
+
+== Operations ==
+[[File:LC-DIG-DET-4a05501 (18563506308).jpg|thumb|right|USS ''Maine'' in New York passing under the Brooklyn Bridge]]
+[[File:Maine crew.gif|thumb|Crew of USS ''Maine'']]
+
+''Maine'' was commissioned on 17 September 1895, under the command of Captain [[Arent S. Crowninshield]].{{sfn|DANFS Maine (ACR-1)}} On 5 November 1895, ''Maine'' steamed to [[Sandy Hook Bay]], [[New Jersey]]. She anchored there two days, then proceeded to Newport, Rhode Island, for fitting out and test firing of her torpedoes. After a trip, later that month, to [[Portland, Maine]], she reported to the [[North Atlantic Squadron]] for operations, training manoeuvres and fleet exercises. ''Maine'' spent her active career with the North Atlantic Squadron, operating from [[Norfolk, Virginia]] along the [[East Coast of the United States]] and the [[Caribbean]]. On 10 April 1897, Captain [[Charles Dwight Sigsbee]] relieved Captain Crowninshield as commander of ''Maine''.{{sfn|Pater|p=91}}
+
+== Sinking ==
+[[File:USS Maine entering Havana harbor HD-SN-99-01929.JPEG|thumb|right|USS ''Maine'' entering Havana Harbor on 25 January 1898, three weeks before her destruction. On the right is the old [[Morro Castle (Havana)|Morro Castle]] fortress.]]
+{{
+multiple image | align = right | direction = horizontal | total_width = 450
+
+| image1 = USSMaine.jpg | alt1 = | width1 = | caption1 = The sunken {{USS|Maine|ACR-1|6}} in [[Havana harbor]]
+
+| image2 = 18980216 Blown Up By Spain - USS Maine - The Evening Times (Washington, D.C.).jpg | alt2 = | width2 = | caption2 = Though publication of a U.S. Navy investigation report would take a month, this Washington D.C. newspaper<ref name=EverningTimes_18980216>{{cite news |title=Blown Up By Spain / Every Evidence That the Maine Was Torpedoed / Cap't Sigsbee's Statement / Two Hundred Fifty American Sailors the Food of Sharks / Lieuts. Jenkins and Merritt Dead |url=https://newspaperarchive.com/the-evening-times-feb-16-1898-p-1/ |work=The Evening Times |date=February 16, 1898 |location=Washington, D.C., U.S. |page=1 }}</ref> was among those asserting within one day that the explosion was not accidental.
+}}
+[[File:Telegram from James A. Forsythe to Secretary of the Navy - NARA - 300264.jpg|thumb|Telegram sent by Captain James Forsythe, commanding, Naval Station Key West, forwarding word from [[Charles Dwight Sigsbee|Charles Sigsbee]], captain of the ''Maine'' of the sinking of his ship]]
+[[File:Collier's-FC-March-1898.jpg|thumb|Cover of ''[[Collier's Weekly]]'' for March 19, 1898: "Memorial Service at Grave of ''Maine's'' Dead, Havana, March 4"]]
+[[File:Remember the Maine! And Don't Forget the Starving Cubans! - Victor Gillam (cropped).jpg|thumb|American cartoon, published in 1898: ''"Remember the Maine! And Don't Forget the Starving Cubans!"'']]
+In January 1898, ''Maine'' was sent from [[Key West, Florida]], to [[Havana]], Cuba, to protect U.S. interests during the [[Cuban War of Independence]]. Three weeks later, at 21:40, on 15 February, an explosion on board ''Maine'' occurred in the Havana Harbor ({{coord|23|08|07|N|082|20|3|W|name=USS ''Maine''}}).{{sfn|United States Army Corps of Engineers|p=Plate 1}} Later investigations revealed that more than {{convert|5|LT|t}} of powder charges for the vessel's six- and ten-inch guns had detonated, obliterating the forward third of the ship.{{sfn|Crawford|Hayes|Sessions|1998}} The remaining wreckage rapidly settled to the bottom of the harbor.
+
+Most of ''Maine''{{'}}s crew were sleeping or resting in the enlisted quarters, in the forward part of the ship, when the explosion occurred. The 1898 US Navy Surgeon General Reported that the ship's crew consisted of 355: 26 officers, 290 enlisted sailors, and 39 marines. Of these, there were 261 fatalities:
+* Two officers and 251 enlisted sailors and marines either killed by the explosion or drowned
+* Seven others were rescued but soon died of their injuries
+* One officer later died of "cerebral affection" (shock)
+* Of the 94 survivors, 16 were uninjured.<ref>{{cite web | author = US Surgeon General | year = 1896 | url = https://books.google.com/books?id=J9QEAAAAYAAJ&pg=RA2-PA173 | title = Annual report of the Surgeon General of the US Navy 1898 | page = 173 | work = Bureau of Medicine and Surgery | publisher = US Navy Department | access-date =2 October 2011 }}</ref> In total, 260<ref name="history.navy.mil">{{cite web|url=https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/destruction-of-uss-maine.html|title=The Destruction of USS Maine|publisher=Naval History and Heritage Command}}</ref> men lost their lives as a result of the explosion or shortly thereafter, and six more died later from injuries.<ref name="history.navy.mil"/> Captain Sigsbee and most of the officers survived, because their quarters were in the aft portion of the ship. Altogether there were 89 survivors, 18 of whom were officers.{{sfn|NHHC Survivors of USS Maine}} The ''[[City of Washington (ship)|City of Washington]]'', an American merchant steamship, aided in rescuing the crew.
+[[File:USS Maine explosion simple.png|thumb|Simplistic representation of the explosion which sunk the USS Maine and its aftermath.]]
+The cause of the accident was immediately debated. Waking up President McKinley to break the news, Commander Francis W. Dickins referred to it as an "accident."<ref>{{cite web |last1=Dickins |first1=Francis W. |title=Memorandum to the Secretary of the Navy |url=https://www.history.navy.mil/research/publications/documentary-histories/united-states-navy-s/destruction-of-the-m/commander-francis-w-0/_jcr_content.html |website=Documentary Histories: Spanish-American War |publisher=Naval History and Heritage Command |date=December 8, 1898}}</ref> Commodore [[George Dewey]], Commander of the [[Asiatic Squadron]], "feared at first that she had been destroyed by the Spanish, which of course meant war, and I was getting ready for it when a later dispatch said it was an accident."<ref>{{cite web |last1=Dewey |first1=George |title=Letter to George Goodwin Dewey |url=https://www.history.navy.mil/research/publications/documentary-histories/united-states-navy-s/the-battle-of-manila/commodore-george-dew-24/_jcr_content.html |website=Documentary Histories: Spanish-American War |publisher=Naval History and Heritage Command |date=February 18, 1898}}</ref> Navy Captain Philip R. Alger, an expert on ordnance and explosives, posted a bulletin at the Navy Department the next day saying that the explosion had been caused by a spontaneous fire in the coal bunkers.<ref>{{cite web |title=Destruction of the Maine |url=https://www.history.navy.mil/research/publications/documentary-histories/united-states-navy-s/destruction-of-the-m.html |website=Documentary Histories: Spanish-American War |publisher=Naval History and Heritage Command}}</ref><ref name="roosevelt18980228"/> Assistant Navy Secretary [[Theodore Roosevelt]] wrote a letter protesting this statement, which he viewed as premature. Roosevelt argued that Alger should not have commented on an ongoing investigation, saying, "Mr. Alger cannot possibly know anything about the accident. All the best men in the Department agree that, whether probable or not, it certainly is possible that the ship was blown up by a mine."<ref name="roosevelt18980228">{{cite web |last1=Roosevelt |first1=Theodore |title=Letter to Captain Charles O'Neil, Chief of the Ordnance Bureau |url=https://www.history.navy.mil/research/publications/documentary-histories/united-states-navy-s/destruction-of-the-m/assistant-secretary.html |website=Documentary Histories: Spanish-American War |publisher=Naval History and Heritage Command |date=February 28, 1898}}</ref>
+
+=== Yellow journalism ===
+
+The ''[[New York Journal]]'' and ''[[New York World]]'', owned respectively by [[William Randolph Hearst]] and [[Joseph Pulitzer]], gave ''Maine'' intense press coverage, employing tactics that would later be labeled "[[yellow journalism]]." Both papers exaggerated and distorted any information they could obtain, sometimes even fabricating news when none that fitted their agenda was available. For a week following the sinking, the ''Journal'' devoted a daily average of eight and a half pages of news, editorials and pictures to the event. Its editors sent a full team of reporters and artists to Havana, including [[Frederic Remington]],{{sfn|Musicant|pp=143–44}} and Hearst announced a reward of $50,000 "for the conviction of the criminals who sent 258 American sailors to their deaths."<ref>{{harvnb|Wisan|pp=390–9is 1}}. As quoted in {{harvnb|Musicant|p=144}}.</ref>
+
+The ''World,'' while overall not as lurid or shrill in tone as the ''Journal,'' nevertheless indulged in similar theatrics, insisting continually that ''Maine'' had been bombed or mined. Privately, Pulitzer believed that "nobody outside a lunatic asylum" really believed that Spain sanctioned ''Maine''{{'}}s destruction. Nevertheless, this did not stop the ''World'' from insisting that the only "atonement" Spain could offer the U.S. for the loss of ship and life, was the granting of complete Cuban independence. Nor did it stop the paper from accusing Spain of "treachery, willingness, or laxness" for failing to ensure the safety of Havana Harbor.{{sfn|Musicant|p=144}} The American public, already agitated over reported Spanish atrocities in Cuba, was driven to increased hysteria.{{sfn|Musicant|p=152}}
+
+William Randolph Hearst's reporting on ''Maine'' whipped up support for military action against the Spanish in Cuba regardless of their actual involvement in the sinking. He frequently cited various naval officers saying that the explosion could not have been an on-board accident. He quoted an "officer high in authority" as saying "The idea that the catastrophe resulted from an internal accident is preposterous. In the first place, such a thing has never occurred before that I have ever heard of either in the British navy or ours."<ref>{{cite book |last1=Chomsky |first1=Aviva |last2=Carr |first2=Barry |last3=Smorkaloff |first3=Pamela Maria |title=The Cuba Reader |date=2003 |publisher=Duke University Press |location=Durham and London |pages=130–34}}</ref>
+
+=== Spanish–American War ===
+{{Main|Spanish–American War}}
+
+''Maine''{{'}}s destruction did not result in an immediate declaration of war with Spain, but the event created an atmosphere that precluded a peaceful solution.{{sfn|Musicant|pp=151–52}} The [[#1898 Del Peral and De Salas inquiry|Spanish investigation]] found that the explosion had been caused by spontaneous combustion of the coal bunkers, but the [[#1898 Sampson Board's Court of Inquiry|Sampson Board]] ruled that the explosion had been caused by an external explosion from a torpedo.
+
+The episode focused national attention on the crisis in Cuba. The [[William McKinley|McKinley]] administration did not cite the explosion as a ''[[casus belli]]'', but others were already inclined to go to war with Spain over perceived atrocities and loss of control in Cuba.{{sfn|Reilly & Scheina|p=30}}<ref name="spanamwar" /> Advocates of war used the rallying cry, "Remember the ''Maine!'' To hell with Spain!"<ref name="The Spanish–American War 1898" /><ref name="New York Times 21 April 1898" /><ref>{{cite book | title = Remember the Maine, to Hell with Spain | url = https://books.google.com/books?id=5VhnQgAACAAJ | first = Robert B. | last = Edgerton | publisher = Edwin Mellen Press | year = 2005 | isbn = 978-0-7734-6266-3 | access-date =15 February 2010 }}</ref><ref>{{cite journal| url = http://ntlsearch.bts.gov/tris/record/tris/01001349.html | title = Remember the "MAINE" | publisher = U.S. Department of Transportation: National Transportation Library | access-date =11 February 2008 }}</ref> The Spanish–American War began on April 21, 1898, two months after the sinking.
+
+== Investigations ==
+In addition to the inquiry commissioned by the Spanish government to naval officers Del Peral and De Salas, two Naval Courts of Inquiry were ordered: The Sampson Board in 1898 and the Vreeland board in 1911. In 1976, Admiral [[Hyman G. Rickover]] commissioned a private investigation into the explosion, and the [[National Geographic Society]] did an investigation in 1999, using computer simulations. All investigations agreed that an explosion of the forward magazines caused the destruction of the ship, but different conclusions were reached as to how the magazines could have exploded.<ref name="spanamwar" /><ref name="lawlibrary" />
+
+=== 1898 Del Peral and De Salas inquiry ===
+The Spanish inquiry, conducted by Del Peral and De Salas, collected evidence from officers of naval artillery, who had examined the remains of the ''Maine''. Del Peral and De Salas identified the spontaneous combustion of the coal bunker, located adjacent to the munition stores in ''Maine'', as the likely cause of the explosion. The possibility that other combustibles, such as paint or drier{{clarify|date=March 2019}} products, had caused the explosion was not discounted. Additional observations included that:
+* Had a mine been the cause of the explosion, a column of water would have been observed.
+* The wind and the waters were calm on that date and hence a mine could not have been detonated by contact, but only by using electricity, but no cables had been found.
+* No dead fish were found in the harbor, as would be expected following an explosion in the water.
+* Munition stores do not usually explode when a ship is sunk by a mine.
+The conclusions of the report were not reported at that time by the American press.<ref>[[Hugh Thomas (writer)|Hugh Thomas]], ''Memoria del 98'' (1997 edition), chapter 7 ("La explosión del ''Maine''"), p. 104 {{in lang|es}}</ref>
+
+=== 1898 Sampson Board's Court of Inquiry ===
+[[File:Sampsonboard.jpg|thumb|Photograph from the 12 April 1898 edition of ''[[Uncle Sam's Navy]]'' of the Sampson Board's court of inquiry meeting aboard the [[lighthouse tender]] [[USLHT Mangrove|USLHT ''Mangrove'']] in Havana Harbor, ca. March 1898. From left are [[Captain (United States)|Captain]] [[French Chadwick|French Ensor Chadwick]], Captain [[William T. Sampson]], [[Lieutenant Commander (United States)|Lieutenant Commander]] [[William P. Potter]], [[Ensign (rank)|Ensign]] W. V. Powelson, and Lieutenant Commander [[Adolph Marix]].]]
+
+In order to find the cause of the explosion, a naval inquiry was ordered by the United States shortly after the incident, headed by Captain [[William T. Sampson]]. [[Ramón Blanco y Erenas]], Spanish governor of Cuba, had proposed instead a joint Spanish-American investigation of the sinking.{{sfn|O'Toole|p=128}} Captain Sigsbee had written that "many Spanish officers, including representatives of General Blanco, now with us to express sympathy."{{sfn|O'Toole|p=11}} In a cable, the Spanish minister of colonies, [[Segismundo Moret]], had advised Blanco "to gather every fact you can, to prove the ''Maine'' catastrophe cannot be attributed to us."{{sfn|O'Toole|p=125}}
+
+According to Dana Wegner, who worked with U.S. Admiral [[Hyman G. Rickover]] on his 1974 investigation of the sinking, the Secretary of the Navy had the option of selecting a board of inquiry personally. Instead, he fell back on protocol and assigned the commander-in-chief of the North Atlantic Squadron to do so. The commander produced a list of junior line officers for the board. The fact that the officer proposed to be court president was junior to the captain of ''Maine'', Wegner writes, "would indicate either ignorance of navy regulations or that, in the beginning, the board did not intend to examine the possibility that the ship was lost by accident and the negligence of her captain."{{sfn|Wegner|pp=11–12}} Eventually, navy regulations prevailed in leadership of the board, Captain Sampson being senior to Captain Sigsbee.{{sfn|Wegner|pp=11–12}}
+
+The board arrived on 21 February and took testimony from survivors, witnesses, and divers (who were sent down to investigate the wreck). The Sampson Board produced its findings in two parts: the proceedings, which consisted mainly of testimonies, and the findings, which were the facts, as determined by the court. Between the proceedings and the findings, there was what Wegner calls, "a broad gap", where the court "left no record of the reasoning that carried it from the often-inconsistent witnesses to [its] conclusion." Another inconsistency, according to Wegner, was that of only one technical witness, Commander George Converse, from the Torpedo Station at Newport, Rhode Island. Captain Sampson read Commander Converse a hypothetical situation of a coal bunker fire igniting the reserve six-inch ammunition, with a resulting explosion sinking the ship. He then asked Commander Converse about the feasibility of such a scenario. Commander Converse "simply stated, without elaboration, that he could not realize such an event happening".{{sfn|Wegner|p=12}}
+
+The board concluded that ''Maine'' had been blown up by a mine, which, in turn, caused the explosion of her forward magazines. They reached this conclusion based on the fact that the majority of witnesses stated that they had heard two explosions and that part of the keel was bent inwards.<ref name="spanamwar" /> The official report from the board, which was presented to the [[United States Department of the Navy|Navy Department]] in Washington on 21 March, specifically stated the following:
+
+{{blockquote|"At frame 18 the vertical keel is broken in two and the flat keel is bent at an angle similar to the angle formed by the outside bottom plating. ... In the opinion of the court, this effect could have been produced only by the explosion of a mine situated under the bottom of the ship at about frame 18, and somewhat on the port side of the ship." (part of the court's 5th finding)
+
+"In the opinion of the court, the ''Maine'' was destroyed by the explosion of a submarine mine, which caused the partial explosion of two or more of her forward magazines." (the court's 7th finding) and
+
+"The court has been unable to obtain evidence fixing the responsibility for the destruction of the ''Maine'' upon any person or persons." (the court's 8th finding).<ref name="offsampson" /> }}
+
+=== 1911 Vreeland Board's Court of Inquiry ===
+In 1910, the decision was made to have a second Court of Inquiry. Besides the desire for a more thorough investigation, this would also facilitate the recovery of the bodies of the victims, so they could be buried in the United States. The fact that the Cuban government wanted the wreck removed from Havana harbor might also have played a role: it at least offered the opportunity to examine the wreck in greater detail than had been possible in 1898, while simultaneously obliging the now-independent Cubans. Wegner suggests that the fact that this inquiry could be held without the threat of war, which had been the case in 1898, lent it the potential for greater objectivity than had been possible previously. Moreover, since several of the members of the 1910 board would be certified engineers, they would be better qualified to evaluate their findings than the line officers of the 1898 board had been.{{sfn|Wegner|p=13}}
+
+Beginning in December 1910, a [[cofferdam]] was built around the wreck and water was pumped out, exposing the wreck by late 1911. Between 20 November and 2 December 1911, a court of inquiry headed by Rear Admiral [[Charles E. Vreeland]] inspected the wreck. They concluded that an external explosion had triggered the explosion of the magazines. This explosion was farther aft and lower powered than concluded by the Sampson Board. The Vreeland Board also found that the bending of frame 18 was caused by the explosion of the magazines, not by the external explosion.<ref name="spanamwar" /> After the investigation, the newly located dead were buried in [[Arlington National Cemetery]] and the hollow, intact portion of the hull of ''Maine'' was refloated and ceremoniously scuttled at sea on 16 March 1912.<ref>[http://www.navsource.org/archives/01/maine.htm Maine (2nd Class Battleship)] {{Webarchive|url=https://web.archive.org/web/20091226151809/http://www.navsource.org/archives/01/maine.htm |date=26 December 2009 }}, ''NavSource'' Online: Battleship Photo Archive</ref>
+
+=== 1974 Rickover investigation ===
+Admiral [[Hyman G. Rickover]] became intrigued with the disaster and began a private investigation in 1974, using information from the two official inquiries, newspapers, personal papers, and information on the construction and ammunition of ''Maine''. He concluded that the explosion was not caused by a mine, and speculated that spontaneous combustion was the most likely cause, from coal in the bunker next to the magazine. He published a book about this investigation in 1976 entitled ''How the Battleship ''Maine'' Was Destroyed''.{{sfn|NHHC The Destruction of USS Maine}}
+
+In the 2001 book ''Theodore Roosevelt, the U.S. Navy and the Spanish–American War'', Wegner revisits the Rickover investigation and offers additional details. According to Wegner, Rickover interviewed naval historians at the Energy Research and Development Agency after reading an article in the ''[[Washington Star|Washington Star-News]]'' by John M. Taylor. The author claimed that the U.S. Navy "made little use of its technically trained officers during its investigation of the tragedy." The historians were working with Rickover on a study of the Navy's nuclear propulsion program, but they said that they knew no details of ''Maine''{{'}}s sinking. Rickover asked whether they could investigate the matter, and they agreed. Wegner says that all relevant documents were obtained and studied, including the ship's plans and weekly reports of the unwatering of ''Maine'' in 1912 (the progress of the cofferdam) written by William Furgueson, chief engineer for the project. These reports included numerous photos annotated by Furgueson with [[Frame (nautical)|frame]] and [[strake]] numbers on corresponding parts of the wreckage. Two experts were brought in to analyze the naval demolitions and ship explosions. They concluded that the photos showed "no plausible evidence of penetration from the outside," and they believed that the explosion originated inside the ship.{{sfn|Wegner|pp=8–10}}
+
+Wegner suggests that a combination of naval ship design and a change in the type of coal used to fuel naval ships might have facilitated the explosion postulated by the Rickover study. Up to the time of the ''Maine''{{'}}s building, he explains, common bulkheads separated coal bunkers from ammunition lockers, and American naval ships burned smokeless [[anthracite]] coal. With an increase in the number of steel ships, the Navy switched to [[bituminous coal]], which burned at a hotter temperature than anthracite coal and allowed ships to steam faster. Wegner explains that anthracite coal is not subject to spontaneous combustion, but bituminous coal is considerably more volatile and is known for releasing the largest amounts of [[firedamp]], a dangerous and explosive mixture of gases (chiefly [[methane]]). Firedamp is explosive at concentrations between 4% and 16%, with most violence at around 10%. In addition, there was another potential contributing factor in the bituminous coal: [[iron sulfide]], also known as [[pyrite]], was likely present. The presence of pyrites presents two additional risk factors, the first involving [[oxidation]]. Pyrite oxidation is sufficiently [[exothermic]] that underground coal mines in high-sulfur coal seams have occasionally experienced spontaneous combustion in the mined-out areas of the mine. This process can result from the disruption caused by mining from the seams, which exposes the sulfides in the ore to air and water. The second risk factor involves an additional capability of pyrites to provide fire ignition under certain conditions. Pyrites derive their name from the Greek root word [[pyr (disambiguation)|pyr]], meaning ''fire'', as they can cause sparks when struck by steel or other hard surfaces. Pyrites were used to strike sparks to ignite gunpowder in [[wheellock]] guns, for example. The pyrites could have provided the ignition capability needed to create an explosion. A number of bunker fires of this type had been reported aboard warships before the ''Maine''{{'}}s explosion, in several cases nearly sinking the ships. Wegner also cites a 1997 [[heat transfer]] study which concluded that a coal bunker fire could have taken place and ignited the ship's ammunition.{{sfn|Wegner|p=11}}
+
+=== 1998 ''National Geographic'' investigation ===
+In 1998, ''[[National Geographic (magazine)|National Geographic]]'' magazine commissioned an analysis by Advanced Marine Enterprises (AME). This investigation, done to commemorate the centennial of the sinking of USS ''Maine'', was based on computer modeling, a technique unavailable for previous investigations. The results reached were inconclusive. ''National Geographic'' reported that "a fire in the coal bunker could have generated sufficient heat to touch off an explosion in the adjacent magazine [but] on the other hand, computer analysis also shows that even a small, handmade mine could have penetrated the ship's hull and set off explosions within".<ref>{{cite journal|last=Allen|first=Thomas B.|title=Remember ''The Maine''?|journal=[[National Geographic (magazine)|National Geographic]]|date=February 1998|volume=193|issue=2|page=107}}</ref> The AME investigation noted that "the size and location of the soil depression beneath the ''Maine'' 'is more readily explained by a mine explosion than by magazine explosions alone'".<ref name="lawlibrary" /> The team noted that this was not "definitive in proving that a mine was the cause of the sinking" but it did "strengthen the case".<ref name="lawlibrary" />
+
+Some experts, including Admiral Rickover's team and several analysts at AME, do not agree with the conclusion.<ref name="lawlibrary" /> Wegner claims that technical opinion among the ''Geographic'' team was divided between its younger members, who focused on computer modeling results, and its older ones, who weighed their inspection of photos of the wreck with their own experience. He adds that AME used flawed data concerning the ''Maine''{{'}}s design and ammunition storage. Wegner was also critical of the fact that participants in the Rickover study were not consulted until AME's analysis was essentially complete, far too late to confirm the veracity of data being used or engage in any other meaningful cooperation.{{sfn|Wegner|pp=14–15}}
+
+=== 2002 Discovery Channel ''Unsolved History'' investigation ===
+In 2002, the [[Discovery Channel]] produced an episode of the ''[[Unsolved History]]'' documentaries, entitled "Death of the U.S.S. ''Maine''".  It used photographic evidence, naval experts, and archival information to argue that the cause of the explosion was a coal bunker fire, and it identified a weakness or gap in the bulkhead separating the coal and powder bunkers that allowed the fire to spread from the former to the latter.<ref>{{Cite web|url=https://miami-history.com/anchor-chain-fence-on-brickell-avenue/ |title=Anchor Chain Fence on Brickell Avenue |website=miami-history.com |first=Casey |last=Piket |date=16 December 2019 |access-date=24 July 2020}}</ref>
+
+=== False flag operation conspiracy theories ===
+Several claims have been made in Spanish-speaking media that the sinking was a [[false flag]] operation conducted by the U.S.<ref>{{cite news|last=de Prada |first=Juan Manuel |date=14 June 2019 |title=Falsa bandera para imbéciles |language=es |trans-title=False flag for morons |publisher=[[ABC (newspaper)|ABC]] |url=https://www.abc.es/opinion/abci-falsa-bandera-para-imbeciles-201906142353_noticia.html?ref=https%3A%2F%2Fduckduckgo.com%2F |access-date=1 March 2020}}</ref><ref>{{Cite web|last=Martínez |first=Suso |date=18 April 2018 |title=Estados Unidos, sus secuaces y los ataques de falsa bandera |trans-title=United States, their henchmen and false flag attacks |url=https://diario16.com/estados-unidos-secuaces-los-ataques-falsa-bandera/ |access-date=1 March 2020 |publisher=Diario16 |language=es}}</ref> and those claims are the official view in Cuba.<ref name="New York Times 14 February 1998" /> The [[Monument to the Victims of the USS Maine (Havana)|''Maine'' monument in Havana]] describes ''Maine''{{'}}s sailors as "victims sacrificed to the imperialist greed in its fervor to seize control of Cuba",<ref>{{Cite web|url=http://www.cnn.com/US/9802/15/remember.the.maine/ |title=Remembering the Maine |publisher=CNN |first=Lucia |last=Newman |date=15 February 1998 |access-date=7 July 2009}}</ref> which claims that U.S. agents deliberately blew up their own ship.<ref>{{Cite book|first1=Conner |last1= Gorry |first2=David |last2=Stanley |url=https://books.google.com/books?id=AQkS5MU0q-4C&pg=PA82 |title=Cuba travel guide |isbn=978-1-74059-120-1 |edition=3rd |year=2004 |page=82}}</ref>
+
+[[Eliades Acosta]] was the head of the [[Cuban Communist Party]]'s Committee on Culture and a former director of the José Martí National Library in Havana. He offered the standard Cuban interpretation in an interview to ''The New York Times'', but he adds that "Americans died for the freedom of Cuba, and that should be recognized."<ref name="New York Times 14 February 1998" /> This claim has also been made in Russia by Mikhail Khazin, a Russian economist who once ran the cultural section at [[Komsomolskaya Pravda]],<ref>{{Cite web|url=http://www.business-gazeta.ru/article/4429/3/ |title=Михаил Хазин: "Через три года большинство наших олигархов разорятся" |trans-title=Mikhail Khazin: "In 3 years, most of our oligarchs will go bankrupt" |publisher=Biznes Online |date=29 October 2008 |access-date=8 July 2009 |language=ru |archive-url=https://web.archive.org/web/20120111195336/http://www.business-gazeta.ru/article/4429/3/ |archive-date=11 January 2012}}</ref> and in Spain by [[Eric Frattini]], a Spanish Peruvian journalist in his book ''Manipulando la historia. Operaciones de Falsa Bandera. Del Maine al Golpe de estado de Turquía''.<ref name='EF'>{{Cite book|title=Manipulando la historia. Operaciones de Falsa Bandera. Del Maine al Golpe de estado de Turquía |trans-title=Manipulating history. False Flag Operations. From Maine to the Turkish coup d'état |first=Eric |last=Frattini |year=2016 |publisher=Temas de Hoy |location=Barcelona |isbn=978-84-9998-584-8 |language=es |pages=26, 28}}</ref>
+
+[[Operation Northwoods]] was a series of proposals prepared by Pentagon officials for the Joint Chiefs of Staff in 1962, setting out a number of proposed false flag operations that could be blamed on the Cuban Communists in order to rally support against them.<ref>{{cite web|title=U.S. Military Wanted to Provoke War With Cuba |publisher=ABC News |date=1 May 2001 |first=David |last=Ruppe |url=https://abcnews.go.com/US/story?id=92662&page=1#.TxsGQG_Ox2B}}</ref><ref name="NYT, Northwoods">{{cite news|url = https://www.nytimes.com/1997/11/19/us/declassified-papers-show-anti-castro-ideas-proposed-to-kennedy.html |title = Declassified Papers Show Anti-Castro Ideas Proposed to Kennedy |work = [[The New York Times]] |date = 19 November 1997 |location = New York City |issn = 0362-4331 |access-date = 16 February 2014 |first = Tim |last = Weiner |archive-url = https://web.archive.org/web/20140216093523/http://www.nytimes.com/1997/11/19/us/declassified-papers-show-anti-castro-ideas-proposed-to-kennedy.html |archive-date = 16 February 2014 |url-status=live |df = dmy-all }}</ref> One of these suggested that a U.S. Navy ship be blown up in Guantanamo Bay deliberately. In an echo of the yellow press headlines of the earlier period, it used the phrase "A 'Remember the ''Maine''' incident".<ref name="NYT, Northwoods" /><ref>{{cite web|title=Operation Northwoods |url=http://www2.gwu.edu/~nsarchiv/news/20010430/northwoods.pdf |author=Secretariat to the [[Joint Chiefs of Staff]] |location=Washington D.C. |page=8 |access-date=22 October 2013}}</ref>
+
+== Raising and final sinking ==
+[[File:USS Maine (ACR 1), raising her wreck in Havana Harbor, Cuba, 1910 (21272250174).jpg|right|thumb|Raising ''Maine'' on 20 December 1910]]
+For several years, the ''Maine'' was left where she sank in Havana harbor, but it was evident she would have to be removed sometime. It took up valuable space in the harbor, and the buildup of [[silt]] around her hull threatened to create a [[shoal]]. In addition, various patriotic groups wanted mementos of the ship. On 9 May 1910, Congress authorized funds for the removal of the ''Maine'', the proper interment in Arlington National Cemetery of the estimated 70 bodies still inside, and the removal and transport of the main mast{{clarify|date=February 2019}} to Arlington. Congress did not demand a new investigation into the sinking at that time.{{sfn|Rickover|p=79}}
+
+The [[United States Army Corps of Engineers|Army Corps of Engineers]] built a [[cofferdam]] around the ''Maine'' and pumped water out from inside it.<ref name="CoE">{{cite book |url=http://cdm16021.contentdm.oclc.org/cdm/singleitem/collection/p16021coll4/id/156 |title=Working in the dry: Cofferdams, in-river construction, and the United States Army Corps of Engineers |last=O'Bannon |first=Patrick |date=2009 |publisher =U.S. Army Corps of Engineers, Pittsburgh District |pages=70–71 |oclc=503092530 |access-date = April 12, 2017}}</ref> By 30 June 1911, the ''Maine''{{'}}s main deck was exposed. The ship forward of frame 41 was entirely destroyed; a twisted mass of steel out of line with the rest of the hull, all that was left of the bow, bore no resemblance to a ship. The rest of the wreck was badly corroded. Army engineers dismantled the damaged superstructure and decks, which were then dumped at sea. About halfway between bow and stern, they built a concrete and wooden bulkhead to seal the after-section, then cut away what was left of the forward portion. Holes were cut in the bottom of the after-section, through which jets of water were pumped, to break the mud seal holding the ship, then plugged, with flood cocks, which would later be used for sinking the ship.{{sfn|Rickover|pp=82, 84}}
+
+{{Wide image|Wreck uss maine.jpg|1200px|Wreckage of ''Maine'' surrounded by a [[cofferdam]], on 16 June 1911}}
+
+The ''Maine'' had been outfitted with [[Worthington Corporation|Worthington]] steam pumps. After lying on the bottom of Havana harbor for fourteen years these pumps were found to be still operational, and were subsequently used to raise the ship.<ref>{{cite book | title=100 years, 1840–1940, Worthington | author=Worthington Pump and Machinery Corporation | year=1940 | location=Harrison, New Jersey | publisher=Worthington Pump and Machinery Corporation| oclc=11452636}}</ref>{{page needed|date=February 2018}}
+
+[[File:Maine sinking 1912.jpg|thumb|USS ''Maine'' sinking after being scuttled off the shore of Cuba|left]]
+On 13 February 1912, the engineers let water back into the interior of the cofferdam. Three days later, the interior of the cofferdam was full and ''Maine'' floated. Two days after that, the ''Maine'' was towed out by the tug {{USS|Osceola|AT-47|2}}. The bodies of its crew were then removed to the armored cruiser {{USS|North Carolina|ACR-12|2}} for repatriation. During the salvage, the remains of 66 men were found, of whom only one, Harry J. Keys (an engineering officer), was identified and returned to his home town; the rest were reburied at Arlington National Cemetery, making a total of 229 ''Maine'' crew buried there.<ref name="arlingtoncemetery.org" /> On 16 March, the ''Maine'' was towed four miles from the Cuban coast by ''Osceola'', escorted by ''North Carolina'' and the [[light cruiser]] {{USS|Birmingham|CL-2|2}}. She was loaded with dynamite as a possible aid to her sinking.<ref name="americanheritage.com">{{Cite web|url=https://www.americanheritage.com/second-sinking-maine-0#5|title=The Second Sinking Of The 'Maine' &#124; AMERICAN HERITAGE|website=www.americanheritage.com}}</ref> Flowers adorned ''Maine'''s deck, and an American flag was strung from her jury mast.<ref name="americanheritage.com"/> At 5pm local time, with a crowd of over 100,000 persons watching from the shore, her [[sea cock]]s were opened, and just over twenty minutes later, ''Maine'' sank, bow first, in {{convert|600|fathom|ft m}} of water, to the sound of [[taps]] and the [[21-gun salute|twenty-one gun salutes]] of ''Birmingham'' and ''North Carolina''.<ref>{{cite journal | last = Allen | first = Francis J. | year = 1998 | title = Honoring the Heroes: The Raising of the Wreck of the U.S. Battleship Maine | journal = Warship International | publisher = International Naval Record Organization | location = Toledo, OH | volume = XXXV | issue = 4 | pages = 386–405 | issn = 0043-0374 }}</ref>{{sfn|Rickover|pp=84, 86}}
+
+== Rediscovery ==
+In 2000, the wreck of ''Maine'' was rediscovered by Advanced Digital Communications, a [[Toronto]]-based expedition company, in about 3,770 feet (1,150 m) of water roughly 3 miles (4.8&nbsp;km) northeast of Havana Harbor. The company had been working with Cuban scientists and oceanographers from the [[University of South Florida]] College of Marine Science, on testing underwater exploration technology. The ship had been discovered east of where it was believed it had been scuttled; according to the researchers, during the sinking ceremony and the time it took the wreck to founder, currents pushed ''Maine'' east until it came to rest at its present location. Before the team identified the site as ''Maine'', they referred to the location as the "square" due to its unique shape, and at first they did not believe it was the ship, due to its unexpected location. The site was explored with a [[Remotely operated underwater vehicle]] (ROV). According to Dr. Frank Muller-Karger, the hull was not oxidized and the crew could "see all of its structural parts".<ref name=miamipaper/> The expedition was able to identify the ship due to the doors and hatches on the wreck, as well as the anchor chain, the shape of the propellers, and the holes where the bow was cut off. Due to the 1912 raising of the ship, the wreck was completely missing its bow; this tell-tale feature was instrumental in identifying the ship. The team also located a boiler nearby, and a debris field of coal.<ref name="miamipaper">{{cite news|last=Brecher|first=Elinor|title=Scientists Stumble Upon Sunken Maine|url=http://docs.newsbank.com.www2.lib.ku.edu:2048/openurl?ctx_ver=z39.88-2004&rft_id=info:sid/iw.newsbank.com:NewsBank:MIHB&rft_val_format=info:ofi/fmt:kev:mtx:ctx&rft_dat=0EB72F61AF8CECEE&svc_dat=InfoWeb:aggregated5&req_dat=0F8479522BD09CA1|access-date=27 June 2013|newspaper=[[The Miami Herald]]|date=10 December 2000}} [http://www.latinamericanstudies.org/ussmaine/stumble-maine.htm Alt URL] {{subscription required}}</ref> The wreck lied capsized onto its port side, buried deeply in the mud on the seafloor - all the way up to halfway up the starboard propeller.
+
+== Memorials ==
+
+=== Arlington, Annapolis, Havana, Key West ===
+In February 1898, the recovered bodies of sailors who died on ''Maine'' were interred in the [[Colon Cemetery, Havana]]. Some injured sailors were sent to hospitals in Havana and Key West, Florida. Those who died in hospitals were buried in Key West. In December 1899, the bodies in Havana were disinterred and brought back to the United States for burial at Arlington National Cemetery.<ref>{{cite web | first = Patrick | last = McSherry | url = http://www.spanamwar.com/mainefuneral.html | title = The First Funeral of the Crew of the Battleship MAINE | publisher = SpanAmWar.com | access-date =28 March 2010 }}</ref> In 1915, President [[Woodrow Wilson]] dedicated the [[USS Maine Mast Memorial|USS ''Maine'' Mast Memorial]] to those who died. The memorial includes the ship's main mast. Roughly 165 were buried at Arlington, although the remains of one sailor were exhumed for his home town, [[Indianapolis, Indiana]]. Of the rest, only 62 were known.<ref name="arlingtoncemetery.org" /> Nine bodies were never recovered and 19 crewmen, several unidentified, are buried in [[Key West Cemetery]] under a statue of a U.S. sailor holding an oar.{{efn|name=remains}}
+
+<gallery perrow="4" widths="160px" heights="190px">
+File:USS Maine Foremast USNA 20180915.jpg|thumb|alt=Picture of the foremast of the USS Maine located at the United States Naval Academy, Annapolis, MD|The foremast of the USS Maine located at the United States Naval Academy, Annapolis, MD.
+File:USS Maine Foremast Plaque USNA 20180915.jpg|thumb|alt=Memorial plaque on foremast of USS Maine located at the United States Naval Academy, Annapolis, MD.|Memorial plaque installed on the foremast of the USS Maine located at the United States Naval Academy, Annapolis, MD reading: "Foremast of The USS Maine.  Ship blown up, Havana 15, Feb, 1898.  Mast recovered 6, Oct, 1910.  Erected here 5, May, 1913."
+File:USS Maine Mast.jpg|Memorial at Arlington National Cemetery centered on the ship's main mast
+File:CubanFriendshipUrnWashingtonDC.jpg|The [[Cuban Friendship Urn]] on [[Ohio Drive]], [[Southwest, Washington, D.C.]], [[East Potomac Park]]
+File:MaineMonument1200.jpg|[[Monument to the Victims of the USS Maine (Havana)|Monument to victims of ''Maine'' in Havana, Cuba]], c. 1930
+File:Gun recovered from the USS Maine.jpg|A 6-inch gun from ''Maine'' at Fort Allen Park in [[Portland, Maine]]
+File:U.S. Battleship Maine Monument Key West Cemetery, Florida.jpg|U.S. Battleship ''Maine'' Monument Key West Cemetery, Florida
+</gallery>
+
+The explosion-bent fore mast of ''Maine'' is located at the [[United States Naval Academy]] at [[Annapolis, Maryland]].<ref>{{cite web | url = http://www.netitor.com/photos/schools/navy/sports/m-crew/auto_pdf/crewmg.pdf|page=11 | title = 2001 Navy crew media guide | access-date =8 April 2010 }}</ref>
+
+In 1926, the Cuban government erected a memorial to the victims of ''Maine'' on the [[Malecon, Havana|Malecon]], near the [[Hotel Nacional de Cuba|Hotel Nacional]], to commemorate United States assistance in acquiring Cuban independence from Spain.  The monument features two of ''Maine''{{'}}s four 10-inch guns. In 1961, the memorial was damaged by crowds, following the [[Bay of Pigs Invasion]], and the eagle on top was broken and removed.<ref name="Baker" /> The Communist government then added its own inscription blaming "imperialist voracity in its eagerness to seize the island of Cuba" for ''Maine''{{'}}s sinking.<ref name="Baker" /><ref>''The Rough Guide to Cuba'' {{ISBN|978-1-84353-811-0}} p. 159</ref> The monument was cleaned and restored in 2013. The eagle's head was retained by the U.S. Interests Section in Havana, and the body by the city's museum.<ref>{{cite web|url=https://news.yahoo.com/havana-restores-monument-victims-uss-maine-091350756.html|title=Havana restores monument to victims of USS Maine|date=16 February 2013|work=Yahoo News}}</ref>
+
+=== USS ''Maine'' Monument, New York City ===
+{{Main|USS Maine National Monument}}
+
+<gallery>
+File:USS Maine Mounment (1913), New York, NY (P1010836).JPG|USS ''Maine'' Monument in New York City
+File:USS Maine (ACR-1) Monument Columbus Circle NYC.JPG|USS ''Maine'' Monument, Columbus Circle, NYC
+File:USS Maine (ACR-1) Monument Columbus Circle NYC Columbia Triumphant.JPG|Columbia Triumphant
+File:USS Maine Monument (1913), New York City (P1000111).JPG|Memorial plaque by [[Charles Keck]], USS ''Maine'' Memorial
+File:USS Maine Monument (1913), New York City (P1000124R).JPG|Sculpture group by [[Attilio Piccirilli]] at USS ''Maine'' Memorial
+File:USS Maine Monument (1913), New York City (P1000126).JPG|Columbia Triumphant sculpture group atop USS ''Maine'' Memorial
+</gallery>
+
+=== Other memorials ===
+* In 1898, [[Georges Méliès]] made his movie, [[Divers at Work on the Wreck of the "Maine"]], about rescuers freeing bodies from the sunken ''Maine''.<ref>{{citation |last1=Malthête |first1=Jacques |last2=Mannoni |first2=Laurent |title=L'oeuvre de Georges Méliès |year=2008 |location=Paris |publisher=Éditions de La Martinière |isbn=978-2732437323 |page=338 |language=fr}}</ref>
+* On March 25, 1912, a cowl from the USS Maine arrived in Woburn, Massachusetts and is still on display in Woburn Center.
+* In 1912, a porthole cover and a section of the base mast was given to the [[Newburgh Heights, Ohio|City of Newburgh Heights, Ohio]].  The relics were mounted on a large rock in the city's Washington Park in 1948.<ref>{{cite web| url = https://case.edu/ech/articles/u/uss-maine-relic | title = U.S.S. Maine Relic – Encyclopedia of Cleveland History | publisher = Case Western Reserve University | date = 12 May 2018 | access-date = 2 October 2019 }}</ref>
+* In 1914, one of ''Maine''{{'}}s six anchors was taken from the [[Washington Navy Yard]] to City Park in [[Reading, Pennsylvania]], and dedicated during a ceremony presided over by [[Franklin D. Roosevelt]], who was then assistant secretary of the navy.<ref>{{cite news | last = Cuyler | first = Greta | title = Group recalls dedication of anchor from U.S. warship in Reading's City Park | newspaper = Reading Eagle | date = 11 August 2008 | url = http://readingeagle.com/article.aspx?id=101544 | access-date =8 April 2010 }}</ref>
+* A brass torpedo tube hatch recovered from ''Maine'' is on display at Lakeside Park in Oakland, California. It was stolen from its mount in the park in May 2011, but quickly recovered by authorities after the thieves attempted to sell it for scrap metal. The large piece was relocated and mounted by OPW Facility Services in front of Oakland's Veterans building on Grand Ave.<ref>{{cite web| url = http://sanfrancisco.cbslocal.com/2011/05/16/oakland-thieves-make-off-with-relic-from-uss-maine/ | title = Oakland Thieves Make Off With Relic From USS Maine | publisher = CBS Local Media|work= SanFrancisco.CBSlocal.com | date = 16 May 2011 | access-date =2 October 2011 }}</ref>
+* [[Battleship Maine Monument|A memorial]] including the shield and scrollwork from the bow of the ship is located in [[Bangor, Maine]].<ref>{{NRISref|version=2010a}}</ref>
+* A 6-inch gun from ''Maine'' is in [[Washington, D.C.]] at the [[National Museum of the United States Navy]].<ref>{{Cite news |url=https://www.navy.mil/submit/display.asp?story_id=96094 |title=Remember the Maine! Historic Ship's Gun on Road to Conservation |last=Lockwood |first=Eric |date=2016-08-08 |work=Navy News Service |access-date=2019-02-08 |publisher=Naval History and Heritage Command |df=dmy-all}}</ref>
+* A 6-inch gun from ''Maine'' is in [[Fort Allen Park]] in [[Portland, Maine]].<ref>{{Cite news |url=https://bangordailynews.com/2014/09/09/news/portland/lepage-return-of-gun-from-sunken-uss-maine-to-highlight-portland-parks-bicentennial-celebration/ |title=LePage, return of gun from sunken USS Maine to highlight Portland park's bicentennial celebration |last=Harry |first=David |date=2014-09-09 |work=Bangor Daily News |access-date=2019-02-08 |df=dmy-all}}</ref>
+* A 6-inch gun from ''Maine'' is displayed on the front lawn of city hall in [[Alpena, Michigan]], as well as a bronze plaque made from the vessel.<ref>{{Cite web |url=http://www.nemoha.org/3222127/data |title=USS MAINE Cannon in front of City Hall |website=Northeast Michigan Oral History and Photographic Archive |publisher=Alpena County George M. Fletcher Public Library |language=en |access-date=2019-02-08 |df=dmy-all}}</ref>
+* The base of ''Maine''{{'}}s conning tower is currently on display at Westbrook Veterans' Memorial Park in [[Canton, Ohio]], hometown of President McKinley.<ref>{{Cite news |url=https://www.cantonrep.com/article/20150627/LIFESTYLE/150629518 |title=200 Things that play in Stark County: Veterans Memorial Park |date=2015-06-27 |work=[[The Repository]] |access-date=2019-02-08 |df=dmy-all}}</ref>
+* Shells from the main battery were placed along with small plaques as memorials at the Soldier's Home in [[Marion, Indiana]] (now a [[VA hospital]] and national cemetery),<ref>{{Cite web |url=https://www.nps.gov/nr/travel/national_cemeteries/indiana/marion_national_cemetery.html |title=Marion National Cemetery |website=[[National Park Service]] |access-date=2019-02-08 |df=dmy-all}}</ref> at the St. Joseph County Courthouse lawn in [[South Bend, Indiana]],<ref>{{Cite web |url=http://www.archives.nd.edu/about/news/index.php/2012/remember-the-maine-and-shilly/ |title=Remember the Maine and Shilly |date=2012-02-15 |website=University of Notre Dame Archives |access-date=2019-02-08 |df=dmy-all}}</ref> and at [[Point Defiance Park]] in [[Tacoma, Washington]].<ref>{{Cite book |url=https://books.google.com/books?id=SBF2aTI6PLAC&q=uss%2520maine%2520shell%2520tacoma&pg=PA38 |title=Tacoma's Point Defiance Park |last1=McGinnis |first1=Melissa |last2=Simpkins |first2=Doreen Beard |publisher=Arcadia Publishing |year=2012 |isbn=978-0738595917 |page=38}}</ref> A shell from the main battery is located in Veterans Park in [[Lewiston, Maine]].<ref>{{cite web |url=http://www.lewistonmaine.gov/DocumentCenter/View/5353/VETERANS-PARK---BROCHURE---BOTH-PAGES-2015?bidId= |format=PDF |title=Veterans Park |publisher=City of Lewiston, Maine |year=2015 |access-date=2019-02-08 |df=dmy-all}}</ref>
+* A monument for ''Maine'' with a portion of a bronze engine room ventilator shaft is located in [[Pompton Lakes, New Jersey]].<ref>{{cite web | url = http://www.pomptonlakesgov.com/229/USS-Battleship-Maine | title = USS Battleship Maine | publisher = Borough of Pompton Lakes, N.J. | access-date =16 June 2017 }}</ref>
+* The capstan of the ship was secured for [[Charleston, South Carolina]] where it was displayed on the Battery until 2006; it is currently awaiting reinstallation.<ref>{{cite news | newspaper = The Evening Post (Charleston, SC) | title = Maine Relics Are Here | date = 11 September 1913 }}</ref>
+* A shell from the ''Maine'' is on display at the Hoboken Public Library in [[Hoboken, New Jersey]].<ref>{{Cite web |url=https://hobokenlibrary.org/library-history/ |title=Library History |website=Hoboken Public Library |access-date=2019-02-08 |df=dmy-all}}</ref>
+* There is a plaque dedicated to ''Maine'' at the war memorial in Stephen R. Gregg Park in [[Bayonne, New Jersey]]. The plaque is made from metal salvaged from the ship.<ref>{{cite journal | last1 = Coughlin | first1 = Bill | year = 2012 | title = U.S.S. Maine Memorial Marker. | publisher = Bill Coughlin | url =http://www.hmdb.org//marker.asp?MarkerID=54632 | access-date =25 July 2014}}</ref>
+* A 6-pound deck gun from ''Maine'' is on the North lawn of the South Carolina State House in [[Columbia, South Carolina]].<ref>{{Cite web |url=https://www.onecolumbiasc.com/public-art/battleship-maine-gun-monument/ |title=Battleship Maine Gun Monument |website=One Columbia for Arts & History |access-date=2019-02-08 |df=dmy-all}}</ref>
+* A 6-pound deck gun from ''Maine'' is at the White Plains Public Works Yard in [[White Plains, New York]], after being removed from Battle Whitney Park.<ref>{{Cite news |url=https://bangordailynews.com/2011/03/28/news/uss-maine-deck-gun-relegated-to-shed-in-new-york-recycling-waste-facility/ |title=USS Maine deck gun relegated to shed in New York recycling-waste facility |last=Neff |first=Andrew |date=2011-03-28 |work=Bangor Daily News |access-date=2019-02-08 |df=dmy-all}}</ref>
+* One of the ship's anchors was donated to the city of Reading, Pennsylvania. Then Secretary of the Navy, Franklin D. Roosevelt was present at its installation in City Park.
+* A bronze torpedo tube and armoured hatch form part of a memorial in West Park, Pittsburgh, Pennsylvania, just south of West North Avenue.<ref>{{cite web |url=http://www.waymarking.com/waymarks/WM769B_Maine_Memorial_Pittsburgh_PA |title=Maine Memorial – Pittsburgh, PA |work=waymarking.com |access-date=6 January 2019}}</ref>
+* There is also a USS ''Maine'' Memorial plaque (visible in photographs and physically in situ) at the south door of the Jefferson County Courthouse, in Steubenville, Ohio.<ref>{{Cite news |url=http://www.timesleaderonline.com/news/local-news/2009/12/courthouse-a-grand-structure/ |title=Courthouse: A grand structure |last=Sedgmer |first=K. |date=2009-12-06 |work=[[Martins Ferry Times Leader]] |access-date=2019-02-08 |df=dmy-all}}</ref>{{Coord|23.198|-82.355|format=dms |display=title|name=USS Maine|type:landmark_dim:100m_scale:90000_region:CU-02 }}<ref>{{cite web |url=https://www.abc.se/~pa/mar/ussmaine.htm |title= Discovery of USS Maine |date= July 2003|website=Nordic Underwater Archaeology |access-date=1 January 2015}}</ref>
+* The [[Maine State Museum]] in [[Augusta, Maine|Augusta]] has a porthole on display, recovered in 1910.  It has other artifacts which are not on display.
+
+== See also ==
+{{Portal|Battleships}}
+* [[List of battleships of the United States Navy]]
+* [[United States Navy Memorial#Other Navy memorials|U.S. Navy memorials]]
+* [[Monument to the Victims of the USS Maine (Havana)]]
+
+== Explanatory notes ==
+
+{{notelist|colwidth=30em
+| notes =
+
+{{efn
+| name = commissioning
+| {{USS|Texas|1892|2}} was laid down after ''Maine'', but commissioned first.
+}}
+
+{{efn
+| name = torpedos
+| Sources are contradictory about the size of the torpedoes carried by ''Maine''. {{harvnb|Friedman, ''Battleships''|p=}}{{page needed | date = October 2011}} and {{harvnb|Reilly & Scheina|p=}}{{page needed | date = October 2011}} specify eighteen-inch [[Robert Whitehead|Whitehead]] torpedoes, but {{harvnb|Gardiner|p=139}}, and {{harvnb|DANFS Maine}} say 14-inch.
+}}
+
+{{efn
+| name = remains
+| Besides 1 set of remains removed from Arlington and reburied in 1899 and one set of remains recovered in 1911 and buried in hometown 2 other remains were also buried elsewhere as well. See {{cite book | author = US Army Quartermaster | year = 1913 | url = https://books.google.com/books?id=IikSAAAAYAAJ&pg=PA510 | title = US Army Quartermaster Report of 1912 | page = 511 | publisher = US War Department | access-date =24 April 2010 }}
+}}
+}}
+
+== References ==
+=== Citations ===
+{{reflist|20em
+| refs =
+<ref name="The Spanish–American War 1898">
+{{cite journal
+ |title       = The Spanish–American War (1898)
+ |publisher   = State of Maine: Secretary of State: Bureau of Corporations, Elections, and Commissions
+ |url         = http://maine.gov/sos/cec/elec/voter_info/veteran/spanish.htm
+ |access-date  = 11 February 2008
+ |url-status=dead
+ |archive-url  = https://web.archive.org/web/20080213222747/http://www.maine.gov/sos/cec/elec/voter_info/veteran/spanish.htm
+ |archive-date = 13 February 2008
+ |df          = dmy-all
+}}
+</ref>
+
+<ref name="offsampson">
+{{cite web
+| title = Official Report of the Naval Court of Inquiry into the loss of the Battleship MAINE (Sampson Board)
+| date = 22 March 1898
+| publisher = SpanAmWar.com
+| url = http://www.spanamwar.com/mainerpt.htm
+| access-date =22 January 2008
+}}
+</ref>
+
+<ref name="New York Times 21 April 1898">
+{{cite news
+| newspaper = The New York Times
+| date = 21 April 1898
+| title = A Few Spaniards Flee; Not Many Accept Free Transportation from Here to Havana on the Panama. Crowds see them Depart&nbsp;– Shouts of Derision Follow the Vessel, Which Is Rumored to Have Munitions of War Aboard&nbsp;– The Seneca Also Sails
+| url = https://timesmachine.nytimes.com/timesmachine/1898/04/21/102490608.pdf
+| access-date =2 October 2011
+}}
+</ref>
+
+<ref name="marine375">
+{{cite news
+| magazine = Marine Engineer and Naval Architect
+| date = 1 December 1890
+| title = The New United States Battleship "Maine"
+| format = PDF
+| url = https://books.google.com/books?id=7gwAAAAAMAAJ&pg=PA375
+| access-date =4 April 2012
+}}
+</ref>
+
+<ref name="navy_report_1890">
+{{cite journal
+| author = United States Navy
+| year = 1890
+| title = Annual Report of the Secretary of the Navy
+| url = https://books.google.com/books?id=dS9HAQAAIAAJ&pg=PA7
+| format = PDF
+| access-date =4 April 2012
+}}
+</ref>
+
+<ref name="spanamwar">
+{{cite web
+| last = McMorrow
+| first = Edward P.
+| title = What Destroyed the USS MAINE&nbsp;– An opinion
+| publisher = SpanAmWar.com
+| url = http://www.spanamwar.com/Mainemo1.htm
+| access-date =7 April 2010
+}}
+</ref>
+
+<ref name="lawlibrary">
+{{cite journal
+| first = Louis
+| last = Fisher
+| title = Destruction of the Maine (1898)
+| publisher = The Law Library of Congress
+| url = https://web.archive.org/web/20210424181239/https://www.loc.gov/law/help/usconlaw/pdf/Maine.1898.pdf
+}}
+</ref>
+
+<ref name="New York Times 14 February 1998">
+{{cite news
+| last = Rohter
+| first = Larry
+| title = Remember the Maine? Cubans See an American Plot Continuing to This Day
+| newspaper = The New York Times
+| date = 14 February 1998
+| url = https://www.nytimes.com/1998/02/14/world/havana-journal-remember-maine-cubans-see-american-plot-continuing-this-day.html?pagewanted=all
+| access-date =2 October 2011
+}}
+</ref>
+
+<ref name="arlingtoncemetery.org">[http://www.arlingtoncemetery.org/visitor_information/USS_Maine.html The USS Maine Mast Memorial] {{Webarchive|url=https://web.archive.org/web/20071019085903/http://www.arlingtoncemetery.org/visitor_information/USS_Maine.html |date=19 October 2007 }}, ArlingtonCemetery•org (unofficial) website</ref>
+
+<ref name="Baker">
+Baker, Christopher P., "Moon Cuba", Avalon Travel Publishing; 4th edition (9 October 2006), {{ISBN|978-1-56691-802-2}}
+</ref>
+
+}}
+
+===Bibliography===
+{{USNAVY|url=https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/destruction-of-uss-maine.html|article=The Destruction of USS Maine}}
+* {{cite book
+  | last = Alden
+  | first = John D.
+  | year = 1989
+  | title = American Steel Navy: A Photographic History of the U.S. Navy from the Introduction of the Steel Hull in 1883 to the Cruise of the Great White Fleet
+  | location = Annapolis, Maryland
+  | publisher = Naval Institute Press
+  | isbn = 978-0-87021-248-2
+  }}
+* {{cite journal|last1=Allen|first1=Francis J.|year=1998 |title=Honoring the Heroes: The Raising of the Wreck of the U.S. Battleship Maine, Part I|journal=Warship International|volume=XXXV |issue=4 |pages=386–405 |issn=0043-0374}}
+* {{cite book
+  | last1 = Cowan
+  | first1 = Mark D.
+  | last2 = Sumrall
+  | first2 = Alan K.
+  | year = 2011
+  | title = "Old Hoodoo": The Battleship Texas: America's First Battleship, 1895–1911
+  | location = Charleston, South Carolina
+  | publisher = CreateSpace
+  | isbn = 978-1-4662-4894-6
+  | ref = {{sfnRef|Cowan & Sumrall}}
+  }}
+* {{cite journal|last1=Dober|first1=Mark|last2=Keough|first2=Daniel E.|last3=Koehler|first3=R. B.|year=2006|title=Question 20/04: Artifacts from USS Maine (ACR-1)|journal=Warship International|volume=XLIII|issue=2|pages=131–33 |issn=0043-0374|name-list-style=amp}}
+* {{cite book
+  | last = Friedman
+  | first = Norman
+  | year = 1984
+  | title = U.S. Cruisers, An Illustrated Design History
+  | publisher = Naval Institute Press
+  | location = Annapolis, Maryland
+  | isbn = 978-0-87021-718-0
+  | ref = {{sfnRef|Friedman, ''Cruisers''}}
+  }}
+* {{cite book
+  | last = Friedman
+  | first = Norman
+  | year = 1985
+  | title = U.S. Battleships, An Illustrated Design History
+  | publisher = Naval Institute Press
+  | location = Annapolis, Maryland
+  | isbn = 978-0-87021-715-9
+  | ref = {{sfnRef|Friedman, ''Battleships''}}
+  }}
+* {{cite book
+  | editor-last = Gardiner
+  | editor-first = Robert
+  | year = 1979
+  | title = Conway's All the World's Fighting Ships 1860–1905
+  | publisher = Mayflower Books
+  | location = New York
+  | isbn = 978-0-312-24023-3
+  | ref = {{sfnRef|Gardiner}}
+  }}
+* {{Cite book |last=Jackson |first=Robert |year=2004 |title=Fighting Ships of the World |location=London |publisher=Amber Books |page=421 |isbn=978-1840136470}}
+* {{cite book
+  | editor-last = Krause
+  | editor-first = Paul
+  | year = 1992
+  | title = The Battle for Homestead, 1880–1892: politics, culture, and steel
+  | publisher = University of Pittsburgh Press
+  | location = Pittsburgh
+  | isbn = 978-0-8229-5466-8
+  | ref = {{sfnRef|Krause}}
+  | url = https://archive.org/details/battleforhomeste00krau
+  }}
+* {{cite book
+  | editor-last = Love
+  | editor-first = Robert W., Jr.
+  | year = 1992
+  | title = History of the U.S. Navy, Volume One: 1775–1941
+  | publisher = Stackpole Books
+  | location = Harriburg, Pennsylvania
+  | isbn = 978-0-8117-1862-2
+  | ref = {{sfnRef|Love}}
+  }}
+* {{cite book
+  | editor-last = Miller
+  | editor-first = David
+  | year = 2001
+  | title = Illustrated Directory of Warships of the World
+  | publisher = Zenith Press
+  | location = Osceloa, WI
+  | isbn = 978-0-7603-1127-1
+  | ref = {{sfnRef|Miller}}
+  }}
+* {{cite book
+  | editor-last = Misa
+  | editor-first = Thomas J.
+  | year = 1999
+  | title = A Nation of Steel: The Making of Modern America, 1865–1925
+  | publisher = The Johns Hopkins University Press
+  | location = Baltimore, Maryland
+  | isbn = 978-0-8018-6052-2
+  | ref = {{sfnRef|Misa}}
+  }}
+* {{cite book
+  | editor-last = Morrison
+  | editor-first = Samuel Loring
+  | year = 2003
+  | title = The American Battleship
+  | publisher = Zenith Press
+  | location = Osceloa, WI
+  | isbn = 978-0-7603-0989-6
+  }}
+* {{cite book
+  | last = Musicant
+  | first = Ivan
+  | year = 1998
+  | title = Empire by Default: The Spanish–American War and the Dawn of the American Century
+  | publisher = Henry Holt and Company
+  | location = New York
+  | isbn = 978-0-8050-3500-1
+  | ref = {{sfnRef|Musicant}}
+  | url = https://archive.org/details/empirebydefaults00musi
+  }}
+* {{cite book
+  | first = G. J. A.
+  | last = O'Toole
+  | year = 1984
+  | title = The Spanish War: An American Epic 1898
+  | url = https://archive.org/details/spanishwarameric00otoo
+  | url-access = registration
+  | location = New York
+  | publisher = W.W. Norton
+  | ref = {{sfnRef|O'Toole}}
+  }}
+* {{cite book
+  | last = Paine
+  | first = Lincoln P.
+  | year = 2000
+  | title = Warships of the World to 1900
+  | publisher = Houghton Mifflin Harcourt
+  | location = New York
+  | isbn = 978-0-395-98414-7
+  | ref = {{sfnRef|Paine}}
+  }}
+* {{cite book
+  | last = Parkinson
+  | first = Roger
+  | year = 2008
+  | title = The Late Victorian Navy: The Pre-Dreadnought Era and the Origins of the First World War
+  | publisher = Boydell Press
+  | location = Rochester, New York
+  | isbn = 978-1-84383-372-7
+  | ref = {{sfnRef|Parkinson}}
+  }}
+* {{cite book
+  | editor-last = Pater
+  | editor-first = Alan F.
+  | year = 1968
+  | title = United States Battleships: The History of America's Greatest Fighting Ships
+  | publisher = Monitor Book Company
+  | location = Beverly Hills, California
+  | lccn = 68-17423
+  | ref = {{sfnRef|Pater}}
+  }}
+* {{cite book
+  | last = Putnam
+  | first = William Lowell
+  | year = 2000
+  | title = Arctic Superstars
+  | publisher = Amer Alpine Club
+  | location = New York
+  | isbn = 978-0-930410-82-7
+  | ref = {{sfnRef|Putnam}}
+  }}
+* {{cite book
+  | last1 = Reilly
+  | first1 = John C.
+  | last2 = Scheina
+  | first2 = Robert L.
+  | year = 1980
+  | title = American Battleships 1886–1923: Predreadnought Design and Construction
+  | publisher = Naval Institute Press
+  | location = Annapolis, Maryland
+  | isbn = 978-0-87021-524-7
+  | ref = {{sfnRef|Reilly & Scheina}}
+  }}
+* {{cite book
+  | last1 = Rickover
+  | first1 = Hyman George
+  | year = 1995
+  | title = How the Battleship Maine was Destroyed
+  | edition=Second Revised
+  | publisher = Naval Institute Press
+  | location = Annapolis, Maryland
+  | isbn = 978-1-55750-717-4
+  | ref = {{sfnRef|Rickover}}
+  }}
+* {{cite book
+  | last1 = United States Army Corps of Engineers
+  | year = 1914
+  | title = Final Report on Removing Wreck of USS Maine from Harbor of Habana, Cuba.
+  | publisher = United States Army Corps of Engineers
+  | location = Washington
+  | url = https://books.google.com/books?id=lGFCAAAAYAAJ
+  | ref = {{sfnRef|United States Army Corps of Engineers}}
+  }}
+* {{cite book
+  | last = Wegner
+  | first = Dana
+  | chapter = Chapter 2: New Interpretations of How the USS ''Maine'' Was Lost
+  | editor-last = Marolda
+  | editor-first = Edward J.
+  | year = 2001
+  | title = Theodore Roosevelt, the U.S. Navy and the Spanish–American War
+  | publisher = Palgrave Macmillan
+  | location = London
+  | isbn = 978-1-1370-5501-9
+  | ref = {{sfnRef|Wegner}}
+  | url-access = registration
+  | url = https://www.google.com/books/edition/Theodore_Roosevelt_the_U_S_Navy_and_the/L-IYDAAAQBAJ
+  }}
+* {{cite book
+  | last = Wisan
+  | first = Joseph Ezra
+  | year = 1965
+  |orig-year= c.1934
+  | title =The Cuban Crisis as Reflected in the New York Press, 1895–1898
+  | publisher = Octagon Books
+  | ref = {{sfnRef|Wisan}}
+  |oclc= 435153688
+  }}
+* {{cite DANFS
+  | title = Maine (BB-2)
+  | url = http://www.history.navy.mil/research/histories/ship-histories/danfs/m/maine-i.html
+  | access-date =2 October 2011
+  | ref = {{sfnRef|DANFS Maine}}
+  }}
+* {{cite web
+  | title = USS Maine (1895–1898), originally designated as Armored Cruiser # 1
+  | date = 17 November 1998
+  | work = Naval History & Heritage Command
+  | publisher = US Navy Department
+  | url = http://www.history.navy.mil/photos/sh-usn/usnsh-m/maine.htm
+  | access-date =2 October 2011
+  | archive-url = https://web.archive.org/web/20150110050844/http://www.history.navy.mil:80/photos/sh-usn/usnsh-m/maine.htm
+  | archive-date = 10 January 2015
+  | ref = {{sfnRef|NHHC USS Maine (1895–1898)}}
+  }}
+* {{cite web
+  | title = Sinking of USS Maine, 15 February 1898
+  | work = Naval History & Heritage Command
+  | publisher = US Navy Department
+  | url = http://www.history.navy.mil/photos/events/spanam/events/maineskg.htm
+  | access-date =2 October 2011
+  | ref = {{sfnRef|NHHC Sinking of USS Maine|15 February 1898}}
+  }}
+* {{cite web
+  | title = The Destruction of USS Maine
+  | date = 13 August 2003
+  | work = Naval History & Heritage Command
+  | publisher = US Navy Department
+  | url = http://www.history.navy.mil/faqs/faq71-1.htm
+  | access-date =2 October 2011
+  | ref = {{sfnRef|NHHC The Destruction of USS Maine}}
+  }}
+* {{cite web
+  | title = Casualties on USS Maine
+  | date = 6 February 1998
+  | work = Naval History & Heritage Command
+  | publisher = US Navy Department
+  | url = https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/destruction-of-uss-maine/casualties-on-uss-maine.html
+  | access-date =2 October 2011
+  | ref = {{sfnRef|NHHC Casualties on USS Maine}}
+  }}
+* {{cite web
+  | title = Survivors of USS Maine
+  | date = 6 February 1998
+  | work = Naval History & Heritage Command
+  | publisher = US Navy Department
+  | url = https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/destruction-of-uss-maine/survivors-of-uss-maine.html
+  | access-date =2 October 2011
+  | ref = {{sfnRef|NHHC Survivors of USS Maine}}
+  }}
+* {{cite web
+  | title = Battleship Maine
+  | year = 1996
+  | work = The Spanish American War Centennial Website
+  | publisher = www.spanamwar.com
+  | url = http://www.spanamwar.com/maine.htm
+  | access-date =2 April 2012
+  | ref = {{sfnRef|McSherry, spanmwar.com}}
+  }}
+* {{cite journal
+  | last1 = Crawford
+  | first1 = Michael J.
+  | last2 = Hayes
+  | first2 = Mark L.
+  | last3 = Sessions
+  | first3 = Michael D.
+  | date = 30 November 1998
+  | title = The Spanish–American War : Historical Overview and Select Bibliography
+  | publisher = Naval Historical Center, U.S. Department of the Navy
+  | url = http://www.history.navy.mil/biblio/biblio7/biblio7a.htm
+  | access-date =2 October 2011
+  }}
+* {{cite journal
+  | last1 = Morley
+  | first1 = Chief Eng. A. W., U.S.N.
+  | year = 1895
+  | title = Contract Trial of the United States Armored Cruiser Maine
+  | publisher = Journal of the Society of American Engineers
+  | url = http://www.twc-transcribing.com/USSMaine/USS%20Maine%20Articles/USSMaine_Stats01.htm
+  | access-date =2 April 2012
+  | ref = {{sfnRef|Morley}}
+  }}
+* {{cite journal
+  | last1 = Coughlin
+  | first1 = Bill
+  | year = 2012
+  | title = U.S.S. Maine Memorial Marker.
+  | publisher = Bill Coughlin
+  | url =http://www.hmdb.org//marker.asp?MarkerID=54632
+  | access-date =25 July 2014
+  | ref = Coughlin, Bill. "U.S.S. Maine Memorial Marker." U.S.S. Maine Memorial Marker. Bill Coughlin, 19 April 2012. Web. 25 July 2014. <http://www.hmdb.org//marker.asp?MarkerID=54632>.
+  }}
+
+== Further reading ==
+* Allen, Thomas B. "Remember the ''Maine?''" ''National Geographic'', Vol. 193, No 2 (February 1998): 92–111.
+* Allen, Thomas B. ed. "What Really Sank the ''Maine''?" ''Naval History'' 11 (March/April 1998): 30–39.
+* Blow, Michael. ''A Ship to Remember: The Maine and the Spanish–American War.'' New York: William Morrow & Co., 1992. {{ISBN|978-0-688-09714-1}}.
+* Foner, Philip S. ''The Spanish-Cuban-American War and the Birth of American Imperialism 1895–1902''. 2 Volumes, New York/London 1972 (very detailed with plenty of sources from US archives).
+* Samuels, Peggy and Harold. ''Remembering the Maine''. Smithsonian Institution Press, Washington DC and London 1995 {{ISBN|978-1-56098-474-0}}.
+* Weems, John Edward. ''The Fate of the Maine'' College Station, Texas: Texas A&M University Press, 1992. {{ISBN|978-0-89096-501-6}}.
+
+== External links ==
+{{Commons}}
+* {{LOCFC|ussmaineacr1/}}
+* [http://www.byronhartshorn.com/2015/02/24/visiting-the-uss-maine-around-washington-d-c/ Hartshorn, Byron, "Visiting the USS ''Maine'' around Washington, DC"]
+* Naval History & Heritage Command (history.navy.mil):
+** [http://www.history.navy.mil/photos/sh-usn/usnsh-m/maine.htm USS ''Maine'']
+** [http://www.history.navy.mil/faqs/faq71-1.htm The Destruction of the USS ''Maine'']
+* [https://books.google.com/books?id=NnkEAAAAMAAJ&pg=PA1 United States Navy, Bureau of Steam Engineering, ''Specifications for triple-expansion twin-screw propelling machinery for U.S.S. Maine'' at Google Books. Retrieved 6 April 2012.]
+* {{citation| url = http://www.arlingtoncemetery.net/ussmaine.htm | title = U.S.S. Maine Memorial, Arlington National Cemetery|publisher=at ArlingtonCemetery•net|id=an unofficial website }}
+* From spanamwar.com:
+** [http://www.spanamwar.com/maine.htm Background information on the ''Maine'']
+** [http://www.spanamwar.com/Mainemo1.htm Theories on the loss of the ''Maine'']
+** [http://www.spanamwar.com/mainerpt.htm Official 1898 Court of Inquiry Report]
+** [http://www.spanamwar.com/mainecoal.html How Likely was a Coal Bunker Fire Aboard the Battleship ''Maine''?]
+* [http://lcweb2.loc.gov/cgi-bin/query/r?ammem/detr,pan:@FIELD(SUBJ+@band(+Maine++Battleship++)) USS ''Maine'' Pictures] from the [[Library of Congress]] [[American Memory]] website
+* {{navsource|01/maine1|Maine}}&nbsp;– Construction&nbsp;– Active Service
+* [https://www.archives.gov/publications/prologue/1998/spring/spanish-american-war-1.html USS ''Maine''] from [[NARA]]
+* [https://archive.org/details/proceedingsmuni00unkngoog/page/n131 <!-- pg=100 -->  Black, William F. "The Story of the ''Maine''"] in ''Proceedings of the Municipal Engineers of the City of New York'' – via [[Google Books]]
+<!--* [https://web.archive.org/web/20051211094310/http://www.usni.org/NavalHistory/Articles98/NHallen.htm What Really Sank the ''Maine''? (Naval History Magazine, April 1998)]-->
+
+{{Conspiracy theories}}
+{{1898 shipwrecks}}
+{{Authority control}}
+
+{{DEFAULTSORT:Maine (ACR-1)}}
+[[Category:1889 ships]]
+[[Category:Armored cruisers of the United States Navy]]
+[[Category:Battleships of the United States Navy]]
+[[Category:Conspiracy theories in the United States]]
+[[Category:Cuba–United States relations]]
+[[Category:History of Key West, Florida]]
+[[Category:International maritime incidents]]
+[[Category:Maritime incidents in 1898]]
+[[Category:Ships sunk by non-combat internal explosions]]
+[[Category:Ship fires]]
+[[Category:Ships built in Brooklyn]]
+[[Category:Shipwrecks in the Gulf of Mexico]]
+[[Category:Spanish–American War]]
+[[Category:United States Navy Maine-related ships]]
+[[Category:USS Maine (1889)]]
+[[Category:Naval magazine explosions]]
+[[Category:1898 fires]]

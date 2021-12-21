@@ -1,0 +1,144 @@
+{{short description|American folk duo}}
+{{Infobox musical artist
+| image           = File:Mandolin Orange au Folk sur le canal 2018.jpg
+| caption         = Watchhouse (as Mandolin Orange) at the Folk sur le canal Festival, Montreal, Quebec, 2018
+| landscape       = yes
+| alias           = Mandolin Orange
+| origin          = [[Chapel Hill, North Carolina]], United States
+| genre           = {{flatlist|
+*[[Folk music|Folk]]<ref name="americanafolk"/>
+*[[Americana (music)|Americana]]<ref name="americanafolk">{{Cite news| url = https://www.npr.org/2015/02/24/388716335/mandolin-orange-old-ties-and-companions| title = Songs We Love: Mandolin Orange, 'Old Ties And Companions'| author = Linda Fahey| work = [[NPR]]| date = 2015-02-24| accessdate = 2016-11-19
+ }}</ref>
+}}
+| years_active    = 2009–present
+| label           = [[Yep Roc Records|Yep Roc]]
+| website         = {{URL|https://watchhouseband.com/|WatchhouseBand.com}}
+| current_members = Andrew Marlin<br>Emily Frantz
+| past_members    =
+| associated_acts = [[Kate Rhudy]]
+}}
+
+'''Watchhouse''' (formerly known as '''Mandolin Orange''') is an [[Americana (music)|Americana]]/[[Folk music|folk]] duo based in [[Chapel Hill, North Carolina]]. The group was formed in 2009 in Chapel Hill, North Carolina and consists of songwriter Andrew Marlin (vocals, mandolin, guitar, banjo) and Emily Frantz (vocals, violin, guitar), who are married to each other. Watchhouse has produced six albums of Marlin's original works of American roots music. In the last three years, the group has toured throughout the U.S and Europe, including appearances at [[Austin City Limits Music Festival|Austin City Limits]], [[South by Southwest]], [[Edmonton Folk Music Festival]], [[Telluride Bluegrass Festival]], [[Newport Folk Festival]], [[Pickathon]], [[Hardly Strictly Bluegrass]], [https://roosterwalk.com/ Rooster Walk], and [[MerleFest]] and the Omagh Bluegrass Festival. Watchhouse was the featured artist on [[CBS This Morning]]'s Saturday Morning Sessions on December 7, 2019.'''<ref>{{cite web |title=Saturday Sessions: Mandolin Orange performs "Paper Mountain" |url=https://www.msn.com/en-us/health/medical/saturday-sessions-mandolin-orange-performs-paper-mountain/vp-BBXTpmC |website=www.msn.com |publisher=[[Microsoft News]] |accessdate=December 22, 2019}}</ref><ref name="songwriter">{{cite news |last1=Crone |first1=Madeline |title=Andrew Marlin Uses Time During Pandemic to Make Two New Albums, ‘Witching Hour’ and ‘Fable & Fire’ |url=https://americansongwriter.com/andrew-marlin-uses-time-during-pandemic-to-make-two-new-albums-witching-hour-and-fable-fire/ |access-date=8 May 2021 |work=American Songwriter |date=19 February 2021}}</ref>
+
+They signed to [[Yep Roc Records]] in 2013<ref>{{Cite web|url=http://www.indyweek.com/music/archives/2013/05/09/mandolin-oranges-third-album-this-side-of-jordan-out-on-aug-6-via-yep-roc-records|title=Mandolin Orange's third album, This Side of Jordan, out on Aug. 6 via Yep Roc Records|last=Lawrence|first=Jordan|access-date=2016-06-29}}</ref> and have produced four albums under their umbrella, ''This Side Of Jordan,'' ''Such Jubilee'', ''Blindfaller'' and ''Tides of a Teardrop''.
+
+During the COVID-19 pandemic, Marlin recorded two instrumental albums without Frantz, ''Witching Hour'' and ''Fable & Fire''.<ref name="songwriter"/> In April 2021, the band announced that moving forward, they would change the group's name from Mandolin Orange to Watchhouse. Of the change, Marlin said "''Mandolin Orange'' was born out of my 21-year-old mind. The name isn't what I strive for when I write" and that ''Watchhouse'' is a name that reflects their "true intentions" as a band.<ref>{{Cite web|title=Watchhouse on Spotify|url=https://open.spotify.com/artist/2WqEbbet6L2ndAbvhRVb2S|access-date=2021-04-21|website=Spotify|language=en}}</ref>
+
+In 2021 the band was inter alia part of the [[Newport Folk Festival]] in July.<ref>{{Cite web |title=Newport Folk Festival stage schedule 2021 |url=https://newportfolk.org/2021-schedule/ |access-date=2021-09-21 |website=newportfolk.org}}</ref>
+
+== Discography ==
+===Albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:8em;"| Title
+! rowspan="2" style="width:8em;" | Era
+! rowspan="2" style="width:17em;"| Album details
+! colspan="5"| Peak chart positions
+! rowspan="2" style="width:9em;"| Sales
+|- style="font-size:smaller;"
+! style="width:4em;"| [[Billboard 200|US]]<br /><ref name="BB200">{{cite web|url=https://www.billboard.com/music/mandolin-orange/chart-history/billboard-200|title=Mandolin Orange Chart History (Billboard 200)|work=[[Billboard (magazine)|Billboard]]}}</ref>
+! style="width:4em;"| [[Top Country Albums|US <br />Country]]<br /><ref name="Country Albums">{{cite web|url=https://www.billboard.com/music/mandolin-orange/chart-history/country-albums|title=Mandolin Orange Chart History (Top Country Albums)|work=[[Billboard (magazine)|Billboard]]}}</ref>
+! style="width:4em;"| [[Folk Albums|US <br />Folk]]<br /><ref>{{cite web|url=https://www.billboard.com/music/mandolin-orange/chart-history/americana-folk-albums|title=Mandolin Orange Chart History (Americana / Folk Albums)|work=[[Billboard (magazine)|Billboard]]}}</ref>
+! style="width:4em;"| [[Heatseekers Albums|US<br /> Heat]]<br /><ref>{{cite web|url=https://www.billboard.com/music/mandolin-orange/chart-history/heatseekers-albums|title=Mandolin Orange Chart History (Heatseerkers Albums)|work=[[Billboard (magazine)|Billboard]]}}</ref>
+! style="width:4em;"| [[Folk Albums|US <br>Rock]]<br /><ref>{{cite web|url=https://www.billboard.com/music/mandolin-orange/chart-history/rock-albums|title=Mandolin Orange Chart History (Top Rock Albums)|work=[[Billboard (magazine)|Billboard]]}}</ref>
+|-
+! scope="row"|''Quiet Little Room''
+| rowspan="6"|'''Mandolin Orange'''
+|
+* Release date: April 10, 2010
+* Label:  Mandolin Orange 
+| —
+| —
+| —
+| —
+| —
+|
+|-
+! scope="row"|''Haste Make / Hard Hearted Stranger'' 
+|
+* Release date: November 8, 2011
+* Label:  Mandolin Orange LLC
+| —
+| —
+| —
+| —
+| —
+|
+|-
+! scope="row"|''[[This Side of Jordan]]'' 
+|
+* Release date: August 20, 2013
+* Label: [[Yep Roc Records]]
+| —
+| —
+| —
+| —
+| —
+|
+
+|-
+! scope="row"|''Such Jubilee'' 
+|
+* Release date: May 5, 2015
+* Label: Yep Roc Records
+| —
+| —
+| 17
+| 21
+| —
+|
+|-
+! scope="row"|''Blindfaller'' 
+|
+* Release date: September 30, 2016
+* Label: Yep Roc Records
+| —
+| —
+| 16
+| 7
+| 42
+|
+|-
+! scope="row"|''[[Tides of a Teardrop]]'' 
+|
+* Release date: February 1, 2019
+* Label: Yep Roc Records
+| 164
+| 13
+| 2
+| 1
+| 31
+|
+*US: 7,500<ref>{{cite news|url=http://roughstock.com/news/2019/03/43691-top-10-country-albums-march-5-2019|title=Top 10 Country Albums: March 5, 2019|first=Matt|last=Bjorke|date= March 5, 2019|work=Roughstock|accessdate=April 13, 2019}}</ref>
+|-
+! scope="row"|''Watchhouse''
+|'''Watchhouse'''
+|
+* Release date: August 13, 2021
+* Label: Tiptoe Tiger Music
+|
+|
+|
+|
+|
+|
+|-
+| colspan="19" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{official website|https://watchhouseband.com/}}
+
+{{authority control}}
+
+[[Category:American folk musical groups]]
+[[Category:Musical groups from Chapel Hill-Carrboro, North Carolina]]
+[[Category:American musical duos]]
+[[Category:Musical groups established in 2009]]
+[[Category:2009 establishments in North Carolina]]
+
+
+{{US-folk-band-stub}}

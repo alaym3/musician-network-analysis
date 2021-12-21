@@ -1,0 +1,54 @@
+{{wiktionary|wild card|wildcard}}
+'''Wild card''' most commonly refers to:
+
+* [[Wild card (cards)]], a playing card that substitutes for any other card in card games
+* [[Wild card (sports)]], a tournament or playoff place awarded to an individual or team that has not qualified through normal play
+* [[Wild card (foresight)]], low-probability, high-impact events
+
+'''Wild card''', '''wild cards''' or '''Wildcard''' may also refer to:
+
+{{tocright}}
+== Computing ==
+* [[Wildcard character]], a character that substitutes for any other character or character range in regular expressions and globbing
+* [[Wildcard DNS record]], a record in a DNS zone file that will match all requests for non-existent domain names
+* [[Wildcard mask]], a netmask that swaps 1 to 0 and 0 to 1 compared to the normal netmask
+* [[Wildcard certificate]], a public key certificate with which you can secure multiple subdomains
+* [[Wildcard (Java)]], a special actual type parameter for generic instantiations in the Java programming language
+* [[Studio Wildcard]], an American video game developer best known for ''Ark: Survival Evolved''
+
+==Books==
+* ''[[Wild Cards]]'', an anthology series of science fiction superhero books
+**''Wild Cards'', the first installment of [[List of Wild Cards books and short stories|''Wild Cards'' books and short stories]]
+* [[Wildcard (G.I. Joe)|Wildcard (''G.I. Joe'')]], a fictional character in the G.I. Joe universe
+* ''Wildcard'', the sequel to ''[[Warcross]]'' by Marie Lu
+
+==Film and television==
+* [[Wild Card (2003 film)|''Wild Card'' (2003 film)]], a 2003 South Korean action film
+* [[Wild Card (2015 film)|''Wild Card'' (2015 film)]], an American crime drama film
+* [[Wild Card (TV series)|''Wild Card'' (TV series)]], a.k.a. ''Zoe Busiek: Wild Card'', a Canadian TV series starring Joely Fisher
+* "[[List of Justice League episodes|Wild Cards]]", an episode of ''Justice League''
+* [[List of The King of Queens episodes|"Wild Cards]]", an episode of ''The King of Queens''
+
+==Music==
+*Wildcard, imprint of [[Polydor Records]]
+* ''[[The Wild Card]]'', a 2020 album by Ledisip
+* [[Wild Card (ReVamp album)|''Wild Card'' (ReVamp album)]], 2013
+* [[Wild Card (The Rippingtons album)|''Wild Card'' (The Rippingtons album)]], 2005
+* [[Wild Card (The Warratahs album)|''Wild Card'' (The Warratahs album)]], 1990
+* [[Wildcard (Terence Trent D'Arby album)|''Wildcard'' (Terence Trent D'Arby album)]], 2001
+* [[Wildcard (Miranda Lambert album)|''Wildcard'' (Miranda Lambert album)]], 2019
+* ''Wildcard'', an album  by [[Ridley Bent]] 2014
+* [[Wildcard (EP)|''Wildcard'' (EP)]], a 1989 EP by Pennywise
+* ''[[Wildcard / A Word from the Wise]]'', compilation album by Pennywise
+* "Wildcard", song by [[Kshmr]]
+
+==Other uses==
+* [[Wild Card (lottery)]], a lottery game played in Idaho, Montana, North Dakota, and South Dakota
+* Wild Card, the antagonist of ''[[NFL Rush Zone#Villains| NFL Rush Zone]]'' season 2
+
+==See also==
+* [[Wild Card Game]], a single game in sports to award a playoff spot to a team that did not otherwise quite qualify for a spot
+* {{look from}}
+* {{in title}}
+
+{{disambiguation}}

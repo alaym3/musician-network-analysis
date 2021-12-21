@@ -1,0 +1,93 @@
+{{Short description|Hip-hop musician and former cracker}}
+{{Infobox musical artist
+| name            = YTCracker
+| image           = YTCracker Performing Live.jpg
+| caption         =
+| birth_name      = Bryce Case Jr.
+| alias           = YTCracker
+| birth_date      = {{birth date and age|1982|08|23}}
+| death_date      =
+| origin          = [[La Mirada, California]],<ref name="YTCracker">{{cite web | url = https://www.imdb.com/name/nm3074397/ | title = YTCracker | publisher = [[Internet Movie Database]] | access-date = 2009-05-26 }}</ref> [[United States]]
+| Instruments     =
+| genre           = [[Nerdcore]], [[hip hop music|hip hop]]
+| occupation      =
+| associated_acts = Sinister Six, 8-Bit Boys, Spamtec Crew
+| years_active    = 1997&ndash;present
+| label           = Colorado Beach, Nerdy South Records
+| website         = 
+}}
+'''Bryce Case Jr.''' (born August 23, 1982), otherwise known as '''YTCracker''' (pronounced "''whitey cracker''"), is a former [[black hat hacking|cracker]] most known for defacing the webpages of several [[Federal government of the United States|federal]] and municipal government websites in the United States, as well as several in private industry at the age of 17. Case later became known for his work as a [[nerdcore]] hip hop artist.
+
+==Biography==
+
+===Childhood===
+Case was born in [[La Mirada, California]], [[United States]].<ref name="YTCracker">{{cite web | url = https://www.imdb.com/name/nm3074397/ | title = YTCracker | publisher = [[Internet Movie Database]] | access-date = 2009-05-26 }}</ref>
+
+He has stated in interviews that he was exposed to computers by his father and mother, learning to program [[BASIC]] from age 4. From there, his father taught him how to navigate [[MS-DOS|MSDOS]] and [[System V]]. Before long, he was involved in the local [[bulletin board systems]] and learning various other programming languages by reading books and examples.<ref>{{cite web | url = http://www.hipsterplease.com/2007/04/we-hustle-bytes.html | title = We Hustle Bytes | access-date = 2009-05-26 | publisher = www.hipsterplease.com | url-status = dead | archive-url = https://web.archive.org/web/20090520075914/http://www.hipsterplease.com/2007/04/we-hustle-bytes.html | archive-date = 2009-05-20 }}</ref>
+
+Case attended William J. Palmer High School in Colorado Springs, dropping out of high school at the age of 17 to focus on a career in the information technology field.<ref>{{cite news | url = http://findarticles.com/p/articles/mi_qn4191/is_20000510/ai_n9971550/ | title = Teen accused of raiding city Web site | work = [[The Gazette (Colorado Springs)|The Gazette]] | date = 2000-05-10 | last = Nieves | first = D | access-date = 2009-05-25 | archive-url = https://web.archive.org/web/20010502150225/http://www.felons.org/son/news/ytcracker2.html | archive-date = 2021-10-19 }}</ref> According to an interview, his stage name is a combination of Yours Truly, a Kourier (delivery person) from the [[Neal Stephenson]] cyberpunk novel [[Snow Crash]], and the hacker term Cracker, meaning someone who breaks into computer systems.<ref>{{cite news | url = https://www.westword.com/music/ytcracker-on-the-virtues-of-nerdcore-and-the-finer-points-of-hacking-5675899 | title = YTCracker on the virtues of Nerdcore and the finer points of hacking | work = [[Westword]] | date = 2010-12-16 | last = Johnson | first = Ru | access-date = 2021-10-19}}</ref>
+
+===Hacking activities===
+In 1999, Case gained notoriety, media coverage, and a [[restitution]] bill for defacing the web site of [[NASA]]’s [[Goddard Space Flight Center]] with a modified frontend for a commonly used msadc.pl exploit.<ref name = Wired>{{cite news | url = http://archive.wired.com/politics/law/news/1999/11/32729 | last = Kahney | first = L | date = 1999-11-23 | access-date = 2009-05-25 | publisher = [[Wired (magazine)|Wired]] | title = Cracker Launches Attack on NASA }}</ref>  Other [[Federal government of the United States|United States government]] websites that were hacked include the [[Bureau of Land Management]]'s national training center and the [[Defense Contract Audit Agency]].<ref>{{cite news | url = http://archives.cnn.com/1999/TECH/computing/12/22/feds.easy.hack.idg/index.html | title = Feds leave doors open for hackers  | publisher = [[CNN]] | date = 1999-12-22 | access-date = 2009-05-26 | last = Frank | first = D |author2=Trimble PS  }}</ref>  At least 40 other websites were tampered with by Case, including Airspace USA, the bank [[National Bank of Canada|Altamira]], [[Nissan Motors]], [[Honda]], the monitoring station for the [[United States Geological Survey]] and the [[Texas Department of Public Safety]].  Case stated he believed he was "on the good side" as he broke into company websites to alert them of security problems, not to cause harm.<ref>{{cite news | last = Walsh | first = C | title = Local hacker says he's good guy, alerting sites of security | url = http://findarticles.com/p/articles/mi_qn4191/is_20000312/ai_n9968722/ | date = 2000-03-12 | access-date = 2009-05-26 | publisher = [[The Gazette (Colorado Springs)|The Gazette]] }}</ref>  In May 2000 Case was charged with criminal mischief and computer crime for breaking into the [[Colorado Springs, Colorado|Colorado Springs]] city website, causing an estimated $25,000 in damages, though all $25,000 are costs of "time lost" to users.<ref name="Nieves2000">{{cite web|url=http://findarticles.com/p/articles/mi_qn4191/is_20000510/ai_n9971550/|title=Teen accused of raiding city Web site|last=Nieves|first=D|date=2000-05-10|publisher=[[The Gazette (Colorado Springs)|The Gazette]]|access-date=2009-05-25}}</ref>
+ 		 
+These defacements launched him into the spotlight, making him a resource for the media, commenting on other hacking-related events, such as the [[denial of service]] attacks on Yahoo, eBay, Gay.com, and other well-known websites in 2000.<ref>{{cite web | url = http://security.itworld.com/4339/ITWwin-kelly-0303/page_1.html | title = New Windows tools fend off denial-of-service attacks | last = Kelly | first = JS | date = 2001-02-07 | publisher = security.itworld.com | access-date = 2009-05-25 | url-status = dead | archive-url = https://web.archive.org/web/20080607025522/http://security.itworld.com/4339/ITWwin-kelly-0303/page_1.html | archive-date = 2008-06-07 }}</ref><ref>{{cite web | url = http://www.internetnews.com/xSP/article.php/8_397011 | title = Hackers Again Strike AOL | last = Fusco | first = P |author2=McWilliams B  | date = 2000-06-19 | access-date = 2009-05-25 | publisher = internetnews.com }}</ref>
+
+In 2005, Case founded a hacker collective called Digital Gangster, which was at its core an [[internet forum]]. Some of its members reportedly claimed responsibility for many high profile hacks of the 2000s and 2010s, including the [[Paris Hilton]] [[T-Mobile]] breach in 2005,<ref>{{cite web | url = https://www.wired.com/2005/05/database-hackers-reveal-tactics/ | title = Database Hackers Reveal Tactics | last = Zetter | first = Kim | date = 2005-05-25 | access-date = 2021-10-19 | publisher = wired.com }}</ref> the [[Miley Cyrus]] hacked email scandal of 2008,<ref>{{cite web | url = https://www.washingtonpost.com/wp-dyn/content/article/2009/01/06/AR2009010600062.html | title = Following The Twitter Hack Trail To DigitalGangster | last = Arrington | first = Michael | date = 2009-01-05 | access-date = 2021-10-19 | publisher = washingtonpost.com }}</ref> the [[Twitter]] hack of [[Barack Obama]] and others in 2009,<ref>{{cite web | url = https://www.zdnet.com/article/twitter-hack-details-revealed/ | title = Twitter hack details revealed | last = Espiner | first = Tom | date = 2009-01-07 | access-date = 2021-10-19 | publisher = zdnet.com }}</ref> and the DNS hijacking of [[Craigslist]] in 2014.<ref>{{cite web | url = https://gizmodo.com/the-bizarre-story-behind-last-nights-massive-craigslist-1662742826 | title = The Bizarre Story Behind Last Night's Craigslist Hack | last = Estes | first = Adam | date = 2014-11-24 | access-date = 2021-10-19 | publisher = gizmodo.com }}</ref>
+
+Case is also a self-identified member of the hacker group [[Anonymous_(hacker_group)|Anonymous]], and was an associate of [[LulzSec]], writing the official theme song of [[Operation AntiSec]], featured in the 2014 documentary [[The Hacker Wars]].
+
+==Music==
+[[File:YTCracker in Minneapolis.jpg|thumb|alt=Photograph of a man in a Kigurumi with a microphone, vape, and Mountain Dew on the floor.|YTCracker performing at AniMinneapolis]]
+
+Case performs as an [[Master of Ceremonies|MC]] and a [[Disk jockey|DJ]] under the name YTCracker.<ref>{{cite news | last = Andrews | first = R | publisher = [[Wired (magazine)|Wired]] | title = Rap Marketing Comes to Nerdcore | url = https://www.wired.com/culture/lifestyle/news/2005/06/67970 | date = 2005-06-23 | access-date = 2009-05-25 }}</ref>  He is best known for his work in the genre of [[Nerdcore hip-hop]],<ref>{{cite web | url = http://www.xlr8r.com/features/2007/10/what-it-nerdcore | title = What is Nerdcore? | access-date = 2007-10-29 | publisher = XLR8R Magazine | url-status = dead | archive-url = https://web.archive.org/web/20071214043844/http://www.xlr8r.com/features/2007/10/what-it-nerdcore | archive-date = 2007-12-14 }}</ref> in 2005 producing the album ''NerdRap Entertainment System''.  The album was created by adding vocals to re-mixed digital music from [[Nintendo Entertainment System|original Nintendo]] games, and was described in [[Newsweek]] as a "classic of the style."<ref name = Newsweek>{{cite news | title = Geeksta Rap Rising: Isn't It Time Somebody Represented For The Clark Kents Of The World? Nerdcore Hip-Hop Says 'Darn Straight!' And Don't Think This Stuff Is Parody  | publisher = [[Newsweek]] | last = Braiker | first = B | url = http://www.newsweek.com/id/42852 | year = 2007 | access-date = 2009-05-25 }}</ref>
+
+In [[Las Vegas Valley|Las Vegas]], Case performed in 2006 at the [[Consumer Electronics Show]],<ref name = Miranda>{{cite news | last = Miranda | first = M | date = 2007-11-04 | work = [[The Boston Globe]] | title = Refrain of the nerds: In this hip-hop universe, science - not violence - is what they rap about | url = http://www.boston.com/news/education/higher/articles/2007/11/04/refrain_of_the_nerds/?page=2 | access-date = 2009-05-25 | archive-url = https://archive.today/20130118092852/http://www.boston.com/news/education/higher/articles/2007/11/04/refrain_of_the_nerds/?page=2 | archive-date = 2021-10-19 }}</ref> and in has regularly performed at the [[Players Ball]], appearing with mainstream rappers such as [[Snoop Dogg]], [[Xzibit]], [[Ice Cube]], and [[Too Short]]. He has also performed at several [[DEF CON]] events.<ref>{{cite web|url=https://www.defcon.org/html/defcon-20/dc-20-artist-ytcracker.html|title=ytcracker|website=DEF CON|access-date=16 September 2015}}</ref>
+
+In 2010, an untitled demo by British electronic rock band [[Proxies (band)|Proxies]] was leaked onto the internet containing a feature by Case.
+
+Case runs an independent record label, Nerdy South Records.<ref name = Miranda/>
+
+== Discography ==
+*''categoryFive'' (1999) (solo effort)
+*''spryngz thuggin''' (2000) (solo effort)
+*''AOL Rules'' (2001) (solo effort)
+*''spam 2k2'' (2002) (solo effort)
+*''stc is the greatest'' (2004) (as a member of spamtec)
+*''Nerdrap Entertainment System'' (2005) (solo effort)
+*''still the greatest'' (2006) (as a member of spamtec)
+*''Rhyme Torrents Volumes I & II'' (2006) (compilation)
+*''Nerd Life'' (2006) (solo effort)
+*''Dirty Nerdy'' (2007) (featuring many other nerdcore artists)
+*''8-Bit Diagrams'' (2008) (as a member of 8-Bit Boys)
+*''Serious Business EP'' (2008) (featuring Elijah Lucian)
+*''The Digital Gangster LP'' (2008) (with [[MC Lars]])
+*''Invasion of the Mic Snatchers'' (2008) (As part of the Sinister Six)
+*''dcpd bangerz vol. 1'' (2009) (featuring the Dekalb County, Georgia Police Force)
+*''Chrono Nurga vol. 1'' (2009) (solo effort)
+*''______ every day'' (2010) (with Hairetsu and spamtec)
+*''Space Mission'' (2010) (featuring Elijah Lucian, Hairetsu)
+*''Who Live Like This EP'' (2012) (featuring Hairetsu)
+*''EarthBound: adventures of the sound stone vol. 1'' (2012) (solo effort)
+*''Introducing Neals '' (2014) (solo effort)
+*''Strictly for My Streamers '' (2017) (solo effort)
+
+== References ==
+{{reflist|35em}}
+
+==External links==
+*{{Official website}}
+* {{IMDb name|3074397}}
+
+{{Authority control}}
+
+{{Hacking in the 1990s}}
+
+{{DEFAULTSORT:Ytcracker}}
+<!-- Categories -->
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:American rappers]]
+[[Category:Nerdcore artists]]
+[[Category:People from La Mirada, California]]
+[[Category:American computer criminals]]
+[[Category:21st-century American rappers]]

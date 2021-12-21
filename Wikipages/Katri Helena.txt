@@ -1,0 +1,116 @@
+{{short description|Finnish singer (born 1945)}}
+{{Infobox musical artist
+|name            = Katri Helena
+|image           = Katri Helena Vihreillä Niityillä.jpg
+|caption         = Katri Helena in 2007
+|background      = solo_singer
+|birth_name      = Katri Helena Koistinen
+|birth_date      = {{Birth date and age|1945|8|17|df=y}}
+|birth_place     = [[Tohmajärvi]], [[Finland]]
+|death_date      = 
+|death_place     = 
+|origin          = 
+|instrument      = [[Singing|Vocals]]
+|genre           = 
+|occupation      = singer
+|years_active    = 1963–present
+|label           = 
+|associated_acts =
+|website         = 
+}}
+
+'''Katri Helena Kalaoja''' ([[née]] Koistinen, born 17 August 1945) is a [[Finland|Finnish]] singer.
+
+== Career ==
+Katri Helena released her first songs in 1963 and has since sold over 630,000&nbsp;[[List of music recording certifications|certified]] records, which makes her the second-best-selling female soloist in Finland behind [[Madonna (entertainer)|Madonna]] and places her also among the top 20 best-selling music artists in the Finnish market.<ref name="katrihelenasales">{{Cite web|url=http://www.ifpi.fi/tilastot/artistit/katri+helena|title=Katri Helena|publisher=[[Musiikkituottajat &ndash; IFPI Finland]]|language=fi|access-date=July 9, 2011|archive-url=https://web.archive.org/web/20120224124039/http://www.ifpi.fi/tilastot/artistit/katri+helena|archive-date=February 24, 2012|url-status=dead}}</ref> She has represented Finland twice in the [[Eurovision Song Contest]]: in [[Eurovision Song Contest 1979|1979]] with her song "[[Katson sineen taivaan]]" and in [[Eurovision Song Contest 1993|1993]] with "[[Tule luo]]".<ref>{{cite web|title=Suomen edustajat kautta aikain|url=http://yle.fi/vintti/yle.fi/euroviisut/historia/2008-11-01/suomen-edustajat-kautta-aikain.html|publisher=Yle|access-date=28 December 2014}}</ref> She also took part in the International Sopot Festival in 1969, singing "Valssi" during the Polish day.<ref>{{cite web|title=Interviisut|url=http://www.punatahdet.com/interviisut/|publisher=Punatähdet|access-date=28 December 2014}}</ref>
+
+== Personal life ==
+Katri Helena has been married three times. She had two daughters and a son with her husband Timo Kalaoja, who died of a heart attack in 1988. His death affected her so much that she withdrew from public view and stopped performing and recording for four years. Her only son, Juha Kalaoja, died at age 33 on 29 April 2009.<ref>{{cite web|title=Katri Helenan suuri suru: Rakkaat kuolivat|url=http://www.iltalehti.fi/uutiset/200905089549586_uu.shtml|publisher=Iltalehti|access-date=28 December 2014}}</ref>
+
+==Discography==
+===Albums===
+* ''Vaalea valloittaja'', 1964
+* ''Puhelinlangat laulaa'', 1964
+* ''Katri Helena'', 1966
+* ''Katupoikien laulu'', 1967
+* ''Paikka auringossa'', 1968
+* ''Ei kauniimpaa'', 1969
+* ''Kai laulaa saan'', 1971
+* ''Lauluja meille kaikille'', 1972
+* ''Kakarakestit'', 1973
+* ''Kun kohdattiin'', 1973 
+* ''Paloma Blanca'', 1975 
+* ''Lady Love'', 1976 
+* ''Ystävä'', 1978 
+* ''Katson sineen taivaan'', 1979
+* ''Sydämeni tänne jää'', 1980 
+* ''Kotimaa'', 1981
+* ''Minä soitan sulle illalla'', 1982
+* ''Kirje sulle'', 1984 
+* ''On elämä laulu'', 1986
+* ''Almaz'', 1988
+* ''Juhlakonsertti'', 1989
+* ''Anna mulle tähtitaivas'', 1992 
+* ''Lähemmäksi'', 1993
+* ''Vie minut'', 1995
+* ''Hiljaisuudessa'', 1996
+* ''Missä oot'', 1998
+* ''Leidit levyllä'', 2000 
+* ''Tässä tällä hetkellä'', 2004
+* ''Elämänlangat'', 2006 
+* ''Hiljaisuudessa'', 2006
+* ''Tulet aina olemaan'', 2009 
+* ''Valon maa'', 2011
+* ''Sinivalkoinen'', 2012
+* ''Taivaan tie'', 2014
+* ''Niin on aina ollut'', 2015
+
+===Singles===
+* "Vierellesi kaipaan" (with [[Jari Sillanpää]]) (2007)
+* "Taivaan Tie" (2014)
+
+==See also==
+*[[List of best-selling music artists in Finland]]
+
+==References==
+* [http://www.katrihelena.fi/ Official home page.]
+{{Reflist}}
+
+==External links==
+* {{commonscat-inline|Katri Helena}}
+
+{{s-start}}
+{{succession box
+| before=[[Seija Simola]]<br>with ''[[Anna rakkaudelle tilaisuus]]''
+| title=[[Finland in the Eurovision Song Contest]] 
+| years=[[Eurovision Song Contest 1979|1979]]
+| after=[[Vesa-Matti Loiri]]<br>with ''[[Huilumies]]''
+}}
+{{s-end}}
+{{s-start}}
+{{succession box |
+  before=[[Pave Maijanen]]<br>with ''[[Yamma, yamma]]'' |
+  title=[[Finland in the Eurovision Song Contest]] |
+  years=1993 |
+  after=[[CatCat]]<br>with ''[[Bye Bye Baby (CatCat song)|Bye Bye Baby]]'' |
+}}
+{{s-end}}
+
+{{Finland in the Eurovision Song Contest|state=collapsed}}
+{{Eurovision Song Contest 1979|state=collapsed}}
+{{Eurovision Song Contest 1993|state=collapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Helena, Katri}}
+[[Category:1945 births]]
+[[Category:Living people]]
+[[Category:People from Tohmajärvi]]
+[[Category:20th-century Finnish women singers]]
+[[Category:Eurovision Song Contest entrants for Finland]]
+[[Category:Eurovision Song Contest entrants of 1979]]
+[[Category:Eurovision Song Contest entrants of 1993]]
+[[Category:21st-century Finnish women singers]]
+
+
+{{Finland-singer-stub}}

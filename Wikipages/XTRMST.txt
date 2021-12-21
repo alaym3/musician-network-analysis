@@ -1,0 +1,175 @@
+{{unreliable sources|date=April 2017}}
+{{Infobox musical artist
+| name            = XTRMST
+| image           =
+| image_size      = 230px
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Los Angeles]], California, United States
+| genre           = {{flatlist|
+* [[Hardcore punk]]
+* [[metalcore]]
+}}
+| years_active    = {{start date|2014}}–present
+| label           = [[Dim Mak Records|Dim Mak]]
+| associated_acts = {{flatlist|
+* [[AFI (band)|AFI]]
+* [[Blaqk Audio]]
+* [[Dreamcar]]
+* [[Evergreen Terrace]]
+* [[Loma Prieta (band)|Loma Prieta]]
+* Punch
+* [[Saosin]]
+* [[Stick To Your Guns]]
+}}
+| website         = {{URL|xtrmst.com}}
+| current_members = * [[Davey Havok]]
+* [[Jade Puget]]
+* Chris Sorenson
+* Josh James
+* Val Saucedo
+| past_members    = 
+}}
+
+'''XTRMST''' is an American [[straight edge]] [[hardcore punk]] band<ref>{{Cite web|url=https://noisey.vice.com/en_us/article/the-punk-rock-roots-of-xtrmst-the-new-straight-edge-hardcore-project-from-afis-davey-havok-jade-puget|title=The Punk Rock Roots of XTRMST, the New Straight-Edge Hardcore Project from AFI's Davey Havok and Jade Puget|website=Noisey|language=en-us|access-date=2017-04-01}}</ref><ref>{{Cite web|url=http://www.altpress.com/news/entry/xtrmst_davey_and_jade_of_afis_hardcore_band_announce_debut_album|title=XTRMST (Davey and Jade of AFI's hardcore band) announce debut album - News - Alternative Press|website=Alternative Press|language=en|access-date=2017-04-01}}</ref> featuring [[Davey Havok]] and [[Jade Puget]] of [[AFI (band)|AFI]]. XTRMST is Havok and Puget's second side project after their electronic project [[Blaqk Audio]].<ref>{{Cite news|url=http://www.ocregister.com/articles/puget-649174-hardcore-xtrmst.html|title=Members of AFI go hardcore with XTRMST|last=FADROSKI|first=KELLI SKYE|work=The Orange County Register|access-date=2017-04-01|language=en-US}}</ref> They released their debut album ''[[XTRMST (album)|XTRMST]]'' in 2014<ref>{{Cite web|url=https://www.sputnikmusic.com/review/61491/XTRMST-XTRMST/|title=XTRMST - XTRMST (album review ) {{!}} Sputnikmusic|website=www.sputnikmusic.com|access-date=2017-04-01}}</ref><ref>{{Cite news|url=http://m.axs.com/afi-straight-edge-hardcore-side-project-xtrmst-announces-november-albu-22116|title=AFI straight edge hardcore side project XTRMST announces November album release|work=AXS|access-date=2017-04-01|language=en-US}}</ref> on long-time friend [[Steve Aoki|Steve Aoki's]] [[Dim Mak Records]].<ref>{{Citation|last=ArtisanNewsService|title=DAVEY HAVOK, JADE PUGET, STEVE AOKI PUT XTRMST HARDCORE ON DIM MAK DANCE LABEL|date=2015-01-15|url=https://www.youtube.com/watch?v=eAt9yBdx9Ps|access-date=2017-04-01}}</ref><ref>{{cite web|author=supercerealpunx|title=XTRMST|url=http://www.punknews.org/review/13032/xtrmst-xtrmst|publisher=Punknews.org|access-date=January 31, 2015|date=November 20, 2014}}</ref> Havok and Puget later added Chris Sorenson ([[Saosin]]) on bass, Josh James ([[Stick to Your Guns (band)|Stick to Your Guns]], [[Evergreen Terrace]], [[Casey Jones (band)|Casey Jones]]) on guitar, and Val Saucedo ([[Loma Prieta (band)|Loma Prieta]], Punch) on drums.
+
+== Band members ==
+
+{{col-begin}}
+{{col-2}}
+'''Current members'''
+* [[Davey Havok]] - lead vocals {{small|(2014–present)}}
+* [[Jade Puget]] - lead guitar {{small|(2014–present)}}
+* Josh James – rhythm guitar {{small|(2015–present)}}
+* [[Chris Sorenson]] – bass {{small|(2015–present)}}
+* Val Saucedo – drums {{small|(2015–present)}}
+{{col-2}}
+{{col-end}}
+
+'''Timeline'''
+{{#tag:timeline|
+ImageSize = width:800 height:auto barincrement:18
+PlotArea = left:90 bottom:90 top:5 right:10
+Alignbars = justify
+DateFormat  = dd/mm/yyyy
+Period = from:01/01/2014 till:{{#time:d/m/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:3
+ScaleMajor = increment:2 start:2014
+ScaleMinor = increment:1 start:2014
+
+LineData =
+ at:17/11/2014 color:black layer:back
+
+Colors =
+ id:vocals  value:red         legend:Lead_vocals
+ id:lead    value:teal        legend:Lead_guitar,_backing_vocals
+ id:rhythm  value:brightgreen legend:Rhythm_guitar,_backing_vocals
+ id:bass    value:blue        legend:Bass,_backing_vocals
+ id:drums   value:orange      legend:Drums,_backing_vocals
+ id:lines   value:black       legend:Studio_albums
+ 
+BarData =
+ bar:Havok      text:"Davey Havok"
+ bar:Puget      text:"Jade Puget"
+ bar:James      text:"Josh James" 
+ bar:Sorenson   text:"Chris Sorenson"
+ bar:Saucedo    text:"Val Saucedo"
+
+PlotData=
+ width:12
+ bar:Havok      from:start      till:end        color:vocals
+ bar:Puget      from:start      till:end        color:lead
+ bar:James      from:start      till:end        color:rhythm
+ bar:Sorenson   from:start      till:end        color:bass
+ bar:Saucedo    from:start      till:end        color:drums
+}}
+
+== Discography ==
+
+=== Albums ===
+
+==== Studio albums ====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col"| Title
+! scope="col"| Album details
+|-
+! scope="row" | ''[[XTRMST (album)|XTRMST]]''
+|
+* Released: November 17, 2014 {{small|(U.S.)}}<ref>{{cite web|title=XTRMST|url=https://itunes.apple.com/us/album/xtrmst/id924737265|website=[[iTunes Store]]|publisher=[[Apple Inc.]]|access-date=February 25, 2015}}</ref>
+* Label: [[Dim Mak Records|Dim Mak]]
+* Format: [[Compact disc|CD]], [[music download|digital download]], [[LP record|LP]]
+|}
+
+==== Extended plays ====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col"| Title
+! scope="col"| Album details
+|-
+! scope="row" | ''XTRMST''
+|
+* Released: March 10, 2014<ref>{{cite web|title=XTRMST|url=https://twitter.com/xtrmst/status/443080508465876992|publisher=[[Twitter]]|access-date=February 25, 2015|date=March 10, 2014}}</ref>
+* Label: Self-released
+* Format: [[Compact Cassette|Cassette]], digital download
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col"| Title
+! scope="col"| Year
+! scope="col"| Album
+|-
+! scope="row" | "Conformist"<ref>{{cite web|title=We are XTRMST|url=https://www.facebook.com/XTRMST/photos/a.273510869514533.1073741828.142458522619769/273510806181206/?type=1|publisher=[[Facebook]]|access-date=February 25, 2015|date=October 2, 2014}}</ref>
+| rowspan="3"| 2014
+| rowspan="3"| ''XTRMST''
+|-
+! scope="row" | "Dirty Nails"<ref>{{cite web|title=New track|url=https://www.facebook.com/XTRMST/photos/a.273510869514533.1073741828.142458522619769/282934675238819/?type=1|publisher=Facebook|access-date=February 25, 2015|date=October 21, 2014}}</ref>
+|-
+! scope="row" | "Exterminate"<ref>{{cite web|title="Exterminate,"|url=https://www.facebook.com/XTRMST/photos/a.273510869514533.1073741828.142458522619769/287884581410495/?type=1|publisher=Facebook|access-date=February 25, 2015|date=November 4, 2014}}</ref>
+|}
+
+=== Non-album tracks ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col"| Title
+! scope="col"| Year
+|-
+! scope="row" | "Little King"
+| rowspan="3"| 2014
+|-
+|}
+
+=== Music videos ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Title
+! scope="col"| Year
+! scope="col"| Director(s)
+|-
+! scope="row"| "Conformist"
+| 2014
+| [[Djay Brawner]]<ref>{{cite web|title=XTRMST – "Conformist" (Official Music Video) <nowiki>|</nowiki> Dim Mak Records|url=https://www.youtube.com/watch?v=1uzZDdYfbpU|work=[[YouTube]]|access-date=February 25, 2015|date=November 13, 2014}}</ref>
+|}
+
+== References ==
+{{Reflist|30em}}
+
+==Further reading==
+* [https://www.punknews.org/review/13032/xtrmst-xtrmst Punknews]
+* [http://loudwire.com/xtrmst-first-concert/ Loudwire]
+* [http://loudwire.com/xtrmst-conformist-video/ Loudwire]
+* [http://loudwire.com/afi-davey-havok-jade-puget-new-hardcore-band-xtrmst/ Loudwire]
+* [http://loudwire.com/afi-davey-havok-jade-puget-xtrmst-self-titled-debut-november/ Loudwire]
+* [http://www.blabbermouth.net/news/xtrmst-featuring-afis-davey-havok-and-jade-puget-debut-album-due-next-month/ Blabbermouth]
+
+== External links ==
+* {{Official website|http://www.xtrmst.com}}
+
+{{Authority control}}
+
+[[Category:2014 establishments in California]]
+[[Category:Hardcore punk groups from California]]
+[[Category:Musical groups established in 2014]]
+[[Category:Musical quintets]]
+[[Category:Straight edge groups]]

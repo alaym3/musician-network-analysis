@@ -1,0 +1,425 @@
+{{about|the original manga series and franchise in general}}
+{{pp-vandalism|small=yes}}
+{{short description|Japanese manga and anime series}}
+{{Use mdy dates|date=December 2018}}
+{{Infobox animanga/Header
+|name = Yu-Gi-Oh!
+|image = Yu-Gi-Oh! vol 01.jpg
+|caption = Manga volume 1 cover, featuring [[Yugi Mutou]]
+|ja_kanji = 遊☆戯☆王
+|ja_romaji = Yū-Gi-Ō!
+|genre = {{ubl|[[Adventure fiction|Adventure]]<ref name="VizOfficial" />|[[Science fantasy]]<ref name="VizOfficial">{{Cite web |title=The Official Website for Yu-Gi-Oh! |url=https://www.viz.com/yu-gi-oh |url-status=live |archive-url=https://web.archive.org/web/20170821181725/https://www.viz.com/yu-gi-oh |archive-date=August 21, 2017 |access-date=October 28, 2017 |publisher=Viz Media}}</ref>}}<!-- Note: Use and cite reliable sources to identify genre/s, not personal interpretation. Please don't include more than three genres (per [[MOS:A&M]]). -->
+}}
+{{Infobox animanga/Print
+|type = manga
+|author = [[Kazuki Takahashi (manga artist)|Kazuki Takahashi]]
+|publisher = [[Shueisha]]
+|publisher_en = {{English anime licensee
+|NA = [[Viz Media]]
+}}
+|demographic = ''[[Shōnen manga|Shōnen]]''
+|imprint     = [[Jump Comics]]
+|magazine = [[Weekly Shōnen Jump]]
+|magazine_en = {{English manga magazine
+|NA = [[Shonen Jump (magazine)|Shonen Jump]]
+}}
+|first = September 30, 1996
+|last = March 8, 2004
+|volumes = 38
+|volume_list = List of Yu-Gi-Oh! chapters
+}}
+{{Infobox animanga/Video
+|type = tv series
+|director = [[Hiroyuki Kakudō]]
+|writer = [[Toshiki Inoue]]
+|music = BMF
+|studio = [[Toei Animation]]
+|network = [[TV Asahi]]
+|first = April 4, 1998
+|last = October 10, 1998
+|episodes = 27
+|episode_list = List of Yu-Gi-Oh! (1998) episodes
+}}
+{{Infobox animanga/Video
+|type = film
+|director = Junji Shimizu
+|writer = [[Yasuko Kobayashi]]
+|music = BMF
+|studio = Toei Animation
+|released = March 6, 1999
+|runtime = 30 minutes
+}}
+{{Infobox animanga/Print
+|type = novel
+|author = Katsuhiko Chiba
+|illustrator = Kazuki Takahashi
+|publisher = Shueisha
+|demographic = Male
+|imprint = [[Jump (magazine line)#Jump J-Books|Jump J-Books]]
+|published = September 3, 1999
+}}
+{{Infobox animanga/Other
+|title = Anime television series
+|content =
+*''[[Yu-Gi-Oh! Duel Monsters]]''
+}}
+{{Infobox animanga/Other
+|title = Films
+|content =
+*''[[Yu-Gi-Oh! The Movie: Pyramid of Light]]''
+*''[[Yu-Gi-Oh!: Bonds Beyond Time]]''
+*''[[Yu-Gi-Oh!: The Dark Side of Dimensions]]''
+}}
+{{Infobox animanga/Other
+|title = Spin-offs
+|content =
+*''[[Yu-Gi-Oh! R]]''
+*''[[Yu-Gi-Oh! GX]]''
+*''[[Yu-Gi-Oh! 5D's]]''
+*''[[Yu-Gi-Oh! Zexal]]''
+*''[[Yu-Gi-Oh! Arc-V]]''
+*''[[Yu-Gi-Oh! VRAINS]]''
+*''[[Yu-Gi-Oh! Sevens]]''
+}}
+{{Infobox animanga/Other
+|title = Other media
+|content =
+*[[List of Yu-Gi-Oh! video games|Video games]]
+*[[Yu-Gi-Oh! Trading Card Game|Trading card game]]
+}}
+{{Infobox animanga/Footer}}
+
+{{nihongo|'''''Yu-Gi-Oh!'''''|遊☆戯☆王|Yū-Gi-Ō!|[[Literal translation|lit.]] "King of Games"|lead=yes}} is a Japanese [[manga]] series about [[trading card game|trading card gaming]] written and illustrated by [[Kazuki Takahashi]]. It was serialized in [[Shueisha]]'s ''[[Weekly Shōnen Jump]]'' magazine between September 1996 and March 2004. The plot follows the story of a boy named [[Yugi Mutou]], who solves the ancient Millennium Puzzle. Yugi awakens a gambling alter-ego or spirit within his body that solves his conflicts using various games.
+
+The manga series has spawned a [[media franchise]] that includes multiple spin-off manga and [[anime]] series, a [[Yu-Gi-Oh! Trading Card Game|trading card game]], and numerous video games. Most of these incarnations involve the fictional trading card game known as ''Duel Monsters'', where each player uses cards to "duel" each other in a mock battle of fantasy "monsters", forming the basis for the real life ''[[Yu-Gi-Oh! Trading Card Game]]'' tie in. The manga was adapted into two anime series; the [[Yu-Gi-Oh! (1998 TV series)|first anime adaptation]] was produced by [[Toei Animation]], which aired from April to October 1998, while the second, produced by [[Nihon Ad Systems|NAS]] and animated by [[Gallop (studio)|Studio Gallop]] titled ''[[Yu-Gi-Oh! Duel Monsters]]'', aired between April 2000 and September 2004. ''Yu-Gi-Oh'' has since become one of the [[List of highest-grossing media franchises|highest-grossing media franchises]] of all time.
+
+{{TOC limit|3}}
+
+==Plot==
+{{see also|List of Yu-Gi-Oh! characters}}
+''Yu-Gi-Oh!'' tells the tale of [[Yugi Mutou]], a timid young boy who loves all sorts of games, but is often bullied around. One day, he solves an ancient puzzle known as the {{nihongo|Millennium Puzzle|千年パズル|Sennen Pazuru}}, causing his body to play host to a mysterious spirit with the personality of a gambler. From that moment onwards, whenever Yugi or one of his friends is threatened by those with darkness in their hearts, this other Yugi shows himself and challenges them to dangerous {{nihongo|Shadow Games|闇のゲーム|Yami no Gēmu|lit. "Games of Darkness"}} which reveal the true nature of someone's heart, the losers of these contests often being subjected to a dark punishment called a {{nihongo|Penalty Game|罰ゲーム|Batsu Gēmu}}. Whether it be cards, dice, or role-playing board games, he will take on challenges from anyone, anywhere.
+
+As the series progresses, Yugi and his friends learn that this person inside of his puzzle is actually the spirit of a nameless [[Pharaoh]] from Ancient Egyptian times, who had lost his memories. As Yugi and his companions attempt to help the Pharaoh regain his memories, they find themselves going through many trials as they wager their lives facing off against gamers that wield the mysterious {{nihongo|Millennium Items|千年アイテム|Sennen Aitemu}} and the dark power of the Shadow Games.<ref>{{Cite web |title=Yu-Gi-Oh! Series synopsis from the official Yu-Gi-Oh! Site. |url=http://www.yugioh.com/shows |url-status=live |archive-url=https://web.archive.org/web/20170802181506/http://www.yugioh.com/shows |archive-date=August 2, 2017 |website=www.yugioh.com}}</ref>
+
+==Development==
+In the initial planning stages of the manga, Takahashi had wanted to draw a horror manga.<ref>''Yu-Gi-Oh!'' (Japanese) Volume 36 ''Foreword''. 2004. ''[[Kazuki Takahashi (manga artist)|Kazuki Takahashi]]''</ref> Although the end result was a manga about games, it was clear that some horror elements influenced certain aspects of the story. Takahashi decided to use "battle" as his primary theme. Since there had been so much "fighting" manga, he found it difficult to come up with something original. He decided to create a fighting manga where the main character does not hit anybody, but also struggled with that limitation. When the word "game" came to mind, he found it much easier to work with.<ref>''Yu-Gi-Oh! Duelist'' Volume 9. ''Foreword.'' ''[[Viz Media]]''</ref>
+
+When an interviewer asked Takahashi if he tried to introduce younger readers to real life gaming culture referenced in the series, Takahashi responded by saying that he simply included "stuff he played and enjoyed", and that it may have introduced readers to role-playing games and other games. Takahashi added that he created some of the games seen in the series. The author stressed the importance of "communication between people," often present in tabletop role-playing games and not present in solitary video games. Takahashi added that he feels that quality communication is not possible over the Internet.<ref name="SJVolume2Issue8InterviewPage140">''Shonen Jump''. Volume 2, Issue 8. August 2004. ''VIZ Media''. 140.</ref>
+
+Takahashi had always been interested in games, claiming to have been obsessed as a child and is still interested in them as an adult. In a game, he considered the player to become a hero. He decided to base the ''Yu-Gi-Oh!'' series around such games and used this idea as the premise; Yugi was a weak childish boy, who became a hero when he played games. With friendship being one of the major themes of ''Yu-Gi-Oh!'', he based the names of the two major characters "Yūgi" and "Jōnouchi" on the word yūjō (友情), which means "friendship". Henshin, the ability to turn into something or someone else, is something Takahashi believed all children dreamed of. He considered Yugi's "henshin" Dark Yugi, a savvy, invincible games player, to be a big appeal to children.<ref>{{Cite magazine |last=Takeuchi Cullen, Lisa |title='I've Always Been Obsessed With Games' |url=http://www.time.com:80/time/interactive/multimedia/takahashi_int/frameset.exclude.html |url-status=dead |magazine=[[Time Asia]] |archive-url=https://web.archive.org/web/20020702174238/http://www.time.com:80/time/interactive/multimedia/takahashi_int/frameset.exclude.html |archive-date=July 2, 2002 |access-date=November 13, 2018 |quote=In a game, the player becomes the hero. [...] The main character, Yugi, is a weak and childish boy who becomes a hero when he plays games. [...] As far as the manga story goes, I think all kids dream of henshin [...] if you combine the "yu" in Yugi and the "jo" in Jounouchi [...] Yujo translates to friendship in English, [...]}}</ref>
+
+Takahashi said that the card game held the strongest influence in the manga, because it "happened to evoke the most response" from readers. Prior to that point, Takahashi did not plan for the card game to make more than two appearances.<ref name="SJVolume2Issue9InterviewPage8">''Shonen Jump''. Volume 2, Issue 9. September 2004. ''VIZ Media''. 8.</ref>
+
+Takahashi said that the "positive message" for readers of the series is that each person has a "strong hidden part" (like "human potential") within himself or herself, and when one finds hardship, the "hidden part" can emerge if one believes in him/herself and in his/her friends. Takahashi added that this is "a pretty consistent theme."<ref name="SJVolume2Issue9InterviewPage8" />
+
+The editor of the English version, [[Jason Thompson (writer)|Jason Thompson]], said that the licensing of the ''Yu-Gi-Oh!'' manga had not been entirely coordinated, so Viz decided to use many of the original character names and to "keep it more or less violent and gory." Thompson said that the manga "was almost unchanged from the Japanese original." Because the core fanbase of the series was, according to Thompson, "8-year-old boys (and a few incredible fangirls)," and because the series had little interest from "hardcore, Japanese-speaking fans, the kind who run scanlation sites and post on messageboards" as the series was perceived to be "too mainstream," the Viz editors allowed Thompson "a surprising amount of leeway with the translation." Thompson said he hoped that he did not "abuse" the leeway he was given.<ref name="Comixologyinterview">"[https://pulllist.comixology.com/articles/63/To-All-the-Manga-Ive-Edited-Before To All the Manga I've Edited Before] {{webarchive|url=https://web.archive.org/web/20151208065514/https://pulllist.comixology.com/articles/63/To-All-the-Manga-Ive-Edited-Before|date=December 8, 2015 }}." [[Comixology]]. May 22, 2008. Last retrieved on December 1, 2015.</ref> In a 2004 interview, the editors of the United States ''Shonen Jump'' mentioned that Americans were surprised when reading the stories in Volumes 1 through 7, as they had not appeared on television as a part of the ''[[Yu-Gi-Oh! Duel Monsters]]'' anime. Takahashi added "The story is quite violent, isn't it? ''[laughs]''"<ref name="SJVolume2Issue9InterviewPage8" />
+
+The English language release by 4Kids has been subject to censorship to make it more appropriate for children, for example mentions of death or violence were replaced by references to "being sent to the Shadow Realm".<ref>{{Cite web |title=Anime Censorship in the 90s and Early 2000s {{!}} Comic Book Legal Defense Fund |url=http://cbldf.org/2019/03/anime-censorship-in-the-early-2000s/ |access-date=2019-12-08 |language=en-US}}</ref>
+
+The 遊戯王 (''Yugiō''), which is stylized 遊☆戯☆王, means "king of games". The word 遊戯 (''yugi'', game) is also the name of the protagonist. [[Kazuki Takahashi]] has also stated{{citation needed|date=February 2020}} that the character names "Yūgi" and "[[List of Yu-Gi-Oh! characters#Katsuya Jonouchi|Jōnouchi]]" are based on the word 友情 (''yūjō'' "friendship"). This pun was represented with a [[Yu-Gi-Oh! Trading Card Game]] card known 友情 YU-JYO (''Yūjō Yūjō''; in English, "Yu-Jo Friendship"). ''Yūjō'' is pointed out by Jōnouchi to Yūgi at the end of the first manga chapter, as "something visible yet invisible" (what's visible is the two of them, what's invisible is their friendship), as a way to tell Yūgi that he wants to be his friend.
+
+==Publication==
+{{main|List of Yu-Gi-Oh! chapters}}
+The original ''Yu-Gi-Oh!'' manga by [[Kazuki Takahashi (manga artist)|Kazuki Takahashi]] was serialized in [[Shueisha]]'s ''[[Weekly Shōnen Jump]]'' from September 30, 1996 to March 8, 2004. Unlike most other media, it features a variety of different games. The plot starts out fairly episodic and the first seven volumes includes only three instances of ''Magic & Wizards''. In the sixtieth chapter, the Duelist Kingdom arc starts and instances of ''Magic & Wizards'' becomes fairly common, and after the DDD arc, it reappears again and becomes part of an important plot point during the Battle City arc. The last arc of the manga focuses on a [[tabletop role-playing game]] that replicates the Pharaoh's lost memories, in which the battle system is based on an ancient Shadow Game played in his kingdom (stated in-series to be the precursor of ''Magic & Wizards'' and the indirect precursor to card games in general). The editors were Yoshihisa Heishi and Hisao Shimada. Kazuki Takahashi credits Toshimasa Takahashi in the "Special Thanks" column.<ref>''Yu-Gi-Oh! Millennium World'' Volume 7. [[VIZ Media]]. 218.</ref>
+
+The English version of the ''Yu-Gi-Oh!'' manga was released in the [[North America]] by [[Viz Media]], running in ''[[Shonen Jump (magazine)|Shonen Jump]]'' magazine between 2002 and December 2007. The original Japanese character names are kept for most of the characters (Yugi, Jonouchi, Anzu, and Honda, for instance), while the English names are used for a minor number of characters (e.g. [[List of Yu-Gi-Oh! characters#Maximillion Pegasus|Maximillion Pegasus]]) and for the ''Duel Monsters'' cards. Though largely unedited, several instances of censorship appear (such as editing out [[Finger (gesture)|the finger gesture]] in later volumes). Viz released the first volume of the ''Yu-Gi-Oh!'' manga up to the end of the Monster World arc under its original title. Starting from the last chapter of the seventh Japanese volume, the "Duelist Kingdom", "Dungeon Dice Monsters", and "Battle City" arcs are released under the title ''Yu-Gi-Oh!: Duelist''; the "Memory World" arc was released under the ''Yu-Gi-Oh!: Millennium World'' title. {{citation needed|date=August 2017}}
+
+==Other media==
+===''Yu-Gi-Oh! R''===
+{{main|Yu-Gi-Oh! R}}
+A spin-off manga titled ''[[Yu-Gi-Oh! R]]'' was illustrated by [[Akira Ito (manga artist)|Akira Ito]] under Takahashi's supervision. The story is of disputed canonicity and takes place in the original manga's universe, between the Battle City and Millennium World arcs, where Yugi and his friends must stop a man named Yako Tenma who plans to use Anzu Mazaki's body to revive the deceased Pegasus.<ref>In volume 1 of the ''Yu-Gi-Oh! R'' manga, Akira Ito explains the manga, which describes a hidden story that does not appear in the original ''Yu-Gi-Oh!'' manga, as a {{nihongo|"reverse"|リバース|ribāsu}} of the original one, in an effort to expand the ''Yu-Gi-Oh!'' franchise.</ref> The spin-off was serialized in ''V-Jump'' between April 21, 2004 and December 21, 2007 and was compiled into five tankōbon volumes. Viz Media released the series in North America between 2009 and 2010.<ref>{{Cite web |title=Viz Adds Yu-Gi-Oh! R, Boys over Flowers Epilogue |url=https://www.animenewsnetwork.com/news/2009-02-08/viz-adds-yu-gi-oh-r-boys-over-flowers-epilogue |url-status=live |archive-url=https://web.archive.org/web/20090210065147/http://www.animenewsnetwork.com/news/2009-02-08/viz-adds-yu-gi-oh-r-boys-over-flowers-epilogue |archive-date=February 10, 2009 |access-date=October 20, 2014 |website=Anime News Network}}</ref>
+
+===Anime===
+====Anime franchise overview====
+{|class="wikitable sortable"
+! colspan="2"|No.
+!'''Title'''
+!Episodes
+!Originally aired / Release date
+!Director
+!Studio
+!'''Network'''
+|-
+! style="background:orange;"|
+!1
+|''[[Yu-Gi-Oh! (1998 TV series)|Yu-Gi-Oh!]]''
+|27
+|April 4, 1998 – October 10, 1998
+|[[Hiroyuki Kakudō]]
+|rowspan="2"|[[Toei Animation]]
+|[[TV Asahi]]
+|-
+! colspan="2"|Movie
+|colspan="2"|''Yu-Gi-Oh!''
+|March 6, 1999
+|Junji Shimizu
+|
+|-
+|-
+! style="background:indigo;"|
+!2
+|''[[Yu-Gi-Oh! Duel Monsters]]''
+|224
+|April 18, 2000 – September 29, 2004
+|[[Kunihisa Sugishima]]
+|[[Gallop (studio)|Gallop]]
+|[[TX Network|TXN]] ([[TV Tokyo]])
+|-
+! colspan="2"|Movie
+|colspan="2"|''[[Yu-Gi-Oh! The Movie: Pyramid of Light]]''
+|November 3, 2004
+|rowspan="2"|Hatsuki Tsuji
+|[[4Licensing Corporation|4Kids Entertainment]]
+[[Gallop (studio)|Gallop]]
+|
+|-
+|-
+! style="background:gold;"|
+!3
+|''[[Yu-Gi-Oh! GX]]''
+|180
+|October 6, 2004 – March 26, 2008
+|[[Gallop (studio)|Gallop]]
+|[[TX Network|TXN]] ([[TV Tokyo]])
+|-
+! style="background:silver;"|
+!4
+|''[[Yu-Gi-Oh! Capsule Monsters]]''
+|12
+|September 9, 2006 – November 25, 2006
+|[[Eric Stuart]]
+|[[4kids Entertainment|4Kids Entertainment]]
+|[[4Kids TV]]
+|-
+! style="background:cyan;"|
+!5
+|''[[Yu-Gi-Oh! 5D's]]''
+|154 + 1
+|April 2, 2008– March 30, 2011
+|Katsumi Ono
+|rowspan="7"|[[Gallop (studio)|Gallop]]
+|[[TX Network|TXN]] ([[TV Tokyo]])
+|-
+! colspan="2"|Movie
+|colspan="2"|''[[Yu-Gi-Oh!: Bonds Beyond Time]]''
+|January 23, 2010
+|Kenichi Takeshita
+|
+|-
+|-
+! style="background:#B30043;"|
+!6
+|''[[Yu-Gi-Oh! Zexal]]''
+|73 + 1
+|April 11, 2011 – September 24, 2012
+|rowspan="2"|Satoshi Kuwahara
+|[[TX Network|TXN]] ([[TV Tokyo]])
+|-
+! style="background:#0F52BA;"|
+!7
+|''[[Yu-Gi-Oh! ZEXAL II|Yu-Gi-Oh! Zexal II]]''
+|73 + 1
+|October 7, 2012 – March 23, 2014
+|[[TV Tokyo]]
+|-
+! style="background:yellow;"|
+!8
+|''[[Yu-Gi-Oh! Arc-V]]''
+|148
+|April 6, 2014 – March 26, 2017
+|Katsumi Ono
+|[[TX Network|TXN]] ([[TV Tokyo]])
+|-
+! colspan="2"|Movie
+|colspan="2"|''[[Yu-Gi-Oh!: The Dark Side of Dimensions]]''
+|April 23, 2016
+|Satoshi Kuwabara
+|rowspan="3"|[[TV Tokyo]]
+|-
+! style="background:#000080;"|
+!9
+|''[[Yu-Gi-Oh! VRAINS]]''
+|120
+|May 10, 2017 – September 25, 2019
+|Masahiro Hosoda (#1–13)
+Katsuya Asano (#14–120)
+|-
+! style="background:#0CA7ED;"|
+!10
+|''[[Yu-Gi-Oh! Sevens]]''
+|TBD
+|April 4, 2020–<ref>{{Cite web |date=March 7, 2020 |title=Next Yu-Gi-Oh Anime Confirms Premiere Date with New Poster |url=https://comicbook.com/anime/2020/03/07/yu-gi-oh-sevens-premiere-date-new-anime-poster/ |website=comicbook.com}}</ref>
+|Nobuhiro Kondo
+|[[Bridge (studio)|Bridge]]
+|-
+! colspan="3"|Total
+!1011 + 7
+!April 4, 1998–present
+! colspan="3"|-
+|}
+
+====''Yu-Gi-Oh!'' (1998 TV series)====
+{{Main|List of Yu-Gi-Oh! (1998) episodes}}
+The first ''Yu-Gi-Oh!'' anime adaptation was produced by [[Toei Animation]] and aired on [[TV Asahi]] between April 4, 1998 and October 10, 1998,<ref>{{Cite web |date=May 23, 1998 |script-title=ja:番組表 |url=http://www.tv-asahi.co.jp/bangumi/index.html |url-status=dead |archive-url=https://web.archive.org/web/19980523065859/http://www.tv-asahi.co.jp/bangumi/index.html |archive-date=May 23, 1998 |access-date=June 1, 2009 |publisher=[[TV Asahi]] |language=ja}}</ref> running for 27 episodes and one theatrical movie released on the 6th March, 1999. This adaptation was never released outside Japan.
+
+This series is heavily [[abridgement|abridged]] from the manga, skipping many chapters, and often changes details of the manga stories it does adapt, featuring several key differences from the manga. It also adds a new regular character to the group, Miho Nosaka, who was originally a one-shot minor character in the manga. This adaptation is not related to any other works in the franchise.
+
+====''Duel Monsters'' (2000 TV series)====
+{{Main|Yu-Gi-Oh! Duel Monsters}}
+''Yu-Gi-Oh! Duel Monsters'', known outside Japan as simply ''Yu-Gi-Oh!'', is the second adaptation of the series. It was produced by [[Nihon Ad Systems]] and [[TV Tokyo]], while animation for the show was done by [[Gallop (studio)|Studio Gallop]]. Loosely adapting the manga from chapter sixty onwards, the series features several differences from the manga and the Toei-produced series and largely focuses around the game of Duel Monsters, tying in with the real life ''[[Yu-Gi-Oh! Trading Card Game]]''. The series aired in Japan on TV Tokyo between April 18, 2000 and September 29, 2004, running for 224 episodes. A remastered version of the series, focusing on specific duels, began airing in Japan from February 7, 2015.<ref>{{Cite news |date=December 22, 2014 |title=2016 Yu-Gi-Oh! Film Teaser Recaps 20 Years of Manga, Anime |work=[[Anime News Network]] |url=https://www.animenewsnetwork.com/news/2014-12-22/2016-yu-gi-oh-film-teaser-recaps-20-years-of-manga-anime/ |access-date=August 22, 2016}}</ref>
+
+In 2001, [[4Kids Entertainment]] obtained the merchandising and television rights to the series from Nihon Ad Systems, producing an English-language version which aired in North America on [[Kids' WB!]] between September 29, 2001 and June 10, 2006, also releasing in various countries outside Japan. The adaptation received many changes from the Japanese version to tailor it for international audiences. These include different names for many characters and monsters, changes to the appearance of the cards to differentiate them from their real-life counterparts and various cuts and edits pertaining to violence, death, and religious references to make the series suitable for children.
+
+An album containing some tracks from the English dub music entitled '''''Yu-Gi-Oh! Music to Duel By''''' was released on October 29, 2002 on [[DreamWorks Records]] on [[Compact Disc|Audio CD]] and [[Compact Cassette]].<ref>{{Cite web |date=October 3, 2002 |title=4Kids Entertainment and DreamWorks Records Sign Yu-Gi-Oh! Record Deal Yu-Gi-Oh!: Music To Duel By Album to Hit Stores October 29, 2002 |url=http://www.4kidsentertainment.com/docs/news/2002-1003a.pdf |archive-url=https://web.archive.org/web/20060614230009/http://www.4kidsentertainment.com/docs/news/2002-1003a.pdf |archive-date=June 14, 2006 |access-date=August 22, 2016 |publisher=4kidsentertainment.com}}</ref>
+
+An uncut version, featuring an all-new English dub track and the original Japanese audio, began release in October 2004, in association with [[Funimation Entertainment]]. Only three volumes, comprising the first nine episodes, were ever released. 4Kids would later release the uncut Japanese episodes on [[YouTube]], in May 2009, but were forced to stop due to legal issues with [[ADK (company)|ADK]] and Yugi's Japanese voice actor, [[Shunsuke Kazama]].<ref>{{Cite web |date=August 24, 2009 |title=Removal of Yu-Gi-Oh! Episodes was due to Nonrenewal of Japanese Voice Actor's Contract by ADK |url=http://ravegrl.wordpress.com/2009/08/24/4kids-youtube-removal-of-yu-gi-oh-episodes-was-due-to-nonrenewal-of-japanese-voice-actors-contract-by-adk/ |url-status=live |archive-url=https://web.archive.org/web/20110104041351/http://ravegrl.wordpress.com/2009/08/24/4kids-youtube-removal-of-yu-gi-oh-episodes-was-due-to-nonrenewal-of-japanese-voice-actors-contract-by-adk/ |archive-date=January 4, 2011 |access-date=September 29, 2010 |publisher=Word Press}}</ref><ref>{{Cite web |date=August 21, 2009 |title=Official Japanese Yu-Gi-Oh! Episodes Removed from YouTube, Never to Return Again |url=http://ravegrl.wordpress.com/2009/08/21/4kids-youtube-official-japanese-yu-gi-oh-episodes-removed-from-youtube-never-to-return-again/ |url-status=live |archive-url=https://web.archive.org/web/20101104142428/http://ravegrl.wordpress.com/2009/08/21/4kids-youtube-official-japanese-yu-gi-oh-episodes-removed-from-youtube-never-to-return-again/ |archive-date=November 4, 2010 |access-date=September 29, 2010 |publisher=Word Press}}</ref> Meanwhile, a separate English adaptation, produced by A.S.N., aired in South East Asia. The names were also Americanized, but the series setting and the original music remained intact.
+
+On March 24, 2011, [[TV Tokyo]] and [[Nihon Ad Systems]] filed a joint [[lawsuit]] against 4Kids, accusing them of underpayments concerning the ''Yu-Gi-Oh!'' franchises and allegedly conspiring with Funimation, and have allegedly terminated their licensing deal with them.<ref>{{Cite news |date=March 29, 2011 |title=TV Tokyo, Nihon Ad Terminate ''Yu-Gi-Oh!'' Deal, Sue 4Kids |work=Anime News Network |url=https://www.animenewsnetwork.com/news/2011-03-29/tv-tokyo-nihon-ad-terminate-yu-gi-oh-deal-sue-4kids |url-status=live |access-date=May 23, 2011 |archive-url=https://web.archive.org/web/20110430195058/http://www.animenewsnetwork.com/news/2011-03-29/tv-tokyo-nihon-ad-terminate-yu-gi-oh-deal-sue-4kids |archive-date=April 30, 2011}}</ref> This led to 4Kids filing for protection under [[Chapter 11, Title 11, United States Code|Chapter 11 of the U.S. Bankruptcy code]].<ref>{{Cite news |date=March 31, 2011 |title=4Kids Files Shareholders' Report on ''Yu-Gi-Oh!'' Lawsuit |work=Anime News Network |url=https://www.animenewsnetwork.com/news/2011-03-31/4kids-files-shareholders-report-on-yu-gi-oh-lawsuit |url-status=live |access-date=May 23, 2011 |archive-url=https://web.archive.org/web/20110603223842/http://www.animenewsnetwork.com/news/2011-03-31/4kids-files-shareholders-report-on-yu-gi-oh-lawsuit |archive-date=June 3, 2011}}</ref><ref>{{Cite news |date=April 6, 2011 |title=4Kids Files for Chapter 11 Bankruptcy |work=Anime News Network |url=https://www.animenewsnetwork.com/news/2011-04-06/4kids-files-for-chapter-11-bankruptcy |url-status=live |access-date=May 23, 2011 |archive-url=https://web.archive.org/web/20110530092721/http://www.animenewsnetwork.com/news/2011-04-06/4kids-files-for-chapter-11-bankruptcy |archive-date=May 30, 2011}}</ref> Although 4Kids had managed to win the case in March 2012,<ref>{{Cite web |title=Yu-Gi-Oh! Lawsuit Settled Between 4Kids, ADK, TV Tokyo |url=https://www.animenewsnetwork.com/news/2012-03-01/adk-tv-tokyo-amicably-settle-yu-gi-oh-suit-with-4kids |url-status=live |archive-url=https://web.archive.org/web/20140921071928/http://www.animenewsnetwork.com/news/2012-03-01/adk-tv-tokyo-amicably-settle-yu-gi-oh-suit-with-4kids |archive-date=September 21, 2014 |access-date=October 20, 2014 |website=Anime News Network}}</ref> they ended up selling their rights to the franchise, among other assets, to [[Konami]]. Konami currently distributes the series and its spin-offs, in addition to producing English dubs through its renamed subsidiary, [[4K Media Inc.]]<ref>{{Cite web |title=Konami to Get 4Kids' Yu-Gi-Oh! Assets Under Proposed Deal |url=https://www.animenewsnetwork.com/news/2012-06-16/konami-to-get-4kids-yu-gi-oh-assets-under-proposed-deal |url-status=live |archive-url=https://www.webcitation.org/6SFEOVH7V?url=http://www.animenewsnetwork.com/news/2012-06-16/konami-to-get-4kids-yu-gi-oh-assets-under-proposed-deal |archive-date=August 31, 2014}}</ref><ref>{{Cite web |title=4Kids Sells Yu-Gi-Oh!, CW Network-Related Assets Jointly to Konami, Kidsco |url=https://www.animenewsnetwork.com/news/2012-06-26/4kids-sells-yu-gi-oh-cw-network-related-assets-jointly-to-konami-kidsco |url-status=live |archive-url=https://web.archive.org/web/20141007152151/http://www.animenewsnetwork.com/news/2012-06-26/4kids-sells-yu-gi-oh-cw-network-related-assets-jointly-to-konami-kidsco |archive-date=October 7, 2014}}</ref><ref>{{Cite web |title=Konami Explains Transition of 4Kids' Yu-Gi-Oh Assets |url=https://www.animenewsnetwork.com/news/2012-07-30/konami-explains-transition-of-4kids-yu-gi-oh-assets |url-status=live |archive-url=https://web.archive.org/web/20141009144849/http://www.animenewsnetwork.com/news/2012-07-30/konami-explains-transition-of-4kids-yu-gi-oh-assets |archive-date=October 9, 2014 |access-date=October 20, 2014 |website=Anime News Network}}</ref>
+
+A complete DVD boxset, including all English episodes and the ''Bonds Beyond Time'' movie, was released on July 15, 2014 via [[Amazon.com|Amazon]].<ref>{{Cite web |title=Yu-Gi-Oh! News : The Yu-Gi-Oh! Classic: The Complete Set |url=http://www.yugioh.com/news/yugioh-complete-set-announce |url-status=live |archive-url=https://web.archive.org/web/20141020085034/http://www.yugioh.com/news/yugioh-complete-set-announce |archive-date=October 20, 2014 |access-date=October 20, 2014}}</ref>
+On July 11, 2015, 4K Media began releasing subtitled episodes to  the [[Crunchyroll]] streaming site monthly.<ref>{{Cite news |date=July 11, 2015 |title=Crunchyroll Adds English-Subtitled Yu-Gi-Oh! Duel Monsters Anime |work=[[Anime News Network]] |url=https://www.animenewsnetwork.com/news/2015-07-11/crunchyroll-adds-english-subtitled-yu-gi-oh-duel-monsters-anime/.90354 |url-status=live |access-date=August 22, 2016 |archive-url=https://web.archive.org/web/20160729053945/http://www.animenewsnetwork.com/news/2015-07-11/crunchyroll-adds-english-subtitled-yu-gi-oh-duel-monsters-anime/.90354 |archive-date=July 29, 2016}}</ref>
+
+====''Capsule Monsters''====
+{{Main|List of Yu-Gi-Oh! Capsule Monsters episodes}}
+''Yu-Gi-Oh! Capsule Monsters'' is a twelve-episode spin-off miniseries commissioned, produced and edited by 4Kids Entertainment, which aired in North America between September 9, 2006<ref>{{Cite news |date=May 16, 2006 |title=4KidsTV Fall Lineup |work=[[Anime News Network]] |url=https://www.animenewsnetwork.com/article.php?id=8878 |url-status=live |archive-url=https://web.archive.org/web/20061017093836/http://www.animenewsnetwork.com/article.php?id=8878 |archive-date=October 17, 2006}}</ref> and November 25, 2006. It is set before the end of ''Yu-Gi-Oh! Duel Monsters'', apparently somewhere between episodes 198 and 199, and involves Yugi and his friends being pulled into a world filled with real Duel Monsters they can summon using capsules. It is similar to the Virtual RPG arc in many respects, but it does not seem to have anything to do with the early Capsule Monster Chess game featured in early volumes of the original manga. It is currently the only animated ''Yu-Gi-Oh!'' media not to be released in Japan, though it is referred to as ''Yu-Gi-Oh! ALEX''. A DVD containing a condensed version of the ''Capsule Monsters'' episodes was released in May 2006.<ref>{{Cite news |date=April 19, 2006 |title=Yu-Gi-Oh Capsule Monsters DVD in May |work=[[Anime News Network]] |url=https://www.animenewsnetwork.com/article.php?id=8742}}</ref>
+
+===Novel===
+A novel adaptation revolves focuses on some of the beginning parts of the manga and the Death-T arc, written by Katsuhiko Chiba (千葉 克彦 ''Chiba Katsuhiko''). It was published in Japan by [[Shueisha]] on September 3, 1999 and has four sections.<ref>{{Cite web |title=遊・戯・王 &#91;Yu-Gi-Oh&#93 |url=http://books.shueisha.co.jp/CGI/search/syousai_put.cgi?isbn_cd=4-08-703086-5 |url-status=live |archive-url=https://web.archive.org/web/20160303195443/http://books.shueisha.co.jp/CGI/search/syousai_put.cgi?isbn_cd=4-08-703086-5 |archive-date=March 3, 2016 |access-date=January 26, 2013 |publisher=[[Shueisha]]}}</ref> The fourth section is an original story, occurring only in the novel. Two weeks after Yugi's battle with Kaiba in Death-T, Yugi gets a call from Kaiba, who tells him to meet for a game at the top floor of Kaiba Corporation. Yugi accepts, and when the game begins, they use a special variation of ''Magic & Wizards'' called the "Bingo Rule," which prevents the used of a specific card in each player's deck. Mokuba stumbles in on them, and tells Yugi that Kaiba has not yet awoken from his catatonic state. It turns out that the Kaiba that Yugi is playing against is a "Cyber Kaiba", controlled by the KaibaCorp computer, using all of Kaiba's memories.
+
+===Other books===
+[[File:Gospel of Truth.jpg|thumb|200px|The ''Gospel of Truth'' series guide for the manga.]]
+{{nihongo|''Yu-Gi-Oh! Character Guidebook: The Gospel of Truth''|遊☆戯☆王キャラクターズガイドブック―真理の福音―|Yūgiō Kyarakutāzu Gaido Bukku Shinri no Fukuin}} is a guidebook written by Kazuki Takahashi related to characters from the original ''Yu-Gi-Oh!'' manga universe. It was published in Japan on November 1, 2002 by [[Shueisha]] under their Jump Comics imprint and in France on December 12, 2006 by [[Kana (publisher)|Kana]].<ref>{{Cite web |title=集英社の本 公式 |url=http://books.shueisha.co.jp/CGI/search/syousai_put.cgi?isbn_cd=4-08-873363-0 |url-status=live |archive-url=https://web.archive.org/web/20170228091542/http://books.shueisha.co.jp/CGI/search/syousai_put.cgi?isbn_cd=4-08-873363-0 |archive-date=February 28, 2017 |access-date=February 10, 2013}} [[Shueisha]]</ref><ref>{{Cite book |title=Yu-Gi-Oh !, tome 0 |language=fr |id={{ASIN|2871299080|country=fr}}}}</ref> The book contains profiles for characters, including information which has never been released elsewhere, including birth dates, height, weight, blood type, favorite and least favorite food. It also contains a plethora of compiled information from the story, including a list of names for the various games and Shadow Games that appear in ''Yu-Gi-Oh!'' and the various Penalty Games used by the Millennium Item wielders.
+
+An art book titled, {{nihongo|''Duel Art''|デュエルアート|Dyueruāto}} was illustrated by Kazuki Takahashi under the Studio Dice label. The art book was released on December 16, 2011 and contains a number of illustrations done for the bunkoban releases of the manga, compilations of color illustrations found in the manga, and brand new art drawn for the book.<ref>{{Cite web |title=集英社の本 公式 |url=http://books.shueisha.co.jp/CGI/search/syousai_put.cgi?isbn_cd=978-4-08-782398-1&mode=1 |url-status=live |archive-url=https://web.archive.org/web/20120215110942/http://books.shueisha.co.jp/CGI/search/syousai_put.cgi?isbn_cd=978-4-08-782398-1&mode=1 |archive-date=February 15, 2012 |access-date=February 10, 2013}} Duel Art Kazuki Takahashi Yu-Gi-Oh! illustrations</ref> It also contains pictures by Takahashi used for cards with the anniversary layout, pictures he has posted on his website and a number of other original illustrations. [[Udon Press]] published an English version, translated by Caleb D. Cook.<ref>{{Cite web |title=Duel art : Kazuki Takahashi Yu-Gi-Oh! illustrations / English translation, Caleb D. Cook. |url=https://trove.nla.gov.au/work/203797102 |url-status=live |access-date=August 26, 2021 |website=Trove}}</ref>
+
+The {{nihongo|''Theatrical & TV Anime Yu-Gi-Oh! Super Complete Book''|劇場&TVアニメ『遊☆戯☆王』スーパー・コンプリートブック|Gekijō & TV Anime Yūgiō Sūpā Konpurītobukku}} was released in May 1999 following the release of Toei's ''Yu-Gi-Oh!'' movie earlier that year. The book includes episode information and pictures regarding the first ''Yu-Gi-Oh!'' anime and movie, some pictures with the original manga with a section covering the making of certain monsters, and interviews regarding the first film. It also features an [[film comic|ani-manga]] version of the ''Yu-Gi-Oh!'' movie and is the only supplemental work released for Toei's version of the anime.<ref>{{Cite book |title=劇場&TVアニメ『遊☆戯☆王』スーパー・コンプリートブック |language=Japanese |id={{ASIN|4087827658|country=jp}}}}</ref>
+
+The {{nihongo|''Yu-Gi-Oh! 10th Anniversary Animation Book''|遊☆戯☆王 テンス アニバーサリー アニメーション ブック|Yūgiō! Tensu Anivāsarī Animēshon Bukku}} is a book released to celebrate the tenth anniversary of the [[Nihon Ad Systems|NAS]] adaption of the anime (as opposed to the manga), released on January 21, 2010. The book features scenes from the crossover movie, ''Yu-Gi-Oh! 3D Bonds Beyond Time'', a quick review of the three ''Yu-Gi-Oh! Duel Monsters'' series, character profiles, duels and interviews with the staff of the movie. A fold-out double-sided poster is included with the book.<ref>{{Cite book |title=遊☆戯☆王 10th Anniversary Animation Book (Vジャンプブックス) |language=Japanese |id={{ASIN|408779542X|country=jp}}}}</ref>
+
+*''Yu-Gi-Oh! Official Card Game Duel Monsters Official Rule Guide — The Thousand Rule Bible'' - {{ISBN|4-08-782134-X}}, This is a rule book and strategy guide for the Junior and Shin Expert rules. This also has a Q & A related to certain cards, and the book comes with the "multiply" card.
+*''Yu-Gi-Oh! Official Card Game Duel Monsters Official Card Catalog The Valuable Book'' - This is a collection of card catalogues.
+**Volume 1 {{ISBN|4-08-782764-X}}
+**Volume 2 {{ISBN|4-08-782041-6}}
+**Volume 3 {{ISBN|4-08-782135-8}}
+**Volume 4 {{ISBN|4-08-782047-5}}
+**Volume 5 {{ISBN|4-08-782053-X}}
+*''Yu-Gi-Oh!: Monster Duel Official Handbook'' by Michael Anthony Steele - {{ISBN|0-439-65101-8}}, Published by [[Scholastic Press]] - A guide book to ''Yu-Gi-Oh!'' cards and characters
+*''Yu-Gi-Oh! Enter the Shadow Realm: Mighty Champions'' by Jeff O'Hare - {{ISBN|0-439-67191-4}}, Published by Scholastic Press - A book with puzzles and games related to Yu-Gi-Oh!
+
+===Films===
+Four animated films based on the franchise have been released.
+
+====''Yu-Gi-Oh!'' (1999)====
+Based on the Toei animated series, the thirty-minute movie revolves around a boy named Shōgo Aoyama, who is targeted by Seto Kaiba after obtaining a powerful rare card; the legendary Red-Eyes Black Dragon. The movie was released by [[Toei Company]] in theaters on March 6, 1999 and on VHS on November 21, 1999.<ref>{{Cite web |date=November 21, 1999 |title=TOEI VIDEO RENTAL VIDEO INDEX |url=http://www.toei-video.co.jp/data/hs/menu/vdmenu32.html |url-status=dead |archive-url=https://web.archive.org/web/20000618214037/http://www.toei-video.co.jp/data/hs/menu/vdmenu32.html |archive-date=June 18, 2000 |access-date=October 26, 2015 |publisher=[[Toei Company|Toei Video]]}}</ref>
+
+====''Yu-Gi-Oh! The Movie: Pyramid of Light''====
+{{Main|Yu-Gi-Oh! The Movie: Pyramid of Light}}
+''[[Yu-Gi-Oh! The Movie: Pyramid of Light]]'', often referred to as simply ''Yu-Gi-Oh! The Movie'', was first released in North America on August 13, 2004. The movie was developed specifically for Western audiences by 4Kids based on the overwhelming success of the ''Yu-Gi-Oh!'' franchise in the United States. [[Warner Bros.]] distributed the film in most English-speaking countries. Its characters are from the ''Yu-Gi-Oh! Duel Monsters'' anime. In the movie, which takes place following the Battle City arc, Yugi faces [[List of Yu-Gi-Oh! anime, manga or movie only characters#Anubis|Anubis]], the Egyptian God of the Dead. An extended uncut Japanese version of the movie premiered in special screenings in Japan on November 3, 2004 under the title ''Yu-Gi-Oh! Duel Monsters: Pyramid of Light''. The movie was then aired on TV Tokyo on January 2, 2005. Attendees of the movie during its premiere (United States or Japan) got 1 of 4 free [[Yu-Gi-Oh! Trading Card Game]] cards. The cards were Pyramid of Light, Sorcerer of Dark Magic, Blue Eyes Shining Dragon, and Watapon. The Home Video Release also gave out one of the free cards with an offer to get all four cards by mail (though the promotion ended in December 2004). In Australia, [[New Zealand]], Germany and the United Kingdom, free promotional cards were also given out, however, they were given out at all screenings of the movie, and not just the premiere.
+
+====''Yu-Gi-Oh!: Bonds Beyond Time''====
+{{Main|Yu-Gi-Oh!: Bonds Beyond Time}}
+''10th Anniversary Yu-Gi-Oh! Movie: Super Fusion! Bonds that Transcend Time'', is a [[3-D film]] released on January 23, 2010 in Japan. The film was released in North America by 4Kids on February 26, 2011 under the name ''Yu-Gi-Oh! 3D: Bonds Beyond Time'' with additional footage, where it also received an encore screening in Japan.<ref>{{Cite news |date=November 22, 2010 |title=''Yu-Gi-Oh! 3D's'' U.S. Theatrical Run Dated for February–March |work=Anime News Network |url=https://www.animenewsnetwork.com/news/2010-11-22/yu-gi-oh-3d-u.s-theatrical-run-dated-for-february-march |url-status=live |access-date=March 23, 2011 |archive-url=https://web.archive.org/web/20110129000809/http://www.animenewsnetwork.com/news/2010-11-22/yu-gi-oh-3d-u.s-theatrical-run-dated-for-february-march |archive-date=January 29, 2011}}</ref> The movie celebrates the 10th anniversary of the first NAS series (as opposed to the anniversary of the manga) and features an original storyline involving [[Yugi Mutou]], Jaden Yuki from ''[[Yu-Gi-Oh! GX]]'', and Yusei Fudo from ''[[Yu-Gi-Oh! 5D's]]'', fighting against a new enemy named Paradox.<ref>{{Cite news |date=July 5, 2009 |title=''Toriko'', ''Yu-Gi-Oh! 10th Special'' Anime Shorts Announced |work=Anime News Network |url=https://www.animenewsnetwork.com/news/2009-07-05/toriko-yu-gi-oh-10th-special-anime-shorts-announced |url-status=live |access-date=May 23, 2011 |archive-url=https://web.archive.org/web/20110304221221/http://www.animenewsnetwork.com/news/2009-07-05/toriko-yu-gi-oh-10th-special-anime-shorts-announced |archive-date=March 4, 2011}}</ref> It was first teased with short animations featured at the start of episodes of ''Yu-Gi-Oh! 5D's'' during episodes 65–92. The film was released on [[Blu-ray]] Disc and DVD in July 2011, with the UK release by [[Manga Entertainment]] being the first bilingual release of the franchise since the Uncut ''Yu-Gi-Oh!'' DVDs.<ref>{{Cite web |title=Manga Entertainment Twitter page |url=https://twitter.com/MangaUK/status/60965090953932800 |url-status=live |archive-url=https://web.archive.org/web/20170314094724/https://twitter.com/MangaUK/status/60965090953932800 |archive-date=March 14, 2017 |access-date=October 20, 2014}}</ref>
+
+====''Yu-Gi-Oh!: The Dark Side of Dimensions''====
+{{Main|Yu-Gi-Oh!: The Dark Side of Dimensions}}
+4K Media announced that a new film was in development in Japan, celebrating Yu-Gi-Oh's 20th anniversary.<ref>{{Cite web |date=June 17, 2014 |title=4K Media Announces Yu-Gi-Oh! Movie Now in Development |url=http://www.yugioh.com/news/4k-media-announces-yu-gi-oh-movie-now-in-development |url-status=live |archive-url=https://web.archive.org/web/20140621154123/http://www.yugioh.com/news/4k-media-announces-yu-gi-oh-movie-now-in-development |archive-date=June 21, 2014 |access-date=June 17, 2014 |website=Yu-Gi-Oh!}}</ref> The film features an original story by Kazuki Takahashi, set six months after the events of the manga,<ref name="ANN teaser">{{Cite web |date=December 23, 2014 |title=2016 Yu-Gi-Oh! Film Teaser Recaps 20 Years of Manga, Anime |url=https://www.animenewsnetwork.com/news/2014-12-22/2016-yu-gi-oh-film-teaser-recaps-20-years-of-manga-anime/.82496 |url-status=live |archive-url=https://web.archive.org/web/20150716234839/http://www.animenewsnetwork.com/news/2014-12-22/2016-yu-gi-oh-film-teaser-recaps-20-years-of-manga-anime/.82496 |archive-date=July 16, 2015 |access-date=July 21, 2015 |website=Anime News Network}}</ref> depicting a duel between Yugi and Kaiba,<ref>{{Cite web |date=July 12, 2015 |title=Yu-Gi-Oh!: The Dark Side of Dimensions Film Slated for Next Spring in Japan, January 27, 2017 Internationally |url=https://www.animenewsnetwork.com/news/2015-07-11/yu-gi-oh-the-dark-side-of-dimensions-film-slated-for-next-spring-in-japan-late-2016-internationally/.90355 |url-status=live |archive-url=https://web.archive.org/web/20150721005750/https://www.animenewsnetwork.com/news/2015-07-11/yu-gi-oh-the-dark-side-of-dimensions-film-slated-for-next-spring-in-japan-late-2016-internationally/.90355 |archive-date=July 21, 2015 |access-date=July 21, 2015 |website=Anime News Network}}</ref> as well as a new adversary.{{citation needed|date=July 2015}} The film was released on April 23, 2016 in Japan<ref>{{Cite web |date=July 12, 2015 |title=SDCC 2015 Yu-Gi-Oh! COVERAGE (+ ALL new poster) |url=http://www.yugioh.com/news/sdcc-2015-panel |url-status=live |archive-url=https://web.archive.org/web/20150722100733/http://www.yugioh.com/news/sdcc-2015-panel |archive-date=July 22, 2015 |access-date=July 21, 2015 |website=Yu-Gi-Oh! |publisher=4K Media Inc.}}</ref> and had an international release in late 2016.<ref name="ANN teaser" /> The film released on DVD and Blu-ray on March 8, 2017 in Japan, and included the two part manga prequel called ''Yu-Gi-Oh!: Transcend Game''.<ref>{{Cite web |title=遂に！ 劇場版『遊☆戯☆王』の 【DVD】【Blu-ray】2017年3月8日発売決定！！ 更に【Blu-ray 完全生産限定版】も発売！！ |url=http://toei.lekumo.biz/yugioh/2016/10/dvdblu-ray20173-f920.html?site=news |url-status=dead |archive-url=https://web.archive.org/web/20161022100149/http://toei.lekumo.biz/yugioh/2016/10/dvdblu-ray20173-f920.html?site=news |archive-date=October 22, 2016 |access-date=October 22, 2016 |website=劇場版『遊☆戯☆王』ニュースブログ}}</ref> The film was released in the United States on January 27, 2017, and was made available on DVD and Blu-ray on June 27, 2017.
+
+===Spinoffs===
+
+====''Yu-Gi-Oh! GX''====
+{{Main|Yu-Gi-Oh! GX}}
+''Yu-Gi-Oh! GX'', known in Japan as ''Yu-Gi-Oh! Duel Monsters GX'', is the first spin-off anime series produced by NAS which ran for 180 episodes from October 6, 2004 and March 26, 2008. Taking place a few years after the events of ''Yu-Gi-Oh! Duel Monsters'', the series follows a boy named Jaden Yuki as he attends a Duel Academy, built by Seto Kaiba, in the hopes of becoming the next Duel King. Like the previous seasons, 4Kids Entertainment licensed the series outside Japan and aired it in North America between October 10, 2005 and July 12, 2008, though episodes 157–180 were not dubbed.
+
+A manga adaptation by [[Naoyuki Kageyama]] was serialized in Shueisha's ''V-Jump'' magazine between December 17, 2005 and March 19, 2011. The manga differs from that of the anime, featuring new storylines and monsters, as well as some personality changes in some of the characters. The series is published in North America by Viz Media.
+
+====''Yu-Gi-Oh! 5D's''====
+{{Main|Yu-Gi-Oh! 5D's}}
+''Yu-Gi-Oh! 5D's'' is the second main spin-off series also taking place in the 2000 universe, which aired for 154 episodes between April 2, 2008 and March 30, 2011. It was later licensed by 4Kids and aired in North America between September 13, 2008 and September 10, 2011. This series focuses around a motorcycling duelist named Yusei Fudo and introduces new concepts such as Turbo Duels, duels which take place upon motorbikes called Duel Runners, and Synchro Monsters, which were also added to the real life trading card game.
+
+A manga adaptation by Masahiro Hikokubo and Satou Masashi began serialization in ''V-Jump'' from August 2009 and, like the ''GX'' manga, differs from the anime in storyline and characterization. The manga is also published in North America by Viz Media.
+
+====''Yu-Gi-Oh! Zexal''====
+{{Main|Yu-Gi-Oh! Zexal}}
+''Yu-Gi-Oh! Zexal'' is the third main spin-off series, which aired in Japan between April 11, 2011 and March 23, 2014, which aired for 146 episodes.<ref>{{Cite news |date=December 13, 2010 |title=''Yu-Gi-Oh! Zexal'' Anime, Manga Revealed |work=Anime News Network |url=https://www.animenewsnetwork.com/news/2010-12-13/yu-gi-oh-zexal-anime-manga-revealed |url-status=live |access-date=May 23, 2011 |archive-url=https://web.archive.org/web/20110428221639/http://www.animenewsnetwork.com/news/2010-12-13/yu-gi-oh-zexal-anime-manga-revealed |archive-date=April 28, 2011 |df=mdy-all}}</ref> The first series aired between April 11, 2011 and September 24, 2012. The story revolves around a boy named Yuma Tsukumo who, joined by an interstellar being known as Astral, must gather the 100 Numbers cards that make up his memory. The series adds yet another monster type, Xyz Monsters, which were added to the trading card game. 4Kids licensed the series and began airing the series in North America on [[The CW]]'s [[Toonzai]] block from October 15, 2011.<ref>{{Cite news |date=May 10, 2011 |title=Japanese Firms Pitch New ''Yu-Gi-Oh!'' at Licensing Expo |work=Anime News Network |url=https://www.animenewsnetwork.com/news/2011-05-10/japanese-firms-pitch-new-yu-gi-oh-at-licensing-expo |url-status=live |access-date=May 23, 2011 |archive-url=https://web.archive.org/web/20110514051322/http://www.animenewsnetwork.com/news/2011-05-10/japanese-firms-pitch-new-yu-gi-oh-at-licensing-expo |archive-date=May 14, 2011 |df=mdy-all}}</ref><ref>{{Cite news |date=May 17, 2011 |title=4Kids Files to Prevent ''Yu-Gi-Oh! Zexal'' Licensing |work=Anime News Network |url=https://www.animenewsnetwork.com/news/2011-05-17/4kids-files-to-prevent-yu-gi-oh-zexal-licensing |url-status=live |access-date=May 23, 2011 |archive-url=https://web.archive.org/web/20110519222924/http://www.animenewsnetwork.com/news/2011-05-17/4kids-files-to-prevent-yu-gi-oh-zexal-licensing |archive-date=May 19, 2011 |df=mdy-all}}</ref><ref>{{Cite web |title=Judge orders hold on U.S. Yu-Gi-Oh! anime license |url=https://www.animenewsnetwork.com/news/2011-06-02/judge-orders-hold-on-u.s-yu-gi-oh-anime-license |url-status=live |archive-url=https://web.archive.org/web/20140913171119/http://www.animenewsnetwork.com/news/2011-06-02/judge-orders-hold-on-u.s-yu-gi-oh-anime-license |archive-date=September 13, 2014 |access-date=October 20, 2014 |website=Anime News Network}}</ref><ref>{{Cite web |title=VEGAS 2011: 4Kids Entertainment outlines portfolio |url=http://www.licensing.biz/news/7326/VEGAS-2011-4Kids-Entertainment-teases-Vegas-portfolio |url-status=live |archive-url=https://web.archive.org/web/20110613225128/http://www.licensing.biz/news/7326/VEGAS-2011-4Kids-Entertainment-teases-Vegas-portfolio |archive-date=June 13, 2011}}</ref> After a legal battle with TV Tokyo and NAS caused 4Kids to file for bankruptcy, [[Konami]] received the rights to the series. The series aired on [[Saban Capital Group|Saban]]'s [[Vortexx]] block, with production done by [[4K Media Inc.]].<ref>{{Cite magazine |title=The 4Kids 'Yu-Gi-Oh!' Transition |url=http://www.icv2.com/articles/news/23540.html |url-status=live |magazine=ICV2 |archive-url=https://web.archive.org/web/20131224120313/http://www.icv2.com/articles/news/23540.html |archive-date=December 24, 2013 |access-date=February 3, 2014}}</ref> A second series, titled ''Yu-Gi-Oh! Zexal II'', aired in Japan between October 7, 2012 and March 23, 2014.<ref>{{Cite news |title=Yu-Gi-Oh! Zexal II to Debut on October 7 in New Timeslot |work=Anime News Network |url=https://www.animenewsnetwork.com/news/2012-09-02/yu-gi-oh-zexal-ii-to-debut-on-october-7-in-new-timeslot |url-status=live |access-date=February 3, 2014 |archive-url=https://web.archive.org/web/20131012165758/http://www.animenewsnetwork.com/news/2012-09-02/yu-gi-oh-zexal-ii-to-debut-on-october-7-in-new-timeslot |archive-date=October 12, 2013}}</ref>
+
+The manga adaptation written by Shin Yoshida and illustrated by Naoto Miyashi, began serialization in the extended February 2011 issue of Shueisha's ''[[V Jump]]'' magazine, released on December 18, 2010.<ref name="zexalpromo">{{Cite news |date=December 17, 2010 |title=Yu-Gi-Oh! Zexal TV Anime's Promo Video Streamed |work=Anime News Network |url=https://www.animenewsnetwork.com/news/2010-12-17/yu-gi-oh-zexal-tv-anime-promo-video-streamed |url-status=live |archive-url=https://web.archive.org/web/20150425172552/http://www.animenewsnetwork.com/news/2010-12-17/yu-gi-oh-zexal-tv-anime-promo-video-streamed |archive-date=April 25, 2015}}</ref>
+
+====''Yu-Gi-Oh! Arc-V''====
+{{main|Yu-Gi-Oh! Arc-V}}
+''Yu-Gi-Oh! Arc-V'' is the fourth main spin-off series, which aired for 148 episodes between April 6, 2014 and March 26, 2017, following ''Yu-Gi-Oh! Zexal''. The series focuses on a new protagonist, Yūya Sakaki, who participates in the world of Action Duels, in which enhanced Solid Vision systems give substance to monsters and environments. The series introduces Pendulum Monsters and Pendulum Summoning, which were added to the trading card game.<ref>{{Cite web |title=Yu-Gi-Oh! Gets New Arc-V TV Anime Next Spring |url=https://www.animenewsnetwork.com/news/2013-12-11/yu-gi-oh-gets-new-arc-v-tv-anime-next-spring |url-status=live |archive-url=https://web.archive.org/web/20141105223005/http://www.animenewsnetwork.com/news/2013-12-11/yu-gi-oh-gets-new-arc-v-tv-anime-next-spring |archive-date=November 5, 2014 |access-date=October 20, 2014 |website=Anime News Network}}</ref>
+
+====''Yu-Gi-Oh! VRAINS''====
+{{Main|Yu-Gi-Oh! VRAINS}}
+''Yu-Gi-Oh! VRAINS'' is the fifth main spin-off series, which aired for 120 episodes between May 10, 2017 and September 25, 2019, following ''Yu-Gi-Oh! Arc-V''. The series follows a new protagonist named Yusaku Fujiki who engages in duels on a virtual world under the alias "Playmaker", determined to take down an elusive group of hackers known as the "Knights of Hanoi". The series introduces Link Monsters, which are also added to the trading card game.<ref>{{Cite web |date=December 17, 2016 |title=[Jump Festa 2017] Latest Information Stage: 6th Yu-Gi-Oh! Anime - The Organization |url=https://ygorganization.com/jump-festa-2017-latest-information-stage/ |url-status=live |archive-url=https://web.archive.org/web/20180330233313/https://ygorganization.com/jump-festa-2017-latest-information-stage/ |archive-date=March 30, 2018}}</ref><ref>{{Cite web |title=New Yu-Gi-Oh! Anime Series Premieres in Japan in Spring 2017 |url=https://www.animenewsnetwork.com/news/2016-12-16/new-yu-gi-oh-anime-series-premieres-in-japan-in-spring-2017/.110029 |url-status=live |archive-url=https://web.archive.org/web/20161221105845/http://www.animenewsnetwork.com/news/2016-12-16/new-yu-gi-oh-anime-series-premieres-in-japan-in-spring-2017/.110029 |archive-date=December 21, 2016}}</ref>
+
+====''Yu-Gi-Oh! Sevens''====
+{{main|Yu-Gi-Oh! Sevens}}
+On July 21, 2019, it was announced that a new anime spinoff would premiere sometime in 2020.<ref>{{Cite web |title=Yu-Gi-Oh! Franchise Gets New Anime Series in 2020 for 20th Anniversary |url=https://www.animenewsnetwork.com/news/2019-07-21/yu-gi-oh-franchise-gets-new-anime-series-in-2020-for-20th-anniversary/.149202 |access-date=July 21, 2019 |publisher=Anime News Network}}</ref>
+
+On December 21, 2019, the title of the series was revealed to be ''Yu-Gi-Oh! Sevens'', in addition to staff and casting. It premiered on April 4, 2020. For the first time since the 1998 ''Yu-Gi-Oh!'' series, the anime will not be animated by [[Gallop (studio)|Gallop]], with [[Bridge (studio)|Bridge]] taking over as head studio in animation production.<ref>{{Cite web |title=Yu-Gi-Oh! Sevens Anime Reveals April 2020 Debut, Staff, Cast (Updated) |url=https://www.animenewsnetwork.com/news/2019-12-20/yu-gi-oh-sevens-anime-reveals-april-2020-debut-staff-cast/.154622 |access-date=December 21, 2019 |publisher=Anime News Network}}</ref>
+
+===Trading Card Game===
+[[File:Yu-Gi-Yo.jpg|thumb|A group of young men playing the [[Yu-Gi-Oh! Trading Card Game]].]]
+{{Main|Yu-Gi-Oh! Trading Card Game}}
+The ''Yu-Gi-Oh!'' Trading Card Game is a Japanese collectible card battle game developed and published by [[Konami]]. Based on the Duel Monsters concept from the original manga series, the game sees players using a combination of monsters, spells, and traps to defeat their opponent. First launched in Japan in 1999, the game has received various changes over the years, such as the inclusion of new monster types to coincide with the release of new anime series. In 2011, ''[[Guinness World Records]]'' called it the top-selling trading card game in history, with {{formatnum:25.2}} billion cards sold worldwide.<ref name="Guinness">{{Cite web |date=March 31, 2011 |title=Best-selling trading card game company - cumulative |url=http://www.guinnessworldrecords.com/records-7000/best-selling-trading-card-game/ |access-date=March 5, 2014 |publisher=[[Guinness World Records]]}}</ref> {{As of|2021|1}}, the game is estimated to have sold about {{nowrap|35 billion}} cards worldwide and grossed over {{¥|1 trillion}}<ref name="livedoor">{{Cite news |date=29 January 2021 |title=「ワンピース」でも「鬼滅」でもなく…史上最も稼いだ意外なジャンプ作品 |language=ja |work=[[Livedoor News]] |publisher=[[Livedoor]] |url=https://news.livedoor.com/article/detail/19610252/ |access-date=30 January 2021}}</ref><ref>{{Cite news |date=29 January 2021 |title=『鬼滅の刃』は『ジャンプ』史上最も稼いだマンガではない！ 売り上げ1兆円作品とは（週刊女性PRIME） |language=ja |page=2 |work=[[Yahoo! News]] |publisher=[[Yahoo! Japan]] |url=https://news.yahoo.co.jp/articles/c4541ee2ba8e3031080445e9433b1adcfce1fb77?page=2 |access-date=30 January 2021}}</ref> ({{US$|9.64 billion|long=no}}).<ref>{{Cite web |date=January 2021 |title=Historical exchange rates (1,000 JPY to USD) |url=https://fxtop.com/en/historical-exchange-rates.php?A=1000&C1=JPY&C2=USD&MA=1&DD1=01&MM1=01&YYYY1=2021&B=1&P=&I=1&DD2=29&MM2=01&YYYY2=2021 |access-date=30 January 2021 |website=fxtop.com}}</ref>
+
+===Video games===
+{{Main|List of Yu-Gi-Oh! video games}}
+There are several video games based on the ''Yu-Gi-Oh!'' franchise which are published by [[Konami]], the majority of which are based on the trading card game, and some based on other games that appeared in the manga. Aside from various games released for consoles and handheld systems, arcade machines known as [[Duel Terminal]]s have been released which are compatible with certain cards in the trading card game. Outside of Konami's titles, Yugi appears as a playable character in the crossover fighting games ''[[Jump Super Stars]]'', ''[[Jump Ultimate Stars]]'', and ''[[Jump Force]]''.<ref>{{Cite web |date=September 14, 2018 |title=Jump Force Roster Now Includes Yu-Gi-Oh's Yami Yugi |url=https://www.playstationlifestyle.net/2018/09/14/yami-yugi-announced-jump-force-roster-yu-gi-oh/ |access-date=December 16, 2018 |website=PlayStation LifeStyle |language=en}}</ref><ref>{{Cite web |title=DS / DSi - Jump Ultimate Stars |url=https://www.spriters-resource.com/ds_dsi/jus/ |access-date=December 16, 2018 |website=www.spriters-resource.com}}</ref>
+
+==Reception==
+The manga has sold {{formatnum:40}} million copies.<ref name="zenkan">{{Cite web |script-title=ja:歴代発行部数ランキング |url=http://www.mangazenkan.com/ranking/books-circulation.html |access-date=November 9, 2014 |publisher=Manga Zenkan |language=ja}}</ref> In December 2002, Shonen Jump received the ICv2 Award for "Comic Product of the Year" due to its unprecedented sales numbers and its successfully connecting comics to both the television medium and the ''Yu-Gi-Oh!'' [[collectible card game]]; one of the top CCG games of the year.<ref name="IC Award">{{Cite web |date=December 29, 2002 |title=ICv2 2002 Comic Awards, Part 1 |url=http://www.icv2.com/articles/news/2179.html |url-status=live |archive-url=https://web.archive.org/web/20080725014616/http://www.icv2.com/articles/news/2179.html |archive-date=July 25, 2008 |access-date=July 1, 2008 |publisher=ICv2}}</ref> In August 2008, TV Tokyo reported that over {{formatnum:18}} billion Yu-Gi-Oh! cards had been sold worldwide.<ref>{{Cite web |date=August 14, 2008 |title=18.1 Billion 'Yu-Gi-Oh!' Cards |url=http://www.icv2.com/articles/news/13086.html |url-status=live |archive-url=https://web.archive.org/web/20081202050641/http://www.icv2.com/articles/news/13086.html |archive-date=December 2, 2008 |access-date=November 26, 2008 |publisher=ICv2}}</ref> By 2011, it had sold {{formatnum:25.2}} billion cards worldwide.<ref name="Guinness" />
+
+John Jakala of ''[[Anime News Network]]'' reviewed the ''Yu-Gi-Oh!'' manga in 2003 as part of reviewing the U.S. ''[[Shonen Jump (magazine)|Shonen Jump]]''. Jakala said that while the commercials for the second series anime made the anime appear "completely uninteresting," the comic "is unexpectedly dark and moody." Jakala added that at one moment the series "reminded me of [[Neil Gaiman]]'s work: Yugi finds himself drawn into a magical world of ancient forces where there are definite rules that must be obeyed." Jakala concluded that the fact the series uses games as plot devices "opens up a lot of story possibilities" and that he feared that the series had the potential to "simply devolve into a tie-in for the popular card game."<ref>{{Cite news |last=Jakala |first=John |date=January 2, 2003 |title=''Shonen Jump'' Volume 1 Review |work=Anime News Network |url=https://www.animenewsnetwork.com/review/shonen-jump-1 |url-status=live |access-date=May 23, 2011 |archive-url=https://web.archive.org/web/20110211212951/http://www.animenewsnetwork.com/review/shonen-jump-1 |archive-date=February 11, 2011 |df=mdy-all}}</ref>
+
+[[Jason Thompson (writer)|Jason Thompson]], the editor of the English version of the manga, ranked ''Yu-Gi-Oh!'' as number three of his five personal favorite series to edit, stating that he thinks "the story is actually pretty solid for a shonen manga" and that "you can tell it was written by an older man because of the obsession with death, and what might come after death, which dominates the final story arc," enjoying all the RPG and card gaming terminology found within the series.<ref name="Comixologyinterview" />
+
+At the time when the manga series started to garner more popularity among Japanese children with the second series anime, video games, and trading card game, because of its somewhat "dark story lines, leggy girls and terrifying monsters", the series was not popular among Japanese parents, who believed that ''Yu-Gi-Oh!'' was more meant for teenagers than the young kids that make up the audience for franchises such as ''[[Pokémon]]''.<ref name="Time Magazine 2001">{{Cite magazine |last=Takeuchi Cullen, Lisa |date=June 4, 2001 |title=Crouching lizard |url=http://www.time.com:80/time/interactive/entertainment/yugioh_np.html |url-status=dead |magazine=[[Time Asia]] |volume=157 |issue=22 |archive-url=https://web.archive.org/web/20010913025830/http://www.time.com:80/time/interactive/entertainment/yugioh_np.html |archive-date=September 13, 2001 |access-date=November 13, 2018}}</ref>
+
+''Yu-Gi-Oh!'' was used by [[Bandai]] as part of their ''Candy Toy'' toyline.<ref>{{Cite web |title=遊戯王 遊戯王スナック｜バンダイキャンディトイ |url=http://www.bandai.co.jp/candy/products/1999/71951p3.html |url-status=live |archive-url=https://web.archive.org/web/20140331100018/http://www.bandai.co.jp/candy/products/1999/71951p3.html |archive-date=March 31, 2014 |access-date=October 20, 2014}}</ref><ref>{{Cite web |title=遊戯王デュエルモンスターズ 遊戯王コレクション２００１｜バンダイキャンディトイ |url=http://www.bandai.co.jp/candy/products/2001/78719.html |url-status=live |archive-url=https://web.archive.org/web/20140331100138/http://www.bandai.co.jp/candy/products/2001/78719.html |archive-date=March 31, 2014 |access-date=October 20, 2014}}</ref><ref>{{Cite web |title=遊戯王 新・遊戯王コレクション｜バンダイキャンディトイ |url=http://www.bandai.co.jp/candy/products/2001/00432.html |url-status=live |archive-url=https://web.archive.org/web/20150413030257/http://www.bandai.co.jp/candy/products/2001/00432.html |archive-date=April 13, 2015 |access-date=October 20, 2014}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+*{{webarchive|url=https://web.archive.org/*/http://jump.shueisha.co.jp/yugi/|title=Weekly Shōnen Jump ''Yu-Gi-Oh!'' website}} {{in lang|ja}}
+*{{webarchive|url=https://web.archive.org/*/http://www.j-yugioh.com/|title=''Yu-Gi-Oh!'' Dotcom}} {{in lang|ja}}
+* [http://www.toei-anim.co.jp/tv/yugioh/ Official Toei Animation ''Yu-Gi-Oh!'' website] {{in lang|ja}}
+* [http://www.konami.jp/yugioh/ Konami ''Yu-Gi-Oh!'' website] {{in lang|ja}}
+* {{ann|manga|1642}}
+
+{{Yu-Gi-Oh!}}
+{{Weekly Shōnen Jump - 1990–1999}}
+{{Toei Animation}}
+{{Toei Animation films 1990s}}
+
+{{Portal bar|1990s|2000s|Anime and manga|Games|Video games|Fantasy|Science fiction}}
+
+[[Category:Yu-Gi-Oh!|Yu-Gi-Oh!]]
+[[Category:1990s toys]]
+[[Category:1996 manga]]
+[[Category:1998 Japanese television series debuts]]
+[[Category:1998 Japanese television series endings]]
+[[Category:1998 anime television series]]
+[[Category:Adventure anime and manga]]
+[[Category:Anime series]]
+[[Category:Anime series based on manga]]
+[[Category:Card games in anime and manga]]
+[[Category:Egyptian mythology in anime and manga]]
+[[Category:Fantasy anime and manga]]
+[[Category:Films with screenplays by Toshiki Inoue]]
+[[Category:Films with screenplays by Yasuko Kobayashi]]
+[[Category:Mythopoeia]]
+[[Category:School life in anime and manga]]
+[[Category:Science fiction anime and manga]]
+[[Category:Shueisha franchises]]
+[[Category:Shueisha manga]]
+[[Category:Shōnen manga]]
+[[Category:TV Asahi original programming]]
+[[Category:Television censorship in the United States]]
+[[Category:Toei Animation films]]
+[[Category:Toei Animation television]]
+[[Category:Viz Media manga]]
+[[Category:Works about card games]]

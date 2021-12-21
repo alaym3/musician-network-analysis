@@ -1,0 +1,211 @@
+{{BLP primary sources|date=September 2018}}
+{{short description|Antiguan-German singer-songwriter}}
+{{Infobox musical artist
+| name             = Au/Ra
+| image            = Au-Ra.jpg
+| image_size       = 200px
+| birth_name       = Jamie Lou Stenzel
+| birth_date       = {{Birth date and age|2002|05|15|df=yes}}
+| birth_place      = [[Ibiza]], Spain
+| origin           = [[St. John's, Antigua and Barbuda]]
+| genre            = {{hlist|[[Alternative pop]]|[[electropop]]|[[electronic music|electronic]]}}
+| label            = {{hlist|[[Sony Music|Sony]]|[[Columbia Records|Columbia]]|Loudmouth}}
+| associated_acts  = {{hlist|[[CamelPhat]]|[[Alan Walker (music producer)|Alan Walker]]}}
+| website          = {{url|https://www.heyitsaura.com/}}
+}}
+
+'''Jamie Lou Stenzel''' (born 15 May 2002), known by her stage name '''Au/Ra''', is an [[Antigua and Barbuda|Antiguan]]-[[Germany|German]] singer-songwriter. Stenzel released her first single "Concrete Jungle" in 2016, which quickly gained 15 million streams worldwide. She rose to prominence in 2018 with the [[CamelPhat]] version of the single "[[Panic Room (Au/Ra and CamelPhat song)|Panic Room]]" that she wrote about mental health problems, and was featured on Norwegian DJ [[Alan Walker (music producer)|Alan Walker]]'s number-one single "[[Darkside (Alan Walker song)|Darkside]]" in the same year. Her original version of Panic Room without Camelphat's remix, has over 100 million streams worldwide.<ref>{{Cite web|url=https://open.spotify.com/album/4cH2LcBjVW69IbesgOlB3K?highlight=spotify:track:6PyFs4hxmB2mUZOuD5XGuT}}</ref> Jamie was born in [[Ibiza]], where she grew up until 2007, but since then she has been raised in [[Antigua and Barbuda|St. John's, Antigua]] by a musical family her father being German producer [[Torsten Stenzel]].
+
+== Stage name origin ==
+A breakout star at only 15 years old, Au/Ra's stage name consists of two elements from the [[periodic table]]: "Au" stands for [[gold]], a [[transition metal]] with the [[atomic number]] 79, while "Ra" stands for [[radium]], a slightly radioactive [[alkaline earth metal]] with the atomic number 88. According to Alan Walker's Unmasked Vlog #1 Video on [[YouTube]],<ref>{{Citation|last=Alan Walker|title=Alan Walker: Unmasked Vlog (#1)|date=2018-08-21|url=https://www.youtube.com/watch?v=0zezo5dfP7w|access-date=2019-04-17}}</ref> Jamie stated that there are already a couple of artists with the first name of 'Aura', and when she chose 'Aura' as her stage name, she decided to put a slash between 'Au' and 'Ra'. She also mentioned that her artist name derives from a [[Lord of the Rings]] fanfiction she wrote when she was younger, where the main character was called Aura.
+
+==Discography==
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Title
+! scope="col"| Details
+|-
+! scope="row"| ''Outsiders''
+|
+* Released: 26 October 2017
+* Label: Loudmouth Music Limited
+* Format: Digital download, streaming
+|-
+! scope="row"| ''X Games''
+|
+* Released: 19 October 2018
+* Label: Loudmouth Music Limited
+* Format: Digital download, streaming
+|-
+! scope="row"| ''Soundtrack to an Existential Crisis''
+|
+* Released: 27 August 2021
+* Label: Loudmouth Music Limited
+* Format: Digital download, streaming
+|}
+
+=== Singles ===
+
+==== As lead artist ====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" rowspan="2" style="width:22em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="7"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[List of number-one club tracks of 2018 (Australia)|AUS<br />Club]]<br /><ref>{{cite web|url=https://www.aria.com.au/charts/club-tracks-chart|title=ARIA Top 50 Club Tracks Chart|publisher=[[ARIA Charts]]|accessdate=30 August 2021}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Singles Chart|UK]]<br /><ref>{{Cite web|url=https://www.officialcharts.com/artist/53326/au-ra-and-camelphat/|title=AU/RA & CAMELPHAT|last=|first=|date=|website=Official charts|url-status=live|archive-url=|archive-date=|access-date=30 October 2019}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Dance Singles Chart|UK Dance]]<br /><ref>{{cite web|url=https://www.officialcharts.com/charts/dance-singles-chart/|title=Official Dance Singles Chart Top 40 - Official Charts Company|website=Officialcharts.com|accessdate=29 December 2018}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop|BEL<br />(FL)]]<br /><ref name="BELFL">{{cite web|url=http://www.ultratop.be/nl/showinterpret.asp?interpret=CamelPhat|title=Discografie CamelPhat|website=Ultratop.be}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Singles Chart|IRE]]<br /><ref>{{cite web|url=http://irma.ie/index.cfm?page=irish-charts&chart=Singles|title=IRMA – Irish Charts|publisher=[[Irish Recorded Music Association]]|accessdate=1 September 2018}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Scottish Singles Chart|SCO]]<br /><ref>{{cite web|url=http://www.officialcharts.com/charts/scottish-singles-chart/20180810/41/|title=Chart Archive > 10 August 2018|publisher=Official Charts Company|accessdate=11 August 2018}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Dance Club Songs|US<br />Dance Club]]<br /><ref>{{cite web|url=https://www.billboard.com/music/CamelPhat/chart-history/DSI/song/1072231|title=Panic Room Chart History - Billboard|publisher=[[Billboard (magazine)|Billboard]]|accessdate=30 August 2021}}</ref>
+|-
+! scope="row"| "Kicks"
+| rowspan="3"| 2017
+| — || — || — || — || — || — || —
+| rowspan="3"| ''Outsiders''
+|-
+! scope="row"| "Concrete Jungle"
+| — || — || — || — || — || — || —
+|-
+! scope="row"| "Outsiders"
+| — || — || — || — || — || — || —
+|-
+! scope="row"| "[[Panic Room (Au/Ra and CamelPhat song)|Panic Room]]" <br/><span style="font-size:85%;">(solo or with [[CamelPhat]])</span><ref>{{cite web|url=https://itunes.apple.com/us/album/panic-room-single/1364106840|title=Panic Room – Single by Au/Ra & CamelPhat on Apple Music|work=[[iTunes Store]] (US)|accessdate=20 April 2018}}</ref>
+| rowspan="2"| 2018
+| 1 || 30 || 5 || 37 || 41 || 21 || 48
+| ''X Games'' or ''[[Dark Matter (CamelPhat album)|Dark Matter]]''
+|-
+! scope="row"| "Emoji"<ref>{{cite web|url=https://itunes.apple.com/us/album/emoji-single/1426724509|title=Emoji – Single by Au/Ra|website=[[Apple Music]]|accessdate=21 September 2018}}</ref>
+| — || — || — || — || — || — || —
+| ''X Games''
+|-
+! scope="row"| "Assassin"<ref>{{cite web|url=https://itunes.apple.com/us/album/assassin-single/1459389153|title=Assassin – Single by Au/Ra|website=[[Apple Music]]|accessdate=19 April 2019}}</ref>
+| rowspan="5" | 2019
+| — || — || — || — || — || — || —
+| rowspan="4" {{n/a|non-album singles}}
+|-
+! scope="row"| "Dance in the Dark"
+| — || — || — || — || — || — || —
+|-
+! scope="row"| "Medicine"
+| — || — || — || — || — || — || —
+|-
+! scope="row"| "Stay Happy"<ref>{{cite web|url=https://www.shazam.com/gb/track/490835953/stay-happy|title=Stay Happy – Au/Ra|website=[[Shazam (application)|Shazam]]|accessdate=12 September 2019}}</ref>
+| — || — || — || — || — || — || —
+|-
+! scope="row"| "Ghost"<br><span style="font-size:85%;">(with [[Alan Walker (music producer)|Alan Walker]])</span><ref>{{Cite magazine |url=https://www.billboard.com/articles/news/dance/8533360/aura-alan-walker-ghost-death-stranding-soundtrack|title=Au/Ra & Alan Walker Share New Track 'Ghost' From 'Death Stranding' Soundtrack|first=Krystal|last=Rodriguez
+|date=17 October 2019|magazine=[[Billboard (magazine)|Billboard]] |accessdate=18 October 2019}}</ref>
+| — || — || — || — || — || — || —
+| ''[[Death Stranding: Timefall]]''
+|-
+! scope="row"| "Broken" <br/><span style="font-size:85%;">(with OTR)</span><ref>{{cite web|url=https://open.spotify.com/album/1q4wGC5PCcus7lJrt4yKWR |title=Broken (With Au/Ra) by OTR on Spotify |website=Spotify |accessdate=4 April 2020}}</ref>
+| rowspan="4"| 2020
+| — || — || — || — || — || — || —
+| ''Lost At Midnight''
+|-
+! scope="row"| "Ideas"<ref>{{cite web|url=https://music.apple.com/us/album/ideas-single/1504684974 |title=Ideas by Au/Ra on Apple Music |website=Apple Music |accessdate=22 April 2020}}</ref>
+| — || — || — || — || — || — || —
+| rowspan="3" {{n/a|non-album singles}}
+|-
+! scope="row"| "[[I Miss U]]"<br /><span style="font-size:85%;">(with [[Jax Jones]])</span><ref>{{cite web|url=https://themusicnetwork.com/charts/singles-to-radio/|title=Singles to Radio 1310 |website=The Music Network|date=9 October 2020|accessdate=9 October 2020}}</ref>
+| — || 25 || — || — || 32<br /><ref>{{cite web|url=http://www.officialcharts.com/charts/irish-singles-chart/20210115/ie7501/|title=Top 100 Singles, Week Ending 15 January 2021|publisher=Official Charts Company|accessdate=16 January 2021}}</ref> || — || —
+|-
+! scope="row"| "Moon River"<ref>{{Citation|title=Moon River - Single by Au/Ra|url=https://music.apple.com/us/album/moon-river-single/1539457968|language=en-US|access-date=2021-08-12}}</ref>
+| — || — || — || — || — || — || —
+|-
+! scope="row"| "Dead Girl! (Shake My Head)"<ref>{{cite web|url=https://music.apple.com/us/album/dead-girl-single/1551829687 |title=Dead Girl! - Single by Au/Ra on Apple Music |website=Apple Music |accessdate=30 April 2021}}</ref>{{Efn|"Dead Girl!" was later known as "Dead Girl! (Shake My Head)" weeks after the song’s release on select streaming platforms.<ref>{{Cite web|url=https://open.spotify.com/album/6ILFi7b74jwewJexOOVD7n?si=iQJtIZCrQ7OnnldwKFw83w |title=Dead Girl! (Shake My Head) by Au/Ra on Spotify |website=Spotify |accessdate=2 May 2021}}</ref>|group=upper-alpha}}
+| rowspan="3"| 2021
+| — || — || — || — || — || — || —
+| rowspan="3"| ''Soundtrack to an Existential Crisis''
+|-
+! scope="row"| "Bite Marks"<ref>{{cite web|url=https://music.apple.com/us/album/bite-marks-single/1566103432 |title=Bite Marks - Single by Au/Ra on Apple Music |website=Apple Music |accessdate=28 July 2021}}</ref>
+| — || — || — || — || — || — || —
+|-
+! scope="row"| "Screw Feelings"<ref>{{Cite web |last=Kenneally |first=Cerys |date=30 July 2021 |title=Au/Ra announces new project with lead single 'Screw Feelings' |url=https://www.thelineofbestfit.com/news/latest-news/au-ra-announces-new-project-with-lead-single-screw-feelings |accessdate=26 August 2021 |website=[[The Line of Best Fit]]}}</ref>
+| — || — || — || — || — || — || —
+|-
+| colspan="10" style="font-size:85%"| "—" denotes a recording that did not chart or was not released.
+|}
+
+====As featured artist====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" rowspan="2" style="width:22em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="4"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[VG-lista|NOR]]<br /><ref name="NOR2">{{cite web|url=http://norwegiancharts.com/showinterpret.asp?interpret=Alan+Walker|title=Discography Alan Walker|publisher=Norwegian Charts Portal. Hung Medien}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[GfK Entertainment Charts|GER]]<br /><ref name="GER2">{{cite web|url=https://www.offiziellecharts.de/titel-details-1505014|title=Discographie Alan Walker|publisher=German Charts Portal. Hung Medien}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Singles Chart|IRE]]<br /><ref name="IRE2">{{cite web|url=http://irish-charts.com/showinterpret.asp?interpret=Alan+Walker|title=Discography Alan Walker|publisher=Irish Charts Portal. Hung Medien}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWE2">{{cite web|url=http://swedishcharts.com/showinterpret.asp?interpret=Alan+Walker|title=Discography Alan Walker|publisher=Swedish Charts Portal. Hung Medien}}</ref>
+|-
+! scope="row"| "Darkside"<br/><span style="font-size:85%;">([[Alan Walker (music producer)|Alan Walker]] featuring Au/Ra and Tomine Harket)</span><ref>{{cite web|title=Darkside|url=https://open.spotify.com/album/64WDoAGyTcPlSIFAiSDsB0?si=AGO-kX1zTuSXsQxF-LVK9A|access-date=2018-07-26}}</ref>
+| 2018
+| 1<br /><ref>{{cite web|url=http://www.vglista.no/topplister/topp-20-single-2018-31/|title=VG-lista – Topp 20 Single uke 31, 2018|publisher=[[VG-lista]]|accessdate=3 August 2018}}</ref> || 97 || 86<br /><ref>{{cite web|url=http://irma.ie/index.cfm?page=irish-charts&chart=Singles|title=IRMA – Irish Charts|publisher=[[Irish Recorded Music Association]]|accessdate=11 August 2018}}</ref> || 11<br /><ref>{{cite web|url=http://www.sverigetopplistan.se/|title=Sverigetopplistan – Sveriges Officiella Topplista|publisher=[[Sverigetopplistan]]|accessdate=11 August 2018}}</ref>
+| ''[[Different World (Alan Walker album)|Different World]]''
+|-
+! scope="row"| "Drown"<br><span style="font-size:85%;">(Ekali featuring Au/Ra)</span><ref>{{cite web |url=https://edmidentity.com/2020/01/24/ekali-a-world-away-review |title=Ekali takes listeners 'A World Away' on debut album|work=EDM Identity |date=24 January 2020|accessdate=31 March 2020|last=Wright|first=Raven}}</ref>
+| rowspan="2"|2020
+| — || — || — || —
+| ''A World Away''
+|-
+! scope="row"| "Feel Again"<br><span style="font-size:85%;">(Kina featuring Au/Ra)</span><ref>{{cite web |url=https://www.clashmusic.com/features/personal-clash-aura-vs-kina|title=Personal Clash: Au/Ra vs Kina|work=[[Clash (magazine)|Clash]]|date=12 June 2020}}</ref>
+| — || — || — || —
+| ''Things I Wanted to Tell You''
+|}
+
+====Guest appearances====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" | Title
+! scope="col" | Year
+! scope="col" | Other artist(s)
+! scope="col" style="width:20em;"| Album
+|-
+! scope="row"|"Wish It Was Me"<ref>{{cite web |url=https://dancingastronaut.com/2021/05/hellraisers-pt-1-is-cheat-codes-as-we-know-and-love-them-lively-conductors-of-dance-pop-crossovers/|title=Ekali takes listeners 'A World Away' on debut album |work=[[Dancing Astronaut]]|date=11 May 2021|last=Narozniak|first=Rachel}}</ref>
+| 2021
+| [[Cheat Codes (DJs)|Cheat Codes]] featuring Au/Ra
+| ''Hellraisers, Pt. 1''
+|}
+
+== Awards and nominations ==
+
+=== Results ===
+{| class="wikitable"
+!Year
+!Awards
+!Category
+!Work
+!Result
+!Ref.
+|-
+|2020
+|Music Moves Europe Talent Awards
+|Pop-Act
+|Herself
+|rowspan=1 {{nominated}}
+|<ref>{{Cite web|title=The nominees {{!}} Music Moves Europe Talent Awards|url=https://musicmoveseuropetalentawards.eu/nominees/2020|access-date=2020-12-08|website=musicmoveseuropetalentawards.eu}}</ref>
+|}
+
+==Notes==
+{{notelist-ua}}
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+*[http://www.sonymusic.co.uk/artists/aura/ Au/Ra's artist page on Sony Music UK website]
+
+{{Authority control}}
+
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:People from Ibiza]]
+[[Category:Antigua and Barbuda musicians]]
+[[Category:English women pop singers]]
+[[Category:English people of German descent]]
+[[Category:Columbia Records artists]]
+[[Category:21st-century English women singers]]
+[[Category:21st-century English singers]]

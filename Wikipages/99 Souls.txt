@@ -1,0 +1,67 @@
+{{Short description|British house duo}}
+{{Use dmy dates|date=May 2018}}{{Use British English|date=May 2018}}{{Infobox musical artist
+| name            = 99 Souls
+| origin          = [[United Kingdom]]
+| genre           = [[House music|House]]
+| years_active    = {{Start date|2014}}–present
+| label           = {{hlist||}}
+| associated_acts = {{hlist|[[Destiny's Child]]|[[Brandy Norwood]]}}
+| current_members = Soul<br>Jo
+| past_members    =
+| website         = 
+}}
+
+'''99 Souls''' are a British house duo. They are best known for their 2015 single "[[The Girl Is Mine (99 Souls song)|The Girl Is Mine]]", a mash-up of [[Destiny's Child|Destiny's Child's]] "[[Girl (Destiny's Child song)|Girl]]" and [[Brandy Norwood|Brandy]] and [[Monica (singer)|Monica's]] "[[The Boy Is Mine (song)|The Boy Is Mine]]". The single peaked at number five on the [[UK Singles Chart]] in January 2016.
+
+==Career==
+===2014–present: Breakthrough===
+In 2014, they released the single "[[The Girl Is Mine (99 Souls song)|The Girl Is Mine]]", which is a mash-up of [[Destiny's Child|Destiny's Child's]] "[[Girl (Destiny's Child song)|Girl]]" and [[Brandy Norwood|Brandy]] and [[Monica (singer)|Monica's]] "[[The Boy Is Mine (song)|The Boy Is Mine]]". The song was re-released on 6 November 2015 with [[Beyoncé|Beyoncé's]] consent and a re-recorded vocal from Brandy.<ref name="Kiss">{{cite web |title=Destiny's Child and Brandy mash-up will be released |url=https://planetradio.co.uk/kiss/entertainment/music/destiny-child-brandy-mash-will-released/ |website=planetradio.co.uk |access-date=30 August 2019 |date=3 November 2015}}</ref> The song peaked at number five on the [[UK Singles Chart]].
+
+==Discography==
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2"| Certifications
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[UK Singles Chart|UK]]<br/><ref name="UK">{{cite web|url=http://www.officialcharts.com/artist/48676/99-souls/|title=99 Souls|publisher=[[Official Charts Company]]|work=Officialcharts.com/}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[ARIA Charts|AUS]]<br/><ref name="AUS">{{cite web|url=http://australian-charts.com/showinterpret.asp?interpret=99+Souls|title=Discography 99 Souls|publisher=Australian Charts Portal. Hung Medien (Steffen Hung)|last=Hung|first=Steffen}}</ref>
+|-
+! scope="row"| "[[The Girl Is Mine (99 Souls song)|The Girl Is Mine]]"<br/><span style="font-size:85%;">(featuring [[Destiny's Child]] and [[Brandy Norwood|Brandy]])</span>
+| 2015
+| 5 || 33
+|
+*BPI: Platinum<ref name="BPI">{{cite web|url=http://www.bpi.co.uk/certifiedawards/search.aspx |title=Certified Awards Search |publisher=[[British Phonographic Industry]] (BPI) |access-date=2016-01-15 |url-status=dead |archive-url=https://web.archive.org/web/20110511120001/http://www.bpi.co.uk/certifiedawards/Search.aspx |archive-date=2011-05-11 }}</ref>
+*IRMA: Platinum<ref>{{cite web|url=https://twitter.com/SonyMusicIre/status/705898274859962368|title=Sony Music Ireland on Twitter: "S/O to @99SoulsOfficial on their first platinum single in Ireland #TheGirlIsMine Congrats lads, and thanks everyone for the support!"|date=4 March 2016|publisher=[[Twitter]]|access-date=1 April 2016}}</ref>
+*ARIA: Gold<ref>{{cite web|url=http://www.noise11.com/news/music-news-aria-singles-zayn-pillowtalk-is-no-1-20160206|title=ARIA Singles: Zayn 'Pillowtalk' Is No 1|publisher=Noise11|last=Ryan|first=Gavin|date=2016-02-06|access-date=2016-02-06}}</ref>
+| {{TBA}}
+|-
+|}
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! scope="col" | Year
+! scope="col" | Award
+! Category
+! scope="col" | Work
+! scope="col" | Result
+|-
+|2016
+|[[2016 MTV Video Music Awards|MTV Video Music Awards]]
+|Best Electronic Video
+|"[[The Girl Is Mine (99 Souls song)|The Girl Is Mine]]" <small>(featuring [[Destiny's Child]] and [[Brandy Norwood|Brandy]])</small>
+|{{nom}}
+|}
+
+==References==
+{{Reflist}}
+
+[[Category:British house music duos]]
+[[Category:British DJs]]
+
+
+{{UK-band-stub}}

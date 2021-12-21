@@ -1,0 +1,711 @@
+{{short description|2018 Japanese anime television series and its adaptations}}
+{{Use mdy dates|date=April 2018}}
+{{Infobox animanga/Header
+| name            = Darling in the Fran''XX''
+| image           = DARLING in the FRANXX, second key visual.jpg
+| caption         = Key visual featuring squad 13
+| ja_kanji        = ダーリン・イン・ザ・フランキス
+| ja_romaji       = Dārin In Za Furankisu
+| genre           = {{ubl|[[Mecha anime and manga|Mecha]]<ref>{{cite web|title=The Winter 2018 Anime Preview Guide DARLING in the FRANXX|url=https://www.animenewsnetwork.com/preview-guide/2018/winter/darling-in-the-franxx/.126382|website=[[Anime News Network]]|access-date=January 13, 2018|date=February 5, 2018|url-status=live|archive-url=https://web.archive.org/web/20180131005601/https://www.animenewsnetwork.com/preview-guide/2018/winter/darling-in-the-franxx/.126382|archive-date=February 5, 2018}}</ref>|[[Romance film|Romantic drama]]<ref>{{cite web|title=Youth in Revolt: The Uncertain Future of DARLING in the FRANXX|url=https://www.crunchyroll.com/anime-feature/2018/05/02/youth-in-revolt-the-uncertain-future-of-darling-in-the-franxx|website=[[Crunchyroll]]|access-date=May 19, 2018|date=May 3, 2018|url-status=live|archive-url=https://web.archive.org/web/20190626202605/https://www.crunchyroll.com/anime-feature/2018/05/02/youth-in-revolt-the-uncertain-future-of-darling-in-the-franxx|archive-date=June 26, 2019}}</ref>}}<!-- Note: Use and cite reliable sources to identify genre/s, not personal interpretation. Please don't include more than three genres (per [[MOS:A&M]]). -->
+| creator         = Code:000
+}}
+{{Infobox animanga/Video
+| type = tv series
+| director        = Atsushi Nishigori
+| producer        = {{ubl|Yōsuke Toba|Mikio Uetsuki|Eiichi Kamagata}}
+| writer          = {{ubl|Atsushi Nishigori|Naotaka Hayashi}}
+| music           = Asami Tachibana
+| studio          = {{ubl|[[A-1 Pictures]]{{efn|A-1 Pictures was on the {{nihongo|Production|制作}} team and {{nihongo|Production Committee|製作}} throughout the series' entire run, and they, separate from the Kōenji Studio, are credited for {{nihongo|Animation Production|アニメーション制作}} for episode 18.}}|[[Studio Trigger|Trigger]]{{efn|Trigger is credited for {{nihongo|Animation Production|アニメーション制作}} for episodes 4, 6, 8, 10, 12, and 14, and the studio stayed on the {{nihongo|Production|制作}} team throughout the series' run.}}|[[CloverWorks]]{{efn|[[A-1 Pictures]]' subsidiary Kōenji Studio rebranded to CloverWorks during production.<ref name="CloverWorks">{{cite web|url=https://www.animenewsnetwork.com/daily-briefs/2018-04-02/a-1-pictures-koenji-studio-rebrands-as-cloverworks/.129827|title=A-1 Pictures' Kōenji Studio Rebrands as CloverWorks|date=April 2, 2018|website=[[Anime News Network]]|access-date=April 7, 2018|url-status=live|archive-url=https://web.archive.org/web/20180131005601/https://www.animenewsnetwork.com/daily-briefs/2018-04-02/a-1-pictures-koenji-studio-rebrands-as-cloverworks/.129827|archive-date=April 7, 2018}}</ref><ref>{{cite web|last=Chapman|first=Paul|url=https://www.crunchyroll.com/anime-news/2018/04/04/a-1-pictures-rebrands-their-kenji-studio-as-cloverworks|title=A-1 Pictures Rebrands Their Kōenji Studio as CloverWorks|date=April 4, 2018|website=[[Crunchyroll]]|access-date=April 7, 2018|url-status=live|archive-url=https://web.archive.org/web/20180131005601/https://www.crunchyroll.com/anime-news/2018/04/04/a-1-pictures-rebrands-their-kenji-studio-as-cloverworks|archive-date=April 7, 2018}}</ref> CloverWorks, as an independent company and as the former Kōenji Studio, is credited for {{nihongo|Animation Production|アニメーション制作}} for episodes 1–3, 5, 7, 9, 11, 13, 15–17, and 19–24.}}}}
+| licensee        = {{English anime licensee|[[Australasia|AUS]] / [[British Isles|BI]] / [[North America|NA]]|[[Crunchyroll]]<br>[[Funimation]]|SEA=[[Aniplus Asia|Plus Media Networks Asia]]}}
+| network         = [[Tokyo MX]], [[Tochigi TV|GYT]], [[Gunma TV|GTV]], [[Nippon BS Broadcasting|BS11]], [[Asahi Broadcasting Corporation|ABC]], [[Nagoya Broadcasting Network|Mētele]], [[Hiroshima Home Television|HOME]], [[Broadcasting System of San-in|BSS]], [[Biwako Broadcasting|BBC]], [[AT-X (TV network)|AT-X]]<ref>{{cite web |url=https://darli-fra.jp/onair/ |title=On Air |website=Darling in the Franxx Official Website |language=ja |date=December 28, 2017 |url-status=live |archive-url=https://web.archive.org/web/20171228232348/https://darli-fra.jp/onair/ |archive-date=December 28, 2017 }}</ref>
+| network_en      = {{English anime licensee|SEA=[[Aniplus Asia]]}} 
+| first           = January 13, 2018
+| last            = July 7, 2018
+| episodes        = 24
+| episode_list    = List of Darling in the Franxx episodes
+}}
+{{Infobox animanga/Print
+| type            = manga
+| title           = 
+| author          = Code:000
+| illustrator     = [[Kentaro Yabuki]]
+| publisher       = [[Shueisha]]
+| publisher_en    = {{English manga publisher|NA=[[Seven Seas Entertainment]]}}
+| demographic     = ''[[Shōnen manga|Shōnen]]''
+| imprint         = 
+| magazine        = [[Shōnen Jump+]]
+| magazine_en     = 
+| first           = January 14, 2018
+| last            = January 26, 2020
+| volumes         = 8
+| volume_list     = #Manga
+}}
+{{Infobox animanga/Print
+| type            = manga
+| title           = Darling in the Franxx!
+| author          = Mato
+| illustrator     = 
+| publisher       = Shueisha
+| publisher_en    = 
+| demographic     = ''Shōnen''
+| imprint         = 
+| magazine        = Shōnen Jump+
+| magazine_en     = 
+| first           = January 14, 2018
+| last            = July 11, 2018
+| volumes         = 1 
+| volume_list     = #Manga
+}}
+{{Infobox animanga/Footer}}
+
+{{nihongo|'''''Darling in the Franxx'''''|ダーリン・イン・ザ・フランキス|Dārin In Za Furankisu|lead=yes}}, abbreviated as {{nihongo|'''''DarliFra'''''|ダリフラ|DariFura}},<ref>{{cite web|url=https://darli-fra.jp/news/?id=46501&p=7|script-title=ja:有楽町マルイ 「ダリフラ」展開催決定！|date=February 27, 2018|website=darli-fra.jp|access-date=May 7, 2018|language=ja|url-status=live|archive-url=https://web.archive.org/web/20180507162439/https://darli-fra.jp/news/?id=46501&p=7|archive-date=May 7, 2018}}</ref> is a 2018 Japanese [[science fiction]] [[Romance film|romance]] [[anime]] television series co-produced by [[A-1 Pictures]] and [[Studio Trigger|Trigger]] and animated by Trigger and [[CloverWorks]]<!--Clover and Trigger credited for Animation Production, Trigger and A-1 credited for Production--> that premiered in January 2018.<ref>{{cite web|url=https://www.animenewsnetwork.com/news/2017-10-18/darling-in-the-franxx-anime-video-reveals-story-teaser-january-premiere/.122890|title=DARLING in the FRANXX Anime Video Reveals Story Teaser, January Premiere|date=October 18, 2017|website=[[Anime News Network]]|access-date=October 18, 2017|url-status=live|archive-url=https://web.archive.org/web/20171019003733/https://www.animenewsnetwork.com/news/2017-10-18/darling-in-the-franxx-anime-video-reveals-story-teaser-january-premiere/.122890|archive-date=October 19, 2017}}</ref><ref name="Song"/> The series was announced at Trigger's [[Anime Expo|Anime Expo 2017]] panel in July 2017.<ref>{{cite web|title=Studio Trigger Announces 3 New Anime Titles (Updated)|url=https://www.animenewsnetwork.com/news/2017-07-02/studio-trigger-announces-3-new-anime-titles/.118350|website=[[Anime News Network]]|access-date=July 3, 2017|url-status=live|archive-url=https://web.archive.org/web/20170703054458/https://www.animenewsnetwork.com/news/2017-07-02/studio-trigger-announces-3-new-anime-titles/.118350|archive-date=July 3, 2017}}</ref> A [[manga]] adaptation by [[Kentaro Yabuki]] and another [[yonkoma|four-panel]] [[comic strip]] manga began serialization in January 2018.<ref name="manga">{{cite web|url=https://www.animenewsnetwork.com/news/2017-12-15/to-love-ru-kentaro-yabuki-new-manga-is-darling-in-the-franxx/.125363|title=To Love-Ru's Kentaro Yabuki's New Manga is DARLING in the FRANXX|date=December 16, 2018|website=[[Anime News Network]]|access-date=December 16, 2017|url-status=live|archive-url=https://web.archive.org/web/20171216075040/https://www.animenewsnetwork.com/news/2017-12-15/to-love-ru-kentaro-yabuki-new-manga-is-darling-in-the-franxx/.125363|archive-date=December 16, 2017}}</ref>
+
+''Darling in the Franxx'' is set in a dystopian future where children are artificially created and indoctrinated solely to defend the remnants of civilization. The story follows a squad of ten pilots, particularly focusing on the partnership between Hiro, a former prodigy, and [[Zero Two]], a hybrid human and elite pilot who aspires to become entirely human. 
+
+The animation began international distribution simultaneously upon its domestic release. The streaming service [[Crunchyroll]] internationally [[simulcast]] the series, with [[Aniplus Asia]] simulcasting the series in Southeast Asia. Service partner [[Funimation]] began the dubbed release of the series in February 2018.<ref>{{cite web|title=Funimation Announces Start of DARLING in the FRANXX SimulDub |url=https://twitter.com/FUNimation/status/959186496996569088 |website=[[Twitter]]|access-date=February 4, 2018}}</ref><ref>{{cite web|url=https://www.crunchyroll.com/forumtopic-1008795/winter-2018-simulcasts|title=Crunchyroll Announces Winter 2018 Simulcast License Acquisitions|date=January 8, 2018|website=[[Crunchyroll]]|archive-url=https://web.archive.org/web/20180131005601/https://www.crunchyroll.com/forumtopic-1008795/winter-2018-simulcasts|archive-date=January 31, 2018|url-status=live|access-date=June 26, 2019}}</ref>
+
+==Synopsis==
+{{see also|List of Darling in the Franxx characters}}
+
+===Setting===
+''Darling in the Franxx'' takes place in a [[dystopia]]n post-apocalyptic future where the remnants of human civilization have abandoned the surface. Adults and children exist in contrasting environments from each other. Adults live in technologically advanced cities within Plantations and are immortal, but [[procreation]] and [[Romance (love)|relationships]] among them have become obsolete and undesirable. Artificially-created children, termed "parasites", are deprived of individuality and are educated only for piloting Franxx in pairs to defend humanity. The children are kept in isolation from adult society in environments nicknamed "birdcages", which emulate that of a bygone era so that they can develop the emotional responses required to pilot Franxx.
+
+In the early 21st century, the progress of human civilization was accelerated by ground-breaking discoveries in mining technology, allowing the extraction of magma energy for a new low-cost, all-encompassing energy source. Scientists contributing to the breakthrough form "APE", an organization that would significantly influence world politics and the global economy as a result of their discoveries. After discovering human immortality, much of mankind opted to become immortal despite the side effect of losing their reproductive functions. A cult of personality surrounds Papa, the chairman of the APE, which all humans come to worship akin to a god. Now governing the remnants of civilization, APE leads humanity to abandon Earth's now desolate surface for the relative safety of mobile fortress-cities known as Plantations.
+
+===Plot===
+Pushed to the brink of extinction in a post-apocalyptic world, humanity is under constant threat from giant creatures known as {{Nihongo|klaxosaurs|叫竜|kyoryū}}, which are subdivided into at least four categories based on their size: "Conrad",{{efn|Miniature klaxosaurs (few meters large) are called "Conrad" level, originally from [[Conrad discontinuity]] named after [[Austria-Hungary|Austria-Hungarian]] [[seismology|seismologist]] [[Victor Conrad]].<ref name="Keyword">{{cite web |url=https://darli-fra.jp/keyword/ |title=Keyword |website=darli-fra.jp |language=ja |date=April 2, 2018 |url-status=live |archive-url=https://web.archive.org/web/20171226020657/https://darli-fra.jp/keyword/ |archive-date=April 2, 2018 }}</ref>}} "Mohorovičić",{{efn|Midsize klaxosaurs (dozens of meters large) are called "Mohorovičić" level, originally from [[Mohorovičić discontinuity]] named after [[Croats|Croatian]] [[seismologist]] [[Andrija Mohorovičić]].<ref name="Keyword"/>}} "Gutenberg"{{efn|Giant klaxosaurs (hundreds of meters large) are called "Gutenberg" level, originally from [[Core–mantle boundary]] named after [[Germany|German]] [[seismology|seismologist]] [[Beno Gutenberg]].<ref name="Keyword"/>}} and "(Super) Lehmann".{{efn|The largest klaxosaur class first seen in episode 15, spanning kilometers, originally from [[Lehmann discontinuity]] named after [[Danes|Danish]] [[seismology|seismologist]] [[Inge Lehmann]].<ref name="Keyword"/>}} Pushed to the brink of annihilation, parasites are raised to pilot giant [[mecha]] known as {{nihongo|Franxx{{efn|It has a nickname of "Steel maiden".<ref name="Keyword"/>}}|フランキス|Furankisu}} in boy-girl pairs. A male parasite is termed a "[[stamen]]", and a female parasite is referred to as a "[[pistil]]" (the male and female reproductive parts of a flower, respectively). Parasites are artificially created and have short lifespans. 
+
+A team of ten parasites is assigned to the experimental Squad 13 of Plantation 13. One of them, Hiro (Code:016), is a former pilot-candidate prodigy who can no longer synchronize with his partner, and they both fail to complete the training program. While skipping his squad's graduation ceremony, Hiro encounters [[Zero Two]] (Code:002), an elite Franxx pilot with klaxosaur blood, red horns, and an infamous reputation as the "Partner Killer". It is rumored that Zero Two's partners are killed after pairing with her by the third time. Shortly after, a Klaxosaur attacks, disrupting Hiro's graduation ceremony and leaving Zero Two's partner killed in action. Despite the rumors, Hiro volunteers to become her new partner, or as Zero Two calls him, her "darling".
+
+==Media==
+===Anime===
+{{see also|List of Darling in the Franxx episodes}}
+Atsushi Nishigori directed the 24-episode anime series with Nishigori and Naotaka Hayashi handling series composition, Masayoshi Tanaka designing the characters, Shigeto Koyama acting as a mechanical designer, [[Hiroyuki Imaishi]] serving as action animation director and Asami Tachibana composing the music.<ref>{{cite web|url=https://www.animenewsnetwork.com/news/2017-07-05/studio-trigger-a-1-pictures-darling-in-the-frankxx-anime-reveals-video-visual-staff/.118447|title=Studio Trigger, A-1 Pictures' DARLING in the FRANKXX Anime Reveals Video, Visual, Staff|date=July 5, 2017|website=[[Anime News Network]]|access-date=August 9, 2017|url-status=live|archive-url=https://web.archive.org/web/20170708144445/https://www.animenewsnetwork.com/news/2017-07-05/studio-trigger-a-1-pictures-darling-in-the-frankxx-anime-reveals-video-visual-staff/.118447|archive-date=July 8, 2017}}</ref><ref name="PV1">{{cite web|url=https://www.animenewsnetwork.com/news/2017-11-08/darling-in-the-franxx-anime-promo-video-tv-ads-streamed/.123762|title=DARLING in the FRANXX Anime's Promo Video, TV Ads Streamed|date=November 8, 2017|website=[[Anime News Network]]|access-date=November 8, 2017|url-status=live|archive-url=https://web.archive.org/web/20171109080718/https://www.animenewsnetwork.com/news/2017-11-08/darling-in-the-franxx-anime-promo-video-tv-ads-streamed/.123762|archive-date=November 9, 2017}}</ref> The opening theme song, titled "[[Kiss of Death (song)|Kiss of Death]]", was performed by [[Mika Nakashima]] and produced by [[Hyde (musician)|Hyde]],<ref name="Song">{{cite web|url=https://www.animenewsnetwork.com/news/2017-12-13/darling-in-the-franxx-anime-reveals-january-13-premiere-opening-theme-song/.125247|title=DARLING in the FRANXX Anime Reveals January 13 Premiere, Opening Theme Song|website=[[Anime News Network]]|date=December 13, 2017|access-date=December 14, 2017|url-status=live|archive-url=https://web.archive.org/web/20171214124221/https://www.animenewsnetwork.com/news/2017-12-13/darling-in-the-franxx-anime-reveals-january-13-premiere-opening-theme-song/.125247|archive-date=December 14, 2017}}</ref> while the ending themes titled {{nihongo|"Torikago"|トリカゴ}} (ep. 1–6), {{nihongo|"Manatsu no Setsuna"|真夏のセツナ}} (ep 7), "Beautiful World" (ep 8-12, 14), {{nihongo|"Hitori"|ひとり}} (ep 13), "Escape" (ep 16-20), and "Darling" (ep. 21–23) were performed by XX:me (read as "Kiss Me"), a unit consisting of the series' main female castmembers, Zero Two, Ichigo, Miku, Kokoro, and Ikuno.<ref>{{cite web|title=Music|url=https://darli-fra.jp/music/?p=ed|access-date=March 12, 2018|website=darli-fra.jp|language=ja}}</ref> [[Crunchyroll]] simulcast the series, while [[Funimation]] has licensed the series, and it was streamed with an English dub.<ref>{{cite web|title=Crunchyroll, Funimation Announce 7 Anime for Winter 2018 Simulcast Season|url=https://www.animenewsnetwork.com/news/2017-12-14/crunchyroll-funimation-announce-7-anime-for-winter-2018-simulcast-season/.125300|website=[[Anime News Network]]|access-date=December 14, 2017|date=December 14, 2017|url-status=live|archive-url=https://web.archive.org/web/20171214231635/https://www.animenewsnetwork.com/news/2017-12-14/crunchyroll-funimation-announce-7-anime-for-winter-2018-simulcast-season/.125300|archive-date=December 14, 2017}}</ref> [[Aniplus Asia]] simulcast the series in Southeast Asia.<ref>{{Cite web|url=https://www.animenewsnetwork.com/press-release/2018-01-14/aniplus-asia-to-simulcast-darling-in-the-franxx/.126401|title=ANIPLUS Asia to Simulcast DARLING in the FRANXX|date=January 14, 2018|website=[[Anime News Network]]|archive-url=https://web.archive.org/web/20180412181411/https://www.animenewsnetwork.com/press-release/2018-01-14/aniplus-asia-to-simulcast-darling-in-the-franxx/.126401|archive-date=April 12, 2018|url-status=live|access-date=April 12, 2018}}</ref>
+
+===Manga===
+A manga adaptation written by Code:000, illustrated by [[Kentaro Yabuki]] and another [[yonkoma|four-panel]] [[comic strip]] spinoff manga by Mato started their serialization on the ''[[Shōnen Jump+]]'' website on January 14, 2018.<ref name="manga"/> The manga adaptation from volume 4 onwards differs significantly from the original anime.<ref>{{cite web|title=Kentaro Yabuki Says Darling in the Franxx Manga Will Have 'Major Divergences' From the Anime - Interest - Anime News Network|url=https://www.animenewsnetwork.com/interest/2019-01-14/kentaro-yabuki-says-darling-in-the-franxx-manga-will-have-major-divergences-from-the-anime/.141952|website=[[Anime News Network]]|access-date=March 29, 2020|date=January 14, 2019|url-status=live|archive-url=https://web.archive.org/web/20190516211822/https://www.animenewsnetwork.com/interest/2019-01-14/kentaro-yabuki-says-darling-in-the-franxx-manga-will-have-major-divergences-from-the-anime/.141952|archive-date=May 16, 2019}}</ref> As of May 2, 2018, the manga has sold 400,000 copies in Japan.<ref>{{cite web|url=https://www.animenewsnetwork.com/news/2018-05-07/roundup-of-newly-revealed-print-counts-for-manga-light-novel-series/.130972|title=Roundup of Newly Revealed Print Counts for Manga, Light Novel Series (March - May 2018)|publisher=Anime News Network|access-date=January 10, 2019}}</ref> 
+
+On July 1, 2021, [[Seven Seas Entertainment]] announced they licensed the manga for North American publication.<ref>{{cite web|title=What Is Love? Seven Seas Licenses DARLING IN THE FRANXX Mature-rated Manga Series (Ghost Ship imprint)|url=https://sevenseasentertainment.com/2021/07/01/what-is-love-seven-seas-licenses-darling-in-the-franxx-mature-rated-manga-series-ghost-ship-imprint/|publisher=[[Seven Seas Entertainment]]|date=July 1, 2021|access-date=July 1, 2021}}</ref>
+
+{{Graphic novel list/header
+ | Language     = Japanese
+ | OneLanguage  = yes
+ | Width        = 75%
+}}
+{{Graphic novel list
+ | VolumeNumber = 1
+ | RelDate      = February 2, 2018<ref>{{cite web |url=https://books.shueisha.co.jp/items/contents.html?isbn=978-4-08-881454-4 |script-title=ja:ダーリン・イン・ザ・フランキス 1|trans-title=''Darling in the Franxx'' 1 |website=[[Shueisha]] |language=ja |access-date=February 10, 2018 }}</ref>
+ | ISBN         = 978-4-08-881454-4
+}}
+{{Graphic novel list
+ | VolumeNumber = 2
+ | RelDate      = May 2, 2018<ref>{{cite web |url=https://books.shueisha.co.jp/items/contents.html?isbn=978-4-08-881493-3 |script-title=ja:ダーリン・イン・ザ・フランキス 2|trans-title=''Darling in the Franxx'' 2 |website=[[Shueisha]] |language=ja |access-date=March 20, 2018 }}</ref>
+ | ISBN         = 978-4-08-881493-3
+}}
+{{Graphic novel list
+ | VolumeNumber = 3
+ | RelDate      = October 4, 2018<ref>{{cite web |url=https://books.shueisha.co.jp/items/contents.html?isbn=978-4-08-881620-3 |script-title=ja:ダーリン・イン・ザ・フランキス 3|trans-title=''Darling in the Franxx'' 3 |website=[[Shueisha]] |language=ja |access-date=August 26, 2018 }}</ref>
+ | ISBN         = 978-4-08-881620-3
+}}
+{{Graphic novel list
+ | VolumeNumber = 4
+ | RelDate      = February 4, 2019<ref>{{cite web |url=https://books.shueisha.co.jp/items/contents.html?isbn=978-4-08-881752-1 |script-title=ja:ダーリン・イン・ザ・フランキス 4|trans-title=''Darling in the Franxx'' 4 |website=[[Shueisha]] |language=ja |access-date=December 31, 2018 }}</ref>
+ | ISBN         = 978-4-08-881752-1
+}}
+{{Graphic novel list
+ | VolumeNumber = 5
+ | RelDate      = May 2, 2019<ref>{{cite web |url=https://books.shueisha.co.jp/items/contents.html?isbn=978-4-08-881854-2 |script-title=ja:ダーリン・イン・ザ・フランキス 5|trans-title=''Darling in the Franxx'' 5 |website=[[Shueisha]] |language=ja |access-date=April 4, 2019 }}</ref>
+ | ISBN         = 978-4-08-881854-2
+}}
+{{Graphic novel list
+ | VolumeNumber = 6
+ | RelDate      = September 4, 2019<ref>{{cite web |url=https://books.shueisha.co.jp/items/contents.html?isbn=978-4-08-882048-4 |script-title=ja:ダーリン・イン・ザ・フランキス 6|trans-title=''Darling in the Franxx'' 6 |website=[[Shueisha]] |language=ja |access-date=July 27, 2019 }}</ref>
+ | ISBN         = 978-4-08-882048-4
+}}
+{{Graphic novel list
+ | VolumeNumber = 7
+ | RelDate      = January 4, 2020<ref>{{cite web |url=https://books.shueisha.co.jp/items/contents.html?isbn=978-4-08-882196-2 |script-title=ja:ダーリン・イン・ザ・フランキス 7|trans-title=''Darling in the Franxx'' 7 |website=[[Shueisha]] |language=ja |access-date=December 8, 2019 }}</ref>
+ | ISBN         = 978-4-08-882196-2
+}}
+{{Graphic novel list
+ | VolumeNumber = 8
+ | RelDate      = April 3, 2020<ref>{{cite web |url=https://books.shueisha.co.jp/items/contents.html?isbn=978-4-08-882277-8 |script-title=ja:ダーリン・イン・ザ・フランキス 8|trans-title=''Darling in the Franxx'' 8 |website=[[Shueisha]] |language=ja |access-date=April 3, 2020 }}</ref>
+ | ISBN         = 978-4-08-882277-8
+}}
+{{Graphic novel list/footer}}
+
+Mato's four-panel spinoff manga ended on July 11, 2018,<ref>{{cite web |url=https://www.animenewsnetwork.com/news/2018-07-09/darling-in-the-franxx-4-panel-spinoff-manga-ends/.134047 |title=Darling in the Franxx 4-Panel Spinoff Manga Ends |last=Ressler |first=Karen |date=July 9, 2018 |website=[[Anime News Network]] |access-date=July 9, 2018 }}</ref> and was compiled into a full-color physical book released on October 4, 2018.<ref>{{cite web |url=https://wowjapan.asia/2018/10/matos-darling-in-the-franxx-4-koma-compilation-launched/ |title=Mato's "Darling in the Franxx" 4-koma Compilation Launched! - WOWJAPAN |date=October 5, 2018 |access-date=October 10, 2018 }}</ref>
+
+{{Graphic novel list/header
+ | Language     = Japanese
+ | OneLanguage  = yes
+ | Width        = 75%
+}}
+{{Graphic novel list
+ | VolumeNumber = 1
+ | RelDate      = October 4, 2018<ref>{{cite web |url=https://books.shueisha.co.jp/items/contents.html?isbn=978-4-08-881454-4 |script-title=ja:ダーリン・イン・ザ・フランキス 1|trans-title=''Darling in the Franxx!'' 1 |website=[[Shueisha]] |language=ja |access-date=June 26, 2019 }}</ref>
+ | ISBN         = 978-4-08-881621-0
+}}
+{{Graphic novel list/footer}}
+
+===Soundtrack===
+{{Infobox album
+| name       = Darling in the Franxx Original Soundtrack
+| type       = soundtrack
+| artist     = Asami Tachibana
+| cover      =
+| alt        =
+| released   = {{Start date|2018|04|25}} (volume 1)<br/>{{Start date|2018|07|25}} (volume 2)<br/>{{Start date|2018|08|29}} (volume 3)<br/>{{Start date|2019|03|27}} (digital) 
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Soundtrack]]
+| length     = 51:38 (volume 1)<br/>48:34 (volume 2)<br/>1:06:40 (volume 3)<br />2:46:52 (total)
+| label      = [[Aniplex]]
+| producer   = {{hlist|Asami Tachibana|Yasushi Horiguchi <small>(co-producer)</small>}}
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+{{See also|Kiss of Death (song)}}
+The series' soundtrack is composed by Asami Tachibana and published by [[Aniplex]]. The first disc containing 21 tracks is enclosed with the first home video release volume of the anime which was released on April 25, 2018.<ref name="Vol1Tracklist">{{cite web|url=https://darli-fra.jp/bddvd/01.html|script-title=ja:ダーリン・イン・ザ・フランキス 1|trans-title=Darling in the Franxx 1|website=darli-fra.jp|access-date=June 26, 2019|language=ja}}</ref> The second disc also containing 21 tracks is enclosed with the fourth home video release volume which was released on July 25, 2018.<ref name="Vol2Tracklist">{{cite web|url=https://darli-fra.jp/bddvd/04.html|script-title=ja:ダーリン・イン・ザ・フランキス 4|trans-title=Darling in the Franxx 4|website=darli-fra.jp|access-date=June 26, 2019|language=ja}}</ref> The third disc containing 22 tracks is enclosed with the fifth home video release volume which was released on August 29, 2018.<ref name="Vol3Tracklist">{{cite web|url=https://darli-fra.jp/bddvd/05.html|script-title=ja:ダーリン・イン・ザ・フランキス 5|trans-title=Darling in the Franxx 5|website=darli-fra.jp|access-date=June 26, 2019|language=ja}}</ref> All three soundtrack volumes were released digitally on various online music stores on March 27, 2019.<ref>{{cite web|url=https://darli-fra.jp/news/?id=50119&p=1|script-title=ja:オリジナルサウンドトラック配信決定！|date=March 13, 2019|website=darli-fra.jp|access-date=April 5, 2019|language=ja}}</ref> 
+{{clear}}
+
+{{Track listing
+| headline      = ''Darling in the Franxx'' Original Soundtrack Volume 1<ref name="Vol1Tracklist"/>
+| collapsed     = yes
+| extra_column  = Performer(s)
+| total_length  = 51:38
+
+| all_music     = Asami Tachibana
+
+| title1        = cÅGE
+| note1         = 
+| lyrics1       = cAnON.
+| extra1        = Anna Pingina
+| length1       = 4:56
+
+| title2        = Vanquish
+| note2         = 
+| lyrics2       = Benjamin, mpi
+| extra2        = Monique Dehaney
+| length2       = 2:40
+
+| title3        = Odds and ends
+| note3         = 
+| lyrics3       = 
+| extra3        = 
+| length3       = 2:23
+
+| title4        = o-DOR
+| note4         = 
+| lyrics4       = 
+| extra4        = 
+| length4       = 1:48
+
+| title5        = Dino-S
+| note5         = 
+| lyrics5       = 
+| extra5        = 
+| length5       = 2:01
+
+| title6        = BEAST
+| note6         = 
+| lyrics6       = 
+| extra6        = 
+| length6       = 2:46
+
+| title7        = Counterattack
+| note7         = 
+| lyrics7       = 
+| extra7        = 
+| length7       = 3:03
+
+| title8        = Operation
+| note8         = 
+| lyrics8       = 
+| extra8        = 
+| length8       = 3:04
+
+| title9        = Reversal
+| note9         = 
+| lyrics9       = 
+| extra9        = 
+| length9       = 2:47
+
+| title10       = In the FRANXX
+| note10        = 
+| lyrics10      = 
+| extra10       = 
+| length10      = 2:09
+
+| title11       = Trente
+| note11        = 
+| lyrics11      = 
+| extra11       = 
+| length11      = 1:51
+
+| title12       = Distopia
+| note12        = 
+| lyrics12      = 
+| extra12       = 
+| length12      = 1:52
+
+| title13       = Godliness
+| note13        = 
+| lyrics13      = 
+| extra13       = 
+| length13      = 2:20
+
+| title14       = Aile
+| note14        = 
+| lyrics14      = 
+| extra14       = 
+| length14      = 2:24
+
+| title15       = Clarity
+| note15        = 
+| lyrics15      = 
+| extra15       = 
+| length15      = 2:29
+
+| title16       = Nuance
+| note16        = 
+| lyrics16      = 
+| extra16       = 
+| length16      = 1:50
+
+| title17       = Miel
+| note17        = 
+| lyrics17      = 
+| extra17       = 
+| length17      = 1:30
+
+| title18       = Dropping
+| note18        = 
+| lyrics18      = 
+| extra18       = 
+| length18      = 2:08
+
+| title19       = CODE:002
+| note19        = 
+| lyrics19      = 
+| extra19       = 
+| length19      = 2:36
+
+| title20       = VICTORIA
+| note20        = 
+| lyrics20      = 
+| extra20       = 
+| length20      = 3:06
+
+| title21       = Torikago (BGM-Rearrange)
+| note21        = composed by Katsuhiko Sugiyama, arranged by Kohta Yamamoto
+| lyrics21      = 
+| extra21       = 
+| length21      = 1:55
+}}
+{{Track listing
+| headline      = ''Darling in the Franxx'' Original Soundtrack Volume 2<ref name="Vol2Tracklist"/>
+| collapsed     = yes
+| extra_column  = Performer(s)
+| total_length  = 48:34
+
+| title1        = FUSE
+| note1         = 
+| lyrics1       = Benjamin, mpi
+| extra1        = Claudia Vazquez
+| length1       = 3:01
+
+| title2        = Battle Cry
+| note2         = 
+| lyrics2       = Dj L-Spade
+| extra2        = Dj L-Spade
+| length2       = 3:30
+
+| title3        = Your smile
+| note3         = 
+| lyrics3       = 
+| extra3        = 
+| length3       = 2:17
+
+| title4        = Abandoned Places
+| note4         = 
+| lyrics4       = 
+| extra4        = 
+| length4       = 1:41
+
+| title5        = The Seven Sages
+| note5         = 
+| lyrics5       = 
+| extra5        = 
+| length5       = 1:43
+
+| title6        = Klaxosaur
+| note6         = 
+| lyrics6       = 
+| extra6        = 
+| length6       = 2:23
+
+| title7        = Gutenberg
+| note7         = 
+| lyrics7       = 
+| extra7        = 
+| length7       = 2:23
+
+| title8        = Shady History
+| note8         = 
+| lyrics8       = 
+| extra8        = 
+| length8       = 2:37
+
+| title9        = ADuLt
+| note9         = 
+| lyrics9       = 
+| extra9        = 
+| length9       = 1:35
+
+| title10       = One's Word
+| note10        = 
+| lyrics10      = 
+| extra10       = 
+| length10      = 1:52
+
+| title11       = Vita
+| note11        = 
+| lyrics11      = 
+| extra11       = 
+| length11      = 1:53
+
+| title12       = CHiLDRen
+| note12        = 
+| lyrics12      = 
+| extra12       = 
+| length12      = 1:31
+
+| title13       = CODE:015
+| note13        = 
+| lyrics13      = 
+| extra13       = 
+| length13      = 2:52
+
+| title14       = Lilac
+| note14        = 
+| lyrics14      = 
+| extra14       = 
+| length14      = 1:52
+
+| title15       = Red Hibiscus
+| note15        = 
+| lyrics15      = 
+| extra15       = 
+| length15      = 2:28
+
+| title16       = The Sands
+| note16        = 
+| lyrics16      = 
+| extra16       = 
+| length16      = 2:09
+
+| title17       = Boys×Girls
+| note17        = 
+| lyrics17      = 
+| extra17       = 
+| length17      = 1:44
+
+| title18       = VICTORIA -piano ver.-
+| note18        = 
+| lyrics18      = 
+| extra18       = 
+| length18      = 3:10
+
+| title19       = Lilac -guitar ver.-
+| note19        = 
+| lyrics19      = 
+| extra19       = 
+| length19      = 1:51
+
+| title20       = Mistilteinn
+| note20        = 
+| lyrics20      = 
+| extra20       = 
+| length20      = 2:30
+
+| title21       = D#regards
+| note21        = 
+| lyrics21      = cAnON.
+| extra21       = Anna Pingina
+| length21      = 4:12
+}}
+{{Track listing
+| headline      = ''Darling in the Franxx'' Original Soundtrack Volume 3<ref name="Vol3Tracklist"/>
+| collapsed     = yes
+| extra_column  = Performer(s)
+| total_length  = 1:06:40
+
+| title1        = CODE:016
+| note1         = 
+| lyrics1       = 
+| extra1        = 
+| length1       = 2:29
+
+| title2        = RoCco
+| note2         = 
+| lyrics2       = 
+| extra2        = 
+| length2       = 1:59
+
+| title3        = Lotus
+| note3         = 
+| lyrics3       = 
+| extra3        = 
+| length3       = 1:59
+
+| title4        = CODE:001
+| note4         = 
+| lyrics4       = 
+| extra4        = 
+| length4       = 2:26
+
+| title5        = CoiL
+| note5         = 
+| lyrics5       = 
+| extra5        = 
+| length5       = 3:16
+
+| title6        = DESPAIR
+| note6         = 
+| lyrics6       = 
+| extra6        = 
+| length6       = 2:25
+
+| title7        = InVaDeR
+| note7         = 
+| lyrics7       = 
+| extra7        = 
+| length7       = 2:44
+
+| title8        = GLADIOLUS
+| note8         = 
+| lyrics8       = 
+| extra8        = 
+| length8       = 3:52
+
+| title9        = JUSTICE
+| note9         = 
+| lyrics9       = 
+| extra9        = 
+| length9       = 2:20
+
+| title10       = Requiem
+| note10        = 
+| lyrics10      = 
+| extra10       = 
+| length10      = 2:55
+
+| title11       = Cherry blossoms
+| note11        = 
+| lyrics11      = 
+| extra11       = 
+| length11      = 2:23
+
+| title12       = HIRO and ZERO TWO
+| note12        = 
+| lyrics12      = 
+| extra12       =
+| length12      = 3:41
+
+| title13       = cÅGE -piano ver.-
+| note13        = 
+| lyrics13      = 
+| extra13       = 
+| length13      = 1:57
+
+| title14       = JUSTICE -Epiano ver.-
+| note14        = 
+| lyrics14      = 
+| extra14       = 
+| length14      = 2:28
+
+| title15       = Pray for..
+| note15        = 
+| lyrics15      = 
+| extra15       = 
+| length15      = 5:49
+
+| title16       = cÅGE -SPS ver.-
+| note16        = 
+| lyrics16      = 
+| extra16       = 
+| length16      = 2:43
+
+| title17       = FUSE -instrumental-
+| note17        = 
+| lyrics17      = 
+| extra17       = 
+| length17      = 3:01
+
+| title18       = Battle Cry -instrumental-
+| note18        = 
+| lyrics18      = 
+| extra18       = 
+| length18      = 3:30
+
+| title19       = Vanquish -instrumental-
+| note19        = 
+| lyrics19      = 
+| extra19       = 
+| length19      = 2:40
+
+| title20       = D#regards -instrumental-
+| note20        = 
+| lyrics20      = 
+| extra20       = 
+| length20      = 4:12
+
+| title21       = cÅGE -instrumental-
+| note21        = 
+| lyrics21      = 
+| extra21       =
+| length21      = 4:55
+
+| title22       = Torikago (BGM-Rearrange) -guitar ver.-
+| note22        = composed by Katsuhiko Sugiyama, arranged by Kohta Yamamoto
+| lyrics22      = 
+| extra22       =
+| length22      = 2:56
+}}
+
+==Reception==
+===Critical response===
+Reception to ''Darling in the Franxx'' has been generally positive,<ref>{{cite web|url=https://www.stitcher.com/podcast/mitsugi/anime-addicts-anonymous-podcast/e/55922993|title=Anime Addicts Anonymous - AAA 435: Darling! Go Deeper in My Franxx|date=23 August 2018|language=en}}</ref> with the series itself being praised most notably for its coming-of-age elements. Cactus Matt of ''Anime Q and A'' found the series enjoyable, as he commented, “I think that's a beautiful way to end this series, with the same message of hope for the future that was always an undercurrent (and later—the entire plot) of the series.”<ref>{{cite web|title=Darling in the Franxx Episode 24 Review|url=https://animeqanda.com/2018/07/10/darling-in-the-franxx-episode-24-finale-review/ |access-date=December 7, 2018}}</ref> Cal Win of ''Shinyuusite'' liked the series’ interpersonal drama and character development despite the lack of feedback in the second half of the series.<ref>{{cite web|title=Darling in the Franxx Episode 24 Review|date=July 8, 2018 |url=https://shinyuusite.wordpress.com/2018/07/08/darling-in-the-franxx-episode-24-review/comment-page-1/ |access-date=December 7, 2018}}</ref> Nate Zen of ''OtakuKart'' praises the animation quality and character development but commented the series lacked creativity.<ref>{{cite web|title=Darling in the Franxx Review|date=November 24, 2018|url=https://otakukart.com/review/darling-in-the-franxx-review/|access-date=December 12, 2018}}</ref> [[Crunchyroll]] gave the series a 4.3 out of 5 stars score for its elements of [[action film|action]], [[sci-fi]], [[comedy]], [[drama]], [[coming of age]], and [[romance film|romance]].<ref>{{cite web|title=Darling in the Franxx|url=https://www.crunchyroll.com/darling-in-the-franxx|access-date=December 12, 2018}}</ref>
+
+Some of the series' themes were received with controversy regarding sexual innuendos of teenagers, the lack of plot development regarding the alien species VIRM, and the rushed pacing of the storyline following episode 15. While the series was received positively by viewers in Japan, the Western reception has been mixed. Eric Van Allen of ''[[Kotaku]]'' described the series as having "moments of brilliance that will stick with me as much as its hasty, rough conclusion" and was "truly fascinating to follow", despite the ending.<ref>{{cite web|title=Darling In The Franxx Doesn't Make Good On Its Promises |url=https://kotaku.com/darling-in-the-franxx-doesnt-make-good-on-its-promises-1827628015 |website=[[Kotaku]]|access-date=August 31, 2018}}</ref> Skyler Allen of ''A Piece of Anime'' appreciated the first half of the series as an "excellent, if flawed, coming of age mecha story with a lot of heart behind it" but described the concluding portion as a "thematically incoherent mess".<ref>{{cite web|title=Darling in the Franxx Review - A Piece of Anime |date=July 11, 2018 |url=https://apieceofanime.com/2018/07/11/darling-in-the-franxx-review/ |access-date=August 31, 2018}}</ref> Kyle Rogacion of ''Goomba Stomp'' called the series "an endearing character-driven coming-of-age story" but criticized it for having by the end "eschewed everything that made it great and settled for the easy way out”.<ref>{{cite web|title='Darling in the Franxx' Check-in: Ending With a Whimper &#124; Goomba Stomp |date=July 12, 2018
+|url=https://www.goombastomp.com/darling-franxx-ending/
+|access-date=August 31, 2018}}</ref> However, ''Random Curiosity'' voiced a more positive opinion to its ending, stating the series will be "well-remembered for seasons to come" and "kept us all fixated and eagerly anticipating every episode set to air".<ref>{{cite web|title='Darling in the Franxx - 24 (END)|url=https://www.randomc.net/2018/07/07/darling-in-the-franxx-24-end/|access-date=September 1, 2018|url-status=dead|archive-url=https://web.archive.org/web/20180902084136/https://randomc.net/2018/07/07/darling-in-the-franxx-24-end/|archive-date=September 2, 2018}}</ref>
+
+===Awards and nominations===
+At [[Newtype]] Anime Awards 2018, Shigeto Koyama was awarded Best Mechanical Design, with Zero Two and the series itself being runners-up for Best Female Character and Best TV Anime, respectively.<ref name="NAA 2018">{{cite web|title=Newtype Anime Awards 2018 Winners and Details Announced |date=October 8, 2018 |url=https://www.thenerdmag.com/newtype-anime-awards-2018-winners-and-details-announced/ |access-date=October 8, 2018}}</ref>
+
+{|class="wikitable"
+! Year
+! Award
+! Category
+! Recipient(s)
+! Result
+|-
+| align="center" rowspan="12"| 2018
+| rowspan="12" | [[Newtype#Newtype Anime Awards|Newtype Anime Awards]]<ref>{{cite web|title=Idolm@ster SideM, Bungo Stray Dogs Film Win Top Newtype Anime Awards - News - Anime News Network |url=https://www.animenewsnetwork.com/news/2018-10-07/idolm@ster-sidem-bungo-stray-dogs-film-win-top-newtype-anime-awards/.137844 |access-date=October 8, 2018}}</ref>
+| Best TV Anime
+| ''Darling in the Franxx''
+| {{draw|Runner-up}}
+|-
+| Best Character (Male)
+| Hiro
+| {{nom}}
+|-
+| Best Character (Female)
+| [[Zero Two]]
+| {{draw|Runner-up}}
+|-
+| rowspan="2" | Best Voice Actor
+| [[Yūto Uemura]] (Hiro)
+| {{nom}}
+|-
+| [[Yūichirō Umehara]] (Goro)
+| {{nom}}
+|-
+| Best Voice Actress
+| [[Haruka Tomatsu]] ([[Zero Two]])
+| {{nom}}
+|-
+| Best Theme Song
+| [[Kiss of Death (song)|Kiss of Death]] by [[Mika Nakashima]]
+| {{nom}}
+|-
+| Best Soundtrack
+| Asami Tachibana
+| {{nom}}
+|-
+| Best Director
+| Atsushi Nishigori
+| {{nom}}
+|-
+| Best Screenplay
+| Atsushi Nishigori and Naotaka Hayashi
+| {{nom}}
+|-
+| Best Character Design
+| Masayoshi Tanaka
+| {{nom}}
+|-
+| Best Mechanical Design
+| Shigeto Koyama
+| {{won}}
+|-
+| align="center" rowspan="1" | 2019
+| [[Crunchyroll Anime Awards]]<ref>{{cite web|title=Crunchyroll - Winners of the 2019 Anime Awards—Updated Live! |url=https://www.crunchyroll.com/anime-news/2019/02/16/winners-of-the-2019-anime-awardsupdated-live |access-date=February 16, 2019}}</ref>
+| Best Opening Sequence
+| Kiss of Death by Mika Nakashima
+| {{won}}
+|}
+
+==See also==
+* [[Neon Genesis Evangelion]]
+* [[Raxephon]]
+* [[Diebuster]]
+* [[Gurren Lagann]]
+* [[Mecha anime and manga]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+* {{Official website|https://darli-fra.jp/}} {{in lang|ja}}
+* {{ann|anime|19850}}
+* [[Crunchyroll]]'s [https://www.crunchyroll.com/darling-in-the-franxx ''Darling in the Franxx'' webpage] 
+
+{{Darling in the Franxx}}
+{{Studio Trigger}}
+{{CloverWorks}}
+{{A-1 Pictures television series}}
+{{Shōnen Jump Plus}}
+
+[[Category:Darling in the Franxx]]
+[[Category:2018 anime television series]]
+[[Category:2018 manga]]
+[[Category:Animated television series about extraterrestrial life]]
+[[Category:Animated television series about teenagers]]
+[[Category:Anime with original screenplays]]
+[[Category:Aniplex]]
+[[Category:Aniplex franchises]]
+[[Category:CloverWorks]]
+[[Category:Coming-of-age anime and manga]]
+[[Category:Coming-of-age television shows]]
+[[Category:Crunchyroll anime]]
+[[Category:Crunchyroll Anime Awards winners]]
+[[Category:Funimation]]
+[[Category:Japanese webcomics]]
+[[Category:Mecha anime and manga]]
+[[Category:Post-apocalyptic anime and manga]]
+[[Category:Post-apocalyptic animated television series]]
+[[Category:Rapid human age change in fiction]]
+[[Category:Reincarnation in television]]
+[[Category:Romance anime and manga]]
+[[Category:Seven Seas Entertainment titles]]
+[[Category:Sexuality in anime and manga]]
+[[Category:Sexuality in television]]
+[[Category:Shōnen manga]]
+[[Category:Shueisha manga]]
+[[Category:Super robot anime and manga]]
+[[Category:Studio Trigger]]
+[[Category:Teenage pregnancy in anime and manga]]
+[[Category:Teenage pregnancy in television]]
+[[Category:Webcomics in print]]
+[[Category:Works about child soldiers]]

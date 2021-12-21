@@ -1,0 +1,73 @@
+{{for|other stations that previously held the WANG callsign|WWNG|WHAR}}
+{{Other uses|Wang (disambiguation)}}
+
+{{Infobox radio station
+| name             = WANG
+| logo             =
+| city             = [[Biloxi, Mississippi]]
+| branding         = ''Bob 106.3''
+| frequency        = 1490 [[kHz]]
+| translator       = {{Radio Relay|106.3 [[MHz]]|W292GD|Biloxi}}
+| repeater         = [[WTNI]] (1640 kHz, Biloxi)
+| airdate          = 1948 (as WLOX)
+| format           = [[Adult hits]]
+| power            = 1,000 [[watt]]s unlimited
+| class            = C
+| facility_id      = 37095
+| callsign_meaning = 
+| former_callsigns = WLOX (1948–1982)<br>WBND (1982–1988)<br>WMTX (1988–1989)<br>WXLS (1989–1993)<br>WXBD (1993-2018)
+| affiliations     = 
+| owner            = Telesouth Communications, Inc.
+| licensee         = 
+| sister_stations  = [[WXYK (FM)|WXYK]], [[WOSM (FM)|WOSM]], [[WCPR-FM]], [[WGBL]], [[WTNI]]
+| webcast          = {{listen live|https://v7player.wostreaming.net/7316}}
+| website          = {{url|http://bob1063fm.com}} 
+}}
+
+'''WANG''' (1490 [[AM broadcasting|AM]]) is a [[radio station]] licensed to [[Biloxi, Mississippi]]. Owned by Telesouth Communications, it broadcasts a commercial [[adult hits]] format. The station is simulcast on 1640 [[WTNI]], as well as translator station W292GD on 106.3 FM.
+
+==History==
+WLOX announced its grand opening on May 27, 1948 as part of the [[Mutual Broadcasting System]].<ref>{{cite news |author=<!--Staff writer(s)/no by-line.--> |title=WLOX Grand Opening Thursday May 27 6AM - 12PM (advertisement) |url=https://www.newspapers.com/clip/81587982/ |work=Sun Herald |location=Biloxi, Mississippi |date=May 26, 1948 |page=five|via=newspapers.com}}</ref>
+
+In 2018, [[Alpha Media]] sold its Biloxi stations, including WANG, to Telesouth Communications.<ref>{{Cite web|title=Alpha Sells Biloxi Cluster To Telesouth|url=https://radioinsight.com/headlines/172784/alpha-sells-biloxi-cluster-to-telesouth/|access-date=2020-12-27|website=RadioInsight|language=en-US}}</ref> The sale was consummated on March 1, 2019, at a price of $2.5 million.
+
+On March 8, 2019, WANG ended its sports format simulcast with [[WTNI]], and changed its format to classic country, branded as "103.5 The Possum".<ref>[https://radioinsight.com/headlines/175060/pair-of-classic-country-flips-in-biloxi/ Pair of Classic Country Flips in Biloxi] Radioinsight - March 8, 2019</ref> In June 2019, WTNI ended the remaining sports programming and also flipped to classic country, by resuming its simulcast of WANG.
+
+On December 22, 2020, translator station W278CE moved to 106.3, and WANG and WTNI flipped to a [[Travelers' information station|tourist information]] format as ''106.3 Casino Radio''. The stations primarily carry segments and advertising highlighting local casinos, restaurants, and other attractions in the Biloxi area.<ref>{{Cite web|title=Casino Radio Debuts In Biloxi|url=https://radioinsight.com/headlines/203241/casino-radio-debuts-in-biloxi/|access-date=2020-12-25|date=2020-12-22|website=RadioInsight|language=en-US}}</ref>
+
+On October 10, 2021 WANG and WTNI changed their formats from tourist information to adult hits, branded as "Bob 106.3".<ref>[https://radioinsight.com/headlines/213956/bob-returns-to-biloxi-gulfport/ Bob Returns To Biloxi/Gulfport] Radioinsight - October 10, 2021</ref>
+
+==Translator==
+
+{{RadioTranslators
+| callsign = WANG
+| width    =
+
+| call1    = W292GD
+| freq1    = 106.3
+| city1    = Biloxi, Mississippi
+| fid1     = 143076
+| watts1   = 250
+| haat1    = 0
+| class1   = D
+| coord1   = 
+| notes1   = 
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{AM station data|WANG}}
+*{{FMQ|W292GD}}
+*{{FXL|W292GD}}
+
+{{Biloxi-Gulfport-Pascagoula Radio}}
+
+{{coord|30|23|38|N|88|59|58|W|type:landmark_region:US_source:FCC|display=title}}
+
+[[Category:Radio stations in Mississippi|ANG]]
+[[Category:Radio stations established in 1948]]
+
+
+{{Mississippi-radio-station-stub}}

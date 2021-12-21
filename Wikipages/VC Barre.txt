@@ -1,0 +1,99 @@
+{{short description|Swedish rapper}}
+{{Infobox musical artist
+| name             = VC Barre
+| image            = 
+| alt              = 
+| caption          = 
+| birth_name       = Baran Çelik
+| birth_date       = {{Birth year and age|2003}}
+| birth_place      = 
+| origin           = [[Valsta]], [[Märsta]], Sweden
+| genre            = [[Hip hop music|Hip hop]]
+| years_active     = 2020–present
+| label            = Grind Gang Music
+| associated_acts  = {{hlist|[[Adaam]]|D50|[[Einár]]}}
+| website          = <!-- {{URL|example.com}} or {{Official URL}} -->
+}}
+'''Baran Çelik'''<ref>{{Cite web|url=https://www.dagensvimmerby.se/nyheter/e/107238/kritik-mot-polis-efter-tweet-om-rappare-i-vastervik-tolkat-det-fel/|title=Kritik mot polis efter tweet om rappare i Västervik: "Tolkat det fel"|date=31 October 2021|work=Dagens Vimmerby|language=sv|access-date=21 November 2021}}</ref> (born 2003), better known as '''VC Barre''', is a Swedish rapper.<ref name="tt">{{Cite web|url=http://www.gp.se/1.54602503|title=Adaam och VC Barre sätter Valsta på kartan|date=10 September 2021|work=[[Göteborgs-Posten]]|agency=[[TT News Agency]]|language=sv|accessdate=30 October 2021}}</ref><ref>[https://sverigesradio.se/artikel/vc-barre-gor-sin-forsta-intervju-nagonsin Sverige Radio: VC Barre gör sin första intervju någonsin] {{In lang|sv}}</ref> He is best known for his collaborations with fellow rapper [[Adaam]]; the two grew up on the same farm in [[Valsta]], [[Märsta]], and co-founded the record label and hip hop collective Grind Gang Music along with D50.<ref name="tt" />
+
+==Discography==
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Sverigetopplistan|SWE]]<br /><ref name=swe>{{cite web|url=https://swedishcharts.com/showinterpret.asp?interpret=VC+Barre|title=SwedishCharts: VC Barre discography|access-date=30 October 2021}}</ref>
+|-
+! scope="row"| "Nuförtiden"<br />{{small|(with [[Adaam]])}}
+| rowspan="2"| 2020
+| —{{efn-ua|"Nuförtiden" did not enter the [[Swedish Singles Chart]], but peaked at number two on the Swedish Heatseeker chart.<ref>{{Cite web|url=https://www.sverigetopplistan.se/chart/215?dspy=2020&dspp=8|title=Veckolista Heatseeker, vecka 8, 2020|publisher=[[Sverigetopplistan]]|language=sv|access-date=21 November 2021}}</ref>}}
+| ''Ordnade detta''
+|-
+! scope="row"| "Fläta" / "Inte mitt krig"
+| —{{efn-ua|"Fläta" / "Inte mitt krig" did not enter the [[Swedish Singles Chart]], but peaked at number ten on the Swedish Heatseeker chart.<ref>{{Cite web|url=https://www.sverigetopplistan.se/chart/215?dspy=2021&dspp=45|title=Veckolista Heatseeker, vecka 45|publisher=[[Sverigetopplistan]]|language=sv|access-date=21 November 2021}}</ref>}}
+| rowspan="5"{{non-album single}}
+|-
+! scope="row"| "Bra trakt"<ref>{{Cite web|url=https://music.apple.com/gb/album/bra-trakt-single/1572310798|title=Bra trakt – Single by VC Barre on Apple Music|publisher=[[Apple Music]]|access-date=21 November 2021}}</ref>
+| rowspan="4"| 2021
+| —
+|-
+! scope="row"| "Vvvalsta" 
+| 3
+|-
+! scope="row"| "Topp"<br />{{small|(with Adaam)}}
+| 3
+|-
+! scope="row"| "Fast här i trakten"<br />{{small|(with [[Einár]] and Trobi)}}
+| 6
+|}
+
+===Featured singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Sverigetopplistan|SWE]]<br /><ref name=swe/>
+|-
+! scope="row"| "Grindar 2"<br />{{small|(Adaam featuring VC Barre)}}
+| 2020
+| 95
+| {{non-album single}}
+|}
+
+===Other charting songs===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Sverigetopplistan|SWE]]<br /><ref name=swe/>
+|-
+! scope="row"| "Ruthless"<br />{{small|(with Grind Gang)}}
+| 2021
+| 62
+| ''GrindTape''
+|}
+
+==Notes==
+{{notelist-ua}}
+
+== References ==
+<references/>
+
+{{Authority control}}
+
+[[Category:21st-century Swedish male musicians]]
+[[Category:2003 births]]
+[[Category:Living people]]
+[[Category:People from Sigtuna Municipality]]
+[[Category:Swedish rappers]]
+
+{{sweden-bio-stub}}

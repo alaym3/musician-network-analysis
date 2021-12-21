@@ -1,0 +1,382 @@
+{{short description|American sketch comedy television series}}
+{{About|the television series|the band|Living Colour|the slogan|Color television}}
+{{Infobox television
+| name                     = In Living Color
+| image                    = InLivingColorlogo.jpg
+| genre                    = [[Variety show|Variety]]<br/>[[Sketch comedy]]
+| creator                  = [[Keenen Ivory Wayans]] and [[Damon Wayans]]
+| starring                 = see ''[[#Cast|below]]''
+| theme_music_composer     = Bosco Kante
+| opentheme                = {{Plainlist|
+* "In Living Color" by [[Heavy D]] and [[Eddie F]] (seasons 1–2, 5)
+* "Cause That's the Way You Livin' When You're in Living Color" by Heavy D and The Boyz (seasons 3–4)
+}}
+| endtheme                 = 
+| composer                 = Tom Rizzo
+| country                  = United States
+| language                 = English
+| num_seasons              = 5
+| num_episodes             = 127
+| list_episodes            = List of In Living Color episodes
+| executive_producer       = {{Plainlist|
+* [[Joe Davola (TV producer)|Joe Davola]]
+* Greg Fields
+* Les Firestein
+* Keenen Ivory Wayans
+* [[Pam Veasey]]
+}}
+| producer                 = {{Plainlist|
+* Kevin Berg
+* Robert Jason
+}}
+| camera                   = 
+| runtime                  = 22–24 mins
+| company                  = {{Plainlist|
+* Ivory Way Productions
+* [[20th Television|20th Century Fox Television]]<br>(1990-1992)<br>(seasons 1-3)
+* [[20th Television]]<br>(1992-1994) <br>(seasons 4-5)
+}}
+| distributor              = [[20th Television]]
+| channel                  = [[Fox Broadcasting Company|Fox]]
+| picture_format           = 
+| audio_format             = [[Stereo]]
+| first_aired              = {{Start date|1990|4|15}}
+| last_aired               = {{End date|1994|5|19}}
+}}
+
+'''''In Living Color''''' is an American [[sketch comedy]] [[television series]] that originally ran on [[Fox Broadcasting Company|Fox]] from April 15, 1990<ref name= even/> to May 19, 1994. [[Keenen Ivory Wayans]] created, wrote and starred in the program. The show was produced by Ivory Way Productions in association with [[20th Television]] and was taped at stage 7 at the [[Metromedia Square|Fox Television Center]] on [[Sunset Boulevard]] in [[Hollywood]], [[California]].
+
+The title of the series was inspired by the [[NBC]] announcement of broadcasts being presented "[[Logo of NBC#Introduction of the Peacock .281956.E2.80.931960.29|in living color]]" during the 1960s, prior to mainstream [[color television]]. It also refers to the fact that most of the show's cast was [[African Americans|Black]], unlike other sketch comedy shows such as ''[[Saturday Night Live]]'', whose casts were mostly [[White people|White]] at the time. It was controversial due to the Wayans' decision to portray Black humor from a raw and uncut perspective in a time when mainstream American tastes regarding Black comedy had been set by shows such as ''[[The Cosby Show]]'', causing an eventual feud for control between Fox executives and the Wayans.
+
+Other members of the [[Wayans family]]—[[Damon Wayans|Damon]], [[Kim Wayans|Kim]], [[Shawn Wayans|Shawn]], and [[Marlon Wayans|Marlon]]—had regular roles, while brother [[Dwayne Wayans|Dwayne]] frequently appeared as an extra. The show also starred several previously unknown comedians and actors, including [[Jamie Foxx]], [[Jim Carrey]], [[Tommy Davidson]], [[David Alan Grier]], and [[T'Keyah Crystal Keymáh]]. The show introduced [[Jennifer Lopez]] and [[Carrie Ann Inaba]] as members of ''In Living Color''<nowiki/>'s dance troupe The Fly Girls, with actress [[Rosie Perez]] serving as choreographer. The show was immensely popular in its first two seasons, capturing more than a 10-point [[Nielsen rating]]; in the third and fourth seasons, ratings faltered as the Wayans brothers fell out with the Fox network's leadership over creative control and rights.
+
+The series won the [[Primetime Emmy Award for Outstanding Variety, Music or Comedy Series]] in 1990. The series gained international prominence for its bold move and its all-time high ratings gained by airing a live, special episode as a [[Counterprogramming (television)|counterprogram]] for the halftime show of U.S. leader [[CBS]]'s live telecast of [[Super Bowl XXVI]], prompting the [[National Football League]] to book A-list acts for future game entertainment, starting with [[Michael Jackson]] the following year.<ref name=trib-goalofspectacle>{{cite news|title=Goal of spectacle colors NFL's thinking about Super Bowl halftime show|url=http://articles.chicagotribune.com/2011-02-06/business/ct-biz-0206-rosenthal--20110206_1_super-halftime-party-doritos-zaptime-halftime-show|publisher=Chicago Tribune|access-date=30 January 2013|date=6 February 2011}}</ref> In 2018, a history of the show, ''Homey Don't Play That!'' by David Peisner, was released by [[37 INK]], an imprint of [[Simon & Schuster]].
+
+== Episodes ==
+{{Main|List of In Living Color episodes}}
+{{:List of In Living Color episodes}}
+
+== Cast ==
+{{Main|List of In Living Color cast members}}
+
+===Cast members===
+{|class="wikitable" width="65%"
+!rowspan="2"|Cast member
+!colspan="5"|Seasons
+|-
+!width="14%"|1
+!width="14%"|2
+!width="14%"|3
+!width="14%"|4
+!width="14%"|5
+|-
+|[[Jim Carrey]]
+|colspan="5" {{CMain|Starring}}
+|-
+|[[Kelly Coffield]]
+|colspan="4" {{CMain|Starring}}
+|colspan="4" {{CNone}}
+|-
+|[[Kim Coles]]
+|{{CMain|Starring}}
+|colspan="4" {{CNone}}
+|-
+|[[Tommy Davidson]]
+|colspan="5" {{CMain|Starring}}
+|-
+|[[David Alan Grier]]
+|colspan="5" {{CMain|Starring}} 
+|-
+|[[T'Keyah Crystal Keymáh]]
+|colspan="5" {{CMain|Starring}}
+|-
+|[[Damon Wayans]]
+|colspan="3" {{CMain|Starring}}  
+|colspan="1" {{CGuest|Guest}}
+|colspan="1" {{CNone}}
+|-
+|[[Keenen Ivory Wayans]]
+|colspan="4" {{CMain|Starring}}
+|colspan="1" {{CNone}}
+|-
+|[[Kim Wayans]]
+|colspan="4" {{CMain|Starring}} 
+|colspan="1" {{CNone}}
+|-
+|[[Shawn Wayans]]
+|colspan="4" {{CRecurring|Featured}}
+|colspan="1" {{CNone}}
+|-
+|[[Jamie Foxx]]
+|colspan="2" {{CNone}}
+|colspan="2" {{CRecurring|Featured}}
+|{{CMain|Starring}}
+|-
+|[[Steve Park (comedian)|Steve Park]]
+|colspan=2 {{CNone}}
+|{{CRecurring|Featured}}
+|colspan=2 {{CNone}}
+|-
+|[[Leroy "Twist" Casey|DJ Twist]]
+|colspan=2 {{CNone}}
+|colspan=3 {{CRecurring|Featured}}
+|-
+|[[Marlon Wayans]]
+|colspan="3" {{CNone}}
+|{{CRecurring|Featured}}
+|colspan="1" {{CNone}}
+|-
+|[[Ali Wentworth|Alexandra Wentworth]]
+|colspan="3" {{CNone}}
+|{{CRecurring|Featured}}
+|{{CMain|Starring}} 
+|-
+|[[Anne-Marie Johnson]]
+|colspan="4" {{CNone}}
+|{{CMain|Starring}} 
+|-
+|[[Jay Leggett]]
+|colspan="4" {{CNone}}
+|{{CMain|Starring}} 
+|-
+|Reggie McFadden
+|colspan="4" {{CNone}}
+|{{CMain|Starring}} 
+|-
+|Carol Rosenthal 
+|colspan="4" {{CNone}}
+|{{CMain|Starring}} 
+|-
+|[[Marc Wilmore]]
+|colspan="4" {{CNone}}
+|{{CMain|Starring}} 
+|}
+
+{|class="wikitable" width="65%"
+!rowspan="2"|Fly Girl
+!colspan="5"|Seasons
+|-
+!width="14%"|1
+!width="14%"|2
+!width="14%"|3
+!width="14%"|4
+!width="14%"|5
+|-
+|Cari French
+|colspan="3" {{CGuest|Dancer}}
+|colspan="2" {{CNone}} 
+|-
+|[[Carrie Ann Inaba]]
+|colspan="3" {{CGuest|Dancer}}
+|colspan="2" {{CNone}} 
+|-
+|Deidre Lang
+|colspan="5" {{CGuest|Dancer}}
+|-
+|[[Rosie Perez]] (choreographer)
+|colspan="4" {{CGuest|Dancer}}
+|colspan="1" {{CNone}} 
+|-
+|Lisa Marie Todd
+|colspan="3" {{CGuest|Dancer}}
+|colspan="2" {{CNone}} 
+|-
+|Michelle Whitney-Morrison
+|colspan="2" {{CGuest|Dancer}}
+|colspan="3" {{CNone}} 
+|-
+|Carla Garrido<ref>[[Frank Lovece|Lovece, Frank]], ed. ''The Television Yearbook: Complete, Detailed Listings for the 1990–1991 Season'' ([[Perigee Books]], 1992). ''In Living Color'' entry, pp. 135–136. {{ISBN|978-0-399-51702-0}}</ref>
+|colspan="1" {{CNone}} 
+|colspan="1" {{CGuest|Dancer}}
+|colspan="3" {{CNone}} 
+|-
+|[[Jennifer Lopez]]
+|colspan="2" {{CNone}} 
+|colspan="2" {{CGuest|Dancer}}
+|colspan="1" {{CNone}} 
+|-
+|Jossie Harris
+|colspan="3" {{CNone}} 
+|colspan="2" {{CGuest|Dancer}}
+|-
+|[[Lisa Joann Thompson]]
+|colspan="3" {{CNone}} 
+|colspan="2" {{CGuest|Dancer}}
+|-
+|[[Laurieann Gibson]]
+|colspan="4" {{CNone}} 
+|colspan="1" {{CGuest|Dancer}}
+|-
+|Masako Willis
+|colspan="4" {{CNone}} 
+|colspan="1" {{CGuest|Dancer}}
+|}
+
+=== Guest stars ===
+[[Chris Rock]] appeared (as a "special [[guest star]]") in a number of sketches in the fifth season, and reprised his "Cheap Pete" character from ''[[I'm Gonna Git You Sucka]]''. In the early years of ''In Living Color'', Rock was parodied as being the only African American cast member on ''[[Saturday Night Live]]'' (despite ''SNL'' also having [[Tim Meadows]] and [[Ellen Cleghorne]] at the time). In an ''SNL'' episode honoring [[Mother's Day]], Rock's mother states that she is disappointed in him for not trying out for ''In Living Color'', to which Rock states he is happy with his job on ''SNL''.
+
+Other recurring guest stars in the fifth season include [[Nick Bakay]] (for ''The Dirty Dozens'' sketches) and [[Peter Marshall (game show host)|Peter Marshall]] (for several editions of ''East [[Hollywood Squares]]''). Rapper [[Biz Markie]] also appeared in various roles as a guest star in the fifth season, such as being in drag as Wanda the Ugly Woman's sister or as "Dirty Dozens" contestant Damian "Foosball" Franklin. [[Ed O'Neill]] made a cameo appearance as [[Al Bundy]] in a "Dirty Dozens" segment.
+
+== Production ==
+
+=== Early history ===
+Following Keenen Ivory Wayans' success with ''[[Hollywood Shuffle]]'' and ''[[I'm Gonna Git You Sucka]]'', [[Fox Broadcasting Company]] approached Wayans to offer him his own show.<ref name= pokes>{{cite news |title= New Fox Show Pokes Fun at Black Stereotypes |publisher= Greensboro News & Record |location= Greensboro, North Carolina |agency= Associated Press |page= B6 |date= April 12, 1990 |url= http://infoweb.newsbank.com/iw-search/we/InfoWeb?p_product=AWNB&p_theme=aggregated5&p_action=doc&p_docid=0EB191E9F73E3517&p_docnum=837&p_queryname=3 }}</ref> Wayans wanted to produce a variety show similar to ''[[Saturday Night Live]]'', but with a cast of people of color that took chances with its content.<ref name= ready>{{cite news |title= Is prime time ready for rudeness? Fox's new comedy 'In Living Color' will offend some, tickle others |work= The San Diego Union |date= April 13, 1990 |first= Robert P. |last= Laurence |url= http://infoweb.newsbank.com/iw-search/we/InfoWeb?p_product=AWNB&p_theme=aggregated5&p_action=doc&p_docid=1178BA5E348E4AB6&p_docnum=845&p_queryname=3 |page= E1 }}</ref> Fox gave Wayans a lot of freedom with the show, although Fox executives were a bit concerned about the show's content prior to its television debut.<ref name= pokes/>
+
+In announcing its debut, Fox described ''In Living Color'' as a "contemporary comedy variety show".<ref name= drawing>{{cite news |title= Back to the Drawing Board |work= The Record |location= New Jersey |date= April 1, 1990 |first= Virginia |last= Mann |url= http://infoweb.newsbank.comer/iw-search/we/InfoWeb?p_product=AWNB&p_theme=aggregated5&p_action=doc&p_docid=0EB27637542C622C&p_docnum=816&p_queryname=3 |page= E1 }}</ref> In its preview, the ''[[Christian Science Monitor]]'' warned that its, "raw tone may offend some, but it does allow a talented troupe to experiment with black themes in a ''Saturday Night Live''-ish format."<ref>{{cite news |title= Worth Noting on TV |work= Christian Science Monitor |date= April 11, 1990 |first= Alan |last= Bunce |page= 14 |url= http://infoweb.newsbank.com/iw-search/we/InfoWeb?p_product=AWNB&p_theme=aggregated5&p_action=doc&p_docid=0EB41DF44B7B8217&p_docnum=835&p_queryname=3 }}</ref> Keenen Ivory Wayans said, "I wanted to do a show that reflects different points of view. We've added an Asian and a Hispanic minority to the show. We're trying in some way to represent all the voices. ... Minority talent is not in the system and you have to go outside. We found [[T'Keyah Crystal Keymáh|Crystal]] doing her act in the lobby of a theater in Chicago. We went beyond the Comedy Stores and Improvs, which are not showcase places for minorities."<ref name= even>{{cite news |title= Wayans Gets Even |date= April 12, 1990 |first= Tom |last= Green |work= USA Today |url= http://infoweb.newsbank.com/iw-search/we/InfoWeb?p_product=AWNB&p_theme=aggregated5&p_action=doc&p_docid=12812966975FB038&p_docnum=838&p_queryname=3 }}</ref>
+
+The first episode aired on Sunday, April 15, 1990, following an episode of ''[[Married... with Children]]''.<ref name= even/> The first episode was watched by 22.7 million people,<ref>{{cite news |title= Upstart Fox Has Pounced, and the Networks Are Getting Jumpy |work= The Milwaukee Journal |date= April 19, 1990 |first= Mike |last= Drew |url= http://infoweb.newsbank.com/iw-search/we/InfoWeb?p_product=AWNB&p_theme=aggregated5&p_action=doc&p_docid=0EB82603F72B3287&p_docnum=887&p_queryname=3 }}</ref> making it the 29th-most-viewed show for the week.<ref>{{cite news |title= ABC Ends Ratings Race with Strong Finish |work= The Star-Ledger |location= Newark, New Jersey |date= April 18, 1990 |first= Jerry |last= Krupnick |url= http://infoweb.newsbank.com/iw-search/we/InfoWeb?p_product=AWNB&p_theme=aggregated5&p_action=doc&p_docid=1223D6412945F2D0&p_docnum=876&p_queryname=3 }}</ref>
+
+''[[The Miami Herald]]'' said the show was as "smart and saucy as it is self-aware" and "audacious and frequently tasteless, but terrific fun".<ref name= miami>{{cite news |title= TV's Living Color Brightens Spectrum |work= The Miami Herald |date= April 21, 1990 |first= Hal |last= Boedeker |page= 1E |url= http://infoweb.newsbank.com/iw-search/we/InfoWeb?p_product=AWNB&p_theme=aggregated5&p_action=doc&p_docid=0EB34058034923EC&p_docnum=1&p_queryname=3 }}</ref> ''[[The Philadelphia Inquirer]]'' called it "the fastest, funniest half-hour in a long time".<ref name= philadelphia>{{cite news |title= From Fox, Bold Satire By Blacks |work= The Philadelphia Inquirer |date= April 21, 1990 |first= Jonathan |last= Storm |page= C1 |url= http://infoweb.newsbank.com/iw-search/we/InfoWeb?p_product=AWNB&p_theme=aggregated5&p_action=doc&p_docid=0EB2A03C13FC7E79&p_docnum=3&p_queryname=3 }}</ref> ''[[The Seattle Times]]'' said it had "the free-wheeling, pointed sense of humor that connects with a large slice of today's audience".<ref name= seattle>{{cite news |title= 'In Living Color' Makes This 'Sunset' Look Pretty Pale |work= The Seattle Times |date= April 21, 1990 |first= John |last= Voorhees |page= C3 |url= http://infoweb.newsbank.com/iw-search/we/InfoWeb?p_product=AWNB&p_theme=aggregated5&p_action=doc&p_docid=0EB533ED6F50E846&p_docnum=7&p_queryname=3 }}</ref> ''[[The Columbus Dispatch]]'' described it as a "marvelously inventive" show that has "catapulted television back to the cutting edge".<ref name= columbus>{{cite news |title= Quality Shows Offer Respectable Change |work= The Columbus Dispatch |date= April 22, 1990 |first= Julia |last= Keller |page= 5F |url= http://infoweb.newsbank.com/iw-search/we/InfoWeb?p_product=AWNB&p_theme=aggregated5&p_action=doc&p_docid=11B8680CCD0DEF28&p_docnum=11&p_queryname=3 }}</ref>
+
+=== Description ===
+The sketch comedy show helped launch the careers of comedians/actors Jim Carrey (then credited as "James Carrey"), one of only two white members of the original cast; Jamie Foxx, who joined the cast in the third season; and [[David Alan Grier]] (an established theater actor who had worked in Keenen Ivory Wayans' 1988 motion picture ''[[I'm Gonna Git You Sucka]]'').
+
+The series strove to produce comedy with a strong emphasis on modern [[African American culture|Black]] subject matter. It became renowned for [[parody]], especially of race relations in the [[United States]]. For instance, Carrey was frequently used to ridicule white musicians such as [[Snow (musician)|Snow]] and [[Vanilla Ice]], who performed in genres more commonly associated with Black people. The Wayans themselves often played exaggerated Black ghetto stereotypes for humor and effect. A sketch parodying ''[[Soul Train]]'' mocked the show as ''Old Train'', suggesting the show (along with its host, [[Don Cornelius]]) was out of touch and only appealed to the elderly and the dead. When asked about the show's use of stereotypes of Black culture for comedy, Wayans said, "Half of comedy is making fun of stereotypes. They only get critical when I do it. [[Woody Allen]] has been having fun with his culture for years, and no one says anything about it. [[Martin Scorsese]], his films basically deal with the Italian community, and no one ever says anything to him. [[John Hughes (filmmaker)|John Hughes]], all of his films parody upscale white suburban life. Nobody says anything to him. When I do it, then all of a sudden it becomes a racial issue. You know what I mean? It's my culture, and I'm entitled to poke fun at the stereotypes that I didn't create in the first place. I don't even concern myself with that type of criticism, because it's racist in itself."<ref>{{cite news |title= Humor is in 'Living Color': Writers Plan to Capitalize on Funny Cultural Stereotypes |work= Daily News of Los Angeles |date= April 15, 1990 |first= Yardena |last= Arar |url= http://infoweb.newsbank.com/iw-search/we/InfoWeb?p_product=AWNB&p_theme=aggregated5&p_action=doc&p_docid=0EF5BB34E44340CF&p_docnum=863&p_queryname=3 |page= L25 }}</ref>
+
+Prominent skits:
+* "The Homeboy Shopping Network", featuring Damon and Keenan as streetwise criminals operating an unlicensed, [[Home Shopping Network]]-style shopping network out of the back of their van to sell stolen goods.
+* "Fire Marshal Bill", featuring Carrey as an unhinged, dangerously incompetent [[fire marshal]].
+* "[[Men on...|Men on Film]]", featuring Damon and Grier as [[effeminate]] Black film critics with exaggerated physical motions, such as "two snaps up".
+* "Homey D. Clown", featuring Damon as a misanthropic, verbally abusive [[clown]] doing demeaning entertainment gigs for low pay as part of his prison release program.
+* "East Hollywood Squares", featuring many of the cast in a ghetto parody of the game show ''[[Hollywood Squares]]''.
+* "Benita Buttrell", featuring Kim Wayans as an untrustworthy neighborhood [[gossip]].
+* Parodies of [[Arsenio Hall]] (who was popular on his own show at the time) by Keenan Wayans.
+* "Calhoun Tubbs", a [[blues]] singer (played by Grier) who sang extremely short songs (about 10 seconds each) at the slightest provocation.
+{{Main|List of In Living Color sketches}}
+
+=== Opening credits ===
+For the first episode, an exotic-looking logo was used for the opening credits. However, after the band [[Living Colour]] claimed in a lawsuit that the show stole the band's logo and name,<ref>{{cite web |url=https://articles.latimes.com/1990-05-08/entertainment/ca-455_1_group-living-colour |title=Living Colour band sues Fox |work=Los Angeles Times |date=May 8, 1990 |access-date=September 3, 2010}}</ref> the logo was changed to one with rather plain-type letters of three colors. The show title itself is a homage to the [[Logo of NBC#Introduction of the Peacock .281956.E2.80.931960.29|NBC Peacock]] tag line, "The following program is brought to you in living color" from the 1960s when television was transitioning from black & white to color TV.<ref>[https://www.youtube.com/watch?v=QnvDVaiHXjM NBC Peacock clips] (posted to YouTube on Nov 4, 2011)</ref>
+
+In the first two seasons, the opening sequence was set in a room covered with painters' tarps. Each cast member, wearing black-and-white, played with brightly colored paint in a different way (throwing paintballs at the camera by hand, [[spray painting]] the lens, using a roller to cover the camera lens, etc.). The sequence ended with a segue to a set built to resemble the rooftop of an apartment building, where the show's dancers performed a routine and opened a door to let Keenen Ivory Wayans greet a live audience.
+
+For the third and fourth seasons, an animated sequence and different logo were used. Cast members were superimposed over pictures hanging in an art gallery and interacted with them in different ways (spinning the canvas to put it right-side up, swinging the frame out as if it were a door, etc.). The final image was of the logo on a black canvas, which shattered to begin the show. The fifth season retained the logo, but depicted the cast members on various signs and billboards around a city (either New York or Chicago), ending with the logo displayed on a theater marquee.
+
+The [[Hip hop music|hip-hop]] group [[Heavy D & the Boyz]] performed two different versions of the opening theme. One version was used for the first two seasons and remixed for the fifth, while the other was featured in the third and fourth seasons.
+
+=== Live musical performances ===
+''In Living Color'' was known for its live music performances, which started in Season 2 with [[Queen Latifah]] as their first performer (appearing again in the third season). Additional musical acts who appeared were [[Heavy D]], [[Public Enemy (band)|Public Enemy]], [[Kris Kross]], [[En Vogue]], [[Eazy-E]], [[Da Youngsta's]], [[Monie Love]], [[Onyx (hip hop group)|Onyx]], [[3rd Bass]], [[MC Lyte]], [[Arrested Development (group)|Arrested Development]], [[Jodeci]], [[Mary J. Blige]], [[Tupac Shakur]], [[Father MC]], [[Gang Starr]], [[The Pharcyde]], [[Simple E]], [[Us3]], [[Digable Planets]], [[Pete Rock & CL Smooth]], [[Nice & Smooth]], [[Wreckx-n-Effect]], [[A.D.O.R.]], [[Redman (rapper)|Redman]], [[Showbiz and A.G.]], [[Patra (singer)|Patra]], [[Naughty By Nature]], [[Lords of the Underground]], [[Prince Markie Dee]], [[A Tribe Called Quest]], and [[Leaders of the New School]].
+
+=== The Fly Girls ===
+The show employed an in-house dance troupe known as the "Fly Girls". The original lineup consisted of [[Carrie Ann Inaba]] (who became a choreographer and judge on ''[[Dancing with the Stars (U.S. TV series)|Dancing with the Stars]]''), Cari French, Deidre Lang, Lisa Marie Todd, Barbara Lumpkin and Michelle Whitney-Morrison. [[Rosie Perez]] was the choreographer for the first four seasons. The most notable former Fly Girl was future actress/singer [[Jennifer Lopez]], who joined the show in its third season.
+
+Throughout the show's run, the Fly Girls frequently performed a dance routine to lead into commercial breaks and/or during the closing credits. In the first two seasons, they also performed a routine that immediately followed the opening sequence. Music was provided by an in-house DJ - [[Shawn Wayans]] (credited as SW-1) in the first two seasons, then [[Leroy "Twist" Casey|DJ Twist]] from season 3 onward.
+
+The Fly Girls would sometimes be used as extras in sketches, or as part of an opening gag. In one sketch, they were shown performing open-heart surgery (in the sketch, the girls are dancing in order to pay their way through medical school). Another routine featured the three original female cast members dancing off-beat during the introduction of the show, when it was revealed that the regular Fly Girls were all bound and gagged and breaking through the door where Keenan Ivory Wayans enters.
+
+Three of the Fly Girls also appeared in the eleventh episode of ''[[Muppets Tonight]]'''s second season in 1997.
+
+=== Controversies ===
+Keenen Ivory Wayans stopped appearing in sketches in 1992 after the end of the third season, over disputes with Fox about the network [[censorship|censoring]] the show's content and rerunning early episodes without his consultation. Wayans feared that Fox would ultimately decrease the [[Broadcast syndication|syndication]] value of ''In Living Color''.<ref>{{cite book|last=Brooks|first=Tim |author2=Marsh, Earle F.|title=The Complete Directory to Prime Time Network and Cable TV Shows, 1946–Present |publisher=Ballantine Books|date=2007-10-17|edition=9|page=661|isbn=978-0-345-49773-4}}</ref>
+
+Damon went on to pursue a movie career around the same time, though he made occasional return appearances in the fourth season. During the fourth season (1992–1993), Keenen appeared only in the season opener, though he remained the executive producer and thus stayed in the opening credits until the thirteenth episode.{{citation needed|date=April 2020}} Marlon left shortly after Keenen resigned as producer, and Shawn and Kim both left at the end of the fourth season.{{citation needed|date=April 2020}}
+
+== Broadcast and syndication ==
+Originally produced by [[20th Television]] on Fox, the series was in reruns on local affiliates for a few years, but has since become a longstanding mainstay on [[FX (TV channel)|FX]] and [[FXX]], which had been sister channels to Fox prior to being acquired by [[The Walt Disney Company]]. In syndication, the series is distributed by [[Disney-ABC Domestic Television]].
+
+Reruns have also aired on [[MTV2]], [[VH1]], [[Comedy Central]], [[nuvoTV]], [[Fusion TV|Fusion]], [[BET]], and [[BET Her|Centric]], while the series currently airs on [[Aspire (TV network)|Aspire]] and [[TV One (American TV channel)|TV One]] as of September 2020. 
+
+Unlike past runs on FX and the [[Viacom Media Networks]], the FXX cut of episodes are mostly uncut and censored. The music video parodies and spoken references to licensed songs have been reinstated, but the "Bolt 45" sketch, the "drop the soap" line, and the "Men on Football" sketch with the adlibbed lines about Richard Gere's and Carl Lewis's alleged homosexuality are still edited (though the facial ejaculation shot on "Men on Fitness" was reinstated), along with a line from the season five sketch "Fire Marshall Bill at the Magic Show" that makes reference to the [[1993 World Trade Center bombing]] (the missing line is, "That's what they said about the World Trade Center, son. But me and my friend Abdul and a couple of pounds of plastique explosives showed them different." Bill's laugh and his catchphrase "Lemme show ya somethin'" was also cut abruptly), due to the [[September 11 attacks|September 11, 2001 attacks]].{{citation needed|date=April 2020}}
+
+''The Best of In Living Color'' aired on [[MyNetworkTV]] from April 16 to June 18, 2008. Hosted by David Alan Grier, it was a retrospective featuring classic sketches, along with cast interviews and behind-the-scenes footage. The show aired on Wednesdays at 8:30 pm Eastern/7:30 pm Central, after MyNetworkTV's sitcom ''[[Under One Roof (2008 TV series)|Under One Roof]]''.
+
+== Home media ==
+[[20th Century Fox Home Entertainment]] has released all five seasons of ''In Living Color'' on DVD in Region 1. Due to music licensing issues, some sketches have been edited to remove any and all mention of licensed songs, from characters waxing lyrical to entire performances (including the music video parodies and some of the Fly Girl dancing [[Interstitial program|interstitials]]). Additionally, the "Bolt 45" sketch (which aired one-time only on May 5, 1990) was omitted, and the "soap" portion of the "drop the soap" line in the second "Men on Film" sketch has been muted.
+
+{| class="wikitable"
+|-
+!DVD Name
+!Ep #
+!Release Date
+|-
+| Season 1
+| style="text-align:center;"|13
+| April 6, 2004
+|-
+| Season 2
+| style="text-align:center;"|26
+| September 28, 2004
+|-
+| Season 3
+| style="text-align:center;"|28
+| May 10, 2005
+|-
+| Season 4
+| style="text-align:center;"|33
+| October 25, 2005
+|-
+| Season 5
+| style="text-align:center;"|26
+| April 11, 2006
+|}
+
+== Reception ==
+
+=== Ratings ===
+*1990–91: #62 (10.5 rating)<ref>{{Cite web|url=https://www.sitcomsonline.com/boards/showthread.php?t=328013|title=1990-91 Nielsen ratings - Sitcoms Online Message Boards - Forums}}</ref>
+*1991–92: #42 (12.2 rating)<ref>{{Cite web|url=https://www.sitcomsonline.com/boards/showthread.php?t=328155|title=The 1991-92 Season FULL Nielsen Ratings...and other interesting tidbits - Sitcoms Online Message Boards - Forums}}</ref>
+*1992–93: #53 (10.4 rating)<ref>{{Cite web|url=http://www.thetvratingsguide.com/2020/03/1992-93-ratings-history.html|title=The TV Ratings Guide: 1992-93 Ratings History}}</ref>
+*1993–94: #90 (7.6 rating)<ref>{{Cite web|url=https://www.sitcomsonline.com/boards/showthread.php?t=327913|title=Full Nielsen Ratings from the 1993-94 TV Season - Sitcoms Online Message Boards - Forums}}</ref>
+
+=== Awards ===
+*Image Awards 1994 for Outstanding Variety Series
+*Image Awards 1992 for Outstanding Comedy Series
+*PGA Awards 1992 for Most Promising Producer in Television: Keenen Ivory Wayans 
+*People's Choice Award 1991 for Favorite New TV Comedy Series Tied with The Simpsons (1989)
+*TV Land Awards 2012 for Groundbreaking Show: Shared with whole cast
+*Primetime Emmy 1990 for Outstanding Variety, Music or Comedy Series
+
+== Crossovers ==
+*At the 2006 [[BET Awards]] when the show returned from one of its commercial breaks, the show's host Damon Wayans played a character very reminiscent to "Men on ..." critic Blaine Edwards
+*''In Living Color'' alums Damon Wayans, Jim Carrey, and David Alan Grier reprised some of their ''In Living Color'' characters on ''[[Saturday Night Live]]'':
+**Damon Wayans, a featured player during that show's [[Saturday Night Live (season 11)|eleventh season]], hosted an episode from ''SNL'''s 20th season in 1995, where he brought on two of his famous ''In Living Color'' characters: homeless wino Anton Jackson and gay film critic Blaine Edwards. In the latter sketch, David Alan Grier made a surprise on-set appearance as Antoine Merriweather; Grier himself would also host SNL on December 9, 1995 (season 21) and January 18, 1997 (season 22), but did not reprise any of his In Living Color characters during those respective episodes.
+**Jim Carrey auditioned to be one of the repertory members on ''SNL'' 's ill-fated [[Saturday Night Live (Season 6)|1980–1981 season]], but was dropped in favor of [[Charles Rocket]] (who later appeared in the [[1988 in film|1988]] film ''[[Earth Girls Are Easy]]'' and the [[1994 in film|1994]] film ''[[Dumb and Dumber]]'' with Carrey). Carrey also auditioned for the 1985–1986 season (season eleven), but backed out after seeing a man threatening to jump from 30 Rockefeller Center, believing that the stress of working on ''Saturday Night Live'' would drive Carrey to suicide. Carrey hosted the season finale of ''SNL'''s 21st season in 1996, where he impersonated [[Fire Marshal Bill]] during the monologue. Carrey's most recent hosting stint, in October 2014, involved a Carrey family reunion sketch in which [[Cecily Strong]] plays Carrey's aunt, who is modeled after Fire Marshal Bill.<ref>{{cite web |title= Did You Get Every Jim Carrey Reference In 'SNL's 'Family Reunion' Sketch? |first= Josh |last= Kurp |date= October 26, 2014 |work= Uproxx |url= http://uproxx.com/tv/2014/10/did-you-get-every-jim-carrey-reference-in-snls-family-reunion-sketch/ }}</ref>
+*Jamie Foxx reprised his role as Wanda in a short segment at the 2009 BET Awards.
+* In 1997, three of the Fly Girls also appeared in the eleventh episode of ''[[Muppets Tonight]]'''s second season.
+*In the 1997 film ''[[Liar Liar]]'', Jim Carrey reprised his "Fire Marshal Bill" character (albeit with no lines) in the background of one of the closing scenes.
+*The February 10, 2001 episode of ''Saturday Night Live'' hosted by Jennifer Lopez included a sketch where Lopez "reunited" with the Fly Girls (played by [[Rachel Dratch]], [[Jerry Minor]] and [[Tracy Morgan]]).
+
+== Attempted revival ==
+[[Image:In Living Color 2012 Logo.jpg|thumb|250px|The ''In Living Color'' 2012 logo.|alt=In Living Color 2012 logo.]]
+In 2011, there were plans to make a revival of the original series that featured a new cast, characters, and [[Sketch comedy|sketches]].<ref>{{cite web|work=Deadline.com|date=October 28, 2011|title=Fox to Reboot 'In Living Color' with Keenan Ivory Wayans|url=https://www.deadline.com/2011/10/fox-to-reboot-in-living-color-with-keenan-ivory-wayans|access-date=March 27, 2013}}</ref><ref>{{cite web|url=http://www.fox44.com/news/hollywood-hookup/new-in-living-color-fly-girls|work=Fox44.com|date=February 29, 2012|title=New 'In Living Color' |access-date=March 27, 2013}}</ref><ref name=official>{{cite web|work=Fox.com|url=http://www.fox.com/programming/shows/?sh=in-living-color|title='In Living Color'|access-date=March 27, 2013}}</ref> The [[Television pilot|pilot episodes]] were hosted and executive produced by original series creator and cast member [[Keenen Ivory Wayans]]. In early 2012, [[Tabitha and Napoleon D'umo]] were hired as the choreographers.<ref>{{cite web|url=http://www.worldofdance.com/2012/02/22/wod-2012-industry-awards-decade-of-dance-nappytabs/ |title=WOD 2012 Industry Awards: Decade of Dance – Nappytabs |date=February 22, 2012 |work=WorldOfDance.com |access-date=February 25, 2012 |archive-url=https://web.archive.org/web/20120223210514/http://www.worldofdance.com/2012/02/22/wod-2012-industry-awards-decade-of-dance-nappytabs/ |archive-date=February 23, 2012 |url-status=dead }}</ref> They cast the new line-up of The Fly Girls<ref>{{cite web|last=Fuhrer |first=Margaret |title=The Fly Girls Are BACK |date=March 1, 2012 |url=http://www.dancespirit.com/2012/03/the-fly-girls-are-back/ |work=Dance Spirit |access-date=April 8, 2012 |archive-url=https://web.archive.org/web/20120305075626/http://www.dancespirit.com/2012/03/the-fly-girls-are-back/ |archive-date=March 5, 2012 |url-status=dead }}</ref> and shot pilot episodes for the show which were set to air on [[Fox Broadcasting Company|Fox]], like the original. However, on January 8, 2013, Keenen Ivory Wayans confirmed the reboot had been canceled because he and Fox did not feel that the show was sustainable after one season.<ref>{{cite web|date=January 8, 2013 |title=In Living Color' reboot is dead |work=New York Post |url=http://www.nypost.com/p/entertainment/tv/in_living_color_reboot_is_dead_pDhyjtyQ9e3uYMNFoVifIM |access-date=March 27, 2013 |archive-url=https://web.archive.org/web/20130218231841/http://www.nypost.com/p/entertainment/tv/in_living_color_reboot_is_dead_pDhyjtyQ9e3uYMNFoVifIM |archive-date=February 18, 2013 |url-status=dead }}</ref>
+Reported cast members included Cooper Barnes, Jennifer Bartels, Sydney Castillo, Josh Duvendeck, [[Jermaine Fowler]], Ayana Hampton, [[Kali Hawk]], and [[Lil Rel Howery]].<ref name=official/><ref>{{cite web|date=April 3, 2012|work=[[Huffington Post]]|title=Meet the New Cast of Fox's New 'In Living Color'|url=https://www.huffingtonpost.com/2012/04/03/meet-the-new-cast-of-foxs_n_1400813.html |access-date=March 27, 2013}}</ref> In addition, featured cast members were [[Henry Cho]], Melanie Minichino, and Chris Leidecker. Members of the new Fly Girls included Christina Chandler, Tera Perez, Lisa Rosenthal, Katee Shean, and Whitney Wiley.<ref name=official/>
+
+Many of the cast members of the revival (Bartels, Fowler, and Howery) went on to create the [[TruTV]] sketch show ''[[Friends of the People]]''.
+
+== Legacy ==
+Singer [[Bruno Mars]] paid tribute to the television program in the music video, "[[Finesse (song)|Finesse]]".<ref>{{citation |title= The 'In Living Color' Cast Had The Sweetest Reaction To Bruno Mars' 'Finesse' Video |last= Scott |first= Sydney |date= January 5, 2018 |work=Essence |url= https://www.essence.com/celebrity/stars-in-living-color-love-bruno-mars-cardi-b-finesse/ |access-date= 2019-05-22}}</ref>
+
+==See also==
+{{Portal|Television}}
+* [[List of American television programs]]
+{{Clear}}
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{IMDb title|0098830}}
+* [http://www.thetravisty.com/In_Living_Color.php Clips and Skits from the Show]
+* [http://www.thewb.com/shows/in-living-color ''In Living Color'' streaming episodes on TheWB]
+
+{{In Living Color}}
+{{Navboxes
+| title = Awards for ''In Living Color''
+| list =
+{{EmmyAward VarietyMusicComedy 1976-2000}}
+{{NAACP Image Award for Outstanding Comedy Series}}
+{{People's Choice Award for Favorite New TV Comedy}}
+}}
+{{Keenen Ivory Wayans}}
+
+[[Category:1990s American satirical television series]]
+[[Category:1990s American sketch comedy television series]]
+[[Category:1990s American variety television series]]
+[[Category:1990 American television series debuts]]
+[[Category:1994 American television series endings]]
+[[Category:English-language television shows]]
+[[Category:Fox Broadcasting Company original programming]]
+[[Category:Hip hop television]]
+[[Category:Primetime Emmy Award for Outstanding Variety Series winners]]
+[[Category:Primetime Emmy Award-winning television series]]
+[[Category:Television series by 20th Century Fox Television]]
+[[Category:Television shows adapted into video games]]

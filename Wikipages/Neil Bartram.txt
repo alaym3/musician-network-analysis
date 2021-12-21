@@ -1,0 +1,63 @@
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Neil Bartram
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| birth_date =    <!-- {{birth date and age|YYYY|MM|DD}} -->
+| birth_place =  [[Derby]], [[United Kingdom]]
+| death_date =    <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place = 
+| resting_place = 
+| occupation = Composer & Lyricist
+| language = English
+| nationality = Canadian & American
+| period = 
+| genre =   <!-- or: | genres =      -->
+| notablework = music & lyrics for Disney's [[Bedknobs and Broomsticks (musical)|Bedknobs and Broomsticks]], [[The Story of My Life (musical)]], [[The Theory of Relativity (musical)|The Theory of Relativity]]
+| awards = 2009 [[Drama Desk Award]] nominee
+| years_active = 1993–present
+| website = {{URL|http://www.bartramandhill.com/|BartramAndHill.com}}
+}}
+
+{{Use Canadian English|date=August 2013}}
+{{Use dmy dates|date=August 2013}}
+'''Neil Bartram''' is a musical theatre composer/lyricist based in New York. Bartram is the composer and lyricist of Disney's ''[[Bedknobs and Broomsticks (musical)|Bedknobs and Broomsticks]]'' and Broadway's ''[[The Story of My Life (musical)|The Story of My Life]]'' with book writer [[Brian Hill (author)|Brian Hill]].
+
+==Career==
+Prior to Broadway, ''The Story of My Life'' played at Canadian Stage Company in Toronto and Goodspeed's Norma Terris Theatre. Bartram has also written music and lyrics for ''Clara's Piano'' ([[Stratford Festival]]), ''Somewhere in the World'' (five seasons at the [[Charlottetown Festival]]) and ''The Nightingale and the Rose'', and scored productions of ''[[Shakespeare In Love]]'', ''Romeo and Juliet'', ''Timon of Athens'' and ''A Midsummer Night's Drea''m. His adaptation of Carlo Collodi's ''[[The Adventures of Pinocchio]]'' was commissioned by [[Chicago Shakespeare Theater]] for their 2011 season. Bartram and Hill's musical ''Not Wanted On The Voyage'' received a developmental production at [[Northwestern University]]'s Barber Theatre as part of the American Music Theatre Project and was part of [[Goodspeed Musicals]]' 2012 New Works Festival. His musical ''The Theory of Relativity'', commissioned by Toronto's [[Sheridan College]] and written specifically for and about college age students, was part of Goodspeed's 2014 New Works Festival and had its London, UK premiere in May 2014.
+
+Other projects include ''Spin'' directed by [[Eric Schaeffer]] (premiered at the [[Signature Theatre (Arlington, Virginia)|Signature Theatre]], Arlington, VA), an adaptation of [[Michel Tremblay]]'s [[Les Belles-Soeurs]], a musical based on [[Ray Bradbury]]'s classic novel ''Something Wicked This Way Come''s, and the stage adaptation of Disney's beloved film ''[[Bedknobs and Broomsticks (musical)|Bedknobs and Broomsticks]]'', all with book writer [[Brian Hill (author)|Brian Hill]].
+
+Bartram's awards include a Jonathan Larson Foundation Award, a Dramatists Guild Fellowship, and a Dora Award. ''[[The Story of My Life (musical)|The Story of My Life]]'' received four [[Drama Desk Award]] nominations: outstanding book, outstanding music, outstanding lyrics and outstanding production of a musical.
+
+Cast albums include ''Somewhere in the World'', ''The Story of My Life'' and ''[[The Theory of Relativity (musical)|The Theory of Relativity]]'' (PS Classics). Bartram is a member of the Dramatists Guild, ASCAP, and is an alumnus of the BMI Lehman Engel Music Theatre Workshop.  His work is published by Warner / Chappell Music.<ref>bartramandhill.com</ref> <ref>{{Cite web|url=https://www.mtishows.com/people/neil-bartram|title=Music Theatre International Artist Page}}</ref>
+
+==Works==
+*''[[The Story of My Life (musical)|The Story of My Life]]'' with [[Brian Hill (author)|Brian Hill]], directed by [[Richard Maltby Jr.]], starring [[Will Chase]] and [[Malcolm Gets]]<ref>{{Cite web|url=https://www.mtishows.com/the-story-of-my-life|title=The Story of My Life|date=16 September 2015|website=Music Theatre International}}</ref>
+*''[[The Adventures of Pinocchio]]'' with Hill, commissioned by [[Chicago Shakespeare Theater]]<ref name="Chicago Shakespeare Website">[http://www.chicagoshakes.com/main.taf?p=2,6], Chicago Shakespeare Theater Website - Pinocchio page.</ref>
+*''[[Something Wicked This Way Comes (novel)|Something Wicked This Way Comes]]'' with Hill
+*''The Theory of Relativity'' with Hill,<ref>{{Cite web|url=https://www.relativemotion.co.uk/|title=Relative Motion|website=Relative Motion}}</ref> [[Goodspeed Musicals]]<ref>{{Cite web|url=http://www.playbill.com/article/casting-announced-for-goodspeeds-theory-of-relativity-new-musical-from-story-of-my-life-writers-com-345728|title=Casting Announced for Goodspeed's Theory of Relativity, New Musical from Story of My Life Writers|first=Andrew|last=Gans|date=2 April 2015|website=Playbill}}</ref>
+*''Spin'' with Hill, [[Signature Theatre (Arlington, Virginia)|Signature Theatre]], directed by [[Eric Schaeffer]].<ref>[https://web.archive.org/web/20130419200033/http://articles.washingtonpost.com/2013-03-04/entertainment/37433970_1_signature-theatre-new-musicals-revivals The Washington Post]</ref>
+*''You Are Here'' with Hill, [[Thousand Islands Playhouse]], Goodspeed Musicals<ref>{{Cite web|url=http://www.1000islandsplayhouse.com/you-are-here/|title=You Are Here}}</ref>
+*''Senza Luce'' with Hill, [[Sheridan College]]
+*''[[Shakespeare In Love]]'', new score for Chicago Shakespeare Theater, directed by [[Rachel Rockwell]]
+*''[[Bedknobs and Broomsticks (musical)|Bedknobs and Broomsticks]]'' with Hill
+
+==References==
+{{Reflist}}
+
+==External links==
+*Official site: [http://www.bartramandhill.com Bartram & Hill]
+*[http://www.playbill.com/news/article/122188.html Broadway-Aimed Musical Story of My Life, With Gets and Chase, Makes U.S. Premiere in CT]
+
+{{authority control}}
+
+{{DEFAULTSORT:Bartram, Neil}}
+[[Category:Year of birth missing (living people)]]
+[[Category:American musical theatre composers]]
+[[Category:American musical theatre lyricists]]
+[[Category:Canadian musical theatre composers]]
+[[Category:Canadian musical theatre lyricists]]
+[[Category:Living people]]
+[[Category:Place of birth missing (living people)]]

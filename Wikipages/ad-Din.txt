@@ -1,0 +1,88 @@
+{{Short description|Arabic name suffix}}{{lowercase}}
+'''Ad-Din''' ({{lang-ar|الْدِّين}} ''{{transl|ar|DIN|ad-[[dīn]]&nbsp;}}'' '(of) the Religion/Faith/Creed'), a suffix component of some [[Arabic name]]s, meaning 'the religion/faith/creed', e.g. Saif al-Din ({{lang-ar|سيف الدّين|Sayf al-Dīn|Sword of the Faith}}). Varieties are also used in non-Arabic names throughout the Muslim world.
+
+The Arabic spelling in its standard transliteration is {{Lang|ar-latn|ad-Din}}'','' due to the phonological rules involving "[[Sun and moon letters|sun letter]]" ({{Lang|ar|حرف الشّمسيّة}} {{Lang|ar-latn|hurfu ’sh-Shamsiyyah}}), the Arabic letter {{Lang|ar|د}} ({{Lang|ar-latn|dāl}}) is assimilated letter of the ِ[[Arabic definite article]] {{Lang|ar|ال}} ({{Lang|ar-latn|al}}). The first noun of [[Arabic grammar#iḍāfah|the compound]] must have the ending -''u'' which according to the assimilation rules in Arabic – names in general is in the nominative case, assimilates the following ''a''-, thus manifesting into {{Lang|arb-latn|ud-Din}} in [[Classical Arabic|Classical]] and [[Modern Standard Arabic]].
+
+However, all the modern Arabic vernaculars lack the noun endings, thus the vowel of the definite article in them is pronounced in full as either ''a'' or ''e'' (the latter mostly in [[Maghreb]] and Egypt). At the same time the Arabic short vowel ''u'' is rendered as short ''o'' in Persian, thus {{Lang|fa-latn|od-din}}.
+
+So in practice romanizations of Arabic names containing this element may vary greatly, including:
+* {{Lang|ar-latn|al-Din}}, {{Lang|ar-latn|ad-Din}}, {{Lang|ar-latn|-addin}}, {{Lang|ar-latn|-adin}}
+* {{Lang|ar-latn|el-Din}}, {{Lang|ar-latn|-eldin}}, {{Lang|ar-latn|-eddin}}
+* {{Lang|ar-latn|ud-Din}}, {{Lang|ar-latn|-uddin}} (particularly in [[English language|English]]-speaking [[South Asia|South]] and [[East Asia]]), {{Lang|ar-latn|-uddeen}} (particularly in English-speaking South and East Asia)
+* {{Lang|ar-latn|-eddine}} (particularly in [[French language|French]]-speaking areas)
+* {{Lang|ar-latn|-ettin}} (particularly in [[Turkish name]]s)
+* {{Lang|ar-latn|-od-din}} (particularly in [[Persian name]]s)
+
+Examples of names including this element are:
+{{div col|colwidth=10em}}
+* [[Aladdin (name)|Aladdin]]
+* [[Alimuddin (disambiguation)|Alimuddin]]
+* [[Amin ud-Din (disambiguation)|Amin ud-Din]]
+* [[Anwaruddin]]
+* [[Azharuddin (disambiguation)|Azharuddin]]
+* [[Azim ud-Din (disambiguation)|Azim ud-Din]]
+* [[Badr al-Din]]
+* [[Baha' al-Din (disambiguation)|Baha' al-Din]]
+* [[Burhan al-Din]]
+* [[Fakhr al-Din]]
+* [[Fariduddin (disambiguation)|Fariduddin]]
+* [[Ghiyath al-Din (disambiguation)|Ghiyath al-Din]]
+* [[Hamid al-Din (disambiguation)|Hamid al-Din]]
+* [[Haqq ad-Din (disambiguation)|Haqq ad-Din]]
+* [[Hisham ud-Din (disambiguation)|Hisham ud-Din]]
+* [[Husam ad-Din (disambiguation)|Husam ad-Din]]
+* [[Ikhtiyar al-Din (disambiguation)|Ikhtiyar al-Din]]
+* [[Imad al-Din (disambiguation)|Imad al-Din]]
+* [[Ismat ad-Din (disambiguation)|Ismat ad-Din]]
+* [[Izz al-Din (disambiguation)|Izz al-Din]]
+* [[Jalal ad-Din (disambiguation)|Jalal ad-Din]]
+* [[Jamal ad-Din (disambiguation)|Jamal ad-Din]]
+* [[Kamal al-Din]]
+* [[Khair ad-Din (disambiguation)|Khair ad-Din]]
+* [[Majd ad-Din (disambiguation)|Majd ad-Din]]
+* [[Mansur ad-Din (disambiguation)|Mansur ad-Din]]
+* [[Mohy al-Din]]
+* [[Moinuddin]]
+* [[Muhib ud-Din (disambiguation)|Muhib ud-Din]]
+* [[Mu'iz ad-Din (disambiguation)|Mu'iz ad-Din]]
+* [[Muslih ud-Din (disambiguation)|Muslih ud-Din]]
+* [[Najm al-Din (disambiguation)|Najm al-Din]]
+* [[Nasir al-Din]]
+* Nawazuddin
+* [[Nazimuddin (disambiguation)|Nazimuddin]]
+* [[Nizam al-Din (disambiguation)|Nizam al-Din]]
+* [[Nur al-Din (disambiguation)|Nur al-Din]]
+* [[Qamar ud-Din (disambiguation)|Qamar ud-Din]]
+* [[Qutb ad-Din]]
+* [[Rashid al-Din (disambiguation)|Rashid al-Din]]
+* [[Riazuddin (disambiguation)|Riazuddin]]
+* [[Rukn al-Din]]
+
+* Sabah al-din
+* Sabr ad-Din 
+* [[Sa'd al-Din (disambiguation)|Sa'd al-Din]]
+* [[Sadr al-Din (disambiguation)|Sadr al-Din]]
+* [[Safi al-Din (disambiguation)|Safi al-Din]]
+* [[Saif al-Din (disambiguation)|Saif al-Din]]
+* [[Salah ad-Din (name)|Ṣalāḥ ad-Dīn]]
+* [[Shams al-Din]]
+* [[Sharaf al-Din (disambiguation)|Sharaf al-Din]]
+* [[Shihab al-Din (disambiguation)|Shihab al-Din]]
+* [[Shujauddin (disambiguation)|Shujauddin]]
+* [[Sirajuddin (disambiguation)|Sirajuddin]]
+* [[Guardians of Religion Organization|Tanzim Harrar al-Din]]
+* [[Taqi al-Din (disambiguation)|Taqi al-Din]]
+* [[Zahir al-Din (disambiguation)|Zahir al-Din]]
+* [[Zayn ad-Din (disambiguation)|Zayn ad-Din]] (or Zinedine)
+* [[Ziauddin (disambiguation)|Ziauddin]]
+{{div col end}}
+
+==Use of ''Uddin'' as surname==
+In modern times in English-speaking environments, the name ''Uddin'' has sometimes been used as if it was a separate surname. An example is:
+* [[Pola Uddin, Baroness Uddin]] (born 1959), British politician
+
+==See also==
+* [[al-Dawla]]
+* [[Adin]]
+
+[[Category:Surnames of Arabic origin]]

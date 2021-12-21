@@ -1,0 +1,96 @@
+{{Use dmy dates|date=January 2020}}
+{{about|the R&B trio|their self-titled debut album|City High (album)}}
+{{Infobox musical artist
+| name            = City High
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Willingboro Township, New Jersey|Willingboro Township]], New Jersey, United States
+| genre           = [[Hip hop music|Hip hop]], [[Contemporary R&B|R&B]]
+| years_active    = 1999–2003
+| label           = [[Interscope Records]], Booga Basement Records, Trackmasters Entertainment
+| associated_acts =
+| website         =
+| current_members =
+| past_members    = Ryan Toby<br/>Robbie Pardlo<br/>[[Claudette Ortiz]]
+}}
+'''City High''' was an American [[Hip hop music|hip hop]]/[[Contemporary R&B|R&B]] trio consisting of [[rapper]]s/singers Ryan Toby, Robbie Pardlo and [[Claudette Ortiz]]. City High is best known for their song, "[[What Would You Do? (City High song)|What Would You Do?]]", which earned a [[Grammy Award|Grammy]] nomination.<ref>[http://www.billboard.com/articles/news/959605/city-highs-robby-pardlo-faces-intervention-on-ae Billboard.com]</ref>
+
+==Career==
+City High issued "[[What Would You Do? (City High song)|What Would You Do?]]" from their 2001 self-titled album. Their follow-up single was "[[Caramel (City High song)|Caramel]]".  A remix was released, featuring rapper [[Eve (entertainer)|Eve]].<ref>[http://www.mtv.com/music/artist/city_high/artist.jhtml MTV's City High artist page] {{webarchive|url=https://web.archive.org/web/20120204192448/http://www.mtv.com/music/artist/city_high/artist.jhtml |date=4 February 2012 }}</ref> The final single from the group's debut and only album was "City High Anthem".
+
+Prior to creation of City High, bandmates Claudette Ortiz and Robbie Pardlo dated throughout their high school years.<ref name="Dimewars.com">[http://dimewars.com/Blog/ViewBlogArticle.aspx?vn=Claudette+Ortiz+From+City+High+Defends+Herself+From+Wily+Temptress+Accusations&BlogID=dca44def-a324-43d4-bf6c-716e85fb98d9 Dimewars.com] {{webarchive |url=https://web.archive.org/web/20110710132137/http://dimewars.com/Blog/ViewBlogArticle.aspx?vn=Claudette+Ortiz+From+City+High+Defends+Herself+From+Wily+Temptress+Accusations&BlogID=dca44def-a324-43d4-bf6c-716e85fb98d9 |date=10 July 2011 }}</ref> After meeting and performing for [[Wyclef Jean]], they were signed to his Booga Basement recording label. As Wooga Booga already had a duo, they invited Ryan Toby and became the City High [[trio (music)|trio]] instead.<ref name="Dimewars.com"/> Following her breakup with Pardlo, Ortiz went on to date Toby. Ortiz and Toby married in 2004, but later divorced in 2007.<ref>[http://www.blackvoices.com/black_entertainment/bvbuzzcanvas?id=20060217133509990001 ]{{dead link|date=May 2012}}</ref><ref>{{cite web|url=http://randb.about.com/od/artistinterviews/a/RyanTobyArticle.htm |title=Ryan Toby Interview |publisher=Randb.about.com |accessdate=7 May 2012}}</ref>
+
+==Discography==
+
+===Albums===
+{|class="wikitable" 
+|-
+!rowspan="2"|Year
+!rowspan="2"|Album
+!colspan="2"|Peak chart positions
+!rowspan="2"|Certifications
+|-
+!width=40|<small>[[Billboard 200|US]]</small>
+!width=40|<small>[[Top R&B/Hip-Hop Albums|US R&B]]</small>
+|-
+|2001
+|''[[City High (album)|City High]]'' 
+*<small>Released: 22 May 2001
+*Label: [[Interscope Records|Interscope]]
+| style="text-align:center;"|34
+| style="text-align:center;"|23
+|
+*[[Recording Industry Association of America|RIAA]]: Gold<ref>{{cite web|url=https://www.riaa.com/gold-platinum/|title=Gold & Platinum|website=RIAA}}</ref>
+|}
+
+=== Singles ===
+{| class="wikitable" style=text-align:center; 
+!rowspan=2|Year  
+!rowspan=2|Song  
+!colspan=6|Peak chart positions  
+!rowspan=2|Album  
+|- style=font-size:smaller;  
+!width="40"|[[Billboard Hot 100|US]]
+!width="40"|[[Hot R&B/Hip-Hop Songs|US<br> R&B]]
+!width="40"|[[Hot Rap Songs|US<br> Rap]]
+!width="40"|[[ARIA Charts|AUS]]<br /><ref>{{cite web|url=http://www.australian-charts.com/showinterpret.asp?interpret=City+High|title=australian-charts.com – Discography City High|publisher=Hung Medien|accessdate=1 August 2016}}</ref>
+!width="40"|[[Canadian Singles Chart|CAN]]
+!width="40"|[[UK Singles Chart|UK]]<br /><ref name="British Hit Singles & Albums">{{cite book
+| first= David
+| last= Roberts
+| year= 2006
+| title= British Hit Singles & Albums
+| edition= 19th
+| publisher= Guinness World Records Limited 
+| location= London
+| isbn= 1-904994-10-5
+| page= 107}}</ref>
+|-
+|rowspan=2|2001
+|align=left| "[[What Would You Do? (City High song)|What Would You Do?]]"
+| 8 || 13 || 1 || 2 || 19 || 3
+|rowspan=3| ''[[City High (album)|City High]]''
+|-
+|align=left| "[[Caramel (City High song)|Caramel]]"<br/><small>(featuring [[Eve (entertainer)|Eve]])</small>
+| 18 || 9 || — || 47 || — || 9
+|-
+|2002
+|align=left| "City High Anthem" 
+| — || — || — || — || — || —
+|}
+
+==References==
+{{Reflist}}
+{{City High}}
+
+{{Authority control}}
+
+[[Category:East Coast hip hop groups]]
+[[Category:Musical groups established in 1999]]
+[[Category:Musical groups disestablished in 2003]]
+[[Category:Musical groups from New Jersey]]
+[[Category:American musical trios]]
+[[Category:People from Willingboro Township, New Jersey]]
+[[Category:1999 establishments in New Jersey]]

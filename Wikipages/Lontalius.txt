@@ -1,0 +1,25 @@
+{{Short description|Monotypic butterfly genus in family Lycaenidae}}
+{{Speciesbox
+| taxon = Lontalius eltus
+| authority = Eliot, 1986
+| parent_authority = [[John Nevill Eliot|Eliot]], 1986
+| display_parents = 3
+}}
+
+'''''Lontalius''''' is a [[monotypic]] [[butterfly]] genus in the family [[Lycaenidae]]. Its single species, '''''Lontalius eltus''''', is found in [[Borneo]] and the [[Philippines]]. Both the genus and species were [[Species description|first described]] by [[John Nevill Eliot]] in 1986.<ref>{{cite web |last=Savela |first=Markku |date=November 3, 2009 |url=https://www.nic.funet.fi/pub/sci/bio/life/insecta/lepidoptera/ditrysia/papilionoidea/lycaenidae/miletinae/lontalius/ |title=''Lontalius'' Eliot, 1986 |website=Lepidoptera and Some Other Life Forms |accessdate=January 13, 2020}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{cite web |last1=Takanami |first1=Yusuke |last2=Seki |first2=Yasuo |name-list-style=amp |date=2001 |url=http://www.asahi-net.or.jp/~EY4Y-TKNM/Miletini-Phil/Lontalius.html |title=Genus ''Lontalius'' |website=A Synonymic List of Lycaenidae from the Philippines |archive-url=https://web.archive.org/web/20010628231527/http://www.asahi-net.or.jp/~EY4Y-TKNM/Miletini-Phil/Lontalius.html |archive-date=June 28, 2001 |via=Internet Archive}} With images
+
+{{Taxonbar |from=Q1765073}}
+
+[[Category:Miletinae]]
+[[Category:Taxa named by John Nevill Eliot]]
+[[Category:Lycaenidae genera]]
+[[Category:Monotypic butterfly genera]]
+
+
+{{Miletinae-stub}}

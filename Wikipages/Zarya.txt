@@ -1,0 +1,152 @@
+{{short description|First module of the International Space Station}}
+{{other uses}}
+{{italic title}}
+{{Infobox space station module
+ | module                 = ''Zarya''
+ | module_image           = Zarya from STS-88.jpg
+ | module_image_caption   = ''Zarya'' as seen by {{OV|105}} during [[STS-88]]
+ | COSPAR_ID               = 1998-067A
+ | launch                 = 20 November 1998
+ | launch_vehicle         = [[Proton-K]]
+ | docked                 =
+ | undocked               =
+ | reentry                = 
+ | mass                   = {{convert|19323|kg}} (initial in orbit mass, including {{convert|3800|kg}} propellants) <ref>{{cite web|url=https://www.bis-space.com/belgium/wp-content/uploads/2015/10/frommir-2.pdf|title=From Mir-2 to the ISS Russian Segment|last=Hendrickx|first=Bart|date=15 October 2015|publisher=BIS|access-date=24 May 2020}}</ref>
+ | length                 = {{convert|12.56|m}}
+ | width                  = 
+ | height                 = 
+ | diameter               = {{convert|4.11|m}}
+ | pressurized volume     = {{Cvt|71.5|m3}}<ref>{{Cite web|url=https://www.energia.ru/en/iss/rs/zarya.html|title=S.P. Korolev RSC Energia - ISS - ISS Russian Segment|website=www.energia.ru}}</ref>
+ | stats_ref              = 
+ | configuration_image    = File:Zarya_(Sunrise)_module.svg
+ | configuration_size     = 
+ | configuration_caption  = Parts of ''Zarya''{{efn|
+# Air Ducts
+# Communications Panel
+# Caution and Warning Systems Panel
+# Contaminant Filters
+# Contingency Transfer (Water)/Container Bag
+# Contingency Transfer (Water)/Container Connections
+# Dust Collectors
+# Electrical Outlet
+# Flex Airduct Container
+# Fuse
+# Fuse Panels (behind close-outs)
+# Gas Analyzer
+# Gas Mask
+# Handrail
+# Hatch Protection
+# Instrument Containers
+# Docking Port to PMA-1
+# Laptop Outlets
+# Lighting Panel
+# Lights
+# Docking Port to [[Rassvet (ISS module)|Rassvet]]
+# Onboard Documentation
+# Onboard Network Receptacle Outlets
+# Pole and Hook
+# Portable Fans
+# Removable Fire Extinguisher
+# Power Outlet
+# Pressurized Valve Unit
+# Caution and Warning Panel
+# Smoke Detector
+# TV Outlet
+# Wipes/Filters
+}}}}
+[[File:Rendezvous with Zarya - GPN-2000-001043.jpg|thumb|290px|''Zarya'' and ''Unity'' rendezvous in 1998]]
+'''''Zarya''''' ({{lang-ru|Заря||Dawn}}{{efn|"Zarya" can have a lot of meanings: "daybreak", "dawn" (in the morning) or "afterglow", "evening glow", "sunset" (in the evening). But usually it means "dawn".}}<!--''per'' below...-->), also known as the '''Functional Cargo Block''' or '''FGB''' (from the {{lang-ru|"Функционально-грузовой блок"||''Funktsionalno-gruzovoy blok''}} or ''ФГБ''), is the first module of the [[International Space Station]] to have been launched.<ref name="NASA">NASA, International Space Station, [http://www.nasa.gov/mission_pages/station/structure/elements/fgb.html Zarya] (accessed 19 Apr. 2014)</ref>  The FGB provided electrical power, storage, propulsion, and guidance to the ISS during the initial stage of assembly.  With the launch and assembly in orbit of other modules with more specialized functionality, and {{As of|2021|August|lc=a}} primarily used for storage, both inside the pressurized section and in the externally mounted fuel tanks. The ''Zarya'' is a descendant of the [[TKS (spacecraft)|TKS spacecraft]] designed for the Russian [[Salyut programme|''Salyut'' program]]. The name ''Zarya'' ("Dawn") was given to the FGB because it signified the dawn of a new era of international cooperation in space. Although it was built by a Russian company, it is owned by the [[United States]].<ref>{{cite web|url=http://www.russianspaceweb.com/iss_enterprise.html|title=Russian Segment: Enterprise|last=Zak|first=Anatoly|date=15 October 2008|publisher=RussianSpaceWeb|access-date=4 August 2012}}</ref>
+
+== Construction ==
+The FGB design was originally intended as a module for the Russian ''[[Mir]]'' space station, but was not flown as of the end of the Mir program.  A FGB cargo block was incorporated as an upper stage engine into the [[Polyus (spacecraft)|Polyus]] spacecraft, flown (unsuccessfully) on the first [[Energia]] launch.<ref name="JBIS-2002">B. Hendrickx, "The Origins and Evolution of the Energiya Rocket Family," ''J. British Interplanetary Soc., Vol. 55,'' pp. 242-278 (2002).</ref>  With the end of the Mir program, the design was adapted to use for the International Space Station.
+
+The ''Zarya'' module is capable of [[Orbital station-keeping|station keeping]] and provides sizable battery power; it was suggested to have initially been built to both power and control the recoil from a further derivation of the then classified Skif laser system/Polyus satellite. Commentators in the West thought that the ''Zarya'' module was constructed cheaper and lifted to orbit faster than should have been possible in the post-Soviet era, and that the FGB might have been largely constructed from [[wikt:mothball#Verb|mothballed]] hardware from the Skif laser program (which had been canceled after the failed 1987 [[Polyus (spacecraft)|Polyus]] launch).<ref>{{Cite web|url=https://web.archive.org/web/20130926143351/http://arstechnica.com/science/2013/05/the-soviet-response-to-star-wars-that-never-was/2/|title=The secret laser-toting Soviet satellite that almost was &#124; Ars Technica|date=September 26, 2013|website=web.archive.org}}</ref>
+
+The research and development of a similar design was paid for by Russia and the Soviet Union, the design of the module and all systems are Soviet/Russian. The United States funded ''Zarya'' through the U.S. prime contracts in the 1990s as the first module for ISS. Built from December 1994 to January 1998 in [[Russia]] at the [[Khrunichev State Research and Production Space Center]] (KhSC) in Moscow.<ref name="NASA" />  The module was included as part of NASA's plan for the International Space Station (ISS) instead of [[Lockheed Martin]]'s "Bus-1" option because it was significantly cheaper ([[US$]]220 million vs. $450 million). As part of the contract Khrunichev constructed much of an identical module (referred to as "FGB-2") for contingency purposes. FGB-2 was proposed to be used for a variety of projects; it has been used to construct the Russian Multipurpose Laboratory Module [[Nauka (ISS module)|''Nauka'']].<ref>{{Cite web|title=Russian segment of the ISS|url=http://www.russianspaceweb.com/iss_russia.html|access-date=2021-08-03|website=www.russianspaceweb.com}}</ref>
+[[Image:Proton-K-Zarya.jpg|thumb|left|Launch of the ''Zarya'' module]]
+
+== Design ==
+''Zarya'' has a mass of {{convert|19323|kg|lb}}, is {{convert|12.56|m|ft|sp=us}} long and {{convert|4.11|m|ft|sp=us}} wide at its widest point.
+
+The module has three [[Spacecraft docking|docking ports]]: one axially on the front end at the docking sphere, one on the Earth-facing side ([[nadir]]) of the docking sphere and one axially on the aft end.
+Attached to the forward port is the [[Pressurized Mating Adapter]] ''PMA-1'', which in turn is connected to the [[Unity (ISS module)|''Unity'' Module]] – this is the connection
+between the [[Russian Orbital Segment]] (ROS) and the [[US Orbital Segment]] (USOS).
+Attached to the aft port is the [[Zvezda (ISS module)|''Zvezda'' Service Module]]. The lower port (nadir) was initially used by visiting [[Soyuz spacecraft]] and [[Progress spacecraft]] to dock to the ROS; The [[Rassvet (ISS module)|''Rassvet'' module]] is now docked semipermanently on the nadir port of ''Zarya'', and visiting spacecraft use ''Rassvet''{{'s}} nadir docking port instead.<ref>''Reference Guide to the International Space Station'' by Gary Kitmacher, pp. 24-25 (2006), Apogee Books, {{ISBN|1-894959-34-5}}.</ref>
+
+''Zarya'' has two [[Photovoltaic module|solar arrays]] measuring {{convert|10.67|by|3.35|m|ft|sp=us}} and six [[nickel-cadmium battery|nickel-cadmium batteries]] that can provide an average of {{Convert|3|kW}} of power – the solar arrays have been however retracted so the P1/S1 radiators of the [[Integrated Truss Structure]] could deploy. ''Zarya'' has 16 external fuel tanks that can hold up to {{Convert|6.1|t|lb}} of propellant (this requirement was mandated by NASA in early 1997 over concerns that the ''Zvezda'' Service Module would be further delayed, hence the FGB had to be capable of independent propellant storage and transfer from [[Progress spacecraft]] even without ''Zvezda'' <ref>{{cite web|url=https://www.bis-space.com/belgium/wp-content/uploads/2015/10/frommir-2.pdf|title=From Mir-2 to the ISS Russian Segment (p.19)|last=Hendrickx|first=Bart|date=15 October 2015|publisher=BIS|access-date=24 May 2020}}</ref>).  ''Zarya'' also has 24 large steering jets, 12 small steering jets, and two large engines that were used for reboost and major orbital changes; with the docking of ''Zvezda'' these are now permanently disabled.  Since they are no longer needed for ''Zarya''{{'s}} engines, Zarya's propellant tanks are now used to store additional fuel for ''Zvezda''.
+
+== Launch and flight ==
+[[File:Sts088-332-010.jpg|thumb|300px|Sergei K. Krikalev and Robert D. Cabana in December 1998]]
+''Zarya'' was launched on 20 November 1998 on a Russian [[Proton (rocket)|Proton rocket]] from [[Baikonur Cosmodrome Site 81]] in Kazakhstan to a {{convert|400|km|mi|abbr=on}} high orbit with a designed lifetime of at least 15 years. After ''Zarya'' reached orbit, [[STS-88]] launched on 4 December 1998 to attach the [[Unity (ISS module)|''Unity'' module]].
+
+Although only designed to fly autonomously for six to eight months, ''Zarya'' was required to do so for almost two years due to delays to the Russian Service Module, [[Zvezda (ISS module)|''Zvezda'']]. ''Zvezda'' was finally launched on 12 July 2000, docking with ''Zarya'' on 26 July 2000.
+
+''Zarya'' passed the 50,000-orbit mark at 15:17 UTC on 14 August 2007 during the [[STS-118]] mission to the International Space Station.
+
+== Dockings ==
+{{expand list|date=April 2016}}
+;Nadir
+{| class="wikitable" border="1"
+|-
+!Spacecraft
+!Launch (UTC)
+![[Carrier rocket|Carrier<br />rocket]]
+!Launch<br/>pad
+!Docking
+!Undocking
+!Deorbit
+!Remarks
+|-
+|rowspan=2|[[Progress M1-4]]<ref name="EA-PM1">{{cite web|url=http://www.astronautix.com/craft/proessm1.htm|title=Progress M1|last=Wade|first=Mark|publisher=Encyclopedia Astronautica|access-date=2008-12-26|url-status=dead|archive-url=https://www.webcitation.org/5ilAO9cCm?url=http://www.astronautix.com/craft/proessm1.htm|archive-date=2009-08-03}}</ref>
+|rowspan=2|16 November 2000 01:32:36
+|rowspan=2| Soyuz-U
+|rowspan=2| Site 1/5
+|18 November<br/>03:48
+|1 December<br/>16:23
+|rowspan=2|8 February<br/>13:50
+|rowspan=2|ISS-2P. The automatic [[Kurs (docking system)|Kurs]] docking system failed, and the manual backup, [[TORU]], was used for the docking. Following undocking, Progress M1-4 spent 25 days in free flight, prior to redocking with the same port.<ref name="SKN">{{cite web|url=http://space.kursknet.ru/cosmos/english/cargoes/pr1m4.sht|first=Alexander|last=Anikeev|publisher=Manned Astronautics - Figures & Facts|title=Cargo spacecraft "Progress M1-4"|access-date=2009-06-07|url-status=dead|archive-url=https://web.archive.org/web/20071009193814/http://space.kursknet.ru/cosmos/english/cargoes/pr1m4.sht|archive-date=2007-10-09}}</ref>
+|-
+|26 December<br/>10:54
+|8 February 2001<br/>11:26
+|-
+|[[Progress M-64]]
+|14 May 2008<br/>20:22:56
+| Soyuz-U
+| Site 1/5
+|16 May 2008<br/>21:39
+|1 September 2008<br/>19:46
+|8 September 2008<br/>21:33
+|ISS-29P
+|}
+*''[[Rassvet (ISS module)|Rassvet]]'', 2010–Present
+;Forward
+*''[[Unity (ISS module)|Unity]]'' (via [[PMA-1]]), 1998–Present
+;Aft
+*''[[Zvezda (ISS module)|Zvezda]]'', 2000–Present
+
+== Gallery ==
+<gallery>
+Zarya_interior.jpg|Interior of ''Zarya''
+ISS from Atlantis - Sts101-714-016.jpg|''Zarya'' (top) and ''Unity'' (Node 1)
+STS-128 EVA2 Russian Orbital Segment.jpg|''Zarya'' as seen in 2009 during STS-128, solar arrays folded
+ISS013-E-65174.jpg|View through the window of ''Zarya'', 2006
+</gallery>
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+==See also==
+{{Portal|Spaceflight}}
+* [[Power and Propulsion Element]] station module of the Lunar Gateway
+
+{{ISS modules}}
+{{TKS spacecraft}}
+{{Orbital launches in 1998}}
+
+[[Category:1998 in Russia]]
+[[Category:Russian components of the International Space Station]]
+[[Category:Spacecraft launched in 1998]]
+[[Category:Spacecraft launched by Proton rockets]]

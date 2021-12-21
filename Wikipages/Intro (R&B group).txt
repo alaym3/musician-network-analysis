@@ -1,0 +1,113 @@
+{{short description|American contemporary R&B group}}
+{{Refimprove|date=January 2020|}}
+{{Infobox musical artist
+| name            = Intro
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Brooklyn]], [[New York City]], [[United States]]
+| instrument      = vocals
+| genre           = [[Contemporary R&B|R&B]], [[Soul music|soul]]
+| occupation      = R&B group
+| years_active    = 1985-2001; 2012-present
+| label           = [[Atlantic Records]] (1992-2001)<br/>Innovative Entertainment (2012-present)
+| associated_acts = [[Eddie F]], [[Dave Hall (record producer)|Dave "Jam" Hall]], [[Mary J. Blige]]
+| website         =
+| current_members = Clinton "Buddy" Wike<br/>Jeff Sanders
+| past_members    = [[Kenny Greene]] (deceased)<br>Eric Pruitt
+}}
+
+'''Intro''' is an [[United States|American]] [[Contemporary R&B|R&B]] trio from [[Brooklyn]], [[New York City]], [[New York (state)|New York]]. The trio consisted of members Jeff Sanders, Clinton "Buddy" Wike and lead singer/songwriter [[Kenny Greene]]. The group was discovered by rapper Heavy D, who then introduced the group to DJ Eddie F. Eddie F signed the group to Untouchables management. Intro released two [[album]]s (for [[Atlantic Records]]): 1993's ''Intro'' and their second album, 1995's ''New Life''. The group had a string of US hits in the 1990s.<ref>{{cite web|author=Intro |url=http://www.allmusic.com/artist/intro-mn0000096423 |title=Intro - Music Biography, Credits and Discography |website=[[AllMusic]] |date= |accessdate=2013-06-29}}</ref> The hits included the singles "Love Thang", "Let Me Be The One", the [[Stevie Wonder]] cover "[[Ribbon in the Sky]]", "Funny How Time Flies" and their highest charting hit, "Come Inside". Greene died in 2001.
+
+==Discography==
+===Albums===
+{|class="wikitable"
+|-
+!Year
+!Title
+!Label
+!width="50"|<small>[[Top R&B/Hip Hop Albums|US R&B Chart]]<ref name=amg1>{{cite web|author=Intro |url=http://www.allmusic.com/artist/intro-mn0000096423/awards |title=Intro - Awards |website=[[AllMusic]] |date= |accessdate=2013-06-29}}</ref></small>
+!width="50"|<small>[[Billboard Top 200|US Top 200]]<ref name=amg1/></small>
+|-
+| 1993
+| ''Intro''
+|rowspan="2"| [[Atlantic Records]]
+| style="text-align:center;"|11
+| style="text-align:center;"|65
+|-
+| 1995
+| ''New Life''
+| style="text-align:center;"|16
+| style="text-align:center;"|86
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Title
+! colspan="2"| Chart Positions<ref name=amg1/>
+|-
+! style="width:86px;"| <small>US [[Billboard Hot 100|''Billboard'' Hot 100]]</small>
+! style="width:86px;"| <small>US [[Hot R&B/Hip Hop Songs]]</small>
+|-
+|rowspan="3"| 1993
+| "Come Inside"
+| style="text-align:center;"|33
+| style="text-align:center;"|9
+|-
+| "Let Me Be the One"
+| style="text-align:center;"| -
+| style="text-align:center;"|23
+|-
+| "Love Thang"
+| style="text-align:center;"| -
+| style="text-align:center;"|28
+|-
+|rowspan="2"|1994
+| "Never Again"
+| style="text-align:center;"| -
+| style="text-align:center;"|60
+|-
+| "[[Ribbon in the Sky]]"
+| style="text-align:center;"| -
+| style="text-align:center;"|11
+|-
+| 1995
+| "Funny How Time Flies"
+| style="text-align:center;"|90
+| style="text-align:center;"|25
+|-
+| 1996
+| "Feels Like the First Time"
+| style="text-align:center;"| -
+| style="text-align:center;"|52
+|-
+| 2013
+| "I Didn't Sleep With Her"
+| style="text-align:center;"| -
+| style="text-align:center;"| -
+|-
+| 2014
+| "Lucky"
+| style="text-align:center;"| -
+| style="text-align:center;"| -
+|-
+| 2015
+| "Lose Control"
+| style="text-align:center;"| -
+| style="text-align:center;"| -
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Intro}}
+[[Category:African-American musical groups]]
+[[Category:Atlantic Records artists]]
+[[Category:American contemporary R&B musical groups]]
+[[Category:American soul musical groups]]
+[[Category:Musical groups from Brooklyn]]

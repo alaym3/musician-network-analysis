@@ -1,0 +1,168 @@
+{{Use dmy dates|date=April 2021}}
+{{multiple issues|
+{{More citations needed|date=September 2014}}
+{{Notability|music|date=February 2012}}
+}}
+
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Wolfbrigade
+| image               = Wolfbrigade Party.San Metal Open Air 2016 04.jpg
+| caption             = Wolfbrigade at Party.San Metal Open Air 2016
+| image_size          = 
+| background          = group_or_band
+| alias               = Wolfpack, Today's Overdose
+| origin              = Sweden
+| genre               = [[Crust punk]],<ref>{{cite web |last1=Penny |first1=Jordan |title=Wolfbrigade: Run With the Hunted |url=https://www.popmatters.com/wolfbrigade-run-with-the-hunted-2495393968.html |website=[[PopMatters]] |accessdate=15 September 2018}}</ref> {{nowrap|[[melodic death metal]]<ref>{{cite web|title=WOLFBRIGADE: "DAMNED"|date=23 April 2012|url=https://www.nocleansinging.com/2012/04/23/wolfbrigade-damned/|accessdate=18 May 2018}}</ref>}}
+| years_active        = 1995–2004, 2007–2012, 2014-present
+| label               = Farewell, La Famila, Agipunk, Deranged, [[Southern Lord Records|Southern Lord]]
+| associated_acts     = 
+| website             =
+| current_members     =
+*Mikael Dahl
+*Jocke Rydbjer
+*Erik Norberg
+*Johan Erkenvåg
+*Tommy Storback
+| past_members        =
+*David Stark
+*Tomas Jonsson
+*Frank Johansen
+*Marcus Psykfall
+}}
+'''Wolfbrigade''' (formerly '''Wolfpack''') is a Swedish [[hardcore punk]] band formed in 1995 by Jocke Rydbjer, Frank Johansen, Erik Norberg, Marcus "M. Psykfall" Johansson and the vocalist Tomas Jonsson (known for being part of the local crust punk band [[Anti Cimex]]) their line-up has included members of [[Asta Kask]], To What End?, Cosa Nostra, Obscure Infinity, and Harlequin.
+
+==History==
+Singer Tomas Jonsson was forced to leave the band in 1998 and was replaced by Micke. At around the same time, the band changed their name from Wolfpack to Wolfbrigade to avoid association with a Swedish [[neo-Nazi]] prison gang [[Rösing's wolfpack|who shared that name]]. In 2002, drummer Frank left and was replaced by Dadde. The band split up in 2004 because of lack of motivation and Micke needing surgery for vocal chord problems. Four of the members started a new band, Today's Overdose.
+
+On 7 January 2007, Wolfbrigade announced that they were reuniting. Wolfbrigade imported bassist Johan from Today's Overdose and released a comeback album, ''Prey to the World'', in June 2007. In 2008, the group released ''Comalive''. Wolfbrigade went on a one-year hiatus from playing live in 2011, and then regrouped for the release of ''Damned'' in 2012.
+
+Wolfbrigade's last album ''The Enemy: Reality'' was released Fall 2019 thru [[Southern Lord Records]].
+
+==Members==
+===Current line-up===
+*Mikael Dahl – vocals - <small>(1999–present) (Today's Overdose, To What End?)</small>
+*Jocke Rydbjer – guitar <small>(1995–present) (Today's Overdose, ex-To What End?, ex-Obscure Infinity, ex-Sunday Morning Einsteins)</small>
+*Erik Norberg – guitar <small>(1995–present) (Today's Overdose, ex-Obscure Infinity)</small>
+*Johan Erkenvåg – bass <small>(2004–present) (Today's Overdose)</small>
+*Tommy Storback – drums <small>(2015–present) (Nifters, The Clockwork Crew, ex-Booze & Glory)</small>
+
+<gallery perrow="5" caption="Wolfbrigade at Party.San 2016" widths="180" heights="180">
+Wolfbrigade Party.San Metal Open Air 2016 09.jpg|Mikael "Micke" Dahl
+Wolfbrigade Party.San Metal Open Air 2016 06.jpg|Erik Norberg
+Wolfbrigade Party.San Metal Open Air 2016 03.jpg|Jocke Rydbjer
+Wolfbrigade Party.San Metal Open Air 2016 07.jpg|Johan Erkenvåg
+Wolfbrigade Party.San Metal Open Air 2016 05.jpg|Tommy Storback
+</gallery>
+
+===Former===
+*David "Dadde" Stark – drums <small>(2002-2015) (Today's Overdose, [[Asta Kask]], To What End?, Ubba, Second Thought, Sju Svåra År, Suicide Blitz, Disculpa, ex-Fear, ex-Imperial Leather, ex-Sunday Morning Einsteins, ex-The Pipelines)</small>
+*Tomas Jonsson – vocals <small>(1995-1998) ([[Anti Cimex]], Moment Maniacs, Shitlickers)</small>
+*Frank Johansen – drums <small>(1995-2002) (End of All, ex-Obscure Infinity)</small>
+*Marcus "M. Psykfall" Johansson – bass <small>(1995-2004) (Harlequin)</small>
+
+=== Timeline ===
+{{#tag:timeline|
+ImageSize = width:840 height:auto barincrement:25
+PlotArea = left:100 bottom:80 top:5 right:10
+Alignbars = justify
+DateFormat = dd/mm/yyyy
+Period = from:01/01/1995 till:{{#time: d/m/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:3
+ScaleMajor = increment:2 start:1995
+ScaleMinor = increment:1 start:1995
+
+Colors = 
+  id:bars        value:gray(0.9)
+  id:Vocals      value:red         legend:Lead_vocals
+  id:Guitar      value:green       legend:Guitar
+  id:Bass        value:blue        legend:Bass
+  id:Drums       value:orange      legend:Drums
+  id:LP          value:black       legend:Studio_albums
+  id:EP          value:gray(0.5)   legend:Other_releases
+
+LineData =
+ at:01/06/1995 color:EP layer:back
+ at:01/06/1996 color:LP layer:back
+ at:01/03/1997 color:EP layer:back
+ at:01/09/1997 color:LP layer:back
+ at:01/06/1998 color:EP layer:back
+ at:01/06/1999 color:LP layer:back
+ at:18/01/2001 color:EP layer:back
+ at:01/05/2001 color:LP layer:back
+ at:07/04/2003 color:LP layer:back
+ at:02/05/2004 color:EP layer:back
+ at:15/06/2007 color:LP layer:back
+ at:01/12/2008 color:LP layer:back
+ at:24/04/2012 color:LP layer:back
+ at:28/04/2017 color:LP layer:back
+ at:08/11/2019 color:LP layer:back
+
+BackgroundColors = bars:bars
+
+BarData =
+  bar:Jonsson  text:"Tomas Jonsson"
+  bar:Dahl     text:"Mikael Dahl"
+  bar:Rydbjer  text:"Jocke Rydbjer"
+  bar:Norberg  text:"Erik Norberg"
+  bar:Psykfall text:"Marcus Psykfall"
+  bar:Erkenvåg text:"Johan Erkenvåg"
+  bar:Johansen text:"Frank Johansen"
+  bar:Stark    text:"David Stark"
+  bar:Storback text:"Tommy Storback"
+
+PlotData =
+ width:11 textcolor:black align:left anchor:from shift:(11,-4)
+  bar:Jonsson       from:01/01/1995 till:01/09/1998        color:red
+  bar:Dahl          from:01/09/1998 till:end               color:red
+  bar:Rydbjer       from:01/01/1995 till:end               color:green
+  bar:Norberg       from:01/01/1995 till:end               color:green
+  bar:Psykfall      from:01/01/1995 till:01/08/2004        color:blue
+  bar:Erkenvåg      from:01/08/2004 till:end               color:blue
+  bar:Johansen      from:01/01/1995 till:01/02/2002        color:orange
+  bar:Stark         from:01/02/2002 till:01/03/2015        color:orange
+  bar:Storback      from:01/03/2015 till:end               color:orange
+}}
+
+==Discography==
+
+===as Wolfpack===
+====Albums====
+*''A New Dawn Fades'' (1996)
+*''Lycanthro Punk'' (1997)
+*''Allday Hell'' (1999)
+====EPs and Splits====
+*''Bloodstained Dreams'' (1995)
+*''Hellhound Warpig'' (1997)
+*split with [[Skitsystem]] (1998)
+
+===as Wolfbrigade===
+====Albums====
+*''Progression/Regression'' (2001)
+*''In Darkness You Feel No Regrets'' (2003)
+*''Prey to the World'' (2007)
+*''Comalive'' (2008)
+*''[[Damned (album)|Damned]]'' (2012)
+*''Run with the Hunted'' (2017)
+*''The Enemy: Reality '' (2019)
+
+====EPs====
+*Split with Audio Kollaps (2001)
+*''A D-beat Odyssey'' (2004)
+
+====Compilations====
+*''The Wolfpack Years'' (2003)
+
+==References==
+{{reflist}}
+
+==External links==
+{{commonscat}}
+* [http://www.myspace.com/wolfbrigadeofficial Official Myspace site]
+* [http://wolfbrigadeofficial.wordpress.com/ Official blog]
+
+{{Authority control}}
+
+[[Category:Swedish crust and d-beat groups]]
+[[Category:Musical groups established in 1995]]
+[[Category:Swedish heavy metal musical groups]]

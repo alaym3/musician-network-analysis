@@ -1,0 +1,154 @@
+{{Infobox album
+| name = Community Music
+| type = studio
+| artist = [[Asian Dub Foundation]]
+| cover = communitymusicadf.jpg
+| alt = 
+| released = {{Start date|df=yes|2000|03|20}}
+| recorded = 
+| venue = 
+| studio = 
+| length = {{Duration|m=69|s=57}}
+| label = {{hlist|[[FFRR Records|FFRR]]|[[London Records|London]]}}
+| producer = {{hlist|[[Asian Dub Foundation]]|Louis Beckett|Bobby Marshall}}
+| prev_title = [[Conscious Party (Asian Dub Foundation album)|Conscious Party]]
+| prev_year = 1998
+| next_title = [[Frontline 1993–1997: Rarities and Remixes]]
+| next_year = 2001
+| misc = {{Singles
+| name = Community Music
+| type = studio
+| single1 = Real Great Britain
+| single1date = 2000
+| single2 = New Way, New Life
+| single2date = 2000
+}}
+}}
+'''''Community Music''''' is a 2000 studio album by [[Asian Dub Foundation]]. It peaked at number 20 on the [[UK Albums Chart]].<ref name=officialcharts/> It features vocal contributions from [[Benjamin Zephaniah]], [[Ambalavaner Sivanandan]], [[Nusrat Fateh Ali Khan]], and [[Assata Shakur]].<ref>{{cite web|url=http://exclaim.ca/music/article/asian_dub_foundation-community_of_sound|title=Asian Dub Foundation: The Community of Sound|work=[[Exclaim!]]|first=Prasad|last=Bidaye|date=1 May 2000|accessdate=16 January 2018}}</ref>
+
+==Critical reception==
+{{Album ratings
+| rev1 = [[AllMusic]]
+| rev1score = {{Rating|4.5|5}}<ref name=allmusic>{{cite web|url=https://www.allmusic.com/album/community-music-mw0000454410|title=Community Music – Asian Dub Foundation|publisher=[[AllMusic]]|first=Chris|last=Grimshaw|accessdate=16 January 2018}}</ref>
+| rev2 = ''[[NME]]''
+| rev2score = 10/10<ref>{{cite web|url=https://www.nme.com:80/reviews/reviews/20000314080056.html|title=Asian Dub Foundation – Community Music|work=[[NME]]|first=Roger|last=Morton|date=14 March 2000|archiveurl=https://web.archive.org/web/20000603155233/http://www.nme.com/reviews/reviews/20000314080056.html|archivedate=3 June 2000|accessdate=24 February 2018|url-status=dead}}</ref>
+| rev3 = ''[[Pitchfork (website)|Pitchfork]]''
+| rev3score = 8.7/10<ref name=pitchfork>{{cite web|url=https://pitchfork.com/reviews/albums/321-community-music/|title=Asian Dub Foundation: Community Music|work=[[Pitchfork (website)|Pitchfork]]|first=Nick|last=Mirov|date=20 March 2000|accessdate=16 January 2018}}</ref>
+| rev4 = ''[[Q (magazine)|Q]]''
+| rev4score = {{Rating|4|5}}<ref>{{cite journal|url=http://www.qonline.co.uk:80/reviews/server.asp?id=18765|title=Asian Dub Foundation: Community Music|work=[[Q (magazine)|Q]]|first=Danny|last=Scott|issue=163|date=April 2000|archiveurl=https://web.archive.org/web/20001121165900/http://www.qonline.co.uk/reviews/server.asp?id=18765|archivedate=21 November 2000|accessdate=30 August 2018|url-status=dead}}</ref>
+| rev5 = ''[[The Rolling Stone Album Guide]]''
+| rev5score = {{Rating|3.5|5}}<ref>{{cite book|chapter=Asian Dub Foundation|last=Sisario|first=Ben|title=[[The Rolling Stone Album Guide|The New Rolling Stone Album Guide]]|editor1-last=Brackett|editor1-first=Nathan|editor2-last=Hoard|editor2-first=Christian|publisher=[[Simon & Schuster]]|edition=4th|year=2004|isbn=0-7432-0169-8|pages=[https://archive.org/details/newrollingstonea00brac/page/25 25–26]}}</ref>
+| rev6 = ''[[Select (magazine)|Select]]''
+| rev6score = 4/5<ref>{{cite journal|title=Asian Dub Foundation: Community Music|work=[[Select (magazine)|Select]]|issue=118|first=Ian|last=Harrison|date=April 2000|page=91}}</ref>
+}}
+Chris Grimshaw of [[AllMusic]] commented that "''Community Music'' should be in every thinking person's collection, directly between [[the Clash]] and [[Public Enemy (band)|Public Enemy]]."<ref name=allmusic/> Nick Mirov of ''[[Pitchfork (website)|Pitchfork]]'' wrote, "''Community Music'' is incredibly ambitious, and amazingly, it delivers everything it promises and then some."<ref name=pitchfork/>
+
+''[[NME]]'' listed it as the 39th best album of 2000.<ref>{{cite web|url=https://www.nme.com/bestalbumsandtracksoftheyear/2000-2-1045357|title=Albums And Tracks Of The Year: 2000|work=[[NME]]|date=10 October 2016|accessdate=16 January 2018|archiveurl=https://web.archive.org/web/20171213054608/http://www.nme.com/bestalbumsandtracksoftheyear/2000-2-1045357|archivedate=13 December 2017}}</ref>
+
+==Track listing==
+{{Track listing
+| all_writing = Das, Pandit, Savale, Tailor, Zaman, except where noted
+| title1 = Real Great Britain
+| length1 = 3:13
+| title2 = Memory War
+| length2 = 3:35
+| title3 = Officer XX
+| length3 = 3:20
+| title4 = New Way, New Life
+| length4 = 5:01
+| title5 = Riddim I Like
+| note5 = Das, Pandit, Savale, Tailor, Zaman, [[Benjamin Zephaniah]]
+| length5 = 4:27
+| title6 = Collective Mode
+| length6 = 3:52
+| title7 = Crash
+| length7 = 5:24
+| title8 = Colour Line
+| length8 = 4:01
+| title9 = Taa Deem
+| note9 = [[Nusrat Fateh Ali Khan]]
+| length9 = 4:46
+| title10 = The Judgement
+| length10 = 4:14
+| title11 = Truth Hides
+| length11 = 8:21
+| title12 = Rebel Warrior
+| note12 = Das, Pandit, Savale
+| length12 = 6:23
+| title13 = Committed to Life
+| note13 = Das, Pandit, Savale, Tailor, Zaman, P. Andrade, A. Shakur
+| length13 = 4:44
+| title14 = Scaling New Heights
+| length14 = 8:26
+}}
+{{Track listing
+| headline = French edition (type A) bonus track
+| collapsed = yes
+| title15 = Collective Mode (featuring Leeroy from [[Saïan Supa Crew]])
+| length15 = 3:52
+}}
+{{Track listing
+| headline = French edition (type B) bonus track
+| collapsed = yes
+| title15 = Sawt L'hekma (featuring Clotaire K)
+| length15 = 3:58
+}}
+{{Track listing
+| headline = Japanese edition bonus track
+| collapsed = yes
+| title15 = Community Music
+| length15 = 3:59
+}}
+
+==Personnel==
+Credits adapted from liner notes.
+
+'''Asian Dub Foundation'''
+* [[Deeder Zaman|Deedar]] – vocals, programming
+* [[Steve Chandra Savale|Chandrasonic]] – vocals, guitar, programming
+* Dr. Das – vocals, bass guitar, programming
+* Pandit G – vocals, sampler, turntables
+* Sun-J – synthesizer, effects
+
+'''Additional musicians'''
+* Jim Hunt – saxophone (1, 4)
+* Nichol Thomson – trombone (1, 4)
+* Duncan Mackay – trumpet (1, 4)
+* Paul Chivers – percussion (3)
+* Catalisa – vocals (4, 11)
+* Johnny Kalsi – percussion (4, 7, 10)
+* [[Benjamin Zephaniah]] – vocals (5)
+* Helen MacDonald – vocals (6)
+* Louis Beckett – keyboards (6)
+* [[Ambalavaner Sivanandan]] – vocals (8)
+* Sangeeta Sharma – vocals (8)
+* [[Nusrat Fateh Ali Khan]] – vocals (9)
+* Louis Beckett – guitar (10)
+* [[Assata Shakur]] – vocals (13)
+
+==Charts==
+{| class="wikitable plainrowheaders sortable" style="text-align:center"
+!scope="col"| Chart
+!scope="col"| Peak<br />position
+|-
+{{album chart|France|34|artist=Asian Dub Foundation|album=Community Music|rowheader=true|accessdate=27 April 2020}}
+|-
+{{album chart|Norway|8|artist=Asian Dub Foundation|album=Community Music|rowheader=true|accessdate=27 April 2020}}
+|-
+{{album chart|UK2|20|date=20000326|rowheader=true|refname=officialcharts|accessdate=27 April 2020}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Discogs master|77537|Community Music}}
+
+{{Asian Dub Foundation}}
+
+{{Authority control}}
+
+[[Category:2000 albums]]
+[[Category:Asian Dub Foundation albums]]
+[[Category:FFRR Records albums]]
+[[Category:London Records albums]]

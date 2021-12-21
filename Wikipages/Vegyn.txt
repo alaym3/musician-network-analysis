@@ -1,0 +1,59 @@
+{{use dmy dates|date=January 2021}}
+{{Infobox musical artist
+| honorific_prefix =
+| name             = Vegyn
+| honorific_suffix =
+| image            =
+| image_upright    =
+| image_size       =
+| landscape        = <!-- yes, if wide image, otherwise leave blank -->
+| alt              =
+| caption          =
+| native_name      =
+| native_name_lang =
+| birth_name       = Joe Thornalley
+| alias            =
+| birth_date       =
+| birth_place      =
+| origin           = [[London]], England
+| death_date       = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date first) -->
+| death_place      =
+| genre            = {{hlist|[[Electronic music|Electronic]]|[[Hip hop music|Hip hop]]|[[Glitch hop]]}}
+| occupation       = {{hlist|[[Record producer]]|[[DJ]]|[[graphic designer]]}}
+| instrument       =
+| years_active     = 2013–present
+| label            = PLZ Make It Ruins
+| associated_acts  = {{hlist|[[Dean Blunt]]|[[Frank Ocean]]|[[JPEGMafia]]}}
+| website          = {{URL|plz.world}}
+| module           =
+| module2          =
+| module3          = 
+}}
+
+'''Joe Thornalley''', known professionally as '''Vegyn''', is a [[British people|British]] [[music producer]], [[DJ]] and [[graphic designer]]. He is known for his production work on [[Frank Ocean]]'s ''[[Blonde (Frank Ocean album)|Blonde]]'' and ''[[Endless (Frank Ocean album)|Endless]]''. In 2019, he released a 90-minute mixtape titled ''Text While Driving If You Want To Meet God!.'' Later that year, he released his debut studio album ''Only Diamonds Cut Diamonds'' featuring guest appearances from rappers [[JPEGMafia]], Retro X, Jeshi and [[Freddie Gibbs]].
+
+==Career==
+Vegyn was born in [[London]]. His mother worked as a graphic designer and his father is musician and songwriter [[Phil Thornalley]].<ref name="highsnobiety">{{cite web |last1=Gore |first1=Sydney |title=Welcome to the World wide of Vegyn |url=https://www.highsnobiety.com/p/vegyn-interview/ |website=Higshnobiety |access-date=19 January 2021 |date=8 November 2019}}</ref> He began performing in 2013 while studying design at the [[London College of Communication]]<ref name="fader">{{cite web |last1=Cliff |first1=Aimee |title=Meet Vegyn, The 23-Year-Old Dance Producer Who Worked On Endless And Blonde |website=The Fader |url=https://www.thefader.com/2017/03/03/vegyn-frank-ocean-blonded-interview-plz-make-it-ruins |access-date=19 January 2021 |date=3 March 2017}}</ref> teaching himself how to make boom bap beats after encouragement from fellow musicians.<ref name="fader"/><ref name="billboard">{{cite web |last1=Schube |first1=Will |title=Vegyn, Frank Ocean Collaborator, Gets 'Frustrated With A Lot of Modern Electronic Music' |url=https://www.billboard.com/articles/news/dance/8543045/vegyn-interview-debut-album |website=Billboard |access-date=19 January 2021 |date=8 November 2019}}</ref> He later left university to focus on music <ref name="fader"/> and created the electronic music label PLZ Make It Ruins, which released his debut [[extended play]] ''All Bad Things Have Ended – Your Lunch Included'' and the compilation tape ''PLZ Vol. 1'' featuring underground London producers.<ref name="dazed">{{cite web |last1=Benjamin |first1=Patrick |title=Vegyn is stepping out on his own |url=https://www.dazeddigital.com/music/article/46626/1/vegyn-only-diamonds-cut-diamonds-interview |website=Dazed |access-date=19 January 2021 |date=30 October 2019}}</ref>
+
+Around the same time, he met fellow music producer [[James Blake (musician)|James Blake]] during a 1-800 Dinosaur event at the now-closed London nightclub Plastic People. Vegyn gave him a [[flash drive|USB]] of songs he had made under the Vegyn moniker.<ref name="papermag">{{cite web |last1=Moen |first1=Matt |title=Vegyn Is His Own Man |url=https://www.papermag.com/vegyn-only-diamonds-cut-diamonds-2641297753.html?rebelltitem=20#rebelltitem20 |website=Paper Mag |access-date=19 January 2021 |date=14 November 2019}}</ref> Blake later played these songs on [[BBC Radio]] in 2014.<ref name="fader"/><ref name="dazed"/>
+
+Vegyn met Frank Ocean at the Plastic People club and was flown out to do production work on Ocean's studio albums ''Blonde'' and ''Endless''.<ref name="fader"/><ref name="dazed"/> He also hosted Ocean's [[Blonded Radio]] in 2017 and played one of his PREP+ nights in New York in 2019.<ref name="papermag"/>
+Vegyn has since contributed to albums such as [[Aminé (rapper)|Aminé]]'s ''[[Good for You (album)|Good for You]]'', [[Travis Scott]]'s ''[[Astroworld (album)|Astroworld]]'' and [[JPEGMafia]]'s ''[[All My Heroes Are Cornballs]]''.
+
+In 2019, he released the 71 track mixtape ''Text While Driving If You Want To Meet God!'' and his debut studio album ''Only Diamonds Cut Diamonds''.
+
+==Discography==
+* ''All Bad Things Have Ended - Your Lunch Included.'' (2014)
+* ''Janhui'' (2015)
+* ''Text While Driving If You Want to Meet God!'' (2019)
+* ''Only Diamonds Cut Diamonds'' (2019)
+* ''ODCD Alt Versions'' (2020)
+* ''Like A Good Old Friend'' (2021)
+
+==References==
+{{reflist}}
+
+[[Category:English electronic musicians]]
+[[Category:English record producers]]
+[[Category:Living people]]
+[[Category:1993 births]]

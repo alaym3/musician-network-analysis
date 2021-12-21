@@ -1,0 +1,133 @@
+{{Expand German|Versengold|date=April 2017}}
+{{Infobox musical artist
+| name            = Versengold
+| image           = VERSENGOLD-1.jpg
+| caption         =
+| image_size      =
+| landscape       = yes
+| alias           =
+| origin          =
+| instrument      =
+| genre           = [[Pagan folk]]<br />[[Folk music|Folk]]<br />[[Neo-Medieval music]]
+| occupation      =
+| years_active    = 2003–present
+| label           = RCA Deutschland, Fuedo, Totentanz Records
+| associated_acts =
+| website         = {{URL|http://www.versengold.com}}
+}}
+
+'''Versengold''' is a [[Germany|German]] [[Folk music|folk]] and [[Neo-Medieval music|neo-medieval]] band formed in 2003. The originality of their music style is that they combine historical texts with modern folk elements. With ten albums released so far, they have become an integral part of the German folk scene.
+
+== Overview ==
+{{Empty section|date=April 2017}}
+
+== Members ==
+<gallery perrow="6" caption="Versengold, Line-Up at Rockharz 2018">
+File:Versengold Rockharz 2018 06.jpg|Singer Malte Hoyer
+File:Versengold Rockharz 2018 23.jpg|Violinist Alexander Willms
+File:Versengold Rockharz 2018 24.jpg|Violinist Florian Janoske
+File:Versengold Rockharz 2018 08.jpg|Guitarist Daniel Gregory
+File:Versengold Rockharz 2018 14.jpg|Drummer Sean Lang
+File:Versengold Rockharz 2018 03.jpg|Bassist Eike Otten
+</gallery>
+
+== Discography ==
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Title
+! colspan="4"| Peak chart positions
+|-
+! [[GfK Entertainment Charts|GER]]<br/><ref>{{cite web|url=https://www.offiziellecharts.de/suche?artist_search=Versengold&do_search=do|title=Discographie Versengold|publisher=GfK Entertainment|accessdate=4 July 2019}}</ref>
+! [[Ö3 Austria Top 40|AUT]]<br/><ref>{{cite web|url=https://austriancharts.at/showinterpret.asp?interpret=Versengold|title=Discographie Versengold|website=austriancharts.at|accessdate=11 July 2019}}</ref>
+! [[MegaCharts|NED]]
+! [[Swiss Hitparade|SWI]]<br/><ref>{{cite web|url=https://hitparade.ch/showinterpret.asp?interpret=Versengold|title=Discographie Versengold|website=hitparade.ch|accessdate=10 July 2019}}</ref>
+|-
+| 2005
+| ''Hoerensagen''
+| align=center| —
+| align=center| —
+| align=center| —
+| align=center| —
+|-
+| 2006
+| ''Allgebraeu''
+| align=center| —
+| align=center| —
+| align=center| —
+| align=center| —
+|-
+| 2008
+| ''Ketzerey''
+| align=center| —
+| align=center| —
+| align=center| —
+| align=center| —
+|-
+| 2011
+| ''Dreck am Stecken''
+| align=center| —
+| align=center| —
+| align=center| —
+| align=center| —
+|-
+| 2013
+| ''Im Namen des Folkes''
+| align=center| —
+| align=center| —
+| align=center| —
+| align=center| —
+|-
+| 2014
+| ''Auf in den Wind''
+| align=center| —
+| align=center| —
+| align=center| —
+| align=center| —
+|-
+| 2015
+| ''Zeitlos''
+| align=center| 22
+| align=center| —
+| align=center| —
+| align=center| —
+|-
+| 2015
+| ''Live 2015''
+| align=center| —
+| align=center| —
+| align=center| —
+| align=center| —
+|-
+| 2017
+| ''Funkenflug''
+| align=center| 2
+| align=center| 52<br /><ref>http://austriancharts.at/showinterpret.asp?interpret=Versengold</ref>
+| align=center| —
+| align=center| 41<br /><ref>http://hitparade.ch/album/Versengold/Funkenflug-336479</ref>
+|-
+| 2019
+| ''Nordlicht''
+| align=center| 4
+| align=center| 27
+| align=center| —
+| align=center| 25
+|}
+
+== References ==
+
+{{Reflist}}
+
+== External links ==
+* {{Official website|http://www.versengold.com}}
+* {{Allmusic|id=mn0002325849|label=Versengold}}
+
+{{Germany-band-stub}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Faun}}
+[[Category:German musical groups]]
+[[Category:Musical groups established in 2003]]
+[[Category:Pagan-folk musicians]]
+[[Category:2003 establishments in Germany]]

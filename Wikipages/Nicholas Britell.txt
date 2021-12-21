@@ -1,0 +1,686 @@
+{{Use mdy dates|date=August 2014}}
+{{Infobox musical artist
+| name            = Nicholas Britell
+| image           = NicholasBritell.jpg
+| caption         = Britell in 2013 
+| image_size      =
+| alias           =
+| birth_date      = {{birth date and age|1980|10|17}}
+| birth_place     = [[New York City]], U.S.
+| genre           = {{flatlist|
+*[[Film score]]
+*classical music}}
+| occupation      = {{flatlist|
+*Composer
+*musician
+*songwriter
+*film producer}}
+| instrument      =
+| years_active    =
+| label           =
+| associated_acts = {{flatlist|
+*[[Adam McKay]]
+*[[Barry Jenkins]]
+*[[Natalie Portman]]
+*[[Benjamin Millepied]]
+*[[Adam Leon]]
+*[[Damien Chazelle]]
+*[[Steve McQueen (director)|Steve McQueen]]}}
+}}
+
+'''Nicholas Britell''' (born October 17, 1980) is an American composer, pianist, and film producer based in New York City. He has scored both of [[Barry Jenkins]]'s studio films, ''[[Moonlight (2016 film)|Moonlight]]'' (2016) and [[If Beale Street Could Talk (film)|''If Beale Street Could Talk'']] (2018), both of which received nominations for [[Academy Award for Best Original Score|Best Original Score]] at the [[Academy Awards]]. He has also worked with [[Adam McKay]], scoring his two most recent films, [[The Big Short (film)|''The Big Short'']] (2015) and [[Vice (2018 film)|''Vice'']] (2018). The [[HBO]] original series ''[[Succession (TV series)|Succession]]'' (2018–present) marked Britell's entry into television. Britell scored every episode of the first and second season, earning the [[Emmy Award]] for [[Primetime Emmy Award for Outstanding Original Main Title Theme Music|Outstanding Original Main Title Theme Music]]<ref name="imdb.com">{{cite web|title=Nicholas Britell - Awards|url=https://www.imdb.com/name/nm1615109/awards?ref_=nm_ql_2|access-date=December 12, 2017|website=IMDb}}</ref> and the [[Hollywood Music in Media Awards|Hollywood Music in Media Award]] for Best Original Score – TV Show/Limited Series. His score for the second season of ''Succession'' was nominated in 2020 for the [[Emmy Awards|Emmy Award]] for [[Primetime Emmy Award for Outstanding Music Composition for a Series|Outstanding Music Composition for a Series]]. His score for [[The Underground Railroad (miniseries)|''The Underground Railroad'']] was nominated for Outstanding Music Composition For A Limited Or Anthology Series, Movie Or Special (Original Dramatic Score) at the [[73rd Primetime Emmy Awards]].
+
+At the [[World Soundtrack Award for Soundtrack Composer of the Year|World Soundtrack Awards]], Britell was awarded [[World Soundtrack Award for Soundtrack Composer of the Year|Film Composer of the Year]] in 2019 for his scores for [[Vice (2018 film)|''Vice'']] and [[If Beale Street Could Talk (film)|''If Beale Street Could Talk'']] and [[World Soundtrack Awards|Television Composer of the Year]]<ref>{{Cite web|last=Awards|first=World Soundtrack|title=Television Composer of the Year - Awards|url=https://www.worldsoundtrackawards.com/en/awards/television-composer-of-the-year/4|access-date=2020-11-03|website=World Soundtrack Awards}}</ref> in 2020 for ''[[Succession (TV series)|Succession]]''. Britell also won Best Original Song at the 2021 ceremony alongside [[Florence Welch]] for [[Call Me Cruella]], written for [[Cruella (film)|Cruella]]. His works, as described by Soraya McDonald of Film Comment, "seem to organically straddle accessibility and sophistication in a way that goes beyond the typical programming of a big-city pops orchestra...That might have something to do with the fact that Britell has long had one foot in the world of hip-hop and another in the world of classical music."<ref>{{Cite web|title=New American Songbook|url=https://www.filmcomment.com/article/new-american-songbook-nicholas-britell/|access-date=2021-05-06|website=Film Comment|language=en}}</ref>
+
+==Early life and education==
+Britell was raised in a [[American Jews|Jewish]] family,<ref name=JWeekly>[http://www.jweekly.com/2017/02/13/the-tribe-goes-to-the-oscars/ Jewish Weekly: "The tribe goes to the Oscars"] by Nate Bloom. February 13, 2017</ref> in [[New York City]].<ref name=CrimsonBritell>{{cite news | url=https://www.thecrimson.com/article/2004/2/26/nicholas-j-britell-03-04-for-nick/# | title=Nicholas J. Britell '03–'04 | access-date=August 25, 2013 | author=Thompson, A. Haven | date=February 26, 2004 | publisher=The Harvard Crimson}}</ref> He graduated from the college preparatory school, [[Hopkins School]], in 1999.<ref>{{Cite web|title = Distinguished Alumni/ae and Fellows {{!}} Hopkins School|url = http://www.hopkins.edu/Page/Alumniae/Distinguished-Alumniae-and-Fellows|website = www.hopkins.edu|access-date = November 26, 2015|archive-url = https://web.archive.org/web/20190331181522/https://www.hopkins.edu/Page/Alumniae/Distinguished-Alumniae-and-Fellows|archive-date = March 31, 2019|url-status = dead}}</ref> Britell is a graduate of the [[Juilliard School]]'s Pre-College Division and a [[Phi Beta Kappa]] graduate of [[Harvard University]]<ref>{{cite web |url=https://www.ascapfoundation.org/news/alumni-news |title=Nicholas Britell |website= ASCAP Foundation.com|publisher= ASCAP |access-date=February 5, 2017}}</ref><ref>{{cite web |url=http://news.harvard.edu/gazette/story/2004/06/phi-beta-kappa-elects-92-seniors-to-harvard-chapter/ | title=Phi Beta Kappa elects 92 seniors to Harvard chapter |access-date=August 26, 2013 |work=Harvard University Gazette| date=June 10, 2004 }}</ref> in 2003.<ref>{{cite web |url=http://news.harvard.edu/gazette/story/2017/02/moonlight-reflection/ | title='Moonlight' reflection - Oscar-nominated composer Britell '03 found inspiration in film's poetic depth |date=February 22, 2017|access-date=February 5, 2017 |work=Harvard University Gazette}}</ref> At school, he was a member of the instrumental hip-hop group, The Witness Protection Program, where he played keyboards and synthesizers.<ref name=CrimsonBritell /> Britell is part of an emerging generation of composers and artists who draw from an eclectic range of influences. His work is inspired by [[Sergei Rachmaninoff|Rachmaninoff]], [[George Gershwin|Gershwin]], [[Philip Glass]], and [[Zbigniew Preisner]] as well as by producers [[Quincy Jones]] and [[Dr. Dre]].<ref name=Dodgy>{{cite news|title=Review: "New York, I Love You"|url=http://thedodgy.com/2012/07/01/the-fashionable-film-composer//|access-date=August 25, 2013|newspaper=The Dodgy|date=July 1, 2012}}</ref>
+
+==Career==
+
+=== Early career ===
+In 2008, Britell gained wide notice performing his own work "Forgotten Waltz No. 2" in [[Natalie Portman]]'s directorial debut [[Eve (2008 film)|''Eve'']].<ref name=Dodgy /> He collaborated again with Portman, writing music for the film ''[[New York, I Love You]]''.<ref>{{cite news|title=Review: "New York, I Love You"|url=https://variety.com/2009/film/reviews/new-york-i-love-you-1200475778/|access-date=August 25, 2013|newspaper=Variety|date=September 30, 2009}}</ref><ref>{{cite news | url=http://untappedcities.com/2011/01/14/in-the-studio-with-nicholas-britell-film-composer-for-new-york-i-love-you/ | title=In the Studio with Nicholas Britell, Film Composer from New York, I Love You | access-date=August 25, 2013 | author=Young, Michelle | date=January 14, 2011 | publisher=Untapped Cities}}</ref> In 2011, Britell performed on piano with violin virtuoso [[Tim Fain]] in "Portals."<ref>{{cite news|title=Framing Works With Dance, Words, Screens and Web Browsers|url=https://www.nytimes.com/2011/09/27/arts/music/portals-from-tim-fain-at-symphony-space.html |access-date=August 25, 2013| author=Kozinn, Allan | newspaper=The New York Times|date=September 26, 2011}}</ref> The multimedia project also featured performances by Craig Black, Julia Eichten and Haylee Nichele and featured music by Philip Glass and [[Nico Muhly]], poetry by [[Leonard Cohen]] and choreography by [[Benjamin Millepied]].<ref>{{cite news|title=Music review: Tim Fain's 'Portals' at the Broad Stage|url=http://latimesblogs.latimes.com/culturemonster/2011/10/music-review-tim-fains-portals-at-the-broad-stage.html |access-date=August 25, 2013|  author=Swed, Mark|newspaper=The Los Angeles Times|date=October 10, 2011}}</ref><ref>{{cite news|title=Classical Music Gets a Modern Update in the Hands of Violinist Tim Fain|url=http://www.vogue.com/culture/article/classical-music-gets-a-modern-update-in-the-hands-of-violinist-tim-fain/#1|access-date=August 25, 2013|author=Creeden, Molly|newspaper=Vogue|date=September 20, 2011|archive-url=https://web.archive.org/web/20130929125256/http://www.vogue.com/culture/article/classical-music-gets-a-modern-update-in-the-hands-of-violinist-tim-fain/#1|archive-date=September 29, 2013|url-status=dead}}</ref> Vogue Magazine called Britell among "...the most talented young artists at work..."<ref name="vogue">{{cite web|url=http://www.vogue.com/873785/classical-music-gets-a-modern-update-in-the-hands-of-violinist-tim-fain/|title=Classical Music Gets a Modern Update in the Hands of Violinist Tim Fain|website=Vogue|date=September 20, 2011|access-date=December 12, 2017}}</ref>
+
+As a film composer, Britell created the music for the movie ''[[Gimme the Loot (film)|Gimme the Loot]]'' directed by Adam Leon.<ref>{{cite news | url=https://movies.nytimes.com/2013/03/22/movies/gimme-the-loot-directed-by-adam-leon.html?_r=0 | title=Larceny for the Sake of Art | access-date=August 25, 2013 | author=Scott, A. O. | date=March 21, 2013 | author-link=A. O. Scott| work=The New York Times}}</ref> The film would go on to compete in the [[Un Certain Regard]] section at the [[2012 Cannes Film Festival]].<ref name="Official Selection">{{cite web |url=http://www.festival-cannes.fr/en/article/58878.html |title=2012 Official Selection |access-date=August 26, 2013 |work=Cannes}}</ref><ref name="guardian">{{cite news |url=https://www.theguardian.com/film/2012/apr/30/cannes-2012-seven-films-lineup |title=Cannes 2012: seven films join the lineup |access-date=August 26, 2012 |work=The Guardian |location=London |first=Andrew |last=Pulver |date=April 30, 2012}}</ref> It won the Grand Jury Prize at the [[South by Southwest Film Festival|SXSW]] Film Festival in 2012.<ref>{{cite news|title=Loot Wins SXSW Grand Jury Prize For Best Narrative Feature Mar. 13, 2012|url=https://variety.com/2012/film/news/loot-wins-sxsw-grand-jury-prize-for-best-narrative-feature-1118051442/|access-date=August 26, 2013|newspaper=Variety|date=March 13, 2012}}</ref> The music for the film garnered special praise from [[New York Magazine]]<ref>{{cite web |url=https://nymag.com/arts/all/to-do-2013-4-1/l |title=To Do: March 27 – April 3, 2013 |access-date=August 25, 2012 |work=New York Magazine }}{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> and [[Variety (magazine)|Variety]].<ref>{{cite news | url=https://variety.com/2012/film/reviews/gimme-the-loot-1117947242/ | title=Review: "Gimme the Loot" | access-date=August 25, 2013 | author=Debruge, Peter | date=March 14, 2013 | publisher=Variety}}</ref> Britell's film composing career continued in 2012 with the scoring of [[Michele Mitchell (journalist)|Michele Mitchell]]'s [[PBS]] documentary ''Haiti: Where Did the Money Go?''<ref>{{cite book |title=Haiti : where did the money go? |work=OCLC's World Cat|oclc = 785426707}}</ref> The film, which aired over 1,000 times in the United States on PBS stations and was screened at the Oakland Film Festival and the Bolder Life Film Festival in 2012, is the winner of the 2013 National Edward R. Murrow Award for Best News Documentary<ref>{{cite web |url=https://www.rtdna.org/content/2013_national_edward_r_murrow_award_winners#.UhuT6mTXjxk | title=2013 National Edward R. Murrow Award Winners |access-date=August 26, 2013 |work=Radio Television Digital News Association}}</ref> and winner of a 2012 CINE Golden Eagle Award<ref name="cine">{{cite web|url=http://www.cine.org/fall-2012-golden-eagle-award-recipients/professional-telecast-news-division/|title=Login|website=CINE|access-date=December 12, 2017|archive-url=https://web.archive.org/web/20130506235035/http://www.cine.org/fall-2012-golden-eagle-award-recipients/professional-telecast-news-division/|archive-date=May 6, 2013|url-status=dead|df=mdy-all}}</ref> and a CINE Special Jury Award for Best Investigative Documentary.<ref name="cine2">{{cite web|url=http://www.cine.org/special-jury-awards/cine-2013-special-jury-award-recipients/|title=Login|website=CINE|access-date=December 12, 2017|archive-url=https://web.archive.org/web/20130927134425/http://www.cine.org/special-jury-awards/cine-2013-special-jury-award-recipients/|archive-date=September 27, 2013|url-status=dead|df=mdy-all}}</ref>
+
+=== 2012–2015 ===
+Britell's music featured prominently in director [[Steve McQueen (director)|Steve McQueen]]'s Oscar-winning film ''[[12 Years a Slave (film)|12 Years a Slave]]'', for which he composed and arranged the on-camera music including the spiritual songs, work songs, featured violin performances, and dances.<ref name="wsj.com">{{cite news|url=https://www.wsj.com/articles/SB10001424052702304026804579409731527220844|title=In '12 Years a Slave,' Historically Accurate Music Performed|newspaper=Wall Street Journal|date=February 28, 2014|access-date=December 12, 2017|last1=Ramey|first1=Corinne}}</ref>  Billboard Magazine called Britell "...the secret weapon in the music of ''12 Years a Slave''".<ref name="wsj.com"/> "My Lord Sunshine", composed by Britell for ''12 Years a Slave'', was eligible for the 2014 Oscar's best song list.<ref name="variety">{{cite web|url=https://variety.com/2013/film/awards/12-years-co-composer-nicholas-brittell-re-creates-antebellum-south-1200950285/|author=Jon Burlingame|title='12 Years' Co-composer Nicholas Britell Re-Creates Antebellum South|website=Variety|date=December 13, 2013|access-date=December 12, 2017}}</ref> The Los Angeles Times said of "My Lord Sunshine", "A work song, a spiritual, a blues lament, a communal statement – 'My Lord Sunshine (Sunrise)' is all of the above and more...[w]hat Britell accomplished is no easy feat, and it's a spiritual that feels and sounds of the era and deftly weaves in religious imagery with the daily horror of the slaves' lives."<ref name="latimes">{{cite news|url=https://www.latimes.com/entertainment/music/la-et-ms-the-oscarworthy-songs-thwarted-by-alone-yet-not-alone-20140130-story.html#page=1|title=The best Oscar-worthy songs thwarted by 'Alone Yet Not Alone'|newspaper=LA Times|date=January 31, 2014|access-date=December 12, 2017}}</ref> Britell also notably reinterpreted "Roll Jordan Roll" for the film.<ref name="hollywoodreporter">{{cite web|url=https://www.hollywoodreporter.com/news/12-years-a-slave-composer-664168|title='12 Years a Slave' Composer Reveals the Challenges of Re-Creating Authentic Slave Songs|website=Hollywood Reporter|date=December 9, 2013|access-date=December 12, 2017}}</ref><ref name="npr">{{cite news|url=https://www.npr.org/sections/therecord/2013/11/12/244851884/12-years-a-slave-is-this-years-best-film-about-music|newspaper=NPR|title='12 Years A Slave' Is This Year's Best Film About Music : The Record : NPR|date=November 13, 2013|access-date=December 12, 2017|last1=Powers|first1=Ann}}</ref> Britell's work received wide critical acclaim and he was profiled in the Wall Street Journal.<ref name="wsj.com"/>
+
+As a film producer, Britell produced the short film ''[[Whiplash (2014 film)|Whiplash]]'', directed by [[Damien Chazelle]], which won the Jury Award for Best US Fiction Short at the [[2013 Sundance Film Festival]].<ref name="ew.com">{{cite web|url=https://www.ew.com/article/2013/01/23/sundance-2013-whiplash-short|title=Sundance: Prize-winning 'Whiplash' short aims to go long|website=EW.com|access-date=December 12, 2017}}</ref> He subsequently helped produce the feature-film ''[[Whiplash (2014 film)|Whiplash]]'', also directed by Chazelle and starring [[Miles Teller]] and [[J. K. Simmons]].<ref name="nytimes">{{cite web|url=https://www.nytimes.com/movies/movie/472767/Whiplash/credits|archive-url=https://web.archive.org/web/20141022130111/http://www.nytimes.com/movies/movie/472767/Whiplash/credits|url-status=dead|archive-date=October 22, 2014|department=Movies & TV Dept.|work=[[The New York Times]]|date=2014|title=In 'Whiplash,' a Young Jazz Drummer vs. His Teacher|access-date=December 12, 2017}}</ref><ref>{{cite news | url=https://www.deadline.com/2013/05/cannes-bold-blumhouse-strike-up-band-for-feature-version-of-sundance-short-whiplash/#more-499436 | title=Cannes: Bold, Blumhouse, Right Of Way Strike Up Band For Feature Version Of Sundance Short 'Whiplash' | access-date=August 25, 2013 | author=Fleming, Mike | date=May 14, 2013 | publisher=Deadline Hollywood}}</ref> The ''Whiplash'' feature won Sundance's 2014 Jury Prize and Audience Award, and went on to get 5 Oscar nominations (including Best Picture) and won 3 Oscar awards.<ref name="latimes2">{{cite news|url=https://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-sundance-film-festival-awards-winners-story.html#page=1|title=Sundance 2014 winners: 'Whiplash' wins big|newspaper=LA Times|date=January 26, 2014|access-date=December 12, 2017}}</ref><ref name="telegraph">{{cite web|url=https://www.telegraph.co.uk/culture/film/oscars/11420116/oscars-2015-winners-list.html|title=Oscars 2015 winners list in full|website=Telegraph|access-date=December 12, 2017}}</ref>  Britell also wrote and produced the track "Reaction," produced the track "When I Wake," and performed and produced "No Two Words" for the film's soundtrack.<ref name="soundtrack">{{cite web|url=http://www.soundtrack.net/movie/whiplash-2014/|title=Whiplash (2014)|website=Soundtrack.Net|access-date=December 12, 2017}}</ref>
+
+In 2015, Britell scored ''[[The Seventh Fire]]'', a documentary directed by Jack Pettibone Riccobono and presented by [[Terrence Malick]], which debuted to critical acclaim at the [[Berlin International Film Festival]].<ref>{{cite news|last1=ICTMN Staff|title=Must-Watch Trailer: Documentary About Native Gangs Is a Hit at Berlin Festival|url=http://indiancountrytodaymedianetwork.com/2015/02/10/must-watch-trailer-documentary-about-native-gangs-hit-berlin-festival-159141|access-date=August 26, 2015|work=Indian Country Today Media Network|date=February 10, 2015|archive-url=https://web.archive.org/web/20150212023738/https://indiancountrytodaymedianetwork.com/2015/02/10/must-watch-trailer-documentary-about-native-gangs-hit-berlin-festival-159141|archive-date=February 12, 2015|url-status=dead}}</ref>
+
+Britell scored [[Natalie Portman]]'s directorial debut feature film ''[[A Tale of Love and Darkness (film)|A Tale of Love and Darkness]]'', which screened at the 2015 Cannes Film Festival.<ref name="festival-cannes">{{cite web|url=http://www.festival-cannes.fr/en/archives/ficheFilm/id/655858a3-0b61-40ce-b93d-cb20e0653383/year/2015.html|title=Festival de Cannes - Site Officiel / Institutionnel|website=festival-cannes.fr|access-date=December 12, 2017}}</ref> Deadline called Britell's score for the film "riveting".<ref name="deadline">{{cite web|url=https://deadline.com/2015/05/natalie-portman-a-tale-of-love-and-darkness-cannes-film-festival-video-1201427211/|author=Anthony D'Alessandro|title=&#91;Watch&#93; Natalie Portman's Directorial Debut 'A Tale of Love And Darkness': Cannes Film Festival|website=Deadline|date=May 15, 2015|access-date=December 12, 2017}}</ref>
+
+Britell also scored the Oscar-winning ''[[The Big Short (film)|The Big Short]]'', directed by [[Adam McKay]], starring [[Brad Pitt]], [[Christian Bale]], [[Ryan Gosling]], and [[Steve Carell]], based on the book ''[[The Big Short]]'' by [[Michael Lewis]], and released by [[Paramount Pictures|Paramount]] in December 2015.<ref name="imdb">{{cite web|url=https://www.imdb.com/title/tt1596363/combined|website=imdb.com|title=The Big Short (2015)|access-date=December 12, 2017}}</ref>  In addition, Britell produced the soundtrack album for the film.<ref>{{cite web|title='The Big Short' Soundtrack Announced|url=http://filmmusicreporter.com/2015/12/10/the-big-short-soundtrack-announced/|website=Film Music Reporter|access-date=December 15, 2015}}</ref>
+
+=== 2016–2019 ===
+In 2016, Britell scored director [[Gary Ross]]' civil-war era historical drama ''[[Free State of Jones (film)|Free State of Jones]]'', starring among others [[Matthew McConaughey]] and [[Mahershala Ali]].<ref name="imdb2">{{cite web|url=https://www.imdb.com/title/tt1124037/fullcredits?ref_=tt_ql_1|title=Free State of Jones (2016) - Full Cast & Crew|website=IMDb|access-date=December 12, 2017}}</ref> The soundtrack album, produced by Britell, was released June 24, 2016 on Sony Masterworks.<ref name="filmmusicreporter">{{cite web|url=http://filmmusicreporter.com/2016/05/18/free-state-of-jones-soundtrack-details/|title='Free State of Jones' Soundtrack Details|website=Film Music Reporter|access-date=December 12, 2017}}</ref>
+
+Also in 2016, Britell wrote the original score for the critically acclaimed, Best Picture-winning film ''[[Moonlight (2016 film)|Moonlight]]'', directed by [[Barry Jenkins]] and starring [[Mahershala Ali]], [[Ashton Sanders]], [[Trevante Rhodes]], [[André Holland]], and [[Naomie Harris]], among others.<ref name="imdb3">{{cite web|url=https://www.imdb.com/title/tt4975722/fullcredits/|title=Moonlight (2016) - Full Cast & Crew|website=IMDb|access-date=December 12, 2017}}</ref><ref name="moonlight-movie">{{cite web|url=http://moonlight-movie.com/|title=Moonlight – Official Movie Site|website=moonlight-movie.com|access-date=December 12, 2017}}</ref>  Britell's score received a 2017 [[Academy Award for Best Original Score]] nomination and it was nominated for a 2017 [[Golden Globe Award for Best Original Score]] in the Motion Picture category.<ref name="goldenglobes">{{cite web|url=http://www.goldenglobes.com/winners-nominees|title=Winners & Nominees 2018|website=Golden Globes|access-date=December 12, 2017}}</ref> The New York Times' A.O. Scott, who called the film "...about as beautiful a movie as you are ever likely to see",<ref name="nytimes.com">{{cite news|url=https://www.nytimes.com/2016/10/21/movies/moonlight-review.html?_r=0|title='Moonlight': Is This the Year's Best Movie?|website=The New York Times|date=October 20, 2016|access-date=December 12, 2017|last1=Scott|first1=A. O.}}</ref> praised Britell's score as "...both surprising and perfect."<ref name="nytimes.com"/> Britell's original score was described as "... an enthralling collection of music that will linger in your mind and in your heart in much the same way as the film",<ref name="cutprintfilm">{{cite web|url=http://www.cutprintfilm.com/features/soundtrack-listening-moonlight/|title=Soundtrack Listening: 'Moonlight'|website=CutPrintFilm|date=November 10, 2016|access-date=December 12, 2017}}</ref> and named one of the Ten Best Music Moments of 2016 by Brooklyn Magazine.<ref name="bkmag">{{cite web|url=http://www.bkmag.com/2016/12/16/year-film-ten-best-music-moments-2016/|website=bkmag.com|title=The Year In Film: The Ten Best Music Moments of 2016|date=December 16, 2016|access-date=December 12, 2017}}</ref>  The film's soundtrack album, named one of the top 25 Soundtrack Albums of 2016 on iTunes,<ref name="filmmusicdaily.com">{{cite web|url=http://filmmusicdaily.com/2016/12/11/apple-itunes-ranks-lakeshore-records-among-best-soundtracks-and-songs-of-2016/|title=Apple / iTunes Ranks Lakeshore Records Among Best Soundtracks and Songs of 2016!|website=Film Music Daily|date=December 12, 2016|access-date=December 12, 2017}}</ref> was produced by Britell and released by [[Lakeshore Records]], including a special vinyl collectors' edition.<ref name="filmmusicdaily">{{cite web|url=http://filmmusicdaily.com/2016/10/28/moonlight-vinyl-release-announced-score-by-nicholas-britell-pre-order-coming-soon/|title='Moonlight' Vinyl: Release Announced, Score by Nicholas Britell: Pre-Order Now!|website=Film Music Daily|date=October 28, 2016|access-date=December 12, 2017}}</ref> Britell's "Middle of the World", from the soundtrack album, was named one of the top 25 Soundtrack Songs of 2016 on iTunes.<ref name="filmmusicdaily.com"/>
+
+Britell scored director [[Adam Leon]]'s film ''[[Tramps]]'' in 2016,<ref name="imdb4">{{cite web|url=https://www.imdb.com/title/tt4991512/fullcredits?ref_=tt_ov_st_sm|title=Tramps (2016) - Full Cast & Crew|website=IMDb|access-date=December 12, 2017}}</ref> with Netflix acquiring worldwide distribution rights to the film at the 2016 Toronto International Film Festival.<ref name="variety2">{{cite web|url=https://variety.com/2016/film/festivals/netflix-buys-tramps-tiff-2016-1201864790/|author=Brent Lang|title=Netflix Buys Adam Leon's 'Tramps' at TIFF 2016|website=Variety|date=September 19, 2016|access-date=December 12, 2017}}</ref>
+
+He composed the title song from [[Christina Aguilera]]'s eighth studio album ''[[Liberation (Christina Aguilera album)|Liberation]]'' (2018).<ref name="US iTunes">{{cite web|title=''Liberation'' by Christina Aguilera|url=https://itunes.apple.com/ca/album/liberation/1378454470|website=[[iTunes Store]]|access-date=February 27, 2019|location=United States}}</ref><ref name="UK iTunes">{{cite web|title=Liberation by Christina Aguilera|url=https://itunes.apple.com/gb/album/liberation/1378454470|website=iTunes Store|access-date=February 27, 2019|location=United Kingdom}}</ref>
+
+Britell scored [[Fox Searchlight]]'s tennis biopic ''[[Battle of the Sexes (2017 film)|Battle of the Sexes]]'', directed by [[Jonathan Dayton and Valerie Faris]], and released in 2017.<ref name="ew">{{cite web|url=https://ew.com/article/2016/04/13/battle-sexes-emma-stone-steve-carell-photo/|title=Battle of the Sexes: Emma Stone, Steve Carell are tennis pros in first photo|website=EW.com|access-date=December 12, 2017}}</ref>
+
+His score for ''[[If Beale Street Could Talk (film)|If Beale Street Could Talk]]'' has received wide critical acclaim and awards including a 2019 [[Academy Award]] nomination, a [[British Academy of Film and Television Arts|BAFTA]] nomination,<ref name="imdb.com" /> a [[Critics' Choice Movie Awards|Critics' Choice]] nomination,<ref name="imdb.com"/> and Best Original Score awards from each of the [[Los Angeles Film Critics Association|Los Angeles]],<ref name="imdb.com"/> [[Boston Society of Film Critics|Boston]],<ref name="imdb.com"/> [[Chicago Film Critics Association|Chicago]],<ref name="imdb.com"/> Central Ohio,<ref name="imdb.com"/> Iowa,<ref name="imdb.com"/> [[Washington D.C. Area Film Critics Association|Washington DC]],<ref name="imdb.com"/> Phoenix,<ref name="imdb.com"/> [[Los Angeles Online Film Critics Society|LA Online]],<ref name="imdb.com"/> [[New York Film Critics Online|NY Online]],<ref name="imdb.com"/> and [[Online Film Critics Society|Online Film Critics Associations]].<ref name="imdb.com"/>
+
+Britell is the composer of the HBO series ''[[Succession (TV series)|Succession]]'', winning a [[Primetime Emmy Award for Outstanding Original Main Title Theme Music]] for the series. He will compose season 3 of ''Succession'', set to air in fall 2021.<ref>{{Cite web|last1=Kosin|first1=Julie|last2=Gonzales|first2=Erica|date=2021-02-10|title='Birds of Prey' Director Cathy Yan Will Helm a 'Succession' Season 3 Episode|url=https://www.harpersbazaar.com/culture/film-tv/a28612177/succession-season-3-news-date-cast-spoilers/|access-date=2021-02-18|website=Harper's BAZAAR|language=en-US}}</ref>
+
+=== 2020–present ===
+On February 6, 2019, Britell confirmed he is composing the score for Barry Jenkins' next project, ''[[The Underground Railroad (miniseries)|The Underground Railroad]]'', an original series on Amazon based on [[Colson Whitehead|Colson Whitehead's]] Pulitzer Prize winning [[The Underground Railroad (novel)|novel of the same name]].<ref>{{Cite web|last=D'Alessandro|first=Anthony|date=2019-02-07|title=Oscar Nominees Barry Jenkins & Nicholas Britell On The Beat Of 'Beale Street' – Crew Call Podcast|url=https://deadline.com/2019/02/if-beale-street-could-talk-oscar-nominees-barry-jenkins-nicholas-britell-interview-podcast-1202523297/|access-date=2021-02-18|website=Deadline|language=en-US}}</ref> The show premiered on [[Amazon Video]] on May 14, 2021 to critical acclaim for both Jenkins and Britell. For his score, Britell received a [[Primetime Emmy Awards|Primetime Emmy Award]] nomination for Outstanding Music Composition For A Limited Or Anthology Series, Movie Or Special (Original Dramatic Score) at the [[73rd Primetime Emmy Awards]].
+
+Britell is also composing the music for Adam McKay's upcoming film ''[[Don't Look Up (2021 film)|Don't Look Up]],'' expected to be released in 2021. Britell also scored Disney's ''[[One Hundred and One Dalmatians]]'' live-action spin-off ''[[Cruella (film)|Cruella]],'' released in 2021.<ref>{{Cite web|title=Nicholas Britell|url=http://www.imdb.com/name/nm1615109/|access-date=2021-02-18|website=IMDb}}</ref><ref>{{Cite web|url=https://filmmusicreporter.com/2021/03/31/nicholas-britell-scoring-craig-gillespies-cruella/|title = Nicholas Britell Scoring Craig Gillespie's 'Cruella' &#124; Film Music Reporter}}</ref>
+
+== Other endeavors ==
+Britell is a [[Steinway Artist]]<ref>{{Cite web|title=Nicholas Britell - Steinway & Sons|url=https://www.steinway.com/artists/nicholas-britell|access-date=2021-02-18|website=www.steinway.com|language=en}}</ref> and a Creative Associate of the [[Juilliard School]].<ref>{{Cite web|title=Nicholas Britell {{!}} The Juilliard School|url=https://www.juilliard.edu/node/146951|access-date=2021-02-18|website=www.juilliard.edu}}</ref> In December 2018, it was announced that Britell would be a part of [[Esa-Pekka Salonen]]'s newly formed creative collective "brain trust" as Salonen takes the reins as music director of the [[San Francisco Symphony]].<ref>{{Cite web|date=2018-12-11|title=Esa-Pekka Salonen bringing brain trust to SF Symphony — who are they?|url=https://www.mercurynews.com/2018/12/11/esa-pekka-salonen-bringing-brain-trust-to-sf-symphony-heres-whos-on-board/|access-date=2021-02-18|website=The Mercury News|language=en-US}}</ref>
+
+==Personal life==
+He is married to cellist Caitlin Sullivan.<ref>[https://www.latimes.com/entertainment/arts/la-et-cm-moonlight-movie-live-music-20170111-story.html Los Angeles Times: "'Moonlight' screens to live music, packed crowd at downtown L.A.'s Million Dollar Theatre" by Tim Greiving] January 11, 2017</ref>
+
+==Filmography ==
+
+===As performer===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Director
+|-
+| rowspan="1" | 2008
+| ''[[Eve (2008 film)|Eve]]''
+| Directed by Natalie Portman
+|}
+
+===As composer===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Director
+|-
+| 2008 || ''[[New York, I Love You]]'' || [[Natalie Portman]]
+|-
+|rowspan=2| 2012 ||''[[Haiti: Where Did the Money Go]]'' || [[Michele Mitchell (journalist)|Michele Mitchell]]
+|-
+| ''[[Gimme the Loot (film)|Gimme the Loot]]'' || [[Adam Leon]]
+|-
+| 2013 || ''[[12 Years a Slave (film)|12 Years a Slave]]'' (additional music by) || [[Steve McQueen (director)|Steve McQueen]]
+|-
+|rowspan=3| 2015 || ''[[The Seventh Fire]]'' || Jack Pettibone Riccobono
+|-
+| ''[[A Tale of Love and Darkness (film)|A Tale of Love and Darkness]]'' || Natalie Portman
+|-
+| ''[[The Big Short (film)|The Big Short]]'' || [[Adam McKay]]
+|-
+|rowspan=3| 2016 || ''[[Free State of Jones (film)|Free State of Jones]]'' || [[Gary Ross]]
+|-
+| ''[[Moonlight (2016 film)|Moonlight]]'' || [[Barry Jenkins]]
+|-
+| ''[[Tramps (2016 film)|Tramps]]'' || Adam Leon
+|-
+|rowspan=1| 2017 || ''[[Battle of the Sexes (2017 film)|Battle of the Sexes]]'' || [[Jonathan Dayton and Valerie Faris]]
+|-
+| 2018–present || ''[[Succession (TV series)|Succession]]'' || Various
+|-
+|rowspan=2| 2018 || ''[[If Beale Street Could Talk (film)|If Beale Street Could Talk]]'' || Barry Jenkins
+|-
+| ''[[Vice (2018 film)|Vice]]'' || Adam McKay
+|-
+| 2019 || ''[[The King (2019 film)|The King]]'' || [[David Michôd]]
+|-
+| rowspan="4" | 2021 || ''[[The Underground Railroad (miniseries)|The Underground Railroad]]'' || Barry Jenkins
+|-
+| ''[[Cruella (film)|Cruella]]'' || [[Craig Gillespie]]
+|-
+| ''[[Italian Studies (film)|Italian Studies]]'' || [[Adam Leon]]
+|-
+| ''[[Don't Look Up (2021 film)|Don't Look Up]]'' || Adam McKay
+|-
+| TBA || ''[[Carmen (upcoming film)|Carmen]]'' || [[Benjamin Millepied]]
+|}
+
+===As producer===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Director
+|-
+| 2013 || ''[[Whiplash (2014 film)|Whiplash]]'' (short) (producer) || Damien Chazelle
+|-
+| 2014 || ''[[Whiplash (2014 film)|Whiplash]]'' (feature) (co-producer) || Damien Chazelle
+|}
+
+== Awards ==
+{{main|List of awards and nominations received by Nicholas Britell}}
+{| class="wikitable"
+|+
+!Association
+!Year
+!Work
+!Category
+!Result
+!Ref.
+|-
+| rowspan="2" |[[Academy Awards]]
+|2017
+|''Moonlight''
+| rowspan="2" |Best Original Score
+|{{nom}}
+|
+|-
+|2019
+|''If Beale Street Could Talk''
+|{{nom}}
+|
+|-
+| rowspan="3" |[[Primetime Emmy Award]]s
+|2019
+| rowspan="2" |''Succession''
+|Outstanding Original Main Title Theme Music
+|{{won}}
+|
+|-
+|2020
+|Outstanding Music Composition for a Series (Original Dramatic Score)
+|{{nom}}
+|
+|-
+|2021
+|''The Underground Railroad''
+|Outstanding Music Composition For A Limited Or Anthology Series, Movie Or Special (Original Dramatic Score) 
+|{{nom}}
+|
+|-
+|[[Golden Globe Awards]]
+|2017
+|''Moonlight''
+|Best Original Score
+|{{nom}}
+|
+|-
+|[[British Academy Film Awards]]
+|2019
+|''If Beale Street Could Talk''
+|Best Film Music
+|{{nom}}
+|
+|-
+| rowspan="3" |[[ASCAP Film and Television Music Awards]]
+|2017
+|''Moonlight''
+|Film Score of the Year
+|{{nom}}
+|
+|-
+| rowspan="2" |2019
+|''Succession''
+|Television Composer of the Year
+|{{nom}}
+|
+|-
+|''If Beale Street Could Talk''
+|Film Score of the Year
+|{{nom}}
+|
+|-
+|Austin Film Critics Association
+|2019
+|''If Beale Street Could Talk''
+|Best Score
+|{{nom}}
+|
+|-
+| rowspan="2" |Awards Circuit Community Awards 
+|2016
+|''Moonlight''
+|Best Original Score 
+|{{nom}}
+|
+|-
+|2019
+|''If Beale Street Could Talk''
+|Best Original Score
+|{{nom}}
+|
+|-
+| rowspan="2" |Black Reel Awards 
+|2017
+|''Moonlight''
+|Outstanding Score 
+|{{won}}
+|
+|-
+|2019
+|''If Beale Street Could Talk''
+|Outstanding Score
+|{{won}}
+|
+|-
+|Boston Society of Film Critics Awards 
+|2018
+|''If Beale Street Could Talk''
+|Best Original Score
+|{{won}}
+|
+|-
+| rowspan="2" |Broadcast Film Critics Association
+|2016
+|''Moonlight''
+|Best Score
+|{{nom}}
+|
+|-
+|2019
+|''If Beale Street Could Talk''
+|Best Score
+|{{nom}}
+|
+|-
+|Central Ohio Film Critics 
+|2017
+|''Moonlight''
+|Best Score
+|{{nom}}
+|
+|-
+| rowspan="2" |Chicago Film Critics Association 
+|2016
+|''Moonlight''
+|Best Original Score
+|{{nom}}
+|
+|-
+|2018
+|''If Beale Street Could Talk''
+|Best Original Score
+|{{won}}
+|
+|-
+|Columbus Film Critics Association
+|2019
+|''If Beale Street Could Talk''
+|Best Score
+|{{won}}
+|
+|-
+|Denver Film Critics Society
+|2017
+|''Moonlight''
+|Best Original Score 
+|{{nom}}
+|
+|-
+| rowspan="2" |Florida Film Critics Circle Awards
+|2016
+|''Moonlight''
+|Best Score
+|{{nom}}
+|
+|-
+|2018
+|''If Beale Street Could Talk''
+|Best Score
+|{{nom}}
+|
+|-
+| rowspan="2" |Georgia Film Critics Association
+|2017
+|''Moonlight''
+|Best Original Score
+|{{nom}}
+|
+|-
+|2019
+|''If Beale Street Could Talk''
+|Best Original Score
+|{{nom}}
+|
+|-
+| rowspan="3" |Gold Derby Awards 
+|2017
+|''Moonlight''
+|Best Original Score
+|{{nom}}
+|
+|-
+|2019
+|''If Beale Street Could Talk''
+|Best Original Score
+|{{nom}}
+|
+|-
+|2020
+|''If Beale Street Could Talk''
+|Original Score of the Decade 
+|{{nom}}
+|
+|-
+| rowspan="8" |Hollywood Music In Media Awards (HMMA)
+|2016
+|''Moonlight''
+|Best Original Score - Feature Film
+|{{won}}
+|
+|-
+| rowspan="2" |2017
+|''Battle of the Sexes''
+|Best Original Song 
+|{{nom}}
+|
+|-
+|''Battle of the Sexes''
+|Best Original Score - Feature Film
+|{{nom}}
+|
+|-
+| rowspan="2" |2018
+|''If Beale Street Could Talk''
+|Best Original Score - Feature Film
+|{{nom}}
+|
+|-
+|''Succession''
+|Best Original Score - TV Show/Limited Series
+|{{won}}
+|
+|-
+| rowspan="2" |2019
+|''The King''
+|Best Original Score - Feature Film
+|{{nom}}
+|
+|-
+|''Succession''
+|Best Original Score - TV Show/Limited Series
+|{{nom}}
+|
+|-
+|2021
+|''Don't Look Up''
+|Best Original Score - Feature Film|Best Original Score - Feature Film
+|{{won}}
+|-
+|Hawaii Film Critics Society
+|2017
+|''Moonlight''
+|Best Original Score 
+|{{nom}}
+|
+|-
+| rowspan="2" |Houston Film Critics Society Awards
+|2017
+|''Moonlight''
+|Best Original Score 
+|{{nom}}
+|
+|-
+|2019
+|''If Beale Street Could Talk''
+|Best Original Score 
+|{{won}}
+|
+|-
+|International Cinephile Society Awards
+|2019
+|''If Beale Street Could Talk''
+|Best Original Score
+|{{won}}
+|
+|-
+| rowspan="4" |International Film Music Critics Award (IFMCA)
+|2017
+|''Moonlight''
+|Best Original Score for a Drama Film
+|{{nom}}
+|
+|-
+| rowspan="3" |2019
+|''Vice''
+|Best Original Score for a Drama Film
+|{{nom}}
+|
+|-
+|''If Beale Street Could Talk''
+|Best Original Score for a Drama Film
+|{{nom}}
+|
+|-
+|''Vice'' and ''If Beale Street Could Talk''
+|Film Composer of the Year
+|{{nom}}
+|
+|-
+| rowspan="2" |International Online Cinema Awards (INOCA)
+|2017
+|''Moonlight''
+|Best Original Score
+|{{nom}}
+|
+|-
+|2019
+|''If Beale Street Could Talk''
+|Best Original Score
+|{{won}}
+|
+|-
+| rowspan="2" |Iowa Film Critics Awards
+|2019
+|''If Beale Street Could Talk''
+|Best Original Score
+|{{won}}
+|
+|-
+|2017
+|''Moonlight''
+|Best Original Score 
+|{{nom}}
+|
+|-
+|Latino Entertainment Journalists Association Film Awards
+|2019
+|''If Beale Street Could Talk''
+|Best Music
+|{{won}}
+|
+|-
+|London Critics Circle Film Awards
+|2019
+|''If Beale Street Could Talk''
+|Technical Achievement of the Year
+|{{nom}}
+|
+|-
+|Los Angeles Film Critics Association Awards
+|2018
+|''If Beale Street Could Talk''
+|Best Music
+|{{won}}
+|
+|-
+|Los Angeles Online Film Critics Society Awards
+|2018
+|''If Beale Street Could Talk''
+|Best Score
+|{{won}}
+|
+|-
+|Music City Film Critics' Association Awards
+|2019
+|''If Beale Street Could Talk''
+|Best Score
+|{{nom}}
+|
+|-
+|New York Film Critics, Online
+|2018
+|''If Beale Street Could Talk''
+|Best Use of Music
+|{{won}}
+|
+|-
+|North Carolina Film Critics Association
+|2019
+|''If Beale Street Could Talk''
+|Best Music
+|{{nom}}
+|
+|-
+|Online Film & Television Association
+|2019
+|''If Beale Street Could Talk''
+|Best Music, Original Score
+|{{won}}
+|
+|-
+|Online Film Critics Society Awards
+|2019
+|''If Beale Street Could Talk''
+|Best Original Score
+|{{won}}
+|
+|-
+| rowspan="2" |Phoenix Critics Circle 
+|2016
+|''Moonlight''
+|Best Original Score
+|{{nom}}
+|
+|-
+|2018
+|''If Beale Street Could Talk''
+|Best Original Score
+|{{won}}
+|
+|-
+| rowspan="2" |San Francisco Film Critics Circle
+|2016
+|''Moonlight''
+|Best Original Score 
+|{{nom}}
+|
+|-
+|2018
+|''If Beale Street Could Talk''
+|Best Original Score
+|{{nom}}
+|
+|-
+|Satellite Awards
+|2019
+|''If Beale Street Could Talk''
+|Best Original Score 
+|{{nom}}
+|
+|-
+|Society of Composers and Lyricists Awards
+|2020
+|''Succession''
+|Outstanding Original Score for a Television or Streaming Production
+|{{nom}}
+|
+|-
+| rowspan="2" |St. Louis Film Critics Association, US
+|2016
+|''Moonlight''
+|Best Original Score
+|{{nom}}
+|
+|-
+|2018
+|''If Beale Street Could Talk''
+|Best Original Score
+|{{nom}}
+|
+|-
+|Utah Film Critics Association Awards
+|2018
+|''If Beale Street Could Talk''
+|Best Original Score
+|{{nom}}
+|
+|-
+| rowspan="2" |Washington DC Area Film Critics Association Awards
+|2016
+|''Moonlight''
+|Best Original Score
+|{{nom}}
+|
+|-
+|2018
+|''If Beale Street Could Talk''
+|Best Original Score
+|{{won}}
+|
+|-
+| rowspan="6" |World Soundtrack Awards
+|2016
+|''The Big Short''
+|Discovery of the Year 
+|{{nom}}
+|
+|-
+| rowspan="2" |2017
+|''Moonlight''
+|Film Composer of the Year 
+|{{nom}}
+|
+|-
+|''Moonlight''
+|Discovery of the Year
+|{{won}}
+|
+|-
+|2019
+|''If Beale Street Could Talk''
+|Film Composer of the Year
+|{{won}}
+|
+|-
+|2020
+|''Succession''
+|Television Composer of the Year
+|{{won}}
+|
+|-
+|2021
+|''Call Me Cruella''
+|Best Original Song |Best Original Song
+|{{won}}
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.nicholasbritell.com/ Official website]
+* {{IMDb name|1615109}}
+
+{{Navboxes
+|title = [[List of awards and nominations received by Nicholas Britell|Awards for Nicholas Britell]]
+|list1 = 
+{{Black Reel Award for Outstanding Original Score}}
+{{Chicago Film Critics Association Award for Best Original Score}}
+{{EmmyAward MainTitleThemeMusic}}
+{{Hollywood Music in Media Award for Best Original Score in a Feature Film}}
+{{Hollywood Music in Media Award for Best Original Score in a TV Show/Limited Series}}
+{{Houston Film Critics Society Award for Best Original Score}}
+{{Los Angeles Film Critics Association Award for Best Music}}
+{{Online Film Critics Society Award for Best Original Score}}
+{{Washington D.C. Area Film Critics Association Award for Best Score}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Britell, Nicholas}}
+[[Category:1980 births]]
+[[Category:American film score composers]]
+[[Category:American male film score composers]]
+[[Category:Harvard University alumni]]
+[[Category:Jewish American film score composers]]
+[[Category:Juilliard School Pre-College Division alumni]]
+[[Category:Living people]]
+[[Category:Primetime Emmy Award winners]]
+[[Category:21st-century American Jews]]

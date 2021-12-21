@@ -1,0 +1,93 @@
+{{Short description|domestic airport in Uttar Pradesh, India}} 
+{{Use Indian English|date=June 2021}}
+{{Use dmy dates|date=March 2021}}
+{{Infobox airport
+| name                = Allahabad Airport <!--THE INFOBOX NAME AND THE ARTICLE TITLE SHOULD MATCH--><!--DO NOT CHANGE OR REMOVE THE NAME WITHOUT PROPER AND RELIABLE SOURCES ch-aviation, DGCA, AAI etc.-->
+| image               = File:Prayagraj Airport 20211104 05575.jpg
+| IATA                = IXD
+| ICAO                = VEAB
+| pushpin_map         = India Uttar Pradesh
+| pushpin_mapsize     = 250
+| pushpin_mark        = Airplane_silhouette.svg
+| pushpin_label       = '''IXD'''
+| pushpin_map_caption = Location in [[Uttar Pradesh]]
+| website             = {{Official website}}
+| type                = Military/Public
+| owner               = [[Indian Air Force]]
+| operator            = [[Airports Authority of India]] / [[Indian Air Force]]
+| city-served         = [[Allahabad]]
+| location            = Bamrauli
+| elevation-f         = 322
+| elevation-m         = 98
+| coordinates         = {{coord|25|26|24|N|81|44|02|E|display=inline,title}}
+| metric-elev         = 
+| metric-rwy          = 
+| r1-number           = 12/30
+| r1-length-f         = 8,400
+| r1-length-m         = 2,560
+| r1-surface          = [[Asphalt]]
+| stat1-header        = Passengers
+| stat1-data          = 294091<!--DO NOT CHANGE OR REMOVE THESE FIGURES; THESE ARE STRICTLY AS PER AAI SOURCES AND ANY CHANGE WOULD RESULT IN CONFLICTING WITH SOURCES--> ({{increase}}266.8%)
+| stat-year           = April 2018 – December 2019
+| footnotes           = Sources: Statistics from AAI<ref name="traffic_stats1">{{cite web|url=https://www.aai.aero/sites/default/files/traffic-news/Dec2k19Annex3.pdf|title=Traffic News for the month of December 2019: Annexure-III|work=[[Airports Authority of India]]|date=1 January 2020|access-date=10 February 2020|page=3}}</ref><ref name="traffic_stats2">{{cite web|url=https://www.aai.aero/sites/default/files/traffic-news/Dec2k19annex2.pdf|title=Traffic News for the month of December 2019: Annexure-II|work=[[Airports Authority of India]]|date=1 January 2020|access-date=10 February 2020|page=3}}</ref>
+| stat2-header        = Aircraft movements
+| stat2-data          = 8030({{increase}}110.3.6%)
+| image-width         = 250px
+}}
+
+''' Allahabad Airport''' {{Airport codes|IXD|VEAB}}, officially known as ''' Prayagraj Airport''', is a military [[airbase]] and public airport serving the city of [[Prayagraj]], in the state of [[Uttar Pradesh]], [[India]]. It is located in Bamrauli, {{convert|12|km|mi|abbr=on}} from Allahabad city and serves domestic flights. It is one of the oldest airports in [[India]]. The airport is jointly operated by the [[Indian Air Force]] and [[Airports Authority of India]].
+
+==History==
+In 1911, on 18th February the domestic commercial aviation took birth in India where Henri Piquet flew a Humber bi-plane carrying mail from Allahabad (from a polo field) to Naini, which is approximately six miles away.<ref>{{cite web|url=http://postalmuseumblog.si.edu/2011/01/india-and-the-worlds-first-official-air-mail-by-airplane.html|title=India and the World's First Official Air Mail by Airplane|publisher=[[Smithsonian National Postal Museum]]| access-date=26 March 2018}}</ref> The airport at Allahabad was built in 1919, with dedicated airfield whose construction was completed in 1924. It was among the first four international airports of the country. It catered to international flights till 1946, with direct services to London till 1932.<ref>{{cite news|url=http://www.thehindu.com/features/kids/one-hundred-years-of-flying-high/article2584818.ece |title=One hundred years of flying high |date=31 October 2011|access-date=26 March 2018}}</ref><ref>{{cite news|url=http://timesofindia.indiatimes.com/articleshow/55902740.cms |title=No headway: With no ILS in place, flight delays continue|date=10 December 2016|access-date=26 June 2019}}</ref> 
+
+In 1931, the aerodrome at Allahabad was set up and the foundation for Air Traffic control services was laid with the appointment of an Indian Aerodrome Officer, specially trained at the airport in the UK.<ref>{{cite book|author=Publications Division|title=Indian forty Years of Independence|url=https://books.google.com/books?id=iVc-DwAAQBAJ&pg=PT163|year=2016|publisher=Publications Division Ministry of Information & Broadcasting|isbn=978-81-230-2634-3|page=163}}</ref> In July 1933, [[Imperial Airways]] commenced the operation of its flight on the Karachi-Jodhpur-Delhi-Kanpur-Allahabad-Kolkata route, which ran until June 1940.<ref>{{cite book|author=Robin Higham|title=Speedbird: The Complete History of BOAC|url=https://books.google.com/books?id=abL3AgAAQBAJ&pg=PA44|year=2013|publisher=I.B.Tauris|isbn=978-0-85773-334-4|page=44}}</ref> The airfield at Bamrauli was also used as one of the five compulsory stops of the [[MacRobertson Trophy Air Race]] which took place in October 1934.<ref>{{cite web|url=http://www.aviacrash.nl/paginas/panderjager.htm|title=De Panderjager uitgebrand in Allahabad|publisher=AviaCrash.nl| access-date=26 March 2018}}</ref>
+
+From 1941 to the early 2000s, the airport did not cater to any regular commercial flight services. In early months of 2003, [[Air Sahara]] became the first carrier to re-introduce services at the airport with connectivity to cities like Delhi and Kolkata.<ref>{{cite web|url=https://www.thehindubusinessline.com/2003/02/22/stories/2003022202340500.htm|title=Air Sahara inducts maiden Canadian jet – First flight on 28 February|publisher=thehindubusinessline.com| access-date=26 June 2019}}</ref> However, the services soon became defunct following economic crisis. In 2005, [[Alliance Air (India)|Alliance Air]] (a regional connectivity subsidiary under [[Air India]]) started its Allahabad-Delhi flight service on the ATR-72 fleet, which continues to be operational to this date, with minor non-operational periods in between. In 2013, SpiceJet introduced its operation in  the Delhi-Allahabad sector, along with Alliance Air commencing its Allahabad-Mumbai flight, both of which were closed down due to non-availability of ILS and Night Landing facility at the airport after running for a few months.<ref>{{cite web|url=https://www.thehindubusinessline.com/economy/logistics/spicejet-begins-delhi-allahabad-daily-services/article23098204.ece|title=Spicejet begins Delhi Allahabad Daily services|publisher=thehindubusinessline.com| access-date=20 December 2018}}</ref><ref>{{cite web|url=https://www.thehindubusinessline.com/economy/logistics/alliance-air-to-launch-3-new-flights-from-mumbai/article23103586.ece|title=Alliance Air to launch 3 new flights from Mumbai|publisher=thehindubusinessline.com| access-date=20 December 2018}}</ref>
+
+Seeking limited operational and structural facilities, construction of a new civilian terminal and installation of ILS system on existing runway began in January 2018.<ref name="auto1">{{cite web|url=https://www.financialexpress.com/infrastructure/airlines-aviation/allahabad-to-get-indias-fastest-built-airport-terminal-building-here-is-what-aai-is-planning/1379332/| title=Allahabad to get India's fastest-built airport terminal building! Here is what AAI is planning |publisher=financialexpress.com|date=12 November 2018 |access-date=14 November 2018}}</ref> The newly constructed terminal was opened to public in January 2019 and since then is serving regular flight operations at Allahabad.<ref name="auto">{{cite web|url=http://m.economictimes.com/articleshow/60319764.cms |title=Allahabad airport terminal: Allahabad airport may get new terminal before January 2019 Ardh Kumbh – The Economic Times |publisher=M.economictimes.com |date=1 September 2017 |access-date=18 May 2018}}</ref>
+
+== Structure ==
+===Runway===
+The airport is served by a single runway 12/30, which is {{Convert|2560|meters||abbr=}} long and {{Convert|45|meters||abbr=}} wide.<ref>{{cite web|url=http://www.environmentclearance.nic.in/writereaddata/Online/EDS/25_Jul_2017_100614940RJ8WMRMKReplyEACqueriesAllahabadAirport.pdf|title=UP: Environmental Impact Assessment Study Allahabad Airport |publisher=Airports Authority of India/Ministry of Environment, Forests and Climate Change  |date=25 July 2018 |access-date=26 June 2019}}</ref>
+
+===Landing amenities===
+The airport has [[Instrument landing system|ILS CAT-I]] compliant for landing during the night, bad weather and foggy conditions.<ref>{{cite web|title=Allahabad Airport|url=https://www.aai.aero/en/node/75695|access-date=26 June 2019|publisher=Airports Authority of India}}</ref>{{Secondary source needed|date=June 2021}} The [[Instrument Landing System]] was installed during 2018–2019 expansion phase, along with construction of the new terminal. Other than enhancing safety for landing of flights in visibility as low as 550 meters, the installation of ILS finally allowed the airport to operate flights at night.<ref>{{cite web|url=https://www.hindustantimes.com/lucknow/up-bamrauli-airport-to-get-night-landing-facility-before-kumbh/story-dIBrgk6AQovvY1XnmYyzbO.html|title=UP: Bamrauli airport to get night landing facility before Kumbh |work=Hindustan Times|date=24 August 2018 |access-date=26 June 2019}}</ref>
+
+==New terminal==
+Construction of the new terminal began in January 2018 and was completed in December 2018. It was inaugurated by [[Prime Minister of India|Prime Minister]] [[Narendra Modi]]. The terminal was constructed for {{INRconvert|164|c|abbr=on}}.<ref name="Inauguration"/><ref name="auto1"/> A total of {{convert|83|acre|abbr=on}} was allocated for the construction of this terminal.<ref name="auto"/>
+
+The terminal is 6700 square meter; has a peak hour capacity of 300 passengers and four aircraft parking bays for [[Airbus A320]] and [[Boeing 737]].<ref>{{cite web|url=https://www.aai.aero/en/node/68902 |title=AAI approved list of Agencies for "Development of New Civil Enclave at Allahabad Airport" – Design & Build (EPC) &#124; AIRPORTS AUTHORITY OF INDIA |publisher=Aai.aero |date=20 September 2017 |access-date=18 May 2018}}</ref><ref name="Inauguration">{{cite news |title=PM inaugurates Prayagraj airport in Allahabad |url=https://www.thehindubusinessline.com/economy/logistics/pm-narendra-modi-inaugurates-prayagraj-airport-in-allahabad/article25765368.ece |access-date=19 March 2020 |work=@businessline |date=17 December 2018 |language=en}}</ref>
+
+The building has an electric operated trolley gate on the link taxi track to segregate the operational area of [[Airports Authority of India]] and [[Indian Air Force]]. There has been use of [[fly ash]] bricks; double insulated door and the building is equipped with [[water harvesting]] and has a [[sewage treatment plant]] of its own.<ref>{{cite news |last1=Sinha |first1=Saurabh |title=Allahabad airport gets new passenger terminal & more aircraft bays ahead of Kumbh |url=https://timesofindia.indiatimes.com/business/india-business/allahabad-airport-gets-new-passenger-terminal-more-aircraft-bays-ahead-of-kumbh/articleshow/67103979.cms |access-date=16 February 2021 |work=The Times of India |date=15 December 2018 |language=en}}</ref>
+
+===Phase 2 extension===
+In February 2021, it was reported that there are plans for complete makeover of the civil enclave of Allahabad in Bamrauli in terms of size and the facilities. The AAI proposed an increase in the airport area twice its current size, with  the present building of the airport being expanded on both sides, keeping the terminal same. It will also include increasing the size of lounge, the number of aprons and the possibility to add two more aero-bridges.<ref>{{cite news |title=New flights, bigger space: Civil enclave set to expand |url=https://timesofindia.indiatimes.com/city/allahabad/new-flights-bigger-space-civil-enclave-set-to-expand/articleshow/80724459.cms |access-date=29 March 2021 |work=The Times of India |date=7 February 2021 |language=en}}</ref>
+
+==Airlines and destinations==
+{{Airport-dest-list
+|{{nowrap|[[Alliance Air (India)|Alliance Air]]}}|[[Bilaspur Airport|Bilaspur]], [[Indira Gandhi International Airport|Delhi]]<ref>{{cite web|title=Alliance Air Schedule|url=https://www.airindia.in/where-we-fly.htm|website=www.airindia.in|access-date=17 June 2021}}</ref>
+|[[IndiGo]] | [[Kempegowda International Airport|Bangalore]], [[Bhopal Airport|Bhopal]], [[Bhubaneswar Airport|Bhubaneswar]], [[Dehradun Airport|Dehradun]], [[Indira Gandhi International Airport|Delhi]], [[Gorakhpur Airport|Gorakhpur]], [[Indore Airport|Indore]], [[Chhatrapati Shivaji Maharaj International Airport|Mumbai]], [[Pune Airport|Pune]], [[Swami Vivekananda Airport|Raipur]]<ref>{{cite web|url=https://www.goindigo.in/information/new-flights.html|title=New Flights Information, Status & Schedule &#124; IndiGo|website=www.goindigo.in}}</ref>}}
+
+==See also==
+* [[List of airports in India]]
+* [[List of the busiest airports in India]]
+* [[Lal Bahadur Shastri Airport]]
+* [[Gaya Airport]]
+
+== References ==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*{{Official website}}
+
+{{Airports in India}}
+
+{{Indian Air Force}}{{Authority control}}
+[[Category:Airports in Uttar Pradesh]]
+[[Category:Transport in Allahabad]]
+[[Category:Indian Air Force bases]]
+[[Category:Buildings and structures in Allahabad]]
+[[Category:World War II sites in India]]
+[[Category:Airports established in 1919]]
+[[Category:1919 establishments in India]]

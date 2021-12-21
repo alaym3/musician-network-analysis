@@ -1,0 +1,109 @@
+{{Redirect|3030|the art publishing company|3030 Press|the action-adventure game|3030 Deathwar}} 
+{{Infobox firearm cartridge
+| name = .30-30 Winchester
+| image = 30-30.jpg | image_size = 200px
+| caption = A [[5.56×45mm NATO]] (left), .30-30 cartridge (center) and [[7.62×51mm NATO]] (right)
+| origin = United States
+| type = Rifle
+<!-- Service history -->
+| service = 
+| used_by = 
+| wars = 
+<!-- Production history -->
+| designer = [[Winchester Repeating Arms Company|Winchester]]
+| design_date = 1895
+| manufacturer = Winchester
+| production_date = 1895–present
+| number = 
+| variants = [[.25-35 Winchester]], [[.219 Zipper]], [[P.O. Ackley|.30-30 Ackley Improved]], [[7-30 Waters]], [[.32 Winchester Special]]
+<!-- Specifications -->
+| is_SI_specs = 
+| parent = [[.38-55 Winchester]]
+| case_type = [[rim (firearms)|Rimmed]], bottlenecked
+| bullet = .308
+| neck = .330
+| shoulder = .401
+| base = .422
+| rim_dia = .506
+| rim_thick = .063
+| case_length = 2.039
+| length = 2.550
+| rifling = 
+| primer = large rifle
+| max_pressure = 42000
+| pressure_method = SAAMI
+<!-- Ballistic performance -->
+| is_SI_ballistics = 
+| bw1 = 110
+| btype1 = FP
+| vel1 = 2684
+| en1 = 1760
+| bw2 = 130
+| btype2 = FP
+| vel2 = 2496
+| en2 = 1799
+| bw3 = 150
+| btype3 = FN
+| vel3 = 2390
+| en3 = 1903
+| bw4 = 160
+| btype4 = cast LFN
+| vel4 = 2330
+| en4 = 1929
+| bw5 = 170
+| btype5 = FP
+| vel5 = 2227
+| en5 = 1873
+| test_barrel_length = 
+| balsrc = Hodgdon<ref name="hodgdon">"[http://data.hodgdon.com/cartridge_load.asp .30-30 load data] {{Webarchive|url=https://www.webcitation.org/5TO9dFZMR?url=http://data.hodgdon.com/cartridge_load.asp |date=2007-11-16 }}" from Hodgdon.</ref>
+}}
+
+The '''.30-30 Winchester'''/'''.30 Winchester Center Fire''' cartridge was first marketed in 1895 for the [[Winchester Model 1894]] lever-action rifle.<ref name="accurate">"[http://www.accuratepowder.com/wp-content/uploads/2010/09/WesternLoadGuide1-2016_Web-1.pdf Load Guide]" data from Accurate Powder.</ref> The .30-30 ('''thirty-thirty'''), as it is most commonly known, and the .25-35 were offered that year as the USA's first [[small-bore]] sporting rifle cartridges designed for [[smokeless powder]]. Sixty years after its introduction, in 1955, it was surpassed by the smaller bore [[.243 Winchester]] cartridge with more powerful and accurate ballistics yet similar recoil, but the .30-30 Winchester remains in widespread use even today.<ref name=OutdoorLife2019>Ron Spomer. "[https://www.outdoorlife.com/whitetail-deer-cartridge-shoot-out-30-30-win-vs-243-win-vs-30-06-springfield/ Whitetail Deer Cartridge Shoot-Out: .30-30 Win. vs. .243 Win. vs. .30-06 Springfield]". ''[[Outdoor Life]]'', October 28, 2019. Accessed March 4, 2021.</ref>
+
+==Naming==
+The '''.30 Winchester Smokeless''' first appeared in [[Winchester Repeating Arms Company|Winchester's]] catalog No. 55, dated August 1895. When chambered in the [[Winchester Model 1894]] carbine and rifle, it was also known as ''.30 Winchester Center Fire'' or ''.30 WCF''. When the cartridge was chambered in the Marlin Model 1893 rifle, rival gunmaker Marlin used the designation ''.30-30'' or ''.30-30 Smokeless''.<!-- .[9] --> The added '''-30''' stands for the standard load of {{convert|30|gr|g|lk=on}} of early [[smokeless powder]] and is based on late-19th century American naming conventions for black powder-filled cartridges. Both [[Marlin Firearms|Marlin]] and [[Remington Arms|Union Metallic Cartridge Co.]] also dropped the Winchester appellation, as they did not want to put the name of rival Winchester on their products.<ref>[http://www.leverguns.com/articles/3030history.htm Leverguns.com] article on History of the .30-30.</ref>
+
+The modern designation of .30-30 Winchester was arrived at by using Marlin's variation of the name with the Winchester name appended as originator of the cartridge, but ''.30 WCF'' is still seen occasionally. This designation also probably serves to avoid consumer confusion with the different, yet similarly shaped [[.30-40 Krag]], which has been referred to as ''.30 US'' and ''.30 Army''.{{Cn|date=September 2021}}
+
+==Characteristics and use==
+In Canada and the U.S., the cartridge has also been used on moose, [[caribou]], and [[pronghorn]]. Modern opinions in Canada on its suitability for moose are mixed. Paul Robertson, a Canadian hunting firearms columnist, says, "Too many moose have been taken with the [.30-30] to rule it out as good for this purpose, as well."<ref>"The Immortal 30-30," ''Western Sportsman'' Oct. Nov. 1990.</ref> In both Canada and the U.S. it has a long history of use on moose.<ref>Bert Stent, "A Small Wonder--The .30-30 Carbine," ''BC Outdoors'' July 1988; Bob Milek, "The Old .30-30 is as good as ever!" ''Guns & Ammo'' July 1985; Grits Gresham, "The 30/30" ''Sports Afield'' August 1989.</ref> It is generally agreed that the .30-30 is not a good choice for hunters who wish to shoot animals at longer ranges. The cartridge, with flat- or round-nosed bullets, does not meet minimum energy standards required for moose hunting in Finland, Norway, or Sweden.<ref>Hornady's LEVERevolution 160-gr flex-tipped spitzer ammunition might complicate the matter. Based on the results of a ''Real Guns'' review (reviewguns.com), the retained energy of the load in a tested carbine might retain more than 2000 joules at 100 yards, which is close to what is required at 100 meters in Finland and Sweden (2200 in Norway).</ref> Hunting technique and style, as well as law and culture, dictate cartridge choices.<ref>Bob Milek, "What determines 'maximum effective range'?" ''Guns & Ammo'' December 1989.</ref> Thor Strimbold, a Canadian who has made more than 20 one-shot kills on moose with a .30-30, advises most moose hunters to use more than minimal power if they can handle the recoil.<ref>H. V. Stent, "The Winchester Model 94," ''Gun Digest'' 1980.</ref> While the .30-30 is legal for hunting moose in [[Newfoundland]], Canada, provincial game authorities do not recommend its use.<ref>Newfoundland hunting regulations.</ref>
+
+One of the primary reasons for the .30-30's popularity amongst deer hunters is its light [[recoil]]. Average recoil from a typical 150-grain load at {{convert|2390|ft/s}} in a {{convert|7.5|lb|adj=on|abbr=on}} rifle is {{convert|10.6|ftlb|J}} of felt recoil at the shooter's shoulder, about half that of a comparable rifle chambered for the [[.30-06 Springfield]].<ref>"[http://www.chuckhawks.com/ideal_deer_cartridges.htm Chuck Hawks]" article IDEAL DEER CARTRIDGES.</ref> However, the [[.243 Winchester]] offers more muzzle energy and far greater downfield terminal energy than the .30-30 with similarly light recoil.<ref name=OutdoorLife2019 />
+
+Because the majority of rifles chambered in .30-30 are lever-action rifles with [[Magazine (firearms)|tubular magazines]], most .30-30 cartridges are loaded with round-nose or flat-nose bullets for safety. This is to prevent a [[Spitzer (bullet)|spitzer-point bullet]] (the shape seen on the [[7.62×51mm NATO]] above) from setting off the [[percussion cap|primer]] of the cartridge ahead of it in the magazine during recoil, resulting in potentially catastrophic damage to both firearm and shooter. The [[Savage Model 99]] was introduced in 1899 with a rotary magazine, in part, to avoid that issue. When used in single-shot rifles or handguns, such as the [[Thompson Center Arms]] [[Thompson Contender#The Contender|Contender]] or Encore series, it is common for shooters to [[Handloading|hand load]] the cartridge with spire-point bullets for improved ballistics.
+
+<!-- While this may be similar to the "marketing hype" from Hornady referred to on the talk page, I have two independent sources that did actual ballistics testing with the ammunition and came up with data that support Hornady's assertions. If you have issue with these tests, or issues with the pressure exceeding SAAMI specs, then you need to provide verifiable sources in support of the objections. -->
+A notable exception to the "no pointed bullets" guideline for bullet selection in rifles with tubular magazines are the new flexible "memory [[elastomer]]"-tipped LEVERevolution cartridges as produced by Hornady.<ref>"[http://www.hornady.com/story.php?s=198 LEVERevolution] {{Webarchive|url=https://web.archive.org/web/20061114154327/https://www.hornady.com/story.php?s=198 |date=2006-11-14 }}" at Hornady web site.</ref> The soft tips of these bullets easily deform under compression, preventing detonations while under recoil in the magazine, yet also return to their original pointed shape when that pressure is removed, thus allowing for a more [[external ballistics|efficient bullet shape]] than previously available to load safely in such rifles. The more aerodynamic shape results in a flatter bullet [[trajectory]] and greater retained velocity downrange, significantly increasing the effective range of rifles chambered for this cartridge.<ref>[http://www.chuckhawks.com/leverevolution.htm Hornady LEVERevolution Ammunition] by Guns and Shooting Online Staff at Chuck Hawks.</ref><ref>{{Cite web|url=http://www.gunsandhunting.com/3030.html|title=The .30-30 Rides Again|last=Mann|first=Richard|website=Guns and Hunting|publisher=[[National Rifle Association]]|archive-url=https://web.archive.org/web/20070206133915/http://www.gunsandhunting.com/3030.html|archive-date=February 6, 2007|url-status=dead}}</ref>
+
+== Rifles and handguns chambered in .30-30 ==
+[[File:30WCF.png|thumb|right|.30 WCF ammunition]]
+The .30-30 is by far the most common chambering in lever-action rifles<ref>[http://www.chuckhawks.com/deer_rifle.htm Chuck Hawks] article The Deer Rifle</ref> such as the [[Winchester Model 1894]] and the [[Marlin Model 336]]. Some earlier [[Savage Model 99]] rifles were chambered for this cartridge, as well,
+
+The rimmed design is well suited for various [[single-shot]] actions, so it is commonly found there, as well. Rimmed cartridges are chambered in [[bolt-action]] rifles, but .30-30 bolt actions are uncommon today. "At one time Winchester turned out the Model 54 bolt-action repeater in this caliber [.30 WCF], but it was a decided failure, chiefly because the man desiring a bolt action preferred to take one of the better and more powerful cartridges. However, in this particular caliber, the .30 WCF cartridge proved to be decidedly accurate."<ref name="Sharpe">{{cite book |author=Sharpe, Philip B. |chapter=Part Two Rifle Loading Data |title=Complete Guide to Handloading, A Treatise on Handloading for Pleasure, Economy and Utility |publisher=Funk & Wagnalls |year=1937 |page=368}}</ref> In addition, rimmed cartridges typically do not feed well with the box magazines normally found on bolt-action rifles.<ref>"Rimmed cartridges have certain drawbacks, but these were of no concern at the time the design was introduced. The biggest of these is the difficulty in obtaining reliable feeding from a box-type magazine. The rims tend to interfere with each other during the feeding cycle. This occurs when the rim of the cartridge being chambered tries to strip the round beneath it, since the rims do not easily ride over one another." in [http://www.exteriorballistics.com/reloadbasics/cartcase.cfm The Cartridge case] {{Webarchive|url=https://web.archive.org/web/20191019203027/http://www.exteriorballistics.com/reloadbasics/cartcase.cfm |date=2019-10-19 }} article by Sierra Bullets.</ref><ref>"When several cartridges are stacked in a magazine, the rims get in the way." in [http://www.dyerlabs.com/guns_and_ammo/firearms.html GUNS AND AMMO: Terminology - Firearms].</ref> Other examples of bolt-action rifles offered in .30-30 Winchester are the [https://web.archive.org/web/20111126163929/http://www.wisnersinc.com/additional_info/Savage_340.htm Stevens Model 325, the Savage Model 340], the Springfield/Savage 840, and the [[Remington 788]].{{Cn|date=September 2021}}
+[[File:BFR 30-30, Revolver for Article.jpg|thumb|right|A Magnum Research BFR in .30-30.]]
+In the sport of handgun [[metallic silhouette]] shooting, the .30-30 has been used. The Thompson Center Arms Contender pistol, with its compact frame and [[break-action]] design, is available for the .30-30 cartridge. The .30-30 will produce velocities of nearly 2000 f/s (610&nbsp;m/s) out of the 10-in (25-cm) Contender barrel, though recoil and muzzle blast are stronger due to the short barrel. The longer barrel results in significant reductions in felt recoil (due to increased weight) and muzzle blast, with higher velocities, especially if factory-loaded rifle ammunition is used. [[Magnum Research]] offers their five-shot [[Magnum Research BFR|BFR]] revolver in .30-30.<ref>[http://www.magnumresearch.com/Expand.asp?ProductCode=BFR30-30 BFR article] {{Webarchive|url=https://web.archive.org/web/20061014184902/http://www.magnumresearch.com/Expand.asp?ProductCode=BFR30-30 |date=2006-10-14 }} at Magnum Research web site.</ref>
+
+==Derivative cartridges==
+In addition to the most common factory derivations, the [[.25-35 Winchester]], 6.5×52mmR, [[.32 Winchester Special]] and the less-well-known [[.219 Zipper]], the .30-30 has also spawned many [[wildcat cartridge]]s over the years. One example is the [[7-30 Waters]], made by necking the .30-30 case down to 7&nbsp;mm (.284&nbsp;in). The 7-30 Waters eventually moved from a wildcat design to a factory chambering, with rifles being made by Winchester, and barrels made by Thompson/Center for their Contender pistol. Other .30-30-based wildcats are used almost exclusively in the Contender pistol. One of the more notable examples is the [[.30 Herrett]], a .30-30 case necked back to reduce case capacity for more efficient loading with fast-burning powders. The .30 Herrett produces higher velocities with less powder than the larger .30-30 case in the short 10- and 14-in (25- and 35-cm) Contender barrels. Other examples are the [[.357 Herrett]], developed to handle heavier bullets and larger game than the .30 Herrett, and the 7mm International Rimmed, a popular [[metallic silhouette]] cartridge. Bullberry, a maker of custom Contender barrels, offers proprietary .30-30 wildcats in 6&nbsp;mm, .25 caliber, and 6.5&nbsp;mm diameters.<ref>{{cite web |url=http://data.hodgdon.com/cartridge_load.asp |title=Cartridge Loads |publisher=Hodgdon |access-date=2007-08-01 |archive-url=https://www.webcitation.org/5TO9dFZMR?url=http://data.hodgdon.com/cartridge_load.asp |archive-date=2007-11-16 |url-status=dead }}, .30 Herrett, 130 gr at 2344 ft/s with 22 gr of H110; .30-30 pistol, 130 gr at 2238 ft/s with 36 gr of Varget</ref><ref>{{cite web |title=Bullberry Loading Data |url=http://www.bullberry.com/data.html |author=Bulleberry Barrel Works |access-date=2008-10-13 |archive-url=https://web.archive.org/web/20081015020817/http://www.bullberry.com/data.html |archive-date=2008-10-15 |url-status=dead }}</ref> In addition, [[P.O. Ackley]] used the cartridge as the basis for the .30-30 Ackley Improved.{{Cn|date=September 2021}}
+
+Perhaps the oldest derivative cartridge is the [[wildcat cartridge]] 35-30, also known as the 35-30-30, 35/30-30, and 35/30. This round was never factory produced. Rather, it was an invention to counteract the corrosion of the early 30-30 barrels from the use of black powder and shot out barrels. Barrels that were no longer serviceable were bored out to 35 caliber and the .30-30 case was re-necked and loaded with a .35 caliber bullet.{{citation needed|date=August 2019}}
+
+==See also==
+* [[7 mm caliber]]
+* [[Table of handgun and rifle cartridges]]
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+{{Commons category}}
+* [http://www.chuckhawks.com/30-30Win.htm Chuck Hawks] article on the .30-30
+* [http://www.leverguns.com/articles/3030history.htm Leverguns.com] history of the .30-30
+
+{{30-30}}
+{{Winchester Cartridges Firearms}}
+
+{{DEFAULTSORT:30-30 Winchester}}
+[[Category:Winchester Repeating Arms Company cartridges|30-30]]
+[[Category:Pistol and rifle cartridges]]
+[[Category:Rimmed cartridges]]

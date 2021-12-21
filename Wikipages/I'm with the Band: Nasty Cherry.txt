@@ -1,0 +1,91 @@
+{{Short description|2019 American reality television show}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox television
+| name                     = I'm with the Band: Nasty Cherry
+| alt_name                 = 
+| genre                    = {{Plainlist|
+* [[Reality television]]
+* [[Music television|Music]]
+}}
+| image                    = 
+| caption                  = 
+| creator                  = 
+| based_on                 = 
+| writer                   = 
+| director                 = 
+| starring                 = {{Plainlist|
+* [[Charli XCX]]
+* Emmie Lichtenberg
+* Gabrielle Bechtel
+* Chloe Chaidez
+* Debbie Knox-Hewson
+* Georgia Somary
+}}
+| theme_music_composer     = 
+| opentheme                = 
+| endtheme                 = 
+| composer                 = {{Plainlist|
+* [[Planet 1999|Caroline Beatrix Maurin]]
+* [[Planet 1999|Alexandre Teiller]]
+* [[Planet 1999|Charles Teiller]]
+}}
+| country                  = United States
+| language                 = English
+| num_seasons              = 1
+| num_episodes             = 6
+| list_episodes            = 
+| executive_producer       = 
+| producer                 = 
+| cinematography           = 
+| editor                   = 
+| camera                   = 
+| runtime                  = 25-41 minutes
+| company                  = {{Plainlist|
+* Grain Media
+}}
+| distributor              = [[Netflix]]
+| network                  = Netflix
+| audio_format             = 
+| first_aired              = {{Start date|2019|11|15}}
+| last_aired               = 
+| related                  = 
+| website                  = https://www.netflix.com/us/title/80217594
+| website_title            = Netflix
+}}
+
+'''''I'm with the Band: Nasty Cherry''''' is a 2019 [[Television documentary|documentary]] streaming television series. The premise revolves around [[Charli XCX]] and her friend and the band's manager, Emmie Lichtenberg, and their progress putting the band Nasty Cherry together.<ref name="decider">{{cite web |last=Smith |first=Benjamin H. |url=https://decider.com/2019/11/22/im-with-the-band-nasty-cherry-review/ |title='I'm With The Band: Nasty Cherry' Is Unrealistic, Ridiculous, And Totally Entertaining |date=22 November 2019 |work=Decider |publisher=[[News Corp (2013–present)|News Corp]] |access-date=24 May 2020 }}</ref><ref name="theguardian">{{cite news |last=Nicholson |first=Rebecca |url=https://www.theguardian.com/tv-and-radio/2019/nov/15/im-with-the-band-nasty-cherry-review-netflix |title=I'm With the Band: Nasty Cherry review – move over Simon Cowell, here's Charli XCX! |date=15 November 2019 |work=[[The Guardian]] |publisher=[[Guardian Media Group]] |access-date=24 May 2020 }}</ref>
+
+== Cast ==
+{{div col}}
+* Gabrielle Bechtel
+* Chloe Chaidez
+* Nasty Cherry
+* Debbie Knox-Hewson
+* Emmie Lichtenberg
+* Georgia Somary
+* Dave Stagno
+* [[Charli XCX]]
+* Rex DeTiger
+* Sam Pringle
+* Parker Silzer IV
+* Max Tsiring
+* Chayo Bechtel
+* [[Blu DeTiger]]
+* [[Kitten (band)|Kitten]]
+{{div col end}}
+
+== Release ==
+''I'm with the Band: Nasty Cherry'' was released on 15 November 2019, on [[Netflix]].<ref name='decider' />
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{Netflix title}}
+* {{IMDb title|6233916}}
+
+{{Netflix original current series}}
+
+[[Category:2019 American television series debuts]]
+[[Category:2010s American reality television series]]
+[[Category:English-language Netflix original programming]]

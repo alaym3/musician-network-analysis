@@ -1,0 +1,122 @@
+{{short description|Class of mental disorders involving distress without psychosis}}
+{{about|the term in psychology|the band|Neurosis (band)}}
+{{confused|Psychosis}}
+{{Infobox medical condition (new)
+| name            = Neurosis
+| synonyms        = Psychoneurosis, neurotic disorder
+| image           = 
+| alt             = 
+| caption         = 
+| pronounce       = 
+| field           = [[Psychiatry]], [[clinical psychology]]
+| symptoms        = 
+| complications   = 
+| onset           = 
+| duration        = 
+| types           = 
+| causes          = 
+| risks           = 
+| diagnosis       = 
+| differential    = 
+| prevention      = 
+| treatment       = 
+| medication      = 
+| prognosis       = 
+| frequency       = 
+| deaths          = 
+}}
+
+'''Neurosis''' is a class of [[Functional symptom|functional]] [[mental disorders]] involving chronic [[Distress (medicine)|distress]], but neither [[delusion]]s nor [[hallucination]]s. The term is no longer used by the professional [[Psychiatry|psychiatric community]] in the United States, having been eliminated from the ''[[Diagnostic and Statistical Manual of Mental Disorders]]'' (DSM) in 1980 with the publication of [[Diagnostic and Statistical Manual of Mental Disorders#DSM-III (1980)|DSM III]]. However, it is still used in the [[ICD-10]] Chapter V F40–48.
+
+Neurosis should not be mistaken for ''[[psychosis]]'', which refers to a loss of touch with reality. Nor should it be mistaken for ''[[neuroticism]]'', a fundamental [[Trait theory|personality trait]] proposed in the [[Big Five personality traits]] theory.
+
+==Etymology==
+The term is derived from the Greek word ''[[neuron]]'' (νεῦρον, 'nerve') and the suffix ''-osis'' (-ωσις, 'diseased' or 'abnormal condition').
+
+The term ''neurosis'' was coined by Scottish doctor [[William Cullen]] in 1769 to refer to "disorders of sense and motion" caused by a "general affection of the [[nervous system]]." Cullen used the term to describe various nervous disorders and symptoms that could not be explained [[Physiology|physiologically]]. Physical features, however, were almost inevitably present, and physical diagnostic tests, such as exaggerated [[Patellar reflex|knee-jerks]], loss of the [[Pharyngeal reflex|gag reflex]] and [[Dermatographic urticaria|dermatographia]], were used into the 20th century.<ref name="Bailey27">{{cite book|last1=Bailey|first1=Hamilton|title=Demonstrations of physical signs in clinical surgery|publisher=J. Wright and Sons|year=1927|edition=1st|location=Bristol|page=208}}</ref>  The meaning of the term was redefined by [[Carl Jung]] and [[Sigmund Freud]] over the early and middle 20th century, and has continued to be used in psychology and philosophy.<ref>{{cite book|author=Russon, John|title=Human Experience: Philosophy, Neurosis, and the Elements of Everyday Life|publisher=State University of New York Press|year=2003|isbn=0-7914-5754-0|author-link=John Russon}}</ref><ref>Jacobson, Kirsten. 2006. "The Interpersonal Expression of Human Spatiality: A Phenomenological Interpretation of ''Anorexia Nervosa.''" ''[[Chiasmi International]]'' 8:157–74.</ref>
+
+The ''[[Diagnostic and Statistical Manual of Mental Disorders]]'' (DSM) eliminated the ''neurosis'' category in 1980, because of a decision by its editors to provide descriptions of behavior rather than descriptions of hidden psychological mechanisms.<ref name="Horwitz2007">{{cite book|author=Horwitz and Wakefield|title=The Loss of Sadness|publisher=Oxford|year=2007|isbn=978-0-19-531304-8}}</ref> This change has been controversial.<ref>Wilson, Mitchell. 1993. "DSM-III and the Transformation of American Psychiatry: A History." ''[[The American Journal of Psychiatry]]'' 150(3):399–410.</ref> Likewise, according to the ''American Heritage Medical Dictionary'', ''neurosis'' is "no longer used in psychiatric diagnosis."<ref name="ahmd">{{cite book|url=https://archive.org/details/americanheritage00ahde|title=The American Heritage Medical Dictionary|publisher=Houghton Mifflin|year=2007|isbn=978-0-618-82435-9|url-access=registration}}</ref>
+
+==Symptoms and causes==
+''Neurosis'' may be defined simply as a "poor ability to adapt to one's environment, an inability to change one's life patterns, and the inability to develop a richer, more complex, more satisfying personality."<ref name="Boeree2002">{{cite web|author=Boeree, C. George|year=2002|title=A Bio-Social Theory of Neurosis|url=http://webspace.ship.edu/cgboer/genpsyneurosis.html|access-date=2009-04-21}}</ref> There are many different neuroses, including:
+
+* [[obsessive–compulsive disorder]]
+* [[obsessive–compulsive personality disorder]]
+* [[impulse control disorder]]
+* [[anxiety disorder]]
+* [[histrionic personality disorder]]
+*[[dissociative disorder]]
+* a great variety of [[phobia]]s
+
+According to [[C. George Boeree]], professor emeritus at [[Shippensburg University of Pennsylvania|Shippensburg University]], the symptoms of neurosis may involve:<ref name="Boeree2002" />
+
+{{Quotation|... anxiety, sadness or depression, anger, irritability, mental confusion, low sense of self-worth, etc., behavioral symptoms such as phobic avoidance, vigilance, impulsive and compulsive acts, lethargy, etc., cognitive problems such as unpleasant or disturbing thoughts, repetition of thoughts and obsession, habitual fantasizing, negativity and cynicism, etc. Interpersonally, neurosis involves dependency, aggressiveness, perfectionism, schizoid isolation, socio-culturally inappropriate behaviors, etc.|author=|title=|source=}}
+
+===Jungian theory===
+{{main|Jung's theory of neurosis}}
+
+[[Carl Jung]] found his approach particularly effective for patients who are well adjusted by social standards but are troubled by [[Existential crisis|existential questions]]. Jung claims to have "frequently seen people become neurotic when they content themselves with inadequate or wrong answers to the questions of life".<ref name=":0">Jung, Carl G., and [[Aniela Jaffé]]. [1961] 1989. [[Memories, Dreams, Reflections|''Memories, Dreams, Reflections''.]] New York: [[Vantage Books]]. {{ISBN|0-679-72395-1}}.</ref>{{Rp|140}} Accordingly, the majority of his patients "consisted not of believers but of those who had lost their faith".<ref name=":0" />{{Rp|140}} A contemporary person, according to Jung, <blockquote>…is blind to the fact that, with all his rationality and efficiency, he is possessed by 'powers' that are beyond his control. His gods and demons have not disappeared at all; they have merely got new names. They keep him on the run with restlessness, vague apprehensions, psychological complications, an insatiable need for pills, alcohol, tobacco, food — and, above all, a large array of neuroses.<ref name=":1">Jung, Carl G., et al. 1964. [[Man and His Symbols|''Man and His Symbols''.]] New York: [[Anchor Books]]: Doubleday. {{ISBN|0-385-05221-9}}.</ref>{{Rp|82}}</blockquote>Jung found that the [[Unconscious mind|unconscious]] finds expression primarily through an individual's inferior psychological function, whether it is thinking, feeling, sensation, or intuition. The characteristic effects of a neurosis on the dominant and inferior functions are discussed in his ''[[Psychological Types]]''. Jung also found collective neuroses in [[politics]]: "Our world is, so to speak, dissociated like a neurotic."<ref name=":1" />{{Rp|85}}
+
+===Psychoanalytic theory===
+{{main|Psychoanalysis}}
+
+According to [[psychoanalytic theory]], neuroses may be rooted in ego [[Defence mechanism|defense mechanisms]], though the two concepts are not synonymous. Defense mechanisms are a normal way of developing and maintaining a consistent [[sense of self]] (i.e., an [[Id, ego and super-ego|''ego'']]). However, only those thoughts and behaviors that produce difficulties in one's life should be called ''neuroses''.
+
+A neurotic person experiences emotional distress and [[Unconscious mind|unconscious conflict]], which are manifested in various physical or mental illnesses; the definitive symptom being [[anxiety]]. Neurotic tendencies are common and may manifest themselves as acute or chronic anxiety, [[Major depressive disorder|depression]], an [[obsessive–compulsive disorder]], a [[phobia]], or a [[personality disorder]].
+
+===Horney's theory===
+In her final book, ''[[Neurosis and Human Growth]]'', [[Karen Horney]] lays out a complete theory of the origin and [[Psychodynamics|dynamics]] of neurosis.<ref name=":2">Horney, Karen (1950). [[Neurosis and Human Growth|''Neurosis and Human Growth: The Struggle Toward Self-Realization'']]. W.W. Norton & Company, Inc. {{ISBN|978-0-393-30775-7}}.</ref> In her theory, neurosis is a distorted way of looking at the world and at oneself, which is determined by compulsive needs rather than by a genuine interest in the world as it is. Horney proposes that neurosis is transmitted to a child from their early environment and that there are many ways in which this can occur:<ref name=":2" />{{Rp|18}}
+
+{{Quotation|When summarized, they all boil down to the fact that the people in the environment are too wrapped up in their own neuroses to be able to love the child, or even to conceive of him as the particular individual he is; their attitudes toward him are determined by their own neurotic needs and responses.|author=|title=|source=}}
+
+The child's initial reality is then distorted by their parents' needs and pretenses. Growing up with neurotic caretakers, the child quickly becomes insecure and develops [[basic anxiety]]. To deal with this anxiety, the child's imagination creates an idealized [[self-image]]:<ref name=":2" />{{Rp|22}}
+
+{{Quotation|Each person builds up his personal idealized image from the materials of his own special experiences, his earlier fantasies, his particular needs, and also his given faculties. If it were not for the personal character of the image, he would not attain a feeling of identity and unity. He idealizes, to begin with, his particular "solution" of his basic conflict: compliance becomes goodness, love, saintliness; aggressiveness becomes strength, leadership, heroism, omnipotence; aloofness becomes wisdom, self-sufficiency, independence. What—according to his particular solution—appear as shortcomings or flaws are always dimmed out or retouched.|author=|title=|source=}}
+
+Once they identify themselves with their idealized image, a number of effects follow. They will make claims on others and on life based on the prestige they feel entitled to because of their idealized self-image. They will impose a rigorous set of standards upon themselves in order to try to measure up to that image. They will cultivate [[pride]], and with that will come the vulnerabilities associated with pride that lacks any foundation. Finally, they will despise themselves for all their limitations. [[Virtuous circle and vicious circle|Vicious circles]] will operate to strengthen all of these effects.
+
+Eventually, as they grow to adulthood, a particular "solution" to all the inner conflicts and vulnerabilities will solidify. They will be either 
+
+* expansive, displaying symptoms of [[narcissism]], [[Perfectionism (psychology)|perfectionism]], or vindictiveness
+* [[self-effacing]] and compulsively compliant, displaying symptoms of neediness or codependence
+* resigned, displaying [[Schizoid personality disorder|schizoid]] tendencies
+
+In Horney's view, mild anxiety disorders and full-blown [[personality disorder]]s all fall under her basic scheme of neurosis as variations in the degree of severity and in the individual dynamics. The opposite of neurosis is a condition Horney calls [[Self-actualization|''self-realization'']], a state of being in which the person responds to the world with the full depth of their spontaneous feelings, rather than with anxiety-driven compulsion. Thus the person grows to actualize their inborn potentialities. Horney compares this process to an acorn that grows and becomes a tree: the acorn has had the potential for a tree inside it all along.
+
+==See also==
+* [[Individuation]]
+* [[Neurotics Anonymous]]
+* [[Positive disintegration]]
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+*[[Andras Angyal|Angyal, Andras]]. 1965. ''Neurosis and Treatment: A Holistic Theory'', edited by E. Hanfmann and R. M. Jones.
+*[[Otto Fenichel|Fenichel, Otto]]. 1945. ''The Psychoanalytic Theory of Neurosis.'' New York: Norton.
+*[[Sigmund Freud|Freud, Sigmund]]. 1953–1974. ''[[The Standard Edition of the Complete Psychological Works of Sigmund Freud]].'' (24 vols.)'','' translated by [[James Strachey|J. Strachey]]. London: Hogarth.
+*[[Horney, Karen]]. 1937. ''The Collected Works.'' (2 vols.). Norton.
+* —— 1945. ''Our Inner Conflicts''. Norton.
+* 1950. ''Neurosis and Human Growth''. Norton.
+* Horwitz, A. V. and J. C. Wakefield. 2007. ''The Loss of Sadness: How Psychiatry Transformed Normal Sorrow into Depressive Disorder''. Oxford University Press. {{ISBN|978-0-19-531304-8}}.
+* [[Carl Jung|Jung, Carl G.]] [1921] 1971. ''[[Psychological Types]]'', (''[[The Collected Works of C. G. Jung]]'' 6). Princeton University Press. {{ISBN|0-691-01813-8}}.
+* —— 1966. ''[[Two Essays on Analytical Psychology]]'', (''The Collected Works of C. G. Jung'' 7). Princeton University Press. {{ISBN|0-691-01782-4}}.
+* Jung, Carl G., and [[Aniela Jaffé]]. [1961] 1989. ''[[Memories, Dreams, Reflections]]''. New York: [[Vantage Books]]. {{ISBN|0-679-72395-1}}
+* Jung, Carl G., et al. 1964. ''[[Man and His Symbols]]''. New York: [[Anchor Books]] / [[Doubleday (publisher)|Doubleday]]. {{ISBN|0-385-05221-9}}.
+*Ladell, R. M., and T. H. Hargreaves. 1947. "[https://www.bmj.com/content/2/4526/548 The Extent of Neurosis]." [[The BMJ|''British Medical Journal'']] 2(4526):548–49. {{Doi|10.1136/bmj.2.4526.548}}. {{PMC|2055884}}. {{PMID|20267012}}.
+* López-Piñero J.M. (1983) ''Historical Origins of the Concept of Neurosis'' (Translated by D. Berrios) Cambridge, Cambridge University Press
+* [[Nancy McWilliams|McWilliams, Nancy]]. 2011. ''Psychoanalytic Diagnosis: Understanding Personality Structure in the Clinical Process'' (2nd ed.). Guilford Press. {{ISBN|978-1-60918-494-0}}.
+*[[John Russon|Russon, John]]. 2003. ''Human Experience: Philosophy, Neurosis, and the Elements of Everyday Life.'' Albany: State University of New York Press. {{ISBN|0-7914-5754-0}}
+*[[Winokur, Jon]]. 2005. ''Encyclopedia Neurotica.'' {{ISBN|0-312-32501-0}}.
+
+== External links ==
+{{Medical resources
+|   ICD10   =  {{ICD10|F|40||f|40|}}-{{ICD10|F|40.8||f|40}}
+}}
+{{Library resources box|by=no|onlinebooks=no|about=yes|wikititle=neurosis}}
+* {{cite web |url=http://www.continuum-concept.org/reading/neurosis.html |author=Janov, Arthur |title=Neurosis |year=1991 |access-date=2009-04-21 |author-link=Arthur Janov}}
+{{Authority control}}
+
+[[Category:Psychoanalytic theory]]
+[[Category:Stress-related disorders]]
+[[Category:Psychopathological syndromes]]

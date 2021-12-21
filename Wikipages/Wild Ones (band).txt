@@ -1,0 +1,55 @@
+{{Infobox musical artist
+| name            = Wild Ones
+| image           =
+| image_size      =
+| image_upright   =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Portland, Oregon]], United States
+| genre           = [[Dream pop]]
+| years_active    = {{start date|2010}}–2018
+| label           = [[Topshelf Records|Topshelf]]
+| associated_acts =
+| website         = <!-- {{URL|www.example.com}}  -->
+| current_members = *Thomas Himes
+*Danielle Sullivan
+*Max Stein
+*Nick Vicario
+*Seve Sheldon
+| past_members    = 
+}}
+'''Wild Ones''' were<ref>{{Cite web|url=https://www.portlandmercury.com/music/2018/08/22/22317936/wild-ones-calls-it-quits|title=Wild Ones Calls It Quits|date=2018-08-22|access-date=2020-04-27|publisher=The Portland Mercury}}</ref> an American [[dream pop]] band from [[Portland, Oregon]].
+
+==History==
+Wild Ones began in 2010 with the release of an EP titled ''You're A Winner''.<ref name="partydamage">{{cite web|title=Wild Ones|url=http://partydamagerecords.com/wild_ones/|publisher=Party Damage Records|accessdate=6 January 2017}}</ref><ref name="oregonlive"/> In 2014, they released their first full-length album on [[Topshelf Records]].<ref name="punknews">{{cite web|title=Wild Ones - Keep It Safe (2014)|url=https://www.punknews.org/review/12503/wild-ones-keep-it-safe|publisher=Punknews|accessdate=6 January 2017}}</ref><ref name="popmatters">{{cite web|last1=Fennell|first1=Sean|title=Wild Ones - Keep It Safe|url=http://www.popmatters.com/review/180943-wild-ones-keep-it-safe/|publisher=[[PopMatters]]|accessdate=6 January 2017}}</ref><ref name="spin">{{cite web|last1=Martins|first1=Chris|title=Wild Ones Douse Dream-Pop in Synth Beauty on 'From Nothing'|url=http://www.spin.com/2013/09/wild-ones-from-nothing-stream-keep-it-safe-album/|publisher=[[Spin (magazine)|Spin]]|accessdate=6 January 2017}}</ref><ref name="oregonlive">{{cite web|last1=Frochtzwajg|first1=Jonathan|title=Portland's Wild Ones' promise -- authenticity|url=http://www.oregonlive.com/music/index.ssf/2013/07/portlands_wild_ones_promise_--.html|publisher=[[The Oregonian]]|accessdate=6 January 2017}}</ref>
+
+In 2015, Wild Ones released an EP titled ''Heatwave'' on Topshelf Records.<ref name="consequenceofsound">{{cite web|last1=Henry|first1=Dusty|title=Stream: Wild Ones' new EP Heatwave|url=http://consequenceofsound.net/2015/08/stream-wild-ones-new-ep-heatwave/|publisher=[[Consequence of Sound]]|accessdate=6 January 2017}}</ref><ref name="noisey">{{cite web|last1=Bennett|first1=Kim|title=PREMIERE: Wild Ones - "Dim the Lights"|url=https://noisey.vice.com/en_uk/article/premiere-wild-ones---dim-the-lights|publisher=[[Vice (magazine)|Vice]]|accessdate=6 January 2017}}</ref>
+
+==Band members==
+*Thomas Himes (keyboard)<ref name="bestnewbands">{{cite web|last1=Peterkin|first1=Caitlin|title=Radiation City, Wild Ones Bring Portland Electro-Pop To The Crocodile|url=http://www.bestnewbands.com/live-reviews/radiation-city-wild-ones-bring-portland-electro-pop-crocodile/|publisher=Best New Bands|accessdate=6 January 2017}}</ref>
+*Danielle Sullivan (vocals)<ref name="bestnewbands"/>
+*Max Stein (bass) <ref name="bestnewbands"/>
+*Nick Vicario (guitar)<ref name="bestnewbands"/>
+*Seve Sheldon (drums)<ref name="bestnewbands"/>
+
+==Discography==
+;Studio albums
+*''Keep It Safe'' (2014, Topshelf)
+*''Mirror Touch'' (2017, Topshelf)
+
+;EPs
+*''You're A Winner'' (2010)
+*''Heatwave'' (2014, Topshelf)
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:2010 establishments in Oregon]]
+[[Category:Musical groups from Portland, Oregon]]
+[[Category:Musical groups established in 2010]]
+[[Category:Dream pop musical groups]]
+[[Category:Topshelf Records artists]]

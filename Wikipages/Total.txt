@@ -1,0 +1,40 @@
+{{Wiktionary|total}}
+'''Total''' may refer to:
+{{TOC right}}
+==Mathematics==
+* Total, the [[summation]] of a set of numbers
+* [[Total order]], a partial order without incomparable pairs
+* Total relation, which may mean either
+** [[serial relation]] (a binary relation that relates every domain element to some range element), or
+** [[connected relation]] (a binary relation in which any two elements are comparable).
+* [[Total function]], a partial function that is also a total relation<!---keep this item after "Total relation", since it is a special case of it--->
+
+==Business==
+* [[TotalEnergies]], a French petroleum company
+* [[Total (cereal)]], a food brand by General Mills
+* Total, a brand of strained yogurt made by [[Fage]]
+* Total, a database management system marketed by [[Cincom Systems ]]
+
+==Music and culture==
+* [[Total (group)]], an American R&B girl group
+* ''[[Total: From Joy Division to New Order]]'', a compilation album
+* [[Total (Sebastian album)|''Total'' (Sebastian album)]]
+* [[Total (Total album)|''Total'' (Total album)]]
+* [[Total (Teenage Bottlerocket album)|''Total'' (Teenage Bottlerocket album)]]
+* [[Total (Seigmen album)|''Total'' (Seigmen album)]]
+* [[Total (Wanessa album)|''Total'' (Wanessa album)]]
+* [[Total (Belinda Peregrín album)|''Total'' (Belinda Peregrín album)]]
+* ''[[Total 1]]'', an annual compilation album
+* Total, the one time recording name of British musician [[Matthew Bower]]
+* ''[[Total!]]'', a British videogames magazine
+
+==Sports==
+* [[Total (football club)]]
+
+==See also==
+* {{Intitle|Total}}
+* [[Total war]], a large-scale military conflict
+* [[Totaled]], the write-off of a damaged vehicle on cost grounds
+* [[Totally (disambiguation)]]
+
+{{disambiguation}}

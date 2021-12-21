@@ -1,0 +1,80 @@
+{{short description|Type of knot}}
+{{About|the releasable knot|the heavy metal band|Slipknot (band)|other uses|Slipknot (disambiguation)}}
+
+{{Infobox knot
+| name =        Slip knot
+| names =       Slipped overhand knot
+| image =       SlipKnot.jpg
+| caption =     A slip knot tied in a [[kernmantle rope]]
+| type =        stopper
+| type2 =       <!-- Additional category for knots that can be classified in two cats -->
+| strength =    <!-- Efficiency -->
+| origin =      <!-- Only fill in if known and w/refs -->
+| related =     [[overhand knot]], [[noose|noose knot]], running knot
+| releasing =   non-jamming
+| uses =        temporary stopper knot, knitting, animal snares
+| caveat =      <!-- List any warnings or unusual characteristics of knot -->
+| abok_number = 529<ref name="abok">{{ABOK|page=87}}</ref>
+| conway_notation = <!-- Notation from John Horton Conway's knot tables -->
+| ab_notation = <!-- Notation from the Alexander-Briggs knot tables -->
+}}
+
+The '''slip knot''' is a [[stopper knot]] which is easily undone by pulling the tail ([[List of knot terminology#Working end|working end]]). The slip [[knot]] is related to the [[noose|running knot]], which will release when the [[Knot#Standing part|standing end]] is pulled. Both knots are identical and are composed of a slipped [[overhand knot]], where a [[Bight (knot)|bight]] allows the knot to be released by pulling on an end; the working end for a slip knot, and the standing end for a running knot. The slip knot is used as a starting point for [[crochet]] and [[knitting]].
+
+{{Quote|The slip knot is a stopper knot that may be spilled or slipped instantly by pulling on the end to withdraw a loop. There is but one knot entitled to the name; any others having a similar feature are merely [[slipped knot|" slipped" knots]].|''[[The Ashley Book of Knots]]''<ref>{{ABOK (short)|page=14}}</ref>}}
+
+==Standard creation==
+{{Multiple image|perrow = 2
+<!-- Layout parameters -->
+| align             = <!-- right (default), left, center, none --> 
+| direction         = <!-- horizontal (default), vertical -->
+| background color  = <!-- box background as a 'hex triplet' web color prefixed by # e.g. #33CC00 -->
+| width             = <!-- displayed width of each image in pixels (an integer, omit "px" suffix); overrides "width[n]"s below -->
+| caption_align     = <!-- left (default), center, right --> 
+| image_style       = <!-- border:1; (default) -->
+| image_gap         = <!-- 5 (default)-->
+
+<!-- Header -->
+| header_background = <!-- header background as a 'hex triplet' web color prefixed by # e.g. #33CC00 -->
+| header_align      = <!-- center (default), left, right -->
+| header            = <!-- header text -->
+
+<!--image 1-->
+| image1            = Knot-slip-ABoK 529-USCG.jpg
+| width1            = <!-- displayed width of image; overridden by "width" above -->
+| alt1              = 
+| link1             = 
+| thumbtime1        =
+| caption1          = Slip knot
+<!--image 2-->
+| image2            = Knot-noose-ABoK 1114-USCG.jpg
+| width2            = <!-- displayed width of image; overridden by "width" above -->
+| alt2              = 
+| link2             = 
+| thumbtime2        =
+| caption2          = Noose
+}}
+[[File:Overhand-slip-noose.png|thumb|150 px|overhand knot, slip knot, noose]]
+{{Quote|The slip knot is closely related to the [[overhand knot]], the difference between the two being in the treatment of the end. In the former the end is doubled before it is finally tucked. To untie, all that is required is a smart pull on the end of the rope, which withdraws the loop and causes the knot to spill instantly. A slip knot may be tied in the bight as readily as in the end, but the load must be on the standing part of the knot only. It is used wherever the necessity to cast off suddenly may arise.|''[[The Ashley Book of Knots]]''<ref>{{ABOK (short)|page=87}}</ref>}}
+
+The slip knot is formed by first creating a loop in the shape of a "p". Place a hand or hook through the loophole and grab a bight on the working end. Draw this bight through the first loop. Seat the knot and pull the bight until a small loop is created.
+
+==See also==
+* [[Knot]]
+* [[List of knots]]
+
+==References==
+<references />
+
+==External links==
+* [http://www.animatedknots.com/slip/#ScrollPoint Animated tying instructions]
+* [https://www.cgtrader.com/free-3d-models/sports/equipment/10-knots Slip knot 3d model] 
+
+{{Knots}}
+
+[[Category: Knots]]
+
+
+{{knot stub}}
+
+[[ru:Бегущий булинь]]

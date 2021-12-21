@@ -1,0 +1,195 @@
+{{Short description|Type of aerial lift}}
+{{For|the musical group|Chairlift (band)}}
+{{Distinguish|lift chair|stairlift}}
+{{More citations needed|date=December 2020}}
+[[File:Sierra Nevada Laguna skilift 3.jpg|thumb|A chairlift in [[Sierra Nevada Ski Station]]]]
+[[File:Doppelmayr detachable chairlifts 2010.webm|thumb|Boarding, riding and maintenance of detachable chairlifts in [[Vorarlberg]], Austria]]
+
+An '''elevated passenger ropeway''', or '''chairlift''', is a type of [[aerial lift]], which consists of a continuously circulating [[steel]] [[wire rope]] loop strung between two end terminals and usually over intermediate towers, carrying a series of [[chair]]s. They are the primary onhill transport at most [[ski areas]] (in such cases referred to as 'skilifts'), but are also found at [[amusement park]]s, various tourist attractions, and increasingly in urban transport.
+
+Depending on carrier size and loading efficiency, a passenger ropeway can move up to 4000 people per hour, and the fastest lifts achieve operating speeds of up to {{convert|12|m/s|ft/s|1|abbr=on}} or {{convert|43.2|km/h|mph|1|abbr=on}}. The two-person double chair, which for many years was the workhorse of the ski industry, can move roughly 1200 people per hour at rope speeds of up to {{convert|2.5|m/s|ft/s|1|abbr=on}}. The four person [[detachable chairlift]] ("high-speed quad") can transport 2400 people per hour with an average rope speed of {{convert|5|m/s|ft/s|1|abbr=on}}. Some bi and tri cable elevated ropeways and reversible tramways achieve much greater operating speeds.{{Citation needed|date=December 2020}}
+
+==Design and function==
+[[File:TheCanyons-ShortCutLift.jpg|thumb|''The Short Cut'' fixed triple chairlift at [[Park City Mountain Resort]] in [[Park City, Utah|Park City]], [[Utah]]]]
+[[File:Chairlift - Murree.JPG|thumb|right|Chairlifts in [[Murree]], [[Pakistan]].]]
+A chairlift consists of numerous components to provide safe efficient transport.
+
+===Terminology===
+Especially at American ski areas, chairlifts are referred to with a ski industry [[vernacular]]. A one-person lift is a "single", a two-person lift is a "double", a three-person lift a “triple”, four-person lifts are “quads”, and a six-person lift is a "six pack". If the lift is a detachable chairlift, it is typically referred to as a “high-speed” or "express" lift, which results in an “express quad” or “high-speed six pack”.
+
+;'''rope speed''': the speed in feet per minute or meters per second at which the rope moves
+;'''[load] interval''': the spacing between carriers, measured either by distance or time
+;'''capacity''': the number of passengers the lift transports per hour
+;'''efficiency''': the ratio of fully loaded carriers during peak operation, usually expressed as a percentage of ''capacity''. Because fixed grip lifts move faster than detachables at load and unload, misloads (and missed unloads) are more frequent on fixed grips, and can reduce the efficiency as low as 80%.<ref>{{cite web|url=http://web.mit.edu/2.75/fundamentals/FUNdaMENTALs%20Book%20pdf/FUNdaMENTALs%20Topic%205.PDF|title=chairlift efficiency|publisher=web.mit.edu|access-date=September 12, 2017}}</ref>
+;'''fixed grip''': each carrier is fastened to a fixed point on the rope
+;'''detachable grip''': each carrier's grip opens and closes during regular operation allowing detachment from the rope and travel slowly for load and unload. Detachable grips allow a greater rope speed to be used, usually twice that of a fixed grip chair, while simultaneously having slower loading and unloading sections. ''See [[detachable chairlift]]''.
+
+The capacity of a lift is constrained by the motive power ([[wikt:prime mover|prime mover]]), the rope speed, the carrier spacing, the vertical displacement, and the number of carriers on the rope (a function of the rope length). Human passengers can load only so quickly until loading efficiency decreases; usually an interval of at least five seconds is needed.
+
+===Rope===
+The [[Wire rope|rope]] is the defining characteristic of an elevated passenger ropeway. The rope stretches and contracts as the tension exerted upon it increases and decreases, and it bends and flexes as it passes over sheaves and around the [[bullwheel]]s. The fibre core contains a lubricant which protects the rope from corrosion and also allows for smooth flexing operation. The rope must be regularly lubricated to ensure safe operation and long life.
+
+Various techniques are used for constructing the rope. Dozens of wires are wound into a ''strand''. Several strands are wound around a textile core, their twist oriented in the same or opposite direction as the individual wires; this is referred to as ''[[wire rope#Lay of wire rope|Lang lay]]'' and ''regular lay'' respectively.
+
+Rope is constructed in a linear fashion, and must be spliced together before carriers are affixed. [[Rope splicing|Splicing]] involves unwinding long sections of either end of the rope, and then winding each strand from opposing ends around the core. Sections of rope must be removed, as the strands overlap during the splicing process.<ref>{{cite video
+ | url = https://www.youtube.com/watch?v=rji4h0VpToA
+ | title = Steamboat (Colorado) Gondola Cable Splice
+ | date = June 19, 2017
+}}</ref>
+
+===Terminals and towers===
+[[File:Chairlift bullwheel.jpg|thumb|An [[Italy|Italian]] chairlift's upper terminal with the return bullwheel. This type of terminal is usually used for non-detachable chairlifts.]]
+[[File:Lifting a rebuilt sheave assembly back into place, S-lift, Copper Mountain.jpg|thumb|upright|Lifting a rebuilt sheave assembly back into place, S-lift, [[Copper Mountain (Colorado)]].]]
+Every lift involves at least two terminals and may also have intermediate supporting towers. A [[bullwheel]] in each terminal redirects the rope, while sheaves (pulley assemblies) on the towers support the rope well above the ground. The number of towers is engineered based on the length and strength of the rope, worst case environmental conditions, and the type of terrain traversed. The bullwheel with the prime mover is called the ''drive bullwheel''; the other is the ''return bullwheel''. Chairlifts are usually electrically powered, often with Diesel or gasoline engine backup, and sometimes a hand crank tertiary backup. Drive terminals can be located either at the top or the bottom of an installation; though the top-drive configuration is more efficient,<ref>Greater top-drive efficiency assumes the chairlift predominantly moves passengers uphill.{{cite web|url=http://skilifts.org/glossary.htm|title=Glossary entry for ''Drive Terminal''|publisher=skilifts.org|access-date=2006-11-30|archive-url=https://web.archive.org/web/20060707233738/http://www.skilifts.org/glossary.htm|archive-date=2006-07-07}}</ref> practicalities of electric service might dictate bottom-drive.
+
+====Braking systems====
+The drive terminal is also the location of a lift's primary braking system. The service brake is located on the drive shaft beside the main drive, before the gearbox. The emergency brake acts directly on the bullwheel. While not technically a brake, an anti-rollback device (usually a cam) also acts on the bullwheel. This prevents the potentially disastrous situation of runaway reverse operation.<ref>See a disastrous failed rollback test at Winter Park, Colorado in 1990 [https://www.youtube.com/watch?v=FwPP4i7ENvQ Chairlift Rollback Test]</ref>
+
+====Tensioning system====
+The rope must be tensioned to compensate for sag caused by wind load and passenger weight, variations in rope length due to temperature and to maintain friction between the rope and the drive bullwheel. Tension is provided either by a counterweight system or by hydraulic or pneumatic rams, which adjust the position of the bullwheel carriage to maintain design tension. For most chairlifts, the tension is measured in [[ton]]s.
+
+===Prime mover and gearbox===
+[[File:Telesiege.JPG|thumb|right|Chairlift in [[Praz de Lys-Sommand]], [[Haute-Savoie]], [[France]]]]
+Either [[Diesel engine]]s or [[electric motors]] can function as prime movers. The power can range from under 7.5 [[Kilowatt|kW]] (10 [[Horsepower|hp]]) for the smallest of lifts, to more than 750&nbsp;kW (1000&nbsp;hp) for a long, swift, detachable eight-seat up a steep slope. [[Direct current|DC]] electric motors and DC drives are the most common, though [[Alternating current|AC]] motors and AC drives are becoming economically competitive for certain smaller chairlift installations. DC drives are less expensive than AC variable-frequency drives and were used almost exclusively until the 21st century when costs of AC variable-frequency drive technology dropped. DC motors produce more starting torque than AC motors, so applications of AC motors on chairlifts is largely limited to smaller chairlift installations, otherwise the AC motor would need to be significantly oversized relative to the equivalent horsepower DC motor.
+
+The driveshaft turns at high [[Revolutions per minute|RPM]], but with lower [[torque]]. The gearbox transforms high RPM/low torque rotation into a low RPM/high torque drive at the bullwheel. More power is able to pull heavier loads or sustain a higher rope speed (the [[power (physics)|power]] of a force is the rate at which it does [[work (physics)|work]], and is given by the product of the driving force and the cable velocity)  .
+
+====Secondary and auxiliary movers====
+In most localities, the prime mover is required to have a backup drive; this is usually provided by a Diesel engine that can operate during power outages. The purpose of the backup is to permit clearing the rope to ensure the safety of passengers; it usually is much less powerful and is not used for normal operation. The secondary drive connects with the drive shaft before the gear box, usually with a chain coupling.
+
+Some chairlifts are also equipped with an auxiliary drive, to be used to continue regular operation in the event of a problem with the prime mover. Some lifts even have a hydrostatic coupling so the driveshaft of a [[snowcat]] can drive the chairlift.{{citation needed|date=July 2010}}
+
+===Carriers and grips===
+Carriers are designed to seat 1, 2, 3, 4, 6, or 8 passengers. Each is connected to the cable with a steel [[cable grip]] that is either clamped onto or woven into the cable. Clamping systems use either a bolt system or coiled spring or magnets to provide clamping force. For maintenance or servicing, the carriers may be removed from or relocated along the rope by loosening the grip.
+
+====Restraining bar====
+[[File:New Muree (Pathriata) Chair Lift - Over Road.jpg|thumb|right|Chairlifts at [[Patriata]], [[Pakistan]]]]
+[[File:Restraining bar and happy kid P1439.png|thumb|right|A 6-year old skier in a chairlift.]]
+Also called a ''retention bar''<ref>{{cite web|url=http://skilifts.org/glossary.htm|title=Glossary for ''Retention Bar''|publisher=skilifts.org|access-date=2006-11-30|archive-url=https://web.archive.org/web/20060707233738/http://www.skilifts.org/glossary.htm|archive-date=2006-07-07}}</ref> or ''safety bar'', these may help hold passengers in the chair in the same way as a safety bar in an amusement park ride. If equipped, each chair has a retractable bar, sometimes with attached foot rests. In most configurations, a passenger may reach up and behind their head, grab the bar or a handle, and pull the restraint forward and down. Once the bar has swung sufficiently, gravity assists positioning the bar to its down limit. Before disembarking, the bar must be swung up, out of the way.
+
+The physics of a passenger sitting properly in a chairlift do not require use of a restraining bar. If the chairlift stops suddenly (as from use of the system emergency brake), the carrier's arm connecting to the grip pivots smoothly forward—driven by the chair's inertia—and maintains friction (and seating angle) between the seat and passenger. The restraining bar is useful for children—who do not fit comfortably into adult sized chairs—as well as apprehensive passengers, and for those who are disinclined or unable to sit still. In addition, restraining bars with footrests reduce muscle fatigue from supporting the weight of a snowboard or skis, especially during long lift rides. The restraining bar is also useful in very strong wind and when the chair is coated by ice.
+
+Some ski areas mandate the use of safety bars on dangerous or windy lifts, with forfeiture of the [[lift ticket]] as a penalty. Vermont and Massachusetts state law also require the use of safety bars,{{citation needed|date=December 2011}} as well as most Ontario and Quebec in Canada.{{citation needed|date=December 2011}}
+
+Restraining bars (almost always with foot rests) on chairlifts are more common in Europe and also naturally used by passengers of all ages. Some chairlifts have restraining bars that open and close automatically.
+
+====Canopy====
+Some lifts also have individual canopies which can be lowered to protect against inclement weather. The canopy, or bubble, is usually constructed of transparent [[acrylic glass]] or fiberglass. In most designs, passenger legs are unprotected; however in rain or strong wind this is considerably more comfortable than no canopy. Among more notable bubble lifts are the Ramcharger 8 at [[Big Sky Resort]], North America's first high speed eight pack; and the longest bubble lift in the world is the American Flyer high speed six pack at [[Copper Mountain (Colorado)|Copper Mountain]].
+
+===Control system===
+To maintain safe operation, the chairlift's [[control system]] monitors sensors and controls system parameters. Expected variances are compensated for; out-of-limit and dangerous conditions cause system shutdown. In the unusual instance of system shutdown, inspection by technicians, repair or evacuation might be needed. Both fixed and detachable lifts have sensors to monitor rope speed and hold it within established limits for each defined system operating speed. Also, the minimum and maximum rope tension, and speed feedback redundancy are monitored.<ref>{{cite web|url=http://www.riblet.com/service_bulletins/SB%202000-137%20Software%20Security.pdf|title=Service Bulletin #2000-137|publisher=Riblet Tramway Company|date=December 18, 2000|format=PDF|access-date=2006-11-28}}</ref>
+
+Many—if not most—installations have numerous safety sensors which detect rare but potentially hazardous situations, such as the rope coming out of an individual sheave.
+
+Detachable chairlift control systems measure carrier grip tension<ref>{{cite web|last=Thompson |first=Caroline |url=https://traveltips.usatoday.com/detachable-chairlifts-work-52404.html |title=How Do Detachable Chairlifts Work? |website=USA TODAY |date=March 15, 2018 |accessdate=February 10, 2021}}</ref> during each detach and attach cycle, verify proper carrier spacing and verify correct movement of the detached carriers through the terminals.{{citation needed|date=February 2007}}
+
+===Safety systems===
+Aerial lifts have a variety of mechanisms to ensure safe operation over a lifetime often measured in decades. In June 1990, [[Winter Park Resort]] performed planned destructive safety testing on ''Eskimo'', a 1963 [[Riblet Tramway Company]] two-chair, center-pole fixed grip lift, as it was slated for removal and replacement with a high-speed quad [[Poma]] lift. The destructive testing attempted to mimic potential real-life operating scenarios, including tests for braking, rollback, oily rope, tree on line, fire, and tower pull.<ref>{{cite web|url=http://www.skilifts.org/old/chairlift_facts_eskimoliftdestruction.htm |title=Eskimo Lift Destruction, Winter Park, Colorado |website=Skilifts.org |access-date=2016-01-02}}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=u4WPSZojtyE |title=Chairlift Destroy Crash Test |publisher=YouTube |date=2012-03-06 |access-date=2016-01-02}}</ref> The data gleaned from this destructive safety testing helped improve the safety and construction of both existing as well as the next generation of chairlifts.<ref>{{cite web|url=http://www.saminfo.com/article/constructive-deconstruction |title=Constructive Deconstruction &#124; SAM - Ski Area Management |website=Saminfo.com |access-date=2016-01-02}}</ref>
+
+====Braking====
+As mentioned above, there are multiple redundant braking systems. When a Normal Stop is activated from the control panel, the lift will be slowed and stopped using regenerative braking through the electric motor and the service brake located on the highspeed shaft between the gearbox and electric motor. When an Emergency Stop is activated all power is cut to the motor and the emergency brake or bull-wheel brake is activated. In the case of a rollback, some lifts utilize a ratchet like system to prevent the bull-wheel from spinning backwards while newer installations utilize sensors which activate one or more bull-wheel brakes. All braking systems are fail-safe in that a loss of power or hydraulic pressure will activate the brake. Older chairlifts, for example 1960s-era [[Riblet Tramway Company]] lifts, have a hydraulic release emergency brake with pressure maintained by a hydraulic solenoid. If the emergency brake/stop button is depressed by any control panel, the lift cannot be restarted until the hydraulic brake is hand-pumped to proper operating pressure.
+
+====Brittle bars====
+[[File:Sheeve cable catcher and brittle bar P1402 annotated.png|thumb|right|Example of a ''brittle bar'' within a ''cable catcher'' beside a ''sheave train''. Wiring connected to the brittle bar is visible immediately to the right of the closest sheave. An anti-derailment plate is visible at top.]]
+Some installations use ''brittle bars'' to detect several hazardous situations. Brittle bars alongside the sheaves detect the rope coming out of the track. They may also be placed to detect counterweight or hydraulic ram movement beyond safe parameters (sometimes called a ''brittle fork'' in this usage) and to detect detached carriers leaving the terminal's track. If a brittle bar breaks, it interrupts a circuit which causes the system controller to immediately stop the system.<ref>{{cite web|url=http://skilifts.org/glossary.htm|title=Glossary entry for ''Drive Terminal''|publisher=skilifts.org|access-date=2006-11-30|archive-url=https://web.archive.org/web/20060707233738/http://www.skilifts.org/glossary.htm|archive-date=2006-07-07}}</ref>
+
+====Cable catcher====
+These are small hooks sometimes installed next to sheaves to catch the rope and prevent it from falling if it should come out of the track. They are designed to allow passage of chair grips while the lift is stopping and for evacuation.<ref>{{cite web|url=http://www.pomagroup.com/Detach%20prop%20desc%20(final)!!.htm#4/Sheave%20Trains|title=Poma Omega Series Chairlift|publisher=[[Poma]]|access-date=2006-12-21|archive-url=https://web.archive.org/web/20070428082204/http://www.pomagroup.com/Detach%20prop%20desc%20(final)!!.htm#4/Sheave%20Trains|archive-date=2007-04-28|url-status=dead}}</ref> It is extremely rare for the rope to leave the sheaves.
+
+In May 2006, a cable escaped the sheaves on the [[Arthurs Seat, Victoria]] chairlift in Australia causing four chairs to crash into one another. No one was injured, though 13 passengers were stranded for four hours. The operator blamed mandated changes in the height of some towers to improve clearance over a road.<ref>{{cite web|url=http://www.morningtonpeninsulaleader.com.au/article/2008/08/18/41297_mlv_news.html |title=Arthurs Seat chairlift owner hit with fine |work=Mornington Peninsula Leader |publisher=Leader Community Newspaper Group |date=18 August 2008 |access-date=2008-08-18 |url-status=dead |archive-url=https://web.archive.org/web/20081202095816/http://www.morningtonpeninsulaleader.com.au/article/2008/08/18/41297_mlv_news.html |archive-date=December 2, 2008 }}</ref>
+
+====Collision====
+Passenger loading and unloading is supervised by lift operators. Their primary purpose is to ensure passenger safety by checking that passengers are suitably outfitted for the elements and not wearing or transporting items which could entangle chairs, towers, trees, etc. If a misload or missed unload occurs—or is imminent—they slow or stop the lift to prevent carriers from colliding with or dragging any person. Also, if the exit area becomes congested, they will slow or stop the chair until safe conditions are established.
+
+====Communication====
+The lift operators at the terminals of a chairlift communicate with each other to verify that all terminals are safe and ready when restarting the system. Communication is also used to warn of an arriving carrier with a passenger missing a ski, or otherwise unable to efficiently unload, such as patients being transported in a [[toboggan|rescue toboggan]]. These uses are the chief purpose for a visible identification number on each carrier.
+
+====Evacuation====
+[[File:Chairlift evacuation training, Klínovec, Czech Republic 08.png|thumb|Chairlift evacuation training using climbing equipment, Klínovec, Czech Republic]]
+Aerial ropeways always have several backup systems in the event of failure of the prime mover. An additional electric motor, diesel or gasoline engine—even a hand crank—allows movement of the rope to eventually unload passengers. In the event of a failure which prevents rope movement, ski patrol may conduct emergency evacuation using a simple rope harness looped over the aerial ropeway to lower passengers to the ground one by one.<ref name="csm">{{cite web|url=http://www.mines.edu/library/ropeway/about_ropeways.html|title=About Ropeways|publisher=Colorado School of Mines - Arthur Lakes Library|author=Information Center for Ropeway Studies|date=2006-03-17|access-date=2006-11-30|archive-url=https://web.archive.org/web/20060904183704/http://www.mines.edu/library/ropeway/about_ropeways.html|archive-date=2006-09-04}}</ref>
+
+====Grounding====
+A steel line strung alongside a mountain is likely to attract [[lightning]] strikes. To protect against that and [[static electricity#'Static' electricity|electrostatic]] buildup, all components of the system are electrically bonded together and connected to one or many grounding systems connecting the lift system to earth ground. In areas subject to frequent electrical strikes, a protective aerial line is fixed above the aerial ropeway. A red sheave may indicate it is a grounding sheave.{{citation needed|date=December 2011}}
+
+====Load testing====
+[[File:Swain ski resort March 9 2017 from main lift.jpg|thumb|Old double chair lift in Western New York]]
+In most jurisdictions, chairlifts must be load inspected and tested periodically. The typical test consists of loading the uphill chairs with bags of water (secured in boxes) weighing more than the worst case passenger loading scenario. The system's ability to start, stop, and forestall reverse operation are carefully evaluated against the system's design parameters.<ref>{{cite web|url=http://skilifts.org/glossary.htm|title=Glossary entry for ''Load Test''|website=Skilifts.org|access-date=2006-12-05|archive-url=https://web.archive.org/web/20060707233738/http://www.skilifts.org/glossary.htm|archive-date=2006-07-07}}</ref>  Load testing a new lift is shown in a short video.<ref>{{cite web
+ | url = https://www.youtube.com/watch?v=a2FqT3vO1Nw&t=347
+ | title = Cloudchaser &#124; The Story Behind Building A New Lift
+ | publisher = Mount Bachelor
+ | date = January 19, 2017
+ | access-date = January 4, 2019
+}}</ref>
+
+====Rope testing====
+Frequent visual inspection of the rope is required in most jurisdictions, as well as periodic non-destructive testing. Electromagnetic induction testing detects and quantifies hidden adverse conditions within the strands such as a broken wire, pitting caused by corrosion or wear, variations in cross sectional area, and tightening or loosening of wire lay or strand lay.<ref>{{cite web|url=http://www.unols.org/publications/winch_wire_handbook__3rd_ed/01_3x19_wire_rope.pdf|title=Handbook of Oceanographic Winch, Wire, and Cable Technology, chapter 1: 3X19 Oceanographic Wire Rope|author=W. A. Lucht|publisher=University-National Oceanographic Laboratory System|year=2000|pages=1–29–1–36|format=PDF|access-date=2006-12-06|archive-url=https://web.archive.org/web/20070928130551/http://www.unols.org/publications/winch_wire_handbook__3rd_ed/01_3x19_wire_rope.pdf|archive-date=2007-09-28|url-status=dead}}</ref>
+
+====Safety gate====
+[[File:Safety gate P1385 annotated.png|thumb|right|A safety gate at the top terminal detects passengers failing to unload. An open restraining bar is also visible.]]
+If passengers fail to unload, their legs will contact a lightweight bar, line, or pass through a light beam which stops the lift. The lift operator will then help them disembark, reset the safety gate, and initiate the lift restart procedure. While possibly annoying to other passengers on the chairlift, it is preferable to strike the safety gate—that is, it should not be avoided—and stop the lift than be an unexpected downhill passenger. Many lifts are limited in their download capacity; others can transport passengers at 100 percent capacity in either direction.<ref>entry for ''Download'' at SkiLifts glossary</ref>
+
+====Moving walkways====
+The boarding area of a [[detachable chairlift]] can be fitted with a [[moving walkway]] which takes the passengers from the entrance gate to the boarding area. This ensures the correct, safe and quick boarding of all passengers. For fixed grip lifts, a walkway can be designed so that it moves at a slightly slower speed than the chairs: passengers stand on the moving walkway while their chair approaches, hence easing the boarding process since the relative speed of the chairlift will be slower.
+
+==History==
+[[File:Ski Lift No 1 chair, Aspen, CO.jpg|thumb|Early single chair on [[Ski Lift No. 1]], [[Aspen Mountain (ski area)|Aspen]].|alt=A metal chair, painted green, with footrest and wooden seat suspended above a grassy area by a metal pole on the right side]]
+Aerial passenger ropeways were known in Asia well before the 17th century for crossing chasms in mountainous regions. Men would traverse a woven fiber line hand over hand. Evolutionary refinement added a harness or basket to also transport cargo.<ref name="csm" />
+
+The first recorded mechanical ropeway was by Venetian [[Fausto Veranzio]] who designed a bicable passenger ropeway in 1616. The industry generally considers Dutchman [[Adam Wybe]] to have built the first operational system in 1644. The technology, which was further developed by the people living in the Alpine regions of Europe, progressed rapidly and expanded due to the advent of wire rope and electric drive.  World War I motivated extensive use of military tramways for warfare between Italy and Austria.<ref name="csm" />
+
+===First chairlifts===
+The world's first three ski chairlifts were created for the [[ski resort]] in [[Sun Valley, Idaho]] in 1936 and 1937, then owned by the [[Union Pacific Railroad]].<ref>The "first known chairlift" depends on definition: Miners in [[Kennecott, Alaska]] used a mining tram to ski in the 1920s. There were other non-ski "chairlifts" in [[British Columbia]] at the start of the 20th century: Grass Valley (California) in 1896; Aspen (Colorado) in 1890; and British Columbia in 1874.</ref> The first chairlift, since removed, was installed on Proctor Mountain, two miles (3&nbsp;km) east of the more famous [[Bald Mountain, Idaho|Bald Mountain]], the primary ski mountain of Sun Valley resort since 1939. One of the chairlifts still remains on Ruud Mountain, named for Thomas Ruud a famous Norwegian ski racer. The chairlift has been preserved with its ski jump and original single chairs as it was during WWII. The chairlift was developed by [[James Michael Curran|James Curran]] of [[Union Pacific|Union Pacific's]] engineering department in [[Omaha, Nebraska|Omaha]] during the summer of 1936. Prior to working for Union Pacific, Curran worked for Paxton and Vierling Steel, also in Omaha, which engineered banana conveyor systems to load cargo ships in the tropics. (PVS manufactured these chairs in their Omaha, NE facility.) Curran re-engineered the banana hooks with chairs and created a machine with greater capacity than the up-ski [[toboggan]] ([[Aerial tramway|cable car]]) and better comfort than the [[J-bar lift|J-bar]], the two most common skier transports at the time—apart from [[mountain climbing]]. His basic design is still used for chairlifts today. The patent for the original ski lift was issued to Mr. Curran along with Gordon H. Bannerman and Glen H. Trout (Chief Engineer of the Union Pacific RR) in March 1939. The patent was titled "Aerial Ski Tramway,'{{US patent|2152235}}. [[W. Averell Harriman]], Sun Valley's creator and former governor of [[New York State]], financed the project.<ref>{{cite web
+|url=http://www.idahohistory.net/Reference%20Series/0974.pdf|title=Sun Valley Ski Lifts|author=Don Hibbard|publisher=Idaho State Historical Society|date=July 1977|format=PDF|website=Idahohistory.net|access-date=2006-11-21}}</ref><ref>{{cite web|url=http://www.gonorthwest.com/Idaho/central/Sun-Valley/svhistory.htm|title=Sun Valley History|website=Gonorthwest.com|access-date=2006-11-21}}</ref>
+
+[[Mont Tremblant Resort|Mont Tremblant]], Quebec opens in February 1938 with the first Canadian chairlift, built by Joseph Ryan.<ref>{{Cite web|url=https://skiinghistory.org/history/timeline-important-ski-history-dates|title=TIMELINE OF IMPORTANT SKI HISTORY DATES}}</ref> The ski lift had 4,200 feet of cable and took 250 skiers per hour.<ref>{{Cite web|url=https://officialmonttremblant.com/discover-tremblant/history/|title=History of Mont Tremblant ski resort}}</ref>
+
+The first chairlift in Europe was built in 1940 in [[Czechoslovakia]] (present-day [[Czech Republic]]), from Ráztoka, at {{convert|620|m|ft|0|abbr=on}}, to Pustevny, at {{convert|1020|m|ft|0|abbr=on}}, in the [[Moravian-Silesian Beskids]] mountain range.
+
+===Modern chairlifts===
+New chairlifts built since the 1990s are infrequently fixed-grip. Existing fixed-grip lifts are being replaced with [[detachable chairlift]]s at most major ski areas. However the relative simplicity of the fixed-grip design results in lower installation, maintenance and, often, operation costs. For these reasons, they are likely{{according to whom|date=January 2016}} to remain at low volume{{quantify|date=January 2016}} and community hills, and for short distances, such as beginner terrain.{{citation needed|date=January 2016}}
+
+==See also==
+===Snowsport transport===
+* [[Heliskiing]]
+* [[Riblet]] tramway
+
+===Ski industry related===
+* [[List of aerial lift manufacturers]]
+* [[Skiing|Skiing and Skiing Topics]]
+
+===Other lifts===
+{{div col|colwidth=25em}}
+* [[Aerial lift]]
+* [[Aerial tramway]]
+* [[Cable car (railway)]]
+* [[Elevator]]
+* [[Funifor]]<ref>{{cite web|url=http://www.seilbahntechnik.net/lifte/Ort/funifor/page1.php|title=Lift-World.info list of Funifors|website=Seilbahntechnik.net|access-date=2006-11-30|url-status=dead|archive-url=https://web.archive.org/web/20070318183023/http://www.seilbahntechnik.net/lifte/Ort/funifor/page1.php|archive-date=2007-03-18}}</ref>
+* [[Funitel]]
+* [[Gondola lift]]
+* [[Hallidie ropeway]]
+* [[List of transport topics]]
+* [[Paternoster lift]]
+* [[Ski lift]]
+{{div col end}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{Commons|Chairlift}}
+* [http://www.skilifts.org Skilifts.org] An online community dedicated to documenting all types of Ski Lifts, founded by Bill Wolfe.
+* [http://chairlift.org Chairlift.org] preservation society
+* [http://coloradoskihistory.com/chairlift/liftnews/locations.htm Colorado Chairlift Locations]
+
+{{SkiLift}}
+{{skiing}}
+{{Authority control}}
+
+[[Category:Aerial lifts]]
+[[Category:Chairlifts]]
+[[Category:Amusement rides]]
+[[Category:Ski lift types]]
+[[Category:Vertical transport devices]]
+[[Category:Articles containing video clips]]
+
+[[pt:Teleférico#Tipos de teleférico]]

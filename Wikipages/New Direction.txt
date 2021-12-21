@@ -1,0 +1,100 @@
+{{Short description|2002 single by S Club Juniors}}
+{{About|the British pop song|the line of 1950s comic books|List of Entertaining Comics publications#New Direction|the Glee episode|New Directions (Glee)|other uses|New Directions (disambiguation){{!}}New Directions}}
+{{Use British English|date=July 2012}}
+{{Use dmy dates|date=September 2011}}
+{{Infobox song
+| name       = New Direction
+| cover      = New Direction single.jpg
+| alt        =
+| type       = single
+| artist     = [[S Club 8|S Club Juniors]]
+| album      = [[Together (S Club Juniors album)|Together]]
+| B-side     = [[One Step Closer (S Club Juniors song)|One Step Closer]]
+| released   = {{start date|2002|10|7|df=y}}<ref>{{cite magazine|url=https://worldradiohistory.com/UK/Music-Week/2002/Music-Week-2002-10-05.pdf|title=New Releases – For Week Starting 5 October 2002: Singles|magazine=[[Music Week]]|page=23|date=7 October 2002|access-date=30 August 2021}}</ref>
+| recorded   =
+| studio     =
+| genre      = <!-- Do not add unsourced genres -->
+| length     = 4:17
+| label      = [[Polydor Records|Polydor]], [[19 Recordings|19]]
+| writer     = Georgie Dennis, Ricky Hanley, Gary White
+| producer   = Gary White, Jewels and Stone
+| prev_title = [[Automatic High]]
+| prev_year  = 2002
+| next_title = [[Puppy Love/Sleigh Ride]]
+| next_year  = 2002
+| misc       = {{Extra chronology
+ | artist     = [[Frankie Sandford]]
+ | type       = singles
+ | prev_title = [[Automatic High]]
+ | prev_year  = 2002
+ | title      = New Direction
+ | year       = 2002
+ | next_title = [[Puppy Love/Sleigh Ride (S Club Juniors song)|Puppy Love]]
+ | next_year  = 2002
+}}
+}}
+
+"'''New Direction'''" is a song by British pop group [[S Club 8|S Club Juniors]], released as the third single from their debut album, ''[[Together (S Club Juniors album)|Together]]'' (2002). Released on 7 October 2002, the song reached number two on the [[UK Singles Chart]], being their third consecutive release to do so.
+
+==Composition==
+{{Original research section|date=August 2021}}
+[[Frankie Sandford]] sings the first and third verses, backing vocals in the second and fourth verses, the song's bridges along with Stacey, the solo's vocals in the song main bridge along with Stacey, a vocal during this bridge, and backing vocals during the end of the song. [[Stacey McClean]] sings backing vocals in the first and third verses, the second and fourth verses, the song's bridges along with Frankie, the solo's vocals in the song main bridge along with Frankie, a vocal during this bridge, and backing vocals during the end of the song. [[Calvin Goldspink]], [[Aaron Renfree]], [[Rochelle Wiseman]], [[Daisy Evans]], [[Hannah Richings]], and [[Jay Asforis]] do not have any solos in this song.
+
+==Track listings==
+'''UK CD1'''<ref>{{cite AV media notes|title=New Direction|others=[[S Club 8|S Club Juniors]]|year=2002|type=UK CD1 liner notes|publisher=[[Polydor Records]], [[19 Recordings]]|id=0659692}}</ref>
+# "New Direction"
+# "New Direction" ([[Magic Fly]] Mix)
+# "New Direction" ([[Illicit (Dance music group)|illicit]] Mix)
+# "New Direction" (video)
+
+'''UK CD2 and cassette single'''<ref>{{cite AV media notes|title=New Direction|others=S Club Juniors|year=2002|type=UK CD2 liner notes|publisher=Polydor Records, 19 Recordings|id=0659702}}</ref><ref>{{cite AV media notes|title=New Direction|others=S Club Juniors|year=2002|type=UK cassette single sleeve|publisher=Polydor Records, 19 Recordings|id=0659704}}</ref>
+# "New Direction"
+# "[[One Step Closer (S Club Juniors song)|One Step Closer]]" ([[Almighty Records|Almighty]] Jelly & Cream Mix)
+# "New Direction" (karaoke version)
+
+==Charts==
+{{col-start}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2002)
+! scope="col"| Peak<br />position
+|-
+! scope="row"| Europe ([[European Hot 100 Singles|Eurochart Hot 100]])<ref>{{cite magazine|url=https://worldradiohistory.com/UK/Music-and-Media/00s/2002/MM-2002-10-26.pdf|title=Eurochart Hot 100 Singles|magazine=[[Music & Media]]|volume=20|issue=44|page=17|date=26 October 2002|access-date=30 August 2021}}</ref>
+| 12
+|-
+{{single chart|Ireland3|7|artist=S Club Juniors|rowheader=true|access-date=7 June 2020}}
+|-
+{{single chart|Scotland|2|date=20021013|rowheader=true|access-date=30 August 2021}}
+|-
+{{single chart|UK|2|date=20021013|rowheader=true|access-date=7 June 2020}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2002)
+! scope="col"| Position
+|-
+! scope="row"| UK Singles (OCC)<ref>{{cite web|url=http://www.ukchartsplus.co.uk/ChartsPlusYE2002.pdf|title=UK Year-End Charts 2002|work=[[UKChartsPlus]]|access-date=20 November 2021}}</ref>
+| 101
+|}
+{{col-end}}
+
+==References==
+{{Reflist}}
+
+{{S Club 8}}
+{{Authority control}}
+
+[[Category:S Club 8 songs]]
+[[Category:19 Recordings singles]]
+[[Category:2002 singles]]
+[[Category:2002 songs]]
+[[Category:Polydor Records singles]]
+
+
+{{2000s-pop-single-stub}}

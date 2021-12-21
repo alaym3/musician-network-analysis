@@ -1,0 +1,60 @@
+{{Refimprove|date=June 2020}}
+{{Use dmy dates|date=August 2015}}
+{{Use British English|date=August 2015}}
+{{Infobox musical artist
+| name            = Icarus
+| image           =
+| image_size      =
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[London]], England
+| genre           = [[Electronic music|Electronic]]
+| years_active    = {{start date|1997}}–present
+| label           =
+| associated_acts =
+| website         = {{URL|http://www.icarus.nu/}}
+| current_members =
+| past_members    = 
+}}
+
+'''Icarus''' is a British band from [[London]], [[England]], specializing in [[electronic music|electronic]] [[drum and bass]] with elements of [[Avant-garde jazz|experimental jazz]] and rich instrumentation.<ref>[{{Allmusic|class=artist|id=p290248|pure_url=yes}} Icarus] at [[AllMusic]]</ref><ref>{{Cite web|url=https://boomkat.com/products/sylt|title=ICARUS - Sylt|website=Boomkat}}</ref><ref>{{Cite web|url=https://pitchfork.com/reviews/albums/4044-six-soviet-misfits/|title=Icarus: Six Soviet Misfits|website=[[Pitchfork (website)|Pitchfork]]|access-date=12 February 2021 |author=Andrew Bryant|date=2 June 2003}}</ref> Formed in 1997 by cousins Ollie Bown and Sam Britton, the band's music has been described by [[Kieran Hebden]] as "really beautiful and also quite kind of evil".<ref name="BBC_collective">{{cite web |title=Four Tet interview |url=http://www.bbc.co.uk/dna/collective/A1036432 |website=[[BBC Collective]] |access-date=12 February 2021 |archive-url=https://web.archive.org/web/20121111151529/http://www.bbc.co.uk/dna/collective/A1036432 |archive-date=11 November 2012}}</ref> Hebden included an Icarus track, "Benevolent Incubator", on his ''[[Late Night Tales: Four Tet|Late Night Tales]]'' compilation, and Icarus also provided a remix of the Four Tet track "[[My Angel Rocks Back and Forth]]". Icarus have also remixed Murcof, Lunz, The Creatures, Spartak and Eclectic Method Featuring Chuck D.
+
+Icarus founded the independent label Not Applicable in 2002, which became a collective project with other improvising musicians. In 2008, Ollie Bown moved to [[Australia]], and the band has been less active since then. Bown and Britton work in several other musical projects, but continue to produce music together as Icarus.
+
+In 2012 Icarus released an experimental "album in 1,000 variations" called Fake Fish Distribution, which used parametric software techniques to allow the band to make 1,000 distinct versions of the record, with elements varying such as the rhythmic patterns of drums, effects parameters or the order of progression through the tracks. It was supported by [[STEIM]] in the [[Netherlands]] and by [[Ableton]], makers of [[Ableton Live]], and used the [[Max for Live]] technology to create the software. 
+
+Also in 2012, they were commissioned by [[Aphex Twin]] to build a piece of software for his Remote Orchestra project, in which he controlled a 32-piece orchestra in real time by sending frequencies to each of the players on headphones. The work was used in a one-off performance at London's [[Barbican Hall]].
+
+==Discography==
+
+* ''Kamikaze'' (Hydrogen Dukebox)
+* ''Fijaka'' (Hydrogen Dukebox)
+* ''Squid Ink'' (Output)
+* ''Misfits'' (Not Applicable)
+* ''I Tweet the Birdy Electric'' (Leaf)
+* ''Carnivalesque'' (Not Applicable)
+* ''Sylt'' (Rump)
+* ''All Is for the Best in the Best of All Possible Worlds'' (Not Applicable)
+* ''Fake Fish Distribution'' (Not Applicable)
+
+===EPs===
+
+* ''Moth'' (Hydrogen Dukebox)
+* ''Soviet Igloo'' (Not Applicable)
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.icarus.nu/ Official site]
+*[http://www.not-applicable.org Not Applicable label]
+*[http://www.theleaflabel.com/en/artists/view/22/Icarus Icarus on The Leaf Label]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Icarus}}
+[[Category:British electronic music groups]]
+[[Category:Temporary Residence Limited artists]]
+
+{{UK-band-stub}}

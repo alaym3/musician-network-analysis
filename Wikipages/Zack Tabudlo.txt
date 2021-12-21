@@ -1,0 +1,116 @@
+{{Infobox musical artist
+| name             = Zack Tabudlo
+| image            =
+| alt              = 
+| caption          = 
+| birth_name       = 
+| alias            = 
+| birth_date       = {{birth date and age|2000|12|06}}
+| birth_place      = [[Las Piñas]], [[Metro Manila]], Philippines
+| education        = 
+| occupation       = {{hlist|singer-songwriter|producer}}
+| years_active     = 2018–present
+| website          = 
+| instrument       = {{hlist|vocals|guitar}}
+| genre            = {{hlist|[[original Pilipino music|OPM]]|[[Pop music|Pop]]|[[Alternative pop]]|[[Contemporary R&B|R&B]]}}
+| label            = {{plainlist|
+*Ivory Music & Video (2018–2020)
+*[[Island Records|Island Records Philippines]] (2020–present)
+*[[MCA Music (Philippines)|MCA Music]]/[[Universal Music Group|Universal]] (2020–present)}}
+| associated_acts  = {{hlist|[[Sharlene San Pedro]]|[[James TW]]}}
+}}
+
+'''Zack Tabudlo''' (born December 6, 2000) is a Filipino singer-songwriter, musician and producer. He was first seen in [[The Voice Kids (Philippine season 1)|''The Voice Kids (Philippines)'' season 1]] as a member of Team Bamboo.<ref>{{cite web |title=[INTERVIEW] Zack Tabudlo: From The Voice Kids To 16M Views! |url=https://www.hypnoticasia.com/zack-tabudlo-from-the-voice-kids-to-16m-views/ |website=HypnoticAsia |access-date=8 October 2021}}</ref> He later began his musical career in 2018 before he rose to fame in 2020 when he joined [[MCA Music (Philippines)|MCA Music]]/[[Universal Music Group|Universal]] through sublabel [[Island Records Philippines]].<ref>{{cite news |last1=Custodio |first1=Arlo |title=‘The Voice Kids’ alumnus finds success in writing, producing music |url=https://www.manilatimes.net/2020/01/02/lifestyle-entertainment/show-times/the-voice-kids-alumnus-finds-success-in-writing-producing-music/669855 |work=The Manila Times |date=2 January 2020}}</ref> In a [[Rolling Stone]] magazine article, Zack Tabudlo was described as having a soaring soprano voice that brings to mind [[Bruno Mars]] and [[Adam Levine]].<ref>{{Cite web|last=Brown|first=Ted|date=2021-07-28|title=Here Are 10 Songs From International Hitmakers You Should Have on Your Radar|url=https://www.rollingstone.com/music/music-news/international-music-spotify-radar-1199758/|access-date=2021-10-27|website=Rolling Stone|language=en-US}}</ref>
+
+His debut single "Nangangamba" was released in 2020.<ref>{{cite news |last1=Olivares |first1=Rick |title=How Island Records PH's Zack Tabudlo wrote debut single during math class |url=https://news.abs-cbn.com/entertainment/08/10/20/how-island-records-phs-zack-tabudlo-wrote-debut-single-during-math-class |work=ABS-CBN News |date=10 August 2020}}</ref> His song "Binibini", released in 2021, broke a record as the top local song on [[Spotify]]'s Philippines charts.<ref>{{cite news |title=Young Pinoys on top: Zack Tabudlo’s 'Binibini' breaks record on Spotify |url=https://manilastandard.net/lifestyle/youth/356357/young-pinoys-on-top-zack-tabudlo-s-binibini-breaks-record-on-spotify.html |work=Manila Standard |date=5 June 2021}}</ref><ref name="binibini">{{cite news |title=Zack Tabudlo’s 'Binibini' tops Spotify’s PHL’s Top 50 Chart for six straight weeks |url=https://businessmirror.com.ph/2021/05/28/zack-tabudlos-binibini-tops-spotifys-phls-top-50-chart-for-six-straight-weeks/ |access-date=8 October 2021 |work=BusinessMirror |date=28 May 2021}}</ref> His debut album, ''Episode'', was released on October 15, 2021.<ref name="episode">{{cite news |last1=Peters |first1=Daniel |title=Zack Tabudlo announces debut album ‘Episode’ |url=https://www.nme.com/en_asia/news/music/zack-tabudlo-announces-debut-album-episode-3063588 |work=NME |date=6 October 2021}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of studio albums with selected details
+! scope="col" style="width:10em;" |Title
+! scope="col" style="width:18em;" |Album Details
+|-
+! scope="row" |''Episode''
+|
+* Released: October 15, 2021 <span style="font-size:85%;">(PH)</span>
+* Label: [[Island Records|Island Records Philippines]]<br>[[MCA Music (Philippines)|MCA Music]]<br>[[Universal Music Group|UMG]]
+* Format: [[Digital download (music)|Digital download]], [[Streaming media]], [[USB Flash Drive|UFD]]
+|}
+
+===Singles===
+====As a lead artist====
+{|class="wikitable"
+|-
+! Year
+! Title
+! Album
+|-
+| rowspan="3"|2018
+| "Stay Here"
+| rowspan="11" {{n/a|Non-album singles}}
+|-
+| "Sa'yo"
+|-
+| "The Way You Wanted"
+|-
+| rowspan="3"|2019
+| "You Won't See Me Crying"<br/>{{small|(featuring ABY)}}
+|-
+| "Mahal O Biro"
+|-
+| "Umaasa"
+|-
+| rowspan="4"|2020
+| "This Is Love"
+|-
+| "Nangangamba"
+|-
+| "Cruel"
+|-
+| "Sigurado"
+|-
+| rowspan="7"|2021
+| "Iyong Iyo"
+|-
+| "Elizabeth"
+| rowspan="3"|''Episode''
+|-
+| "Binibini"<ref name="binibini"/>
+|-
+| "Hindi Ko Kaya"
+|-
+| "Binibini (Last Day on Earth)"<br/>{{small|(featuring [[James TW]])}}
+| {{n/a|Non-album single}}
+|-
+| "Habang Buhay"
+| rowspan="2"|''Episode''
+|-
+| "Ba't Ganito Ang Pag-ibig"
+|}
+
+====As a featured artist====
+{|class="wikitable"
+|-
+! Year
+! Title
+|-
+| 2019
+| "Pusong Naliligaw"<br/>{{small|(with [[Sharlene San Pedro]])}}
+|}
+
+==References==
+{{reflist}}
+
+{{The Voice of the Philippines|state=collapsed}}
+{{Authority control}}
+
+
+{{Philippines-singer-stub}}
+[[Category:2000 births]]
+[[Category:Musicians from Metro Manila]]
+[[Category:Living people]]
+[[Category:Singers from Metro Manila]]
+[[Category:MCA Music Inc. (Philippines) artists]]
+[[Category:The Voice Kids (Philippine TV series) contestants]]
+[[Category:21st-century Filipino singers]]

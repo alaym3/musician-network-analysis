@@ -1,0 +1,121 @@
+{{Infobox musical artist
+| name             = You Blew It!
+| image            = 
+| caption          = 
+| origin           = [[Orlando, Florida]]
+| genre            = [[Emo]], [[pop punk]], [[math rock]], [[indie rock]]
+| years_active     = 2009&ndash;2017, 2018
+| label            = [[Topshelf Records|Topshelf]], [[Jade Tree Records|Jade Tree]], [[Triple Crown Records|Triple Crown]], [[Big Scary Monsters]]
+| associated_acts  = [[Fake Problems]]<br>[[Into It. Over It.]]<br>[[The World Is A Beautiful Place & I Am No Longer Afraid To Die]]<br>[[Kit Fisto]]<br>[[You'll Live]]<br>[[Dear Tracks]]<br>[[Donor]]<br>[[Pool Kids]]
+| website          = {{URL|http://youblewit.bandcamp.com/}}
+| current_members  = Tanner Jones<br>Andy Anaya<br>Trevor O'Hare<br>Matt Nissley<br>Andy Vila
+| past_members     = Timothy Flynn<br>Matt Messore<br>Marc Ispass<br>David Fuentes<br>Nick Inman
+}}
+
+'''You Blew It!''' was an American [[emo]] quintet based in [[Orlando, Florida]]. The band was formed in 2009 by Tanner Jones, Timothy Flynn, and Matt Messore. 
+
+==History==
+In 2012, the band released their debut LP, ''[[Grow Up, Dude]]'' under [[Topshelf Records]]. Prior to their LP, the band released two EPs: ''EP'' in 2009 and ''The Past in the Present'' in 2010.<ref name=bio>{{cite web|last1=Heaney|first1=Gregory|title=You Blew It! - Biography|url=http://www.billboard.com/artist/5878257/you-blew-it/biography|website=Rovi|publisher=Billboard.com|access-date=23 November 2014}}</ref>
+
+Following ''Grow Up, Dude'' the band released a split EP in 2013 entitled ''Florida Doesn't Suck'' with fellow Floridian band [[Fake Problems]]. Their 2014 LP, ''[[Keep Doing What You're Doing]]'', achieved the most commercial success of any of their albums, charting in the [[Billboard 200|''Billboard'' 200]], the ''Billboard'' [[Top Heatseekers]] and the [[Independent Albums]] charts. Later that same year, the band released a cover EP, entitled ''You Blue It'', which features covers from [[Weezer]]'s 1994 album, ''[[Weezer (1994 album)|The Blue Album]]''. The most recent work by the band was a twelve-track LP entitled ''[[Abendrot (album)|Abentrot]]'' which came out on November 11, 2016.
+
+On October 9, 2017, the band announced their final two shows "for the foreseeable future." The band briefly reunited in August of 2018 to play three shows in Florida with the emo band, [[American Football (band)|American Football]], stating that "passing on the opportunity to play with them would forever rest in the back of our minds," via their Instagram. <ref>{{Cite web|last=Instagram|first=You Blew It!|title=Login • Instagram|url=https://www.instagram.com/p/BiMqG7Hh-5H/?utm_source=ig_web_copy_link|url-status=live|access-date=2021-07-25|website=www.instagram.com}}</ref> Since then, You Blew It! has not released any new material or played any live shows as a band.
+
+== Discography ==
+
+=== Studio albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:10em;"| Title
+! scope="col" rowspan="2" style="width:17em;"| Album details
+! scope="col" colspan="3"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[Billboard 200|US]]<br/><ref>{{cite web|title=You Blew It! - Billboard 200 Chart History|url=http://www.billboard.com/artist/5878257/you-blew-it/chart?f=305|website=Billboard|publisher=Billboard.com|access-date=23 November 2014}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Top Heatseekers|US<br>Heat]]<br/><ref name=heatseekers>{{cite web|title=You Blew It! - Heatseekers Chart History|url=http://www.billboard.com/artist/5878257/you-blew-it/chart?f=324|website=Billboard|publisher=Billboard.com|access-date=23 November 2014}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Independent Albums|US<br>Indie]]<br/><ref name=indie>{{cite web|title=You Blew It! - Independent Chart History|url=http://www.billboard.com/artist/5878257/you-blew-it/chart?f=326|website=Billboard|publisher=Billboard.com|access-date=23 November 2014}}</ref>
+|-
+!scope="row"| ''[[Grow Up, Dude]]''
+|
+* Release:  April 24, 2012
+* Label: [[Topshelf Records|Topshelf]]
+* Format: [[Compact Disc|CD]], [[Music download|DL]], [[Gramophone record|LP]]
+| &mdash;
+| &mdash;
+| &mdash;
+|-
+!scope="row"| ''[[Keep Doing What You're Doing]]''
+|
+* Release:  January 14, 2014
+* Label: Topshelf
+* Format: CD, DL, LP
+| 198
+| 2
+| 33
+|-
+!scope="row"| ''[[Abendrot (album)|Abendrot]]''
+|
+* Release:  November 11, 2016
+* Label: [[Triple Crown Records|Triple Crown]]
+* Format: CD, DL, LP
+| &mdash;
+| 10
+| 49
+|}
+
+=== Extended plays ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="1" style="width:10em;"| Title
+! scope="col" rowspan="1" style="width:17em;"| Album details
+|-
+!scope="row"| ''EP''
+|
+* Release:  April 1, 2009
+* Label: Self-released
+* Format: [[Compact disc|CD]], [[Music download|DL]]
+|-
+!scope="row"| ''[[The Past in Present]]''
+|
+* Release:  August 3, 2010
+* Label: Self-released
+* Format: CD, DL
+|-
+!scope="row"| ''[[Florida Doesn't Suck]]''<br><small>([[Split album|split EP]] with [[Fake Problems]])</small>
+|
+* Release:  February 13, 2013
+* Label: [[Topshelf Records|Topshelf]]
+* Format: DL, 7" vinyl
+|-
+!scope="row"| ''[[You Blue It]]''
+|
+* Release:  July 15, 2014
+* Label: Topshelf
+* Format: DL, 7" vinyl
+|-
+!scope="row"| ''[[Pioneer of Nothing]]''
+|
+* Release:  January 27, 2015
+* Label: [[Jade Tree (record label)|Jade Tree]]
+* Format: DL, 7" vinyl
+|-
+!scope="row"| ''[[Pulse (EP)|Pulse]]''
+|
+* Release:  June 12, 2016
+* Label: Self-released
+* Format: DL
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Bandcamp|youblewit|Official page}}
+
+{{You Blew It!}}
+{{Authority control}}
+
+[[Category:Topshelf Records artists]]
+[[Category:Musical groups established in 2009]]
+[[Category:Musical groups from Orlando, Florida]]
+[[Category:Emo revival groups]]
+[[Category:Emo musical groups from Florida]]

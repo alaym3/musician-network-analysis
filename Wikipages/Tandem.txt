@@ -1,0 +1,42 @@
+{{wikt|tandem}}
+{{other uses}}
+[[File:Paarden tandem.jpg|thumb|300px|Ponies driving in tandem]]
+[[Image:Flory och Elin.jpg|thumb|Tandem bicycle]]
+'''Tandem''', or '''in tandem''', is an arrangement in which a team of machines, animals or people are lined up one behind another, all facing in the same direction.<ref name=OED>{{OED|Tandem}}</ref>
+
+The original use of the term in [[English language|English]] was in ''tandem harness'',{{citation needed|date=July 2013}} which is used for two or more [[draft horse]]s, or other [[Working animal|draft animal]]s, harnessed in a single line one behind another, as opposed to a pair, harnessed side by side, or a team of several pairs.  The tandem harness allows additional animals to provide pulling power for a vehicle designed for a single animal.
+
+The English word ''tandem'' derives with a [[word play]] from the [[Latin]] [[adverb]] {{Lang|la|tandem}}, meaning ''at length'' or ''finally''.<ref name=Wordinfo.com>{{cite web | url = http://www.wordinfo.info/words/index/info/view_unit/2083 | title = Tandem | publisher = Wordinfo.com | access-date = 2009-01-28}}</ref>
+
+Tandem seating may be used on a [[tandem bicycle]] where it is alternative to [[sociable]] seating.  ''Tandem'' can also be used more generally to refer to any group of persons or objects working together, not necessarily in line.<ref name=OED/>
+
+==Automobiles==
+[[File:Messerschmitt Kabinenroller Microcar.jpg|thumb|left|Messerschmitt KR200 Kabrio; the folding top replaces the bubble in this version.]]
+The [[Messerschmitt KR200]] was an example of a very small automobile that used tandem seating. A tandem arrangement may also be used for cars [[Parking#Modes of parking|parked]] in a [[Garage (residential)|residential garage]].
+
+==Trucks==
+In heavy trucks tandem refers to two closely spaced axles. Legally defined by the distance between the axles (up to {{convert|2.5|m|ftin|frac=8|abbr=on}} in the European Union, {{convert|40|–|96|in|m|2}}<!-- lower limit questionable --> in the United States), mechanically there are many configurations. Either or both axles may be powered, and often interact with each other. In the United States, both axles are typically powered and equalized; in the European Union, one axle is typically unpowered, and can often be adjusted to load, and even raised off the ground, turning a tandem into a single-[[axle]].<ref>{{cite web|url=http://www.rsa.ie/Documents/Vehicle%20Std%20Leg/Vehicle%20regs/Weights_Dimensions_Leaflet.pdf|title=Guidelines on Maximum Weights…Criteria|publisher=Road Safety Authority|date=2013|access-date=2013-05-20}}</ref><ref>{{cite web|url=http://ops.fhwa.dot.gov/freight/publications/brdg_frm_wghts/index.htm|title=Freight Management and Operations: Bridge Formula Weights|last=Federal Highway Administration|publisher=U.S. Department of Transportation |date=2006|access-date=2013-05-20}}</ref>
+
+== {{Visible anchor|Aviation}} ==<!-- Other articles link here. -->
+[[File:US Navy 061017-N-7130B-030 An instructor pilot is joined by his student in the cockpit of a T-45A Goshawk on the flight deck aboard the Nimitz-class aircraft carrier USS Ronald Reagan (CVN 76).jpg|thumb|Instructor and student pilots in a [[McDonnell Douglas T-45 Goshawk]] aircraft]]
+The two seating configurations for trainer, night and all-weather interceptor or attack aircraft are pilot and instructor side by side or in tandem. Usually, the pilot is in front and the instructor behind. In attack helicopters, sometimes the pilot sits in back with the weapons operator in front for better view to aim weapons, as the [[Bell AH-1 Cobra]] was a tandem cockpit redesign which produced a much slimmer profile than the [[Bell UH-1 Iroquois]] on which it was based. Attack aircraft and all-weather interceptors often use a second crew member to operate avionics such as radar, or as a second pilot. Bombers such as the [[Convair B-58 Hustler]] seated three crew members in tandem. A common engineering adaptation is to lengthen the cockpit or fuselage to create a trainer with tandem seating from a single-seater aircraft.
+
+=== {{Visible anchor|Side-by-side seating}} ===<!-- Other articles link here. -->
+[[File:Hunter and meteor at kemble arp.jpg|thumb|Tandem seat [[Gloster Meteor]] and side-by-side seat [[Hawker Hunter]] (trainer)]]
+An alternative configuration is side-by-side seating, which is common in civil aircraft of all sizes, [[Trainer (aircraft)|trainers]] and large military aircraft, but less so in high performance jets and [[glider (sailplane)|gliders]] where drag reduction is paramount. The [[Boeing B-47 Stratojet]] and [[Boeing B-52 Stratofortress#Design effort|Boeing XB-52]] bombers used fighter-style tandem seating, but the final [[Boeing B-52 Stratofortress|B-52]] bomber series used a conventional side-by-side cockpit. The [[Grumman A-6 Intruder]], [[General Dynamics F-111 Aardvark]], [[Sukhoi Su-24]] or the [[Sukhoi Su-34]] are examples of combat aircraft that use this configuration. For training aircraft, it has the advantage that pilot and instructor can see each other's actions, allowing the pilot to learn from the instructor and the instructor to correct the student pilot. The tandem configuration has the advantage of being closer to the normal working environment that a fast jet pilot is likely to encounter.<ref>{{cite web |url=http://testrakeaviation.editme.com/tandem-seat |title=Why Tandem Seating in the SGT-300? |date=2010-03-15   |work=testrakeaviation.}}</ref>
+
+In some cases, such as the [[Northrop Grumman EA-6B Prowler]], a two-place aircraft can be lengthened into a four-place aircraft. Also, a single seat cockpit can be redesigned into a side-by-side arrangement in the case of the [[Douglas A-1 Skyraider]], [[Convair F-102 Delta Dagger|TF-102]] trainer or the [[Hawker Hunter]] training versions.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wiktionary}}
+* [http://www.clipart.com/en/close-up?o=367837 Clipart.com Closeup | Royalty-Free Image of tandem carriage horses harness coach driver whip] Illustration. 
+* [https://web.archive.org/web/20120410053133/http://mview.museum.vic.gov.au/paimages/mm/002/002720.htm Three Men In a Carriage Drawn by a Tandem Horse Team. Tandem Horse Teams] Museum Victoria (Australia) official site; illustration.
+
+[[Category:Carriages]]
+[[Category:Horse driving]]
+[[Category:Animal-powered vehicles]]
+[[Category:Real object ordering]]
+[[Category:Seating]]

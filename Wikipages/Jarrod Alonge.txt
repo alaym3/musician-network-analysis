@@ -1,0 +1,197 @@
+{{Short description|American comedian and musician}}
+{{Infobox comedian
+| name         = Jarrod Alonge
+| image        = Jarrod Alonge APMAs.jpg
+| caption      = Jarrod Alonge at the 2015 APMAs
+| birth_name   = Jarrod Michael Alonge
+| birth_date   = {{birth date and age|1993|3|25}}
+| origin       = [[Orlando, Florida]], U.S.
+| occupation   = Comedian, musician
+| years_active = 2009{{ndash}}present
+| genre        = {{flatlist|
+* [[Sketch comedy]]
+* [[comedy music|musical comedy]]
+* [[satire]]
+* [[deadpan comedy]]
+* [[self-deprecation]]
+* [[cringe comedy]]
+}}
+| module       = {{Infobox musical artist
+| embed      = yes
+| genre      = {{flatlist|
+* [[Pop punk]]
+* [[comedy rock]]
+* [[metalcore]]
+* [[hardcore punk]]
+* [[post-hardcore]]
+* [[easycore]]
+* [[emo]]
+* [[math rock]]
+* [[deathcore]]
+* [[progressive metal]]
+* [[crunkcore]]
+}}
+| instrument = {{flatlist|
+* Guitar
+* vocals
+* [[Programming (music)|programming]]
+}}
+}}
+| website       = [https://www.boketomedia.com/about/ jarrodalonge.com]
+}}
+
+'''Jarrod Alonge''' (born March 25, 1993) is an [[United States|American]] comedian, songwriter and music producer. He is best known for his parodies of the artists, sub-genres and stereotypes within [[alternative rock|alternative music]]. He has released three independent full-length studio albums, [[Beating a Dead Horse (album)|''Beating a Dead Horse'']], [[Friendville (Sunrise Skater Kids album)|''Friendville'']] and ''[[Awkward & Depressed]]'', all of which reached number one on the ''Billboard'' [[Top Comedy Albums]] chart. Alonge is the owner and founder of Boketo Media, a digital media and production company which launched in March 2019. He is also the lead songwriter and guitarist of [[post-hardcore]] project [[CrazyEightyEight]].
+
+== Personal life ==
+Alonge studied [[biology]] at [[Tennessee Technological University]] and graduated with a [[Bachelor of Science|BS]] degree in 2014, having originally planned to attend [[medical school]].<ref>{{Cite web|url=https://www.tntech.edu/academics/deans-and-graduates-lists?term=201410&list=grad|title=Dean's and Graduates Lists|website=Tennessee Tech|access-date=2016-12-10|archive-url=https://web.archive.org/web/20161220091254/https://www.tntech.edu/academics/deans-and-graduates-lists?term=201410&list=grad|archive-date=2016-12-20|url-status=dead}}</ref> He is a self-described [[Star Wars]] fanatic, making multiple references to the franchise in his content. He currently lives in [[Chattanooga, Tennessee]] with his wife Rachel.<ref name=":2">{{Cite web|url=https://noisey.vice.com/en_us/article/an-interview-with-jarrod-alonge-the-guy-who-made-those-pop-punk-videos-you-love-so-much|title=An Interview with Jarrod Alonge, the Guy Who Made Those Pop Punk Videos You Love So Much – Noisey|website=Noisey|language=en-us|access-date=2016-11-30}}</ref>
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! style="width:200px;" rowspan="2"| Title
+! style="width:200px;" rowspan="2"| Fictional band
+! colspan="3" |Chart peaks
+|-
+! style="width:50px;"| <small>[[Top Comedy Albums|US Comedy]]</small><br><ref name="Comedy Albums">Peak chart positions for the Comedy Albums Chart:
+* ''Beating a Dead Horse'': {{cite web|url=https://www.billboard.com/music/jarrod-alonge/chart-history|title=Jarrod Alonge Chart History (Comedy Albums)|accessdate=April 12, 2020}}
+* ''Friendville'': {{cite web|url=https://www.billboard.com/music/sunrise-skater-kids/chart-history/GIG|title=Sunrise Skater Kids Chart History (Comedy Albums)|accessdate=April 12, 2020}}
+* ''Awkward & Depressed'': {{cite web|url=https://www.billboard.com/music/canadian-softball/chart-history/GIG|title=Canadian Softball Chart History (Comedy Albums)|accessdate=April 12, 2020}}</ref>
+! style="width:50px;"| <small>[[Top Heatseekers|US Heat]]</small><br><ref name="Heatseekers Albums">Peak chart positions for the Top Heatseekers Chart:
+* ''Beating a Dead Horse'': {{cite web|url=https://www.billboard.com/music/jarrod-alonge/chart-history/TLN|title=Jarrod Alonge Chart History (Heatseekers Albums)|accessdate=April 12, 2020}}
+* ''Friendville'': {{cite web|url=https://www.billboard.com/music/sunrise-skater-kids/chart-history/TLN|title=Sunrise Skater Kids Chart History (Heatseekers Albums)|accessdate=April 12, 2020}}
+* ''Awkward & Depressed'': {{cite web|url=https://www.billboard.com/music/canadian-softball/chart-history/TLN|title=Canadian Softball Chart History (Heatseekers Albums)|accessdate=April 12, 2020}}</ref>
+! style="width:50px;"| <small>[[Independent Albums|US Indie]]</small><br><ref name="Independent Albums">Peak chart positions for the Independent Albums Chart:
+* ''Friendville'': {{cite web|url=https://www.billboard.com/music/sunrise-skater-kids/chart-history/IND|title=Sunrise Skater Kids Chart History (Independent Albums)|accessdate=April 12, 2020}}
+* ''Awkward & Depressed'': {{cite web|url=https://www.billboard.com/music/canadian-softball/chart-history/IND|title=Canadian Softball Chart History (Independent Albums)|accessdate=April 12, 2020}}</ref>
+|-
+| 2015
+|''[[Beating a Dead Horse (album)|Beating a Dead Horse]]''<ref name=":0">{{cite web|url=http://www.altpress.com/news/entry/jarrod_alonges_beating_a_dead_horse_tops_billboard_charts_1_comedy_album/|title=Jarrod Alonge tops Billboard charts Album|work=AltPress|accessdate=16 September 2015}}</ref>
+| Various
+| style="text-align:center;" | 1
+| style="text-align:center;" | 18
+| style="text-align:center;" | –
+|-
+| 2016
+| ''[[Friendville (album)|Friendville]]''<ref name=":1">{{Cite web|url=http://www.billboard.com/artist/7327264/sunrise-skater-kids/chart?f=315|title=Sunrise Skater Kids – Chart history {{!}} Billboard|website=www.billboard.com|access-date=2016-11-30}}</ref>
+| Sunrise Skater Kids
+| style="text-align:center;" | 1
+| style="text-align:center;" | 12
+| style="text-align:center;" | 39
+|-
+| 2017
+| ''[[Awkward & Depressed]]''
+| Canadian Softball
+| style="text-align:center;" | 10
+| style="text-align:center;" | 19
+| style="text-align:center;" | 39
+|-
+| 2020
+| ''The Praxis of Prophylaxis''
+| Vermicide Violence
+| style="text-align:center;" | –
+| style="text-align:center;" | –
+| style="text-align:center;" | –
+|-
+|}
+
+'''with CrazyEightyEight'''
+* ''Burning Alive'' (2020)
+
+===Extended plays===
+{| class=wikitable
+! Year
+! Title
+|-
+| 2016
+| ''[[Space Zombies EP]]''
+|-
+| rowspan=3|2017
+| ''Covers, Vol. 1''
+|-
+| ''No Words Spoken''
+|-
+| ''Covers, Vol. 2''
+|}
+
+=== Music videos ===
+{| class="wikitable"
+!Title
+!From the album
+|-
+|[https://www.youtube.com/watch?v=DVg_NdkJUkQ "The Swimmer"]
+| rowspan="5" |[[Beating a Dead Horse (album)|''Beating a Dead Horse'']]
+|-
+|[https://www.youtube.com/watch?v=DbHHpNpG13E "Save My Life"]
+|-
+|[https://www.youtube.com/watch?v=7fvWcAw_DYY "Inconceivable Somatic Defecation"]
+|-
+|[https://www.youtube.com/watch?v=P86VMSDiQY8 "Unbreakable"]
+|-
+|[https://www.youtube.com/watch?v=w9V8E12clcw "First World Tragedy"]
+|-
+|[https://www.youtube.com/watch?v=rcyAFnAkjRI "Pit Warrior"]
+| rowspan="3" |[[Friendville (album)|''Friendville'']]
+|-
+|[https://www.youtube.com/watch?v=-Kr_q-gnnWw "Rylo Ken"]
+|-
+|[https://www.youtube.com/watch?v=QiEJ8ZOVllk "Friendville"]
+|-
+|[https://www.youtube.com/watch?v=RYMA3kDaI0E "These Borders Don't Trump"]
+|''[[Space Zombies EP]]''
+|-
+|[https://www.youtube.com/watch?v=Ii0opj22nQo "Fund Me"]
+|''[[Awkward & Depressed]]''
+|-
+|[https://www.youtube.com/watch?v=lsyV-1hHDvc "Tommy's Planet"]
+|''No Words Spoken''
+|-
+|[https://www.youtube.com/watch?v=EzONkglx8EU "Your Validation"]
+|rowspan="2"| ''Awkward & Depressed''
+|-
+|[https://www.youtube.com/watch?v=quGdGmBWCN0 "Great Again"]
+|-
+|[https://youtube.com/watch?v=Nzpyo96Olk4 "Shinebox"]
+| rowspan="6" |''Burning Alive''
+|-
+|[https://www.youtube.com/watch?v=UOkkVhgKUlA "Nitroglycerin"]
+|-
+|[https://www.youtube.com/watch?v=gHjk7nkQwbQ "Tears in Rain"]
+|-
+|[https://www.youtube.com/watch?v=u2POs65kqos "Bastard from a Basket"]
+|-
+|[https://www.youtube.com/watch?v=gtx7-32ph7w "I Am Tetsuo"]
+|-
+|[https://www.youtube.com/watch?v=BL5sl7ZQ1mc "Fortune and Glory, Kid"]
+|-
+|[https://www.youtube.com/watch?v=G3NnLQv4CZk "Coronaviscerated"]
+|''The Praxis of Prophylaxis''
+|}
+
+=== Singles and demos ===
+* ''[https://www.youtube.com/watch?v=P9kDMRhbdFc "I'm So Scene"]'' (2013)
+* [https://www.youtube.com/watch?v=wT1dnqSInNY ''"Eternity (Literally)"''] (2014)
+* ''[https://www.youtube.com/watch?v=t4mKk4x2zsg "Pop Punk Pizza Party"]'' (2014)
+* ''[https://www.youtube.com/watch?v=KaFgPW6S8Kk "12 Days of a Pop Punk Christmas"]'' (2015)
+* ''[https://www.youtube.com/watch?v=2OzaMmmrZsM "Pubic Apology"]'' (2016)
+
+== Awards and nominations ==
+{{awards table}}
+|-
+| 2014 || Jarrod Alonge || [[Kerrang! Awards]] – Best Comedian || {{won}}<ref>{{cite web|last1=Barnes|first1=Anthony|title=Kerrang! Awards 2014: Winners list in full|url=https://www.independent.co.uk/arts-entertainment/music/news/kerrang-awards-2014-winners-list-in-full-9533994.html|website=[[The Independent]]|publisher=Independent Print Limited|accessdate=August 17, 2016|archiveurl=https://web.archive.org/web/20160422192114/http://www.independent.co.uk/arts-entertainment/music/news/kerrang-awards-2014-winners-list-in-full-9533994.html|archivedate=April 22, 2016|date=June 13, 2014}}</ref>
+{{end}}
+
+== References ==
+{{reflist}}
+
+{{Jarrod Alonge}}
+{{authority control}}
+
+{{DEFAULTSORT:Alonge, Jarrod}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:21st-century American comedians]]
+[[Category:Comedy-related YouTube channels]]
+[[Category:Comedy YouTubers]]

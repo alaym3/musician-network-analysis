@@ -1,0 +1,40 @@
+{{short description|Norse mythical character}}
+{{about|the figure in Norse mythology|comic book villain|Laufey (character)}}
+''Laufey is a common Icelandic female name''
+
+'''Laufey''' ([[Old Norse]]: {{IPA-non|ˈlɔuvˌœy|}}) or '''Nál''' {{IPA-non|ˈnɑːl|}} is a figure in [[Norse mythology]] and the mother of [[Loki]]. The latter is frequently mentioned by the [[matronymic]] ''Loki Laufeyjarson'' ([[Old Norse]] 'Loki Laufey's son') in [[Eddic poetry]], rather than the expected traditional [[patronymic]] Loki ''Fárbautason'' ('son of [[Fárbauti]]'), in a mythology where kinship is usually reckoned through male ancestry.{{Sfn|Simek|1996|pp=186–187}}{{sfn|Lindow|2001|pp=207–208}}
+
+== Name ==
+The meaning of the [[Old Norse]] name ''Laufey'' is unclear, but it is generally taken to be related to ''lauf'' ('leaves, foliage'),{{Sfn|de Vries|1962|p=347}}{{Sfn|Simek|1996|pp=186–187}} perhaps attached to the [[suffix]] -''ey'' (found in female [[Personal name|personal names]] like ''Bjargey'', ''Þórey)'', or deriving from an hypothetical tree-goddess named ''*lauf-awiaz'' ('the leafy').{{Sfn|de Vries|1962|p=347}}{{efn|{{Harvnb|de Vries|1957|p=263 n. 1}} and {{harvnb|de Vries|1962|p=347}} also indicate that [[Hugo Gering]] interpreted Nál as "killer" and Laufey as "member of a distinguished clan", comparing the name with the [[Gothic language|Gothic]] ''ga-laufs'' ('valuable, costly') and the [[Old High German]] ''ga-loub'' ('inspiring trust'). {{harvnb|Lindow|2001|p=208}} states that "her name looks as though it should mean 'Leaf-island', but that would be a strange name."|group=note|name=}}
+
+Since the name of her spouse ''[[Fárbauti]]'' means "dangerous hitter", a possible natural mythological interpretation has been proposed by some scholars, with lightning hitting the leaves, or needles of a tree to give rise to fire.<ref>[[Axel Kock]], "Etymologisch-mythologische Untersuchungen", ''Indogermanische Forschungen'' 10 (1899) 90-111; summary in ''Jahresbericht über die Erscheinungen auf dem Gebiete der germanischen Philologie'' 21 (1899) [https://books.google.com/books?id=FuhqFyqbjlQC&pg=PA37&dq=Axel+Kock+Blitz+Laufey&hl=en&ei=6CgiTei7BI3xrQeD5vnSCw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCUQ6AEwAA#v=onepage&q=Axel%20Kock%20Blitz%20Laufey&f=false p. 37] {{in lang|de}}</ref><ref>{{Harvnb|Simek|1996|p=78}}, but p. 227 he doubts that Nál is the same person as Laufey, and considers relating the latter name to death, as in [[Naglfar]].</ref>
+
+==Attestations==
+In ''[[Gylfaginning]]'' ('The Beguiling of [[Gylfi]]'), [[Hár and Hárr|High]] introduces Loki as the son of [[Fárbauti]], that "Laufey or Nál" is his mother, and that his brothers are [[Býleistr]] and [[Helblindi]].{{sfn|Faulkes|1987|p=26}} Elsewhere in the same poem, Loki is referred to by the [[matronymic]] ''Laufeyjarson'' ('Laufey's son').{{sfn|Faulkes|1987|p=35}} This occurs twice more in ''Gylfaginning'' and once in ''Skádskaparmál''.{{sfn|Faulkes|1987|pp=48, 50, & 96}}
+
+''[[Skáldskaparmál|Skaldskaparmal]]'' ('The Language of Poetry') mentions Loki as 'son of Fárbauti' or 'son of Laufey'.{{sfn|Faulkes|1987|p=76}}
+
+Laufey is listed among Ásynjar (goddesses) in one of the ''[[þulur]]'',[https://skaldic.abdn.ac.uk/m.php?p=text&i=3242] an ancestry that perhaps led her son Loki to be "enumerated among the [[Æsir]]", as [[Snorri Sturluson]] puts it in ''Gylfaginning''.{{Sfn|Lindow|2001|p=208}}
+
+''Nál'' is mentioned twice in the [[Prose Edda]] as "Laufey or Nál"; once in ''Gylfaginning'' and once in ''Skáldskaparmál''.{{sfn|Faulkes|1987|pp=26, 76}}
+
+In the poem ''[[Sörla þáttr|Sörla tháttr]]'', Nál and Laufey are portrayed as the same person: "She was both slender and weak, and for that reason she was called Nál [Needle]."<ref>''bæði mjó ok auðþreiflig'', ed. Carl Christian Rafn, ''Fornaldar Sögur Norðrlanda'' Volume 1, Copenhagen, 1829, [https://books.google.com/books?id=hJQrAAAAMAAJ&pg=PA391&dq=S%C3%B6rla+%C3%BE%C3%A1ttur&hl=en&ei=HhwiTfqaHI-rrAeaqe3FCw&sa=X&oi=book_result&ct=result&resnum=9&ved=0CEUQ6AEwCA#v=onepage&q=Laufey&f=false p. 392].</ref> According to scholar [[John Lindow]], however, "the late date of the text makes this piece of information suspect."{{Sfn|Lindow|2001|p=208}}
+
+== See also ==
+* [[Louhi]], the Mistress of the North and the Witch Queen of [[Pohjola]]
+
+==References==
+===Footnotes===
+{{reflist|group=note}}
+===Citations===
+{{Reflist|2}}
+===Bibliography===
+*{{Cite book|last=de Vries|first=Jan|url=https://books.google.com/books?id=iIIIAQAAIAAJ|title=Altgermanische Religionsgeschichte|date=1957|publisher=Walter De Gruyter|edition=1970|volume=2|author-link=Jan de Vries (linguist)}}
+*{{Cite book|last=de Vries|first=Jan|title=Altnordisches Etymologisches Worterbuch|date=1962|publisher=Brill|isbn=978-90-04-05436-3|edition=1977|author-link=Jan de Vries (linguist)}}
+*{{Cite book|last=Faulkes|first=Anthony|title=Edda|publisher=Everyman|year=1987|isbn=0-460-87616-3|edition=1995|author-mask=Faulkes, Anthony, trans.}}
+*{{Cite book|last=Lindow|first=John|url=https://books.google.com/books?id=KlT7tv3eMSwC|title=Norse Mythology: A Guide to Gods, Heroes, Rituals, and Beliefs|date=2001|publisher=Oxford University Press|isbn=978-0-19-983969-8|language=en|author-link=John Lindow}}
+*{{Cite book|last=Simek|first=Rudolf|url=https://books.google.com/books?id=MZ24QgAACAAJ|title=Dictionary of Northern Mythology|date=1996|publisher=D.S. Brewer|isbn=978-0-85991-513-7|language=en|author-link=Rudolf Simek}}
+
+{{Norse mythology}}
+
+[[Category:Female supernatural figures in Norse mythology]]

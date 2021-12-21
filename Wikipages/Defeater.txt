@@ -1,0 +1,35 @@
+{{for|the hardcore punk band|Defeater (band)}}
+
+[[Epistemology]] is concerned with [[Justification (epistemology)|justification]]—whether a given belief is justified or not—and related issues. Justification depends on [[evidence]]. Evidence that counts against a belief is called a '''defeater''' of this belief. ''Undercutting defeaters'' only remove evidential support for a belief while ''rebutting defeaters'' provide evidential support for the opposite thesis of the belief. Defeaters play a central role in modern developments of [[defeasible reasoning]].
+
+== Types ==
+There are two types of defeaters: ''rebutting defeaters'' and ''undercutting defeaters''.<ref>{{cite journal |last1=Pollock |first1=John L. |title=Defeasible Reasoning |journal=Cognitive Science |date=1987 |volume=11 |issue=4 |pages=481–518 |doi=10.1207/s15516709cog1104_4 |url=https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1104_4 |language=en |issn=1551-6709}}</ref>
+
+=== Rebutting ===
+Evidence for the opposite thesis of a belief is called a rebutting defeater of this belief.<ref name="Stanford">{{cite web |last1=Kelly |first1=Thomas |title=Evidence |url=https://plato.stanford.edu/archives/win2016/entries/evidence/ |website=The Stanford Encyclopedia of Philosophy |date=11 August 2006}}</ref> For example, looking through the window and seeing that the sky is clear is evidence for the belief that it is not raining outside. Therefore, this perception is a rebutting defeater of the belief that it is raining.<ref name="Lee">{{cite thesis |type=PhD thesis |last=Lee |first=James Soo |date=August 2017 |title=A Metaphysician's User Guide: The Epistemology of Metaphysics |location=Syracuse, NY |publisher=[[Syracuse University]] |chapter=I. Introduction |chapter-url=https://surface.syr.edu/etd/765}}</ref>
+
+=== Undercutting ===
+Evidence that undermines the evidential support for a belief without giving support to the opposite thesis is called an undercutting defeater of this belief.<ref name="Stanford" /> For example, remembering that one just consumed a psychedelic drug is evidence against the belief that it is not raining. This memory undermines the reliability of the perception of the clear sky on which the belief was based. But at the same time it doesn't give evidential support to the opposite belief that it is raining. This memory is, therefore, an undercutting defeater of the belief that it is raining.<ref name="Lee" />
+
+== Role in defeasible reasoning ==
+Defeaters play a central role in modern developments of [[defeasible reasoning]]. In traditional [[deductive reasoning]] the only way the conclusion of a valid argument can be false is if at least one of the premises is false. 
+
+A defeasible argument, on the other hand, allows the retraction of its conclusion as new evidence is acquired without denying the truth of its premises. The evidence responsible for this retraction is called a ''defeater''.
+
+==See also==
+* [[Argumentation framework]]
+* [[Inference objection]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wiktionary}}
+* {{PhilPapers|category|defeat}}
+* {{cite IEP |url-id=ep-defea |title=Defeaters in Epistemology}}
+* {{SEP|reasoning-defeasible|Defeasible Reasoning}}
+
+[[Category:Epistemology]]
+
+
+{{epistemology-stub}}

@@ -1,0 +1,57 @@
+{{short description|2018 single by Da Beatfreakz}}
+{{Infobox song
+| name       = Pumpy
+| cover      = Cadet Pumpy.png
+| alt        =
+| type       = single
+| artist     = Da Beatfreakz featuring AJ & [[Deno (singer)|Deno]], Swarmz and [[Cadet (rapper)|Cadet]]
+| album      =
+| released   = {{Start date|2018|10|26|df=yes}}
+| recorded   =
+| studio     =
+| genre      = [[Afroswing]]<ref>{{cite web|url=https://www.plugsville.com/pumpy-da-beatfreakz-aj-x-deno-cadet-and-swarmz-collaboration/|title="15 Oct Pumpy: Da Beatfreakz, AJ X Deno, Cadet And Swarmz Team Up For Huge New Collaboration"}}</ref>
+| length     = {{duration|m=3|s=01}}
+| label      = DBF Records <small>(under [[Sony Music UK]])</small>
+| writer     = [[Cadet (rapper)|Blaine Cameron Johnson]], AJ & [[Deno (singer)|Deno]], Swarmz, Da Beatfreakz, Tejai Moore, Jahmori Simmons, [[Moelogo |Mohammed Animashaun]]
+| producer   = Da Beatfreakz
+| chronology = [[Cadet (rapper)|Cadet]]
+| prev_title = [[Advice (song)|Advice]]
+| prev_year  = 2018
+| next_title = [[Trendy (song)|Trendy]]
+| next_year  = 2018
+| misc       = {{Extra chronology
+| artist     = [[Deno (musician)|Deno]]
+ | type       = singles
+ | prev_title = [[Advice (song)|Advice]]
+ | prev_year  = 2018
+ | title      = Pumpy
+ | year       = 2018
+ | next_title = [[First Days (song)|First Days]]
+ | next_year  = 2019
+}}
+}}
+
+"'''Pumpy'''" is a song by Da Beatfreakz featuring [[Cadet (rapper)|Cadet]], AJ & [[Deno (singer)|Deno]] and Swarmz. It was released on 26 October 2018 and peaked at number 70 on the [[UK Singles Chart]].
+
+==Charts==
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2018)
+! scope="col"| Peak<br />position
+|-
+! scope="row"| [[UK Singles Chart|UK Singles]] (Official Charts Company)<ref>{{cite web|url=https://www.officialcharts.com/artist/54605/da-beatfreakz-aj-deno-cadet/|title="Pumpy" Peak Position – 2018|publisher=[[Official Charts Company]]|accessdate=11 February 2019}}</ref>
+| 70
+|}
+
+==References==
+{{Reflist}}
+
+{{Cadet}}
+
+[[Category:2018 songs]]
+[[Category:2018 singles]]
+[[Category:Cadet (rapper) songs]]
+[[Category:Deno (singer) songs]]
+[[Category:Sony Music UK singles]]
+
+{{2010s-hiphop-song-stub}}

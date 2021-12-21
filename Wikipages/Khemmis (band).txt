@@ -1,0 +1,137 @@
+{{Use mdy dates|date=April 2021}}
+{{short description|American doom metal band}}
+
+{{Infobox musical artist
+| name            = Khemmis
+| image           = Khemmis.jpg
+| image_upright   = 1.2
+| alt             =
+| caption         = Khemmis in 2017
+| alias           =
+| origin          = [[Denver, Colorado]], U.S.
+| genre           = [[Doom metal]]
+| years_active    = 2012–present <!--{{end date|YYYY}}-->
+| label           = 20 Buck Spin, [[Nuclear Blast]]
+| associated_acts =
+| current_members = * Zach Coleman
+* Phil Pendergast
+* Ben Hutcherson
+| past_members    = * Daniel Beiers
+* Dan Barnett
+}}
+'''Khemmis''' is an American [[doom metal]] band from [[Denver|Denver, Colorado]], that formed in 2012. Their second studio album, ''[[Hunted (album)|Hunted]]'', was ranked 11th on ''[[Rolling Stone]]''′s 20 best metal albums of 2016<ref>{{cite web | url=https://www.rollingstone.com/music/lists/20-best-metal-albums-of-2016-w454251/khemmis-hunted-w454264 | title=20 Best Metal Albums of 2016 | work=RollingStone.com | date=December 9, 2016 | accessdate=July 5, 2017}}</ref> and 1st on [[Decibel (magazine)|''Decibel'' magazine]]'s Top 40 Albums of 2016.<ref>{{Cite news|url=https://www.decibelmagazine.com/2016/11/17/spoiler-here-are-decibel-s-top-40-albums-of-2016/|title=SPOILER: Here Are Decibel's Top 40 Albums of 2016 {{!}} Decibel Magazine|date=November 17, 2016|work=Decibel Magazine|access-date=September 11, 2017}}</ref>
+
+In July 2017, the band announced that they had signed to [[Nuclear Blast]] (via licensing deal with 20 Buck Spin) for the release of their third album.<ref>{{Cite news|url=http://www.nuclearblast.de/en/label/music/band/news/details/4839401.4108178.khemmis-sign-to-nuclear-blast-worldwide.html|title=KHEMMIS - sign to Nuclear Blast worldwide!|date=July 17, 2017|work=Nuclear Blast|access-date=September 11, 2017}}</ref> The band toured North America alongside [[Enslaved (band)|Enslaved]], [[Wolves in the Throne Room]], and [[Myrkur]] as part of the 2018 Decibel Magazine Tour.<ref>{{Cite web|url=http://www.blabbermouth.net/news/enslaved-wolves-in-the-throne-room-myrkur-and-khemmis-set-for-2018-decibel-magazine-tour/|title=ENSLAVED, WOLVES IN THE THRONE ROOM, MYRKUR And KHEMMIS Set For 2018 'Decibel Magazine Tour'|date=October 24, 2017|website=Blabbermouth.net|access-date=April 21, 2019}}</ref> They released their third album, ''Desolation'', on June 22, 2018. The album was ranked 9th on [[Decibel (magazine)|Decibel Magazine]]'s Top 40 Albums of 2018<ref>{{Cite web|url=https://www.decibelmagazine.com/2018/11/15/spoiler-here-are-decibels-top-40-albums-of-2018/|title=SPOILER: Here Are Decibel's Top 40 Albums of 2018|date=November 15, 2018|website=Decibel Magazine|access-date=April 21, 2019}}</ref> and 12th on [[Consequence of Sound]]'s Top 25 Metal + Rock Albums of 2018.<ref>{{Cite web|url=https://consequenceofsound.net/2018/12/top-25-metal-hard-rock-albums-of-2018/|title=Top 25 Metal + Hard Rock Albums of 2018|date=December 5, 2018|website=Consequence of Sound|access-date=April 21, 2019}}</ref>
+
+In February 2019, the band announced that they had signed a worldwide deal with Nuclear Blast.<ref>{{Cite web|url=https://www.westword.com/music/khemmis-signs-to-nuclear-blast-records-11255499|title=Khemmis Signs to Nuclear Blast Records|last=Cabrera|first=Adam|date=March 5, 2019|website=Westword|access-date=April 21, 2019}}</ref> In August that year, the band contributed a cover of the folk song "[[O Death]]" (titled "A Conversation with Death") for the video game series ''[[The Dark Pictures Anthology]]''.<ref>[https://ggwpreport.com/the-sound-of-death-man-of-medan-debuts-another-oh-death-cover/ The Sound of Death: Man of Medan Debuts Another 'Oh Death' Cover] Good Game Report. September 3, 2019. Retrieved September 9, 2019.</ref> In 2020, they covered "[[Down in a Hole]]" from [[Alice in Chains]].<ref>{{Cite web|url=https://metalinjection.net/av/new-music/khemmis-streams-crushing-cover-of-alice-in-chains-down-in-a-hole|title=KHEMMIS Streams Crushing Cover of ALICE IN CHAINS' "Down in a Hole"|first=Greg|last=Kennelty|date=August 7, 2020|website=Metal Injection|accessdate=November 18, 2020}}</ref>
+
+They are named after an ancient city located in Egypt, now known as [[Akhmim]].<ref>{{cite encyclopedia|url=https://www.metal-archives.com/bands/Khemmis/3540375987|title=Khemmis|encyclopedia=EncyclopaediaMetallum|accessdate=July 5, 2017}}</ref>
+
+==Members==
+'''Current'''
+* Zach Coleman – drums
+* Phil Pendergast – guitar, vocals
+* Ben Hutcherson – guitar, vocals
+
+'''Former'''
+* Daniel Beiers – bass (2012-2021)
+* Dan Barnett
+
+== Discography ==
+{{Infobox artist discography
+| Artist          = Khemmis
+| Image           = 
+| Image size      = 
+| Caption         = 
+| Alt             = 
+| Studio          = 3
+| Live            = 
+| Compilation     = 
+| Video           = 
+| EP              = 2
+| Singles         = 2
+| Music videos    = 
+| Option          = 1
+| Option name     = Split
+| Option color    = 
+}}
+
+; Studio albums
+{| class="wikitable plainrowheaders"  style="text-align:center;"
+|+ List of studio albums
+! Year
+! Album details
+|-
+! scope="row"| 2015
+| align=left| ''Absolution''
+* Released: {{dts|2015-7-7}}
+* Label: 20 Buck Spin
+* Formats: vinyl, CD, digital download
+|-
+
+! scope="row"| 2016
+| align=left| ''[[Hunted (album)|Hunted]]''
+* Released: {{dts|2016-10-21}}
+* Label: 20 Buck Spin, Graven Earth Records
+* Formats: vinyl, CD, cassette, digital download
+|-
+
+! scope="row"| 2018
+| align=left| ''Desolation''
+* Released: {{dts|2018-6-22}}
+* Label: 20 Buck Spin, Nuclear Blast
+* Formats: vinyl, CD, cassette, digital download
+|-
+
+! scope="row"| 2021
+| align=left| ''Deceiver''
+* Released: {{dts|2021-11-19}}
+* Label: Nuclear Blast
+|}
+
+; EPs
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of EPs
+! Year
+! EP details
+|-
+
+! scope="row"| 2013
+| align=left| ''Khemmis''
+* Released: {{dts|2013-11-14}}
+* Label: independent
+* Formats: digital download
+|-
+
+! scope="row"| 2020
+| align=left| ''Doomed Heavy Metal''
+* Released: {{dts|2020-04-17}}
+* Label: Nuclear Blast
+* Formats: vinyl, CD, digital download
+|}
+
+
+
+; Singles
+* ''Empty Throne'' <small>(2017)</small>
+* ''Living Pyre'' <small>(2021)</small>
+
+;
+;Splits
+
+* Fraught with Peril <small>(2017)</small>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{AllMusic | id= mn0003401932 | label= Khemmis}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Khemmis}}
+[[Category:2012 establishments in Colorado]]
+[[Category:American doom metal musical groups]]
+[[Category:Musical groups established in 2012]]
+[[Category:Musical groups from Denver]]
+[[Category:Heavy metal musical groups from Colorado]]

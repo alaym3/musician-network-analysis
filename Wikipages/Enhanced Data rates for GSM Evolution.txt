@@ -1,0 +1,194 @@
+{{Short description|Digital mobile phone technology}}
+{{About|the digital mobile phone technology|the women's educational support organization|EDGE Foundation|the instruction set architecture type called EDGE|Explicit data graph execution|other uses of the acronym EDGE|Edge (disambiguation)}}
+{{redirect|Edge network|devices at the edge of a network|Edge device}}
+[[File:EDGE symbol Android.png|thumbnail|EDGE sign shown in notification bar on an Android-based smartphone.]]
+'''Enhanced Data rates for GSM Evolution''' ('''EDGE''') (also known as '''Enhanced [[General Packet Radio Service|GPRS]]''' ('''EGPRS'''), '''[[IMT-2000|IMT]] Single Carrier''' ('''IMT-SC'''), or '''Enhanced Data rates for Global Evolution''') is a digital [[mobile phone]] technology that allows improved data transmission rates as a [[backward-compatible]] extension of [[GSM]]. EDGE is considered a pre-3G radio technology and is part of [[ITU]]'s [[3G]] definition.<ref name="ref1">{{cite web|url=http://www.itu.int/ITU-D/imt-2000/DocumentsIMT2000/IMT-2000.pdf |title=Archived copy |access-date=2011-05-10 |url-status=dead |archive-url=https://web.archive.org/web/20090306095648/http://www.itu.int/ITU-D/imt-2000/DocumentsIMT2000/IMT-2000.pdf |archive-date=2009-03-06 }}</ref> EDGE was deployed on GSM networks beginning in 2003 – initially by [[Cingular]] (now [[AT&T]]) in the United States.<ref>{{cite web|url=http://www.itu.int/ITU-D/imt-2000/MiscDocuments/IMT-Deployments-Rev3.pdf |access-date=April 16, 2008 }}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+EDGE is standardized also by [[3GPP]] as part of the GSM family. A variant, so called Compact-EDGE, was developed for use in a portion of [[Digital AMPS]] network spectrum.<ref>ETSI SMG2 99/872</ref>
+
+Through the introduction of sophisticated methods of coding and transmitting data, EDGE delivers higher bit-rates per radio channel, resulting in a threefold increase in capacity and performance compared with an ordinary GSM/GPRS connection.
+
+EDGE can be used for any [[packet switching|packet switched]] application, such as an [[Internet]] connection.
+
+Evolved EDGE continues in Release 7 of the [[3GPP]] standard providing reduced latency and more than doubled performance e.g. to complement High-Speed Packet Access ([[High Speed Packet Access|HSPA]]). Peak bit-rates of up to 1 Mbit/s and typical bit-rates of 400 kbit/s can be expected.
+
+== Technology ==
+EDGE/EGPRS is implemented as a bolt-on enhancement for [[2G#2.5G (GPRS)|2.5G]] GSM/GPRS networks, making it easier for existing GSM carriers to upgrade to it. EDGE is a superset to GPRS and can function on any network with GPRS deployed on it, provided the carrier implements the necessary upgrade.
+EDGE requires no hardware or software changes to be made in GSM core networks. EDGE-compatible transceiver units must be installed and the base station subsystem needs to be upgraded to support EDGE. If the operator already has this in place, which is often the case today, the network can be upgraded to EDGE by activating an optional software feature. Today EDGE is supported by all major chip vendors for both GSM and [[WCDMA]]/[[High Speed Packet Access|HSPA]].
+
+=== Transmission techniques ===
+In addition to [[Gaussian minimum-shift keying]] (GMSK), EDGE uses [[phase-shift keying#Higher-order PSK|higher-order PSK/8 phase-shift keying]] (8PSK) for the upper five of its nine modulation and coding schemes. EDGE produces a 3-bit word for every change in carrier phase. This effectively triples the gross data rate offered by GSM. EDGE, like [[GPRS]], uses a rate adaptation algorithm that adapts the modulation and coding scheme (MCS) according to the quality of the radio channel, and thus the bit rate and robustness of data transmission. It introduces a new technology not found in GPRS, [[Hybrid ARQ|Incremental Redundancy]], which, instead of retransmitting disturbed packets, sends more redundancy information to be combined in the receiver. This increases the probability of correct decoding.
+
+EDGE can carry a bandwidth up to 236&nbsp;kbit/s (with end-to-end latency of less than 150&nbsp;ms) for 4 [[timeslot]]s (theoretical maximum is 473.6&nbsp;kbit/s for 8 timeslots) in packet mode. This means it can handle four times as much traffic as standard GPRS. EDGE meets the [[International Telecommunication Union]]'s requirement for a [[3G]] network, and has been accepted by the ITU as part of the [[IMT-2000]] family of 3G standards.<ref name="ref1"/> It also enhances the circuit data mode called [[HSCSD]], increasing the data rate of this service.
+
+=== EDGE modulation and coding scheme (MCS) ===
+The channel encoding process in GPRS as well as EGPRS/EDGE consists of two steps: first, a cyclic code is used to add parity bits, which are also referred to as the Block Check Sequence, followed by coding with a possibly punctured [[convolutional code]].<ref name=TS45001>{{cite web |url=http://www.3gpp.org/ftp/Specs/html-info/45001.htm |title=3GGP TS45.001: Technical Specification Group GSM/EDGE Radio Access Network; Physical layer on the radio path; General description |author=3rd Generation Partnership Project |date=September 2012 |access-date=2013-07-20}}</ref> In GPRS, the Coding Schemes CS-1 to CS-4 specify the number of parity bits generated by the cyclic code and the puncturing rate of the convolutional code.<ref name=TS45001/> In GPRS Coding Schemes CS-1 through CS-3, the convolutional code is of rate 1/2, i.e. each input bit is converted into two coded bits.<ref name=TS45001/> In Coding Schemes CS-2 and CS-3, the output of the convolutional code is [[puncturing|punctured]] to achieve the desired code rate.<ref name=TS45001/> In GPRS Coding Scheme CS-4, no convolutional coding is applied.<ref name=TS45001/>
+
+In EGPRS/EDGE, the [[Modulation (disambiguation)|Modulation]] and Coding Schemes MCS-1 to MCS-9 take the place of the Coding Schemes of GPRS, and additionally specify which modulation scheme is used, GMSK or 8PSK.<ref name=TS45001/> MCS-1 through MCS-4 use GMSK and have performance similar (but not equal) to GPRS, while MCS-5 through MCS-9 use 8PSK.<ref name=TS45001/> In all EGPRS Modulation and Coding Schemes, a convolutional code of rate 1/3 is used, and puncturing is used to achieve the desired code rate.<ref name=TS45001/> In contrast to GPRS, the [[Radio Link Control]] (RLC) and [[Media Access Control]] (MAC) headers and the payload data are coded separately in EGPRS.<ref name=TS45001/> The headers are coded more robustly than the data.<ref name=TS45001/>
+
+{| class="wikitable" align=center
+! GPRS<br/>Coding scheme
+! Bitrate including RLC/MAC overhead{{efn|name=gross|This is rate at which the RLC/MAC layer [[protocol data unit]] (PDU) (called a radio block) is transmitted. As shown in TS 44.060 section 10.0a.1,<ref name="TS44060-section-10.0a.1">{{cite web |url=http://www.3gpp.org/ftp/Specs/html-info/45001.htm |title=3GGP TS45.001: Technical Specification Group GSM/EDGE Radio Access Network; Mobile Station (MS) - Base Station System (BSS) interface; Radio Link Control / Medium Access Control (RLC/MAC) protocol; section 10.0a.1 - GPRS RLC/MAC block for data transfer |author=3rd Generation Partnership Project |version=12.5.0 |date=June 2015 |access-date=2015-12-05}}</ref> a radio block consists of MAC header, RLC header, RLC data unit and spare bits. The RLC data unit represents the payload, the rest is overhead. The radio block is coded by the convolutional code specified for a particular Coding Scheme, which yields the same PHY layer data rate for all Coding Schemes.}}{{efn|name=usf|Cited in various sources, e.g. in TS 45.001 table 1.<ref name=TS45001/> is the bitrate including the RLC/MAC headers, but excluding the uplink state flag (USF), which is part of the MAC header,<ref name="TS44060-section-10.2.1">{{cite web |url=http://www.3gpp.org/ftp/Specs/html-info/45001.htm |title=3GGP TS45.001: Technical Specification Group GSM/EDGE Radio Access Network; Mobile Station (MS) - Base Station System (BSS) interface; Radio Link Control / Medium Access Control (RLC/MAC) protocol; section 10.2.1 - Downlink RLC data block |author=3rd Generation Partnership Project |version=12.5.0 |date=June 2015 |access-date=2015-12-05}}</ref> yielding a bitrate that is 0.15 kbit/s lower.}}<br/>(kbit/s/slot)
+! Bitrate excluding RLC/MAC overhead{{efn|name=net|The net bitrate here is the rate at which the RLC/MAC layer payload (the RLC data unit) is transmitted. As such, this bit rate excludes the header overhead from the RLC/MAC layers.}}<br/>(kbit/s/slot)
+! [[Modulation]]
+! Code rate
+|- align=center
+| CS-1
+| 9.20
+| 8.00
+| GMSK
+| 1/2
+|- align=center
+| CS-2
+| 13.55
+| 12.00
+| GMSK
+| ≈2/3
+|- align=center
+| CS-3
+| 15.75
+| 14.40
+| GMSK
+| ≈3/4
+|- align=center
+| CS-4
+| 21.55
+| 20.00
+| GMSK
+| 1
+|}
+
+{| class="wikitable" align=center style="float:left; margin:0.26em 0.8em; margin-right:0.2em; margin-left:0px;"
+! EDGE Modulation and Coding <br />Scheme (MCS)
+! Bitrate including RLC/MAC overhead{{efn|name=gross}}<br />(kbit/s/slot)
+! Bitrate excluding RLC/MAC overhead{{efn|name=net}}<br/>(kbit/s/slot)
+! Modulation
+! Data<br />code rate
+! Header<br />code rate
+|- align=center
+| MCS-1
+| 9.20
+| 8.00
+| GMSK
+| ≈0.53
+| ≈0.53
+|- align=center
+| MCS-2
+| 11.60
+| 10.40
+| GMSK
+| ≈0.66
+| ≈0.53
+|- align=center
+| MCS-3
+| 15.20
+| 14.80
+| GMSK
+| ≈0.85
+| ≈0.53
+|- align=center
+| MCS-4
+| 18.00
+| 16.80
+| GMSK
+| 1
+| ≈0.53
+|- align=center
+| MCS-5
+| 22.80
+| 21.60
+| 8PSK
+| ≈0.37
+| 1/3
+|- align=center
+| MCS-6
+| 30.00
+| 28.80
+| 8PSK
+| ≈0.49
+| 1/3
+|- align=center
+| MCS-7
+| 45.20
+| 44.00
+| 8PSK
+| ≈0.76
+| ≈0.39
+|- align=center
+| MCS-8
+| 54.80
+| 53.60
+| 8PSK
+| ≈0.92
+| ≈0.39
+|- align=center
+| MCS-9
+| 59.60
+| 58.40
+| 8PSK
+| 1
+| ≈0.39
+|}
+{{clear|both}}
+
+{{notelist}}
+
+== Evolved EDGE ==
+'''Evolved EDGE''', also called EDGE Evolution, is a bolt-on extension to the [[GSM]] mobile telephony standard, which improves on EDGE in a number of ways. Latencies are reduced by lowering the [[Transmission Time Interval]] by half (from 20 ms to 10 ms). Bit rates are increased up to 1 Mbit/s peak bandwidth and latencies down to 80 ms using dual carrier, higher symbol rate and [[higher-order modulation]] (32QAM and 16QAM instead of 8PSK), and [[turbo code]]s to improve error correction. This results in real world downlink speeds of up to 600kbit/s.<ref>{{cite web |url=http://developer.att.com/devcentral/tools_technologies/network/docs/DataCapabilities_GPRS__to_HSDPA.pdf |title=EDGE, HSPA and LTE: The Mobile Broadband Advantage |publisher=Rysavy Research and 3G Americas |pages=58–65 |date=2007-09-01 |access-date=2010-09-27 |url-status=dead |archive-url=https://web.archive.org/web/20091007091901/http://developer.att.com/devcentral/tools_technologies/network/docs/DataCapabilities_GPRS__to_HSDPA.pdf |archive-date=2009-10-07 }}</ref> Further the signal quality is improved using dual antennas improving average bit-rates and spectrum efficiency.
+
+The main intention of increasing the existing EDGE throughput is that many operators would like to upgrade their existing infrastructure rather than invest on new network infrastructure. Mobile operators have invested billions in GSM networks, many of which are already capable of supporting EDGE data speeds up to 236.8 kbit/s. With a software upgrade and a new device compliant with Evolved EDGE (like an Evolved EDGE [[smartphone]]) for the user, these data rates can be boosted to speeds approaching 1 Mbit/s (i.e. 98.6 kbit/s per timeslot for 32QAM). Many service providers may not invest in a completely new technology like [[3G]] networks.<ref name="engadgetmobile.com">{{cite web|url=http://www.engadgetmobile.com/2009/09/14/nokia-siemens-fires-off-first-edge-evolution-downlink-dual-carrier/|title=Yahoo!|website=www.engadgetmobile.com|access-date=2016-03-14|archive-date=2018-11-17|archive-url=https://web.archive.org/web/20181117151434/http://www.engadgetmobile.com/2009/09/14/nokia-siemens-fires-off-first-edge-evolution-downlink-dual-carrier/|url-status=dead}}</ref>
+
+Considerable research and development happened throughout the world for this new technology. A successful trial by Nokia Siemens and "one of China's leading operators" has been achieved in a live environment.<ref name="engadgetmobile.com"/> With the introduction for more advanced wireless technologies like UMTS and LTE, which also focus on a network coverage layer on low frequencies and the upcoming phase-out and shutdown of [[2G]] mobile networks, it is very unlikely that Evolved EDGE will ever see any deployment on live networks. Up to now (as of 2016) there are no [[Wireless network|commercial networks]] which support the Evolved EDGE standard (3GPP Rel-7).
+
+=== Technology ===
+
+==== Reduced Latency ====
+With Evolved EDGE come three major features designed to reduce latency over the air interface.
+
+In EDGE, a single RLC data block (ranging from 23 to 148 bytes of data) is transmitted over four frames, using a single time slot. On average, this requires 20 ms for one way transmission. Under the RTTI scheme, one data block is transmitted over two frames in two timeslots, reducing the latency of the air interface to 10 ms.
+
+In addition, Reduced Latency also implies support of Piggy-backed [[ACK (TCP)|ACK]]/[[NACK]] (PAN), in which a bitmap of blocks not received is included in normal data blocks. Using the PAN field, the receiver may report missing data blocks immediately, rather than waiting to send a dedicated PAN message.
+
+A final enhancement is RLC-non persistent mode. With EDGE, the RLC interface could operate in either acknowledged mode, or unacknowledged mode. In unacknowledged mode, there is no retransmission of missing data blocks, so a single corrupt block would cause an entire upper-layer IP packet to be lost. With non-persistent mode, an RLC data block may be retransmitted if it is less than a certain age. Once this time expires, it is considered lost, and subsequent data blocks may then be forwarded to upper layers.
+
+==== Downlink Dual Carrier ====
+With Downlink Dual Carrier, the handheld is able to receive on two different frequency channels at the same time, doubling the downlink throughput. In addition, if second receiver is present then the handheld is able to receive on an additional timeslot in single-carrier mode, because it may overlap the tuning of one receiver with other tasks.
+
+==== Higher Modulation Schemes ====
+Both uplink and downlink throughput is improved by using 16 or 32 QAM (Quadrature Amplitude Modulation), along with turbo codes and higher symbol rates.
+
+== Networks ==
+
+The Global mobile Suppliers Association (GSA) states that,<ref>{{cite web|url=http://www.gsacom.com/downloads/pdf/EDGE_Fact_Sheet_030513.php4 |title=GSA – The Global mobile Suppliers Association EDGE Databank |publisher=Gsacom.com |access-date=2013-03-05}}</ref> as of May 2013, there were 604 GSM/EDGE networks in 213 countries, from a total of 606 mobile network operator commitments in 213 countries.
+
+== See also ==
+{{portal|Telecommunication}}
+* [[Broadband Internet access]]
+* [[CDMA2000]]
+* [[Evolution-Data Optimized]]
+* [[List of device bandwidths]]
+* [[Mobile broadband]]
+* [[Spectral efficiency#Comparison table|Spectral efficiency comparison table]]
+* [[UMTS]]
+* [[IDEN#WiDEN|WiDEN]]
+* [[Wi-Fi]]
+* [[Comparison of mobile phone standards]] including LTE
+* [[Comparison of wireless data standards]] including WiMAX and HSPA+
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.gsacom.com/ The Global mobile Suppliers Association]
+* [https://web.archive.org/web/20160303212257/http://www.3g.co.uk/PR/Nov2006/3897.htm Evolved EDGE as an alternative to 3G]
+* [https://web.archive.org/web/20081021132523/http://www.3gamericas.org/English/About_3G_Americas/ A technical document by the 3G Americas association]
+* [https://web.archive.org/web/20160315034947/http://mobilesociety.typepad.com/mobile_life/2006/11/evolved_edge_th.html An opinion on evolved EDGE by Martin Sauter]
+* [https://web.archive.org/web/20130306012136/http://www.visantstrategies.com/market_research/edge_evolution_egprs_evolved.html An EDGE Evolution report by Visant Strategies]
+
+{{Mobile telecommunications standards}}
+{{Telecommunications}}
+
+{{DEFAULTSORT:Enhanced Data Rates For Gsm Evolution}}
+[[Category:GSM standard]]
+[[Category:Telecommunications-related introductions in 2003]]
+[[Category:Videotelephony]]

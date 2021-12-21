@@ -1,0 +1,258 @@
+{{short description|American singer-songwriter and musician (born 1991)}}
+{{Use mdy dates|date=June 2020}}
+{{Infobox musical artist
+| name         = Jaymes Young
+| image        = JaymesYoung November2019.jpg
+| caption      = Jaymes Young performing in November 2019
+| birth_name   = Jaymes McFarland
+| birth_date   = {{Birth date and age|mf=yes|1991|9|1}}
+| birth_place  = [[Seattle]], Washington, <br>United States
+| instrument   = {{flatlist|
+*Vocals
+*guitar}}
+| genre        = {{flatlist|
+*[[Alternative rock]]
+*[[indie pop]]
+*[[electronica]]}}
+| occupation   = {{flatlist|
+*Singer-songwriter
+*record producer}}
+| years_active = 2013–present
+| label        = [[Atlantic Records|Atlantic]]
+| website      = {{URL|jaymesyng.com}}
+}}
+
+'''Jaymes Young''' (born '''Jaymes McFarland'''; September 1, 1991) is an American singer-songwriter and musician. On September 9, 2013, he debuted his first extended play, ''Dark Star''. His debut album ''Feel Something'' was released on June 23, 2017.
+
+==Career==
+[[File:Jaymes Young performing in San Francisco 2013.jpg|thumb|200px|right|Jaymes Young performing at The Rickshaw Stop in San Francisco on September 27, 2013]]
+In 2013 he was signed to a recording contract with [[Atlantic Records]] and toured with the trip hop trio [[London Grammar]].<ref name="pigeonsandplanes">{{cite web|url=http://pigeonsandplanes.com/2013/10/jaymes-young-interview/s/273622/|title=Dark Star Shining: A Conversation With Jaymes Young|date=October 16, 2013|work=Pigeons & Planes|url-status=dead|archiveurl=https://web.archive.org/web/20131129145147/http://pigeonsandplanes.com/2013/10/jaymes-young-interview/s/273622/|archivedate=November 29, 2013}}</ref> He released his second EP ''Habits of My Heart'' on September 28, 2014, on Atlantic Records and opened for [[Vance Joy]] on the latter's "Dream Your Life Away" tour. He was featured alongside [[Birdy (singer)|Birdy]] in [[David Guetta]]'s "[[I'll Keep Loving You]]" on Guetta's 2014 album ''[[Listen (David Guetta album)|Listen]]''. In 2016, he worked with American electronic musician [[Zhu (musician)|Zhu]] in co-writing and featuring un-credited vocals on two tracks, entitled "Hometown Girl" which was originally based on Meghan Gier and Benjamin Griffith's relationship and "Cold Blooded" which was based on Jaymes Young's life at a young age. The songs eventually became part of ZHU's debut studio album ''[[Generationwhy]]'', which was released on July 29, 2016.
+
+On May 11, 2018, McFarland said he was stepping away from the Jaymes Young project, saying on his [[Facebook]] "I'm taking a possibly permanent break from Jaymes Young as a project. I'll be back somehow someway... I can promise that. I owe a lot more music to those who have supported me. I'm following the path I feel is best. Thanks for listening."<ref>{{Cite web|url=https://www.facebook.com/jaymesyoungmusic/posts/1547663518665200|title=Jaymes Young|via=Facebook|language=en|access-date=May 12, 2018}}</ref>
+
+==Personal life==
+McFarland grew up in Seattle, Washington, and attributes his varied interest in music to his music-loving parents and siblings (two older brothers and one younger sister). His musical influences include [[Coldplay]], [[Radiohead]], [[Maroon 5]], [[Iron & Wine]], and [[Death Cab for Cutie]].<ref name="pigeonsandplanes" /><ref>{{cite web|url=http://www.billboard.com/articles/columns/pop/7777135/jaymes-young-interview-phoebe-ryan-new-album|title=Rising Alt-Pop Artist Jaymes Young on Breakthrough Phoebe Ryan Collab and Weed As a Creative Tool|date=May 4, 2017|work=Billboard}}</ref> McFarland began playing the guitar and writing lyrics at age 14. Music became a creative outlet for his ideas and inspiration.<ref name="pigeonsandplanes" /> Apart from music, his interests include science and philosophy.<ref name="doc">{{cite web|url=http://press.atlanticrecords.com/wp-content/uploads/2014/08/Jaymes-Young-Bio.doc|title=Jaymes Young Bio|date=August 2014|work=Atlantic}}</ref> He currently resides in Los Angeles.<ref name="doc" /> Before he adopted the name Jaymes Young, McFarland was a member of a small Seattle-based band named Corner State that released a single album in 2010.<ref>https://www.youtube.com/watch?v=w_ywxO2NgDs</ref>
+
+==Discography==
+===Studio albums===
+{| class ="wikitable plainrowheaders" style="text-align:center"
+|-
+! scope="col" rowspan="2" | Title
+! scope="col" rowspan="2" | Album details
+! scope="col" colspan="1" | Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Top Heatseekers|US<br />Heat.]]<br /><ref name="Heatseekers">{{cite web|url=https://www.billboard.com/music/jaymes-young/chart-history/TLN|title=Jaymes Young Chart History: Heatseekers Albums|work=[[Billboard (magazine)|Billboard]]|access-date=October 11, 2021}}</ref>
+|-
+!scope="row"|''Feel Something''
+|
+*Released: June 23, 2017
+*Label: [[Atlantic Records|Atlantic]]
+| 9
+|}
+
+===Extended plays===
+{| class ="wikitable plainrowheaders"
+|-
+! scope="col" rowspan="2" | Title
+! scope="col" rowspan="2" | EP details
+! scope="col" colspan="1" | Peak chart positions
+! scope="col" rowspan="2" | Notes
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Top Heatseekers|US<br />Heat.]]<br /><ref name="Heatseekers"/>
+|-
+!scope="row"|''Dark Star''
+|
+*Released: September 9, 2013
+*Label: [[Atlantic Records|Atlantic]]
+| align="center"| —
+| {{Track listing
+| title1 = Dark Star
+| length1 = 3:57
+| title2 = Two More Minutes
+| length2 = 3:48
+| title3 = One Last Time
+| length3 = 3:19
+| title4 = Moondust
+| length4 = 3:45
+| title5 = Wondering
+| length5 = 4:22
+}}
+|-
+!scope="row"|''Habits of My Heart''
+|
+*Released: September 28, 2014
+*Label: Atlantic
+| align="center"| 44
+| {{Track listing
+| title1 = Habits of My Heart
+| length1 = 3:30
+| title2 = I'll Be Good
+| length2 = 4:04
+| title3 = What Should I Do
+| length3 = 3:40
+| title4 = Come Back for Me
+| length4 = 4:28
+| title5 = Moondust
+| length5 = 3:36
+| note5 = Stripped
+}}
+|}
+
+===Mixtapes===
+{| class ="wikitable plainrowheaders"
+|-
+!Title
+!Album details
+!Notes
+|-
+! scope="row"| ''Dark Star''<ref>{{cite web|url=https://soundcloud.com/jaymes-young/sets/dark-star|title=Dark Star by Jaymes Young|publisher=SoundCloud|accessdate=June 7, 2017}}</ref><ref>{{cite web|url=https://hypebeast.com/2013/8/jaymes-young-dark-star-mixtape|title=Jaymes Young – Dark Star (Mixtape)|publisher=Hypebeast|date=August 22, 2013|accessdate=June 7, 2017}}</ref><ref>{{cite web|url=http://earmilk.com/album-reviews/158903/jaymes-young/dark-star/|title=Album Review: Jaymes Young – Dark Star – EARMILK|publisher=Earmilk|date=August 21, 2013|accessdate=June 7, 2017}}</ref>
+|
+*Released: August 20, 2013
+*Label: Self-released
+| {{Track listing
+| title1 = Dark Star
+| length1 = 3:57
+| title2 = Two More Minutes
+| length2 = 3:48
+| title3 = One Last Time
+| length3 = 3:19
+| title4 = Moondust
+| length4 = 3:45
+| title5 = Fragments
+| length5 = 4:17
+| title6 = Wondering
+| length6 = 4:22
+| title7 = [[What Is Love]]
+| length7 = 3:28
+| note7 = cover
+| title8 = Parachute
+| length8 = 3:58
+| title9 = Waiting for the Sun
+| length9 = 1:05
+| title10 = Hold You Down
+| length10 = 3:15
+| title11 = Running On Fumes
+| length11 = 4:06
+| title12 = [[As Long as You Love Me (Justin Bieber song)|As Long as You Love Me]]
+| length12 = 3:27
+| note12 = cover
+| title13 = Northern Lights
+| length13 = 3:57
+}}
+|}
+
+===Singles===
+====As lead artist====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+!scope="col" rowspan="2"|Title
+!scope="col" rowspan="2"|Year
+!scope="col" colspan="2"|Peak chart positions
+!scope="col" rowspan="2"|Album
+!scope="col" rowspan="2"|Certifications
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[GfK Entertainment charts|GER]]<br /><ref name="GER">{{cite web|url=https://www.offiziellecharts.de/suche?artist_search=Jaymes+Young&do_search=do|title=Discographie Jaymes Young|website=offiziellecharts.de|access-date=October 22, 2021}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[Swiss Hitparade|SWI]]<br /><ref>{{cite web|url=https://hitparade.ch/song/Jaymes-Young/Infinity-2222329|title=Jaymes Young – Infinity|website=hitparade.ch|access-date=October 24, 2021}}</ref>
+|-
+!scope="row"|"I'll Be Good"
+|rowspan="2"|2015
+| — || —
+|
+* [[RIAA]]: Gold<ref name="RIAA">{{cite web|url=https://www.riaa.com/gold-platinum/?tab_active=default-award&se=jaymes_young#search_section|title=RIAA: Gold & Platinum Search|website=RIAA|accessdate=July 7, 2020}}</ref>
+|''Habits of My Heart'' EP
+|-
+!scope="row"|"We Won't"<br>{{small|(featuring [[Phoebe Ryan]])}}
+| — || —
+|
+|rowspan="2"|''Feel Something''
+|-
+!scope="row"|"Infinity"
+|2017
+| 49 || 55
+|
+|-
+!scope="row"|"Happiest Year"
+|2019
+| — || —
+|
+* RIAA: Gold<ref name="RIAA"/>
+|{{n/a|Non-album single}}
+|}
+
+====As featured artist====
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+! scope="col" rowspan="2" | Title
+! scope="col" rowspan="2" | Year
+! scope="col" colspan="3" | Peak positions
+! scope="col" rowspan="2" | Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Dance Club Songs|US<br />Dance]]<br /><ref>{{cite web|url=https://www.billboard.com/music/jaymes-young/chart-history/DSI|title=Jaymes Young Chart History: Dance Club Songs|work=[[Billboard (magazine)|Billboard]]|access-date=October 11, 2021}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="fr">{{cite web | url=http://lescharts.com/showinterpret.asp?interpret=Jaymes+Young | title=Jaymes Young discography | publisher=Hung Medien | work=lescharts.com |accessdate=December 10, 2014}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[GfK Entertainment charts|GER]]<br /><ref name="GER"/>
+|-
+! scope="row" | "[[I'll Keep Loving You]]"<br>{{small|([[David Guetta]] featuring Jaymes Young and [[Birdy (singer)|Birdy]])}}
+| 2014
+| — || 144 || 96
+| ''[[Listen (David Guetta album)|Listen]]''
+|-
+! scope="row" | "[[Sonnentanz|Sun Don't Shine]]"<br>{{small|([[Klangkarussell]] featuring Jaymes Young)}}
+| 2015
+| 18 || — || —
+| {{n/a|Non-album single}}
+|-
+! scope="row" | "Hit Me Harder"<br>{{small|([[Skizzy Mars]] featuring Jaymes Young)}}
+| 2016
+| — || — || —
+| ''Alone Together''
+|-
+! scope="row" | "Same Soul"<br>{{small|([[Pvris]] featuring Jaymes Young and [[Marian Hill]])}}<ref>{{Cite news|url=https://www.altpress.com/news/pvris_same_soul_remix_marian_hill_ft_jaymes_young/|title=Hear PVRIS' Marian Hill remix of "Same Soul" ft. Jaymes Young – Alternative Press|date=April 27, 2018|work=Alternative Press|access-date=July 11, 2018|language=en-US}}</ref><ref>{{Cite web|url=http://www.vanyaland.com/2018/04/27/pvris-team-with-marian-hill-and-jaymes-young-for-a-remix-of-same-soul/|title=PVRIS team with Marian Hill and Jaymes Young for a remix of 'Same Soul'|last=Marotta|first=Michael|date=April 27, 2018|website=Vanyaland}}</ref>
+| 2018
+| — || — || —
+| {{n/a|Non-album single}}
+|}
+
+==Songwriting credits==
+{{Color box|#ffffcc|border=darkgray}} indicates a background vocal contribution.
+
+{{Color box|#87CEEB|border=darkgray}} indicates an un-credited lead vocal contribution.
+
+{{Color box|#6495ed|border=darkgray}} indicates a credited vocal/featured artist contribution.
+
+{|class="wikitable"
+! Year !! Artist !! Song !! Album
+|-
+| rowspan="2"| 2014 || [[Issues (band)|Issues]] || "Mad at Myself" || ''[[Issues (Issues album)|Issues]]''
+|-
+| [[David Guetta]] ||style="background:#6495ed"| "[[I'll Keep Loving You]]" {{small|feat. [[Birdy (singer)|Birdy]] and Jaymes Young}} || ''[[Listen (David Guetta album)|Listen]]''
+|-
+| rowspan="2"| 2015 || [[Cut Snake (band)|Cut Snake]] ||style="background:#ffffcc"| "Echo" || ''Life's a Beach EP''
+|-
+| [[Skizzy Mars]] ||style="background:#6495ed"| "Hit Me Harder" {{small|feat. Jaymes Young}} || ''Alone Together''
+|-
+| rowspan="2"| 2016 || rowspan="2"| [[Zhu (musician)|Zhu]] ||style="background:#87ceeb"| "Hometown Girl" || rowspan="2"| ''[[Generationwhy]]''
+|-
+|style="background:#87ceeb"| "Cold Blooded"
+|-
+| 2019 || [[Illenium]] || "Lonely" {{small|feat. Chandler Leighton}} || ''[[Ascend (Illenium album)|Ascend]]''
+|-
+| 2020 || [[Kygo]] || "How Would I Know" {{small|with [[Oh Wonder]]}} || ''[[Golden Hour (Kygo album)|Golden Hour]]''
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Young, Jaymes}}
+[[Category:Living people]]
+[[Category:Musicians from Seattle]]
+[[Category:Songwriters from Washington (state)]]
+[[Category:Singers from Washington (state)]]
+[[Category:1991 births]]
+[[Category:21st-century American singers]]
+[[Category:21st-century American male singers]]
+[[Category:American male songwriters]]
+
+
+{{US-musician-stub}}

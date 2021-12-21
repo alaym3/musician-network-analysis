@@ -1,0 +1,131 @@
+{{Use dmy dates|date=March 2020}}
+{{refimprove|date=February 2012}}
+{{Infobox musical artist
+| name            = Eva & the Heartmaker
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = Norway
+| genre           = [[Pop music|Pop]], [[dance music|dance]]
+| years_active    = 2006–present
+| label           =
+| associated_acts =
+| website         = {{URL|www.evaandtheheartmaker.com/}}
+| current_members = Eva Weel Skram <small>(vocals)</small><br /> Thomas Stenersen
+| past_members    = 
+}}
+
+{{Infobox musical artist
+| name            = Eva Weel Skram
+| image           = Eva weel 2019 11578 .jpg
+| caption         = Skram in August 2019
+| image_size      =
+| birth_name      =
+| alias           =
+| birth_date      = {{birth date and age|1985|12|17}}
+| birth_place     = [[Sogndal]], Norway
+| instrument      = Vocals
+| genre           = Pop, [[Dance music|dance]]
+| occupation      = Singer
+| years_active    = 2005{{spaced ndash}}present
+| label           =
+| associated_acts = Eva & the Heartmaker
+| website         =
+| current_members =
+| past_members    = 
+}}
+'''Eva & The Heartmaker''' is a Norwegian musical duo made up of '''Eva Weel Skram''' and her husband '''Thomas Stenersen''', with Eva on main vocals. They have released four studio albums and a number of charting singles in the dance genre.
+
+==Eva Weel Skram==
+Eva Weel Skram (born in [[Sogndal]], Norway on 17 December 1985) studied music, dance and drama [[Firda Upper Secondary School]] in [[Sandane]] from 2001 to 2004. In 2005, she appeared in season 3 of the Norwegian ''Idol'' series. She was eliminated on 22 April 2005 from the competition finishing 6th overall. After ''Idol'' she continued her studies for one more year at Romerike Folkehøgskole.
+
+==Duo Eva and the Heartmaker==
+Soon after she formed the duo Eva & The Heartmaker and on 28 August 2006, the duo released their debut album ''Behind Golden Frames'' followed in 2009 by ''Let's Keep This Up Forever'' that received favorable reviews. "Superhero" taken from the album remains their biggest hit reaching No. 4 on the [[VG-lista]] official Norwegian Singles Chart. The duo appeared at the 2010 "Sommerspillet" festival event in Arendal. Their third album ''Dominoes''' was released in 2011 followed by ''Traces of You'' has been released in 2013.<ref>[http://www.scandipop.co.uk/eva-the-heartmaker-traces-of-you/ Scandipop: Eva & The Heartmaker: ''Traces of You'']</ref>
+
+Although a duo, in live events they use backup musicians basically made up of Alf Magne Hillestad (drums), Ingar Blix (bass) Lars Kvistum (keyboards) and Anne Marte Nesdal (backing vocals).
+
+==Discography==
+<small>(all credited to Eva & The Heartmaker)</small>
+===Albums===
+{| class="wikitable"
+|-
+! Year
+! Album
+! Chart <br>peak<br /><small>[[VG-lista|NOR]]<br><ref name=nor>{{cite web|url=http://norwegiancharts.com/showinterpret.asp?interpret=Eva+%26+The+Heartmaker |title=NorwegianCharts.com Eva & The Heartmaker discography page|publisher=Norwegiancharts.com|accessdate=14 February 2013}}</ref></small>
+! Certification
+|-
+|2006
+|''Behind Golden Flames''
+| style="text-align:center;"|—
+|
+|-
+|2009
+|''Let's Keep This Up Forever''
+| style="text-align:center;"|13
+|
+|-
+|2011
+|''Dominoes''
+| style="text-align:center;"|15
+|
+|-
+|2013
+|''Traces of You''
+| style="text-align:center;"|7
+|
+|-
+|2018
+|''Finne heim''<br />{{small|(as Eva Weel Skram)}}
+| style="text-align:center;"|2<br /><ref>{{cite web|url=http://www.vglista.no/topplister/topp-40-album-2018-39/|title=VG-lista – Topp 40 Album uke 39, 2018|publisher=[[VG-lista]]|accessdate=29 September 2018}}</ref>
+|
+|-
+|2021
+|''Sleppe tak''<br />{{small|(as Eva Weel Skram)}}
+| style="text-align:center;"|23<br /><ref>{{cite web|url=http://www.vglista.no/topplister/topp-40-album-2021-06/|title=VG-lista – Topp 40 Album uke 6, 2021|publisher=[[VG-lista]]|accessdate=13 February 2021}}</ref>
+|
+|}
+
+===Singles===
+{| class="wikitable"
+|-
+! Year
+! Single
+! Chart <br>peak<br /><small>[[VG-lista|NOR]]<br><ref name=nor/></small>
+! Certification
+! Album
+|-
+|rowspan=2|2009
+|"Superhero"
+| style="text-align:center;"|4
+| style="text-align:center;"|
+| style="text-align:center;" rowspan=2|''Let's Keep This Up Forever''
+|-
+|"Please!"
+| style="text-align:center;"|10
+| style="text-align:center;"|
+|-
+|2010
+|"Mr. Tokyo"
+| style="text-align:center;"|17
+| style="text-align:center;"|
+| style="text-align:center;"|''Dominoes''
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.facebook.com/evaheartmaker Official Facebook]
+*[http://www.discogs.com/artist/Eva+%26+The+Heartmaker Discogs]
+{{MTV Europe Music Award for Best Norwegian Act}}
+
+{{Authority control}}
+{{DEFAULTSORT:Eva and the heartmaker}}
+
+[[Category:Norwegian musical duos]]
+[[Category:Musicians from Sogndal]]
+[[Category:Pop music duos]]
+[[Category:Male–female musical duos]]
+[[Category:Norwegian pop music groups]]

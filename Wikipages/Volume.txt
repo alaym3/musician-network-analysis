@@ -1,0 +1,273 @@
+{{Short description|Quantity of three-dimensional space}}
+{{Other uses}}
+{{Infobox physical quantity
+| name = Volume
+| image = Simple Measuring Cup.jpg
+| caption = A [[measuring cup]] can be used to measure volumes of [[liquid]]s. This cup measures volume in units of [[Cup (unit)|cups]], [[fluid ounce]]s, and [[millilitre]]s.
+| unit = [[Cubic metre]] [m<sup>3</sup>]
+| otherunits = [[Litre]], [[fluid ounce]], [[gallon]], [[quart]], [[pint]], [[teaspoon|tsp]], [[dram (unit)|fluid dram]], [[cubic inch|in<sup>3</sup>]], [[cubic yard|yd<sup>3</sup>]], [[Barrel (unit)|barrel]]
+| symbols = ''V''
+| baseunits = 1&nbsp;[[Metre|m]]<sup>3</sup>
+| dimension = '''L'''<sup>3</sup>
+}}
+
+'''Volume''' is a [[scalar quantity (physics)|scalar quantity]] expressing the [[amount]] of [[three-dimensional space]] enclosed by a [[closed surface]].  For example, the space that a substance ([[solid]], [[liquid]], [[gas]], or [[Plasma (physics)|plasma]]) or [[3D shape]] occupies or contains.<ref>
+{{cite web
+ |url=http://www.yourdictionary.com/volume
+ |title= Your Dictionary entry for "volume"
+ |access-date=2010-05-01
+}}</ref> Volume is often quantified numerically using the [[SI derived unit]], the [[cubic metre]]. The volume of a container is generally understood to be the capacity of the container; i.e., the amount of [[fluid]] (gas or liquid) that the container could hold, rather than the amount of space the container itself displaces.
+[[Three dimensional]] mathematical shapes are also assigned volumes. Volumes of some simple shapes, such as regular, straight-edged, and circular shapes can be easily calculated using [[arithmetic]] [[formula]]s<!--- both "formulae" and "formulas" are correct plurals of "formula" --->. Volumes of complicated shapes can be calculated with [[integral calculus]] if a formula exists for the shape's boundary. One-dimensional figures (such as [[line (mathematics)|lines]]) and [[two-dimensional]] shapes (such as [[square (geometry)|squares]]) are assigned zero volume in the three-dimensional space.
+
+The volume of a solid (whether regularly or irregularly shaped) can be determined by [[Displacement (fluid)|fluid displacement]]. Displacement of liquid can also be used to determine the volume of a gas. The combined volume of two substances is usually greater than the volume of just one of the substances. However, sometimes one substance dissolves in the other and in such cases the combined volume is not [[additive map|additive]].<ref>One litre of sugar (about 970 grams) can dissolve in 0.6 litres of hot water, producing a total volume of less than one litre. {{cite web |url=http://chemed.chem.purdue.edu/genchem/topicreview/bp/ch18/soluble.php |title=Solubility |access-date=2010-05-01 |quote=Up to 1800 grams of sucrose can dissolve in a liter of water.}}</ref>
+
+In ''[[differential geometry]]'', volume is expressed by means of the [[volume form]], and is an important global [[Riemannian geometry|Riemannian]] [[Invariant (mathematics)|invariant]].
+In ''[[thermodynamics]]'', volume is a [[gas volume|fundamental parameter]], and is a [[conjugate variables (thermodynamics)|conjugate variable]] to [[pressure]].
+
+==Units==
+{{main|unit of volume}}
+[[File:Volume measurements from The New Student's Reference Work.svg|thumb|220px|Volume measurements from the 1914 [[s:The New Student's Reference Work|The New Student's Reference Work]].
+
+{| class="wikitable" style="width:200px;font-size:88%;margin:auto;"
+|+ Approximate conversion to metric (mL)'''<ref>{{cite web|url=http://ts.nist.gov/WeightsAndMeasures/Publications/appxc.cfm#4e |title=General Tables of Units of Measurement |publisher=NIST Weights and Measures Division |access-date=2011-01-12 |url-status=dead |archive-url=https://web.archive.org/web/20111210164956/http://ts.nist.gov/weightsandmeasures/publications/appxc.cfm |archive-date=2011-12-10 }}</ref>
+|-
+! rowspan=2 |
+! rowspan=2 | {{abbr|Imp.|Imperial}}
+! colspan=2 | U.S.
+|-
+! Liquid
+! Dry
+|-
+| [[Gill (unit)|Gill]] ||  142 ||  118 ||  138
+|-
+| [[Pint]]             ||  568 ||  473 ||  551
+|-
+| [[Quart]]            || 1137 ||  946 || 1101
+|-
+| [[Gallon]]           || 4546 || 3785 || 4405
+|}
+]]
+Any unit of [[length]] gives a corresponding unit of volume: the volume of a [[cube]] whose sides have the given length. For example, a [[cubic centimetre]] (cm<sup>3</sup>) is the volume of a cube whose sides are one [[centimetre]] (1&nbsp;cm) in length.
+
+In the [[International System of Units]] (SI), the standard unit of volume is the cubic metre (m<sup>3</sup>). The [[metric system]] also includes the [[litre]] (L) as a unit of volume, where one litre is the volume of a 10-centimetre cube. Thus
+:1  = (10 cm)<sup>3</sup> = 1000 cubic centimetres = 0.001 cubic metres,
+
+so
+:1 cubic metre = 1000 litres.
+Small amounts of liquid are often measured in [[millilitre]]s, where
+:1 millilitre = 0.001 litres = 1 cubic centimetre.
+In the same way, large amounts can be measured in megalitres, where
+:1 million litres = 1000 cubic metres = 1 megalitre.
+
+Various other traditional units of volume are also in use, including the [[cubic inch]], the [[cubic foot]], the [[cubic yard]], the [[cubic mile]], the [[teaspoon]], the [[tablespoon]], the [[fluid ounce]], the [[fluid dram]], the [[gill (volume)|gill]], the [[pint]], the [[quart]], the [[gallon]], the [[minim (unit)|minim]], the [[barrel (unit)|barrel]], the [[cord (unit)|cord]], the [[peck]], the [[bushel]], the [[hogshead]], the [[acre-foot]] and the [[board foot]]. These are all units of volume.
+{{see also2|[[List of unusual units of measurement#Volume|unusual]]|[[List of obsolete units of measurement#Volume (dry and liquid)|obsolete units of volume]]}}
+
+== Related terms ==
+''Capacity'' is defined by the [[Oxford English Dictionary]] as "the measure applied to the content of a vessel, and to liquids, grain, or the like, which take the shape of that which holds them".<ref>{{OED|capacity}}</ref> (The word ''capacity'' has other unrelated meanings, as in e.g. [[capacity management]].) Capacity is not identical in meaning to volume, though closely related; the capacity of a container is always the volume in its interior. Units of capacity are the [[SI]] litre and its derived units, and Imperial units such as [[Gill (unit)|gill]], [[pint]], [[gallon]], and others. Units of volume are the cubes of [[units of length]]. In SI the units of volume and capacity are closely related: one litre is exactly 1 cubic decimetre, the capacity of a cube with a 10&nbsp;cm side. In other systems the conversion is not trivial; the capacity of a vehicle's fuel tank is rarely stated in cubic feet, for example, but in gallons (an imperial gallon fills a volume with 0.1605 cu ft).
+
+The ''[[density]]'' of an object is defined as the ratio of the [[mass]] to the volume.<ref>{{OED|density}}</ref> The inverse of density is ''[[specific volume]]'' which is defined as volume divided by mass. Specific volume is a concept important in [[thermodynamics]] where the [[volume (thermodynamics)|volume of a working fluid]] is often an important parameter of a system being studied.
+
+The [[volumetric flow rate]] in [[fluid dynamics]] is the volume of fluid which passes through a given surface per unit time (for example cubic meters per second [m<sup>3</sup> s<sup>−1</sup>]).
+
+''Volumetric space'' is a 3D [[region (mathematics)|region]] having a [[shape]] in addition to capacity or volume.
+
+== Calculus ==
+{{Further|Volume element}}
+
+In [[calculus]], a branch of [[mathematics]], the volume of a [[region (mathematics)|region]] ''D'' in '''R'''<sup>3</sup> is given by a [[multiple integral|triple integral]] of the constant [[function (mathematics)|function]] <math>f(x,y,z)=1</math> over the region and is usually written as:
+
+:<math>\iiint\limits_D 1 \,dx\,dy\,dz.</math>
+
+In [[cylindrical coordinate system|cylindrical coordinates]], the volume integral is
+
+:<math>\iiint\limits_D r\,dr\,d\theta\,dz, </math>
+
+In [[spherical coordinate system|spherical coordinates]] (using the convention for angles with <math>\theta</math> as the azimuth and <math>\varphi</math> measured from the polar axis; see more on [[Spherical coordinate system#Conventions|conventions]]), the volume integral is
+
+:<math>\iiint\limits_D \rho^2 \sin\varphi \,d\rho \,d\theta\, d\varphi .</math>
+
+== Formulas ==
+{{anchor|Volume formulas|List of volume formulas}}
+{{See also|List of formulas in elementary geometry}}
+
+{| class="wikitable"
+|-
+! Shape
+! Volume formula
+! Variables
+|-
+|[[Cube (geometry)|Cube]] 
+| style="text-align:center" | <math>V=a^3\;</math>
+| style="text-align:center" |[[File:Wuerfel-1-tab.svg|80px]]
+|-
+| [[Cuboid]]
+| style="text-align:center" | <math>V=abc</math>
+| style="text-align:center" | [[File:Quader-1-tab.svg|150px]]
+|-
+| [[Prism (geometry)|Prism]]<br>
+(''B'': [[area]] of base)
+| style="text-align:center" | <math>V=B h</math>
+| style="text-align:center" | [[File:Prisma-1-e.svg|120px]]
+|-
+| [[Pyramid (geometry)|Pyramid]]<br>
+(''B'': area of base)
+| style="text-align:center" | <math>V=\frac{1}{3} B h</math>
+| style="text-align:center" | [[File:Pyramide-46-e.svg|200px]]
+|-
+| [[Parallelepiped]]
+| style="text-align:center" | <math>V=a b c  \sqrt{K}</math> {{paragraph}}
+<math>\begin{align}
+  K = 1 &+ 2\cos(\alpha)\cos(\beta)\cos(\gamma) \\
+        &- \cos^2(\alpha) - \cos^2(\beta) - \cos^2(\gamma)
+\end{align}</math>
+| style="text-align:center" | [[File:Parallelepiped-1-tab.svg|150px]]
+|-
+| Regular [[tetrahedron]]
+| style="text-align:center" | <math>V={\sqrt{2}\over12}a^3 \,</math>
+| style="text-align:center" | [[File:Tetraeder-1-tab.svg|100px]]
+|-
+| [[Sphere]]
+| style="text-align:center" | <math>V=\frac{4}{3} \pi r^3 </math>
+| style="text-align:center" | [[File:Kugel-1-tab.svg|100px]]
+|-
+| [[Ellipsoid]]
+| style="text-align:center"| <math>V=\frac{4}{3}\pi abc</math>
+| style="text-align:center" | [[File:Ellipsoid-1-tab.svg|150px]]
+|-
+| [[cylinder (geometry)|Circular Cylinder]]
+| style="text-align:center" | <math>V=\pi r^2 h</math>
+| style="text-align:center" | [[File:Zylinder-1-tab.svg|100px]]
+|-
+| [[Cone (geometry)|Cone]]
+| style="text-align:center" | <math>V=\frac{1}{3}\pi r^2 h</math>
+| style="text-align:center" | [[File:Kegel-1-tab.svg|100px]]
+|-
+| [[Solid torus]]
+| style="text-align:center" | <math>V=2\pi^2 Rr^2</math>
+| style="text-align:center" | [[File:Torus-1-tab.svg|200px]]
+|-
+| [[Solid of revolution]]
+| style="text-align:center" |<math>V= \pi \cdot \int_ {a}^b f(x)^2\mathrm{d}x </math>
+| style="text-align:center" | [[File:Vase-1-tab.svg|220px]]
+|-
+| Solid body with continuous area <br>
+<math>A(x)</math> of its cross sections<br>
+(example: [[Steinmetz solid]])
+| style="text-align:center" |<math>V= \int_ {a}^b A(x)\mathrm{d}x </math>
+|For the solid of revolution above: <br>
+<math>A(x)=\pi f(x)^2</math>
+|}
+
+===Ratios for a cone, sphere and cylinder of the same radius and height===
+
+[[File:Inscribed cone sphere cylinder.svg|thumb|350px|A cone, sphere and cylinder of radius ''r'' and height ''h'']]
+The above formulas can be used to show that the volumes of a [[cone (geometry)|cone]], sphere and [[cylinder (geometry)|cylinder]] of the same radius and height are in the ratio '''1&nbsp;:&nbsp;2&nbsp;:&nbsp;3''', as follows.
+
+Let the radius be ''r'' and the height be ''h'' (which is 2''r'' for the sphere), then the volume of the cone is
+
+:<math>\frac{1}{3} \pi r^2 h = \frac{1}{3} \pi r^2 \left(2r\right) = \left(\frac{2}{3} \pi r^3\right) \times 1,</math>
+
+the volume of the sphere is
+
+:<math>\frac{4}{3} \pi r^3 = \left(\frac{2}{3} \pi r^3\right) \times 2,</math>
+
+while the volume of the cylinder is
+
+:<math>\pi r^2 h = \pi r^2 (2r) = \left(\frac{2}{3} \pi r^3\right) \times 3.</math>
+
+The discovery of the '''2&nbsp;:&nbsp;3''' ratio of the volumes of the sphere and cylinder is credited to [[Archimedes]].<ref>{{cite web |first=Chris |last=Rorres|url = http://www.math.nyu.edu/~crorres/Archimedes/Tomb/Cicero.html|title = Tomb of Archimedes: Sources|publisher = Courant Institute of Mathematical Sciences|access-date = 2007-01-02}}</ref>
+
+=== Formula derivations ===
+
+==== Sphere ====
+
+The volume of a [[sphere]] is the [[integral]] of an infinite number of infinitesimally small circular [[Disk (mathematics)|disks]] of thickness ''dx''. The calculation for the volume of a sphere with center 0 and radius ''r'' is as follows.
+
+The surface area of the circular disk is <math>\pi r^2 </math>.
+
+The radius of the circular disks, defined such that the x-axis cuts perpendicularly through them, is
+: <math>y = \sqrt{r^2 - x^2}</math>
+
+or
+: <math>z = \sqrt{r^2 - x^2}</math>
+
+where y or z can be taken to represent the radius of a disk at a particular x value.
+
+Using y as the disk radius, the volume of the sphere can be calculated as
+: <math> \int_{-r}^r \pi y^2 \,dx = \int_{-r}^r \pi\left(r^2 - x^2\right) \,dx.</math>
+
+Now
+: <math>\int_{-r}^r \pi r^2\,dx - \int_{-r}^r \pi x^2\,dx = \pi \left(r^3 + r^3\right) - \frac{\pi}{3}\left(r^3 + r^3\right) = 2\pi r^3 - \frac{2\pi r^3}{3}.</math>
+
+Combining yields <math>V = \frac{4}{3}\pi r^3.</math>
+
+This formula can be derived more quickly using the formula for the sphere's [[surface area]], which is <math>4\pi r^2</math>. The volume of the sphere consists of layers of infinitesimally thin spherical shells, and the sphere volume is equal to
+
+: <math> \int_0^r 4\pi r^2 \,dr = \frac{4}{3}\pi r^3.</math>
+
+==== Cone ====
+The cone is a type of pyramidal shape. The fundamental equation for pyramids, one-third times base times altitude, applies to cones as well.
+
+However, using calculus, the volume of a [[Cone (geometry)|cone]] is the [[integral]] of an infinite number of infinitesimally thin circular [[Disk (mathematics)|disks]] of thickness ''dx''. The calculation for the volume of a cone of height ''h'', whose base is centered at (0, 0, 0) with radius ''r'', is as follows.
+
+The radius of each circular disk is ''r'' if ''x'' = 0 and 0 if ''x'' = ''h'', and varying linearly in between—that is,
+: <math>r \frac{h - x}{h}.</math>
+
+The surface area of the circular disk is then
+: <math> \pi \left(r\frac{h - x}{h}\right)^2 = \pi r^2\frac{(h - x)^2}{h^2}. </math>
+
+The volume of the cone can then be calculated as
+: <math> \int_0^h \pi r^2\frac{(h - x)^2}{h^2} dx, </math>
+
+and after extraction of the constants
+: <math>\frac{\pi r^2}{h^2} \int_0^h (h - x)^2 dx</math>
+
+Integrating gives us
+: <math>\frac{\pi r^2}{h^2}\left(\frac{h^3}{3}\right) = \frac{1}{3}\pi r^2 h.</math>
+
+==== Polyhedron ====
+{{main|Volume of a polyhedron}}
+
+== Differential geometry ==
+{{main|Volume form}}
+
+In [[differential geometry]], a branch of [[mathematics]], a '''volume form''' on a [[differentiable manifold]] is a [[differential form]] of top degree (i.e., whose degree is equal to the dimension of the manifold) that is nowhere equal to zero. A manifold has a volume form if and only if it is orientable. An orientable manifold has infinitely many volume forms, since multiplying a volume form by a non-vanishing function yields another volume form. On non-orientable manifolds, one may instead define the weaker notion of a [[Density on a manifold|density]]. Integrating the volume form gives the volume of the manifold according to that form.
+
+An [[orientation (space)|oriented]] [[pseudo-Riemannian manifold]] has a natural volume form. In [[local coordinates]], it can be expressed as
+:<math>\omega = \sqrt{|g|} \, dx^1 \wedge \dots \wedge dx^n ,</math>
+
+where the <math>dx^i</math> are [[1-form]]s that form a positively oriented basis for the [[cotangent bundle]] of the manifold, and <math>g</math> is the [[determinant]] of the matrix representation of the [[metric tensor]] on the manifold in terms of the same basis.
+
+== Thermodynamics ==
+{{Main| Volume (thermodynamics)}}
+
+In [[thermodynamics]], the '''volume''' of a [[thermodynamic system|system]] is an important [[extensive parameter]] for describing its [[thermodynamic state]]. The '''specific volume''', an [[intensive property]], is the system's volume per unit of mass. Volume is a [[function of state]] and is interdependent with other thermodynamic properties such as [[pressure]] and [[thermodynamic temperature|temperature]]. For example, volume is related to the [[pressure]] and [[thermodynamic temperature|temperature]] of an [[ideal gas]] by the [[ideal gas law]].
+
+== Computation ==
+
+The task of numerically computing the volume of objects is studied in the field of [[computational geometry]] in computer science, investigating efficient [[algorithm]]s to perform this computation, [[approximation algorithm|approximately]] or [[exact algorithm|exactly]], for various types of objects. For instance, the [[convex volume approximation]] technique shows how to approximate the volume of any [[convex body]] using a [[oracle machine|membership oracle]].
+
+== See also ==
+{{cmn|colwidth=22em|
+* [[Banach–Tarski paradox]]
+* [[Conversion of units#Volume|Conversion of units]]
+* [[Dimensional weight]]
+* [[Dimensioning]]
+* [[Length]]
+* [[Measure (mathematics)|Measure]]
+* [[Perimeter]]
+* [[Volumography]]
+* [[Weight]]
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* {{wikibooks-inline|Geometry|Chapter 8|Perimeters, Areas, Volumes}}
+* {{wikibooks-inline|Calculus|Volume}}
+
+{{Authority control}}
+
+[[Category:Volume| ]]

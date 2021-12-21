@@ -1,0 +1,155 @@
+{{Use dmy dates|date=April 2021}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Iron Savior
+| image               = 20140608_Gelsenkirchen_RockHard_0104.jpg
+| caption             = Iron Savior at Rock Hard Festival 2014
+| image_upright       = 1.2
+| background          = group_or_band
+| alias               = 
+| origin              = [[Hamburg]], Germany
+| genre               = {{hlist|[[Power metal]]|[[Heavy metal music|heavy metal]]}}
+| years_active        = 1996–present
+| label               = {{hlist|[[AFM Records]] <small>(current)</small>|Dockyard 1|[[Noise Records|Noise]]}}
+| associated_acts     = {{hlist|[[Savage Circus]]|[[Gamma Ray (band)|Gamma Ray]]|[[Blind Guardian]]}}
+| website             = {{URL|iron-savior.com}}
+| current_members     = [[Piet Sielck]]<br />[[Jan-Sören Eckert|Jan-S Eckert]]<br />Joachim "Piesel" Küstner<br />Patrick Klose
+| past_members        = [[Kai Hansen]]<br />[[Thomen Stauch]]<br />[[Dan Zimmermann]]<br />Andreas Kück<br />[[Yenz Leonhardt]]<br />Thomas Nack
+}}
+[[File:Iron_Savior_Logo.jpg|thumb|The band's logo]]
+'''Iron Savior''' is a German [[power metal]] band that was formed in [[Hamburg]] in 1996. Following a period of several years working behind the scenes in music production, multi-instrumentalist and producer/engineer [[Piet Sielck]] joined with former [[Helloween]] bandmate [[Kai Hansen]] and then-drummer for [[Blind Guardian]] [[Thomen Stauch]] in a new project that would blend power metal with a high-concept science fiction story.<ref name=allmusic>{{cite web |url=http://www.allmusic.com/artist/iron-savior-p302825/biography |title=Iron Savior |author=Alex Henderson |website=[[AllMusic]]|access-date=6 February 2011}}</ref> The band's debut album ''[[Iron Savior (album)|Iron Savior]]'' introduced the story that would be told over the course of multiple albums, featuring a self-aware space vessel called the Iron Savior and its relationship to the mythical lost civilization of [[Atlantis]].<ref name=isstory>{{cite web |url=http://site.iron-savior.com/band/story/ |title=The whole Iron Savior story |work=Iron Savior |access-date=25 January 2012 |archive-url=https://web.archive.org/web/20151218043600/http://site.iron-savior.com/band/story/ |archive-date=18 December 2015 |url-status=dead }}</ref>
+
+Critics have compared Iron Savior's sound and musical approach to classic heavy metal bands like [[Judas Priest]], [[Iron Maiden]], and [[Queensrÿche]].<ref name=allmusic/> Kai Hansen's presence in the band brought to the Iron Savior albums on which he appeared a style heavily influenced by [[Gamma Ray (band)|Gamma Ray]] and [[Helloween]].<ref name=metalstorm>{{cite web |url=http://www.metalstorm.ee/bands/biography.php?band_id=226&bandname=Iron+Savior |title=Iron Savior&nbsp;– Biography |work=Metal Storm |access-date=6 February 2011}}</ref>
+
+Since its inception, Iron Savior has released eleven studio albums, two EPs, three singles and one live album.
+
+Despite numerous lineup changes, Piet has continued to direct the band and is currently the only remaining founding member.<ref name=allmusic/>
+
+==Members==
+
+===Current band members===
+* [[Piet Sielck]]&nbsp;– lead vocals, guitar (1996–present)
+* Joachim "Piesel" Küstner&nbsp;– guitar, backing vocals (2000–present)
+* [[Jan-Sören Eckert]]&nbsp;– bass, vocals (1997–2003, 2011–present)
+* Patrick Klose&nbsp;– drums (2017–present)
+
+===Former band members===
+* [[Kai Hansen]]&nbsp;– vocals, guitar (1996–2001)
+* [[Yenz Leonhardt]]&nbsp;– bass, backing vocals (2003–2011)
+* Andreas Kück&nbsp;– keyboards, backing vocals (1998–2003)
+* [[Thomen Stauch]]&nbsp;– drums (1996–1998)
+* [[Dan Zimmermann]]&nbsp;– drums (1998–1999)
+* Thomas Nack&nbsp;– drums (1999–2017; touring member: 1997–1998)
+
+===Timeline===
+{{#tag:timeline|
+ImageSize = width:780 height:auto barincrement:20
+PlotArea = left:140 bottom:80 top:10 right:10
+Alignbars = justify
+DateFormat  = mm/dd/yyyy
+Period = from:01/01/1996 till:{{#time: m/d/Y }}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:horizontal position:bottom
+ScaleMajor = increment:2 start:1996
+ScaleMinor = increment:1 start:1996
+
+Colors =
+  id:Vocals  value:red    legend:Vocals
+  id:Guitars value:green  legend:Guitars
+  id:Keyboard value:purple legend:Keyboards
+  id:Bass    value:blue   legend:Bass
+  id:Drums   value:orange legend:Drums
+  id:Lines   value:black  legend:Albums
+
+LineData =
+  at:03/16/1997 color:black layer:back
+  at:01/06/1999 color:black layer:back
+  at:03/06/2001 color:black layer:back
+  at:06/03/2002 color:black layer:back
+  at:06/18/2004 color:black layer:back 
+  at:06/04/2007 color:black layer:back
+  at:11/18/2011 color:black layer:back  
+  at:02/28/2014 color:black layer:back
+  at:05/20/2016 color:black layer:back
+  at:12/08/2017 color:black layer:back
+  at:03/08/2019 color:black layer:back
+  at:12/04/2020 color:black layer:back
+
+BarData =
+  bar:Piet    text:"Piet Sielck"
+  bar:Kai     text:"Kai Hansen"
+  bar:Joachim text:"Joachim "Piesel" Küstner"
+  bar:Andreas text:"Andreas Kück"
+  bar:Jan     text:"Jan-Sören Eckert"
+  bar:Yenz    text:"Yenz Leonhardt"  
+  bar:Thomen  text:"Thomas "Thomen" Stauch"
+  bar:Dan     text:"Daniel "Dan" Zimmermann"
+  bar:Thomas  text:"Thomas Nack"
+  bar:Patrick text:"Patrick Klose"
+
+  
+ 
+PlotData=
+  width:3 textcolor:black align:left anchor:from shift:(10,-4)
+  bar:Piet     from:01/01/1996 till:end        color:Vocals
+  bar:Kai      from:01/01/1996 till:01/01/2001 color:Vocals
+  bar:Jan      from:01/01/1997 till:01/01/2003 color:Vocals
+  bar:Jan      from:01/01/2011 till:end        color:Vocals
+  width:11  textcolor:black align:left anchor:from shift:(10,-4)
+  bar:Piet     from:01/01/1996 till:end        color:Guitars
+  bar:Kai      from:01/01/1996 till:01/01/2001 color:Guitars
+  bar:Joachim  from:01/01/2000 till:end        color:Guitars
+  bar:Jan      from:01/01/1997 till:01/01/2003 color:Bass
+  bar:Jan      from:01/01/2011 till:end        color:Bass
+  bar:Yenz     from:01/01/2003 till:01/01/2011 color:Bass
+  bar:Thomen   from:01/01/1996 till:01/01/1998 color:Drums
+  bar:dan      from:01/01/1998 till:01/01/1999 color:Drums
+  bar:Thomas   from:01/01/1999 till:01/01/2017 color:Drums
+  bar:Patrick  from:01/01/2017 till:end        color:Drums
+  bar:Andreas  from:01/01/1998 till:01/01/2003 color:Keyboard
+}}
+
+==Discography==
+===Albums===
+*''[[Iron Savior (album)|Iron Savior]]'' (1997)
+*''[[Unification (album)|Unification]]'' (1999)
+*''[[Dark Assault]]'' (2001)
+*''[[Condition Red (Iron Savior album)|Condition Red]]'' (2002)
+*''[[Battering Ram (Iron Savior album)|Battering Ram]]'' (2004)
+*''[[Megatropolis]]'' (2007) (re-recorded in 2015 as ''Megatropolis 2.0'')
+*''[[The Landing (album)|The Landing]]'' (2011)<ref>{{cite web|url=http://www.metalunderground.com/news/details.cfm?newsid=72241 |title=Iron Savior Announces New Album; Streams Track - in Metal News |website=Metalunderground.com |access-date=23 March 2020}}</ref>
+*''[[Rise of the Hero]]'' (2014)<ref>{{Cite web|url=http://www.blabbermouth.net/news/iron-savior-rise-of-the-hero-cover-artwork-track-listing-revealed/|title=Iron Savior: 'Rise Of The Hero' Cover Artwork, Track Listing Revealed - Blabbermouth.net|date=27 December 2013|archive-url=https://web.archive.org/web/20131227024601/http://www.blabbermouth.net/news/iron-savior-rise-of-the-hero-cover-artwork-track-listing-revealed/|access-date=14 October 2020|archive-date=27 December 2013}}</ref>
+*''[[Titancraft]]'' (2016)
+*''[[Reforged – Riding on Fire]]'' (2017)
+*''Kill or Get Killed'' (2019)<ref>{{cite web|title=IRON SAVIOR To Release Kill Or Get Killed Album In March: "Eternal Quest" Song Streaming|url=http://bravewords.com/news/iron-savior-to-release-kill-or-get-killed-album-in-march-eternal-quest-song-streaming|website=[[Bravewords.com]]|access-date=22 January 2019|date=18 January 2019}}</ref>
+*''Skycrest'' (2020)<ref>{{cite web|url=https://www.afm-records.de/en/news/119-iron-savior/1435-iron-savior-announce-new-album.html/|title=IRON SAVIOR announce new album|publisher=AFM Records|access-date=17 October 2020|date=12 October 2020}}</ref>
+
+===Extended plays===
+*''[[Coming Home (EP)|Coming Home]]'' (1998)
+*''[[Interlude (EP)|Interlude]]'' (1999)
+*''I've Been to Hell'' (2000)
+
+===Singles===
+* ''Titans of Our Time'' (2002)
+* ''Time Will Tell'' (2004)
+
+===Live albums===
+* ''[[Live at the Final Frontier]]'' (2015)
+
+==References==
+{{reflist}}
+
+== External links ==
+* [http://www.iron-savior.com/ Official website]
+* [http://www.myspace.com/ironsaviorofficial Official Myspace page]
+* [http://www.angelfire.com/retro/aurorasoft/WCBpersonal/IronSaviorPlot.txt Text of the Iron Savior story as told through liner notes]
+
+{{Iron Savior}}
+
+{{Authority control}}
+{{DEFAULTSORT:Iron Savior}}
+[[Category:Musical groups established in 1996]]
+[[Category:German power metal musical groups]]
+[[Category:German heavy metal musical groups]]
+[[Category:Musical quartets]]
+[[Category:Noise Records artists]]
+[[Category:AFM Records artists]]

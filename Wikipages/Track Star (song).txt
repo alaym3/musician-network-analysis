@@ -1,0 +1,78 @@
+{{short description|2021 single by Mooski}}
+{{Infobox song
+|name=Track Star
+|cover=Cover art for Track Star by Mooski, 2020.png
+|alt=
+|type=single
+|artist=Mooski
+|released=June 17, 2020
+|length=3:19
+|label=[[Universal Music Group|Universal]]
+|writer={{hlist|Darien Hinton|Levi de Jong}}
+|producer=Woodpecker
+|chronology=Mooski
+|prev_title=
+|prev_year=
+|next_title=Peak’N
+|next_year=2020
+}}
+"'''Track Star'''" is a song by American rapper Mooski. It was released on [[TikTok]] on June 17, 2020, and other streaming services on February 19, 2021. The song was later remixed by American singer [[Chris Brown]] and American rappers [[Yung Bleu]] and [[A Boogie Wit Da Hoodie]].
+
+==Background==
+The track was released on February 19, 2021, following its success on [[TikTok]]. A remix featuring [[A Boogie wit da Hoodie]], [[Chris Brown]] and [[Yung Bleu]] was released on May 18, 2021.<ref>{{Cite web|title=Mooski drops "Track Star" remix with Chris Brown, A Boogie wit da Hoodie & Yung Bleu|url=https://thesource.com/2021/05/18/mooski-drops-trackstar-remix-with-chris-brown-a-boogie-wit-da-hoodie-yung-bleu/|url-status=live|website=[[The Source]]}}</ref>
+
+==Music video==
+A music video was released on April 7, 2021. It was directed by BenMarc and produced by VisionBank.<ref>{{Cite web|title=Mooski - Track Star (Official Video)|url=https://www.youtube.com/watch?v=KPfcycMj8BE|url-status=live|via=[[YouTube]]}}</ref> [[Coi Leray]] also stars in the video.<ref>{{Cite web|date=April 8, 2021|title=Mooski's 'Track Star' Video Stars Coi Leray As His On-And-Off Lover|url=https://uproxx.com/music/mooski-track-star-video-coi-leray/|url-status=live|access-date=August 8, 2021|website=[[Uproxx|UPROXX]]|language=en-US}}</ref> 
+
+==Reception and chart success==
+Robby Seabrook III of ''[[XXL (magazine)|XXL]]'' wrote that the track is "a melodic ode centered on a woman who has let go of a troubled relationship despite her man's attempts to fix it", and of the artist, "Everything is looking up for the young artist from Alabama, making him a perfect fit for ''XXL''<nowiki/>'s ''The Break'' this week."<ref>{{Cite web|last1=April 7|first1=Robby Seabrook IIIPublished|last2=2021|title=The Break Presents: Mooski|url=https://www.xxlmag.com/mooski-interview-the-break/|access-date=August 8, 2021|website=XXL Mag|language=en}}</ref>
+
+In a ''[[Billboard (magazine)|Billboard]]'' article, Mooski spoke on his rise to success: "Where I come from, it's unheard of. I've been counted out my whole life and I've always been successful because I work hard. I didn't need anybody in my corner -- I wanted them in my corner."<ref>{{Cite web|title=Chartbreaker: Mooski Always Believed in His Ability to 'Sing at a Rapper's Pace'|url=https://www.billboard.com/articles/columns/hip-hop/9597678/mooski-track-star-july-chartbreaker/|url-status=live|website=Billboard}}</ref>
+
+"Track Star" debuted at No. 21 on the US [[Bubbling Under Hot 100]] on the week of February 26, 2021, before debuting at No. 99 on the main [[Billboard Hot 100|Hot 100]], peaking at No. 31 and spending a total of 20 weeks on the chart. It also peaked at number 53 in the [[United Kingdom]].
+
+==Charts==
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+ Chart performance for "Track Star"
+! scope="col"| Chart (2021)
+! scope="col"| Peak<br />position
+|-
+{{single chart|UK|53|date=20210402|rowheader=true|access-date=September 29, 2021}}
+|-
+{{single chart|UKrandb|19|date=20210528|rowheader=true|access-date=November 27, 2021}}
+|-
+! scope="row"| US [[Billboard Hot 100|''Billboard'' Hot 100]]<ref>{{cite web|url=https://www.billboard.com/charts/hot-100/2021-05-15|title=Billboard Hot 100: May 15, 2021|work=[[Billboard (magazine)|Billboard]]|access-date=September 29, 2021|url-status=live}}</ref>
+| 31
+|-
+! scope="row"| US [[Hot R&B/Hip-Hop Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite web|url=https://www.billboard.com/charts/r-b-hip-hop-songs/2021-06-05|title=Hot R&B/Hip-Hop Songs Chart: June 5, 2021|work=[[Billboard (magazine)|Billboard]]|access-date=September 29, 2021|url-access=subscription}}</ref>
+| 12
+|-
+! scope="row"| US [[Mainstream Top 40]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite web|url=https://www.billboard.com/charts/pop-songs/2021-07-10|title=Pop Airplay Chart: Week of July 10, 2021|work=Billboard|access-date=October 31, 2021|url-access=subscription}}</ref>
+| 35
+|-
+! scope="row"| US [[Rhythmic (chart)|Rhythmic]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite web|url=https://www.billboard.com/charts/rhythmic-40/2021-06-12|title=Rhythmic Airplay: June 12, 2021|work=Billboard|access-date=September 29, 2021|url-access=subscription}}</ref>
+| 2
+|}
+
+[[Category:Singlechart usages for UK]]
+[[Category:Singlechart called without artist]]
+[[Category:Singlechart called without song]]
+[[Category:Singlechart usages for UKindie]]
+[[Category:Singlechart called without artist]]
+[[Category:Singlechart called without song]]
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Canada|award=Gold|type=single|artist=Mooski|title=Track Star|relyear=2020|certyear=2021|date=August 4, 2021}}
+{{Certification Table Entry|type=single|region=United States|artist=Mooski|award=Platinum|relyear=2020|certyear=2021}}
+{{Certification Table Bottom|streaming=true|nosales=yes|noshipments=yes}}
+
+== References ==
+{{reflist}}
+
+{{authority control}}
+{{A Boogie wit da Hoodie}}
+{{Chris Brown songs}}
+[[Category:Chris Brown songs]]
+[[Category:2020 songs]]
+[[Category:2021 singles]]

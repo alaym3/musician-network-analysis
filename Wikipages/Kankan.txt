@@ -1,0 +1,269 @@
+{{For|the village in Iran|Kankan, Iran}}
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|name          = Kankan
+|other_name             =
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               = 
+|settlement_type        = [[Sub-prefectures of Guinea|Sub-prefecture]] and town
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Kankan (14604699012).jpg
+|imagesize              = 300px
+|image_caption          = Downtown Kankan
+|image_flag             = 
+|flag_size              =
+|image_seal             = 
+|seal_size              =
+|image_shield           = 
+|shield_size            =
+|image_blank_emblem     = 
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              = 
+|mapsize                = 
+|map_caption            = 
+|image_map1             = 
+|mapsize1               = 
+|map_caption1           = 
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Guinea
+|pushpin_mapsize        =300
+|pushpin_map_caption    =
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = [[File:Flag of Guinea.svg|25px]] [[Guinea]]
+|subdivision_type1      = [[Region]]
+|subdivision_name1      = [[Kankan Region]]
+|subdivision_type2      = [[Prefecture]]
+|subdivision_name2      = [[Kankan Prefecture]]
+|subdivision_type3      = 
+|subdivision_name3      = 
+|subdivision_type4      = 
+|subdivision_name4      =
+<!-- Politics ----------------->
+|government_footnotes   =
+|government_type        =
+|leader_title = Mayor 
+|leader_name = Mory Kolofon Diakité<ref>{{Cite news|title=Commune de Kankan : Mory ‘’Kolofon’’ Diakité du RPG élu maire !|date=2018|url=https://conakryinfos.com/commune-de-kankan-mory-kolofon-diakite-du-rpg-elu-maire/amp/|website=conakryinfos.com|language=fr|access-date=5 November 2021}}</ref>
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       = 
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      = 
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|area_magnitude         = 
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = 
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               =2014<ref name =recensement2014>{{cite web|url=http://www.stat-guinee.org/images/Publications/INS/RGPH3/RGPH3_etat_structure.pdf|title=Etat et Structure de la Population Recensement General de la Population et de l’habitation 2014
+ |access-date=27 March 2020 |language=fr|website=Direction Nationale de la Statistique de Guinée| df=dmy }}</ref>
+|population_footnotes           =
+|population_note                =
+|population_total               = 190,722
+|population_density_km2         =
+|population_density_sq_mi       =
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_blank2_title        =Religions
+|population_blank2              =
+|population_density_blank1_km2 =   
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = 
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|coordinates            = {{coord|10|23|N|9|18|W|region:GN|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            = 
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              =
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                = 
+|footnotes              = 
+}}
+
+'''Kankan''' ([[Mandingo language|Mandingo]]:&nbsp;Kánkàn; [[N'Ko script|N’ko]]: ߞߊ߲ߞߊ߲߫) is the largest city in [[Guinea]] in [[land area]], and the third largest in population, with a population of 190,722 people as of 2014.<ref name =recensement2014/> The city is located in eastern [[Guinea]] about {{convert|345|mi|km|order=flip|abbr=off}} east of the national capital [[Conakry]].
+
+The city is the capital and largest town of the [[Kankan Prefecture]] and of the [[Kankan Region]]. The population is largely from the [[Mande people|Mande]] ethnic group.
+
+== Geography ==
+The city is located on the [[Milo River]], a tributary of the [[Niger River]].
+
+==History==
+Kankan was founded by the [[Soninke people]] in the 18th century, after which it became an important trading centre, particularly for [[kola nut]]s, and the capital of the [[Baté Empire]].<ref>Britannica,
+[https://www.britannica.com/place/Kankan Kankan], britannica.com, USA, accessed on June 23, 2019</ref>
+The population of the city is predominantly from the Mandinka ethnic group and their language is widely spoken throughout the city.
+
+The French explorer [[René Caillié]] spent a month in Kankan in 1827 on his journey from [[Boké]], in present-day Guinea, to [[Djenné]] and [[Timbuktu]] in Mali. He arrived with a [[Caravan (travellers)|caravan]] transporting [[kola nut]]s. He described the visit in his book ''Travels through Central Africa to Timbuctoo''. The town had a population of 6,000 inhabitants and was an important commercial centre with a market held three times a week. Instead of having a surrounding mud wall, the town was defended by [[Hedge#Quickset hedge|quickset hedges]]. The chief of the town refused Caillié permission to travel along the river to the north as the town of Kankan was fighting for control of the Bouré gold producing area around [[Siguiri]] and the [[Tinkisso River]]. Instead Caillié left the town heading east in the direction of [[Minignan]] in the Ivory Coast.<ref>{{cite book | last=Caillié | first=René | title=Travels through Central Africa to Timbuctoo; and across the Great Desert, to Morocco, performed in the years 1824-1828 (Volume 1) | publisher=Colburn & Bentley |location=London | year=1830 | pages=[https://archive.org/details/travelsthroughc00cailgoog/page/n294 254]–286 | url= https://archive.org/details/travelsthroughc00cailgoog }}</ref><ref>{{cite book | last=Quella-Villéger | first=Alain | year=2012 | title=René Caillié, l'Africain : une vie d'explorateur, 1799-1838 | publisher=Aubéron | place=Anglet, France | isbn=978-2-84498-137-0 | language=fr | pages=71–75}}</ref>
+
+The town was conquered by [[Samori Ture|Samory Touré]] in 1881 and occupied by the [[France|French]] in 1891.
+
+In 1904, the city is chosen as the final destination during the construction of the Conakry railway in Kankan.
+
+==Climate==
+Kankan has a [[tropical savanna climate]] ([[Köppen climate classification]] ''Aw'').
+{{Weather box|width = 70%
+|location = Kankan
+|metric first = yes
+|single line = yes
+|temperature colour = pastel
+|Jan high C = 36.5
+|Feb high C = 38.1
+|Mar high C = 38.9
+|Apr high C = 38.8
+|May high C = 37.1
+|Jun high C = 33.2
+|Jul high C = 32.2
+|Aug high C = 31.7
+|Sep high C = 32.7
+|Oct high C = 33.9
+|Nov high C = 34.7
+|Dec high C = 35.2
+|year high C = 35.3
+|Jan mean C = 24.3
+|Feb mean C = 26.3
+|Mar mean C = 29.6
+|Apr mean C = 30.1
+|May mean C = 28.3
+|Jun mean C = 26.4
+|Jul mean C = 25.3
+|Aug mean C = 25.1
+|Sep mean C = 25.5
+|Oct mean C = 26.4
+|Nov mean C = 27.0
+|Dec mean C = 23.8
+|year mean C = 26.5
+|Jan low C = 10.8
+|Feb low C = 13.3
+|Mar low C = 17.0
+|Apr low C = 20.2
+|May low C = 19.6
+|Jun low C = 18.8
+|Jul low C = 18.9
+|Aug low C = 18.8
+|Sep low C = 18.9
+|Oct low C = 19.0
+|Nov low C = 13.9
+|Dec low C = 11.0
+|year low C = 16.7
+|rain colour = green
+|Jan rain mm = 2
+|Feb rain mm = 1
+|Mar rain mm = 24
+|Apr rain mm = 67
+|May rain mm = 134
+|Jun rain mm = 204
+|Jul rain mm = 262
+|Aug rain mm = 322
+|Sep rain mm = 304
+|Oct rain mm = 131
+|Nov rain mm = 20
+|Dec rain mm = 1.2
+|Jan humidity = 38
+|Feb humidity = 35
+|Mar humidity = 38
+|Apr humidity = 49
+|May humidity = 63
+|Jun humidity = 73
+|Jul humidity = 77
+|Aug humidity = 79
+|Sep humidity = 77
+|Oct humidity = 75
+|Nov humidity = 57
+|Dec humidity = 46
+|year humidity = 59
+|unit rain days = 1.0 mm
+|Jan rain days = 1
+|Feb rain days = 1
+|Mar rain days = 3
+|Apr rain days = 6
+|May rain days = 11
+|Jun rain days = 15
+|Jul rain days = 19
+|Aug rain days = 22
+|Sep rain days = 21
+|Oct rain days = 13
+|Nov rain days = 3
+|Dec rain days = 1
+|Jan sun = 262
+|Feb sun = 236
+|Mar sun = 249
+|Apr sun = 220
+|May sun = 234
+|Jun sun = 216
+|Jul sun = 169
+|Aug sun = 159
+|Sep sun = 191
+|Oct sun = 221
+|Nov sun = 241
+|Dec sun = 260
+|source 1 = NOAA<ref name= NOAA>{{cite web
+| url = ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/TABLES/REG__I/GW/61829.TXT
+| title = Kankan Climate Normals 1961–1990
+| publisher = [[National Oceanic and Atmospheric Administration]]
+| access-date = July 6, 2015}}</ref>
+|date=July 2015}}
+
+== Education ==
+The [[Julius Nyerere University of Kankan]] was founded in 1964.
+
+== Places of worship ==   
+Among the [[places of worship]], they are predominantly [[Islam|Muslim]] mosques.   There are also [[Christianity|Christian]] churches and temples : [[Roman Catholic Diocese of Kankan]] ([[Catholic Church]]), Église Protestante Évangélique de Guinée ([[Alliance World Fellowship]]), [[Assemblies of God]].<ref>J. Gordon Melton, Martin Baumann, ‘‘Religions of the World: A Comprehensive Encyclopedia of Beliefs and Practices’’, ABC-CLIO, USA, 2010, p. 1279</ref>
+
+== Transports ==
+It is home to the [[Kankan Airport]] and a river port. Kankan is the terminus of the lightduty narrow gauge railway from [[Conakry]] (traffic suspended since 1993). The [[N1 road (Guinea)|N1 highway]] connects the city with [[Nzerekore]] in the south.
+
+==References==
+{{Reflist}}
+
+{{coord|10|23|N|9|18|W|region:GN_type:city|display=title}}
+
+{{Kankan Prefecture}}
+{{Authority control}}
+
+[[Category:Kankan| ]]
+[[Category:Sub-prefectures of the Kankan Region]]
+
+
+{{Guinea-geo-stub}}

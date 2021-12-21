@@ -1,0 +1,105 @@
+{{Infobox musical artist <!-- For groups; see Wikipedia:WikiProject Musicians -->
+| name            = 5th Ward Boyz
+| image           =
+| caption         =
+| image_size      =
+| alias           =
+| origin          = [[Houston]], [[Texas]], United States
+| genre           = [[Hip hop music|Hip hop]]
+| years_active    = <!-- {{Start date|YYYY}}–YYYY  -->
+| label           = {{hlist|[[Rap-A-Lot Records|Rap-A-Lot]]|Underground Records}}
+| associated_acts =
+| website         =
+| current_members = Andre "007" Barnes<br />Eric "E-Rock" Taylor<br />Richard "Lo Life" Nash
+| past_members    = 
+}}
+
+'''5th Ward Boyz''' is an American [[southern hip hop]] trio, based out of [[Houston]], [[Texas]].<ref>{{cite news |url=http://www.houstonpress.com/1996-01-25/music/ghetto-do-gooders/ |title=Ghetto Do-Gooders. The 5th Ward Boyz may not be saints, but they're not sinners either. | date=25 January 1996 | work=[[Houston Press]] | access-date=2009-02-18}}</ref> Their name is derived from Houston's [[Fifth Ward, Houston|Fifth Ward]]. The group signed to [[Rap-A-Lot Records]] following the [[Geto Boys]]' popularity on the label.<ref name="Allmusic"/>
+
+The group originally consisted of Andre "007" Barnes and Eric "E-Rock" Taylor, with Richard "Lo Life" Nash joining the group following his release from prison for their second album, ''Gangsta Funk''. They have been influenced by [[Dr. Dre]], [[Funkadelic]], [[N.W.A]], [[Ice Cube]], [[Eazy-E]], [[Compton's Most Wanted]]. <ref name="Allmusic">Bush, John. "[{{Allmusic|class=artist|id=p38774/biography|pure_url=yes}} 5th Ward Boyz > Biography]". [[Allmusic]].</ref>
+                                                                 
+The group was signed to [[Rap-A-Lot Records]] in 1993, 7 years after the label started.
+
+==Discography==
+===Studio albums===
+{|class="wikitable"
+|-
+!rowspan="2"| Year
+!rowspan="2"| Title
+!colspan="2"| Chart positions
+|-
+! <small>[[Billboard 200|U.S.]]</small><ref>{{Cite web|url=https://www.billboard.com/music/5th-ward-boyz|title=5th Ward Boyz Chart History|website=[[Billboard 200]]|access-date=March 7, 2019}}</ref>
+! <small>[[Top R&B/Hip-Hop Albums|U.S. R&B]]</small><ref>{{Cite web|url=https://www.billboard.com/music/5th-ward-boyz|title=5th Ward Boyz Chart History|website=[[Top R&B/Hip-Hop Albums]]|access-date=March 7, 2019}}</ref>
+|-
+|1993
+|''[[Ghetto Dope]]''
+*Released: May 18, 1993
+*Label: [[Rap-A-Lot Records|Rap-A-Lot]]/[[Priority Records|Priority]]
+|align="center"|176
+|align="center"|19
+|-
+|1994
+|''[[Gangsta Funk]]''
+*Released: February 22, 1994
+*Label: Rap-A-Lot/[[Virgin Records|Virgin]]
+|align="center"|105
+|align="center"|13
+|-
+|1995
+|''[[Rated G]]''
+*Released: November 28, 1995
+*Label: Rap-A-Lot/Virgin
+|align="center"|189
+|align="center"|35
+|-
+|1997
+|''[[Usual Suspects (album)|Usual Suspects]]''
+*Released: November 18, 1997
+*Label: Rap-A-Lot/Virgin
+|align="center"|180
+|align="center"|26
+|-
+|1999
+|''[[Keep It Poppin']]''
+*Released: August 31, 1999
+*Label: Rap-A-Lot
+|align="center"|125
+|align="center"|26
+|-
+|2001
+|''Recognize the Mob''
+*Released: October 31, 2001
+*Label: Underground Records
+|align="center"|
+|align="center"|
+|-
+|2003
+|''Word Is Bond''
+*Released: 2003
+*Label: Underground Records
+|align="center"|
+|align="center"|
+|}
+
+===Compilation albums===
+*''Greatest Hits'' (2004)
+
+==Singles==
+*"Thanks for Blessing" (1991)
+*"Ghetto Curse Words" (1992)
+*"Same Ol'" (1994)
+*"Gangsta Funk" (1994)
+*"Situations" (1995)
+*"One Night Stand" (1995)
+*"P.W.A" (1999)
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:5th Ward Boyz}}
+[[Category:Musical groups from Houston]]
+[[Category:Southern hip hop groups]]
+[[Category:Gangsta rap groups]]
+[[Category:G-funk groups]]
+{{US-hiphop-band-stub}}

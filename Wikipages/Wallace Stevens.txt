@@ -1,0 +1,386 @@
+{{short description|American poet}}
+{{Use mdy dates|date=October 2019}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] --> 
+| name         = Wallace Stevens
+| image        = Wallace Stevens, 1948.jpg
+| imagesize    = 
+| caption      = Stevens in 1948
+| pseudonym    = 
+| birth_name    =
+| birth_date    = {{Birth date|1879|10|2}}
+| birth_place   = [[Reading, Pennsylvania|Reading]], Pennsylvania, U.S.
+| death_date    = {{Death date and age|1955|8|2|1879|10|2}}
+| death_place   = [[Hartford, Connecticut|Hartford]], Connecticut, U.S.
+| occupation   = {{flatlist|
+* Poet
+* lawyer
+* insurance executive
+}}
+| period       = 1914–1955
+| movement     = [[Modernism]]
+| notableworks = ''[[Harmonium (poetry collection)|Harmonium]]''<br>"[[The Idea of Order at Key West]]"<br>''[[The Man With the Blue Guitar]]''<br>''[[The Auroras of Autumn]]''<br>"[[Of Modern Poetry]]"
+| spouse       = Elsie Viola Kachel (m. 1909–1955)
+| partner      = 
+| children     = Holly Stevens (1924–1992)
+| relatives    = 
+| awards       = [[Robert Frost Medal]] <small>(1951)</small>
+| signature    = Wallace Stevens signature.svg
+| website      = 
+| portaldisp   = 
+}}
+'''Wallace Stevens''' (October 2, 1879 – August 2, 1955) was an American [[Modernism|modernist]] poet. He was born in [[Reading, Pennsylvania]], educated at [[Harvard University|Harvard]] and then [[New York Law School]], and spent most of his life working as an executive for an insurance company in [[Hartford, Connecticut]]. He won the [[Pulitzer Prize for Poetry]] for his ''Collected Poems'' in 1955.
+
+Stevens's first period of writing begins with the 1923 publication of ''[[Harmonium (poetry collection)|Harmonium]]'', followed by a slightly revised and amended second edition in 1930. His second period occurred in the 11 years immediately preceding the publication of his ''Transport to Summer'', when Stevens had written three volumes of poems including ''Ideas of Order'', ''[[The Man with the Blue Guitar]]'', ''Parts of a World'', along with ''Transport to Summer''. His third and final period began with the publication of ''[[The Auroras of Autumn]]'' in the early 1950s, followed by the release of his ''Collected Poems'' in 1954, a year before his death.
+
+Stevens's best-known poems include "[[The Auroras of Autumn]]", "[[Anecdote of the Jar]]", "[[Disillusionment of Ten O'Clock]]", "[[The Emperor of Ice-Cream]]", "[[The Idea of Order at Key West]]", "[[Sunday Morning (poem)|Sunday Morning]]", "[[The Snow Man]]", and "[[Thirteen Ways of Looking at a Blackbird]]".
+
+==Life and career==
+
+===Birth and early life===
+Stevens was born in Reading, Pennsylvania, in 1879 into a [[Lutheran]] family in the line of [[John Zeller]], his maternal great-grandfather, who settled in the [[Susquehanna Valley]] in 1709 as a religious refugee.<ref>Adelaide Kirby Morris. ''Wallace Stevens Imagination and Faith''. Princeton University Press. 1974. Page 12.</ref>
+
+===Education and marriage===
+The son of a prosperous lawyer, Stevens attended [[Harvard University|Harvard]] as a non-degree three-year special student from 1897 to 1900. According to his biographer, Milton Bates, Stevens was personally introduced to the philosopher [[George Santayana]] while living in Boston and was strongly influenced by Santayana's book ''Interpretations of Poetry and Religion''.<ref>''Cambridge Companion to Wallace Stevens''. "Stevens and the Supreme Fiction", by Milton Bates, p. 49.</ref> Holly Stevens, his daughter, recalled her father's long dedication to Santayana when she posthumously reprinted her father's collected letters in 1977 for Knopf.<ref name="Richardson, Joan 1988, p. 22">Richardson, Joan. ''Wallace Stevens: The Later Years, 1923–1955'', New York: Beech Tree Books, 1988, p. 22.</ref> In one of his early journals, Stevens gave an account of spending an evening with Santayana in early 1900 and sympathizing with Santayana about a poor review published at that time of ''Interpretations''.<ref>George Santayana. ''Interpretations of Poetry and Religion''. Introduction by Joel Porte, MIT Press, page xxix.</ref> After his Harvard years, Stevens moved to New York City and briefly worked as a journalist. He then attended [[New York Law School]], graduating with a law degree in 1903, following the example of his two other brothers with law degrees.
+
+On a trip back to Reading in 1904, Stevens met Elsie Viola Kachel (1886–1963, also known as Elsie Moll), a young woman who had worked as a saleswoman, milliner, and stenographer.<ref>''The Contemplated Spouse: The Letters of Wallace Stevens to Elsie Kachel", edited by J. Donald Blount (The University of South Carolina Press, 2006)</ref> After a long courtship, he married her in 1909 over the objections of his parents, who considered her poorly educated and lower-class. As ''The New York Times'' reported in 2009, "Nobody from his family attended the wedding, and Stevens never again visited or spoke to his parents during his father's lifetime."<ref name="Vendler">{{cite news| url=https://www.nytimes.com/2009/08/23/books/review/Vendler-t.html| work=The New York Times | title=The Plain Sense of Things | first=Helen | last=Vendler | date=August 23, 2009}}</ref> A daughter, Holly, was born in 1924. She was baptized [[Episcopalian]] and later posthumously edited her father's letters and a collection of his poems.<ref name="Richardson, Joan 1988, p. 22"/>
+
+[[File:Walking Liberty Half Dollar 1945D Obverse.png|thumb|left|Stevens's wife, Elsie, may have been a model for the national [[Walking Liberty half dollar]] when the couple lived in New York City]]
+In 1913, the Stevenses rented a New York City apartment from sculptor [[Adolph Alexander Weinman|Adolph A. Weinman]], who made a bust of Elsie. Her striking profile may have been used on Weinman's 1916–1945 [[Mercury dime]] and the [[Walking Liberty Half Dollar]].<ref>{{cite news |last1=Devlin |first1=Ron |title=Wallace Stevens' wife believed to have been model for figure on Mercury dime |url=http://www2.readingeagle.com/article.aspx?id=309165 |access-date=18 April 2020 |work=Reading Eagle |date=2011-05-20}}</ref> In later years, Elsie Stevens began to exhibit symptoms of mental illness and the marriage suffered as a result, but the couple remained married.<ref name="Vendler"/> In his biography of Stevens, [[Paul Mariani]] relates that the couple was largely estranged, separated by nearly a full decade in age, though living in the same home by the mid-1930s. Mariani writes: "there were signs of domestic fracture to consider. From the beginning Stevens, who had not shared a bedroom with his wife for years now, moved into the master bedroom with its attached study on the second floor."<ref>Mariani, Paul. The Whole Harmonium: The Life of Wallace Stevens – April 5, 2016. Page 174.</ref>
+
+===Career===
+
+After working in several New York law firms between 1904 and 1907, Stevens was hired in January 1908 as a lawyer for the American Bonding Company.<ref>Richardson, Joan. ''Wallace Stevens: The Early Years, 1879–1923'', New York: Beech Tree Books, 1986, p. 276.</ref> By 1914 he had become vice president of the New York office of the Equitable Surety Company of [[St. Louis, Missouri]].<ref>Richardson, ''The Early Years'', ''supra'', p. 424.</ref> When this job was made redundant after a merger in 1916, he joined the home office of [[The Hartford|Hartford Accident and Indemnity Company]]<ref>Richardson, ''The Early Years'', ''supra'', p. 445</ref> and moved to [[Hartford, Connecticut|Hartford]], where he remained for the rest of his life. 
+[[File:Wallace Stevens House - Hartford, CT.jpg|thumb|Stevens's Hartford residence.]]
+
+Stevens's career as a businessman-lawyer by day and a poet during his leisure time has received significant attention, as summarized in Thomas Grey's book dealing with his insurance executive career. Grey has summarized parts of the responsibilities of Stevens's day-to-day life that involved the evaluation of surety insurance claims as follows: "If Stevens rejected a claim and the company was sued, he would hire a local lawyer to defend the case in the place where it would be tried. Stevens would instruct the outside lawyer through a letter reviewing the facts of the case and setting out the company's substantive legal position; he would then step out of the case, delegating all decisions on procedure and litigation strategy."<ref>Thomas Grey. ''The Wallace Stevens Case''. Harvard University Press. 1991. Page 17.</ref>
+
+In 1917 Stevens and his wife moved to 210 Farmington Avenue, where they remained for the next seven years and where he completed his first book of poems, ''[[Harmonium (poetry collection)|Harmonium]]''.<ref name="poets.org">{{Cite web|url=http://www.poets.org/poetsorg/text/wallace-stevens-walk|title=The Wallace Stevens Walk &#124; Academy of American Poets}}</ref> From 1924 to 1932 he resided at 735 Farmington Avenue.<ref name="stevenspoetry.org">{{Cite web|url=http://www.stevenspoetry.org/stevenshouse.htm|title = 118 Westerly Terrace}}</ref> In 1932 he purchased a 1920s Colonial at 118 Westerly Terrace, where he resided for the remainder of his life.<ref name="stevenspoetry.org"/> According to Mariani, Stevens was financially independent as an insurance executive by the mid-1930s, earning "$20,000 a year, equivalent to about $350,000 today [2016]. And this at a time (during [[The Great Depression]]) when many Americans were out of work, searching through trash cans for food."<ref>Mariani, Paul. The Whole Harmonium: The Life of Wallace Stevens – April 5, 2016. Page 182.</ref>
+ 
+By 1934, Stevens had been named vice president of the company.<ref>Richardson, ''The Later Years'', ''supra'', p. 87.</ref> After he won the [[Pulitzer Prize]] in 1955, he was offered a faculty position at Harvard but declined since it would have required him to give up his job at The Hartford.<ref>Richardson, ''The Later Years'', ''supra'', p. 423.</ref> 
+
+Throughout his life, Stevens was politically conservative.<ref>{{cite web|url=http://wps.ablongman.com/long_kennedy_lfpd_9/22/5820/1490014.cw/index.html|title=Literature: An Introduction to Fiction, Poetry and Drama: Wallace Stevens: Biography|first1=Dana|last1=Gioia|first2=X.J.|last2=Kennedy|publisher=Longman|year=2005|access-date=February 14, 2010|archive-url=https://web.archive.org/web/20110724011822/http://wps.ablongman.com/long_kennedy_lfpd_9/22/5820/1490014.cw/index.html|archive-date=July 24, 2011|url-status=dead}}</ref><ref>{{cite news|url=https://www.nytimes.com/books/97/12/21/home/stevens-biography.html|title=Books of The Times|first=John|last=Leonard|work=The New York Times|date=July 27, 1970}},</ref> The critic [[William York Tindall]] described him as a [[Republican Party (United States)|Republican]] in the mold of [[Robert A. Taft]].<ref>{{cite book|url=https://www.questia.com/PM.qst?a=o&d=59685340|title=''Preface to'' Wallace Stevens: Images and Judgments|first=Harry T.|last=Moore|publisher=Southern Illinois University Press|year=1963|page=xi}}</ref>
+
+===Travel===
+Stevens made numerous visits to [[Key West]], Florida, between 1922 and 1940, usually staying at the Casa Marina hotel on the Atlantic Ocean. He first visited in January 1922, while on a business trip. "The place is a paradise," he wrote to Elsie, "midsummer weather, the sky brilliantly clear and intensely blue, the sea blue and green beyond what you have ever seen."<ref>Letters of Wallace Stevens, selected and edited by Holly Stevens</ref> Key West's influence on Stevens's poetry is evident in many of the poems published in his first two collections, ''Harmonium'' and ''[[The Idea of Order at Key West|Ideas of Order]].''<ref>The Collected Poems of Wallace Stevens: "O Florida, Venereal Soil," "The Idea of Order at Key West," "Farewell to Florida"</ref> In February 1935, Stevens encountered the poet [[Robert Frost]] at the Casa Marina. The two men argued, and Frost reported that Stevens had been drunk and acted inappropriately.<ref>[http://www.kwls.org/littoral/post_11/ The Trouble with Robert Frost and Wallace Stevens], an April 14, 2009 article from the website of the [[Key West Literary Seminar]]</ref> According to Mariani, Stevens often visited speakeasies during Prohibition with both lawyer friends and poetry acquaintances.<ref>Mariani, Paul. The Whole Harmonium: The Life of Wallace Stevens – April 5, 2016.</ref>
+
+The following year, Stevens was in an altercation with [[Ernest Hemingway]] at a party at the Waddell Avenue home of a mutual acquaintance in Key West.<ref>[http://www.kwls.org/littoral/ernest_hemingway_knocked_walla/ Hemingway Knocked Wallace Stevens into a Puddle and Bragged About It], a March 20, 2008 article from the website of the [[Key West Literary Seminar]]</ref> Stevens broke his hand, apparently from hitting Hemingway's jaw, and was repeatedly knocked to the street by Hemingway. Stevens later apologized.<ref>Ernest Hemingway: Selected Letters 1917–1961, ed. Carlos Baker</ref> Mariani relates this:
+
+<blockquote>directly in front of Stevens was the very nemesis of his Imagination—the antipoet poet (Hemingway), the poet of extraordinary reality, as Stevens would later call him, which put him in the same category as that other antipoet, William Carlos Williams, except that Hemingway was fifteen years younger and much faster than Williams, and far less friendly. So it began, with Stevens swinging at the bespectacled Hemingway, who seemed to weave like a shark, and Papa hitting him one-two and Stevens going down "spectacularly," as Hemingway would remember it, into a puddle of fresh rainwater.<ref>Paul Mariani. Biography of Wallace Stevens. Page 207.</ref></blockquote>
+
+In 1940, Stevens made his final trip to Key West. Frost was at the Casa Marina again, and again the two men argued.<ref>Robert Frost: A Life, by Jay Parini</ref> According to Mariani, the exchange in Key West in February 1940 included the following comments:
+
+{{quote|Stevens: Your poems are too academic.
+
+Frost: Your poems are too executive.
+
+Stevens: The trouble with you Robert, is that you write about subjects.
+
+Frost: The trouble with you, Wallace, is that you write about bric-a-brac.<ref>Paul Mariani. Biography of Wallace Stevens. Caption to illustration #17, after page 212.</ref>}}
+
+===Post-war poetry===
+By late February 1947, with Stevens approaching 67 years of age, it became apparent that he had completed the most productive ten years of his life in writing poetry. February 1947 saw the publication of his volume of poems ''Transport to Summer'', which was positively received by F. O. Mathiessen in ''The New York Times''. In the 11 years immediately preceding its publication, Stevens had written three volumes of poems: ''Ideas of Order'', ''[[The Man with the Blue Guitar]]'', ''Parts of a World'', along with ''Transport to Summer''. These were all written before Stevens took up the writing of his well-received poem ''[[The Auroras of Autumn]]''.<ref>Mariani, Paul. The Whole Harmonium: The Life of Wallace Stevens – April 5, 2016. Page 312.</ref>
+
+In 1950–51, when Stevens received news that Santayana had retired to live at a retirement institution in Rome for his final years, Stevens composed his poem "To an Old Philosopher in Rome": 
+
+: It is a kind of total grandeur at the end,
+: With every visible thing enlarged and yet
+: No more than a bed, a chair and moving nuns,
+: The immensest theatre, the pillowed porch,
+: The book and candle in your ambered room.
+
+===Last illness and death===
+According to Mariani, Stevens had a large, corpulent figure throughout most of his life, standing at 6 feet 2 inches and weighing as much as 240 pounds. Some of his doctors put him on medical diets.<ref>Mariani, Paul. The Whole Harmonium: The Life of Wallace Stevens – April 5, 2016. Pages 152–181.</ref> On March 28, 1955, Stevens went to see Dr. James Moher for accumulating detriments to his health.<ref name="Peter Brazeau 1983">Peter Brazeau, ''Parts of a World: Wallace Stevens Remembered'' (New York: Random House, 1983), 289.</ref> Moher's examination did not reveal anything, and he ordered Stevens to undergo an x-ray and barium enema on April 1, neither of which showed anything.<ref name="Peter Brazeau 1983"/> On April 19 Stevens underwent a G.I. series that revealed [[diverticulitis]], a [[gallstone]], and a severely bloated stomach. Stevens was admitted to St. Francis Hospital and on April 26 was operated on by Dr. Benedict Landry.<ref name="Peter Brazeau 1983"/>
+
+It was determined that Stevens was suffering from [[stomach cancer]] in the lower region by the large intestines and blocking the normal digestion of food. Lower tract oncology of a malignant nature was almost always a mortal diagnosis in the 1950s. This was withheld from Stevens, but his daughter Holly was fully informed and advised not to tell her father. Stevens was released in a temporarily improved ambulatory condition on May 11 and returned to his home to recuperate. His wife insisted on trying to attend to him as he recovered but she had suffered a stroke in the previous winter and was not able to assist as she had hoped. Stevens entered the Avery Convalescent Hospital on May 20.<ref name="ReferenceA">Peter Brazeau, ''Parts of a World: Wallace Stevens Remembered'' (New York: Random House, 1983), 290.</ref>
+
+By early June he was still sufficiently stable to attend a ceremony at the University of Hartford to receive an honorary Doctor of Humanities degree.<ref name="ReferenceA"/> On June 13 he traveled to New Haven to collect an honorary Doctor of Letters degree from Yale University.<ref name="ReferenceA"/> On June 20 he returned to his home and insisted on working for limited hours.<ref>Peter Brazeau, ''Parts of a World: Wallace Stevens Remembered'' (New York: Random House, 1983), 291.</ref> On July 21 Stevens was readmitted to St. Francis Hospital and his condition deteriorated.<ref>Peter Brazeau, ''Parts of a World: Wallace Stevens Remembered'' (New York: Random House, 1983), 293.</ref> On August 1, though bedridden, he revived sufficiently to speak some parting words to his daughter before falling asleep after normal visiting hours were over; he was found deceased the next morning, August 2, at 8:30.<ref>Peter Brazeau, ''Parts of a World: Wallace Stevens Remembered'' (New York: Random House, 1983), 296.</ref>  He is buried in Hartford's [[Cedar Hill Cemetery (Hartford, Connecticut)|Cedar Hill Cemetery]].<ref>[https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/ Albert Einstein - Biographical - NobelPrize.org]</ref>
+
+In his biography, Mariani indicates that friends of Stevens were aware that throughout his years and many visits to New York City that Stevens was in the habit of visiting [[St. Patrick's Cathedral (Manhattan)|St Patrick's Cathedral]] for meditative purposes while in New York. Stevens debated questions of [[theodicy]] during his final weeks with Fr. Arthur Hanley, chaplain of St. Francis Hospital in Hartford, where Stevens spent his last days suffering from stomach cancer, and was eventually converted to Catholicism in April 1955 by Hanley.<ref>[http://writing.upenn.edu/~afilreis/Stevens/conversion.html Letter from Father Arthur Hanley to Professor Janet McCann, July 24, 1977]</ref><ref>Maria J. Cirurgião, "[http://www.cuf.org/Laywitness/Online_view.asp?lwID=1277 Last Farewell and First Fruits: The Story of a Modern Poet] {{Webarchive|url=https://web.archive.org/web/20110121105730/http://cuf.org/Laywitness/Online_view.asp?lwID=1277 |date=January 21, 2011 }}." ''Lay Witness'' (June 2000).</ref> This purported [[deathbed conversion]] is disputed, particularly by Stevens's daughter, Holly, who was not present at the time of the conversion, according to Hanley.<ref>Peter Brazeau, ''Parts of a World: Wallace Stevens Remembered'', New York, Random House, 1983, p. 295</ref> The conversion has been confirmed by both Hanley and a nun present at the time of the conversion and communion.<ref>Letter from [[James Wm. Chichetto]] to Helen Vendler, September 2, 2009, cited in a footnote to "[[Deathbed conversion]]".</ref><ref>Mariani, Paul. The Whole Harmonium: The Life of Wallace Stevens – April 5, 2016. Pages 398–408.</ref> Stevens's obituary in the local newspaper was minimal at the family's request as to the details of his death. The obituary for Stevens that appeared in ''Poetry'' magazine was assigned to [[William Carlos Williams]], who felt it suitable and justified to compare Stevens's poetry to Dante's ''Vita Nuova'' and Milton's ''Paradise Lost''.<ref name="Mariani, Paul 2016. Page 405">Mariani, Paul. The Whole Harmonium: The Life of Wallace Stevens – April 5, 2016. Page 405.</ref> At the end of his life, Stevens had left uncompleted his larger ambition to rewrite Dante's ''Divine Comedy'' for those who "live in the world of Darwin and not the world of Plato."<ref>Thomas Grey. The Wallace Stevens Case. Harvard University Press. 1991. Page 86.</ref>
+
+==Reception==
+[[File:Dr. Babasaheb Ambedkar with Mr. Wallace Stevens at Columbia University after receiving Doctor of Laws (LLD) on June 5, 1952.jpg|thumb|Stevens with [[B. R. Ambedkar]], the father of [[Indian Constitution]], at [[Columbia University]] on June 5, 1952]]
+===Early 20th century===
+The initial reception of Stevens's poetry followed the publication of his first collection of poems, ''Harmonium'', in the early 1920s. Comments on the poems were made by fellow poets and a small number of critics including [[William Carlos Williams]] and Hi Simons.<ref name="Mariani, Paul 2016. Page 405"/> In her book on Stevens's poetry, [[Helen Vendler]] writes that much of the early reception of his poems was oriented to symbolic reading of them, often using simple substitution of metaphors and imagery for their asserted equivalents in meaning. For Vendler, this method of reception and interpretation was often limited in its usefulness and would eventually be replaced by more effective forms of literary evaluation and review.<ref name="Vendler, Helen 1969, p. 13">Vendler, Helen. ''On Extended Wings'', Cambridge: Harvard University Press, 1969, p. 13.</ref>
+
+===Late 20th century===
+After Stevens's death in 1955, the literary interpretation of his poetry and critical essays began to flourish with full-length books written about his poems by such prominent literary scholars as Vendler and [[Harold Bloom]]. Vendler's two books on Stevens's poetry distinguished his short poems and his long poems and suggested that they be considered under separate forms of literary interpretation and critique. Her studies of the longer poems are in her book ''On Extended Wings'' and lists Stevens's longer poems as including ''[[The Comedian as the Letter C]]'', ''[[Sunday Morning (poem)|Sunday Morning]]'', ''Le Monocle de Mon Oncle'', ''Like Decorations in the Nigger Cemetery'', ''Owl's Clover'', ''[[The Man with the Blue Guitar]]'', ''Examination of the Hero in a Time of War'', ''Notes Toward a Supreme Fiction'', ''Esthetique du Mal'', ''Description without Place'', ''Credences of Summer'', ''[[The Auroras of Autumn]]'', and his last and longest poem ''[[An Ordinary Evening in New Haven]]''.<ref name="Vendler, Helen 1969, p. 13"/><ref>[https://archive.nytimes.com/www.nytimes.com/books/98/11/01/specials/bloom-stevens.html Notes Toward a Supreme Poetry - The New York Times]</ref> Another full-length study of Stevens's poetry in the late 20th century is Daniel Fuchs's ''The Comic Spirit of Wallace Stevens''.<ref>[https://www.jstor.org/stable/i40090242 Vol.7, No.1, Winter 1965 of Criticism on JSTOR]</ref>
+
+===Early 21st century===
+Interest in the reading and reception of Stevens's poetry continues into the early 21st century with a full volume dedicated in the ''Library of America'' to his collected writings and poetry. In his book on the reading of Stevens as a poet of what he calls "philosophical poetry", [[Charles Altieri]] presents his own reading of such philosophers as Hegel and Wittgenstein while presenting a speculative interpretation of Stevens under this approach.<ref>Charles Altieri. ''Wallace Stevens and the Demands of Modernity: Toward a Phenomenology of Value.'' Ithaca : Cornell University Press, 2013.</ref> In his 2016 book ''Things Merely Are: Philosophy in the Poetry of Wallace Stevens'', [[Simon Critchley]] indicates a refinement of the appreciation of the interaction of reality and poetry in Stevens's poems, writing: "Steven's late poems stubbornly show how the mind cannot seize hold of the ultimate nature of reality that faces it. Reality retreats before the imagination that shapes and orders it. Poetry is therefore the experience of failure. As Stevens puts it in a famous late poem, the poet gives us ideas about the thing, not the thing itself."<ref>Simon Critchley (2016). ''Things Merely Are: Philosophy in the Poetry of Wallace Stevens''. Routledge Press.</ref>
+
+==Interpretation==
+The reception and interpretation of Stevens's poetry have been widespread and of diverse orientation. In their book ''The Fluent Mundo'' Leonard and Wharton define at least four schools of interpretation, beginning with the prime advocates of Stevens found in the critics Harvey Pearce and Helen Regeuiro, who supported the thesis "that Stevens's later poetry denies the value of imagination for the sake of an unobstructed view of the 'things themselves'".<ref name="ReferenceB">Leonard and Wharton. ''The Fluent Mundo''. The University of Georgia Press. p. ix–x.</ref> The next school of interpretation Leonard and Wharton identify is the Romantic school, led by Vendler, Bloom, James Baird, and Joseph Riddel. A third school of Stevens interpretation that sees Stevens as heavily dependent on 20th-century Continental philosophy includes [[J. Hillis Miller]], Thomas J. Hines, and [[Richard Macksey]]. A fourth school sees Stevens as fully [[Husserl]]ian or [[Heidegger]]ian in approach and tone and is led by Hines, Macksey, [[Simon Critchley]], Glauco Cambon, and [[Paul Bove]].<ref name="ReferenceB"/> These four schools offer occasional agreement and disagreement of perspective; for example, Critchley reads Bloom's interpretation of Stevens as in the [[antirealism|anti-realist]] school while seeing Stevens as not in the anti-realist school of poetic interpretation.<ref>Critchley, pp28-29.</ref>
+
+===Maturity of poetry===
+Stevens is a rare example of a poet whose main output came largely only as he approached 40 years of age. His first major publication (four poems from a sequence titled "Phases" in the November 1914 edition of ''[[Poetry (magazine)|Poetry]]'')<ref>Wallace Stevens (search results), [http://www.poetrymagazine.org/search_author.html?query=6576 Poetry Magazine] {{webarchive|url=https://web.archive.org/web/20080203064553/http://www.poetrymagazine.org/search_author.html?query=6576 |date=February 3, 2008 }}.</ref> was written at age 35, although as an undergraduate at Harvard, Stevens had written poetry and exchanged sonnets with Santayana. Many of his canonical works were written well after he turned 50. According to Bloom, who called Stevens the "best and most representative" American poet of the time,<ref name = "adv">"[http://nl.newsbank.com/nl-search/we/Archives?p_action=doc&p_docid=11674DF65FA1BB88&p_docnum=1&s_dlid=DL0108022818405308922&s_ecproduct=SUB-FREE&s_ecprodtype=INSTANT&s_subterm=Subscription%20until%3A%2012%2F14%2F2015%2011%3A59%20PM&s_subexpires=12%2F14%2F2015%2011%3A59%20PM&s_username=freeuser&s_accountid=AC0107071613143204025&s_upgradeable=no Old New Haven]", Juliet Lapidos, ''[[The Advocate (Stamford)|The Advocate]]'', March 17, 2005</ref> no Western writer since [[Sophocles]] has had such a late flowering of artistic genius. His contemporary [[Harriet Monroe]] termed Stevens "a poet, rich and numerous and profound, provocative of joy, creative beauty in those who can respond to Him".<ref>Review of 'Others Again 'ed. by [[Alfred Kreymborg]] in ''Poetry: A Magazine of Verse'' 1915</ref> Vendler notes that there are three distinguishable moods present in Stevens's long poems: ecstasy, apathy, and reluctance between ecstasy and apathy.<ref name="Vendler, Helen 1969, p. 13"/> She also notes that his poetry was highly influenced by the paintings of [[Paul Klee]] and [[Paul Cézanne]]:
+
+<blockquote>Stevens saw in the paintings of both Paul Klee—who was his favorite painter—and Cézanne the kind of work he wanted to do himself as a Modernist poet. Klee had imagined symbols. Klee is not a directly realistic painter and is full of whimsical and fanciful and imaginative and humorous projections of reality in his paintings. The paintings are often enigmatic or full of riddles, and Stevens liked that as well. What Stevens liked in Cézanne was the reduction, you might say, of the world to a few monumental objects.<ref name="learner.org">"Wallace Stevens." ''Voice and Visions Video Series''. New York Center for Visual History, 1988.[http://www.learner.org/resources/series57.html]</ref></blockquote>
+
+Stevens's first book of poetry, ''[[Harmonium (poetry collection)|Harmonium]]'', was published in 1923, and republished in a second edition in 1930. Two more books of his poetry were produced during the 1920s and 1930s and three more in the 1940s. He received the annual [[National Book Award for Poetry]] twice, in 1951 for ''The Auroras of Autumn''<ref>Richardson, ''The Later Years'', ''supra'', p. 378.</ref><ref name=nba1951>
+[https://www.nationalbook.org/awards-prizes/national-book-awards-1951 "National Book Awards – 1951"]. [[National Book Foundation]]. Retrieved 2012-03-02. <br/>(With acceptance speech by Stevens and essay by Katie Peterson from the Awards 60-year anniversary blog.)</ref> and in 1955 for ''Collected Poems''.<ref name=nba1955>
+[https://www.nationalbook.org/awards-prizes/national-book-awards-1955 "National Book Awards – 1955"]. National Book Foundation. Retrieved 2012-03-02. <br/>(With acceptance speech by Stevens and linked essay by [[Neil Baldwin (writer)|Neil Baldwin]] from the Awards 50-year celebration series.)</ref><ref>Richardson, ''The Later Years'', ''supra'', p. 420.</ref>
+
+===Imagination and reality===
+For Thomas Grey, a Stevens biographer specializing in attention to Stevens as a businessman lawyer, Stevens in part related his poetry to his imaginative capacities as a poet while assigning his lawyer's duties more to the reality of making ends meet in his personal life. Grey finds the poem "A Rabbit as King of the Ghosts" useful to understanding the approach Stevens took in separating his poetry and his profession, writing: "The law and its prose were separate from poetry, and supplied a form of relief for Stevens by way of contrast with poetry, as the milkman (portrayed as the realist in the poem) relieves from the moonlight, as the walk around the block relieves the writer's trance like absorption. But the priority was clear: imagination, poetry, and secrecy, pursued after hours were primary, good in themselves; reason, prose, and clarity, indulged in during working hours, were secondary and instrumental".<ref>Thomas Grey. ''The Wallace Stevens Case''. Harvard University Press. 1991. Page 46.</ref>
+
+In the ''Southern Review'', Hi Simons wrote that much of early Stevens is juvenile romantic subjectivist, before he became a realist and naturalist in his more mature and more widely recognized idiom of later years.<ref>Mariani, Paul. The Whole Harmonium: The Life of Wallace Stevens – April 5, 2016. Pages 239.</ref> Stevens, whose work became meditative and philosophical, became very much a poet of ideas.<ref name = "adv" /> "The poem must resist the intelligence / Almost successfully",<ref>Stevens, Wallace. ''Collected Poetry and Prose'', New York: Library of America, 1997 (Kermode, F., & Richardson, J., eds.), p. 306.</ref> he wrote. Of the relation between [[consciousness]] and the world, in Stevens's work "imagination" is not equivalent to consciousness, nor is "reality" equivalent to the world as it exists outside our minds. Reality is the product of the imagination as it shapes the world. Because it is constantly changing as we attempt to find imaginatively satisfying ways to perceive the world; reality is an activity, not a static object. We approach reality with a piecemeal understanding, putting together parts of the world in an attempt to make it seem coherent. To make sense of the world is to construct a worldview through an active exercise of the imagination. This is no dry, philosophical activity, but a passionate engagement in finding order and meaning. Thus Stevens wrote in "[[The Idea of Order at Key West]]":
+
+{{poemquote|
+Oh! Blessed rage for order, pale Ramon,
+The maker's rage to order words of the sea,
+Words of the fragrant portals, dimly-starred,
+And of ourselves and of our origins,
+In ghostlier demarcations, keener sounds.<ref>Stevens, ''Collected Poetry and Prose'', ''supra'', p. 106.</ref>}}
+
+In ''Opus Posthumous'', Stevens writes, "After one has abandoned a belief in God, poetry is that essence which takes its place as life's redemption."<ref>Stevens, Wallace. ''Opus Posthumous'', London: Faber and Faber, 1990 (Milton J. Bates, ed.), p. 185.</ref> But as the poet attempts to find a fiction to replace the lost gods, he immediately encounters a problem: a direct knowledge of reality is not possible.
+
+Stevens suggests that we live in the tension between the shapes we take as the world acts upon us and the ideas of order that our imagination imposes upon the world. The world influences us in our most normal activities: "The dress of a woman of Lhassa, / In its place, / Is an invisible element of that place / Made visible."<ref>Stevens, ''Collected Poetry and Prose'', ''supra'', p. 41.</ref> As Stevens says in his essay "Imagination as Value", "The truth seems to be that we live in concepts of the imagination before the reason has established them."<ref>Stevens, Wallace. ''The Necessary Angel: Essays on Reality and the Imagination'', Random House USA Paperbacks (Feb 1965) {{ISBN|978-0-394-70278-0}}</ref>
+
+===Supreme Fiction===
+''Notes Toward a Supreme Fiction'' is a lyrical poetic work of three parts, containing 10 poems each, with a preface and epilogue opening and closing the entire work of three parts. It was first published in 1942 and represents a comprehensive attempt by Stevens to state his view of the art of writing poetry. Stevens studied the art of poetic expression in many of his writings and poems, including ''The Necessary Angel'', where he wrote, "The imagination loses vitality as it ceases to adhere to what is real. When it adheres to the unreal and intensifies what is unreal, while its first effect may be extraordinary, that effect is the maximum effect that it will ever have."<ref>Stevens, ''The Necessary Angel'', ''supra''., p. 6.</ref>
+
+Throughout his poetic career, Stevens was concerned with the question of what to think about the world now that notions of religion no longer suffice. His solution might be summarized by the notion of a "Supreme Fiction", an idea that would serve to correct and improve old notions of religion along with old notions of the idea of God of which Stevens was critical.<ref>{{Cite journal
+  | last = Brazeal  | first = Gregory
+  | title = The Supreme Fiction: Fiction or Fact?
+  | journal = Journal of Modern Literature
+  | volume = 31  | issue = 1
+  | pages = 80–100
+  | date = Fall 2007
+  | ssrn = 1738590
+  | doi=10.2979/jml.2007.31.1.80| s2cid = 170362316
+ }}</ref> In this example from the satirical "[[A High-Toned Old Christian Woman]]", Stevens plays with the notions of immediately accessible, but ultimately unsatisfying, notions of reality:
+
+{{poemquote|
+Poetry is the supreme Fiction, madame.
+Take the moral law and make a nave of it
+And from the nave build haunted heaven. Thus,
+The conscience is converted into palms
+Like windy citherns, hankering for hymns.
+We agree in principle. That's clear. But take
+The opposing law and make a peristyle,
+And from the peristyle project a masque
+Beyond the planets. Thus, our bawdiness,
+Unpurged by epitaph, indulged at last,
+Is equally converted into palms,
+Squiggling like saxophones. And palm for palm,
+Madame, we are where we began.<ref>Stevens, ''Collected Poetry and Prose'', ''supra'', p. 47.</ref>}}
+
+The saxophones squiggle because, as [[J. Hillis Miller]] says of Stevens in his book ''Poets of Reality'', the theme of universal fluctuation is a constant theme throughout Stevens's poetry: "A great many of Stevens's poems show an object or group of objects in aimless oscillation or circling movement."<ref>Miller, J. Hillis. "Wallace Stevens". ''Poets of Reality: Six Twentieth-Century Writers'', p. 226. Cambridge: Harvard UP, 1966.</ref> In the end, reality remains.
+
+The supreme fiction is that conceptualization of reality that seems to resonate in its rightness, so much so that it seems to have captured, if only for a moment, something actual and real.
+
+{{poemquote|
+I am the angel of reality,
+seen for a moment standing in the door.
+
+Yet I am the necessary angel of earth,
+Since, in my sight, you see the earth again,
+
+Cleared of its stiff and stubborn, man-locked set,
+And, in my hearing, you hear its tragic drone
+
+Rise liquidly in liquid lingerings,
+Like watery words awash;
+
+A figure half seen, or seen for a moment, a man
+Of the mind, an apparition appareled in
+
+Apparels of such lightest look that a turn
+Of my shoulder and quickly, too quickly, I am gone?<ref>Stevens, ''Collected Poetry and Prose'', ''supra'', p. 423.</ref>}}
+
+In one of his last poems, "Final Soliloquy of the Interior Paramour", Stevens describes the experience of an idea that satisfies the imagination and writes, "The world imagined is the ultimate good." Stevens places this thought in the individual human mind and writes of its compatibility with his own poetic interpretation of God, writing: "Within its vital boundary, in the mind,/ We say God and the imagination are one .../ How high that highest candle lights the dark."<ref name="Stevens, p. 444">Stevens, ''Collected Poetry and Prose'', ''supra'', p. 444.</ref>
+
+===Poetic criticism of old religion===
+
+Imaginative knowledge of the type described in "Final Soliloquy" necessarily exists within the mind, since it is an aspect of the imagination that can never attain a direct experience of reality.
+
+{{poemquote|
+We say God and the imagination are one&nbsp;...
+How high that highest candle lights the dark.
+
+Out of this same light, out of the central mind
+We make a dwelling in the evening air,
+In which being there together is enough.<ref name="Stevens, p. 444" />}}
+
+Stevens concludes that God and human imagination are closely identified, but that feeling of rightness which for so long a time existed with that old religious idea of God may be accessed again. This supreme fiction will be something equally central to our being, but contemporary to our lives, in a way that the old religious idea of God can never again be. But with the right idea, we may again find the same sort of solace that we once found in old religious ideas. "[Stevens] finds, too, a definite value in the complete contact with reality. Only, in fact, by this stark knowledge can he attain his own spiritual self that can resist the disintegrating forces of life ... Powerful force though the mind is ... it cannot find the absolutes. Heaven lies about the seeing man in his sensuous apprehension of the world ...; everything about him is part of the truth."<ref>Southworth, James G. ''Some Modern American Poets'', Oxford: Basil Blackwell, 1950, p. 92.</ref>
+
+{{poemquote|
+... Poetry
+Exceeding music must take the place
+Of empty heaven and its hymns,
+Ourselves in poetry must take their place<ref>Stevens, ''Collected Poetry and Prose'', ''supra'', p. 136-37.</ref>}}
+
+In this way, Stevens's poems adopt attitudes that are corollaries to those earlier spiritual longings that persist in the unconscious currents of the imagination. "The poem refreshes life so that we share, / For a moment, the first idea ... It satisfies / Belief in an immaculate beginning / And sends us, winged by an unconscious will, / To an immaculate end."<ref>Stevens, ''Collected Poetry and Prose'', ''supra'', p. 330–31.</ref> The "first idea" is that essential reality that stands before all others, that essential truth; but since all knowledge is contingent on its time and place, that supreme fiction will surely be transitory. This is the necessary angel of subjective reality—a reality that must always be qualified—and as such, always misses the mark to some degree—always contains elements of unreality.
+
+Miller summarizes Stevens's position:
+
+<blockquote>Though this dissolving of the self is in one way the end of everything, in another way it is the happy liberation. There are only two entities left now that the gods are dead: man and nature, subject and object. Nature is the physical world, visible, audible, tangible, present to all the senses, and man is consciousness, the nothing which receives nature and transforms it into something unreal&nbsp;...<ref>Miller, ''supra''., p. 221</ref></blockquote>
+
+===Influence of Nietzsche===
+Aspects of Stevens's thought and poetry draw from the writings of [[Friedrich Nietzsche]]. Stevens's poem "Description without Place," for example, directly mentions the philosopher:
+
+{{poemquote|
+Nietzsche in Basel studied the deep pool
+Of these discolorations, mastering
+The moving and the moving of their forms
+In the much-mottled motion of blank time.<ref>Wallace Stevens, ''The Collected Poems of Wallace Stevens'', p. 342.</ref>}}
+
+Scholars have attempted to trace some of Nietzsche's influence on Stevens's thought. While Stevens's intellectual relationship to Nietzsche's is complex, it is clear that he shared Nietzsche's perspective on topics such as religion, change, and the individual. Milton J. Bates writes:
+
+<blockquote>in a 1948 letter to Rodriguez Feo, [Stevens] expressed his autumnal mood with an allusion to Nietzsche: "How this oozing away hurts notwithstanding the pumpkins and the glaciale of frost and the onslaught of books and pictures and music and people. It is finished, Zarathustra says; and one goes to the Canoe Club and has a couple of Martinis and a pork chop and looks down the spaces of the river and participates in the disintegration, the decomposition, the rapt finale" (''L'' 621). Whatever Nietzsche would have thought of the Canoe Club and its cuisine, he would have appreciated the rest of the letter, which excoriates a world in which the weak affect to be strong and the strong keep silence, in which group living has all but eliminated men of character.<ref>Milton J. Bates, "Wallace Stevens: A Mythology of Self" (Berkeley: University of California Press, 1986), p. 255.</ref></blockquote>
+
+===Literary influence===
+From the first, critics and fellow poets praised Stevens. [[Hart Crane]] wrote to a friend in 1919, after reading some of the poems that would make up [[Harmonium (poetry collection)|''Harmonium,'']] "There is a man whose work makes most of the rest of us quail."<ref>"Wallace Stevens: Biography and Recollections by Acquaintances," [http://www.english.uiuc.edu/maps/poets/s_z/stevens/bio.htm Modern American Poetry].</ref> The [[Poetry Foundation]] states that "by the early 1950s Stevens was regarded as one of America's greatest contemporary poets, an artist whose precise abstractions exerted substantial influence on other writers."<ref name="poetryfoundation.org">[http://www.poetryfoundation.org/bio/wallace-stevens "Wallace Stevens." Poetry Foundation Article]</ref> Some critics, like [[Randall Jarrell]] and [[Yvor Winters]], praised Stevens's early work but were critical of his more abstract and philosophical later poems.<ref>Jarrell, Randall. "Reflections on Wallace Stevens." ''Poetry and the Age''. 1953.</ref><ref>Winters, Yvor. "Wallace Stevens or the Hedonist's Progress." ''In Defense of Reason'', 1943.</ref>
+
+[[Harold Bloom]], [[Helen Vendler]], and [[Frank Kermode]] are among the critics who have cemented Stevens's position in the [[Western canon|canon]] as one of the key figures of 20th-century American Modernist poetry.<ref name="learner.org"/> Bloom has called Stevens "a vital part of the American mythology" and unlike Winters and Jarrell, Bloom has cited Stevens's later poems, like "Poems of our Climate," as among his best.<ref name="poetryfoundation.org"/>
+
+In commenting on the place of Stevens among contemporary poets and previous poets, his biographer [[Paul Mariani]] stated, "Stevens's real circle of philosopher-poets included Pound and Eliot as well as Milton and the great romantics. By extension, [[E. E. Cummings]] was a mere shadow of a poet, while Blackmur (a contemporary critic and publisher) did not even deign to mention Williams, Moore, or Hart Crane."<ref>Mariani, Paul. The Whole Harmonium: The Life of Wallace Stevens – April 5, 2016. Page 177.</ref>
+
+==In popular culture==
+In 1976, at [[Aldo Crommelynck|Atelier Crommelynck]], [[David Hockney]] produced a portfolio of 20 etchings called ''The Blue Guitar: Etchings By David Hockney Who Was Inspired By Wallace Stevens Who Was Inspired By Pablo Picasso''.<ref>{{cite web | url = http://collection.britishcouncil.org/whats_on/exhibition/11/15872/object/42133 | archive-url = https://web.archive.org/web/20131215063659/http://collection.britishcouncil.org/whats_on/exhibition/11/15872/object/42133 | url-status = dead | archive-date = December 15, 2013 | title = The Old Guitarist' From The Blue Guitar | access-date = June 20, 2012 | last = Hockney | first = Davis | date = 1976–1977 | work = British Council; Visual Arts | publisher = Petersburg Press}}</ref> The etchings refer to themes of a poem by Stevens, ''[[The Man with the Blue Guitar]]''. Petersburg Press published the portfolio in October 1977. The same year, Petersburg also published a book in which the poem's text accompanied the images.<ref>{{cite book | last1 = Hockney | first1 = David | last2 = Stevens | first2 = Wallace | title = The Blue Guitar: Etchings By David Hockney Who Was Inspired By Wallace Stevens Who Was Inspired By Pablo Picasso | publisher = Petersburg Ltd | date = January 1, 1977 | isbn = 978-0902825031}}</ref>
+
+Both titles of an early story by [[John Crowley (author)|John Crowley]], first published in 1978 as "Where Spirits Gat Them Home", later collected in 1993 as "Her Bounty to the Dead", come from "[[Sunday Morning (poem)|Sunday Morning]]". The titles of two novels by D. E. Tingle, ''Imperishable Bliss'' (2009) and ''A Chant of Paradise'' (2014), come from "Sunday Morning". [[John Irving]] quotes Stevens's poem "[[The Plot Against the Giant]]" in his novel ''[[The Hotel New Hampshire]]''. In Terrence Malick's film ''[[Badlands (film)|Badlands]]'', the nicknames of the protagonists are Red and Kit, a possible reference to Stevens's poem "Red Loves Kit".
+
+[[Nick Cave]] cited the lines "And the waves, the waves were soldiers moving" in his song "We Call Upon the Author". They come from Stevens's poem "Dry Loaf". Later [[Vic Chesnutt]] recorded a song named "Wallace Stevens" on his album ''[[North Star Deserter]]''. The song references Stevens's poem "Thirteen Ways of Looking at a Blackbird".
+
+Stevens was honored with a US postage stamp in 2012.<ref>[http://www.usstampgallery.com/view.php?id=9f41eadf30e845b6f92f9ddec86c46500a94bdf0&Wallace_Stevens US Stamp Gallery > > Wallace Stevens]</ref>
+
+==Awards==
+During his lifetime, Stevens received numerous awards in recognition of his work, including:
+
+* [[Bollingen Prize]] for Poetry (1949)<ref>{{cite web |url=http://bollingen.yale.edu/ |title=The Bollingen Prize for Poetry |author=<!--Staff writer(s); no by-line.--> |publisher=Yale University |access-date=July 18, 2016}}</ref>
+* [[National Book Award for Poetry]] (1951,<ref>{{cite web |url=https://www.nationalbook.org/awards-prizes/national-book-awards-1951 |title=National Book Awards – 1951 |author=<!--Staff writer(s); no by-line.--> |publisher=National Book Foundation |access-date=July 18, 2016}}</ref> 1955<ref>{{cite web |url=https://www.nationalbook.org/awards-prizes/national-book-awards-1955 |title=National Book Awards – 1955 |author=<!--Staff writer(s); no by-line.--> |publisher=National Book Foundation |access-date=July 18, 2016}}</ref>) for ''The Auroras of Autumn'', ''The Collected Poems of Wallace Stevens''
+* [[Frost Medal]] (1951)<ref>{{cite web |url=https://www.poetrysociety.org/psa/awards/frost_and_shelley/frost_winners/ |title=Frost Medalists |author=<!--Staff writer(s); no by-line.--> |website=Poetry Society of America |access-date=July 18, 2016}}</ref>
+* [[Pulitzer Prize for Poetry]] (1955) for ''Collected Poems''<ref>{{cite web |url=http://www.pulitzer.org/prize-winners-by-category/224 |title=Poetry - The Pulitzer Prizes|author=<!--Staff writer(s); no by-line.--> |access-date=July 18, 2016}}</ref>
+
+==Bibliography==
+{{col-begin}}
+
+===Poetry===
+*''[[Harmonium (poetry collection)|Harmonium]]'' (1923)  {{librivox book | title=Harmonium | author=Wallace Stevens}}
+*''Ideas of Order'' (1936)
+*''Owl's Clover'' (1936)
+*''[[The Man with the Blue Guitar]]'' (1937)
+*''Parts of a World'' (1942)
+*''Transport to Summer'' (1947)
+*''[[The Auroras of Autumn]]'' (1950)
+*''The Collected Poems of Wallace Stevens,'' New York: Vintage Books, 1954.
+;Posthumous collections
+*''Opus Posthumous'' (1957)
+*''The Palm at the End of the Mind'' (1972)
+*''Collected Poetry and Prose'' (New York: The Library of America, 1997)
+*''Selected Poems'' (John N. Serio, ed.) (New York: [[Alfred A. Knopf]], 2009)<ref>[https://www.npr.org/templates/story/story.php?storyId=120813237 Excerpt: 'Selected Poems'], a December 3, 2009 [[NPR]] article on Stevens</ref>
+{{col-2}}
+
+===Prose===
+*''The Necessary Angel'' (essays) (1951)
+;Posthumous publications
+*''Letters of Wallace James Stevens'', edited by Holly Stevens (1966)
+*''Secretaries of the Moon: The Letters of Wallace Stevens & Jose Rodriguez Feo'', edited by Beverly Coyle and Alan Filreis (1986)
+*''Sur plusieurs beaux sujects: Wallace Stevens's Commonplace Book'', edited by Milton J. Bates (1989)
+*''The Contemplated Spouse: The Letters of Wallace Stevens to Elsie Kachel'', edited by D.J. Blount (2006)
+
+===Plays===
+*''Three Travelers Watch a Sunrise'' (1916)
+
+==See also==
+*''[[The Bird with the Coppery, Keen Claws]]''
+* [[Modernist literature]]
+* [[Christian fundamentalism]]
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+{{refbegin}}
+{{div col}}
+*Baird, James. ''The Dome and the Rock: Structure in the Poetry of Wallace Stevens'' (1968)
+*Bates, Milton J. ''Wallace Stevens: A Mythology of Self'' (1985)
+*Beckett, Lucy. ''Wallace Stevens'' (1974)
+*Beehler, Michael. ''T.S. Eliot, Wallace Stevens, and the Discourses of Difference'' (1987)
+*Benamou, Michel. ''Wallace Stevens and the Symbolist Imagination'' (1972)
+*Berger, Charles. ''Forms of Farewell: The Late Poetry of Wallace Stevens'' (1985)
+*Bevis, William W. ''Mind of Winter: Wallace Stevens, Meditation, and Literature'' (1988)
+*Blessing, Richard Allen. ''Wallace Stevens' "Whole Harmonium"'' (1970)
+*[[Harold Bloom|Bloom, Harold]]. ''Wallace Stevens: The Poems of Our Climate'' (1980)
+*Bloom, Harold. ''Figures of Capable Imagination'' (1976)
+*Borroff, Marie, ed. ''Wallace Stevens: A Collection of Critical Essays'' (1963)
+*Brazeau, Peter. ''Parts of a World: Wallace Stevens Remembered'' (1983)
+*Brogan, Jacqueline V. ''The Violence Within/The Violence Without: Wallace Stevens and the Emergence of a Revolutionary Poetics'' (2003)
+*[[Simon Critchley|Critchley, Simon]]. ''Things Merely Are: Philosophy in the Poetry of Wallace Stevens'' (2005)
+* [[Joseph Carroll (scholar)|Carroll, Joseph]]. ''Wallace Stevens' Supreme Fiction: A New Romanticism'' (1987)
+*[[Frank Doggett|Doggett, Frank]]. ''Stevens' Poetry of Thought'' (1966)
+*Doggett, Frank. ''Wallace Stevens: The Making of the Poem'' (1980)
+*Doggett, Frank (Ed.), Buttel, Robert (Ed.). ''Wallace Stevens: A Celebration'' (1980)
+*[[Frank Kermode|Kermode, Frank]]. ''Wallace Stevens'' (1960)
+* Galgano, Andrea. ''L'armonia segreta di Wallace Stevens'', in ''Mosaico'' (2013)
+* Grey, Thomas. ''The Wallace Stevens Case: Law and the Practice of Poetry'' [http://www.hup.harvard.edu/catalog/GREWAL.html Harvard University Press] (1991)
+*Ehrenpreis, Irvin (Ed.). ''Wallace Stevens: A Critical Anthology'' (1973)
+*Enck, John J. ''Wallace Stevens: Images and Judgments'' (1964)
+*Filreis, Alan. ''Modernism from Right to Left: Wallace Stevens, the Thirties & Literary Radicalism'' (1994)
+*Hines, Thomas J.. ''The Later Poetry of Wallace Stevens: Phenomenological Parallels With Husserl and Heidegger'' (1976)
+* Hockney, David. ''The Blue Guitar'' (1977)
+*Kessler, Edward, "Images of Wallace Stevens" (1972)
+*Leggett, B.J. ''Early Stevens: The [[Friedrich Nietzsche|Nietzschean]] Intertext'' (1992)
+*Leonard, J.S. & Wharton, C.E. ''The Fluent Mundo: Wallace Stevens and the Structure of Reality'' (1988)
+*Litz, A. Walton.  "Introspective Voyager: The Poetic Development of Wallace Stevens" (1972)
+*Longenbach, James. ''Wallace Stevens: The Plain Sense of Things'' (1991)
+*[[Paul Mariani|Mariani, Paul]]. ''The Whole Harmonium: The Life of Wallace Stevens'' – April 5, 2016.
+*MacLeod, Glen.  "Wallace Stevens and Modern Art: From the Armory Show to Abstract Expressionism" (1993)
+*McCann, Janet.  ''Wallace Stevens Revisited: The Celestial Possible'' (1996)
+*Middlebrook, Diane Wood. ''Walt Whitman and Wallace Stevens'' (1974)
+*Ragg, Edward. "Wallace Stevens and the Aesthetics of Abstraction" (2010)
+*Tanaka, Hiroshi. "A New Attempt of an American Poet: Wallace Stevens." In ''Papers on British and American Literature and Culture: From Perspectives of Transpacific American Studies''. Ed. Tatsushi Narita. Nagoya: Kougaku Shuppan, 2007. 59–68.
+*[[Helen Vendler|Vendler, Helen]]. ''On Extended Wings: Wallace Stevens' Longer Poems'' [http://www.hup.harvard.edu/catalog/VENEXX.html Harvard University Press] (1969)
+*Vendler, Helen. ''Wallace Stevens: Words Chosen out of Desire'' [http://www.hup.harvard.edu/catalog/VENWAX.html Harvard University Press] (1986)
+*Woodman, Leonora. ''Stanza My Stone: Wallace Stevens and the Hermetic Tradition'' (1983)
+{{div col end}}
+{{refend}}
+
+==External links==
+{{wikiquote}}
+{{wikisource author}}
+*{{OL author}}
+*{{fg|983}}
+*[http://www.poetryfoundation.org/archive/poet.html?id=6576 Poems and profile] at PoetryFoundation.org
+*[http://www.poets.org/poet.php/prmPID/124 Profile and poems at Academy Of American Poets]
+*[http://www.wallacestevens.com/ The Wallace Stevens Society]
+*[https://web.archive.org/web/20081007162158/http://oyc.yale.edu/english/modern-poetry/content/sessions/lecture19.html Yale College Lecture on Wallace Stevens] audio, video and full transcripts from [[Open Yale Courses]]
+*[[hdl:10079/fa/beinecke.stevensw|Wallace Stevens Collection.]] Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.
+*[http://www.poets.org/poet.php/prmPID/124 Profile] at the [[Academy of American Poets]]
+* {{Internet Archive author |sname=Wallace Stevens |sopt=t}}
+* {{Librivox author |id=332}}
+*[http://writing.upenn.edu/pennsound/x/Stevens-Wallace.html The PennSound/[[Woodberry Poetry Room]] Wallace Stevens Audio Project] from the [[University of Pennsylvania]]
+* [http://www.oac.cdlib.org/findaid/ark:/13030/tf3489n60h/ The Wallace Stevens Papers] at the Online Archive of California
+* [https://wordandsilence.com/2016/05/17/wallace-stevens-intergalactic-planetary/ A Selection from Wallace Stevens' Letters]
+* [https://www.poeticous.com/wallace-stevens/ Wallace Stevens at Poeticous]
+
+{{Wallace Stevens}}
+{{PulitzerPrize PoetryAuthors 1951–1975}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stevens, Wallace}}
+[[Category:Poetry by Wallace Stevens]]
+[[Category:1879 births]]
+[[Category:1955 deaths]]
+[[Category:20th-century American poets]]
+[[Category:American modernist poets]]
+[[Category:American people of German descent]]
+[[Category:Bollingen Prize recipients]]
+[[Category:Burials at Cedar Hill Cemetery (Hartford, Connecticut)]]
+[[Category:Connecticut Republicans]]
+[[Category:Deaths from stomach cancer]]
+[[Category:Formalist poets]]
+[[Category:Harvard University alumni]]
+[[Category:Harvard Advocate alumni]]
+[[Category:National Book Award winners]]
+[[Category:New York Law School alumni]]
+[[Category:New York (state) lawyers]]
+[[Category:Pennsylvania Dutch people]]
+[[Category:People from Reading, Pennsylvania]]
+[[Category:Poets from Pennsylvania]]
+[[Category:Pulitzer Prize for Poetry winners]]
+[[Category:Writers from Hartford, Connecticut]]
+[[Category:Writers from Reading, Pennsylvania]]
+[[Category:Writers from St. Louis]]

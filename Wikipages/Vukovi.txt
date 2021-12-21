@@ -1,0 +1,149 @@
+{{For|the American football team from Belgrade|SBB Vukovi Beograd}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name             = VUKOVI
+| image            = 
+| caption          = 
+| landscape        = yes
+| background       = group_or_band
+| origin           = [[Kilwinning]], [[North Ayrshire]], Scotland
+| genre            = [[Pop rock]], [[Noise pop]]
+| years_active     = 2010&ndash;present
+| associated_acts  = Wolves
+| label            = {{hlist|[[LAB Records]]|VKVI Records}}
+| website          = {{URL|www.vukovi.co.uk}}
+| current_members  = Janine Shilstone<br>Hamish Reilly
+| past_members     = Jason Trotter<br>Colin Irving<br>Martin Lynch
+}}
+
+'''Vukovi''' (stylised as '''VUKOVI''') is a Scottish rock band<ref>{{cite web|url=https://www.facebook.com/pg/vukoviband/about/ |title=VUKOVI - About |website=Facebook.com |date= |accessdate=2020-06-09}}</ref> from [[Kilwinning]], [[North Ayrshire]], Scotland. The band released their self-titled debut album ''VUKOVI'' on 10 Mar 2017. Their second album titled ''Fall Better'' was released on 24 January 2020.
+
+== History ==
+=== Wolves ===
+Reilly, Trotter and Lynch played together in a Scottish rock band called Wolves. As they were unsatisfied with their lead singer, he left the band. At around the same time, Shilstone was fired from another band. When Shilstone auditioned for Wolves in 2010, everyone instantly felt the chemistry at the first glance. Shilstone's arrival affected the sound of Wolves so much, they decided to change their name to VUKOVI (which means wolves in Serbian and Croatian).<ref>{{cite web|url=https://www.last.fm/music/VUKOVI/+wiki |title=VUKOVI biography |website=Last.fm |date=2019-01-12 |accessdate=2020-06-09}}</ref>
+
+=== ''VUKOVI'' ===
+On 10 March 2017, Vukovi released their debut self-titled album.<ref>{{cite web|url=https://www.deadpress.co.uk/album-vukovi-vukovi/ |title=ALBUM: Vukovi - Vukovi &#124; DEAD PRESS! &#124; It's more than "just music" to us |website=Deadpress.co.uk |date= |accessdate=2020-06-09}}</ref>
+
+On 22 November 2018, the band released a statement announcing bassist Jason Trotter leaves the band as he wanted to move on.<ref>{{cite web|url=https://www.deadpress.co.uk/news-vukovi-part-ways-with-bassist-jason-trotter/ |title=NEWS: Vukovi part ways with bassist, Jason Trotter! &#124; DEAD PRESS! &#124; It's more than "just music" to us |website=Deadpress.co.uk |date= |accessdate=2020-06-09}}</ref> The band also stated that the separation with Trotter was peaceful and "there is no bad vibes".<ref>{{cite web|url=https://www.facebook.com/vukoviband/posts/2362491007126511 |title=VUKOVI - Sadly we have to announce our good friend Jason... |website=Facebook.com |date= |accessdate=2020-06-09}}</ref> According to Trotter's Instagram page,<ref>{{cite web|url=https://www.instagram.com/jasontrotter_gla/ |title=Jason Trotter (@jasontrotter_gla) • Instagram photos and videos |website=Instagram.com |date= |accessdate=2020-06-09}}</ref> he is working as a barber in [[Glasgow]]. At around the same time, Irving also left the band for unspecified reasons.
+
+=== ''Fall Better'' ===
+On 24 January 2020, Vukovi released their second album, ''Fall Better''.<ref>{{cite web|author=Naomi Sanders |url=https://distortedsoundmag.com/album-review-fall-better-vukovi/ |title=ALBUM REVIEW: Fall Better - Vukovi - Distorted Sound Magazine |website=Distortedsoundmag.com |date=2020-01-23 |accessdate=2020-06-09}}</ref>
+
+== Members ==
+=== Current members ===
+* Janine Shilstone - [[Singing|vocals]] (2010–present)
+* Hamish Reilly - [[lead guitar]] (2010–present)
+
+=== Former members ===
+* Jason Trotter - bass (2010-2018)
+* Colin Irving - drums (2012-2018)
+* Martin Lynch - drums (2010-2012)
+
+== Discography ==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Title
+! scope="col"| Album details
+! scope="col"| [[List of music recording certifications|Certifications]]
+|-
+! scope="row"| ''VUKOVI''
+|
+* Released: 10 March 2017
+* Label: [[LAB Records]]
+* Formats: [[Compact Disc|CD]], [[music download|digital download]], [[music streaming]]
+|
+|-
+! scope="row"| ''Fall Better''
+|
+* Released: 24 January 2020
+* Label: VKVI Records
+* Formats: [[Compact Disc|CD]], [[LP record|LP]], [[music download|digital download]], [[music streaming]]
+|
+|}
+
+=== EPs ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Title
+! scope="col"| Album details
+|-
+! scope="row"| ''It Looked So Good On Me...''
+|
+* Released: 30 September 2011
+* Label: [[EmuBands]]
+* Formats: [[music download|digital download]], [[music streaming]]
+|-
+! scope="row"| ''...But I Won't Wear You Again''
+|
+* Released: 9 January 2012
+* Label: [[EmuBands]]
+* Formats: [[music download|digital download]], [[music streaming]]
+|-
+! scope="row"| ''Sweet Swears''
+|
+* Released: 22 October 2012
+* Label: [[EmuBands]]
+* Formats: [[music download|digital download]], [[music streaming]]
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Single
+! scope="col"| Year
+! scope="col""| Album
+|-
+! scope="row"| "So Long Gone"
+| rowspan="2"| 2014
+| style="background:#ddd;" rowspan="2"| <small>Non-album single</small>
+|-
+! scope="row"| "Bouncy Castle"
+|-
+! scope="row"| "Boy George"
+| rowspan="3"| 2016
+| rowspan="5"| ''VUKOVI''
+|-
+! scope="row"| "Animal"
+|-
+! scope="row"| "La Di La"
+|-
+! scope="row"| "Weirdo"
+| rowspan="2"| 2017
+|-
+! scope="row"| "And He Lost His Mind"
+|-
+! scope="row"| "C.L.A.U.D.I.A"
+| rowspan="5"| 2019
+| ''Fall Better''
+|-
+! scope="row"| "Wired (Forbes & Reilly Remix)"
+| style="background:#ddd;"| <small>Non-album single</small>
+|-
+! scope="row"| "Behave"
+| rowspan="4"| ''Fall Better''
+|-
+! scope="row"| "All That Candy"
+|-
+! scope="row"| "Run/Hide"
+|-
+! scope="row"| "Violent Minds"
+| rowspan="2"| 2020
+|-
+! scope="row"| "SLO"
+| style="background:#ddd;" rowspan="2"| <small>Non-album single</small>
+|-
+! scope="row"| "Kill It"
+| 2021
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|https://www.vukovi.co.uk}}
+* {{URL|https://www.discogs.com/artist/4763369-Vukovi|Vukovi on Discogs}}
+
+[[Category:Musical groups established in 2010]]
+[[Category:Scottish pop rock music groups]]
+[[Category:2010 establishments in Scotland]]

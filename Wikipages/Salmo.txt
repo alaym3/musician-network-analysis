@@ -1,0 +1,97 @@
+{{About|a genus of fish|Canadian village|Salmo, British Columbia|Italian rapper|Salmo (rapper)|the musical instrument|Tambourin de Béarn}}
+{{Short description|Genus of fishes}}
+{{Automatic taxobox
+| fossil_range = {{fossilrange|23|0}} [[Miocene]] to present<ref>{{cite journal
+  | last = Sepkoski
+  | first = J.
+  | title =  A compendium of fossil marine animal genera
+  | journal = Bulletins of American Paleontology
+  | volume = 364
+  |page=560
+  | date = 2002
+  | url = http://strata.ummp.lsa.umich.edu/jack/showgenera.php?taxon=611&rank=class
+  }}</ref>
+| image = Salmo salar-Atlantic Salmon-Atlanterhavsparken Norway.JPG
+| image_caption = ''Salmo salar''
+| image2 = Truite fario dans la Sorgue de Velleron.jpg
+| image2_caption = ''Salmo trutta''
+| taxon = Salmo
+| authority = [[Carl Linnaeus|Linnaeus]], [[10th edition of Systema Naturae|1758]]
+| type_species = [[Salmo salar]]
+}}
+
+'''''Salmo''''' is a [[genus]] of [[fish]] in the [[salmon]] [[family (biology)|family]] [[Salmonidae]] that includes the European species of [[salmon]] and [[trout]], among them the familiar [[Atlantic salmon]] ''Salmo salar'' and the [[brown trout]] ''Salmo trutta''. The natural distribution of ''Salmo'' also extends to Northern Africa and to Western Asia around the [[Black Sea]] basin. The single ''Salmo'' species naturally found in the Atlantic North America is the Atlantic salmon, whereas the salmon and trout of the Pacific basin belong to another genus, ''[[Oncorhynchus]]''. The [[genus|generic]] name ''Salmo'' derives from the [[Latin]] ''salmō'' (salmon). The number of distinct [[species]] and [[subspecies]] in ''Salmo'' is a debated issue. Atlantic salmon and brown trout are widespread species, while most of the other [[taxon|taxa]] are narrowly distributed forms [[endemism|endemic]] to single [[Drainage basin|watershed]]s.
+
+==Species==
+The species currently listed in this genus are:
+* ''[[Salmo abanticus]]'' <small>[[Enrico Tortonese|Tortonese]], 1954</small> (Lake Abant trout)
+* ''[[Salmo aestivalis]]'' <small>Fortunatov, 1926</small> (Lake Sevan summer trout)
+* ''[[Salmo akairos]]'' <small>[[Bo Delling|Delling]] & [[Ignacio Doadrio Villarejo|Doadrio]], 2005</small> (Lake Ifni trout)
+* ''[[Salmo aphelios]]'' <small>[[Maurice Kottelat|Kottelat]], 1997</small> (summer trout)
+* ''[[Salmo balcanicus]]'' <small>([[Stanko Karaman|S. L. Karaman]], 1927)</small> (Struga trout)
+* ''[[Salmo carpio]]'' <small>[[Carl Linnaeus|Linnaeus]], [[10th edition of Systema Naturae|1758]]</small> (Lake Garda trout)
+* ''[[Salmo caspius]]'' <small>[[Karl Fedorovich Kessler|Kessler]], 1877</small> (Caspian trout) <ref name="Turan2014a"/>
+* ''[[Salmo cettii]]'' <small>[[Constantine Samuel Rafinesque|Rafinesque]], 1810</small> (Mediterranean trout)
+* ''[[Salmo ciscaucasicus]]'' <small>[[Evgenie Alekseevna Dorofeeva|Dorofeeva]], 1967</small> (Terek trout)
+* ''[[Salmo coruhensis]]'' <small>Turan, Kottelat & Engin, 2010</small> (Çoruh river trout) <ref name=Turan2010>{{cite journal | last1 = Turan | first1 = D. | last2 = Kottelat | first2 = M. | last3 = Engin | first3 = S. | year = 2010 | title= Two new species of trouts, resident and migratory, sympatric in streams of northern Anatolia (Salmoniformes: Salmonidae) | journal = Ichthyological Exploration of Freshwaters | volume = 20 | issue = 4| pages = 333–364 }}</ref>
+* ''[[Salmo danilewskii]]'' <small>(Gul'elmi, 1888)</small> (Gokcha lake trout)
+* ''[[Salmo dentex]]'' <small>([[Johann Jakob Heckel|Heckel]], 1851)</small> (Zubatak trout)
+* ''[[Salmo euphrataeus]]'' <small>Turan, Kottelat & Engin, 2014</small> (Euphrates trout) <ref name=Turan2014>{{cite journal | last1 = Turan | first1 = D. | last2 = Kottelat | first2 = M. | last3 = Engin | first3 = S. | year = 2014 | title = Two new species of trouts from the Euphrates drainage, Turkey (Teleostei: Salmonidae) | journal = Ichthyological Exploration of Freshwaters | volume = 24 | issue = 3| pages = 275–288 }}</ref>
+* ''[[Salmo ezenami]]'' <small>[[Lev Berg|L. S. Berg]], 1948</small> (Kezenoi-am trout)
+* ''[[Salmo farioides]]'' <small>[[Stanko Karaman|S. L. Karaman]], 1938</small> (Balkan brook trout)
+* ''[[Salmo ferox]]'' <small>[[Sir William Jardine, 7th Baronet|Jardine]], 1835</small> (Ferox trout)
+* ''[[Salmo fibreni]]'' <small>[[Sergio Zerunian|Zerunian]] & [[Gilberto Gandolfi|Gandolfi]], 1990</small> (Fibreno trout) 
+* ''[[Salmo gegarkuni]]'' <small>[[Karl Fedorovich Kessler|Kessler]], 1877</small> (Gokcha trout)
+* ''[[Salmo ischchan]]'' <small>Kessler, 1877</small> (Sevan trout)
+* ''[[Salmo kottelati]]'' <small>Turan, Doğan, [[Cüneyt Kaya|Kaya]], & [[Mahir Kanyılmaz|Kanyılmaz]], 2014</small> (Alakir trout) <ref name="Turan2014a">{{cite journal |author=Turan, D. |author2=Doğan, E. |author3=Kaya, C. |author4=Kanyılmaz, M. |name-list-style=amp |year=2014 |title=''Salmo kottelati'', a new species of trout from Alakır Stream, draining to the Mediterranean in southern Anatolia, Turkey (Teleostei, Salmonidae) |journal=ZooKeys |issue=462 |pages=135–151 |url=https://zookeys.pensoft.net/articles.php?id=4319 |doi=10.3897/zookeys.462.8177 |pmid=25589858 |pmc=4284436|doi-access=free }}</ref>
+* ''[[Salmo labecula]]'' <small>Turan, Kottelat & Engin, 2012</small> <ref name=Turan2012>{{cite journal | last1 = Turan | first1 = D. | last2 = Kottelat | first2 = M. | last3 = Engin | first3 = S. | year = 2012 | title = The trouts of the Mediterranean drainages of southern Anatolia, Turkey, with description of three new species (Teleostei: Salmonidae) | journal = Ichthyological Exploration of Freshwaters | volume = 23 | issue = 3| pages = 219–236 }}</ref>
+* ''[[Salmo labrax]]'' <small>[[Peter Simon Pallas|Pallas]], 1814</small> (Black Sea trout)
+* ''[[Salmo letnica]]'' <small>(S. L. Karaman, 1924)</small> (Pestani trout)
+* ''[[Salmo lourosensis]]'' <small>[[Bo Delling|Delling]], 2011</small> (Louros trout)
+* ''[[Salmo lumi]]'' <small>[[Georgiy Dmitrievich Poljakov|G. D. Poljakov]], Filipi, [[Kosma Basho|Basho]] & Hysenaj, 1958</small> (Lumi trout)
+* ''[[Salmo macedonicus]]'' <small>(S. L. Karaman, 1924)</small> (Macedonian trout)
+* ''[[Salmo macrostigma]]'' <small>([[Auguste Henri André Duméril|A. H. A. Duméril]], 1858)</small> (Maghreb trout)
+* ''[[Salmo marmoratus]]'' <small>[[Georges Cuvier|G. Cuvier]], 1829</small> (marble trout)
+* ''[[Salmo montenigrinus]]'' <small>(S. L. Karaman, 1933)</small> (Montenegro trout)
+* ''[[Salmo multipunctata]]'' <small>[[Ignacio Doadrio Villarejo|Doadrio]], [[Silvia Perea|Perea]] & [[Ahmed Yahyaoui|Yahyaoui]], 2015</small> (Draa trout) <ref name=Doadrio2015>Doadrio, I., Perea, S. & Yahyaoui, A. (2015): Two new species of atlantic trout (Actinopterygii, Salmonidae) from Morocco. ''Graellsia, 71 (2): e031.''</ref>
+* ''[[Salmo nigripinnis]]'' <small>[[Albert Günther|Günther]], 1866</small> (Sonaghen trout)
+* ''[[Salmo obtusirostris]]'' <small>([[Johann Jakob Heckel|Heckel]], 1851)</small> 
+** ''[[Salmo obtusirostris krkensis|S. o. krkensis]]'' <small>(S. L. Karaman, 1927)</small> (Krka softmouth trout)
+** ''[[Salmo obtusirostris obtusirostris|S. o. obtusirostris]]'' <small>Heckel, 1851</small> (softmouth trout)
+** ''[[Salmo obtusirostris oxyrhynchus|S. o. oxyrhynchus]]'' <small>([[Franz Steindachner|Steindachner]], 1882)</small> (Neretva softmouth trout)
+** ''[[Salmo obtusirostris salonitana|S. o. salonitana]]'' <small>(S. L. Karaman, 1927)</small> (Jadro softmouth trout)
+** ''[[Salmo obtusirostris zetenzis|S. o. zetenzis]]'' <small>([[Slave Hadžišče|Hadžišče]], 1961)</small> (Zeta softmouth trout)
+* ''[[Salmo ohridanus]]'' <small>Steindachner, 1892</small> (Ohrid trout)
+* ''[[Salmo okumusi]]'' <small>Turan, Kottelat & Engin, 2014</small> (Western Euphrates trout) <ref name=Turan2014/>
+* ''[[Salmo opimus]]'' <small>Turan, Kottelat & Engin, 2012</small> <ref name=Turan2012/>
+* [[extinct|†]]''[[Salmo pallaryi]]'' <small>[[Jacques Pellegrin|Pellegrin]], 1924</small> (Sidi Ali trout)
+* ''[[Salmo pelagonicus]]'' <small>S. L. Karaman, 1938</small> (Pelagos trout)
+* ''[[Salmo pellegrini]]'' <small>[[Franz Werner|F. Werner]], 1931</small> (Tensift trout) <ref name=Doadrio2015/>
+* ''[[Salmo peristericus]]'' <small>S. L. Karaman, 1938</small> (Prespa trout)
+* ''[[Salmo platycephalus]]'' <small>[[Robert J. Behnke|Behnke]], 1968</small> (flathead trout)
+* ''[[Salmo rhodanensis]]'' <small>[[Henry Weed Fowler|Fowler]], 1974</small> (Rhône trout)
+* ''[[Salmo rizeensis]]'' <small>Turan, Kottelat & Engin, 2010</small> (Rize River trout) <ref name=Turan2010/>
+* ''[[Salmo salar]]'' <small>[[Carl Linnaeus|Linnaeus]], [[10th edition of Systema Naturae|1758]]</small> (Atlantic salmon)
+* ''[[Salmo schiefermuelleri]]'' <small>[[Marcus Elieser Bloch|Bloch]], 1784</small> (Austrian Lakes trout)
+* ''[[Salmo stomachicus]]'' <small>[[Albert Günther|Günther]], 1866</small> (Gillaroo trout)
+* ''[[Salmo taleri]]'' <small>(S. L. Karaman, 1933)</small> (Zeta trout)
+* ''[[Salmo tigridis]]'' <small>Turan, Kottelat & Bektaş, 2011</small> (Upper Tigris trout)
+* ''[[Salmo trutta]]'' <small>[[Carl Linnaeus|Linnaeus]], [[10th edition of Systema Naturae|1758]]</small>
+** ''[[Salmo trutta aralensis|S. t. aralensis]]'' <small>[[Lev Berg|L. S. Berg]], 1908</small> (Aral trout)
+** ''[[Salmo trutta fario|S. t. fario]]'' <small>[[Carl Linnaeus|Linnaeus]], [[10th edition of Systema Naturae|1758]]</small> (brown trout)
+** ''[[Salmo trutta lacustris|S. t. lacustris]]'' <small>[[Carl Linnaeus|Linnaeus]], [[10th edition of Systema Naturae|1758]]</small> (lake trout)
+** ''[[Salmo trutta oxianus|S. t. oxianus]]'' <small>[[Karl Fedorovich Kessler|Kessler]], 1874</small> (Amu-Darya trout)
+** ''[[Salmo trutta trutta|S. t. trutta]]'' <small>[[Carl Linnaeus|Linnaeus]], [[10th edition of Systema Naturae|1758]]</small> (sea trout)
+* ''[[Salmo viridis]]'' <small>[[Ignacio Doadrio Villarejo|Doadrio]], [[Silvia Perea|Perea]] & [[Ahmed Yahyaoui|Yahyaoui]], 2015</small> (green trout) <ref name=Doadrio2015/>
+
+==References==
+{{Reflist}}
+
+{{Salmon}}
+{{Trouts}}
+{{Taxonbar|from=Q310436}}
+
+[[Category:Salmo| ]]
+[[Category:Extant Miocene first appearances]]
+[[Category:Ray-finned fish genera]]
+[[Category:Taxa named by Carl Linnaeus]]

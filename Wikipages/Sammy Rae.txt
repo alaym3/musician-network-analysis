@@ -1,0 +1,56 @@
+{{Short description|American singer and songwriter}}
+{{Infobox person
+| name               = Sammy Rae
+| image              = 
+| alt                = 
+| caption            = 
+| birth_name         = Samantha Bowers
+| birth_date         = {{Birth year|1994}}
+| birth_place        = [[Derby, Connecticut|Derby]], Connecticut.
+| citizenship        = 
+| occupation         = {{hlist|Singer|songwriter}}<!---occupation(s) artist is notable for, "as given in the lead", per: [[Template:Infobox_person#Parameters]]-->
+| years_active       = 
+| mother             = 
+| awards             = 
+| module             = {{Infobox musical artist|embed=yes
+| background      = solo_singer
+| genre           = <!-- Sourced in #Musical style. Please do not add or remove genres without discussion or reliable sources -->{{hlist|[[Alternative rock|Alternative]]|[[Independent music|Indie]]|[[Jazz fusion#Jazz rock|Jazz rock]]<!-- See talk page before editing this -->}}
+| instrument      = {{hlist|Vocals|Piano}}
+| associated_acts = {{hlist|Sammy Rae & the Friends}}
+| label           = {{hlist|[[Nettwerk]]|[[Warner Music Group|WMG]]|[[Broadcast Music, Inc.|BMI]]}}
+| website         = {{url|sammyrae.com}}
+}}
+}}
+'''Samantha Bowers''' (born 1994), known professionally as '''Sammy Rae''', is an American singer and songwriter who fronts the band '''Sammy Rae & The Friends'''.<ref>{{Cite web|last=Feldberg|first=Isaac|date=7 February 2020|title=Conn.-raised jazz-rock singer Sammy Rae brings her Friends to the Sinclair this weekend|url=https://www.bostonglobe.com/2020/02/07/lifestyle/conn-raised-jazz-rock-singer-sammy-rae-brings-her-friends-sinclair-this-weekend/|url-status=live|archive-url=|archive-date=|access-date=2020-12-06|website=The Boston Globe|language=en-US}}</ref><ref>{{Cite web|last=Bastian|first=Annie|date=16 November 2020|title=Artist of the Month: Sammy Rae|url=https://www.ballstatedaily.com/article/2020/11/artist-of-the-month-sammy-rae?ct=content_open&cv=cbox_latest|url-status=live|archive-url=|archive-date=|access-date=2020-12-06|website=Ball State Daily}}</ref><ref>{{Cite web|last=Shaffer|first=Delaney|date=2021-10-12|title=Sammy Rae & The Friends set to perform at Westcott Theater with Sarah Gross|url=http://dailyorange.com/2021/10/sammy-rae-friends-set-perform-westcott-theater-sarah-gross/|url-status=live|access-date=2021-11-06|website=The Daily Orange|language=en-US}}</ref> Her EP ''The Good Life'' released in 2018.<ref name=":0">{{Cite web|last=Morris|first=C. Zawadi|date=6 November 2018|title=Sammy Rae Takes on Brooklyn! (And She's Got a Band of Friends)|url=https://www.bkreader.com/2018/11/06/sammy-rae-takes-on-brooklyn-and-shes-got-a-band-of-friends/|url-status=live|archive-url=|archive-date=|access-date=2020-12-06|website=BK Reader|language=en-US}}</ref><ref>{{Cite web|last=Forte|first=Camilla|date=2019-02-26|title=Jazz-Rock Mashup Sammy Rae Is Amy Winehouse’s Punchier Young Sister|url=https://studybreaks.com/culture/music/sammy-rae-jazzy-indie-artist/|url-status=live|archive-url=|archive-date=|access-date=2020-12-06|website=Study Breaks|language=en-US}}</ref><ref>{{Cite web|last=Adams|first=Jordan|date=29 January 2020|title=Sammy Rae & the Friends Want to Be Your Pals|url=https://www.sevendaysvt.com/vermont/sammy-rae-and-the-friends-want-to-be-your-pals/Content?oid=29525458|url-status=live|archive-url=|archive-date=|access-date=2020-12-06|website=Seven Days|language=en}}</ref>
+
+== Discography ==
+'''Extended plays'''
+
+* ''Hopeless<ref name=":0" />''
+* ''Celebrate my Heart<ref name=":0" />''
+* ''Sugar<ref name=":0" />''
+* ''The Good Life<ref name=":0" />''
+*''Let's Throw a Party''<ref>{{Cite web|title=Sammy Rae & The Friends Announce New EP 'Let's Throw A Party' Out Jan 22 + Sammy Chats With Her Two Biggest Fans, Chris Evans & Scott Evans {{!}} Nettwerk|url=http://www.nettwerk.com/news/2020/sammy-rae-friends-announce-new-ep-lets-throw-party-out-jan-22-sammy-chats-her-two-biggest|access-date=2021-01-22|website=www.nettwerk.com}}</ref>
+
+'''Singles'''
+* ''Everybody Wants to Rule the World'' (2021)
+* ''Last Christmas'' (2020)
+* Living Room Floor (2020)
+* ''Jackie Onassis (2020)''
+* ''Whatever We Feel'' (2020)
+* ''Denim Jacket'' (2019)
+* ''The Box'' (2019)
+* ''Saw It Coming'' (2019)
+* ''Kick It to Me'' (2018)
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:People from Derby, Connecticut]]
+[[Category:Living people]]
+[[Category:1994 births]]
+
+
+{{US-musician-stub}}

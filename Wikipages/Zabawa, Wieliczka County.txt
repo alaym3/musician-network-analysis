@@ -1,0 +1,35 @@
+{{see also|Zabawa, Tarnów County}}
+{{Infobox settlement
+| name = Zabawa
+| settlement_type = Village
+| total_type = &nbsp;
+| image_flag =
+| image_shield =
+| image_map =
+| subdivision_type = [[Countries of the world|Country]]
+| subdivision_name = {{POL}}
+| subdivision_type1 = [[Voivodeships of Poland|Voivodeship]]
+| subdivision_name1 = [[Lesser Poland Voivodeship|Lesser Poland]]
+| subdivision_type2 = [[Powiat|County]]
+| subdivision_name2 = [[Wieliczka County|Wieliczka]]
+| subdivision_type3 = [[Gmina]]
+| subdivision_name3 = [[Gmina Wieliczka|Wieliczka]]
+|pushpin_map=Poland
+|coordinates = {{coord|49|59|38|N|20|5|23|E|region:PL|display=inline}}
+| elevation_m =
+| population_total = 812
+| website = }}
+'''Zabawa''' {{IPAc-pl|z|a|'|b|a|w|a}} ([[translation]]: ''Fun'') is a [[village]] in the administrative district of [[Gmina Wieliczka]], within [[Wieliczka County]], [[Lesser Poland Voivodeship]], in southern Poland.<ref name="TERYT">{{cite web |url=http://www.stat.gov.pl/broker/access/prefile/listPreFiles.jspa |title=Central Statistical Office (GUS) &ndash; TERYT (National Register of Territorial Land Apportionment Journal) |date=2008-06-01 |language=Polish}}</ref> It lies approximately {{convert|2|km|mi|0}} east of [[Wieliczka]] and {{convert|14|km|mi|0|abbr=on}} southeast of the regional capital [[Kraków]].
+
+The village has a population of 812.
+
+==References==
+{{reflist}}
+
+<br>
+{{Gmina Wieliczka}}
+
+{{coord|49|59|37.8|N|20|05|23.3|E|source:plwiki_region:PL_scale:10000|display=title}}
+
+[[Category:Villages in Wieliczka County|Zabawa]]
+{{Wieliczka-geo-stub}}

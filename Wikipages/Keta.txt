@@ -1,0 +1,198 @@
+{{Other uses}}
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->
+|official_name          = Keta
+|other_name             = Ketta, Quittah
+|native_name            =  <!-- for cities whose native name is not in English -->
+|nickname               =
+|settlement_type        = [[Town]] & [[Municipality]] Capital
+|motto                  =
+<!-- images and maps  ----------->
+|image_skyline          = Keta beach.jpg
+|imagesize              = 250px
+|image_caption          = [[Fort Prinsensten]] on the beach of Keta in 1985
+|image_flag             =
+|flag_size              =
+|image_seal             =
+|seal_size              =
+|image_shield           =
+|shield_size            =
+|image_blank_emblem     =
+|blank_emblem_type      =
+|blank_emblem_size      =
+|image_map              =
+|mapsize                =
+|map_caption            =
+|image_map1             =
+|mapsize1               =
+|map_caption1           =
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =  |dot_y =
+|pushpin_map            = Ghana<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_label_position =bottom
+|pushpin_map_caption    =Location of Keta in [[Volta Region|Volta]]
+<!-- Location ------------------>
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Ghana}}
+|subdivision_type1      = [[Regions of Ghana|Region]]
+|subdivision_name1      = {{flagicon image|Flag of Volta Region.png}} [[Volta Region]]
+|subdivision_type2      = [[Districts of Ghana|District]]
+|subdivision_name2      = [[Keta Municipal District]]
+|subdivision_type3      =
+|subdivision_name3      =
+|subdivision_type4      =
+|subdivision_name4      =
+|government_footnotes   =
+|government_type        =
+|leader_title           =
+|leader_name            =
+|leader_title1          =  <!-- for places with, say, both a mayor and a city manager -->
+|leader_name1           =
+|leader_title2          =
+|leader_name2           =
+|leader_title3          =
+|leader_name3           =
+|leader_title4          =
+|leader_name4           =
+|established_title      =  <!-- Settled -->
+|established_date       =
+|established_title2     =  <!-- Incorporated (town) -->
+|established_date2      =
+|established_title3     =  <!-- Incorporated (city) -->
+|established_date3      =
+<!-- Area    --------------------->
+|area_magnitude         =
+|unit_pref                =Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+|area_footnotes           =
+|area_total_km2           = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+|area_land_km2            = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+|area_water_km2           =
+|area_total_sq_mi         =
+|area_land_sq_mi          =
+|area_water_sq_mi         =
+|area_water_percent       =
+|area_urban_km2           =
+|area_urban_sq_mi         =
+|area_metro_km2           =
+|area_metro_sq_mi         =
+|area_blank1_title        =
+|area_blank1_km2          =
+|area_blank1_sq_mi        =
+<!-- Population   ----------------------->
+|population_as_of               =2013
+|population_footnotes           =
+|population_note                =Ranked 61st in Ghana
+|population_total               =23,207<ref name="World Gazetteer">{{cite web|url=http://bevoelkerungsstatistik.de/wg.php?x=1170623253&men=gcis&lng=de&dat=32&geo=-85&srt=npan&col=aohdq&pt=c&va=x |title=World Gazetteer online |publisher=World-gazetteer.com |url-status=dead |archive-url=https://web.archive.org/web/20120111172126/http://bevoelkerungsstatistik.de/wg.php?x=1170623253&men=gcis&lng=de&dat=32&geo=-85&srt=npan&col=aohdq&pt=c&va=x |archive-date=2012-01-11 }}</ref>
+|population_density_km2         =
+|population_density_sq_mi       =1829
+|population_metro               =
+|population_density_metro_km2   =
+|population_density_metro_sq_mi =
+|population_urban               =
+|population_density_urban_km2   =
+|population_density_urban_sq_mi =
+|population_blank1_title        =Ethnicities
+|population_blank1              =
+|population_blank2_title        =Religions
+|population_blank2              =
+|population_density_blank1_km2 =  
+|population_density_blank1_sq_mi =
+<!-- General information  --------------->
+|timezone               = [[Greenwich Mean Time|GMT]]
+|utc_offset             =
+|timezone_DST           = [[Greenwich Mean Time|GMT]]
+|utc_offset_DST         =
+|coordinates            = {{coord|5|55|N|0|59|E|region:GH|display=inline}}
+|elevation_footnotes    =  <!--for references: use <ref> </ref> tags-->
+|elevation_m            =
+|elevation_ft           =
+<!-- Area/postal codes & others -------->
+|postal_code_type       =  <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+|postal_code            =
+|area_code              = +233 (3626)
+|blank_name             =
+|blank_info             =
+|blank1_name            =
+|blank1_info            =
+|website                =
+|footnotes              =
+}}
+
+'''Keta''' is a [[Coast|coastal]] town in the [[Volta Region]] of [[Ghana]]. It is the capital of the [[Keta Municipal District]].<ref name="ouring Ghana - Volta Region">[http://www.touringghana.com/regions/volta_region.asp Touring Ghana - Volta Region] {{webarchive|url=https://web.archive.org/web/20120414140757/http://www.touringghana.com/regions/volta_region.asp |date=2012-04-14 }}. touringghana.com.</ref>
+
+Keta is the sixty-first most populous [[Human settlement|settlement]] in Ghana in terms of population, with a population of 23,207.<ref name="World Gazetteer"/>  Parts of the town were devastated by sea erosion between the 1960s and 1980s.  Keta is mentioned in [[Maya Angelou]]'s ''[[All God's Children Need Traveling Shoes]]''.
+
+==History==
+[[File:The National Archives UK - CO 1069-34-127-2-001.jpg|Village on the Keta Lagoon, near Keta, 1890s|thumb|200px|right]]
+
+Keta was settled by the [[Anlo Ewe]], a sub-group of the [[Ewe people]] who, in the 17th century, migrated to the area from [[Ketu (Benin)|Ketu]], in [[Benin]].<ref name="Amenumey">Amenumey, D. E. K. (1968) "The Extension of British Rule to Anlo (South-East Ghana)" ''The Journal of African History'' 9(1):&nbsp;pp.&nbsp;997&ndash;117; [https://www.jstor.org/stable/179922 JSTOR copy]</ref>
+
+Keta was an important trading post between the 14th and the late 20th centuries. The town attracted the interest of the [[Danish people|Danish]], because they felt they could establish a base here without interference from rival [[Europe]]an nations. Their first initiative was to place a factory at Keta to sell alcohol.<ref name=Akyeampong>{{cite book|last=Akyeampong|first=Emmanuel Kwaku|title=Between the Sea and the Lagoon|date=2001|publisher=James Currey|location=Oxford|isbn=0-85255-776-0|page=46}}</ref>
+
+In 1792, a war between [[Anloga]] and Keta broke out.
+
+Faced with the threat of war between [[Peki]] and an alliance of the [[Ashanti Empire|Ashanti]] and the [[Akwamu]], the [[North German Missionary Society]] (also known as the [[Bremen]] Missionaries) moved the focus of their activities from Peki to Keta. Their missionaries, Dauble and Plessing, landed at nearby [[Dzelukofe]] on September 2, 1853.<ref name=Agbeti>{{cite book|last=Agbeti|first=J Kofi|title=West African Church History: Christian Missions and Church Foundations 1482-1919 |date=1986|publisher=Brill Archive|location=Leiden}}</ref>
+
+Historically Keta was also known as ''Quittah'' and was assigned B27 as a postal mark.<ref>{{cite web|title=British Commonwealth Postmarks|url=http://pbbooks.com/cr24.htm|publisher=Philatelic Bibliopole|access-date=2 April 2014}}</ref>
+
+From 1874 [[Hausa people|Hausa]] Constabulary were based at Keta, and soon there grew to be a community of Hausa traders in the town.<ref name=Akyeampong/>
+
+The author, and then colonial Civil Servant, Dr. [[R. Austin Freeman]] served as an medical officer (Assistant Surgeon) here in 1887 during which an epidemic of [[black water fever]] killed forty per cent of the European population.<ref name=Travels>{{ cite book 
+|last1=Freeman 
+|first1=Richard Austin 
+|title=Travels and Life in Ashanti and Jaman 
+|chapter=XVII A Chapter on Malaria 
+|pages=502 
+|date=1898 
+|publisher=F. A. Stokes 
+|location=New York 
+|url=https://hdl.handle.net/2027/uva.x004101128?urlappend=%3Bseq=532 
+|access-date=2020-07-05 
+|via=The [[Hathi Trust]] (access may be limited outside the United States) }}</ref>
+
+==Ecology==
+In 1784, [[Fort Prinzenstein]], like most [[slave trade]] forts, was built by the sea's edge. However the sea had retreated by about 600&nbsp;ft by 1907. Since then Keta has been subject to sustained erosion. The Bremen Factory and Coconut plantation, which were close to the high water mark in 1907, had been swept away by the sea by 1924. The erosion has now advanced as far as Queen Street and started to wear away the Fort.<ref name=Akyeampong/>
+
+Close to Keta is the famous town of [[Woe, Ghana|Woe]], known for the notable [[lighthouse]] called [[Cape St. Paul Lighthouse]]<ref>{{cite web|title=about this municipality|url=http://keta.ghanadistricts.gov.gh/?arrow=atd&_=121&sa=173|publisher=ghanadistricts.gov.gh|access-date=19 January 2014}}</ref>  on the beach that is believed to guide ships away from a mythical massive underwater mountain. This lighthouse is also thought to be the oldest in Ghana.<ref>{{cite book|last=Briggs|first=Philip|title=Ghana|year=2010|publisher=Bradt Travel Guides|page=[https://archive.org/details/ghanabradttravel0000brig/page/234 234]|url=https://archive.org/details/ghanabradttravel0000brig|url-access=registration|quote=woe keta.|isbn=9781841623252}}</ref>
+
+==Keta Lagoon==
+{{Main|Keta Lagoon}}
+Keta Lagoon is the largest lagoon in Ghana with a water area of 300&nbsp;km<sup>2</sup>. This is located in a larger wetlands protected area of 1200&nbsp;km<sup>2</sup>. It is a stopping point for a large number of migratory birds and provides a breeding ground for [[sea turtles]].<ref name=FCG>{{cite web|title=Keta Lagoon Complex Ramsar Site|url=http://www.fcghana.org/page.php?page=269&section=32&typ=1&subs=281|access-date=5 April 2014}}</ref>
+The Keta Lagoon is known for its immense quantity of salt.<ref>{{cite web|author=Webby|title=Keta Lagoon|url=https://content.ghanagrio.com/article/355-keta-lagoon.html|website=Ghana Nation|publisher=Ghana Nation|access-date=19 April 2018}}{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==Festival==
+[[Sometutuza Festival|Keta Sometutuza Festival]]<ref>{{cite web|url=http://www.ghanaexpeditions.com/regions/highlight_detail.asp?rdid=182|website=Ghana Expeditions|access-date=19 April 2018|title=Archived copy|archive-url=https://web.archive.org/web/20180420073755/http://www.ghanaexpeditions.com/regions/highlight_detail.asp?rdid=182|archive-date=20 April 2018|url-status=dead}}</ref>''hogbetsotso za''
+
+==Oil==
+[[Oil]] has been found at the Keta Basin. However, experts are against the exploitation because it will be on land which lead to the destruction of land and lives, as well as some sources of livelihood.<ref name=MiD>{{cite web|title=Oil & Gas Expert Warns Against Exploration in Keta Basin|url=http://www.reportingoilandgas.org/oil-gas-expert-warns-against-exploration-in-keta-basin/|access-date=19 April 2018}}</ref>
+
+== Education ==
+The city can boast of notably finest schools in the Volta Region.
+* Keta Senior High Technical School
+* Keta Business College
+
+== Attractions ==
+Keta community has a few tourist attractions which one can enjoy  whiles in the town.
+
+* Aborigines Beach Resort
+* Keta Lagoon Rest Stop
+* Keta Lagoon Resort
+* Fort Prinzenstein
+* Gobah Beach
+
+==See also==
+* [[Dzelukofe]]
+* [[Anloga]]
+
+==References==
+{{Reflist}}
+
+{{GhanaLargestCities}}
+{{Ghana district capitals}}
+{{Authority control}}
+
+[[Category:Populated places in the Volta Region]]
+[[Category:Ramsar sites in Ghana]]

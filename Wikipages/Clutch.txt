@@ -1,0 +1,122 @@
+{{short description|Mechanical device}}
+{{Other uses}}
+{{pp-pc1|small=yes}}
+{{Multiple issues|
+{{original research|date=March 2015}}
+{{More citations needed|date=August 2012}}
+}}
+{{Use dmy dates|date=February 2021}}
+
+[[Image:Clutchdisc.jpg|thumb|right|Single dry-clutch friction disc. The [[Spline (mechanical)|splined]] hub is attached to the disc with springs to damp chatter.]]
+
+A '''clutch''' is a mechanical device that engages and disengages power [[Transmission (mechanics)|transmission]], especially from a drive shaft ([[driving shaft]]) to a driven shaft.<ref>{{cite book |last1=Sclater |first1=Neil |title=Mechanisms and mechanical devices sourcebook |date=2011 |publisher=McGraw-Hill |location=New York |isbn=9780071704427 |page=212 |edition=5th |url=https://www.amazon.com/reader/0071704426 |access-date=27 December 2020}}</ref> In the simplest application, clutches connect and disconnect two rotating shafts (drive shafts or [[line shaft]]s). In these devices, one shaft is typically attached to an engine and other to power unit (the driving member), while the other shaft (the driven member) provides output power for work. Typically the motions involved are rotary, but linear clutches also exist.
+
+In a motor vehicle, the clutch acts as a mechanical linkage between the [[engine]] and [[Transmission (mechanics)|transmission]], and briefly disconnects, or separates the engine from the transmission system. This disconnects the drive [[wheel]]s whenever the clutch pedal is depressed, allowing the driver to smoothly change gears. 
+
+In a torque-controlled [[drill]], for instance, one shaft is driven by a motor, and the other drives a drill chuck.<ref>{{cite web |title=How Clutches Work |url=http://auto.howstuffworks.com/clutch.htm |website=howstuffworks.com |access-date=24 December 2020 |language=en |date=16 October 2007}}</ref> The clutch connects the two shafts so they may be locked together and spin at the same speed (engaged), locked together but spinning at different speeds (slipping), or unlocked and spinning at different speeds (disengaged).
+
+== Design ==
+=== Dry clutch===
+[[File:Car clutch.png|thumb|right|Diagram of a friction clutch]]
+A ''dry clutch'' uses [[Friction#Dry friction|dry friction]] to transfer power from the input shaft to the output shaft. The majority of clutches are dry clutches. Slippage of a friction clutch (where the clutch is partially engaged but the shafts are rotating at different speeds) is sometimes required, such as when a motor vehicle accelerates from a standstill; however the slippage should be minimised to avoid increased wear rates.
+
+In a ''pull-type'' clutch, pressing the pedal pulls the release bearing to disengage the clutch. In a ''push-type'' clutch, pressing the pedal pushes the release bearing to disengage the clutch.
+
+A ''multi-plate clutch'' consists of several friction plates arranged concentrically and is sometimes used in order to reduce the diameter of the clutch or to provide different 'stages' of slippage (for example in a drag racing car) to control the rate at which the engine's torque is transferred to the wheels during acceleration from a standing start.
+
+====Materials====
+A common friction material is an [[organic compound]] resin with a [[copper]] wire facing or a [[ceramic]] material.<ref>{{Cite journal |last1=Yu |first1=Liang |last2=Ma |first2=Biao |last3=Chen |first3=Man |last4=Li |first4=Heyan |last5=Ma |first5=Chengnan |last6=Liu |first6=Jikai |date=2019-09-15 |title=Comparison of the Friction and Wear Characteristics between Copper and Paper Based Friction Materials |journal=Materials |volume=12 |issue=18 |page=2988 |doi=10.3390/ma12182988 |issn=1996-1944 |pmc=6766303 |pmid=31540186|bibcode=2019Mate...12.2988Y |doi-access=free }}</ref> Ceramic materials can often transmit higher torque loads, but they can cause increased wear rates of the [[flywheel]]. Until the mid 1990s [[asbestos]] was also used in clutch plates.{{citation needed|date=January 2021}}
+
+==== Spring centres and clutch dampers ====
+A clutch disc can include springs which are designed to change the [[natural frequency]] of the clutch disc, in order to reduce vibration or audible rattling from the gearbox when the engine is idling in neutral.
+
+A clutch damper is a device that softens the response of the clutch engagement/disengagement. In automotive applications, this is often provided by a mechanism in the clutch disc centre.
+
+=== Wet clutch ===
+In a ''wet clutch'', the friction material sits in an oil bath (or has flow-through oil) which cools and lubricates the clutch. This can provide smoother engagement and a longer lifespan of the clutch, however wet clutches can have a lower efficiency due to some energy being transferred to the oil. Since the surfaces of a wet clutch can be slippery (as with a motorcycle clutch bathed in engine oil), stacking multiple clutch discs can compensate for the lower [[coefficient of friction]] and so eliminate slippage under power when fully engaged.
+
+Wet clutches often use a composite paper material.
+
+=== Centrifugal clutch ===
+{{main|Centrifugal clutch}}
+A centrifugal clutch automatically engages as the speed of the input shaft increases and disengages as the input shaft speed decreases. Applications include small [[motorcycle]]s, [[motor scooter]]s, [[chainsaw]]s, and some older [[automobiles]].
+
+=== Cone clutch ===
+{{main|Cone clutch}}
+A cone clutch is similar to dry friction plate clutch, except the friction material is applied to the outside of a conical shaped object.
+A common application for cone clutches is the [[Synchromesh|synchronizer ring]] in a manual transmission.
+
+=== Dog clutch ===
+{{main|Dog clutch}}
+A dog clutch is a non-slip design of clutch which is used in [[non-synchronous transmission]]s.
+
+=== Single-revolution clutch ===
+[[File:TTY-ASR-33-Clutch.jpg|thumb|Cascaded-pawl single-revolution clutch in a [[teleprinter]] ]]
+
+The ''single-revolution clutch'' was developed in the 19th century to power machinery such as [[Shear (sheet metal)|shears]] or [[Machine press|presses]] where a single pull of the operating lever or (later) press of a button would trip the mechanism, engaging the clutch between the power source and the machine's [[crankshaft]] for exactly one revolution before disengaging the clutch. When the clutch is disengaged and the driven member is stationary. Early designs were typically [[dog clutch]]es with a [[cam]] on the driven member used to disengage the dogs at the appropriate point.<ref>Frank Wheeler, Clutch and stop mechanism for presses, {{patent|US|470797}}, granted Dec. 14, 1891.</ref><ref>Samuel Trethewey, Clutch, {{patent|US|495686}}, granted Apr. 18, 1893.</ref>
+
+Greatly simplified single-revolution clutches were developed in the 20th century, requiring much smaller operating forces and in some variations, allowing for a fixed fraction of a revolution per operation.<ref>Fred. R. Allen, Clutch, {{patent|US|1025043}}, granted Apr. 30, 1912.</ref> Fast action friction clutches replaced dog clutches in some applications, eliminating the problem of impact loading on the dogs every time the clutch engaged.<ref>John J. Zeitz, Friction-clutch, {{patent|US|906181}}, granted Dec. 8, 1908.</ref><ref>William Lautenschlager, Friction Clutch, {{patent|US|1439314}}, granted Dec. 19, 1922.</ref>
+
+In addition to their use in heavy manufacturing equipment, single-revolution clutches were applied to numerous small machines. In [[tabulating machine]]s, for example, pressing the operate key would trip a single revolution clutch to process the most recently entered number.<ref>Fred. M. Carroll, Key adding device for tabulating machines, {{patent|US|1848106}}, granted Mar. 8, 1932.</ref> In [[Hot metal typesetting|typesetting machines]], pressing any key selected a particular character and also engaged a single rotation clutch to cycle the mechanism to typeset that character.<ref>Clifton Chisholm, Typesetting machine, {{patent|US|1889914}}, granted Dec. 6, 1932.</ref> Similarly, in [[teleprinter]]s, the receipt of each character tripped a single-revolution clutch to operate one cycle of the print mechanism.<ref>Arthur H, Adams, Selecting and typing means for printing telegraphs, {{patent|US|2161840}}, issued Jun. 13, 1928.</ref>
+
+In 1928, [[Frederick G. Creed]] developed a single-turn spring clutch (see above) that was particularly well suited to the repetitive start-stop action required in [[teleprinter]]s.<ref>[[Frederick G. Creed]], Clutch Mechanism, {{patent|US|1659724}}, granted Feb. 21, 1928</ref> In 1942, two employees of [[Pitney Bowes|Pitney Bowes Postage Meter Company]] developed an improved single turn spring clutch.<ref>Alva G. Russell, Alfred Burkhardt, and Samuel E. Calhoun, Spring Clutch, {{patent|US|2298970}}, granted Oct. 13, 1942.</ref> In these clutches, a coil spring is wrapped around the driven shaft and held in an expanded configuration by the trip lever. When tripped, the spring rapidly contracts around the power shaft engaging the clutch. At the end of one revolution, if the trip lever has been reset, it catches the end of the spring (or a pawl attached to it), and the [[angular momentum]] of the driven member releases the tension on the spring. These clutches have long operating lives—many have performed tens and perhaps hundreds of millions of cycles without the need of maintenance other than occasional lubrication.
+
+''Cascaded-pawl single-revolution clutches'' superseded wrap-spring single-revolution clutches in page printers, such as [[teleprinter]]s, including the [[Teletype Model 28]] and its successors, using the same design principles. [[IBM Selectric typewriter]]s also used them. These are typically disc-shaped assemblies mounted on the driven shaft. Inside the hollow disc-shaped drive drum are two or three freely floating pawls arranged so that when the clutch is tripped, the pawls spring outward much like the shoes in a [[drum brake]]. When engaged, the load torque on each pawl transfers to the others to keep them engaged.  These clutches do not slip once locked up, and they engage very quickly, on the order of milliseconds. A trip projection extends out from the assembly. If the trip lever engaged this projection, the clutch was disengaged. When the trip lever releases this projection, internal springs and friction engage the clutch. The clutch then rotates one or more turns, stopping when the trip lever again engages the trip projection.
+
+=== Kickback clutch-brakes===
+These mechanisms were found in some types of synchronous-motor-driven electric clocks. Many different types of synchronous clock motors were used, including the pre-World War II Hammond manual-start clocks. Some types of self-starting synchronous motors always started when power was applied, but in detail, their behaviour was chaotic and they were equally likely to start rotating in the wrong direction. Coupled to the rotor by one (or possibly two) stages of reduction gearing was a wrap-spring clutch-brake. The spring did not rotate. One end was fixed; the other was free. It rode freely but closely on the rotating member, part of the clock's gear train. The clutch-brake locked up when rotated backwards, but also had some spring action. The inertia of the rotor going backwards engaged the clutch and wound the spring. As it unwound, it restarted the motor in the correct direction. Some designs had no explicit spring as such—but were simply compliant mechanisms. The mechanism was lubricated and wear did not present a problem.
+
+=== Other designs ===
+* ''Belt clutch'': used on agricultural equipment, lawnmowers, tillers, and snow blowers. Engine power is transmitted via a set of [[belt (mechanical)|belts]] that are slack when the engine is idling, but an idler pulley can tighten the belts to increase friction between the belts and the pulleys.
+* ''BMA clutch'': Invented by Waldo J Kelleigh in 1949,<ref>{{cite web |title=Clutch Patent |url=https://patents.google.com/patent/US2690246A/en}}</ref> used for transmitting torque between two shafts consisting of a fixed driving member secured to one of said shafts, and a movable driving member, having a contacting surface with a plurality of indentations.
+* ''[[Electromagnetic clutch]]'': typically engaged by an electromagnet that is an integral part of the clutch assembly. Another type, the ''magnetic particle clutch'', contains magnetically influenced particles in a chamber between driving and driven members—application of [[direct current]] makes the particles clump together and adhere to the operating surfaces. Engagement and slippage are notably smooth.
+*''Wrap-spring clutch'': has a helical spring, typically wound with square-cross-section wire. These were developed in the late 19th and early 20th-century.<ref>Analdo M. English, Friction-Clutch, {{Patent|US|255957}}, granted Apr. 4 1882.</ref><ref>Charles C. Tillotson, Power-Transmission Clutch, {{Patent|US|850981}}, granted Apr. 23, 1907.</ref> In simple form the spring is fastened at one end to the driven member; its other end is unattached. The spring fits closely around a cylindrical driving member. If the driving member rotates in the direction that would unwind the spring expands minutely and slips although with some drag. Because of this, spring clutches must typically be lubricated with light oil. Rotating the driving member the other way makes the spring wrap itself tightly around the driving surface and the clutch locks up very quickly. The torque required to make a spring clutch slip [[grows exponentially]] with the number of turns in the spring, obeying the [[capstan equation]].
+
+== Usage ==
+=== Automotive transmissions ===
+{{See|Transmission (mechanics)}}
+; Manual transmissions
+Most cars and trucks with a [[manual transmission]] have a clutch consisting of friction disc(s) which is operated using the left-most [[Automobile pedal|pedal]] with the motion transferred to the clutch using hydraulics (master and slave cylinders) or a cable. The clutch is only disengaged at times when the driver is pressing the clutch pedal towards the floor, therefore the default state is for the transmission to be connected to the engine. A "neutral" gear position is provided, so that the clutch pedal can be released with the vehicle remaining stationary.
+
+In addition to standing starts, the clutch is usually required for gear changes. Although the gearbox does not stop rotating during a gear change, there is no torque transmitted through it, thus less friction between gears and their engagement dogs. The output shaft of the gearbox is permanently connected to the [[final drive]], then the wheels, and so both always rotate together, at a fixed speed ratio. With the clutch disengaged, the gearbox input shaft is free to change its speed as the internal ratio is changed. Any resulting difference in speed between the engine and gearbox is evened out as the clutch slips slightly during re-engagement.
+
+The clutch is usually mounted directly to the face of the engine's [[flywheel]], as this already provides a convenient large-diameter steel disk that can act as one driving plate of the clutch. Some racing clutches use small multi-plate disk packs that are not part of the flywheel. Both clutch and flywheel are enclosed in a conical [[bellhousing]] for the gearbox. A small number of [[Front-engine, rear-wheel-drive layout|front-engine, rear-wheel drive]] cars (such as the Alfa Romeo Alfetta, Porsche 924 and Chevrolet Corvette C5) use a [[transaxle]] layout with the transmission located near the rear of the car; in this case the clutch is mounted with the transaxle (therefore the driveshaft rotates continuously with the engine, even when the clutch is disengaged).
+
+; Automatic transmissions
+Some [[automatic transmission]]s use a ''lock-up clutch'' to prevent slippage of the [[torque converter]] when cruising at higher speeds. The purpose of the lock-up clutch is to improve fuel economy by minimising energy losses caused by slippage of the torque converter.<ref>{{cite web|url=http://youronlinemechanic.com/what-is-lock-up-clutch-mechanism/ |title=What is Lock-up Clutch Mechanism? |publisher=Your Online Mechanic |access-date=2014-07-17}}</ref>
+
+=== Other automotive uses ===
+Cars use clutches in places other than the drive train. For example, a belt-driven engine cooling fan may have a heat-activated clutch. The driving and driven members are separated by a silicone-based fluid and a valve controlled by a [[Bimetallic strip|bimetallic spring]]. When the temperature is low, the spring winds and closes the valve, which lets the fan spin at about 20% to 30% of the [[crankshaft|shaft]] speed. As the temperature of the spring rises, it unwinds and opens the valve, allowing fluid past the valve, makes the fan spin at about 60% to 90% of shaft speed.
+
+Other clutches—such as for an [[air conditioning]] compressor—electronically engage clutches using magnetic force to couple the driving member to the driven member.
+
+=== Motorcycles ===
+[[File:Basket clutch.png|thumb|right|200px|A basket clutch]]
+Motorcycles typically employ a wet clutch with the clutch riding in the same oil as the transmission. These clutches are usually made up of a stack of alternating friction plates and steel plates. The friction plates have lugs on their outer diameters that lock them into a basket that is turned by the crankshaft. The steel plates have lugs on their inner diameters that lock them to the transmission input shaft. A set of coil springs or a diaphragm spring plate force the plates together when the clutch is engaged.
+
+On [[motorcycle]]s the clutch is operated by a hand lever on the left handlebar. No pressure on the lever means that the clutch plates are engaged (driving), while pulling the lever back towards the rider disengages the clutch plates through cable or hydraulic actuation, allowing the rider to shift gears or coast. Racing motorcycles often use [[slipper clutch]]es to eliminate the effects of [[engine braking]], which, being applied only to the rear wheel, can cause instability.
+
+==See also==
+{{Commons category|Clutches|Clutch (coupling)}}
+{{div col|colwidth=22em}}
+* [[Clamp (disambiguation)]]
+* [[Clutch control]]
+* [[Clutch delay valve]]
+* [[Coupling]]
+* [[Dual-clutch transmission]]
+* [[Dual mass flywheel]]
+* [[Freewheel]]
+* [[Gear shift]]
+* [[Torque converter]]
+* [[Torque limiter]]
+{{div col end}}
+
+==References==
+{{Reflist|30em}}
+{{Car-interior}}
+{{Powertrain|state=expanded}}
+
+{{Authority control}}
+
+[[Category:Clutches| ]]
+[[Category:Automotive transmission technologies]]

@@ -1,0 +1,66 @@
+{{wiktionary|Ideal|ideal|ideals}}
+'''Ideal''' may refer to:
+
+{{TOC right}}
+
+==Philosophy==
+* [[Ideal (ethics)]], values that one actively pursues as goals
+* [[Platonic ideal]], a philosophical idea of trueness of form, associated with Plato
+
+==Mathematics==
+* [[Ideal (ring theory)]], special subsets of a ring considered in abstract algebra
+* Ideal, special subsets of a [[Semigroup#Subsemigroups and ideals|semigroup]]
+* [[Ideal (order theory)]], special kind of lower sets of an order
+* [[Ideal (set theory)]], a collection of sets regarded as "small" or "negligible"
+* [[Ideal (Lie algebra)]], a particular subset in a Lie algebra
+* [[Ideal point]], a boundary point in hyperbolic geometry
+* [[Ideal triangle]], a triangle in hyperbolic geometry whose vertices are ideal points
+
+==Science==
+* [[Ideal chain]], in science, the simplest model describing a polymer
+* [[Ideal gas law]], in physics, governing the pressure of an ideal gas
+* Ideal transformer, an electrical [[transformer]] having zero resistance and perfect magnetic threading
+* [[Ideal final result]], in TRIZ methodology, the best possible solution
+* [[Thought experiment]], sometimes called an ideal experiment
+* [[Ideal type]], a social science term
+* [[Ideal solution]], a solution with thermodynamic properties analogous to those of a mixture of ideal gases
+
+==Entertainment==
+* [[Ideal (group)]], a late-1990s/2000s American R&B group
+* [[Ideal (German band)]], an early-1980s German rock group
+* [[Ideal (album)|''Ideal'' (album)]], a 1999 album by the R&B group Ideal
+* ''[[An Ideal]]'', a 2016 album by Li Ronghao
+* [[Ideal (novel)|''Ideal'' (novel)]], a 1934 novel by Ayn Rand, published in 2015
+** [[Ideal (play)|''Ideal'' (play)]], a 1936 play by Ayn Rand, adapted from the novel, published in 1989
+* [[Ideal (TV series)|''Ideal'' (TV series)]], a British situation comedy
+* [[Ideal Film Company]], a British film studio of the Silent Era
+* [[Ideal Ice Cream]], an ice cream company
+* [[Ideal Toy Company]], a defunct toy company
+
+==Places==
+* [[Ideal, Georgia]]
+* [[Ideal, Illinois]]
+* [[Ideal, South Dakota]]
+* [[Ideal Mini School]]
+
+==Miscellaneous==
+* [[Changhe Ideal]], a city car produced by a joint-venture of Changhe and Suzuki
+* [[Ideal 18]], a Canadian sailboat design
+* [[IDEAL Scholars Fund]], an American scholarship program for underrepresented students
+* [[Ideal (newspaper)|''Ideal'' (newspaper)]], a Spanish-language newspaper
+* [[iDEAL]], an online payment method in the Netherlands
+* [[Ideal Industries]], an American manufacturer of electrical connectors and tools
+* [[IDEAL framework]] (Idea, Development, Exploration, Assessment, Long-term study), a framework for describing the stages of innovation in surgery
+* IDEAL (Interactive Development Environment for an Application Lifecycle), a development language above COBOL for [[DATACOM/DB#IDEAL|DATACOM/DB]]
+
+==See also==
+{{canned search|ideal}}
+* {{in title|plural=yes}}
+* {{lookfrom}}
+* [[Idealism (disambiguation)]]
+* [[Idea]]
+* [[Idol (disambiguation)]]
+* [[Idle (disambiguation)]]
+* [[Idyl (disambiguation)]]
+
+{{disambiguation|geo}}

@@ -1,0 +1,215 @@
+{{short description|Persian mythological hero of the epic poem Shahnameh}}
+{{Other uses}}
+{{Use dmy dates|date=September 2019}}
+{{more citations needed|date=April 2014}}
+{{Infobox person
+| honorific_prefix   = [[Jahan Pahlavan]]
+| name               = <!-- use common name/article title -->Rostam
+| honorific_suffix   = 
+| image              = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->RostamMournsSohrab.jpg
+| image_upright      = 
+| landscape          = <!-- yes, if wide image, otherwise leave blank -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = Rostam mourning [[Sohrab]]. Persian miniature.
+| native_name        = رستم
+| native_name_lang   = رستم
+| pronunciation      = 
+| birth_name         = <!-- only use if different from name -->
+| birth_date         = <!-- {{Birth date and age|YYYY|MM|DD}} for living people supply only the year with {{Birth year and age|YYYY}} unless the exact date is already widely published, as per [[WP:DOB]]. For people who have died, use {{Birth date|YYYY|MM|DD}}. -->
+| birth_place        = [[Zabulistan]]
+| baptised           = <!-- will not display if birth_date is entered -->
+| disappeared_date   = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place  = 
+| disappeared_status = 
+| death_date         = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (enter DEATH date then BIRTH date (e.g., ...|1967|31|8|1908|28|2}} use both this parameter and |birth_date to display the person's date of birth, date of death, and age at death) -->
+| death_place        = [[Kabulistan]]
+| death_cause        = <!--should only be included when the cause of death has significance for the subject's notability-->With the conspiracy of his half-brother [[Shaghad]], he fell into a well full of poisoned spears and was killed in [[Kabulistan]].
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| burial_place       = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
+| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          = 
+| nationality        = [[Iranian peoples|Iranian]]
+| other_names        = Rustam<br>Rustem
+| siglum             = 
+| citizenship        = 
+| education          = 
+| alma_mater         = 
+| occupation         = 
+| years_active       = 
+| era                = 
+| employer           = 
+| organization       = 
+| agent              = <!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source -->
+| known_for          = [[Rostam's Seven Labours|Seven Labours]]<br>[[Rostam and Sohrab|Battle with Sohrab]]<br>[[Battle of Rostam and Esfandiyār|Battle with Esfandiyār]]{{-}}killing [[Demons]]
+| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
+| style              = 
+| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->
+| height             = <!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) -->
+| television         = 
+| title              = <!-- Formal/awarded/job title. The parameter |office=may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) -->
+| term               = 
+| predecessor        = 
+| successor          = 
+| party              = 
+| movement           = 
+| opponents          = 
+| boards             = 
+| criminal_charges   = <!-- Criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty   = 
+| criminal_status    = 
+| spouse             = <!-- Use article title or common name -->[[Tahmina]]
+| partner            = <!-- (unmarried long-term partner) -->
+| children           = [[Sohrab]]<br>[[Faramarz]]<br>[[Siyâvash]] (adopted son)<br>[[Banu Goshasp]] (In [[Banu Goshasp Nama]])
+| parents            = <!-- overrides mother and father parameters -->
+| mother             = <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->[[Rudaba]]
+| father             = <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->[[Zal]]
+| relatives          = 
+| family             = [[Sām]] (grandfather)<br>[[Zavara]] (brother)<br>[[Shaghad]] (half brother)
+| callsign           = 
+| awards             = 
+| website            = <!-- {{URL|example.com}} -->
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
+
+[[File:Sohrab and Rostam fighting (TMoCA).png|thumb|upright|Sohrab and Rostam fighting:from "[[Shahnama|The Shahnama of Shah Tahmasp"]] (circa 1522)]]
+
+'''Rostam''' or '''Rustam''' ({{lang-fa|رستم}} {{IPA-fa|rosˈtæm|}}) is a legendary hero in [[Persian mythology]], the son of [[Zāl]] and [[Rudaba]], whose life and work was immortalized by the 10th-century Persian poet [[Ferdowsi]] in the ''[[Shahnameh]]'', or ''Epic of Kings'', which contains pre-Islamic [[Iranian folklore]] and history. However, the roots of the narrative date much earlier.
+
+In the ''Shahnameh'', Rostam and his predecessors are [[Marzban]]s of [[Sistan]] (present-day [[Iran]] and [[Afghanistan]]). Rostam is best known for his tragic fight with [[Esfandiyār]], the other legendary Iranian hero; for [[Rostam's Seven Labours|his expedition]] to [[Mazandaran (Shahnameh)|Mazandaran]] (not to be confused with the modern [[Mazandaran Province]]); and for tragically fighting and killing his son, [[Sohrab]], without knowing who his opponent was. He is also known for the story of [[Rostam's Seven Labours|Seven Labours]]. Rostam was eventually killed by [[Shaghad]], his half-brother.
+
+Rostam was always represented as the mightiest of Iranian paladins (holy warriors), and the atmosphere of the episodes in which he features is strongly reminiscent of the [[Parthian Empire]]. He rode the legendary stallion [[Rakhsh]] and wore a special suit named [[Babr-e Bayan]] in battles.
+
+==Origins==
+While the narrative of the ''Shahname'' is the definitive work on Rostam, Ferdowsi did not invent the character; Rostam stories were popular as far back as the seventh century in [[Pars (Sasanian province)|Pars]] and originated much earlier, likely in Eastern Iranian-speaking territories. He famously wears the ''zīn-i palang'' or "panther-skin garment":
+
+{{quote|The material surveyed so far proves that the Rustam legend was fully formed and well known in Western Iran by the seventh century AD at the latest and in the Eastern Iranian lands by the early eighth century. In some recent publications Frantz Grenet has attempted to find pictorial allusions several centuries earlier, in the “sīmurgh” depicted on the buckle of [[Shapur I]] (AD 240–272) on the [[Rag-i-Bibi|Rag-i Bībī]] rock relief in northern Afghanistan, and in the scene of a prince breaking in a foal depicted on an Eastern Sasanian silver dish attributed to the first half of the fourth century. [[Nicholas Sims-Williams]] has referred to the personal name Purlang-zin, spelt πορλαγγοζινο in Greek script, in a Bactrian document which was almost certainly written in the fourth century under Sasanian rule, claiming that this may be translated as “the man with the panther’s skin” and that it represents “a clear reference to the zīn-i palang of Rustam.” [...] the first element of this name, is the Bactrian word for “panther” or “leopard”.<ref>{{cite journal |last1=Sims-Williams |first1=Nicholas |last2=Sims-Williams |first2=Ursula |title=Rustam and his ''zīn-i palang'' |journal=Iran Nameh |date=Summer 2014 |volume=29 |issue=2 |pages=252–3 |url=http://213.32.55.132/index.php/journal/article/view/2146 |access-date=9 August 2020}}</ref>}}
+
+== Rustam's background ==
+[[File:Rostam, Iranian hero, mythical king of Zabulistan. Panjikent, 7th century CE.jpg|thumb|upright|Rostam in the murals of [[Panjikent]], 7-8th century CE. He is represented with an [[elongated skull]], in the fashion of the [[Alchon Huns]].<ref>{{cite book |last1=Rezakhani |first1=Khodadad |title=ReOrienting the Sasanians: East Iran in Late Antiquity |date=15 March 2017 |publisher=Edinburgh University Press |isbn=978-1-4744-0030-5 |page=124|url=https://books.google.com/books?id=bjRWDwAAQBAJ&pg=PA109 |language=en}}</ref><ref>{{cite web |title=A Silk Road Renaissance - Archaeology Magazine |url=https://www.archaeology.org/issues/386-2007/features/8756-a-silk-road-renaissance#art_page4 |website=www.archaeology.org}}</ref><ref>"It is possible that the Sogdian aristocratic culture of that time preserved some memory of the glorious days of Khingila, the first Hephthalite conqueror of India. The profile of Rustam, shown on different paintings at Pendzhikent, is very distinct from the other depictions in the Sogdian art, and resembles the Hephthalite prototypes. The portraits feature narrow skulls, V-shaped eyebrows, hooked noses and heavy jaws, and thus closely resemble some portraits of Khingila on the coins(Grenet 2002, 218-219)." {{cite journal |last1=Kurbanov |first1=Aydogdy |title=THE HEPHTHALITES: ICONOGRAPHICAL MATERIALS |journal=Tyragetia |date=2014 |pages=317–334 |url=http://oaji.net/articles/2017/4586-1488311404.pdf}}</ref><ref>{{cite journal |last1=Grenet |first1=Frantz |title=Regional interaction in Central Asia and Northwest India in the Kidarite and Hephthalite periods |journal=Indo-Iranian Languages and Peoples |page=218 |url=https://www.academia.edu/24461575 |language=en}}</ref>]]
+In the ''Shahnameh'', Rostam is a native of [[Zabulistan]], a historical region roughly corresponding to today's [[Zabul Province]], southern [[Afghanistan]]. His mother Rudaba was a princess of [[Kabul]]. Rostam is the champion of champions and is involved in numerous stories, constituting some of the most popular (and arguably some of most masterfully created) parts of the ''Shahnameh''. In ''Shahnameh'', Rostam—like his grandfather Sam—works as both a faithful military general as well as king-maker for the [[Kayanian dynasty]] of Persia.
+
+As a young child, he slays the maddened [[White elephant (animal)|white elephant]] of the king Manuchehr with just one blow of the [[mace (bludgeon)|mace]] owned by his grandfather Sam, son of Nariman. He then tames his legendary stallion, [[Rakhsh]].
+
+The etymology of Rostam's name is from [[Proto-Iranian language|Common Iranian]] "*rautas-taxma-, "'river-strong', i.e. 'as strong as a river',<ref name="SW">{{cite journal |last1=Sims-Williams |first1=Nicholas |last2=Sims-Williams |first2=Ursula |title=Rustam and his ''zīn-i palang'' |journal=Iran Nameh |date=Summer 2014 |volume=29 |issue=2 |pages=250–1 |url=http://213.32.55.132/index.php/journal/article/view/2146 |access-date=9 August 2020}}</ref> Rostam's mother is ''Rūdāba'' "(she) of the River Water",<ref name="SW" /> and his father is [[Zāl]], who has white hair.
+
+=== Birth and early life ===
+Rostam's mother Rudaba, the princess of Kabul, was known for her peerless beauty, and Rostam's father was Zāl. Zāl was one of Persia's most powerful warriors and a great general who conquered many rebellious tribes and ruled over Zabulistan. Zāl was known for his wisdom and was unparalleled in riding and fighting on horseback. He once demonstrated his skills to Emperor Manuchehr to seek his approval to marry his lover Rudaba.
+
+In Persian mythology, Rudaba's labour in giving birth to Rostam was prolonged due to the extraordinary size of her baby - so much so that [[Zāl]], her lover and husband, felt sure that his wife would die in labour. Rudaba was indeed near death when Zāl decided to summon the [[Simurgh]], which duly appeared and instructed him upon how to perform a ''Rostamzad'', a [[Caesarean section]], thus saving both Rudaba and the child.
+
+After Zāl's father, Sam came to know of his grandchild's birth, he rushed to see Rostam and was overjoyed. Rostam was brought up and trained by Zāl in warfare. When Rostam single-handedly slew a mad elephant, his father sent him on his first military assignment.
+
+Rostam's task was to conquer the fortress on the summit of Mt Sipand where his great grandfather, Nariman, once besieged it and was slain in the battle. Rostam breached the fortress, defeated the enemy, ransacked its treasury and reported his success to his father, Zāl and grandfather, Sam.
+
+=== Haft Khan ===
+{{Main|Rostam's Seven Labours}}
+[[File:Rostam toetet esfandyar.jpg|thumb|right|upright|Rostam kills [[Esfandiyār]]. Medieval Persian miniature]]
+
+He undertakes a heroic journey to save his sovereign, the over-confident [[Kay Kāvus]] who is captured by the [[dev (mythology)|Div]]s of Mazandaran. This journey is called "Rostam's Seven Quests".
+
+There are some similarities between the legends of Rostam and those pertaining to the great Irish hero [[Cú Chulainn]]. They both defeat a ferocious beast as a very young man, slay their sons in combat ("[[Rostam and Sohrab]]", a motif also found in the ''[[Hildebrandslied]]''), are virtually invincible in combat, and are murdered by treachery while killing their murderer on their last breath.<ref>Connell Monette, ''The Medieval Hero: Christian and Muslim Traditions''. (Saarsbruck: 2008).</ref>
+
+Two Persian heroes, Rostam and Esfandiyār, share stories with the [[Labours of Hercules]].<ref>Connell Monette, ''The Medieval Hero: Christian and Muslim Traditions''. (Saarsbruck: 2008), pp. 227-28.</ref>
+
+==== Alternate views ====
+It is written by the Royal Central Asian Society in the ''[[Journal of the Royal Central Asian Society]]'' that the struggle between Rostam and the [[Div-e Sepid]] "White Demon" represents a struggle between Persians and invaders from the [[Northern Iran|northern Caspian provinces]].<ref>''Journal of the Royal Central Asian Society'' By Royal Central Asian Society</ref>
+
+=== Death ===
+{{main|Rostam and Shaghad}}
+In Shahnameh, the life spans of the heroes who are from the generation of [[Sām|Sam Yale]] (Rostam's grandfather) are described as being very long, and that of Rostam fits this pattern: he has reached the age of six hundred at the time of his death by violence (dying at the hand of his envious half-brother Shaghad, who kills him by throwing him into a well full of poisoned spears). In this incident, Rostam's faithful steed Rakhsh and the hero's brother, [[Zavara|Zavareh]] are also killed.
+
+== Descent and other relations ==
+[[File:Rustam reçu par le roi Keykavouss.jpg|thumb|Rostam and [[Kay Kavus]] in castle]]
+With [[Tahmineh]], princess of [[Samangan Province|Samangan]], Rostam had a son called [[Sohrab]], who was killed accidentally by his father in the time of [[Kay Kavus]]. In [[Banu Goshasp Nama]] Rostam later had a daughter called [[Banu Goshasp]], who had a full brother called [[Faramarz]], and both became renowned heroes in Turan and India. Goshasp, through her marriage with [[Shahnameh|Giv]] had a son, [[Bijan and Manijeh|Bijan]].
+
+Rostam had also a half brother called [[Shaghad]], who was always jealous of him and provoked his death.
+
+Just as famous as Rostam was his horse [[Rakhsh]], which had an incredibly long life like Rostam, due to divine protection, and died at the same time as Rostam.
+
+== Historical basis ==
+[[Ernst Herzfeld]] maintained that the dynasty of [[Gondophares]] represented the [[House of Suren]], highest of the five premier families of [[Parthian Empire]], invested with the hereditary right of [[Spahbed|commanding the royal armies]], and placing the crown on the king's head at the coronation. Probably when around 129 BCE, nomad peoples, especially the [[Indo-Scythians]] (''Sacaraucae'', [[Old Persian]] ''Sakaravaka'' "nomadic [[Saka]]” or Saraucae) and the [[Tocharians]] attacked the eastern frontier of [[Parthia]], defense was entrusted by the Parthian emperors to the Surens; and the latter eventually not only repelled the Indo-Scythians, but pursued them into [[Arachosia]] and the [[Punjab]], this event probably representing ''interitus Saraucarum'' ( the perishing of the Sacaraucae) of [[Gnaeus Pompeius Trogus]] (Prologue 42).
+
+Echoes of these events are preserved in the legends of the Sistān cycle, partly incorporated in the ''Shahnameh'', but once also surviving as independent epics, such as the [[Garshaspname|''Garšāspnāma'']] mentioned in the [[Tarikh-i Sistan|''Tārikh-e Sistān'']], and the ''Ketāb al-Sakisarān'' cited by [[al-Masudi]]. These related the deeds of the hero [[Garshasp]] and his descendants, [[Nariman (father of Sām)|Narimān]], Sām, Zāl or Dastān, and above all of the latter's son Rostam. It is difficult to relate the [[Indo-Parthian]] names known from coins and history to those of the epic, which are possibly honorific titles, since a recently reported silver coin describes Gondophares (spelt in Greek script Hyndopharres) as ''surnamed'' Sām. A single ruler may of course have received more than one such title, and the historical names may be repeated in succeeding generations.<ref name=GONDOPHARES>{{Iranica |gondophares}}</ref>
+
+== Family tree ==
+{{Tree chart/start}}
+{{Tree chart | | | | | |GAR| | | | |MAR| | |GAR=[[Garshasp]]|MAR=[[Mardas (Shahnameh)|Mardas]]}}
+{{Tree chart | | | | | | |!| | | | | | |!| |}}
+{{Tree chart | | | | | |NAR| | | | |ZAH| | | | | |NAR=[[Nariman (Shahnameh)|Nariman]]|ZAH=[[Zahhak]]}}
+{{Tree chart | | | | | | |!| | | | | | |:| | | | |}}
+{{Tree chart | | | | | |SAM| | | | |MHR|~|V|~|SIN| |SAM=[[Sām]]|MHR=[[Mehrab Kaboli]]|SIN=[[Sindukht]]}}
+{{Tree chart | | | | | | |!| | | | | | | | | |:| | | | |}}
+{{Tree chart | | | | | |ZAL|~|~|~|~|V|~|~|RUD| | | | | |ZAL=[[Zāl]]|RUD=[[Rudaabeh]]}}
+{{Tree chart | | | | | | |!| | | | | |:| | | | | | |}}
+{{Tree chart | | | | | |SHG| | | |ROS|~|V|~|TAH| | ||ROS='''Rostam'''|SHG=[[Shaghad]]|TAH=[[Tahmineh]]}}
+{{Tree chart | | | | | | | | | | | | |:| | |:| | |}}
+{{Tree chart | | | | | | | | | | | |FAR| |SOH| | |FAR=[[Faramarz]]|SOH=[[Sohrab]]}}
+{{Tree chart/end}}
+
+== Gallery ==
+[[Mughal era]] manuscripts depicting [[Rostam's Seven Labours|Rostam's seven labours]] and other feats:
+<gallery>
+File:Firdawsi - Rustam Kills a Dragon (the Third Feat) - Walters W60276B (cropped).jpg|The third feat of Rostam's seven labours: Rostam kills a dragon.
+File:Firdawsi - Rustam Drags the Khaqan of China from his Elephant - Walters W601245B - Full Page.jpg|Rustam drags the Khaqan of China from his elephant.
+File:Firdawsi - Rustam Shoots Ashkabus - Walters W601234A - Full Page.jpg|Rustam shoots Ashkabus.
+File:Firdawsi - Rustam Kills the White Div (the Seventh Feat) - Walters W601131B - Full Page.jpg|The final feat of Rostam's seven labours: Rostam kills the White Demon.
+File:Firdawsi - Rustam Rescues Bizhan from the Pit - Walters W601308B - Full Page.jpg|Rustam rescues Bizhan from the pit.
+File:Rostam.jpg|Rostam kills dragons by Adel Adili
+File:Portrait of Rustam Zal by Mirza Gadim Irevani.jpg|Rostam by Mirza Gadim Irevani
+</gallery>
+
+== See also ==
+* [[Shahnameh]]
+* [[List of Shahnameh characters]]
+* [[Rostam and Sohrab]]
+*[[Battle of Rostam and Esfandiyār]]
+* [[Rostam and Shaghad]]
+* [[Rostam's Seven Labours]]
+* [[Zal and Rudabeh]]
+* [[Garshaspname]]
+* [[Banu Goshasp]]
+* [[Naqsh-e Rostam]]
+* [[Rostami (place)]]
+* [[Rostami (surname)]]
+* ''[[The Knight in the Panther's Skin]]''
+
+== References ==
+{{Reflist}}
+
+== Sources ==
+* {{cite book | title = The Sistani Cycle of Epics and Iran's National History: On the Margins of Historiography | year = 2015 | publisher = BRILL | last = Gazerani| first = Saghi | pages = 1–250 | isbn = 9789004282964 | url = https://books.google.com/books?id=92zsCgAAQBAJ&q=false}}
+* {{cite book | title = ReOrienting the Sasanians: East Iran in Late Antiquity | year = 2017 | publisher = Edinburgh University Press | last = Rezakhani | first = Khodadad | author-link = Khodadad Rezakhani | chapter = East Iran in Late Antiquity| pages = 1–256 | isbn = 9781474400305 | jstor = 10.3366/j.ctt1g04zr8 }} {{registration required}}
+
+== External links ==
+{{commons|Category:Rostam|Rostam}}
+{{wikisource|Shah Nameh}}
+{{commons|Shahnama}}
+* ''Shahnameh'', by Hakim Abol-Qasem Ferdowsi Tusi, the complete work (64 Epics), in Persian ([http://www.parstech.org/detail.php?id=1261 ParsTech]). This work can be freely downloaded (File size, compiled in the form of an HTML help file: 1.4 MB).
+* Iraj Bashiri, ''Characters of Ferdowsi's Shahnameh'', [http://www.iranchamber.com/literature/shahnameh/characters_ferdowsi_shahname.php Iran Chamber Society], 2003.
+* [http://classics.mit.edu/Ferdowsi/kings.html ''Shahnameh''], English translation by [[Helen Zimmern]].
+* [http://www.iranchamber.com/literature/shahnameh/shahnameh.php ''Shahnameh'']. Helen Zimmern translation.
+* [https://web.archive.org/web/20080410175301/http://www.greatworkspreserved.com/shahnama/ ''Shahnameh''], Arthur and Edmond Warner translation.
+* [https://www.npr.org/templates/story/story.php?storyId=5309016 New Translation of 'Persian Book of Kings' - March, 2006] from [[NPR]], and [https://www.nytimes.com/2006/04/30/books/review/30aslan.html "The Epic of Iran" - April, 2006], from ''The New York Times''. Also, on 14 May 2006, ''Washington Post'' Pulitzer Prize winning book critic Michael Dirda reviewed Dick Davis's translation "Shahnameh: The Persian Book of Kings" [https://www.washingtonpost.com/wp-dyn/content/article/2006/05/11/AR2006051101341.html "This marvelous translation of an ancient Persian classic brings these stories alive for a new audience"]. The illustrated three-volume slipcase edition of this translation is {{ISBN|0-934211-97-3}}.
+
+; Persian sources
+* [https://web.archive.org/web/20030724173146/http://shahnameh.recent.ir/default.aspx?browse Complete Persian text]
+* [https://web.archive.org/web/20080406145118/http://www.shahnameh.com/ Shahnameh website]
+
+{{Shahnameh}}
+{{Rostam and Sohrab}}
+{{Authority control}}
+
+[[Category:Legendary Iranian people]]
+[[Category:Shahnameh characters]]
+[[Category:National personifications]]

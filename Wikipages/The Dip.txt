@@ -1,0 +1,47 @@
+{{short description|Book by Seth Godin}}
+{{For|the dance move|Dip (dance move)}}
+{{notability|Books|date=December 2014}}{{Infobox book
+| name           = The Dip
+| orig title     =
+| translator     =
+| image          = File:The dip.jpg
+| caption        =
+| author         = [[Seth Godin]]
+| cover_artist   =
+| country        = United States
+| language       = English
+| series         =
+| subject        =
+| genre          = [[Self-actualization]], [[Business]], [[Non-fiction]]
+| publisher      = [[Penguin Group]] (USA)
+| release_date   = 2007 (USA)
+| media_type     = Print ([[Hardcover]] & [[Paperback]])
+| pages          = 86 p. (US hardcover edition)
+| isbn           = 1-59184-166-6
+| preceded_by    = Small is the New Big
+| followed_by    = Meatball Sundae
+}}
+
+'''''The Dip: A Little Book That Teaches You When to Quit (and When to Stick)''''' (2007) is the tenth published book by [[Seth Godin]].<ref>The Dip: A Little Book That Teaches You When to Quit (and When to Stick).</ref> It is a 76 page book that illustrates the concept of "the dip"—a temporary setback that can be overcome with persistence—and how to recognize if you are within one worth pushing through or one where you should quit.
+
+==Background==
+The rough idea for ''The Dip'' first materialized on Godin's blog.<ref name=800CEO>[http://800ceoread.com/blog/archives/006719.html The Dip: A New Book Coming From Seth Godin] on ''800-CEO-READ''. January 22, 2007.</ref> On an entry titled "The four curves of want and get," Godin shows four curves representing patterns of adoption.<ref name=fourcurves>[http://sethgodin.typepad.com/seths_blog/2005/06/the_four_curves.html The four curves of want and get] ''Seth's Blog''. June 24, 2005.</ref> He ends the post with "How do you avoid killing something too early, or celebrating too early. And last, how do you know when to kill a dud," a theme that would reappear in ''The Dip''. Five months later, Godin posted another entry titled "Understanding Local Max," in which he presented another success curve—this time nearly identical to the one that appears in his book—and analyzed the hypothetical conversation that would occur at four points on the curve.<ref>[http://sethgodin.typepad.com/seths_blog/2005/11/understanding_l.html Understanding Local Max] ''Seth's Blog''. November 9, 2005.</ref> In addition to being the basis behind ''The Dip'', the entry was also included in ''Small is the new Big'', a collection of short pieces from his blog.
+
+==Synopsis==
+Godin introduces the book with a quote from [[Vince Lombardi]]: "Quitters never win and winners never quit." He follows this with "Bad advice. Winners quit all the time. ''They just quit the right stuff at the right time.''"
+
+Godin first makes the assertion that "being the best in the world is seriously underrated," although he defines the term 'best' as "best for them based on what they believe and what they know," and 'world' as "the world they have access to." He supports this by illustrating that [[vanilla]] [[ice cream]] is almost four times as popular as the next-most popular ice cream, further stating that this is seen in [[Zipf's Law]]. Godin's central thesis is that in order to be the best in the world, one must quit the wrong stuff and stick with the right stuff. In illustrating this, Godin introduces several curves: 'the dip,' 'the cul-de-sac,' and 'the cliff.'<ref>[http://sethgodin.typepad.com/the_dip/2007/05/images_from_the.html Images from the book] ''The Dip Blog''. May 20, 2007.</ref> Godin gives examples of the dip, ways to recognize when an apparent dip is really a cul-de-sac, and presents strategies of when to quit, amongst other things.
+
+The book is also accompanied with cartoons from Hugh MacLeod, who publishes his cartoons on his blog ''gapingvoid'' and is the author of "How To Be Creative."<ref>[http://www.gapingvoid.com/ gapingvoid] cartoons drawn on the back of business cards</ref><ref>MacLeod, Hugh [http://www.gapingvoid.com/Moveable_Type/archives/000932.html How To Be Creative] ''gapingvoid''.</ref>
+
+==Release and Reception==
+In early March, Godin launched a companion [[blog]] to ''The Dip'' titled "The Dip Blog," in which he released details about the book and gave illustrative examples.<ref>[http://sethgodin.typepad.com/the_dip/ The Dip Blog]</ref> On his subsequent book tour, Godin agreed to go to any place where people had bought 2,500 copies of his book.<ref>Windley, Phil [http://www.windley.com/archives/2007/05/seth_godin_the_dip.shtml Seth Godin: The Dip]</ref> Godin made stops in 15 cities, totaling 37,500 books. ''The Dip'' peaked at #5 on the [[New York Times Best Seller List]] and sold 100,000 copies in its first month of release.<ref>[http://www.bestsellerinterviews.com/10-questions-with-seth-godin-author-of-permission-marketing-purple-cow-and-the-dip.html 10 Questions with Seth Godin] ''Bestseller Interviews''. June 8, 2007.</ref>
+
+The book was met with positive reviews, receiving profiles in [[USA Today]], [[The Miami Herald]], [[National Post]], [[South China Morning Post]], [[Brandweek]], and [[Entrepreneur Magazine]].<ref>Francis, Diane [http://network.nationalpost.com/np/blogs/francis/archive/2007/12/26/seth-godin-dig.aspx Seth Godin's the dip is a great little read] ''[[National Post]]''. December 26, 2007.</ref><ref>Gyopos, Susie [http://www.classifiedpost.com.hk/jsarticledetail.php?articleid=3000021739&arttype=READS&communitycode=&message=INVALID-134 The secret's in the timing] ''South China Morning Post''. August 23, 2008.</ref><ref>[http://www.brandweek.com/bw/news/spotlight/article_display.jsp?vnu_content_id=1003591177 Q&A: Seth Godin Says 'Know When To Bail'] ''Brandweek''. May 29, 2007.</ref><ref>Tice, Carol [http://www.entrepreneur.com/magazine/entrepreneur/2007/may/177044.html When to Fold 'Em] ''Entrepreneur Magazine''. May 2007.</ref> [[Chris Anderson (writer)|Chris Anderson]], author of ''[[The Long Tail]]'', and [[Guy Kawasaki]] also endorsed the book.<ref>[http://www.longtail.com/the_long_tail/2007/03/googles_case_ag.html Google's case against marketing] ''The Long Tail Blog''. March 21, 2007.</ref><ref>[http://blog.guykawasaki.com/2007/04/the_big_dip_ten.html The Big Dip: Ten Questions with Seth Godin] ''Guy Kawasaki''. April 22, 2007.</ref>
+
+== References ==
+{{Reflist|2}}
+
+{{DEFAULTSORT:Dip}}
+[[Category:Business books]]
+[[Category:2007 non-fiction books]]

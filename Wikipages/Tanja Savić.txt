@@ -1,0 +1,81 @@
+{{Use dmy dates|date=January 2020}}
+{{Infobox musical artist
+|name = Tanja Savić
+|background = solo_singer
+|image = 
+|image_size = 200px
+|landscape = 
+|alt = 
+|caption = 
+|birth_name = Tanja Savić
+|birth_date = {{birth date and age|df=y|1985|3|20}}
+| birth_place = [[Radinac]], [[Socialist Republic of Serbia|SR Serbia]], [[Socialist Federal Republic of Yugoslavia|SFR Yugoslavia]]
+|origin = 
+|genre = {{hlist|[[Turbo-folk|Pop-folk]]}}
+| occupation        = {{hlist|Singer}}
+| instrument        = Vocals
+|years_active = 2003–present
+|label = {{hlist|[[Grand Production|Grand]]|IDJTunes}}
+|associated_acts = {{hlist|[[Bane Mojićević]]|[[Darko Lazić (singer)|Darko Lazić]]|Corona|Rimski}}
+|website = 
+}}
+
+'''Tatjana Savić''' ({{lang-sr-cyr|Татјана Савић}}; born 20 March 1985), better known as '''Tanja Savić''', is a Serbian pop-folk singer who rose to prominence in the first season of ''[[Zvezde Granda]]'' in 2004, finishing third.<ref>{{cite web|url=http://www.story.rs/poznati/vesti/71191/audicija-pre-13-godina-ovako-je-tanja-savic-izgledala-na-pocetku-karijere-video|title=Audicija pre 13 godina: Ovako je Tanja Savić izgledala na početku karijere|website=story.rs|language=sr|date=9 June 2016|access-date=25 June 2016}}</ref><ref name="Hello!">{{cite web|url=https://www.hellomagazin.rs/2020/08/24/tanja-savic-u-iskrenoj-ispovesti-za-hello-otkriva-svoj-bol/|title=Tanja Savić u iskrenoj ispovesti za Hello|publisher=Hello!|language=sr|date=24 August 2020|access-date=2 December 2020}}</ref> Following the show, Savić was signed to [[Grand Production]] through which she released her debut album, ''[[Tako mlada]]'', to general success.<ref name="Hello!"/> With songs "Suknjica" and "Gde ljubav putuje" which were featured in movies ''Guča!'' (2006) and ''Srpski ožiljci'' (2009), respectively, she received further notice. 
+
+After facing career setbacks, Savić managed to retrieve popularity with her fourth album ''Stranci'' (2019), on which she collaborated with hip-hop duo Corona and Rimski.<ref>{{cite web|url=https://www.hellomagazin.rs/celebrity-news/domace-vesti/tanja-savic-se-vraca-sceni-snimam-nove-pesme-za-svoj-cetvrti-album-nakon-10-godina/|title=Tanja Savić se vraća sceni, snima nove pesme za svoj četvrti album nakon 10 godina|website=hellomagazine.rs|language=sr}}</ref><ref>{{cite web|url=https://nova.rs/zabava/kako-su-rasta-cobi-buba-i-jala-pevace-spasili-od-zaborava/|title=Kako su Rasta, Cobi, Buba i Jala pevače spasili od zaborava|website=Nova.rs|language=sr|date=February 8, 2021|access-date=November 19, 2021|author=Dejanović, M.}}</ref>
+
+In 2011, she married Serbian-Australian businessman from [[Queensland]], Dušan Jovaničević, with whom she has two sons.<ref>{{cite web|url=http://www.story.rs/poznati/vesti/14941/tanja-savic-istina-je-udala-sam-se|title=Tanja Savić: Istina je, udala sam se|website=story.rs|language=sr|date=17 April 2011|access-date=25 June 2016}}</ref><ref>{{cite web|url=https://nova.rs/zabava/showbiz/decenija-zlostavljanja-i-ucena-zivotna-agonija-tanje-savic/|title=Decenija zlostavljanja i ucena: Životna agonija Tanje Savić|date=August 10, 2020|access-date=November 19, 2021|author=Stoisavljević, L.}}</ref> The couple separated in 2020, following a highly publicized custody battle, in which Savić accused her then-husband of relocating their children to Australia against her will. In March 2021, she was eventually reunited with her sons after close to a year of separation.<ref>{{cite web|url=https://nova.rs/zabava/showbiz/kraj-agonije-tanji-savic-muz-vratio-decu-nakon-godinu-dana/|title=Kraj agonije: Tanji Savić muž vratio decu nakon godinu dana|website=Nova.rs|language=sr|date=March 17, 2021|access-date=November 19, 2021|author=Stoisavljević, L.}}</ref> 
+
+==Discography==
+;Studio albums
+*''[[Tako mlada]]'' (2005)
+*''Tanja Savić'' (2008)
+*''Sestre po suzama'' (2009)
+*''Stranci'' (2019)
+
+==Filmography==
+;Television
+{| class="wikitable"
+|-
+! Year
+! Title
+! Notes
+|-
+| 2007
+|''[[Zvezde Granda]]''
+| Season 1, 2nd runner-up
+|-
+| 2014
+| ''[[Tvoje lice zvuči poznato (Serbian TV series)|Tvoje lice zvuči poznato]]''
+| [[Tvoje lice zvuči poznato (Serbian season 2)|Season 2]]; 8th place
+|}
+
+==See also==
+* [[Music of Serbia]]
+* [[List of people from Serbia|List of singers from Serbia]]
+* [[Turbo-folk]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Discogs artist|Tanja Savić}}
+* {{IMDb name|6867666}}
+
+{{Zvezde Granda}}
+{{Tvoje lice zvuči poznato}}
+{{Music of Southeastern Europe (the Balkans)}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Savic, Tanja}}
+[[Category:1985 births]]
+[[Category:Living people]]
+[[Category:Musicians from Smederevo]]
+[[Category:Serbian pop-folk singers]]
+[[Category:21st-century Serbian women singers]]
+[[Category:Serbian people of Romani descent]]
+[[Category:Grand Production artists]]
+
+
+{{Serbia-singer-stub}}

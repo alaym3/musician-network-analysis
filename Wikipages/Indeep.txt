@@ -1,0 +1,101 @@
+{{use mdy dates|date=November 2020}}
+{{Infobox musical artist|
+|name         = Indeep
+|background   = group_or_band
+|image        = 
+|caption      = 
+|alias        = 
+|origin       = [[New York City]], [[New York (state)|New York]], U.S.
+|genre        = [[Electro (music)|Electro]], [[funk]], [[post-disco]]
+|years_active = 1980–1987
+|label        = Sound of New York
+|past_members = Michael Cleveland<br/>[[Réjane Magloire]]<br/>Rose Marie Ramsey<ref name="SM"/>
+}}
+
+'''Indeep''' was a 1980s [[New York City|New York]]-based [[musical group|group]] that was best known for its song "[[Last Night a D.J. Saved My Life]]".
+
+==Career==
+The group was led by its songwriter-musician Michael Cleveland,<ref name="Allmusic">{{cite web|last1=Prato|first1=Greg|title=Artist Biography|url=https://www.allmusic.com/artist/indeep-mn0000096925/biography|publisher=[[AllMusic]]|accessdate=8 November 2020}}</ref> and it was known for employing a strong disco-esque bass line and early [[hip hop music|hip hop]] [[lyrics]] backed by two female singers: [[Réjane Magloire]] and Rose Marie Ramsey.
+
+"Last Night a D.J. Saved My Life" was released on Sound of New York/Becket Records in [[1982 in music|1982]] and peaked in early [[1983 in music|1983]], reaching the top 10 on the [[Hot R&B/Hip-Hop Singles & Tracks|US R&B]] and No.&nbsp;2 on the [[Hot Dance Music/Club Play|US Club]] charts as well as the Top 3 in the [[Dutch Top 40]] and the Top 15 in the [[UK Singles Chart|UK]],<ref name="British Hit Singles & Albums"/><ref name="UK"/> and was certified for gold-level sales in France. The 12" mix was notable at the time for including a purely vocal mix, an instrumental mix plus a track of sound effects contained in the song such as a toilet flushing and a phone ringing. The aim was to encourage mixing in the emerging New York DJ scene of the early 1980s and elsewhere.<ref name="SM">{{cite magazine|url=https://www.flickr.com/photos/51106326@N00/8326265759/in/set-72157632383750505/|title=Depth Charge|magazine=[[Smash Hits]]|date=February 3, 1983|page=13}}</ref>
+
+The follow-up single, "When Boys Talk," did not achieve the same level of success on either side of the [[Atlantic Ocean|Atlantic]], which, combined with its limited later success, put the group into the [[one-hit wonder]]s category.<ref name="Allmusic"/> Vocalist Magloire later enjoyed some success with the [[Belgium|Belgian]] [[techno]]-[[house music|house]] outfit [[Technotronic]]. "Last Night a DJ Saved My Life" was later [[cover version|covered]] by [[Mariah Carey]] on her 2001 album ''[[Glitter (Mariah Carey album)|Glitter]]'', which reached No.&nbsp;25 in [[Spain]].
+
+In the 1990s, Michael Cleveland did not perform as Indeep besides a 1997 New Year's show on [[TF1]] French TV.
+
+In 2011, Peter A. Mercury, who published, managed, produced and toured with many top artists for many years convinced Cleveland to reform the band. Magloire and Ramsey were replaced by Beckie Bell and WiX.
+
+==Discography==
+===Albums===
+* ''Last Night a D.J. Saved My Life!'' (1983)
+* ''Pajama Party Time'' (1984)
+* ''The Collection'' (1991)
+
+===Singles===
+{| class="wikitable"
+|-
+! scope="col" rowspan="2"|Year
+! scope="col" rowspan="2"|Single
+! scope="col" colspan="5"|Peak chart positions
+|-
+! style="width:45px;"|<sup>[[Hot Dance Club Songs|US Club]]</sup><br><ref name="VF">{{cite web|title=Indeep Top Songs / Chart Singles Discography |url=https://www.musicvf.com/Indeep.art|website=Music VF|accessdate=November 8, 2020}}</ref>
+! style="width:45px;"|<sup>[[Hot R&B/Hip-Hop Songs|US R&B]]</sup><br><ref name="VF"/>
+! style="width:45px;"|<sup>[[UK Singles Chart|UK]]</sup><br><ref name="UK">{{cite web|title=INDEEP - full Official Chart History |url=https://www.officialcharts.com/artist/20028/indeep/|website=[[Official Charts Company]]|accessdate=November 8, 2020}}</ref><ref name="British Hit Singles & Albums">{{cite book|first=David|last=Roberts|year=2006|title=British Hit Singles & Albums|edition=19th|publisher=Guinness World Records Limited |location=London|isbn=1-904994-10-5|page=268}}</ref>
+! style="width:45px;"|<sup>[[Irish Singles Chart|IRL]]</sup>
+! style="width:45px;"|<sup>[[Dutch Top 40|NLD]]</sup>
+|-
+|rowspan="1"| 1982
+| "[[Last Night a D.J. Saved My Life]]" 
+| align=center | 2
+| align=center | 10
+| align=center | 13
+| align=center | 18
+| align=center | 2
+|-
+|rowspan="3"| 1983
+| "When Boys Talk" 
+| align=center | 16
+| align=center | 32
+| align=center | 67
+| align=center | ―
+| align=center | ―
+|-
+| "Buffalo Bill"
+| align=center | —
+| align=center | 81
+| align=center | —
+| align=center | ―
+| align=center | ―
+|-
+| "The Record Keeps Spinning"
+| align=center | —
+| align=center | 45
+| align=center | —
+| align=center | ―
+| align=center | ―
+|-
+|rowspan="2"| 1984
+| "The Rapper" 
+| align=center | —
+| align=center | —
+| align=center | —
+| align=center | ―
+| align=center | ―
+|-
+| "The Night the Boy Learned How to Dance" 
+| align=center | —
+| align=center | —
+| align=center | —
+| align=center | ―
+| align=center | ―
+|-
+| colspan="7" style="text-align:center; font-size:8pt;"| "—" denotes releases that did not chart or were not released in that territory.
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+[[Category:Musical groups established in 1980]]
+[[Category:American post-disco music groups]]
+[[Category:American dance music groups]]

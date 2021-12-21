@@ -1,0 +1,75 @@
+{{Wiktionary|node}}
+In general, a '''node''' is a localized swelling (a "[[knot]]") or a point of intersection (a [[Vertex (graph theory)|vertex]]).
+
+'''Node''' may refer to:
+{{TOC right}}
+
+==In mathematics==
+*[[Vertex (graph theory)]], a vertex in a mathematical graph
+*[[Vertex (geometry)]], a point where two or more curves, lines, or edges meet.
+*[[Node (autonomous system)]], behaviour for an ordinary differential equation near a critical point
+*[[Singular point of an algebraic variety#Nodes|Singular point of an algebraic variety]], a type of singular point of a curve
+
+==In science and engineering==
+
+===Astronomy===
+*[[Orbital node]], the points where an orbit crosses a plane of reference
+** [[Lunar node]], where the orbits of the sun and moon intersect
+** [[Longitude of the ascending node]], how orbital nodes are parameterized
+
+===Biology===
+*[[Lymph node]], an immune system organ used to store white blood cells
+*[[Node of Ranvier]], periodic gaps in the insulating myelin sheaths of myelinated axons
+*[[Sinoatrial node]] and [[atrioventricular node]], specialized tissues in the heart responsible for initiating and coordinating the heartbeat
+*[[Primitive knot]] or primitive node, the organizer tissue for gastrulation in vertebrates
+*The place on a [[plant stem]] where a leaf is attached
+*In [[Cladistics]], a shared ancestor (also see [[Clade]])
+
+===Computing and electronics===
+*[[Node (networking)]], a point of connection in a communication network
+*An entity in a [[Mesh networking|mesh network]]
+*[[Node (circuits)]], a region in an electrical circuit where there is no change in potential
+*[[Node (computer science)]], a basic unit used to build data structures
+*[[Goal node (computer science)]], a node in a graph that meets defined criteria for success or termination
+*[[Node (UML)]], the representation of a computational device in the Unified Modeling Language
+*[[Node.js]], a JavaScript-based, cross-platform runtime environment
+*[[NodeB]], hardware that is connected to the mobile phone network
+*[[NODE (wireless sensor)]], a wireless handheld sensor for smart devices
+*Node, a shorthand used to designate a [[semiconductor fabrication process]]
+
+===Linguistics===
+*[[Node (linguistics)]], a branch point in the [[Tree model]], or Node Theory, of language evolution
+
+===Physics===
+*[[Node (physics)]], a point along a standing wave where the wave has minimal amplitude
+
+===Space-station modules===
+* [[Unity (ISS module)]] or Node 1, one of the first modules of the International Space Station
+* [[Harmony (ISS module)]] or Node 2, module of the International Space Station
+* [[Tranquility (ISS module)]] or Node 3, a module of the International Space Station with the Cupola
+* [[Node 4]], a proposed module of the International Space Station
+* ''[[Prichal (ISS module)]]'', a planned module of the International Space Station to be launched in 2021
+
+==In music==
+*[[Node (band)]], Italian death metal band
+*[[Node (singer)]], Danish singer and hip hop artist of Kurdish origin
+*[[Node (album)|''Node'' (album)]], a 2015 album by Australian metalcore band Northlane
+
+==Other uses==
+*[[Node, Kentucky]]
+*[[Node tribe]], a community of pastoral nomads in India and Pakistan
+*[[Outline of transport#Nodes|Node]], a transport hub in a transportation system
+*[[Giordana Racing Team]], a British cycling team, formerly named Node4-Giordana
+*''[[Node Magazine]]'', a literary project based on the novel ''[[Spook Country]]'' by [[William Gibson]]
+*''New Oxford Dictionary of English'', a single-volume English language dictionary, see [[Oxford Dictionary of English]]
+*Node, a cyborg with a donated human face used as a guide, in "[[Silence in the Library#Synopsis|Silence in the Library]]" (''Doctor Who'')
+*Node, the pommel-like part of a [[chalice#Christian|chalice]] where the stem meets the cup
+*A nodal organizational structure, such as in terms of business management, see [[Cellular organizational structure]]
+
+== See also ==
+*[[Nodal (disambiguation)]]
+*[[Nodule (disambiguation)]]
+
+{{disambiguation}}
+[[eu:Nodo]]
+[[pt:Nós]]

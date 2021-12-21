@@ -1,0 +1,220 @@
+{{short description|British rapper from North-West London}}
+{{Infobox musical artist
+| name             = M Huncho
+| image            =
+| caption          = Huncho in 2019
+| birth_date       = {{Birth date and age|df=y|1993|11|17}}
+| birth_place      = [[London]], United Kingdom
+| genre            = {{flatlist|
+* [[British hip hop]] 
+* [[trap music|trap]]
+}}
+| occupation       = {{flatlist| 
+* Rapper
+* singer
+* songwriter
+}}
+| years_active     = 2017–present
+| associated_acts  = {{flatlist|
+* [[Nafe Smallz]]
+* [[D-Block Europe]]
+* [[Dutchavelli]]
+}}
+| website          = {{URL|mhuncho.co.uk}}
+| label            = [[Island Records|Island]]
+| alt              = 
+}}
+
+'''M Huncho''' (born 17 November 1993) is a British rapper, singer and songwriter from Kilburn, North West [[London]].<ref>{{Cite web|url=https://www.allmusic.com/artist/m-huncho-mn0003736651/biography|title=M Huncho {{!}} Biography & History|last=Buchanan|first=John D.|date=|website=[[AllMusic]]|access-date=March 19, 2020}}</ref> He performed a Mad About Bars online freestyle session in 2017, and releasing his first [[Extended play|EP]] ''Get Out'' that October, with the [[Single (music)|single]] "Mediocre" and another EP, ''48 Hours'', following in 2018. 2019 debut studio mixtape ''Utopia'' has been streamed over 77 million times globally, and reached number 13 in the [[UK Albums Chart]].<ref name="OCC"/> His second mixtape, ''[[Huncholini the 1st]]'', was released in January 2020 and peaked at number 5 in the UK. M Huncho has also worked with [[D-Block Europe]], [[Nafe Smallz]], [[Yxng Bane]], [[Headie One]], [[Dutchavelli]] and [[Unknown T]].
+
+== Discography ==
+=== Mixtapes ===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+List of commercial mixtapes with selected details
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2"| Details
+! scope="col"| Peak chart positions
+! scope="col" rowspan="2"| Certifications
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[UK Albums Chart|UK]]<br /><ref name="OCC">{{Cite web|url=https://www.officialcharts.com/artist/53381/m-huncho/|title=M Huncho {{!}} full Official Chart History|publisher=Official Charts Company|access-date=March 19, 2020}}</ref><ref>{{Cite web|url=https://www.billboard.com/music/m-huncho/chart-history/OCL|title=M Huncho|website=[[Billboard (magazine)|Billboard]]|access-date=March 19, 2020}}</ref>
+|-
+! scope="row"| ''Utopia''
+|
+* Released: 12 April 2019
+* Label: [[Island Records|Island]]
+* Format: [[Compact disc|CD]], [[Music download|digital download]], [[Streaming media|streaming]]
+| 13
+|
+* [[British Phonographic Industry|BPI]]: Silver<ref name="BPI">{{cite certification|region=United Kingdom|artist=M Huncho|access-date=7 November 2021}}</ref>
+|- M Huncho parents are from Afghanistan. He grew up in a council flat but was too big to fit in it.
+! scope="row"| ''[[Huncholini the 1st]]''
+|
+* Released: 31 January 2020
+* Label: Island
+* Format: [[Cassette tape|Cassette]], CD, digital download, streaming
+| 5
+|
+* BPI: Silver<ref name="BPI"/>
+|}
+
+=== Collaborative mixtapes ===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+List of collaborative mixtapes with selected details
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2"| Details
+! scope="col"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[UK Albums Chart|UK]]
+|-
+! scope="row"| ''DNA''<br />{{small|(with [[Nafe Smallz]])}}
+|
+* Released: 30 October 2020
+* Label: HunchOZone
+* Format: CD, digital download, streaming
+| 6
+|}
+
+=== Extended plays ===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+List of extended plays with selected details
+! scope="col" rowspan="2" style="width:12em;"| Title
+! rowspan="2" scope="col" |Details
+! scope="col" |Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:85%;" |[[UK Albums Chart|UK]]
+<ref name=":0">{{Cite web|url=https://www.officialcharts.com/artist/53381/m-huncho/|title=M Huncho {{!}} full Official Chart History {{!}} Official Charts Company|last=|first=|date=|website=Officialcharts.com|url-status=live|archive-url=|archive-date=|access-date=March 19, 2020}}</ref>
+|-
+! scope="row" |''Get Out''
+|
+* Released: 20 October 2017
+* Label: Self-released
+| —
+|-
+! scope="row" |''48 Hours''
+|
+* Released: 20 April 2018
+* Label: Self-released
+| 68
+|}
+
+===Charted and certified singles===
+====As lead artist====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions, showing year charted and album name
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2" style="width:2em;"| Year
+! scope="col" | Peak chart positions
+! scope="col" rowspan="2"| Certifications
+! scope="col" rowspan="2" style="width:7em;"| Album
+|-
+!style="width:3em; font-size:90%"|[[UK Singles Chart|UK]]<br/><ref name=":0" />
+|-
+! scope="row"| "Birds"
+| rowspan="6" | 2019
+| 88
+|
+| rowspan="4" |''Utopia''
+|-
+! scope="row"| "Ocho Cinco"
+| 63
+|
+|-
+! scope="row"| "Rock Bottom" <br/><span style="font-size:85%;">(with [[Yxng Bane]])</span>
+| 80
+|
+|-
+! scope="row"| "Tranquility"
+| —
+|
+* BPI: Silver<ref name="BPI"/>
+|-
+! scope="row"| "One Summer"
+| 87
+|
+|''Top Boy: A Selection of Music Inspired by the Series''
+|-
+! scope="row"| "Thumb" <br/><span style="font-size:85%;">(with [[Nafe Smallz]])</span>
+| 30
+|
+| rowspan="3" |''Huncholini the 1st''
+|-
+! scope="row"| "Bando Ballads"
+| rowspan="5" | 2020
+| 78
+|
+|-
+! scope="row"| "Pee Pee"
+| 32
+|
+|-
+! scope="row"| "5AM" <br/><span style="font-size:85%;">(with Nafe Smallz)</span>
+| 25
+|
+| rowspan="3"| ''DNA''
+|-
+! scope="row"| "Flooded" <br/><span style="font-size:85%;">(with Nafe Smallz)</span>
+| 46
+|
+|-
+! scope="row"| "Cold Word" <br/><span style="font-size:85%;">(with Nafe Smallz featuring [[Young Adz]])</span>
+| 93
+|
+|-
+! scope="row"| "Overpriced"
+| rowspan="3" | 2021
+| 70
+|
+| rowspan="3" {{n/a|Non-album singles}}
+|-
+! scope="row"| "Breadwinner"
+| 94
+|
+|-
+! scope="row"| "Hiatus"
+| 72
+|
+|}
+====As featured artist====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions, showing year charted and album name
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2" style="width:2em;"| Year
+! scope="col" | Peak chart positions
+! scope="col" rowspan="2"| Certifications
+! scope="col" rowspan="2" style="width:7em;"| Album
+|-
+!style="width:3em; font-size:90%"|[[UK Singles Chart|UK]]<br/><ref name=":0" />
+|-
+! scope="row"| "Broken Homes"<br/><span style="font-size:85%;">(The Plug featuring [[Nafe Smallz]], M Huncho and [[Gunna (rapper)| Gunna]])</span>
+| 2018
+| 38
+|
+* [[British Phonographic Industry|BPI]]: Silver<ref name="BPI"/>
+| ''Plug Talk''
+|-
+! scope="row"| "Burning"<br/>{{small|([[GRM Daily]] featuring M Huncho and [[Dutchavelli]])}}
+| 2018
+| 13
+|
+* BPI: Silver<ref name="BPI"/>
+| rowspan="4" {{n/a|Non-album singles}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Discogs artist|artist=M Huncho}}
+
+{{Authority control|MBA=c3b7ef53-5082-4606-ab6f-f500fa2c7b1c}}
+
+{{rapper-stub}}
+
+{{DEFAULTSORT:Huncho, M}}
+[[Category:Living people]]
+[[Category:1993 births]]
+[[Category:Rappers from London]]
+[[Category:British trap musicians]]
+[[Category:21st-century British rappers]]
+[[Category:Island Records artists]]
+[[Category:Masked musicians]]

@@ -1,0 +1,169 @@
+{{short description|Scottish philosopher}}
+{{Other people}}
+{{Use dmy dates|date=December 2020}}
+{{Use Scottish English|date=March 2012}}
+{{Infobox philosopher
+|region = [[Western philosophy]]
+|era    = [[18th-century philosophy]]
+|image  = ThomasReid.jpg
+|caption = Reid as painted by [[Henry Raeburn]] in 1796
+|name    = Thomas Reid
+|honorific_suffix = {{post-nominals|country=GBR|FRSE|size=100%}}
+|birth_date  = {{birth date|1710|5|7|df=y}}
+|birth_place = [[Strachan, Aberdeenshire|Strachan]], Scotland
+|death_date  = {{death date and age|1796|10|7|1710|5|7|df=y}}
+|death_place = [[Glasgow]], Scotland
+|alma_mater  = [[University of Aberdeen]]
+|school_tradition =  [[Scottish common sense realism]]<ref>''Selections from the Scottish Philosophy of Common Sense'', ed. by G. A. Johnston (1915), essays by Thomas Reid, [[Adam Ferguson]], James Beattie, and Dugald Stewart ([http://oll.libertyfund.org/index.php?option=com_staticxt&staticfile=show.php%3Ftitle=2044&Itemid=28 online version]).</ref> <br /> [[Scottish Enlightenment]]  <br />  [[epistemological externalism]]<ref name=CB>Rebecca Copenhaver, Todd Buras (eds.), ''Thomas Reid on Mind, Knowledge, and Value'', Oxford University Press, 2015, p. 214.</ref>  <br />  [[direct realism]]<ref>Patrick Rysiew, ''New Essays on Thomas Reid'', Routledge, 2017, p. 18.</ref>  <br />  [[foundationalism]]<ref name=CB/><ref name=SEP-FTJ>{{cite encyclopedia | url=http://plato.stanford.edu/entries/justep-foundational/#4 | title=Foundationalist Theories of Epistemic Justification | encyclopedia=Stanford Encyclopedia of Philosophy | year= 2000 | access-date=19 August 2018 | author=Fumerton, Richard}}</ref>  <br />  [[correspondence theory of truth]]<ref>M. T. Dalgarno, E. H. Matthews (eds.), ''The Philosophy of Thomas Reid'', Springer, 2012, p. 195.</ref>
+|main_interests = {{hlist | [[Metaphysics]] | [[epistemology]] | [[philosophy of perception]] | [[ethics]]}}
+|influences = {{flatlist|
+* [[David Hume]]
+* [[Cicero]]
+* [[Thomas Aquinas]]
+* [[George Berkeley]]
+}}
+|influenced = {{flatlist|
+* [[William Alston]]
+* [[James Beattie (poet)|James Beattie]]
+* [[Michael Bergmann (philosopher)|Michael Bergmann]]
+* [[Roderick Chisholm]]
+* [[Victor Cousin]]
+* [[George Elder Davie]]
+* [[Keith DeRose]]
+* [[David Hartley (philosopher)|David Hartley]]
+* [[Charles Hodge]]
+* [[Michael Huemer]]
+* [[James Frederick Ferrier]]
+* [[William James]]
+* [[Keith Lehrer]]
+* [[G.&nbsp;E. Moore]]
+* [[Charles Sanders Peirce|C.&nbsp;S. Peirce]]
+* [[Alvin Plantinga]]
+* [[William L. Rowe]]
+* [[Arthur Schopenhauer]]
+* [[Dugald Stewart]]
+* [[Nicholas Wolterstorff]]
+}}
+|notable_ideas = {{hlist | [[Direct realism]] | [[epistemological externalism]]<ref name=CB/> | [[sense|sensation]]–[[perception]] distinction}}
+}}
+[[File:Cameo of Thomas Reid by James Tassie, Hunterian Museum, Glasgow.jpg|thumb|265px|Cameo of Thomas Reid by James Tassie, Hunterian Museum, Glasgow]]
+'''Thomas Reid''' {{post-nominals|country=GBR|FRSE}} ({{IPAc-en|r|iː|d}}; 7 May ([[Julian calendar|O.S.]] 26 April) 1710 – 7 October 1796) was a religiously trained Scottish philosopher. He was the founder of the [[Scottish School of Common Sense]] and played an integral role in the [[Scottish Enlightenment]]. In 1783 he was a joint founder of the [[Royal Society of Edinburgh]]. A contemporary of [[David Hume]], Reid was also "Hume's earliest and fiercest critic".<ref>See Craig G. Bartholomew and Michael W. Goheen, ''Christian Philosophy'' p. 138 (Baker Academic, 2013).</ref>
+
+==Life==
+Reid was born in the manse at [[Strachan, Aberdeenshire]], on 26 April 1710 [[Old Style|O.S.]], the son of Lewis Reid (1676–1762) and his wife Margaret Gregory, first cousin to [[James Gregory (mathematician)|James Gregory]]. He was educated at [[Kincardine, Aberdeenshire|Kincardine]] Parish School then the O'Neil Grammar School in Kincardine.<ref>{{cite book|title=Biographical Index of Former Fellows of the Royal Society of Edinburgh 1783–2002|date=July 2006|publisher=The Royal Society of Edinburgh|isbn=0-902-198-84-X|url=https://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp2.pdf}}</ref>
+
+He went to the [[University of Aberdeen]] in 1723 and graduated MA in 1726. He was licensed to preach by the [[Church of Scotland]] in 1731, when he came of age. He began his career as a [[minister (Christianity)|minister]] of the [[Church of Scotland]] but ceased to be a minister when he was given a professorship at [[King's College, Aberdeen]], in 1752. He obtained his doctorate and wrote ''An Inquiry Into the Human Mind on the Principles of Common Sense'' (published in 1764). He and his colleagues founded the 'Aberdeen Philosophical Society' which was popularly known as the 'Wise Club' (a literary-philosophical association).<ref>See H. Lewis Ulman, ''The Minutes of the Aberdeen Philosophical Society 1758-1773'' (Aberdeen University Press for Aberdeen University Studies Committee, 1990).</ref> Shortly after the publication of his first book, he was given the prestigious [[Professor of Moral Philosophy, Glasgow|Professorship of Moral Philosophy]] at the [[University of Glasgow]] when he was called to replace [[Adam Smith]]. He resigned from this position in 1781, after which he prepared his university lectures for publication in two books: ''Essays on the Intellectual Powers of Man'' (1785) and ''Essays on the Active Powers of the Human Mind'' (1788). However, in 1787 he is still listed as "Professor of Moral Philosophy" at the university, but his classes were being taught by [[Archibald Arthur]].<ref>https://digital.nls.uk/directories/browse/archive/85272327</ref>
+
+In 1740 Thomas Reid married his cousin Elizabeth, daughter of the London physician George Reid. His wife and "numerous" children predeceased him, except for a daughter who married Patrick Carmichael.<ref>{{Cite book|url=https://electricscotland.com/history/nation/reid.htm|title=The Scottish Nation.|last=Anderson|first=William|publisher=A. Fullarton and Co|year=1863|location=Edinburgh|pages=335–336}}</ref> Reid died of palsy, in Glasgow. He was buried at Blackfriars Church in the grounds of [[Glasgow University|Glasgow College]] and when the university moved to Gilmorehill in the west of Glasgow, his [[Thomas Reid's tombstone|tombstone]] was inserted in the main building.
+
+==Philosophical work==
+===Overview===
+Reid believed that [[common sense]] (in a special philosophical sense of ''[[common sense#Roman|sensus communis]]'') is, or at least should be, at the foundation of all philosophical inquiry.<ref>{{cite book|title=Thomas Reid|url=http://plato.stanford.edu/entries/reid/|publisher=Metaphysics Research Lab, Stanford University|year=2016}}</ref> He disagreed with Hume, who asserted that we can never know what an external world consists of as our knowledge is limited to the ideas in the mind, and [[George Berkeley]], who asserted that the external world is merely ideas in the mind. By contrast, Reid claimed that the foundations upon which our ''sensus communis'' are built justify our belief that there is an external world.
+
+In his day and for some years into the 19th century, he was regarded as more important than Hume.<ref>See Craig G. Bartholomew and Michael W. Goheen,
+    ''Christian Philosophy'', p. 138 (Baker Academic, 2013).</ref> He advocated [[direct realism]], or [[Naïve realism|common sense realism]], and argued strongly against the [[Idealism|Theory of Ideas]] advocated by [[John Locke]], [[René Descartes]], and (in varying forms) nearly all [[17th-century philosophy|Early Modern philosophers]] who came after them.  He had a great admiration for Hume and had a mutual friend send Hume an early manuscript of Reid's ''Inquiry.''    Hume responded that the work "is wrote in a lively entertaining manner," although he found "there seems to be some Defect in Method", and he criticized Reid's doctrine for implying the presence of innate ideas. (pp.&nbsp;256–257)<ref name="edBrookes">Thomas Reid. ''An Inquiry into the Human Mind on the Principles of Common Sense.'' Ed. Derek R Brookes. Edinburgh: [[Edinburgh University Press]], 1997. pp. 256–257</ref>
+
+===Thomas Reid's theory of common sense===
+Reid's theory of knowledge had a strong influence on his theory of morals. He thought [[epistemology]] was an introductory part to practical ethics: When we are confirmed in our common beliefs by philosophy, all we have to do is to act according to them, because we know what is right. His moral philosophy is reminiscent of Roman [[stoicism]] in its emphasis on the agency of the subject and self-control. He often quotes [[Cicero]], from whom he adopted the term "sensus communis". Reid's answer to Hume's sceptical and naturalist arguments was to enumerate a set of principles of ''common sense'' (''sensus communis'') which constitute the foundations of rational thought. Anyone who undertakes a philosophical argument, for example, must implicitly presuppose certain beliefs like, "I am talking to a real person," and "There is an external world whose laws do not change," among many other positive, substantive claims. For Reid, the belief in the truth of these principles is not rational; rather, reason itself demands these principles as prerequisites, as does the innate "constitution" of the human mind. It is for this reason (and possibly a mocking attitude toward Hume and Berkeley) that Reid sees belief in the principles of common sense as a litmus test for sanity. For example, in ''The Intellectual Powers of Man'' he states, "For, before men can reason together, they must agree in first principles; and it is impossible to reason with a man who has no principles in common with you." One of the first principles he goes on to list is that "qualities must necessarily be in something that is figured, coloured, hard or soft, that moves or resists. It is not to these qualities, but to that which is the subject of them, that we give the name body. If any man should think fit to deny that these things are qualities, or that they require any subject, I leave him to enjoy his opinion as a man who denies first principles, and is not fit to be reasoned with."
+
+Reid also made positive arguments based in phenomenological insight to put forth a novel mixture of [[direct realism]] and [[ordinary language philosophy]]. In a typical passage in ''The Intellectual Powers of Man'' he asserts that when he has a conception of a centaur, the thing he conceives is an animal, and no idea is an animal; therefore, the thing he conceives is not an idea, but a centaur. This point relies both on an account of the subjective experience of conceiving an object and also on an account of what we mean when we use words. Because Reid saw his philosophy as publicly accessible knowledge, available both through introspection and through the proper understanding of how language is used, he saw it as the philosophy of common sense.
+
+==== Exploring sense and language ====
+Reid started out with a 'common sense' based on a direct experience of an external reality but then proceeded to explore in two directions—external to the senses, and internal to human language—to account more effectively for the role of rationality.
+
+Reid saw language as based on an innate capacity pre-dating human consciousness, and acting as an instrument for that consciousness.  (In Reid's terms: it is an 'artificial' instrument based on a 'natural' capacity.)    On this view, language becomes a means of examining the original form of human cognition.  Reid notes that current human language contains two distinct elements: first, the acoustic element, the sounds; and secondly the meanings—which seem to have nothing to do with the sounds as such.  This state of the language, which he calls 'artificial', cannot be the primeval one, which he terms 'natural', wherein sound was not an abstract sign, but a concrete gesture or natural sign.  Reid looks to the way a child learns language, by imitating sounds, becoming aware of them long before it understands the meaning accorded to the various groups of sounds in the artificial state of contemporary adult speech.  If, says Reid, the child needed to understand immediately the conceptual content of the words it hears, it would never learn to speak at all.  Here Reid distinguishes between natural and artificial signs:
+
+:"It is by natural signs chiefly that we give force and energy to language; and the less language has of them, it is the less expressive and persuasive.  ...     Artificial signs signify, but they do not express; they speak to the intellect, as algebraic characters may do, but the passions and the affections and the will hear them not: these continue dormant and inactive, till we speak to them in ''the language of nature'', to which they are all attention and obedience."  (p. 52)<ref name=   "  edBrookes"
+/>
+
+His external exploration, regarding the senses, led Reid to his critical distinction between '[[Sense|sensation]]' and '[[perception]]'. While we become aware of an object through the senses, the content of that perception is not identical with the sum total of the sensations caused in our consciousness. Thus, while we tend to focus on the object perceived, we pay no attention to the process leading from sensation to perception, which contains the knowledge of the thing as real.  How, then, do we receive the conviction of the latter's existence?    Reid's answer is, by entering into an immediate intuitive relationship with it, as a child does.  In the case of the adult, the focus is on perceiving, but with the child, it is on receiving of the sensations in their living nature.  For Reid, the perception of the child is different from the adult, and he states that man must become like a child to get past the artificial perception of the adult, which leads to [[David Hume (philosopher)|Hume's]] view that what we perceive is an illusion.  Also, the artist provides a key to the true content of [[empirical evidence|sense experience]], as he engages the 'language of nature':
+
+:"It were easy to show, that the fine arts of the musician, the painter, the actor, and the orator, so far as they are expressive .. are nothing else but the language of nature, which we brought into the world with us, but have unlearned by disuse and so find the greatest difficulty in recovering it."  (p. 53)<ref name=   "  edBrookes"
+/>
+
+:"That without a natural knowledge of the connection between these [natural] signs and the things signified by them, the language could never have been invented and established among men; and, That the fine arts are all founded upon this connection, which we may call the natural language of mankind."  (p. 59)<ref name=   "  edBrookes"
+/>
+
+Thus, for Reid, common sense was based on the innate capacity of man in an earlier epoch to directly participate in nature, and one we find to some extent in the child and artist, but one that from a philosophical and scientific perspective, we must re-awaken at a higher level in the human mind above nature. Why does Reid believe that perception is the way to recognize? Well, to him "an experience is purely subjective and purely negative. It supports the validity of a proposition, only on the fact that I find that it is impossible for me not to hold it for true, to suppose it therefore not true" (Reid, 753). To understand this better, it is important to know that Reid divides his definition of perception into two categories: conception, and belief. "Conception is Reid's way of saying to visualize an object, so then we can affirm or deny qualities about that thing. Reid believes that beliefs are our direct thoughts of an object, and what that object is" (Buras, The Functions of Sensations to Reid). So, to Reid, what we see, what we visualize, what we believe of an object, is that object's true reality. Reid believes in direct objectivity, our senses guide us to what is right since we cannot trust our own thoughts. "The worlds of common sense and of philosophy are reciprocally the converse of each other" (Reid, 841). Reid believes that Philosophy overcomplicates the question of what is real. So, what does Common Sense actually mean then? Well, "common sense is the senses being pulled all together to form one idea" (Cambridge Companion to Thomas Reid, 164). Common sense (all the senses combined) is how we truly identify the reality of an object; since all that can be perceived about an object, are all pulled into one perception. How do people reach the point of accessing common sense? That's the trick, everyone is born with the ability to access common sense, that is why it is called common sense. "The principles of common sense are common to all of humanity," (Nichols, Ryan, Yaffe, and Gideon, Thomas Reid).
+
+Common sense works as such: If all men observe an item and believe the same qualities about that item, then the knowledge of that item is universally true.  It is common knowledge, which without explanation is held true by other people; so, what is universally seen is universally believed.  "The real, then, is that which, sooner or later, information and reasoning would finally result in, and which is therefore independent of the vagaries of me and you.  Thus, the very origin of the conception of reality shows that this conception essentially involves the notion of a community, without definite limits, and capable of a definite increase of knowledge," (Reid, 155).  The combination of the same ideas, of a thing, by multiple people, is what confirms the reality of an object.  Reid also believes that the philosophers of his time exaggerated what is truly real.  Where most philosophers believe that what we see is not fully what that thing is, for example, Descartes, Reid counters this argument simply by stating that "such a hypothesis is no more likely to be true than the common-sensical belief that the world is much the way we perceive it to be," (Nichols, Ryan, Yaffe, and Gideon, Thomas Reid).  Reality is what we make it out to be, nothing more.
+
+Reid also claimed that this discovery of the link between the natural sign and the thing signified was the basis of natural philosophy and science, as proposed by [[Francis Bacon|Bacon]] in his radical method of discovery of the innate laws of nature:
+
+:The great Lord Verulam had a perfect comprehension of this, when he called it ''an interpretation of nature''.  No man ever more distinctly understood, or happily expressed the nature and foundation of the philosophic art.  What is all we know of mechanics, astronomy, and optics, but connections established by nature and discovered by experience or observation, and consequences deduced from them?    (..)    What we commonly call natural ''causes'' might, with more propriety, be called natural ''signs'', and what we call ''effects'', the things signified.  The causes have no proper efficiency or causality, as far as we know; and all we can certainly affirm, is, that nature hath established a constant conjunction between them and the things called their effects; (..).  (p. 59)<ref name=   "  edBrookes"
+/>
+
+==== Influences ====
+It has been claimed that Reid's reputation waned after attacks on the [[Scottish School of Common Sense]] by [[Immanuel Kant]] (although Kant, only 14 years Reid's junior, also bestowed much praise on [[Scottish philosophy]]—Kant attacked the work of Reid, but admitted he had never actually read his works) and by [[John Stuart Mill]].  But Reid's was the philosophy taught in the colleges of North America during the 19th century and was championed by [[Victor Cousin]], a French philosopher.  Justus Buchler has shown that Reid was an important influence on the American philosopher [[Charles Sanders Peirce]], who shared Reid's concern to revalue common sense and whose work links Reid to [[pragmatism]].  To Peirce, conceptions of truth and the real involve the notion of a community without definite limits (and thus potentially self-correcting as far as needed), and capable of a definite increase of knowledge.<ref>Peirce, C. S. (1868), "Some Consequences of Four Incapacities", ''Journal of Speculative Philosophy'' 2, pp. 140–157, see [https://books.google.com/books?id=YHkqP2JHJ_IC&pg=RA1-PA155 p. 155 via Google Books]. Reprinted, ''Collected Papers'' v. 5, paragraphs 264–317 (see 311), ''Writings'' v. 2, pp. 211–42 (see 239), ''Essential Peirce'' v. 1, pp. 28–55 (see 52).</ref>   Common sense is socially evolved, open to verification much like scientific method, and constantly evolving, as evidence, perception, and practice warrant, albeit with a slowness that Peirce came only in later years to see, at which point he owned his "adhesion, under inevitable modification, to the opinion of...Thomas Reid, in the matter of Common Sense".<ref>Peirce, C. S. (1905), "Issues of Pragmaticism", ''The Monist'', v. XV, n. 4, pp. 481–99, see pp. [https://books.google.com/books?id=j6oLAAAAIAAJ&pg=RA1-PA501-IA3 484–5 via Google Books]. Reprinted, ''Collected Papers'' v. 5, paragraphs 438–63 (see 444), ''Essential Peirce'' v. 2, pp. 346–59 (see 349)</ref>   (Peirce called his version "critical common-sensism").  By contrast, on Reid's concept, the ''sensus communis'' is not a social evolutionary product but rather a precondition of the possibility that humans could reason with each other.  The work of Thomas Reid influenced the work of Noah Porter and James McCosh in the 19th century United States and is based upon the claim of universal principles of objective truth. Pragmatism is not the development of the work of the Scottish "Common Sense" School—it is the negation of it.  There are clear links between the work of the Scottish Common Sense School and the work of the Oxford Realist philosophers Harold Prichard and Sir William David Ross in the 20th century.
+
+Reid's reputation has revived in the wake of the advocacy of common sense as a philosophical method or criterion by [[G. E. Moore]] early in the 20th century, and more recently because of the attention given to Reid by contemporary philosophers, in particular philosophers of religion in the school of [[Reformed epistemology]] such as [[William Alston]],<ref>Alston invokes Reid in his ''Perceiving God: The Epistemology of Religious Experience'' (Ithaca, NY: Cornell University Press, 1991) pp. 151–155, 162–165.</ref> [[Alvin Plantinga]], and [[Nicholas Wolterstorff]],<ref>For Wolterstorff's use of Reid in aid of Reformed Epistemology, see his "Can Belief in God be Rational if it has no Foundations?" in ''Faith and Rationality'' (Notre Dame, IN: Notre Dame University Press, 1983)</ref> seeking to rebut charges that theistic belief is irrational where it has no doxastic foundations (that is, where that belief is not inferred from other adequately grounded beliefs).
+
+He wrote a number of important philosophical works, including ''Inquiry into the Human Mind on the Principles of Common Sense'' (1764, Glasgow & London), ''Essays on the Intellectual Powers of Man'' (1785) and ''Essays on the Active Powers of Man'' (1788). In 1844, [[Schopenhauer]] praised Reid for explaining that the perception of external objects does not result from the raw data that is received through the five senses:
+{{Quotation|Thomas Reid's excellent book, ''Inquiry into the Human Mind''... affords us a very thorough conviction of the inadequacy of the ''[[sense]]s'' for producing the objective [[perception]] of things, and also of the non-empirical origin of the intuition of [[space]] and [[time]]. Reid refutes Locke's teaching that perception is a product of the ''senses''. This he does by a thorough and acute demonstration that the collective sensations of the senses do not bear the least resemblance to the world known through perception, and in particular by showing that Locke's five primary qualities (extension, figure, solidity, movement, number) cannot possibly be supplied to us by any sensation of the senses...|''[[The World as Will and Representation]]'', Vol. II, Ch. 2}}
+
+===Other philosophical positions===
+Though known mainly for his epistemology, Reid is also noted for his views in the [[action theory (philosophy)|theory of action]] and the metaphysics of [[personal identity]]. Reid held an [[incompatibilism|incompatibilist]] or libertarian notion of freedom, holding that we are capable of free actions of which we are the cause, and for which we are morally appraisable.<ref>''Essays on the Active Powers'', "Essay Four: Of the Liberty of Moral Agents"</ref> Regarding personal identity,  he rejected Locke's account that self-consciousness in the form of memory of one's experiences was the basis of a person's being identical with their self over time. Reid held that continuity of memory was neither necessary nor sufficient to make one numerically the same person at different times.<ref>''Essays on the Intellectual Powers'', "Essay Three: Of Memory".</ref>
+Reid also argued that the operation of our mind connecting sensations with belief in an external world is accounted for only by an intentional Creator. In his natural religion lectures, Reid provides five arguments for the [[existence of God]], focusing on two mainly, the cosmological and design. Reid loves and frequently uses Samuel Clarke's cosmological argument, which says, in short that the universe either has always been, or began to exist, so there must be a cause (or first principle) for both (Cuneo and Woudenberg 242). As everything is either necessary or contingent, an Independent being is required for contingency (Cuneo and Woudenberg 242). Reid spends even more time on his design argument, but is unclear exactly what he wanted his argument to be, as his lectures only went as far as his students needed. Though there is no perfect interpretation, Reid states that "there are in fact the clearest marks of design and wisdom in the works of nature" (Cuneo and Woudenberg 291) If something carries marks of design (regularity or variety of structure), there must be an intelligent being behind it (Reid EIP 66). This can't be known by experience, fitting with the casual excellence principle, but the cause can be seen in works of nature (Cuneo and Woudenberg 241).
+
+==Works==
+* 1764. [http://www.earlymoderntexts.com/pdfs/reid1764.pdf ''An Inquiry into the Human Mind on the Principles of Common Sense (translated to modern English)'']. ([https://archive.org/download/inquiryintohuman00reidiala/inquiryintohuman00reidiala.pdf Facsimile of the 1823 edition])
+* 1785. ''Essays on the Intellectual Powers of Man''. ([https://archive.org/download/essaysonintellec02reiduoft/essaysonintellec02reiduoft.pdf Facsimile])
+* 1788. ''Essays on the Active Powers of the Human Mind''. [https://archive.org/download/essaysontheactiv00reiduoft/essaysontheactiv00reiduoft.pdf Facsimile])
+
+Until recently the standard edition of the ''Inquiry'' and the ''Essays'' has been the sixth edition of William Hamilton (ed.), Edinburgh: Maclachlan and Stewart, 1863. A new critical edition of these titles, plus correspondence and other important material, is being brought out by Edinburgh University Press as The Edinburgh Edition of Thomas Reid. An accessible selection from Hamilton's 6th ed. is ''Thomas Reid's Inquiry and Essays'', ed. Ronald Beanblossom and Keith Lehrer, Indianapolis, In: Hackett, 1983.
+
+==References==
+{{reflist}}
+
+==Further reading==
+* [[Stephen Francis Barker|Barker, Stephen]] and Tom Beauchamp, eds., ''Thomas Reid: Critical Interpretations'', University City Science Center, 1976.
+* Terence Cuneo, René van Woudenberg (eds.), ''The Cambridge Companion to Thomas Reid'', Cambridge: Cambridge University Press, 2004.
+* Daniels, Norman. ''Thomas Reid's'' Inquiry:''The Geometry of Visibles and the Case for Realism''. Stanford, CA: Stanford University Press.
+* Davis, William C., ''Thomas Reid's Ethics: Moral Epistemology on Legal Foundations''. Continuum International, 2006. {{ISBN|0-8264-8809-9}}
+* Ducheyne, Steffen. "Reid's Adaptation and Radicalization of Newton's Natural Philosophy". ''History of European Ideas'' 32 (2006) 173–189.
+* Roger D. Gallie, ''Thomas Reid and the Way of Ideas'', Dordrecht: Kluwer, 1989.
+* Haldane, John. "Reid, Scholasticism, and Current Philosophy of Mind" in M. Delgano and E. Matthews, eds., ''The Philosophy of Thomas Reid''. Dordrecht: Kluwer, 1989.
+* Lehrer, Keith. ''Thomas Reid''. London: Routledge, 1989.
+* Rowe, William. ''Thomas Reid on Freedom and Morality''. Ithaca, NY: Cornell University Press, 1991.
+* Wolterstorff, N. ''Thomas Reid and the Story of Epistemology''. Cambridge: Cambridge University Press, 2001.
+
+==External links==
+{{EB1911 poster|Reid, Thomas}}
+{{commons category|Thomas Reid (philosopher)}}
+* {{cite SEP |url-id=reid |title=Thomas Reid}}
+* {{cite IEP |url-id=reidmind |title=Thomas Reid's Philosophy of Mind}}
+* {{cite IEP |url-id=reid-act |title=Thomas Reid's Theory of Action}}
+* [http://www.abdn.ac.uk/historic/Thomas_Reid/ The Papers of Thomas Reid] at the [[University of Aberdeen]].
+* [http://www.euppublishing.com/series/eetr The Edinburgh Edition of Thomas Reid] – critical edition of Reid's philosophical treatises and previously unpublished materials
+* [http://www.earlymoderntexts.com Reid's Inquiry into the Human Mind, Essays on the Active Powers..., and Essays on the Intellectual powers...], slightly modified for easier reading.
+* [https://books.google.com/books?q=inauthor%3Athomas+inauthor%3Areid Thomas Reid at Google Books]
+* {{Internet Archive author |sname=Thomas Reid}}
+* {{Librivox author |id=6149}}
+* [https://www.bbc.co.uk/programmes/b007qhbn Common Sense Philosophy], BBC Radio 4 discussion with A.C. Grayling, Melissa Lane & Alexander Broadie (''In Our Time'', 21 June 2007)
+
+{{Age of Enlightenment}}
+{{Metaphysics}}
+{{Epistemology}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Reid, Thomas}}
+[[Category:1710 births]]
+[[Category:1796 deaths]]
+[[Category:Founder Fellows of the Royal Society of Edinburgh]]
+[[Category:Scottish philosophers]]
+[[Category:Calvinist and Reformed philosophers]]
+[[Category:British Christian theologians]]
+[[Category:18th-century Scottish writers]]
+[[Category:18th-century philosophers]]
+[[Category:Enlightenment philosophers]]
+[[Category:David Hume]]
+[[Category:Alumni of the University of Aberdeen]]
+[[Category:Academics of the University of Aberdeen]]
+[[Category:Academics of the University of Glasgow]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:18th-century Ministers of the Church of Scotland]]
+[[Category:People from Kincardine and Mearns]]
+[[Category:Scottish mathematicians]]
+[[Category:Scottish librarians]]
+[[Category:Critics of atheism]]

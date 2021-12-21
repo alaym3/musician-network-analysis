@@ -1,0 +1,113 @@
+{{Short description|Consumable reactive substance used to fix another one such as for oxygen removal in vacuum tubes}}
+{{Other uses}}
+[[File:Getter diagram.png|thumb|right|300px|''(center)'' A vacuum tube with a "flashed getter" coating on the inner surface of the top of the tube. ''(left)'' The inside of a similar tube, showing the reservoir that holds the material that is evaporated to create the getter coating. During manufacture, after the tube is evacuated and sealed, an [[induction heater]] evaporates the material, which condenses on the glass. ]]
+
+A '''getter''' is a deposit of reactive material that is placed inside a [[vacuum]] system, for the purpose of completing and maintaining the vacuum. When gas molecules strike the getter material, they combine with it chemically or by <span class="syllable">absorp</span><span class="last-syllable">tion</span>. Thus the getter removes small amounts of gas from the evacuated space.  The getter is usually a coating applied to a surface within the evacuated chamber.
+
+A vacuum is initially created by connecting a closed and tight container to a [[vacuum pump]]. After achieving a sufficient vacuum, the container can be sealed, or the vacuum pump can be left running. Getters are especially important in sealed systems, such as [[vacuum tube]]s, including [[cathode ray tube]]s (CRTs) and [[vacuum insulated panel]]s, which must maintain a vacuum for a long time. This is because the inner surfaces of the container release adsorbed gases for a long time after the vacuum is established. The getter continually removes residues of a reactive gas, such as oxygen, as long as it is desorbed from a surface, or continuously penetrating in the system (tiny leaks or diffusion through a permeable material). Even in systems which are continually evacuated by a vacuum pump, getters are also used to remove residual gas, often to achieve a higher vacuum than the pump could achieve alone. Although it is often present in minute amounts and has no moving parts, a getter behaves in itself as a vacuum pump. It is an ultimate chemical sink for reactive gases.<ref name="O'Hanlon">{{cite book
+ | last1  = O'Hanlon
+ | first1 = John F.
+ | title  = A User's Guide to Vacuum Technology
+ | publisher = John Wiley and Sons
+ | edition = 3
+ | date   = 2005
+ | pages  = 247
+ | url    = https://books.google.com/books?id=9aNaUW-q4ygC&q=getter+%22vacuum+pump&pg=PA247
+ | isbn   = 0471467154
+ }}</ref><ref name="Danielson">{{cite web
+  | last = Danielson
+  | first = Phil
+  | title = How To Use Getters and Getter Pumps
+  | work = A Journal of Practical and Useful Vacuum Technology
+  | publisher = The Vacuum Lab website
+  | date = 2004
+  | url = http://www.vacuumlab.com/Articles/VacLab23.pdf
+  | access-date = November 27, 2014
+  | url-status = dead
+  | archive-url = https://web.archive.org/web/20050209031512/http://www.vacuumlab.com/Articles/VacLab23.pdf
+  | archive-date = 2005-02-09}}</ref><ref name="Mattox">{{cite book
+ | last1  = Mattox
+ | first1 = Donald M.
+ | title  = Handbook of Physical Vapor Deposition (PVD) Processing
+ | publisher = William Andrew
+ | edition = 2
+ | date   = 2010
+ | pages  = 625
+ | url    = https://books.google.com/books?id=aGUxoVTYjA8C&q=%22getter+pump%22&pg=PA625
+ | isbn   = 978-0815520382
+ }}</ref><ref name="Welch">{{cite book
+ | last1  = Welch
+ | first1 = Kimo M.
+ | title  = Capture Pumping Technology
+ | publisher = Elsevier
+ | date   = 2001
+ | pages  = 1
+ | url    = https://books.google.com/books?id=56wANznvEA8C&q=%22getter+pump%22&pg=PA1
+ | isbn   = 0444508821
+ }}</ref><ref name="Bannwarth">{{cite book
+ | last1  = Bannwarth
+ | first1 = Helmut
+ | title  = Liquid Ring Vacuum Pumps, Compressors and Systems: Conventional and Hermetic Design
+ | publisher = John Wiley & Sons
+ | date   = 2006
+ | pages  = 120
+ | url    = https://books.google.com/books?id=ScQlemNoR0UC&q=%22getter+pump%22&pg=PA120
+ | isbn   = 3527604723
+ }}</ref>
+
+Getters cannot react with [[inert gas]]es, though some getters will adsorb them in a reversible way. Also, [[hydrogen]] is usually handled by adsorption rather than by reaction.
+
+==Types==
+To avoid being contaminated by the atmosphere, the getter must be introduced into the vacuum system in an inactive form during assembly, and activated after evacuation. This is usually done by heat.<ref name="Espe">{{cite journal |last=Espe |first=Werner |author2=Max Knoll |author3=Marshall P. Wilder|title=Getter Materials for Electron Tubes |journal=Electronics |pages=80–86|publisher=McGraw-Hill |date=October 1950 |url=http://www.tubebooks.org/file_downloads/Getter_Material.pdf |issn=0883-4989 |access-date=21 October 2013}} on Pete Miller's [http://www.tubebooks.org/ Tubebooks] website</ref> Different types of getter use different ways of doing this:
+*''Flashed getter'' – The getter material is held inactive in a reservoir during assembly and initial evacuation, and then heated and evaporated, usually by [[induction heating]]. The vaporized getter, usually a volatile metal, instantly reacts with any residual gas, and then condenses on the cool walls of the tube in a thin coating, the ''getter spot'' or ''getter mirror'', which continues to absorb gas. This is the most common type, used in low-power [[vacuum tube]]s.
+*''Non-evaporable getter'' (NEG)<ref name="Jousten">{{cite book |last=Jousten |first=Karl |title=Handbook of Vacuum Technology |publisher=John Wiley & Sons |year=2008 |pages=463–474 |url=https://books.google.com/books?id=Gco_ytUu4QYC&pg=PA463 |isbn=978-3-527-40723-1}}</ref> – The getter remains in solid form.
+**''Coating getter'' – a coating applied to metal parts of the vacuum system that will be heated during use. Usually a nonvolatile metal powder sintered in a porous coating to the surface of the electrodes of power vacuum tubes, maintained at temperatures of 200° to 1200&nbsp;°C during operation.
+**''Bulk getter'' – sheets, strips, wires, or sintered pellets of gas absorbing metals which are heated, either by mounting them on hot components or by a separate heating element. These can often be renewed or replaced
+**''Getter pump'' or ''sorption pump'' – In laboratory vacuum systems, the bulk NEG getter is often held in a separate vessel with its own heater, attached to the vacuum system by a valve, so that it can be replaced or renewed when saturated.<ref name="Jousten" />
+***''Ion getter pump'' – Uses a high voltage electrode to [[ionize]] the gas molecules and drive them into the getter surface. These can achieve very low pressures and are important in [[ultrahigh vacuum]] (UHV) systems.<ref name="Jousten" />
+
+==Flashed getters==
+[[File:Opachki dead vacuum luminescent display bednyaga da.JPG|thumb|right|Dead [[vacuum fluorescent display]] (air has leaked in and getter spot became white)]]
+Flashed getters are prepared by arranging a reservoir of volatile and reactive material inside the vacuum system. After the system has been evacuated and sealed, the material is heated (usually by radio frequency [[induction heating]]). After evaporating, it deposits as a coating on the interior surfaces of the system. Flashed getters (typically made with [[barium]]) are commonly used in [[vacuum tube]]s. Most getters can be seen as a silvery metallic spot on the inside of the tube's glass envelope. Large transmission tubes and specialty systems often use more exotic getters, including [[aluminium]], [[magnesium]], [[calcium]], [[sodium]], [[strontium]], [[caesium]], and [[phosphorus]].
+
+If the getter is exposed to atmospheric air (for example, if the tube breaks or develops a leak), it turns white and becomes useless. For this reason, flashed getters are only used in [[hermetic seal|sealed systems]]. A functioning phosphorus getter looks very much like an oxidised metal getter, although it has an [[iridescent]] pink or orange appearance which oxidised metal getters lack. Phosphorus was frequently used before metallic getters were developed.
+
+In systems which need to be opened to air for maintenance, a [[titanium sublimation pump]] provides similar functionality to flashed getters, but can be flashed repeatedly. Alternatively, nonevaporable getters may be used.
+
+Those unfamiliar with sealed vacuum devices, such as [[vacuum tubes]]/thermionic valves, [[high-pressure sodium lamp]]s or some types of [[metal-halide lamp]]s, often notice the shiny flash getter deposit and mistakenly think it is a sign of failure or degradation of the device. Contemporary [[high-intensity discharge lamp]]s tend to use non-evaporable getters rather than flash getters.
+
+Those familiar with such devices can often make qualitative assessments as to the hardness or quality of the vacuum within by the appearance of the flash getter deposit, with a shiny deposit indicating a good vacuum. As the getter is used up, the deposit often becomes thin and translucent, particularly at the edges. It can take on a brownish-red semi-translucent appearance, which indicates poor seals or extensive use of the device at elevated temperatures. A white deposit, usually [[barium oxide]], indicates total failure of the seal on the vacuum system, as shown in the fluorescent display module depicted above.
+
+===Activation===
+The typical flashed getter used in small vacuum tubes ''(seen in 12AX7 tube, top)'' consists of a ring-shaped structure made from a long strip of nickel, which is folded into a long, narrow trough, filled with a mixture of [[barium azide]] and powdered glass, and then folded into the closed ring shape. The getter is attached with its trough opening facing upward toward the glass, in the specific case depicted above.
+
+During activation, while the bulb is still connected to the pump, an RF [[induction heating]] coil connected to a powerful [[electronic oscillator|RF oscillator]] operating in the 27&nbsp;MHz or 40.68 MHz [[ISM band]] is positioned around the bulb in the plane of the ring. The coil acts as the primary of a transformer and the ring as a single shorted turn. Large RF currents flow in the ring, heating it. The coil is moved along the axis of the bulb so as not to overheat and melt the ring. As the ring is heated, the barium azide decomposes into barium vapor and nitrogen. The nitrogen is pumped out and the barium condenses on the bulb above the plane of the ring forming a mirror-like deposit with a large surface area. The powdered glass in the ring melts and entraps any particles which could otherwise escape loose inside the bulb causing later problems. The barium combines with any free gas when activated and continues to act after the bulb is sealed off from the pump. During use, the internal electrodes and other parts of the tube get hot. This can cause adsorbed gases to be released from metallic parts, such as anodes (plates), grids, or non-metallic porous parts, such as sintered ceramic parts. The gas is trapped on the large area of reactive barium on the bulb wall and removed from the tube.
+
+==Non-evaporable getters==
+{{main|Non-evaporable getter}}
+''Non-evaporable getters'', which work at high temperature, generally consist of a film of a special alloy, often primarily [[zirconium]]; the requirement is that the alloy materials must form a passivation layer at room temperature which disappears when heated.
+Common alloys have names of the form St (Stabil) followed by a number:
+*St 707 is 70% [[zirconium]], 24.6% [[vanadium]], and the balance [[iron]].
+*St 787 is 80.8% [[zirconium]], 14.2% [[cobalt]], and the balance [[mischmetal]].
+*St 101 is 84% [[zirconium]] and 16% [[aluminium]].<ref>{{Cite web |url=http://www.patentstorm.us/patents/5961750-description.html |title=Nonevaporable getter alloys - US Patent 5961750 |access-date=2007-11-26 |archive-url=https://archive.today/20120911013426/http://www.patentstorm.us/patents/5961750-description.html |archive-date=2012-09-11 |url-status=dead }}</ref>
+In tubes used in electronics, the getter material coats plates within the tube which are heated in normal operation; when getters are used within more general vacuum systems, such as in [[semiconductor manufacturing]], they are introduced as separate pieces of equipment in the vacuum chamber, and turned on when needed.
+Deposited and patterned getter material is being used in microelectronics packaging to provide an ultra-high vacuum in a sealed cavity. To enhance the getter pumping capacity, the activation temperature must be maximized, considering the process limitations.<ref>[https://ieeexplore.ieee.org/abstract/document/8064729/ High-Q MEMS gyroscope]</ref>
+
+It is, of course, important not to heat the getter when the system is not already in a good vacuum.
+
+==See also==
+*[[Ion pump (physics)]]
+
+==References==
+{{reflist|30em}}
+*Stokes, John W. ''70 Years of Radio Tubes and Valves: A Guide for Engineers, Historians, and Collectors.'' Vestal Press, 1982.
+*Reich, Herbert J. ''Principles of Electron Tubes. Understanding and Designing Simple Circuits.'' Audio Amateur Radio Publication, May 1995. (Reprint of 1941 original).
+
+==External links==
+{{Wiktionary}}
+* [http://blog.kotarak.net/2009/02/gettering-gu74b-4cx800a.html How to activate getter in GU74B / 4CX800A]
+* [https://ieeexplore.ieee.org/abstract/document/8064729 An Ultrahigh Vacuum Packaging Process Demonstrating Over 2 Million Q-Factor in MEMS Vibratory Gyroscopes], IEEE Sensors Letters
+
+{{Thermionic valves}}
+
+[[Category:Vacuum tubes]]

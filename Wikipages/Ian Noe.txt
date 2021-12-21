@@ -1,0 +1,73 @@
+{{Use mdy dates|date=October 2019}}
+{{Infobox musical artist
+| name         = Ian Noe
+| image        =
+| caption      =
+| image_size   =
+| birth_name   =
+| alias        =
+| birth_date   = {{birth date and age|1990|05|09|mf=yes}}
+| birth_place  = [[Beattyville, Kentucky]], U.S.
+| origin       =
+| death_date   =
+| death_place  =
+| instrument   = Vocals, guitar,
+| genre        = [[Country folk]], [[Americana (music)|Americana]]
+| occupation   =
+| years_active =
+| label        =
+| website      = https://www.iannoe.com/
+}}
+
+'''Ian Noe''' (born May 9, 1990) is a singer-songwriter from [[Beattyville, Kentucky]] US.<ref>{{Cite web |url=https://www.rollingstone.com/music/music-country/ian-noe-between-the-country-840836/ |title=Americana Artist You Need to Know: Ian Noe |last=Mooney |first=Thomas |date=May 28, 2019 |website=Rolling Stone  |access-date=June 2, 2019}}</ref><ref>{{Cite web |url=https://www.codaagency.com/artist/ian-noe |title=Ian Noe – Coda Music Agency |website=codaagency.com |access-date=June 2, 2019}}</ref> Noe's debut album ''Between The Country''  was produced by [[Dave Cobb]] who plays guitar on the album,<ref>{{Cite web |url=http://www.capturekentucky.com/review-appalachian-gold-struck-again-ian-noe-releases-between-the-country-on-may-31st/ |title=REVIEW: Appalachian Gold Struck Again. Ian Noe Releases 'Between The Country' On May 31st |date=May 24, 2019 |website=Capture Kentucky |access-date=June 2, 2019}}</ref> while [[Adam Gardner]] plays bass and organ piano.<ref>{{Cite web |url=https://americanahighways.org/2019/05/29/review-ian-noes-between-the-country-is-the-kind-of-album-nobody-makes-anymore/ |title=REVIEW: Ian Noe's "Between the Country" is the Kind of Album Nobody Makes Anymore • Americana Highways |date=May 29, 2019 |website=Americana Highways  |access-date=June 2, 2019}}</ref>
+
+In 2007 Ian Noe won the grand prize in the Appalachian [[Starsearch]] in [[Hazard, Kentucky]] with his original song ''Don't Let The Morning Bring Ya Down''.<ref>{{Cite web |url=https://ourstage.com/profile/iannoe |title=Ian Noe |website=OurStage  |access-date=June 2, 2019}}</ref>
+
+His subject matter includes death, addiction, lost love, and poverty.<ref>{{Cite web |url=https://www.raisedrowdy.com/2019/05/31/ian-noe-steps-out-of-appalachian-kentucky-and-into-somewhere-between-the-country/ |title=Ian Noe steps out of Appalachian Kentucky and into somewhere 'Between The Country' |date=May 31, 2019 |website=Raised Rowdy  |access-date=June 2, 2019}}</ref>
+
+Noe is featured performing several of his songs on a [[Jason Momoa]] video and he supported [[John Prine]] on tour in Germany, Sweden and Norway in 2019. Noe has also supported [[Son Volt]], [[Jamestown Revival]] and [[Blackberry Smoke]].<ref>{{Cite web |url=https://www.broadwayworld.com/bwwmusic/article/Ian-Noes-BETWEEN-THE-COUNTRY-Now-Streaming-At-NPR-Music-20190523 |title=Ian Noe's BETWEEN THE COUNTRY Now Streaming at NPR Music |author=BWW News Desk |website=BroadwayWorld.com  |access-date=June 2, 2019}}</ref>
+
+In June 2019 he was cover image of Spotify's Fresh Folk playlist.<ref>{{Cite web |url=https://open.spotify.com/playlist/37i9dQZF1DXaUDcU6KDCj4 |title=Fresh Folk, a playlist by Spotify |website=Spotify  |access-date=June 2, 2019}}</ref>
+
+==Discography==
+
+===Albums===
+
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2" | Peak chart positions
+! rowspan="2" style="width:8em;"| Sales
+|- style="font-size:smaller;"
+! width=40| [[Top Heatseekers|US<br /> Heat]]
+! width=40| [[Top Independent Albums|US <br />Indie]]
+|-
+! scope="row"| ''Between the Country''<ref>{{cite web |url=http://www.spectrum-pulse.ca/2019/06/album-review-between-country-by-ian-noe.html |title=album review: 'between the country' by ian noe |work=Spectrum Pulse|date=June 5, 2019 }}</ref>
+|
+* Release date: May 31, 2019
+* Label: National Treasury Recordings
+* Format: CD, vinyl, digital download
+| 9<br /><ref>{{cite web |url=https://www.billboard.com/charts/heatseekers-albums/2019-06-15 |title=Heatseekers Albums |date=June 15, 2019 |work=Billboard }}</ref>
+| 28<br /><ref>{{cite web |url=https://www.billboard.com/charts/independent-albums/2019-06-15 |title=Independent Albums |date=June 15, 2019 |work=Billboard }}</ref>
+|
+*US: 2,400<ref>{{cite news |url=http://roughstock.com/news/2019/07/43876-top-10-country-albums-july-15-2019|title=Top 10 Country Albums: July 15, 2019|first= Matt |last= Bjorke |date=July 18, 2019 |work=Roughstock |accessdate=July 19, 2019 }}</ref>
+|}
+
+===EPs===
+* ''Off This Mountaintop''
+
+==Links==
+* [https://www.iannoe.com/ Official Website]
+
+==References==
+{{Reflist}}
+{{Authority control}}
+
+{{DEFAULTSORT:Noe, Ian}}
+[[Category:American male singer-songwriters]]
+[[Category:1990 births]]
+[[Category:Musicians from Kentucky]]
+[[Category:Living people]]
+[[Category:People from Lee County, Kentucky]]
+[[Category:American singer-songwriters]]

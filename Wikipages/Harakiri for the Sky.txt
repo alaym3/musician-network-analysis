@@ -1,0 +1,121 @@
+{{Infobox musical artist
+| name            = Harakiri for the Sky
+| image           = Harakiri for the Sky Party.San Metal Open Air 2018 29.jpg
+| landscape       = yes
+| caption         = Harakiri for the Sky at [[Party.San]] 2018
+| origin          = [[Vienna]] and [[Salzburg]], Austria
+| genre           = {{hlist|[[Black metal]]<ref name="bandcamp">{{cite web|url=https://daily.bandcamp.com/2016/08/04/a-brief-history-of-post-metal/|title=A Brief History of Post-Metal|publisher=Bandcamp|first=Jon|last=Wiederhorn|date=4 August 2016|accessdate=14 November 2017}}</ref>|[[post-hardcore]]<ref name="bandcamp" />|[[post-metal]]<ref name="bandcamp" />}}
+| years_active    = 2011–present
+| label           = AOP
+| associated_acts = {{flatlist|
+* Bifröst
+* Karg
+* Seagrave
+}}
+| website         = {{url|http://www.facebook.com/HarakiriForTheSky}}
+| current_members = * Matthias Sollak
+* JJ
+| past_members    = 
+}}
+'''Harakiri for the Sky''' is an Austrian [[Post-black metal|post-black metal]] band formed in [[Salzburg]] and [[Vienna]] in 2011 by vocalist JJ (Michael V. Wahntraum) and [[multi-instrumentalist]] Matthias Sollak, formerly of [[black metal]] band [[Bifröst (band)|Bifröst]]. They have released five studio albums – ''Harakiri for the Sky'' (2012), ''Aokigahara'' (2014), ''III: Trauma'' (2016), ''Arson'' (2018), and ''Mӕre'' (2021) – via German label AOP Records.
+
+[[File:Harakiri for the Sky 2016233200412 2016-08-20 Summer Breeze - Sven - 1D X II - 0827 - AK8I7723 mod.jpg|thumb|right|250px|JJ at [[Summer Breeze Open Air]] 2016]]
+The band toured alongside [[Der Weg einer Freiheit]] and [[The Great Old Ones (band)|the Great Old Ones]] in March 2016 and played [[Summer Breeze Open Air]] later that year. For live performances, JJ and Sollak are joined by bassist Thomas Dornig, drummer Mischa Bruemmer and guitarist Marrok. In 2017 they were nominated for the ''Hard & Heavy'' category of the [[Amadeus Austrian Music Awards]].<ref>''[[DerStandard.at]]'': [http://derstandard.at/2000053259812/Amadeus-Awards-Voodoo-Juergens-und-Julian-le-Playmit-je-5 Amadeus Awards: Julian le Play und Voodoo Jürgens fünfmal nominiert] (German)</ref>
+
+==Members==
+* Matthias "MS" Sollak – guitars, bass, drums <small>(2011–present)</small>
+* Michael "JJ" V. Wahntraum – vocals <small>(2011–present)</small>
+
+===Touring musicians===
+'''Current'''
+* Thomas Dornig – bass <small>(2012–present)</small>
+* Marrok – guitar, backing vocals <small>(2012–present)</small>
+* Mischa Bruemmer – drums <small>(2013–present)</small>
+
+'''Former'''
+* Morbus J – drums <small>(2012–2013)</small>
+* Thomas "T. Martyr" Leitner – drums <small>(2014)</small>
+
+==Discography==
+'''Studio albums'''
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Title
+! colspan="3"| Peak positions<ref>Charts: [http://austriancharts.at/showinterpret.asp?interpret=Harakiri+For+The+Sky AUT] / [https://www.offiziellecharts.de/suche?artist_search=Harakiri+for+the+Sky GER] / [https://hitparade.ch/showinterpret.asp?interpret=Harakiri+For+The+Sky SWI]</ref>
+|-
+! width="30"| [[Ö3 Austria Top 40|AUT]]
+! width="30"| [[GfK Entertainment Charts|GER]]
+! width="30"| [[Swiss Hitparade|SWI]]
+|-
+| 2012
+| ''Harakiri for the Sky''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 2014
+| ''Aokigahara''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 2016
+| ''III: Trauma''
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| 2018
+| ''Arson''
+| align="center"| 62
+| align="center"| 29
+| align="center"| —
+|-
+| 2021
+| ''Mӕre''
+| align="center"| 35
+| align="center"| 4
+| align="center"| 22
+|}
+
+'''Box sets'''
+* ''Wooden Tape Box'' (2015)
+
+'''Singles'''
+* "Calling the Rain" (2016)
+* "Tomb Omnia" (2017)
+* "You Are the Scars" (2017)
+* "Heroin Waltz" (2018)
+* "I, Pallbearer" (2020)"
+* "Sing for the Damage We've Done" (2020)
+* "And Oceans Between Us" (2020)
+* "I'm All About the Dusk" (2021)
+* "Song to Say Goodbye" (2021)
+
+'''Music videos'''
+* "My Bones to the Sea" (2014)
+* "The Traces We Leave" (2016)
+* "Heroin Waltz" (2018)
+* "I, Pallbearer" (2020) 
+*"Sing for the Damage We've Done" (2020)
+*"I'm All About The Dusk" (2020)
+* "Us Against December Skies" (2021)
+
+==References==
+{{Reflist}}
+==External links==
+*{{Commons category-inline}}
+
+{{Authority control}}
+
+[[Category:Austrian black metal musical groups]]
+[[Category:Post-hardcore groups]]
+[[Category:Post-metal musical groups]]
+[[Category:Austrian heavy metal musical groups]]
+[[Category:Austrian punk rock groups]]
+[[Category:Musical groups established in 2011]]
+[[Category:2011 establishments in Austria]]
+[[Category:Musical groups from Vienna]]
+[[Category:Musicians from Salzburg]]
+[[Category:Austrian musical duos]]

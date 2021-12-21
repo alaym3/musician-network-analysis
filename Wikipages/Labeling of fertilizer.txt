@@ -1,0 +1,85 @@
+{{redirect|NPK|the Kenyan political party|National Party of Kenya}}
+{{Use dmy dates|date=September 2021}}
+
+Many countries have standardized the '''labeling of fertilizers''' to indicate their contents of major nutrients.<ref name="Voluntary Standards for the Fertilizer and Supplements Industry">{{cite web|url=https://www.google.com/search?q=cache:3KO6Nxn96cMJ:cfpf-fcpf.ca/files/PDF/Monachus_presentation.ppt+labeling+of+fertilizer+norway&hl=en&gl=us|title=Voluntary Standards for the Fertilizer and Supplements Industry |last=Chambers  |first=Albert|author2=Sally Rutherford |date=27 November 2007|accessdate=3 February 2010}}</ref><ref name="Draft Code">{{cite web|url=https://docs.google.com/viewer?a=v&q=cache:CgW191hwEBIJ:www.fifa.asn.au/files/pdf/regulation/Draft%2520Code%2520of%2520Practice%2520for%2520Fertilizer%2520Description%2520%26%2520Labelling.pdf+labeling+of+fertilizer&hl=en&gl=us&sig=AHIEtbSJjp1liw8XbwDLtw2aqua-xK0n1g|title=Draft Code of Practice for Fertilier Description and Labeling|date=15 September 2008|publisher=Fertilizer Industry Federation Association (FIFA)|accessdate=3 February 2010}}</ref> The most common labeling convention, the '''NPK''' or '''N-P-K label''', shows the amounts of the [[chemical elements]] [[nitrogen]], [[phosphorus]], and [[potassium]].
+
+==Common labeling conventions==
+
+===The NPK analysis label===
+
+Fertilizers are usually labeled with three numbers, as in 18-20-10, indicating the relative content of the [[macronutrients]] nitrogen (N), phosphorus (P), and potassium (K), respectively.
+
+More precisely, the first number ("N value") is the percentage of elemental nitrogen by weight in the fertilizer; that is, the [[mass fraction (chemistry)|mass fraction]] of nitrogen times 100.  The second number ("P value") is the percentage by weight of [[phosphorus pentoxide]] {{chem|P|2|O|5}} in a fertilizer with the same amount of phosphorus that gets all of its phosphorus from P<sub>2</sub>O<sub>5</sub>.  The third number ("K value") is analogous, based on the equivalent content of [[potassium oxide]] {{chem|K|2|O}}.<ref>[http://www.flairform.com/hints/nutrient_analysis.htm] 22 October 2014</ref>
+
+For example, a 15-13-20 fertilizer would contain 15% by weight of nitrogen, and the same amounts of phosphorus and potassium as a mixture of 13% by weight of {{chem|P|2|O|5}}, 20% {{chem|K|2|O}}, and 52% of some inert ingredient.
+
+===Other labeling conventions===
+In the [[U.K.]], fertilizer labeling regulations allow for reporting the elemental mass fractions of phosphorus and potassium. The regulations stipulate that this should be done in parentheses after the standard N-P-K values, as in "15-30-15
+(15-13-13)".<ref>[http://www.opsi.gov.uk/si/si1990/Uksi_19900887_en_4.htm UK Fertilizers Regulations 1990, Schedule 2] Part 1, Para. 7.</ref>
+
+In Australia, macronutrient fertilizers are labeled with an "N-P-K-S" system, which uses elemental mass fractions rather than the standard N-P-K values and includes the amount of sulfur (S) contained in the fertilizer.
+<ref>{{cite web|title=National Code of Practice for Fertilizer Description & Labelling |url=http://www.fertilizer.org.au/files/pdf/regulation/National%20Code%20of%20Practice%20for%20Fertilizer%20Description%20&%20Labelling%20March%2011%202011.pdf |publisher=Australian Government Department of Agriculture, Fisheries and Forestry |accessdate=27 October 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20150228200433/http://www.fertilizer.org.au/files/pdf/regulation/National%20Code%20of%20Practice%20for%20Fertilizer%20Description%20%26%20Labelling%20March%2011%202011.pdf |archivedate=28 February 2015 }}</ref>
+
+==Converting nutrient analysis to composition==
+
+The values in an NPK fertilizer label are related to the concentrations (by weight) of phosphorus and potassium elements as follows:
+
+* {{chem|P|2|O|5}} consists of 56.4% elemental oxygen and 43.6% elemental phosphorus by weight. Therefore, the elemental phosphorus percentage of a fertilizer is 0.436 times its P value.
+* {{chem|K|2|O}} consists of 17% oxygen and 83% elemental potassium by weight. Therefore, the elemental potassium percentage is 0.83 times the K value.
+
+The N value in NPK labels represents actual percentage of nitrogen element by weight, so it does not need to be converted.
+
+So, for example, an 18−51−20 fertilizer contains by weight
+*18% elemental nitrogen,
+*0.436 × 51 = 22% elemental phosphorus, and
+*0.83 × 20 = 17% elemental potassium.
+
+As another example, the fertilizer ''[[sylvite]]'' is a naturally occurring mineral consisting mostly of [[potassium chloride]], KCl.  Pure potassium chloride contains one potassium atom (whose [[atomic mass]] is 39.09 [[gram|g]]/[[Mole (unit)|mol]]) for every chlorine atom (whose atomic mass is 35.45 g/mol).  Therefore, pure KCl is 39.09/(39.09 + 35.45) = 52% potassium and 48% chlorine by weight.  Its K value is therefore 52/0.83 = 63; that is, a fertilizer that gets all its potassium from {{chem|K|2|O}} and has the same potassium contents as pure KCl would have to be 63% {{chem|K|2|O}}.  Pure KCl fertilizer would thus be labeled 0-0-63.  Since sylvite contains other compounds that contribute no N, P, or K, it is usually labeled 0-0-60.
+
+== NPK values for commercial fertilizers ==
+
+===NPK values for various synthetic fertilizers<ref>[http://chemicalland21.com/industrialchem/inorganic/NPK.htm NPK (Fertilizer)<!-- Bot generated title -->]</ref>===
+* 15-00-00 [[Calcium nitrate]]
+* 21-00-00 [[Ammonium sulphate]]
+* 30-00-00 to 40-00-00 Sulfur-coated urea (slow release)<ref name=SRN/>
+* 31-00-00 [[Isobutylidenediurea]] (~90% slow release)<ref name=SRN/>
+* 33-00-00 to 34-00-00 [[Ammonium nitrate]]
+* 35-00-00 Ureaform (~85% slow release, sparingly soluble ureaformaldehyde)<ref name=SRN>{{citation|url=http://www.grounds-mag.com/mag/grounds_maintenance_food_turf_slowrelease/
+|title=Food for turf: Slow-release nitrogen |author=J. B. Sartain, University of Florida 
+|journal=Grounds Maintenance}}</ref>
+* 40-00-00 Methylene ureas (~70% slow release)<ref name=SRN/>
+* 46-00-00 [[Urea]] (U-46)
+* 82-00-00 [[Anhydrous ammonia]]
+* 10-34-00 to 11-37-00 [[Ammonium polyphosphate]]
+* 11-48-00 to 11-55-00 [[Monoammonium phosphate]]
+* 18-46-00 to 21-54-00 [[Diammonium phosphate]]
+* 7-7-7 Growmore<ref>{{cite web|url=https://www.rhs.org.uk/advice/profile?pid=451|title=Fertiliser labels explained|work=RHS Advice|publisher=Royal Horticultural Society|access-date=31 October 2021}}</ref>
+* 13-00-44 [[Potassium nitrate]]
+* 00-17-00 to 00-22-00 [[Superphosphate]] (Monocalcium phosphate monohydrate with gypsum)
+* 00-44-00 to 00-52-00 [[Triple superphosphate]] (Monocalcium phosphate monohydrate)
+* 00-00-22 Potassium magnesium sulfate (K-mag)
+
+===NPK values for mined fertilizer minerals===
+* 11-08-02 to 16-12-03 bird [[guano]]<ref>Bat and seal guano are lower in fertilizer value than bird guano. see [[Guano]]</ref>
+* 00-3-00 to 00-8-00 Raw Phosphate Rock (would be 00-34-00 if it were soluble)<ref>{{cite web |url=http://www.extension.umn.edu/distribution/cropsystems/dc6288.html |title=Understanding Phosphorus Fertilizers |author1=George Rehm |author2=Michael Schmitt |author3=John Lamb |author4=Gyes Randall |author5=Lowell Busman | publisher= University of Minnesota Extension Service |date=2002}}</ref>
+* 00-00-60 [[Potassium chloride]]
+* 00-00-19 [[Kainite]]
+* 00-00-17 [[Carnallite]]
+
+===NPK values for [[biosolids]] fertilizers and others===
+* 09-00-00 dairy manure<ref name=ID-101/>
+* 01-00-01 horse manure<ref name=ID-101/>
+* 03-02-02 poultry manure<ref name=ID-101>from "Average total N, ammonium N, phosphate and potash content of manure at the time of land application" in ''Animal Manure As a Plant Nutrient Resource'', Bulletin ID-101 (Reviewed 02/05/01), Cooperative Extension Service, Purdue University. West Lafayette, IN 47907 {{cite web|url=http://www.ces.purdue.edu/extmedia/ID/ID-101.html |title=Archived copy |accessdate=2014-10-28 |url-status=dead |archiveurl=https://web.archive.org/web/20120312022548/http://www.ces.purdue.edu/extmedia/ID/ID-101.html |archivedate=12 March 2012 }}</ref>
+* 04-12-00 [[Bone meal]]
+* 05-05-06 Fish blood and bone<ref>[http://www.harrodhorticultural.com/organic-fish-blood-and-bone-fertiliser-pid8414.html Organic Fish, Blood and Bone Feed – Harrod Horticultural (UK)<!-- Bot generated title -->]</ref>
+* 06-02-00 [[Milorganite]]
+
+==See also==
+*[[Fertilizer]]
+
+==References==
+{{reflist}}
+
+[[Category:Agricultural chemicals]]
+[[Category:Fertilizers]]
+[[Category:Packaging]]

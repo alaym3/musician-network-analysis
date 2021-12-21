@@ -1,0 +1,40 @@
+{{short description|Type of pole weapon}}
+{{for|the American musician|Glaive (musician)}}
+{{Redirect|Glave|other uses|Glave (disambiguation)}}
+
+{{Refimprove|date=April 2017}}
+
+[[File:Glaives by Wendelin Boeheim.jpg|thumb|300px|Glaives (from ''Handbook of Weapon Knowledge: Weaponry in Its Historical Development from the Beginning of the Middle Ages to the End of the 18th Century'' by [[Wendelin Boeheim]], {{circa}} 1890)<ref>{{citation |author=Wendelin Boeheim |author-link=Wendelin Boeheim |chapter=Die Glese und die Couse, figure 396|title=Handbuch der Waffenkunde. Das Waffenwesen in seiner historischen Entwicklung vom Beginn des Mittelalters bis zum Ende des 18. Jahrhunderts |trans-title=Handbook of Weapon Knowledge. Weaponry in Its Historical Development from the Beginning of the Middle Ages to the End of the 18th Century. |series=Seemanns kunstgewerbliche Handbücher, VII |location=[[Leipzig]] |publisher=[[E. A. Seemann]] |year=1890 |pages=343–344 |section-url=https://archive.org/details/handbuchderwaff00collgoog/page/n360/mode/1up |oclc=457086621}}</ref>]]
+
+A '''glaive''' (or '''glave''') is a European [[Pole weapon|polearm]], consisting of a single-edged blade on the end of a pole. It is similar to the Japanese [[naginata]], the Chinese [[guandao]], the Korean [[woldo]], and the Russian [[sovnya]].
+
+==Overview==
+Typically, the blade is around {{convert|45|cm|0}} long, on the end of a pole {{convert|2|m|ft|0}} long, and the blade is affixed in a socket-shaft configuration similar to an axe head, rather than having a [[tang (tools)|tang]] like a sword or [[naginata]]. Occasionally, glaive blades were forged with a small hook on the reverse side to better catch riders. Such blades are called '''glaive-[[guisarme]]s'''.
+
+According to the 1599 treatise ''Paradoxes of Defence'' by the English gentleman [[George Silver]], the glaive is used in the same general manner as the [[quarterstaff]], [[half pike]], [[bill (weapon)|bill]], [[halberd]], [[voulge]], or [[partisan (weapon)|partisan]]. Silver rated this class of polearms above all other individual hand-to-hand combat weapons.
+
+[[Image:Biblia de Maciejowski miniatura h10.jpg|thumb|Image taken from the Morgan Bible (Folio&nbsp;10 Verso – top). Notice the Warbrand in the forefront slicing into a mounted soldier.]]
+The [[Maciejowski Bible]] (Morgan Bible) depicts an example of a two-handed glaive used on horseback.
+
+The contemporary term for this weapon may have been ''[[faussart]]'', which was used for a variety of single-edged weapons seen as related to the [[scythe]] (along with terms such as ''[[falchion]]'', ''[[falcata]], or [[fauchard]]'' derived from ''[[falx]]'', the Latin term for "scythe").
+
+{{quote|It has been argued that the glaive had its origin in Wales, and that it remained a national weapon until the end of the XVth Century. Grose mentions a warrant (Harleian MS., No. 433) issued to Nicholas Spicer, dated the first year of Richard III's reign, 1483 for enrolling of smiths for "the making of two hundred Welsh glaives" – twenty shillings and sixpence being the charge for thirty glaives with their staves, made at Abergavenny and Llanllowel.<ref>{{Cite web|url=https://archive.org/stream/recordofeuropean03lakiuoft#page/104/mode/2up|title=A record of European armour and arms through seven centuries|website=archive.org|access-date=2017-06-29}}</ref>}}
+
+==Other uses of the word==
+The word "glaive" has historically been given to several very different types of weapons.
+* The word "glaive" originated from French. Almost all etymologists derive it from either the Latin (''gladius'') or Celtic (''*cladivos'', cf. [[claymore]]) word for sword. Nevertheless, all the earliest attestations in both French and English refer to [[spear]]s.<ref>[[Oxford English Dictionary|OED]] s.v. '''Glaive''':  "Hatz-Darm. regard OF. glaive as an adapted form of L. ''gladius'' (through the stages ''gladie'', ''glaie'', ''glavie''). Ascoli supposes it to represent a Celtic ''*cladivo-'' (OIr. ''claideb'' sword, Gael. ''claidheamh''). Neither view, however, accounts for the earliest meaning of the word in OF., which is also that of MHG. ''glavîe'', ''glævîn'', MDu. ''glavie'', ''glaye'', Sw. ''glaven''."</ref> It is attested in this meaning in English roughly from the 14th century to the 16th century.<ref>[[Oxford English Dictionary|OED]] s.v., section 1, lists examples in this meaning from 1297–1592.</ref>
+* In the 15th century, it acquired the meaning described above.<ref>[[Oxford English Dictionary|OED]] s.v., section 2, lists examples in this meaning from ca. 1450–1678.</ref>
+* Around the same time it also began being used as a poetic word for sword.<ref>[[Oxford English Dictionary|OED]] s.v., section 3, lists examples in this meaning from ca. 1470–1887.</ref>
+* In Modern French "glaive" refers to short swords, especially the Roman {{ill|gladius|fr|glaive|display=yes}}.
+* The term "glaive" is used in the science fiction/fantasy film ''[[Krull (film)|Krull]]'' to refer to a thrown weapon, similar to the [[chakram]] or [[Hunga Munga|hunga munga]], which can return to the thrower, much like a [[boomerang]]. "Glaive" has been used to describe this fictional type of weapon in films, video games and other fantasy media since.{{citation needed|date=March 2021}}
+
+==References==
+{{Commons category|Glaives}}
+{{Wiktionary}}
+{{Reflist}}
+
+{{Pole weapons}}
+
+[[Category:Medieval blade weapons]]
+[[Category:Medieval pole weapons]]
+[[Category:Pole weapons]]

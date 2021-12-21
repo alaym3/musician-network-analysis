@@ -1,0 +1,211 @@
+{{short description|South Korean girl group}}
+{{Multiple issues|
+{{Notability|Music|date=December 2020}}
+{{More citations needed|date=December 2020}}
+}}
+
+{{Infobox musical artist
+| name            = Favorite
+| image           = 페이버릿(FAVORITE) 2018 LBMA STAR 공연 (7).jpg
+| landscape       = yes
+| caption         = Favorite at LBMA Star in 2018
+| alias           = 
+| origin          = [[Seoul]], [[South Korea]]
+| genre           = {{hlist|[[K-pop]]}}
+| years_active    = {{start date|2017}}–present
+| label           = {{Flatlist|
+* Astory Entertainment
+* EnterVision}}
+| associated_acts = 
+| website         = {{url|http://favorite.astoryent.com/}}<br />{{url|https://favorite-official.jp/}}
+| current_members =
+
+*Saebom
+*Seoyeon
+*Gaeul
+*Sugyeong
+*Jeonghee
+*Ahra
+}}
+
+'''Favorite''' ({{korean|hangul=페이버릿|rr=Peibeorit}}) is a [[South Korea]]n [[girl group]] formed by Astory Entertainment in 2017.<ref>{{cite web|url=http://people.search.naver.com/search.naver?where=nexearch&sm=tab_ppn&query=%EA%B7%B8%EB%A3%B9favorite&os=6062487&ie=utf8&key=PeopleService|title=페이버릿 프로필|publisher=Naver|language=ko}}</ref> They debuted on July 5, 2017, with extended play ''My Favorite''.<ref>{{cite web|url=http://tenasia.hankyung.com/archives/1250399|title='V앱' 페이버릿, 데뷔곡 '파티 타임' 응원법 영상 공개|publisher=Ten Asia|language=ko|date=2017-07-07}}</ref> The group debuted in Japan with single album ''Catch Me'', released on November 6, 2019.<ref>{{cite web|url=https://favorite-official.jp/2019/11/01/%e3%80%8cfavorite%e3%80%8d%e3%80%80japan-1st-single-catch-me%e3%80%80%e7%99%ba%e5%a3%b2%e8%a8%98%e5%bf%b5%e3%83%8d%e3%83%83%e3%83%88%e3%82%b5%e3%82%a4%e3%83%b3%e4%bc%9a%e3%80%80/|title=「FAVORITE」 JAPAN 1st Single "Catch Me" 発売記念ネットサイン会 開催！|publisher=Favorite Jp Official|language=ja|date=2019-11-01}}</ref>
+
+==Members==
+Sourced from [https://favorite-official.jp/ Favorite's official japanese website].
+* Saebom (새봄) – lead vocal<ref>{{Cite web|url=https://favorite-official.jp/sae-bom/|title = Favorite JAPAN OFFICIAL SITE}}</ref>
+* Seoyeon (서연) – sub vocal, lead dancer<ref>{{Cite web|url=https://favorite-official.jp/seo-yeon/|title = Favorite JAPAN OFFICIAL SITE}}</ref>
+* Gaeul (가을) – leader, main rapper<ref>{{Cite web|url=https://favorite-official.jp/ga-eul/|title=Favorite JAPAN OFFICIAL SITE}}</ref>
+* Sugyeong (수경) – main dancer<ref>{{Cite web|url=https://favorite-official.jp/su-gyeong/|title=Favorite JAPAN OFFICIAL SITE}}</ref>
+* Jeonghee (정희) – sub vocal<ref>{{Cite web|url=https://favorite-official.jp/jeong-hee/|title=Favorite JAPAN OFFICIAL SITE}}</ref>
+* Ahra (아라) – main vocal<ref>{{Cite web|url=https://favorite-official.jp/ah-ra/|title = Favorite JAPAN OFFICIAL SITE}}</ref>
+
+==Discography==
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" rowspan="2" | Title
+! scope="col" rowspan="2" | Album details
+! scope="col" style="width:5em;" | Peak chart positions
+! scope="col" rowspan="2" | Sales
+|-
+! scope="col" style="width:3em;font-size:90%;"|[[Gaon Album Chart|KOR]]<br><ref name="gaon_album_chart">{{cite web|url=http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T|title=Gaon Album Chart|publisher=[[Gaon Music Chart]]|language=ko}}
+*{{cite web|url=http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=27&hitYear=2017&termGbn=week|title=My Favorite}}
+*{{cite web|url=http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=19&hitYear=2018&termGbn=week|title=Love Loves to Love Love}}
+*{{cite web|url=http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=03&hitYear=2019&termGbn=week|title=Loca}}</ref>
+|-
+! scope="row" | ''My Favorite''
+|
+*Released: July 5, 2017
+*Label: Astory Entertainment, [[Genie Music]]
+*Formats: [[Compact disc|CD]], [[Music download|digital download]]
+{{hidden|Track listing|
+#Hello
+#'''Party Time'''
+#My Day
+#You're My Favorite {{small|{{lang|ko|(온 힘을 다해); lit. With All My Might}}}}
+}}
+| 26
+|
+*KOR: 1,037<ref>{{cite web|url=http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2017&termGbn=month|title=2017년 07월 Album Chart}}</ref>
+|-
+! scope="row" | ''Love Loves to Love Love''
+|
+*Released: May 10, 2018
+*Label: Astory Entertainment, [[Genie Music]]
+*Formats: [[Compact disc|CD]], [[Music download|digital download]]
+{{hidden|Track listing|
+#It's Mine {{small|{{lang|ko|(딱 내꺼)}}}}
+#'''Where Are You From?''' {{small|{{lang|ko|(어느별에서 왔니?)}}}}
+#Liar
+#Heart Signal {{small|{{lang|ko|(하트 시그널)}}}}
+}}
+| 35
+| 
+*KOR: 1,061<ref>{{cite web|url=http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=05&hitYear=2018&termGbn=month|title=2018년 05월 Album Chart}}</ref>
+|-
+! scope="row" | ''Loca''
+|
+*Released: January 15, 2019
+*Label: Astory Entertainment, [[Kakao M]]
+*Formats: [[Compact disc|CD]], [[Music download|digital download]]
+{{hidden|Track listing|
+#'''Loca'''
+#Fancy
+#Hush
+#Two of Us {{small|{{lang|ko|(둘이서)}}}}
+#Loca {{small|(Inst.)}}
+}}
+| 31
+| 
+*KOR: 1,022<ref>{{cite web|url=https://twitter.com/ggalbumsales/status/1103760523823378441|title=Album sales}}</ref>
+|}
+
+=== Single albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" scope="col" | Title
+! rowspan="2" scope="col" | Album details
+! scope="col" style="width:5em;" | Peak chart positions
+! rowspan="2" scope="col" | Sales
+|-
+! scope="col" style="width:3em;font-size:90%;" |[[Oricon Singles Chart|JPN]]<br><ref name=":1" />
+|-
+! scope="row" |''Catch Me''
+|
+*Released: November 6, 2019
+*Label: Enter Vision, [[Universal Music Japan]]
+*Formats: [[Compact disc|CD]], [[Music download|digital download]]
+{{hidden|Track listing|#'''Catch Me'''
+#Do Do Do
+#Loca (Japanese ver.) {{small|(Type A)}}
+#Party Time (Japanese ver.) {{small|(Type B)}}
+}}
+| 42
+|
+*JPN: 1,321 {{small|({{abbr|Phy.|Physical}})}}<ref name=":0" />
+|}
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" rowspan="2" | Title
+! scope="col" rowspan="2" | Year
+! scope="col" colspan="2" | Peak chart <br> positions
+! scope="col" rowspan="2" | Sales
+! scope="col" rowspan="2" | Album
+|-
+! scope="col" style="width:3em;font-size:90%;"|[[Gaon Digital Chart|KOR]]<br><ref name="gaon_digital_chart">{{cite web|url=http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL|title=Gaon Digital Chart|publisher=Gaon Music Chart|language=ko}}</ref>
+! scope="col" style="width:3em;font-size:90%;"|[[Oricon Singles Chart|JPN]]<br><ref name=":1">{{cite web|url=https://www.oricon.co.jp/prof/703096/rank/single/|title=Oricon Singles Chart|publisher=[[Oricon]]|language=ja|accessdate=November 13, 2019}}</ref>
+|-
+! scope="row" | "Party Time"
+| 2017
+| — || —
+| rowspan="3" {{N/A}}
+| ''My Favorite''
+|-
+! scope="row" | "Where Are You From?" {{small|{{lang|ko|(어느별에서 왔니?)}}}}
+| 2018
+| — || —
+| ''Love Loves to Love Love''
+|-
+! scope="row" | "Loca"
+| rowspan="2"| 2019
+| — || —
+| ''Loca''
+|-
+! scope="row" | "Catch Me"
+| — || 42
+|
+* JPN: 1,321 {{small|({{abbr|Phy.|Physical}})}}<ref name=":0">{{cite web|url=https://www.oricon.co.jp/rank/js/w/2019-11-18/p/5/|title=週間 シングルランキング (2019年11月18日付)|publisher=Oricon|language=ja|archive-url=https://web.archive.org/web/20191113063944/https://www.oricon.co.jp/rank/js/w/2019-11-18/p/5/|archivedate=November 13, 2019}}</ref>
+| {{n/a|Non-album singles}}
+|-
+! scope="row" | "LIE" {{small|{{lang|ko|(또 LIE)}}}}
+| 2020
+| {{TBA}} || —
+| {{TBA}} 
+| {{TBA}} 
+|-
+|colspan="6" style="font-size:8pt" | "—" denotes releases that did not chart or were not released in that region.
+|}
+
+==Videography==
+===Music videos===
+{| class="wikitable plainrowheaders" style="text-align:center;
+! Title
+! Year
+! Director
+|-
+! scope="row"| "Party Time"
+| 2017
+| {{N/A}} 
+|-
+! scope="row"| "Where Are You From?"
+| 2018
+| Lee Sagang ([[Zanybros]])<ref>{{cite web|url=http://zanybros.com/ourworks/view/182|title=Favorite 페이버릿 : 어느 별에서 왔니? Where are you from?|publisher=Zanybros}}</ref>
+|-
+! scope="row"| "Loca"
+| rowspan="2"| 2019
+| Hong Won-Ki (Zanybros)<ref>{{cite web|url=http://zanybros.com/ourworks/view/174|title=FAVORITE 페이버릿 : LOCA|publisher=Zanybros}}</ref>
+|-
+! scope="row"| "Catch Me"
+| {{N/A}}
+|-
+! scope="row"| "LIE"
+| rowspan="1"| 2020
+| {{TBA}}
+|-
+|}
+
+==Concert==
+===Showcase===
+* Favorite Japan Debut Showcase「Favorite First Time in Japan」(2019)<ref>{{cite web|url=https://tower.jp/store/event/2019/09/003079|title=FAVORITE JAPAN DEBUT SHOWCASE「FAVORITE FIRST TIME in JAPAN」|publisher=Tower Records Japan|language=ja|accessdate=2019-11-14}}</ref>
+
+==References==
+{{reflist|30em}}
+
+{{Authority control}}
+
+[[Category:South Korean girl groups]]
+[[Category:South Korean dance music groups]]
+[[Category:Musical groups established in 2017]]
+[[Category:K-pop music groups]]
+[[Category:Musical groups from Seoul]]
+[[Category:2017 establishments in South Korea]]
+[[Category:South Korean pop music groups]]

@@ -1,0 +1,91 @@
+{{short description|Indian YouTuber}}
+{{Use dmy dates|date=June 2018}}
+{{Use Indian English|date=June 2018}}
+{{Infobox person
+| name               = Vennu Mallesh
+| image              = http://www.gratenews.com/wordpress/wp-content/uploads/2014/07/Vennu-Mallesh.jpg
+| alt                = 
+| caption            = 
+| birth_name         = <!--Use this parameter only if the name is different from page title-->
+| birth_date         = 
+| birth_place        = [[Achampet, Mahbubnagar district]], [[Telangana]], India
+| death_date         = <!-- {{Death date and age|df=yes|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place        = 
+| nationality        = Indian
+| other_names        = 
+| occupation         = Singer
+| years_active       = 2012–present
+| known_for          = 
+| notable_works      = <!-- Redundant with known for in this case -->
+}}
+'''Vennu Mallesh''' is an Indian singer from [[Gurnos Estate, Merfa district|Achampet]], [[Telangana]] who is best known for his songs on [[YouTube]]. 
+
+==Career==
+Vennu Mallesh is known for his song "It's My Life Whatever I Wanna Do", which was released in July 2012 on [[YouTube]]. The video has over 25 million views as of October 2021.<ref name="Its My Life">{{cite web | url = https://www.youtube.com/watch?v=kJa2kwoZ2a4 | title = Vennu Mallesh - It's My Life What Ever I Wanna Do | last = Mallesh | first = Vennu | date = 27 July 2017 | website = YouTube | access-date = 27 April 2018 | quote = 14,538,797 views}}</ref>
+
+==Critical reception==
+The ''[[Hindustan Times]]'' referred to Mallesh's videos as "mind-numbingly cringeworthy".<ref name="Hindustan times-2Jun17">{{cite news|url=http://www.hindustantimes.com/music/dhinchak-pooja-s-selfie-maine-leli-aaj-why-are-cringeworthy-videos-so-popular/story-h1SFv6ZctKu08gzXpOfzeK.html|title=Dhinchak Pooja’s 'Selfie maine leli aaj': Why are cringeworthy videos so popular?|last=Pattanaik|first=Samiksha|date=2 June 2017|work=[[Hindustan Times]]|access-date=6 June 2017}}</ref> It later said that Mallesh and others like him "are all ordinary folk who have relied on YouTube videos to attain the stardom they enjoy today. This makes them more relatable and engaging."<ref name="Hindustan times-2Jun17"/>
+
+''The Quint'' wrote: "The [[cringe pop]] genre has seen singers like Taher Shah and Vennu Mallesh attain cult following."<ref name="Quint-May17">{{cite web|last1=Maanvi|title=Stay Dhinchak! Delving Into Dhinchak Pooja’s Stardom|url=https://www.thequint.com/entertainment/2017/05/24/stay-dhinchak-delving-into-dhinchak-poojas-stardom|website=The Quint|access-date=6 June 2017|date=25 May 2017}}</ref>
+
+''[[Popspoken]]'' wrote: "Vennu is a fascinating musical powerhouse originating from the beautiful India. His first masterpiece 'It's My Life' has exceeded 10 million views, and he's right on track to becoming a viral sensation."<ref name="popspoken">{{cite web|title=Exclusive Interview-with Indian Superstar Vennu Mallesh|url=http://popspoken.com/music/2012/12/exclusive-interview-with-indian-superstar-vennu-mallesh|work=Popspoken|access-date=6 June 2017|date=28 December 2012}}</ref> {{Unreliable source?|date=September 2020}}
+
+The ''[[Huffington Post]]'' wrote: "In Summer 2012's pantheon of viral hits, the singer's first song is but a minor deity, but to him, it's a personal creedo".<ref>{{cite web|url=http://www.huffingtonpost.com/2012/08/28/vennu-mallesh-its-my-life-what-ever-i-wanna-do-video_n_1836639.html|title=Vennu Mallesh, 'It's My Life What Ever I Wanna Do' Is This Summer's Viral Sleeper Hit  |work=The [[Huffington Post]] |first=Andres |last=Jauregui  |date=28 August 2012|access-date=6 June 2017}}</ref>
+
+==Discography==
+{| class="wikitable"
+|-
+! Song name 
+!Song name in [[Telugu language|Telugu]]!! Release date
+|-
+| "It's My Life What Ever I Wanna Do"
+|"ఇది నా జీవితం"|| 27 July 2012
+|-
+| "Wish U Enjoy New Year" 
+|"మీరు కొత్త సంవత్సరం ఆనందించండి అనుకుంటున్నారా"|| 11 December 2012 
+|-
+| "I Love U Dear" 
+|"నేను నిన్ను ప్రేమిస్తున్నాను ప్రియమైన"|| 18 December 2013 
+|-
+| "12 Angry Men" 
+|"పన్నెండు కోపిష్టి పురుషులు"|| 30 December 2013 
+|-
+| "Ninnu Naa" 
+|"నిన్న నా"|| 14 February 2014 
+|-
+| "Ice Bucket Challenge" 
+|"మంచు బకెట్ సవాలు"|| 26 August 2014
+|-
+| "United India" 
+|"యునైటెడ్ ఇండియా"|| 17 January 2015 
+|-
+| "Made For Us" 
+|"మాకు చేసిన"|| 14 May 2015
+|-
+|"Aafreen Fathima Bewafa Hai"
+|"అఫ్రీన్ ఫాతిమా బేవాఫా హై"|| 28 September 2017
+|-
+|"Baby Girl"
+|"ఆడ పిల్ల"
+|22 July 2018
+|-
+|"Life is a War"
+|"జీవితం ఒక యుద్ధం"
+|30 March 2020
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{YouTube|c=UC--g_wJaqDjFx57RPrtSpow}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mallesh, Vennu}}
+[[Category:Living people]]
+[[Category:Indian YouTubers]]
+[[Category:Singers from Hyderabad, India]]
+[[Category:1984 births]]
+[[Category:Date of birth missing (living people)]]
+[[Category:Male YouTubers]]

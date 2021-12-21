@@ -1,0 +1,109 @@
+{{Short description|Chordal accompaniment to a line or melody}}
+{{About|harmonization in music|other uses}}
+{{multiple image
+| align     = right
+| direction = vertical
+| header    = Two harmonizations of "[[Yankee Doodle]]"
+| width     = 350
+| image1    = Yankee Doodle harmonization.png
+| caption1  = One harmonization<ref>Porter, Steven (1987). ''Harmonization of the Chorale'', p.9. {{ISBN|0-935016-80-5}}.</ref> {{audio|Yankee Doodle harmonization.mid|Play}}.
+
+| image2    = Yankee Doodle harmonization 36.png
+| caption2  = Another harmonization {{audio|Yankee Doodle harmonization 36.mid|Play}}.
+}}
+[[File:Harmonized scale.png|thumb|350px|right|Harmonized C major scale {{audio|Harmonized scale.mid|Play}}: I, ii, iii, IV, V7, vi, vii{{music|dim}}.]]
+
+In [[music]], '''harmonization''' is the chordal [[accompaniment]] to a [[part (music)|line]] or [[melody]]: "Using chords and melodies together, making [[harmony]] by stacking scale tones as triads".<ref>Schonbrun, Marc (2006). ''The Everything Music Theory Book: A Complete Guide to Taking Your Understanding of Music to the Next Level'', p.257. {{ISBN|1-59337-652-9}}.</ref>
+
+A '''harmonized scale''' can be created by using each note of a [[musical scale]] as a [[Root (chord)|root note]] for a [[Chord (music)|chord]] and then by taking other [[Musical note|tones]] within the scale building the rest of a chord.<ref>{{cite book|title=Rhythm Guitar: The Complete Guide|publisher=Musicians Institute Press|isbn=978-0-7935-8184-9|url=https://books.google.com/books?id=LDf3e7f71DEC&q=Harmonized+scale&pg=PA48|author=Bruce Buckingham|author2=Eric Paschal|access-date=19 July 2010|page=48|date=October 1, 1997}}</ref><br />
+For example, using an [[Ionian mode|Ionian]] ([[major scale]])
+* the root note would become the I major chord,
+* the second note the ii [[minor chord]],
+* the third note the iii minor chord,
+* the fourth note the IV major chord,
+* the fifth note the V major chord (or even a [[Dominant seventh chord|dominant 7th]]),
+* the sixth note the vi minor chord,
+* the seventh note the vii [[Diminished triad|diminished chord]] and
+* the [[octave]] would be a I major chord.
+Using the [[minor scale|minor]] ([[aeolian mode]]) one would have:
+* i minor,
+* ii diminished,
+* ({{music|flat}})III major,
+* iv minor,
+* v minor,
+* ({{music|flat}})VI major,
+* ({{music|flat}})VII major and
+* the i minor an octave higher.<ref>{{cite book|title=Harmony and Theory: A Comprehensive Source for All Musicians|publisher=Musicians Institute Press|isbn=978-0-7935-7991-4|chapter-url=https://books.google.com/books?id=n9hjNpuVdUAC&q=minor+Harmonized+scale&pg=PA58|author=Keith Wyatt|author2=Carl Schroeder|access-date=19 July 2010|page=58|chapter=11|date=April 1, 1998}}</ref>
+
+== Reharmonization ==
+'''Reharmonization''' is the technique of taking an existing [[melody|melodic line]] and altering the [[harmony]] that accompanies it. Typically, a melody is reharmonized to provide musical interest or variety. Another common use of reharmonization is to introduce a new section in the music, such as a [[coda (music)|coda]] or [[Bridge (music)|bridge]].
+
+=== Reharmonizing a melody ===
+
+A melodic tone can often be harmonized in a variety of different ways. For example, an E might be harmonized with an E major chord (E – G{{music|#}} - B). In this case, the melodic tone is acting as the root of the chord. That same E might be harmonized with a C major chord (C – E – G), making it the third of the chord. This concept extends to ninths (E would act as the 9th if harmonized with a Dm7 chord – D – F – A – C – E), {{music|#}}fifths (E would act as {{music|#}}5 on an A{{music|b}} augmented chord – A{{music|b}} - C – E), and a wide array of other options.
+
+Typically however, reharmonizations involve not just a single melody note, but a melodic line. As a result, there are often several melodic tones which might occur over a harmony, and all of these must be considered when reharmonizing.
+
+For example, if a melody composed of E{{music|b}} - F and G was originally harmonized with E{{music|b}}maj7, choosing D7 as the reharmonization chord might not be the best choice, since each melodic tone would create semitone or minor 9th dissonance with chord members of the supporting harmony. Experienced arrangers  might decide to use these kinds of highly dissonant chords when reharmonizing, however handling this dissonance requires a good ear and a deep understanding of harmony.
+
+=== Jazz reharmonization ===
+
+In jazz, the term is typically used to refer to the process of reharmonizing some or all of a tune, whereby an existing melody is refitted with a new chord progression. Jazz musicians often take the melody from a well-known [[Jazz standard|standard]] and alter the changes to make the tune sound more contemporary or progressive. [[Art Tatum]] was a pioneer of reharmonization, and later on [[John Coltrane]], [[Miles Davis]] and [[Bill Evans]] were among the first to seriously explore its possibilities, and since then the technique has become an essential tool for the jazz musician and jazz arranger.
+
+==== Chord substitution ====
+
+One of the most common techniques in jazz reharmonization is the use of substitute chords, through a technique known as [[tritone substitution]]. In tritone substitution, a [[dominant chord]] is replaced by another dominant chord a [[tritone]] above its [[Tonic (music)|tonic]]. This technique is based on the fact that the third and seventh degrees of a dominant chord are enharmonically the same as the seventh and third degrees of the dominant chord a tritone away. For example, B and F, the third and seventh of a G7 chord, are [[enharmonic]] equivalents of C{{music|b}} and F, the seventh and third of a D{{music|b}}7 chord. Since the tritone is a distinguishing feature of the sound of a dominant 7th chord,<ref>{{cite book|last=Levine|first=Mark|title=The Jazz Theory Book|year=1995|publisher=Sher Music Co|location=CA|isbn=1-883217-04-0|pages=262}}</ref> a D{{music|b}}7 chord may thus replace G7.
+
+Tritone substitution works very well on [[Jazz standard|standards]], because the chord progressions typically utilize the II – V – I progression and the [[circle of fifths]]. For example, a jazz standard using a chord progression of Dm7 – G7 – Cmaj7 could easily be reharmonized to Dm7 – D{{music|b}}7 – Cmaj7, (G7 is replaced with the dominant 7th chord a tritone away, D{{music|b}}7). The new progression has a more contemporary sound, with [[chromatic]] bass motion and smooth [[voice leading]] in the upper parts.
+
+Tritone substitution is also possible with [[major seventh chord]]s, for example Dm7 – G7 – Cmaj7 could become Dm7 – D{{music|b}}maj7 – Cmaj7. [[Thad Jones]] sometimes uses this type of substitution in his [[big band]] writing.<ref name="wright">Wright, Rayburn. ''Inside the Score: a detailed analysis of 8 classic jazz ensemble charts by Sammy Nestico, Thad Jones, and Bob Brookmeyer''. New York: Kendor Music, Inc., 1982. pp. 45 – 109.</ref>
+
+As opposed to the classical approach to tonal harmony, in jazz there are only three functions: [[tonic (music)|tonic]], [[subdominant]] and [[dominant (music)|dominant]]. Therefore, chords can also be substituted for congruent functions: for example, the second degree can be substituted for the fourth degree, the tonic can be substituted for the sixth/third degree and so on. The fourth degree in major may be substituted for a seventh chord to create a "bluesy" sound. In a progression going up a fourth, if the first chord is a minor seventh chord, it can also be substituted for a seventh chord; a relative second degree can also be added before it to create a [[ii-V-I turnaround]]. (A sole minor seventh or seventh chord can be perceived as a second degree or its dominant quality substitution, in which case a fifth may follow.) In the same progression, chord qualities are sometimes flexible: the '''{{music|b}}IImaj7''' chord mentioned in the previous paragraph may get a preceding '''{{music|b}}VImaj7''' chord instead of the relative II or its tritone substitution.
+
+<!--[[Template:Music]] accidentals not used below to preserve equal spacing.-->
+Combining the above techniques, the following progression:
+ C     | Am7      | Dm7    | G7            | C ||
+can turn into
+ E7 A7 | Bbm7 Eb7 | D7  F7 | Abmaj7 Dbmaj7 | C ||
+
+==== Planing ====
+{{Main|Parallel harmony}}
+
+Planing is a reharmonization technique used by both improvisers and arrangers. It refers to the technique of sliding a chord (or chord tone) up or down, either chromatically or a [[tritone]] apart, maintaining the shape and voicing of the chord, at times resolving to the original chord. For example, F7 (F – A – C – E{{music|b}}) could slide up to become G{{music|b}}7 (G{{music|b}} - B{{music|b}} - D{{music|b}} - F{{music|b}}), thus "planing" each note up a semitone. The planed chords can be further embellished: for example, if a D major is planed down a semitone, a minor seventh can be added to the resulting chord, C{{music|#}}; as a [[dominant chord]] assumed to be the fifth degree of the momentarily [[tonicization|tonicized]] F{{music|#}} major, it can have a second degree added to it, thus creating an incomplete [[ii-V-I turnaround]] which may or may not resolve to the original chord: G{{music|#}}m7 C{{music|#}}7 | (D)
+
+Planing is often used by jazz arrangers to reharmonize melodic passing tones which, if voiced as a vertical sonority, might clash with the prevailing harmony in the progression. As well, a number of improvisers have used planing effectively, typically as part of a progression. [[Herbie Hancock]] uses improvised planing on his tune "Chameleon", on his 1973 [[Head Hunters]] record; [[McCoy Tyner]] uses it extensively (specifically, [[pentatonic scale]]s located a tritone apart) in his recordings with [[John Coltrane]], most notably "[[A Love Supreme]]", as well as in his own albums of the same period.
+
+==== Multi-tonic systems ====
+
+A concept introduced by [[Joseph Schillinger]] and [[Nicolas Slonimsky]], the idea of multiple [[tonic (music)|tonics]] derived from equal division of the [[octave]] appealed to [[John Coltrane]], who proceeded to compose the groundbreaking tune "[[Giant Steps (composition)|Giant Steps]]". The composition features a series of [[dominant chord]]s and [[ii-V-I turnaround]]s resolving to three [[tonality|tonalities]] built on the B [[augmented triad]] (the three-tonic system):
+ '''B'''  D7  | '''G'''    Bb7 | '''Eb''' | Am7  D7  |
+ '''G'''  Bb7 | '''Eb'''   Gb7 | '''Cb''' | Fm7  Bb7 |
+ '''Eb'''     | Am7  D7  | '''G'''  | C#m7 F#7 |
+ '''B'''      | E#m7 A#7 | '''D#''' | C#m7 F#7 || ('''B''')
+
+The harmonic structure of Giant Steps was unfamiliar territory for many jazz musicians at the time, including [[Tommy Flanagan]], the pianist on the original 1959 recording. The relative minimalism of his solo on the tune (compared with the density of Coltrane's) is considered by many to be an indication that he was not yet comfortable improvising on such a structure, even given his extensive experience within the jazz idiom. Developing the technique further, Coltrane started utilizing the three-tonic system (and later, the four-tonic system as well, which is based on tonics derived from a [[diminished seventh chord]]) as a reharmonization tool, which has ultimately become known as "[[Coltrane changes]]".<ref>{{cite book|url=https://books.google.com/books?id=QC2A5AYGFXkC|title=Clawing at the Limits of Cool|author=Farah Jasmine Griffin and Salim Washington|publisher=Thomas Dunne Books|year=2008|page=242|isbn=978-0-312-32785-9|access-date=Jul 16, 2009}}</ref> In this example from "Countdown" (which is really a "Coltrane changes" version of "Tune Up", the well-known [[jazz standard]] composed by [[Miles Davis]]), the long ii-V-I in the key of D major is laced with V-I progressions that resolve to the three tonics of the D augmented triad:
+:original (Tune Up):
+ <span style="color:purple;">Em7</span>    | <span style="color:green;">A7</span>     | <span style="color:blue;">'''D'''</span>     | <span style="color:blue;">'''D'''</span> |
+:reharmonized (Countdown):
+ <span style="color:purple;">Em7</span> F7 | '''Bb''' Db7 | '''Gb''' <span style="color:green;">A7</span> | <span style="color:blue;">'''D'''</span> |
+
+This kind of reharmonization mostly requires alteration of the original melody because of the frequent [[modulation (music)|modulations]]{{citation needed|date=July 2009}} and therefore, becomes "reharmonization of the [[chord progression|changes]]" rather than the classic concept of re-harmonizing the melody.
+
+== See also ==
+* [[Chord progression]]
+* [[Harmonic rhythm]]
+* [[Traditional sub-Saharan African harmony]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commonscat|Harmonization}}
+* {{webarchive |url=https://web.archive.org/web/20161008065700/http://www.torvund.net/guitar//index.php?page=Th_harmscale |date=8 October 2016 |title="Music Theory for Guitar - The Harmonized Scale", ''Torvund.net/Guitar''|last=Torvund|first=Olav}}
+* "[http://guitarsecrets.com/harmonizing.htm Guitar Chords and Guitar Scales Harmonizing]", ''GuitarSecrets.com''. Accessed: 16 April 2019.
+
+{{Accompaniment}}
+{{harmony}}
+
+[[Category:Harmony]]
+[[Category:Musical scales]]

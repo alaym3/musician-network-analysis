@@ -1,0 +1,64 @@
+{{wiktionary|proof}}
+<!-- Note: "Prove" and "Proving" both redirect here. -->
+'''Proof''' may refer to:
+
+* [[Proof (truth)]], argument or sufficient evidence for the truth of a proposition
+* [[Alcohol proof]], a measure of an alcoholic drink's strength
+{{TOC right}}
+==Formal sciences==
+* [[Formal proof]], a construct in proof theory
+* [[Mathematical proof]], a convincing demonstration that some mathematical statement is necessarily true
+* [[Proof complexity]], computational resources required to prove statements
+* [[Proof procedure]], method for producing proofs in proof theory
+* [[Proof theory]], a branch of mathematical logic that represents proofs as formal mathematical objects
+* [[Statistical proof]], demonstration of degree of certainty for a hypothesis
+
+==Law and philosophy==
+* [[Evidence]], information which tends to determine or demonstrate the truth of a proposition
+* [[Evidence (law)]], tested evidence or a legal proof
+* [[Legal burden of proof]], duty to establish the truth of facts in a trial
+* [[Philosophic burden of proof]], obligation on a party in a dispute to provide sufficient warrant for their position
+
+==Manufacturing and printing==
+* [[Artist's proof]], a single print taken during the printmaking process
+* [[Galley proof]], a preliminary version of a publication
+* [[Prepress proof]], a facsimile of press artwork for job verification 
+* [[Proof coinage]], coins once made as a test, but now specially struck for collectors
+* [[Proof of concept]], demonstration that a concept has practical potential
+* [[Proof test]], stress test of structures such as vessels and weapons
+* [[Proofreading]], reviewing a manuscript for errors or improvements
+
+==Arts and entertainment==
+===Film, television, and theatre===
+* ''Proof'', a 1980 student film by Kevin Reynolds, expanded to ''[[Fandango (1985 film)|Fandango]]''
+* [[Proof (1991 film)|''Proof'' (1991 film)]], an Australian film by Jocelyn Moorhouse
+* [[Proof (play)|''Proof'' (play)]], a 2000 play by David Auburn
+** [[Proof (2005 film)|''Proof'' (2005 film)]], a film by John Madden, based on the play
+* [[Proof (2004 TV series)|''Proof'' (2004 TV series)]], an Irish drama/thriller
+* [[Proof (2015 TV series)|''Proof'' (2015 TV series)]], an American medical/supernatural drama
+* [[Proof (Devious Maids)|"Proof" (''Devious Maids'')]], a television episode
+
+===Literature===
+* [[Proof (comics)|''Proof'' (comics)]], a comic series from Image Comics
+* "Proof", a 1942 science fiction short story by [[Hal Clement]]
+
+===Music===
+* [[Proof (rapper)]] (1973–2006), American rapper and member of D12
+* ''Proof'', an album by [[Emily Elbert]], 2010
+* ''Proof'', an EP by [[Colour Coding]], 2012
+* [[Proof (I Am Kloot song)|"Proof" (I Am Kloot song)]], 2003
+* [[Proof (Paul Simon song)|"Proof" (Paul Simon song)]], 1991
+* [[Proof/No Vain|"Proof"/"No Vain"]], a single by Mell, 2007
+* "Proof", a song by [[angela (band)|angela]], 2004
+* "Proof", a song by Chris Brown from ''[[Royalty (Chris Brown album)|Royalty]]'', 2015
+* "Proof", a song by Coldplay, a B-side of the single "[[Speed of Sound (song)|Speed of Sound]]", 2005
+* "Proof", a song by Happy Rhodes from ''[[Many Worlds Are Born Tonight]]'', 1998
+* "Proof", a song by Paramore from ''[[Paramore (album)|Paramore]]'', 2013
+
+==See also==
+* [[Proofing (disambiguation)]]
+* [[Provability (disambiguation)]]
+* [[Justification (disambiguation)]]
+* [[Homeopathic proving]], a homeopathic procedure
+
+{{disambiguation}}

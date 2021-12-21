@@ -1,0 +1,98 @@
+{{short description|Swedish drama television series}}
+{{About|the Swedish TV series|the Swedish hip hop band|Labyrint (band)|the maze-like structure|Labyrinth|other uses|Labyrinth (disambiguation)}}
+{{Expand Swedish|Labyrint (TV-serie)|topic=culture|date=December 2012}}
+{{Infobox television
+| name = Labyrint
+| image = Labyrint intro.JPG
+| caption =
+| runtime = approx. 45 minutes
+| creator = Johan Tappert<br>Lars Lundström<br>
+Molly Hartleb<br>
+Erik Leijonborg
+| starring = [[Jonas Malmsjö]]<br>  [[Robert Jelinek]]<br> [[Isabelle Moreau]]<br> [[Björn Bengtsson]]<br> [[Meliz Karlge di Grado]]
+| country =  [[Sweden]]
+| network = [[TV4 (Sweden)|TV4]]
+| picture_format =
+| first_aired = {{start date|2007|10|11}}
+| last_aired =
+| num_episodes = 12 <!--(as of October 1, 2007)-->
+| list_episodes =
+| website = http://www.tv4.se/labyrint
+}}
+
+'''''Labyrint''''' is a [[Sweden|Swedish]] [[drama]] [[television series]] on [[TV4 (Sweden)|TV4]]. It has been called the biggest capital investment for the channel ever.{{citation needed|date=December 2011}} The show premiered on October 11, 2007.
+
+==Characters==
+;Main roles
+{| class="wikitable"
+|-
+! Role !! Actor / Actress
+|-
+| Fredrik Hermelin || [[Jonas Malmsjö]]
+|- 
+| Zahra Haidari || [[Meliz Karlge di Grado]]
+|-
+| Jonny Johansson || [[Björn Bengtsson]]
+|-
+| Filippa Bolinder || [[Isabelle Moraeu]]
+|-
+| Carl Ramhäll || [[Robert Jelinek]]
+|-
+|}
+
+;Family
+{| class="wikitable"
+|-
+! Role !! Actor / Actress
+|-
+| Miranda Perez || [[Mirja Turestedt]]
+|- 
+| Göran Bolinder || [[Fredrik Dolk]]
+|-
+| Sofi Ramhäll || [[Linda Zilliacus]]
+|-
+| Sandra Ramhäll || [[Hedda Wachtmeister]]
+|-
+| Kasper Ramhäll|| [[Dexter Ericsson]]
+|-
+| Meriam Haidari || [[Mina Azarian]]
+|-
+| Besym Haidari || [[Hassan Brijany]]
+|-
+| Samo Haidari || [[Danilo Bejarano]]
+|-
+| Akram Haidari || [[Hassan Jafari]]
+|-
+| Nino Haidari || [[Armand Mirpour]]
+|-
+| Louise Hermelin || [[Karin Bergquist]]
+|-
+| Gabriella Hermelin || Alexandra Nekrassova
+|-
+| Fredrika Hermelin || Viktoria Genberg
+|-
+| Monica Hermelin || [[Karin Bergquist]]
+|}
+
+;Blue
+{| class="wikitable"
+|-
+! Role !! Actor / Actress
+|-
+| Henry Strolz || [[Ulf Brunnberg]]
+|- 
+| Stig || [[Per Morberg]]
+|-
+| Hanson || [[Jonas Inde]]
+|-
+| Per || [[Christer Fant]]
+|-
+| Nicky || [[Noomi Rapace]]
+|}
+
+{{DEFAULTSORT:Labyrint (Tv Series)}}
+[[Category:TV4 (Sweden) original programming]]
+[[Category:Swedish drama television series]]
+
+
+{{sweden-tv-prog-stub}}

@@ -1,0 +1,443 @@
+{{Infobox musical artist
+| origin           = [[Saint Petersburg]], Russia
+| genre            = [[Electronic music]], [[avant-pop]], [[dark wave]], [[art punk]]
+| years_active     = 2012-present
+| current_members  = * Nikolai Komyagin
+* Alexander Ionin
+* Pavel Lesnikov
+* Danila Kholodkov
+* Alexander Galyanov
+| website          = {{URL|http://shortparis.com/}}
+| image            = Shortparis - Haldern Pop Festival 2018-18.jpg
+| alt              = Shortparis performing at Haldern Pop Festival in 2018
+| landscape        = yes
+| caption          = Shortparis at [[Haldern Pop Festival|Haldern Pop]] 2018
+| label = [[Universal Music Group|Universal Music Russia]]<ref name="universal"/>
+}}
+'''Shortparis''' is a Russian [[experimental music|experimental]] group formed in [[Saint Petersburg]] in 2012.
+
+== History ==
+Nikolai Komyagin, Alexander Ionin, and Pavel Lesnikov met in their hometown, [[Novokuznetsk]], and formed Shortparis in 2012 upon moving to Saint Petersburg. They were later joined by St. Petersburg natives Danila Kholodkov and Alexander Galyanov.<ref name="village" />
+
+In 2013, Shortparis released their debut album ''Docheri'' ({{Lang-ru|«Дочери»|lit=Daughters}}), with songs in English and French.<ref name="docheri"/> In 2017, they released the album ''Paskha'' ({{Lang-ru|«Пасха»|lit=Easter}}). In contrast to their previous album, all of the songs on ''Paskha'' are in Russian.<ref name="paskha"/> In 2019, Shortparis released their third album, ''Tak zakalyalas' stal'' ({{Lang-ru|«Так закалялась сталь»|lit=Thus the Steel Was Tempered}}).<ref name="quietus2019" />
+
+In September 2020, Shortparis released the single "KoKoKo / Struktury ne vykhodyat na ulitsy" ({{Lang-ru|«КоКоКо / Cтруктуры Не Выходят На Улицы»|lit=CluckCluckCluck (Structures Don't Take To The Streets)}}) and an accompanying music video. The title of the track refers to a piece of graffiti from the [[May 68|1968 Paris riots]].<ref name="quietus2020" /><ref name="meduza2020" />
+
+In January 2021, Shortparis contributed a track to the album ''Sokhrani moyu rech' navsegda'' ({{Lang-ru|«Сохрани мою речь навсегда»|lit=Keep My Words Forever}}), a compilation of songs based on [[Osip Mandelstam|Osip Mandelstam's]] work, released in honor of the 130th anniversary of the poet's birth.<ref name="mandelstam" />
+
+In June 2021, Shortparis released their fourth studio album, ''Yablonny sad'' ({{Lang-ru|«Яблонный сад»|links=no|lit=Apple Orchard}}).<ref name="newsmuz"/>
+
+== Live performances ==
+Shortparis opened for [[The Kooks]] in 2015 and [[alt-J]] in 2017 at Saint Petersburg's A2.<ref name="nobility" /><ref name="beauty" /> The band started gaining attention in English-language music publications for their performances at [[Haldern Pop]] Festival, MENT Festival,<ref name="louder" /><ref name="ment" /> [[Off Festival|OFF Festival]],<ref name="off" /> Pop-Kultur Berlin,<ref name="gigwise" /><ref name="kultur" /> and Station Narva Festival<ref name="drowned" /><ref name="narva" /> in 2018. In April 2018, Shortparis performed alongside Kazuskoma, Spasibo, [[Glintshake]], and [[Elektroforez]] in [[Minsk]], [[Warsaw]], [[Poznań|Poznan]], [[Berlin]], and [[Kaliningrad]] as part of a tour showcasing Russian bands.<ref name="vice" /> In May 2019, Shortparis undertook their first UK tour, including performances at [[Liverpool Sound City]]<ref name="13best" /> and [[The Great Escape Festival]].<ref name="diymag" /> In August 2019, they played at Brave! Factory Festival in [[Kyiv]].<ref name="brave" />
+
+== Musical style ==
+Shortparis performs songs in Russian, French, and English.<ref name="interview" /> According to John Doran of ''[[The Quietus]]'', Shortparis is following in [[Sergey Kuryokhin|Sergey Kuryokhin's]] legacy of provocative performance art; Doran describes the group as "Ambitious, bombastic, incredibly pretentious, erotic, thrilling, impossible to pin down, vaguely deviant, fun to dance to and full of revolutionary potential".<ref name="review" />
+
+== Members ==
+* Nikolai Komyagin — vocals (2012—present)<ref name="svoboda" />
+* Alexander Ionin — guitar, bass, accordion (2012—present)<ref name="svoboda" />
+* Pavel Lesnikov — drums, sampling (2012—present)<ref name="svoboda" />
+* Danila Kholodkov — drums, percussion (2012—present)<ref name="svoboda" />
+* Alexander Galyanov — guitar, keyboards (2014—present)<ref name="svoboda" />
+
+===Timeline===
+{{#tag:timeline|
+ImageSize = width:850 height:auto barincrement:20
+PlotArea = left:120 bottom:100 top:10 right:10
+Alignbars = justify
+DateFormat = dd/mm/yyyy
+Period = from:01/01/2012 till:{{#time:d/m/Y}}
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:4
+ScaleMajor = increment:2 start:2012
+ScaleMinor = increment:1 start:2012
+
+Colors =
+ id:vocals  value:red         legend:Vocals
+ id:guitar  value:green       legend:Guitars
+ id:bass    value:blue        legend:Bass
+ id:drums   value:orange      legend:Drums
+ id:perc    value:claret      legend:Percussion
+ id:keys    value:purple      legend:Keyboards
+ id:sampler value:lightpurple legend:Sampler
+ id:bayan   value:lavender    legend:Bayan
+ id:studio  value:black       legend:Studio_album
+
+LineData =
+ layer:back
+ color:studio
+ at:07/04/2013
+ at:15/03/2017
+ at:31/10/2019
+
+BarData =
+ bar:Komyagin   text:"Nikolai Komyagin"
+ bar:Ionin      text:"Alexander Ionin"
+ bar:Lesnikov   text:"Pavel Lesnikov"
+ bar:Kholodkov  text:"Danila Kholodkov"
+ bar:Galyanov   text:"Alexander Galyanov"
+
+PlotData =
+ width:11
+ bar:Komyagin   from:start      till:end        color:vocals
+ bar:Ionin      from:start      till:end        color:guitar
+ bar:Ionin      from:start      till:end        color:bass      width:3
+ bar:Ionin      from:start      till:end        color:bayan     width:7
+ bar:Lesnikov   from:start      till:end        color:drums
+ bar:Lesnikov   from:start      till:end        color:sampler   width:3
+ bar:Kholodkov  from:01/09/2012 till:end        color:drums
+ bar:Kholodkov  from:01/09/2012 till:end        color:perc      width:3
+ bar:Galyanov   from:01/11/2014 till:end        color:keys
+ bar:Galyanov   from:01/11/2014 till:end        color:guitar    width:3
+}}
+
+== Discography ==
+
+=== Studio albums ===
+* 2013 - ''Docheri'' ({{Lang-ru|«Дочери»|links=no|lit=Daughters}})<ref name="docheri" />
+* 2017 - ''Paskha'' ({{Lang-ru|«Пасха»|links=no|lit=Easter}})<ref name="paskha" />
+* 2019 - ''Tak zakalyalas stal'' ({{Lang-ru|«Так закалялась сталь»|links=no|lit=Thus the Steel Was Tempered}})<ref name="sobaka" />
+* 2021 - ''Yablonny sad'' ({{Lang-ru|«Яблонный сад»|links=no|lit=Apple Orchard}})<ref name="newsmuz"/>
+
+=== Singles ===
+* 2012 — ''Amsterdam''
+* 2013 — ''The Daughters (B-Sides)''
+* 2015 — ''Novokuznetsk'' ({{Lang-ru|«Новокузнецк»|links=no}})
+* 2015 — ''Ma Russie''
+* 2017 — ''Tutu'' ({{Lang-ru|«Туту»|links=no}})
+* 2018 — ''Styd'' ({{Lang-ru|«Стыд»|links=no|lit=Shame}})
+* 2018 — ''Strashno'' ({{Lang-ru|«Страшно»|links=no|lit=Scary}})
+* 2020 — ''KoKoKo / Struktury ne vykhodyat na ulitsy'' ({{Lang-ru|«КоКоКо / Cтруктуры не выходят на улицы»|links=no|lit=CluckCluckCluck / Structures Don't Take to the Streets }})
+* 2021 — ''Govorit Moskva'' ({{Lang-ru|«Говорит Москва»|links=no|lit=Moscow Speaking}})
+
+== Awards and nominations ==
+Shortparis made the shortlist for [[GQ Russia]]'s "Discovery of the Year" award in 2019.<ref name="gq" /> At the 2019 Jager Music Awards, Shortparis won Band of the Year, as well as Single of the Year and Video of the Year for "Strashno" ({{Lang-ru|«Страшно»|lit=Scary}}).<ref name="jager" /><ref name="msktimes" />
+
+== Media appearances ==
+Shortparis appeared in the 2018 film ''[[Leto (film)|Leto]]'' ({{Lang-ru|Лето|lit=Summer}}), performing a cover of [[David Bowie|David Bowie's]] "[[All the Young Dudes]]".<ref name="esquire" /> In 2019, their song "Chto-to osoboe vo mne" ({{Lang-ru|Что-то особое во мне}}) featured in the episode "Chapter 4: SYZYGY" of season 2 of ''[[The OA]]''.<ref name="tunefind" />
+
+== References ==
+{{reflist|refs=
+<ref name="13best">{{Cite web
+|url=https://www.gigwise.com/features/3314652/liverpool-sound-city-2019-review-the-13-best-performances
+|title=Liverpool Sound City 2019 Review: The 13 best performances
+|last=Trefor
+|first=Cai
+|date=2019-05-07
+|website=[[Gigwise]]
+|language=en
+|access-date=2019-06-02
+|archive-date=2021-02-09
+|archive-url=https://web.archive.org/web/20210209142522/https://www.gigwise.com/features/3314652/liverpool-sound-city-2019-review-the-13-best-performances
+|url-status=live
+}}</ref>
+<ref name="beauty">{{Cite web
+|url=http://musecube.org/otchet/otchet-music/alt-j-krasota-v-prostote/
+|title=Alt-J: "Красота в простоте"
+|last=Folomeev
+|first=Igor
+|date=2017-09-05
+|website=Musecube
+|language=ru-RU
+|access-date=2019-06-02
+|archive-date=2021-02-09
+|archive-url=https://web.archive.org/web/20210209142444/https://musecube.org/otchet/otchet-music/alt-j-krasota-v-prostote/
+|url-status=live
+}}</ref>
+<ref name="diymag">{{Cite web
+|url=http://diymag.com/2019/05/10/the-great-escape-2019-day-one
+|title=Surfbort, Crack Cloud, Pottery and more shine bright on Day One of The Great Escape 2019
+|last1=Wright
+|first1=Lisa
+|last2=Bentley
+|first2=James
+|date=2019-05-19
+|website=[[DIY (magazine)|DIY]]
+|language=en
+|access-date=2019-06-02
+|archive-date=2021-02-09
+|archive-url=https://web.archive.org/web/20210209142436/https://diymag.com/2019/05/10/the-great-escape-2019-day-one
+|url-status=live
+}}</ref>
+<ref name="drowned">{{Cite web
+|url=http://drownedinsound.com/in_depth/4152056-operation-notes-from-underground--dis-does-station-narva-2018
+|title=Operation Notes From Underground: DiS Does Station Narva 2018
+|last=Foster
+|first=Richard
+|date=2018-10-01
+|website=[[Drowned in Sound]]
+|language=en
+|access-date=2019-06-02
+|archive-date=2021-02-09
+|archive-url=https://web.archive.org/web/20210209142435/https://drownedinsound.com/in_depth/4152056-operation-notes-from-underground--dis-does-station-narva-2018
+|url-status=live
+}}</ref>
+<ref name="esquire">{{Cite web
+|url=https://esquire.ru/movies-and-shows/55182-20-facts-leto/
+|title=20 интересных фактов о фильме "Лето" Кирилла Серебренникова
+|last=Barabanov
+|first=Boris
+|date=2018-06-06
+|website=[[Esquire (magazine)|Esquire]] Russia
+|language=ru-RU
+|access-date=2019-03-04
+|archive-date=2021-02-09
+|archive-url=https://web.archive.org/web/20210209142437/https://esquire.ru/movies-and-shows/55182-20-facts-leto/
+|url-status=live
+}}</ref>
+<ref name="gigwise">{{Cite web
+|url=https://www.gigwise.com/features/3274274/pop-kultur-2018-berlin-live-review-festival
+|title=Pop-Kultur 2018: Your gig-binge
+|last=Hayne
+|first=Charlotte
+|date=2018-08-23
+|website=[[Gigwise]]
+|language=en
+|access-date=2019-06-02
+|archive-date=2021-02-09
+|archive-url=https://web.archive.org/web/20210209142521/https://www.gigwise.com/features/3274274/pop-kultur-2018-berlin-live-review-festival
+|url-status=live
+}}</ref>
+<ref name="gq">{{Cite news
+|url=https://www.gq.ru/awards/moty/2019/new-comer-2019
+|title=Человек Года 2019
+|work=[[GQ]] Russia
+|language=ru-RU
+|access-date=2019-07-24
+|archive-date=2021-06-23
+|archive-url=http://archive.today/2021.06.23-154311/https://www.gq.ru/awards/moty/2019/actor-2019
+|url-status=live
+}}</ref>
+<ref name="interview">{{Cite web
+|url=https://thequietus.com/articles/26337-shortparis-interview
+|title=Brutal Russian Truth: Shortparis Interviewed
+|last=Foster
+|first=Richard
+|date=2019-04-17
+|website=[[The Quietus]]
+|language=en-us
+|access-date=2019-06-02
+|archive-date=2019-05-12
+|archive-url=http://archive.today/2019.05.12-161221/https://thequietus.com/articles/26337-shortparis-interview
+|url-status=live
+}}</ref>
+<ref name="kultur">{{Cite web
+|url=https://thequietus.com/articles/25236-things-learned-at-pop-kultur-berlin-shortparis-boycott-brexit-flohio-karen-gwyer
+|title=Things Learned At: Pop-Kultur Festival
+|last=Dylan Wray
+|first=Daniel
+|date=2018-09-03
+|website=[[The Quietus]]
+|language=en-us
+|access-date=2019-06-02
+|archive-date=2021-06-23
+|archive-url=http://archive.today/2021.06.23-154835/https://thequietus.com/articles/25236-things-learned-at-pop-kultur-berlin-shortparis-boycott-brexit-flohio-karen-gwyer
+|url-status=live
+}}</ref>
+<ref name="louder">{{Cite web
+|url=https://louderthanwar.com/shortparis-ment-festival-live-review-brilliant-russian-band-combine-post-industrial-with-stunning-vocals/
+|title=Shortparis : MENT festival : live review ‘brilliant Russian band combine post industrial with stunning vocals’
+|last=Robb
+|first=John
+|author-link=John Robb (musician)
+|date=2018-02-02
+|website=[[Louder Than War (website)|Louder Than War]]
+|language=en
+|access-date=2019-06-02
+|archive-date=2021-02-09
+|archive-url=https://web.archive.org/web/20210209142529/https://louderthanwar.com/shortparis-ment-festival-live-review-brilliant-russian-band-combine-post-industrial-with-stunning-vocals/
+|url-status=live
+}}</ref>
+<ref name="ment">{{Cite web
+|url=https://thequietus.com/articles/24038-things-learned-at-ment-festival-shortparis-mart-avi-glintshake
+|title=Things Learned at MENT Festival
+|website=[[The Quietus]]
+|last=Foster
+|first=Richard
+|date=2018-02-14
+|language=en-us
+|access-date=2019-06-02
+|archive-date=2019-05-13
+|archive-url=http://archive.today/2019.05.13-160236/https://thequietus.com/articles/24038-things-learned-at-ment-festival-shortparis-mart-avi-glintshake
+|url-status=live
+}}</ref>
+<ref name="narva">{{Cite web
+|url=https://www.gigwise.com/features/3286219/station-narva-festival-2018-reviewed-echo-bunnymen-shortparis
+|title=The island in between: Station Narva festival 2018 reviewed
+|last=Trefor
+|first=Cai
+|date=2018-10-19
+|website=[[Gigwise]]
+|language=en
+|access-date=2019-06-02
+|archive-date=2021-02-09
+|archive-url=https://web.archive.org/web/20210209142438/https://www.gigwise.com/features/3286219/station-narva-festival-2018-reviewed-echo-bunnymen-shortparis
+|url-status=live
+}}</ref>
+<ref name="nobility">{{Cite web
+|url=http://musecube.org/otchet/otchet-music/sostoyanie-ochishheniya-britanskoe-blago/
+|title=Состояние очищения. Британское благородство в клубе А2
+|last=Kovalev
+|first=Boris
+|date=2015-11-10
+|website=Musecube
+|language=ru-RU
+|access-date=2019-06-02
+|archive-date=2019-06-02
+|archive-url=https://web.archive.org/web/20190602195446/http://musecube.org/otchet/otchet-music/sostoyanie-ochishheniya-britanskoe-blago/
+|url-status=live
+}}</ref>
+<ref name="off">{{Cite web
+|url=https://thequietus.com/articles/25115-things-learned-at-off-festival-lonker-see-shortparis-charlotte-gainsbourg
+|title=Things Learned At: OFF Festival
+|last=Marszalek
+|first=Julian
+|date=2018-08-10
+|website=[[The Quietus]]
+|language=en-us
+|access-date=2019-06-02
+|archive-date=2021-06-23
+|archive-url=http://archive.today/2021.06.23-155147/https://thequietus.com/articles/25115-things-learned-at-off-festival-lonker-see-shortparis-charlotte-gainsbourg
+|url-status=live
+}}</ref>
+<ref name="review">{{Cite web
+|url=https://thequietus.com/articles/24274-shortparis-easter-album-review
+|title=Shortparis: ПАСХА
+|last=Doran
+|first=John
+|date=2018-03-26
+|website=[[The Quietus]]
+|language=en-us
+|access-date=2019-03-04
+|archive-date=2019-05-14
+|archive-url=http://archive.today/2019.05.14-150826/https://thequietus.com/articles/24274-shortparis-easter-album-review
+|url-status=live
+}}</ref>
+<ref name="svoboda">{{Cite web
+|url=https://www.svoboda.org/a/29691306.html
+|title=Тело потемнело как угли. Дионисийские ритуалы группы Shortparis
+|last=Volchek
+|first=Dmitry
+|date=2019-01-08
+|website=[[Radio Free Europe/Radio Liberty|Радио Свобода]]
+|language=ru
+|access-date=2019-03-04
+|archive-date=2021-02-09
+|archive-url=https://web.archive.org/web/20210209142553/https://www.svoboda.org/a/29691306.html
+|url-status=live
+}}</ref>
+<ref name="vice">{{Cite web
+|url=https://i-d.vice.com/en_uk/article/d3kjba/russian-punk-youth-on-tour
+|title=russian punk youth on tour
+|last=Fedorova
+|first=Anastasiia
+|last2=Mademuaselle
+|first2=Sasha
+|date=2018-06-20
+|website=[[i-D]]
+|language=en-UK
+|access-date=2019-07-24
+|archive-date=2021-02-09
+|archive-url=https://web.archive.org/web/20210209142503/https://i-d.vice.com/en_uk/article/d3kjba/russian-punk-youth-on-tour
+|url-status=live
+}}</ref>
+<ref name="village">{{Cite web
+|url=https://www.the-village.ru/village/weekend/music/312977-shortparis
+|title=Как Shortparis стала лучшей концертной группой страны
+|last=Velichko
+|first=Nikita
+|date=2018-05-25
+|website=The Village
+|language=ru
+|access-date=2019-08-17
+|archive-date=2019-08-17
+|archive-url=https://web.archive.org/web/20190817013446/https://www.the-village.ru/village/weekend/music/312977-shortparis
+|url-status=live
+}}</ref>
+<ref name="tunefind">{{Cite web|url=https://www.tunefind.com/show/the-oa/season-2/80285|title=Music from The OA S2E04|website=[[Tunefind]]|language=en-us|access-date=2019-12-01|archive-date=2021-02-09|archive-url=https://web.archive.org/web/20210209142550/https://www.tunefind.com/show/the-oa/season-2/80285|url-status=live}}</ref>
+<ref name="jager">{{Cite web|url=https://jagermusicawards.net/|title=Jager Music Awards|last=|first=|date=|website=Jager Music Awards|language=ru|url-status=live|archive-url=https://web.archive.org/web/20191122145320/https://jagermusicawards.net/|archive-date=2019-11-22|access-date=2019-11-22}}</ref>
+<ref name="msktimes">{{Cite web
+|url=https://www.themoscowtimes.com/2019/12/05/music-and-more-awarded-in-moscow-a68492
+|title=Music and More Awarded in Moscow
+|last=Muchnik
+|first=Andrei
+|date=2019-12-05
+|website=[[The Moscow Times]]
+|language=en
+|access-date=2019-12-06
+|archive-date=2021-02-09
+|archive-url=https://web.archive.org/web/20210209142508/https://www.themoscowtimes.com/2019/12/05/music-and-more-awarded-in-moscow-a68492
+|url-status=live
+}}</ref>
+<ref name="sobaka">{{Cite web|url=http://www.sobaka.ru/city/music/98800|title=Премьера: альбом Shortparis «Так закалялась сталь»|date=2019-11-01|website=Собака.ru|language=ru|url-status=live|archive-url=https://web.archive.org/web/20210209142522/https://www.sobaka.ru/entertainment/music/98800|archive-date=2021-02-09|access-date=2019-11-01}}</ref>
+<ref name="brave">{{Cite web|title=Brave! Factory Festival 2019|url=http://www.brave-factory.com/|url-status=dead|archive-url=https://web.archive.org/web/20190903175417im_/http://www.brave-factory.com/|archive-date=2019-09-03|access-date=2020-11-12|website=Brave! Factory Festival|language=en}}</ref>
+<ref name="docheri">{{Cite web|last=Alekseeva|first=Anastasiya|date=2013-10-07|title=Рецензия на альбом Shortparis «Дочери»|url=http://binoclespb.ru/post/05-10-2013_shortparis.html|url-status=live|archive-url=https://web.archive.org/web/20210209142509/http://binoclespb.ru/post/05-10-2013_shortparis.html|archive-date=2021-02-09|access-date=2021-01-15|website=binoclespb.ru|language=ru}}</ref>
+<ref name="paskha">{{Cite web|last=Agliullina|first=Marina|date=2017-12-29|title=17 музыкальных альбомов 2017 года, которые достойны внимания|url=https://www.buro247.ru/culture/music/29-dec-2017-best-music-of-2017.html|url-status=live|archive-url=https://web.archive.org/web/20210209142555/https://www.buro247.ru/culture/music/29-dec-2017-best-music-of-2017.html|archive-date=2021-02-09|access-date=2021-01-15|website=BURO.|language=ru}}</ref>
+<ref name="quietus2019">{{Cite web
+|last=Foster
+|first=Richard
+|date=2019-11-06
+|title=Shortparis: Tak Zakalyalas' Stal
+|url=https://thequietus.com/articles/27392-shortparis-tak-zakalyalas-stal-thus-the-steel-was-tempered-review
+|url-status=live
+|archive-url=http://archive.today/2019.11.15-184232/https://thequietus.com/articles/27392-shortparis-tak-zakalyalas-stal-thus-the-steel-was-tempered-review
+|archive-date=2019-11-15
+|access-date=2021-01-15
+|website=[[The Quietus]]
+|language=en-us}}</ref> 
+<ref name="quietus2020">{{Cite web
+|last=Clarke
+|first=Patrick
+|date=2020-09-16
+|title=Shortparis Share New Single, 'Structures Don't Take To The Streets'
+|url=https://thequietus.com/articles/28935-shortparis-cluckcluckcluck-structures-don-t-take-to-the-streets
+|url-status=live
+|archive-url=http://archive.today/2021.04.27-221853/https://thequietus.com/articles/28935-shortparis-cluckcluckcluck-structures-don-t-take-to-the-streets
+|archive-date=2021-04-27
+|access-date=2021-01-14
+|website=[[The Quietus]]
+|language=en-us}}</ref>
+<ref name="meduza2020">{{Cite web
+|date=2020-09-17
+|title=«Стремясь всем показать, в чем сила, трава сама себя косила» Shortparis устраивают петушиные бои в курятнике и висят на крюках в разделочном цехе. Премьера клипа «КоКоКо» на «Медузе»
+|url=https://meduza.io/shapito/2020/09/17/stremyas-vsem-pokazat-v-chem-sila-trava-sama-sebya-kosila
+|url-status=live
+|archive-url=https://web.archive.org/web/20210209142525/https://meduza.io/shapito/2020/09/17/stremyas-vsem-pokazat-v-chem-sila-trava-sama-sebya-kosila
+|archive-date=2021-02-09
+|access-date=2021-01-14
+|website=[[Meduza]]
+|language=ru}}</ref>
+<ref name="mandelstam">{{Cite web
+|date=2021-01-14
+|title=Оксимирон, Агутин, Лагутенко, Shortparis, Noize MC написали песни на стихи Осипа Мандельштама. Премьера трибьюта «Сохрани мою речь навсегда» на «Медузе»
+|url=https://meduza.io/feature/2021/01/14/oksimiron-agutin-lagutenko-shortparis-noize-mc-napisali-pesni-na-stihi-osipa-mandelshtama-premiera-tribyuta-sohrani-moyu-rech-navsegda-na-meduze
+|url-status=live
+|archive-url=https://web.archive.org/web/20210209142552/https://meduza.io/feature/2021/01/14/oksimiron-agutin-lagutenko-shortparis-noize-mc-napisali-pesni-na-stihi-osipa-mandelshtama-premiera-tribyuta-sohrani-moyu-rech-navsegda-na-meduze
+|archive-date=2021-02-09
+|access-date=2021-01-14
+|website=[[Meduza]]
+|language=ru}}</ref>
+<ref name="universal">{{cite web 
+|title=Локальные артисты 
+|url=http://universalmusic.ru/artists 
+|website=Universal Music Russia 
+|access-date=2021-05-17
+|language=ru
+|url-status=live
+|archive-url=https://web.archive.org/web/20210517191946/http://universalmusic.ru/artists
+|archive-date=2021-05-17}}</ref>
+<ref name="newsmuz">{{Cite web|date=2021-06-25|title=Shortparis выпустил альбом «Яблонный сад»|url=https://newsmuz.com/news/pop/shortparis-vypustil-albom-yablonnyy-sad-46446|url-status=live|access-date=2021-06-25|website=NEWSmuz.com|language=ru}}</ref> 
+}}
+
+== External links ==
+* {{Official website}}
+*{{AllMusic|id=}}
+*{{Discogs artist}}
+*{{in lang|fr}} & {{in lang|ru}} [http://www.horsdoeuvre.fr/musique/interview-shortparis-revolution Interview at horsdoeuvre.fr]
+
+{{Authority control}}
+
+[[Category:Musical groups from Saint Petersburg]]
+[[Category:Musical groups established in 2012]]
+[[Category:Russian rock music groups]]
+[[Category:2012 establishments in Russia]]

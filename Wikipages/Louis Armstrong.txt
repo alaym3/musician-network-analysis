@@ -1,0 +1,616 @@
+{{short description|American jazz trumpeter and singer (1901–1971)}}
+{{pp-protected|reason=Persistent and long term [[WP:Disruptive editing|disruptive editing]] despite multiple protections. Enough.|small=yes}}
+{{Use mdy dates|date=July 2016}}
+{{Infobox person
+| name               = Louis Armstrong
+| image              = Louis Armstrong restored.jpg
+| caption            = Armstrong in 1953
+| birth_name         = Louis Daniel Armstrong<ref name="anderson">{{cite book|title=Louis Armstrong|year=2015|first=Gene H.|last=Anderson|publisher=Oxford University Press|isbn=978-0-19-026875-6|url=https://books.google.com/books?id=Cn70BgAAQBAJ&q=louis+daniel+armstrong+baptismal+record&pg=PT6}}</ref>
+| birth_date         = {{birth date|1901|8|4}}
+| birth_place        = [[New Orleans, Louisiana]], U.S.
+| death_date         = {{death date and age|1971|7|6|1901|8|4}}
+| death_place        = [[New York City]], U.S.
+| burial_place       = [[Flushing Cemetery]], New York, U.S.
+| other_names        = {{hlist|"Satchmo"|"Satch"|"Pops"|"Louie"}}
+| education          = Colored Waif's Home for Boys, Fisk School for Boys
+| occupation         = {{hlist|Musician|singer|}}
+| signature          = File:Louis Armstrong signature.svg
+| spouse             = {{Plainlist|
+* {{marriage|Daisy Parker|1919|1923|end=divorced}}
+* {{marriage|[[Lil Hardin Armstrong]]|1924|1938|end=divorced}}
+* {{marriage|Alpha Smith|1938|1942|end=divorced}}
+* {{marriage|Lucille Wilson|1942}}}}
+| website            = 
+| module             = {{Infobox musical artist|embed=yes
+| background = solo_singer
+| years_active = 1919–1971
+| genre = {{hlist|[[Dixieland]] |[[jazz]]|[[Swing music|swing]]|[[traditional pop]]}}
+| instrument = {{hlist|Vocals|trumpet}}<!--- If you think an instrument should be listed, a discussion to reach consensus is needed first per: https://en.wikipedia.org/wiki/Template:Infobox_musical_artist#instrument--->
+| associated_acts = {{hlist|[[King Oliver]]|[[Fletcher Henderson]]|[[Lil Hardin Armstrong]]|[[Ella Fitzgerald]]|[[Kid Ory]]|[[Jack Teagarden]]|[[Bobby Hackett]]|[[Oscar Peterson]]|[[Duke Ellington]]|[[Jimmie Rodgers (country singer)|Jimmie Rodgers]]|[[Frank Sinatra]]}}
+}}
+}}
+
+'''Louis Daniel Armstrong''' (August 4, 1901&nbsp;– July 6, 1971), nicknamed "'''Satchmo'''", "'''Satch'''", and "'''Pops'''",<ref>For background on nicknames, see {{cite book|author=Laurence Bergreen|year=1997|title=Louis Armstrong: An Extravagant Life|url-access=registration|location=New York|publisher=Broadway Books|isbn=978-0-553-06768-2|pages=[https://archive.org/details/louisarmstrong00laur/page/4 4{{endash}}5]|url=https://archive.org/details/louisarmstrong00laur/page/4}}</ref> was an American [[trumpeter]] and [[Singing|vocalist]]. He is among the most influential figures in [[jazz]]. His career spanned five decades and different eras in the history of jazz.<ref name="RCJE">{{Cite book|last=Cook|first=Richard|year=2005|title=Richard Cook's Jazz Encyclopedia|publisher=Penguin Books|location=London|isbn=978-0-14-100646-8|pages= 18–19}}</ref>
+
+Armstrong was born and raised in [[New Orleans]]. Coming to prominence in the 1920s as an inventive [[trumpet]] and [[cornet]] player, Armstrong was a foundational influence in jazz, shifting the focus of the music from collective improvisation to solo performance.<ref>Bergreen (1997), p. 1.</ref> Around 1922, he followed his mentor, [[King Oliver|Joe "King" Oliver]], to Chicago to play in the Creole Jazz Band. In Chicago, he spent time with other popular jazz musicians, reconnecting with his friend [[Bix Beiderbecke]] and spending time with [[Hoagy Carmichael]] and [[Lil Hardin Armstrong|Lil Hardin]]. He earned a reputation at "[[cutting contest]]s" and his fame reached band leader [[Fletcher Henderson]].  Henderson persuaded Armstrong to come to New York City, where he became a featured and musically influential band soloist and recording artist.  Hardin became Armstrong's second wife and they returned to Chicago to play together and then he began to form his own "Hot" jazz bands.  After years of touring, he settled in [[Queens]], and by the 1950s, he was a national musical icon, assisted in part, by his appearances on radio and in film and television, in addition to his concerts.
+
+With his instantly recognizable rich, gravelly voice, Armstrong was also an influential singer and skillful improviser, bending the lyrics and melody of a song. He was also skilled at [[scat singing]]. Armstrong is renowned for his charismatic stage presence and voice as well as his trumpet playing. By the end of Armstrong's life, his influence had spread to popular music in general. Armstrong was one of the first popular [[African-American]] entertainers to "cross over" to wide popularity with white (and international) audiences. He rarely publicly politicized his race, to the dismay of fellow African Americans, but took a well-publicized stand for [[desegregation]] in the [[Little Rock Nine|Little Rock crisis]]. He was able to access the upper echelons of American society at a time when this was difficult for black men.
+
+Armstrong appeared in films such as ''[[High Society (1956 film)|High Society]]'' (1956) alongside [[Bing Crosby]], [[Grace Kelly]], and [[Frank Sinatra]], and ''[[Hello, Dolly! (film)|Hello, Dolly!]]'' (1969) starring [[Barbra Streisand]]. He received many accolades including three [[Grammy Award]] nominations and a win for his vocal performance of ''[[Hello, Dolly! (song)|Hello, Dolly!]]'' in 1964.<ref>{{cite web|url=https://www.grammy.com/grammys/artists/louis-armstrong|title= Louis Armstrong - Artist|website= Grammy.com|date= November 19, 2019|access-date= May 27, 2020}}</ref> In 2017, he was posthumously inducted into the Rhythm & Blues Hall of Fame.
+
+==Early life==
+[[File:Adi Holzer Werksverzeichnis 899 Satchmo (Louis Armstrong).jpg|thumb|right|upright|''Louis Armstrong'' (2002), hand-colored [[:en:Etching|etching]] by [[:de:Adi Holzer|Adi Holzer]]]]
+Armstrong was born in [[New Orleans]] on August 4, 1901.<ref>{{cite book|page=[https://archive.org/details/satchmogeniusofl00gidd/page/21 21]|author=Gary Giddins|title=Satchmo: The Genius of Louis Armstrong|url=https://archive.org/details/satchmogeniusofl00gidd|url-access=registration|publisher=Da Capo|year=2001|isbn=9780306810138}}</ref><ref>Teachout (2009), pp. 26{{endash}}27.</ref><ref>Bergreen (1996), pp. 14–15.</ref>{{efn|Armstrong often stated that he was born on July 4, 1900.<ref>{{cite book|last=Teachout|first=Terry|year=2009|title=Pops: A Life of Louis Armstrong| publisher=Houghton Mifflin|page=25|isbn=978-0-15-101089-9}}</ref> Although he died in 1971, it was not until the mid-1980s that his true birth date was discovered by [[Tad Jones]] by researching baptismal records.<ref>{{cite web|url=http://www.louisarmstronghouse.org/about/faq.htm|title=When Is Louis Armstrong's Birthday? |url-status=dead |archive-url =https://web.archive.org/web/20130116083432/http://www.louisarmstronghouse.org/about/faq.htm#LA5 |archive-date =January 16, 2013|df=mdy-all}} The Official Site of the Louis Armstrong House & Archives.</ref>}} His parents were Mary Albert and William Armstrong. Mary Albert was from [[Boutte, Louisiana]], and gave birth at home when she was about sixteen. William Armstrong abandoned the family shortly after.<ref name="giddins22">Giddins (2001), pp. 22{{endash}}23.</ref> About two years later, he had a daughter, Beatrice "Mama Lucy" Armstrong, who was raised by Albert.<ref>{{cite book|last=Teachout|first=Terry|title=Pops|page=30|publisher=Houghton Mifflin Harcourt|location=Boston|year=2009}}</ref>
+
+Louis Armstrong was raised by his grandmother until the age of five when he was returned to his mother.<ref name="giddins22" /> He spent his youth in poverty in a rough neighborhood known as The Battlefield.<ref>Giddins (2001), p. 26.</ref> At six he attended the Fisk School for Boys,<ref name="Bergreen" /> a school that accepted black children in the racially segregated system of New Orleans.
+
+From the age of 7 he lived with the Karnoffskys, a family of [[Lithuanian Jews]], at [[Karnofsky Tailor Shop–House|their home]]. Mrs Karnoffsky used to sing lullabies for him at night before bed in Yiddish and Russian. The Karnoffskys<ref>Some sources spell Karnofsky with one "f". This article is spelling it with two "f"s based on Bergreen (1998).</ref> took him in and treated him like family. Knowing he lived without a father, they fed and nurtured him.<ref name="Commentary">{{cite web |last1=Teachout |first1=Terry |title=Satchmo and the Jews |url=https://www.commentarymagazine.com/article/satchmo-and-the-jews/ |website=Commentary Magazine|access-date=14 June 2018 |date=1 November 2009}}</ref><ref>{{Cite news| last = Karnow| first = Stanley| title = My Debt to Cousin Louis's Cornet| work = [[The New York Times]]| date = 21 February 2001| url = https://query.nytimes.com/gst/fullpage.html?sec=health&res=9C02E1D91639F932A15751C0A9679C8B63| access-date = 10 January 2007}}</ref> In his memoir ''Louis Armstrong + the Jewish Family in New Orleans, La., the Year of 1907'', he described his discovery that this family was also [[Racism in the United States|subject to discrimination]] by "other white folks" who felt that they were better than Jews: "I was only seven years old but I could easily see the ungodly treatment that the white folks were handing the poor Jewish family whom I worked for."<ref name="InHisOwnWords">{{cite book |last1=Armstrong |first1=Louis |editor1-last=Brothers |editor1-first=Thomas|title=Louis Armstrong, in His Own Words: Selected Writings |date=2001 |publisher=Oxford University Press |location=Oxford |isbn=978-0-19-514046-0 |page=8 |edition=   1st Oxford University Press paperback | quote=I had a long time admiration for the Jewish people. Especially with their long time of courage, taking so much abuse for so long. I was only seven years old, but I could easily see the ungodly treatment that the white folks were handing the poor Jewish family whom I worked for. It dawned on me, how drastically. Even "my race", the Negroes, the way that I saw it, they were having a little better break than the Jewish people, with jobs a plenty around. Of course, we can understand all the situations and handicaps that was going on, but to me we were better off than the Jewish people.}}</ref> He wrote about what he learned from them: "how to live—real life and determination."<ref name="Commentary"/> His first musical performance may have been at the side of the Karnoffskys' junk wagon. To distinguish them from other hawkers, he tried playing a tin horn to attract customers. Morris Karnoffsky gave Armstrong an advance toward the purchase of a cornet from a pawn shop.<ref>Bergreen (1997), pp. 55{{endash}}57.</ref>
+
+Fluent in Yiddish, Armstrong wore a [[Star of David]] until the end of his life in memory of this family who had raised him.<ref>Louis Armstrong + the Jewish Family in New Orleans, La, the Year of 1907</ref>
+
+When Armstrong was eleven, he dropped out of school.<ref name="Bergreen">Bergreen (1997), pp. 27, 57–60.</ref> His mother moved into a one-room house on Perdido Street with him, Lucy, and her common-law husband, Tom Lee, next door to her brother Ike and his two sons.<ref>Giddins (2001), pp. 36–37.</ref> Armstrong joined a quartet of boys who sang in the streets for money. He also got into trouble. Cornetist [[Bunk Johnson]] said he taught the eleven-year-old to play by ear at Dago Tony's honky tonk.<ref>''Current Biography 1944'', pp. 15–17.</ref> (In his later years Armstrong credited King Oliver.) He said about his youth, "Every time I close my eyes blowing that trumpet of mine—I look right in the heart of good old New Orleans ... It has given me something to live for."<ref>Bergreen (1997), p. 6.</ref>
+
+[[File:LouisArmstrong PeterDavis1.jpg|thumb|left|Armstrong with his first trumpet instructor, Peter Davis, in 1965]]
+
+Borrowing his stepfather's gun without permission, he fired a blank into the air and was arrested on December 31, 1912. He spent the night at New Orleans Juvenile Court, then was sentenced the next day to detention at the Colored Waif's Home.<ref>Bergreen (1997), pp. 67–68.</ref> Life at the home was spartan. Mattresses were absent; meals were often little more than bread and molasses. Captain Joseph Jones ran the home like a military camp and used corporal punishment.<ref>Bergreen (1997), pp. 70–72.</ref>
+
+Armstrong developed his cornet skills by playing in the band. Peter Davis, who frequently appeared at the home at the request of Captain Jones,<ref>''Current Biography 1944''. p. 16.</ref> became Armstrong's first teacher and chose him as bandleader. With this band, the thirteen-year-old Armstrong attracted the attention of [[Kid Ory]].<ref>Bergreen (1997), p. 78.</ref>
+
+On June 14, 1914, Armstrong was released into the custody of his father and his new stepmother, Gertrude. He lived in this household with two stepbrothers for several months. After Gertrude gave birth to a daughter, Armstrong's father never welcomed him, so he returned to his mother, Mary Albert. In her small home, he had to share a bed with his mother and sister.<ref>Bergreen (1997), pp. 80–84.</ref> His mother still lived in The Battlefield, leaving him open to old temptations, but he sought work as a musician. He found a job at a dance hall owned by Henry Ponce, who had connections to organized crime. He met the six-foot tall drummer [[Black Benny]], who became his guide and bodyguard.<ref>Bergreen (1997), pp. 85–89.</ref> Around the age of fifteen, he pimped for a prostitute named Nootsy, but that relationship failed after she stabbed Armstrong in the shoulder and his mother choked her nearly to death.<ref>{{Cite book|last=Brothers|first=Thomas|title=Louis Armstrong: Master of Modernism|publisher=W.W. Norton & Company|year=2014|isbn=978-0-393-06582-4|location=New York, NY|pages=70–71}}</ref>
+
+He briefly studied shipping management at the local community college, but was forced to quit after being unable to afford the fees.<ref name="Bergreen 1997, p.44">Bergreen (1997), p.44.</ref> While selling coal in [[Storyville, New Orleans|Storyville]], he heard [[spasm band]]s, groups that played music out of household objects. He heard the early sounds of jazz from bands that played in brothels and dance halls such as Pete Lala's, where [[King Oliver]] performed.<ref name="Bergreen 1997 pp.45">Bergreen (1997), pp.45{{endash}}47.</ref>
+
+==Career==
+===Riverboat education===
+[[File:Fate Marable's New Orleans Band on the S. S. Sidney.jpg|thumb|Armstrong was a member of Fate Marable's New Orleans Band in 1918, here on board the S.S. ''Sidney'']]
+
+Armstrong played in brass bands and [[riverboat]]s in New Orleans, first on an excursion boat in September 1918. He traveled with the band of [[Fate Marable]], which toured on the steamboat ''Sidney'' with the [[Streckfus Steamers]] line up and down the Mississippi River.<ref>{{cite book|title=Jazz on the River|author=William Howland Kenney |location=Chicago|year=2005 |publisher= University of Chicago Press|page=64}}</ref> Marable was proud of his musical knowledge, and he insisted that Armstrong and other musicians in his band learn [[sight reading]]. Armstrong described his time with Marable as "going to the University", since it gave him a wider experience working with written [[arrangement]]s. He did return to New Orleans periodically.<ref>Kenney (2005), pp. 57–59.</ref> In 1919, Oliver decided to go north and resigned his position in Kid Ory's band; Armstrong replaced him. He also became second trumpet for the [[Tuxedo Brass Band]].<ref>Bergreen (1997), p. 142.</ref>
+
+===Chicago and recording for Gennett===
+Throughout his riverboat experience, Armstrong's musicianship began to mature and expand. At twenty, he could read music. He became one of the first jazz musicians to be featured on extended trumpet solos, injecting his own personality and style. He started singing in his performances.<ref>Bergreen (1997), p. 170.</ref> In 1922, he moved to Chicago at the invitation of King Oliver. With Oliver's Creole Jazz Band, he could make enough money to quit his day jobs. Although race relations were poor, Chicago was booming. The city had jobs for blacks making good wages at factories with some left over for entertainment.<ref name="Collier"/>{{rp|86}}
+
+Oliver's band was among the most influential jazz bands in Chicago in the early 1920s. Armstrong lived luxuriously in his own apartment with his first private bath. Excited as he was to be in Chicago, he began his career-long pastime of writing letters to friends in New Orleans. Armstrong could blow two hundred [[C (musical note)#Other octaves|high Cs]] in a row. As his reputation grew, he was challenged to [[cutting contest]]s by other musicians.<ref>Bergreen (1997), p. 199.</ref>
+
+His first studio recordings were with Oliver for [[Gennett Records]] on April 5{{endash}}6, 1923. They endured several hours on the train to remote [[Richmond, Indiana]], and the band was paid little. The quality of the performances was affected by lack of rehearsal, crude recording equipment, bad acoustics, and a cramped studio. In addition, Richmond was associated with the [[Ku Klux Klan]].<ref>Bergreen (1997), pp. 213{{endash}}218.</ref>
+
+[[Lil Hardin Armstrong]] urged him to seek more prominent billing and develop his style apart from the influence of Oliver. She encouraged him to play classical music in church concerts to broaden his skills. She prodded him into wearing more stylish attire to offset his girth. Her influence eventually undermined Armstrong's relationship with his mentor, especially concerning his salary and additional money that Oliver held back from Armstrong and other band members.<ref>{{Cite journal |last=Stamatel |first=Janet P.|date=2003|editor-last=Henderson|editor-first=Ashyia N|title=Hardin Armstrong, Lil 1898–1971 |url= http://link.galegroup.com/apps/doc/CX2874100037/GVRL?u=aubu98092&sid=GVRL&xid=18dcff82|journal=Contemporary Black Biography |volume=39 |page=98|via=Gale Virtual Reference Library}}</ref> Armstrong's mother, May Ann Albert, came to visit him in Chicago during the summer of 1923 after being told that Armstrong was "out of work, out of money, hungry, and sick"; Hardin located and decorated an apartment for her to live in while she stayed.<ref>{{Cite book|last=Brothers|first=Thomas|title=Louis Armstrong: Master of Modernism|publisher=W.W. Norton & Company|year=2014|isbn=978-0-393-06582-4|location=New York, NY|pages=78–79}}</ref>
+
+===In the Fletcher Henderson Orchestra===
+Armstrong and Oliver parted amicably in 1924. Shortly afterward, Armstrong received an invitation to go to New York City to play with the [[Fletcher Henderson]] Orchestra, the top African-American band of the time. He switched to the trumpet to blend in better with the other musicians in his section. His influence on Henderson's tenor sax soloist, [[Coleman Hawkins]], can be judged by listening to the records made by the band during this period.{{citation needed|date=July 2021}}
+
+Armstrong adapted to the tightly controlled style of Henderson, playing trumpet and experimenting with the trombone. The other members were affected by Armstrong's emotional style. His act included singing and telling tales of New Orleans characters, especially preachers.<ref>Bergreen (1997), p. 247.</ref> The Henderson Orchestra played in prominent venues for patrons only, including the [[Roseland Ballroom]], with arrangements by [[Don Redman]]. Duke Ellington's orchestra went to Roseland to catch Armstrong's performances.
+
+During this time, Armstrong recorded with [[Clarence Williams (musician)|Clarence Williams]] (a friend from New Orleans), the Williams Blue Five, [[Sidney Bechet]], and blues singers  [[Alberta Hunter]], [[Ma Rainey]], and [[Bessie Smith]].<ref>Elliot Hurwitt et al., in Cary D. Wintz and Paul Finkelman, eds., ''Encyclopedia of the Harlem Renaissance'' (London: Routledge, 2012), 533 and elsewhere. 
+{{ISBN|9781135455361}}
+books.google.com/books?id=0L0ULjto_OEC&pg=PT533</ref><ref>{{Cite book|last=KEMP, LARRY.|title=EARLY JAZZ TRUMPET LEGENDS.|date=2018|publisher=ROSEDOG PR|isbn=978-1-4809-7637-5|location=[Place of publication not identified]|oclc=1059329912}}</ref>
+
+===The Hot Five===
+In 1925, Armstrong returned to Chicago largely at the insistence of Lil, who wanted to expand his career and his income. In publicity, much to his chagrin, she billed him as "the World's Greatest Trumpet Player". For a time he was a member of the Lil Hardin Armstrong Band and working for his wife.<ref>Bergreen (1997), p. 260.</ref> He formed [[Louis Armstrong and his Hot Five]] and recorded the hits "[[Potato Head Blues]]" and "[[Muggles (recording)|Muggles]]". The word "muggles" was a [[List of slang names for cannabis|slang term for marijuana]], something he used often during his life.<ref name="Collier">{{cite book |last1=Collier |first1=James Lincoln |title=Louis Armstrong: An American Genius |date=1983 |publisher=Oxford University Press |location=New York |isbn=978-0-19-503377-9 |page=[https://archive.org/details/louisarmstro00jam/page/324 324] |url=https://archive.org/details/louisarmstro00jam |url-access=registration }}</ref>
+
+[[File:Heebie Jeebies.jpg|thumb|upright|"[[Heebie Jeebies (composition)|Heebie Jeebies]]" by Louis Armstrong and his Hot Five]]
+
+The Hot Five included [[Kid Ory]] (trombone), [[Johnny Dodds]] (clarinet), [[Johnny St. Cyr]] (banjo), Lil Armstrong on piano, and usually no drummer. Over a twelve-month period starting in November 1925, this quintet produced twenty-four records.<ref name="harker">{{cite book|author=Harker, Brian|title=Louis Armsrtrong's Hot Five and Hot Seven Recordings |publisher=Oxford University Press|year=2011|location=Oxford|page=4{{endash}}5|isbn=978-0-19-538840-4}}</ref> Armstrong's band leading style was easygoing, as St. Cyr noted, "One felt so relaxed working with him, and he was very broad-minded ... always did his best to feature each individual."<ref>Bergreen (1997), p. 274.</ref> Among the most notable of the Hot Five and Seven records were "Cornet Chop Suey", "Struttin' With Some Barbecue", "Hotter Than that" and "Potato Head Blues," all featuring highly creative solos by Armstrong. According to Thomas Brothers, recordings, such as "Struttin' with Some Barbeque," were so superb, "planned with density and variety, bluesyness, and showiness," that they were probably showcased at the Sunset Café.<ref>{{Cite book|last=Brothers|first=Thomas|title=Louis Armstrong: Master of Modernism|publisher=W.W. Norton & Company|year=2014|isbn=978-0-393-06582-4|location=New York, NY|pages=282}}</ref> His recordings soon after with pianist [[Earl Hines|Earl "Fatha" Hines]] (most famously their 1928 "[[Weather Bird]]" duet) and Armstrong's trumpet introduction to and solo in "West End Blues" remain some of the most famous and influential improvisations in jazz history. Armstrong was now free to develop his personal style as he wished, which included a heavy dose of effervescent jive, such as "Whip That Thing, Miss Lil" and "Mr. Johnny Dodds, Aw, Do That Clarinet, Boy!"<ref>Bergreen (1997), p. 264.</ref>
+
+Armstrong also played with [[Erskine Tate]]'s Little Symphony, which played mostly at the Vendome Theatre. They furnished music for silent movies and live shows, including jazz versions of classical music, such as "Madame Butterfly", which gave Armstrong experience with longer forms of music and with hosting before a large audience. He began to scat sing (improvise vocal jazz using nonsensical words) and was among the first to record it, on the Hot Five recording "[[Heebie Jeebies (composition)|Heebie Jeebies]]" in 1926. The recording was so popular that the group became the most famous jazz band in the United States, even though they had not performed live to any great extent. Young musicians across the country, black or white, were turned on by Armstrong's new type of jazz.<ref>Bergreen (1997), p. 267.</ref>
+
+After separating from Lil, Armstrong started to play at the [[Sunset Cafe|Sunset Café]] for [[Al Capone]]'s associate [[Joe Glaser]] in the [[Carroll Dickerson]] Orchestra, with [[Earl Hines]] on piano, which was renamed Louis Armstrong and his Stompers,<ref>{{cite book|last=Collier|first=James Lincoln |author-link=James Lincoln Collier| title=Louis Armstrong | publisher=Pan Books | year=1985|isbn=978-0-330-28607-7|pages=160–62}}</ref> though Hines was the music director and Glaser managed the orchestra. Hines and Armstrong became fast friends and successful collaborators. It was at the [[Sunset Cafe|Sunset Café]] that Armstrong accompanied singer [[Adelaide Hall]]. It was during Hall's tenure at the venue that she experimented, developed and expanded her use and art of scat singing with Armstrong's guidance and encouragement.<ref>World Catalogue:[https://www.worldcat.org/title/underneath-a-harlem-moon-the-harlem-to-paris-years-of-adelaide-hall/oclc/51780394  Underneath A Harlem Moon] by Iain Cameron Williams {{ISBN|0-8264-5893-9}}</ref>
+
+In the first half of 1927, Armstrong assembled his Hot Seven group, which added drummer Al "Baby" Dodds and tuba player, Pete Briggs, while preserving most of his original Hot Five lineup. John Thomas replaced Kid Ory on trombone. Later that year he organized a series of new Hot Five sessions which resulted in nine more records. In the last half of 1928, he started recording with a new group: Zutty Singleton (drums), Earl Hines (piano), Jimmy Strong (clarinet), Fred Robinson (trombone), and Mancy Carr (banjo).<ref>Harker (2011), p. 145.</ref>
+
+===Emerging as a vocalist===
+Armstrong returned to New York in 1929, where he played in the pit orchestra for the musical ''Hot Chocolates'', an all-black revue written by [[Andy Razaf]] and pianist [[Fats Waller]]. He also made a cameo appearance as a vocalist, regularly stealing the show with his rendition of "[[Ain't Misbehavin' (song)|Ain't Misbehavin']]". His version of the song became his biggest selling record to date.<ref>{{cite web |url=http://www.redhotjazz.com/lao.html |title=Louis Armstrong & his Orchestra |publisher=Redhotjazz.com |access-date=August 17, 2009 |archive-url=https://web.archive.org/web/20130116083427/http://www.redhotjazz.com/lao.html |archive-date=January 16, 2013 |url-status=dead }}</ref>
+
+Armstrong started to work at [[Connie's Inn]] in Harlem, chief rival to the [[Cotton Club]], a venue for elaborately staged floor shows,<ref name=morgenstern>{{citation|last=Morgenstern|first=Dan|contribution=Louis Armstrong and the Development and Diffusion of Jazz|title=Louis Armstrong: A Cultural Legacy|editor-first=Marc H.|editor-last=Miller|publisher=Queens Museum of Art in association with University of Washington Press|year=1994|page=110}}</ref> and a front for gangster [[Dutch Schultz]]. Armstrong also had considerable success with vocal recordings, including versions of famous songs composed by his old friend [[Hoagy Carmichael]]. His 1930s recordings took full advantage of the new RCA [[ribbon microphone]], introduced in 1931, which imparted a characteristic warmth to vocals and immediately became an intrinsic part of the '[[crooning]]' sound of artists like [[Bing Crosby]]. Armstrong's famous interpretation of Carmichael's "[[Stardust (1927 song)|Stardust]]" became one of the most successful versions of this song ever recorded, showcasing Armstrong's unique vocal sound and style and his innovative approach to singing songs that had already become standards.
+
+Armstrong's radical re-working of [[Sidney Arodin]] and Carmichael's "[[Lazy River]]" (recorded in 1931) encapsulated many features of his groundbreaking approach to melody and phrasing. The song begins with a brief trumpet solo, then the main melody is introduced by sobbing horns, memorably punctuated by Armstrong's growling interjections at the end of each bar: "Yeah! ..."Uh-huh"..."Sure"..."Way down, way down." In the first verse, he ignores the notated melody entirely and sings as if playing a trumpet solo, pitching most of the first line on a single note and using strongly syncopated phrasing. In the second stanza he breaks into an almost fully improvised melody, which then evolves into a classic passage of Armstrong "[[scat singing]]".
+
+As with his trumpet playing, Armstrong's vocal innovations served as a foundation stone for the art of jazz vocal interpretation. The uniquely gravelly coloration of his voice became a musical archetype that was much imitated and endlessly impersonated. His scat singing style was enriched by his matchless experience as a trumpet soloist. His resonant, velvety lower-register tone and bubbling cadences on sides such as "Lazy River" exerted a huge influence on younger white singers such as Bing Crosby.
+
+===Working during hard times===
+The [[Great Depression]] of the early 1930s was especially hard on the jazz scene. The Cotton Club closed in 1936 after a long downward spiral, and many musicians stopped playing altogether as club dates evaporated. Bix Beiderbecke died and Fletcher Henderson's band broke up. King Oliver made a few records but otherwise struggled. [[Sidney Bechet]] became a tailor, later moving to Paris and Kid Ory returned to New Orleans and raised chickens.<ref>Bergreen (1997), p. 320.</ref>
+
+Armstrong moved to Los Angeles in 1930 to seek new opportunities. He played at the New Cotton Club in Los Angeles with [[Lionel Hampton]] on drums. The band drew the Hollywood crowd, which could still afford a lavish night life, while radio broadcasts from the club connected with younger audiences at home. Bing Crosby and many other celebrities were regulars at the club. In 1931, Armstrong appeared in his first movie, ''Ex-Flame'' and was also convicted of marijuana possession but received a suspended sentence.<ref>Collier (1985), pp. 221–22</ref> He returned to Chicago in late 1931 and played in bands more in the [[Guy Lombardo]] vein and he recorded more standards. When the mob insisted that he get out of town,<ref name="ArmstrongInThe30s">{{cite web |title=Louis Armstrong in the 30s|url=http://riverwalkjazz.stanford.edu/program/louis-armstrong-30s-tribute-life-and-music-armstrong-30s |website=riverwalkjazz.stanford.edu |access-date=5 May 2015}}</ref> Armstrong visited New Orleans, had a hero's welcome, and saw old friends. He sponsored a local baseball team known as Armstrong's Secret Nine and had a cigar named after him.<ref>Bergreen (1997), p. 344.</ref> But soon he was on the road again. After a tour across the country shadowed by the mob, he fled to Europe.
+
+After returning to the United States, he undertook several exhausting tours. His agent Johnny Collins's erratic behavior and his own spending ways left Armstrong short of cash. Breach of contract violations plagued him. He hired Joe Glaser as his new manager, a tough mob-connected wheeler-dealer, who began to straighten out his legal mess, his mob troubles, and his debts. Armstrong also began to experience problems with his fingers and lips, which were aggravated by his unorthodox playing style. As a result, he branched out, developing his vocal style and making his first theatrical appearances. He appeared in movies again, including Crosby's 1936 hit ''[[Pennies from Heaven (1936 film)|Pennies from Heaven]]''. In 1937, Armstrong substituted for [[Rudy Vallee]] on the CBS radio network and became the first African American to host a sponsored, national broadcast.<ref>Bergreen (1997), p. 385.</ref>
+
+=== The Harlem Renaissance ===
+During the 1920s, Louis Armstrong brought a huge impact during the [[Harlem Renaissance]] within the Jazz world. The music he created was an incredible part of his life during the Harlem Renaissance.<ref>{{cite news |url=https://www.npr.org/2007/08/01/12208712/louis-armstrong-the-man-and-his-music-part-1 |title=Louis Armstrong: 'The Man and His Music,' Part 1 |date=August 1, 2007 |website=[[National Public Radio]] |access-date=May 21, 2019 |url-status=live |archive-url=https://web.archive.org/web/20200803154258/https://www.npr.org/2007/08/01/12208712/louis-armstrong-the-man-and-his-music-part-1 |archive-date=August 3, 2020}}</ref> His impact touched many, including a well-known man during that time named [[Langston Hughes]]. Hughes admired Armstrong and acknowledged him as one of the most recognized musicians during the era.<ref>{{Cite web|url=https://www.pbs.org/wnet/americanmasters/louis-armstrong-about-louis-armstrong/528/|title=Satchmo: The Life of Louis Armstrong|date=July 6, 2005|website=PBS|access-date=May 21, 2019}}</ref> Within Hughes' writings, he created many books which held the central idea of jazz and recognition to Armstrong as one of the most important persons to be part of the newfound love of their culture.<ref>{{Cite web|url=https://www.openculture.com/2015/03/langston-hughes-presents-the-history-of-jazz-i.html|title=Langston Hughes Presents the History of Jazz in an Illustrated Children's Book (1995)|date=March 31, 2015|website=Open Culture|access-date=May 21, 2019}}</ref> The sound of jazz, along with many other musicians such as Armstrong, helped shape Hughes as a writer. Just as the musicians, Hughes wrote his words with jazz.<ref>{{Cite web|url=https://www.poetryfoundation.org/articles/69394/jazz-as-communication|title=Jazz as Communication|last=Hughes|first=Langston|website=Poetry Foundation|access-date=May 21, 2019}}</ref>
+
+Armstrong changed jazz during the Harlem Renaissance. Being known as "The World's Greatest Trumpet Player" during this time,<ref>{{cite web |last=Andrews |first=Evan |date=August 22, 2018 |title=9 Things You May Not Know About Louis Armstrong |url=https://www.history.com/news/9-things-you-may-not-know-about-louis-armstrong |url-status=live |work=[[History (American TV network)]] |location= |archive-url=https://web.archive.org/web/20201120054543/https://www.history.com/news/9-things-you-may-not-know-about-louis-armstrong |archive-date=November 20, 2020 |access-date=April 3, 2021}}</ref> Armstrong continued his legacy and continued a focus on his own vocal career. The popularity he gained brought together many black and white audiences to watch him perform.<ref>{{cite journal|author=Collins, Willie|title=Armstrong, Louis (1901–1971)|journal=St. James Encyclopedia of Popular Culture|editor=Thomas Riggs|edition=Second|volume=1|publisher=[[St. James Press]]|date=2013|pages=133–135|url=http://0-link.galegroup.com.library.4cd.edu/apps/doc/CX2735800126/GVRL?u=plea38277&sid=GVRL&xid=30818ba4}}</ref>
+
+===Reviving jazz with the All Stars===
+[[File:Louis Armstrong2.jpg|thumb|upright|Armstrong in 1953]]
+After spending many years on the road, Armstrong settled permanently in Queens, New York in 1943 in contentment with his fourth wife, Lucille. Although subject to the vicissitudes of [[Tin Pan Alley]] and the gangster-ridden music business, as well as anti-black prejudice, he continued to develop his playing. He recorded Hoagy Carmichael's "[[Rockin' Chair (1929 song)|Rockin' Chair]]" for [[Okeh Records]].
+
+During the next 30 years, Armstrong played more than 300 performances a year. Bookings for big bands tapered off during the 1940s due to changes in public tastes: ballrooms closed, and there was competition from television and from other types of music becoming more popular than big band music. It became impossible under such circumstances to finance a 16-piece touring band.
+
+During the 1940s, a widespread revival of interest in the traditional jazz of the 1920s made it possible for Armstrong to consider a return to the small-group musical style of his youth. Armstrong was featured as a guest artist with Lionel Hampton's band at the famed second Cavalcade of Jazz concert held at [[Wrigley Field (Los Angeles)|Wrigley Field]] in Los Angeles which was produced by [[Leon Hefflin, Sr.|Leon Hefflin Sr.]] on October 12, 1946.<ref>{{Cite book|title=The Black music history of Los Angeles, its roots : 50 years in Black music : a classical pictorial history of Los Angeles Black music of the 20s, 30s, 40s, 50s and 60s : photographic essays that define the people, the artistry and their contributions to the wonderful world of entertainment|last=Reed, Tom.|date=1992|publisher=Black Accent on L.A. Press|isbn=096329086X|edition=  1st limited |location=Los Angeles|oclc=28801394}}</ref>  Following a highly successful small-group jazz concert at New York Town Hall on May 17, 1947, featuring Armstrong with trombonist/singer [[Jack Teagarden]], Armstrong's manager, Joe Glaser dissolved the Armstrong big band on August 13, 1947, and established a six-piece traditional jazz group featuring Armstrong with (initially) Teagarden, [[Earl Hines]] and other top swing and Dixieland musicians, most of whom were previously leaders of big bands. The new group was announced at the opening of [[Billy Berg's]] Supper Club.
+
+This group was called Louis Armstrong and His All Stars and included at various times [[Earl Hines|Earl "Fatha" Hines]], [[Barney Bigard]], [[Edmond Hall]], Jack Teagarden, [[Trummy Young]], [[Arvell Shaw]], [[Billy Kyle]], [[Marty Napoleon]], [[Sid Catlett|Big Sid "Buddy" Catlett]], [[Cozy Cole]], [[Tyree Glenn]], [[Barrett Deems]], [[Mort Herbert]], [[Joe Darensbourg]], [[Eddie Shu]], [[Joe Muranyi]] and  percussionist [[Danny Barcelona]]. During this period, Armstrong made many recordings and appeared in over thirty films. He was the first jazz musician to appear on the cover of ''Time'' magazine, on February 21, 1949.  Louis Armstrong and his All Stars were featured at the ninth Cavalcade of Jazz concert also at [[Wrigley Field (Los Angeles)|Wrigley Field]] in Los Angeles produced by [[Leon Hefflin, Sr.|Leon Hefflin Sr.]] held on June 7, 1953, along with [[Shorty Rogers]], [[Roy Brown (blues musician)|Roy Brown]], Don Tosti and His Mexican Jazzmen, [[Earl Bostic]], and [[Nat King Cole|Nat "King" Cole]].<ref>“Satchmo Band Spice To Open Air Show” Article Los Angeles Sentinel May 28, 1953.
+</ref>
+
+===A jazz ambassador===
+[[File:Louis Armstrong (1955).jpg|thumb|left|Armstrong in 1955]]
+
+By the 1950s, Armstrong was a widely beloved American icon and cultural ambassador who commanded an international fanbase. However, a growing generation gap became apparent between him and the young jazz musicians who emerged in the postwar era such as [[Charlie Parker]], [[Miles Davis]], and [[Sonny Rollins]]. The postwar generation regarded their music as abstract art and considered Armstrong's vaudevillian style, half-musician and half-stage entertainer, outmoded and [[Uncle Tom syndrome|Uncle Tomism]], "... he seemed a link to [[Minstrel show|minstrelsy]] that we were ashamed of."<ref name="Starkey2015">{{cite book |last=Starkey|first=Brando Simeo|title=In Defense of Uncle Tom: Why Blacks Must Police Racial Loyalty |url=https://books.google.com/books?id=WzHCBQAAQBAJ&pg=PA147|access-date=13 June 2018|year=2015 |publisher= Cambridge University Press |isbn=978-1-316-21408-4|pages=147–}}</ref> He called bebop "Chinese music".<ref>{{Cite book|title=Music : the definitive visual history|publisher=DK|others=Ziegler, Robert (Conductor), Blenkinsop, Ian,, Day, Kiku,, Grant, R. G.,, Hayes, Malcolm,, Howard, Keith, 1956-|year=2013|isbn=9781465414366|edition= First American |location=London|pages=247|oclc=828055596}}</ref> While touring Australia in 1954, he was asked if he could play bebop. "Bebop?" he husked. "I just play music. Guys who invent terms like that are walking the streets with their instruments under their arms."<ref name="reception">{{cite news |title=Louis Armstrong And Band Get A Hot Reception |url=https://trove.nla.gov.au/newspaper/article/18448805 |newspaper=Sydney Morning Herald (NSW: 1842–1954) |access-date=13 June 2018 |page=1 |date=28 October 1954}}</ref>
+
+[[File:Mack The Knife Coronet.jpg|right|thumb|"[[Mack the Knife]]" was released in 1956.|200x200px]]
+[[File:Ficha Consular de Louis Armstrong.jpg|thumb|Record of Armstrong's visit to Brazil, 1957.]]
+On February 28, 1948, [[Suzy Delair]] sang the French song ''[[C'est si bon]]'' at the [[Hotel Negresco]] during the first [[Nice Jazz Festival]]. Louis Armstrong was present and loved the song. On June 26, 1950, he recorded the American version of the song (English lyrics by [[Jerry Seelen]]) in [[New York City]] with [[Sy Oliver]] and his Orchestra. When it was released, the disc was a worldwide success and the song was then performed by the greatest international singers.
+
+In the 1960s, he toured [[Ghana]] and [[Nigeria]].<ref name="Kelley2012">{{cite book|last=Kelley |first=Robin D.G. |title=Africa Speaks, America Answers: Modern Jazz in Revolutionary Times|url=https://books.google.com/books?id=gduqiA16Ng8C&pg=PA72 |access-date=13 June 2018|year=2012|publisher=Harvard University Press |isbn=978-0-674-06524-6|pages=72–}}</ref><ref name="Company1971">{{cite magazine|magazine=Jet|url=https://books.google.com/books?id=e7EDAAAAMBAJ&pg=PA59 |access-date=13 June 2018|year=1971 |page=59|title=James Brown Goes Through Some New Changes}}</ref>
+
+After finishing his contract with [[Decca Records]], he became a freelance artist and recorded for other labels.<ref name="Nollen2004">{{cite book|last=Nollen|first=Scott Allen |title=Louis Armstrong: The Life, Music, and Screen Career |url=https://archive.org/details/louisarmstrongli0000noll|url-access=registration|access-date=13 June 2018|year=2004 |publisher=McFarland|isbn=978-0-7864-1857-2|page=[https://archive.org/details/louisarmstrongli0000noll/page/127 127]}}</ref><ref>{{cite web|url=https://www.allmusic.com/artist/louis-armstrong-mn0000234518/biography|title=Louis Armstrong|website=[[AllMusic]]|access-date=October 19, 2019}}</ref> He continued an intense international touring schedule, but in 1959 he suffered a heart attack in Italy and had to rest.<ref>{{cite web|url=http://www.biography.com/people/louis-armstrong-9188912|title=Louis Armstrong|website=Biography.com|access-date=October 19, 2019}}</ref>
+
+In 1964, after over two years without setting foot in a studio, he recorded his biggest-selling record, "[[Hello, Dolly! (song)|Hello, Dolly!]]", a song by [[Jerry Herman]], originally sung by [[Carol Channing]]. Armstrong's version remained on the Hot 100 for 22 weeks, longer than any other record produced that year, and went to No.&nbsp;1 making him, at 62 years, 9 months and 5 days, the oldest person ever to accomplish that feat. In the process, he dislodged [[the Beatles]] from the No.&nbsp;1 position they had occupied for 14 consecutive weeks with three different songs.<ref name="Hale">{{cite web |last1=Hale |first1=James |title=Danny Barcelona: 1929–2007 |url=http://www.jazzhouse.org/gone/lastpost2.php3?edit=1176392524 |website=www.jazzhouse.org |access-date=4 July 2007}}</ref>
+
+{{external media | width = 210px | float = right | audio1 = [https://soundcloud.com/studsterkel-radio-archive/louis-daniel-armstrong-talks-with-studs-terkel-on-wfmt-1962624 Louis Daniel Armstrong talks with Studs Terkel on WFMT; 1962/6/24], 33:43, [[Studs Terkel Radio Archive]]<ref name="studs">{{cite web | title =Louis Daniel Armstrong talks with Studs Terkel on WFMT; 1962/6/24 | publisher =[[Studs Terkel Radio Archive]] | date = June 24, 1962 | url =https://soundcloud.com/studsterkel-radio-archive/tracks | access-date =September 27, 2016 }}</ref> }}
+
+Armstrong kept touring well into his 60s, even visiting part of the communist bloc in 1965. He also toured Africa, Europe, and Asia under the [[Jazz ambassadors|sponsorship of the US State Department]] with great success, earning the nickname "Ambassador Satch" and inspiring Dave Brubeck to compose his jazz musical ''[[The Real Ambassadors]]''. By 1968, he was approaching 70 and his health began to give out. He suffered heart and kidney ailments that forced him to stop touring. He did not perform publicly at all in 1969 and spent most of the year recuperating at home. Meanwhile, his longtime manager [[Joe Glaser]] died. By the summer of 1970, his doctors pronounced him fit enough to resume live performances. He embarked on another world tour, but a heart attack forced him to take a break for two months.<ref name="Von Eschen">{{cite book |last1=Von Eschen |first1=Penny M.|author1-link= Penny Von Eschen |title=Satchmo Blows Up the World: Jazz Ambassadors Play the Cold War |date=2004 |publisher=Harvard Univ. Press |location=Cambridge, Massachusetts |isbn=978-0-674-01501-2 |pages=79–91}}</ref>
+
+Armstrong made his last recorded trumpet performances on his 1968 album ''[[Disney Songs the Satchmo Way]]''.<ref name="Whitaker2011">{{cite book|author=Matthew C. Whitaker|title=Icons of Black America: Breaking Barriers and Crossing Boundaries|url=https://books.google.com/books?id=bT1jf8PcqAUC|year=2011|publisher=ABC-CLIO |isbn=978-0-313-37642-9 |page=41}}</ref>
+
+==Personal life==
+
+===Pronunciation of name===
+
+The Louis Armstrong House Museum website states:
+
+{{quote|Judging from home recorded tapes now in our Museum Collections, Louis pronounced his own name as "Lewis". On his 1964 record "Hello, Dolly", he sings, "This is Lewis, Dolly" but in 1933 he made a record called "Laughin' Louie". Many broadcast announcers, fans, and acquaintances called him "Louie" and in a videotaped interview from 1983 Lucille Armstrong calls her late husband "Louie" as well. Musicians and close friends usually called him "Pops".<ref>{{cite web|url=https://www.louisarmstronghouse.org/faq/|title=FAQ – Louis Armstrong House Museum|work=louisarmstronghouse.org}}</ref>}}
+
+In a memoir written for [[Robert Goffin]] between 1943 and 1944, Armstrong states, "All white folks call me Louie," perhaps suggesting that he himself did not or, on the other hand, that no whites addressed him by one of his nicknames such as Pops.<ref>{{cite book
+ |last1=Armstrong
+ |first1=Louis
+ |last2=Brothers
+ |first2=Thomas
+ |year=2001
+ |title=Louis Armstrong, In His Own Words: Selected Writings
+ |url={{Google books|fdxDDe-fb8sC|Louis Armstrong, In His Own Words: Selected Writings|page=109|plainurl=yes}}
+ |page=109
+ |location=New York
+ |publisher=[[Oxford University Press]]
+ |isbn=978-0-19-514046-0
+ |access-date=December 8, 2014
+}}</ref> That said, Armstrong was registered as "Lewie" for the [[United States Census, 1920|1920 U.S. Census]]. On various live records he's called "Louie" on stage, such as on the 1952 "Can Anyone Explain?" from the live album ''In Scandinavia vol.1''. The same applies to his 1952 studio recording of the song "Chloe", where the choir in the background sings "Louie ... Louie", with Armstrong responding "What was that? Somebody called my name?" "Lewie" is the French pronunciation of "Louis" and is commonly used in Louisiana.
+
+===Family===
+[[File:Lucille Wilson and Louis Armstrong.jpg|thumb|Armstrong with Lucille Wilson (c. 1960s)]]
+
+Armstrong was performing at the Brick House in [[Gretna, Louisiana]], when he met Daisy Parker, a local prostitute. He started the affair as a client. He returned to Gretna on several occasions to visit her. He found the courage to look for her home to see her away from work. It was on this occasion that he found out that she had a common-law husband. Not long after this fiasco, Parker traveled to Armstrong's home on Perdido Street.<ref name="bergreen134">Bergreen (1997), 134–37.</ref> They checked into Kid Green's hotel that evening. On the next day, March 19, 1919, Armstrong and Parker married at City Hall.<ref name="bergreen134" /><ref name="Collier2">{{cite book |last1=Collier |first1=James Lincoln |title=Louis Armstrong: An American Genius |date=1983 |publisher=Oxford University Press |location=New York |isbn=978-0-19-503377-9 |page=[https://archive.org/details/louisarmstro00jam/page/81 81] |url=https://archive.org/details/louisarmstro00jam |url-access=registration }}</ref> They adopted a three-year-old boy, Clarence, whose mother, Armstrong's cousin Flora, had died soon after giving birth. Clarence Armstrong was mentally disabled as the result of a head injury at an early age, and Armstrong spent the rest of his life taking care of him.<ref>{{cite news| url= http://www.villagevoice.com/music/0316,giddins,43368,22.html |title=Satchuated |first=Gary |last=Giddins |newspaper= [[Village Voice]] |date= 16–22 April 2003 |access-date= 17 October 2007}}</ref> His marriage to Parker ended when they separated in 1923.
+
+On February 4, 1924, he married [[Lil Hardin Armstrong]], King Oliver's pianist. She had divorced her first husband a few years earlier. His second wife helped him develop his career, but they separated in 1931 and divorced in 1938. Armstrong then married Alpha Smith.<ref>{{cite web | url= http://www.redhotjazz.com/lil.html | title= Lillian Hardin Armstrong | website= RedHotJazz.com | access-date= 16 January 2015 | archive-url= https://web.archive.org/web/20131023073640/http://www.redhotjazz.com/lil.html | archive-date= October 23, 2013 | url-status= dead }}</ref> His relationship with Alpha, however, began while he was playing at the Vendome during the 1920s and continued long after.<ref>{{Cite book|last=Brothers|first=Thomas|title=Louis Armstrong: Master of Modernism|publisher=W.W. Norton & Company|year=2014|isbn=978-0-393-06582-4|location=New York, NY|pages=318}}</ref> His marriage to his third wife lasted four years, and they divorced in 1942. Louis then married Lucille Wilson, a singer at the [[Cotton Club]] in New York, in October 1942; they remained married until his death in 1971.<ref>{{cite web| url= http://www.louisarmstrongfoundation.org/louis.php | website= LouisArmstrongFoundation.org | title= Biography of Louis Daniel Armstrong| publisher= Louis Armstrong Educational Foundation | access-date= 16 January 2015}}</ref>
+
+Armstrong's marriages never produced any offspring.<ref>{{cite web |url = http://www.louisarmstronghouse.org/about/faq.htm# |title=Louis Armstrong: FAQ |publisher=[[Louis Armstrong House]] Museum |access-date=December 18, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20130116083432/http://www.louisarmstronghouse.org/about/faq.htm |archive-date=January 16, 2013 |df=mdy-all }}</ref> However, in December 2012, 57-year-old Sharon Preston-Folta claimed to be his daughter from a 1950s affair between Armstrong and Lucille "Sweets" Preston, a dancer at the Cotton Club.<ref>{{cite news |title=Louis Armstrong's secret daughter revealed, 42 years after his death |first= Jacqui |last= Goddard |newspaper=[[The Daily Telegraph]] |date=December 15, 2012 |url=https://www.telegraph.co.uk/news/worldnews/northamerica/usa/9747518/Louis-Armstrongs-secret-daughter-revealed-42-years-after-his-death.html}}</ref> In a 1955 letter to his manager, Joe Glaser, Armstrong affirmed his belief that Preston's newborn baby was his daughter, and ordered Glaser to pay a monthly allowance of $400 (US${{formatnum:{{Inflation|US|500|1955}}}} in {{Inflation-year|US}} dollars{{inflation-fn|US}}) to mother and child.<ref name="Collier3">{{cite book |last1=Collier |first1=James Lincoln |title=Louis Armstrong: An American Genius |date=1983 |publisher=Oxford University Press |location=New York |isbn=978-0-19-503377-9 |page=[https://archive.org/details/louisarmstro00jam/page/158 158] |url=https://archive.org/details/louisarmstro00jam |url-access=registration }}</ref>
+
+===Personality===
+[[File:10-08-1952 11029 Louis Armstrong (4489142487).jpg|thumb|Armstrong in Belgium in 1952]]
+Armstrong was noted for his colorful and charismatic personality. His autobiography vexed some biographers and historians, as he had a habit of telling tales, particularly of his early childhood when he was less scrutinized, and his embellishments of his history often lack consistency.<ref name="bergreen7">Bergreen (1997), pp. 7–11.</ref>
+
+In addition to being an entertainer, Armstrong was a leading personality of the day.  He was beloved by an American public that gave even the greatest [[African American]] performers little access beyond their public celebrity, and he was able to live a private life of access and privilege afforded to few other African Americans during that era.<ref name="bergreen7"/>
+
+He generally remained politically neutral, which at times alienated him from members of the black community who looked to him to use his prominence with white America to become more of an outspoken figure during the [[civil rights movement]]. However, he did criticize [[President Eisenhower]] for not acting forcefully enough on civil rights.<ref name="bergreen7"/>
+
+===Health problems===
+The trumpet is a notoriously hard instrument on the [[lips]], and Armstrong suffered from lip damage over much of his life due to his aggressive style of playing and preference for narrow mouthpieces that would stay in place more easily, but which tended to dig into the soft flesh of his inner lip. During his 1930s European tour, he suffered an ulceration so severe that he had to stop playing entirely for a year. Eventually he took to using salves and creams on his lips and also cutting off scar tissue with a razor blade. By the 1950s, he was an official spokesman for Ansatz-Creme Lip Salve.<ref>{{cite news|url=https://www.nytimes.com/2016/08/28/nyregion/louis-armstrongs-lip-balm.html|title=Louis Armstrong's Lip Balm|first=Bill|last=Schulz|date=August 26, 2016|newspaper=The New York Times}}</ref>
+
+During a backstage meeting with trombonist Marshall Brown in 1959, Armstrong received the suggestion that he should go to a doctor and receive proper treatment for his lips instead of relying on home remedies, but he did not get around to arranging it until the final years of his life, by which point his health was failing and doctors considered surgery too risky.<ref>"Louis Armstrong: An American Genius", [[James Lincoln Collier|James L. Collier]], 231 pp.</ref>
+
+Also in 1959, Armstrong was hospitalized for [[pneumonia]] while on tour in [[Italy]]. Doctors were concerned about his lungs and heart, but by June 26 he rallied.<ref>"Satchmo Rallies, Jokes" [[The Ottawa Citizen]], June 26, 1959, p.1</ref>
+
+===Nicknames===
+[[File:Armstrong-Alassio (crop).jpg|thumb|right|Autograph of Armstrong on the muretto of [[Alassio]]]]
+
+The nicknames "Satchmo" and "Satch" are short for "Satchelmouth". The nickname has many possible origins.<ref name="bergreen7"/> The most common tale that biographers tell is the story of Armstrong as a young boy in New Orleans dancing for pennies. He scooped the coins off the street and stuck them into his mouth to prevent bigger children from stealing them. Someone dubbed him "satchel mouth" for his mouth acting as a satchel. Another tale is that because of his large mouth, he was nicknamed "satchel mouth" which was shortened to "Satchmo".<ref name="bergreen7"/>
+
+Early on he was also known as "Dipper", short for "Dippermouth", a reference to the piece ''Dippermouth Blues''<ref>Armstrong, 1954, pp. 27–28</ref> and something of a riff on his unusual [[embouchure]].
+
+The nickname "Pops" came from Armstrong's own tendency to forget people's names and simply call them "Pops" instead. The nickname was turned on Armstrong himself. It was used as the title of a 2010 biography of Armstrong by Terry Teachout.<ref name="bergreen7"/>
+
+After a competition at the Savoy, he was crowned and nicknamed "King Menelik," after the Emperor of Ethiopia, for slaying "ofay jazz demons".<ref>{{Cite book|last=Brothers|first=Thomas|title=Louis Armstrong: Master of Modernism|publisher=W.W. Norton & Company|year=2014|isbn=978-0-393-06582-4|location=New York, NY|pages=291}}</ref>
+
+===Race===
+Armstrong was largely accepted into [[White people|white]] society, both on stage and off, a rarity for a Black person at the time. Some musicians criticized Armstrong for playing in front of [[racial segregation in the United States|segregated]] audiences, and for not taking a strong enough stand in the [[American civil rights movement]].<ref>Collier (1985), pp. 317–20</ref> When he did speak out, it made national news, including his criticism of [[Dwight D. Eisenhower|President Dwight D. Eisenhower]], calling him "two-faced" and "gutless" because of his inaction during the [[Little Rock Nine|conflict]] over school [[desegregation]] in [[Little Rock, Arkansas]], in 1957. As a protest, Armstrong canceled a planned tour of the [[Soviet Union]] on behalf of the [[State Department]] saying: "The way they're treating my people in the South, the government can go to hell" and that he could not represent his government abroad when it was in conflict with its own people.<ref name="Louis Armstrong, Barring Soviet Tour, Denounces Eisenhower and Gov. Faubus">
+{{cite news| url = https://www.nytimes.com/books/97/08/03/reviews/armstrong-eisenhower.html | title = Louis Armstrong, Barring Soviet Tour, Denounces Eisenhower and Gov. Faubus| newspaper =[[The New York Times]]|date = September 19, 1957 | access-date = August 30, 2007 }}</ref><ref>{{cite news|date=September 23, 2007|url=https://www.nytimes.com/2007/09/23/opinion/23margolick.html|first=David|last=Margolick|title=The Day Louis Armstrong Made Noise|newspaper=[[The New York Times]]}}</ref> The [[FBI]] kept a file on Armstrong for his outspokenness about integration.<ref>Bergreen (1997), p. 472.</ref>
+
+===Religion===
+When asked about his religion, Armstrong answered that he was raised a [[Baptist]], always wore a [[Star of David]], and was friends with the pope.<ref name=Gabbard>{{cite AV media notes |title=Louis and The Good Book |others=Louis Armstrong |year=2001 |first=Krin |last=Gabbard |page=1 |type=CD booklet |publisher=[[Verve Records]] |location=New York City }}</ref> He wore the Star of David in honor of the Karnoffsky family, who took him in as a child and lent him money to buy his first cornet. He was baptized a Catholic in the Sacred Heart of Jesus Church in New Orleans,<ref name=Gabbard /> and he met [[Pope Pius XII]] and [[Pope Paul VI]].<ref name="bergreen7"/>
+
+===Personal habits===
+Armstrong was concerned with his health. He used [[laxatives]] to control his weight, a practice he advocated both to acquaintances and in the diet plans he published under the title ''Lose Weight the Satchmo Way''.<ref name="bergreen7"/>  Armstrong's laxative of preference in his younger days was [[Pluto Water]], but when he discovered the herbal remedy [[Senna glycoside|Swiss Kriss]], he became an enthusiastic convert,<ref name="bergreen7"/> extolling its virtues to anyone who would listen and passing out packets to everyone he encountered, including members of the [[British Royal Family]]. (Armstrong also appeared in humorous, albeit risqué, cards that he had printed to send out to friends; the cards bore a picture of him sitting on a toilet—as viewed through a keyhole—with the slogan ''"Satch says, 'Leave it all behind ya!'"'')<ref name="LeaveItAllBehindYa">{{cite web| first = Peter | last = Gilstrap | url = https://www.phoenixnewtimes.com/news/leave-it-all-behind-ya-6431842 | title = Leave It All Behind Ya | website = Phoenix New Times |date = February 29, 1996 |access-date = August 31, 2021 |archive-url=https://web.archive.org/web/20201111214821/https://www.phoenixnewtimes.com/news/leave-it-all-behind-ya-6431842|archive-date=11 November 2020|url-status=live}}</ref> The cards have sometimes been incorrectly described as ads for Swiss Kriss.<ref>Teachout, Terry (2009) ''Pops: A Life of Louis Armstrong'' pp. 293–94.</ref> In a live recording of "[[Baby, It's Cold Outside]]" with [[Velma Middleton]], he changes the lyric from "Put another record on while I pour" to "Take some Swiss Kriss while I pour".<ref>Armstrong, Louis. ''Christmas Through the Years'', Laserlight 12744.</ref> His laxative use began as a child when his mother would collect dandelions and peppergrass around the railroad tracks to give to her children for their health.<ref>{{Cite book|last=Brothers|first=Thomas|title=Louis Armstrong: Master of Modernism|publisher=W.W. Norton & Company|year=2014|isbn=978-0-393-06582-4|location=New York, NY|pages=390}}</ref>
+
+Armstrong was a heavy [[marijuana]] smoker for much of his life and spent nine days in jail in 1930 after being arrested for drug possession outside a club. He described marijuana as "a thousand times better than whiskey".<ref>{{cite web|url=http://www.history.com/news/history-lists/9-things-you-may-not-know-about-louis-armstrong|title=9 Things You May Not Know About Louis Armstrong – History Lists}}</ref>
+
+The concern with his health and weight was balanced by his love of food, reflected in such songs as "Cheesecake", "Cornet Chop Suey",<ref>Satchmo.net. 'Red Beans and Ricely yours, Louis Armstrong.'</ref> though "Struttin' with Some Barbecue" was written about a fine-looking companion, not about food.<ref>[https://web.archive.org/web/20031227020046/http://www.cabcalloway.cc/_vti_bin/shtml.exe/jive_dictionary.htm ''Jive Dictionary''], by [[Cab Calloway]]: "''Barbecue (n.) – the girl friend, a beauty''." Retrieved February 10, 2009.</ref> He kept a strong connection throughout his life to the [[Louisiana Creole cuisine|cooking of New Orleans]], always signing his letters, "[[Red beans and rice]]ly yours ..."<ref>Elie p. 327.</ref>
+
+A fan of Major League Baseball, he founded a team in New Orleans that was known as Raggedy Nine and transformed the team into his Armstrong's "[[Secret Nine Baseball]]".<ref>{{cite web|url=http://www.smithsonianmag.com/smithsonian-institution/rare-footage-duke-ellington-highlights-when-jazz-baseball-were-perfect-harmony-180950303/|title=Rare Footage of Duke Ellington Highlights When Jazz and Baseball Were in Perfect Harmony|last=Hasse|first=John E.|date=April 1, 2014 |website=Smithsonian}}</ref>
+
+===Writings===
+Armstrong's gregariousness extended to writing. On the road, he wrote constantly, sharing favorite themes of his life with correspondents around the world. He avidly typed or wrote on whatever stationery was at hand, recording instant takes on music, sex, food, childhood memories, his heavy [[Medical marijuana|"medicinal" marijuana]] use—and even his bowel movements, which he gleefully described.<ref>Bergreen (1997), p. 4.</ref>
+
+===Social organizations===
+Louis Armstrong was not, as is often claimed, a [[Freemason]]. Although he is usually listed as being a member of Montgomery Lodge No. 18 (Prince Hall) in New York, no such lodge has ever existed. However, Armstrong stated in his autobiography that he was a member of the [[Knights of Pythias]], which although real is not a Masonic group.<ref>{{Cite news
+| title = Non-masons – Louis Armstrong
+| work = Grand Lodge of British Columbia and Yukon
+| url = http://www.freemasonry.bcy.ca/biography/armstrong_l/armstrong_l.html
+| access-date = September 3, 2010}}</ref>
+During the krewe's 1949 [[Mardi Gras in New Orleans|Mardi Gras]] parade, Armstrong presided as King of the [[Zulu Social Aid & Pleasure Club]], for which he was featured on the cover of [[Time (magazine)|Time Magazine]].<ref>{{Citation | title = Louis the First | newspaper = Time | date = 1949-02-21 | url = http://content.time.com/time/subscriber/article/0,33009,805063-1,00.html | access-date = 2021-02-05}}</ref>
+
+==Music==
+
+===Horn playing and early jazz===
+[[File:Selmer Trumpet given by King George V to Louis Armstrong.jpg|thumb|right|Selmer trumpet, given as a gift by [[King George V]] of the United Kingdom to Louis Armstrong in 1933]]
+In his early years, Armstrong was best known for his virtuosity with the cornet and trumpet. Along with his "clarinet-like figurations and high notes in his cornet solos",  he was also known for his "intense rhythmic 'swing', a complex conception involving ... accented upbeats, upbeat to downbeat slurring, and complementary relations among rhythmic patterns."<ref>{{cite document | title=The early musical development of Louis Armstrong, 1901–1928 | id={{ProQuest|304443911}} }}</ref> The most lauded recordings on which Armstrong plays trumpet include the [[Louis Armstrong Hot Five and Hot Seven Sessions|Hot Five and Hot Seven sessions]], as well as those of the [[Red Onion Jazz Babies]]. Armstrong's improvisations, while unconventionally sophisticated for that era, were also subtle and highly melodic. The solo that Armstrong plays during the song "[[Potato Head Blues]]" has long been considered his best solo of that series.<ref name="bergreen7"/><ref>Lynn Rene Bayley, "More Jazz: 'Louis Armstrong{{snd}}The Early Years". ''Fanfare{{snd}}The Magazine for Serious Record Collectors''. 09 2008: 408–10. ProQuest. Web. 14 July 2016.</ref>
+
+Prior to Armstrong, most collective ensemble playing in jazz, along with its occasional solos, simply varied the melodies of the songs. Armstrong was virtually the first to create significant variations based on the chord harmonies of the songs instead of merely on the melodies. This opened a rich field for creation and improvisation, and significantly changed the music into a soloist's art form.<ref name="bergreen7"/>
+
+Often, Armstrong re-composed pop-tunes he played, simply with variations that made them more compelling to jazz listeners of the era. At the same time, however, his oeuvre includes many original melodies, creative leaps, and relaxed or driving rhythms. Armstrong's playing technique, honed by constant practice, extended the range, tone and capabilities of the trumpet. In his records, Armstrong almost single-handedly created the role of the jazz soloist, taking what had been essentially a collective folk music and turning it into an art form with tremendous possibilities for individual expression.<ref name="bergreen7"/>
+
+Armstrong was one of the first artists to use recordings of his performances to improve himself. Armstrong was an avid audiophile. He had a large collection of recordings, including reel-to-reel tapes, which he took on the road with him in a trunk during his later career. He enjoyed listening to his own recordings, and comparing his performances musically. In the den of his home, he had the latest audio equipment and would sometimes rehearse and record along with his older recordings or the radio.<ref>Michael Cogswell, ''Louis Armstrong: The Offstage Story of Satchmo'' (Collector's Press, [[Portland, Oregon|Portland]], Oregon, 2003) {{ISBN|1-888054-81-6}} pp. 66–68.</ref>
+
+===Vocal popularity===
+As his music progressed and popularity grew, his singing also became very important. Armstrong was not the first to record scat singing, but he was masterful at it and helped popularize it with the first recording on which he scatted, "[[Heebie Jeebies (composition)|Heebie Jeebies]]". At a recording session for [[Okeh Records]], when the sheet music supposedly fell on the floor and the music began before he could pick up the pages, Armstrong simply started singing nonsense syllables while Okeh president E.A. Fearn, who was at the session, kept telling him to continue. Armstrong did, thinking the track would be discarded, but that was the version that was pressed to disc, sold, and became an unexpected hit. Although the story was thought to be apocryphal, Armstrong himself confirmed it in at least one interview as well as in his memoirs.<ref>{{cite news|url=https://www.npr.org/2007/08/22/13829155/louis-armstrong-the-singer|title=NPR's Jazz Profiles from NPR: Louis Armstrong: The Singer |newspaper=NPR.org |publisher=National Public Radio |access-date=June 16, 2021}}</ref> On a later recording, Armstrong also sang out "I done forgot the words" in the middle of recording "I'm A Ding Dong Daddy From Dumas".
+
+Such records were hits and scat singing became a major part of his performances. Long before this, however, Armstrong was playing around with his vocals, shortening and lengthening phrases, interjecting improvisations, using his voice as creatively as his trumpet.<ref name="bergreen7"/> Armstrong once told [[Cab Calloway]] that his scat style was derived "from the Jews ''rockin''", an Orthodox Jewish style of chanting during prayer.<ref>{{Cite news|url=https://forward.com/culture/197338/louis-armstrongs-secret-lessons-from-judaism/|title=Louis Armstrong's Secret Lessons From Judaism|work=The Forward|access-date=2018-01-12}}</ref><ref>{{Cite book|url=https://archive.org/details/louisarmstrong00laur|title=Louis Armstrong: An Extravagant Life|last=Bergreen|first=Laurence|year=1998|publisher=Broadway Books|isbn=978-0-7679-0156-7|edition=Reprint|location=New York|language=en|url-access=registration}}</ref>
+
+===Composing===
+Armstrong was a gifted composer who wrote more than fifty songs, some of which have become [[jazz standards]] (e.g. "Gully Low Blues", "Potato Head Blues" and "Swing That Music").
+
+===Colleagues and followers===
+[[File:Satchmo Messuhallissa.jpg|thumb|With [[Jack Teagarden]] (left) and [[Barney Bigard]] (right), Armstrong plays the trumpet in [[Helsinki, Finland]], October 1949]]
+During his long career he played and sang with some of the most important instrumentalists and vocalists of the time; among them were Bing Crosby, [[Duke Ellington]], [[Fletcher Henderson]], [[Earl Hines]], [[Jimmie Rodgers (country singer)|Jimmie Rodgers]], [[Bessie Smith]] and perhaps most famously [[Ella Fitzgerald]]. His influence upon Crosby is particularly important with regard to the subsequent development of popular music: Crosby admired and copied Armstrong, as is evident on many of his early recordings, notably "Just One More Chance" (1931).<ref name="bergreen7"/>  The ''New Grove Dictionary of Jazz'' describes Crosby's debt to Armstrong in precise detail, although it does not acknowledge Armstrong by name:
+
+{{quote|Crosby ... was important in introducing into the mainstream of popular singing an Afro-American concept of song as a lyrical extension of speech ... His techniques—easing the weight of the breath on the vocal cords, passing into a [[head voice]] at a low register, using forward production to aid distinct [[enunciation]], singing on consonants (a practice of black singers), and making discreet use of [[appoggiatura]]s, [[mordent]]s, and [[slur (music)|slurs]] to emphasize the text—were emulated by nearly all later popular singers.}}
+
+Armstrong recorded two albums with Ella Fitzgerald: ''[[Ella and Louis]]'', and ''[[Ella and Louis Again]]'' for [[Verve Records]], with the sessions featuring the backing musicianship of the [[Oscar Peterson]] Trio and drummers [[Buddy Rich]] (on the first album), and [[Louie Bellson]] (on the second). [[Norman Granz]] then had the vision for Ella and Louis to record ''[[Porgy and Bess (Ella Fitzgerald and Louis Armstrong album)|Porgy and Bess]]''.
+
+His recordings for [[Columbia Records]], ''[[Louis Armstrong Plays W.C. Handy]]'' (1954) and ''Satch Plays Fats'' (all [[Fats Waller]] tunes) (1955) were both being considered masterpieces, as well as moderately well selling. In 1961 the All Stars participated in two albums—''The Great Summit'' and ''The Great Reunion'' (now together as a single disc) with [[Duke Ellington]]. The albums feature many of Ellington's most famous compositions (as well as two exclusive cuts) with Duke sitting in on piano. His participation in [[Dave Brubeck]]'s high-concept jazz musical ''[[The Real Ambassadors]]'' (1963) was critically acclaimed, and features "Summer Song", one of Armstrong's most popular vocal efforts.
+
+[[File:Louis Armstrong NYWTS 4.jpg|thumb|upright|Louis Armstrong in 1966]]
+[[List of Billboard Hot 100 number ones of 1964|In the week beginning May 9, 1964]], his recording of the song "[[Hello Dolly (song)|Hello, Dolly]]" went to number one. An [[Hello, Dolly! (Louis Armstrong album)|album of the same title]] was quickly created around the song, and also shot to number one (knocking [[The Beatles]] off the top of the chart). The album sold very well for the rest of the year, quickly going "Gold" (500,000). His performance of "Hello Dolly" won for best male pop vocal performance at the 1964 [[Grammy Awards]].
+
+===Hits and later career===
+Armstrong had nineteen "Top Ten" records<ref name="billboard.com">{{cite web|url=https://www.billboard.com/artist/308288/louis-armstrong/biography|title=Louis Armstrong|work=billboard.com}}</ref> including "[[Stardust (1927 song)|Stardust]]", "[[What a Wonderful World]]", "[[When The Saints Go Marching In]]", "[[Dream a Little Dream of Me (song)|Dream a Little Dream of Me]]", "[[Ain't Misbehavin' (song)|Ain't Misbehavin']]", "[[You Rascal You]]", and "[[Stompin' at the Savoy]]". "[[We Have All the Time in the World]]" was featured on the soundtrack of the [[James Bond]] film ''[[On Her Majesty's Secret Service (film)|On Her Majesty's Secret Service]]'', and enjoyed renewed popularity in the UK in 1994 when it featured on a [[Guinness]] advertisement. It reached number 3 in the charts on being re-released.
+
+In 1964, Armstrong knocked [[The Beatles]] off the top of the [[Billboard Hot 100|''Billboard'' Hot 100]] chart with "[[Hello, Dolly! (song)|Hello, Dolly!]]", which gave the 63-year-old performer a U.S. record as the oldest artist to have a number one song. His 1964 song "Bout Time" was later featured in the film ''[[Bewitched (2005 film)|Bewitched]]''.<ref name="bergreen7"/>
+
+In February 1968, he appeared with Lara Saint Paul on the Italian [[RAI]] television channel where he performed "Grassa e Bella", a track he sang in Italian for the Italian market and C.D.I. label.<ref>Louis Armstrong: "''Grassa e bella''" [http://michaelminn.net/armstrong/index.php?section8 Louis Armstrong Discography] {{webarchive|url=https://web.archive.org/web/20140111230507/http://michaelminn.net/armstrong/index.php?section8 |date=January 11, 2014 }}</ref>
+
+In 1968, Armstrong scored one last popular hit in the United Kingdom with "[[What a Wonderful World]]", which topped the British charts for a month. Armstrong appeared on the October 28, 1970, ''[[The Johnny Cash Show (TV series)|Johnny Cash Show]]'', where he sang [[Nat King Cole]]'s hit "[[Ramblin' Rose]]" and joined Cash to re-create his performance backing Jimmie Rodgers on "Blue Yodel No. 9".
+
+===Stylistic range===
+Armstrong enjoyed many types of music, from blues to the arrangements of [[Guy Lombardo]], to Latin American folksongs, to classical symphonies and [[opera]]. He incorporated influences from all these sources into his performances, sometimes to the bewilderment of fans who wanted him to stay in convenient narrow categories. Armstrong was inducted into the [[Rock and Roll Hall of Fame]] as an ''early influence''. Some of his solos from the 1950s, such as the [[rock and roll|hard rocking]] version of "[[St. Louis Blues (song)|St. Louis Blues]]" from the ''WC Handy'' album, show that the influence went in both directions.<ref name="bergreen7"/>
+
+==Film, television, and radio==
+{{See also|Louis Armstrong filmography}}
+[[File:Louis Armstrong and Grace Kelly on the set of "High Society", 1956.jpg|thumb|upright|Armstrong entertains [[Grace Kelly]] on the set of ''High Society'' in 1956.]]
+[[File:Hello, Dolly!12.jpg|thumb|Armstrong alongside [[Barbra Streisand]] in ''[[Hello, Dolly! (film)|Hello, Dolly!]]'' (1969)]]
+Armstrong appeared in more than a dozen Hollywood films, usually playing a bandleader or musician. His most familiar role was as the bandleader ''cum'' narrator in the 1956 musical ''[[High Society (1956 film)|High Society]]'' starring Bing Crosby, [[Grace Kelly]], [[Frank Sinatra]], and [[Celeste Holm]]. He appears throughout the film, also sings the title song as well as performs a duet with Crosby, "[[Now You Has Jazz]]".<ref>{{cite web|url=https://www.tcm.com/video/192833/high-society-1956-high-society-calpyso|title= High Society (1956) - High Society Calpyso|website= [[Turner Classic Movies]]|access-date= November 24, 2020}}</ref> In 1947, he played himself in the movie ''[[New Orleans (1947 film)|New Orleans]]'' opposite Billie Holiday, which chronicled the demise of the [[Storyville, New Orleans#Closure|Storyville district]] and the ensuing exodus of musicians from New Orleans to Chicago. In the 1959 film ''[[The Five Pennies]]'' he played himself, sang, and played several classic numbers. With [[Danny Kaye]] he performed a duet of "When the Saints Go Marching In" during which Kaye impersonated Armstrong. He had a part in the film alongside James Stewart in ''[[The Glenn Miller Story]]''.
+
+In 1937, Armstrong was the first African American to host a [[The Fleischmann's Yeast Hour#Guests|nationally broadcast radio show]].<ref name=LAHM-still>{{cite web |last=Riccardi |first=Ricky |date=May 11, 2020 |title="I'm Still Louis Armstrong–Colored": Louis Armstrong and the Civil Rights Era |url=https://virtualexhibits.louisarmstronghouse.org/2020/05/11/im-still-louis-armstrong-colored-louis-armstrong-and-the-civil-rights-era/ |url-status=live |work=Louis Armstrong House Museum |location=[[Louis Armstrong House]] |archive-url=https://web.archive.org/web/20210123064520/https://virtualexhibits.louisarmstronghouse.org/2020/05/11/im-still-louis-armstrong-colored-louis-armstrong-and-the-civil-rights-era/ |archive-date=January 23, 2021 |access-date=April 3, 2021}}</ref> In 1969, he had a cameo role in [[Gene Kelly]]'s film version of ''[[Hello, Dolly! (film)|Hello, Dolly!]]'' as the bandleader Louis. He sang the title song with actress [[Barbra Streisand]]. His solo recording of "[[Hello, Dolly! (song)|Hello, Dolly!]]" is one of his most recognizable performances.<ref name="bergreen7"/> He was heard on such radio programs as ''The Story of Swing'' (1937) and ''This Is Jazz'' (1947), and he also made television appearances, especially in the 1950s and 1960s, including appearances on ''[[The Tonight Show Starring Johnny Carson]]''.<ref name="bergreen7"/>
+
+Argentine writer [[Julio Cortázar]], a self-described Armstrong admirer, asserted that a 1952 Louis Armstrong concert at the [[Théâtre des Champs-Élysées]] in Paris played a significant role in inspiring him to create the fictional creatures called [[Cronopio (literature)|Cronopios]] that are the subject of a number of Cortázar's short stories. Cortázar once called Armstrong himself "Grandísimo Cronopio" (The Great Cronopio).<ref name="bergreen7"/>
+
+There is a pivotal scene in ''[[Stardust Memories]]'' (1980) in which [[Woody Allen]] is overwhelmed by a recording of Armstrong's "[[Stardust (1927 song)|Stardust]]" and experiences a nostalgic epiphany.<ref>{{cite web|url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19800101/REVIEWS/1010330/1023 |title=Stardust Memories|publisher=Rogerebert.suntimes.com |date=January 1, 1980 |access-date=August 17, 2009}}</ref>
+
+==Death==
+[[File:Satchmo's place.jpg|thumb|left|The Flushing Cemetery resting place of Louis 'Satchmo' Armstrong]]
+Against his doctor's advice, Armstrong played a two-week engagement in March 1971 at the [[Waldorf-Astoria]]'s Empire Room. At the end of it, he was hospitalized for a [[myocardial infarction|heart attack]].<ref>Morgenstern, Dan, and Sheldon Meyer (2004). [https://books.google.com/books?id=GVWrw0dtuAMC&pg=PT95&dq= ''Living with Jazz'']. New York: Pantheon Books. {{ISBN|0-375-42072-X}}</ref> He was released from the hospital in May, and quickly resumed practicing his trumpet playing. Still hoping to get back on the road, Armstrong died of a heart attack in his sleep on July 6, 1971, a month before his 70th birthday.<ref>Meckna, Michael; Satchmo, The Louis Armstrong Encyclopedia, Greenwood Press, Connecticut & London, 2004.</ref>  He was residing in [[Corona, Queens]], New York City, at the time of his death.<ref>Krebs, Albin. [https://www.nytimes.com/learning/general/onthisday/bday/0804.html "Louis Armstrong, Jazz Trumpeter and Singer, Dies"], ''The New York Times'', July 7, 1971. Accessed October 1, 2009. "Louis Armstrong, the celebrated jazz trumpeter and singer, died in his sleep yesterday morning at his home in the Corona section of Queens."</ref> He was interred in [[Flushing Cemetery]], [[Flushing, Queens|Flushing]], in [[Queens]], New York City.
+His honorary [[pallbearers]] included Bing Crosby, [[Ella Fitzgerald]], [[Dizzy Gillespie]], [[Pearl Bailey]], [[Count Basie]], [[Harry James]], [[Frank Sinatra]], [[Ed Sullivan]], [[Earl Wilson (columnist)|Earl Wilson]], [[Alan King]], [[Johnny Carson]] and [[David Frost]].<ref>{{cite book|last=[[James Lincoln Collier|Collier]]|first=[[James Lincoln Collier|James Lincoln]]|title=Louis Armstrong|url=https://archive.org/details/louisarmstrongam00coll|url-access=registration|year=1985|publisher=Pan|isbn=978-0-330-28607-7|page=333}}</ref> [[Peggy Lee]] sang [[The Lord's Prayer]] at the services while [[Al Hibbler]] sang "[[Nobody Knows the Trouble I've Seen]]" and Fred Robbins, a long-time friend, gave the eulogy.<ref>{{cite web|url=http://www.upi.com/Audio/Year_in_Review/Events-of-1971/12295509436546-1/#title |title=Louis Armstrong Dies: 1971 Year in Review |publisher=Upi.com |date=December 28, 1971 |access-date=August 17, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090503142809/http://www.upi.com/Audio/Year_in_Review/Events-of-1971/12295509436546-1/ |archive-date=May 3, 2009 }}</ref>
+
+==Awards and honors==
+
+===Grammy Awards===
+Armstrong was posthumously awarded the [[Grammy Lifetime Achievement Award]] in 1972 by the Academy of Recording Arts and Sciences. This Special Merit Award is presented by vote of the Recording Academy's National Trustees to performers who, during their lifetimes, have made creative contributions of outstanding artistic significance to the field of recording.<ref>{{cite web|url=http://www.grammy.com/Recording_Academy/Awards/Lifetime_Awards/ |title=Lifetime Achievement Award |publisher=Grammy.com |date=February 8, 2009 |access-date=August 17, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090212143148/http://grammy.com/Recording_Academy/Awards/Lifetime_Awards/ |archive-date=February 12, 2009 }}</ref>
+
+{| class=wikitable
+|-
+! Year
+! Category
+! Title
+! Genre
+! Label
+! Result
+|-
+| 1964
+| Male Vocal Performance
+| "[[Hello, Dolly! (song)|Hello, Dolly!]]"
+| Pop
+| Kapp
+| Winner
+|}
+
+===Grammy Hall of Fame===
+Recordings of Armstrong were inducted into the [[Grammy Hall of Fame]], which is a special Grammy award established in 1973 to honor recordings that are at least 25 years old, and that have "qualitative or historical significance".<ref>{{cite web|url=http://www.grammy.org/recording-academy/awards/hall-of-fame |title=Grammy Hall of Fame Database |publisher=Grammy.com |date=February 8, 2009 |access-date=August 17, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20110122042616/http://www.grammy.org/recording-academy/awards/hall-of-fame |archive-date=January 22, 2011 }}</ref><ref>{{cite web|url=http://www.grammy.com/PressReleases/443_466_Hall%20of%20Fame%20release%20FINAL.pdf |title=The Recording Academy |access-date=August 17, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090612184539/http://www.grammy.com/PressReleases/443_466_Hall%20of%20Fame%20release%20FINAL.pdf |archive-date=June 12, 2009 }}</ref>
+
+{| class="wikitable sortable"
+|-
+! Year recorded
+! Title
+! Label
+! Year inducted
+! Notes
+|-
+| 1925
+| "[[St. Louis Blues (song)|St. Louis Blues]]"
+| Columbia
+| 1993
+| [[Bessie Smith]] with Louis Armstrong, cornet
+|-
+| 1926
+| "[[Heebie Jeebies (composition)|Heebie Jeebies]]"
+| OKeh
+| 1999
+|
+|-
+| 1928
+| "[[West End Blues]]"
+| OKeh
+| 1974
+|
+|-
+| 1928
+| "[[Weather Bird]]"
+| OKeh
+| 2008
+| with [[Earl Hines]]
+|-
+| 1929
+| "[[St. Louis Blues (song)|St. Louis Blues]]"
+| OKeh
+| 2008
+|with [[Red Allen]]
+|-
+| 1930
+| "[[Standing on the Corner (Blue Yodel No. 9)|Blue Yodel No.&nbsp;9<br />(Standing on the Corner)]]"
+| Victor
+| 2007
+| Jimmie Rodgers (featuring Louis Armstrong)
+|-
+| 1932
+| "[[All of Me (Ruth Etting song)|All of Me]]"
+| Columbia
+| 2005
+|
+|-
+| 1938
+| "[[When the Saints Go Marching In]]"
+| Decca
+| 2016
+|
+|-
+| 1955
+| "[[Mack the Knife]]"
+| Columbia
+| 1997
+|
+|-
+| 1958
+| ''[[Porgy and Bess (Ella Fitzgerald and Louis Armstrong album)|Porgy and Bess]]''
+| Verve
+| 2001
+| Album, with [[Ella Fitzgerald]]
+|-
+| 1964
+| "[[Hello, Dolly! (song)|Hello, Dolly!]]"
+| Kapp
+| 2001
+|
+|-
+| 1967
+| "[[What a Wonderful World]]"
+| ABC
+| 1999
+|
+|}
+
+===Rock and Roll Hall of Fame===
+The [[Rock and Roll Hall of Fame]] listed Armstrong's ''West End Blues'' on the list of 500 songs that shaped Rock and Roll.<ref>{{cite web|url=http://rockhall.com/exhibits/one-hit-wonders-songs-that-shaped-rock-and-roll/ |title=Experience The Music: One Hit Wonders and The Songs That Shaped Rock and Roll |publisher=Rockhall.com |access-date=May 7, 2011}}</ref>
+
+{| class=wikitable
+|-
+! Year recorded
+! Title
+! Label
+! Group
+|-
+| 1928
+| [[West End Blues]]
+| [[Okeh Records|Okeh]]
+| [[Louis Armstrong and his Hot Five]]
+|}
+
+===Inductions and honors===
+In 1995, the [[List of people on stamps of the United States|U.S. Post Office]] issued a Louis Armstrong 32 cents commemorative postage stamp.
+
+{| class=wikitable
+|-
+! Year inducted
+! Title
+! Notes
+|-
+| 1952
+| [[Down Beat|Down Beat Jazz Hall of Fame]]
+|
+|-
+| 1960<ref name=HollywoodWalkOfFame>{{cite web|url=http://www.walkoffame.com/louis-armstrong |title=Hollywood Walk of Fame |publisher=Walkoffame.com |date=February 8, 1960 |access-date=October 2, 2011}}</ref>
+| [[List of stars on the Hollywood Walk of Fame|Hollywood Walk of Fame]]
+| Star at 7601 Hollywood Blvd.
+|-
+| 1978
+| Big Band and Jazz Hall of Fame
+|
+|-
+| 2004
+| Nesuhi Ertegun Jazz Hall of Fame
+| At [[Jazz at Lincoln Center]]
+|-
+| 1990
+| [[List of Rock and Roll Hall of Fame inductees|Rock and Roll Hall of Fame]]
+| Early influence
+|-
+| 2007
+| [[Louisiana Music Hall of Fame]]
+|
+|-
+| 2007
+| [[Gennett Records]] Walk of Fame, [[Richmond, Indiana|Richmond]], Indiana
+|
+|-
+| 2007
+| [[Long Island Music Hall of Fame]]
+|
+|}
+
+===Film honors===
+In 1999 Armstrong was nominated for inclusion in the [[American Film Institute]]'s [[AFI's 100 Years...100 Stars|100 Years ... 100 Stars]].<ref>{{cite web|url=http://www.afi.com/Docs/100Years/stars500.pdf |title=AFI's 100 Years ... 100 Stars Nominees |access-date=2012-08-22}}</ref>
+
+==Legacy==
+The influence of Armstrong on the development of jazz is virtually immeasurable. His irrepressible personality both as a performer and as a public figure was so strong that to some it sometimes overshadowed his contributions as a musician and singer.
+
+As a virtuoso trumpet player, Armstrong had a unique tone and an extraordinary talent for melodic [[improvisation]]. Through his playing, the trumpet emerged as a solo instrument in jazz and is used widely today. Additionally, jazz itself was transformed from a collectively improvised folk music to a soloist's serious art form largely through his influence. He was a masterful accompanist and ensemble player in addition to his extraordinary skills as a soloist. With his innovations, he raised the bar musically for all who came after him.
+
+Though Armstrong is widely recognized as a pioneer of scat singing, [[Ethel Waters]] precedes his scatting on record in the 1930s according to [[Gary Giddins]] and others.<ref>See ''Ken Burns' Jazz'' CD Set liner notes.</ref> Billie Holiday and Frank Sinatra are just two singers who were greatly indebted to him. Holiday said that she always wanted [[Bessie Smith]]'s 'big' sound and Armstrong's feeling in her singing. Even special musicians like Duke Ellington have praised Armstrong through strong testimonials. Duke Ellington, [[DownBeat]] magazine in 1971, said, "If anybody was a master, it was Louis Armstrong. He was and will continue to be the embodiment of jazz."<ref>{{Cite book|url=https://books.google.com/books?id=40FU7dEiB78C&q=%22%22If%20anybody%20was%20a%20master,%20it%20was%20Louis%20Armstrong.%22%22&pg=PA168|title=Jazz Meets the World-the World Meets Jazz|last=Storb|first=Ilse|date=2000|publisher=LIT Verlag Münster|isbn=978-3-8258-3748-8|language=en}}</ref> In 1950, [[Bing Crosby]], the most successful vocalist of the first half of the 20th century, said, "He is the beginning and the end of music in America."<ref>{{cite web|url=http://movies2.nytimes.com/books/01/02/11/reviews/010211.11gottlit.html|title=A Long Way From Tacoma|website=movies2.nytimes.com|access-date=2018-09-28}}</ref>
+
+In the summer of 2001, in commemoration of the centennial of Armstrong's birth, New Orleans's main airport was renamed [[Louis Armstrong New Orleans International Airport]].
+
+In 2002, the [[Louis Armstrong and his Hot Five|Louis Armstrong's Hot Five and Hot Seven]] recordings (1925–1928) were preserved in the United States National Recording Registry, a registry of [[Sound recording and reproduction|recordings]] selected yearly by the [[National Recording Preservation Board]] for preservation in the [[National Recording Registry]] of the [[Library of Congress]].<ref>{{cite web|url=https://www.loc.gov/rr/record/nrpb/registry/nrpb-2002reg.html |title=Library of Congress archive |publisher=Loc.gov |date=February 18, 2009 |access-date=August 17, 2009}}</ref>
+
+The [[US Open (tennis)|US Open]] tennis tournament's former main stadium was named [[Louis Armstrong Stadium]] in honor of Armstrong who had lived a few blocks from the site.<ref>{{cite web|url=http://www.usta.com/Active/News/National-Tennis-Center-News/National-Tennis-Center/14185_Ashe__Armstrong_Stadiums/ |title=Ashe & Armstrong Stadiums |publisher=Usta.com |date= May 25, 2008|access-date=May 7, 2011}}</ref>
+
+''[[Congo Square]]'' was a common gathering place for African-Americans in New Orleans for dancing and performing music. The park where Congo Square is located was later renamed [[Louis Armstrong Park]].<ref>Bergreen (1997), p. 11.</ref> Dedicated in April 1980, the park includes a 12-foot statue of Armstrong, trumpet in hand.<ref>{{Cite news |date=April 16, 1980 |title=Armstrong Park Dedicated |url=https://www.newspapers.com/clip/24648140/louis_armstrong_louis_armstrong_park/ |newspaper=Daily World |location=Opelousas, Louisiana |page=3 |agency=[[United Press International|UPI]] |via=[[Newspapers.com]] |access-date=October 25, 2018 |archive-url=https://web.archive.org/web/20181030034956/https://www.newspapers.com/clip/24648140/louis_armstrong_louis_armstrong_park/ |archive-date=October 30, 2018 |url-status=live }} {{Open access}}</ref>
+
+The house where Armstrong lived for almost 28 years was declared a [[National Historic Landmark]] in 1977 and is now a museum. The [[Louis Armstrong House|Louis Armstrong House Museum]], at 34-56 107th Street between 34th and 37th avenues in [[Corona, Queens]], presents concerts and educational programs, operates as a historic house museum and makes materials in its archives of writings, books, recordings and memorabilia available to the public for research. The museum is operated by the [[Queens College, City University of New York]], following the dictates of Lucille Armstrong's will. The museum opened to the public on October 15, 2003. A new visitors center is planned.<ref name="visitorscenter">
+{{Cite news| url =http://www.qchron.com/editions/western/new-visitor-center-at-armstrong-museum/article_0968722c-bb92-57e9-8de4-e749c6801c24.html|title = New visitor center at Armstrong museum| publisher = Queens Chronicle|date = November 10, 2011| access-date = April 1, 2012}}</ref>
+
+According to literary critic Harold Bloom, "The two great American contributions to the world's art, in the end, are Walt Whitman and, after him, Armstrong and jazz ... If I had to choose between the two, ultimately, I wouldn't. I would say that the genius of this nation at its best is indeed Walt Whitman and Louis Armstrong."<ref>{{Cite web|url=http://radioopensource.org/at-home-with-harold-bloom-3-the-jazz-bridge/|title=At Home with Harold Bloom: (3) The Jazz Bridge|website=Radioopensource.org|date=December 30, 2007|access-date=October 19, 2019}}</ref>
+
+Louis Armstrong was among hundreds of artists whose material was reportedly destroyed in the [[2008 Universal fire]].<ref name="Rosen2">{{cite web |last1=Rosen |first1=Jody |title=Here Are Hundreds More Artists Whose Tapes Were Destroyed in the UMG Fire |url=https://www.nytimes.com/2019/06/25/magazine/universal-music-fire-bands-list-umg.html |website=The New York Times |access-date=28 June 2019 |date=25 June 2019}}</ref>
+
+==Discography==
+{{main|Louis Armstrong discography}}
+
+==See also==
+* [[:Category:Louis Armstrong albums|Louis Armstrong albums on Wikipedia]]
+* [[:Category:Louis Armstrong songs|Louis Armstrong songs on Wikipedia]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Works cited==
+* Armstrong, Louis (1954). ''Satchmo: My Life in New Orleans''. {{ISBN|0-306-80276-7}}
+* Bergreen, Laurence (1997). ''Louis Armstrong: An Extravagant Life''. {{ISBN|0-553-06768-0}}
+* Cogswell, Michael (2003). ''Armstrong: The Offstage Story''. {{ISBN|1-888054-81-6}}
+* [[Terry Teachout|Teachout, Terry]] (2009). ''Pops{{snd}}A life of Louis Armstrong''. {{ISBN|978-0-15-101089-9}}
+
+==Further reading==
+* Elie, Lolis Eric. ''A Letter from New Orleans.'' Originally printed in ''Gourmet''. Reprinted in ''Best Food Writing 2006'', ed. by Holly Hughes, Da Capo Press, 2006. {{ISBN|1-56924-287-9}}
+* Goffin, Robert. ''Horn of Plenty: The Story of Louis Armstrong''. Da Capo Press, 1977. {{ISBN|0-306-77430-5}}
+* [[Max Jones (musician)|Jones, Max]] and Chilton, John. ''Louis: The Louis Armstrong Story, 1900–1971''. Da Capo Press, 1988. {{ISBN|978-0-306-80324-6}}
+* Meckna, Michael (2004). ''Satchmo: The Louis Armstrong Encyclopedia''. {{ISBN|0-313-30137-9}}
+* Storb, Ilse (1999). ''Louis Armstrong: The Definitive Biography''.  {{ISBN|0-8204-3103-6}}
+* Willems, Jos. ''All of Me: The Complete Discography of Louis Armstrong''. Scarecrow Press, 2006. {{ISBN|978-0-8108-5730-8}}
+* Williams, Iain Cameron [http://www.bloomsbury.com/us/underneath-a-harlem-moon-9780826458933/ ''Underneath a Harlem Moon: The Harlem to Paris Years of Adelaide Hall'']. Bloomsbury Publishers, 2002. {{ISBN|0-8264-5893-9}}
+
+==External links==
+{{Library resources box|by=yes|onlinebooks=no|about=yes|lcheading=Louis Armstrong}}
+{{Commons category}}
+{{Wikiquote}}
+* [https://web.archive.org/web/20070812185050/http://www.michaelminn.net/armstrong/ The Louis Armstrong Discography]
+* [https://web.archive.org/web/20140501141638/http://redhotjazz.com/louie.html Louis Armstrong: discography and early recordings (RealPlayer format)] on the Red Hot Jazz website
+* [https://www.louisarmstronghouse.org/ The Louis Armstrong House Museum]
+* [https://lccn.loc.gov/2020570084/ Lucille Preston and Louis Armstrong Correspondence] at the Library of Congress
+* [https://web.archive.org/web/20181116102419/https://www.larmstrongsoc.org/ The Louis Armstrong Society Jazz Band]
+* [https://npg.si.edu/exh/armstrong/index.htm Louis Armstrong: A Cultural Legacy]
+* [http://blog.dlg.galileo.usg.edu/?p=2445 Louis Armstrong in Athens], Blog of the Digital Library of Georgia
+* [http://www.themeister.co.uk/dixie/dixieland_jazz.htm "Louis Armstrong Transcription Project – John P Birchall"]
+* [https://archive.org/details/satchmomylifeinn001956mbp ''Satchmo – My Life in New Orleans'' (1954) free download], autobiography
+* [https://adp.library.ucsb.edu/names/101863 Louis Armstrong recordings] at the [[Discography of American Historical Recordings]].
+* [https://web.archive.org/web/20010816123351/http://seeingblack.com/x040901/armstrong.shtml "How (and Why) I Grew to Love King Louis"] on the Uncle Tom question
+* [https://web.archive.org/web/20140503184313/http://www.gadflyonline.com/archive/MarchApril00/archive-louisarmstrong.html "When I Pick Up That Horn, That's All" by Nat Hentoff]
+* {{Find a Grave|36}}
+* {{IMDb name|0001918}}
+* {{NYTtopic|people/a/louis_armstrong}}
+* {{Worldcat id|lccn-n50-1506}}
+* {{Discogs artist}}
+
+{{Louis Armstrong}}
+{{Navboxes
+| title = Awards for Louis Armstrong
+| list =
+{{Grammy Award for Best Male Pop Vocal Performance}}
+{{Grammy Lifetime Achievement Award}}
+{{1990 Rock and Roll Hall of Fame}}
+}}
+{{Voyager Golden Record}}
+{{Portal bar|Biography}}
+
+{{Authority control}}
+
+<!-- all categories -->
+
+{{DEFAULTSORT:Armstrong, Louis}}
+[[Category:Louis Armstrong| ]]
+[[Category:1901 births]]
+[[Category:1971 deaths]]
+[[Category:20th-century African-American male singers]]
+[[Category:ABC Records artists]]
+[[Category:Burials at Flushing Cemetery]]
+[[Category:People from Corona, Queens]]
+[[Category:People from New Orleans]]
+[[Category:African-American male actors]]
+[[Category:American male film actors]]
+[[Category:American radio hosts]]
+<!-- musical cats -->
+[[Category:African-American jazz musicians]]
+[[Category:American street performers]]
+[[Category:American jazz bandleaders]]
+[[Category:American jazz cornetists]]
+[[Category:American jazz trumpeters]]
+[[Category:American male trumpeters]]
+[[Category:20th-century trumpeters]]
+[[Category:American jazz singers]]
+[[Category:Big band bandleaders]]
+[[Category:Dixieland bandleaders]]
+[[Category:Dixieland singers]]
+[[Category:Dixieland trumpeters]]
+[[Category:Jazz musicians from New Orleans]]
+[[Category:Swing bandleaders]]
+[[Category:Swing singers]]
+[[Category:Swing trumpeters]]
+[[Category:Traditional pop music singers]]
+[[Category:Vocal jazz musicians]]
+[[Category:American baritones]]
+[[Category:African-American jazz composers]]
+[[Category:American male jazz composers]]
+[[Category:American jazz composers]]
+[[Category:Songwriters from Louisiana]]
+[[Category:Scat singers]]
+<!-- record companies -->
+[[Category:Columbia Records artists]]
+[[Category:Decca Records artists]]
+[[Category:Gennett Records artists]]
+[[Category:Kapp Records artists]]
+[[Category:MGM Records artists]]
+[[Category:Okeh Records artists]]
+[[Category:RCA Victor artists]]
+[[Category:Vocalion Records artists]]
+<!-- awards -->
+[[Category:Audio Fidelity Records artists]]
+[[Category:Grammy Lifetime Achievement Award winners]]
+[[Category:Performing arts pages with videographic documentation]]
+[[Category:20th-century American composers]]
+[[Category:Jazz musicians from New York (state)]]
+[[Category:20th-century American male actors]]
+[[Category:Tuxedo Brass Band members]]
+[[Category:Louis Armstrong and His Hot Five members]]
+[[Category:Louis Armstrong and His Hot Seven members]]
+[[Category:Red Onion Jazz Babies members]]
+[[Category:Black & Blue Records artists]]
+[[Category:20th-century jazz composers]]
+[[Category:African-American Catholics]]
+[[Category:African-American songwriters]]
+[[Category:Yiddish-speaking people]]
+[[Category:Deaths from coronary thrombosis]]

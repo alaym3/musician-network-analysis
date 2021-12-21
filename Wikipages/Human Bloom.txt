@@ -1,0 +1,86 @@
+{{Infobox album
+| name         = Human Bloom
+| type         = Studio
+| artist       = [[Radwimps]]
+| cover        = Radwimps_HumanBloom.jpg
+| alt          = 
+| released     = {{start date|2016|11|23}}
+| recorded     = 
+| venue        = 
+| studio       = 
+| genre        = {{hlist|[[Alternative rock]]|[[melodic hardcore]]}}
+| length       = 70:48
+| language     = [[Japanese language|Japanese]]
+| label        = {{hlist|[[EMI Records|EMI]]|[[Universal Music Group|Universal]]}}
+| producer     = 
+| prev_title   = [[Your Name (album)|Your Name]]
+| prev_year    = 2016
+| next_title   = [[Anti Anti Generation]]
+| next_year    = 2018
+| misc         = {{Singles
+ | name        = Human Bloom
+ | type        = Album
+ | single1     = 記号として/‘I’ Novel
+ | single1date = November 25, 2015
+}}
+}}
+
+{{nihongo|'''''Human Bloom'''''|人間開花|Ningen Kaika|lead=yes}} is the ninth studio album by Japanese rock band [[Radwimps]]. Released on November 23, 2016 by EMI Records, it topped the [[Oricon]] charts in Japan and was certified platinum by the [[RIAJ]].<ref>{{cite web | title=RADWIMPSの作品 |trans-title=Radwimps Products | url=http://www.oricon.co.jp/prof/321049/products/ | publisher=[[Oricon]] |language=Japanese | accessdate=2018-01-26}}</ref><ref>{{cite web | title=ゴールドディスク認定 |trans-title=Gold Disc Certifications | url=http://www.riaj.or.jp/f/data/cert/gd.html |at=2016年11月 | publisher=[[Recording Industry Association of Japan]] |language=Japanese | accessdate=2018-01-26}}</ref><ref>{{Cite web|title=人間開花 [通常盤][CD] - RADWIMPS - UNIVERSAL MUSIC JAPAN|url=https://www.universal-music.co.jp/radwimps/products/upch-20436/|access-date=2021-09-18|website=RADWIMPS|language=ja}}</ref>
+
+== Track listing ==
+{{Track listing
+| all_writing = Yojiro Noda
+| title1 = Lights go out
+| length1 = 2:58
+| title2 = Hikari
+| note2 = {{nihongo2|光}}, "Light"
+| length2 = 4:00
+| title3 = AADAAKOODAA
+| length3 = 3:05
+| title4 = Toaru Haru no Hi
+| note4 = {{nihongo2|トアルハルノヒ}}, "One Spring Day"
+| length4 = 5:37
+| title5 = [[Zenzenzense]] [original ver.]
+| note5 = {{nihongo2|前前前世 [original ver.]}}, "Many Previous Existences"
+| length5 = 4:35
+| title6 = 'I' Novel
+| length6 = 5:53
+| title7 = Ame no Hi ni Kiku
+| note7 = {{nihongo2|アメノヒニキク}}, "Things Heard on Rainy Days"
+| length7 = 5:38
+| title8 = Shuukan Shounen Janpu
+| note8 = {{nihongo2|週刊少年ジャンプ}}, "Weekly Shonen Jump"
+| length8 = 5:51
+| title9 = Bouningen
+| note9 = {{nihongo2|棒人間}}, "Stick Figure"
+| length9 = 4:43
+| title10 = Kigou toshite
+| note10 = {{nihongo2|記号として}}, "As a Symbol"
+| length10 = 5:13
+| title11 = Hitoboshi
+| note11 = {{nihongo2|ヒトボシ}}, "Human Stars"
+| length11 = 4:19
+| title12 = Supaakuru [original ver.]
+| note12 = {{nihongo2|スパークル [original ver.]}}, "Sparkle"
+| length12 = 6:48
+| title13 = Bring me the morning
+| length13 = 0:54
+| title14 = O&O
+| length14 = 4:33
+| title15 = Kokuhaku
+| note15 = {{nihongo2|告白}}, "Confession"
+| length15 = 6:41
+| total_length = 70:48
+}}
+
+==References==
+{{reflist}}
+{{Radwimps}}
+
+{{Authority control}}
+
+[[Category:2016 albums]]
+[[Category:Radwimps albums]]
+[[Category:EMI Records albums]]
+[[Category:Universal Music Group albums]]
+[[Category:Universal Music Japan albums]]

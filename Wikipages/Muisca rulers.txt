@@ -1,0 +1,143 @@
+{{Short description|Tribal rulers in pre-Spanish Colombia}}
+[[File:Mapa del Territorio Muisca.svg|right|thumb|250px|Map of the Muisca territory<br>Rule of ''zaques'' in yellow, ''zipas'' in green]]
+
+When the [[Spain|Spanish]] arrived in the central [[Colombia]]n highlands, the region was organized into the [[Muisca Confederation]], which had two rulers; the '''''zipa''''' was the ruler of the southern part and based in [[Funza|Muyquytá]]. The '''''hoa''''' was the ruler of the northern area and based in [[Tunja|Hunza]], known today as [[Tunja]].<ref name=bushnell>{{cite book |author=Bushnell, David |author-link=David Bushnell (historian) |title=Colombia: Una nación a pesar de sí misma |year=2012 |publisher=[[Planeta Group|Planeta]] |location=Bogotá, Colombia |isbn=978-958-42-1729-5 |pages=26–27 |language=es}}</ref>
+
+== Organization ==
+''Psihipqua'' and ''hoa'' were the titles given to these rulers of the ancient confederation. Neither exercised absolute power, not rigid or strict control over those to whom they owed their power, so that they can be considered kings. However, these positions of power were of great honor and were surrounded by a rather elaborate ceremony. The position of the ''psihipqua'' was such that not even the members of the nobility dared to look him in the face, and it is said if the ''psihipqua'' needed to spit, someone would hold out a piece of rich cloth for him to spit on, because it would be sacrilegious for anything so precious as his saliva to touch the ground. Whoever held the cloth (all the while carefully looking the other way) then carried it off to be reverently disposed of.<ref name=bushnell/>
+
+The ''psihipqua'' was also given the responsibility of offering gold to the gods. He would cover himself with gold and float out on a royal barge to the middle of the sacred [[Lake Guatavita]], where he would offer up golden trinkets. This is widely believed to be how the legend of [[El Dorado]] started.<ref name=bushnell />
+
+When [[Gonzalo Jiménez de Quesada]] arrived in the Muisca territories the ruling ''psihipqua'' was '''Bogotá''' and the ''hoa'' was '''Eucaneme'''.
+
+== Non-patrilineal heritage of rule ==
+The position of the ruler was inherited, but the line of succession was not [[patrilineal]]. Instead, the king was succeeded by his nephew, the oldest son of his oldest sister. There were exceptions, and the ruler's subjects, apparently, had some say in the matter, if only to confirm the successor in his post.<ref name=bushnell />
+
+=== Zaque ===
+{| class=wikitable style="float:center;"
+! colspan=5 | [[Muisca people|Muisca]] rulers of [[Tunja|Hunza]] (''hoas'')
+|-
+! Image
+! Name
+! Start
+! End
+! Details
+|-
+| [[File:HUNZAHUA.jpg|60px|center]]
+| [[Hunzahúa]]
+| ?
+| 1470
+| Founded city of [[Tunja|Hunza]], now Tunja
+|-
+| [[File:Minchua.jpg|60px|center]]
+| [[Michuá]]
+| 1470
+| 1490
+| Died in the [[Battle of Chocontá]]
+|-
+| [[File:QUEMUENCHATOCHA.jpg|60px|center]]
+| [[Quemuenchatocha]]
+| 1490
+| 1537
+| Ruled when the [[Spanish colonization of the Americas|Spanish]] arrived in modern-day Colombia<br>
+|-
+| [[File:AQUIMINZAQUE.jpg|60px|center]]
+| [[Aquiminzaque]]
+| 1537
+| 1539
+| Last Muisca ruler
+|}
+
+=== Zipa ===
+{| class=wikitable style="float:center;"
+! colspan=5 | [[Muisca people|Muisca]] rulers of [[Bogotá|Bacatá]] (''zipas'')
+|-
+! Image
+! Name
+! Start
+! End
+! Details
+|-
+| [[File:1Meicuchuca.JPG|60px|center]]
+| [[Meicuchuca]]
+| 1450
+| 1470
+| According to legend slept with a snake
+|-
+| [[File:Saguamachica2.jpg|60px|center]]
+| [[Saguamanchica]]
+| 1470
+| 1490
+| Died in the [[Battle of Chocontá]]
+|-
+| [[File:Nemequene.jpg|60px|center]]
+| [[Nemequene]]
+| 1490
+| 1514
+| Introduced the brutal [[Nemequene#Code of Nemequene|Nemequene Code]]
+|-
+| [[File:TISQUESUSA1.jpg|60px|center]]
+| [[Tisquesusa]]
+| 1514
+| 1537
+| Ruled when the [[Spanish colonization of the Americas|Spanish]] arrived in Colombia
+|-
+| [[File:4_Zaquesazipa.jpg|60px|center]]
+| [[Sagipa]]
+| 1537
+| 1539
+| Last southern Muisca ruler
+|}
+
+=== Other rulers ===
+{| class=wikitable style="float:center;"
+! colspan=5 | [[Muisca people|Muisca]] rulers of [[Duitama|Tundama]], [[Sogamoso|Sugamuxi]] and [[Turmequé]]
+|-
+! Image
+! Name
+! Start
+! End
+! Details
+|-
+| 
+| [[Tundama]]
+| 
+| -1539
+| Last ruler of [[Duitama|Tundama]]
+|-
+| [[File:Sugamuxi.jpg|60px|center]]
+| [[Sugamuxi]]
+| 
+| -1539
+| Last ''[[iraca]]'' of [[Sogamoso|Sugamuxi]]
+|-
+| 
+| [[Nompanim]]
+| 
+| 
+| Second-last ''iraca'' of Sugamuxi
+|-
+| 
+| [[Diego de Torres y Moyachoque]]
+| 1571
+| 1590
+| [[Mestizo]] ''[[cacique]]'' of [[Turmequé]]
+|-
+|}
+
+{{clearboth}}
+
+== See also ==
+{{Portal|Colombia}}
+*[[Spanish conquest of the Muisca]]
+*[[Muisca people|Muisca]]
+*[[Muisca Confederation]]
+
+== References ==
+{{reflist}}
+
+{{Muisca topics|state=expanded}}
+
+[[Category:Muisca rulers| ]]
+[[Category:History of Colombia]]
+[[Category:Titles of national or ethnic leadership]]

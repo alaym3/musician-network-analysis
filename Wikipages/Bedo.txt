@@ -1,0 +1,34 @@
+{{About|a village in Haiti}}
+{{Infobox settlement
+|official_name          = Bedo
+|native_name            = 
+|settlement_type        = Village
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|pushpin_map            = Haiti <!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
+|pushpin_relief         =
+|pushpin_label_position = right
+|pushpin_map_caption    = Location in Haiti
+|subdivision_type       = Country
+|subdivision_name       = [[Haiti]]
+|subdivision_type1      = [[Departments of Haiti|Department]]
+|subdivision_name1      = [[Sud (department)|Sud]]
+|subdivision_type2      = [[Arrondissements of Haiti|Arrondissement]]
+|subdivision_name2      = [[Aquin Arrondissement|Aquin]]
+|area_total_km2         = 
+|population_as_of       = 
+|population_footnotes   =
+|population_total       = 
+|population_density_km2 = 
+|coordinates            = {{coord|18|16|55|N|73|39|12|W|region:HT|display=inline,title}}
+|elevation_m            = 18
+}}
+
+'''Bedo''' is a village in the [[Cavaellon]] [[List of communes of Haiti|commune]] of the [[Aquin Arrondissement]], in the [[Sud (department)|Sud]] [[Departments of Haiti|department]] of [[Haiti]].
+
+==References==
+{{reflist}}
+
+[[Category:Populated places in Sud (department)]]
+{{Haiti-geo-stub}}

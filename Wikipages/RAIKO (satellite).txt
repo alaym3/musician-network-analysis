@@ -1,0 +1,66 @@
+{{about|the satellite|the Pokémon character|List of Pokémon (202–251)}}
+{{Use British English|date=January 2021}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox spaceflight
+| name              = RAIKO
+| image             = 
+| image_caption     = 
+| image_size        = 290px
+
+| mission_type      = [[Technology demonstration]]
+| operator          = [[Tohoku University]]<br/>[[Wakayama University]]
+| COSPAR_ID         = 2012-038B (1998-067CN)
+| SATCAT            = 38852
+| website           = 
+| mission_duration  = 284 days (achieved)<br/>100 days (planned)
+
+| spacecraft_type   = [[CubeSat]]
+| manufacturer      = [[Tohoku University]]<br/>[[Wakayama University]]
+| launch_mass       = {{cvt|2|kg}}
+| dimensions        = 10 cm x 10 cm x 20 cm (2U)
+| power             =
+
+| launch_date       = 21 July 2012, 02:06:18 [[Coordinated Universal Time|UTC]]<ref name="NSF">{{cite web|url=http://www.nasaspaceflight.com/2012/07/japanese-h-iib-launch-htv-3-international-space-station/ |title=Japanese H-IIB launches HTV-3 to the International Space Station|first=Chris|last=Bergin|publisher=NASASpaceFlight.com|date=20 July 2012|access-date=13 January 2021}}</ref>
+| launch_rocket     = [[H-IIB]] F3
+| launch_site       = [[Tanegashima Space Center|Tanegashima]], [[Yoshinobu Launch Complex|Yoshinobu LC-Y2]]
+| launch_contractor = [[Mitsubishi Heavy Industries]]
+
+| deployment_from   = [[International Space Station|ISS]] ''[[Kibō (ISS module)|Kibō]]''<br/><small>Delivered by [[Kounotori 3]]</small>
+| deployment_date   = 4 October 2012,<br/>15:44:15.297 UTC
+| last_contact      = 15 July 2013
+| decay_date        = 6 August 2013 <ref name="Trajectory">{{cite web|url=https://nssdc.gsfc.nasa.gov/nmc/spacecraft/displayTrajectory.action?id=2012-038B|title=Trajectory: Raiko 2012-038B|publisher=NASA |date=14 May 2020|access-date=13 January 2013}} {{PD-notice}}</ref>
+
+| orbit_reference   = [[Geocentric orbit]]<ref name="Trajectory"/>
+| orbit_regime      = [[Low Earth orbit]]
+| orbit_periapsis   = 
+| orbit_apoapsis    = 
+| orbit_inclination = 51.65° 
+| orbit_period      = 
+| apsis             = gee
+}}
+
+'''RAIKO''' ({{lang-ja|雷鼓}}, literally ''thunder drum'') is a [[Japan]]ese [[satellite]] which was built and operated by [[Tohoku University|Tohoku]] and [[Wakayama University|Wakayama]] Universities. A two-unit [[CubeSat]], RAIKO was deployed from the [[International Space Station]] (ISS) on 4 October 2012, having been launched on 21 July 2012.
+
+RAIKO was launched aboard the [[Kounotori 3]] (HTV-3) spacecraft,<ref>{{cite web|url=http://www.spaceflightnow.com/h2b/htv3/launch.html|title=Japan successfully launches its freighter to space station |first=William|last=Harwood|publisher=Spaceflight Now|date=20 July 2012|access-date=13 January 2021}}</ref> atop an [[H-IIB]] launch vehicle flying from pad LC-Y2 of the [[Yoshinobu Launch Complex]] at the [[Tanegashima Space Center]]. The launch occurred at 02:06:18 [[Coordinated Universal Time|UTC]] on 21 July 2012.<ref name="NSF"/> Four other CubeSats were launched with RAIKO; [[WE WISH]], [[Niwaka|FITSAT-1]], [[TechEdSat|TechEdSat-1]] and [[F-1 (satellite)|F-1]]. The five CubeSats was delivered to the International Space Station for deployment. CubeSats were deployed from Japanese Experiment Module (JEM) ''[[Kibō (ISS module)|Kibō]]'' via the J-SSOD system on 4 October 2012.<ref>{{cite web|url=http://www.wakayama-u.ac.jp/ifes/news/20110615.html|title=2011年6月15日 ISSからの小型衛星放出実証ミッションに採択されました|date=15 July 2012|publisher=Institute for Education in Space|access-date=13 January 2021}}</ref><ref>{{cite web|url=http://news.mynavi.jp/articles/2012/01/25/j-ssod/index.html|title=JAXA、宇宙ステーションから超小型衛星を放出できる装置をプレス公開|publisher=mynavi.jp|author=大塚実|language=Japanese|date=25 January 2012|access-date=13 January 2021}}</ref>
+
+Named after a Japanese god of thunder,<ref>{{cite web|url=http://www.astro.mech.tohoku.ac.jp/RAIKO/|title=国際宇宙ステーション放出衛星「RAIKO」（雷鼓）|publisher=Tohoku University|access-date=21 July 2012}}</ref> RAIKO is a {{cvt|2|kg}} spacecraft, which was used for technology demonstration. It carries a camera with a [[fish-eye lens]] for [[Satellite imagery|Earth imaging]],<ref>{{cite web |url=http://www.tohoku.ac.jp/english/2012/06/news20120625-03.html|title=The development of a microsatellite (RAIKO) is completed and delivered to JAXA|publisher=Tohoku University|date=25 June 2012|access-date=13 January 2021}}</ref> a prototype [[star tracker]], a deployable membrane to slow the satellite, lowering its orbit, a photographic system to measure the satellite's movement relative to the International Space Station, and a [[Ku band|Ku-band]] antenna for communications and [[Doppler effect|Doppler ranging]] experiments.<ref>{{cite web|url=http://space.skyrocket.de/doc_sdat/raiko.htm|title=Raiko |first=Gunter|last=Krebs|publisher=Gunter's Space Page|date=28 January 2020|access-date=13 January 2021}}</ref>
+
+[[WE WISH]], RAIKO, [[FITSat 1]], [[F-1 (satellite)|F-1]], and [[TechEdSat|TechEdSat-1]] travelled to orbit aboard [[Kounotori 3]] (HTV-3).<ref name=gunter>[http://space.skyrocket.de/doc_sdat/we-wish.htm WE WISH]</ref>
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Portal|Spaceflight|Japan}}
+* [http://www.astro.mech.tohoku.ac.jp/RAIKO/ Official web page] {{in lang|ja}}
+* {{Twitter|name=@RAIKO_CUBESAT}}
+
+{{Orbital launches in 2012}}
+
+[[Category:Spacecraft launched in 2012]]
+[[Category:CubeSats]]
+[[Category:Student satellites]]
+[[Category:Satellites deployed from the International Space Station]]
+
+
+{{Japan-spacecraft-stub}}

@@ -1,0 +1,76 @@
+{{Short description|American dream pop band}}
+{{Infobox musical artist
+| name            = Candy Claws
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Fort Collins]], Colorado, United States
+| genre           = {{flatlist|
+*[[Dream pop]]<ref name="p4k-review-calypso"/>
+*[[noise pop]]<ref name="allmusic-bio"/>
+*[[shoegazing]]<ref name="nostalgia"/>
+}}
+| years_active    = {{start date|2007}}–2015{{cn|date=February 2021}}
+| label           = {{flatlist|
+*Twosyllable
+*Indiecater
+}}
+| associated_acts = Sound of Ceres
+| website         = {{URL|candyclaws.com}}
+| current_members =
+| past_members    = *Ryan Hover
+*Karen Hover
+*Kay Bertholf
+}}
+
+'''Candy Claws''' was an American [[dream pop]] group formed in [[Fort Collins]], Colorado. It was formed in 2007 by Kay Bertholf and Ryan Hover, who shared interests in "electronics, droning [[shoegazing|shoegaze rock]], and classic [[psychedelic pop]]."<ref name="allmusic-bio">{{cite web | url=http://www.allmusic.com/artist/candy-claws-mn0002372872/biography | title=Candy Claws | publisher=[[AllMusic]] | accessdate=July 18, 2016 | author=Deming, Mark}}</ref>
+
+==History==
+In 2009, the band released their debut album, '' In the Dream of the Sea Life'', which was inspired by [[Rachel Carson]]'s book ''[[The Sea Around Us]]''. Originally released by Wave Magic label, it was re-released by Irish independent label Indiecater Records and earned enthusiastic reviews from the international music press. In 2010, the Twosyllable Records released the band's follow-up album, ''Hidden Lands'', which was inspired by [[Richard M. Ketchum]]'s ''The Secret Life of the Forest''. During this time, Candy Claws also assembled an expanded eight-piece touring band for live performances.<ref name="allmusic-bio"/> The band's third album, ''[[Ceres & Calypso in the Deep Time]]'', was released in 2013.<ref name="p4k-review-calypso">{{cite web | url=http://pitchfork.com/reviews/albums/18204-candy-claws-ceres-calypso-in-the-deep-time-forever/ | title=Candy Claws - Ceres & Calypso in the Deep Time Forever | publisher=[[Pitchfork Media|Pitchfork]] | date=June 24, 2013 | accessdate=July 18, 2016 | author=Cohen, Ian}}</ref>
+
+In 2014, Ryan and Karen formed a new band, [[Sound of Ceres]], featuring the members of [[The Apples in Stereo]] and [[The Drums]].<ref>{{cite web | url=http://www.allmusic.com/artist/sound-of-ceres-mn0003475630/biography | title=Sound of Ceres | publisher=[[AllMusic]] | accessdate=July 18, 2016 | author=Sendra, Tim}}</ref> The band released their debut album, ''[[Nostalgia for Infinity]]'' in 2016.<ref name="nostalgia">{{cite web|author=Tim Sendra |url=http://www.allmusic.com/album/nostalgia-for-infinity-mw0002912695 |title=Nostalgia for Infinity - Sound of Ceres &#124; Songs, Reviews, Credits |publisher=[[AllMusic]] |date=2016-03-04 |accessdate=2016-04-07}}</ref>
+
+==Band members==
+* Ryan Hover — synthesizer, vocals
+* Kay Bertholf — guitar, vocals
+* Karen Hover (McCormick) — vocals, percussion, keyboard
+
+==Discography==
+;Studio albums
+* ''In the Dream of the Sea Life'' (2009)
+* ''Hidden Lands'' (2010)
+* ''[[Ceres & Calypso in the Deep Time]]'' (2013)
+
+;EPs & Singles
+* ''Daytrotter Session'' (2010)
+* ''Verana Summers'' (2011)
+
+;Compilation Albums
+* ''Glacier Prey'' (2009)
+* ''Warm Forever'' (2010)
+
+;Other Releases
+* ''Two Airships / Exploder Falls'' (2008) (an alternate soundtrack to Werner Herzog's film [[The White Diamond]])
+* ''Dreamland Soundtrack - Season 1'' (2011)
+* ''Do You Ever Feel That Way'' (2012) (a Starflyer 59 cover, with Mike Adams At His Honest Weight)
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Discogs artist|1087937}}
+
+{{US-pop-band-stub}}
+{{DEFAULTSORT:Candy Claws}}
+
+[[Category:Dream pop musical groups]]
+[[Category:Shoegazing musical groups]]
+[[Category:Noise pop musical groups]]
+[[Category:Indie pop groups from Colorado]]
+[[Category:2007 establishments in Colorado]]
+[[Category:Musical groups established in 2007]]
+[[Category:Culture of Fort Collins, Colorado]]
+{{authority control}}

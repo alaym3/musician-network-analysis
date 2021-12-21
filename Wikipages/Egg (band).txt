@@ -1,0 +1,88 @@
+{{Short description|English rock band}}
+{{for|the electronic dance music band formed in the 1990s|The Egg (band)}}
+{{Use dmy dates|date=July 2016}}
+{{Use British English|date=July 2016}}
+{{more citations needed|date=January 2016}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name                = Egg
+| image               =
+| caption             = 
+| image_size            = <!-- Only for images narrower than 220 pixels. Set the value as a number without "px". -->
+| background          = group_or_band
+| birth_name          = 
+| origin              = [[London]], [[England]]
+| instrument          = 
+| genre               = [[Progressive rock]], [[Canterbury scene]], [[psychedelic rock]], [[art rock]]
+| occupation          = 
+| years_active        = 1968&ndash;1972, 1974
+| label               = [[Deram Records|Deram]], [[Caroline Records (UK)|Caroline]]
+| associated_acts     = [[Uriel (band)|Uriel]]
+| website             = 
+| current_members     = 
+| past_members        = [[Dave Stewart (keyboardist)|Dave Stewart]]<br />[[Mont Campbell]]<br />[[Clive Brooks]]
+}}
+
+'''Egg''' were an [[England|English]] [[progressive rock]] [[musical ensemble|band]] formed in July 1968.<ref name="Larkin">{{cite book|title=[[Encyclopedia of Popular Music|The Virgin Encyclopedia of Popular Music]]|editor=Colin Larkin|editor-link=Colin Larkin (writer)|publisher=[[Virgin Books]]|date=1997|edition=Concise|isbn=1-85227-745-9|page=419}}</ref> They produced two studio albums and ended in 1972, but in 1974, they produced another album and then disbanded. 
+
+==Career==
+The founder members of Egg were [[Dave Stewart (keyboardist)|Dave Stewart]] who played organ, [[Mont Campbell]] on bass and vocals, and drummer [[Clive Brooks]].<ref name="Larkin"/> The band was formed of former members of [[Uriel (band)|Uriel]], the other member of which was guitarist [[Steve Hillage]].<ref name="Larkin"/> After Hillage left Uriel in August 1968, the other three continued as a trio. Having signed a deal with the [[Middle Earth (club)|Middle Earth]] club's management branch, they were advised to change their name to Egg, allegedly because Uriel "sounded too much like 'urinal'". In mid-1969 the band signed a deal with [[Decca Records|Decca]]'s 'progressive' music subsidiary [[Deram Records|Deram]] and released their debut album in March 1970.<ref name="Larkin"/> While not a commercial success, it was received well enough for the label to finance the recording of a follow-up, but when the time came to release it, the label shelved it until producer Neil Slaven's lobbying finally resulted in ''[[The Polite Force]]'' coming out in February 1971.<ref name="Larkin"/> Now signed to [[The Groundhogs]]' management company, Egg finished the year with an increased touring schedule, but in spite of accumulating enough material for a third album, they were unable to secure another record deal, and split up in July 1972.
+
+In 1974 Stewart, who had signed with Virgin as a member of [[Hatfield and the North]], got a deal for Egg to record their unreleased material, which resulted in the farewell album ''[[The Civil Surface]]''.<ref name="Larkin"/> Steve Hillage guested on one piece of the album. 
+
+In December 2007, a selection of live recordings from between 1969 and 1972, entitled ''The Metronomical Society'', was released.
+
+== Background and song structure ==
+Egg are often regarded as part of the [[Canterbury scene]], a loose movement of progressive and [[psychedelic music]]ians, based on Stewart's later membership of [[Hatfield and the North]] and [[National Health]], although the band have no geographical connection to [[Canterbury]]. Their music can be described as progressive rock with elements of psychedelia and chamber rock (later exemplified by the [[Rock in opposition|Rock In Opposition]] movement). They employed unusual [[time signature]]s, as reflected in songs like "Seven Is A Jolly Good Time". They also brought a humorous element to their music. Mont Campbell, the band's main composer, acknowledged the strong influence of [[Igor Stravinsky]], which resulted in multi-part suites such as "Symphony n°2" and "Long Piece n°3".
+
+==Arzachel==
+In mid-1969, to capitalise on the psychedelic rock market, Stewart, Campbell and Brooks contributed to the one-off studio project [[Arzachel (band)|Arzachel]], named after a [[Arzachel (crater)|moon crater]]. Also featured in that project was Steve Hillage (on summer holiday from university), who had like the others been a member of the pre-Egg band Uriel. Egg were by that time under contract to Decca, therefore all were credited under [[pseudonym]]s.
+
+Also available is a 26,000-word, 60-page companion booklet ''Copious Notes''. Written by Dave Stewart, Mont Campbell and their close friend Antony Vinall, it tells the inside story of Uriel, Egg, Arzachel and the Ottawa Company, from the formation of Uriel in early 1968 to the making of Egg's final album ''The Civil Surface'' in 1974. The text includes personal memoirs, anecdotes, short stories, random recollections, social observation, period details, musical analysis and song lyrics, as well as a priceless collection of archive photos taken by Terry Yetton and the musicians.
+
+==Discography==
+===Albums===
+{| class="wikitable"
+|- 
+! Year
+! Album
+|-
+|1970||''[[Egg (album)|Egg]]''
+|-
+|1971||''[[The Polite Force]]''
+|-
+|1974||''[[The Civil Surface]]''
+|-
+|1985||''[[Seven Is a Jolly Good Time]]'' (compilation)
+|-
+|2007||''The Metronomical Society'' (archival live material)
+|-
+|2015||''BBC Sessions And More 1968-1972'' (archival live material)<ref name=Amazon.com>{{cite web|last1=Egg|title=BBC Sessions And More 1968-1972|url=https://www.amazon.com/BBC-Sessions-More-November-1968/dp/B019DOOXII/ref=sr_1_1?s=music&ie=UTF8&qid=1452191122&sr=1-1&keywords=egg+on+air|website=Amazon.com|publisher=On The Air recordings|access-date=7 January 2015}}</ref>
+|-
+|}
+
+===Singles===
+* "Seven Is a Jolly Good Time" / "You Are All Princes" (UK 29 August 1969)
+
+==Filmography==
+* 2015: ''[[Romantic Warriors III: Canterbury Tales]]'' (DVD)
+
+==See also==
+* [[List of rock instrumentals]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.calyx-canterbury.fr/bands/egg.html Calyx Egg page]
+* [https://web.archive.org/web/20160303210132/http://www.egg-archive.com/ Egg Archive]
+
+{{Egg}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Egg}}
+[[Category:Deram Records artists]]
+[[Category:English progressive rock groups]]
+[[Category:British musical trios]]
+[[Category:Canterbury scene]]
+[[Category:Musical groups established in 1968]]

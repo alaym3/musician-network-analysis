@@ -1,0 +1,413 @@
+{{short description|Japanese music composer}}
+{{Use mdy dates|date=May 2021}}
+{{Infobox person
+| name = Nobuo Uematsu
+| image = Nobuo uematsu 001.jpg
+| caption = Uematsu in 2011
+| native_name = 植松 伸夫
+| native_name_lang = ja
+| birth_date = {{birth date and age|1959|3|21}}
+| birth_place = [[Kōchi, Kōchi|Kōchi]], [[Kōchi Prefecture]], Japan
+| occupation = {{ubl|Composer|keyboardist}}
+| alma_mater = [[Kanagawa University]]
+| module = {{Infobox musical artist|embed=yes
+| background = non_vocal_instrumentalist
+| instrument = [[Piano]], [[electronic keyboard]]
+| genre = {{ubl|[[Video game music]]|[[symphonic rock]]|[[progressive rock]]}}
+| years_active = 1986–present
+| label = [[Dog Ear Records]]
+| associated_acts = {{ubl|[[The Black Mages]]|[[Earthbound Papas]]}}
+}}}}
+
+{{nihongo|'''Nobuo Uematsu'''|植松 伸夫|Uematsu Nobuo|born March 21, 1959}} is a Japanese musician and composer, best known for his contributions to the ''[[Final Fantasy]]'' video game series by [[Square Enix]].<ref name="Biography">{{cite web |url=http://www.vgmonline.net/nobuouematsu/ |title=Nobuo Uematsu Profile |date=March 18, 2013 |publisher=Game Music Online |access-date=August 18, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140924042549/http://www.vgmonline.net/nobuouematsu/ |archive-date=September 24, 2014  }}</ref><ref>{{cite news |last1=Dammann |first1=Guy |title=Nobuo Uematsu: the video game composer shaking up classical music |url=https://www.theguardian.com/music/shortcuts/2015/apr/07/nobuo-uematsu-video-game-composer-shaking-classical-music |website=The Guardian |location=London |access-date=April 10, 2016 |url-status=live |archive-url=http://archive.wikiwix.com/cache/20160411093934/https://www.theguardian.com/music/shortcuts/2015/apr/07/nobuo-uematsu-video-game-composer-shaking-classical-music |archive-date=April 11, 2016  }}</ref> A self-taught musician, he began playing the piano at the age of twelve, with English singer-songwriter [[Elton John]] as one of his biggest influences.<ref name=elton>{{cite web |last1=Dwyer |first1=Nick |title=Interview: Final Fantasy's Nobuo Uematsu |url=https://daily.redbullmusicacademy.com/2014/10/nobuo-uematsu-interview/ |website=Red Bull Music Academy |access-date=January 13, 2020}}</ref> Uematsu joined [[Square (video game company)|Square]] in 1986, where he first met ''Final Fantasy'' creator [[Hironobu Sakaguchi]]. The two later worked together on many titles at the company, most notably in the ''Final Fantasy'' series. After nearly two decades with Square, Uematsu left in 2004 to create his own production company, which included the [[Dog Ear Records]] music label. He has since composed music as a [[freelancer]] for other games, including ones developed by Square Enix and Sakaguchi's development studio, [[Mistwalker]].
+
+Many soundtracks and [[arrangement|arranged]] albums of Uematsu's game scores have been released. Pieces from his video game works have been performed in various [[Final Fantasy concerts|''Final Fantasy'' concerts]],<ref name="1UP" /><ref>{{cite web |url=http://music.ign.com/articles/594/594622p1.html |title=Dear Friends: Final Fantasy in San Francisco |author=Jeremy Dunham |date=March 9, 2005 |work=[[IGN]] |access-date=July 16, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20101215214944/http://music.ign.com/articles/594/594622p1.html |archive-date=December 15, 2010  }}</ref> where he has worked with [[Grammy Award]]–winning conductor [[Arnie Roth]] on several of these performances. In the 2000s, he was the keyboardist in the hard rock band [[The Black Mages]], along with [[Square Enix]] colleagues [[Kenichiro Fukui]] and [[Tsuyoshi Sekito]]. The band played various arranged rock versions of Uematsu's ''Final Fantasy'' compositions. He has since performed with [[Earthbound Papas]], which he formed as the successor to The Black Mages in 2011. He is sometimes referred to as the [[Beethoven]] of video game music and has made several appearances in the annual [[Classic FM Hall of Fame]].<ref name="classicfm"/>
+
+==Biography==
+
+===Early life===
+Uematsu was born in [[Kōchi, Kōchi|Kōchi]], [[Kōchi Prefecture]], Japan.<ref name="SEU">{{cite web |url=http://www.square-enix-usa.com/uematsu/profile/index.html |archive-url=https://web.archive.org/web/20080517055159/http://www.square-enix-usa.com/uematsu/profile/index.html |archive-date=May 17, 2008 |title=N's profile |publisher=Square Enix USA |access-date=June 1, 2008}}</ref> A self-taught musician, he began to play the piano when he was between the ages of eleven and twelve years old,<ref name="Biography"/> and he did not take any formal piano lessons.<ref>{{cite web |url=https://www.youtube.com/watch?v=fHyIdyrxd5U |title=Nobuo Uematsu and Arnie Roth – Live Interview (Part I of II) |publisher=[[YouTube]] |author=squaresoundcom |date=October 15, 2008 |access-date=July 8, 2009 |url-status=live |archive-url=https://web.archive.org/web/20110718093551/http://www.youtube.com/watch?v=fHyIdyrxd5U |archive-date=July 18, 2011  }}</ref> He has an older sister who also played the piano.<ref name="1UP"/> After graduating from [[Kanagawa University]] with a degree in English, Uematsu played the keyboard in several amateur bands and composed music for television commercials.<ref name="Biography" /> When Uematsu was working at a music rental shop in [[Tokyo]], a [[Square (video game company)|Square]] employee asked if he would be interested in creating music for some of the titles they were working on. Although he agreed, Uematsu at the time considered it a side job, and he did not think it would become a full-time career. He said it was a way to make some money on the side, while also keeping his part-time job at the music rental shop.<ref name="1UP">{{cite web |url=http://www.1up.com/do/feature?cId=3166165 |title=A Day in the Life of Final Fantasy's Nobuo Uematsu |website=[[1UP.com]] |first=James |last=Mielke |date=February 15, 2008 |access-date=May 30, 2008 |url-status=live |archive-url=https://web.archive.org/web/20130207080524/http://www.1up.com/features/final-fantasy-composer |archive-date=February 7, 2013  }}</ref>
+
+===Square (1985–2004)===
+Uematsu joined Square in 1985, and composed his soundtrack with ''Cruise Chaser Blassty'' in 1986. Shortly after, he met [[Hironobu Sakaguchi]], who asked him if he wanted to create music for some of his games, to which Uematsu agreed.<ref name="1UP"/> For the next year, he created music for a number of games which did not achieve widespread success, such as ''[[King's Knight]]'', ''[[3-D WorldRunner]]'', and ''[[Rad Racer]]''.<ref name="Biography" /> In 1987, Uematsu and Sakaguchi collaborated on what was originally to be Sakaguchi's last contribution for Square, ''[[Final Fantasy (video game)|Final Fantasy]]''.<ref name="developmentFF">{{cite web |url=http://www.develop-online.net/news/28960/Sakaguchi-discusses-the-development-of-Final-Fantasy |title=Sakaguchi discusses the development of Final Fantasy |author=Fear, Ed |date=December 13, 2007 |work=Develop |publisher=Intent Media |access-date=October 16, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20110809114048/http://www.develop-online.net/news/28960/Sakaguchi-discusses-the-development-of-Final-Fantasy |archive-date=August 9, 2011  }}</ref> ''Final Fantasy''{{'s}} popularity sparked Uematsu's career in video game music, and he would go on to compose music for over 30 titles, most prominently the subsequent games in the ''[[Final Fantasy]]'' series. He scored the first installment in the ''[[SaGa (series)|SaGa]]'' series, ''[[The Final Fantasy Legend]]'', in 1989. For the second game in the series, ''[[Final Fantasy Legend II]]'' he was assisted by [[Kenji Ito]].<ref name="Biography"/> In late 1994, Uematsu was asked to finish the soundtrack for ''[[Chrono Trigger]]'' after [[Yasunori Mitsuda]] contracted [[peptic ulcer]]s.<ref>{{cite book |year=2005 |title=Power-Up: How Japanese Video Games Gave the World an Extra Life |publisher=[[BradyGames]] |isbn=0-7440-0424-1 |author= Kohler, Chris}}</ref> In 1996, he co-composed the soundtrack to ''[[Front Mission: Gun Hazard]]'', and created the entire score for ''DynamiTracer''. He also created music for three of the games in the ''[[Hanjuku Hero]]'' series.<ref name="Biography"/>
+
+Outside of video games, he has composed the main theme for the 2000 animated film ''[[Ah! My Goddess: The Movie]]'' and co-composed the [[anime]] ''[[Final Fantasy: Unlimited]]'' (2001) with ''Final Fantasy'' orchestrator [[Shirō Hamaguchi]]. He also inspired the ''Ten Plants'' concept albums, and released a solo album in 1994, titled ''Phantasmagoria''. Feeling gradually more dissatisfied and uninspired, Uematsu requested the assistance of composers [[Masashi Hamauzu]] and [[Junya Nakano]] for the score to ''[[Final Fantasy X]]'' in 2001. This marked the first time that Uematsu did not compose an entire main-series ''Final Fantasy'' soundtrack. For ''[[Final Fantasy XI]]'' from 2002, he was joined by [[Naoshi Mizuta]], who composed the majority of the soundtrack, and [[Kumi Tanioka]]; Uematsu was responsible for only eleven tracks.<ref name="Biography"/> In 2002, fellow Square colleagues [[Kenichiro Fukui]] and [[Tsuyoshi Sekito]] asked Uematsu to join them in forming a rock band that focused on reinterpreting and expanding on Uematsu's compositions. He declined their offer at first because he was too busy with work; however, after agreeing to perform with Fukui and Sekito in a live performance as a keyboardist, he decided to join them in making a band.<ref name="1UP"/><ref name=man>{{cite web |url=http://www.gameinformer.com/News/Story/200905/N09.0527.1612.59659.htm?Page=3 |title=Nobuo Uematsu: The Man Behind The Music |work=[[Game Informer]] |first=Meagan |last=VanBurkleo |date=May 27, 2009 |access-date=June 16, 2009 |archive-url=https://web.archive.org/web/20090601154539/http://gameinformer.com/News/Story/200905/N09.0527.1612.59659.htm?Page=3 |archive-date=June 1, 2009}}</ref> Another employee at Square, Mr. Matsushita, chose the name [[The Black Mages]] for their band.<ref name="1UP"/> In 2003, [[Keiji Kawamori]], Arata Hanyuda, and Michio Okamiya also joined the band.<ref name="Biography" /> The Black Mages released three studio albums and performed at several concerts.
+
+===Freelancer (2004–present)===
+Uematsu left Square Enix in 2004 and formed his own production company, Smile Please.<ref>{{cite web |url=http://www.gamespot.com/news/6111914.html |title=Nobuo Uematsu leaving Square Enix |website=[[GameSpot]] |author1=Niizumi, Hirohiko |author2=Kohler, Chris |date=November 1, 2004 |access-date=June 1, 2008 |url-status=live |archive-url=https://web.archive.org/web/20110525174157/http://www.gamespot.com/news/6111914.html |archive-date=May 25, 2011  }}</ref> He later founded the music production company and record label [[Dog Ear Records]] in 2006.<ref name=dog>{{cite web |url=http://www.music4games.net/Features_Display.aspx?id=208 |archive-url=https://web.archive.org/web/20080624123501/http://www.music4games.net/Features_Display.aspx?id=208 |archive-date=June 24, 2008 |title=The Black Mages III Interview with Nobuo Uematsu |publisher=[[Music4Games]] |date=March 18, 2008 |access-date=June 11, 2008}}</ref> The reason for Uematsu's departure was that the company moved their office from [[Meguro, Tokyo|Meguro]] to [[Shinjuku, Tokyo]] and he was not comfortable with the new location.<ref name="1UP"/> He also stated that he had reached an age where he should gradually take his life into his own hands.<ref>{{cite web |url=http://www.rpgfan.com/features/interviews2006/index2.html |title=Exclusive Interview Feature: Interview #2: Nobuo Uematsu, Smileplease |publisher=RPGFan |date=April 1, 2004 |access-date=February 2, 2012 |url-status=live |archive-url=https://web.archive.org/web/20120303164544/http://www.rpgfan.com/features/interviews2006/index2.html |archive-date=March 3, 2012  }}</ref> He does, however, continue to compose music as a freelancer for Square Enix. In 2005, Uematsu and several members of The Black Mages created the score for the [[computer-generated imagery|CGI]] film ''[[Final Fantasy VII Advent Children]]''. Uematsu composed only the main theme for ''[[Final Fantasy XII]]'' (2006);<ref>{{cite web |url=http://www.nobuouematsu.com/game.html |title=Gameography |publisher=nobuouematsu.com |access-date=July 7, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090325060243/http://www.nobuouematsu.com/game.html |archive-date=March 25, 2009  }}</ref> he was originally offered the job of creating the full score, but [[Hitoshi Sakimoto]] was eventually assigned as the main composer instead.<ref name="Biography"/> Uematsu was also initially going to create the theme song for ''[[Final Fantasy XIII]]'' (2010). However, after being assigned the task of creating the entire score of ''[[Final Fantasy XIV (2010 video game)|Final Fantasy XIV]]'', Uematsu decided to hand the job over to Hamauzu.<ref name="Biography" />
+
+Uematsu also works closely with Sakaguchi's development studio [[Mistwalker]], and has composed for ''[[Blue Dragon (video game)|Blue Dragon]]'' (2006), ''[[Lost Odyssey]]'' (2007), ''[[Away: Shuffle Dungeon]]'' (2008); ''[[The Last Story]]'' (2011); and ''[[Terra Battle]]'' (2014). He also wrote music for the cancelled game ''[[Cry On]]''.<ref>{{cite web |url=http://xbox360.ign.com/articles/941/941071p1.html |title=Cry-On Canned |website=IGN |first=John |last=Tanaka |date=December 24, 2008 |access-date=December 29, 2008 |url-status=live |archive-url=https://web.archive.org/web/20081228054703/http://xbox360.ign.com/articles/941/941071p1.html |archive-date=December 28, 2008  }}</ref> Uematsu created the main theme for ''[[Super Smash Bros. Brawl]]'' in 2008.<ref name=brawl>{{cite web |url=http://wii.ign.com/articles/707/707620p1.html |title=E3 2006: Uematsu Scores Smash Bros. |website=IGN |first=Peer |last=Schneider |date=May 10, 2006 |access-date=June 1, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20071211232422/http://wii.ign.com/articles/707/707620p1.html |archive-date=December 11, 2007  }}</ref> He then composed the music for the 2009 anime ''[[Guin Saga]]''; this marked the first time he provided a full score for an animated series.<ref>{{cite web |url=http://www.guinsaga.net/staff.html |archive-url=https://web.archive.org/web/20090314082501/http://www.guinsaga.net/staff.html |archive-date=March 14, 2009 |title=Staff |publisher=guinsaga.net |language=ja |access-date=October 7, 2008}}</ref> Uematsu has contributed music and story to [[e-book]]s, such as "Blik-0 1946".<ref>{{cite web |url=http://www.destructoid.com/final-fantasy-composer-talks-to-us-about-upcoming-e-book-258380.phtml |title=Final Fantasy composer talks to us about upcoming e-book |access-date=October 8, 2014|publisher=Destructoid |url-status=live |archive-url=https://web.archive.org/web/20141014083639/http://www.destructoid.com/final-fantasy-composer-talks-to-us-about-upcoming-e-book-258380.phtml |archive-date=October 14, 2014  }}</ref>
+
+Uematsu appeared five times in the top 20 of the annual [[Classic FM Hall of Fame]]. In 2012, "[[Music of the Final Fantasy VII series|Aerith's Theme]]", written by Uematsu for ''[[Final Fantasy VII]]'', was voted into the number 16 position in the annual [[Classic FM (UK)]] "Hall of Fame" top 300 chart.<ref>{{cite web |url=http://halloffame2012.classicfm.co.uk/individual/?position=16 |title=Classic FM Hall of Fame (retrieved 9 April 2012) |access-date=October 8, 2014 |url-status=live |archive-url=https://web.archive.org/web/20141028101821/http://halloffame2012.classicfm.co.uk/individual/?position=16 |archive-date=October 28, 2014  }}</ref> It was the first time that a piece of music written for a video game had appeared in the chart. In 2013, music from the ''Final Fantasy'' series received even greater support and was voted into the third position on the Classic FM Hall of Fame.<ref name="classicfm">{{cite web |url=http://halloffame.classicfm.com/2013/chart/position/3/ |title=Classic FM Hall of Fame (retrieved 6 April 2013) |work=Classic FM's Hall of Fame |access-date=October 8, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141013163456/http://halloffame.classicfm.com/2013/chart/position/3/ |archive-date=October 13, 2014  }}</ref> Uematsu and his ''Final Fantasy'' music subsequently appeared at number seven in 2014,<ref>{{cite web |url=http://halloffame.classicfm.com/2014/chart/position/7/ |title=Hall of Fame – Classic FM |work=Classic FM's Hall of Fame |access-date=October 8, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141013100341/http://halloffame.classicfm.com/2014/chart/position/7 |archive-date=October 13, 2014  }}</ref> number nine in 2015,<ref>{{cite web |url=http://halloffame.classicfm.com/2015/chart/position/9/ |title=Classic FM Hall of Fame 2015 |access-date=April 19, 2015 |url-status=live |archive-url=https://web.archive.org/web/20150410090853/http://halloffame.classicfm.com/2015/chart/position/9/ |archive-date=April 10, 2015  }}</ref> and number 17 in 2016.<ref>{{cite web |url=http://www.classicfm.com/music-news/hall-of-fame-results-2016/ |title=The Lark Ascending reaches the top of the Classic FM Hall of Fame for the third year in a row |last=Davis |first=Elizabeth |date=March 28, 2016 |publisher=[[Classic FM (UK)|Classic FM]] |access-date=March 28, 2016 |url-status=live |archive-url=https://web.archive.org/web/20160331230335/http://www.classicfm.com/music-news/hall-of-fame-results-2016/ |archive-date=March 31, 2016  }}</ref>
+
+In September 2018, Uematsu announced that he would take the remainder of the year off from touring and postponed his projects in order to recover from an unspecified illness.<ref>{{cite web|url=https://www.ign.com/articles/2018/09/20/final-fantasy-composer-nobuo-uematsu-stopping-work-due-to-health-problems|title=Final Fantasy Composer Nobuo Uematsu Stopping Work Due to Health Problems|first=Lucy|last=O'Brien|date=September 19, 2018|website=IGN|access-date=September 20, 2018}}</ref><ref>{{cite web|url=https://www.eurogamer.net/articles/2018-09-20-legendary-final-fantasy-composer-nobuo-uematsu-ceases-work-due-to-illness|title=Legendary Final Fantasy composer Nobuo Uematsu ceases work due to illness|first=Tom|last=Phillips|date=September 20, 2018|website=Eurogamer|access-date=September 20, 2018}}</ref> Uematsu returned to compose the main theme for ''[[Final Fantasy VII Remake]]'' in 2020.<ref>{{cite web|url=https://square-enix-games.com/en_GB/news/final-fantasy-vii-remake-composers|title=The music of FINAL FANTASY VII REMAKE - comments from the composers|author=FINAL FANTASY VII REMAKE Team|publisher=[[Square Enix]]|date=January 31, 2020|access-date=June 14, 2020}}</ref> In 2021, Sakaguchi said that Uematsu's work on 2021's ''[[Fantasian]]'' could be his last major game score due to health issues.<ref>{{cite web |last1=Robinson |first1=Andy |title=Final Fantasy composer Nobuo Uematsu 'could have made his last soundtrack' |url=https://www.videogameschronicle.com/news/final-fantasy-composer-nobuo-uematsu-could-have-made-his-last-soundtrack |website=Video Game Chronicle |date=March 7, 2021 |access-date=March 9, 2021}}</ref>
+
+==Personal life==
+Uematsu currently resides in Tokyo, Japan with his wife, Reiko, whom he met during college, and their [[beagle]], Pao. They have a summer cabin in [[Yamanakako, Yamanashi|Yamanakako]], [[Yamanashi Prefecture|Yamanashi]].<ref name="1UP"/> In his spare time, he enjoys watching [[professional wrestling]], drinking beer, and bicycling.<ref name="Biography" /> Uematsu has said he originally wanted to become a professional wrestler,<ref>{{cite web |url=http://www.gamespot.com/snes/rpg/finalfantasy3/video/6214620/behind-the-games-meet-the-composers--nobuo-uematsu |title=Behind the Games: Meet the Composers – Nobuo Uematsu |website=[[GameSpot]] |date=July 31, 2009 |access-date=August 28, 2009 |url-status=live |archive-url=https://web.archive.org/web/20100803010509/http://www.gamespot.com/snes/rpg/finalfantasy3/video/6214620/behind-the-games-meet-the-composers--nobuo-uematsu |archive-date=August 3, 2010  }}</ref> mentioning it was a career dream when he was younger.<ref>{{cite web |url=https://www.youtube.com/watch?v=ezMkocOD1tw&NR=1 |title=Nobuo Uematsu and Arnie Roth – Live Interview (Part II of II) |publisher=[[YouTube]] |author=squaresoundcom |date=October 15, 2008 |access-date=July 5, 2009 |url-status=live |archive-url=https://web.archive.org/web/20130914130910/http://www.youtube.com/watch?v=ezMkocOD1tw&NR=1 |archive-date=September 14, 2013  }}</ref>
+
+==Concerts==
+[[File:Nobuo.jpg|thumb|Uematsu at a [[Final Fantasy concerts#Distant Worlds: Music from Final Fantasy|Distant Worlds concert]] on July 11, 2009 in Seattle]]
+
+Uematsu's video game compositions have been performed in numerous concerts, and various [[Final Fantasy concerts|''Final Fantasy'' concerts]] have also been held. Outside Japan, Uematsu's ''Final Fantasy'' music was performed live for the first time at the first event of the 2003 [[Symphonic Game Music Concerts|Symphonic Game Music Concert]] in [[Leipzig]], Germany.<ref>{{cite web |url=http://www.vgmconcerts.com/main.php?section=about&lang=english |title=The Concerts |publisher=VGMConcerts.com |access-date=June 6, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20070220214408/http://www.vgmconcerts.com/main.php?section=about&lang=english |archive-date=February 20, 2007}}</ref> Other events of the ''Symphonic Game Music Concerts'' featuring ''Final Fantasy'' music were held in 2004, 2006, and 2007.<ref>{{cite web |url=http://www.vgmconcerts.com/main.php?section=about&subs=the%20concert%20programs&lang=english |title=The Concert Programs |publisher=VGMConcerts.com |access-date=June 6, 2008 |archive-url=https://web.archive.org/web/20080410205132/http://www.vgmconcerts.com/main.php?section=about&amp;subs=the%20concert%20programs&amp;lang=english <!--Added by H3llBot--> |archive-date=April 10, 2008}}</ref> The concert in 2004 featured a world premiere of ''Those Who Fight'' from ''Final Fantasy VII''. Japanese pianist Seiji Honda was invited to perform the arrangement together with the orchestra.<ref>{{cite web |url=http://www.vgmconcerts.com/main.php?section=about&subs=the%20concert%20programs&lang=english |title=Seiji Honda performs Final Fantasy music |publisher=VGMConcerts.com |access-date=June 1, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090222000526/http://vgmconcerts.com/main.php?section=about&subs=the%20concert%20programs&lang=english |archive-date=February 22, 2009}}</ref> Another world premiere was "Dancing Mad" from ''Final Fantasy VI'', performed by orchestra, choir, and pipe organ.<ref>{{cite web |url=http://www.vgmconcerts.com/main.php?section=news&subs=archive&lang=english&newsid=50 |title=Nobuo Uematsu to attend GC-concert |publisher=VGMConcerts.com |date=July 15, 2006 |access-date=June 6, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20081221224959/http://www.vgmconcerts.com/main.php?section=news&subs=archive&lang=english&newsid=50 |archive-date=December 21, 2008}}</ref> The event in 2007 included "Distant Worlds" from ''Final Fantasy XI'', performed by Japanese opera soprano Izumi Masuda.<ref>{{cite web |url=http://www.vgmconcerts.com/main.php?section=news&subs=archive&lang=english&newsid=56 |title=Opera singer Izumi Masuda to perform at GC concert |publisher=VGMConcerts.com |date=March 27, 2007 |access-date=June 6, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20081221220956/http://www.vgmconcerts.com/main.php?section=news&subs=archive&lang=english&newsid=56 |archive-date=December 21, 2008}}</ref>
+
+A series of successful concert performances were held in Japan, including a ''Final Fantasy'' concert series titled [[Final Fantasy concerts#Tour de Japon|Tour de Japon]]. The first stateside concert, [[Final Fantasy concerts#Dear Friends - Music from Final Fantasy|Dear Friends – Music from Final Fantasy]], took place on May 10, 2004, at the [[Walt Disney Concert Hall]] in Los Angeles, California, and was performed by the [[Los Angeles Philharmonic]] orchestra and the [[Los Angeles Master Chorale]]. It was conducted by [[Fort Worth Symphony Orchestra]] director [[Miguel Harth-Bedoya]].<ref>{{cite web |url=http://music.ign.com/articles/513/513292p1.html |title=Dear Friends: Music From Final Fantasy |website=IGN |first=Peer |last=Schneider |date=May 11, 2004 |access-date=June 5, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20070322135336/http://music.ign.com/articles/513/513292p1.html |archive-date=March 22, 2007  }}</ref> Due to a positive reception, a concert series for North America followed.<ref>{{cite web |url=http://music.ign.com/articles/580/580832p1.html |title=Final Fantasy In Chicago |website=IGN |date=December 14, 2004 |access-date=June 5, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080216234729/http://music.ign.com/articles/580/580832p1.html |archive-date=February 16, 2008  }}</ref> On May 16, 2005, a follow-up concert called [[Final Fantasy concerts#More Friends: Music from Final Fantasy|More Friends: Music from Final Fantasy]] was performed in Los Angeles at the [[Gibson Amphitheatre]]; the concert was conducted by [[Grammy Award]]-winning [[Arnie Roth]].<ref>{{cite web |url=http://music.ign.com/articles/608/608247p1.html |title=Final Fantasy – More Friends, More Music |website=IGN |date=April 28, 2005 |access-date=June 5, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080328054819/http://music.ign.com/articles/608/608247p1.html |archive-date=March 28, 2008  }}</ref>
+
+Uematsu also made a guest appearance at A Night in Fantasia 2004 performed by the [[Eminence Symphony Orchestra]]'s debut concert in October 2004 which coincided with his last day employed at Square Enix.<ref>{{cite news |url=http://www.theage.com.au/articles/2004/11/19/1100838213865.html?from=storylhs |title=Welcome your Eminence |newspaper=[[The Age]] |date=November 20, 2004 |access-date=November 20, 2004 |url-status=live |archive-url=https://web.archive.org/web/20050403092311/http://www.theage.com.au/articles/2004/11/19/1100838213865.html?from=storylhs |archive-date=April 3, 2005  }}</ref>
+
+Uematsu's ''Final Fantasy'' music was presented in the concert [[Final Fantasy concerts#Voices - Music from Final Fantasy|Voices – Music from Final Fantasy]], which took place on February 18, 2006 at the [[Pacifico Yokohama]] convention center. Star guests included [[Emiko Shiratori]], [[Rikki (Japanese singer)|Rikki]], Izumi Masuda, and [[Angela Aki]]. The concert focused on the songs from the ''Final Fantasy'' series and was conducted by Arnie Roth.<ref>{{cite web |url=http://www.gamespot.com/news/final-fantasy-concert-dvd-coming-to-japan-6152377 |title=Final Fantasy concert DVD coming to Japan |website=[[GameSpot]] |author=GameSpot Staff |date=June 6, 2006 |access-date=June 11, 2008 |url-status=live |archive-url=https://web.archive.org/web/20121025134741/http://www.gamespot.com/news/final-fantasy-concert-dvd-coming-to-japan-6152377 |archive-date=October 25, 2012  }}</ref> Uematsu and several of his fellow composers were in attendance at the world premiere of [[Play! A Video Game Symphony]] in [[Chicago]] on May 27, 2006;<ref>{{cite web |url=http://www.play-symphony.com/news.php?full=24 |archive-url=https://web.archive.org/web/20090519075651/http://www.play-symphony.com/news.php?full=24 |archive-date=May 19, 2009 |title=Nobuo Uematsu to attend Chicago world-premiere |publisher=Play! A Video Game Symphony |date=April 8, 2006 |access-date=June 5, 2008}}</ref> he composed the opening fanfare for the concert.<ref>{{cite web |url=http://www.play-symphony.com/news.php?full=13 |archive-url=https://web.archive.org/web/20071014213840/http://www.play-symphony.com/news.php?full=13 |archive-date=October 14, 2007 |title=Nobuo Uematsu composing for PLAY! |publisher=Play! A Video Game Symphony |date=February 23, 2006 |access-date=June 5, 2008}}</ref> He also attended the European debut in [[Stockholm]], Sweden on June 14, 2006,<ref>{{cite web |url=http://www.play-symphony.com/news.php?full=17 |archive-url=https://web.archive.org/web/20071013205653/http://www.play-symphony.com/news.php?full=17 |archive-date=October 13, 2007 |title=Nobuo Uematsu to attend Stockholm concert |publisher=Play! A Video Game Symphony |date=March 24, 2006 |access-date=June 5, 2008}}</ref> the performance in [[Toronto]] on September 30, 2006,<ref>{{cite web |url=http://www.play-symphony.com/news.php?full=44 |archive-url=https://web.archive.org/web/20070303153235/http://www.play-symphony.com/news.php?full=44 |archive-date=March 3, 2007 |title=Nobuo Uematsu to attend Toronto concert |publisher=Play! A Video Game Symphony |date=July 11, 2006 |access-date=June 5, 2008}}</ref> and in [[Florence]], [[Italy]], on October 10, 2007. The world tour [[Distant Worlds: Music from Final Fantasy]] was held in Stockholm, and was performed by the [[Royal Stockholm Philharmonic Orchestra]] and conducted by Arnie Roth on December 4, 2007.<ref>{{cite web |url=http://www.ffdistantworlds.com/main.php?section=news&subs=latest&full=2 |title=Distant Worlds to premiere in Stockholm |publisher=Distant Worlds: Music from Final Fantasy |date=October 15, 2007 |access-date=June 4, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080503093235/http://www.ffdistantworlds.com/main.php?section=news&subs=latest&full=2 |archive-date=May 3, 2008  }}</ref> The second concert of the tour was held at the [[Rosemont Theatre]] near Chicago on March 1, 2008.<ref>{{cite web |url=http://www.ffdistantworlds.com/main.php?section=news&subs=latest&full=4 |title=Distant Worlds is coming to Chicago |publisher=Distant Worlds: Music from Final Fantasy |date=October 18, 2007 |access-date=June 4, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080501151334/http://www.ffdistantworlds.com/main.php?section=news&subs=latest&full=4 |archive-date=May 1, 2008  }}</ref> The tour has continued, with a recent concert in [[Houston]] on July 24, 2010.
+Music from Final Fantasy made up one fourth of the music in the Symphonic Fantasies concerts in Cologne in September 2009 which were produced by the creators of the Symphonic Game Music Concert series and conducted by Arnie Roth.
+
+In February 2010, it was announced that Uematsu would appear at [[Anime Boston]], one of the largest anime conventions on the East Coast. Uematsu did not only show up at Anime Boston, he made a surprise appearance and played with the [[Video Game Orchestra]] for the track "[[One Winged Angel]]". On top of this, he made a short visit to the prestigious Berklee College of Music for a brief Q & A session at the request of VGO founder and Berklee alumni Shota Nakama. In January 2012, Uematsu performed with his band [[Earthbound Papas]] at [[MAGFest|MAGFest X]] in National Harbor, MD.<ref>{{cite web |url=http://geekout.blogs.cnn.com/2011/12/20/why-magfest-is-the-con-gamers-cant-miss/ |title=MAGFest runs on video game music |date=December 20, 2011 |access-date=November 18, 2012 |url-status=live |archive-url=https://web.archive.org/web/20120712162208/http://geekout.blogs.cnn.com/2011/12/20/why-magfest-is-the-con-gamers-cant-miss/ |archive-date=July 12, 2012  }}</ref><ref>{{cite web |url=https://www.npr.org/2012/01/18/145347111/from-mega-man-to-final-fantasy-live-video-game-music |title=From Mega Man To Final Fantasy, Live Video Game Music |date=January 18, 2012 |access-date=November 18, 2012 |url-status=live |archive-url=https://web.archive.org/web/20121014091918/http://www.npr.org/2012/01/18/145347111/from-mega-man-to-final-fantasy-live-video-game-music |archive-date=October 14, 2012  }}</ref> On November 24, 2012, Uematsu performed in a ''Final Fantasy Distant Worlds'' concert with [[Arnie Roth]] conducting the [[Adelaide Symphony Orchestra]], Adelaide Philharmonia Chorus and soloists at the [[Adelaide Entertainment Centre]].<ref>{{cite web |url=http://www.ffdistantworlds.com/component/ohanah/distant-worlds-adelaide |title=Distant Worlds: Adelaide South Australia&#124; |access-date=November 25, 2012 |url-status=live |archive-url=https://web.archive.org/web/20120712075052/http://www.ffdistantworlds.com/component/ohanah/distant-worlds-adelaide |archive-date=July 12, 2012  }}</ref> On June 14 and 15, 2013, Uematsu performed in a ''Final Fantasy Distant Worlds'' concert with [[Arnie Roth]] conducting the [[Vienna Volksoper]] Orchestra and Vienna Chamber Chorus at [[Konzerthaus, Vienna]].
+
+On August 18, 2013, while headlining the Fantasy Rock Festival in [[Kawasaki, Kanagawa|Kawasaki]], Japan with the [[Earthbound Papas]], he revealed to the audience that he had originally intended to name their second album "Dancing Mad" after the ''[[Final Fantasy VI]]'' track which also appears on the album. However, referring to [[Square Enix]] indirectly, he told the audience that "a certain company 'S'" had phoned and informed him that he "could not use the name". Consequently, instead of backing down he decided to name the album "Dancing Dad", as a nod to the band's name. He also told the audience that he wanted to make an album of wholly original songs, but lamented that "it's just that if there are no game songs on it, it probably wouldn't sell!"
+
+==Musical style and influences==
+The style of Uematsu's compositions is diverse, ranging from stately [[classical music|classical]] symphonic pieces and [[heavy metal music|heavy metal]] to [[New-age music|new-age]] and hyper-percussive [[techno]]-[[electronica]]. For example, in ''Lost Odyssey'', the score ranges from classical orchestral arrangements to contemporary [[jazz]] and techno tracks.<ref>{{cite web |url=http://www.gametrailers.com/gamereview.php?id=1694 |title=Lost Odyssey Review |publisher=[[GameTrailers]] |access-date=June 11, 2008 |url-status=live |archive-url=https://web.archive.org/web/20110605224706/http://www.gametrailers.com/gamereview.php?id=1694 |archive-date=June 5, 2011  }}</ref> Uematsu has stated that he is a big fan of [[Celtic music|Celtic]] and [[music of Ireland|Irish music]], and some of his work contains elements from these musical styles.<ref name=styles>{{cite web |url=http://music.ign.com/articles/529/529490p1.html |title=Nobuo Uematsu Interview |website=IGN |author=Spence D. |author2=Schneider, Peer |author3=Dunham, Jeremy |date=July 9, 2004 |access-date=June 11, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080314222334/http://music.ign.com/articles/529/529490p1.html |archive-date=March 14, 2008  }}</ref> Uematsu's ''Final Fantasy'' scores vary from upbeat, to dark and angry, to melancholic in nature. For instance, the music of ''[[Final Fantasy VIII]]'' is dark and gloomy, while the soundtrack to ''[[Final Fantasy IX]]'' is more carefree and upbeat.<ref>{{cite web |url=http://music.ign.com/articles/741/741101p1.html |title=Twelve Days of Final Fantasy XII: Nobuo Uematsu Interview |website=IGN |date=October 23, 2006 |access-date=June 5, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20061207213918/http://music.ign.com/articles/741/741101p1.html |archive-date=December 7, 2006  }}</ref> His ''Final Fantasy'' music has been described as being able to convey the true emotion of a scene; an example is "Aerith's Theme" from ''[[Final Fantasy VII]]''.<ref name="Biography"/> In an interview with the ''Nichi Bei Times'', Uematsu said "I don't really self-consciously compose music for Japan or for the world, but I do think there is something in my more melancholy pieces that has a distinctly Japanese quality."<ref>{{cite web |url=http://www.nichibeitimes.com/?p=5759 |title=Nobuo Uematsu: An Interview with Video Game Music's Premier Composer |work=Nichi Bei Times |first=Ben |last=Hamamoto |date=September 8, 2009 |access-date=September 12, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20110930012557/http://www.nichibeitimes.com/?p=5759 |archive-date=September 30, 2011  }}</ref> He has been named one of the "Innovators" in ''[[Time (magazine)|Time]]''{{'s}} "Time 100: The Next Wave — Music" feature.<ref>{{cite news |url=http://www.time.com/time/innovators_v2/music/profile_uematsu.html |title=In Fantasy's Loop |work=[[Time (magazine)|Time]] |first=Christopher John |last=Farley |access-date=June 10, 2008 |date=May 19, 2001 |url-status=dead |archive-url=https://web.archive.org/web/20081231083900/http://www.time.com/time/innovators_v2/music/profile_uematsu.html |archive-date=December 31, 2008}}</ref> He has also been called the "[[John Williams]] of the video game world"<ref>{{cite web |url=http://www.nobuouematsu.com/bio.html |title=Biography |publisher=nobuouematsu.com |first=Michael |last=Huang |access-date=June 4, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080724070001/http://www.nobuouematsu.com/bio.html |archive-date=July 24, 2008  }}</ref> and been credited for "increasing the appreciation and awareness" of video game music.<ref name="se_uematsu"/>
+
+Many of Uematsu's musical influences come from the United Kingdom and the United States.<ref name="Influence">{{cite web |url=http://www.nobuouematsu.com/nobxe360.html |title=Interview by Xbox Evolved |publisher=nobuouematsu.com |work=Xbox Evolved |first=John |last=Olin |access-date=June 11, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080821120652/http://www.nobuouematsu.com/nobxe360.html |archive-date=August 21, 2008  }}</ref> He cites [[Elton John]] as his biggest musical influence, and he has stated that he wanted to be like him.<ref name="1UP"/> Other major inspirations include [[The Beatles]], [[Emerson, Lake & Palmer]],<ref>{{cite web |url=http://www.nobuouematsu.com/bob.html |title=Interview by Bob Rork |publisher=nobuouematsu.com |access-date=May 30, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080821115948/http://www.nobuouematsu.com/bob.html |archive-date=August 21, 2008  }}</ref> [[Simon & Garfunkel]], and [[progressive rock]] bands.<ref name="1UP"/> In the classical genre, he cites [[Pyotr Ilyich Tchaikovsky]] as a great influence.<ref name="Influence"/> Uematsu has said that 1970s bands, such as [[Pink Floyd]] and [[King Crimson]], influenced his ''Final Fantasy'' compositions.<ref name="1UP"/> The intro to the piece "One-Winged Angel" from ''Final Fantasy VII'' was inspired by the [[Jimi Hendrix]] song "[[Purple Haze]]"; the lyrics were taken from the medieval poetry on which [[Carl Orff]] based his [[cantata]] ''[[Carmina Burana (Orff)|Carmina Burana]]'', specifically the songs "Estuans Interius", "[[O Fortuna]]", "Veni, Veni, Venias" and "Ave Formosissima".<ref>{{cite web |url=http://www.rpgamer.com/games/ff/ff7/text/info/owainfo.txt |title=One Winged Angel Translation and Background |publisher=RPGamer |first=Patrick |last=Ashmore |access-date=July 8, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20120928202932/http://www.rpgamer.com/games/ff/ff7/text/info/owainfo.txt |archive-date=September 28, 2012  }}</ref> In turn, Nobuo Uematsu has had a major influence on [[video game music]] and beyond the video game industry as well. For example, "[[Music of Final Fantasy VIII|Liberi Fatali]]" from ''[[Final Fantasy VIII]]'' was played during the [[2004 Summer Olympics]] in [[Athens]] during the women's synchronized swimming event.<ref>{{cite web |author=Suds |title=Video Game Music In the Olympics! |year=2004 |url=http://vgmusic.com/news/older/2004/q3.shtml |publisher=Video Game Music Archive |access-date=August 29, 2006 |url-status=dead |archive-url=https://web.archive.org/web/20080513130110/http://www.vgmusic.com/news/older/2004/q3.shtml |archive-date=May 13, 2008  }}</ref><ref>{{cite web |title=The Culture of Videogame Music |year=2005 |url=http://www.empirearcadia.com/community/com-016.htm |publisher=Empire arcadiA |access-date=August 29, 2006 |url-status=dead |archive-url=https://web.archive.org/web/20061027235108/http://www.empirearcadia.com/community/com-016.htm |archive-date=October 27, 2006  }}</ref> From the same game, "[[Eyes on Me (Faye Wong song)|Eyes on Me]]", featuring [[C-pop|Chinese pop]] singer [[Faye Wong]], sold a record 400,000 copies and was the first song from a video game to win an award at the [[Japan Gold Disc Award]]s,<ref name="se_uematsu">{{cite web |title=Nobuo Uematsu |url=http://na.square-enix.com/uematsu/profile/index.html |publisher=[[Square Enix]] |access-date=July 6, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120601114456/http://na.square-enix.com/uematsu/profile/index.html |archive-date=June 1, 2012  }}</ref> where it won "Song of the Year (International)" in 2000.<ref>{{cite web |url=http://www.riaj.or.jp/e/data/gdisc/2000.html |title=Japan Gold Disc Award 2000 |publisher=Riaj.or.jp |date=January 21, 1998 |access-date=February 2, 2012 |url-status=live |archive-url=https://web.archive.org/web/20120208033949/http://www.riaj.or.jp/e/data/gdisc/2000.html |archive-date=February 8, 2012  }}</ref> In a 2010 interview, Uematsu said that he gets more inspiration from walking his dog than from listening to other music.<ref>{{cite web |url=http://asiapacificarts.usc.edu/article@apa?the_music_of_distant_worlds_interview_with_nobuo_uematsu_and_arnie_roth_15584.aspx |title=The Music of Distant Worlds: interview with Nobuo Uematsu and Arnie Roth |publisher=Asia Pacific Arts |date=August 27, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20120411080830/http://asiapacificarts.usc.edu/article@apa?the_music_of_distant_worlds_interview_with_nobuo_uematsu_and_arnie_roth_15584.aspx |archive-date=April 11, 2012  |access-date=February 14, 2011 }}</ref>
+
+==Works==
+''All works listed below were solely composed by Uematsu unless otherwise noted.''
+{| class="wikitable sortable" style="text-align:center;" width="auto"
+|+ Video games
+! scope="col"|Year
+! scope="col"|Game
+! scope="col"|Notes
+! scope="col"|Ref.
+|-
+| rowspan="4" | 1986 || ''[[Cruise Chaser Blassty]]'' || with Takashi Uno
+|<ref name="Biography"/>
+|-
+| ''[[Alpha (video game)|Alpha]]'' || rowspan="9" |
+|<ref name="Biography"/>
+|-
+| ''[[King's Knight]]'' 
+|<ref>{{cite web | author=Square Enix North America Site Staff | year=2005 | title=Uematsu's Music | url=http://www.square-enix-usa.com/uematsu/profile/index.html | archive-url=https://web.archive.org/web/20090312044802/http://www.square-enix-usa.com/uematsu/profile/index.html | archive-date=March 12, 2009| publisher= [[Square (video game company)|Square Enix North America]] | access-date=May 2, 2006 }}</ref>
+|-
+| ''[[Suishō no Dragon]]'' 
+|<ref>{{cite web |title=FINAL FANTSYの楽曲で知られる世界をまたにかける作曲家『エンタメの今に切り込む新企画【ザ・プロデューサーズ】第十七回・植松伸夫氏』 |url=https://spice.eplus.jp/articles/109931 |website=spice.eplus.jp |access-date=May 19, 2020 |language=ja}}</ref>
+|-
+| rowspan="9" | 1987 || ''[[3-D WorldRunner]]''
+|<ref name="Biography"/>
+|-
+| ''[[Apple Town Story]]'' 
+|<ref name="Biography"/>
+|-
+| ''[[List of Square video games#Games|Genesis]]'' 
+|<ref name="Biography"/>
+|-
+| ''Aliens: Alien 2'' 
+|<ref name="Biography"/>
+|-
+| ''[[Cleopatra no Mahō]]'' 
+|<ref name="Biography"/>
+|-
+| ''[[Rad Racer]]'' 
+|<ref name="Biography"/>
+|-
+| ''[[Nakayama Miho no Tokimeki High School]]'' || with Toshiaki Imai ||<ref>{{cite web |url=http://www.vgmpf.com/Wiki/images/f/ff/Idol_Hotline_-_Nakayama_Miho_no_Tokimeki_High_School_-_FDS_-_Credits.png |format=PNG |title=Message from MIHO♥ |url-status=live |archive-url=https://web.archive.org/web/20141108220731/http://www.vgmpf.com/Wiki/images/f/ff/Idol_Hotline_-_Nakayama_Miho_no_Tokimeki_High_School_-_FDS_-_Credits.png |archive-date=November 8, 2014  }}</ref> 
+|-
+| ''[[JJ (video game)|JJ: Tobidase Daisakusen Part II]]'' || rowspan="8" |
+|<ref name="Biography"/>
+|-
+| ''[[Final Fantasy (video game)|Final Fantasy]]'' ||<ref name=elton/>
+|-
+| rowspan="2" | 1988 || ''[[Hanjuku Hero]]'' 
+|<ref name="Biography"/>
+|-
+| ''[[Final Fantasy II]]'' 
+|<ref name="FFII">{{cite web | title=Final Fantasy Retrospective: Part II | url=http://www.gametrailers.com/full-episodes/zz0eu7/gt-retrospectives-final-fantasy-retrospective--part-ii |date= July 23, 2007| publisher=[[GameTrailers]] | access-date=August 30, 2012|archive-url=https://web.archive.org/web/20150704042042/http://www.gametrailers.com/full-episodes/zz0eu7/gt-retrospectives-final-fantasy-retrospective--part-ii|archive-date=July 4, 2015}}</ref>
+|-
+| rowspan="2" | 1989 || ''[[Square's Tom Sawyer]]'' 
+|<ref name="Biography"/>
+|-
+| ''[[The Final Fantasy Legend]]'' 
+|<ref name="assl1">Square Brand. ''All Sounds of SaGa, Line Notes''. p. 1. Retrieved on June 28, 2008.</ref> 
+|-
+| rowspan="3" | 1990 || ''[[Final Fantasy III]]'' 
+|<ref name="RPGFOSV">{{cite web|author1=Gann, Patrick |author2=Schweitzer, Ben |title=Final Fantasy III OSV |url=http://rpgfan.com/soundtracks/ff3ost/index.html |publisher=RPGFan |date=June 17, 2006 |access-date=March 27, 2008 |url-status=live |archive-url=https://web.archive.org/web/20130116213527/http://rpgfan.com/soundtracks/ff3ost/index.html |archive-date=January 16, 2013 }}</ref>
+|-
+| ''[[Rad Racer II#Sequel|Rad Racer II]]'' 
+|<ref name=radish>{{cite web|url= https://www.youtube.com/watch?v=HfvnCYko4E8| archive-url=https://ghostarchive.org/varchive/youtube/20211116/HfvnCYko4E8| archive-date=2021-11-16 | url-status=live|access-date=May 19, 2020|publisher=YouTube|date=October 7, 2018|title= Rad Racer 2 - NES - ending|author=Videogame Endings Database}}{{cbignore}}</ref>
+|-
+| ''[[Final Fantasy Legend II]]'' || with [[Kenji Ito]]
+|<ref name="IGN">{{cite web|url=http://gameboy.ign.com/articles/158/158022p1.html|title=IGN: Final Fantasy Legend II Review|publisher=[[IGN]]|author=Sy, Dexter|date=June 14, 2000|access-date=April 10, 2008|url-status=live|archive-url=https://web.archive.org/web/20120222001123/http://gameboy.ign.com/articles/158/158022p1.html|archive-date=February 22, 2012}}</ref>
+|-
+| 1991 || ''[[Final Fantasy IV]]'' ||
+|<ref name="Biography"/>
+|-
+| rowspan="2" | 1992 || ''[[Romancing SaGa]]'' ||arranged "Heartful Tears"
+|<ref name=romancer>{{cite web|url= https://www.originalsoundversion.com/start-2011-with-a-fight-saga-battle-track-compilation-review/|access-date=May 18, 2020|date=February 11, 2011|title=Start 2011 with a fight: SaGa Battle Track Compilation (Review)|author=Napolitano, Jayson|publisher=Original Sound Version}}</ref>
+|-
+| ''[[Final Fantasy V]]'' ||
+|<ref name="Biography"/>
+|-
+| 1993 || ''[[Romancing SaGa 2]]'' || arrangement of two tracks
+|<ref name=sagatime>{{cite web|url= https://www.rpgfan.com/soundtracks/rs2-osv/index.html|access-date=May 18, 2020|title= Romancing SaGa 2 OSV|publisher=RPGfan|author=Gann, Patrick|date=December 1, 2004}}</ref>
+|-
+| 1994 || ''[[Final Fantasy VI]]'' ||
+|<ref name=dog/>
+|-
+| 1995 || ''[[Chrono Trigger]]'' || with [[Yasunori Mitsuda]] and [[Noriko Matsueda]]
+|<ref name="Biography"/>
+|-
+| rowspan="2" | 1996 || ''DynamiTracer'' ||
+|<ref name="Biography"/>
+|-
+| ''[[Front Mission: Gun Hazard]]'' || with Yasunori Mitsuda, [[Masashi Hamauzu]], and [[Junya Nakano]]
+|<ref name="Biography"/>
+|-
+| 1997 || ''[[Final Fantasy VII]]'' || rowspan="3" |
+|<ref name="Biography"/>
+|-
+| 1999 || ''[[Final Fantasy VIII]]'' 
+|<ref name="Biography"/>
+|-
+| 2000 || ''[[Final Fantasy IX]]'' 
+|<ref name=man/>
+|-
+| 2001 || ''[[Final Fantasy X]]'' || with Masashi Hamauzu and Junya Nakano
+|<ref name=man/>
+|-
+|rowspan="2" | 2002 || ''[[Final Fantasy XI]]'' || with [[Naoshi Mizuta]] and [[Kumi Tanioka]]
+|<ref name="Biography"/>
+|-
+| ''[[Final Fantasy Origins]]'' || Arrangements of ''Final Fantasy'' music
+|<ref name=originate>{{cite web|url= https://rpgamer.com/review/final-fantasy-origins-review/|access-date=May 18, 2020|date=June 15, 2003|author=Long, Andrew|title=Final Fantasy Origins Review|publisher=RPGamer}}</ref>
+|-
+| rowspan="2" | 2003 || ''[[Final Fantasy Tactics Advance]]''
+|main theme
+|<ref name="Biography"/>
+|-
+| ''[[Hanjuku Hero Tai 3D]]'' ||
+|<ref name="Biography"/>
+|-
+| rowspan="2" | 2005 || ''[[Hanjuku Hero 4: 7-Jin no Hanjuku Hero]]'' || with various others
+|<ref>{{cite web |last=Niizumi |first=Hirohiko |title=Uematsu's Hanjuku plans will make fans smile |url=http://www.gamespot.com/articles/uematsus-hanjuku-plans-will-make-fans-smile/1100-6116820/ |publisher=GameSpot |access-date=January 29, 2016 |date=January 21, 2005}}</ref>
+|-
+| ''[[Egg Monster Hero]]'' ||
+|<ref name=omelet>{{cite web|url= https://www.jp.square-enix.com/hanjuku_hero/|access-date=May 19, 2020|publisher=Square Enix|date=January 1, 2017|title=Egg Monster Hero}}</ref>
+|-
+| rowspan="2" | 2006 || ''[[Final Fantasy XII]]'' ||composed the ending theme, "[[Kiss Me Good-Bye]]"
+|<ref name="Biography"/>
+|-
+| ''[[Blue Dragon (video game)|Blue Dragon]]'' ||
+|<ref name=man/>
+|-
+| rowspan="2" | 2007 || ''Anata o Yurusanai'' || with various others
+|<ref name=forgive>{{cite web|url= https://www.engadget.com/2007-08-29-nobuo-uematsu-works-on-unique-game-i-wont-forgive-you.html|access-date=May 18, 2020|date=August 29, 2007|title=Nobuo Uematsu works on unique game, "I Won't Forgive You"|author=Yoon, Andrew|publisher=Engadget}}</ref>
+|-
+| ''[[Lost Odyssey]]'' ||
+|<ref name=man/>
+|-
+| rowspan="4" | 2008 || ''[[Super Smash Bros. Brawl]]'' || main theme
+|<ref name=brawl/>
+|-
+| ''[[Lord of Vermilion]]'' || rowspan="5" |
+|<ref name="Biography"/>
+|-
+| ''[[Blue Dragon Plus]]'' 
+|<ref name="Biography"/>
+|-
+| ''[[Away: Shuffle Dungeon]]'' 
+|<ref name="Biography"/>
+|-
+| rowspan="3" | 2009 || ''[[Blue Dragon: Awakened Shadow]]'' 
+|<ref name=shadow>{{cite web|url= https://rpgamer.com/review/blue-dragon-awakened-shadow-review/|publisher=RPGamer|access-date=May 18, 2020|date=July 17, 2010|title= Blue Dragon: Awakened Shadow Review|author=Ouden, Adriaan Den}}</ref>
+|-
+| ''[[Sakura Note]]'' 
+|<ref name="Biography"/>
+|-
+| ''Kurulin Fusion'' ||music director
+|<ref name="Biography"/>
+|-
+| rowspan="3" | 2010 || ''Lord of Vermilion II'' || opening theme
+|<ref name=lords>{{cite web|url= http://www.originalsoundversion.com/passing-the-torch-sakimotos-semi-rockin-lord-of-vermilion-ii-soundtrack-review/|access-date=May 18, 2020|date=August 16, 2010|title=Passing the Torch: Sakimoto's Semi-Rockin' Lord of Vermilion II Soundtrack (Review)|author=Napolitano, Jayson|publisher=Original Sound Version}}</ref>
+|-
+| ''[[Final Fantasy XIV (2010 video game)|Final Fantasy XIV]]'' || composed for the original version of the game
+|<ref name="Biography"/>
+|-
+| ''[[Lord of Arcana]]'' || with [[Kenichiro Fukui]] and Satoshi Henmi
+|<ref name=arcana>{{cite web|url= https://www.vg247.com/2011/07/11/nobuo-uematsu-involved-in-two-unannounced-projects/|access-date=May 18, 2020|date=July 11, 2011|title=Nobuo Uematsu involved in two unannounced projects|publisher=VG247|author=Hillier, Brenna}}</ref>
+|-
+| rowspan="2" | 2011 || ''[[The Last Story]]'' ||
+|<ref name="Biography"/>
+|-
+| ''[[Unchained Blades|UnchainBlades ReXX]]'' || with Tsutomu Narita
+|<ref name="Biography"/>
+|-
+| rowspan="4" | 2012 || ''Jyuzaengi: Engetsu Sangokuden'' || with [[Kevin Penkin]]
+|<ref name="Biography"/>
+|-
+| ''[[Hyperdimension Neptunia Victory]]'' || with Kenji Kaneko and Kenji Ito
+|<ref name="Biography"/>
+|-
+| ''UnchainBlades EXXiV'' || with Tsutomu Narita, Michio Okamiya, and [[Yoshitaka Hirota]]
+|<ref name="Biography"/>
+|-
+| ''[[Fantasy Life]]'' ||
+|<ref name="Biography"/>
+|-
+| rowspan="7" | 2013 || ''[[NORN9]]'' || main theme
+|<ref name="Biography"/>
+|-
+|  ''Lord of Vermilion III'' || opening theme
+|<ref name=Arcadia>{{cite web|url= https://www.4gamer.net/games/259/G025994/20141218085/|publisher=4gamer|access-date=May 18, 2020|date=December 18, 2014|title=「グルーヴコースター EX」が「LoV」とコラボイベントを実施。報酬に称号など}}</ref>
+|-
+|  ''[[Ragnarok Odyssey Ace]]'' ||composed one track ||<ref>{{cite web |author=Spencer |url=http://www.siliconera.com/2013/05/08/nobuo-uematsu-composed-a-song-for-ragnarok-odyssey-ace/ |title=Nobuo Uematsu composed A Song For Ragnarok Odyssey Ace |publisher=Siliconera |date=May 8, 2013 |access-date=April 10, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140419023745/http://www.siliconera.com/2013/05/08/nobuo-uematsu-composed-a-song-for-ragnarok-odyssey-ace/ |archive-date=April 19, 2014  }}</ref> 
+|-
+|  ''[[Fairy Fencer F]]'' || with various others
+|<ref>{{cite web |title=Former Final Fantasy artist and composer team up for Fairy Fencer F RPG |url=http://www.gamespot.com/news/former-final-fantasy-artist-and-composer-team-up-for-fairy-fencer-f-rpg-6408127 |publisher=GameSpot |access-date=May 10, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130607011422/http://www.gamespot.com/news/former-final-fantasy-artist-and-composer-team-up-for-fairy-fencer-f-rpg-6408127 |archive-date=June 7, 2013 }}</ref>
+|-
+|  ''[[Hometown Story (video game)|Hometown Story]]'' || with Tsutomu Narita
+|<ref name=hometown>{{cite web|url= http://www.nintendolife.com/news/2013/05/natsumes_hometown_story_will_be_playable_at_e3|access-date=May 18, 2020|publisher=Nintendo Life|date=May 29, 2013|title= Natsume's Hometown Story Will Be Playable at E3|author=Meyer, Lee}}</ref>
+|-
+|  ''[[Oceanhorn: Monster of Uncharted Seas]]'' ||with Kalle Ylitalo and Kenji Ito ||<ref>{{cite web |url=http://oceanhorn.blogspot.mx/2013/07/nobuo-uematsu-and-kenji-ito-joins.html |title=Nobuo Uematsu and Kenji Ito join Oceanhorn! |date=July 15, 2013 |access-date=July 19, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131104135348/http://oceanhorn.blogspot.mx/2013/07/nobuo-uematsu-and-kenji-ito-joins.html |archive-date=November 4, 2013  }}</ref> 
+|-
+| ''[[Wonder Flick]]'' || ||<ref>{{cite web |url=http://gematsu.com/2014/07/hironobu-sakaguchi-announces-terra-battle-smartphones |title=Hironobu Sakaguchi announces Terra Battle for smartphones |date=July 1, 2014 |access-date=July 1, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140706123035/http://gematsu.com/2014/07/hironobu-sakaguchi-announces-terra-battle-smartphones |archive-date=July 6, 2014  }}</ref> 
+|-
+| rowspan="3" | 2014 || ''[[Granblue Fantasy]]'' || with Tsutomu Narita
+|<ref>{{cite web|url=http://www.animenewsnetwork.com/news/2015-09-17/granblue-fantasy-smartphone-game-gets-anime-manga-adaptations/.93036|title=Granblue Fantasy Smartphone Game Gets Anime, Manga Adaptations|publisher=[[Anime News Network]]|date=September 17, 2015|access-date=November 11, 2015}}</ref>
+|-
+| ''[[Tokyo Twilight Ghost Hunters]]'' || opening theme
+|<ref name=ghost>{{cite web|url= https://www.siliconera.com/tokyo-twilight-ghost-hunters-opening-arranged-nobuo-uematsu/|publisher=Siliconera|access-date=May 18, 2020|date=February 24, 2014|title= Is Tokyo Twilight Ghost Hunter's Opening Is Arranged By Nobuo Uematsu|author=Eugene}}</ref>
+|-
+| ''[[Terra Battle]]'' ||
+|<ref name=terrabattle>{{cite web|url= https://www.eurogamer.net/articles/2014-10-06-sakaguchis-terra-battle-out-this-week|publisher=Eurogamer|access-date=May 18, 2020|date=October 6, 2014|title=Sakaguchi's Terra Battle out this week|author= Yin-Poole, Wesley}}</ref>
+|-
+| rowspan="2" | 2015 ||  ''Chunithm: Seelisch Tact'' ||main theme
+|<ref name=chin>{{cite web|url= http://www.vgmonline.net/chunithm/|access-date=May 18, 2020|publisher=Video Game Music Online|title=CHUNITHM Original Soundtrack -Seelisch Tact-|author=Greening, Chris|date=July 22, 2016}}</ref>
+|-
+| ''[[Fairy Fencer F: Advent Dark Force]]'' || with various others
+|<ref name=darkforce>{{cite web|url= https://hardcoregamer.com/2016/06/09/new-characters-uncovered-for-fairy-fencer-f-advent-dark-force/210911/|access-date=May 18, 2020|title= New Characters Uncovered for Fairy Fencer F: Advent Dark Force|author=Shive, Chris|publisher=Hardcore Gamer|date=June 9, 2016}}</ref>
+|-
+|| 2016 || ''Super Senso''|| rowspan="2" |  ||<ref>{{cite web |title=FINAL FANTASY LEGENDS YOSHITAKA AMANO AND NOBUO UEMATSU CONTRIBUTING TO TURBO'S DEBUT GAME, SUPER SENSO |url=http://gamasutra.com/view/pressreleases/264801/FINAL_FANTASY_LEGENDS_YOSHITAKA_AMANO_AND_NOBUO_UEMATSUCONTRIBUTING_TO_TURBOrsquoS_DEBUT_GAME_SUPER_SENSO.php |website=Gamasutra |access-date=February 27, 2016 |url-status=live |archive-url=https://web.archive.org/web/20160310175758/http://gamasutra.com/view/pressreleases/264801/FINAL_FANTASY_LEGENDS_YOSHITAKA_AMANO_AND_NOBUO_UEMATSUCONTRIBUTING_TO_TURBOrsquoS_DEBUT_GAME_SUPER_SENSO.php |archive-date=March 10, 2016  }}</ref> 
+|-
+| rowspan="2" | 2017 || ''[[Terra Battle 2]]''||<ref>{{cite web |last1=Pineda |first1=Rafael |title=Terra Battle 2 Smartphone Game Ends Service in Japan in September |url=https://www.animenewsnetwork.com/news/2018-06-29/terra-battle-2-smartphone-game-ends-service-in-japan-in-september/.133555 |website=Anime News Network |access-date=May 19, 2020}}</ref>
+|-
+| ''[[Final Fantasy XV: Comrades]]'' || with various others
+|<ref name=comrades>{{cite web|url= https://www.siliconera.com/nobuo-uematsu-vocalist-emiko-suzuki-talk-final-fantasy-xv-comrades-theme/|publisher=Siliconera|access-date=May 18, 2020|date=November 13, 2017|title=Nobuo Uematsu And Vocalist Emiko Suzuki Talk About Final Fantasy XV: Comrades' Theme Song|author=Sato}}</ref>
+|-
+|| 2019 || ''[[Terra Wars]]'' || ||<ref name=terrawars>{{cite web|url= https://app.famitsu.com/20190614_1465594/|publisher=[[Famitsu]]|access-date=May 20, 2020|title=坂口博信氏が手掛ける注目のRTS『テラウォーズ』キーマン3人にインタビュー|date=June 14, 2019|language=ja}}</ref>
+|-
+|| 2020 || ''[[Final Fantasy VII Remake]]'' || with Masashi Hamauzu and Mitsuto Suzuki ||<ref name="Music">{{cite web |author1=FINAL FANTASY VII REMAKE Team |title=The music of FINAL FANTASY VII REMAKE - comments from the composers |url=https://square-enix-games.com/en_GB/news/final-fantasy-vii-remake-composers |website=square-enix-games.com |access-date=February 1, 2020}}</ref> 
+|-
+|| 2021 || ''[[Fantasian]]'' || ||<ref>{{cite web |last1=Higham |first1=Michael |title=How The Creator Of Final Fantasy Is Evolving The Classic RPG With Fantasian |url=https://www.gamespot.com/articles/how-the-creator-of-final-fantasy-is-evolving-the-classic-rpg-with-fantasian/1100-6488292/ |website=GameSpot |access-date=March 2, 2021}}</ref>
+|-
+| rowspan="2" | TBA || ''Defender's Quest II'' || main theme ||<ref>{{Cite web|url=https://www.defendersquest.com/2/?page=team|title=Defender's Quest II - Core Team|website=defendersquest.com|access-date=January 31, 2021}}</ref>
+|-
+| ''[[Granblue Fantasy: Relink]]'' || with Tsutomu Narita
+|<ref>{{cite web| url=https://www.gematsu.com/2016/08/cygames-platinum-games-announce-action-rpg-granblue-fantasy-project-re-link| title = Cygames and Platinum Games announce action RPG Granblue Fantasy Project Re: Link | date =August 21, 2016 |first = Sal | last = Romano|access-date=May 18, 2020 |publisher=Gematsu}}</ref>
+|}
+{| class="wikitable sortable" style="text-align:center;" width="auto"
+|+ Film/anime
+! scope="col"|Year
+! scope="col"|Show
+! scope="col"|Notes
+! scope="col"|Ref.
+|-
+| 2000 || ''[[Ah! My Goddess: The Movie]]'' || main theme
+|<ref name="Biography"/>
+|-
+| 2005 || ''[[Final Fantasy VII: Advent Children]]'' || with [[Keiji Kawamori]], [[Kenichiro Fukui]], and [[Tsuyoshi Sekito]]
+|<ref name="Biography"/>
+|-
+| 2007 || ''[[Blue Dragon (anime)|Blue Dragon]]'' || main theme
+|<ref name=blueanime>{{cite journal|url= https://www.wired.com/2007/03/japan-gets-blue/|access-date=May 18, 2020|date=March 2, 2007|title=Japan Gets Blue Dragon Cartoon|publisher=Wired Magazine|author=Arendt, Susan|journal=Wired}}</ref>
+|-
+| 2009 || ''[[Guin Saga]]'' ||
+|<ref name=man/>
+|-
+| 2012 || ''[[Fairy Tail the Movie: The Phoenix Priestess]]'' || ending theme ||<ref>{{cite web |url=http://www.animenewsnetwork.com/interest/2012-05-30/aya-hirano-to-sing-fairy-tail-film-ending-theme |title=Aya Hirano to Sing Fairy Tail Film's Ending Theme |date=May 30, 2012 |access-date=June 23, 2013 |url-status=live |archive-url=https://web.archive.org/web/20140307004733/http://www.animenewsnetwork.com/interest/2012-05-30/aya-hirano-to-sing-fairy-tail-film-ending-theme |archive-date=March 7, 2014  }}</ref>
+|-
+| 2017 || ''[[Granblue Fantasy The Animation]]'' || with Tsutomu Narita and [[Yasunori Nishiki]]
+|<ref name=animation>{{cite web|url= https://www.gematsu.com/2016/08/granblue-fantasy-animation-airs-january-2017-first-trailer|access-date=May 18, 2020|date=August 21, 2016|title= Granblue Fantasy: The Animation airs in January 2017, first trailer|author=Romano, Sal|publisher=Gematsu}}</ref>
+|}
+{| class="wikitable sortable" style="text-align:center;" width="auto"
+|+ Other
+! scope="col"|Year
+! scope="col"|Media
+! scope="col"|Notes
+! scope="col"|Ref.
+|-
+| rowspan="2" | 1993 || ''Final Fantasy V Mambo de Chocobo'' || rowspan="4" |
+|<ref name=mambo>{{cite journal|url= https://www.wired.com/2008/08/final-fantasy-r/|access-date=May 17, 2020|date=August 6, 2008|title= Final Fantasy Remix Music CD Launches|author=Snow, Jean|journal=Wired}}</ref>
+|-
+| ''[[Final Fantasy V Dear Friends]]'' 
+|<ref name="Biography"/>
+|-
+| rowspan="3" | 1994 || ''[[Final Fantasy VI Special Tracks]]'' 
+| <ref name="RPGFST">{{cite web| author = Gann, Patrick| title = Final Fantasy VI Special Tracks| url= http://www.rpgfan.com/soundtracks/ff6special/index.html| publisher= RPGFan| access-date = April 4, 2008 |archive-url=https://web.archive.org/web/20130116220629/http://rpgfan.com/soundtracks/ff6special/index.html |archive-date=January 16, 2013 |url-status=live}}</ref>
+|-
+| ''Phantasmagoria''
+|<ref name="Biography"/>
+|-
+| ''[[F. F. Mix]]'' || with various others
+|<ref name="RPGFMIX">{{cite web | author=Gann, Patrick | title=Final Fantasy Mix | url=http://rpgfan.com/soundtracks/ffmix/index.html | publisher=RPGFan | access-date=April 16, 2008 |archive-url=https://web.archive.org/web/20130116222016/http://rpgfan.com/soundtracks/ffmix/index.html |archive-date=January 16, 2013 |url-status=live}}</ref>
+|-
+| 1998 || ''Ten Plants'' || composed "forget the dream of tomorrow"
+|<ref name="Biography"/>
+|-
+| 1999 || ''Ten Plants 2: Children Songs'' || composed "Tomorrow's Weather"
+|<ref name="Biography"/>
+|-
+| 2003 || ''[[The Black Mages I]]'' || rowspan="4" | with [[The Black Mages]]
+|<ref name=styles/>
+|-
+| rowspan="2" | 2004  ||''[[Dark Chronicle#Music|Dark Chronicle Premium Arrange]]''
+|<ref>{{cite web | language=de | access-date=June 28, 2020|publisher=GamePro |title=Dark Chronicles: Tribute-Album|author=Lott, Gunner|date=September 3, 2004|url= https://www.gamepro.de/artikel/dark-chronicles-tribute-album,1290952.html}}</ref>
+|-
+| ''[[The Black Mages II: The Skies Above]]'' 
+|<ref name="RPGFBM2">{{cite web|url=http://rpgfan.com/soundtracks/ffbm2/index.html|title=Final Fantasy ~ The Black Mages II: The Skies Above|publisher=RPGFan|first=Jesse|last=Jones |date=January 29, 2005|access-date=June 6, 2008}}</ref>
+|-
+| 2008 || ''[[The Black Mages III: Darkness and Starlight]]'' 
+|<ref name=dog/>
+|-
+| 2010 || ''Nobuo Uematsu's 10 Short Stories'' ||
+|<ref name="Biography"/>
+|-
+| rowspan="2" | 2011 || ''Earthbound Papas: Octave Theory'' || with [[Earthbound Papas]]
+|<ref name="Biography"/>
+|-
+| ''[[Play for Japan: The Album]]'' || composed "Every New Morning"
+|<ref name="Biography"/>
+|-
+| 2012 || ''Reiki Japan'' ||
+|<ref name=reiki>{{cite web|url= http://www.reiki.ne.jp/reiki_japan/en.html |access-date=June 28, 2020|title=Reiki Japan|publisher=Reiki Japan Official Website}}</ref>
+|-
+| rowspan="2" | 2013 || ''Blik-0 1946'' ||also wrote the story
+|<ref name=fortysix>{{cite web|url= https://www.engadget.com/2013-08-03-uematsus-blik-0-1946-e-book-has-robots-feelings.html|publisher=Engadget|access-date=May 17, 2020|date=August 3, 2013|author=Schulenberg, Thomas|title= Uematsu's Blik-0 1946 e-book has robots, feelings}}</ref>
+|-
+| ''Earthbound Papas: Dancing Dad'' || with Earthbound Papas
+|<ref name=dad>{{cite web|url= https://s.famitsu.com/news/201307/08036285.html|publisher=Famitsu|access-date=May 17, 2020|date=July 8, 2013|title=植松伸夫氏率いる"EARTHBOUND PAPAS"による待望の2ndアルバム『DANCING DAD』の発売が決定|author=Famitsu Staff}}</ref>
+|}
+
+==References==
+<references />
+
+==External links==
+{{Commons category|Nobuo Uematsu}}
+* {{Official website|http://www.dogearrecords.com/}} {{in lang|ja}}
+* {{AnimeCons name|id=2988|name=Nobuo Uematsu}}
+
+{{Authority control}}
+{{good article}}
+
+{{DEFAULTSORT:Uematsu, Nobuo}}
+[[Category:1959 births]]
+[[Category:Anime composers]]
+[[Category:Freelance musicians]]
+[[Category:Japanese composers]]
+[[Category:Japanese film score composers]]
+[[Category:Japanese male composers]]
+[[Category:Japanese male film score composers]]
+[[Category:Japanese rock keyboardists]]
+[[Category:Kanagawa University alumni]]
+[[Category:Living people]]
+[[Category:Musicians from Kōchi Prefecture]]
+[[Category:People from Kōchi, Kōchi]]
+[[Category:Progressive rock keyboardists]]
+[[Category:Progressive rock musicians]]
+[[Category:Square Enix people]]
+[[Category:Symphonic rock musicians]]
+[[Category:Video game composers]]

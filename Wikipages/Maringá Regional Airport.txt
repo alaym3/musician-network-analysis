@@ -1,0 +1,98 @@
+{{Infobox airport
+| name         = Sílvio Name Júnior Regional Airport
+| nativename   = {{lang|pt|Aeroporto Regional Sílvio Name Júnior|italic=yes}}
+| nativename-a = 
+| nativename-r =
+| image        = MGF 11 2012 Maringa Regional Airport 4689.jpg
+| image-width  = 
+| caption      =
+| IATA         = MGF
+| ICAO         = SBMG
+| LID          =
+| GPS          =
+| WMO          =
+| type         = Public
+| owner-oper   =
+| owner        =
+| operator     = Terminais Aéreos de Maringá – SBMG S.A.<br>[[Aeroportos do Paraná (SEIL)|SEIL]]
+| city-served  = [[Maringá]]
+| location     = 
+| hub          =
+| timezone     = [[Time in Brazil]]
+| utc          = [[UTC−03:00]]
+| metric-elev  = yes
+| elevation-f  = 1,801
+| elevation-m  = 549
+| website      = {{URL|http://aeroportomaringa.com.br/}}
+| coordinates  = {{coord|23|28|46|S|052|00|44|W|region:BR-PR|display=it}}
+| pushpin_map            = Paraná#Brazil
+| pushpin_label_position = 
+| pushpin_label          = MGF
+| pushpin_map_alt        =
+| pushpin_mapsize        = 
+| pushpin_image          =
+| pushpin_map_caption    = Location in Brazil
+| metric-rwy   = yes
+| r1-number    = 10/28
+| r1-length-f  = 6,890
+| r1-length-m  = 2,100
+| r1-surface   = [[Asphalt]]
+| stat-year    = 2011
+| stat1-header = Passengers
+| stat1-data   = 677,264 {{increase}} 33%
+| stat2-header = Aircraft Operations
+| stat2-data   = 16,726 {{increase}} 10%
+| stat3-header = Metric [[tonne]]s of cargo
+| stat3-data   = 
+| footnotes    = Statistics: SEIL<ref>{{cite web | url=http://www.infraestrutura.pr.gov.br/arquivos/File/aeroportos/Inf_Est_Aer_estat_de_passageiros.pdf | title=Estatística de passageiros | website=SEIL | language=pt | date=March 2012 | access-date=18 July 2020}}</ref><ref>{{cite web | url=http://www.infraestrutura.pr.gov.br/arquivos/File/aeroportos/Inf_Est_Aer_estat_de_Pouso_mais_Decolagem_2005_2011.pdf | title=Movimentação de aeronaves | website=SEIL | language=pt | date=March 2012 | access-date=18 July 2020}}</ref><br>Sources: Airport Website,<ref>{{cite web | url=http://aeroportomaringa.com.br/ | title=Aeroporto Regional de Maringá | website=Aeroporto Regional de Maringá | access-date=18 May 2021 | language=pt}}</ref> [[National Civil Aviation Agency of Brazil|ANAC]]<ref>{{cite web | url=https://www.anac.gov.br/dadosabertos/areas-de-atuacao/aerodromos  | title=Aeródromos | website=ANAC | date=26 June 2020 | access-date=11 May 2021 | language=pt}}</ref>
+}}
+
+'''Sílvio Name Júnior Regional Airport''' {{airport codes|MGF|SBMG}}, is the airport serving [[Maringá]], [[Brazil]]. It is named after Sílvio Name Júnior (1967-2000), a local businessman and politician who died on an air crash.<ref>{{Cite web | url=http://www1.folha.uol.com.br/folha/cotidiano/ult95u16918.shtml | title=Vítima de acidente com bimotor era candidato a prefeito em Maringá | publisher=Folha.com | language=Portuguese | date=December 17, 2000 | accessdate=October 6, 2010 | first=Eduardo | last=Scolese}}</ref>
+
+It is operated by Terminais Aéreos de Maringá – SBMG, a semi-independent Transportation Authority of Maringá, indirectly related to the Municipality of Maringá, and under the supervision of [[Aeroportos do Paraná (SEIL)]].
+
+==History==
+The airport serves an area composed of the city of Maringá and neighboring communities, with a total number of 2 million inhabitants. The new terminal was built between October, 1994 and September 16, 2000. It began operating on April 25, 2001.
+
+The airport is very modern and the runway of the airport is capable to handle major regional and domestic flights. Its terminal is designed to handle more than 430,000 passengers per year.
+
+The airport has service with over 120 parking places.
+
+==Airlines and destinations==
+{{Airport-dest-list
+|[[Azul Brazilian Airlines]] | [[Viracopos International Airport|Campinas]], [[Afonso Pena International Airport|Curitiba]], '''Seasonal:''' [[Hercílio Luz International Airport|Florianópolis]] 
+<!-- -->
+|[[Gol Transportes Aéreos]] | [[São Paulo-Guarulhos International Airport|São Paulo–Guarulhos]]
+<!-- -->
+|[[LATAM Brasil]] | [[São Paulo-Guarulhos International Airport|São Paulo–Guarulhos]]
+}}
+
+==Access==
+The airport is located {{convert|12|km|0|abbr=on}} from downtown Maringá.
+
+==See also==
+{{Portal|Aviation|Brazil}}
+*[[List of airports in Brazil]]
+
+==Gallery==
+<gallery mode="packed">
+File:Maringá Airport (MGF), Paraná, Brazil.jpg|alt=Aeroporto de Maringá (MGF)|thumb|Airport landside
+File:Maringá Airport (MGF), Check-in, Paraná, Brazil.jpg|alt=Balcões de check-in|thumb|Check-in area
+</gallery>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{GCM|SBMG|source=[[DAFIF]]}}
+*{{NWS-current|SBMG}}
+*{{ASN|MGF}}
+
+{{Airports in Paraná}}
+{{List of airports}}
+{{Brazil topics}}
+
+{{DEFAULTSORT:Maringa Regional Airport}}
+[[Category:Maringá]]
+[[Category:Airports in Paraná (state)]]
+[[Category:Airports established in 2001]]

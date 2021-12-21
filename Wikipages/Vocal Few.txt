@@ -1,0 +1,86 @@
+{{Infobox musical artist
+| name            = Vocal Few
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Seattle]], Washington
+| genre           = [[Folk pop]], [[indie folk]]
+| years_active    = {{start date|2011}}–present
+| label           = Independent
+| associated_acts = [[The Classic Crime]]
+| website         = {{URL|vocalfew.com/}}
+| current_members = Kristie MacDonald<br>Matt MacDonald
+}}
+'''Vocal Few''' are an American [[folk pop]] husband and wife duo, consisting of Matt and Kristie MacDonald, from [[Seattle]], Washington. Vocal Few, a side project to Matt MacDonald's band, The Classic Crime, began as a 'pre-baby bucket list' item for the couple before the birth of their first daughter, Praise MacDonald. Their first EP, ''She'll Be Right'', was released in January 2012, one month after Praise was born. Their second EP, Tall Trees, was released in May 2013 shortly after finding out they were pregnant with their second daughter, Piper MacDonald. Their love for making music together expanded beyond the inspiration of their offspring – their third EP, titled ''The Dream Alive'' was released on October 30, 2015 with no new babies on the way. Their most recent release is a collection of original winter songs aptly named 'The Snowdrift EP', which was released on November 30, 2016.
+
+==Background==
+Matt and Kristie met at summer camp when they were 15 and 16 years old. They began dating at 17 and 18 and eventually married at 21 and 22. Matt began playing music with The Classic Crime in 2003, and Matt and Kristie would eventually form Vocal Few in 2011 when Kristie became pregnant with their first child.<ref name="AP Story">{{cite web|title=Matt and Kristie MacDonald (Vocal Few) on Valentine’s Day, love and collaboration|url=http://www.altpress.com/features/entry/matt_and_kristie_macdonald_the_vocal_few_on_valentines_day_love_and_collabo |first=Bryne |last=Yancey|journal=[[Alternative Press (music magazine)|Alternative Press]]|accessdate=May 14, 2015|date=February 14, 2012}}</ref><ref>{{cite web|title=Check out the new EP from Vocal Few|url=http://blog.chron.com/backstage/2012/02/check-out-the-new-ep-from-vocal-few/|first=Kent|last=Matthews|journal=[[Houston Chronicle]]|accessdate=May 14, 2015|date=February 13, 2012}}</ref><ref name="CR Story">{{cite web|first=Tony|last=Cummings|title=The Vocal Few: The husband and wife duo from Seattle |publisher=[[Cross Rhythms]] |url=http://www.crossrhythms.co.uk/articles/music/The_Vocal_Few_The_husband_and_wife_duo_from_Seattle/58137/p1/ |accessdate=May 1, 2016|date=April 23, 2016}}</ref>
+
+==Music history==
+Matt and Kristie formed Vocal Few in 2011, shortly after Matt's band, The Classic Crime, became independent. Their first [[extended play|EP]], ''She'll Be Right'', was released on January 10, 2012 independently. It landed on the [[Billboard (magazine)|''Billboard'' magazine]] charts, where it placed at No. 8 on the [[Folk Albums]] chart and at No. 12 on the [[Top Heatseekers|Heatseekers Albums]] chart.<ref name="chart search">[http://www.billboard.com/biz/search/charts?f{{bracket|0}}=ts_chart_artistname%3AVocal%20Few&f{{bracket|1}}=ss_bb_type%3Achart_item&type=2&artist=Vocal%20Few Chart search for Vocal Few] at billboard.com/biz</ref> Their second EP, ''Tall Trees'', was released on May 21, 2013. Their third EP, ''[[The Dream Alive]]'', was released on October 30, 2015. Their most recent release, "Snowdrift EP", is a collection of original winter songs and was released on November 30, 2016.
+
+==Members==
+* Kristie MacDonald
+* Matt MacDonald
+
+==Discography==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of EPs, with selected chart positions
+! scope="col" rowspan="2" style="width:16em;" | Title
+! scope="col" rowspan="2" style="width:16em;" | Album details
+! scope="col" colspan="2" | Peak chart positions<ref name="chart search"/>
+|-
+!style="width:3em; font-size:90%"|[[Folk Albums|US<br>Folk]]
+!style="width:3em; font-size:90%"|[[Top Heatseekers|US<br>Heat]]
+|-
+!scope="row"|''She'll Be Right''
+|
+* Released: January 10, 2012
+* {{nowrap|Label: Vocal Few}}
+* digital download
+| 8
+| 12
+|-
+!scope="row"|''Tall Trees''
+|
+* Released: May 21, 2013
+* {{nowrap|Label: Vocal Few}}
+* digital download
+| -
+| -
+
+|-
+!scope="row"|''[[The Dream Alive]]''
+|
+* Released: October 30, 2015
+* {{nowrap|Label: Bad Christian}}
+* digital download
+| 12
+| 15
+
+|-
+!scope="row"|''[[Snowdrift EP]]''
+|
+* Released: November 25, 2016
+* {{nowrap|Label: Bad Christian}}
+* digital download
+| -
+| -
+|}
+
+==References==
+{{Reflist|35em}}
+
+==External links==
+* [http://www.vocalfew.com/ Official website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vocal Few}}
+[[Category:American musical duos]]
+[[Category:Musical groups established in 2011]]
+[[Category:Musical groups from Seattle]]
+[[Category:2011 establishments in Washington (state)]]

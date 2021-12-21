@@ -1,0 +1,55 @@
+{{short description|River in Bulgaria and Serbia}}
+{{about|the river in Serbia and Bulgaria|the abandoned hotel in Malta|Jerma Palace Hotel}}
+{{No footnotes
+| date=December 2016
+}}
+{{Infobox river
+  | name              = Jerma
+  | name_native       = Јерма, Ерма
+  | image             = Ermagorge.JPG
+  | image_caption     = The Erma Gorge, Bulgaria
+  | source1_location  = near [[Lake Vlasina]], [[Serbia]]
+  | mouth_location    =[[Nišava]] near [[Pirot]], [[Serbia]]
+| mouth_coordinates = {{coord|43|4|0|N|22|41|7|E|region:BG|display=it}}
+| progression       = {{RNišava}}
+  | subdivision_type1 = Country
+  | subdivision_name1 = [[Serbia]], [[Bulgaria]]
+  | length            = {{convert|72|km|mi|abbr=on}}<ref name="Yearbook">{{Serbia Yearbook 2017|pages=16}}</ref>
+  | source1_elevation = 
+  | discharge1_avg    = 
+  | basin_size        = 
+}}
+The '''Jerma''' ({{lang-sr-cyrl|Јерма}}) or '''Erma''' ({{lang-bg|Ерма}}) is a river in southeastern [[Serbia]] and western [[Bulgaria]]. It is notable for passing the Serbian-Bulgarian border twice.
+
+== Course ==
+
+=== Serbia ===
+The Jerma originates in the undeveloped and sparsely populated area of [[Krajište]], in the southeastern corner of Serbia. Starting from the area between the artificial [[Lake Vlasina]] and the Bulgarian border, it flows to the northwest on the eastern slopes of the [[Gramada (mountain)|Gramada]] mountain, passing through the village of Klisura, after which it enters the area of  Знепоље (''Znepolje'', Bulgarian: Знеполе, ''Znepole''), an arid region stretching over the border into Bulgaria. This is where the Jerma crosses the border for the first time, at the border crossing of [[Strezimirovci]].
+[[Image:Ermapoganovo.jpg|thumb|The Erma Gorge, near [[Poganovo]] [[Serbia]]]]
+[[Image:Ermavalley.JPG|thumb|The Erma valley, seen from the village Yarlovo across towards [[Ruy Mountain|Ruy]] mountain, [[Bulgaria]]]]
+
+=== Bulgaria ===
+Continuing through the Bulgarian part of Znepole curving around the eastern side of the [[Ruy Mountain|Ruy]] mountain, the river, now called Erma, is also known as ''Transka reka'' after the town of [[Tran, Bulgaria|Tran]], a regional centre of this area. The Erma passes close to the villages of [[Glavanovtsi, Pernik|Glavanovtsi]] and [[Turokovtsi, Pernik|Turokovtsi]], where it turns north, running through Tran. After Tran, the Erma cut the famous gorge Transko zhdrelo ("Gorge of Tran"). After the gorge, Erma flows through the Bulgarian part of the village of [[Petačinci]]. Erma receives its major tributary, the Yablanitsa, right before it re-enters Serbia after a 26&nbsp;km travel through Bulgaria. The river crosses the border for the second time about a kilometer after Petachinci.
+
+=== Returning to Serbia ===
+The Jerma continues to flow generally to the north, passing next to the village of Iskrovci and the picturesque spa of [[Zvonačka Banja]]. Proceeding between the mountains of [[Greben (mountain)|Greben]] and [[Vlaška planina]], it runs close to the villages of Trnsko-Odorovce and Vlasi, and the monasteries of ''Sveti Jovan'', ''Sveti Nikolaj'' and ''Sveta Bogorodica'', before it empties into the [[Nišava River]], southeast of [[Pirot]] after a total of 48&nbsp;km in Serbia (thus belonging to the [[Black Sea]] drainage area). In this last section, the Jerma flows through the Sukovo coal basin, named after the village [[Sukovo]], which is not on the banks of the Jerma itself, but slightly to the west. Despite the hard coal's high quality (7,000 cal), the coal mine near Pirot was shut down and coal is not being extracted any more. In this final section, the Jerma is also known as Sukovska reka (Cyrillic: Суковска река; "river of Sukovo").
+
+== Characteristics ==
+
+During the January 2021 floods, the Jerma flooded the road in its valley and overflooded the riverbed of the Nišava. This caused the spilling of the Nišava, which flooded parts of [[Bela Palanka]].<ref>{{cite news | author = Toma Todorović | script-title=sr: Кањон реке Јерме која се улива у Нишаву | trans-title = Canyon of Jerma which flows into Nišava | newspaper = Politika | page = 15 | language = sr | date = 14 January 2021}}</ref>
+
+== References ==
+{{commons category|Erma|Erma (Jerma River)}}
+{{Reflist}}
+
+== Sources ==
+* ''Mala Prosvetina Enciklopedija'', Third edition (1985); Prosveta; {{ISBN|86-07-00001-2}}
+* Jovan Đ. Marković (1990): ''Enciklopedijski geografski leksikon Jugoslavije''; Svjetlost-Sarajevo; {{ISBN|86-01-02651-6}}
+
+{{Protected areas of Serbia}}
+
+[[Category:Rivers of Serbia]]
+[[Category:Rivers of Bulgaria]]
+[[Category:Landforms of Pernik Province]]
+[[Category:International rivers of Europe]]
+[[Category:Nature reserves in Serbia]]

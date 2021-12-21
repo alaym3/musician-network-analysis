@@ -1,0 +1,37 @@
+{{Short description|Simplified representation of an entity}}
+{{other uses|Model (person)|Model (disambiguation)}}
+A '''model''' is an informative representation of an object, person or system. The term originally denoted the [[Plan_(drawing)|plan]]s of a building in late 16th-century English, and derived via French and Italian ultimately from Latin ''modulus'', a measure. 
+
+Models can be divided into physical models (e.g. a successful pupil as a [[role model]] for others in the school) and abstract models (e.g. mathematical expressions describing behavioural patterns). Abstract or [[conceptual model]]s are central to [[philosophy of science]],<ref name="MWCD">{{Citation |author=Merriam-Webster |title=Merriam-Webster's Collegiate Dictionary |publisher=Merriam-Webster |url=http://unabridged.merriam-webster.com/collegiate/ |postscript=.}}</ref><ref>{{cite journal |last=Tatomir |first=A. |last2=McDermott |first2=C. |last3=Bensabat |first3=J. |last4=Class |first4=H. |last5=Edlmann |first5=K. |last6=Taherdangkoo |first6=R. |last7=Sauter |first7=M. |display-authors= 1 |year=2018 |title=Conceptual model development using a generic Features, Events, and Processes (FEP) database for assessing the potential impact of hydraulic fracturing on groundwater aquifers |journal=Advances in Geosciences |volume=45 |pages=185–192 |doi=10.5194/adgeo-45-185-2018 |doi-access=free }}</ref> as almost every [[scientific theory]] effectively embeds some kind of model of the [[universe|physical]] or [[human condition|human sphere]]. 
+
+In [[commerce]], "model" can refer to a specific design of a product as displayed in a catalogue or show room (e.g. [[Ford Model T]]), and by extension to the sold product itself.
+
+Types of models include:
+
+==Physical model==
+A [[physical model]] is a physical representation of an object, such as a miniature aeroplane representing a real aeroplane.
+* [[Model (art)]], a person posing for an artist, e.g. a 15th-century criminal representing the biblical Judas in Leonardo da Vinci's painting [[The Last Supper (Leonardo)|''The Last Supper'']]
+** [[Model (person)]], a person who serves as a template for others to copy, often in the context of advertising commercial products
+* [[Model (product)]], a particular design of a product offered by its manufacturer
+** [[Car model]], a particular design of vehicle sold by a manufacturer
+* [[Model organism]] (often shortened to ''model''), a non-human species that is studied to understand biological phenomena present in other related organisms, e.g. a guinea pig starved of vitamin C to study scurvy, an experiment that would be immoral to conduct on a person
+* [[Model (mimicry)]], a species that is mimicked by another species
+
+==Conceptual model==
+A [[conceptual model]] is a theoretical representation of a system, e.g. a set of equations attempting to describe the workings of the atmosphere for the purpose of weather forecasting.
+* [[Conceptual model (computer science)]], a representation of entities and their relationships
+* [[Mathematical model]], a description of a system using mathematical concepts and language
+* [[Economic model]], a theoretical construct representing economic processes
+* [[Statistical model]], a mathematical model that usually specifies the relationship between one or more random variables and other non-random variables
+* [[Model (CGI)]], a mathematical representation of any surface of an object in three dimensions via specialized software
+* [[Model (logic)]], a set along with a collection of finitary operations, and relations that are defined on it, satisfying a given collection of axioms
+* [[Model (MVC)]], the central component of the model–view–controller software design pattern
+* [[Standard model (disambiguation)]]
+* [[Medical model]], a proposed "set of procedures in which all doctors are trained"
+* [[Model act]], a law drafted centrally to be disseminated and proposed for enactment in multiple independent legislatures
+
+==References==
+{{reflist}}
+
+[[Category:Broad-concept articles]]
+[[Category:Simulation]]

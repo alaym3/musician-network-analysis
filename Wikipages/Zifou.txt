@@ -1,0 +1,85 @@
+{{short description|French rapper of Moroccan origin}}
+{{Infobox musical artist
+| name            = Zifou
+| image           =
+| caption         =
+| image_size      =
+| birth_name      = Faouzi Kojmane
+| alias           =
+| birth_date      = {{birth date and age|1992|7|20|df=y}}
+| birth_place     = [[Sedan, Ardennes|Sedan]], [[France]]
+| origin          =
+| instrument      = [[Vocals]]
+| genre           = Urban, Hip hop
+| years_active    = 2011{{spaced ndash}}present
+| label           =
+| associated_acts = [[La Fouine]]
+| website         = {{URL|http://www.zifou.fr/}}
+}}
+
+'''Faouzi Kojmane''' better known by his [[stage name]] '''Zifou''',<ref>[http://www.universalmusic.fr/zifou/ Universal Music - Zifou]</ref> (born in [[Sedan, Ardennes|Sedan]], [[Ardennes (department)|Ardennes]], [[France]] on 20 July 1992) is a French rapper of Moroccan origin signed to Universal Music France's Division AZ.
+
+He grew up in [[Roissy-en-Brie]] and in [[Pontault-Combault]]. He gained fame through his online postings in particular his May 2011 posting of "Chicha toute la nuit".<ref name=parisien>[http://www.leparisien.fr/pontault-combault-77340/zifou-le-rappeur-star-d-internet-13-10-2012-2229031.php ''Le Parisien'': Roissy-en-Brie : Zifou, le rappeur star d’Internet] {{in lang|fr}}</ref>
+
+In July 2012, he released his debut official single "C'est la hass" on [[Universal Music]] France followed by "On donne ça" that featured Léa Castel.
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+!align="center" rowspan="2"|Year
+!align="center" rowspan="2" width="180"|Album
+!align="center" colspan="2"|Charts
+!align="center" rowspan="2" width="70"|Certification
+|-
+!width="20"|<small>[[Ultratop 50|BEL<br> (Wa)]]</small>
+!width="20"|<small>[[SNEP|FR]]</small><br><ref name="lescharts">[http://lescharts.com/showinterpret.asp?interpret=Zifou LesCharts.com: Zifou page] {{webarchive |url=https://web.archive.org/web/20131104050447/http://lescharts.com/showinterpret.asp?interpret=Zifou |date=November 4, 2013 }}</ref>
+|-
+|align="center" rowspan="2"|2012
+|''Zifou 2 dingue''
+|align="center"|148
+|align="center"|24
+|-
+|-
+|}
+
+===Singles===
+{| class="wikitable"
+!align="center" rowspan="2"|Year
+!align="center" rowspan="2" width="180"|Single
+!align="center" colspan="1"|Charts
+!align="center" rowspan="2" width="70"|Certification
+!align="center" rowspan="2" width="150"|Album
+!align="center" rowspan="2" width="40"|Music<br>videos
+|-
+!width="20"|<small>France</small><br><ref name="lescharts"/>
+|-
+|align="center" rowspan="2"|2012
+|"C'est la hass" <br><small>(feat. [[La Fouine]])</small>
+|align="center"|66
+|align="center"|
+|align="center" rowspan="1"|Zifou 2 dingue
+|<small>[https://www.youtube.com/watch?v=EOM1BvvYy6U]</small>
+|-
+|"On donne ça" <br><small>(feat. Léa Castel)</small>
+|align="center"|39
+|align="center"|
+|align="center" rowspan="1"|Zifou 2 dingue
+|<small>[https://www.youtube.com/watch?v=dGeLfaZX5zI]</small>
+|-
+|}
+
+;Other songs
+*2011: "Chicha toute la nuit" [https://www.youtube.com/watch?v=_aVucpqYY00]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Official website|http://www.zifou.fr/}}
+
+{{DEFAULTSORT:Zifou}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:French rappers]]
+[[Category:French people of Moroccan descent]]

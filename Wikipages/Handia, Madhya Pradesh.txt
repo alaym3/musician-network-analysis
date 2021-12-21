@@ -1,0 +1,79 @@
+{{Use dmy dates|date=May 2018}}
+{{Use Indian English|date=May 2018}}
+{{Infobox settlement
+| name                    = Handia
+| native_name             =
+| native_name_lang        =
+| other_name              = Handiya, Hindia
+| settlement_type         = village
+| image_skyline           =
+| image_alt               =
+| image_caption           =
+| image_map               =
+| map_alt                 =
+| map_caption             =
+| pushpin_map             = India Madhya Pradesh
+| coordinates             = {{coord|22.486|76.983|display=inline,title}}
+| coor_pinpoint           =
+| coordinates_footnotes   =
+| subdivision_type        = Country
+| subdivision_name        = India
+| subdivision_type1       = State
+| subdivision_name1       = [[Madhya Pradesh]]
+| subdivision_type2       = District harda
+| subdivision_name2       = [[Raisen district|harda]]
+| subdivision_type3       = [[Tehsil]] handia
+| subdivision_name3       = [[Harda]]
+| seat_type               =
+| seat                    =
+| government_footnotes    =
+| leader_party            =
+| leader_title            =
+| leader_name             =
+| unit_pref               = Metric
+| area_footnotes          =
+| area_total_km2          =
+| area_land_km2           =
+| area_water_km2          =
+| area_water_percent      =
+| area_note               =
+| elevation_footnotes     =
+| elevation_m             = 276
+| population_footnotes    = <ref name="2011_census"/>
+| population_total        = 4211
+| population_as_of        = 2011
+| population_density_km2  = auto
+| population_demonym      =
+| population_note         =
+| timezone1               = [[Indian Standard Time|IST]]
+| utc_offset1             = +5:30
+| postal_code_type        = [[Postal Index Number]]
+| postal_code             = 461331
+| area_code_type          = STD code
+| area_code               = 07577
+| registration_plate      =
+| iso_code                =
+| website                 =
+}}
+'''Handia''' is a village in [[Madhya Pradesh]] state of [[India]]. It is located in the Handiya [[community development block|block]] and [[tehsil]] of the [[Harda district]]. Handia is located on the left bank of the [[Narmada]] river; [[Nemawar]] is located on the opposite side, which belongs to [[Dewas]] district.
+
+Handia was a prosperous town during the [[Mughal Empire|Mughal period]]. After the [[Maratha confederacy|Maratha]] conquest of region, [[Harda]] replaced it as the most important town in the area, and Handia was reduced to the status of a village.
+
+==History==
+
+In the [[Mughal Empire|Mughal]] chronicles and early [[British Raj|British]] records, the name of Handia often appears as '''Hindia'''. During the Mughal period, Handia was a [[sarkar (country subdivision)|sarkar]] (subdivision) comprising 23 [[mahallah|mahals]] (smaller divisions), including [[Harda]].<ref name="2011_census"/> The Mughal-era chronicle ''[[Chahar Gulshan]]'' (1759 CE) mentions [[Golconda]]-[[Asirgarh Fort|Asir]]-Hindia and Hindia-[[Sironj]] roads among the 24 important roads of the Mughal empire.<ref name="JS_1901">{{cite book |url=https://archive.org/details/indiaofaurangzib034937mbp|title=India of Aurangzib |author=Jadunath Sarkar |author-link=Jadunath Sarkar |publisher=Kinnera |date=1901 |pages=xv-xcvi }}</ref> [[Mulla Do-Piyaza]] was buried in Handia, and his tomb is located here.<ref>{{cite news |url=http://www.rediff.com/news/2000/dec/21tomb.htm |title=Mullah do Pyaza's tomb in ruins |date=21 December 2000 |publisher=rediff.com }}</ref>
+
+In 1742, [[Maratha confederacy|Marathas]] led by [[Peshwa]] [[Balaji Baji Rao]] captured the area, and displaced the Muslim governor of the Handia sarkar. Subsequently, Harda replaced Handia as the most important town in the area, as the local Maratha ''amil'' (chief) resided at Harda.<ref name="2011_census"/> The [[British East India Company]] invaded the area during the [[Third Anglo-Maratha War]] and took control of the local fortress for a brief period. The English author Carnaticus, writing in 1820, states:<ref>{{cite book |url=https://archive.org/details/summarymahratta00carngoog |title=Summary of the Mahratta and Pindarree Campaign |author=Carnaticus |publisher=E. Williams |year=1820 |pages=[https://archive.org/details/summarymahratta00carngoog/page/n106 97]-99 }}</ref>
+
+{{quotation|Hindia was formerly a town of considerable note, but now only bears the ruinous and decayed vestiges of its ancient extent and splendour.|Carnaticus|Summary of the Mahratta and Pindarree Campaign|1820}}
+
+Even after the Maratha defeat in the war, the Scindias retained control of the Harda-Handia tract. Handia was the headquarters of a district in [[Daulat Rao Sindhia]]'s kingdom.<ref>{{cite book |url=https://archive.org/details/amemoircentrali07malcgoog |title=A Memoir of Central India, Volume 2 |author=John Malcolm |author-link=John Malcolm |publisher=Kingsbury, Parbury & Aleen |year=1824 |page=[https://archive.org/details/amemoircentrali07malcgoog/page/n502 495] }}</ref> The area was ceded to the British in 1844, but the cession was completed only in 1860. It was a part of the [[Hoshangabad district]], until the [[Harda district]] was carved out in 1998.<ref name="2011_census"/>
+
+== Demographics ==
+
+According to the [[2011 census of India]], Handia has a population of 4221, which includes 2196 males and 2025 females. The effective [[literacy rate]] (age 6 years and above) is 78.2%.<ref name="2011_census">{{cite book |url=http://www.censusindia.gov.in/2011census/dchb/2331_PART_B_DCHB_HARDA.pdf |title=District Census Book: Harda |publisher=Directorate of Census Operation, Madhya Pradesh |accessdate=21 December 2015 }}</ref>
+
+== References ==
+{{Reflist}}
+
+[[Category:Villages in Harda district]]

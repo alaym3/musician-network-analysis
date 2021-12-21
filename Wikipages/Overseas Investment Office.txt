@@ -1,0 +1,71 @@
+{{EngvarB|date=June 2018}}
+{{Use dmy dates|date=July 2019}}
+{{Infobox government agency
+|agency_name     = Overseas Investment Office
+|nativename_r    = 
+|logo            =
+|logo_width      = 140 px
+|logo_caption    =
+|seal            =
+|seal_width      =
+|seal_caption    =
+|formed          =
+|preceding1      =
+|dissolved       =
+|superseding     =
+|jurisdiction    = [[New Zealand]]
+|headquarters    = Radio New Zealand House, 155 The Terrace, Wellington <br>{{coord|-41.281299|174.775862|region:NZ_type:landmark}}
+|employees       =
+|budget          =
+|minister1_name  =Hon [[Grant Robertson]]
+|minister1_pfo   =Minister of Finance
+|minister2_name  =Hon [[David Parker (New Zealand politician)|David Parker]]
+|minister2_pfo   =Associate Minister of Finance
+|minister3_name  =Hon [[Eugenie Sage]]
+|minister3_pfo   =Minister for Land Information
+|minister4_name  =Hon [[Damien O'Connor]]
+|minister4_pfo   =Minister for Primary Industries
+|chief1_name     =
+|chief1_position =
+|chief2_name     =
+|chief2_position =
+|parent_agency   =[[Land Information New Zealand]]
+|child1_agency   =
+|website         ={{URL|http://www.linz.govt.nz/overseas-investment/}}
+|footnotes       =
+}}
+The '''Overseas Investment Office''' is the New Zealand government agency responsible for regulating [[foreign direct investment]] into New Zealand.
+
+The Office is responsible for high value investments (2006: NZD $100m+), investments in sensitive land and investments in [[fishing quota]]. The Office is part of [[Land Information New Zealand]], the New Zealand Government Agency responsible for survey, land valuation, land titles and mapping.  This link recognises that the majority of the Office's work relates to the control of sensitive land. The Office replaces an earlier agency called the [[Overseas Investment Commission]].
+
+== History ==
+
+The Overseas Investment Commission (OIC), established in 1973, imposed certain limitations on foreign investment.<ref>[http://www.justice.govt.nz/publications/global-publications/d/directory-of-official-information-archive/directory-of-official-information-december-1997/alphabetical-list-of-entries-1/o/overseas-investment-commission Overseas Investment Commission], Ministry of Justice</ref> OIC consent was required for foreign investments that would control 25% or more of businesses or property worth more than NZ$10&nbsp;million. Restrictions and approval requirements also applied to certain investments in land and in the commercial fishing industry.
+
+In August 2005, the Commission was abolished and replaced with a scaled-down Overseas Investment Office. The rules were relaxed so that intervention by the OIO is only required when foreign investment involves expenditure of more than $100&nbsp;million. In its first year of existence, the OIO approved $14.3&nbsp;billion in sales to foreign buyers – double the yearly average in the previous decade. By 2013 foreign ownership in New Zealand had increased dramatically from $9.7&nbsp;billion in 1989 to $101.4&nbsp;billion – an increase of over 1,000%.<ref>[http://www.scoop.co.nz/stories/PO1401/S00011/who-owns-nz-foreign-control-key-facts-updated.htm Who Owns NZ? Foreign Control Key Facts Updated], Scoop 7 January 2014</ref> Between 1989 and 2007, foreign ownership of the New Zealand sharemarket went from 19% to 41% but has since dropped back to 33%.
+
+== Public concerns ==
+
+The agency has been accused by groups like the [[Campaign Against Foreign Control of Aotearoa]] as being a '[[Rubber stamp (politics)|rubber-stamping]]' body doing nothing against increasing foreign control over New Zealand assets. In 2007 spokesman Murray Horton said the sale of large farms to foreign buyers, including the high country station bought by Canadian country singer [[Shania Twain]], drives up prices and makes it harder for young New Zealanders to become farmers.<ref name="NZ_Herald_10473472">{{cite news |url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10473472 |title=US buyer snaps up Coromandel jewel |author=Gay, Edward |date=1 November 2007 |work=[[The New Zealand Herald]] |access-date=1 November 2011}}</ref>
+
+In 2009, [[Wanganui]] brothers Allan and Frank Crafar owned 18 dairy farms and had 20,000 cows, making them New Zealand's largest family owned dairy business.<ref>{{cite news|title=Crafar Farms put into receivership owing NZ$200m |author=Bernard Hickey |date=5 October 2009|newspaper=The New Zealand Herald|url=http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10601447}}</ref> Following allegations of [[cruelty to animals|animal cruelty]], they went into receivership. In 2012, 16 of their farms in the North Island were sold to a Chinese company Pengxin International Group Limited. Polls done since the sale of the [[Crafar Farms]] show an overwhelming majority of New Zealanders were worried about land sales to foreign buyers. By August 2014 the Overseas Investment Office had received a further 33 applications by foreigners to buy large blocks of farmland. They were all approved.<ref>[http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11314666 NZ land on the block: Are the politicians listening?] ''The New Zealand Herald'', 27 August 2014</ref>
+
+In 2016 further concerns were raised when it was revealed the OIO failed to vet two overseas buyers, Rafael and Federico Grozovsky, who bought a farm in Onetai for $6&nbsp;million. The sale was approved by the OIO in 2014 but the agency was unaware the brothers who bought the property were convicted of polluting a river in Argentina in 2012.<ref>{{Cite news|url=http://www.stuff.co.nz/business/industries/79565949/oio-faces-independent-review-following-onetai-farm-sale|title=OIO faces 'independent review' following Onetai farm sale}}</ref> The pollution was caused by toxic chemicals from a tannery company the brothers owned. In response to these revelations, John Key announced the OIO would increase its fees, allowing it to increase its staffing by 25% so that it could perform its checks on applicants more effectively. New Zealand First leader Winston Peters commented: "It's a disgrace – this is 2016 and we've had a rubber stamp operation going back almost two decades."<ref>{{Cite web|url=http://www.radionz.co.nz/news/political/303084/oio-has-run-'rubber-stamp-operation'-peters|title=OIO staffing boost criticised as too late}}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+*[http://www.linz.govt.nz/overseas-investment/ Overseas Investment Office]
+*[http://www.linz.govt.nz/ Land Information New Zealand]
+
+{{NZ Public Service Departments}}
+{{Economy of New Zealand}}
+
+{{authority control}}
+
+[[Category:1973 establishments in New Zealand]]
+[[Category:Government agencies established in 1973]]
+[[Category:Government agencies of New Zealand]]
+[[Category:Foreign trade of New Zealand]]
+[[Category:Investment promotion agencies]]

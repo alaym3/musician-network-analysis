@@ -1,0 +1,115 @@
+{{Use mdy dates|date=June 2021}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+| name             = Zero Boys
+| image            = 
+| caption          = 
+| image_size       = <!-- Only for images narrower than 220 pixels -->
+| alias            = 
+| origin           = [[Indianapolis]], [[Indiana]], U.S.
+| genre            = [[Punk rock]]<br/>[[Hardcore punk]]
+| years_active     = 1980–1985, 1988–1993, 2006–present
+| label            = [[Secretly Canadian]], Z-Disc, [[Panic Button Records|Panic Button]], [[1-2-3-4 Go! Records|1-2-3-4 Go!]]
+| associated_acts  = Datura Seeds, [[Toxic Reasons]]
+| website          = {{URL|zeroboys.com}}
+| current_members  = [[Paul Mahern]] – vocals<br/>Mark Cutsinger – drums<br/>Scott Kellogg – bass<br/>Dave Lawson – guitar
+| former_members   = John Mitchell – bass<br/>David "Tufty" Clough – bass<br/>Terry "Hollywood" Howe (deceased) – guitar<br/>Vess Ruhtenberg – guitar
+}}
+
+'''The Zero Boys''' are an American [[hardcore punk]] quartet from [[Indianapolis]], [[Indiana]]<ref name="klein">{{cite web|last=Klein|first=Joshua|title= Zero Boys - Vicious Circle|url=https://pitchfork.com/reviews/albums/12941-vicious-circle-history-of/|publisher=[[Pitchfork (website)|Pitchfork]]|date=June 8, 2009|access-date=June 17, 2019}}</ref> fronted by [[Paul Mahern]] that debuted in 1980. Other members include bassist Scott Kellogg, drummer Mark Cutsinger and guitarist Dave Lawson. The band was known as one of the few popular hardcore bands from the [[Midwestern United States|Midwest]], as the scene was mostly dominated by bands from the coasts.
+
+==History==
+The band formed in June 1980<ref name="haynes">{{cite web|last=Haynes|first=Carl|title=ZERO BOYS interview from Maximum Rock'n'Roll|url=https://files.nyu.edu/cch223/public/usa/info/zeroboys_MRRinter.html|archive-url=https://web.archive.org/web/20120206210834/https://files.nyu.edu/cch223/public/usa/info/zeroboys_MRRinter.html|publisher=[[Maximumrocknroll]]|archive-date=February 6, 2012|access-date=June 17, 2019}}</ref> and three months later released their first EP.<ref name="haynes"/> Entitled ''Livin' in the '80s'', it was a 7" EP released by the band on their home-brew Z-Disc label.<ref name="klein"/> Their debut full-length album, ''Vicious Circle'', was released in 1982 with its distinctive bright yellow cover on the local label Nimrod Records. The band embarked on a 1982 "Hell Tour" with one notable appearance at The Barn in Torrance, CA, on a bill with [[Dead Kennedys]], [[MDC (band)|MDC]], and [[Minor Threat]].<ref>{{cite book|last=Ibarra|first=Craig|author-link=Craig Ibarra|title=[[A Wailing of a Town|A Wailing Of A Town: An Oral History of Early San Pedro Punk And More 1977-1985]]|publisher=END FWY|year=2015|pages=215–216|isbn=978-0-9860971-0-2}}</ref>
+
+''Vicious Circle'' was reissued on [[Toxic Shock Records|Toxic Shock]] later in the 1980s, with added bonus tracks taken from the Affirmation Records compilations LPs ''The Master Tape'' and ''The Master Tapes 2''.{{cn|date=June 2019}} It was reissued again in 2000 by [[Lookout! Records]], without the ''Master Tape'' tracks, but with two additional songs from the original album sessions, "She Said Goodbye" and "Slam and Worm", which had been given limited release on a 7" single.{{cn|date=June 2019}}
+
+The Zero Boys managed to record a handful of tracks intended for a second LP, but broke up before the album could be finished.<ref name="klein"/><ref name="joseffer">{{cite web|last=Joseffer|first=Jordan|title=Thrasher Magazine - Zero Boys|url=http://www.thrashermagazine.com/articles/music-interviews/zero-boys/|publisher=[[Thrasher (magazine)|Thrasher]]|date=October 28, 2009|access-date=June 17, 2019}}</ref> These tracks were released on the ''History of the Zero Boys'' cassette on Affirmation, along with the above-mentioned compilation tracks and other demo tracks and outtakes.<ref name="klein"/> 
+
+In 2009, [[Secretly Canadian]] reissued both "Vicious Circle" and "History Of", making the latter available on CD for the first time.<ref>{{cite web|title=Secretly Canadian - Zero Boys|url=https://secretlycanadian.com/artist/zero-boys/|publisher=[[Secretly Canadian]]|access-date=June 17, 2019}}</ref>
+
+Since their breakup, the band has reunited for the occasional gig, including a series of shows at CBGB's designed to raise money to help keep the club open, and a series of shows in 2006 – 2012 where they performed the entire ''Vicious Circle'' album. The new lineup consisted of Paul Mahern, Tufty, Mark Cutsinger, and Vess Ruhtenberg of [[The Lemonheads]] on guitar<ref name="joseffer"/> as original guitarist Terry "Hollywood" Howe died in 2001.<ref>{{cite web|last=Finn|first=Craig|title=Relight my fire|url=https://www.theguardian.com/music/2009/feb/13/us-punk-rock-hold-steady|work=[[The Guardian]]|date=February 12, 2009|access-date=June 17, 2019}}</ref>
+
+Paul Mahern went on to form the power pop band the Datura Seeds and has since become a producer in Bloomington, Indiana, where he also teaches yoga and owns the Affirmation Records label.<ref name="joseffer"/>
+
+In 2012, Vess Ruhtenberg and Tufty left the band just before a European tour. Scott Kellogg (bass) and Dave Lawson (guitar) are their replacements. In February 2013 the new band released an EP titled "Pro Dirt." This was their first release in 20 years. The Zero Boys' new LP, Monkey, was released on May 20, 2014.
+
+==Band members==
+'''Timeline'''
+{{#tag:timeline|
+ImageSize  = width:1000 height:auto barincrement:25
+PlotArea   = left:120 bottom:100 top:10 right:10
+Alignbars  = justify
+DateFormat = dd/mm/yyyy
+Period     = from:01/01/1978 till:{{#time:d/m/Y}}
+TimeAxis   = orientation:horizontal format:yyyy
+Legend     = orientation:vertical position:bottom columns:1
+ScaleMajor = increment:2 start:1978
+ScaleMinor = increment:1 start:1978
+
+Colors =  
+ id:vocals   value:red       legend:Vocals
+ id:guitar   value:green     legend:Guitar
+ id:bass     value:blue      legend:Bass_guitar
+ id:drums    value:orange    legend:Drums
+ id:studio   value:black     legend:Studio_album
+ id:backingvocals value:pink    legend:Backing_vocals
+
+LineData =
+ layer:back color:studio
+ at:03/02/1981
+ at:03/02/1991
+ at:03/02/1993
+ at:03/02/2014
+
+BarData =
+ bar:paul text:Paul Mahern
+ bar:john text:John Mitchell
+ bar:tufty text:Tufty Clough
+ bar:scott text:Scott Kellogg
+ bar:terry text:Terry Howe
+ bar:vess text:Vess Ruhtenburg
+ bar:dave text:Dave Lawson
+ bar:mark text:Mark Cutsinger
+
+PlotData =
+
+ bar:paul from:start till:end color:vocals
+ bar:john from:start till:05/01/1980 color:bass
+ bar:tufty from:05/01/1980 till:02/02/1982 color:bass
+ bar:tufty from:02/02/1984 till:02/02/1985 color:bass
+ bar:tufty from:01/01/1988 till:01/01/1993 color:bass
+ bar:tufty from:03/03/2006 till:05/03/2012 color:bass
+ bar:scott from:05/03/2012 till:end color:bass
+ bar:terry from:start till:02/02/1985 color:guitar
+  
+}}
+
+==Discography==
+
+===Studio albums===
+*  ''Vicious Circle'' (1981)
+* ''[[Make It Stop]]'' (1991) 
+* ''The Heimlich Maneuver'' (1993)
+* ''Monkey'' (2014)
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|http://www.zeroboys.com}}
+* [http://www.kbdrecords.com/2007/01/16/zero-boys-history-of-cassette/ KBD Records blog entry on History of cassette]
+* [https://web.archive.org/web/20080930204959/http://www.musicalfamilytree.org/band/zero_boys Live performance of entire Vicious Circle album from 2005 can be heard at MusicalFamilyTree.net]
+
+{{Authority control}}
+
+[[Category:Hardcore punk groups from Indiana]]
+[[Category:Punk rock groups from Indiana]]
+[[Category:Musical groups from Indianapolis]]
+[[Category:Musical quartets]]
+[[Category:1979 establishments in Indiana]]
+[[Category:1985 disestablishments in Indiana]]
+[[Category:Musical groups established in 1979]]
+[[Category:Musical groups disestablished in 1985]]
+[[Category:Musical groups reestablished in 1988]]
+[[Category:Musical groups disestablished in 1993]]
+[[Category:Musical groups reestablished in 2006]]
+[[Category:Secretly Canadian artists]]

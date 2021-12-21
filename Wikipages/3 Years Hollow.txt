@@ -1,0 +1,98 @@
+{{Use dmy dates|date=August 2014}}
+{{Use American English|date=August 2014}}
+{{Infobox musical artist
+| name            = 3 Years Hollow
+| image           = 3 Years Hollow 32 (27172491955).jpg
+| image_size      =
+| caption         = 3 Years Hollow at Rascals Live, Moline, IL 4/22/16
+| origin          = [[Quad Cities]], IL/IA, {{nowrap|United States}}
+| genre           = {{flat list| <!-- genres are sourced in the "style and influences" section of the article text -->
+* [[Hard rock]]<br>[[Alternative metal]]<br>[[Post-grunge]]}}
+| years_active    = {{Start date|2003}}–present
+| label           = {{flat list|
+* Imagen Records
+}}
+| website         = [http://www.3yearshollow.com www.3yearshollow.com]
+| current_members = Jose Urquiza<br /> Tony Reeves<br />Chris Cushman<br />Dex Digga<br />Neil Kuhlman
+| past_members    = Luke Sears
+}}
+
+''' 3 Years Hollow '''is an American [[rock music|rock]] band from the [[Quad Cities]] on the border of the US states of Iowa and Illinois.  In 2014, the ensemble reached No. 23 on [[Top Heatseekers]] with [[studio album]] ''[[The Cracks (album)|The Cracks]]''.<ref name = allmusic1>{{cite web|url=http://www.allmusic.com/artist/3-years-hollow-mn0002997365/awards|title=3 Years Hollow - Awards - AllMusic|author=Gregory Heaney|work=AllMusic|access-date=25 April 2015}}</ref><ref name="altrevolt1">{{cite web|url=http://www.altrevolt.com/headlines/interview-jose-urquiza-3-years-hollow-0|title=INTERVIEW WITH JOSE URQUIZA OF 3 YEARS HOLLOW|work=altrevolt.com|access-date=25 April 2015|archive-url=https://web.archive.org/web/20150528010906/http://www.altrevolt.com/headlines/interview-jose-urquiza-3-years-hollow-0|archive-date=28 May 2015|url-status=dead}}</ref>  In 2014–2015, the group had two Top 40 singles on [[Billboard (magazine)|Billboard]]'s [[Mainstream Rock (chart)|Mainstream Rock]] chart.  The group promoted ''The Cracks'' by touring with [[Sevendust]], [[Nonpoint]], [[Eye Empire]], [[Saving Abel]], [[Red (band)|Red]], [[Gemini Syndrome]], and [[Islander (band)|Islander]] in 2014–2015.  They were also part of the 2014 Rockstar [[Uproar Festival]], with bands: [[Godsmack]], [[Seether]], [[Skillet (band)|Skillet]], [[Pop Evil]], [[Escape The Fate]], and [[Buckcherry]].<ref>{{cite web|title=Godsmack and Seether Lead Lineup for 2014 Uproar Festival Tour |url=http://loudwire.com/godsmack-seether-lineup-2014-uproar-festival-tour/}}</ref>
+
+== Discography ==
+
+=== Studio albums ===
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:200px;"| Album details
+! style="width:150px;"| Peak chart positions
+|- style="font-size:smaller;"
+! style="width:35px;"| [[Top Heatseekers|US Heat.]]<ref name = allmusic1/>
+|-
+|-
+| 2009
+| style="text-align:left;"|'' Ascension ''
+* Released: 2009
+| -
+|-
+| 2014
+| style="text-align:left;"|'' The Cracks ''
+* Released: 02/11/2014<ref name="altrevolt1"/><ref>{{cite web|url=http://www.revolvermag.com/news/exclusive-3-years-hollow-stream-entire-album-the-cracks.html|title=Exclusive: 3 Years Hollow Premiere New Album, The Cracks|work=revolvermag.com|access-date=25 April 2015|archive-url=https://web.archive.org/web/20150922021712/http://www.revolvermag.com/news/exclusive-3-years-hollow-stream-entire-album-the-cracks.html|archive-date=22 September 2015|url-status=dead|df=dmy-all}}</ref><ref>{{cite web|url=http://bravewords.com/features/3-years-hollow-exposing-the-cracks|title=3 YEARS HOLLOW - Exposing The Cracks|work=bravewords.com|access-date=25 April 2015}}</ref>
+| 23
+|-
+| colspan="3" style="font-size:8pt"| "—" denotes a release that did not chart.
+|}
+
+=== Extended plays ===
+*'' Remember ''(2012)<ref>{{cite web|url=http://qctimes.com/entertainment/music/q-c-band-three-years-hollow-says-a-lot-s/article_d30ada3c-68a1-11e1-8b3b-0019bb2963f4.html|title=Q-C band Three Years Hollow says a lot’s riding on its new EP|author=David Burke|work=The Quad-City Times|access-date=25 April 2015}}</ref><ref>{{cite web|url=http://www.blabbermouth.net/news/years-hollow-signs-to-imagen-records/|title=3 Years Hollow Signs With Imagen Records - Blabbermouth.net|work=BLABBERMOUTH.NET|access-date=25 April 2015}}</ref><ref>{{cite web|url=http://noisecreep.com/3-years-hollow-record-deal-midwestern-dates/|title=3 Years Hollow Ink Record Deal, Reveal Midwestern Dates|work=Noisecreep|access-date=25 April 2015}}</ref>
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" | Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Mainstream Rock Songs|US<br />Main.]]<br><ref>{{cite web|publisher=[[Prometheus Global Media]]|work=[[Billboard (magazine)|Billboard]]|url=http://www.billboard.com/artist/5862547/3-years-hollow/chart|title=3 Years Hollow - Chart History|access-date=2015-01-18}}</ref>
+
+|-
+! scope="row"| "Remember"
+| rowspan="2"| 2012
+| —
+| rowspan="2"| ''Remember (EP)''
+|-
+! scope="row"| "Lost"
+| —
+|-
+! scope="row"| "Hungry"
+| rowspan="2"| 2014
+| 36
+| rowspan="3"|'' The Cracks ''
+|-
+! scope="row"| "For Life (Feat. Clint Lowery)"
+| 34
+|-
+! scope="row"| "Chemical Ride"
+|2015
+|—
+|-
+! scope="row"| "You and I"
+|2018
+|—
+|{{n/a|Non-album single}}
+|-
+| colspan="7" style="font-size:85%" | "—" denotes a single that did not chart or was not released in that territory.
+|}
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:Hard rock musical groups from Illinois]]
+[[Category:Rock music groups from Indiana]]
+
+
+{{US-rock-band-stub}}

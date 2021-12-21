@@ -1,0 +1,82 @@
+{{Infobox musical artist
+| name            = Wild Pink
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = New York City
+| genre           = [[Heartland rock]], [[Indie rock]]
+| years_active    = {{start date|2015}}-present
+| label           = [[Royal Mountain Records]] (2020-present), [[Tiny Engines]]
+| associated_acts =
+| website         = <!-- NB: A Facebook page is not a standalone website. -->
+| current_members = *John Ross
+*T.C. Brownell
+*Dan Keegan
+| past_members    =
+| module          =
+| module2         =
+| module3         = 
+}}
+
+'''Wild Pink''' is an American [[indie rock]] band from the boroughs of [[Brooklyn]] and [[Queens]] in [[New York City]].
+
+==History==
+Wild Pink began in 2015, releasing an [[Extended play|EP]] titled ''2 Songs''.<ref name="thedelimag">{{cite web|title=Brooklyn's Wild Pink reveal debut EP, "2 Songs" + lands Pianos residency|url=http://nyc.thedelimagazine.com/20315/brooklyns-wild-pink-reveal-debut-ep-2-songs-lands-pianos-residency|publisher=[[The Deli Magazine]]|accessdate=1 April 2016}}</ref><ref name="ghettoblaster">{{cite web|last1=Anderl|first1=Timothy|title=Wild Pink Release 2 Songs EP|url=http://ghettoblastermagazine.com/2015/wild-pink-release-2-songs-ep/|publisher=Ghettoblaster Magazine|accessdate=1 April 2016}}</ref> In May 2015, Wild Pink joined Texas Is Funny Records and released a new single, as well as announcing a second EP, ''Good Life'',<ref name="newnoise">{{cite web|last1=Shrum|first1=Tony|title=Wild Pink Join Texas Is Funny, Release New Single|url=http://newnoisemagazine.com/wild-pink-join-texas-funny-release-single/|publisher=New Noise Magazine|accessdate=1 April 2016}}</ref> which was released on June 30, 2015.<ref name="stereogum">{{cite web|last1=Rettig|first1=James|title=Stream Wild Pink Good Life EP (Stereogum Premiere)|url=http://www.stereogum.com/1810909/stream-wild-pink-good-life-ep-stereogum-premiere/mp3s/|publisher=[[Stereogum]]|accessdate=1 April 2016}}</ref><ref name="modernvinyl">{{cite web|last1=Cassar|first1=James|title=EXCLUSIVE SPIN: WILD PINK — GOOD LIFE|url=http://modern-vinyl.com/2015/06/11/exclusive-spin-wild-pink-good-life/|publisher=Modern Vinyl|accessdate=1 April 2016}}</ref> In 2016, the band announced their self-titled debut full-length album, which was released on the [[Tiny Engines]] label in February 2017.<ref name="stereogum1">{{cite web|last1=DeVille|first1=Chris|title=Wild Pink – "Wizards Of Loneliness"|url=http://www.stereogum.com/1917429/wild-pink-wizards-of-loneliness/music/|publisher=[[Stereogum]]|accessdate=23 January 2017}}</ref><ref name="theavclub">{{cite web|last1=Anthony|first1=David|title=Wild Pink lets loose on the dreamy "Great Apes"|url=http://www.avclub.com/article/wild-pink-lets-loose-dreamy-great-apes-246520|publisher=[[The A.V. Club]]|accessdate=23 January 2017}}</ref> The band's second album, Yolk in the Fur, was released on July 20, 2018.<ref>{{Cite news|url=https://www.stereogum.com/1994383/wild-pink-lake-erie/music/|title=Wild Pink – "Lake Erie"|date=2018-05-02|work=Stereogum|access-date=2018-05-03}}</ref><ref>{{Cite news|url=https://www.npr.org/sections/allsongs/2018/05/02/607392778/wild-pinks-lake-erie-details-the-movement-of-life|title=Wild Pink's 'Lake Erie' Details The Movement Of Life|work=NPR.org|access-date=2018-05-03|language=en}}</ref> The band’s third album, A Billion Little Lights, was released on February 19, 2021 with [[Royal Mountain Records]]. Two months later, in April 2021, the band released the EP 6 Cover Songs, which includes cover to songs by Taylor Swift, Coldplay, Bruce Springsteen, and a cover of the Jeopardy! theme tune.
+
+==Band members==
+=== Current ===
+*John Ross (vocals, guitar)
+*T.C. Brownell (bass)
+*Dan Keegan (drums)
+
+==Discography==
+=== EPs ===
+* ''2 Songs'' (2015, self-released)
+* ''Good Life'' (2015, Texas Is Funny)
+* ''4 Songs'' (2016, Tiny Engines)
+* ''5 Songs'' (2019, Tiny Engines)
+*6 Cover Songs (2021, Royal Mountain Records)
+
+=== Studio albums ===
+* ''[[Wild Pink (album)|Wild Pink]]'' (2017, [[Tiny Engines]])
+* ''[[Yolk in the Fur]]'' (2018, Tiny Engines)
+* ''[[A Billion Little Lights]]'' (2021, [[Royal Mountain Records]])
+
+=== Music videos ===
+{| class="wikitable" width="600em" style="font-size: 9pt; padding:2px 7px;"
+|-
+! Year
+! Title
+! Album
+! Director
+! Notes
+|-
+| 2020
+| "The Shining but Tropical"
+| A Billion Little Lights
+| Justin Singer
+| Starring [[Annie Murphy]]
+|-
+| 2020
+| "You Can Have It Back"
+| A Billion Little Lights
+| Ottica Productions
+| 
+|-
+|}
+
+==References==
+{{Reflist}}
+
+=== External links ===
+* {{Bandcamp}}
+* {{Facebook}}
+
+{{Authority control}}
+
+[[Category:American power pop groups]]
+[[Category:2015 establishments in New York City]]
+[[Category:Musical groups established in 2015]]

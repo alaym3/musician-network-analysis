@@ -1,0 +1,76 @@
+
+{{Short description|English rapper}}
+{{For|the fictional character|Niko Bellic}}
+{{Infobox musical artist
+| name             = Niko B
+| birth_name       = Tom Austin
+| birth_place      = [[Milton Keynes]], England
+| birth_date       = {{Birth date and age|2000|12|07|df=yes}}
+| genre            = {{flatlist|
+*[[hip hop music|Hip hop]]
+*[[country rap]]
+*[[comedy hip hop]]
+}}
+| origin           = [[Newport Pagnell]], England
+| occupation       = 
+| label            = {{flatlist|
+*Grind Time Ent.
+*Grind Time Records
+}}
+| associated_acts  = [[NSG (group)|NSG]]
+}}
+
+'''Tom Austin''' (born 7 December 2000), better known by his stage name '''Niko B''' (short for '''Niko Bellic'''), is an English [[Rapping|rapper]] from [[Newport Pagnell]], [[Buckinghamshire]].<ref name=":0">{{Cite news|last=Barshad|first=Amos|date=2020-02-14|title=What Happens When You Get Famous Off One Song?|language=en-US|work=The New York Times|url=https://www.nytimes.com/2020/02/14/style/what-happens-when-you-get-famous-off-one-song.html|access-date=2020-07-02|issn=0362-4331}}</ref> He is best known for his single "[[Who's That What's That]]".
+
+== Career ==
+Austin's stage name is a reference to [[Niko Bellic]], the protagonist of ''[[Grand Theft Auto IV]].''
+
+He began by releasing his first single, "Mary Berry",<ref name=":1">{{Cite web|date=2020-02-19|title=What happens after you become an internet sensation?|url=https://www.independent.co.uk/arts-entertainment/music/features/tom-austin-niko-b-mary-berry-rap-bake-off-a9342456.html|access-date=2020-07-02|website=The Independent|language=en}}</ref>  with lyrics focusing around life in small-town Britain.<ref name=":1" /> This song's popularity gave him the chance to tour with rappers [[K.O (rapper)|K.O]] and V9.<ref>{{Cite web|last=|first=|date=|title=GRM Exclusive: Niko B Talks Getting Into Music, Touring With NSG|url=http://grmdaily.com/niko-b-interview|url-status=live|archive-url=|archive-date=|access-date=2020-07-02|website=GRM Daily - Grime, Rap music and Culture}}</ref> In an interview with ''[[Clash (magazine)|Clash]]'', Austin says he vomited before every performance, and technical issues during the first show meant he instead sang happy birthday to a girl in the front row.<ref>{{Cite web|title=Niko B: 10 Things You Need To Know About Me|url=https://www.clashmusic.com/features/niko-b-10-things-you-need-to-know-about-me|access-date=2020-07-02|website=Clash Magazine|language=en}}</ref>
+
+His most popular single, "[[Who's That What's That]]", wasn't specific to a single musical genre, which causes some people confusion. In an interview with ''[[Vogue (magazine)|Vogue]],'' Austin said he wanted to have his own style<ref name=":2">{{Cite web|title=The Teenager Behind The Song Of The Summer Doesn’t Care If You Hate His Music|url=https://www.vogue.co.uk/miss-vogue/article/niko-b-interview|access-date=2020-07-08|website=British Vogue|language=en-GB}}</ref> and claims his lyrics, for example referencing removing a [[Pickled cucumber|gherkin]] from a [[Big Mac]] [[Hamburger|burger]], are used to separate himself from mainstream music and keep his unique nature,<ref name=":2" /> and instead identify with young people.<ref>{{Cite web|title=Niko B - Coeval Magazine|url=https://www.coeval-magazine.com/coeval/niko-b|access-date=2020-07-08|website=COEVAL|language=en-GB}}</ref> The song peaked at No. 26 on the [[UK Singles Chart]].<ref>{{Cite web|title=Official Singles Chart Top 100 {{!}} Official Charts Company|url=https://www.officialcharts.com/charts/singles-chart/20200612/7501/|access-date=2020-07-08|website=Officialcharts.com|language=en}}</ref><ref>{{Cite web|title=Get to know Niko B, the Who's That What's That rapper with big plans|url=https://www.officialcharts.com/chart-news/get-to-know-niko-b-the-whos-that-whats-that-rapper-with-big-plans__30084/|access-date=2020-07-08|website=Officialcharts.com|language=en}}</ref>
+
+== Discography ==
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col"| Peak chart positions
+|-
+! [[UK Singles Chart|UK]]<br /><ref>{{Cite web|title=NIKO B {{!}} full Official Chart History|publisher=[[Official Charts Company]]|url=https://www.officialcharts.com/artist/57729/niko-b/|access-date=2020-07-02}}</ref>
+|-
+! scope="row"| "Mary Berry"<ref>{{Cite web |title=Mary Berry|url=https://open.spotify.com/track/2r2iqX84N1mehbh9ATyiPs|language=en|access-date=2020-07-08}}</ref>
+| rowspan="3" | 2020
+| —
+|-
+! scope="row"| "[[Who's That What's That]]"<ref>{{cite web|title=Who's That What's That|url=https://open.spotify.com/track/6pRlNmiZ15mI0D0Y9VBjDe|website=[[Spotify]]|language=en|access-date=2020-07-08}}</ref>
+| 26
+|-
+! scope="row"| "Quick Drive"
+| —
+|-
+! scope="row"| "International Baby"<ref>{{Cite web |title=Mary Berry|url=https://open.spotify.com/track/3jHqVzg1x0hBXlC6oRS6J2|language=en|access-date=2021-02-07}}</ref>
+| rowspan="2" | 2021
+| —
+|-
+! scope="row"| "It's All Gone"
+|—
+|-
+|}
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:B, Niko}}
+[[Category:2000 births]]
+[[Category:English hip hop musicians]]
+[[Category:Male hip hop musicians]]
+[[Category:Male rappers]]
+[[Category:Musicians from Buckinghamshire]]
+[[Category:People from Milton Keynes]]
+[[Category:People from Newport Pagnell]]
+[[Category:Living people]]
+[[Category:English comedy musicians]]
+[[Category:Comedy-related YouTube channels]]
+[[Category:English YouTubers]]

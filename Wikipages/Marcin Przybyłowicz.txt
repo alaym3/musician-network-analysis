@@ -1,0 +1,56 @@
+{{short description|Polish composer and sound designer (born 1985)}}
+{{Use dmy dates|date=June 2018}}
+{{Infobox musical artist
+| name       = Marcin Przybyłowicz
+| image      = Marcin_Przybyłowicz.jpg
+| birth_date = {{birth date and age|1985|5|4|df=y}}
+| genre      = [[Video game music]]
+| occupation = Composer, sound designer
+| website    = {{url|marcinprzybylowicz.com}}
+}}
+
+'''Marcin Przybyłowicz''' (born {{Birth date|1985|5|4|df=y}})<ref>{{Cite news|url=https://www.eurogamer.pl/articles/2016-06-08-marcin-przybylowicz-i-wiedzmin-3-o-pasji-do-muzyki-i-pracy-nad-grami|title=Marcin Przybyłowicz i Wiedźmin 3 - o pasji do muzyki i pracy nad grami|work=Eurogamer.pl|access-date=2018-09-03|language=pl}}</ref> is a Polish [[composer]] and [[sound design]]er. He is mostly known for his contributions as music director and lead composer for ''[[The Witcher 3: Wild Hunt]]'',<ref>{{Cite web |title="We don't define folk" Says The Witcher 3: Wild Hunt Composer |url=http://www.gamepressure.com/e.asp?ID=8 |website=Gamepressure.com |accessdate=2015-09-16 |date=2014-08-21}}</ref> and as the sound designer for ''[[The Vanishing of Ethan Carter]]''.<ref>{{cite web |url=http://www.igf.com/2015finalists.html#game_8022 |title=The 17th Annual Independent Games Festival Finalists |accessdate=2016-03-12 |publisher=[[Independent Games Festival]]}}</ref><ref>{{cite web |url=http://www.vgmonline.net/awards2014nominations/ |title=Annual Game Music Awards 2014 Nominations |date=30 December 2014 |accessdate=2016-03-12 |publisher=Video Game Music Online}}</ref> He also composed the score to a Polish historical television drama series ''[[Korona królów]]'' produced by [[Telewizja Polska]].<ref>{{Cite news|url=http://www.filmpolski.pl/fp/index.php?osoba=11107223|title=FilmPolski.pl|work=FilmPolski|access-date=2018-06-15|language=pl}}</ref>
+
+In an interview with ''Headliner Magazine'' about how the soundtrack and score for ''[[Cyberpunk 2077]]'' was created, he said: “We quickly found out that the key word for our work on Cyberpunk was attitude. The music is written for a dangerous, dirty world that doesn’t play fair.”<ref>{{Cite web|url=https://headlinermagazine.net/gaming/cyberpunk-2077-inside-the-score.html|title = Cyberpunk 2077: Inside the Score}}</ref>
+
+==Works==
+* ''[[The Witcher 2: Assassins of Kings]]'' (2011 – composer)
+* ''[[Hard Reset]]'' (2011 – sound effects)
+* ''[[Afterfall: Insanity]]'' (2011 – composer)
+* ''[[The Vanishing of Ethan Carter]]'' (2014 – sound effects)
+* ''Ancient Space'' (2014 – composer)
+* ''[[The Witcher Battle Arena|The Witcher: Battle Arena]]'' (2015 – composer)
+* ''[[The Witcher 3: Wild Hunt]]'' (2015 – composer/music director)
+* ''[[The Witcher 3: Wild Hunt – Hearts of Stone]]'' (2015 – composer/music director)
+* ''[[Hard West]]'' (2015 – composer)
+* ''[[The Witcher 3: Wild Hunt – Blood and Wine]]'' (2016 – composer/music director)
+* ''Gloria Victis'' (2016 – main theme)
+* ''Full of Stars'' (2017 – composer)<ref>{{cite web|last1=McMillan|first1=Emily|title=Marcin Przybyłowicz and Jan Sanejko team up for mobile game score|url=http://www.vgmonline.net/marcin-przybylowicz-and-jan-sanejko-team-up-for-mobile-game-score/|website=Video Game Music Online|date=30 May 2017|accessdate=4 June 2017}}</ref>
+* ''[[Seven: The Days Long Gone]]'' (2017 – composer)
+* ''[[Korona królów]]'' (2018 television series – composer)
+* ''[[Phantom Doctrine]]'' (2018 – composer)
+* ''[[Gwent: The Witcher Card Game]]'' (2018 – composer)<ref name=":0" />
+* ''[[Thronebreaker: The Witcher Tales]]'' (2018 – composer/music director)
+* ''[[Cyberpunk 2077]]'' (2020 – composer)<ref name=":0">{{Cite news|url=https://www.vgr.com/cd-projekt-red-composer-marcin-przybylowicz-on-the-cyberpunk-2077-soundtrack/|title=CD Projekt Red Composer Marcin Przybyłowicz on the Cyberpunk 2077 Soundtrack|last=VGR/|date=2018-08-30|work=VGR|access-date=2018-09-03|language=en-US}}</ref>
+* ''[[Resident Evil Village]]'' (2021 - composer)
+
+==See also==
+*[[Music of Poland]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website}}
+*{{AllMusic|id=marcin-przybylowicz-mn0002775165}}
+* 
+* {{IMDb name|6276986}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Przybylowicz, Marcin}}
+[[Category:Video game composers]]
+[[Category:Polish composers]]
+[[Category:1985 births]]
+[[Category:Living people]]
+[[Category:Polish musicians]]

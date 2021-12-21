@@ -1,0 +1,175 @@
+{{refimprove|date=November 2015}}
+
+{{Infobox musical artist
+| name            = Wanda
+| image           = Wanda Austrian Music Awards 2016.jpg
+| image_size      = 250
+| landscape       = Yes
+| caption         = Wanda (2016)
+| origin          = [[Vienna]], [[Austria]]
+| genre           = [[Indie rock]], [[Pop music|pop]], [[rock 'n' roll]]
+| years_active    = 2012&ndash;present
+| website         = {{URL|www.wandamusik.com |wandamusik.com }}
+| current_members = * Michael Marco Fitzthum 
+* Manuel Christoph Poppe
+* Christian Hummer
+* Reinhold Weber
+*Lukas Hasitschka
+}}
+[[File:Wanda (ZMF 2016) jm15295.jpg|thumb|[[Zelt-Musik-Festival]] 2016 in [[Freiburg]], [[Germany]]]]
+[[Image:Wanda-8.jpg|thumb|right|245px|Wanda Live @ Free & Easy Festival 2015]]
+'''Wanda''' is an [[Austria]]n [[indie pop]] band founded in [[Vienna]] in 2012. 
+
+Their debut album ''[[Amore (Wanda album)|Amore]]'' was released in October 2014 at "Problembär Records" and debuted at number 13 on the Austrian Albums Chart on 31 October 2014. Their single ''Bologna'' (which features that [[Bologna|Italian city]]) was released in early 2015 and peaked at number 42 on 10 April 2015. Wanda's first tour took place in late 2014, with a second tour in February 2015, with locations in Austria, [[Germany]], and [[Switzerland]] (i.e. the [[List of territorial entities where German is an official language|German Sprachraum]]). On 2 October 2015 their second album ''Bussi'' was released. They made a deal with Universal Music Germany.<ref>{{cite web | url=http://derstandard.at/2000022807089/Wandas-zweites-Album-Bussi-Der-gelungene-Bankueberfall?ref=rec | title=Wandas zweites Album "Bussi": Der gelungene Banküberfall | publisher=Der Standard online | date=26 September 2015 | accessdate=6 October 2015 | author=Karl Fluch}}</ref>
+
+Their [[indie pop]] style is influenced by [[rock 'n' roll]], as well as [[Austropop]] (Austrian singer-songwriters). 
+They label their music as "pop music with '[[love|Amore]]'". Their songs are sung in German, with a more or less strongly noticeable [[Viennese German|Viennese]] dialect.
+
+==Discography==
+===Albums===
+'''Studio'''
+{| class="wikitable" 
+|-
+! width="28" rowspan="2"| Year
+! width="140" rowspan="2"| Title
+! colspan="3"| Chart
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Ö3 Austria Top 40|AUT]]<br><ref name="aut">{{cite web | url=http://austriancharts.at/showinterpret.asp?interpret=Wanda | title=Wanda discography | website=austriancharts.at |accessdate=4 December 2017}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[GfK Entertainment Charts|GER]]<br><ref>{{cite web | url=https://www.offiziellecharts.de/suche?artist_search=Wanda&do_search=do | title=Suche: Wanda | website=offiziellecharts.de | accessdate=18 September 2019}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[Swiss Hitparade|SWI]]<br><ref name="swi">{{cite web | url=http://hitparade.ch/showinterpret.asp?interpret=Wanda | title=Wanda discography | website=hitparade.ch |accessdate=4 December 2017}}</ref>
+|-
+| 2014
+| ''Amore''
+| align="center"| 2
+| align="center"| 53
+| align="center"| 29
+|-
+| 2015
+| ''Bussi''
+| align="center"| 1
+| align="center"| 5
+| align="center"| 8
+|-
+| 2017
+| ''Niente''
+| align="center"| 1
+| align="center"| 5
+| align="center"| 6
+|-
+| 2019
+| ''Ciao!''
+| align="center"| 1
+| align="center"| 4
+| align="center"| 20
+|}
+
+'''Live'''
+{| class="wikitable" 
+|-
+! width="28" rowspan="2"| Year
+! width="140" rowspan="2"| Title
+! colspan="3"| Chart
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Ö3 Austria Top 40|AUT]]<br><ref name="aut"/>
+! scope="col" style="width:3em;font-size:90%;" | [[GfK Entertainment Charts|GER]]<br>
+! scope="col" style="width:3em;font-size:90%;" | [[Swiss Hitparade|SWI]]<br><ref name="swi"/>
+|-
+| 2016
+| ''Amore meine Stadt''
+| align="center"| 11
+| align="center"| 66
+| align="center"| —
+|}
+
+===Singles===
+{| class="wikitable" 
+|-
+! width="28" rowspan="2"| Year
+! width="140" rowspan="2"| Title
+! colspan="3"| Chart
+! width="140" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Ö3 Austria Top 40|AUT]]<br><ref name="aut"/>
+! scope="col" style="width:3em;font-size:90%;" | [[GfK Entertainment Charts|GER]]<br>
+! scope="col" style="width:3em;font-size:90%;" | [[Swiss Hitparade|SWI]]<br><ref name="swi"/>
+|-
+| rowspan=2|2014
+| "Bologna"
+| align="center"| 34
+| align="center"| —
+| align="center"| 67
+| align="center" rowspan=2| ''Amore''
+|-
+| "Auseinandergehen ist schwer"
+| align="center"| 70
+| align="center"| —
+| align="center"| —
+|-
+| rowspan=3|2015
+| "Bussi Baby"
+| align="center"| 3
+| align="center"| —
+| align="center"| —
+| align="center" rowspan=3| ''Bussi''
+|-
+| "Meine beiden Schwestern"
+| align="center"| 28
+| align="center"| —
+| align="center"| —
+|-
+| "1,2,3,4"
+| align="center"| 61
+| align="center"| —
+| align="center"| —
+|-
+| rowspan=3|2017
+| "0043"
+| align="center"| 63
+| align="center"| —
+| align="center"| —
+| align="center" rowspan=3| ''Niente''
+|-
+| "Columbo"
+| align="center"| 1
+| align="center"| —
+| align="center"| —
+|-
+| "Lascia mi fare"
+| align="center"| 68
+| align="center"| —
+| align="center"| —
+|-
+| 2019
+| "Ciao Baby"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| ''Ciao!''
+|}
+
+===Other charted songs===
+{| class="wikitable" 
+|-
+! width="28" rowspan="2"| Year
+! width="140" rowspan="2"| Title
+! colspan="1"| Chart
+! width="140" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Ö3 Austria Top 40|AUT]]<br><ref name="aut"/>
+|-
+| 2017
+| "Weiter, Weiter"
+| align="center"| 52
+| align="center"| ''Niente''
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://wandamusik.com/ Official website]
+
+{{Authority control}}
+
+[[Category:Musical groups established in 2012]]
+[[Category:2012 establishments in Austria]]

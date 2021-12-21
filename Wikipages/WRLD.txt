@@ -1,0 +1,65 @@
+{{About||the musician|Juice Wrld|other uses|World (disambiguation)}}
+
+{{Infobox radio station
+| name             = WRLD
+| logo             = WRLD 95.3Smooth RnB logo.png
+| logo_size        = 150px
+| city             = [[Valley, Alabama]]
+| area             = [[Columbus, Georgia]]
+| branding         = ''95.3 Smooth RnB''
+| frequency        = 95.3 [[MHz]]
+| translator       =
+| airdate          = [[1996 in radio|1996]]
+| format           = [[Urban adult contemporary|Urban AC]]
+| erp              = 25,000 [[watt]]s
+| haat             = {{convert|77|meters}}
+| class            = C3
+| facility_id      = 52040
+| coordinates      = {{coord|32|44|07|N| 85|08|55|W|region:US-AL_type:landmark}}
+| callsign_meaning = 
+| former_callsigns = WUAF (1992-1994)<br>WRLD-FM (1994-2010)<ref name="fcc1"/>
+| affiliations     = [[Westwood One (1976–2011)|Westwood One]]
+| owner            = PMB Broadcasting, LLC
+| licensee         = PMB Broadcasting, LLC
+| sister_stations  = [[WKCN]], [[WCGQ]], [[WRCG]], [[WLTC]]
+| webcast          = [http://streamdb3web.securenetsystems.net/v5/WRLDFM Listen Live]
+| website          = [http://953smoothrnb.com/ 953smoothrnb.com] 
+}}
+
+'''WRLD''' (95.3 [[FM broadcasting|FM]], "95.3 Smooth R&B") is a [[radio station]] broadcasting an [[urban adult contemporary]] music format.<ref>{{cite web |url=http://www.arbitron.com |title=Station Information Profile |work=Arbitron}}</ref> Licensed to [[Valley, Alabama]], United States, the station serves the [[Columbus, Georgia]], area.<ref>{{cite web |url=http://www.fcc.gov/fcc-bin/fmq?call=WRLD |title=WRLD-FM Facility Record |work=United States [[Federal Communications Commission]], audio division}}</ref> The station is currently owned by PMB Broadcasting, LLC. The station features programming from [[Westwood One (1976–2011)|Westwood One]].  Its studios are co-located with four other sister stations on Wynnton Road in Columbus east of downtown, and its transmitter is located south of Valley.
+
+==History==
+This station's original [[construction permit]] was granted by the [[Federal Communications Commission]] on March 4, 1992.<ref name="fccp">{{cite web |work=FCC Media Bureau |title=Application Search Details (BPH-19900918MA) |url=http://fjallfoss.fcc.gov/cgi-bin/ws.exe/prod/cdbs/pubacc/prod/app_det.pl?Application_id=152448 |date=1992-03-04}}</ref> The new station was assigned the call letters WUAF on April 23, 1992.<ref name="fcc1">{{cite web |title=Call Sign History |url=http://fjallfoss.fcc.gov/cgi-bin/ws.exe/prod/cdbs/pubacc/prod/call_hist.pl?Facility_id=52040&Callsign=WRLD-FM |work=FCC Media Bureau CDBS Public Access Database}}</ref> The station's callsign was changed to WRLD-FM on February 22, 1994.<ref name="fcc1"/> After several delays, WRLD-FM received its [[broadcast license|license to cover]] on April 5, 1996.<ref name="fcc5">{{cite web |work=FCC Media Bureau |title=Application Search Details (BLH-19950921KE) |url=http://fjallfoss.fcc.gov/cgi-bin/ws.exe/prod/cdbs/pubacc/prod/app_det.pl?Application_id=213964 |date=1996-04-05}}</ref>
+
+In May 1999, Pearce Broadcasting Company, Inc., reached an agreement to sell WRLD-FM to McClure Broadcasting, Inc.<ref name="fcc9">{{cite web |work=FCC Media Bureau |title=Application Search Details (BALH-19990527GI) |url=http://fjallfoss.fcc.gov/cgi-bin/ws.exe/prod/cdbs/pubacc/prod/app_det.pl?Application_id=285613 |date=1999-09-21}}</ref> The FCC approved the deal on July 22, 1999, and the transaction was consummated on September 21, 1999.<ref name="fcc9"/>
+
+In December 2002, McClure Broadcasting, Inc., (Chuck McClure Jr., president) reached an agreement to sell WRLD-FM to Archway Broadcasting Group (Al Vicente, president/CEO) through their affiliate ABG Georgia Licenses, LLC.<ref name="fccx">{{cite web |work=FCC Media Bureau |title=Application Search Details (BALH-20021220AAL) |url=http://fjallfoss.fcc.gov/cgi-bin/ws.exe/prod/cdbs/pubacc/prod/app_det.pl?Application_id=627393 |date=2003-04-25}}</ref> This was part of a four-station deal, along with [[WRCG]], [[WCGQ]], and [[WKCN]], for a reported combined sale price of $15 million.<ref>{{cite news |date=2003-01-20 |url=http://www.broadcastingcable.com/article/CA271324.html?q=WRLD |work=Broadcasting & Cable |title=Changing Hands - 1/20/2003}}</ref> The deal was approved by the FCC on February 21, 2003, and the transaction was consummated on April 25, 2003.<ref name="fccx"/> At the time of the sale, WRLD-FM carried an [[oldies]] music format.
+
+On July 31, 2008, local investment group PMB Broadcasting LLC (headed up by Jim Martin) purchased this station along with Columbus-area sister stations WRCG, WCGQ, and WKCN from Archway Broadcasting Group LLC for a reported sale price of $7.2 million.<ref>{{cite news |date=2008-08-18 |url=http://www.broadcastingcable.com/article/CA6588011.html?q=WRLD |work=Broadcasting & Cable |title=Deals - 8/18/2008}}</ref>
+
+On September 6, 2010, the station shortened its call sign from WRLD-FM to simply WRLD.
+
+On June 6, 2014, WRLD shifted their format from oldies to classic hits.
+
+On August 12, 2016, WRLD changed their format from classic hits to classic country, branded as "95.3 Kissin' Country" (swapping formats with [[WBOJ]] 1270 AM Columbus, GA.<ref>[https://radioinsight.com/blog/headlines/107702/boomer-and-country-legends-swap-spots-in-columbus-ga/ Boomer and Country Legends Swap Spots in Columbus, GA] Radioinsight - August 12, 2016</ref>
+
+On September 1, 2019, WRLD changed their format from classic country to urban adult contemporary, branded as "95.3 Smooth R&B".<ref>[https://radioinsight.com/headlines/180221/wrld-flips-to-smooth-rb/ WRLD Flips to Smooth R&B] Radioinsight - September 1, 2019</ref>
+
+==Previous logos==
+[[File:Boomer 95.3 logo.jpg|200px]]
+[[Image:WRLD 95.3Kissin logo.png|200px]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{FM station data|WRLD}}
+
+{{Columbus GA Radio}}
+{{Auburn Radio}}
+{{Urban Radio Stations in Alabama}}
+{{Urban Radio Stations in Georgia}}
+
+[[Category:Radio stations in Alabama|RLD]]
+[[Category:Urban adult contemporary radio stations in the United States]]
+[[Category:Radio stations established in 1996]]

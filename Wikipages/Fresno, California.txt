@@ -1,0 +1,708 @@
+{{Short description|City in California, United States}}
+{{Redirect|Fresno}}
+{{Use mdy dates|date=September 2014}}
+{{Infobox settlement 
+| name                            = Fresno, California
+| official_name                   = City of Fresno
+| settlement_type                 = [[City (California)|City]]
+<!-- Images and maps ------>
+|image_skyline              = {{Photomontage
+| photo1a                   = Fresno Skyline (2).jpg
+| photo2a                   = Fresno Bee Building Dec 2012 (cropped).jpg
+| photo2b                   = Fulton mall-fresno (cropped).jpg
+| photo3a                   = Fresno-WarnorsTheatre (cropped).jpg
+| photo3b                   = Fresno station 2434 35 (cropped2).JPG
+| photo4a                   = Downtown Fresno with mountains (cropped).jpg
+| spacing                   = 1
+| color_border              = white
+| color                     = white
+| size                      = 310
+| foot_montage              = Clockwise: Fresno skyline; the [[Fulton Mall (Fresno)|Fulton Mall]]; [[Santa Fe Passenger Depot (Fresno, California)|Santa Fe Station]]; view of Fresno with the [[Sierra Nevada]] in the background; [[Warnors Theatre]]; [[Fresno Bee Building]].
+}}
+| image_flag                      = Flag of Fresno, California.svg
+| image_seal                      = Seal of Fresno, California.png
+| nickname                        = 
+| image_map                       = File:Fresno County California Incorporated and Unincorporated areas Fresno Highlighted 0627000.svg
+| mapsize                         = 250px
+| map_caption                     = Location within Fresno County
+| pushpin_map                     = California#USA
+| pushpin_map_caption             = Location within California##Location within the United States
+| pushpin_relief                  = 1
+| pushpin_label                   = Fresno
+<!-- Location ------------->
+| coordinates                     = {{coord|36|45|N|119|46|W|region:US-CA|display=inline,title}}
+| subdivision_type = Country
+| subdivision_name                = United States
+| subdivision_type1               = [[U.S. state|State]]
+| subdivision_name1               = [[California]]
+| subdivision_type2               = [[List of counties in California|County]]
+| subdivision_name2               = [[Fresno County, California|Fresno]]
+| subdivision_type3               = [[List of regions of California|Region]]
+| subdivision_name3               = [[San Joaquin Valley]]
+<!-- History -------------->
+| established_title               = Railway station
+| established_date                = May 1872
+| established_title2              = [[Municipal corporation|Incorporated]]
+| established_date2               = October 21, 1885<ref>{{cite web
+ |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |title=California Cities by Incorporation Date 
+ |format=Word 
+ |publisher=California Association of [[Local Agency Formation Commission]]s 
+ |access-date=April 6, 2013 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc 
+ |archive-date=November 3, 2014 
+ |df=mdy 
+}}</ref>
+| named_for                       = Spanish for "[[ash tree]]"
+<!-- Government ----------->
+| government_type                 = [[Mayor-council government|Mayor-Council]]
+| leader_title                    = [[Mayor]]
+| leader_name                     = [[Jerry Dyer]] ([[Republican Party (U.S.)|R]])<ref>{{cite web
+ |url=http://www.fresno.gov/Government/MayorsOffice/default.htm
+ |title=Mayor's Office
+ |access-date=April 6, 2013
+ |publisher=City of Fresno
+ |archive-url=https://web.archive.org/web/20130403195028/http://www.fresno.gov/Government/MayorsOffice/Default.htm
+ |archive-date=April 3, 2013
+ |url-status=live
+ }}</ref>
+| leader_title1                   = [[City manager]]
+| leader_name1                    = Thomas Esqueda<ref>{{cite web|title=City Manager|url=https://www.fresno.gov/citymanager/|website=City of Fresno|access-date=15 July 2017|archive-url=https://web.archive.org/web/20170130113130/https://www.fresno.gov/citymanager/|archive-date=January 30, 2017|url-status=live}}</ref>
+| leader_title2                   = [[City council]]<ref name=cc>{{cite web|title=Fresno City Council|url=https://www.fresno.gov/citycouncil/|website=City of Fresno|publisher=City of Fresno|access-date=9 July 2017|archive-url=https://web.archive.org/web/20170711213955/https://www.fresno.gov/citycouncil/|archive-date=July 11, 2017|url-status=live}}</ref>
+| leader_name2                    = Esmeralda Soria<br />Mike Karbassi<br />Miguel Arias<br />Tyler Maxwell<br />Luis Chavez<br />Garry Bredefeld<br />Nelson Esparza
+<!-- Area ----------------->
+| total_type                      = [[City (California)|City]]
+| unit_pref                       = Imperial
+| area_footnotes                  = <ref name="CenPopGazetteer2019">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>
+| area_total_km2                  = 300.43
+| area_total_sq_mi                = 116.00
+| area_land_km2                   = 297.30
+| area_land_sq_mi                 = 114.79
+| area_water_km2                  = 3.13
+| area_water_sq_mi                = 1.21
+| area_water_percent              = 0.31
+<!-- Elevation ------------>
+| elevation_footnotes             = <ref name="GNIS 277606" />
+| elevation_ft                    = 308
+<!-- Population ----------->
+| population_total                = 542107
+| population_as_of                = [[2020 United States census|2020]]
+| population_footnotes            = <ref name="QuickFacts">{{cite web |title=QuickFacts: Fresno city, California |url=https://www.census.gov/quickfacts/fact/table/fresnocitycalifornia/POP010220 |publisher=United States Census Bureau |access-date=25 August 2021}}</ref>
+| population_rank                 = [[List of United States cities by population|34th]] in the United States<br>[[List of largest cities in California by population|5th]] in California
+| population_density_sq_mi        = 4722.60
+| population_density_km2          = 1823.43
+| population_metro_footnotes      = <ref name="2020Pop">{{cite web |title=2020 Population and Housing State Data |url=https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html |publisher=United States Census Bureau |access-date=22 August 2021}}</ref>
+| population_metro                = 1008654 ([[List of metropolitan statistical areas|56th]])
+| population_demonym              = Fresnan
+<!-- Time zones ----------->
+| timezone                        = [[Pacific Time Zone|Pacific]]
+| utc_offset                      = −08:00
+| timezone_DST                    = [[Pacific Daylight Time|PDT]]
+| utc_offset_DST                  = −07:00
+<!-- Codes ---------------->
+| postal_code_type                = [[ZIP Code]]s<ref>{{cite web
+ | url = https://tools.usps.com/go/ZipLookupAction!input.action
+ | title = ZIP Code(tm) Lookup
+ | publisher = [[United States Postal Service]]
+ | access-date = November 23, 2014
+ | archive-url = https://web.archive.org/web/20141116111202/https://tools.usps.com/go/ZipLookupAction!input.action
+ | archive-date = November 16, 2014
+ | url-status = live
+ }}</ref>
+| postal_code                     = 93650, 93701–93712, 93714–93718, 93720–93730, 93737, 93740, 93741, 93744, 93745, 93747, 93750, 93755, 93760, 93761, 93764, 93765, 93771–79, 93786, 93790–94, 93844, 93888
+| area_code_type                  = [[North American Numbering Plan|Area code]]
+| area_code                       = [[Area code 559|559]]
+| blank_name                      = [[Federal Information Processing Standards|FIPS]] code
+| blank_info                      = {{FIPS|06|27000}}<ref name="GR2">{{cite web|url=https://www.census.gov |publisher=[[United States Census Bureau]] |access-date=2008-01-31 |title=U.S. Census website |df=mdy }}</ref>
+| blank1_name                     = [[Geographic Names Information System|GNIS]] feature IDs
+| blank1_info                     = {{GNIS 4|277606}}, {{GNIS 4|2410546}}
+| website                         = {{URL|www.fresno.gov}}
+}}
+
+'''Fresno''' ([[Spanish language|Spanish]] for "[[ash tree]]") is a major city in the [[San Joaquin Valley]] of [[California]]. It is the [[county seat]] of [[Fresno County, California|Fresno County]] and the largest city in the greater [[Central Valley (California)|Central Valley]] region. Fresno covers about {{convert|112|sqmi|km2}} and had a population of 542,107 in 2020, making it the [[List of largest California cities by population|fifth-most populous city in California]], the most populous inland city in California (the Sacramento metro area has many more people than Fresno but the city proper has only 524,942 people), and the [[List of United States cities by population|34th-most populous city in the nation]].<ref>{{cite web |url=https://www.census.gov/population/www/documentation/twps0027/tab19.txt |title=Population of the 100 Largest Cities and Other Urban Places in the United States: 1790 TO 1990 |access-date=2010-07-02 |publisher=U.S. Census Bureau |archive-url=https://web.archive.org/web/20170725010358/https://www.census.gov/population/www/documentation/twps0027/tab19.txt |archive-date=July 25, 2017 |url-status=live }}</ref><ref name="QuickFacts"/><ref name="US-Gazetteer">{{Cite US Gazetteer|2010|places|CA}}</ref>
+
+Named for the abundant ash trees lining the [[San Joaquin River]], Fresno was founded in 1872 as a railway station of the [[Central Pacific Railroad]] before it was [[Municipal corporation|incorporated]] in 1885. The city has since become an economic hub of Fresno County and the San Joaquin Valley, with much of the surrounding areas in the [[Metropolitan Fresno]] region predominantly tied to large-scale agricultural production. Fresno is near the geographical center of California. It lies approximately {{convert|220|mi|-1}} north of [[Los Angeles]], {{convert|170|mi|-1}} south of the state capital, [[Sacramento, California|Sacramento]], and {{convert|185|mi|-1}} southeast of [[San Francisco]]. [[Yosemite National Park]] is about {{convert|60|mi|km|-1}} to the north, [[Kings Canyon National Park]] is {{convert|60|mi|km|-1}} to the east, and [[Sequoia National Park]] is {{convert|75|mi|km|-1}} to the southeast.
+
+Fresno is also [[List of U.S. cities with large Hispanic populations|the third-largest majority-Hispanic city]] in the United States, with 50.5% of its population being Hispanic in 2020.<ref name="2020Hispanic">{{cite web |title=P2: HISPANIC OR LATINO, AND NOT HISPANIC OR LATINO BY RACE |url=https://data.census.gov/cedsci/table?q=P2%3A%20HISPANIC%20OR%20LATINO,%20AND%20NOT%20HISPANIC%20OR%20LATINO%20BY%20RACE&g=0100000US%24160000_0400000US72%240500000&tid=DECENNIALPL2020.P2&hidePreview=true |website=2020 Census |publisher=United States Census Bureau |access-date=10 October 2021 |url-status=live}}</ref>
+
+==History==
+{{see also|Timeline of Fresno, California}}
+The original inhabitants of the [[San Joaquin Valley]] region were the [[Yokuts people]] and [[Miwok people]], who engaged in trading with other Californian tribes of Native Americans including coastal peoples such as the [[Chumash people|Chumash]] of the Central California coast, with whom they are thought to have traded plant and animal products.
+[[File:Fresno County Courthouse (1885).jpg|thumb|left|The old [[Fresno County Courthouse]], built in 1875 and demolished in 1966.]]
+The first European to enter the San Joaquin Valley was [[Pedro Fages]] in 1772.<ref>Capace, Nancy (1999). ''Encyclopedia of California''. North American Book Dist LLC. Page 410. {{ISBN|9780403093182}}.</ref> The county of Fresno was formed in 1856 after the [[California Gold Rush]]. It was named for the abundant ash trees (Spanish: fresno) lining the [[San Joaquin River]].
+
+The San Joaquin River flooded on December 24, 1867, inundating Millerton. Some residents rebuilt, others moved. Flooding also destroyed the town of Scottsburg on the nearby [[Kings River (California)|Kings River]] that winter. Rebuilt on higher ground, Scottsburg was renamed Centerville.<ref name="CGN14">{{California's Geographic Names|1014-1015}}</ref>
+
+In 1867, Anthony "McQueen" Easterby purchased land bounded by the present Chestnut, Belmont, Clovis and California avenues, that today is called the [[Sunnyside, Fresno County, California|Sunnyside district]]. Unable to grow wheat for lack of water, he hired sheep man Moses J. Church in 1871 to create an irrigation system.{{Citation needed|date=April 2013}} Building new canals and purchasing existing ditches, Church then formed the Fresno Canal and Irrigation Company, a predecessor of the Fresno Irrigation District.
+
+In 1872, the [[Central Pacific Railroad]] established a station near Easterby's—by now a hugely productive wheat farm—for its new [[Southern Pacific Railroad|Southern Pacific]] line. Soon there was a store near the station and the store grew into the town of Fresno Station, later called Fresno. Many Millerton residents, drawn by the convenience of the railroad and worried about flooding, moved to the new community. Fresno became an incorporated city in 1885. By 1931 the [[Fresno Traction Company]] operated 47 [[streetcar]]s over 49 miles of track.<ref name="hwd">{{cite book | author=Demoro, Harre W.| title=California's Electric Railways| publisher=[[Interurban Press]]|location=Glendale, California| year=1986| page=201| isbn=978-0-916374-74-7}}</ref>
+[[File:Old Fresno High School (cropped).jpg|thumb|left|[[Fresno High School]] in 1896.]]
+In 1865, [[William Helm]] brought his sheep to Fresno county, which was then a vast space of open land.<ref>{{cite book |last=Guinn |first=J. M.|date= 1905|title= History of the State of California with Biographical Record|url=https://archive.org/details/historyofstateofca00guin/page/668/mode/2up/search/William+Helm|location= Chicago|publisher=The Chapman Publishing Co.|pages=669–670}}</ref> By 1877, Helm made Fresno his home with a five-acre tract of land at the corner of Fresno and R streets. Helm was the largest individual [[Sheep husbandry|sheep grower]] in Fresno County.<ref>{{cite book |last=Vandor |first=Paul E.|date= 1919|title= History of Fresno County California with Biographical Sketches|url=https://archive.org/details/historyoffresnoc02vand/page/n5/mode/2up/search/William+Helm|location= Los Angeles, California|publisher=Historic Record Company |pages=220–221}}</ref>
+
+Two years after the station was established, county residents voted to move the county seat from Millerton to Fresno. When the [[Friant Dam]] was completed in 1944, the site of Millerton became inundated by the waters of [[Millerton Lake]]. In extreme droughts, when the reservoir shrinks, ruins of the original county seat can still be observed.
+
+In the nineteenth century, with so much wooden construction and in the absence of sophisticated firefighting resources, fires often ravaged American frontier towns. The greatest of Fresno's early-day fires, in 1882, destroyed an entire block of the city. Another devastating blaze struck in 1883.
+
+In 1909, Fresno's first and oldest [[synagogue]], [[Temple Beth Israel (Fresno, California)|Temple Beth Israel]], was founded.
+
+Fresno entered the ranks of the 100 most populous cities in the United States in 1960 with a population of 134,000. Thirty years later, in the 1990 census, it moved up to 47th place with 354,000, and in the census of 2000, it achieved 37th place with 428,000.<ref>{{cite web |url=https://www.census.gov/population/www/documentation/twps0027/tab19.txt |title=U.S. Census Bureau, Population of the 100 Largest Cities and Other Urban Places in the United States: 1790 TO 1990 |access-date=2010-07-02 |archive-url=https://web.archive.org/web/20170725010358/https://www.census.gov/population/www/documentation/twps0027/tab19.txt |archive-date=July 25, 2017 |url-status=live }}</ref>
+[[File:Fresno County, Cal (1904) (14597374327) (cropped).jpg|thumb|left|Downtown Fresno in 1904.]]
+The [[Fresno Sanitary Landfill|Fresno Municipal Sanitary Landfill]] was the first modern [[landfill]] in the United States, and incorporated several important innovations to waste disposal, including trenching, compacting, and the daily covering of trash with dirt. It was opened in 1937 and closed in 1987. It is a [[National Historic Landmark]] as well as a [[Superfund]] site.<ref>{{cite web | url=http://historicfresno.org/nrhp/landfill.htm | title=Fresno Sanitary Landfill (1937) | publisher=HistoricFresno.org | author1=Kevin Enns-Rempel | author2=John Edward Powell | access-date=2007-04-23 | archive-url=https://web.archive.org/web/20050321214528/http://historicfresno.org/nrhp/landfill.htm | archive-date=March 21, 2005 | url-status=live }}</ref>
+
+Before World War II, Fresno had many ethnic neighborhoods, including Little Armenia, German Town, Little Italy, and Chinatown. In 1940, the [[United States Census Bureau|Census Bureau]] reported Fresno's population as 94.0% white, 3.3% black and 2.7% Asian.<ref name="census"/> Chinatown was primarily a Japanese neighborhood and today Japanese-American businesses still remain.<ref>{{Cite news|url=https://www.wpr.org/derailed/high-speed-rail-debate-persists-california|title=The High-Speed Rail Debate Persists In California|last1=Bowden|first1=Bridgit|last2=Johnson|first2=Shawn|date=2019-09-18|work=Wisconsin Public Radio|language=en|url-status=live|access-date=2019-11-14|archive-url=https://web.archive.org/web/20191105083718/https://www.wpr.org/derailed/high-speed-rail-debate-persists-california|archive-date=November 5, 2019}}</ref> During 1942, [[Pinedale, California|Pinedale]], in what is now North Fresno, was the site of the [[Pinedale, California|Pinedale Assembly Center]], an interim facility for the relocation of Fresno area [[Japanese Americans]] to [[Japanese American internment|internment camps]].<ref>{{cite web | url=http://www.cr.nps.gov/history/online_books/anthropology74/ce16e.htm | title=Pinedale Assembly Center, California | publisher=U.S. National Park Service | access-date=2007-04-23 | url-status=dead | archive-url=https://web.archive.org/web/20070407163302/http://www.cr.nps.gov/history/online_books/anthropology74/ce16e.htm | archive-date=April 7, 2007 | df=mdy-all }}</ref> The [[Fresno Fairgrounds]] were also utilized as an assembly center.
+[[File:The Grand 1401, Fresno, CA (cropped).JPG|thumb|right|The [[San Joaquin Light and Power Corporation Building]], built in 1923.]]
+Row crops and orchards gave way to urban development particularly in the period after World War II; this transition was particularly vividly demonstrated in locations such as the [[Blackstone Avenue]] corridor.
+
+In September 1958, [[Bank of America]] launched a new product called [[Visa Inc.#History|BankAmericard]] in Fresno. After a troubled gestation during which its creator resigned, BankAmericard went on to become the first successful [[credit card]]. This financial instrument was usable across a large number of merchants and also allowed cardholders to revolve a balance (earlier financial products could do one or the other but not both). In 1976, BankAmericard was renamed and spun off into a separate company known today as [[Visa Inc.]]
+[[File:Downtown Fresno in 1964 (cropped).jpg|thumb|left|Downtown Fresno in 1964.]]
+The dance style commonly known as [[popping (dance)|popping]] evolved in Fresno in the 1970s.<ref name="holman">{{cite book | last=Holman | first=Michael | title=Breaking and the New York City Breakers | chapter=History | chapter-url=http://www.msu.edu/~okumurak/styles/pop.html | date=October 1984 | publisher=Freundlich Books | isbn=978-0-88191-016-2 | access-date=2007-05-15 | url-status=dead | archive-url=https://web.archive.org/web/20071019042047/http://www.msu.edu/~okumurak/styles/pop.html | archive-date=October 19, 2007 | df=mdy-all | url=http://www.msu.edu/~okumurak/styles/pop.html }}</ref>
+
+In the 1970s, the city was the subject of a song, "Walking Into Fresno", written by Hall Of Fame guitarist Bill Aken and recorded by [[Bob Gallion]] of the "[[WWVA Jamboree]]" radio and television show in [[Wheeling, West Virginia]]. Aken also made his first TV appearance playing guitar on the old country-western show at The Fresno Barn.
+
+Fictional residents of the town were portrayed in a 1986 comedic [[miniseries]] titled "[[Fresno (TV miniseries)|Fresno]]", featuring [[Carol Burnett]], [[Dabney Coleman]], [[Teri Garr]] and [[Charles Grodin]], along with numerous other celebrities. The mini series was presented as a parody of the prime time soap operas popular in the 1980s.
+
+In 1995, the [[Federal Bureau of Investigation]]'s [[Operation Rezone]] sting resulted in several prominent Fresno and [[Clovis, California|Clovis]] politicians being charged in connection with taking bribes in return for [[zoning|rezoning]] farmland for housing developments. Before the sting brought a halt to it, housing developers could buy farmland cheaply, pay off council members to have it rezoned, and make a large profit building and selling inexpensive housing. Sixteen people were eventually convicted as a result of the sting.<ref>{{cite news | url=http://www.fresnobee.com/columnists/boren/story/5599730p-6576567c.html | title=Lessons learned from Rezone can't be forgotten | newspaper=The Fresno Bee | author=Jim Boren | date=December 12, 2002 | access-date=2007-04-23|archive-url = https://web.archive.org/web/20021228095048/http://fresnobee.com/columnists/boren/story/5599730p-6576567c.html |archive-date = December 28, 2002|url-status=dead}}</ref>
+
+==Geography==
+[[File:Downtown Fresno, California (21385604348).jpg|thumb|left|300px|Aerial view of Fresno.]]
+[[File:Shinzen japanese gardens.jpg|thumb|[[Shinzen Young|Shinzen]] Japanese Garden.]]
+Fresno is at {{Coord|36|44|52|N|119|46|21|W}}.<ref name="GNIS 277606">{{Cite GNIS|id=277606|name=Fresno}}</ref> having a total area of {{convert|112.3|sqmi|km2}} with 99.69% land covering {{convert|112.0|sqmi|km2}}, and 0.31% water, {{convert|0.4|sqmi|km2}}.
+
+Fresno's location, very near the geographical center of California, places the city a comfortable distance from many of the major recreation areas and urban centers in the state. Just {{convert|60|mi|km|abbr=on}} south of [[Yosemite National Park]], it is the nearest major city to the park. Likewise, [[Sierra National Forest]] is {{convert|40|mi|km|abbr=on}}, [[Kings Canyon National Park]] is {{convert|60|mi|km|abbr=on}} and [[Sequoia National Park]] is {{convert|75|mi|km|abbr=on}}. The city is located near several [[Sierra Nevada (U.S.)|Sierra Nevada]] lakes including [[Bass Lake, California|Bass Lake]], [[Shaver Lake]], and [[Huntington Lake]]. Fresno is also only two and a half hours from [[Monterey]], [[Carmel-by-the-Sea, California|Carmel]], [[Big Sur]] and the central coast.
+
+Because Fresno sits at the junction of Highways [[California State Route 41|41]] and [[California State Route 99|99]] (SR 41 is Yosemite National Park's southern access road, and SR 99 bypasses [[Interstate 5 (California)|Interstate 5]] to serve the urban centers of the San Joaquin Valley), the city is a major gateway for Yosemite visitors coming from [[Los Angeles, California|Los Angeles]]. The city also serves as an entrance into Sierra National Forest via Highway [[California State Route 168|168]], and Sequoia and Kings Canyon National Parks via Highway [[California State Route 180|180]].
+[[File:Huntington Blvd, Fresno, California.JPG|thumb|right|Huntington Blvd. Historic District.]]
+Fresno has three large public parks, two in the city limits and one in county land to the southwest. [[Woodward Park (Fresno)|Woodward Park]], which features the [[Shinzen Young|Shinzen]] [[Japanese Garden]]s, boasts numerous picnic areas and several miles of trails. It is in North Fresno and is adjacent to the [[San Joaquin River Parkway]]. [[Roeding Park]], near Downtown Fresno, is home to the [[Fresno Chaffee Zoo]], and [[Rotary Storyland and Playland]]. Kearney Park is the largest of the Fresno region's park system and is home to historic Kearney Mansion and plays host to the annual Civil War Revisited, the largest reenactment of the Civil War in the west coast of the U.S.<ref>{{cite news
+  |url    = http://abclocal.go.com/kfsn/story?section=local&id=3522714
+  |title    = Civil War Revisited Wraps Up
+  |publisher    = ABC30.com
+  |date    = October 10, 2005
+  |access-date    = 2007-03-06
+  |archive-url    = https://web.archive.org/web/20070310221842/http://abclocal.go.com/kfsn/story?section=local&id=3522714
+  |archive-date    = March 10, 2007
+  |url-status    = dead
+  }}</ref><ref>{{cite web
+  |url    = http://www.civilwarrevisited.com/index.html
+  |title   = The Civil War Revisited
+  |publisher = Fresno Historical Society
+  |access-date = 2007-03-06
+  |archive-url =https://web.archive.org/web/20130610010101/http://www.civilwarrevisited.com/index.html|url-status = dead
+  |archive-date=June 10, 2013 }}</ref>
+
+In its 2020 ParkScore ranking, [[Trust for Public Land|The Trust for Public Land]], a national land conservation organization, reported that Fresno had one of the worst park systems among the 50 most populous U.S. cities.<ref>[http://parkscore.tpl.org/city.php?city=Fresno "City Profiles: Fresno"] {{Webarchive|url=https://web.archive.org/web/20140201220500/http://parkscore.tpl.org/city.php?city=Fresno |date=February 1, 2014 }}. "The Trust for Public Land". Retrieved on July 10, 2013.</ref> The survey measures median park size, park acres as percent of city area, residents' access to parks, spending on parks per resident, and playgrounds per 10,000 residents. Fresno faces serious challenges to creating a well-developed park system due to the lack of any natural bodies of water in the city boundaries. There are no natural lakes or rivers; only manmade waterways.
+
+===Neighborhoods===
+
+====Downtown====
+[[File:Hotel Californian 1.JPG|thumb|left|The historic Californian Hotel.]]
+[[File:2009-0725-CA-FresnoWaterTower-F.jpg|thumb|right|upright=.7|The [[Old Fresno Water Tower]], built in 1894 and designed by [[George W. Maher]], is one of Fresno's oldest landmarks.]]
+Fresno was born with the establishment of the then Central Pacific Railroad Depot in 1872. In 1889, the Southern Pacific Railroad, which had acquired Central Pacific, constructed a new depot on the original depot site. The brick Queen Anne style depot was a jewel for the city and is currently one of Fresno's oldest standing buildings. In 1971, 99 years after it first opened for business on its current site, the Depot closed its rail operations due to the decline in business.<ref>{{Cite web |url=http://historicfresno.org/nrhp/sprr.htm |title=Southern Pacific Railroad Depot (Fresno, California) |access-date=September 26, 2015 |archive-url=https://web.archive.org/web/20150927183532/http://historicfresno.org/nrhp/sprr.htm |archive-date=September 27, 2015 |url-status=live }}</ref>
+
+Between the 1880s and World War II, Downtown Fresno flourished, filled with electric streetcars,<ref>{{cite web |url=http://historical.fresnobeehive.com/2010/05/fresno-street-cars/ |title=Archived copy |access-date=December 16, 2018 |archive-url=https://web.archive.org/web/20150927124728/http://historical.fresnobeehive.com/2010/05/fresno-street-cars/ |archive-date=September 27, 2015 |url-status=dead |df=mdy-all }}</ref> and contained a number of "lavish" and "opulent" buildings.<ref>{{cite web |url=http://historical.fresnobeehive.com/2009/06/mariposa-street/ |title=Mariposa Street |access-date=December 16, 2018 |archive-url=https://web.archive.org/web/20150927111203/http://historical.fresnobeehive.com/2009/06/mariposa-street/ |archive-date=September 27, 2015 |url-status=dead |df=mdy-all }}</ref> Among them, the original Fresno County Courthouse (demolished), the Fresno Carnegie Public Library (demolished), the [[Old Fresno Water Tower]], the [[Bank of Italy (Fresno, California)|Bank of Italy Building]], the [[Pacific Southwest Building]], the [[San Joaquin Light and Power Corporation Building|San Joaquin Light and Power Building]] (currently known as the Grand 1401), and the Hughes Hotel (burned down), to name a few.
+
+Fulton Street in Downtown Fresno was Fresno's main financial and commercial district before being converted into one of the nation's first [[Pedestrian malls in the United States|pedestrian malls]] in 1964.<ref>{{cite web |url=http://historical.fresnobeehive.com/2009/11/before-fulton-mall/ |title=Archived copy |access-date=December 16, 2018 |archive-url=https://web.archive.org/web/20150927114242/http://historical.fresnobeehive.com/2009/11/before-fulton-mall/ |archive-date=September 27, 2015 |url-status=dead |df=mdy-all }}</ref> Renamed the [[Fulton Mall (Fresno)|Fulton Mall]], the area contains the densest collection of historic buildings in Fresno. While the Fulton Mall corridor has suffered a sharp decline from its heyday, the Mall includes some of the finest public art pieces in the country, including a casting of [[Pierre-Auguste Renoir]]'s bronze "The Washer Woman", reportedly the only one of the six castings that one can walk up to and touch. In October 2017, the City of Fresno finished and opened Fulton Mall to traffic, becoming Fulton Street. This change was celebrated with a large public parade featuring current Mayor Lee Brand and former Mayor Ashley Swearengin.<ref>{{cite web|url=https://www.fresnobee.com/news/local/article180249076.html|title=It's a downtown dream as Fresno celebrates Fulton Street's grand reopening|website=fresnobee|language=en|access-date=2019-02-22|archive-url=https://web.archive.org/web/20190223133055/https://www.fresnobee.com/news/local/article180249076.html|archive-date=February 23, 2019|url-status=live}}</ref> The public art pieces will be restored and placed near their current locations and will feature wide sidewalks (up to 28' on the east side of the street) to continue with the pedestrian friendly environment of the district.<ref>{{Cite news|last=Lurie|first=George|date=June 5, 2015|title=Fulton Mall project to shift into gear next month|work=TBJ Now|publisher=The Business Journal|url=http://www.thebusinessjournal.com/news/government-and-politics/17972-fulton-mall-project-to-shift-into-gear-next-month%5B%5D|access-date=December 15, 2020|url-status=<!--live-->dead|archive-date=2015-09-22 |archive-url=https://web.archive.org/web/20150922040303/https://thebusinessjournal.com/news/government-and-politics/17972-fulton-mall-project-to-shift-into-gear-next-month}}</ref>
+
+====Tower District====
+[[File:Tower Theater (cropped).jpg|thumb|left|The historic [[Tower Theatre (Fresno, California)|Tower Theatre for the Performing Arts]], built in 1939.]]
+The historic [[Tower Theatre (Fresno, California)|Tower Theatre]], which is included on the National Register of Historic Places,<ref>{{NRISref|version=2010a}}</ref> is the center of the Tower District. The theater was built in 1939 at the corner of Olive and Wishon Avenues. (The name of the theater refers to a well-known landmark water tower, which is actually in another nearby area). The Tower District neighborhood is just north of downtown Fresno proper, and one-half mile south of Fresno City College.<ref>{{cite web |url=http://www.tower2000.com/history/index.html |title=Fresno's Historic Tower Theatre |website=Tower2000.com |access-date=2010-07-02 |archive-url=https://web.archive.org/web/20100528112034/http://www.tower2000.com/history/index.html |archive-date=May 28, 2010 |url-status=live }}</ref> Although the neighborhood was known as a residential area, the early commercial establishments of the Tower District began with small shops and services that flocked to the area shortly after World War II. The character of small local businesses largely remains today. To some extent, the businesses of the Tower District were developed due to the proximity of the original Fresno Normal School (later renamed [[California State University, Fresno|California State University at Fresno]]). In 1916, the college moved to what is now the site of [[Fresno City College]] one-half mile north<ref>{{cite web|url=http://www.oabalegacyrenewed.com/history.html |title=The Old Administration Building at Fresno City College: A Legacy Renewed |website=Oabalegacyrenewed.com |access-date=2010-07-02 |url-status=dead |archive-url=https://web.archive.org/web/20080820021132/http://www.oabalegacyrenewed.com/history.html |archive-date=August 20, 2008 |df=mdy }}</ref> of the Tower District.
+
+This vibrant and culturally diverse area of retail businesses and residences experienced a renewal after a significant decline in the late 1960s and 1970s.{{Citation needed|date=April 2013}} After decades of neglect and suburban flight, the neighborhood revival followed the re-opening of the Tower Theatre in the late 1970s, which at that time showed second- and third-run movies, along with classic films. Roger Rocka's Dinner Theater & [[Good Company Players]] also opened nearby in 1978,<ref>{{cite web|url=http://rogerrockas.com/good-company-players/|title=Roger Rocka's Dinner Theater|access-date=2016-08-08|archive-url=https://web.archive.org/web/20160808070522/http://rogerrockas.com/good-company-players/|archive-date=August 8, 2016|url-status=live}}</ref> at Olive and Wishon Avenues. Fresno native [[Audra McDonald]] performed in the leading roles of Evita and The Wiz at the theater while she was a high school student. McDonald subsequently became a leading performer on [[Broadway theatre|Broadway]] in New York City and a [[Tony Award|Tony award]]-winning actress. Also in the Tower District is Good Company Players' 2nd Space Theatre.
+[[File:FresnoCC-Library (cropped).jpg|thumb|right|The main library at [[Fresno City College]] was built in 1933.]]
+The Tower District is a hub for community events such as Jamaica My Weekend, Mardi Gras in February, [[Pride parade|Gay Pride Parade]], car shows, A Taste of The Tower, Halloween in the Tower, and the [[Farmers' market|Farmer's Market]] opened on the northwest Corner of Olive and Van Ness.
+
+The neighborhood features restaurants, live theater and nightclubs, as well as several independent shops and bookstores, currently operating on or near Olive Avenue, and all within a few hundred feet of each other. Since renewal, the Tower District has become an attractive area for restaurant and other local businesses. Today, the Tower District is also known as the center of Fresno's [[LGBT]] and [[Hipster (contemporary subculture)|hipster]] communities.<ref>{{Cite web |url=http://collegian.csufresno.edu/2007/04/24/remembering-the-life-of-a-corporate-sellout/ |title=The Collegian » Remembering the life of a 'corporate sellout'<!-- Bot generated title --> |access-date=January 24, 2011 |archive-url=https://web.archive.org/web/20090325140750/http://collegian.csufresno.edu/2007/04/24/remembering-the-life-of-a-corporate-sellout/ |archive-date=March 25, 2009 |url-status=live }}</ref> Additionally, Tower District is also known as the center of Fresno's local [[Punk rock|punk]]/[[Gothic rock|goth]]/[[deathrock]] and [[Heavy metal music|heavy metal]] community as well as the [[synthpop]]/[[Electronic dance music]] community.{{citation needed|date=February 2012}}
+
+The area is also known for its early twentieth century homes, many of which have been restored in recent decades. The area includes many [[California Bungalow]] and [[American Craftsman]] style homes, [[Spanish Colonial Revival Style architecture]], [[Mediterranean Revival Style architecture]], [[Mission Revival Style architecture]], and many [[Storybook house]]s designed by Fresno architects, Hilliard, Taylor & Wheeler. The residential architecture of the Tower District contrasts with the newer areas of tract homes [[urban sprawl]] in north and east areas of Fresno.
+
+====Woodward Park====
+[[File:Woodward Park Library1.JPG|thumb|left|Woodward Park Branch of the [[Fresno County Public Library]].]]
+[[File:Woodward Park Nima1.JPG|thumb|right|[[Woodward Park (Fresno)|Woodward Park]]]]
+In the north eastern part of Fresno, [[Woodward Park (Fresno)|Woodward Park]] was founded by the late Ralph Woodward, a long-time Fresno resident. He bequeathed a major portion of his estate in 1968 to provide a regional park and bird sanctuary in Northeast Fresno. The park lies on the South bank of the San Joaquin River between Highway 41 and Friant Road. The initial {{convert|235|acre|km2}}, combined with additional acres acquired later by the city, brings the park to a sizable {{convert|300|acre|km2}}.<ref name=CityFresno>{{cite web|title=Woodward Park|url=http://www.fresno.gov/government/departmentdirectory/parksandrecreation/parksandfacilities/regional+parks/woodwardpark.htm|website=City of Fresno|access-date=September 9, 2014|archive-url=https://web.archive.org/web/20140903054237/http://www.fresno.gov/Government/DepartmentDirectory/ParksandRecreation/ParksandFacilities/Regional+Parks/WoodwardPark.htm|archive-date=September 3, 2014|url-status=dead}}</ref> Now packed with amenities, Woodward Park is the only Regional Park of its size in the Central Valley. The park has a multi-use [[amphitheatre]] that seats up to 2,500 people, authentic Japanese Garden, fenced dog park, bike park, 2 playgrounds, two-mile (3&nbsp;km) equestrian trail, exercise par course, three children's playgrounds, a lake, 3 small ponds, 7 picnic areas and five miles (8&nbsp;km) of multipurpose trails that are part of the San Joaquin River Parkway's Lewis S. Eaton Trail. When complete, the Lewis S. Eaton trail system will cover {{convert|22|mi|km}} between Highway 99 and Friant Dam. The park's amphitheatre was renovated in 2010, and has hosted performances by acts such as [[Deftones]], [[Tech N9ne]], and [[Sevendust]] as well as numerous others. Woodward Park hosts the annual [[California Interscholastic Federation]] State Championship [[cross country running|cross country]] meet. It is the home of the [[Woodward Shakespeare Festival]] which began performances in the park in 2005.<ref name=FresBee>{{cite news|last1=Munro |first1=Donald |title=Woodward Shakespeare Festival turns 10; its revels play on |url=http://www.fresnobee.com/2014/06/19/3986188/woodward-shakespeare-festival.html |access-date=September 9, 2014 |newspaper=The Fresno Bee |date=June 19, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140911001858/http://www.fresnobee.com/2014/06/19/3986188/woodward-shakespeare-festival.html |archive-date=September 11, 2014 |df=mdy }}</ref>
+
+===Climate===
+[[File:Fresno Free Speech Fight of the Industrial Works of the World.JPG|thumb|left|Mariposa Plaza in downtown.]]
+Fresno has a [[Mediterranean climate]] (''Csa'' in the [[Köppen climate classification]]), with mild, wet winters and very long, hot, dry summers.<ref>{{cite web
+  |url = http://www.rssweather.com/climate/California/Fresno/
+  |title = Fresno, California Climate Summary
+  |publisher = RSS Feeds World Weather
+  |access-date = 2007-03-06
+  |archive-url = https://web.archive.org/web/20061020004237/http://www.rssweather.com/climate/California/Fresno/
+  |archive-date = October 20, 2006
+  |url-status = live
+  }}</ref> December and January are the coldest months, averaging {{convert|47.5|°F|1}} and {{convert|48.0|°F|1}}, respectively; 11 mornings see low temperatures at or below freezing, with the coldest night of the year typically bottoming out around {{convert|29|°F|1}}.<ref name= NOAA>{{cite web|url = https://w2.weather.gov/climate/xmacis.php?wfo=hnx|title = NowData - NOAA Online Weather Data|publisher = [[National Oceanic and Atmospheric Administration]]|access-date = 2021-10-16}}</ref> July is the warmest month, averaging {{convert|83.5|°F|1}}; normally, there are 38 days of {{convert|100|°F|1}}+ highs and 113 days of {{convert|90|°F|1}}+ highs, and between July and August, there are only 3.6 days where the high does not reach {{convert|90|°F|1}}.<ref name= NOAA/> Summers provide considerable sunshine, with July exceeding 96 percent of the total possible sunlight hours; conversely, December is the lowest with only 42 percent of the daylight time in sunlight because of [[tule fog]]. However, the year averages 81% of possible sunshine, for a total of 3550 hours.<ref name= HKO >{{cite web
+  | url = http://www.hko.gov.hk/wxinfo/climat/world/eng/n_america/us/fresno_e.htm
+  | title = Climatological Normals of Fresno
+  | access-date = 2010-05-13
+  | publisher = [[Hong Kong Observatory]]
+  | archive-url = https://web.archive.org/web/20120324094347/http://www.hko.gov.hk/wxinfo/climat/world/eng/n_america/us/fresno_e.htm
+  | archive-date = March 24, 2012
+  | url-status = live
+  }}</ref> Average annual precipitation is around {{convert|11|in|mm|0}}, which, given the average annual temperature and seasonal precipitation pattern in the area, would classify it as a [[semidesert]]. Most of the wind rose direction occurrences derive from the northwest, as winds are driven downward along the axis of the [[California Central Valley]]; in December, January and February there is an increased presence of southeastern wind directions in the wind rose statistics.<ref>{{cite web
+ |url=http://www.coha.dri.edu/web/state_analysis/California/KingsCanyonNP_metsfcwind_fresno.html 
+ |title=Fresno, California Wind Direction Diagram 
+ |publisher=Causes of Haze Assessment 
+ |year=2002 
+ |access-date=2007-03-06 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20060912142341/http://www.coha.dri.edu/web/state_analysis/California/KingsCanyonNP_metsfcwind_fresno.html 
+ |archive-date=September 12, 2006 
+}}</ref> Fresno meteorology was selected in a national [[U.S. Environmental Protection Agency]] study for analysis of [[equilibrium temperature]] for use of ten-year [[meteorology|meteorological]] data to represent a warm, dry western United States locale.<ref>{{Cite report|url=http://cave.epa.gov/cgi/nph-bwcgis/BASIS/ncat/dba/ncat/DDW?M=145&W=DATETAG++%3D++1060217 |title=Statistical Prediction of Dynamic Thermal Equilibrium Temperatures using Standard Meteorological Data Bases |version=EPA-660/2-73-003 |publisher=U.S. Environmental Protection Agency |author1=Hogan, C. Michael |author2=Patmore, Leda C. |author3=Harry Seidman |date=August 1973 |access-date=2007-03-06 }}{{dead link|date=October 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+The official record high temperature for Fresno is {{convert|115|°F|1}}, set on July 8, 1905, while the official record low is {{convert|17|°F|0}}, set on January 6, 1913. The average windows for temperatures of {{convert|100|°F|1}}+ are June 2 through September 15; for temperatures of {{convert|90|°F|1}}+, April 25 through October 10; and for freezing temperatures, December 14 through January 24, although no freeze occurred during the 1983-84 or 2020-21 winter seasons. Annual rainfall has ranged from {{convert|23.57|in|mm|1}} in the "rain year" from July 1982 to June 1983 down to {{convert|4.43|in|mm|1}} from July 1933 to June 1934. The most rainfall in one month was {{convert|9.54|in|mm|1}} in November 1885 and the most rainfall in 24 hours was {{convert|3.55|in|mm|1}} on November 18, 1885.<ref name = NOAA/> Measurable precipitation falls on an average of 46.5 days annually. Snow is a rarity; the heaviest snowfall at the airport was {{convert|2.2|in|m|2}} on January 21-22, 1962.<ref name = NOAA/>
+<center>{{Fresno, California weatherbox}}</center>
+
+==Demographics==
+[[File:Fresno-Madera CSA.png|thumb|right|Map of [[Metropolitan Fresno]] and its components: {{legend|#FF0000|Fresno County}} {{legend|#FFFF00|Madera County}}]]
+{{US Census population
+|1880= 1112
+|1890= 10818
+|1900= 12470
+|1910= 24892
+|1920= 45086
+|1930= 52513
+|1940= 60685
+|1950= 91669
+|1960= 133929
+|1970= 165655
+|1980= 217491
+|1990= 354202
+|2000= 427652
+|2010= 494665
+|2020= 542107
+|footnote=U.S. Decennial Census<ref name="DecennialCensus">{{cite web|url=https://www.census.gov/programs-surveys/decennial-census.html|title=Census of Population and Housing|publisher=Census.gov|access-date=June 4, 2015|df=mdy}}</ref><br>2010–2020<ref name="QuickFacts" />
+}}
+
+Fresno is the larger principal city of the [[Fresno-Madera, CA CSA|Fresno-Madera CSA]], a [[Combined Statistical Area]] that includes the [[Fresno County, California|Fresno]] (Fresno County) and [[Madera County, California|Madera]] (Madera County) metropolitan areas,<ref>[https://www.census.gov/population/www/estimates/metro_general/2006/List4.txt Metropolitan Statistical Areas and Components] {{webarchive |url=https://web.archive.org/web/20070526063716/http://www.census.gov/population/www/estimates/metro_general/2006/List4.txt |date=May 26, 2007 }}, [[Office of Management and Budget]], 2007-05-11. Retrieved 2008-08-01.</ref><ref>[https://www.census.gov/population/www/estimates/metro_general/2006/List6.txt Combined Statistical Areas and Component Core Based Statistical Areas] {{webarchive |url=https://web.archive.org/web/20070629011223/http://www.census.gov/population/www/estimates/metro_general/2006/List6.txt |date=June 29, 2007 }}, [[Office of Management and Budget]], 2007-05-11. Retrieved 2008-08-01.</ref> which had a combined population of 922,516 at the [[2000 United States Census|2000 census]].<ref name="GR2" />
+
+Fresno is home to numerous ethnic minority communities, such as the Armenian and Hmong communities. In 1920, [[Armenians]] comprised 9% of the population of the city of Fresno, with 4,000 Armenian residents at the time.<ref>{{cite book |last1=Woeste |first1=Victoria |title=The Farmer's Benevolent Trust |date=1998 |publisher=The University of North Carolina Press |location=USA |isbn=0807824216 |page=57}}</ref> [[Old Armenian Town, Fresno, California|Old Armenian Town]] was the old Armenian neighborhood in the center of Fresno. The [[History of the Hmong in Fresno, California|Hmong community of Fresno]], along with that of [[Minneapolis–Saint Paul]], is one of the largest two urban [[Hmong American|U.S. ethnic Hmong]] communities, with just over 24,000 people, or about 5% of the city's population, being of Hmong descent.<ref>Lor, Yang. "[http://hmongstudies.org/YangLorHSJ10.pdf Hmong Political Involvement in St. Paul, Minnesota and Fresno, California] {{Webarchive|url=https://www.webcitation.org/6MiAFPf31?url=http://hmongstudies.org/YangLorHSJ10.pdf |date=January 18, 2014 }}" (). ''[[Hmong Studies Journal]]''. Volume 10, p.&nbsp;1-53. [http://web.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10911774&AN=47436195&h=Kr8ULojvpr5R7dlsr2Jd4lla9ir7BmCYvbHT3F%2bpLZSHHg4W6SIMcEaWFvhOSTvVO56HFcW%2f5p8IxfDAVr5OHg%3d%3d&crl=c Available at] {{Webarchive|url=https://web.archive.org/web/20140628220307/http://web.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10911774&AN=47436195&h=Kr8ULojvpr5R7dlsr2Jd4lla9ir7BmCYvbHT3F%2bpLZSHHg4W6SIMcEaWFvhOSTvVO56HFcW%2f5p8IxfDAVr5OHg%3d%3d&crl=c |date=June 28, 2014 }} [[EBSCOHost]] – p. 1.</ref>
+
+{| class="wikitable sortable collapsible" style="font-size: 90%;"
+|-
+! Racial composition !! 2010<ref name="census1"/> !! 1990<ref name="census"/> !! 1970<ref name="census"/> !! 1940<ref name="census"/>
+|-
+| [[White American|White]] ||50.6% || 59.2% || 86.7% || 94.0%
+|-
+| —Non-Hispanic || 30.0% || 49.4% || 72.6%<ref name="fifteen">From 15% sample</ref> || n/a
+|-
+| [[Hispanic and Latino Americans|Hispanic or Latino]] (of any race) || 46.9% || 29.9% || 16.1%<ref name="fifteen"/> || n/a
+|-
+| [[African American|Black or African American]] || 8.3% || 8.3% || 9.6% || 3.3%
+|-
+| [[Asian American|Asian]] || 12.6% || 12.5% || 2.0% || 2.7%
+|}
+
+===2010===
+The [[2010 United States Census]]<ref>{{cite web|url=https://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0627000|archive-url=https://archive.today/20140715025036/http://www.census.gov/2010census/popmap/ipmtext.php?fl=06:0627000|url-status=dead|archive-date=July 15, 2014|title=2010 Census Interactive Population Search: CA – Fresno city|publisher=U.S. Census Bureau|access-date=July 12, 2014}}</ref> reported that Fresno had a population of 494,665. The population density was 4,404.5 people per square mile (1,700.6/km{{sup|2}}). The racial makeup of Fresno was 245,306 (49.6%) [[White (U.S. Census)|White]], 40,960 (8.3%) [[African American (U.S. Census)|African American]], 8,525 (1.7%) [[Native American (U.S. Census)|Native American]], 62,528 (12.6%) [[Asian (U.S. Census)|Asian]] (3.6% [[Hmong American|Hmong]], 1.7% [[Indian American|Indian]], 1.2% [[Filipino American|Filipino]], 1.2% [[Laotian American|Laotian]], 1.0% [[Thai American|Thai]], 0.8% [[Cambodian American|Cambodian]], 0.7% [[Chinese American|Chinese]], 0.5% [[Japanese American|Japanese]], 0.4% [[Vietnamese American|Vietnamese]], 0.2% [[Korean American|Korean]]), 849 (0.2%) [[Pacific Islander (U.S. Census)|Pacific Islander]], 111,984 (22.6%) from [[Race (United States Census)|other races]], and 24,513 (5.0%) from two or more races. [[Hispanic (U.S. Census)|Hispanic]] or [[Latino (U.S. Census)|Latino]] of any race were 232,055 persons (46.9%). Among the Hispanic population, 42.7% of the total population are [[Mexican American|Mexican]], 0.4% [[Salvadoran American|Salvadoran]], and 0.4% [[Puerto Rican people|Puerto Rican]]. [[Non-Hispanic Whites]] were 30.0% of the population in 2010,<ref name="census1">{{cite web|url=http://quickfacts.census.gov/qfd/states/06/0627000.html |title=Fresno (city), California |work=State & County QuickFacts |publisher=U.S. Census Bureau |access-date=April 22, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120427150655/http://quickfacts.census.gov/qfd/states/06/0627000.html |archive-date=April 27, 2012 }}</ref> down from 72.6% in 1970.<ref name="census">{{cite web |title=California – Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990 |publisher=U.S. Census Bureau |url=https://www.census.gov/population/www/documentation/twps0076/twps0076.html |access-date=April 22, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120812191959/http://www.census.gov/population/www/documentation/twps0076/twps0076.html |archive-date=August 12, 2012 |df=mdy }}</ref>
+[[File:Race and ethnicity 2010- Fresno (5559881135).png|thumb|left|Map of racial distribution in Fresno, 2010 U.S. Census. Each dot is 25 people: <span style="color:#f00;">'''White'''</span>, <span style="color:#00f;">'''Black'''</span>, <span style="color:#00ff80">'''Asian'''</span>, <span style="color:#ff8000">'''Hispanic'''</span> or '''Other''' (yellow)]]
+
+The Census reported that 485,798 people (98.2% of the population) lived in households, 4,315 (0.9%) lived in non-institutionalized group quarters, and 4,552 (0.9%) were institutionalized.
+
+There were 158,349 households, of which 68,511 (43.3%) had children under the age of 18 living in them, 69,284 (43.8%) were [[marriage|opposite-sex married couples]] living together, 30,547 (19.3%) had a female householder with no husband present, 11,698 (7.4%) had a male householder with no wife present. There were 12,843 (8.1%) [[POSSLQ|unmarried opposite-sex partnerships]], and 1,388 (0.9%) [[same-sex partnerships|same-sex married couples or partnerships]]. 35,064 households (22.1%) were made up of individuals, and 12,344 (7.8%) had someone living alone who was 65 years of age or older. The average household size was 3.07. There were 111,529 [[family (U.S. Census)|families]] (70.4% of all households); the average family size was 3.62.
+
+The age distribution of the population shows 148,823 people (30.1%) under the age of 18, 62,601 people (12.7%) aged 18 to 24, 135,076 people (27.3%) aged 25 to 44, 102,064 people (20.6%) aged 45 to 64, and 46,101 people (9.3%) who were 65 years of age or older. The median age was 29.3 years. For every 100 females, there were 96.7 males. For every 100 females age 18 and over, there were 93.5 males.
+
+There were 171,288 housing units at an average density of 1,525.2 per square mile (588.9/km{{sup|2}}), of which 158,349 were occupied, of which 77,757 (49.1%) were owner-occupied, and 80,592 (50.9%) were occupied by renters. The homeowner vacancy rate was 2.6%; the rental vacancy rate was 7.6%. 235,430 people (47.6% of the population) lived in owner-occupied housing units and 250,368 people (50.6%) lived in rental housing units.
+
+===2000===
+[[File:Saint_John_the_Baptist_Cathedral_-_Fresno.jpg|thumb|left|upright|[[Saint John the Baptist Cathedral (Fresno, California)|St. John the Baptist Cathedral]], seat of the [[Roman Catholic Diocese of Fresno|Catholic Diocese of Fresno]].]]
+[[File:2009-0725-CA-HolyTrinityArmenianApostolic (cropped).jpg|thumb|right|[[Holy Trinity Church, Fresno|Holy Trinity Armenian Church]].]]
+As of the census<ref name="GR2" /> of 2000, there were 427,652 people, 140,079 households, and 97,915 families residing in the city. The population density was 4,097.9 people per square mile (1,582.2/km{{sup|2}}). There were 149,025 housing units at an average density of {{convert|1427.9|sqmi|km2}}. The racial makeup of the city was 50.2% [[Race (United States Census)|White]], 8.4% [[Race (United States Census)|Black]] or [[Race (United States Census)|African American]], 1.6% [[Race (United States Census)|Native American]], 11.2% [[Race (United States Census)|Asian]] (about a third of which is [[Hmong people|Hmong]]), 0.1% [[Race (United States Census)|Pacific Islander]], 23.4% from [[Race (United States Census)|other races]], and 5.2% from two or more races. [[Race (United States Census)|Hispanic]] or [[Race (United States Census)|Latino]] of any race were 39.9% of the population.
+
+There were 140,079 households, of which 40.4% had children under the age of 18 living with them, 46.1% were married couples living together, 17.6% had a female householder with no husband present, and 30.1% were non-families. 23.3% of all households were made up of individuals, and 7.9% had someone living alone who was 65&nbsp;years of age or older. The average household size was 2.99 and the average family size was 3.57.
+
+In the city, the age distribution of the population shows 32.9% under the age of 18, 11.8% from 18 to 24, 28.8% from 25 to 44, 17.2% from 45 to 64, and 9.3% who were 65&nbsp;years of age or older. The median age was 28&nbsp;years. For every 100 females, there were 96.6 males. For every 100 females age 18 and over, there were 93.0 males.
+
+The median income for a household in the city was $32,236, and the median income for a family was $35,892. Males had a median income of $32,279 versus $26,551 for females. The [[per capita income]] for the city was $15,010. About 20.5% of families and 26.2% of the population were below the [[poverty line]], including 36.5% of those under age 18 and 10.7% of those age 65 or over.
+
+The population as of July 1, 2007 was estimated to be 470,508 by the [[US Census Bureau]]'s Population Estimates Program.<ref name=PopEstBigCities>{{cite web|url=https://www.census.gov/popest/cities/tables/SUB-EST2007-01.csv |archive-url=https://web.archive.org/web/20080723182832/http://www.census.gov/popest/cities/tables/SUB-EST2007-01.csv |url-status=dead |archive-date=July 23, 2008 |title=Table 1: Annual Estimates of the Population for Incorporated Places Over 100,000, Ranked by July 1, 2007 Population: April 1, 2000 to July 1, 2007 |format=[[comma-separated values|CSV]] |work=2007 Population Estimates |publisher=[[United States Census Bureau]], Population Division |date=2008-07-10 |access-date=2008-12-01 }}</ref> The Fresno [[Metropolitan Statistical Area]] population was estimated at 899,348.<ref name="Census PopEst MSA 2007">{{cite web|url=https://www.census.gov/popest/metro/tables/2007/CBSA-EST2007-01.csv |title=Table 1. Annual Estimates of the Population of Metropolitan and Micropolitan Statistical Areas: April 1, 2000 to July 1, 2007 |access-date=2008-12-01 |date=2008-03-27 |publisher=US Census Bureau, Population Division |url-status=dead |archive-url=http://webarchive.loc.gov/all/20100709020951/http%3A//www%2Ecensus%2Egov/popest/metro/tables/2007/CBSA%2DEST2007%2D01%2Ecsv |archive-date= July 9, 2010 }}
+</ref>
+
+==Economy==
+[[File:Community Health Fresno Nima1 (cropped).JPG|thumb|right|[[Community Regional Medical Center|Community Regional Medical Ctr.]]]]
+[[File:2009-0725-CA-Fresno-BankofItaly (cropped).jpg|thumb|right|[[Bank of Italy (Fresno, California)|Bank of Italy Building]], built in 1918.]]
+Fresno is the center of [[Metropolitan Fresno]] and serves as the regional hub for the [[San Joaquin Valley]] and the greater [[Central Valley (California)|Central Valley]] region. The unincorporated area and rural cities surrounding Fresno remain predominantly tied to large-scale agricultural production.
+
+In 1958, Fresno was selected by [[Bank of America]] to first launch the [[Visa Inc.#History|BankAmericard]] [[credit card]], which was later renamed [[Visa Inc.|Visa]].
+
+Companies based in Fresno include [[Pelco]], [[Valley Yellow Pages]], and [[Saladino's Inc|Saladino's]].
+
+;Top employers 
+According to the city's 2015 Comprehensive Annual Financial Report,<ref name="cafr">[http://www.fresno.gov/NR/rdonlyres/6EEFD6A3-B511-48CA-8C18-FD30B9F804C1/0/COFFINANCEFY15CAFRRestatedWebRev3.pdf City of Fresno, California Comprehensive Annual Financial Report, for the Year ended June 30, 2015] {{webarchive|url=https://web.archive.org/web/20160916235532/http://www.fresno.gov/NR/rdonlyres/6EEFD6A3-B511-48CA-8C18-FD30B9F804C1/0/COFFINANCEFY15CAFRRestatedWebRev3.pdf |date=September 16, 2016 }}</ref> the top employers in the city are:
+
+{| class="wikitable"
+|-
+! #
+! Employer
+! # of Employees
+|-
+| 1
+|Community Medical Centers
+|8,889
+|-
+| 2
+|[http://www.fresno.gov City of Fresno]
+|2,938
+|-
+| 3
+|[[Trinity Health (Livonia, Michigan)|Saint Agnes Medical Center]]
+|2,400
+|-
+| 4
+|[[Kaiser Permanente]]
+|2,000
+|-
+| 5
+|[[California State University, Fresno]]
+|1,562
+|-
+| 6
+|[[State Center Community College District]]
+|1,178
+|-
+| 7
+|[[Cargill Meat Solutions|Cargill Meat Solutions Corporation]]
+|1,150
+|-
+| 8
+|[[Fresno Economic Opportunities Commission]] 
+|973
+|-
+| 9
+|[[AmeriGuard Security Services]]
+|567
+|-
+| 10
+|[[Guarantee Real Estate]]
+|544
+|-
+| 11
+|[[Geil Enterprises, Inc.]]
+|500
+|}
+
+==Culture==
+[[File:Forestiere Underground Gardens at 5021 West Shaw Avenue, Fresno, California LCCN2013635151.tif|thumb|right|The iconic [[Forestiere Underground Gardens]] are a vast subterranean network, carved from 1906 to 1946.]]
+[[File:FresnoRainforest.jpg|thumb|right|The [[Fresno Chaffee Zoo]].]]
+===Performing arts and music===
+*[[Artists' Repertory Theatre]]
+*Children's Musical Theatreworks
+*Center State Productions
+*Fresno Philharmonic
+*[[Philip Lorenz International Keyboard Concerts]]
+*Roger Rocka's Dinner Theater & 2nd Space Theatre (Good Company Players)
+*Rogue Festival
+*Shine! Theatre<ref>{{Cite news|date=2020-02-14|title=Review: Vocals soar as Shine! Theatre celebrates a 'New 'World' and new mission|first=Donald |last=Munro|url=https://munroreview.com/2020/02/14/review-vocals-soar-as-shine-theatre-celebrates-a-new-world-and-new-mission/|access-date=2020-12-15|work=The Munro Review|language=en-US}}</ref>
+*Stageworks of Fresno
+*[[Woodward Shakespeare Festival]]
+*Youth Orchestras of Fresno
+
+===Theaters===
+[[File:Wilson Theatre (Fresno, California) 001.jpg|thumb|right|The historic Wilson Theatre.]]
+* [[Azteca Theater (California)|Azteca Theater]] 
+* Crest Theatre
+* Liberty Theatre
+* [[Tower Theatre (Fresno, California)|Tower Theatre]] – Tower Theatre for the Performing Arts
+* [[Warnors Theatre]] – Warnor's Center for the Performing Arts
+* Wilson Theatre – currently Cornerstone Church
+* Veteran's Memorial Auditorium
+*Paul Shaghoian Memorial Concert Hall - [[Clovis North Educational Center|Clovis North High School]]
+
+===Museums===
+[[File:Fresno Art Museum.JPG|thumb|The [[Fresno Art Museum]]]]
+*African-American Museum of the San Joaquin Valley
+*Arte Américas
+*Armenian Museum of Fresno
+*Discovery Center
+*William Saroyan House Museum
+*[[Forestiere Underground Gardens]]
+*[[Fresno Art Museum]]
+*Kearney Mansion Museum
+*Legion of Valor Museum
+*Meux Home Museum
+*[[Old Fresno Water Tower]] Tourist Center
+*[[Fresno Chaffee Zoo]]
+*Sierra Endangered Cat Haven (Fresno County)
+
+===Events===
+[[File:Night_Carnival.JPG|thumb|right|[[The Big Fresno Fair]].]]
+*Ani-Me Con (every spring) Fresno's only [[anime convention]].
+*Armenian Grape Blessing (August)<ref>{{cite web|title=Grapes, 'queen of fruits,' to reign Sunday at Armenian festival|url=http://www.fresnobee.com/living/religion/article30518925.html|website=The Fresno Bee|access-date=3 August 2016|archive-url=https://web.archive.org/web/20160807081012/http://www.fresnobee.com/living/religion/article30518925.html|archive-date=August 7, 2016|url-status=live}}</ref>
+*ArtHop (twice a month)<ref>{{cite web|title=ArtHop™|url=http://fresnoartscouncil.org/arthop/|website=Fresno Arts Council|access-date=9 March 2018|date=14 February 2013|archive-url=https://web.archive.org/web/20160816223149/http://fresnoartscouncil.org/arthop/|archive-date=August 16, 2016|url-status=live}}</ref>
+*[[The Big Fresno Fair]], 12 days October, the largest event in the Central Valley attracting over 600,000 visitors<ref>{{cite news|title=Big Fresno Fair announces new weekend youth admissions policy|url=http://abc30.com/community-events/big-fresno-fair-announces-new-weekend-youth-admissions-policy-/2464969/|access-date=9 March 2018|work=ABC30 Fresno|date=28 September 2017|archive-url=https://web.archive.org/web/20180407062140/http://abc30.com/community-events/big-fresno-fair-announces-new-weekend-youth-admissions-policy-/2464969/|archive-date=April 7, 2018|url-status=live}}</ref>
+*Taco Truck Throwdown<ref>{{cite news|last1=Tehee|first1=Joshua|title=7 things to know to improve your experience at this weekend's Taco Truck Throwdown|url=http://www.fresnobee.com/living/food-drink/article163599493.html|access-date=9 March 2018|work=Fresno Bee|date=25 July 2017|language=en|archive-url=https://web.archive.org/web/20180418014326/http://www.fresnobee.com/living/food-drink/article163599493.html|archive-date=April 18, 2018|url-status=live}}</ref>
+*Christmas Tree Lane Every December<ref>{{cite web|title=Christmas Tree Lane – A Fresno Tradition Since 1920|url=https://www.christmastreelane.com/?v=f24485ae434a|website=www.christmastreelane.com|access-date=9 March 2018|archive-url=https://web.archive.org/web/20180412045726/https://www.christmastreelane.com/?v=f24485ae434a|archive-date=April 12, 2018|url-status=live}}</ref><ref>{{cite news|last1=Rodriguez|first1=Robert|title=Grab the family – Christmas Tree Lane about to open|url=http://www.fresnobee.com/living/article187359553.html|access-date=9 March 2018|work=Fresno Bee|date=30 November 2017|language=en|archive-url=https://web.archive.org/web/20180407161249/http://www.fresnobee.com/living/article187359553.html|archive-date=April 7, 2018|url-status=live}}</ref>
+*Fresno LGBT Pride Parade, every June, first held in 1991<ref>{{cite news|last1=Castillo|first1=Andrea|title=Fresno GLBT Pride Parade a celebration of culture, history|url=http://www.fresnobee.com/news/local/article23116893.html|access-date=9 March 2018|work=fresnobee|date=4 June 2015|language=en|archive-url=https://web.archive.org/web/20180309182851/http://www.fresnobee.com/news/local/article23116893.html|archive-date=March 9, 2018|url-status=live}}</ref>
+*Grizzly Fest April/May<ref>{{cite news|title=City leaders plan to change annual music festival's venue|url=http://abc30.com/community-events/city-leaders-plan-to-change-annual-music-festivals-venue/2979230/|access-date=9 March 2018|work=ABC30 Fresno|date=23 January 2018|archive-url=https://web.archive.org/web/20180403191851/http://abc30.com/community-events/city-leaders-plan-to-change-annual-music-festivals-venue/2979230/|archive-date=April 3, 2018|url-status=live}}</ref> 
+*Valley DevFest (Fall) <ref>{{cite web|title=Valley DevFest|url=https://valleydevfest.com|access-date=29 September 2019|archive-url=https://web.archive.org/web/20190930063101/https://valleydevfest.com/|archive-date=September 30, 2019|url-status=live}}</ref>
+*Vintage Days March or April
+
+===Sports===
+[[File:Chukchansi Park in Fresno.jpg|thumb|right|[[Chukchansi Park]] in Downtown Fresno, home of the [[Fresno Grizzlies]].]]
+[[File:2009-0725-CA-SaveMartCenter.jpg|thumb|right|[[Save Mart Center]], home of the [[Fresno State Bulldogs]].]]
+Fresno has no teams in any of the five major sports leagues: [[MLB]] (baseball), [[MLS]] (soccer), [[NBA]] (basketball), [[NFL]] (football), or [[NHL]] (hockey).
+
+Below are Fresno-based professional sports teams:
+{| style="border: 1px solid #ADADAD; margin-bottom: 10px; padding-bottom: 5px;"
+|-  style="background:#adadad; text-align:left;"
+! Club
+! Sport
+! Founded
+! League (level)
+! Venue
+|-
+| [[Fresno Grizzlies]]
+| [[Baseball]]
+| 1998
+| [[Low-A West]] ([[Class A (baseball)|Class A]])
+| [[Chukchansi Park]]
+|-
+| [[Fresno Monsters]] 
+| [[Ice hockey]]
+| 2009
+| [[United States Premier Hockey League]] ([[Junior ice hockey|junior]])
+| [[Selland Arena]]
+|}
+* The [[Save Mart Center at Fresno State]] is a multi-purpose [[arena]] on the campus of the [[California State University, Fresno]]. It is home to the [[Fresno State Bulldogs]] [[basketball]] team and, for the first five seasons in the [[ECHL]] (2003–08) hosted the [[Fresno Falcons]] [[ice hockey]] team. It also hosts a wide range of musical acts and other events.
+* Also on the campus of Fresno State is [[Bulldog Stadium]], a 41,031 seat [[american football|football]] stadium. It is home to the [[Fresno State Bulldogs football]] program.
+* Next to Bulldog Stadium is [[Pete Beiden Field]]. It is home to the [[Fresno State Bulldogs baseball]] program and was home to the Fresno Grizzlies before their move to [[Chukchansi Park]] in Downtown Fresno.
+* Fresno's [[Woodward Park (Fresno)|Woodward Park]] is the location of the [[California Interscholastic Federation|CIF]] [[Cross country running|Cross Country]] State Championships, where [[Secondary school|high schoolers]] from around the state compete. Additionally the [[BMX]] course in the park plays host to the [[National Bicycle League]] State Championships.
+* [[Ratcliffe Stadium]], on the campus of [[Fresno City College]], is a 13,000-seat [[track and field]] stadium. The stadium played host to the [[West Coast Relays]]. It is home to the college's football program and is also host to high school football games and track and field events.
+* The Fresno Yacht Club established in 1959 hosts the High Sierra Regatta on [[Huntington Lake]] every July (barring extreme drought) and regular sailing on [[Millerton Lake]].<ref>{{cite news |last1=Warszawski |first1=Marek |title=High Sierra Regatta sails back to Huntington Lake after dry years |url=https://www.fresnobee.com/sports/outdoors/article88342512.html |access-date=26 June 2018 |work=Fresno Bee |date=7 July 2016 |language=en |archive-url=https://web.archive.org/web/20180626083027/https://www.fresnobee.com/sports/outdoors/article88342512.html |archive-date=June 26, 2018 |url-status=live }}</ref><ref>{{cite web |title=Fresno Yacht Club History |url=https://www.fresnoyachtclub.org/about |website=Fresno Yacht Club |publisher=Fresno Yacht Club |access-date=26 June 2018 |language=en |archive-url=https://web.archive.org/web/20180626110845/https://www.fresnoyachtclub.org/about |archive-date=June 26, 2018 |url-status=live }}</ref>
+
+==Government==
+[[File:Fresno City Hall Nima1.JPG|thumb|right|[[Fresno City Hall]], designed by architect [[Arthur Erickson]] in 1991.]]
+{{see also|Government of Fresno County, California}}
+Fresno has a modified strong-mayor form of local government and seven [[City council|City Council]] members (Legislative branch) elected for no more than two 4-year terms. The City Council and the mayor are nonpartisan, not affiliated with any political party. [[Alan Autry]] was first elected in November 2000, reelected on March 2, 2004, and served until January 2009. [[Ashley Swearengin]] was sworn in as Mayor on January 6, 2009, and reelected in 2012. [[Lee Brand]] was sworn in as Mayor on January 3, 2017. [[Jerry Dyer]] was elected to Mayor, following a heated election, on March 3, 2020.
+
+===Mayor===
+{{col-begin}}
+{{col-break}}
+* 1901–1905 L.O. Stephens
+* 1905–1908 W. Parker Lyon
+* 1908–1909 Ed. E. Bush (acting)
+* 1909–1912 [[Chester Rowell]] †
+* 1912–1917 Alva E. Snow
+* 1917–1921 William F. Toomey
+* 1921–1925 Truman C. Hart
+* 1925–1929 [[A. E. Sunderland]]
+* 1929–1937 [[Z. S. Leymel]]
+{{col-break}}
+* 1937–1941 [[Frank A. Homan]]
+* 1941–1947 [[Z. S. Leymel]] †
+* 1947–1947 [[Glenn M. DeVore]] (acting)
+* 1949–1957 [[Gordon Dunn]]
+* 1957–1958 [[C. Cal Evans]]
+* 1958–1963 [[Arthur L. Selland]] †
+* 1963–1965 [[Wallace Henderson]] (acting)
+* 1965–1969 [[Floyd H. Hyde]]
+* 1969–1977 [[Ted C. Wills]]
+{{col-break}}
+* 1977–1985 [[Dan Whitehurst]]
+* 1985–1989 [[Dale Doig]]
+* 1989–1993 [[Karen Humphrey]]
+* 1993–2001 [[Jim Patterson (mayor)|Jim Patterson]]
+* 2001–2009 [[Alan Autry]]
+* 2009–2017 [[Ashley Swearengin]]
+* 2017–2021 [[Lee Brand]]
+* 2021– [[Jerry Dyer]]
+{{col-end}}
+
+Prior to 1901, Fresno's government was under a [[Ward (electoral subdivision)|ward]] system which allowed for a board of trustees. From the trustees elected by the city wards, a President of the Board of Trustees would act as [[ex officio member|ex-officio]] mayor however did not hold the title of mayor. Because of this, the President of the Board of Trustees is not recognized as mayors of the City of Fresno.
+
+===President, Board of Trustees===
+* William Faymonville – October 27, 1885 to April 25, 1887
+* W.L. Graves – April 25, 1887 to October 31, 1887
+* A.M. Clark – October 31, 1887 to April 15, 1889
+* A.J. Pedlar – April 15, 1889 to unknown
+* C.J. Craycroft – October 27, 1895 to 1901
+
+===Courts===
+[[File:RobertCoyleCourthouse.jpg|thumb|left|The [[Robert E. Coyle United States Courthouse|Robert E. Coyle Courthouse]] is one of the two seats of the [[United States District Court for the Eastern District of California|Eastern District of California]].]]
+[[File:California5thDistrictCourttaken3.1.08 (cropped).JPG|thumb|right|Fifth Appellate District of the [[California Court of Appeals]].]]
+Fresno is the county seat of Fresno County. It maintains the main county courthouse on Van Ness in the Fresno County Plaza for criminal and some civil court cases.
+
+The [[United States District Court for the Eastern District of California|United States District Court, Eastern District of California]], has one of its six divisions based in the [[Robert E. Coyle]] Courthouse. The new courthouse replaced the [[B.F. Sisk]] Federal Building in 2006 because it did not have enough space for the growing Fresno Division. After extensive renovation, the building reopened in November 2010 as the B.F. Sisk Courthouse serving the [[California superior courts|Fresno County Superior Court]].
+
+Fresno is also the seat of the [[California Court of Appeal for the Fifth District|Fifth Appellate District]] of the [[California courts of appeal|State of California Court of Appeal]] where a new courthouse was built in the old Armenian Town section of downtown Fresno in 2007 across from the Fresno Convention Center. The Fifth District Court of Appeal Courthouse is named after former [[State senator|State Senator]] and [[Associate Justice]] of the Fifth District, [[George N. Zenovich]].
+
+===Politics===
+[[File:Fresno county courthouse.jpg|thumb|right|[[Fresno County Courthouse]].]]
+{{As of|2016}}, according to [https://web.archive.org/web/20160207102134/http://www.co.fresno.ca.us/DepartmentPage.aspx?id=33241 Fresno County Registrar of Voters], the majority of registered voters in both the city and [[Fresno County, California|county of Fresno]] are registered to the [[Democratic Party (United States)|Democratic Party]]. According to the county registrar's [https://web.archive.org/web/20111020001018/http://www.co.fresno.ca.us/DepartmentPage.aspx?id=31479 official final report][https://web.archive.org/web/20120616055919/http://www.barackobama.com/obama-for-america-2012-campaign?source=OM2012_LB_G_Obama2012-search_barack-obama-exact_d1e&gclid=CK6J4YGtra0CFQ5T7AodQUtwpA U.S. President Barack Obama] carried the county 49.99% in the [[2008 United States presidential election]].
+
+===State and federal representation===
+The citizens of Fresno are represented in the [[California State Senate]] by {{Representative|casd|14|fmt=spfl}} in [[California's 14th State Senate district|District 14]] and {{Representative|casd|8|fmt=spfl}} in [[California's 8th State Senate district|District 8]].<ref>{{cite web
+ |url          = http://wedrawthelines.ca.gov/downloads/meeting_handouts_072011/handouts_20110729_q2_sd_finaldraft_splits.zip
+ |title        = Communities of Interest – City
+ |publisher    = California Citizens Redistricting Commission
+ |access-date   = November 30, 2014
+ |archive-url  = https://web.archive.org/web/20151023054153/http://wedrawthelines.ca.gov/downloads/meeting_handouts_072011/handouts_20110729_q2_sd_finaldraft_splits.zip
+ |archive-date = October 23, 2015
+ |url-status     = dead
+ |df           = mdy-all
+}}</ref> They are represented in the [[California State Assembly]] by {{Representative|caad|23|fmt=spfl}} in [[California's 23rd State Assembly district|District 23]] and {{Representative|caad|31|fmt=spfl}} in [[California's 31st State Assembly district|District 31]].<ref>{{cite web
+ |url=http://assembly.ca.gov/assemblymembers
+ |title=Members Assembly
+ |access-date=April 6, 2013
+ |publisher=State of California
+ |archive-url=https://web.archive.org/web/20130424192545/http://assembly.ca.gov/assemblymembers
+ |archive-date=April 24, 2013
+ |url-status=live
+ }}</ref>
+
+The citizens of Fresno are represented in the [[United States House of Representatives]] by {{Representative|cacd|16|fmt=pfl}} in [[California's 16th congressional district|District 16]]<ref>{{Cite GovTrack|CA|16|access-date=April 6, 2013}}</ref> and {{Representative|cacd|22|fmt=pfl}} in [[California's 22nd congressional district|District 22]].<ref>{{Cite GovTrack|CA|22|access-date=April 6, 2013}}</ref>
+
+==Education==
+[[File:Henry Madden Library (cropped).jpg|thumb|right|[[Henry Madden Library]] at [[California State University, Fresno]].]]
+[[File:2009-0725-CA-FresnoCC-OAB (cropped).jpg|thumb|right|The Old Administration Building at [[Fresno City College]], listed on the [[National Register of Historic Places]].<ref name="OldAdmin">[http://www.oabalegacyrenewed.com/history.html History] {{webarchive |url=https://web.archive.org/web/20080820021132/http://www.oabalegacyrenewed.com/history.html |date=August 20, 2008 }}, SCCC Foundation: Old Administration Building. Retrieved August 3, 2009.</ref>]]
+[[File:Fresno High School.jpg|thumb|right|[[Fresno High School]].]]
+===Four-year institutions===
+[[California State University, Fresno]] is the main state school in Fresno though the [[University of California, Merced]] has its Fresno Center<ref name="fresno_center">{{cite web|title=Fresno Center|url=http://www.ucmerced.edu/fresno-center|website=UC Merced|access-date=8 July 2017|language=en|archive-url=https://web.archive.org/web/20170627212126/http://www.ucmerced.edu/fresno-center|archive-date=June 27, 2017|url-status=live}}</ref> and the [[University of California, San Francisco]] has its Fresno Medical Education Program.<ref name="ucsf-fresno">{{cite web|title=UCSF Fresno|url=http://www.fresno.ucsf.edu/|website=www.fresno.ucsf.edu|access-date=8 July 2017|archive-url=https://web.archive.org/web/20170709221845/http://www.fresno.ucsf.edu/|archive-date=July 9, 2017|url-status=live}}</ref>
+
+Private institutions include
+*[[Alliant International University]] (For Profit)
+*[[California Christian College]] (Private/Freewill Baptist)
+*[[Fresno Pacific University]] (Private/Mennonite Brethren)
+**[[Fresno Pacific University Biblical Seminary]]
+*[[Kaplan College]], Fresno campus (formerly Maric College)
+*[[National University (California)|National University]], Fresno campus
+*[[University of Phoenix]] (Private) (For Profit)
+*[[DeVry University]] (Private) (For Profit, Career)
+
+===Two-year institutions===
+Public community colleges include [[Fresno City College]] and [[Clovis Community College (California)|Clovis Community College]].
+
+===Career colleges===
+*[[University of Phoenix]]
+*[[DeVry University]]
+*[[Institute of Technology (California/Oregon)|Institute of Technology]]
+*[[San Joaquin Valley College]]
+*[[UEI College]]
+
+===Public K-12 schools===
+{{Main|Fresno Unified School District}}
+Most of Fresno is in the Fresno Unified School District though small portions are served by the [[Clovis Unified School District]], Central Unified School District, Washington Union Unified School district and Orange Center Elementary School District.
+
+===Private K-12 schools===
+*[[Fresno Christian High School]] (Evangelical Christian)
+*[[San Joaquin Memorial High School]] (Roman Catholic)
+Fresno Adventist Academy
+
+==Media==
+
+===Newspapers===
+[[File:Fresno Bee Building Feb 2013.png|thumb|right|''[[The Fresno Bee]]'' is headquartered inside the historic [[Fresno Bee Building]].]]
+*''The Business Journal''
+*''[[The Fresno Bee]]''
+
+===Radio===
+*[[KMJ (AM)|KMJ]], AM 580, 50,000-watt and FM 105.9, is Fresno's first radio station; it began broadcasting in 1922. Its powerful 50,000-watt signal can clearly be heard throughout much of California.
+*[[KFIG]] AM 940, 50,000-watt affiliate of ESPN radio and also the flagship station for Fresno State University football, men's basketball and baseball
+*[[KYNO]] AM 1430, 5,000-watt oldies station 
+*88.1 [[KFCF]] is Fresno's Pacifica station, and one of Fresno's few non-commercial, non-corporate radio stations.
+*89.3 [[KVPR]], provides National Public Radio Programming & classical music throughout the Central California region.
+*90.7 [[KFSR]] is another non-commercial, non-corporate station that plays a full spectrum format, including Jazz, eclectic, Armenian, and others.  Based on the CSUF campus.
+*94.9 [[KBOS-FM]] More commonly known as B95 – Fresno's Hip-Hop Station
+
+===Television===
+To avoid interference with existing [[VHF]] television stations in the San Francisco Bay Area and those planned for [[Chico, California|Chico]], [[Sacramento, California|Sacramento]], [[Salinas, California|Salinas]], and [[Stockton, California|Stockton]], the [[Federal Communications Commission]] decided that Fresno would be a [[UHF island]] (only have [[UHF]] television stations). The very first Fresno television station to begin broadcasting was KMJ-TV, which debuted on June 1, 1953. KMJ-TV is now known as [[NBC]] affiliate [[KSEE]].  Other Fresno stations include [[American Broadcasting Company|ABC]] [[Owned-and-operated station|O&O]] [[KFSN-TV]], [[CBS]] affiliate [[KGPE]], [[The CW]] affiliate [[KFRE-TV]], [[Fox Broadcasting|FOX]] affiliate [[KMPH-TV]], [[MyNetworkTV|MNTV]] affiliate [[KMSG-LD]], [[PBS]] affiliate [[KVPT]], [[Telemundo]] [[Owned-and-operated station|O&O]] [[KNSO]], [[Univision]] [[Owned-and-operated station|O&O]] [[KFTV-DT]], and [[Estrella TV]] affiliate [[KGMC (TV)|KGMC]].
+
+In partnership with the City of [[Clovis, California|Clovis]], the City of Fresno opened the Community Media Access Collaborative (CMAC) in April 2012, a [[public, educational, and government access|public, education and government access]] television station.
+
+==Transportation==
+[[File:Fresno Area Express Q BRT bus.jpg|thumb|left|[[Fresno Area Express]] bus]]
+[[Public transit]] is provided by the [[Fresno Area Express]] (FAX) system. It consists entirely of buses serving the greater Fresno metropolitan area. Regional bus service is provided by the Fresno County Rural Transit Agency and [[Kings County, California|Kings County’s]] Kings Area Rural Transit (KART). Intercity and long-distance bus service is provided by [[Greyhound Lines|Greyhound]] and [[Orange Belt Stages]]. [[FlixBus]] utilizes a stop in [[Avenal]], which is approximately an hour away from Fresno.  Beginning May 2015, Fresno has also been served by the [[Yosemite Area Regional Transportation System]], with connecting routes available in the [[Yosemite Valley]].<ref name="Sierra Star Yosemite">{{cite news |last=Wilkinson |first=Brian |date=2015-05-22 |title=Fresno-Yosemite bus service begins Saturday |url=http://www.sierrastar.com/2015/05/22/73267_fresno-yosemite-bus-service-begins.html?rh=1 |newspaper=Sierra Star |access-date=2015-05-27 |archive-url=https://web.archive.org/web/20150528052536/http://www.sierrastar.com/2015/05/22/73267_fresno-yosemite-bus-service-begins.html?rh=1 |archive-date=May 28, 2015 |url-status=dead |df=mdy-all }}</ref><ref name="Bee bus route">{{cite news |last=George |first=Carmen |date=2015-05-20 |title=New bus route from Fresno to Yosemite starts Saturday |url=http://www.fresnobee.com/news/local/article21522318.html |newspaper=Fresno Bee |access-date=2015-05-27 |archive-url=https://web.archive.org/web/20180824101941/https://www.fresnobee.com/news/local/article21522318.html |archive-date=August 24, 2018 |url-status=live }}</ref> In February 2018, [[Fresno Area Express]]'s [[bus rapid transit]] service called "Q" began. The first route runs south on Blackstone Ave, through Downtown Fresno, and East along Kings Canyon Boulevard at 10 minute frequencies.<ref name="Department of Transportation | FAX Q">{{cite web
+|url = https://www.fresno.gov/transportation/fax/fax-q/
+|title = Department of Transportation: FAX Q
+|publisher = City of Fresno Department of Transportation
+|access-date = 2020-02-17
+|archive-url = https://web.archive.org/web/20190711232126/https://www.fresno.gov/transportation/fax/fax-q/ |archive-date = July 11, 2019}}</ref>
+
+The city once provided [[tram|trolley]] service during the late 19th and early 20th century. Known as the Fresno City Railway Company and later the Fresno Traction Company, the service operated horse-drawn streetcars from 1887 to 1901. Electric streetcars were introduced in 1903. The electric streetcars were used until 1939.<ref>{{cite web
+  |url    = http://www.valleyhistory.org/PandP/fultonstreet.html
+  |title   = Fulton Berry's Street: From Street Cars To No Cars At All, Almost
+  |publisher = Fresno Historical Society
+  |access-date = 2007-06-06
+  |archive-url = https://web.archive.org/web/20070223054804/http://valleyhistory.org/PandP/fultonstreet.html |archive-date = February 23, 2007}}</ref>
+
+===Airports===
+[[File:FAT terminal building, 11-2013.jpg|thumb|right|[[Fresno Yosemite International Airport]] terminal]]
+[[Fresno Yosemite International Airport]] (airport code: FAT), formerly known as Fresno Air Terminal, provides regularly scheduled commercial airline service. The airport serves an estimated 1.3&nbsp;million passengers annually.
+
+[[Fresno Chandler Executive Airport]] (airport code: FCH) is {{convert|2|mi|km|abbr=on}} southwest of Downtown Fresno. Built in the 1920s by the [[Works Projects Administration]], it is one of the oldest operational airports in California. The airport currently serves as a general aviation airport.
+
+[[Sierra Sky Park Airport]] (airport code: E79) in Northwest Fresno is a privately owned airport, but is open to the public. Extra-wide streets surrounding the airport allow for residents of the community to land, taxi down extra-wide avenues, and park in the driveway at home, one of the first such communities in the United States.<ref>{{cite magazine | url=http://www.time.com/time/magazine/article/0,9171,898437,00.html | title=The Front-Door Fliers | magazine=Time Magazine | date=December 10, 1965 | access-date=2007-01-22 | archive-url=https://web.archive.org/web/20071101093954/http://www.time.com/time/magazine/article/0,9171,898437,00.html | archive-date=November 1, 2007 | url-status=dead }}</ref>
+
+===Rail===
+[[File:2009-0725-CA-FresnoSantaFeStation (cropped).jpg|thumb|left|Historic [[Santa Fe Passenger Depot (Fresno, California)|Santa Fe Station]] in Downtown Fresno]]
+Passenger rail service is provided by [[Amtrak]] ''[[San Joaquins]]''. The main passenger rail station is the renovated historic [[Santa Fe Passenger Depot (Fresno)|Santa Fe Railroad Depot]] in Downtown Fresno. The Bakersfield-Stockton mainlines of the [[BNSF|Burlington Northern Santa Fe Railway]] and [[Union Pacific Railroad]] railroads cross in Fresno, and both railroads maintain railyards within the city; the [[San Joaquin Valley Railroad]] also operates former Southern Pacific branch lines heading west and south out of the city. The city of Fresno is planned to be served by the future [[California High-Speed Rail]].<ref>{{cite web|url=http://www.thefederalregister.com/d.p/2009-10-01-E9-23749 |archive-url=https://web.archive.org/web/20111002093346/http://www.thefederalregister.com/d.p/2009-10-01-E9-23749 |url-status=dead |archive-date=2011-10-02 |title=High Speed Train Project |work=DEPARTMENT OF TRANSPORTATION }}</ref>
+
+===Highways===
+[[File:Fresno CA Van Ness portal.JPG|thumb|right|The historic gate on Van Ness Ave.]]
+Fresno is served by [[California State Route 99|State Route 99]], the main north–south freeway that connects the major population centers of California’s Central Valley. [[California State Route 168|State Route 168]], the Sierra Freeway, heads east to the city of [[Clovis, California|Clovis]] and [[Huntington Lake]]. [[California State Route 41|State Route 41]] (Yosemite Freeway/Eisenhower Freeway) comes into Fresno from [[Atascadero]] in the south, and then heads north to [[Yosemite National Park]]. [[California State Route 180|State Route 180]] (Kings Canyon Freeway) comes from the west via [[Mendota, California|Mendota]], and then east through the city of [[Reedley, California|Reedley]] to [[Kings Canyon National Park]].
+
+Fresno is the largest U.S. city not directly linked to an [[Interstate highway]].<ref>{{cite web|url=https://www.census.gov |title=U.S. Census website |publisher=U.S. Census Bureau |df=mdy }}</ref> When the Interstate Highway System was created in the 1950s, the decision was made to build what is now [[Interstate 5 (California)|Interstate 5]] on the west side of the Central Valley, and thus bypass many of the population centers in the region, instead of upgrading what is now State Route 99.<ref>[http://www.cahighways.org/001-008.html#005|California Highways-Routes 1-8] {{Webarchive|url=https://web.archive.org/web/20101120105136/http://cahighways.org/001-008.html#005%7CCalifornia |date=November 20, 2010 }}. California Highways. Accessed 2011-01-01</ref> Due to rapidly rising population and traffic in cities along SR 99, as well as the desirability of Federal funding, much discussion has been made to upgrade it to interstate standards and eventually incorporate it into the interstate system, most likely as [[List of future Interstate Highways#Interstate 7 or 9|Interstate 7 or 9]]. Major improvements to signage, lane width, median separation, vertical clearance, and other concerns are currently underway.
+
+==Notable people==
+{{Main|List of people from Fresno, California}}
+
+==Twin towns – sister cities==
+Fresno's [[Sister city|sister cities]] are:<ref>{{cite web |title=Home|url=http://fresnosistercities.com/|publisher=Fresno Sister Cities|access-date=2020-11-30}}</ref><ref name="city-search">{{cite web |title=City Search: Fresno, California|url=https://sistercities.org/city-search|publisher=Sister Cities International|access-date=2021-02-24}}</ref>
+
+*{{flagicon|JPN}} [[Kōchi (city)|Kōchi]], Japan (1965)<ref>{{cite web |title=Kochi, JAPAN |url=http://fresnosistercities.com/city/kochi-japan/ |website=Sister Cities |publisher=Fresno Sister Cities |access-date=15 September 2021}}</ref><ref name="city-search"/>
+*{{flagicon|GER}} [[Münster]], Germany (1984)<ref>{{cite web |title=Münster, GERMANY |url=http://fresnosistercities.com/city/munster-germany/ |website=Sister Cities |publisher=Fresno Sister Cities |access-date=15 September 2021}}</ref><ref name="city-search"/>
+*{{flagicon|Tanzania}} [[Morogoro]], Tanzania (1992)<ref name="city-search"/>
+*{{flagicon|ITA}} [[Verona]], Italy (2000, friendship not sister)<ref>{{cite web |title=Verona, ITALY |url=http://fresnosistercities.com/city/verona-italy/ |website=Sister Cities |publisher=Fresno Sister Cities |access-date=15 September 2021}}</ref><ref name="city-search"/><ref>{{cite web |title=Grandi Eventi - Gemellaggi e Patti d'Amicizia|url=https://www.comune.verona.it/nqcontent.cfm?a_id=5485&tt=verona_agid|website=comune.verona.it|publisher=Verona|language=it|access-date=2020-11-30}}</ref>
+*{{flagicon|ARM}} [[Vagharshapat]] (also known as Etchmiadzin), Armenia (2009)<ref>{{cite web |title=Etchmiadzin, ARMENIA |url=http://fresnosistercities.com/city/etchmiadzin-armenia/ |website=Sister Cities |publisher=Fresno Sister Cities |access-date=15 September 2021}}</ref><ref name="city-search"/><ref>[https://ejmiatsin.am/relation-detail/11/ Official Website of the Municipality of Ejmiatsin]</ref>
+*{{flagicon|FRA}} [[Châteauroux]], France (2016)<ref>{{cite web |title=Châteauroux, FRANCE |url=http://fresnosistercities.com/city/chateauroux-france/ |website=Sister Cities |publisher=Fresno Sister Cities |access-date=15 September 2021}}</ref><ref name="city-search"/>
+*{{flagicon|CHN}} [[Taishan, Guangdong|Taishan]], China<ref>{{cite web |title=Taishan, CHINA |url=http://fresnosistercities.com/city/taishan-china/ |website=Sister Cities |publisher=Fresno Sister Cities |access-date=15 September 2021}}</ref><ref name="city-search"/>
+
+*{{flagicon|israel}} [[Afula|Afula-Gilboa]], Israel<ref name="city-search"/>
+*{{flagicon|Kazakhstan}} [[Taraz]] (formerly known as Djambul; relationship currently inactive), Kazakhstan<ref name="city-search"/><ref>{{cite web |title=VisitFresnoCounty.org - About Fresno County |url=https://www.visitfresnocounty.org/about-fresno-county/sister-cities/ |website=www.visitfresnocounty.org |access-date=15 September 2021 |language=en-us}}</ref>
+*{{flagicon|MEX}} [[Torreon]], Mexico<ref name="city-search"/>
+
+==See also==
+* [[Environmental issues in Fresno, California]]
+* [[Fresno County Library]]
+* [[Fresno Police Department]]
+* [[2017 Fresno shootings]]
+* [[2019 Fresno shooting]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|30em}}
+
+==Bibliography==
+{{See also|Timeline of Fresno, California#Bibliography|l1=Bibliography of the history of Fresno, California}}
+
+==External links==
+{{sister project links|voy=Fresno}}
+*{{Official website}}
+*{{curlie|Regional/North_America/United_States/California/Localities/F/Fresno/}}
+*Community Service Club: [http://www.northfresnorotary.org/ North Fresno Rotary Club of Fresno]
+
+{{Navboxes|list1= 
+{{Fresno}}
+{{Fresno County, California}}
+{{San Joaquin Valley}}
+{{California county seats}}
+{{California}}
+{{California cities and mayors of 100,000 population}}
+}}
+{{USPopulousCities}}
+{{Authority control}}
+
+[[Category:Fresno, California| ]]
+[[Category:1872 establishments in California]]
+[[Category:1885 establishments in California]]
+[[Category:Armenian diaspora communities in the United States]]
+[[Category:Cities in Fresno County, California]]
+[[Category:County seats in California]]
+[[Category:Incorporated cities and towns in California]]
+[[Category:Populated places established in 1872]]
+[[Category:Populated places established in 1885]]
+[[Category:San Joaquin Valley]]
+[[Category:Railway towns in California]]
+[[Category:Chicano and Mexican neighborhoods in California]]

@@ -1,0 +1,60 @@
+{{Refimprove|date=January 2008}}
+{{Infobox musical artist  <!-- See Wikipedia:WikiProject Musicians -->
+| name                = Zipera
+| image               = 
+| caption             = 
+| image_size          = 250
+| landscape           = yes
+| background          = group_or_band
+| alias               = 
+| origin              = [[Warsaw]], [[Poland]]
+| genre               = [[hip hop music|Hip hop]]
+| years_active        = 1999–2005, 2008–2009, 2011
+| label               = Baza Label, [[Prosto]]
+| associated_acts     = ZIP Skład, TPWC, Pokój z Widokiem na Wojnę, RaggaBangg
+| website             = 
+| current_members     = Pono<br/>Koras<br/>Fu
+| past_members        = 
+}}
+'''Zipera''' is a [[Polish hip hop]] group connected with [[WWO]] and Fundacja in a larger crew called ZIP Skład.
+
+==Discography==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:15em;"| Title
+! scope="col" rowspan="2" | Album details
+! scope="col" colspan="1" | Peak chart positions
+! scope="col" rowspan="2" | Sales
+|-
+! scope="col" style="width:3em;font-size:90%;" |POL<br/><ref name="onyx">{{cite web|url=http://olis.onyx.pl/listy/index.asp?idlisty=190&lang=pl|title=Oficjalna lista sprzedaży :: OLiS - Official Retail Sales Chart|publisher=olis.onyx.pl|access-date=2016-05-15}}</ref>
+|-
+! scope="row" |''O.N.F.R.''
+|
+* Released: June 24, 2000<ref name="hiphopedia">{{cite web|url=http://hiphopedia.info/index.php?site=show_album&id=128|title=HiPHOPedia :: e-Ncyklopedia polskiego hip-hopu|publisher=hiphopedia.info|access-date=2016-05-15}}</ref>
+* Label: Baza Label/Pomaton EMI
+* Formats: CD
+|| —
+|
+* POL: 10,000+<ref name="interia">{{cite web|url=http://hiphop-kaska.w.interia.pl/sklady%20polskie.htm|title=.:: Hip Hop ::.|publisher=hiphop-kaska.w.interia.pl|access-date=2016-05-15}}</ref>
+|-
+! scope="row" |''Druga strona medalu''
+|
+* Released: February 14, 2004<ref name="hiphopedia2">{{cite web|url=http://hiphopedia.info/index.php?site=show_album&id=127|title=HiPHOPedia :: e-Ncyklopedia polskiego hip-hopu|publisher=hiphopedia.info|access-date=2016-05-15}}</ref>
+* Label: Prosto/Pomaton EMI
+* Formats: CD, LP,<ref name="hiphopedia3">{{cite web|url=http://hiphopedia.info/index.php?site=show_album&id=130|title=HiPHOPedia :: e-Ncyklopedia polskiego hip-hopu|publisher=hiphopedia.info|access-date=2016-05-15}}</ref> digital download<ref name="apple">{{cite web|url=https://itunes.apple.com/us/artist/zipera/id80711022|title=Zipera on iTunes|publisher=itunes.apple.com|access-date=2016-05-15}}</ref> 
+|| 8
+|
+|-
+| colspan="20" style="font-size:90%" | "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==References==
+{{Reflist|3}}
+
+{{Authority control}}
+
+[[Category:Polish hip hop groups]]
+
+
+{{hiphop-band-stub}}
+{{Poland-band-stub}}

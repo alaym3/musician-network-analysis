@@ -1,0 +1,83 @@
+{{Short description|American judge}}
+{{about|the judge|other people with the same name|Noah Davis (disambiguation)}}
+{{Use mdy dates|date=January 2021}}
+{{Infobox officeholder
+|name = Noah Davis
+|image = Noah Davis.jpg
+|office = Judge for the [[New York Supreme Court]]
+|term_start = 1872
+|term_end = 1887
+|office2 = [[United States Attorney for the Southern District of New York]]
+|term_start2 = July 20, 1870
+|term_end2 = December 31, 1872
+|state3 = [[New York (state)|New York]]
+|district3 = [[New York's 28th congressional district|28th]]
+|term_start3 = March 4, 1869
+|term_end3 = July 15, 1870
+|predecessor3 = [[Lewis Selye]]
+|successor3 = [[Charles H. Holmes]]
+|office4 = Judge for the [[New York Supreme Court]]
+|term_start4 = 1857
+|term_end4 = 1868
+|birth_date = {{Birth date|1818|09|10}}
+|birth_place = [[Haverhill, New Hampshire]]
+|death_date = {{Death date and age|1902|03|20|1818|09|10}}
+|death_place = [[New York City]], New York
+|party = [[United States Republican Party|Republican]]
+|signature = Signature of Noah Davis.png
+}}
+
+'''Noah Davis''' (September 10, 1818 – March 20, 1902) was an American lawyer and politician from [[New York (state)|New York]].
+
+==Life==
+His family moved to [[Albion, Oswego County, New York|Albion, New York]], in 1825. He attended Lima Seminary in [[Buffalo, New York]]. Then he studied law in [[Lewiston, New York]], was admitted to the [[bar (law)|bar]] in 1841, and practiced in [[Gainesville (town), New York|Gainesville, New York]], and Buffalo. He returned to Albion in February 1844 and practiced law in partnership with [[Sanford E. Church]].
+
+In 1857, he was appointed to the [[New York Supreme Court]] (8th District) to fill the vacancy caused by the resignation of James Mullett, and was subsequently elected to two eight-year terms, but resigned in 1868 after his election to Congress. He was [[ex officio]] a judge of the [[New York Court of Appeals]] in 1865.
+
+Davis was elected as a [[Republican Party (United States)|Republican]] to the [[41st United States Congress]], and served from March 4, 1869, to July 15, 1870, when he resigned. Davis was appointed by President [[Ulysses S. Grant]] [[U.S. Attorney for the Southern District of New York]] and held that office from July 20, 1870, to December 31, 1872, when he resigned.
+
+In November 1872, he was elected to a 14-year term on the [[New York Supreme Court]] (1st District). He presided over the trial of [[William M. Tweed]] in 1873, whose defense counsel included [[David Dudley Field II]] and [[Elihu Root]].<ref>{{cite book|last=Allen|first=Oliver E.|title=The Tiger: The Rise and Fall of Tammany Hall|date=1993|publisher=Addison-Wesley Publishing Company|pages=[https://archive.org/details/tigerrisefalloft00alle/page/138 138-139]|isbn=0-201-62463-X|url=https://archive.org/details/tigerrisefalloft00alle/page/138|url-access=registration}}</ref> After his term expired, he resumed the practice of law in [[New York City]] and was a member of the council of the University of the City of New York (now [[New York University]].)
+
+He was buried at [[Mount Albion Cemetery]] in Albion.
+
+==References==
+{{CongBio|D000126}}
+*[https://timesmachine.nytimes.com/timesmachine/1902/03/21/101942952.pdf ''EX-JUSTICE DAVIS DEAD''], ''The New York Times'', March 21, 1902
+*[https://books.google.com/books?id=E3sFAAAAQAAJ&pg=PA352 ''The New York Civil List''], compiled by Franklin Benjamin Hough (p.&nbsp;352; Weed, Parsons and Co., 1858)
+*[http://www.courts.state.ny.us/history/elecbook/thereshallbe/pg93.htm Court of Appeals judges]
+{{reflist}}
+
+==External links==
+* {{Find a Grave|7575151}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{US House succession box |
+  state=New York |
+  district=28 |
+  before=[[Lewis Selye]] |
+  after=[[Charles H. Holmes]] |
+  years=1869–1870
+}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Davis, Noah}}
+[[Category:1818 births]]
+[[Category:1902 deaths]]
+[[Category:People from Haverhill, New Hampshire]]
+[[Category:New York (state) Republicans]]
+[[Category:William M. Tweed]]
+[[Category:Members of the United States House of Representatives from New York (state)]]
+[[Category:People from Albion, Orleans County, New York]]
+[[Category:Politicians from New York City]]
+[[Category:New York Supreme Court Justices]]
+[[Category:United States Attorneys for the Southern District of New York]]
+[[Category:Judges of the New York Court of Appeals]]
+[[Category:Republican Party members of the United States House of Representatives]]
+[[Category:People from Gainesville, New York]]
+[[Category:People from Lewiston, New York]]
+[[Category:19th-century American politicians]]
+[[Category:Lawyers from New York City]]
+[[Category:19th-century American judges]]

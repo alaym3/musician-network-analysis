@@ -1,0 +1,52 @@
+{{Hatnote|"Firehall" redirects here. For the Canadian performing arts centre, see [[Firehall Arts Centre]]. "Fireman's hall" and "Firemen's hall" redirect here. For the hall in Alfred, New York see [[Fireman's Hall (New York)]]. For the hall in New York City, see [[Firemen's Hall (New York)]]. "Firehouse" redirects here. For other uses, see [[Firehouse (disambiguation)]].}}
+{{more citations needed|date=April 2009}}
+<!--Please do not replace this text with multiple templates, which take up unnecessary space-->__NOTOC__
+{{multiple image|perrow = 2|total_width=400
+| align     = right
+| direction = horizontal
+| image1    = FDNY Engine 67 firehouse.jpg
+| image2    = Feuerwache-40-Osthafen-2013-Ffm-524.jpg
+| image3    = Whitchurch - Fire Station - geograph.org.uk - 1425103.jpg
+| image4    = Oxbow 044.JPG
+| footer    = Fire stations of varying sizes and architecture.
+}}
+[[File:Fire engine in front of the fire station in Tomaszów Mazowiecki, Warszawska Street. Poland.ogg|thumb|200px|right|Fire engine in front of the fire station in [[Tomaszów Mazowiecki]], Poland]]
+
+A '''fire station''' (also called a '''fire house''', '''fire hall''', '''firemen's hall''', or '''engine house''') is a structure or other area for storing [[firefighting]] apparatus such as [[fire apparatus|fire engines]] and related vehicles, [[personal protective equipment]], [[fire hose]]s and other specialized equipment. Fire stations frequently contain working and living space for the [[firefighter]]s and support staff.
+
+In large US cities, fire stations are often named for the primary fire companies and apparatus housed there, such as "Ladder 49". Other fire stations are named based on the district, neighborhood, town or village where they are located, or given a number.
+
+==Facilities==
+[[File:MUTCD W11-8.svg|thumb|200px|right|American [[Manual on Uniform Traffic Control Devices|MUTCD]] sign W11-8 warning of a fire station]]
+A fire station will at a minimum have a garage for housing at least one [[fire engine]]. There will also be storage space for equipment, though the most important equipment is stored in the vehicle itself. The approaches to a fire station are often posted with warning signs, and there may be a [[traffic signal]] to stop or warn traffic when apparatus are leaving or returning to the station.
+
+Fire stations have often been built with a tower, for purposes that have changed with time. A [[drill tower]] is used for practicing high-rise rescue, while a [[hose tower]] is used for hanging hoses to dry to prevent rot.<ref name="ar"/> Historically, towers were lookouts for spotting fires.<ref name="ar">{{cite web | url=https://www.architectural-review.com/essays/typology-fire-stations/10002048.article | publisher=The Architectural Review | title= Typology: Fire Stations | date = 2016-02-03 | access-date = 2019-05-07}}</ref>
+
+Activities at a fire station include regular inspection and cleaning of the apparatus and equipment, and training drills in which the firefighters practice their skills. Some fire companies also host public activities at the fire station during events such as a "fire prevention week", and the facility may also be used for fund-raising by the "firemen's association", "[[fire buff]]s", or "fire auxiliary".
+
+===Occupied stations===
+If the station is occupied full-time by career [[firefighter]]s, it will contain living quarters and work areas, where they wait until a callout comes through. Career firefighters are usually able to sleep during a night shift, so these stations will also have dormitories. There will be an alarm system to alert them of an [[Emergency telephone number|emergency call]], and to give some indication of where and what the emergency is. In some small fire departments, the only alarm may be a telephone for receiving calls.
+
+Many fire stations were built with the living quarters above the garage. This arrangement is common for fire stations built in a crowded city. The [[fireman's pole]] was invented to allow firefighters to quickly descend to the garage. In modern times, agencies such as the [[National Fire Protection Association]] have argued that these pose a safety hazard.<ref>{{cite news|last=Newcomb|first=Tim|date=23 December 2010|title=Sorry, Kids. Fire Stations Are Ditching Fire Poles|work=Time Magazine|url=http://www.time.com/time/nation/article/0,8599,2039352,00.html|url-status=dead|archive-url=https://web.archive.org/web/20101225031330/http://www.time.com/time/nation/article/0,8599,2039352,00.html|archive-date=December 25, 2010}}</ref> Modern fire stations are often built with the living quarters on the same level as the garage.
+
+===Unoccupied stations===
+Some fire stations are not regularly occupied, with the firefighting carried out by [[volunteer fire department|volunteer]] or [[retained firefighters]]. In this case, the firefighters are summoned to the fire station by [[Siren (noisemaker)|siren]], [[radio]] or [[pager]]s, where they will then deploy the fire engine. These fire stations may still have office space for the firefighters, a library of reference and other materials, and a "trophy wall" or case where the firefighters display memorabilia.
+
+== See also ==
+*[[List of fire stations]]
+* [[Fire department]] 
+* [[Fireman's pole]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Fire stations}}
+{{Wikiquote}}
+{{Wiktionary}}
+
+{{Fire fighting|state=collapsed}}
+{{Authority control}}
+
+[[Category:Firefighting]]
+[[Category:Fire stations| ]]

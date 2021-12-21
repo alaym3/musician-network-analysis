@@ -1,0 +1,120 @@
+{{about|The Australian musician|American football coach|Will Wagner|}}
+{{EngvarB|date=May 2020}}
+{{Use dmy dates|date=May 2020}}
+{{Infobox musical artist
+| name            = Wil Wagner
+| image           =
+| landscape       = yes
+| caption         =
+| image_size      =
+| birth_date      =
+| birth_place     = [[Melbourne]], [[Australia]]
+| origin          =
+| instrument      =
+| genre           =
+| occupation      =
+| years_active    = 2008–present
+| label           = Poison City Records
+| associated_acts = [[The Smith Street Band]]
+| website         = 
+}}
+'''Wil Wagner''' is an Australian singer, songwriter, guitar and keyboard player from [[Melbourne]]. He is the lead singer of [[The Smith Street Band]].
+
+==Career==
+In April 2008, Wagner released ''Us Boys Run'', credited to Wil Wagner & Friends.<ref>{{cite web|url=https://music.apple.com/au/album/us-boys-run/1442173993|title= Us Boys Run DD|website=Apple Music|date=April 2008|accessdate=11 May 2020}}</ref> 
+
+In 2010, Wagner self-released the EP ''What Started Off With Trespassing''. 
+
+In March 2013, Wagner released ''Laika''.<ref>{{cite web|url=https://music.apple.com/au/album/laika/1441856797|title=Laika DD |website=Apple Music|date=March 2013|accessdate=11 May 2020}}</ref>
+
+In July 2015, Wagner released ''I Hope I Don't Come Across Intense'' on cassette only. In April 2020, the album was released  on other formats, which saw it debut at number 49 on the [[ARIA Charts]]; thus becoming Wagner's first solo charting album. 
+
+In February 2019, Wagner issued a public statement amid allegations of emotional abuse and support acts pulling out of Wagner's band (The Smith Street Band) national tour. Wagner issued a statement on his band's official Instagram account after emails dating back to 2013 were published on social media. Wagner said "I'm not hiding from anything, I said some incredibly hurtful things that I completely regret. I ask that you make up your own minds based on what has actually been said rather than form an opinion based on someone else's version." The band's statement went on to thank people for their support.<ref>{{cite web|url=https://www.smh.com.au/entertainment/music/smith-street-band-s-wil-wagner-responds-to-claims-of-emotional-abuse-20190227-p510mt.html|title=Smith Street Band's Wil Wagner responds to claims of emotional abuse |website=[[Sydney Morning Herald]]|date=February 2019 |accessdate=11 May 2020}}</ref>
+
+In September 2020, Wagner released ''Spiralling'', a 7 track mini-album recorded at his bands off grid, solar powered studio, just before stage three restrictions were placed on regional Victoria. ''Spiralling'' was produced by Wil Wagner and recorded and mixed by The Smith Street Band's drummer Matt Bodiam and mastered by Joe Carra at Crystal Mastering.<ref>{{cite web|url=https://www.jbhifi.com.au/products/cd-wagner-wil-spiralling-cd|title=WIL WAGNER Spiralling |website=JBHiFi|accessdate=12 September 2020}}</ref>
+
+In October 2021, Wagner released ''Live from a Beach House in the Rain'', a live set recorded by Wagner in the spare room of a beach house. The album debuted at number 14 on the ARIA charts.<ref>{{cite web|url=https://www.aria.com.au/charts/news/music-of-the-spheres-hands-coldplay-seventh-aria-1-album|title=Music Of The Spheres hands Coldplay seventh ARIA #1 album|website=[[ARIA Charts]]|date=22 October 2021|access-date=23 October 2021}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of studio albums, with selected details
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2" tyle="width:12em;"| Details
+! scope="col" colspan="1"| Peak chart positions
+|-
+!scope="col" style="width:3em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS">{{cite web|url=https://australian-charts.com/showinterpret.asp?interpret=Wil+Wagner|title=Discography Wil Wagner|website=australian-charts.com|access-date=25 October 2021}}</ref>
+|-
+!scope="row"|''Us Boys Run'' {{small|(as Wil Wagner & Friends)}}
+|
+* Released: April 2008
+* Label: Corsican <small>(COR001)</small>
+* Format: CD
+| —
+|-
+!scope="row"|''Laika''
+|
+* Released: June 2013
+* Label: Poison City <small>(PCR063)</small>
+* Format: CD, digital download, streaming, vinyl
+| —
+|-
+!scope="row"|''I Hope I Don't Come Across Intense''
+|
+* Released: July 2015
+* Label: Business Casual <small>(BC-006)</small> 
+* Format: Cassette
+| 49
+|-
+!scope="row"|''Spiralling''
+|
+* Released: 4 September 2020
+* Label: Pool House <small>(PHR030CD)</small> 
+* Format: CD, LP digital download, streaming
+| 9
+|}
+
+===Live albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of live albums, with selected details
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="1"| Peak chart positions
+|-
+!scope="col" style="width:3em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS"/>
+|-
+!scope="row"|''Live from a Beach House in the Rain''
+|
+* Released: 14 October 2021
+* Label: Self-released
+* Format: Digital download, streaming
+| 14
+|}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of extended plays, with selected details
+! Title
+! Details
+|-
+!scope="row"|''What Started Off With Trespassing''
+|
+* Released: 2010
+* Label: Will Wagner <small>(WW:001)</small>
+* Formats: CD
+|-
+!scope="row"|''Demo (2011)''
+|
+* Released: 2013
+* Label: Doom Cat Records <small>(DRC011)</small>
+* Formats: Digital download
+|}
+
+==References==
+{{Reflist}}
+{{Authority control}}
+
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century Australian musicians]]
+[[Category:Living people]]
+[[Category:Musicians from Melbourne]]

@@ -1,0 +1,264 @@
+{{Short description|Open-source Java library to serialize and deserialize Java objects to and from JSON}}
+{{unreferenced|date=August 2020}}
+{{Infobox software
+| name                   = Google Gson
+| logo                   =
+| screenshot             =
+| caption                =
+| developer              = [[Google]]
+| released               = {{Start date and age|2008|05|22}}
+| latest release version = 2.8.8
+| latest release date    = {{Start date and age|2021|08|20|df=yes/no}}
+| programming language   = [[Java (programming language)|Java]]
+| operating system       = [[Cross-platform]]
+| license                = [[Apache License 2.0]]
+| website                = {{url|https://github.com/google/gson}}
+}}
+{{Portal|Free and open-source software|Computer programming}}
+'''Gson''' (also known as Google Gson) is an [[open-source software|open-source]] [[Java (programming language)|Java]] library to [[serialize]] and deserialize Java objects to (and from) [[JSON]].
+
+==History==
+The Gson library was originally developed for internal purposes of Google, and Version 1.0 was later released on May 22, 2008 under the terms of [[Apache License 2.0]]. The latest version, 2.8.8, was released on Aug 20, 2021.
+
+==Version history==
+* Aug 20, 2021: Version 2.8.8
+* May 25, 2021: Version 2.8.7
+* Oct 04, 2019: Version 2.8.6
+* May 21, 2018: Version 2.8.5
+* May 1, 2018: Version 2.8.4
+* April 27, 2018: Version 2.8.3
+* Sept 19, 2017: Version 2.8.2
+* May 30, 2017: Version 2.8.1
+* October 27, 2016: Version 2.8.0
+* June 14, 2016: Version 2.7
+* February 26, 2016: Version 2.6.2
+* February 11, 2016: Version 2.6.1
+* February 11, 2016: Version 2.6
+* Nov 24, 2015: Version 2.5
+* Oct 4, 2015: Version 2.4
+* Nov 20, 2014: Version 2.3.1
+* Aug 11, 2014: Version 2.3
+* May 13, 2013: Version 2.2.4
+* April 12, 2013: Version 2.2.3
+* July 2, 2012: Version 2.2.2
+* May 5, 2012: Version 2.2.1
+* May 5, 2012: Version 2.2
+* December 31, 2011: Version 2.1
+* November 13, 2011: Version 2.0
+* April 13, 2011: Version 1.7.1
+* April 12, 2011: Version 1.7
+* November 24, 2010: Version 1.6
+* August 19, 2010: Version 1.5
+* October 9, 2009: Version 1.4
+* April 1, 2009: Version 1.3
+* January 12, 2009: Version 1.3 Beta
+* August 29, 2008: Version 1.2
+* July 18, 2008: Version 1.1.1
+* July 1, 2008: Version 1.1
+* June 17, 2008: Version 1.0.1
+* May 22, 2008: Version 1.0
+
+==Usage==
+Gson uses [[reflection (computer science)|reflection]], so it does not require classes being serialized or de-serialized to be modified. By default, it just needs the class to have defined default no-args constructor (which can be worked around, see [[#Features|Features]]).
+
+The following example demonstrates the most basic usage of Gson when serializing a sample object:
+<syntaxhighlight lang="java">
+module GsonExample {
+    requires gson;
+    requires java.sql; // Required by gson
+    exports Person;
+    exports Car;
+}
+</syntaxhighlight>
+<syntaxhighlight lang="java">
+package Car;
+
+public class Car {
+    public String manufacturer;
+    public String model;
+    public double capacity;
+    public boolean accident;
+
+    public Car() {
+    }
+
+    public Car(String manufacturer, String model, double capacity, boolean accident) {
+        this.manufacturer = manufacturer;
+        this.model = model;
+        this.capacity = capacity;
+        this.accident = accident;
+    }
+
+    @Override
+    public String toString() {
+        return ("Manufacturer: " + manufacturer + ", " + "Model: " + model + ", " + "Capacity: " + capacity + ", " + "Accident: " + accident);
+    }
+}
+</syntaxhighlight>
+<syntaxhighlight lang="java">
+package Person;
+
+import Car.Car;
+
+public class Person {
+    public String name;
+    public String surname;
+    public Car[] cars;
+    public int phone;
+    public transient int age;
+
+    public Person() {
+    }
+
+    public Person(String name, String surname, int phone, int age, Car[] cars) {
+        this.name = name;
+        this.surname = surname;
+        this.cars = cars;
+        this.phone = phone;
+        this.age = age;
+    }
+
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
+        sb.append("Name: ").append(name).append(" ").append(surname).append("\n");
+        sb.append("Phone: ").append(phone).append("\n");
+        sb.append("Age: ").append(age).append("\n");
+        int i = 0;
+        for (Car item : cars) {
+            i++;
+            sb.append("Car ").append(i).append(": ").append(item).append("\n");
+        }
+        return sb.toString();
+    }
+}
+</syntaxhighlight>
+
+After calling
+<syntaxhighlight lang="java">
+package Main;
+
+import Car.Car;
+import Person.Person;
+import com.google.gson.Gson;
+
+public class Main {
+    public static void main(String[] args) {
+        Gson gson = new Gson();
+        Car audi = new Car("Audi", "A4", 1.8, false);
+        Car skoda = new Car("Škoda", "Octavia", 2.0, true);
+        Car[] cars = {audi, skoda};
+        Person johnDoe = new Person("John", "Doe", 2025550191, 35, cars);
+        System.out.println(gson.toJson(johnDoe));
+    }
+}
+</syntaxhighlight>
+
+you will get this output:
+<syntaxhighlight lang="json">
+{
+   "name":"John",
+   "surname":"Doe",
+   "cars":[
+      {
+         "manufacturer":"Audi",
+         "model":"A4",
+         "capacity":1.8,
+         "accident":false
+      },
+      {
+         "manufacturer":"Škoda",
+         "model":"Octavia",
+         "capacity":2.0,
+         "accident":true
+      }
+   ],
+   "phone":2025550191
+}
+</syntaxhighlight>
+
+Since the Person's field "age" is marked as transient, it is not included in the output.
+
+To deserialize output produced by last example, you can execute the following code:
+<syntaxhighlight lang="java">
+package Main;
+
+import Person.Person;
+import com.google.gson.Gson;
+
+public class Main {
+    public static void main(String[] args) {
+        Gson gson = new Gson();
+        String json = "{\"name\":\"John\",\"surname\":\"Doe\",\"cars\":[{\"manufacturer\":\"Audi\",\"model\":\"A4\"," +
+                "\"capacity\":1.8,\"accident\":false},{\"manufacturer\":\"Škoda\",\"model\":\"Octavia\",\"capacity\"" +
+                ":2.0,\"accident\":true}],\"phone\":2025550191}";
+        Person johnDoe = gson.fromJson(json, Person.class);
+        System.out.println(johnDoe.toString());
+    }
+}
+</syntaxhighlight>
+
+And the following output will be generated:
+<syntaxhighlight lang="text">
+Name: John Doe
+Phone: 2025550191
+Age: 0
+Car 1: Manufacturer: Audi, Model: A4, Capacity: 1.8, Accident: false
+Car 2: Manufacturer: Škoda, Model: Octavia, Capacity: 2.0, Accident: true
+</syntaxhighlight>
+
+The following example demonstrates how to pretty print a Json using Gson library.
+
+<syntaxhighlight lang="java">
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.Arrays;
+import java.util.List;
+import lombok.SneakyThrows;
+
+public class PrettyPrintExample {
+  //SneakyThrows annotation will internally declare all checked exceptions.
+  @SneakyThrows
+  public static void main(String[] args) {
+    List<String> cars= Arrays.asList("Fiat","BMW","Lamborghini");
+    //Create new GSON object
+    Gson gson = new GsonBuilder().setPrettyPrinting().create();
+    String prettyJson=gson.toJson(cars);
+    System.out.println("pretty "+prettyJson);
+  }
+}
+</syntaxhighlight>
+
+And the following output will be generated:
+<syntaxhighlight lang="text">
+pretty [
+  "Fiat",
+  "BMW",
+  "Lamborghini"
+]
+
+</syntaxhighlight>
+
+==Features==
+* Gson can handle collections, generic types and nested classes (including inner classes, this can not be done by default though)
+* When deserializing, Gson navigates the type tree of the object being deserialized. This results in ignoring extra fields present in the JSON input.
+* User can write a custom serializer and/or deserializer so that they can control the whole process and even (de)serialize instances of classes for which the source code is not accessible.
+* User can write an InstanceCreator which allows them to deserialize instances of classes without a defined no-args constructor.
+* Gson is highly customizable, you can specify:
+:* Compact/pretty printing (whether you want compact or readable output)
+:* How to handle null object fields - by default they are not present in the output
+:* Rules of what fields are intended to be excluded from (de)serialization
+:* How to convert Java field names
+
+==External links==
+* [https://github.com/google/gson/ Gson on GitHub]
+* [https://thecodingbrains.com/gson-tutorials-with-code-examples/ Gson tutorial with examples]
+
+{{Google FOSS}}
+
+[[Category:Java (programming language) libraries]]
+[[Category:JSON]]
+[[Category:Google software]]
+[[Category:Computer-related introductions in 2008]]

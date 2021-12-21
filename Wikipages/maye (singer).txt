@@ -1,0 +1,67 @@
+{{Multiple issues|
+{{Notability|1=Music|date=June 2021}}
+{{Fanpov|date=June 2021}}
+}}
+{{Infobox musical artist
+| honorific_prefix = 
+| name             = Maye
+| honorific_suffix = 
+| image            = 
+| image_upright    = 
+| image_size       = 
+| landscape        = <!-- yes, if wide image, otherwise leave blank -->
+| alt              = 
+| caption          = 
+| native_name      = 
+| native_name_lang = 
+| birth_name       = Maye Osorio
+| alias            = 
+| birth_date       = <!-- {{Birth date and age|YYYY|MM|DD}} for living people supply only the year unless the exact date is already WIDELY published, as per [[WP:DOB]] -->
+| birth_place      = [[Caracas]], Venezuela
+| origin           = [[Miami]], Florida, US
+| death_date       = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date first) -->
+| death_place      = 
+| genre            = [[indie-pop]]
+| occupation       = 
+| instrument       = 
+| years_active     = 2019-present
+| label            = [[Warner Chappell Music]]
+| associated_acts  = {{flatlist|
+* [[Fernando Osorio]]
+* [[Aitana (singer)|Aitana]]
+* [[Danny Ocean (singer)|Danny Ocean]]
+}}
+| website          = https://www.mayeofficial.com/
+| module           = 
+| module2          = 
+| module3          = 
+}}
+'''Maye''' is a Venezuelan-born American singer-songwriter.
+
+==Life==
+Maye was born in [[Caracas]], and her family moved to [[Miami]] when she was young. Her father is [[Fernando Osorio]], a prolific singer-songwriter in his own right, who won a [[Latin Grammy Award for Best Tropical Song]] in 2004.<ref>{{cite web |title=Fernando Osorio Latin GRAMMY Awards |url=https://www.latingrammy.com/en/nominees/search?artist=%22Fernando+Osorio%22&field_nominee_work_value=&year=All&genre=All |website=The Latin Recording Academy}}</ref>
+She first started writing songs when she was eight. Her first songs were in English, but her father encouraged her to write in Spanish as well.<ref>{{cite web |last=Vega |first=Leonardo |title=Conoce a Maye, una promesa de pop |url=https://www.indierocks.mx/musica/buenas-nuevas/conoce-a-maye-una-promesa-del-pop/ |language=Spanish |trans-title=Meet Maye, a promising new pop star |website=Indie Rocks! |access-date=May 22, 2021 |date=November 4, 2019}}</ref>
+
+==Career==
+
+Maye was on the songwriting team of [[Aitana (singer)|Aitana]]'s song "[[Nada Sale Mal]]", and was also part of the songwriting team of Aitana's debut album [[Spoiler (album)|Spoiler]].<ref>{{cite web |title=Credits: Aitana - Nada Sale Mal |url=https://genius.com/Aitana-nada-sale-mal-lyrics#song-info |website=Genius |access-date=May 31, 2021}}</ref><ref>{{cite web |title=Spoiler - Aitana. Release Credits|url=https://www.allmusic.com/album/release/spoiler-mr0005074463/credits |website=AllMusic |access-date=May 31, 2021}}</ref> She and her father were also part of the songwriting effort behind [[Danny Ocean (singer)|Danny Ocean]]'s song "Dime Tú", and she performed backing vocals as well.<ref>{{cite web |title=Credits (Dime Tú) |url=https://genius.com/Danny-ocean-dime-tu-lyrics#song-info |website=Genius |access-date=May 22, 2021}}</ref><ref>{{cite web |title=Dime Tu - Danny Ocean. Credits |url=https://www.allmusic.com/album/dime-tu-mw0003331771/credits |website=AllMusic |access-date=May 31, 2021}}</ref>
+
+In 2019, she released her first single, "My Love". The song features a switch in tempo at the chorus. This track helped her get her first deal with [[Warner Chappell Music]].<ref>{{cite web |last1=Leight |first1=Elias |title=Meet Maye, a Songwriter who Transfixed YouTube With a Bolero |url=https://www.rollingstone.com/music/music-latin/maye-moody-903055/ |website=Rolling Stone |date=25 October 2019 |access-date=May 22, 2021}}</ref>
+
+Soon after, she released her second single, "Tú". The track has over 21 million streams on Spotify, and [[Barack Obama]] listed it as one of his favorite songs of summer 2020.<ref>{{cite web |last1=Mamo |first1=Heran |title=See Which Artists Made it Onto Barack Obama's 2020 Summer Playlist |url=https://www.billboard.com/articles/columns/pop/9435742/barack-obama-2020-summer-playlist |website=Billboard |access-date=May 22, 2021}}</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Maye}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category: Latin pop singers]] 
+[[Category: American singer-songwriters]] 
+[[Category:Venezuelan emigrants to the United States]]
+[[Category:Spanish-language singers of the United States]]
+
+
+{{US-singer-songwriter-stub}}

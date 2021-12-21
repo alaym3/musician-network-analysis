@@ -1,0 +1,384 @@
+{{Refimprove|date=May 2021}}
+{{Infobox musical artist
+| name            = Erste Allgemeine Verunsicherung
+| background      = group_or_band
+| image             = Donauinselfest_20080905_EAV_%27300_PS%27.jpg
+| caption        = EAV in 2008
+| origin          = [[Austria]]
+| genre           = [[Pop music|Pop]], [[comedy music]], [[Austropop]]
+| years_active    = 1977–2019
+| label           = EMI Austria <small>1983-2003</small><br />
+Sony BMG Ariola <small>since 2005</small>
+| website             = [http://www.eav.at eav.at]
+| past_members    = [[Thomas Spitzer]] <small>(1977-2019)</small><br />
+Nino Holm <small>(1977-1995)</small><br />
+Eik Breit <small>(1977-1995)</small><br />
+Anders Stenmo <small>(1977-1998)</small><br />
+Walter Hammerl (deceased)<small>(1977-1981) </small><br />
+[[Wilfried (singer)|Wilfried Scheutz]] (deceased) <small>(1978-1979)</small><br />
+Günter Schönberger <small>(1978-1996)</small><br />
+Gert Steinbäcker <small>(1979-1983)</small><br />
+[[Klaus Eberhartinger]] <small>(1981-2019)</small><br />
+Mario Bottazzi <small>(1983-1990)</small><br />
+Andy Töfferl (deceased) <small>(1990-2001) </small><br />
+David Bronner <small>(1995-1996)</small><br />
+Kurt Keinrath <small>(1996-2019)</small><br />
+Leo Bei <small>(1997-2014)</small><br />
+Alex Deutsch <small>(1998)</small><br />
+Franz Zettl <small>(1998-2001)</small><br />
+Robert Baumgartner <small>(1998-2014)</small><br />
+Franz Kreimer <small>(2001-2019)</small><br />
+Reinhard Stranzinger <small>(2010-2017)</small><br />
+Alvis Reid <small>(2015-2019)</small><br />
+Aaron Thier <small>(2015-2019)</small>
+}}
+
+The ''EAV'' ('''Erste Allgemeine Verunsicherung''', [[German language|German]] for "First General Confusion/Uncertainty/'Uninsurance'") was an [[Austrian people|Austrian]] band which was formed in 1977 and disbanded in 2019.
+
+Nino Holm first established a band called "Anti-Pasta",  but it was not successful and it dissolved after three years. Holm then decided together with his friend Thomas Spitzer to create a new band.  While they were undecided on a name, they saw a bus stop in a branch of "Erste Allgemeine Versicherung" ("First General Insurance"), abbreviated EAV, and so they came to the name "Erste Allgemeine Ver'''un'''sicherung-EAV".
+
+They initially faced legal difficulty in Austria due to the (obviously intended) similarity of their band name to that of the corporation "[[Erste Group|Erste Allgemeine Versicherung]]".  This was later dropped and the insurance company was even known to sponsor them on a few occasions.
+
+The EAV often changed their members. Their members as of today are Klaus Eberhartinger (Vocals), Thomas Spitzer (Guitar, Vocals), Kurt Keinrath (Guitar, Keyboard, bass guitar), Franz Kreimer (Keyboard), Alvis Reid (Bass guitar) and Aaron Thier (Drums).
+
+The stage shows are known for lavishness in both backdrop and costumes, the latter often selected and changed for specific songs that are then acted out by either the vocalist or other members.
+
+Despite the band's failed attempt to gain international fame, they still remain quite popular in Germany and Austria.
+
+==Style==
+Their songs are mostly comical and weird in nature, but the lyrics contain hints of social criticism as well. For example, "Cinderella" (1994) is one of their "fun" songs, in which they tell the tale of [[Cinderella]] in a funny way: "Sie schlief im Kohlenkeller, trotzdem war sie bettelarm, weil sie von der vielen Kohle, die da lag, zu wenig nahm" ("She slept in the coal cellar, but she was dirt-poor, because she didn't take much of the plentiful coal that lay there"). The word "Kohle" ("coal") is a colloquial word for money in [[German language|German]].
+
+More critical lyrics can be seen in the song "[[Burli (song)|Burli]]" (1987), which tells the story of a boy born shortly after the [[Chernobyl accident]] in an exaggerated and humorous way: "Herr Anton hat ein Häuschen mit einem Gartenzwerg und davor, da steht ein Kernkraftwerk. Da gab es eines Tages eine kleine Havarie, die Tomaten war'n so groß wie nie…" ("Mr. Anton has a small house with a [[gnome#Garden gnomes|garden gnome]], and nearby there's a nuclear power plant. One day there was a small accident - the tomatoes were bigger than ever before…"). Both "[[Burli (song)|Burli]]" and the song "Afrika" led radio stations to boycott the band.
+
+The band is known for open statements against political extremism especially on the right ("bacillus nationalis") and was sued by prominent politicians of the political right like [[Kurt Waldheim]] for drawing attention to his past in the 3rd Reich and [[Jörg Haider]], then-head of the right-leaning [[FPÖ]]. Songs on this topic include e.g. "Eierkopf-Rudi" or "Wir marschieren".
+
+==Members==
+
+=== Deaths of members ===
+In February 1981, group member Walter Hammerl (b. 1952) committed [[suicide]] by [[hanging]].  He had attempted suicide before.  He was a close friend of Klaus Eberhartinger, who took over his duties.  Bandmate Thomas Spitzer commented that it was worrying how the band got on and felt so close to Walter Hammerl, but without actually knowing him.  Hammerl had mainly done managing and stage directing work for the band, however he did sing on a few tracks.
+
+In May 2012, former group member [[Andy Töfferl]] died of a [[heart attack]] at the age of 56 years.
+
+In July 2017, former singer Wilfried Scheutz died after a short battle with cancer at the age of 67 years.
+
+===Timeline of members===
+<timeline>
+ImageSize = width:1000 height:auto barincrement:25
+PlotArea = left:150 bottom:125 top:0 right:50
+Alignbars = justify
+DateFormat  = dd/mm/yyyy
+Period = from:01/01/1977 till:01/07/2019
+TimeAxis = orientation:horizontal format:yyyy
+
+Colors =
+  id:vocals      value:red     legend:Vocals
+  id:backing     value:pink     legend:Backing_vocals
+  id:guitar      value:green   legend:Guitar
+  id:keys        value:purple  legend:Keyboards
+  id:bass        value:blue    legend:Bass
+  id:drums       value:orange  legend:Drums
+  id:sax        value:skyblue   legend:Saxophone
+  id:stage       value:gray(0.5)    legend:Stage_show
+  id:con        value:yellow  legend:conférencier
+  id:lines       value:black   legend:Studio&nbsp;albums
+
+Legend = orientation:vertical position:bottom  columns:3
+
+ScaleMajor = increment:2 start:01/01/1977
+BarData =
+
+  bar:Wilfried     text:"Wilfried Scheutz"
+  bar:Stei    text:"Gert Steinbäcker"
+  bar:Hammerl     text:"Walter Hammerl"
+  bar:Eber      text:"Klaus Eberhartinger"
+  bar:Spitzer   text:"Thomas Spitzer"
+  bar:Keinrath   text:"Kurt Keinrath"
+  bar:Stranzinger   text:"Reinhard Stranzinger"
+  bar:Holm    text:"Nino Holm"
+  bar:Bottazzi    text:"Mario Bottazzi"
+  bar:Töfferl   text:"Andy Töfferl"
+  bar:Bronner   text:"David Bronner"
+  bar:Zettl     text:"Franz Zettl"
+  bar:Kreimer  text:"Franz Kreimer"
+  bar:Breit    text:"Eik Breit"
+  bar:Bei   text:"Leo Bei"
+  bar:Reid   text:"Alvis Reid"
+  bar:Stenmo     text:"Anders Stenmo"
+  bar:Deutsch      text:"Alex Deutsch"
+  bar:Baum  text:"Robert Baumgartner"
+  bar:Thier  text:"Aaron Thier"
+  bar:Tatic  text:"Marina Tatic"
+  bar:Scho     text:"Günther Schönberger"
+
+PlotData=
+
+  width:10 textcolor:black align:left anchor:from shift:(10,-4)
+  bar:Wilfried from:01/05/1978  till:01/07/1979 color:vocals
+  bar:Stei    from:01/07/1979 till:01/11/1982 color:vocals
+  bar:Hammerl from:01/07/1977 till:01/02/1981 color:con
+  bar:Hammerl from:01/07/1979 till:01/02/1981 color:vocals width:3
+  bar:Eber    from:01/05/1981 till:01/05/1983 color:con
+  bar:Eber    from:01/05/1981 till:01/05/1983 color:vocals width:3
+  bar:Eber    from:01/05/1983 till:end  color:vocals
+  bar:Spitzer  from:01/01/1977       till:01/05/2010         color:guitar
+  bar:Spitzer  from:01/01/1977       till:01/05/2010         color:vocals width:3
+  bar:Spitzer  from:01/05/2010 till:01/09/2010  color:guitar width:3
+  bar:Spitzer  from:01/09/2010       till:01/05/2011         color:guitar
+  bar:Spitzer  from:01/09/2010       till:01/05/2011         color:vocals width:3
+  bar:Spitzer  from:01/05/2011 till:01/02/2015  color:guitar width:3
+  bar:Spitzer  from:01/02/2015       till:01/05/2015         color:guitar
+  bar:Spitzer  from:01/02/2015       till:01/05/2015         color:vocals width:3
+  bar:Spitzer  from:01/05/2015 till:01/02/2018  color:guitar width:3
+  bar:Spitzer  from:01/02/2018       till:end         color:guitar
+  bar:Spitzer  from:01/02/2018       till:end         color:vocals width:3
+  bar:Keinrath  from:01/02/1996 till:01/10/1997  color:bass
+  bar:Keinrath  from:01/02/1996 till:end  color:backing width:3
+  bar:Keinrath  from:01/10/1997 till:end  color:guitar
+  bar:Keinrath  from:01/10/1997 till:end  color:keys width:6
+  bar:Stranzinger  from:01/05/2010 till:01/09/2010  color:guitar
+  bar:Stranzinger  from:01/05/2010 till:01/09/2010  color:backing width:3
+  bar:Stranzinger  from:01/05/2011 till:01/02/2014  color:guitar
+  bar:Stranzinger  from:01/05/2011 till:01/02/2014  color:backing width:3
+  bar:Stranzinger  from:01/05/2015 till:01/08/2017  color:guitar
+  bar:Stranzinger  from:01/05/2015 till:01/08/2017  color:backing width:3
+  bar:Holm    from:01/01/1977 till:01/01/1995 color:keys
+  bar:Holm    from:01/01/1977 till:01/01/1995 color:backing width:3
+  bar:Holm    from:01/01/1995 till:01/01/1998 color:keys width:3
+  bar:Bottazzi from:01/05/1983 till:01/04/1990 color:keys
+  bar:Bottazzi from:01/05/1983 till:01/01/1985 color:vocals width:3
+  bar:Bottazzi from:01/01/1985 till:01/04/1990 color:backing width:3
+  bar:Töfferl from:01/04/1990 till:01/09/2001 color:keys
+  bar:Töfferl from:01/04/1990 till:01/09/2001 color:backing width:3
+  bar:Bronner from:01/04/1995 till:01/07/1996  color:keys
+  bar:Zettl from:01/01/1998 till:01/09/2001 color:keys
+  bar:Zettl from:01/01/1998 till:01/09/2001 color:sax width:3
+  bar:Kreimer from:01/12/2001 till:end  color:keys
+  bar:Kreimer from:01/12/2001 till:end  color:sax width:3
+  bar:Breit   from:01/01/1977 till:01/01/1996 color:bass
+  bar:Breit   from:01/01/1977 till:01/01/1996 color:backing width:3
+  bar:Bei     from:01/10/1997 till:01/02/2014 color:bass
+  bar:Reid    from:01/01/2015 till:end  color:bass
+  bar:Stenmo  from:01/01/1977 till:01/03/1998 color:drums
+  bar:Deutsch from:01/03/1998 till:01/11/1998 color:drums
+  bar:Baum    from:01/11/1998 till:01/02/2014 color:drums
+  bar:Thier   from:01/01/2015 till:end  color:drums
+  bar:Tatic   from:01/07/1977 till:01/07/1979  color:stage
+  bar:Scho    from:01/05/1978 till:01/01/1996 color:stage
+  bar:Scho    from:01/05/1978 till:01/07/1983 color:sax width:3
+
+LineData =
+
+  at:01/10/1978 color:lines layer:back
+  at:01/05/1981 color:lines layer:back
+  at:23/09/1983 color:lines layer:back
+  at:01/11/1984 color:lines layer:back
+  at:25/06/1985 color:lines layer:back
+  at:26/10/1987 color:lines layer:back
+  at:21/05/1990 color:lines layer:back
+  at:21/11/1991 color:lines layer:back
+  at:24/11/1994 color:lines layer:back
+  at:25/08/1997 color:lines layer:back
+  at:19/10/1998 color:lines layer:back
+  at:28/04/2003 color:lines layer:back
+  at:06/06/2005 color:lines layer:back
+  at:12/10/2007 color:lines layer:back
+  at:05/02/2010 color:lines layer:back
+  at:30/01/2015 color:lines layer:back
+  at:21/10/2016 color:lines layer:back
+  at:28/09/2018 color:lines layer:back
+
+</timeline>
+<ref>[https://www.verunsicherung.de/diskografie/tourneen.html]</ref>
+
+=== Line-ups ===
+{| class="wikitable"
+|-
+! style="background:#e7ebee;"| 1977
+|
+*'''[[Thomas Spitzer]]'''&nbsp;– guitar, vocals
+*'''Nino Holm'''&nbsp;– keyboards, vocals
+*'''Eik Breit'''&nbsp;– bass guitar, vocals
+*'''Anders Stenmo'''&nbsp;– drums
+|-
+! style="background:#e7ebee;"| 1978-1979
+|
+*'''Wilfried Scheutz''' &nbsp;– vocals
+*'''Thomas Spitzer'''&nbsp;– guitar, vocals
+*'''Nino Holm'''&nbsp;– keyboards, vocals
+*'''Eik Breit'''&nbsp;– bass guitar, vocals
+*'''Anders Stenmo'''&nbsp;– drums
+*'''Walter Hammerl'''&nbsp;– conférencier
+*'''Marina Tatic'''&nbsp;– stage show
+*'''Gabi Aigner'''&nbsp;– stage show
+*'''Günther Schönberger'''&nbsp;– stage show, saxophone
+|-
+! style="background:#e7ebee;"| 1979
+|
+*'''Gert Steinbäcker''' &nbsp;– vocals
+*'''Thomas Spitzer'''&nbsp;– guitar, vocals
+*'''Nino Holm'''&nbsp;– keyboards, vocals
+*'''Eik Breit'''&nbsp;– bass guitar, vocals
+*'''Anders Stenmo'''&nbsp;– drums
+*'''Walter Hammerl'''&nbsp;– conférencier, vocals
+*'''Gabi Aigner'''&nbsp;– stage show
+*'''Günther Schönberger'''&nbsp;– stage show, saxophone
+*'''Günter Timischl'''&nbsp;– stage show
+*'''Schiffkowitz'''&nbsp;– stage show
+|-
+! style="background:#e7ebee;"| 1980-1981
+|
+*'''Gert Steinbäcker''' &nbsp;– vocals
+*'''Thomas Spitzer'''&nbsp;– guitar, vocals
+*'''Nino Holm'''&nbsp;– keyboards, vocals
+*'''Eik Breit'''&nbsp;– bass guitar, vocals
+*'''Anders Stenmo'''&nbsp;– drums
+*'''Walter Hammerl'''&nbsp;– conférencier, vocals
+*'''Gabi Aigner'''&nbsp;– stage show
+*'''Günther Schönberger'''&nbsp;– stage show, saxophone
+*'''Günter Timischl'''&nbsp;– stage show
+|-
+! style="background:#e7ebee;"| 1981-1983
+|
+*'''Gert Steinbäcker''' &nbsp;– vocals
+*'''Thomas Spitzer'''&nbsp;– guitar, vocals
+*'''Nino Holm'''&nbsp;– keyboards, vocals
+*'''Eik Breit'''&nbsp;– bass guitar, vocals
+*'''Anders Stenmo'''&nbsp;– drums
+*'''Klaus Eberhartinger'''&nbsp;– conférencier, vocals
+*'''Günther Schönberger'''&nbsp;– stage show, saxophone
+*'''Günter Timischl'''&nbsp;– stage show
+|-
+! style="background:#e7ebee;"| 1983-1990
+|
+*'''Klaus Eberhartinger'''&nbsp;– vocals
+*'''Thomas Spitzer'''&nbsp;– guitar, vocals
+*'''Nino Holm'''&nbsp;– keyboards, vocals
+*'''Eik Breit'''&nbsp;– bass guitar, vocals
+*'''Mario Bottazzi'''&nbsp;– keyboards, vocals
+*'''Anders Stenmo'''&nbsp;– drums
+*'''Günther Schönberger'''&nbsp;– stage show
+|-
+! style="background:#e7ebee;"| 1990-1995
+|
+*'''Klaus Eberhartinger'''&nbsp;– vocals
+*'''Thomas Spitzer'''&nbsp;– guitar, vocals
+*'''Nino Holm'''&nbsp;– keyboards, vocals
+*'''Eik Breit'''&nbsp;– bass guitar, vocals
+*'''Andy Töfferl'''&nbsp;– keyboards, accordion, vocals
+*'''Anders Stenmo'''&nbsp;– drums
+*'''Günther Schönberger'''&nbsp;– stage show
+|-
+! style="background:#e7ebee;"| 1995
+|
+*'''Klaus Eberhartinger'''&nbsp;– vocals
+*'''Thomas Spitzer'''&nbsp;– guitar, vocals
+*'''Eik Breit'''&nbsp;– bass guitar, vocals
+*'''Andy Töfferl'''&nbsp;– keyboards, accordion, vocals
+*'''David Bronner'''&nbsp;– keyboards
+*'''Anders Stenmo'''&nbsp;– drums
+*'''Günther Schönberger'''&nbsp;– stage show
+|-
+! style="background:#e7ebee;"| 1996
+|
+*'''Klaus Eberhartinger'''&nbsp;– vocals
+*'''Thomas Spitzer'''&nbsp;– guitar, vocals
+*'''Andy Töfferl'''&nbsp;– keyboards, accordion, vocals
+*'''David Bronner'''&nbsp;– keyboards
+*'''Kurt Keinrath'''&nbsp;– bass guitar, vocals
+*'''Anders Stenmo'''&nbsp;– drums
+|-
+! style="background:#e7ebee;"| 1997
+|
+*'''Klaus Eberhartinger'''&nbsp;– vocals
+*'''Thomas Spitzer'''&nbsp;– guitar, vocals
+*'''Andy Töfferl'''&nbsp;– keyboards, accordion, vocals
+*'''Kurt Keinrath'''&nbsp;– guitar, keyboards, vocals
+*'''Leo Bei'''&nbsp;– bass, vocals
+*'''Anders Stenmo'''&nbsp;– drums
+|-
+! style="background:#e7ebee;"| 1998
+|
+*'''Klaus Eberhartinger'''&nbsp;– vocals
+*'''Thomas Spitzer'''&nbsp;– guitar, vocals
+*'''Andy Töfferl'''&nbsp;– keyboards, accordion, vocals
+*'''Kurt Keinrath'''&nbsp;– guitar, keyboards, vocals
+*'''Leo Bei'''&nbsp;– bass, vocals
+*'''Franz Zettl'''&nbsp;– keyboards, saxophone, trumpet
+*'''Alex Deutsch'''&nbsp;– drums
+|-
+! style="background:#e7ebee;"| 1998-2001
+|
+*'''Klaus Eberhartinger'''&nbsp;– vocals
+*'''Thomas Spitzer'''&nbsp;– guitar, vocals
+*'''Andy Töfferl'''&nbsp;– keyboards, accordion, vocals
+*'''Kurt Keinrath'''&nbsp;– guitar, keyboards, vocals
+*'''Leo Bei'''&nbsp;– bass, vocals
+*'''Franz Zettl'''&nbsp;– keyboards, saxophone, trumpet
+*'''Robert Baumgartner'''&nbsp;– drums
+|-
+! style="background:#e7ebee;"| 2001-2010
+|
+*'''Klaus Eberhartinger'''&nbsp;– vocals
+*'''Thomas Spitzer'''&nbsp;– guitar, vocals
+*'''Kurt Keinrath'''&nbsp;– guitar, keyboards, vocals
+*'''Leo Bei'''&nbsp;– bass, vocals
+*'''Franz Kreimer'''&nbsp;– keyboards, saxophone, accordion, vocals
+*'''Robert Baumgartner'''&nbsp;– drums
+|-
+! style="background:#e7ebee;"| 2010-2014
+|
+*'''Klaus Eberhartinger'''&nbsp;– vocals
+*'''Thomas Spitzer'''&nbsp;– guitar, vocals
+*'''Kurt Keinrath'''&nbsp;– guitar, keyboards, vocals
+*'''Leo Bei'''&nbsp;– bass, vocals
+*'''Franz Kreimer'''&nbsp;– keyboards, saxophone, accordion, vocals
+*'''Robert Baumgartner'''&nbsp;– drums
+with
+*'''Reinhard Stranzinger'''&nbsp;- guitar, vocals
+|-
+! style="background:#e7ebee;"| 2015-2019
+|
+*'''Klaus Eberhartinger'''&nbsp;– vocals
+*'''Thomas Spitzer'''&nbsp;– guitar, vocals
+*'''Kurt Keinrath'''&nbsp;– guitar, keyboards, vocals
+*'''Franz Kreimer'''&nbsp;– keyboards, saxophone, accordion, vocals
+*'''Alvis Reid'''&nbsp;– bass, vocals
+*'''Aaron Thier'''&nbsp;– drums
+with
+*'''Reinhard Stranzinger'''&nbsp;- guitar, vocals
+|}
+
+==Discography==
+{{main|Erste Allgemeine Verunsicherung discography}}
+* 1978: ''[[1. Allgemeine Verunsicherung]]'' (''1st General Confusion'')
+* 1981: ''[[Café Passé]]''
+* 1983: ''[[Spitalo Fatalo]]'' (''Hospitalo Fatalo'')
+* 1984: ''[[À la Carte (Erste Allgemeine Verunsicherung album)|À la Carte]]''
+* 1985: [[Geld oder Leben!]] (''Your Money or Your Life!'')
+* 1987: ''[[Liebe, Tod & Teufel]]'' (''Love, Death & Devil'')
+* 1990: ''[[Neppomuk's Rache]]'' (''Neppomuk's Revenge'')
+* 1991: ''[[Watumba!]]'' (''Watumba!'')
+* 1994: ''[[Nie wieder Kunst]]'' (''No More Art'')
+* 1997: ''[[Im Himmel ist die Hölle los!]]'' (''All Hell is Breaking Loose In Heaven!'')
+* 1998: ''[[Himbeerland]]'' (''Raspberryland'')
+* 2000: ''[[Austropop in Tot-Weiß-Tot]]'' (''[[Austropop]] in Dead-White-Dead''; ['Dead-White-Dead' is a pun on the colours of the Austrian national flag: Red-White-Red, German: Rot-Weiß-Rot])
+* 2003: ''[[Frauenluder]]'' (''Woman Slut'')
+* 2007: ''[[Amore XL]]'' (''Love XL'')
+* 2010: ''[[Neue Helden braucht das Land]]'' (''The Nation Needs New Heroes'')
+* 2015: ''[[Werwolf-Attacke!]]'' (''Werewolf Attack!'')
+* 2016: ''[[Was haben wir Gelacht]]'' (''How We Laughed'')
+* 2018: ''Alles ist erlaubt'' (''Anything Goes'')
+* 2021: ''Ihr Sünderlein kommet'' (''Oh come, ye little sinners'')
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.eav.at www.eav.at: Official Homepage of Erste Allgemeinen Verunsicherung and the EAV-Fanclub] '''''(in German)'''''
+*[http://www.eav-archiv.de EAV-Fanpage about the early years of the band] '''''(in German)'''''
+* [http://www.verunsicherung.de  Unofficial fan site] '''''(in German)'''''
+* {{MusicBrainz artist|name=EAV|id=c1a0178b-830c-4d4f-9ce4-89f5e56672dd}}
+
+{{Authority control}}
+
+[[Category:Austrian pop music groups]]

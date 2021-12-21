@@ -1,0 +1,68 @@
+{{short description|Canadian singer-songwriter and actress|bot=PearBOT 5}}
+{{Use mdy dates|date=July 2020}}
+{{Infobox musical artist
+| name            = Frazey Ford
+| image           = Frazey Ford at Hillside Festival 2015 (cropped).jpg
+| alt             =
+| caption         = Ford performing in 2015
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| birth_name      =
+| alias           =
+| birth_date      = <!-- {{birth date and age|YYYY|02|11}} -->
+| birth_place     =
+| origin          = [[East Vancouver]], British Columbia, Canada
+| death_date      = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place     =
+| genre           = [[Americana (music)|Americana]], [[Soul music|soul]]
+| occupation      =
+| instrument      =
+| years_active    = 2001–present
+| label           = [[Nettwerk]]
+| associated_acts = [[The Be Good Tanyas]]
+| website         = {{URL|frazeyford.com}}
+}}
+'''Frazey Obadiah Ford''' is a Canadian singer-songwriter and actress. She was a founding member of [[The Be Good Tanyas]]. Her solo debut ''[[Obadiah (album)|Obadiah]]'' was released on [[Nettwerk]] on July 20, 2010.<ref name="province_15jun2010">{{cite news|last=Derdeyn|first=Stuart|title=The Province Playlist featured artist: Frazey Ford|url=https://theprovince.com/entertainment/Province+Playlist+featured+artist+Frazey+Ford/3155337/story.html|accessdate=June 16, 2010|newspaper=The Province|date=June 15, 2010}}</ref>
+
+Jenny Charlesworth of ''[[The Georgia Straight]]'' wrote that a few of the songs "swing with a mellow neo-soul beat enlivened by buttery vocals", and noted influences from [[rhythm and blues]] singers [[Ann Peebles]], [[Roberta Flack]], and [[Donny Hathaway]].<ref name="straight30July2010">{{cite web|last=Charlesworth|first=Jenny|title=Frazey Ford bares her soul|url=https://www.straight.com/article-331393/vancouver/frazey-ford-bares-her-soul|work=[[Straight.com]]|accessdate=July 9, 2010}}</ref> Ford also credits her free-spirited parents (her father was an American [[conscientious objector]] who moved to Canada), and being a mother has had a strong influence on her songwriting.<ref name="ott_cit19July2010">{{cite news|last=Derdeyn|first=Stuart|title=Look who's got soul|url=https://ottawacitizen.com/entertainment/Look+soul/3294869/story.html?cid=megadrop_story|archiveurl=https://web.archive.org/web/20100722012358/http://www.ottawacitizen.com/entertainment/Look+soul/3294869/story.html?cid=megadrop_story|archivedate=July 22, 2010|accessdate=August 2, 2010|newspaper=[[Ottawa Citizen]]|date=July 19, 2010}}</ref><ref name="vcJuly282010">{{cite web|last=Scallan|first=Niamh|title=Singer-songwriter searches her soul|url=http://www.vancourier.com/entertainment/Singer+songwriter+searches+soul/3332073/story.html|archiveurl=https://web.archive.org/web/20120308060125/http://www.vancourier.com/entertainment/Singer+songwriter+searches+soul/3332073/story.html|archivedate=March 8, 2012|work=[[The Vancouver Courier]]|accessdate=August 2, 2010}}</ref>
+
+''Obadiah'' takes its name from Ford's middle name, Obadiah. When she was born, her parents asked her brothers to choose her middle name; they decided to name her after their pet cat Obadiah that had recently run away.<ref name="bbcRadioScotlandOctober082010">{{cite web|last=Ross|first=Rick|title=Another Country with Rick Ross|url=http://www.bbc.co.uk/programmes/b00v3gx5|work=[[BBC Radio Scotland]]|accessdate=October 8, 2010}}</ref>
+
+Ford was raised in [[Castlegar, British Columbia]].<ref name="vcJuly282010"/> She currently resides in [[Vancouver]].<ref name="ott_cit19July2010" />
+
+==Discography==
+*''[[Obadiah (album)|Obadiah]]'' (2010)
+*''Indian Ocean'' (2014)
+*''U Kin B the Sun'' (2020)
+
+==Filmography==
+* ''[[The L Word]]'' (TV episode, 2006) as Sister Christine
+* ''[[The Christmas Calendar (2017 film)|The Christmas Calendar]]'' (2017) as Ivy
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+* {{official website|http://frazeyford.com/}}
+* {{allMusic|artist|frazey-ford-mn0000718109}}
+* {{discogs artist|732406-Frazey-Ford}} 
+* {{IMDb name|2418432}}
+* [https://web.archive.org/web/20101103193200/http://nettwerk.com/artist/frazey-ford Frazey Ford] at [[Nettwerk]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ford, Frazey}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:People from Castlegar, British Columbia]]
+[[Category:Canadian alternative country singers]]
+[[Category:Canadian women singer-songwriters]]
+[[Category:Canadian country singer-songwriters]]
+[[Category:Canadian folk singer-songwriters]]
+[[Category:Musicians from Vancouver]]
+[[Category:21st-century Canadian women singers]]
+[[Category:Nettwerk Music Group artists]]
+
+
+{{Canada-singer-stub}}

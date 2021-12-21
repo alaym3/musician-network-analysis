@@ -1,0 +1,192 @@
+{{short description|Medical device}}
+{{other uses}}
+{{Distinguish|Inhalant}}
+{{Infobox medical intervention
+| name         = Inhaler
+| synonym      =
+| image        = File:AsthmaInhaler.jpg|thumbnail|
+| caption      = [[Metered-dose inhaler]] (MDI)
+| alt          = 
+| pronounce    = 
+| specialty    =pulmonology
+| synonyms     = 
+| ICD10        = 
+| ICD9         = 
+| ICD9unlinked = 
+| CPT          = 
+| MeshID       = 
+| LOINC        = 
+| other_codes  =  
+| MedlinePlus  = 
+| eMedicine    = 
+}}
+[[File:Symbicort with a dose indicator atop (budesonide-formoterol).jpg|thumb|Inhaler with an indicator of the remaining dose available]]
+An '''inhaler''' (also known as a '''puffer''', '''pump''' or '''allergy spray''') is a medical device used for delivering medicines into the lungs through the work of a person's breathing. This allows medicines to be delivered to and absorbed in the lungs, which provides the ability for targeted medical treatment to this specific region of the body, as well as a reduction in the side effects of oral medications. There are a wide variety of inhalers, and they are commonly used to treat numerous medical conditions with [[asthma]] and [[chronic obstructive pulmonary disease]] (COPD) being among the most notable.<ref name=":0" />
+
+Some of the common types of inhalers include [[metered-dose inhaler]]s, [[dry powder inhaler]]s, soft mist inhalers, and [[nebulizer]]s. Each device has advantages and disadvantages and can be selected based on specific patient needs, as well as age, coordination, and lung function.<ref name=":3">{{cite journal | vauthors = DePietro M, Gilbert I, Millette LA, Riebe M | title = Inhalation device options for the management of chronic obstructive pulmonary disease | journal = Postgraduate Medicine | volume = 130 | issue = 1 | pages = 83–97 | date = January 2018 | pmid = 29210318 | doi = 10.1080/00325481.2018.1399042 | s2cid = 705448 }}</ref> Proper education on inhaler use is important to ensure that inhaled medication takes its proper effects in the lungs.<ref name=":4" />
+
+==Medical uses==
+Inhalers are designed to deliver medication directly to the lungs through a person's own breathing. This may benefit a patient by providing medicines directly to areas of disease, allowing medication to take a greater effect on its intended target, and limit side effects of medications due to localized treatment.<ref name=":0" /> Inhalers are used in a variety of different medical conditions with diseases of the lungs and [[respiratory system]] being among the most common. These conditions utilize medications designed to decrease airway inflammation and obstruction to allow for easier and less strained breathing.<ref name=":1" /> Antibiotic medications have even been developed for inhalers to allow for direct delivery to areas of infection within the lungs.<ref>{{cite journal | vauthors = Vardakas KZ, Voulgaris GL, Samonis G, Falagas ME | title = Inhaled colistin monotherapy for respiratory tract infections in adults without cystic fibrosis: a systematic review and meta-analysis | journal = International Journal of Antimicrobial Agents | volume = 51 | issue = 1 | pages = 1–9 | date = January 2018 | pmid = 28669836 | doi = 10.1016/j.ijantimicag.2017.05.016 }}</ref> Two of the most common conditions that warrant inhaler therapy are [[asthma]] and [[chronic obstructive pulmonary disease]].<ref name=":1">{{cite journal | vauthors = Rothe T, Spagnolo P, Bridevaux PO, Clarenbach C, Eich-Wanger C, Meyer F, Miedinger D, Möller A, Nicod LP, Nicolet-Chatelain G, Sauty A, Steurer-Stey C, Leuppi JD | display-authors = 6 | title = Diagnosis and Management of Asthma - The Swiss Guidelines | journal = Respiration; International Review of Thoracic Diseases | volume = 95 | issue = 5 | pages = 364–380 | date = 2018 | pmid = 29614508 | doi = 10.1159/000486797 | doi-access = free }}</ref><ref name=":2">{{cite journal | vauthors = Stolz D, Barandun J, Borer H, Bridevaux PO, Brun P, Brutsche M, Clarenbach C, Eich C, Fiechter R, Frey M, Geiser T, Grob M, Helfenstein E, Junker L, Kohler M, Latshang T, Lechmann A, Maurer M, Nicod L, Quadri F, Schilter D, Sigrist T, Soccal P, Tarr P, Thurnheer R, Turk A, Tamm M | display-authors = 6 | title = Diagnosis, Prevention and Treatment of Stable COPD and Acute Exacerbations of COPD: The Swiss Recommendations 2018 | journal = Respiration; International Review of Thoracic Diseases | volume = 96 | issue = 4 | pages = 382–398 | date = 2018 | pmid = 30138943 | doi = 10.1159/000490551 | s2cid = 52074520 | doi-access = free }}</ref>
+
+===Asthma===
+
+[[Asthma]] is a condition of intermittent [[airway obstruction]] due to [[Inflammation|inflammatory]] processes in the lungs. Inhaled medications are used to calm down the inflammation present in the lungs and allow for relief of the airway obstruction. Common inhaled medications used for treatment of asthma are [[salbutamol]], [[corticosteroid]]s, and [[salmeterol]]. These medications allow for patients to have relief of airway obstruction symptoms and reduced inflammation.<ref name=":1" />
+
+===Chronic obstructive pulmonary disease (COPD)===
+
+COPD is an obstructive lung disease due to long-term damage to the airways of the lung. The long-term damage leads to the inability of the airways to open properly, causing [[airway obstruction]]. Inhaled medications allow for patients to see improvement in symptoms and better function of daily living. Some commonly used inhaled medications in patient's with COPD are [[Ipratropium bromide|ipratroprium]], [[salmeterol]], and [[corticosteroid]]s.<ref name=":2" />
+
+==Types==
+===Meter-dosed inhaler (MDI)===
+The most common type of inhaler is the pressurized [[metered-dose inhaler]] (MDI) which is made up of 3 standard components- a metal canister, plastic actuator, and a metering valve. The medication is typically stored in solution in a pressurized canister that contains a propellant or suspension. The MDI canister is attached to a plastic, hand-operated actuator. On activation, the metered-dose inhaler releases a fixed dose of medication in [[Aerosol spray|aerosol]] form through the actuator and into a patient's lungs.<ref>{{cite book|url=https://archive.org/details/pharmaceuticalin134anth|title=Pharmaceutical Inhalation Aerosol Technology|publisher=Marcel Dekker|year=2004|editor=Hickey, A.J.|edition=2nd|location=NY|isbn=9780824742539|url-access=registration}}</ref>  These devices require significant coordination as a person must discharge the medication at or near the same time that they inhale in order for the medication to be effective.<ref name=":5">{{cite journal | vauthors = Navaie M, Dembek C, Cho-Reyes S, Yeh K, Celli BR | title = Device use errors with soft mist inhalers: A global systematic literature review and meta-analysis | journal = Chronic Respiratory Disease | volume = 17 | pages = 1479973119901234 | date = January 2020 | pmid = 31984767 | pmc = 6985977 | doi = 10.1177/1479973119901234 }}</ref>
+[[File:Dry powder inhalers.jpg|alt=|thumb|Different types of [[Dry-powder inhaler|dry powder inhalers]]]]
+
+===Dry powder inhaler (DPI)===
+[[Dry-powder inhaler|Dry powder inhaler]]s release a metered or device-measured dose of powdered medication that is inhaled through a DPI device. This device usually contains a chamber in which the powdered medication is deposited prior to each dosage.<ref name=":4" /> The powder can then be inhaled with a quick breath.<ref name=":0" />  This allows for medication to be delivered to the lungs without the need for use of propellant/suspension.<ref name=":5" />
+
+===Soft mist inhaler (SMI)===
+[[File:Nebulizer Mask (Child).png|thumb|[[Nebulizer]] with face mask]]
+Soft mist inhalers release a light mist containing medication without the need for a propellant/suspension. Upon pressing a button, the inhaler creates a mist of medication, allowing for inhalation into the lungs. SMIs suspend inhaled medications for roughly 1.2 seconds, which is longer than the average MDI inhaler suspension time period.  This requires less coordination when using and may be helpful for young patients or patients that find the MDI inhalers difficult to use.<ref name=":5" />
+
+===Nebulizer===
+[[Nebulizer]]s are designed to deliver medications over an extended period of time over multiple breaths through a mouthpiece or face mask.  They generate a continuous mist with aerosolized medication, allowing a patient to breathe normally and receive medications.<ref name=":5" />  They are commonly used in infants and toddlers requiring inhaled medications or in patients in the hospital who require inhaled medications.<ref name=":3" />
+
+===Smart inhaler===
+The smart-inhaler is an inhaler that will automatically update an app with information that includes the time of day, air quality, and how many times it has been used through sensor technology on the device.<ref name = "Himes_2019">{{cite journal | vauthors = Himes BE, Leszinsky L, Walsh R, Hepner H, Wu AC | title = Mobile Health and Inhaler-Based Monitoring Devices for Asthma Management | journal = The Journal of Allergy and Clinical Immunology. In Practice | volume = 7 | issue = 8 | pages = 2535–2543 | date = November 2019 | pmid = 31706485 | pmc = 6917046 | doi = 10.1016/j.jaip.2019.08.034 }}</ref> The first smart-inhaler was approved in 2019 by the FDA, its purpose is to track patient use of the device and some other circumstantial factors that could affect the effectiveness of the dosage.<ref name = "Himes_2019" /> This information is sent via Bluetooth to a mobile device app, and is later shared with their physician to determine what kind of things can trigger issues with asthma and other problems.<ref name = "Himes_2019" /> This technology presents a great way to cut down on medical costs associated with asthma and also help patients better manage their condition with fewer emergencies.
+
+The Teva ProAir Digihaler was the first FDA approved smart inhaler.<ref name = "Chrystyn_2019">{{Cite journal| vauthors = Chrystyn H, Safioti G, Buck D, Granovsky L, Calderon E, Li T, Reich M, Hill T, Depietro M, Pleasants R | display-authors = 6 |date=2019-09-28|title=Real-life inhaler technique in asthma patients using the electronic ProAir Digihaler |journal=Airway Pharmacology and Treatment|publisher=European Respiratory Society|pages=PA4258|doi=10.1183/13993003.congress-2019.PA4258| s2cid = 214096707 }}</ref> It shows how effective the device is at aiding patients in using the proper dose amount for their asthma. In a study published by the European Respiratory Journal, the ProAir Digihaler accurately identified when patients were using their inhalers and whether they were effectively administering the dose in a 370 patient trial with the device.<ref name = "Chrystyn_2019" /> This study further gives an overview on the technology regarding applications and devices that help aid in the tracking and medication management for asthma and other lung conditions. Another study showed that smart inhalers accurately recorded all doses administered by patients with their technology, which signifies their importance in providing accurate dosage information to patients and their physicians.<ref>{{cite journal | vauthors = Burgess SW, Wilson SS, Cooper DM, Sly PD, Devadason SG | title = In vitro evaluation of an asthma dosing device: the smart-inhaler | journal = Respiratory Medicine | volume = 100 | issue = 5 | pages = 841–5 | date = May 2006 | pmid = 16216485 | doi = 10.1016/j.rmed.2005.09.004 | doi-access = free }}</ref>
+
+==Propellants==
+In 2009, the FDA banned the use of inhalers that use [[chlorofluorocarbons]] (CFC) as propellants. In their place, inhalers now use [[hydrofluoroalkane]] (HFA). HFA is not environmentally inert as it is a [[greenhouse gas]] but it does not affect the [[ozone layer]].<ref name=baumann/> While some asthma sufferers and advocacy groups contend that HFA inhalers are not as effective,<ref name="storyid1">{{cite web|url=http://www.ksdk.com/news/living_green/story.aspx?storyid=149094&catid=116 |title=Asthma Group Concerned "Green" Inhalers May Not be as Effective &#124; ksdk.com &#124; St. Louis, MO |publisher=ksdk.com |access-date=2010-11-21}}</ref> published clinical studies indicate CFC and HFA inhalers are equally effective in controlling asthma.<ref>{{cite journal |vauthors=Hendeles L, Colice GL, Meyer RJ |title=Withdrawal of albuterol inhalers containing chlorofluorocarbon propellants |journal=N. Engl. J. Med. |volume=356 |issue=13 |pages=1344–51 |date=March 2007 |pmid=17392304 |doi=10.1056/NEJMra050380 }}</ref>
+
+While the impact of CFCs from inhalers on the ozone layer had been minuscule (dwarfed by industrial processes using CFCs), the FDA in its interpretation of the [[Montreal Protocol]] mandated the switch in propellants.<ref name=baumann>{{cite journal |url=http://motherjones.com/environment/2011/07/cost-increase-asthma-inhalers-expensive |author=Nick Baumann |title=Why You're Paying More to Breathe| journal=[[Mother Jones (magazine)|Mother Jones]] |date=July–August 2011 }}</ref> Patients expressed concern about the high price of the HFA inhalers as there are no generic versions, whereas generic CFC inhalers had been available.<ref name="storyid1"/>
+
+==Proper use==
+{{manual|section|date=August 2021}}
+It is important to use proper technique when administering inhalers to self or others. Improper use of inhalers is very common and can lead to distribution of the medicine into the mouth or throat where it cannot take its desired effect.<ref name=":0">{{cite journal | title = Expert Panel Report 3 (EPR-3): Guidelines for the Diagnosis and Management of Asthma-Summary Report 2007 | journal = The Journal of Allergy and Clinical Immunology | volume = 120 | issue = 5 Suppl | pages = S94-138 | date = November 2007 | pmid = 17983880 | doi = 10.1016/j.jaci.2007.09.043 | author1 = National Asthma Education Prevention Program }}</ref><ref>{{cite journal | vauthors = Cho-Reyes S, Celli BR, Dembek C, Yeh K, Navaie M | title = Inhalation Technique Errors with Metered-Dose Inhalers Among Patients with Obstructive Lung Diseases: A Systematic Review and Meta-Analysis of U.S. Studies | journal = Chronic Obstructive Pulmonary Diseases | volume = 6 | issue = 3 | pages = 267–280 | date = July 2019 | pmid = 31342732 | pmc = 6872219 | doi = 10.15326/jcopdf.6.3.2018.0168 }}</ref> Education on the correct use of inhalers for delivery of medications is a commonly cited topic in medical studies and a great deal of thought has been put into how best to help people learn to use their inhalers effectively.<ref>{{cite journal | vauthors = Harris K, Kneale D, Lasserson TJ, McDonald VM, Grigg J, Thomas J | title = School-based self-management interventions for asthma in children and adolescents: a mixed methods systematic review | journal = The Cochrane Database of Systematic Reviews | volume = 1 | pages = CD011651 | date = January 2019 | pmid = 30687940 | pmc = 6353176 | doi = 10.1002/14651858.CD011651.pub2 }}</ref><ref name=":4">{{cite journal | vauthors = Maricoto T, Monteiro L, Gama JM, Correia-de-Sousa J, Taborda-Barata L | title = Inhaler Technique Education and Exacerbation Risk in Older Adults with Asthma or Chronic Obstructive Pulmonary Disease: A Meta-Analysis | journal = Journal of the American Geriatrics Society | volume = 67 | issue = 1 | pages = 57–66 | date = January 2019 | pmid = 30291745 | doi = 10.1111/jgs.15602 | doi-access = free }}</ref> Below is a description of proper inhaler technique for each different type of inhaler as well as a helpful video explaining what the text states.
+
+[[File:Using an inhaler.webm|thumb|Using an inhaler]]
+
+===Meter-dosed inhalers===
+
+1. Remove mouthpiece and shake inhaler for 5–10 seconds
+
+2. Grip inhaler with mouthpiece on the bottom and canister on top.  A finger should be placed on the canister to allow for delivery of medicine.
+
+3. Breathe out completely and place mouth over mouthpiece.
+
+4. As you begin to breathe in, press down on the canister (this releases the medicine).
+
+5. Continue to breathe in slowly and deeply and hold your breath for 5–10 seconds (this keeps the medicine in your lungs where it is supposed to be).
+
+6. Breathe out. If you are supposed to take multiple puffs of medicine, wait 15–30 seconds and repeat steps 1–5.
+
+7. Replace mouthpiece<ref name=":0" />
+
+===With spacer===
+
+Place spacer at the mouthpiece of your meter-dosed inhaler and your mouth at the end of the spacer. Press down on the canister and breathe in deeply when ready for the delivery of the medicine to the lungs.  This minimizes need for coordination of breathing with inhaler activation.<ref name=":0" />
+
+===Dry powder inhalers===
+1. Prepare inhaler medication chamber (this will be different based on the type of inhaler but will involve preparing and opening the chamber with the medication)
+
+2. Hold the inhaler with the chamber pointing towards you and breathe out completely with her head turned away from the inhaler
+
+3. Place mouth over the chamber and take a quick, deep breath to allow medication to dispense in the lungs
+
+4. Hold breath for 5–10 seconds and then exhale slowly
+
+5. Repeat steps 1-4 if another dose is needed<ref name=":0" />
+
+===Soft mist inhalers===
+
+1. Prime inhaler (this involves loading the cartridge and discharging the inhaler until a fine mist is visible - more explanation in the video)
+
+2. Breathe out completely and place mouth around the mouthpiece while leaving space for the small holes on the side of the mouthpiece
+
+3. Breathe in slowly while at the same time pressing the button to release the medication
+
+4. Hold breath for 5–10 seconds
+
+5. Breathe out slowly and repeat steps 1-4 if another dose of medication is required
+
+If inhaler is used everyday, you should only have to prime the inhaler the first time using a new cartridge, but it may need to be primed again if it has not been used in multiple days.<ref name=":0" />
+
+===After use===
+
+If using inhaled [[corticosteroid]]s, rinse mouth out directly after use of inhaler. This helps to prevent [[infection]].<ref name=":0" />
+
+===Nebulizer===
+
+1. Place mouth over mouthpiece or face mask over nose and mouth
+
+2. Turn on the nebulizer machine
+
+3. Breath normally for 10-20 min (or time allotted for treatment)
+
+4. Turn off machine and remove face mask/mouthpiece<ref name=":0" />
+
+==History==
+[[File:PenetroInhalador.JPG|thumb|upright|Penetro brand inhaler from mid 20th century Mexico, part of the permanent collection of the [[Museo del Objeto del Objeto]]]]
+[[File:Mudge inhaler.jpg|thumb|upright|Inhaler designed by John Mudge in 1778]]
+The idea of directly delivering medication into the lungs was based on ancient traditional cures that involved the use of aromatic and medicinal vapors. These did not involve any special devices beyond the apparatus used for burning or heating to produce fumes. Early inhalation devices included one devised by John Mudge in 1778. It had a pewter mug with a hole allowing attachment of a flexible tube. Mudge used it for the treatment of coughs using opium. These devices evolved with modifications by Wolfe, Mackenzie (1872) and better mouth attachments such as by Beigel in 1866. Many of these early inhalers needed heat to vaporize the active chemical ingredient. The benefits of forced expiration and inspiration to treat asthma were noted by J. S. Monell in 1865. Chemicals used in inhalers included ammonia, chlorine, iodine, tar, balsams, turpentine camphor and numerous others in combinations.<ref>{{cite book| title=Inhalation in the treatment of disease: its therapeutics and practice| author=Cohen, J. Solis| year=1876| publisher=Lindsay & Blakiston| place=Philadelphia|url=https://archive.org/stream/63720410R.nlm.nih.gov/63720410R}}</ref> [[Julius Mount Bleyer]] used a variation in 1890 in New York.<ref>{{cite journal|year=1890| title=A new method of larygeal and bronchial medication by means of a spray and tube during the act of deep inspiration. Read in the Section of Laryngology and Otology at the Forty-first Annual Meeting of the American Medical Association, Nashville, Tenn., May, 1890.|author=Bleyer, J. Mount| journal=Journal of the American Medical Association|volume=15|issue=18|pages=634–636|doi=10.1001/jama.1890.02410440006001a| url=https://zenodo.org/record/1447247}}</ref>
+
+[[File:Beigel mouthpiece.jpg|thumb|left|upright|Mouthpiece for an inhaler designed by Dr Beigel (1867)]]
+In 1968, Robert Wexler of [[Abbott Laboratories]] developed the Analgizer, a disposable inhaler that allowed the self-administration of [[methoxyflurane]] [[vapor]] in air for [[analgesia]].<ref name=Wexler1968/> The Analgizer consisted of a [[polyethylene]] cylinder 5&nbsp;inches long and 1&nbsp;inch in diameter with a 1&nbsp;inch long mouthpiece. The device contained a rolled [[Candle wick|wick]] of [[polypropylene]] [[felt]] which held 15&nbsp;[[Litre#SI prefixes applied to the litre|milliliters]] of methoxyflurane.
+
+Because of the simplicity of the Analgizer and the [[Pharmacology|pharmacological]] characteristics of methoxyflurane, it was easy for patients to self-administer the drug and rapidly achieve a level of [[Procedural sedation and analgesia|conscious analgesia]] which could be maintained and adjusted as necessary over a period of time lasting from a few minutes to several hours. The 15&nbsp;milliliter supply of methoxyflurane would typically last for two to three hours, during which time the user would often be partly [[Amnesia|amnesic]] to the sense of pain; the device could be refilled if necessary.<ref name=Romagnoli1970/>
+
+The Analgizer was found to be safe, effective, and simple to administer in [[Obstetrics|obstetric]] patients during childbirth, as well as for patients with [[bone fracture]]s and [[joint dislocation]]s,<ref name=Romagnoli1970/> and for dressing changes on [[burn]] patients.<ref name=Packer1969/> When used for labor analgesia, the Analgizer allows labor to progress normally and with no apparent [[adverse effect]] on [[Apgar score]]s.<ref name=Romagnoli1970/> All [[vital signs]] remain normal in obstetric patients, newborns, and injured patients.<ref name=Romagnoli1970/> The Analgizer was widely utilized for analgesia and [[sedation]] until the early 1970s, in a manner that foreshadowed the [[patient-controlled analgesia]] [[infusion pump]]s of today.<ref name=Major1966/><ref name=Dragon1967/><ref name=Firn1972/><ref name=Josephson1974/> The Analgizer inhaler was withdrawn in 1974, but use of methoxyflurane as a sedative and analgesic continues in Australia and New Zealand in the form of the [[Penthrox inhaler]].<ref name=Babl2007/><ref name=Grindlay2009/><ref name=Babl2006/><ref name=McLennan2007/><ref name=Penthrox2009/><ref name=RADAR2010/>
+
+==See also==
+* [[List of medical inhalants]]
+* [[Decongestant]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Babl2006>{{cite journal|vauthors=Babl FE, Jamison SR, Spicer M, Bernard S |title=Inhaled methoxyflurane as a prehospital analgesic in children (subscription required)|journal=Emergency Medicine Australasia|volume=18|issue=4|pages=404–10|year=2006|doi=10.1111/j.1742-6723.2006.00874.x|pmid=16842312|s2cid=1619160}}</ref>
+
+<ref name=Babl2007>{{cite journal|vauthors=Babl F, Barnett P, Palmer G, Oakley E, Davidson A |title=A pilot study of inhaled methoxyflurane for procedural analgesia in children (subscription required)|journal=Pediatric Anesthesia|volume=17|issue=2|pages=148–53|year=2007|doi=10.1111/j.1460-9592.2006.02037.x|pmid=17238886|s2cid=30105092}}</ref>
+
+<ref name=Dragon1967>{{cite journal|vauthors=Dragon A, Goldstein I |title=Methoxyflurane: preliminary report on analgesic and mood modifying properties in dentistry (subscription required)|journal=Journal of the American Dental Association|volume=75|issue=5|pages=1176–81|year=1967|doi=10.14219/jada.archive.1967.0358|pmid=5233333}}</ref>
+
+<ref name=Firn1972>{{cite journal|author=Firn S|title=Methoxyflurane analgesia for burns dressings and other painful ward procedures in children (subscription required)|journal=British Journal of Anaesthesia|volume=44|issue=5|pages=517–22|year=1972|doi=10.1093/bja/44.5.517|pmid=5044082|doi-access=free}}</ref>
+
+<ref name=Grindlay2009>{{cite journal|vauthors=Grindlay J, Babl FE |title=Efficacy and safety of methoxyflurane analgesia in the emergency department and prehospital setting|journal=Emergency Medicine Australasia|volume=21|issue=1|pages=4–11|year=2009|pmid=19254307|doi=10.1111/j.1742-6723.2009.01153.x|s2cid=40158248}}</ref>
+
+<ref name=Josephson1974>{{cite journal|vauthors=Josephson CA, Schwartz W |title=The Cardiff Inhaler and Penthrane. A method of sedation analgesia in routine dentistry|journal=Journal of the Dental Association of South Africa|volume=29|issue=2|pages=77–80|year=1974|pmid=4534883}}</ref>
+
+<ref name=Major1966>{{cite journal|vauthors=Major V, Rosen M, Mushin WW |title=Methoxyflurane as an obstetric analgesic: a comparison with trichloroethylene|journal=[[BMJ]]|volume=2|issue=5529|pages=1554–61|year=1966|doi=10.1136/bmj.2.5529.1554|pmid=5926260|pmc=1944957}}</ref>
+
+<ref name=McLennan2007>{{cite journal|author=McLennan JV|title=Is methoxyflurane a suitable battlefield analgesic?|journal=Journal of the Royal Army Medical Corps|volume=153|issue=2|pages=111–3|year=2007|doi=10.1136/jramc-153-02-08|pmid=17896540|s2cid=38517296|url=http://ramcjournal.com/2007/jun07/mclennan.pdf|url-status=dead|archive-url=https://web.archive.org/web/20110715152612/http://ramcjournal.com/2007/jun07/mclennan.pdf|archive-date=2011-07-15}}</ref>
+
+<ref name=Packer1969>{{cite journal|vauthors=Packer KJ, Titel JH |title=Methoxyflurane analgesia for burns dressings: experience with the Analgizer (subscription required)|journal=[[British Journal of Anaesthesia]]|volume=41|issue=12|pages=1080–5|year=1969|doi=10.1093/bja/41.12.1080|pmid=4903969|citeseerx=10.1.1.1028.6601}}</ref>
+
+<ref name=Penthrox2009>{{cite web|author=Medical Developments International Pty. Ltd.|title=PENTHROX (methoxyflurane) Inhalation: Product Information|publisher=Medical Developments International Limited|location=Springvale, Victoria, Australia|year=2009|url=http://www.medicaldev.com/pdf_files/Products_Pain_Relief_Healthcare_Professionals_Medical/Product%20Information%20Sheet.pdf|access-date=2010-11-21 }}</ref>
+
+<ref name=RADAR2010>{{cite web|author=National Prescribing Service|title=Methoxyflurane (Penthrox) for analgesia (doctor's bag listing)|work=NPS RADAR|publisher=National Prescribing Service, [[Department of Health and Ageing]]|location=Canberra, Australia|year=2010|url=http://www.nps.org.au/__data/assets/pdf_file/0008/87866/OKA7754_NPS_RADAR_Methoxyflurane_V3.pdf|access-date=2010-11-21|author-link=National Prescribing Service}}{{Dead link|date=January 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+<ref name=Romagnoli1970>{{cite journal|vauthors=Romagnoli A, Busque L, Power DJ |title=The "analgizer" in a general hospital: a preliminary report|journal=Canadian Journal of Anesthesia|volume=17|issue=3|pages=275–8|year=1970|doi=10.1007/BF03004607|pmid=5512851|doi-access=free}}</ref>
+
+<ref name=Wexler1968>{{cite journal|title=Analgizer: Inhaler for supervised self-administration of inhalation anesthesia|author=Wexler RE|publisher=Abbott Laboratories|location=Abbott Park, Illinois|year=1968|url=http://www.trademarkia.com/analgizer-72302697.html|access-date=2010-11-21}}</ref>
+
+}}
+
+==Further reading==
+{{refbegin}}
+*{{cite journal |author=Patton J |title=Breathing life into protein drugs — Inhalation of therapeutic macromolecules is a feasible, natural, more people-friendly, delivery system |journal=Nat. Biotechnol. |volume=16 |issue=2 |pages=141–3 |date=February 1998 |pmid=9487516 |doi=10.1038/nbt0198-141 |s2cid=20224465 }}
+{{refend}}
+
+==External links==
+*[http://www.mece.ualberta.ca/arla/tutorial.htm Basics aspects of inhaled pharmaceutical aerosols]
+*[https://web.archive.org/web/20061125020922/http://www.normanchigier.com/SpraySystemsusedinAerosolMedicationandTabletCoatings.html Recent advances in spray medication technology]
+*[https://web.archive.org/web/20110707071434/http://zhenbo.9f.com/ Discrete simulation of powder dispersion in pharmaceutical aerosol inhalers]
+
+{{Dosage forms|state=expanded}}
+
+[[Category:Respiratory therapy]]
+[[Category:Medical pumps]]
+[[Category:Drug delivery devices]]
+[[Category:Asthma]]
+[[Category:Dosage forms]]

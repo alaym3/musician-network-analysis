@@ -1,0 +1,76 @@
+{{short description|Finnish pop group}}
+{{Infobox musical artist
+| name            = Vesterinen Yhtyeineen
+| image           = Vesterinen Yhtyeineen - Ilosaarirock 2010.jpg
+| caption         = Vesterinen Yhtyeineen (2010)
+| image_size      =
+| alias           =
+| origin          = [[Uusimaa]], Finland
+| genre           = [[Indie pop]]
+| years_active    = 2009–present
+| label           = Universal Music
+| associated_acts =
+| website         = {{URL|http://www.vesterinenyhtyeineen.fi/}}
+| current_members = Tero Vesterinen <br /> Petri Kivimäki <br /> Mikko Enqvist <br /> Markus Piha <br /> Janne Riionheimo <br /> Teemu Jokinen
+| past_members    = 
+}}
+
+'''Vesterinen Yhtyeineen''' is a Finnish indie pop group made up of six members with Tero Vesterinen as main vocalist. They are signed to Universal Music Finland. The debut album of the band, ''Jönköping'', was released on 26 August 2009 with single "Mitä tapahtui Hokkasen Timolle" getting heavy airplay. The band was nominated for Best Newcomer during Emma awards in 2009.
+
+==Members==
+*Tero Vesterinen – singer
+*Petri Kivimäki	– guitar
+*Mikko Enqvist – guitar
+*Markus Piha – bass
+*Janne Riionheimo – keyboards
+*Teemu Jokinen – drums
+
+==Discography==
+===Albums===
+{| class="wikitable"
+!align="center" rowspan="2" width="10"|Year
+!align="center" rowspan="2" width="180"|Album
+!align="center" colspan="1" width="30"|Peak positions
+|-
+!width="20"|<small>[[The Official Finnish Charts|FIN]]<br><ref name="finnishcharts">[http://finnishcharts.com/showinterpret.asp?interpret=Vesterinen+Yhtyeineen FinnishCharts.com: Vesterinen Yhtyeineen discography]</ref></small>
+|-
+|align="center"|2009
+|''Jönköping'' 
+|align="center"|12
+|-
+|align="center"|2011
+|''Erikoismiehen jäähyväiset'' 
+|align="center"|12
+|-
+|align="center"|2013
+|''Tiedän miltä tuntuu'' 
+|align="center"|7
+|-
+|align="center"|2016
+|''Kirottu yksinäisyys'' 
+|align="center"|12
+|-
+|align="center"|2017
+|''Paviaani-Parhaat 2009–2017''
+|align="center"|17<br /><ref>{{Cite web|url=http://ifpi.fi/tilastot/virallinen-lista/albumit/2017/40|title = Suomen Virallinen Lista}}</ref>
+|-
+|align="center"|2019
+|''Faaraoiden aika''
+|align="center"|7<br /><ref>{{Cite web|url=https://ifpi.fi/tilastot/virallinen-lista/albumit/2019/10|title=Suomen Virallinen Lista}}</ref>
+|-
+|align="center"|2021
+|''Meissä asuu elämä''
+|align="center"|2<br /><ref>{{cite web|url=https://www.ifpi.fi/lista/albumit/2021/16/|title=Albumit 16/2021|publisher=[[Musiikkituottajat]]|language=fi|access-date=25 April 2021}}</ref>
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.vesterinenyhtyeineen.fi/ Official website]
+*[http://www.last.fm/music/Vesterinen+yhtyeineen Last.fm page]
+
+{{Authority control}}
+{{DEFAULTSORT:Vesterinen Yhtyeineen}}
+
+[[Category:Finnish musical groups]]

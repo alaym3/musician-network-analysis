@@ -1,0 +1,133 @@
+{{short description|Commune in Corsica, France}}
+{{Infobox French commune
+|name               = Zoza
+|commune status     = [[Communes of France|Commune]]
+|image              = Zoza.JPG
+|caption            = A general view of the village of Zoza
+|arrondissement     = Sartène
+|canton             = Sartenais-Valinco
+|INSEE              = 2A363
+|postal code        = 20112
+|mayor              = Pierre Marcellesi
+|term               = 2020-2026
+|intercommunality   = [[Communauté de communes de l'Alta Rocca|Alta Rocca]]
+|coordinates        = {{coord|41.7186|9.0706|format=dms|display=inline,title}}
+|elevation m        = 450
+|elevation min m    = 158
+|elevation max m    = 826
+|area km2           = 5.05
+|population             = {{France metadata Wikidata|population_total}}
+|population date        = {{France metadata Wikidata|population_as_of}}
+|population footnotes   = {{France metadata Wikidata|population_footnotes}}
+|demonym            = Zozais, Zozaises
+}}
+
+'''Zoza''' is a [[Communes of France|commune]] in the [[Corse-du-Sud]] [[Departments of France|department]] of [[France]] on the island of [[Corsica]].
+
+==Geography==
+The Rizzanese River runs through the village which is located 88&nbsp;km from [[Ajaccio]].
+
+==Population==
+
+{{Historical populations
+| align = none
+| cols = 2
+| percentages = pagr
+| source = EHESS<ref name=ehess>{{Cassini-Ehess|41469|Zoza}}</ref> and INSEE<ref name=pophist>[https://www.insee.fr/fr/statistiques/2011101?geo=COM-2A363#POP_T1 Population en historique depuis 1968], INSEE</ref><ref>[https://www.insee.fr/fr/statistiques/5001880?geo=COM-2A363 Populations légales 2018], INSEE</ref>
+| graph-pos = bottom
+|1800 | 194
+|1806 | 178
+|1821 | 192
+|1831 | 201
+|1836 | 211
+|1841 | 208
+|1846 | 227
+|1851 | 217
+|1856 | 202
+|1861 | 240
+|1866 | 260
+|1872 | 240
+|1876 | 260
+|1881 | 274
+|1886 | 269
+|1891 | 269
+|1896 | 286
+|1901 | 211
+|1906 | 210
+|1911 | 209
+|1921 | 197
+|1926 | 231
+|1931 | 233
+|1936 | 240
+|1946 | 230
+|1954 | 200
+|1962 | 117
+|1968 | 84
+|1975 | 80
+|1982 | 67
+|1990 | 55
+|1999 | 51
+|2005 | 61
+|2006 | 62
+|2007 | 63
+|2008 | 60
+|2009 | 56
+|2010 | 53
+|2011 | 52
+|2012 | 51
+|2013 | 52
+|2014 | 52
+|2015 | 53
+|2016 | 54
+|2017 | 54
+|2018 | 58
+}}
+
+==Politics==
+
+'''Presidential Elections Second Round:<ref>{{Cite web|url=http://www.lemonde.fr/data/france/presidentielle-2017/|title=Résultats France - Présidentielle 2017 - 1er et 2nd tour}}</ref>'''
+
+{| class="wikitable"
+|-
+!colspan="2"|Election!!Winning Candidate!!Party!!%
+|-
+|style="background-color: {{En Marche!/meta/color}}" |
+| [[2017 French presidential election|2017]]
+| [[Emmanuel Macron]]
+| [[En Marche!|EM]]
+| 53.66
+|-
+|style="background-color: {{Union for a Popular Movement/meta/color}}" |
+| [[2012 French presidential election|2012]]
+| [[Nicolas Sarkozy]]
+| [[Union for a Popular Movement|UMP]]
+| 69.23
+|-
+|style="background-color: {{Union for a Popular Movement/meta/color}}" |
+| [[2007 French presidential election|2007]]
+| [[Nicolas Sarkozy]]
+| [[Union for a Popular Movement|UMP]]
+| 70.69
+|-
+|style="background-color: {{Rally for the Republic/meta/color}}" |
+| [[2002 French presidential election|2002]]
+| [[Jacques Chirac]]
+| [[Rally for the Republic|RPR]]
+| 80.00
+|}
+
+==See also==
+*[[Communes of the Corse-du-Sud department]]
+
+==References==
+{{reflist}}
+
+{{Commons category}}
+{{Corse-du-Sud communes}}
+
+{{authority control}}
+
+[[Category:Communes of Corse-du-Sud]]
+
+
+{{CorseSud-geo-stub}}

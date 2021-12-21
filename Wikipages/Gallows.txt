@@ -1,0 +1,85 @@
+{{Short description|Structure for execution by hanging}}
+{{About|the execution device|other uses|Gallows (disambiguation)}}
+{{Redirect|Gallows tree|the folk song|The Gallows Tree}}
+{{more citations needed|date=May 2016}}
+[[File:Gallows in Texas, 1916.jpg|thumb|Unidentified men wait at the gallows prior to the hanging of [[List of people executed in Texas, 1910–1919|Melquiades Chapa and Jose Buenrostro]] on May 19, 1916, in [[Brownsville, Texas]].]]
+
+A '''gallows''' (or '''scaffold''') is a frame or elevated beam, typically wooden, from which objects can be suspended (i.e., hung) or "weighed". Gallows were thus widely used to suspend public weighing scales for large and heavy objects such as sacks of grain or minerals, usually positioned in markets or toll gates. The term was also used for a projecting framework from which a ship's anchor might be raised so that it is no longer sitting on the bottom, i.e., "weighing [the] anchor,” while avoiding striking the ship’s hull.
+
+In modern usage it has come to mean almost exclusively a scaffold or gibbet used for [[execution (legal)|execution]] by [[hanging]].
+
+==Etymology==
+The term "[[wikt:gallows|gallows]]" was derived from a [[Proto-Germanic]] word ''[[wikt:Reconstruction:Proto-Germanic/galgô|galgô]]'' that refers to a "pole", "rod" or "tree branch".<ref>{{cite web|url=https://www.dwds.de/wb/Galgen|title=Galgen, der|work={{ill|Digital dictionary of the German language (DWDS)|de|Digitales Wörterbuch der deutschen Sprache}}|language=de}}</ref> With the beginning of Christianization, [[Ulfilas]] used the term ''galga'' in his [[Gothic language|Gothic]] Testament to refer to the cross of Christ, until the use of the Latin term (crux = cross) prevailed.<ref>{{cite book|author=Charles Archibald Anderson Scott|url=https://archive.org/details/ulfilasapostleof00scot|title=Ulfilas, apostle of the Goths: together with an account of the Gothic churches and their decline|publisher=Cambridge: Macmillan and Bowes|year=1885|page=[https://archive.org/details/ulfilasapostleof00scot/page/133 133]}}</ref>
+
+==Forms of hanging==
+Gallows can take several forms:
+* The simplest form (as often used in the game "[[Hangman (game)|Hangman]]") resembles an inverted "L" (or a Greek/Cyrillic "Г"), with a single upright and a horizontal beam to which the [[rope]] [[noose]] would be attached.
+* The horizontal crossbeam is supported at both ends.
+* There were even temporary gallows, which were portable, but weaker. 
+* The [[Tyburn gallows]], commonly known as Tyburn Tree, was triangular in plan, with three uprights and three crossbeams, allowing up to 24 people to be executed simultaneously when all three sides were used.
+Occasionally, improvised gallows were used, usually by hanging the condemned from a tree or [[street light]]. Hangings from such improvised gallows are usually [[lynchings]] rather than judicial executions. In Afghanistan, the [[Taliban]] used [[association football|football]] [[Association football pitch#Goals|goal]]s as gallows.{{citationneeded|date=August 2021}}
+
+==Types==
+
+[[File:Tombstone courthouse gallows.jpg|thumb|These gallows in [[Tombstone Courthouse State Historic Park]] are maintained for historical purposes by [[Arizona State Parks]].]]
+
+===Permanent===
+Gallows may be permanent to act as a deterrent and grim symbol of the power of [[high justice]] (the French word for gallows, ''potence'', stems from the Latin word ''potentia'', meaning "power"). Many old prints of European cities show such a permanent gallows erected on a prominent hill outside the walls, or more commonly near the castle or other seat of justice. In the modern era the gallows were often installed inside a prison; freestanding on a scaffold in the yard, erected at ground level over a pit, enclosed in a small shed of stone, brick or wood, built into the gallery of a prison wing (with the beam resting in [[Bracket (architecture)|brackets]] on opposite walls), or in a purpose-built execution suite of rooms within the wing.
+
+===Temporary===
+Gallows can also be temporary. In some of the cases, they were even moved to the location of the crime. In England, [[pirates]] were typically executed using a temporary gallows, at low tide in the [[intertidal zone]], then left for the sea to wash over them during the following high tides.<ref name="Konstan1998" /> [[John the Painter]] was hanged in 1777 from the mizzenmast of [[HMS Arethusa (1759)|HMS Arethusa]] for [[arson in royal dockyards]], the highest temporary gallows erected in British history.<ref>http://www.portsmouthdockyard.org.uk/Page%206.htm</ref>
+
+[[File:Photo poultry hall.jpg|thumb|upright|The Gallows in [[Rutland County Museum]]]]
+
+The only surviving New Drop gallows in the UK are in [[Rutland County Museum]]. The gallows were portable and were set up at the gaol (jail) when needed. These gallows were first used in 1813 to hang two burglars. The New Drop design was not very effective as the drop was too short to break the neck cleanly.
+
+===Portable===
+If a crime took place inside, gallows were sometimes erected—and the criminal hanged—at the front door. In some cases of multiple offenders it was not uncommon to erect multiple temporary gallows, with one noose per condemned criminal. In one case a condemned strangled to death in agony for forty minutes until he finally died from [[asphyxiation]].
+
+===Horse and cart===
+Hanging people from early gallows sometimes involved fitting the noose around the person's [[neck]] while he or she was on a ladder or in a horse-drawn cart underneath. Removing the ladder or driving the cart away left the person dangling by the neck to slowly strangle. A noted example of this type of execution in the USA was the hanging of British spy [[John André]] in 1780.
+
+Later, a "scaffold" with a [[trapdoor]] tended to be used, so victims dropped down and died quickly from a broken neck rather than through [[strangulation]], especially if extra weights were fixed to their ankles.
+
+During the era of public execution in [[London]], England, a prominent gallows stood at [[Tyburn]], on what is now [[Marble Arch]]. Later executions occurred outside [[Newgate Prison]], where the [[Old Bailey]] now stands.
+
+== Examples ==
+* [[Hangman's Elm]]
+* [[Triberg Gallows]]
+
+==See also==
+* [[Capital punishment]]
+* [[Christian cross]]
+* [[Dule Tree]]
+* [[Gibbet]]
+* [[Jail tree]]
+* [[Moot hill]]
+
+==References==
+{{Reflist
+| refs =
+
+<ref name="Konstan1998">
+{{cite book
+| last = Konstam
+| first = Angus
+| title = Pirates:1660–1730
+| year = 1998
+| publisher = Osprey Publishing
+| isbn = 1-85532-706-6
+}}
+</ref>
+Year 
+1965
+}}
+
+==External links==
+{{Commons|Gallows}}
+* [http://news.bbc.co.uk/1/hi/england/suffolk/4754515.stm BBC Article about British manufacturer].
+* [[wikibooks:A Researcher's Guide to Local History Terminology]]: Local History terminology.
+
+{{Authority control}}
+
+<!--Categories-->
+[[Category:Gallows| ]]
+[[Category:Execution equipment]]

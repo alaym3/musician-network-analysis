@@ -1,0 +1,33 @@
+{{Short description|Genus of butterflies}}
+{{for|the comic book character|Zera (character)}}
+{{Taxobox
+| name = ''Zera''
+| image = 
+| image_width = 
+| image_caption = 
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Lepidoptera]]
+| familia = [[Hesperiidae]]
+| subfamilia = [[Pyrginae]]
+| tribus = [[Achylodidini]] 
+| genus = '''''Zera'''''
+| genus_authority = Evans, 1953
+| subdivision = 
+| subdivision_ranks = [[Species]]
+}}
+
+'''''Zera''''' is a genus of [[skipper (butterfly)|skippers]] in the family [[Hesperiidae]].
+
+==References==
+*[http://www.nhm.ac.uk/jdsml/research-curation/projects/butmoth/GenusList3.dsml?searchPageURL=index.dsml&SUPERFAMIL=&FAMILYqtype=starts+with&FAMILY=hesperiidae&SUBFAMILYqtype=starts+with&SUBFAMILY=&TRIBEqtype=starts+with&TRIBE=&SUBTRIBEqtype=starts+with&SUBTRIBE=&GENUSqtype=starts+with&GENUS=&AUTHORqtype=starts+with&AUTHOR=&YEARqtype=equals&YEAR=&sort=GENUS Natural History Museum Lepidoptera genus database]
+
+{{italictitle}}
+{{Taxonbar|from=Q1761087}}
+
+[[Category:Pyrginae]]
+[[Category:Hesperiidae genera]]
+
+
+{{Pyrginae-stub}}

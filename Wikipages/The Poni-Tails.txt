@@ -1,0 +1,116 @@
+{{Short description|American musical girl group}}
+{{Infobox musical artist
+|name            = The Poni-Tails
+|background      = group_or_band
+|image           =File:The Poni Tails 1960.JPG
+|caption         =The Poni-Tails in 1960
+|origin          = [[Lyndhurst, Ohio|Lyndhurst]], [[Ohio]], United States
+|genre           = [[Pop music]]
+|years_active    = 1956–1960
+|label           = Point, Marc, [[ABC Records|ABC-Paramount]] 
+|associated_acts = 
+|past_members    = Toni Cistone<br/>Karen Topinka<br/>Patti McCabe<br/>LaVerne Novak}}
+
+'''The Poni-Tails''' were an [[United States|American]] [[girl group]] from [[Lyndhurst, Ohio|Lyndhurst]], [[Ohio]], United States.  Their major hit was "[[Born Too Late (song)|Born Too Late]]" in 1958.
+
+==History==
+Formed in a suburb of [[Cleveland, Ohio]], United States, the Poni-Tails - Toni Cistone, Karen Topinka and Patti McCabe (Patricia Ann McCabe, July 6, 1939 – January 17, 1989)<ref>{{Cite book|url=https://books.google.com/books?id=DykffzkFALoC&q=%22patti+mccabe%22+1939+1989&pg=PA404|title=Rock Obituaries: Knocking On Heaven's Door|first=Nick|last=Talevski|date=April 7, 2010|publisher=Omnibus Press|isbn=9780857121172|via=Google Books}}</ref> - started singing at [[Charles F. Brush High School|Brush High School]], which they all attended.<ref name="Larkin">{{cite book|title=[[Encyclopedia of Popular Music|The Virgin Encyclopedia of Popular Music]]|editor=Colin Larkin|editor-link=Colin Larkin (writer)|publisher=[[Virgin Books]]|date=1997|edition=Concise|isbn=1-85227-745-9|page=963}}</ref> Tom Ilius, a music publisher, had them signed to a local [[record label]], Point Records, which released their first [[single (music)|single]], "Your Wild Heart" b/w "Que la Bozena" (the latter of which was written by the group). "Heart" was [[cover version|covered]] by the then-15-year-old [[Joy Layne]] and became a nationwide [[hit record|hit]].<ref name=amg>[{{Allmusic|class=artist|id=p115134|pure_url=yes}} The Poni-Tails] at [[Allmusic]]</ref> The next release was "Can I Be Sure" on Marc Records, which was not a success; following this release Topinka left the group and was replaced by LaVerne Novak.
+
+Soon after this, the group signed to [[ABC Records|ABC-Paramount]] and released "Just My Luck to Be Fifteen", a flop.<ref name="Larkin"/> Following this was "Come on Joey, Dance With Me" b/w "[[Born Too Late (song)|Born Too Late]]". The [[A-side and B-side|B-side]] was the one that caught the attention of [[radio]] DJs and became the group's biggest hit, reaching #11 on the [[United States|U.S.]] [[Hot R&B/Hip-Hop Songs|R&B singles chart]] and #7 on the [[Billboard Hot 100|''Billboard'' Hot 100]] in 1958. Follow-ups "Seven Minutes In Heaven" (#85 Pop) and "[[I'll Be Seeing You (song)|I'll Be Seeing You]]" (#87 Pop) fared less well, and the group's last single, 1960's "Who, When And Why", did not chart.<ref name=amg/>
+
+ABC-Paramount attempted to sign the group to a further five-year contract, but they turned it down. The members left the [[music industry]] and pursued careers in other fields in Ohio.<ref name="Larkin"/> They reunited to play a Cleveland festival, Moon Dog Coronation ball, in 1997.<ref name=amg/> A [[Compact disc|CD]] released by Poni Records with 12 tracks credited to the Poni-Tails contains only one Poni-Tails song ("[[Born Too Late (song)|Born Too Late]]") and 11 tracks recorded by other groups.<ref name=amg/>
+
+In 1991, LaVerne (Novak) Glavac was working for a [[real estate]] agent in Mentor, Ohio, and had five grandchildren. Toni (Cistone) Costabile was working at a [[high school]] in [[Shaker Heights, Ohio]]. Patti (McCabe) Barnes died of [[cancer]] on January 17, 1989. Tom Illius subsequently became a top executive with the [[William Morris Agency]] in [[Los Angeles, California|Los Angeles]], [[California]]. He died on September 7, 2011, in Los Angeles.
+
+==Singles==
+{| class="wikitable" style=text-align:center;
+|-
+!rowspan="2"|Year
+!rowspan="2"|Title
+!colspan="3"|Peak chart positions 
+!rowspan="2"|[[Record label|Record Label]]
+!rowspan="2"|[[A-side and B-side|B-side]]
+|- style="font-size:smaller;"
+!align=centre| [[Billboard Hot 100|US]]
+!align=centre| [[Hot R&B/Hip-Hop Songs|R&B]]
+!align=centre| [[UK Singles Chart|UK]]<ref name="British Hit Singles & Albums">{{cite book
+| first= David
+| last= Roberts
+| year= 2006
+| title= British Hit Singles & Albums
+| edition= 19th
+| publisher= Guinness World Records Limited 
+| location= London
+| isbn= 1-904994-10-5
+| page= 431}}</ref>
+|- 
+|rowspan="1"| 1957
+|align=left| "It's Just My Luck to Be Fifteen"
+| –
+| –
+| –
+|rowspan="8"| [[ABC Records|ABC-Paramount Records]]
+| "Wild Eyes and Tender Lips"
+|-  
+|rowspan="2"| 1958
+|align=left| "[[Born Too Late (song)|Born Too Late]]"
+| 7
+| 11
+| 5
+| "Come On Joey Dance with Me"
+|- 
+|align=left| "Seven Minutes in Heaven"
+| 85
+| –
+| –
+| "Close Friends"
+|- 
+|rowspan="3"| 1959
+|align=left| "Early to Bed"
+| –
+| –
+| 26
+| "Father Time"
+|-
+|align=left| "Moody"
+| –
+| –
+| –
+| "Oom Pah Polka"
+|-
+|align=left| "[[I'll Be Seeing You (song)|I'll Be Seeing You]]"
+| 87
+| –
+| –
+| "I'll Keep Tryin'"
+|-
+|rowspan="2"| 1960
+|align=left| "Come Be My Love"
+| –
+| –
+| –
+| "Before We Say Goodnight"
+|-
+|align=left| "Who, When, And Why"
+| –
+| –
+| –
+| "Oh, My, You"
+|-
+|}
+
+==Members==
+*Toni Cistone
+*Karin Topinka (to 1958)
+*LaVerne Novak (1958–1960)
+*Patti McCabe
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Poni-Tails}}
+[[Category:American girl groups]]
+[[Category:Musical groups from Cleveland]]
+[[Category:Musical groups with year of establishment missing]] <!-- hidden maintenance category -->

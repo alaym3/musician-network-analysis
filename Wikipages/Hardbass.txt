@@ -1,0 +1,399 @@
+{{short description|Music genre}}
+{{refimprove|date=December 2018}}
+{{Infobox music genre
+| name              = Hardbass
+| native_name       = Хардбас(с)
+| etymology         = Hard, bass
+| other_names       =
+| bgcolor           = silver
+| image             =
+| alt               =
+| caption           =
+| stylistic_origins = {{hlist|[[UK hard house]]|[[Scouse house]]|[[Bouncy techno]]|[[Hardstyle]]}}
+| cultural_origins  = Late 1990s, [[Russia]]
+| instruments       =
+| derivatives       = [[UK hardcore]], [[hard bounce]]
+| subgenres         =
+| subgenrelist      =
+| fusiongenres      =
+| regional_scenes   = Russia, Germany, Poland, Latvia
+| local_scenes      = [[Moscow]], [[Saint Petersburg]], [[Kaliningrad]], [[Riga]], [[Warsaw]], [[Berlin]]
+| other_topics      =
+| footnotes         =
+| current_year      = 
+}}
+
+'''Hardbass''' or '''hard bass''' ({{lang-rus|хардбас(с)|khardbas(s){{efn|Sometimes, an additional [[Es (Cyrillic)|''с'']] (s) is not written.}}|xɐrdˈbas}}) is a subgenre of [[electronic music]] that originated from [[Russia]] during the late 1990s, drawing inspiration from [[UK hardcore]], [[UK hard house]], [[bouncy techno]] and [[hardstyle]]. Hardbass is characterized by its fast [[tempo]] (usually 150–175 BPM), donks, distinctive [[bassline|basslines]] (commonly known as "[[UK hard house#Hard bounce|hard bounce]]"), distorted sounds, heavy kicks and occasional [[rapping]]. Hardbass has become a central stereotype of the [[gopnik]] subculture. In several European countries, so-called "hardbass scenes" have sprung up,<ref>{{cite web|url=https://noisey.vice.com/en_us/article/69qv76/russias-hard-bass-scene-is-even-more-ridiculous-than-the-harlem-shake|title=Russia's Hard Bass Scene is Completely Insane|last=Eror|first=Aleks|website=Noisey|access-date=26 April 2017}}</ref> which are events related to the genre that involve multiple people dancing in public while masked, sometimes with [[moshing]] involved. 
+
+From 2015 onward, hardbass has also appeared as an [[Internet meme]], depicting Slavic and Russian subcultures with the premiere of the video "Cheeki Breeki Hardbass Anthem", based on the [[S.T.A.L.K.E.R.]] series of games from [[GSC Game World]]. Aswell as in the 2017 "Slavic Train" meme, depicting a [[ER2 electric trainset|Train]] bouncing up & down on rough [[Railway track|Track]], passengers dancing to Hardbass inside.{{cn|date=November 2020}}
+
+== Notable artists ==
+{| class="wikitable"
+|-
+! Artist name
+! Country
+|-
+|[https://www.youtube.com/channel/UCgL9Kp942itDl4D1Sa9mSOQ apartje.] (deceased)
+| {{flag|Germany}}
+|-
+|[https://www.youtube.com/channel/UCusaOYfkki9drs2eIfRZGfQ Gopnik McBlyat]
+| {{flag|Poland}}
+|-
+| [https://wykoprecords.bandcamp.com/album/hardbass-wadowice XD Project]<ref>{{Cite web|url=https://archive.org/details/XDProject-HardbassWadowice|title=XD Project - Hardbass Wadowice|date=28 February 2014}}</ref><ref>{{Cite web|url=https://wykoprecords.bandcamp.com/album/hardbass-wadowice|title=Hardbass Wadowice, by XD Project}}</ref><br>{{Small|([[catholicism|catholic]] hardbass)}}
+| {{flag|Poland}}
+|-
+|[https://www.youtube.com/channel/UC7A3-bBLEXQKTYpH-sYQFJA uamee] 
+| {{flag|Latvia}}
+|-
+|[https://www.youtube.com/channel/UCJKnwx_goBYHUOS8Zj_4LEw Hard Bass School]
+| {{flag|Russia}}
+|-
+|[https://www.youtube.com/user/MrXSproject XS Project]
+| {{flag|Russia}}
+|-
+| Бетоnщики
+| {{flag|Russia}}
+|-
+| Davay
+| {{flag|Russia}}
+|-
+| DJ Rentgen
+| {{flag|Russia}}
+|-
+| DJ Snat
+| {{flag|Russia}}
+|-
+| DJ Bar@bass
+| {{flag|Russia}}  
+|-
+|[https://soundcloud.com/diamondback-project DB Project]
+|{{flag|United Kingdom}}  
+|-
+|[https://www.youtube.com/channel/UC-_3NleHqOgWptV4ewKG9hA Alan Aztec]
+|{{flag|United Kingdom}}
+|-
+| Dertexx
+| {{flag|Russia}} 
+|-
+|[https://www.youtube.com/channel/UCc_GwcRrx3sHJJ78my4g7sA HBKN]
+| {{flag|Russia}}
+|-
+|
+[https://www.youtube.com/user/RussianBumpingClubs Sonic Mine]
+| {{Flag|Russia}}
+|-
+| DJ Yurbanoid
+| {{flag|Russia}}
+|-
+|[https://www.youtube.com/channel/UCjtBrRg4xUFfWSi5_c9WrYA Russian Village Boys]
+|{{flag|Russia}}
+|-
+| Жестянщики (Zhestyanshiki/ZHTK/Hardboss)
+| {{flag|Russia}}
+|-
+|[https://soundcloud.com/djcheba DJ Cheba]
+| {{flag|Russia}}
+|-
+| Gotxo & Gatxi
+| {{flag|France}}
+|-
+|[https://soundcloud.com/euskal-bass Euskal Bass]
+| {{flag|France}}
+|-
+|[https://soundcloud.com/tonn-hardbass Tonn Hardbass]
+| {{flag|France}}
+|-
+| Gari Seleckt
+| {{flag|Spain}}
+|-
+| DJ DBC
+| {{flag|Spain}}
+|-
+| Paul HB
+| {{flag|Spain}}
+|-
+| STARSLAV
+| {{flag|Sweden}}
+|-
+|[https://www.youtube.com/channel/UCn3ynNJDxjEvigxzKCtzwTw Chernoblin]
+| {{flag|Finland}} 
+|-
+| [https://www.youtube.com/channel/UCZjxTFvOYgiLBs_t3UcFpnw DJ Pump]
+| {{flag|Finland}} 
+|-
+|[https://m.youtube.com/channel/UCnWnuHHjG-__QxuoZgjBgIg DJ Blyatman]
+| {{Flag|Slovakia}}
+|-
+|[https://www.youtube.com/channel/UCAFz3fH8jQXIbU-7LzYo_XQ Srpski Bass]
+| {{flag|Serbia}}
+|-
+|DJ TOTZI
+| {{flag|Bulgaria}}
+|-
+|Собояжи
+|{{flag|Russia}}
+|-
+|[https://www.youtube.com/user/NocturnoPlays Life of Boris]
+| {{flag|Estonia}}
+|-
+|XS-Alex
+| {{flag|Belgium}}
+|-
+|MP5
+| {{flag|Czech Republic}}
+|}
+
+== Notable songs and albums ==
+{| class="wikitable"
+|-
+! Artist 
+! Songs
+|-
+|Alan Aztec
+| "Papa Hardbassov", "Mother Russia" "Polska" "Deutschland"
+| 
+|-
+| apartje.
+| "Cheeki Breeki Hardbass Anthem", "Cheeki Breeki Hardbass 2" (released by Life of Boris)
+|-
+| DJ TOTZI
+| "European Pumper (Feat Mesney6)"
+|-
+| Бетоnщики
+| "Бетон как Бетон"
+|-
+| Бетоnщики
+| "Долбили или нет!"
+|-
+| Bombass Records
+| "Będzie jazda"
+|-
+| Davay
+| "Tri Poloski"
+|-
+| Davay
+|  "Critikal"
+|-
+|DB Project
+|[https://soundcloud.com/diamondback-project/db-project-kalashnikov-hardbass "Kalashikov (Калашников)"]
+|-
+| DJ Blyatman
+| "Gopnik"
+|-
+| DJ Blyatman
+| "Chernobyl"
+|-
+| DJ Blyatman
+| "Tsar Bomb"
+|-
+| DJ Blyatman ''(featuring Life of Boris)''
+| "Slav King"
+|-
+| DJ Blyatman ''(featuring Life of Boris)
+| "Generation Hardbass"
+|-
+| DJ DBC
+| "Repeat"
+|-
+| DJ Mike
+| "Black Jack"
+|-
+| DJ Mike
+| "Speedway"
+|-
+| DJ Snat
+| "Choose Your Power"
+|-
+| Euskal Bass
+| "Hard Bass Crew Anthem (Original Mix)"
+|-
+| Gopnik McBlyat
+| "Snakes in Tracksuits"
+|-
+| Gopnik McBlyat
+| "Murka"
+|-
+| Gopnik McBlyat
+| "Szpion (Shpion) Detector"
+|-
+| Gopnik McBlyat
+| "Cheeki Breeki Revolt"
+|-
+| Gopnik McBlyat ''(featuring uamee)''
+| "Monolith"
+|-
+| Hard Bass Club
+| "Ushanka"
+|-
+| Hard Bass School
+| "Narkotik Kal"
+|-
+| Hard Bass School
+| "Sex, Kvass, Hardbass"
+|-
+| Hard Bass School
+| "Opa Blia"
+|-
+| Hard Bass School
+| "Nash Gimn (Hard Bass Adidas)"
+|-
+|Hard Bass School
+|"Narkoman"
+|-
+| Hard Bass School
+| ''"The Album"''
+|-
+| Hard Bass School
+| "Slav"
+|-
+| Kolbaser Project
+| "Energy"
+|-
+| N-ICE Project
+| "Freakin"
+|-
+| Obsidian Project
+| "Pulser"
+|-
+| .ılııllı.Р Э Д Л А Й Н.ıllıılı.
+| "Anomaly – Twitch Highlights 6 (.ılııllı.Р Э Д Л А Й Н.ıllıılı. Remix)"
+|-
+| .ılııllı.Р Э Д Л А Й Н.ıllıılı.
+| "The Juiciest Tuffin vs Savant – Mother Russia Hardbass (.ılııllı.Р Э Д Л А Й Н.ıllıılı. Mashup)"
+|-
+| .ılııllı.Р Э Д Л А Й Н.ıllıılı.
+| "DОИКАИ's miasteczko"(There is a higher quality version but it's a Premium track)
+|-
+| Sonic Mine
+| "Hardbass Attack"
+|-
+| Sonic Mine
+| "Scream for DJ"
+|-
+| Sonic Mine
+| "Пика – патимэйкер (Sonic Mine ПАМП Remix)"
+|-
+| Sonic Mine
+| "Puta Bass"
+|-
+| Sonic Mine
+| "Hot Times"
+|-
+| STARSLAV
+| "OPA"
+|-
+| TonnHB
+| "Euskal Bass (Original Gangsta mix)"
+|-
+|Kekarov
+|"The Zone"
+|-
+|Kekarov
+|"Kalashnikov"
+|-
+|Krankšvester
+|"Slava"
+|-
+| uamee (featuring HBKN)
+|"Gopnitsa"
+|-
+| uamee
+| "High Quality Nahui"
+|-
+| uamee
+| "IL-76"
+|-
+| uamee
+| "Protivogaz"
+|-
+| uamee
+| "Kopeika"
+|-
+| uamee
+| "THE SAUSAGE"
+|-
+| uamee ''(featuring Life of Boris and Professional Gopnik)''
+| "LADA"
+|- 
+| Wod-c
+| "Bass Of A Zombie II"
+|-
+| XD Project
+| "Hardbass Wadowice" album
+|-
+| XS Project
+| "Bochka, Bass, Kolbaser"
+|-
+| XS Project
+| "Колотушки"
+|-
+| XS Project
+| "Ya taschus ot kolotushek" <ref>https://www.youtube.com/watch?v=YiUudv43ozg</ref> <ref>{{Cite web|url=https://open.spotify.com/album/49nO4udNqUv4v0jQpXi4KD|title = Old School Collection, Pt. 1|website = [[Spotify]]|date = 27 April 2018}}</ref>
+|-
+| XS Project
+| "Vodovorot"
+|-
+| XS Project
+| "NarkoBarony"
+|-
+| XS Project ''(featuring Life of Boris)''
+| "Red Roubles"
+|-
+|XS Project
+|"Meanwhile in Russia (Take me to Russia)”
+|-
+| ZHTK
+| "Arabian Dance"
+|-
+| Жестянщики
+| "Давай сука давай"
+|-
+|- 
+|DJ Lil' Kurt
+| "F*ck you"
+|-
+|Собояжи
+| "Мни жестянку"
+|-
+|Собояжи
+| "Трубы, речка и лаве"
+|-
+|Собояжи
+|  "На собаке и на кошке"
+|-
+|Собояжи
+| "Банка яжки"
+|-
+|Собояжи
+| "Семь процентов"
+|-
+|Собояжи
+| "Дом кирпичный"
+|-
+|Собояжи
+| "Я тебя забрал"
+|-
+|Собояжи
+| "Бит и басс"
+|}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+
+<references />
+
+<br/>
+
+{{House music}}
+
+{{Portal|Internet|Russia}}
+
+[[Category:2000s in music]]
+[[Category:2010s in music]]
+[[Category:Electronic dance music genres]]
+[[Category:Internet culture]]
+[[Category:Internet memes]]
+[[Category:Russian styles of music]]
+[[Category:Music memes]]

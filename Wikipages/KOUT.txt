@@ -1,0 +1,57 @@
+{{short description|Radio station in Rapid City, South Dakota}}
+{{Infobox radio station
+| name             = KOUT
+| logo             = KOUT-FM logo.png
+| city             = [[Rapid City, South Dakota|Rapid City]], [[South Dakota]]
+| area             =
+| branding         = ''Kat Country 98.7"
+| airdate          = 
+| frequency        = 98.7 [[megahertz|MHz]]
+| translator       = {{Radio Relay|102.3|K272CS|[[Spearfish, South Dakota|Spearfish]]}}
+| format           = [[Country music|Country]]
+| erp              = 100,000 [[watt]]s
+| haat             = 141 meters (463 feet)
+| class            = C1
+| facility_id      = 14642
+| coordinates      = {{coord|44|04|13|N|103|15|01|W}}
+| callsign_meaning = 
+| former_callsigns = 
+| owner            = [[HomeSlice Media Group, LLC]]
+| licensee         = 
+| sister_stations  = [[KBHB]], [[KFXS]], [[KKLS (AM)|KKLS]], [[KKMK]], [[KRCS]]
+| webcast          = [http://kout.tunegenie.com/#listenlive]
+| website          = http://www.katradio.com/
+| affiliations     =  
+}}
+
+'''KOUT''' (98.7 [[FM broadcasting|FM]], "Kat Country 98.7") is a [[radio station]] [[city of license|licensed]] to serve [[Rapid City, South Dakota]]. The station is owned by [[HomeSlice Media Group, LLC]]. It airs a [[country music]] format.<ref name="arb1">{{cite web|title=Station Information Profile |work=Arbitron |url=http://www.arbitron.com/ |url-status=dead |archiveurl=https://web.archive.org/web/20100301134627/http://www.arbitron.com/ |archivedate=2010-03-01 }}</ref>
+
+The station was assigned the KOUT call letters by the [[Federal Communications Commission]] on November 29, [[1991 in radio|1991]].<ref name="fcc1">{{cite web |title=Call Sign History |url=http://fjallfoss.fcc.gov/cgi-bin/ws.exe/prod/cdbs/pubacc/prod/call_hist.pl?Facility_id=14642&Callsign=KOUT |work=FCC Media Bureau CDBS Public Access Database}}</ref>
+
+Notable on-air personalities include "The Roadhouse" with Amy & Brandon, Dean Taylor on mid-days, Mark Houston, the last original Kat Country personality, on afternoons, and syndicated shows [http://thebigtimeonline.com/ The Big Time with Whitney Allen] on evenings and [http://www.blairgarner.com/ The Blair Garner Show] overnight.
+
+==Ownership==
+In May 1999, Triad Broadcasting reached a deal to acquire this station from brothers Jim and Tom Ingstad as part of a twelve-station deal valued at a reported $37.8 million.<ref>{{cite news |work=Broadcasting & Cable |title=Changing Hands |date=1999-05-24 |first=Alisa |last=Holmes |url=https://www.americanradiohistory.com/Archive-BC/BC-1999/BC-1999-05-24.pdf|page=83 (89)}}</ref>
+
+In July 2006, [[Schurz Communications]] reached an agreement to buy this station from Triad Broadcasting Co. as part of a six-station deal valued at a reported $19 million.<ref>{{cite news |work=Broadcasting & Cable |title=Deals |url=http://www.broadcastingcable.com/article/CA6355395.html |date=2006-07-24}}</ref> Schurz Communications created the Black Hills broadcast division, New Rushmore Radio, now known as Rushmore Media Company, Inc.
+
+Schurz Communications announced on September 14, 2015 that it would exit broadcasting and sell its television and radio stations, including KOUT, to [[Gray Television]] for $442.5 million.<ref name=sbt-saletogray>{{cite news|title=Schurz Communications to sell WSBT and other TV, radio stations|url=http://www.southbendtribune.com/news/local/schurz-communications-to-sell-wsbt-and-other-tv-radio-stations/article_e95251d6-5b1d-11e5-b80b-ef330f571e57.html|accessdate=September 14, 2015|work=[[South Bend Tribune]]|date=September 14, 2015}}</ref><ref name=b&c-saletogray>{{cite news|last1=Kuperberg|first1=Jonathan|title=Gray Acquiring TV, Radio Stations from Schurz for $442.5 Million|url=http://www.broadcastingcable.com/news/local-tv/gray-acquiring-tv-radio-stations-schurz-4425-million/144190|accessdate=September 14, 2015|work=[[Broadcasting & Cable]]|date=September 14, 2015}}</ref> Though Gray initially intended to keep Schurz' radio stations, on November 2, it announced that [[HomeSlice Media Group, LLC]] would acquire KOUT and the other Rushmore Media Company radio stations for $2.2 million; the deal reunites the stations with [[KBHB]] and [[KKLS (AM)|KKLS]], which HomeSlice acquired from Schurz in 2014 following its purchase of [[KHME|KOTA-TV]].<ref name=tvnc-saletohomeslice>{{cite news|title=Gray Sells Radio Stations From Schurz Deal|url=http://www.tvnewscheck.com/article/89665/gray-sells-radio-stations-from-schurz-deal|accessdate=November 2, 2015|work=TVNewsCheck|date=November 2, 2015}}</ref><ref name=ri-saletohomeslice>{{cite news|last1=Venta|first1=Lance|title=Gray Television Divests Schurz Clusters To Three Buyers|url=https://radioinsight.com/blog/headlines/95090/gray-television-divests-schurz-clusters-in-lafayette-south-bend/|accessdate=November 2, 2015|work=RadioInsight|date=November 2, 2015}}</ref><ref name=mctt-saletohomeslice>{{cite news|title=HomeSlice Group purchases four Rapid City radio stations|url=http://rapidcityjournal.com/news/local/communities/sturgis/homeslice-group-purchases-four-rapid-city-radio-stations/article_69c9cd7e-9b15-50bc-8ffe-b4cd58e236bf.html|accessdate=November 2, 2015|work=Meade County Times-Tribune|date=November 2, 2015}}</ref><ref>{{Cite web|title = HomeSlice Media Group purchases four Rapid City radio stations|url = http://rapidcityjournal.com/news/local/homeslice-media-group-purchases-four-rapid-city-radio-stations/article_c0be239d-448c-5c75-ba12-b94d753d1e02.html|website = Rapid City Journal|accessdate = 2015-11-05}}</ref> The sale to HomeSlice Media was consummated on February 15, 2016 at a price of $2.5 million.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.katradio.com/ KOUT official website]
+{{FM station data|KOUT}}
+
+{{clear}}
+{{The HomeSlice Group}}
+{{Rapid City Radio}}
+{{Country Radio Stations in South Dakota}}
+
+[[Category:Radio stations in South Dakota|OUT]]
+[[Category:Country radio stations in the United States]]
+[[Category:Pennington County, South Dakota]]
+
+
+{{SouthDakota-radio-station-stub}}

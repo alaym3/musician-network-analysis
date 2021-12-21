@@ -1,0 +1,45 @@
+{{short description|Person who travels in a vehicle without operating it}}
+{{use dmy dates |date=May 2021}}
+{{Other uses}}
+{{refimprove|date=April 2013}}
+{{Admiralty law}}
+[[File:Passengers on a Boat.JPG|thumb|right|Passengers on a boat in the [[Danube Delta]], 2008]]
+[[File:Passengers_in_Amtrak_lounge_car_of_San_Joaquin_(train)_2014.jpg|thumb|right|Passengers in the lounge car of an Amtrak [[San Joaquin Valley]] train, California, 2014]]
+[[File:Bicycle in The Hague 50.JPG|thumb|Passenger on a bicycle]]
+A '''passenger''' (also abbreviated as '''pax'''<ref>{{cite web|title=Define Pax|url=http://www.travel-industry-dictionary.com/pax.html|publisher=Travel Industry dictionary|access-date=5 January 2014}}</ref>) is a person who travels in a [[vehicle]] but bears little or no responsibility for the tasks required for that vehicle to arrive at its destination or otherwise operate the vehicle. The vehicles may be [[bicycle]]s, [[bus]]es, [[passenger train]]s, [[airliner]]s, [[ship]]s, [[ferryboat]]s, and other methods of transportation.
+
+Crew members (if any), as well as the driver or pilot of the vehicle, are usually not considered to be passengers. For example, a [[flight attendant]] on an airline would not be considered a passenger while on duty and the same with those working in the [[galley (kitchen)|kitchen]] or restaurant on board a ship as well as cleaning staff, but an employee riding in a [[company car]] being driven by another person would be considered a passenger, even if the car was being driven on company business.
+
+== Railways ==
+In [[railway]] parlance, passenger, as well as being the end user of a service, is also a categorisation of the type of [[rolling stock]] used.<ref name=Simmons>Simmons, J. and Biddle, G. (Eds.): ''The Oxford Companion to British Railway History: From 1603 to the 1990s'' (Oxford: Oxford University Press, 1997) {{ISBN|0-19-211697-5}}</ref> In the [[United Kingdom|British]] case, there are several categories of [[passenger train]].<ref name=Simmons /> These categories include:
+*'''Express passenger''', which constitutes long distance and high speed railway travel between major locations such as ports and cities.<ref name=Simmons />
+*'''Semi-fast express passenger''', a type of service that is high speed, though stops at selected destinations of high population density en route.<ref name=Simmons />
+*'''Local passenger''', the lowest category of British passenger train, which provides a service that stops at all stations between major destinations, for the benefit of local populations.<ref name=Simmons />
+
+==No pax==
+{{main|Dead mileage}}
+[[File:PATH Train with No Pax.jpg|thumb|[[PATH (rail system)|PATH train]] with "NO PAX" on its [[destination sign]]]]
+In transportation, a "no pax" trip is a trip without passengers.<ref>{{cite web|title=Lady Slipper Aviation Safety Plan|url=http://ordvac.com/soro/library/Aviation/PASP/rotor-wing/Lady%20Slipper%20aviation%20safety%20plan_080910.docx|publisher=BLM and USFS|access-date=5 January 2014|archive-url=https://web.archive.org/web/20140106040213/http://ordvac.com/soro/library/Aviation/PASP/rotor-wing/Lady%20Slipper%20aviation%20safety%20plan_080910.docx|archive-date=6 January 2014|url-status=dead}}</ref> For example, no-pax flights are [[Cargo airline|freight]], [[Ferry flying|ferry]], [[repositioning cruise]]s and positioning flights.<ref>{{cite web|url=http://flightsafety.org/files/bass/bass10_burin.ppt|title=Approach and Landing Accident Reduction|publisher=Flight Safety Foundation|first=Jim|last=Burin|access-date=5 January 2014}}</ref>
+
+==Legal status==
+In most jurisdictions, laws have been [[enactment of a bill|enacted]] that dictate the legal obligations of the owner of a vehicle or vessel, or of the [[driving|driver]] or [[Aviator|pilot]] of the same, towards the passengers. With respect to passengers riding in cars and vans, the driver may owe a duty of care to passengers, particularly where the passenger's presence in the vehicle can be seen to "confer some benefit on the driver other than the benefit of his or her company or the mere sharing of expenses".<ref>William Statsky, ''Essentials of Torts'' (2011), p.339.</ref> In other situations, however, [[guest statute]]s may limit the ability of passengers to sue the driver of the vehicle over an accident. Many places require cars to be outfitted with measures specifically for the protection of passengers, such as passenger-side [[air bag]]s. With respect to passengers on commercial vehicles or vessels, both national laws and international treaties require that the carrier act with a certain standard of care. The number of passengers that a vehicle or vessel may legally carry is defined as its [[seating capacity]].<ref name=Lee>Lee Jr., Lawrence: ''Railway economics and passenger sociology'' (Oxford: Oxford University Press, 1992).</ref>
+== Types ==
+=== Revenue passenger ===
+A '''revenue passenger''' is someone who has paid a transport operator for her or his trip. That excludes non-paying passengers such as [[Deadheading (employee)|airline employees flying on free or nearly-free passes]], babies and [[children]] who do not have a seat of their own, etc. However, passengers who paid for their trip with a [[frequent-flyer program]] mileage award are usually included.
+
+This term is used in the transportation industry, in particular in [[Units of transportation measurement|traffic measures]] such as revenue passenger kilometer (RPK) and [[revenue passenger mile]] (RPM).
+
+=== Revenue passenger mile ===
+'''Revenue passenger miles''' ('''RPMs''') and '''revenue passenger kilometers''' ('''RPKs''') are measures of [[traffic]] for an [[airline]] flight, [[bus]], or [[train]] calculated by multiplying the number of revenue-paying passengers aboard the vehicle by the distance [[travel]]ed.<ref name="MIT ADP Glossary">{{cite web|title=Airline Data Project: Glossary|publisher=[[Massachusetts Institute of Technology]] Global Airline Industry Program|url=http://web.mit.edu/airlinedata/www/Res_Glossary.html|access-date=March 15, 2013}}</ref> On long-distance buses and trains (and some planes), passengers may board and disembark at intermediate stops, in which case RPMs/RPKs have to be calculated for each segment if a careful total is needed.
+
+Revenue passenger miles can be considered the basic amount of "production" that an airline creates. The revenue passenger miles can be compared to the [[available seat miles]] over an airline's system to determine the overall [[passenger load factor]].<ref>{{cite web|url=http://www.aa.com/i18n/amrcorp/corporateInformation/facts/measurements.jsp|title=Basic Measurements in the Airline Business|publisher=[[American Airlines]]|access-date=2013-03-20|url-status=dead|archive-url=https://archive.today/20130410042609/http://www.aa.com/i18n/amrcorp/corporateInformation/facts/measurements.jsp|archive-date=2013-04-10}}</ref> These measurements can further be used to measure unit revenues and unit costs.<ref>{{cite web|url=http://web.mit.edu/airlinedata/www/Traffic&Capacity.html|title=Airline Data Project: Traffic and Capacity by Operating Region|publisher=[[Massachusetts Institute of Technology]] Global Airline Industry Program|access-date=2013-03-20}}</ref>
+
+== References ==
+{{reflist }}
+
+== External links ==
+{{wiktionary|passenger}}
+{{commonscat-inline|Passengers}}
+
+{{Authority control}}
+[[Category:Transport]]
