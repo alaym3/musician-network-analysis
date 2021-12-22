@@ -1,8 +1,8 @@
 # MusicianNetworkAnalysis
 
-This project contains files and notebooks that analyse the network of essentially all musicians on Wikipedia. The accompanying files must be downloaded to ensure the notebooks run successfully.
+This project contains files and notebooks that analyse the network of essentially all musicians on Wikipedia, which is shown in [this website](https://sites.google.com/view/avalanche-of-music/). The accompanying files must be downloaded to ensure the notebooks run successfully.
 
-**Notebook FullNetwork.ipynb contains both of the below in a single version, but it's gigantic.**
+**Notebook FullNetworkLyricAnalysis.ipynb contains both of the below in a single version, but it's gigantic.**
 
 **A. Musician Network: MusicianNetworkAnalysis.ipynb**
 
