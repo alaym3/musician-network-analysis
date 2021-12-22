@@ -2,6 +2,8 @@
 
 This project contains files and notebooks that analyse the network of essentially all musicians on Wikipedia. The accompanying files must be downloaded to ensure the notebooks run successfully.
 
+**Notebook FullNetwork.ipynb contains both of the below in a single version, but it's gigantic.**
+
 **A. Musician Network: MusicianNetworkAnalysis.ipynb**
 
 Our dataset is all about music artists and to start creating our network, we needed a list of artist's names. Rather than scraping Wikipedia's long and convoluted categories and lists of musicians, we decided on using Genius database of artists. We took all 18770 names listed on All Artists on Genius.
